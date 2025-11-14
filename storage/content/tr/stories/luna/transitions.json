@@ -1,0 +1,104 @@
+{
+  "id": "luna_transitions_story",
+  "character": "Luna",
+  "topic": "transitions",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Luna, sihirli dünyaların neşeli rehberi. Bugün seninle birlikte yeni bir maceraya çıkacağız. Geçişlerin ve değişikliklerin büyülü dünyasına adım atmaya hazır mısın? Bu yolculukta, farklı durumlarla nasıl başa çıkabileceğimizi keşfedeceğiz. Her şeyin güzel bir şekilde uyum sağladığı bir dünyayı hayal edelim. Şimdi birlikte bu maceraya başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayatımızda her gün küçük değişiklikler yaşarız. Mesela, sabahları uyanmak ve okula gitmek gibi. Bu değişiklikler bazen heyecan verici olabilir ama bazen de biraz endişe verici olabilir. Geçişler, bir durumdan diğerine geçmeyi ifade eder. Tıpkı bir masaldaki gibi, bir kapıdan diğerine geçerken neler olabileceğini hayal edebiliriz. Bu geçişleri anlamak ve onlarla başa çıkmak için birlikte eğlenceli yollar bulacağız."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Geçişleri anlamanın en iyi yollarından biri, onları oyun gibi düşünmektir. Mesela, bir gün içinde yaptığın tüm aktiviteleri düşün. Kahvaltıdan sonra oyun oynamak ve sonra öğle yemeği yemek gibi. Bu aktiviteler arasında geçiş yaparken kendini nasıl hissettiğini fark et. Bu geçişler, tıpkı bir oyun parkurundaki engeller gibi, aşılması gereken küçük zorluklar olabilir. Her biri seni daha güçlü ve daha esnek yapar."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, bu geçişleri daha eğlenceli hale getirelim! Her geçişi bir oyun olarak düşün ve kendine bir hedef belirle. Mesela, oyuncaklarını toplarken en hızlı kim olabiliriz? Ya da dişlerini fırçalarken en çok köpüğü kim yapabilir? Bu tür küçük oyunlar, geçişleri daha eğlenceli ve kolay hale getirebilir. Hadi, şimdi sen de dene ve kendi oyununu yarat!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda geçişleri oyun gibi düşünmüştük. Şimdi, bu geçişlerin bazen biraz zorlayıcı olabileceğini de kabul edelim. Mesela, yeni bir okula başlamak veya yeni bir arkadaş edinmek gibi. Bu durumlarda, kendine güvenmek ve cesaretini toplamak önemlidir. Her yeni durum, yeni bir macera ve öğrenme fırsatı sunar. Birlikte bu yeni maceralara nasıl yaklaşabileceğimizi keşfedeceğiz."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Eğer bir geçiş seni endişelendiriyorsa, derin bir nefes al ve rahatla. Üç derin nefes alarak kendini daha iyi hissedebilirsin. Nefes alırken, gökyüzündeki bulutları ya da denizdeki dalgaları hayal et. Bu, zihnini sakinleştirir ve seni rahatlatır. Her nefes alışında, yeni bir başlangıç yaptığını düşün. Şimdi, birlikte nefes alalım: Bir, iki, üç... Harika!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, geçişlerin olumlu yanlarına odaklanalım. Her yeni durum, yeni arkadaşlıklar ve deneyimler demektir. Mesela, yeni bir sınıfta farklı oyunlar oynayabilir ve yeni şeyler öğrenebilirsin. Her değişiklik, seni daha güçlü ve daha yetenekli yapar. Bu yüzden, değişikliklerden korkmak yerine onları kucaklamalıyız. Her yeni gün, yeni bir macera ve keşif dolu olabilir."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, seninle birlikte bir hayal kuralım. Kendimizi sihirli bir ormanda hayal edelim. Bu ormanda her ağaç, farklı bir macera sunuyor. Yeni bir ağaca tırmanmak gibi, her geçiş de yeni bir şey öğrenme fırsatı sunar. Bu maceralar, seni daha cesur ve daha meraklı yapar. Hadi, şimdi bu sihirli ormanda yola çıkalım ve maceralarımızı keşfedelim!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hatırlıyor musun, daha önce hangi geçişleri yaşadın? Belki de yeni bir oyun öğrenmek veya yeni bir arkadaş edinmek gibi. Bu geçişlerde kendini nasıl hissettin? Bunu düşünmek, gelecekteki geçişlerle başa çıkmana yardımcı olabilir. Şimdi, seninle bu geçişleri konuşmak istiyorum. Hadi, bana en sevdiğin geçiş anını anlat!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda geçişlerin nasıl hissettirdiğini düşündük. Şimdi, bu geçişlerin sana neler kazandırdığını düşünelim. Her yeni deneyim, seni daha bilgili ve daha güçlü yapar. Tıpkı bir kitabın sayfalarını çevirmek gibi, her sayfa yeni bir hikaye sunar. Sen de her geçişte yeni bir hikaye yazıyorsun. Bu hikayeler, senin büyüme yolculuğunun bir parçası."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, geçişleri daha kolay hale getirmek için bir ipucu vereceğim. Her sabah, yeni bir güne başlarken bir hedef belirle. Bu hedef, kendine güvenmeni ve günü daha iyi geçirmeni sağlar. Mesela, bugün yeni bir şey öğrenmek veya yeni bir arkadaş edinmek gibi. Bu, seni daha motive eder ve gününü daha anlamlı kılar. Hadi, şimdi birlikte bir hedef düşünelim."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda hedef belirlemenin önemini konuşmuştuk. Şimdi, bu hedeflere ulaşmak için nasıl adımlar atabileceğimizi düşünelim. Küçük adımlar atarak büyük hedeflere ulaşabiliriz. Mesela, her gün biraz daha fazla kitap okumak gibi. Bu, seni daha bilgili yapar ve kendine olan güvenini artırır. Her adım, seni hedeflerine biraz daha yaklaştırır."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, seninle birlikte bir hedef belirleyelim ve bu hedefe ulaşmak için adımlar atalım. Hedefin ne olursa olsun, küçük adımlar atarak başarabilirsin. Önemli olan, pes etmemek ve devam etmektir. Her adımda, kendine 'Bunu yapabilirim!' demeyi unutma. Hadi, şimdi birlikte bu adımları atalım ve hedefimize ulaşalım!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Birlikte belirlediğimiz hedefi hatırlıyor musun? Bu hedefe ulaşmak için hangi adımları attık? Bu adımları düşünmek, gelecekteki hedeflerin için sana ilham verebilir. Şimdi, seninle bu hedefler hakkında konuşmak istiyorum. Hadi, bana en sevdiğin hedefi ve bu hedefe nasıl ulaştığını anlat!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün seninle birlikte harika bir yolculuğa çıktık. Geçişlerin ve değişikliklerin büyülü dünyasını keşfettik. Her değişikliğin yeni bir macera ve öğrenme fırsatı sunduğunu gördük. Şimdi, bu bilgileri kullanarak gelecekteki geçişlerle daha kolay başa çıkabilirsin. Unutma, her gün yeni bir başlangıç ve yeni bir macera demektir. Bir sonraki buluşmamıza kadar, kendine iyi bak ve hayal kurmayı unutma!"
+    }
+  ],
+  "title": "Luna'ın Transitions Hikayesi"
+}

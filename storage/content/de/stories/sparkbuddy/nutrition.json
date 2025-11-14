@@ -1,0 +1,104 @@
+{
+  "id": "spark_buddy_Ernährung_gesundes_Essen_Essgewohnheiten_gesunde_Lebensmittel_story",
+  "character": "Spark Buddy",
+  "topic": "Ernährung, gesundes Essen, Essgewohnheiten, gesunde Lebensmittel",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Spark Buddy, dein fröhlicher Begleiter. Heute gehen wir auf eine spannende Reise und lernen alles über gesunde Ernährung. Weißt du, wie wichtig es ist, gesund zu essen? Es hilft uns, stark und voller Energie zu sein, genau wie ich! Bist du bereit, alles darüber zu erfahren? Lass uns zusammen die Welt der gesunden Lebensmittel entdecken!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, dass wir über gesunde Ernährung sprechen? Gesundes Essen gibt uns die Kraft, den ganzen Tag zu spielen und zu lernen. Früchte wie Äpfel und Bananen sind voller Vitamine, die uns helfen, groß und stark zu werden. Gemüse wie Karotten und Brokkoli sind auch sehr wichtig. Sie machen unsere Augen stark und unsere Knochen robust. Ist das nicht toll? Jetzt lass uns mehr über andere gesunde Lebensmittel erfahren."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn wir über gesunde Essgewohnheiten sprechen, bedeutet das, dass wir regelmäßig und in Maßen essen. Es ist gut, drei Mahlzeiten am Tag zu haben: Frühstück, Mittagessen und Abendessen. Frühstück ist besonders wichtig, denn es gibt uns Energie für den ganzen Morgen. Ein gutes Frühstück kann Haferflocken mit Früchten oder ein leckeres Vollkornbrot sein. Erinnerst du dich an ein leckeres Frühstück, das du hattest? Jetzt lass uns über das Mittagessen sprechen."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Mittagessen ist die Zeit, um wieder Kraft zu tanken, nachdem wir den ganzen Vormittag gespielt haben. Ein gesundes Mittagessen könnte aus Reis, Gemüse und einem Stück Fleisch oder Tofu bestehen. Es ist wichtig, ein bisschen von allem zu essen, damit unser Körper alle Nährstoffe bekommt, die er braucht. Großartig, wenn du das schon machst! Und vergiss nicht, viel Wasser zu trinken. Wasser ist genauso wichtig wie das Essen selbst."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über das Mittagessen gesprochen haben, lass uns das Abendessen nicht vergessen. Ein leichtes Abendessen hilft uns, gut zu schlafen. Vielleicht eine Gemüsesuppe oder ein kleiner Salat mit Hähnchen. Und weißt du was? Es ist auch in Ordnung, ein kleines Dessert zu haben, solange es nicht zu viel Zucker enthält. Manchmal ist ein Stück Obst der perfekte Nachtisch. Jetzt, wo du alles über Mahlzeiten weißt, sprechen wir über Snacks."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Snacks können sehr nützlich sein, wenn wir zwischen den Mahlzeiten hungrig sind. Ein gesunder Snack könnte ein Apfel, ein paar Nüsse oder ein Joghurt sein. Aber wir sollten darauf achten, dass wir nicht zu viele ungesunde Snacks wie Chips oder Süßigkeiten essen. Sie schmecken zwar gut, aber sie geben uns nicht die Energie, die wir wirklich brauchen. Wenn du das nächste Mal einen Snack möchtest, versuche etwas Gesundes zu wählen. Das wird dir helfen, dich besser zu fühlen."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt, da du so viel über gesunde Ernährung weißt, kannst du eine Essgewohnheit auswählen, die du ändern möchtest. Vielleicht möchtest du mehr Wasser trinken oder mehr Gemüse essen. Großartig, wenn du das schon tust! Und vergiss nicht, dass es in Ordnung ist, ab und zu ein kleines Leckerli zu haben. Du machst das super, und ich bin stolz auf dich! Lass uns nun über Bewegung sprechen, die zu einer gesunden Ernährung dazugehört."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bewegung ist genauso wichtig wie gesundes Essen. Wenn wir uns bewegen, bleiben wir fit und gesund. Spiele wie Fangen oder Verstecken sind nicht nur lustig, sondern auch gut für unseren Körper. Vielleicht kannst du heute ein neues Spiel ausprobieren, das du noch nicht kennst. Und wenn du mit Freunden spielst, macht es noch mehr Spaß! Nun, da du weißt, wie wichtig Bewegung ist, lass uns über den Schlaf sprechen."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Schlaf ist die Zeit, in der unser Körper sich erholt und wächst. Wenn wir gut schlafen, fühlen wir uns am nächsten Tag voller Energie. Es ist wichtig, dass wir jeden Abend ungefähr zur gleichen Zeit ins Bett gehen. Eine gute Schlafroutine könnte ein warmes Bad und eine Geschichte vor dem Schlafengehen sein. Hast du eine Lieblingsgeschichte, die du gerne hörst? Erzähl sie mir beim nächsten Mal!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das schon so gut, kleiner Freund! Denke daran, dass gesunde Ernährung, Bewegung und guter Schlaf alle zusammenarbeiten, damit du dich stark und glücklich fühlst. Wenn du diese Dinge regelmäßig machst, wirst du sehen, wie gut du dich fühlst. Es ist wirklich wunderbar, was unser Körper alles kann, wenn wir gut auf ihn achten. Lass uns jetzt eine kleine Übung zusammen machen!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Magst du Überraschungen? Ich habe eine kleine Frage für dich: Was ist dein Lieblingsobst? Vielleicht ist es eine Banane oder ein Apfel? Oder magst du lieber eine saftige Orange? Es gibt so viele leckere Früchte, die wir ausprobieren können. Wenn du das nächste Mal im Supermarkt bist, kannst du vielleicht eine neue Frucht ausprobieren. Ich bin gespannt, was du wählst!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über gesunde Snacks gesprochen haben? Es gibt so viele Möglichkeiten, leckere und gesunde Snacks zu genießen. Vielleicht kannst du zusammen mit deinen Eltern einen Obstsalat machen. Schneide ein paar deiner Lieblingsfrüchte und mische sie zusammen. Es macht Spaß, und es ist sehr gesund! Nun, da wir über Snacks gesprochen haben, lass uns über das Teilen sprechen."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Teilen ist eine wunderbare Möglichkeit, Freude zu verbreiten. Wenn du einen leckeren Snack hast, kannst du ihn mit einem Freund oder einem Geschwisterchen teilen. Es fühlt sich gut an, anderen eine Freude zu machen. Und wer weiß, vielleicht teilen sie auch etwas mit dir! Teilen macht Spaß und bringt uns zusammen. Nun, da wir das wissen, lass uns über ein gesundes Getränk sprechen."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wasser ist das beste Getränk, das wir haben können. Es hält uns hydratisiert und hilft unserem Körper, richtig zu funktionieren. Wenn du durstig bist, greife zuerst zu einem Glas Wasser. Es ist erfrischend und genau das, was dein Körper braucht. Und denk daran, immer eine Wasserflasche dabei zu haben, wenn du draußen spielst. Du machst das großartig! Jetzt, da wir das besprochen haben, lass uns zum Schluss kommen."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über gesunde Ernährung und Lebensgewohnheiten zu sprechen! Du hast so viel gelernt und ich bin stolz auf dich. Denk daran, gesund zu essen, dich zu bewegen und gut zu schlafen. Das sind die Geheimnisse, um stark und glücklich zu sein. Ich freue mich schon auf unser nächstes Abenteuer zusammen. Bis bald, mein kleiner Freund! Mach's gut und bleib gesund!"
+    }
+  ],
+  "title": "Spark Buddys Nutrition Geschichte"
+}

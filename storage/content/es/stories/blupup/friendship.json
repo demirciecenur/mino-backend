@@ -1,0 +1,104 @@
+{
+  "id": "blu_pup_friendship_story",
+  "character": "Blu Pup",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Blu Pup y hoy vamos a embarcarnos en una aventura increíble sobre la amistad. La amistad es algo muy especial que nos hace sentir felices y queridos. ¿Estás listo para descubrir cómo ser un buen amigo? ¡Estoy tan emocionado de compartir este viaje contigo! Juntos aprenderemos sobre compartir, jugar y cuidar a nuestros amigos."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en qué significa ser un buen amigo. Un buen amigo es alguien que comparte sus juguetes y juega contigo. También es alguien que escucha cuando tienes algo que decir. ¿Recuerdas una vez que compartiste tus juguetes con alguien? Eso es un gran ejemplo de amistad. ¡Ser un buen amigo también significa ayudar cuando alguien lo necesita!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a aprender cómo podemos hacer nuevos amigos. Cuando conoces a alguien nuevo, puedes sonreír y decir '¡Hola!'. Pregunta su nombre y cuéntale el tuyo. Es como abrir una puerta a una nueva amistad. ¿Te gustaría intentar esto la próxima vez que conozcas a alguien nuevo? Practiquemos juntos: '¡Hola! Me llamo Blu Pup. ¿Cómo te llamas?'"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora, pensemos en actividades que podemos hacer con nuestros amigos. Jugar en el parque, dibujar juntos o incluso leer un cuento. Todas estas cosas son más divertidas con amigos. ¿Cuál es tu actividad favorita para hacer con tus amigos? ¡Recuerda siempre invitar a tus amigos a jugar contigo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos también que a veces los amigos pueden estar tristes o enojados. Es importante ser comprensivo y preguntarles cómo se sienten. Puedes decir 'Estoy aquí si necesitas hablar'. Esto muestra que te importa. ¿Alguna vez has ayudado a un amigo cuando estaba triste? ¡Eso es ser un amigo increíble!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "A veces, compartir puede ser difícil, pero es una parte importante de la amistad. Imagina que tienes un juguete favorito y un amigo quiere jugar con él. Compartirlo puede hacer que ambos se diviertan mucho más. Practiquemos juntos diciendo: '¿Quieres jugar con mi juguete? Podemos compartir.' ¡Qué bien lo haces!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Recuerda que los amigos también se apoyan mutuamente. Si ves a un amigo intentando algo nuevo, puedes decir '¡Tú puedes hacerlo!' Esto le dará confianza. ¿Alguna vez has intentado algo nuevo y un amigo te animó? ¡Eso se siente genial, verdad! Siempre es bueno tener un amigo que cree en ti."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, podemos tener desacuerdos con nuestros amigos, ¡y eso está bien! Lo importante es hablar y resolverlo juntos. Puedes decir 'Lo siento' si has hecho algo que lastimó a tu amigo. O puedes preguntar '¿Cómo podemos solucionarlo?' Resolver problemas juntos fortalece la amistad. ¿No es maravilloso?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora, tengo una pregunta para ti. ¿Cuál es la cosa más divertida que has hecho con un amigo? Piensa en un momento especial que te hizo reír mucho. ¿Fue un juego, una canción o tal vez una aventura? Me encantaría escuchar lo que más disfrutas hacer con tus amigos. ¡Qué recuerdos tan bonitos podemos crear juntos!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas cuando hablamos de compartir? Vamos a ver cómo podemos practicar esto cada día. Cuando estés en casa, intenta compartir tus juguetes con tus hermanos o amigos. Es un pequeño acto que hace una gran diferencia. ¿Te gustaría intentar compartir algo hoy? ¡Estoy seguro de que lo harás genial!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad también significa celebrar los logros de tus amigos. Si un amigo hace algo especial, como dibujar un bonito dibujo o correr rápido, ¡podemos felicitarlo! Puedes decir '¡Buen trabajo!' o '¡Estoy orgulloso de ti!'. Esto les hace sentir bien y les muestra que te importa. ¡Celebrar juntos es muy divertido!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar cómo ser buenos oyentes. Cuando un amigo te habla, míralo a los ojos y escucha atentamente. Puedes decir 'Entiendo' o 'Cuéntame más'. Esto les muestra que te interesa lo que dicen. ¿Te gustaría practicar esto la próxima vez que hables con un amigo? ¡Escuchar es una parte importante de la amistad!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estás aprendiendo tanto sobre la amistad! Recuerda que cada amigo es especial y único. Todos tenemos diferentes gustos y eso es lo que hace que la amistad sea tan emocionante. La próxima vez que estés con un amigo, intenta descubrir algo nuevo sobre él. ¡Estoy seguro de que encontrarás algo interesante!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Antes de terminar, quiero preguntarte algo más. ¿Qué es lo que más te gusta de tus amigos? ¿Es la forma en que te hacen reír o cómo siempre están ahí para jugar contigo? Piensa en tus amigos y lo que hace que cada uno sea especial para ti. ¡La amistad es realmente un tesoro!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido maravilloso hablar sobre la amistad contigo hoy. Espero que hayas aprendido mucho y que estés emocionado de ser un gran amigo. Recuerda siempre ser amable, compartir y escuchar. ¡Estoy seguro de que harás muchos amigos increíbles! Gracias por acompañarme en esta aventura. ¡Nos vemos pronto, pequeño amigo!"
+    }
+  ],
+  "title": "Historia de Friendship de Blu Pup"
+}

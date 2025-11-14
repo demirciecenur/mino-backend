@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_confidence_story",
+  "character": "Spider Fighter",
+  "topic": "confidence",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Spider Fighter. Bugün birlikte özgüven hakkında harika bir yolculuğa çıkacağız. Özgüven, kendine inanmak ve her durumda cesur olmak demektir. Hazır mısın? Seni çok merak ediyorum."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven, tıpkı bir örümcek ağı gibi güçlü ve dayanıklı olmayı gerektirir. Bazen yeni bir şey denerken biraz korkmuş hissedebiliriz. Ama unutma, her yeni deneyim bize daha çok şey öğrenme fırsatı sunar. Tıpkı bir süper kahraman gibi, sen de kendi yeteneklerini keşfetmelisin. Şimdi, bu maceranın ilk adımını birlikte atalım!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özgüveni arttırmanın yollarından biri, küçük başarılarla başlamak. Örneğin, oyuncaklarını toplamak gibi basit bir görevle başlayabilirsin. Bu tür görevler, başardıkça sana kendini daha güçlü ve yetenekli hissettirir. Unutma, her başarı, bir sonraki adım için seni daha da cesaretlendirir. Şimdi, seninle bir başarı listesi yapalım mı?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika işler başarıyorsun! Şimdi birlikte derin bir nefes alalım ve kendimize inanalım. Bunu yaparken, 'Ben bunu yapabilirim!' diye içinden söyle. Bu basit ama güçlü cümle, sana her zaman cesaret verir. Her nefes alışta, kendine olan güvenin biraz daha artacak. Haydi, birlikte deneyelim!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda, oyuncakları toplamak gibi küçük görevlerden bahsetmiştik. Şimdi, bu görevleri nasıl daha eğlenceli hale getirebiliriz, ona bakalım. Mesela, bir yarış yaparak oyuncaklarını toplamak nasıl olurdu? Hem eğlenir hem de kendine olan güvenini pekiştirirsin. Unutma, bu senin maceran ve her adımda daha da güçleniyorsun!"
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım. Bu oyunda, her doğru cevap için bir kahraman puanı kazanacaksın. Kahraman puanları, özgüvenini artıracak. Hazır mısın? Hadi başlayalım ve bakalım kaç kahraman puanı toplayabileceksin!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Her kahraman gibi, sen de bazen zorlanabilirsin. Ama bu, pes etmen gerektiği anlamına gelmez. Zorluklar, sana yeni şeyler öğretir ve seni daha güçlü yapar. Tıpkı bir ağ örerken sabırla çalışmak gibi, sen de sabırlı olmalısın. Her zorluk, yeni bir başarıya açılan kapıdır."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, birlikte üç derin nefes alalım. Bu nefesler, seni sakinleştirecek ve odaklanmana yardımcı olacak. Nefes alırken kendine 'Ben güçlüyüm!' diye söyle. Bu, seni her zaman cesaretlendirecek bir mantra olabilir. Haydi, birlikte deneyelim ve nasıl hissettiğine bakalım!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, özgüvenin bir başka önemli yönüne bakalım. Başkalarına yardım etmek de kendine olan güvenini artırır. Bir arkadaşına yardım ettiğinde, hem kendini hem de onu mutlu edersin. Bu, senin ne kadar özel ve güçlü biri olduğunu gösterir. Sen de çevrendeki insanlara yardım ederek kahramanlık yapabilirsin!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte bir kahramanlık hikayesi düşünelim. Mesela, bir arkadaşının üzgün olduğunu fark ettin ve ona yardım etmek istiyorsun. Onunla konuşarak, ona destek olabilirsin. Bu, senin ne kadar cesur ve güçlü olduğunu gösterir. Senin gibi bir kahraman, her zaman başkalarına yardım edebilir!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bir arkadaşına yardım ettiğinde nasıl hissettiğini hatırlıyor musun? O anlarda kendini nasıl güçlü hissettiğini düşündün mü? Bu tür anlar, özgüvenini artırmak için harikadır. Sen de böyle anılar biriktiriyor musun? Paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda, başkalarına yardım etmenin ne kadar önemli olduğundan bahsetmiştik. Şimdi, bu yardımın sana nasıl geri döndüğünü düşünelim. Yardım ettiğinde, arkadaşların da sana yardım etmek isteyecektir. Bu, güçlü bir dostluk ağı oluşturur. Tıpkı bir örümcek ağı gibi, bu ağ da güçlü ve dayanıklıdır."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, birlikte beşe kadar sayalım ve her sayıda bir kahraman gibi güçlü olduğumuzu hissedelim. Bir, iki, üç, dört, beş! Her adımda daha güçlü ve daha özgüvenli hissetmek harika değil mi? Bu basit egzersiz, seni her zaman cesaretlendirebilir. Haydi, şimdi sen de dene!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bugün ne kadar harika işler başardık, fark ettin mi? Her adımda özgüvenin biraz daha arttı. Seninle bu yolculuğa çıkmak çok güzeldi. Unutma, sen her zaman bir kahramansın ve her şeyi başarabilirsin. Şimdi, bu macerayı tamamladık ve birlikte çok şey öğrendik!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bu harika macera için teşekkür ederim, küçük kahraman! Özgüvenin tıpkı bir örümcek ağı gibi güçlü ve dayanıklı olsun. Unutma, sen her zaman kendi hikayenin kahramanısın. Bir sonraki macerada görüşmek üzere! Hoşça kal ve hep cesur ol!"
+    }
+  ],
+  "title": "Spider Fighter'ın Confidence Hikayesi"
+}

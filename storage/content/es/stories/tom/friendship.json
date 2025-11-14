@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_friendship_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy el Gato Travieso Tom. Hoy vamos a embarcarnos en una increíble aventura sobre la amistad. ¿Estás listo? Estoy tan emocionado de aprender sobre tus amigos y cómo juegas con ellos. La amistad es algo muy especial que nos hace sonreír. ¡Vamos a descubrirlo juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad es cuando dos personas se cuidan mutuamente y disfrutan pasar tiempo juntas. Es como cuando juegas con tu mejor amigo en el parque. ¿Sabías que los amigos pueden ser diferentes y aún así llevarse bien? Tener amigos es importante porque nos hacen sentir felices y nunca solos. Ahora, vamos a explorar cómo podemos ser buenos amigos."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para ser un buen amigo, es importante compartir tus juguetes y turnarse al jugar. Por ejemplo, si tienes un coche de juguete, puedes dejar que tu amigo lo use por un rato. También puedes ayudar a tu amigo si se siente triste, como darle un gran abrazo. Ser amable y escuchar es otra forma de mostrar que te importa. ¿Estás listo para intentarlo?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a practicar juntos! Imagina que estás en el parque y ves a un niño que quiere jugar contigo. Puedes decirle '¡Hola! ¿Quieres unirte a nosotros?' Así, estás siendo amigable y haciendo que todos se sientan incluidos. ¡Es tan divertido jugar juntos! Recuerda siempre sonreír y ser amable. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos cómo ser buenos amigos, hablemos sobre lo que nos gusta hacer con ellos. A algunos les encanta jugar a las escondidas, mientras que otros prefieren construir cosas con bloques. ¿Cuál es tu juego favorito? Compartir tus pasatiempos con amigos hace que todo sea más divertido. ¡La aventura es más emocionante cuando es compartida!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas la última vez que jugaste con un amigo? Puede que hayas compartido risas o incluso aprendido algo nuevo. Los amigos nos ayudan a descubrir cosas que no sabíamos que nos gustaban. Tal vez inventaste un juego nuevo o contaste una historia divertida. ¡Qué maravillosos recuerdos creamos con nuestros amigos!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, puede que tengamos diferencias con nuestros amigos, y eso está bien. Es importante hablar y resolver los problemas juntos. Si un amigo se siente triste, podemos preguntar, '¿Cómo puedo ayudarte?' Así mostramos que nos importa. Resolver problemas juntos fortalece la amistad. ¡Siempre hay una solución cuando trabajamos en equipo!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar cómo ser buenos oyentes. Cuando un amigo te habla, asegúrate de mirarlo a los ojos y prestar atención a lo que dice. Puedes asentir con la cabeza o hacer preguntas para mostrar interés. Así, tu amigo sabrá que estás escuchando de verdad. ¡Escuchar es una parte importante de ser un buen amigo!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Tienes algún amigo especial en mente ahora mismo? ¿Qué es lo que más te gusta hacer con él? Tal vez te encanta dibujar juntos o contar historias antes de dormir. ¿Cómo te sientes cuando estás con tu amigo? Esas son emociones muy especiales que hacen que la amistad sea mágica. ¿No es maravilloso tener a alguien con quien compartir?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, podemos hacer nuevos amigos en lugares inesperados. Por ejemplo, en una fiesta de cumpleaños o en la escuela. Ser valiente y presentarte puede ser el primer paso. Puedes decir, '¡Hola! Soy Tom. ¿Te gustaría jugar conmigo?' Así, puedes comenzar una nueva amistad. ¡Cada nuevo amigo trae nuevas aventuras!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a hacer un ejercicio de respiración juntos! Inhala profundamente por la nariz, uno, dos, tres, y exhala por la boca, uno, dos, tres. Esto nos ayuda a sentirnos calmados y listos para jugar con nuestros amigos. Puedes hacer este ejercicio cuando te sientas nervioso o emocionado. ¡Es un gran truco para relajarse!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Los amigos también nos enseñan cosas nuevas y nos ayudan a crecer. Tal vez aprendas a montar bicicleta o a contar hasta diez. ¿Recuerdas cuando aprendiste algo nuevo con un amigo? Esos momentos son valiosos y hacen que nuestra amistad sea más fuerte. ¡Aprender juntos es una gran aventura!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora, hablemos sobre cómo podemos recordar a nuestros amigos cuando no están cerca. Puedes hacer un dibujo especial o escribir una pequeña nota para ellos. También puedes contarle a tus padres sobre tus aventuras juntos. Así, siempre tendrás un recuerdo de tu amigo especial. ¿No es genial tener cosas que nos recuerden a nuestros amigos?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, los amigos pueden vivir lejos, pero eso no significa que no podemos seguir siendo amigos. Podemos enviarles cartas o dibujos para hacerles saber que pensamos en ellos. También podemos hablar por teléfono o video para compartir nuestras historias. La distancia no puede romper una verdadera amistad. ¡Siempre encontraremos una manera de estar conectados!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un día maravilloso aprendiendo sobre la amistad contigo. Espero que hayas disfrutado tanto como yo. Recuerda, ser un buen amigo es algo que podemos practicar todos los días. Estoy muy orgulloso de ti por querer ser un gran amigo. Hasta la próxima, pequeño amigo. ¡Adiós y cuida bien de tus amigos!"
+    }
+  ],
+  "title": "Historia de Friendship de Sneaky Cat Tom"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "adventure_dora_pal_screen_time_story",
+  "character": "Adventure Dora Pal",
+  "topic": "screen_time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little explorer! I'm Adventure Dora Pal, and today, we're going on an exciting journey to learn about screen time. Are you ready to discover something new with me? I love learning new things, just like you! Together, we'll find out how we can have fun with screens and also enjoy other activities. Let's get ready for our adventure!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, do you know what screen time is? It's the time we spend looking at screens, like when we watch cartoons or play games on a tablet. Screen time can be lots of fun, but it's important to balance it with other activities. Just like how we eat different foods to stay healthy, doing different activities helps us grow strong and smart. Let's explore how we can make screen time a part of our day in a healthy way!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about balance? Well, balance means doing all sorts of things, not just one thing all the time. Think about how much fun you have playing outside or reading a book. These activities are also important for us to learn and grow. So, when we enjoy our screen time, it's good to also make time for playing, reading, and exploring the world around us."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's think about our favorite activities! Do you like drawing or playing with building blocks? Maybe you love playing outside or helping in the kitchen. Isn't it exciting to try new things? You can do all these fun activities, and they can help you learn new skills. Remember, you're amazing, and you can do anything you set your mind to!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's talk about how screens can help us learn too. Have you ever watched a show that taught you something new, like how animals live or how to count? Screens can be great teachers if we choose the right things to watch. But just like we need a break from running around, we also need breaks from screens. It's like giving our eyes a nice little rest."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's imagine we're on a treasure hunt! Each day, we can find treasures in different activities. We can spend some time with screens, and then find treasures in drawing, reading, or playing outside. It's like having a big chest full of fun things to do. Making time for all these activities keeps our days exciting and full of adventure!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You are doing such a great job exploring new activities! Every time you try something new, you learn and grow. Isn't that wonderful? Whether it's learning a new word or playing a new game, every little thing you do is special. Keep exploring and discovering, because you're a fantastic adventurer!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I'm curious, what is your favorite thing to do when you're not using a screen? Do you like playing with friends, or maybe you love reading stories? There are so many fun things to do! Can you think of something new you might want to try today? I'd love to hear your ideas!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about taking breaks from screens? It's like having a little rest for our eyes and mind. After a break, screens become even more fun! So, let's make sure we have plenty of time for both screens and other exciting adventures. What do you think we could do next?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's think about all the wonderful things we can do in a day. We can play games, read stories, and even create our own adventures. Every day is like a new page in a storybook, full of possibilities. Just like we love watching our favorite shows, we can also create our own stories with our imagination. Isn't that exciting?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Here's a fun idea! Why don't we make a list of activities we want to try? We can include screen time and other activities like playing outside, building with blocks, or drawing a picture. This way, we can make sure we're having fun in lots of different ways. Are you ready to plan your adventures for the day?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a fantastic job exploring and trying new things! Every new thing you learn is like a little star in the sky, making your world brighter. Keep shining and discovering, because you are truly amazing. Let's keep this adventure going and see what else we can learn together!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite story or game you like to play on a screen? It's fun to have our favorites, isn't it? But remember, we can also create our own stories and games without screens. What kind of story would you like to create today? Let's imagine it together!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Let's think about all the fun we had today, learning about balance and screen time. We discovered so many activities we can do, both with and without screens. It's like having a big, colorful world to explore. Every day is an adventure, and you're the hero of your own story. What adventure will you go on next?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this wonderful adventure, little explorer! Remember, screen time is fun, but there's a whole world of adventures waiting for you. Keep exploring, keep learning, and most importantly, keep having fun. Until next time, I'll be waiting for our next exciting journey together. Goodbye, and see you soon!"
+    }
+  ],
+  "title": "Adventure Dora Pal's Screen Time Story"
+}

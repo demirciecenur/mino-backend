@@ -1,0 +1,98 @@
+{
+  "id": "clever_mouse_jerry_imagination_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "imagination",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Clever Mouse Jerry. Bugün birlikte hayal gücümüzün kapılarını aralayacağız. Hayal kurmak ne kadar eğlenceli, değil mi? Hayal gücü, bizi hiç bilmediğimiz yerlere götürebilir. Hazırsan, birlikte bu büyülü yolculuğa başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücü, aklımızda canlandırdığımız şeylerdir. Mesela, gözlerini kapatıp kendini bir süper kahraman olarak hayal edebilirsin. Ya da belki bir prenses ya da bir korsan olmak istersin. Hayal gücü sayesinde her şey mümkün! Bir önceki konuşmamızda hayal gücünün ne kadar güçlü olduğunu söylemiştik. Şimdi hayal gücümüzle neler yapabileceğimizi keşfedelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hayal kurarken gözlerini kapat ve derin bir nefes al. Kendini büyük bir geminin kaptanı olarak düşün. Dalgalı denizlerde yol alıyorsun ve yeni adalar keşfediyorsun. Hayal gücünle o adalarda neler bulabilirsin? Belki de orada senin gibi başka küçük fareler vardır! Bu tür hayaller kurmak, yaratıcılığımızı geliştirir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım. İki elimizi açalım ve büyük bir dağ düşünelim. Bu dağın tepesine çıkmak için hangi maceraları yaşarız? Belki de bir ejderha ile karşılaşırız. Sen de bu maceraya katılmak ister misin? Hayal gücünle her şey mümkün!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki maceramızda bir dağın tepesine çıkmıştık. Şimdi bir uzay yolculuğuna çıkalım. Uzayda yıldızlar arasında süzüldüğünü düşün. Belki de başka gezegenlerde yaşayan arkadaşlar bulursun. Hayal gücünle uzayda bile macera yaşamak mümkün. Bu tür yolculuklar, hayal gücümüzü daha da genişletir."
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkardın! Şimdi hayal gücünü daha da ileriye taşıyalım. Bir ormanda yürüdüğünü ve yeni hayvanlarla tanıştığını hayal et. Belki de konuşan bir kuşla sohbet ediyorsun. Hayal gücünle bu ormanı daha da büyüleyici hale getirebilirsin. Senin yaratıcılığın sınırsız!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi hayal gücünü kullanarak bir resim çizelim. Kağıdı al ve bir kalemle hayal ettiğin dünyayı çizmeye başla. Belki de renkli bir gökkuşağı ya da uçan balinalar çizmek istersin. Hayal gücünle bu resim daha da canlı hale gelecek. Çizdikten sonra resmini sevdiklerinle paylaşabilirsin."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede harika bir resim çizdik. Şimdi, hayal gücümüzle bir hikaye yazalım. Hikayenin baş kahramanı kim olsun? Belki senin gibi cesur bir fare olabilir. Bu hikaye, hayal gücünle dolu maceralarla dolup taşsın. Hayal gücüyle yazmak, düşüncelerimizi daha da zenginleştirir."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ne kadar güzel bir hikaye yazdın! Şimdi hayal gücünle bir şarkı bestelemeye ne dersin? Şarkının sözlerini hayal ettiğin dünyadan esinlenerek oluşturabilirsin. Belki de bir denizkızı şarkısı ya da bir orman melodisi olabilir. Hayal gücünle müzik yapmak çok eğlenceli!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sen de hayal gücünle başka neler yapabileceğini düşündün mü? Belki de sihirli bir değnekle her şeyi değiştirebilirsin. Peki, sen hayal gücünle neler yapmayı hayal ediyorsun? Hayal gücünle yaratabileceğin şeyler sınırsız. Büyük hayaller kurmaya devam et!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda hayal gücümüzle neler yapabileceğimizi düşündük. Şimdi, hayal gücümüzü kullanarak bir oyun oynayalım. Bir tiyatro sahnesinde olduğumuzu hayal edelim ve rol yapalım. Sen hangi karakter olmak istersin? Bu oyun, hayal gücümüzü daha da geliştirir."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir rol yaptın! Şimdi hayal gücümüzle bir dans yaratalım. Müzik çaldığını ve senin de dans ettiğini hayal et. Belki de bir kelebek gibi dans ediyorsun. Hayal gücünle dans etmek çok eğlenceli ve yaratıcıdır. Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede harika bir dans ettik. Şimdi, hayal gücümüzle bir bulmaca çözelim. Bulmacamızda kaybolan bir hazineyi bulmaya çalışıyoruz. Hayal gücünle bu hazineyi bulmak için ipuçları yaratabilirsin. Bu tür bulmacalar, düşünme becerilerimizi geliştirir."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün hayal gücümüzle harika bir yolculuk yaptık. Hayal kurmak, yaratıcılığımızı ve düşünme becerilerimizi geliştirir. Her gün biraz daha hayal kurmayı unutma. Her şey hayal gücüyle başlar. Bir sonraki maceramızda görüşmek üzere. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Clever Mouse Jerry'ın Imagination Hikayesi"
+}

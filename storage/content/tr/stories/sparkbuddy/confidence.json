@@ -1,0 +1,104 @@
+{
+  "id": "spark_buddy_confidence_story",
+  "character": "Spark Buddy",
+  "topic": "confidence",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Spark Buddy. Bugün birlikte özgüven hakkında harika bir yolculuğa çıkacağız. Özgüven, kendimize inandığımızda ve başarabileceğimizi hissettiğimizde ortaya çıkan harika bir duygudur. Hazır mısın? Seni çok merak ediyorum ve birlikte eğlenceli zaman geçireceğimize eminim."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven, tıpkı bisiklet sürmeyi öğrenmek gibi zamanla gelişir. İlk denemede biraz korkabilirsin ama denedikçe daha iyi olursun. Başarıya ulaşmak için kendine inanmak en önemli adımdır. Mesela, oyuncaklarını tek başına topladığında hissettiğin o gurur duygusu var ya, işte o özgüven! Kendine inandıkça daha fazlasını başarabilirsin."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, özgüvenimizi nasıl geliştirebileceğimize dair birkaç adım öğreneceğiz. İlk olarak, küçük hedefler koyarak başlayabiliriz. Örneğin, her gün biraz daha fazla kitap okumak veya oyuncakları düzenlemek gibi. Bu hedeflere ulaştıkça kendimizi daha güçlü hissedeceğiz. Başarılarımızı kutlamak da çok önemlidir. Her seferinde kendimize 'Aferin bana!' demeyi unutmamalıyız."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım! Gözlerini kapat ve kendini hayal et. Önünde büyük bir dağ var ve sen bu dağı tırmanmak istiyorsun. Her adımda kendine 'Ben bunu yapabilirim!' de. İşte bu, özgüvenini artırmak için harika bir egzersiz. Harika! Dağın zirvesine ulaştığını hayal et. Başardın!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven demek, her zaman her şeyi doğru yapacağımız anlamına gelmez. Bazen hata yapmak da mümkündür ve bu çok doğaldır. Önemli olan, hatalardan ders çıkarıp tekrar denemektir. Her denemede daha iyi olacağız. Hata yaptığımızda kendimize kızmak yerine, bir sonraki sefer daha iyi yapacağımızı düşünmeliyiz."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda hatalardan ders çıkarmanın öneminden bahsetmiştik. Şimdi, bir sonraki adımda ne yapacağımızı düşünelim. Kendimize her zaman nazik olmalıyız. Çünkü her yeni gün, yeni bir başlangıçtır. Yeni şeyler denemek için cesur olmalıyız. Şimdi, yeni bir şey denemeye hazır mısın?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hadi birlikte bir nefes egzersizi yapalım. Derin bir nefes al ve yavaşça ver. Bunu üç kez tekrarlayalım. Bu egzersiz, kendimize odaklanmamıza ve sakin kalmamıza yardımcı olur. Her nefeste kendimize olan inancımızı hatırlayalım. Harika! Şimdi daha iyi hissediyor musun?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Biliyor musun, özgüvenimizi artırmanın başka bir yolu da yeteneklerimizi keşfetmekten geçer. Mesela, resim yapmak veya şarkı söylemek gibi. Denemekten korkmamalıyız! Herkesin farklı yetenekleri vardır ve bunları keşfetmek çok eğlencelidir. Senin de özel bir yeteneğin olabilir. Hadi birlikte keşfedelim!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüvenli olmak, kendi yeteneklerimizi kabul etmek ve sevmek demektir. Herkesin güçlü ve zayıf yönleri vardır. Önemli olan, güçlü yanlarımızı keşfetmek ve zayıf yönlerimizi geliştirmeye çalışmaktır. Bu süreçte kendimize güvenmek, başarımızı artırır. Hadi, şimdi kendi güçlü yanlarını düşün ve onları daha da güçlendirmek için neler yapabileceğini hayal et."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Bugün özgüvenini artırmak için ne yapacaksın? Belki yeni bir şey denemek istersin ya da bir arkadaşına yardım edebilirsin. Düşüncelerini benimle paylaşır mısın? Hadi, birlikte neler yapabileceğimize bakalım!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnede özgüvenimizi artırmak için neler yapabileceğimizi düşündük. Şimdi, bu fikirleri gerçeğe dönüştürelim. Her gün küçük bir adım atmak, büyük değişiklikler yaratabilir. Unutma, her adımda kendine inandığını söylemek seni daha da güçlü yapacak. Hazırsan, şimdi bu adımları atmaya başlayalım!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özgüvenimizi artırmak için bir başka yöntem, olumlu düşünceler geliştirmektir. Her sabah kendimize 'Bugün harika bir gün olacak' diyebiliriz. Bu, günümüzü daha pozitif hale getirir. Ayrıca, kendimize 'Ben değerliyim ve başarılı olabilirim' demek de önemlidir. Bu olumlu düşünceler, kendimize olan inancımızı güçlendirir."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Eğer bir şey seni korkutuyorsa, bunu bir fırsat olarak görmelisin. Korkularımızla yüzleşmek, özgüvenimizi artırır. Mesela, karanlıktan korkuyorsan, bir gece lambasıyla uyumayı deneyebilirsin. Bu küçük adım, korkularını yenmende sana yardımcı olur. Unutma, sen çok cesur bir çocuksun!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bazen, özgüvenimizi artırmak için bir arkadaşımızdan ya da ailemizden destek almak da iyi bir fikirdir. Onlar, bize inandıklarını söylediklerinde kendimizi daha güçlü hissederiz. Bu, başarabileceğimize olan inancımızı artırır. Yanımızda sevdiklerimizin olması, özgüvenimizi destekler. Hadi, şimdi sevdiklerinle konuş ve onlardan destek al."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün özgüven hakkında çok şey öğrendik. Kendimize inanmanın ne kadar önemli olduğunu gördük. Umarım bu yolculuk senin için eğlenceli ve öğretici olmuştur. Unutma, sen harika bir çocuksun ve her şeyi başarabilirsin! Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Spark Buddy'ın Confidence Hikayesi"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_Bildschirmzeit_digitale_Sicherheit_Technologienutzung_gesunde_Bildschirmgewohnheiten_story",
+  "character": "Bubble Buddy",
+  "topic": "Bildschirmzeit, digitale Sicherheit, Technologienutzung, gesunde Bildschirmgewohnheiten",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleine Freunde! Ich bin Bubble Buddy und heute gehen wir auf ein sprudelndes Abenteuer. Wir werden über etwas ganz Spannendes sprechen: Bildschirmzeit und wie wir sicher und gesund damit umgehen können. Habt ihr Lust, mit mir auf diese Reise zu gehen? Es wird lustig und lehrreich sein, versprochen! Also, schnallt euch an, denn wir tauchen jetzt in die digitale Welt ein!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bildschirmzeit bedeutet die Zeit, die wir vor Bildschirmen verbringen, wie Fernsehern, Tablets oder Computern. Wusstet ihr, dass es wichtig ist, nicht zu viel Zeit vor Bildschirmen zu verbringen? Zu viel Bildschirmzeit kann uns müde machen und unsere Augen belasten. Deshalb ist es gut, Pausen zu machen und sich zu bewegen. Zum Beispiel könnt ihr nach einer Stunde Fernsehen eine Runde im Garten spielen oder ein lustiges Lied tanzen. So bleibt ihr fit und fröhlich!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lasst uns über digitale Sicherheit sprechen! Das bedeutet, dass wir im Internet aufpassen müssen, was wir anklicken und wem wir Informationen geben. Es ist wie in einem großen, spannenden Abenteuerpark, wo wir immer auf die Schilder achten müssen. Erzählt Mama oder Papa, wenn ihr etwas Ungewöhnliches seht, genau wie wenn ihr einen seltsamen Schatz findet. Sie können euch helfen, sicher zu bleiben. So macht das Surfen im Internet viel mehr Spaß!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lasst uns zusammen ein kleines Spiel spielen! Stellt euch vor, ihr seid digitale Detektive, die auf der Suche nach sicheren Webseiten sind. Wenn ihr eine sichere Webseite seht, hebt eure Hand und sagt: 'Ich habe es gefunden!' Das macht euch zu echten Sicherheitsexperten. Ihr seid großartig darin, auf euch und eure Daten aufzupassen. Weiter so, kleine Detektive!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert ihr euch, als wir über gesunde Bildschirmgewohnheiten gesprochen haben? Eine tolle Gewohnheit ist es, den Bildschirm auszuschalten, wenn wir essen. So können wir unser Essen besser genießen und mit unserer Familie sprechen. Es ist wie ein lustiges Picknick, bei dem alle zusammen lachen und Geschichten erzählen. Und wenn wir fertig sind, können wir gemeinsam ein lustiges Spiel spielen oder ein Buch lesen. Klingt das nicht toll?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Nun, lasst uns darüber sprechen, wie wir die Bildschirmzeit gut planen können. Es ist wie das Planen eines großen Abenteuers! Vielleicht könnt ihr mit Mama und Papa eine Liste machen, wann ihr fernsehen oder Spiele spielen dürft. So bleibt genug Zeit für andere spannende Dinge, wie draußen spielen oder basteln. Und wenn ihr den Plan einhaltet, könnt ihr stolz auf euch sein, denn ihr habt eure eigene Zeit toll organisiert!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ihr macht das fantastisch! Jetzt, wo ihr wisst, wie man die Bildschirmzeit plant, könnt ihr auch anderen helfen. Vielleicht könnt ihr eurem kleinen Bruder oder eurer kleinen Schwester zeigen, wie man das macht. Ihr seid dann die großen, schlauen Vorbilder! Und vergesst nicht, euch selbst zu loben, denn ihr seid wirklich großartig darin, gesunde Bildschirmgewohnheiten zu haben. Weiter so!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt kommen wir zu einem wichtigen Teil: die Pausen! Pausen sind wie kleine Erfrischungen für unseren Körper und Geist. Wenn wir eine Pause machen, können wir aufstehen, uns strecken und vielleicht ein bisschen tanzen. Es ist so, als würden wir unsere Batterien wieder aufladen, damit wir wieder voller Energie sind. Wollen wir zusammen bis fünf zählen und dann eine kleine Tanzpause machen? Eins, zwei, drei, vier, fünf – und los geht's!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Wisst ihr, warum Pausen so wichtig sind? Pausen helfen uns, unsere Augen zu entspannen und unseren Kopf frei zu bekommen. Wenn wir zu lange auf einen Bildschirm schauen, fühlen sich unsere Augen an wie müde kleine Fische. Aber mit einer Pause fühlen sich unsere Augen wieder frisch und munter an. Habt ihr eine Lieblingspause? Vielleicht ein kleines Tänzchen oder ein lustiges Spiel? Erzählt es mir!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lasst uns über Technologie sprechen und wie sie uns helfen kann. Technologie ist wie ein magisches Werkzeug, das uns viele Dinge leichter macht. Zum Beispiel können wir mit einem Tablet spannende Geschichten lesen oder mit einem Computer tolle Bilder malen. Es ist wie eine große Werkzeugkiste voller Überraschungen! Aber wie bei jedem Werkzeug müssen wir wissen, wie man es sicher benutzt. So macht das Entdecken noch mehr Spaß!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn wir Technologie benutzen, ist es wichtig, dass wir immer freundlich und respektvoll sind. Das bedeutet, dass wir nette Nachrichten schreiben und anderen helfen, wenn sie Hilfe brauchen. Es ist wie in einer großen, freundlichen Unterwasserstadt, wo alle Fische zusammenarbeiten. Wenn wir freundlich sind, fühlen sich alle gut und wir haben viel Spaß miteinander. Also, lasst uns immer daran denken, nett zu sein!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ihr seid wirklich toll darin, freundlich und respektvoll zu sein! Wenn ihr das nächste Mal eine Nachricht schreibt oder ein Spiel spielt, denkt daran, wie wichtig Freundlichkeit ist. Ihr könnt vielleicht sogar einen Freund finden, der eure Hilfe braucht. Und wenn ihr jemanden glücklich macht, fühlt ihr euch selbst auch glücklich. Ihr seid die besten Unterwasser-Freunde, die es gibt!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert euch daran, dass es auch wichtig ist, die Technologie manchmal auszuschalten. Das ist wie das Schließen eines Buches, wenn wir eine Geschichte beendet haben. Wenn wir die Geräte ausschalten, können wir neue Abenteuer in der echten Welt erleben. Vielleicht können wir draußen spielen oder ein neues Spiel erfinden. Die echte Welt ist voller Wunder, die nur darauf warten, entdeckt zu werden!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, wo wir so viel über Bildschirmzeit und digitale Sicherheit gelernt haben, fühlt ihr euch wie kleine Experten, nicht wahr? Ihr wisst, wie wichtig es ist, Pausen zu machen und freundlich zu sein. Und ihr habt tolle Ideen, wie man die Geräte sicher benutzt. Was war euer Lieblingsteil unseres Abenteuers? Ich bin so neugierig, es zu erfahren!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit euch auf dieses Abenteuer zu gehen! Ihr habt so viel gelernt und seid jetzt echte Bildschirmzeit-Experten. Vergesst nicht, Pausen zu machen und freundlich zu sein, egal, ob ihr online oder offline seid. Ich hoffe, wir sehen uns bald wieder für eine neue, spannende Reise. Bis dahin, bleibt sprudelnd und fröhlich, liebe Freunde! Auf Wiedersehen!"
+    }
+  ],
+  "title": "Bubble Buddys Screen Time Geschichte"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "tiko_emotional_regulation_story",
+  "character": "Tiko",
+  "topic": "emotional_regulation",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Tiko, and I'm so excited to go on an amazing journey with you today. We’re going to explore the magical world of emotions and learn how to be the boss of them. Are you ready to discover how to stay calm and happy, even when things get tricky? I can’t wait to share some fun tips and tricks with you. So, let’s hop on our adventure together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Emotions are like colorful balloons floating in the sky. Sometimes they feel light and happy, like yellow balloons. Other times, they can feel heavy and stormy, like gray clouds. But guess what? We can learn how to fly our balloon high and bright! When you’re feeling upset, it’s like your balloon is tangled. With a little practice, we can untangle it and make it soar again. Isn’t that exciting?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let’s learn a special trick called deep breathing. It’s like giving your balloon a gentle hug. When you feel your balloon getting tangled, take a deep breath in through your nose. Hold it for a moment, then slowly let it out through your mouth. This helps your balloon float smoothly again. Let’s try it together! Breathe in... and out. Great job! Doesn’t that feel nice?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You did amazing with your deep breaths! Remember, you can do this anytime you feel your balloon getting tangled. It’s like having a magic power! When you’re in a situation that feels too big, just pause and breathe. You’re the superhero of your own story, and you’ve got this! Keep practicing, and you’ll be flying high in no time."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let’s talk about another way to help our emotions. Have you ever felt like a volcano ready to erupt? That’s okay! Everyone feels that way sometimes. One way to calm the volcano is to count to five. Let’s count together: one, two, three, four, five. See, it’s like cooling down the lava inside. Now you can handle anything that comes your way!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about using our breath to calm down? Let’s add a little twist! Imagine you’re blowing out birthday candles. Take a deep breath and blow gently. Isn’t that fun? It’s another way to help your balloon float freely. You’re doing such a great job practicing these new skills!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let’s learn about a special place called the ‘calm corner’. It’s a cozy spot where you can go when your emotions feel too big. You can fill it with your favorite things like a soft blanket or a cuddly toy. It’s your safe space to relax and breathe. Whenever you need a break, just visit your calm corner. It’s your very own peaceful retreat!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing an incredible job learning about emotions! Remember, everyone has feelings, and it’s okay to feel different things. You’re becoming a true emotions expert. Keep practicing your breathing and visiting your calm corner. You’re growing stronger and more amazing every day. Isn’t that wonderful? I’m so proud of you!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let’s talk about sharing our feelings. Sometimes, talking to someone we trust helps untangle our balloon. It could be a parent, a teacher, or a friend. When you share how you feel, it’s like letting out a big sigh of relief. Remember, it’s okay to ask for help. You’re never alone in your journey of emotions."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you felt really happy? What made you feel that way? Sharing happy moments can make them even brighter. And when you feel sad, sharing can make the sadness feel smaller. Isn’t it amazing how talking about our feelings can change how we feel?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let’s imagine a rainbow of emotions. Each color represents a different feeling. Red might be for excitement, blue for calm, and green for peacefulness. When you notice your feelings, you can choose which color you want to shine the brightest. It’s like painting your own masterpiece of emotions!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let’s play a game! Pretend you’re a tree. Stand tall and strong, with your feet on the ground. Imagine your roots growing deep into the earth. When you feel wobbly, just remember your roots. They keep you steady and calm. Isn’t it amazing how strong you can feel, just like a mighty tree?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’ve learned so many wonderful things today! You’re becoming a true master of your emotions. Remember, every time you practice, you get better and better. Keep using your breathing, counting, and calm corner. You’re doing an incredible job, and I’m so proud of you. Keep shining bright like a star!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It’s time to end our adventure for today, but remember, the journey of emotions never stops. You’ve learned so much and are ready to handle anything that comes your way. Keep practicing, keep exploring, and keep shining. I’m so glad we got to spend this time together. Until next time, keep smiling and remember, you’re amazing just the way you are. Goodbye for now!"
+    }
+  ],
+  "title": "Tiko's Emotional Regulation Story"
+}

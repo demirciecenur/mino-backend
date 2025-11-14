@@ -1,0 +1,98 @@
+{
+  "id": "spider fighter_temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran_story",
+  "character": "Spider Fighter",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Salut mes petits amis ! Je suis Spider Fighter, votre héros de la ville. Aujourd'hui, nous allons explorer le monde fascinant des écrans et comment les utiliser en toute sécurité. Êtes-vous prêts pour une aventure incroyable ? Je suis tellement curieux de découvrir vos idées ! Ensemble, nous allons apprendre à être des champions du numérique !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par parler du temps que nous passons devant les écrans. Les écrans sont comme des fenêtres magiques qui nous montrent des choses incroyables. Mais il est important de ne pas y passer trop de temps. Comme pour les friandises, un peu c'est bien, mais trop peut être mauvais. Alors, comment savoir combien de temps est juste ? Parlons-en ensemble !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Il est conseillé de limiter le temps d'écran à une heure par jour pour les enfants. Cela laisse beaucoup de temps pour jouer dehors, lire des livres, et explorer le monde réel. Quand nous jouons dehors, nous faisons travailler nos muscles et notre imagination. Alors, rappelez-vous, les écrans sont amusants, mais il y a tellement plus à découvrir sans eux !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, parlons de la sécurité numérique. Cela signifie être prudent sur ce que nous regardons et partageons en ligne. Comme un super-héros, vous devez protéger vos informations personnelles. Ne donnez jamais votre nom entier ou votre adresse à des inconnus en ligne. Vous êtes déjà un pro de la sécurité numérique, bravo !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Utiliser la technologie de manière intelligente est très important. Par exemple, choisir des jeux éducatifs qui vous aident à apprendre de nouvelles choses. De cette façon, le temps d'écran devient un temps d'apprentissage. Et n'oubliez pas de demander à vos parents avant de télécharger quelque chose de nouveau. Ensemble, vous pouvez choisir ce qui est le mieux pour vous !"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous quand nous avons parlé de faire des pauses ? C'est aussi important pour nos yeux et notre esprit. Après 20 minutes d'écran, prenez une pause de 5 minutes. Pendant cette pause, vous pouvez faire des étirements ou regarder par la fenêtre. Cela aide à reposer vos yeux et à vous sentir mieux. Prêt à essayer ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Maintenant, parlons des habitudes saines d'écran. Cela signifie avoir une routine où vous utilisez les écrans à des moments précis. Comme après avoir terminé vos devoirs ou vos tâches. Une routine vous aide à profiter des écrans sans trop en utiliser. Vous êtes déjà sur le chemin de devenir un expert en habitudes saines !"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Saviez-vous qu'il est important d'avoir une bonne posture quand on utilise un écran ? Asseyez-vous droit avec les pieds à plat sur le sol, et gardez l'écran à hauteur des yeux. Cela évite les douleurs au cou et au dos. Essayez de vous asseoir correctement maintenant. Vous sentez la différence ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de l'importance de dormir suffisamment. Les écrans peuvent parfois nous empêcher de dormir si nous les utilisons juste avant de nous coucher. C'est parce que la lumière des écrans peut tromper notre cerveau et nous tenir éveillés. Essayons de ne pas utiliser d'écrans au moins une heure avant de dormir. Vous verrez, vous dormirez mieux !"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous, tout est question d'équilibre. Les écrans font partie de notre monde, mais ils ne sont pas tout notre monde. Pensez à toutes les choses amusantes que vous pouvez faire sans écran. Comme créer des histoires, dessiner, ou jouer avec des amis. Qu'aimeriez-vous faire aujourd'hui ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastique ! Vous avez déjà appris tellement de choses sur les écrans et comment les utiliser intelligemment. Vous êtes un véritable héros numérique maintenant. Chaque petit choix que vous faites peut vous aider à rester en sécurité et en bonne santé. Continuez comme ça, vous êtes incroyable !"
+    },
+    {
+      "id": "question_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous des questions sur ce que nous avons appris aujourd'hui ? Peut-être vous demandez-vous comment d'autres enfants utilisent les écrans ? Ou comment ils gardent un bon équilibre ? N'hésitez pas à demander, je suis ici pour vous aider à comprendre tout cela."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, parler à vos parents de ce que vous avez appris est une bonne idée. Ils peuvent vous aider à mettre en place des règles et des routines. Ensemble, vous pouvez créer un plan qui fonctionne pour vous. Et qui sait, vous pourriez même leur apprendre une ou deux choses sur la sécurité numérique !"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce temps avec moi, mes petits héros ! Vous avez appris à être prudents et intelligents avec les écrans. Continuez à explorer et à poser des questions. Je suis tellement fier de vous ! À la prochaine fois, pour de nouvelles aventures ensemble. Au revoir et prenez soin de vous !"
+    }
+  ],
+  "title": "Histoire de Screen Time de Spider Fighter"
+}

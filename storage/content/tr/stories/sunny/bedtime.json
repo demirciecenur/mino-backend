@@ -1,0 +1,98 @@
+{
+  "id": "sunny_bedtime_story",
+  "title": "Sunny'nin Uyku Zamanı Hikayesi",
+  "character": "Sunny",
+  "topic": "bedtime",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Sunny. Bugün birlikte uyku zamanı hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Uyku zamanı, günün en önemli anlarından biridir. Seni dinlendirir ve yeni maceralara hazırlar. Şimdi, uykuya hazırlanmanın ne kadar eğlenceli olduğunu öğrenmeye başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uykuya hazırlanmak için ilk yapmamız gereken şey, pijamalarımızı giymek. Pijamalarımızı giymek, vücudumuza uyku zamanının geldiğini söyler. Pijamalarımızı giyerken hangi renkleri seçiyorsun? Benim en sevdiğim renk sarı! Pijamalarımızı giydikten sonra, biraz rahatlamalıyız. Rahatlamak, günün yorgunluğunu atmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi biraz derin nefes almayı deneyelim. Derin nefes almak, vücudumuzu ve zihnimizi sakinleştirir. Burnumuzdan derin bir nefes alalım ve yavaşça ağzımızdan verelim. Birlikte üç kez derin nefes alalım, olur mu? Derin nefesler, uykudan önce sakinleşmemize yardımcı olur."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Şimdi biraz daha eğlenceli bir şey yapalım. Yatmadan önce bir hikaye okumak ister misin? Hikayeler bizi farklı dünyalara götürür ve hayal gücümüzü geliştirir. Benim en sevdiğim hikaye, maceralarla dolu bir ormanda geçiyor. Senin en sevdiğin hikaye hangisi?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir hikaye okuduktan sonra, oyuncaklarımızı toplamak iyi bir fikirdir. Oyuncaklarımızı toplamak, odanın düzenli olmasını sağlar. Düzenli bir oda, daha rahat uyumamıza yardımcı olur. Oyuncaklarını toplarken ne tür şarkılar söylersin? Ben, oyuncaklarımı toplarken hep neşeli şarkılar mırıldanırım."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi dişlerimizi fırçalama zamanı! Dişlerimizi fırçalamak, sağlıklı kalmamız için çok önemlidir. Sabah ve akşam dişlerimizi fırçalamalıyız. Diş fırçanı ve macununu hazırla, birlikte fırçalayalım. Dişlerimizi fırçalarken bir şarkı söyleyebiliriz, böylece zamanın nasıl geçtiğini anlamayız!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Çok iyi gidiyorsun! Dişlerini fırçaladıktan sonra, ellerimizi ve yüzümüzü yıkayabiliriz. Bu, gün boyunca biriken kirleri temizler ve tazelenmemizi sağlar. Ellerimizi ve yüzümüzü yıkamak için sıcak su kullanmayı unutma. Senin de bu rutini yapmayı sevdiğini biliyorum. Şimdi, tertemiz ve ferahız!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Yatağa gitmeden önce, hangi oyuncaklarla uyumayı seviyorsun? Benim bir peluş ayım var ve onunla uyumayı çok seviyorum. Senin de en sevdiğin oyuncakların var mı? Onları yatağına alabiliriz. Böylece uyurken güvende ve mutlu hissedersin."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Oyuncaklarımız hazırsa, yatağımıza uzanabiliriz. Yatak, günün sonunda dinlenmek için en rahat yerdir. Yumuşacık yastıklar ve sıcak bir battaniye ile sarılmak çok güzel. Yatakta uzanırken, günün nasıl geçtiğini düşünebiliriz. Bugün kaç yeni şey öğrendin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Yatağa uzandıktan sonra, gözlerimizi kapatabiliriz. Gözlerimizi kapatmak, uykuya dalmamıza yardımcı olur. Gözlerimizi kapatınca, güzel rüyalar görebiliriz. Sen de hayal gücünü kullan ve güzel rüyalar gör. Gözlerini kapatırken, derin nefes almayı unutma."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, yavaşça uykuya dalıyoruz. Uyku, büyümemiz ve güçlenmemiz için çok önemlidir. Uykuda vücudumuz dinlenir ve yenilenir. Sen de harika rüyalar göreceksin, buna eminim. Sen çok özel ve harikasın!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Uyumadan önce dinlemek istediğin başka bir hikaye var mı? Hikayeler bizi başka dünyalara götürür ve uyumadan önce güzel bir yolculuk yapmamıza yardımcı olur. Senin en sevdiğin hikaye nedir? Belki yarın gece onu okuyabiliriz. Fikirlerini duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Yarın yeni bir gün ve yeni maceralar bizi bekliyor olacak. Uyandığında, güneşin parlak ışıklarıyla karşılaşacaksın. Güneş, yeni bir günün başlangıcını müjdeler. Sen de yeni gün için hazır olacaksın. Tatlı rüyalar ve iyi geceler dilerim!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün benimle birlikte uyku zamanı yolculuğuna çıktığın için teşekkür ederim. Seninle bu macerayı paylaşmak çok güzeldi. Her gece bu rutinleri yaparak harika bir uyku çekebilirsin. Unutma, sen çok özelsin ve her zaman yanındayım. İyi geceler ve tatlı rüyalar!"
+    }
+  ]
+}

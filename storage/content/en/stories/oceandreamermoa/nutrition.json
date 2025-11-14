@@ -1,0 +1,104 @@
+{
+  "id": "ocean_dreamer_moa_nutrition_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "nutrition",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little adventurers! I'm Ocean Dreamer Moa, and today we're setting sail on a journey to learn about something very important: nutrition. Have you ever wondered what makes our bodies strong and full of energy? Well, it's the food we eat! We'll explore how different foods help us grow big and strong, just like the mighty ocean waves. Are you ready for this exciting adventure? Let's dive into the world of healthy eating together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's start by talking about fruits and vegetables. These colorful treasures are like the rainbow of the ocean, full of vitamins and minerals. Eating a variety of them helps our bodies stay healthy and happy. Imagine munching on a crunchy carrot or a juicy apple, giving you energy to play and explore all day. Remember, just like the ocean has many creatures, our plates should have many colors too!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Next, let's learn about grains. Grains are like the sand on the beach, giving us a strong foundation. Foods like rice, bread, and pasta are full of energy. They help us run, jump, and play with our friends. When we choose whole grains, like brown rice or whole wheat bread, we're choosing the best building blocks for our bodies. Isn't it amazing how these tiny grains can do so much?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's not forget about proteins! Proteins are like the strong currents in the ocean, helping our muscles grow. Foods like chicken, beans, and eggs are full of protein. When we eat them, we're giving our bodies the strength to climb, swim, and dance. Can you imagine being as strong as a dolphin, leaping through the waves? Let's make sure we have enough protein to fuel our adventures!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about fruits and vegetables? Now let's talk about dairy. Dairy foods like milk, cheese, and yogurt are like the cool, refreshing sea breeze. They give our bones the calcium they need to grow tall and sturdy. Drinking a glass of milk is like giving your bones a big hug, making them strong like a coral reef. So, let's enjoy some dairy to keep our bones happy!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about fats. Fats are like the gentle waves, keeping everything smooth and balanced. Foods with healthy fats, like avocados and nuts, help our brains work well. They also give us energy to think and learn new things. Just like the ocean needs a balance of waves, our bodies need a balance of fats to feel good. So, let's enjoy them in moderation!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "We can't forget about water, the most important drink of all! Water is like the ocean itself, keeping everything flowing smoothly. It helps us stay hydrated, especially when we're playing outside. Drinking enough water makes us feel refreshed and ready for more adventures. Let's make sure we drink plenty of water every day, just like the ocean never runs dry!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've learned about all these amazing foods, let's think about how they work together. Just like a balanced ocean ecosystem, our meals should have a little bit of everything. Imagine a plate with some grains, a piece of chicken, a few vegetables, and a glass of milk. This balanced meal gives us all the nutrients we need to grow and thrive. Doesn't that sound delicious?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try a fun activity together! Close your eyes and imagine your favorite meal. What colors do you see? Is there something crunchy, something juicy, and something smooth? Now open your eyes and draw your meal on a piece of paper. This is a great way to see if your plate is as colorful as the ocean. Remember, a rainbow on your plate means you're getting lots of nutrients!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job, little explorers! You've learned so much about nutrition today. Remember, eating a variety of foods helps us stay strong and healthy, just like the ocean waves. You can be proud of yourself for making healthy choices. Keep exploring new foods and flavors, and you'll discover so many delicious things. You can do it!"
+    },
+    {
+      "id": "question_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I have a question for you. What's your favorite fruit or vegetable? Is it a sweet strawberry, a crunchy carrot, or maybe a juicy watermelon? Think about how it tastes and feels when you take a bite. Sharing your favorite healthy foods with friends is a great way to explore new tastes. Would you like to try something new tomorrow?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure by talking about the importance of breakfast. Breakfast is like the sunrise, giving us energy to start our day. Eating a good breakfast helps us focus and learn better. Imagine having a bowl of oatmeal with fruit or a slice of whole wheat toast with peanut butter. These foods give us the fuel we need to explore and play. Let's make breakfast a special start to every day!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's take a moment to breathe and relax. Sit comfortably and take a deep breath in, like you're smelling a beautiful flower. Now breathe out slowly, like you're blowing out a candle. Let's do this together three times. Breathing helps us feel calm and ready for the next part of our adventure. Great job, everyone!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing wonderfully, little adventurers! Remember, every healthy choice you make helps you grow strong and happy. Just like the ocean is full of wonders, our bodies are amazing when we take care of them. Keep trying new foods and discovering new favorites. You're on the path to being a true nutrition explorer!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this exciting journey through the world of nutrition. I hope you had fun learning about all the wonderful foods that help us grow and play. Remember, just like the ocean, our bodies need care and attention to stay healthy. Keep exploring and making great choices every day. Until our next adventure, goodbye little explorers!"
+    }
+  ],
+  "title": "Ocean Dreamer Moa's Nutrition Story"
+}

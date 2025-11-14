@@ -1,0 +1,98 @@
+{
+  "id": "koko_imagination_story",
+  "character": "Koko",
+  "topic": "imagination",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Koko. Bugün birlikte hayal gücümüzün sınırlarını keşfedeceğiz. Hazır mısın? Hayal kurmak, her şeyi mümkün kılar. Seninle bu büyülü yolculuğa çıkmak için sabırsızlanıyorum. Haydi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücü, aklımızın en güçlü silahıdır. Onunla her şeyi yaratabiliriz. Bir ejderha ile uçabilir, okyanusun derinliklerine dalabiliriz. Hayal kurmak, dünyamızı daha eğlenceli ve renkli hale getirir. Sen de hayal kurmayı sever misin?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi hayal gücümüzü nasıl kullanabileceğimizi öğrenelim. İstersen bir resim çiz, istersen bir hikaye anlat. Hayal gücünle her şeyi yapabilirsin. Hadi birlikte bir hikaye oluşturalım. Bir kahraman seç ve maceraya başla!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi bir kahramanımız var. Onunla neler yapabileceğimizi düşünelim. Belki bir uzay macerasına çıkabiliriz. Ya da ormanda kaybolmuş hayvanları bulabiliriz. Hayal gücünle dünyayı keşfetmek çok eğlenceli!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda hayal gücümüzü kullanarak bir kahraman seçmiştik. Şimdi bu kahramanla yeni bir maceraya atılalım. Örneğin, bir hazine avına çıkabiliriz. Hazineyi bulmak için neler yapmamız gerektiğini düşünelim. Hayal gücümüz bizi her yere götürebilir!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, bir hazine avındaydık. Şimdi bu hazinenin nerede saklandığını hayal edelim. Belki de bir dağın zirvesinde ya da denizin dibinde. Hayal kurmak, her şeyi mümkün kılar. Sen nasıl bir hazine arardın?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte nefes alalım ve yeni bir macera düşünelim. Derin bir nefes al ve yavaşça ver. Bu, hayal gücünü daha da güçlendirir. Her nefeste yeni bir dünya yaratabilirsin. Hadi, birlikte yeni bir macera hayal edelim."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harikasın! Şimdi yeni bir macera seçelim. Belki bir çikolata fabrikasında gezebiliriz. Ya da sihirli bir ormanda dolaşabiliriz. Hayal gücünle her şey mümkün. Seninle bu maceraları hayal etmek çok eğlenceli!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki maceramızda sihirli bir ormanda dolaşmıştık. Şimdi bu ormanda neler olduğunu hayal edelim. Belki konuşan ağaçlar ya da dans eden çiçekler vardır. Hayal gücünle her şey canlanır. Sen böyle bir ormanda neler görmek isterdin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Hayal gücünü kullanarak en çok ne yapmayı seversin? Belki bir resim çizmek ya da bir hikaye anlatmak. Senin hayal gücünle neler mümkün? Cevabını çok merak ediyorum."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki soruda hayal gücünle neler yapabileceğimizi düşündük. Şimdi bu fikirleri nasıl gerçekleştirebileceğimizi planlayalım. Belki bir hikaye kitabı yapabiliriz. Ya da bir oyun sahnesi kurabiliriz. Hayal gücünle kendine yeni bir dünya yaratabilirsin."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte hayal gücümüzü daha da geliştirelim. Belki de bir süper kahraman olabiliriz. Ya da bir uzay gemisi yapabiliriz. Hayal gücünle her şey mümkün. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnemizde süper kahraman olmayı düşünmüştük. Şimdi bu süper kahramanın neler yapabileceğini hayal edelim. Belki dünyayı kurtarabilir ya da insanlara yardım edebilir. Hayal gücünle sınırları zorlayabilirsin. Senin süper gücün ne olurdu?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir hayal yolculuğu yaptık. Seninle hayal gücümüzü konuşturmak çok keyifliydi. Unutma, hayal kurmak her zaman iyidir ve seni daha güçlü kılar. Şimdi vedalaşırken, hayallerini her zaman canlı tut. Görüşmek üzere, küçük dostum!"
+    }
+  ],
+  "title": "Koko'ın Imagination Hikayesi"
+}

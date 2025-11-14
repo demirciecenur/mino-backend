@@ -1,0 +1,98 @@
+{
+  "id": "mystery_pup_buddy_bedtime_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Mystery Pup Buddy, ton compagnon pour ce soir. Aujourd'hui, nous allons découvrir le monde magique du coucher. Es-tu prêt pour cette aventure ? Je suis si excité de partager ce moment avec toi. Ensemble, nous allons explorer comment se préparer pour une nuit de sommeil paisible."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le moment du coucher, c'est comme une aventure spéciale chaque soir. D'abord, on commence par ranger nos jouets pour que la chambre soit bien ordonnée. Tu sais, ça aide à créer un environnement calme. Ensuite, on enfile notre pyjama préféré qui est tout doux et confortable. C'est un peu comme enfiler une cape magique pour s'endormir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Avant de se coucher, se brosser les dents est très important. Cela aide à garder nos dents fortes et en bonne santé. Tu sais comment faire ? On prend la brosse à dents, on met un peu de dentifrice, et on frotte doucement. N'oublie pas de rincer après ! C'est un peu comme donner un bain à nos dents."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, viens, on va prendre trois grandes respirations ensemble. Inspire profondément par le nez, puis expire doucement par la bouche. C'est relaxant, n'est-ce pas ? Tu te sens déjà plus calme. Super travail, tu es vraiment doué pour ça !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après avoir brossé les dents et pris quelques respirations, c'est l'heure d'un câlin tout doux. Un câlin, c'est comme un petit nuage de tendresse. Ça fait du bien, n'est-ce pas ? C'est aussi le moment parfait pour écouter une histoire. Les histoires nous emmènent dans des mondes fantastiques avant de s'endormir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ensuite, on peut dire bonne nuit à notre chambre. On peut chuchoter : 'Bonne nuit, lit. Bonne nuit, jouets.' Cela crée un sentiment de calme et de sécurité. C'est comme saluer tout le monde avant de fermer les yeux. Tu vois, chaque détail compte pour un bon sommeil."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, essayons quelque chose de spécial. Fermons les yeux et imaginons un endroit merveilleux. Peut-être une plage avec du sable doux ou une prairie remplie de fleurs. Tu sens la brise légère ? C'est apaisant, n'est-ce pas ? Tu peux créer ton propre monde de rêves."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dis-moi, as-tu un doudou ou une peluche préférée pour dormir ? Peut-être une petite couverture toute douce ? Ces compagnons sont parfaits pour nous aider à nous sentir en sécurité. Quel est leur nom ? Ils sont là pour veiller sur toi pendant que tu dors."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant que tu es bien installé, c'est le moment de fermer doucement les yeux. Pense à toutes les belles choses que tu as faites aujourd'hui. Chaque jour est une nouvelle aventure remplie de découvertes. Demain, il y aura encore plus de choses à explorer. Alors, repose-toi bien pour être prêt pour un nouveau jour."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Penses-tu que tu pourrais inventer une petite histoire avant de dormir ? Peut-être une histoire avec un chien détective comme moi, qui résout des mystères amusants. Imaginer des histoires est une belle façon de s'endormir. Cela rend le coucher encore plus spécial et magique."
+    },
+    {
+      "id": "scene_10",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Écoute les bruits apaisants autour de toi. Peut-être entends-tu le vent souffler doucement ou le tic-tac d'une horloge. Ces sons sont comme une berceuse douce qui t'aide à t'endormir. Ils créent une atmosphère paisible dans ta chambre. Es-tu déjà en train de te sentir plus détendu ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi que le sommeil est comme un voyage vers un pays de rêves. Chaque nuit, tu pars pour cette aventure merveilleuse. C'est un moment pour se reposer et se ressourcer. Le matin, tu te réveilleras plein d'énergie et prêt pour de nouvelles aventures. Dormir est important pour grandir et être en bonne santé."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Avant de terminer, n'oublions pas de souhaiter une bonne nuit à tous ceux que nous aimons. Peut-être que tu as envie de murmurer un 'bonne nuit' à tes parents ou à tes animaux de compagnie. C'est un geste simple mais plein d'amour. Cela rend le moment du coucher encore plus doux et réconfortant."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce moment spécial avec moi, petit ami. J'espère que tu es prêt pour une nuit de sommeil paisible et réparatrice. Rappelle-toi, chaque nuit est une nouvelle aventure. Fais de beaux rêves et à bientôt pour une nouvelle histoire. Bonne nuit et dors bien !"
+    }
+  ],
+  "title": "Histoire de Bedtime de Mystery Pup Buddy"
+}

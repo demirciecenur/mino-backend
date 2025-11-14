@@ -1,0 +1,104 @@
+{
+  "id": "chirpy_birdie_sibling_story",
+  "character": "Chirpy Birdie",
+  "topic": "sibling",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Chirpy Birdie, et aujourd'hui, nous allons explorer le merveilleux monde des frères et sœurs. Avez-vous un frère ou une sœur? C'est tellement amusant de jouer ensemble et de partager des moments spéciaux. Êtes-vous prêt pour cette aventure joyeuse? Je suis tellement curieux de découvrir vos histoires de famille!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les frères et sœurs peuvent être de supers compagnons de jeu, vous savez. Ils sont toujours là pour partager des rires et des câlins. Imaginez construire un fort ensemble avec des couvertures et des coussins! Quand on a un frère ou une sœur, on n'est jamais seul pour s'amuser. Cela rend chaque jour un peu plus spécial. Maintenant, parlons de ce qui fait de vous un si bon frère ou une si bonne sœur."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Être un bon frère ou une bonne sœur, c'est aussi apprendre à partager. Par exemple, partager vos jouets préférés, comme une peluche ou une voiture. C'est important parce que cela montre que vous vous souciez de l'autre. Quand vous partagez, cela rend tout le monde heureux, n'est-ce pas? Alors, pensez à une chose que vous pourriez partager aujourd'hui."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayer d'être patient avec votre frère ou votre sœur est une autre belle qualité. Parfois, ils prennent un peu plus de temps pour comprendre un jeu. Mais ce n'est pas grave! Nous pouvons les encourager avec un grand sourire. Vous pouvez dire \"Tu peux le faire!\" et les aider, comme un vrai héros. Alors, êtes-vous prêt à être un héros aujourd'hui?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jouer ensemble est une des meilleures choses à faire avec un frère ou une sœur. Vous pouvez inventer des jeux, comme être des explorateurs dans une jungle imaginaire. Ou pourquoi pas des pirates à la recherche d'un trésor caché? Chaque jeu est une nouvelle aventure, pleine de rires et de découvertes. Et vous savez quoi? Vous créez des souvenirs précieux ensemble."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Parfois, les frères et sœurs peuvent se disputer, et c'est normal. Mais il est important de se réconcilier et de dire \"désolé\". Cela montre que vous êtes prêt à passer à autre chose et à être heureux ensemble. Un câlin peut aussi aider à se sentir mieux. Vous aimez les câlins? Ils sont comme une couverture chaude pour le cœur."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous savez, vous pouvez aussi apprendre beaucoup de choses de votre frère ou de votre sœur. Par exemple, comment faire du vélo ou dessiner un joli dessin. Apprendre ensemble rend les choses plus amusantes et excitantes. Et qui sait, peut-être que vous pourrez même leur montrer quelque chose de nouveau! Cela ne serait-il pas merveilleux?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les frères et sœurs peuvent aussi être vos premiers amis, ceux avec qui vous partagez vos secrets. Vous pouvez raconter des histoires drôles ou même des rêves. Avoir quelqu'un à qui parler rend chaque jour plus lumineux. Et même si vous ne vous entendez pas toujours, vous savez qu'ils seront toujours là pour vous. C'est une belle promesse d'amitié."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant de l'importance d'écouter. Écouter votre frère ou votre sœur montre que vous vous intéressez à ce qu'ils ressentent. Vous pouvez demander \"Comment s'est passée ta journée?\" et vraiment écouter la réponse. Cela renforce votre lien et montre que vous êtes un bon ami. Alors, la prochaine fois, essayez de bien écouter."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà fait un projet spécial avec votre frère ou votre sœur? Peut-être un dessin ou une chanson? Ces projets peuvent être très amusants et créatifs. Quel est votre projet préféré que vous avez fait ensemble? Je suis sûr qu'il était rempli de rires et de couleurs. Partager ces moments est vraiment spécial, n'est-ce pas?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les frères et sœurs peuvent aussi vous aider à être courageux. Peut-être que vous avez peur de quelque chose, comme la première fois que vous avez essayé de nager. Mais avec eux à vos côtés, tout devient plus facile. Ils peuvent vous encourager et vous donner la confiance dont vous avez besoin. Ensemble, vous pouvez surmonter toutes les peurs."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Et rappelez-vous, peu importe ce qui se passe, vous êtes tous les deux spéciaux. Vous avez vos propres talents et forces. Peut-être que vous êtes bon en danse et que votre frère est bon en dessin. Ces différences vous rendent uniques et intéressants. Alors, célébrez ce qui vous rend spécial, et soyez fiers de vous!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous aussi que les moments simples sont souvent les plus précieux. Comme rire ensemble à une blague ou regarder les étoiles la nuit. Ces petits moments créent des souvenirs doux que vous chérirez toujours. Avez-vous un moment préféré que vous avez partagé avec votre frère ou votre sœur? Ces souvenirs sont comme de petits trésors."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Finalement, être un bon frère ou une bonne sœur, c'est aussi être là pour l'autre. Quand ils sont tristes, vous pouvez les réconforter avec un câlin ou un sourire. Vous pouvez être leur rayon de soleil les jours nuageux. Ensemble, vous formez une équipe formidable qui peut accomplir de grandes choses. Et cela, c'est vraiment magique!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce moment avec moi, petit ami. Les frères et sœurs sont vraiment spéciaux, n'est-ce pas? J'espère que vous avez appris quelque chose de nouveau aujourd'hui. N'oubliez pas de toujours être gentil et de partager avec votre frère ou votre sœur. Je suis si fier de vous! À bientôt pour une autre aventure avec Chirpy Birdie!"
+    }
+  ],
+  "title": "Histoire de Sibling de Chirpy Birdie"
+}

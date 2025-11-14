@@ -1,0 +1,104 @@
+{
+  "id": "sunny_temps_d'écran_sécurité_numérique_utilisation_de_la_technologie_habitudes_saines_d'écran_story",
+  "character": "Sunny",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Sunny, et aujourd'hui, nous allons découvrir ensemble comment utiliser les écrans de manière amusante et sûre. Êtes-vous prêts pour cette aventure? Nous allons explorer comment jouer et apprendre avec la technologie tout en restant en sécurité. Ça va être super! Prenez une grande inspiration et souriez, car notre voyage commence maintenant!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons du temps que nous passons devant les écrans. Les écrans, comme les tablettes et les téléphones, peuvent être très amusants, mais il est important de ne pas y passer trop de temps. Pourquoi? Parce que jouer dehors, lire des livres, ou dessiner sont aussi très amusants et bons pour notre imagination. Et vous savez quoi? Quand nous limitons notre temps d'écran, nous avons plus de temps pour ces activités géniales!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour utiliser les écrans sainement, nous pouvons fixer une limite de temps. Par exemple, après avoir joué sur une tablette, nous pourrions aller courir dehors ou construire une tour avec des blocs. C'est comme manger des légumes avant de manger un dessert! Alors, essayez de trouver un bon équilibre entre les activités. Que diriez-vous de jouer dehors après avoir regardé une émission? Vous verrez, c'est amusant!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Génial! Vous faites du bon travail! Se souvenir de prendre des pauses est important. Quand on passe trop de temps devant un écran, nos yeux peuvent être fatigués, un peu comme quand on court sans s'arrêter. Alors, faisons une pause maintenant. Prenons trois grandes respirations ensemble. Une, deux, trois! Ça fait du bien, n'est-ce pas?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé des écrans et des pauses? Il est aussi important de se rappeler de la sécurité numérique. Cela signifie être prudent lorsque nous utilisons des écrans. Comme ne pas parler à des inconnus en ligne, un peu comme on ne parle pas à des inconnus dans le parc sans la permission d'un adulte. C'est important pour rester en sécurité et heureux!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre façon de rester en sécurité est de demander à un adulte de nous aider à choisir des jeux ou des vidéos. Les adultes savent ce qui est le mieux pour nous. Imaginez que vous choisissez une tenue pour une journée froide; un adulte peut vous aider à choisir le bon manteau. C'est pareil avec la technologie, ils savent ce qui est bon pour nos esprits!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes tous incroyables! Continuez à poser des questions et à apprendre. N'oubliez pas, c'est comme un grand puzzle où chaque pièce est importante. Chaque fois que vous apprenez quelque chose de nouveau, c'est une nouvelle pièce ajoutée. Continuez à explorer, et rappelez-vous, vous faites du bon travail!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de ce que nous pouvons faire avec la technologie de manière amusante et sûre. Saviez-vous que vous pouvez apprendre de nouvelles choses comme dessiner un dinosaure ou apprendre une nouvelle chanson? La technologie peut être un outil formidable pour apprendre, tout comme un livre ou une boîte de crayons de couleur. Utiliser la technologie pour découvrir le monde est une aventure incroyable!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayez de choisir des jeux éducatifs qui vous aident à apprendre les lettres ou les chiffres. C'est un peu comme jouer à un jeu de société qui vous apprend à compter. Vous pouvez demander à un adulte de vous aider à trouver ces jeux. Et souvenez-vous, apprendre peut être aussi amusant que jouer à cache-cache!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes tous de super explorateurs! Chaque fois que vous apprenez quelque chose de nouveau, c'est comme découvrir un trésor. Continuez à chercher et à poser des questions. Vous êtes capables de tant de choses incroyables, et chaque jour est une nouvelle aventure à découvrir!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, je suis curieux. Quel est votre jeu préféré à jouer avec vos amis, sans écran? Est-ce que c'est courir dans le parc, ou peut-être jouer au ballon? Vous savez, ces jeux sont tout aussi importants que ceux sur les écrans. Pourquoi pensez-vous qu'il est important de jouer à ces jeux aussi?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous comment nous avons parlé de l'importance de l'équilibre? C'est aussi vrai pour les jeux et les activités. Avoir un bon équilibre entre les jeux sur écran et les jeux en plein air nous aide à être heureux et en bonne santé. C'est comme avoir un mélange de couleurs dans un dessin, chaque couleur rend le dessin plus joli!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons de créer un emploi du temps amusant. Par exemple, après l'école, vous pourriez jouer dehors, puis regarder un dessin animé pendant un petit moment. Ensuite, vous pourriez lire un livre avant de dîner. Créer un emploi du temps équilibré peut être amusant et vous aider à profiter de tout ce que vous aimez!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes tous de vrais champions! Rappelez-vous que vous pouvez toujours demander de l'aide à un adulte pour planifier votre temps. Vous faites de votre mieux, et c'est ce qui compte le plus. Continuez à explorer et à apprendre de nouvelles choses chaque jour!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, mes petits amis! J'espère que vous avez appris beaucoup de choses sur les écrans et la façon de les utiliser en toute sécurité. N'oubliez pas, l'important est de s'amuser tout en étant prudent. Je suis tellement fier de vous! À bientôt pour une nouvelle aventure. Au revoir, et prenez soin de vous!"
+    }
+  ],
+  "title": "Histoire de Screen Time de Sunny"
+}

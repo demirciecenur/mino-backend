@@ -1,0 +1,104 @@
+{
+  "id": "spark_buddy_transitions_story",
+  "character": "Spark Buddy",
+  "topic": "transitions",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Spark Buddy, your cheerful and sparkly friend, here to take you on an exciting journey all about transitions. Do you know what transitions are? They are changes that happen in our day, like when we go from playing to eating lunch. Today, we'll explore how to make these changes fun and easy. Are you ready for an adventure full of giggles and sparkles? Let's get started!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, think about your morning. You wake up, and then it's time to brush your teeth. That's a transition! Transitions help us move from one fun activity to another, like a dance. Sometimes, they can feel tricky, but with practice, they become easier. Imagine you are a superhero, and each transition is a new mission! Doesn't that sound exciting? Let's discover more about these magical changes."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about brushing your teeth? That's a transition you do every day. It's important because it keeps your teeth shiny and healthy. Now, let's pretend we're brushing our teeth together! Can you show me how you do it? Great! Wonderful! You did it just right! Transitions like this help us stay clean and ready for the day. Next, we'll learn about another fun transition."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's think about getting dressed. After brushing your teeth, it's time to put on your clothes. This is another transition. Can you pick out your favorite shirt? Imagine it's a superhero cape! You can do it! Transitions like getting dressed help us get ready for new adventures. Every new outfit is like a new costume for a new mission. You're doing amazing! Let's find out what happens next."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we're all dressed, it's time for breakfast. Yum! Moving from getting dressed to eating is another transition. Breakfast gives us energy, like a power-up! What's your favorite breakfast food? Pancakes or cereal? Breakfast is a fun transition because we get to taste yummy food that helps us grow strong. Let's imagine we're superheroes getting ready for a big day! Next, we'll look at another transition."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "After breakfast, it's time to go to school or start learning. This is a big transition! We move from home to learning new things. It's like opening a book full of adventures! Can you imagine all the fun things you'll learn today? Transitions like this help us grow our minds and make new friends. Every day is a new chance to discover something amazing. Now, let's see what's next in our journey."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's talk about playtime. After learning, it's time to play! This transition is like a reward for all your hard work. Playtime is when we get to use our imaginations and have fun. Can you think of a game you love to play? Maybe tag or building with blocks? Playtime transitions help us relax and enjoy being creative. You're doing great with all these transitions! Let's continue our adventure."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, it's lunchtime! After playing, we need to refuel our bodies. This transition is from playing to eating again. Lunchtime is like a picnic with friends. What's your favorite lunch food? Maybe a sandwich or some fruit? Eating helps us stay strong and ready for more fun. Lunchtime transitions are a time to chat and enjoy yummy food. Let's get ready for the next exciting part of our day."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "After lunch, it's time for a nap or quiet time. This transition helps us rest and recharge, like a battery. During quiet time, we can read a book or listen to music. Can you think of a calm activity you like? Maybe drawing or listening to a story? Quiet time transitions help us feel peaceful and ready for more adventures. You're doing so well with these changes! Let's see what comes after our rest."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "After resting, we can go back to playing or learning. This transition is like waking up from a superhero nap! We feel refreshed and ready to explore. Can you think of something new you want to try today? Maybe a new game or a fun craft? This transition is a chance to discover something exciting and new. Keep up the great work! Let's move on to the next part of our day."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As the day goes on, we have dinner time. This transition is from playing to eating once more. Dinner is a special time to share stories with our family. What's your favorite dinner dish? Maybe pasta or vegetables? Dinner transitions help us connect with our family and enjoy delicious food. It's a cozy time to relax and talk about our day. Let's see what's next after dinner."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you know what comes after dinner? It's bath time! This transition helps us get clean and ready for bedtime. Do you like bubble baths or showers? Bath time transitions are a chance to splash and play in the water. They help us feel fresh and relaxed. What fun bath toys do you like to play with? Let's continue our journey to the next transition."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "After bath time, it's time to put on pajamas. This transition helps us get cozy and ready for sleep. Pajamas are like our nighttime superhero costume! Do you have a favorite pair of pajamas? Maybe ones with stars or animals? Pajama transitions help us feel snug and warm. Now, let's see what's next as we get ready for bed."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Finally, it's bedtime! This transition is from being awake to going to sleep. Bedtime is a chance to rest and dream. Do you have a bedtime story you love? Or maybe a special stuffed animal? Bedtime transitions help us wind down and prepare for a new day. You're a superstar at transitions! Now, let's wrap up our adventure."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Wow, you've done an amazing job learning about transitions today! Remember, transitions are like little adventures that help us move through our day. You're a superhero at making changes fun and easy. I hope you enjoyed our journey together. Have a sparkling day, and I can't wait to see you next time! Goodbye, little friend!"
+    }
+  ],
+  "title": "Spark Buddy's Transitions Story"
+}

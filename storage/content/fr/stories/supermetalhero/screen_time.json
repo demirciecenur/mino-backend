@@ -1,0 +1,104 @@
+{
+  "id": "super_metal_hero_temps_d'écran_sécurité_numérique_utilisation_de_la_technologie_habitudes_saines_d'écran_story",
+  "character": "Super Metal Hero",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petits amis! Je suis Super Metal Hero, et aujourd'hui, nous allons explorer le monde fascinant de la technologie. Ensemble, nous allons apprendre comment utiliser nos écrans de manière amusante et sécurisée. Vous êtes prêts pour cette incroyable aventure? Je suis si curieux de découvrir ce que vous savez déjà. Commençons notre voyage technologique ensemble!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les écrans, comme les tablettes ou les téléphones, peuvent être très amusants. Ils nous permettent de jouer, d'apprendre et même de parler avec nos amis. Mais il est important de ne pas passer trop de temps devant eux. Pourquoi? Parce qu'il y a aussi plein d'autres choses amusantes à faire, comme jouer dehors ou lire un livre. Alors, voyons comment équilibrer tout cela pour que chaque jour soit une nouvelle aventure!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand nous utilisons nos écrans, il est essentiel de le faire en toute sécurité. Cela signifie ne pas partager d'informations personnelles, comme notre nom ou notre adresse. C'est aussi une bonne idée de s'assurer que nos parents savent ce que nous regardons ou à quoi nous jouons. De cette façon, nous pouvons profiter de la technologie tout en restant protégés. N'oublions pas de toujours demander avant de télécharger quelque chose de nouveau."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous savez, il existe des règles simples pour rendre notre temps d'écran encore plus amusant. Par exemple, après chaque heure passée devant un écran, nous pouvons faire une pause. On peut se lever, s'étirer ou même danser un peu! Est-ce que vous aimeriez essayer cela avec moi? C'est une excellente manière de garder notre corps en forme et notre esprit alerte."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des habitudes saines d'écran. Cela signifie utiliser la technologie de manière équilibrée. Par exemple, après avoir joué à un jeu, on peut lire une histoire ou dessiner. Cela rend chaque activité spéciale et unique. Vous voyez, en mélangeant les activités, nous ne nous ennuyons jamais et apprenons plein de nouvelles choses!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "La lumière bleue des écrans peut parfois rendre le sommeil difficile. C'est pourquoi il est bon d'éteindre les écrans au moins une heure avant de se coucher. En lisant un livre ou en écoutant de la musique douce, on prépare notre corps à une bonne nuit de sommeil. Avez-vous un rituel de coucher que vous aimez? Peut-être une histoire préférée ou une chanson douce?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Parlons maintenant de la créativité avec la technologie! Saviez-vous que vous pouvez utiliser les écrans pour créer des choses incroyables? Comme dessiner, faire de la musique ou même inventer des histoires. C'est une façon fantastique de montrer votre talent et de partager vos créations avec votre famille. Essayons de penser à quelque chose de créatif que nous pourrions faire aujourd'hui."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de partager nos créations? Il est important de toujours demander à un adulte avant de partager quoi que ce soit en ligne. Cela garantit que nous partageons de manière responsable et en toute sécurité. La sécurité numérique est comme un super pouvoir que nous pouvons tous apprendre à utiliser. Êtes-vous prêts à devenir des experts en sécurité numérique?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà pensé à combien de temps vous passez devant un écran chaque jour? C'est une bonne idée de le suivre, comme un petit défi amusant. Combien de temps pensez-vous être raisonnable pour jouer à vos jeux préférés? Discutons de cela avec nos parents pour trouver le juste équilibre."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les écrans peuvent aussi nous aider à apprendre de nouvelles choses, comme les chiffres ou les lettres. Il existe des applications éducatives qui rendent l'apprentissage amusant et interactif. En utilisant ces outils, nous pouvons découvrir de nouveaux mondes et développer nos connaissances. C'est comme avoir une bibliothèque entière à portée de main!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Et si nous parlions des moments où il est préférable de ne pas utiliser les écrans? Par exemple, pendant les repas, il est agréable de discuter avec notre famille. Cela nous permet de partager notre journée et d'écouter les histoires des autres. Vous aimez parler de votre journée pendant le dîner?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super travail, mes amis! Vous avez appris beaucoup sur l'utilisation intelligente des écrans. N'oubliez pas que la technologie est un outil puissant, mais nous devons l'utiliser avec sagesse. Avec ces connaissances, vous pouvez devenir un véritable héros numérique, tout comme moi. Continuez à explorer et à apprendre chaque jour!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nous avons vu comment équilibrer le temps d'écran avec d'autres activités amusantes. En jouant dehors, en lisant et en créant, nous enrichissons notre vie. Chaque moment passé loin de l'écran est une chance de découvrir quelque chose de nouveau. Alors, qu'allez-vous essayer aujourd'hui? Peut-être un nouveau jeu ou une aventure en plein air?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà créé quelque chose d'incroyable avec votre tablette ou votre ordinateur? Peut-être un dessin ou une chanson? Partager vos créations avec vos amis et votre famille peut être très gratifiant. Pensez à ce que vous aimeriez faire ensuite, et souvenez-vous toujours de demander de l'aide si nécessaire!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce moment avec moi, petits héros! Ensemble, nous avons découvert comment utiliser la technologie de manière amusante et responsable. N'oubliez pas de continuer à explorer le monde autour de vous, loin des écrans aussi. Je suis fier de vous et de tout ce que vous avez appris. À bientôt pour une nouvelle aventure avec Super Metal Hero!"
+    }
+  ],
+  "title": "Histoire de Screen Time de Super Metal Hero"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "chirpy_birdie_Bildschirmzeit_digital_Sicherheit_Technologienutzung_gesunde_Bildschirmgewohnheiten_story",
+  "character": "Chirpy Birdie",
+  "topic": "Bildschirmzeit, digitale Sicherheit, Technologienutzung, gesunde Bildschirmgewohnheiten",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Chirpy Birdie und heute machen wir uns auf eine spannende Reise. Wir werden über Bildschirmzeit sprechen und wie wir sie sicher nutzen können. Bist du bereit? Ich freue mich so sehr, mit dir über gesunde Bildschirmgewohnheiten zu plaudern. Lass uns gemeinsam losfliegen und Neues entdecken!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, was Bildschirmzeit ist? Das ist die Zeit, die wir vor einem Bildschirm verbringen, wie beim Fernsehen oder Spielen auf dem Tablet. Es ist wichtig, dass wir nicht zu viel Zeit damit verbringen, denn wir wollen auch draußen spielen und kreativ sein. Wenn wir Bildschirme nutzen, sollten wir darauf achten, dass es sicher ist. Jetzt lass uns darüber sprechen, wie wir das machen können."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Eine gute Regel ist, nicht länger als eine Stunde am Tag vor einem Bildschirm zu sitzen. So bleibt noch viel Zeit für andere lustige Aktivitäten. Es ist auch wichtig, regelmäßige Pausen zu machen, damit unsere Augen sich ausruhen können. Wenn wir eine Pause machen, können wir zum Beispiel ein bisschen tanzen oder ein lustiges Lied singen. Was denkst du darüber?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns gemeinsam eine kleine Übung machen! Stell dir vor, wir sind kleine Vögel und flattern mit unseren Flügeln. Eins, zwei, drei, vier, fünf! Super gemacht! Diese Bewegung hilft uns, uns nach Bildschirmzeit wieder frisch zu fühlen. Du machst das großartig!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über Sicherheit gesprochen haben? Es ist wichtig, dass wir nur mit Apps und Spielen spielen, die unsere Eltern oder Betreuer für uns ausgesucht haben. Sie wissen, was sicher für uns ist. Wenn wir unsicher sind, können wir immer nachfragen. So bleiben wir sicher und haben Spaß!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ein weiterer wichtiger Tipp ist, dass wir keine persönlichen Informationen online teilen. Das bedeutet, wir sollten unseren Namen, unsere Adresse oder unser Alter nicht verraten. Wenn jemand im Internet danach fragt, sagen wir einfach, dass wir das nicht können. Das ist eine gute Möglichkeit, sicher zu bleiben."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Toll, dass du so gut zuhörst! Jetzt, da wir das wissen, können wir sicherer im Internet unterwegs sein. Immer wenn wir uns an diese Regeln erinnern, sind wir wie kleine Helden. Du bist ein echter Sicherheitsheld!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal mit deinen Eltern über Bildschirmzeit gesprochen? Vielleicht könnt ihr zusammen eine Liste mit euren Lieblingsaktivitäten ohne Bildschirme machen. Was würdest du auf diese Liste setzen? Ich bin neugierig zu hören, was du dir einfallen lässt!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir wissen, wie wir sicher mit Bildschirmen umgehen, lass uns über gesunde Bildschirmgewohnheiten sprechen. Es ist gut, wenn wir uns einen Plan machen, wann wir Bildschirme nutzen. So bleibt noch genug Zeit für andere tolle Dinge, wie Spielen im Freien oder Malen. Ein Plan hilft uns dabei, alles unter einen Hut zu bringen."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich an die Übung, die wir gemacht haben? Solche kleinen Pausen können uns helfen, wenn wir lange vor dem Bildschirm sitzen. Wie wäre es, wenn wir noch ein paar Mal die Flügel flattern lassen? Eins, zwei, drei, vier, fünf! Einfach wunderbar!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wirklich toll! Es ist wichtig, dass wir uns daran erinnern, dass Bildschirme nur ein Teil unseres Tages sind. Es gibt so viele andere spannende Dinge zu entdecken. Du bist bereit, die Welt zu erkunden!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was ist deine Lieblingsaktivität, wenn du nicht vor einem Bildschirm bist? Vielleicht spielen im Park oder ein Buch lesen? Was auch immer es ist, es macht bestimmt viel Spaß. Erzähl mir davon, ich bin gespannt!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Digitale Sicherheit bedeutet auch, dass wir nur mit Menschen online sprechen, die wir kennen. Das sind zum Beispiel unsere Freunde oder Familienmitglieder. Wenn wir neue Freunde finden wollen, machen wir das am besten draußen beim Spielen. So können wir sicher sein, dass wir in guter Gesellschaft sind."
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ein letzter Tipp: Wenn wir ein Gerät nicht mehr benutzen, sollten wir es ausschalten. Das spart Energie und ist gut für unsere Umwelt. Wir können Mama oder Papa fragen, wie man das am besten macht. So helfen wir der Erde und lernen gleichzeitig etwas Neues!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Bildschirmzeit und Sicherheit zu sprechen! Du bist jetzt ein echter Experte auf diesem Gebiet. Ich hoffe, du hast viel gelernt und hattest Spaß dabei. Bis zum nächsten Mal, kleiner Freund! Tschüss und pass gut auf dich auf!"
+    }
+  ],
+  "title": "Chirpy Birdies Screen Time Geschichte"
+}

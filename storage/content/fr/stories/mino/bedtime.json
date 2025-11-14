@@ -1,0 +1,98 @@
+{
+  "id": "mino_bedtime_story",
+  "character": "Mino",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Mino, votre explorateur spatial préféré. Aujourd'hui, nous allons partir ensemble dans une aventure incroyable sur le thème du coucher. Êtes-vous prêts à découvrir comment rendre l'heure du coucher amusante et relaxante? Je suis tellement curieux de savoir comment vous vous préparez pour aller au lit. Allons commencer notre voyage vers un sommeil paisible et doux."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le moment du coucher est une aventure spéciale, un peu comme aller dans l'espace! Tout d'abord, nous devons nous préparer, un peu comme les astronautes se préparent pour un vol. Cela signifie mettre notre pyjama préféré, n'est-ce pas amusant de choisir parmi tous ces jolis motifs? Ensuite, nous devons nous assurer que notre lit est bien confortable, comme un petit nid douillet. Vous voyez, le coucher peut être une aventure amusante si nous le rendons spécial."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de l'importance de se brosser les dents avant de dormir. C'est comme nettoyer notre fusée avant de partir en mission. Vous savez, se brosser les dents aide à garder nos sourires brillants et sains, et c'est aussi très amusant de faire des bulles avec le dentifrice! Alors, prenons notre brosse à dents et faisons des mouvements circulaires, comme si nous dessinions des planètes. Vous pouvez le faire, et vos dents vous remercieront."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Maintenant que nous avons brossé nos dents, il est temps de nous détendre. Pourquoi ne pas prendre trois grandes respirations ensemble? Inspirons profondément par le nez, et expirons lentement par la bouche. Cela aide notre corps à se calmer, un peu comme un vaisseau spatial qui se pose doucement. N'est-ce pas relaxant? Vous faites un excellent travail en vous préparant pour un bon sommeil."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après avoir respiré profondément, c'est le moment idéal pour lire une histoire. Les histoires avant de dormir sont comme des voyages dans d'autres mondes, tout en restant confortablement dans notre lit. Choisissez votre livre préféré, peut-être une aventure de pirates ou une histoire de dragons. Lire aide notre imagination à s'envoler, et cela nous prépare à de doux rêves. Quelle histoire aimez-vous le plus lire avant de dormir?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Après l'histoire, il est temps de se blottir sous les couvertures. C'est comme se cacher dans une capsule spatiale chaude et sécurisée. Assurez-vous que votre doudou ou votre peluche préférée est avec vous. Avez-vous un animal en peluche que vous aimez serrer fort? Ils font partie de notre équipage pour cette nuit, veillant sur nous pendant que nous dormons. Dormir avec eux nous donne un sentiment de sécurité et de confort."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "N'oublions pas de dire bonne nuit à tout le monde. C'est une belle façon de montrer notre amour et notre gratitude à notre famille et nos amis, même à nos animaux de compagnie! Un câlin, un bisou, et un 'bonne nuit' chaleureux sont comme un rituel magique qui nous aide à nous endormir paisiblement. Cela nous fait sentir aimés et prêts pour une bonne nuit de sommeil. Quelle belle façon de terminer la journée, n'est-ce pas?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez suivi toutes les étapes à merveille! Maintenant, fermez doucement vos yeux, et imaginez un ciel plein d'étoiles scintillantes. Pensez à toutes les belles choses que vous pouvez faire demain. Vous avez fait un excellent travail aujourd'hui, et demain sera encore plus merveilleux. Vous êtes prêts à rêver de nouvelles aventures spatiales. Dormez bien, mes petits explorateurs."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous quand nous avons parlé de respirer profondément? Vous pouvez le faire à tout moment où vous avez besoin de vous calmer. C'est comme un super pouvoir secret que vous pouvez utiliser! Est-ce que vous vous souvenez de combien de respirations nous avons prises? Oui, exactement, trois grandes respirations. Vous voyez, maintenant vous êtes un expert en relaxation."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, il peut être difficile de se détendre tout de suite. C'est tout à fait normal, et il existe des astuces pour cela. Vous pouvez compter les étoiles dans votre tête ou imaginer flotter dans l'espace. Chaque étoile peut être un rêve que vous voulez explorer. C'est une technique amusante pour calmer votre esprit et vous aider à vous endormir. Essayez-la la prochaine fois que vous avez du mal à trouver le sommeil."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Et si nous chantions une petite berceuse ensemble? Les chansons douces sont comme des câlins musicaux qui nous aident à nous relaxer. Vous pouvez choisir votre chanson préférée, ou je peux vous en suggérer une. Les berceuses ont un rythme apaisant qui berce notre esprit et nous prépare à dormir. C'est un excellent moyen de terminer notre rituel du coucher."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quels sont les rêves que vous aimeriez avoir ce soir? Peut-être que vous voulez voler avec des papillons ou explorer une planète mystérieuse. Les rêves sont comme des films que nous pouvons créer dans notre esprit. Avez-vous un rêve spécial que vous aimez revisiter? Je suis curieux de savoir ce que vous aimeriez rêver. Rêver est une belle façon de continuer nos aventures même pendant notre sommeil."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant que nous avons parlé de nos rêves, pensons à ce que nous avons appris aujourd'hui. Nous avons découvert comment rendre l'heure du coucher amusante et relaxante. Avec des histoires, des respirations profondes, et de douces berceuses, nous avons tout ce qu'il faut pour passer une bonne nuit. Vous avez été de merveilleux compagnons pour cette aventure. Je suis tellement fier de vous!"
+    },
+    {
+      "id": "scene_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Il est temps de dire au revoir, mes petits amis. J'espère que vous passerez une nuit sereine et pleine de beaux rêves. N'oubliez pas de toujours vous préparer pour le lit avec joie et tranquillité. Je suis impatient de vous retrouver pour une nouvelle aventure bientôt. Dormez bien, et à très bientôt, mes chers explorateurs de rêves."
+    }
+  ],
+  "title": "Histoire de Bedtime de Mino"
+}

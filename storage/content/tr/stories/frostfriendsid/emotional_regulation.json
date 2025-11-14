@@ -1,0 +1,104 @@
+{
+  "id": "frost_friend_sid_emotional_regulation_story",
+  "character": "Frost Friend Sid",
+  "topic": "emotional_regulation",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Frost Friend Sid. Bugün birlikte duygularımızı nasıl yöneteceğimizi öğreneceğiz. Duygular, tıpkı gökyüzündeki bulutlar gibi değişebilir. Bazen mutlu, bazen üzgün, bazen de şaşkın hissedebiliriz. Ama merak etme, birlikte bu duyguları nasıl yöneteceğimizi keşfedeceğiz! Hazır mısın? Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımız, içimizdeki küçük sinyallerdir. Tıpkı bir trafik ışığı gibi, bize ne yapmamız gerektiğini söylerler. Mesela, mutlu olduğumuzda gülümseriz ve oyun oynamak isteriz. Üzgün olduğumuzda ise belki ağlamak isteriz ve birine sarılmak iyi gelebilir. Duygularımızı tanımak, onları yönetmenin ilk adımıdır. Sen de duygularını tanıyor musun?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi duygularımızı tanımak için basit bir egzersiz yapalım. Gözlerini kapat ve derin bir nefes al. İçinde hangi duygunun olduğunu hissetmeye çalış. Belki heyecanlısındır, belki de biraz endişeli. Hangi duyguyu hissedersen hisset, bu tamamen normal. Duygularımızı anlamak için kendimize zaman vermeliyiz. Nefes alıp verirken, duygularımızı fark etmek bize iyi gelir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Şimdi, duygularımızı yönetmek için birkaç eğlenceli yöntem öğrenelim. Mesela, üzgünsek bir resim çizmek veya en sevdiğimiz şarkıyı söylemek bize yardımcı olabilir. Ya da mutlu olduğumuzda arkadaşlarımızla oyun oynamak çok eğlenceli olabilir. Her duygu için farklı bir yol bulabiliriz. Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı yönetmek, kendimizi daha iyi hissetmemizi sağlar. Örneğin, kızgın olduğumuzda derin nefes alıp vererek sakinleşebiliriz. Bunu deneyelim mi? Birlikte üç derin nefes alalım. İlk nefeste içimizdeki tüm kızgınlığı serbest bırakalım. İkinci nefeste huzuru içimize çekelim. Üçüncü nefeste ise mutluluğu hissetmeye çalışalım."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Güzel iş çıkardın! Şimdi, duygularımızı ifade etmenin başka yollarını keşfedelim. Mesela, birine duygularımızı anlatmak çok faydalı olabilir. Annen, baban ya da en sevdiğin oyuncak ayın olabilir. Onlara nasıl hissettiğimizi söylediğimizde, içimizdeki yük hafifler. Duygularımızı paylaşmak, onları daha iyi anlamamıza yardımcı olur. Sen de bunu denemek ister misin?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi, şimdi duygularımızı kelimelerle ifade etmeye çalışalım. Belki üzgün olduğunda 'Bugün biraz üzgün hissediyorum' diyebilirsin. Ya da mutlu olduğunda 'Şu an çok mutluyum!' diyebilirsin. Bu kelimeler, duygularımızı daha iyi anlamamıza yardımcı olur. Duygularımızı kelimelere dökmek, onları yönetmemizi kolaylaştırır. Unutma, duygularımızı paylaşmak her zaman iyi hissettirir!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir duygu günlüğü tutmak da harika bir fikir olabilir. Her gün hissettiğin duyguları bir deftere yazabilirsin. Bugün mutlu muydun, yoksa biraz gergin mi? Belki de heyecanlıydın! Duygularını yazmak, onları daha iyi anlamana yardımcı olur. Ayrıca, zamanla hangi duyguları daha sık yaşadığını görebilirsin. Bu, duygularımızı yönetmek için harika bir yöntemdir."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı yönetmek, bazen başkalarına da yardımcı olabilir. Mesela, bir arkadaşın üzgün olduğunda ona nasıl yardımcı olabilirsin? Belki yanına gidip onunla konuşabilir, ona sarılabilir veya bir oyun oynayarak onu neşelendirebilirsin. Başkalarına yardım ettiğimizde, kendimizi de iyi hissederiz. Duygularımızı paylaştığımızda, dostluklarımız daha da güçlenir."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, sen duygularını nasıl ifade ediyorsun? Üzgün olduğunda ne yapıyorsun? Ya mutlu olduğunda? Belki de kızgın olduğunda farklı bir şey yapıyorsundur. Bu duyguları nasıl yönettiğini düşünmek, onları daha iyi anlamana yardımcı olabilir. Senin yöntemlerini duymak isterim!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Harika! Duygularımızı yönetmek, tıpkı bir macera gibi. Her gün yeni bir şey öğreniyoruz. Mesela, bugün yeni bir duygu keşfetmiş olabiliriz. Bu, duygularımızı daha iyi anlamamıza yardımcı olur. Her gün bu macerada yeni bir şeyler keşfetmek çok eğlenceli olabilir. Sen de bu macerada benimle misin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Unutma, duygularımızı yönetmek için her zaman yeni yollar bulabiliriz. Mesela, bir gün dans ederek, başka bir gün resim yaparak duygularımızı ifade edebiliriz. Herkesin duygularını yönetme şekli farklıdır ve bu çok normal. Senin de kendi benzersiz yöntemlerin olabilir. Denemekten korkma, her zaman yeni yollar keşfet!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, duygularımızı daha iyi yönetmek için bir oyun oynayalım. Her bir duyguyu bir renkle bağdaştıralım. Mesela, mutluluk sarı, üzüntü mavi olabilir. Şimdi, hissettiğin duyguyu bir renk olarak düşün. Bu renk, duygunu daha iyi anlamana yardımcı olabilir. Bu oyunu arkadaşlarınla da oynayabilirsin. Eğlenceli ve öğretici bir oyun!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı yönetmek, sağlıklı bir yaşam için çok önemlidir. Tıpkı dişlerimizi fırçaladığımız gibi, duygularımızı da düzenli olarak yönetmeliyiz. Bu, kendimizi daha iyi hissetmemize yardımcı olur. Her gün duygularımızı düşünmek ve anlamaya çalışmak, bize huzur ve mutluluk getirir. Duygularımızı yönetmek, hayatımızı daha da güzelleştirir."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık! Duygularımızı nasıl yöneteceğimizi öğrendik ve birçok yeni şey keşfettik. Seninle bu macerayı paylaşmak çok güzeldi. Unutma, duygularını her zaman ifade edebilirsin ve bu çok normal. Bir sonraki maceramızda görüşmek üzere! Kendine çok iyi bak ve hep mutlu kal!"
+    }
+  ],
+  "title": "Frost Friend Sid'ın Emotional Regulation Hikayesi"
+}

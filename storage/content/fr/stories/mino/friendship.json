@@ -1,0 +1,104 @@
+{
+  "id": "mino_friendship_story",
+  "character": "Mino",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis! Je suis Mino, et aujourd'hui, nous allons découvrir le merveilleux monde de l'amitié. Êtes-vous prêts pour une aventure pleine de sourires et de rires? L'amitié, c'est comme un voyage magique où nous apprenons à jouer ensemble et à partager de beaux moments. Chaque ami est spécial, et ensemble, nous pouvons créer des souvenirs incroyables. Alors, mettez votre casque spatial et préparez-vous à explorer ce voyage amical avec moi!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié commence souvent par un simple bonjour. Imaginez que vous êtes dans un parc et voyez un enfant jouer seul. Dire bonjour est comme ouvrir une porte à de nouvelles aventures. Cela montre que vous êtes prêt à partager un moment et peut-être même à découvrir un jeu amusant ensemble. Les mots gentils sont comme des étoiles qui illuminent le ciel de l'amitié. Alors, la prochaine fois que vous voyez quelqu'un, n'oubliez pas de sourire et de dire bonjour!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment être un bon ami. Un bon ami écoute, partage et aide. Quand votre ami a besoin d'aide pour construire une tour de blocs, vous pouvez l'aider en ajoutant un bloc ou deux. Cela montre que vous êtes là pour lui et que vous aimez travailler ensemble. Partager vos jouets ou vos crayons de couleur est aussi une belle manière de montrer votre amitié. Les amis rendent les moments plus joyeux et chaque petit geste compte!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons quelque chose ensemble! Imaginez que nous avons une boîte pleine de jouets. Que diriez-vous de partager ces jouets avec un ami? Partager, c'est comme donner un peu de bonheur à quelqu'un d'autre. Quand vous voyez le sourire de votre ami, cela vous rend heureux aussi. Vous pouvez dire, 'Veux-tu jouer avec mes jouets?' Et voyez comme cela rend la journée encore plus amusante. Vous êtes fantastiques! Partager, c'est magique!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de dire bonjour? Eh bien, faire des amis, c'est aussi apprendre à écouter. Quand un ami vous raconte une histoire ou partage un secret, il est important de l'écouter attentivement. Écouter montre que vous vous souciez de ce qu'il dit. C'est comme tendre l'oreille vers le ciel pour entendre les étoiles chanter. Alors, la prochaine fois que votre ami parle, écoutez bien et montrez que vous êtes là pour lui."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Et si nous jouions un jeu maintenant? Imaginez que nous sommes des astronautes dans l'espace. Que diriez-vous de faire semblant de flotter et de découvrir de nouvelles planètes ensemble? Vous pouvez dire, 'Viens, explorons cette planète ensemble!' Cela montre à votre ami que vous voulez partager cette aventure avec lui. Jouer ensemble renforce les liens et rend chaque moment spécial. Quel jeu aimeriez-vous jouer avec vos amis?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant des petites disputes qui peuvent arriver entre amis. Parfois, nous ne sommes pas d'accord, et c'est normal. Mais ce qui est important, c'est de parler calmement et de trouver une solution ensemble. Par exemple, si vous voulez jouer avec le même jouet, vous pouvez dire, 'Et si on jouait chacun son tour?' Trouver un compromis aide à garder l'amitié forte. Rappelez-vous, l'amitié, c'est aussi savoir pardonner et avancer ensemble."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail incroyable! Maintenant, essayons de prendre trois grandes respirations ensemble. Inspirez... et expirez... Encore une fois. Cela nous aide à nous calmer et à réfléchir. Parfois, quand nous sommes calmes, nous trouvons de meilleures solutions. Vous voyez, être patient et calme est une compétence importante pour l'amitié. Vous pouvez le faire! Chaque respiration est comme une vague apaisante qui nous aide à être de meilleurs amis."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des aventures que vous pouvez vivre avec vos amis. Que diriez-vous d'organiser un pique-nique imaginaire? Vous pouvez apporter des fruits, des sandwiches et même une couverture pour vous asseoir. Invitez vos amis et faites semblant de déguster un délicieux repas sous les étoiles. Ce genre de jeu stimule l'imagination et renforce les liens amicaux. Les souvenirs de ces aventures resteront longtemps dans votre cœur!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà fait un cadeau à un ami? Un cadeau n'a pas besoin d'être grand ou coûteux. Cela peut être une jolie pierre trouvée dans le jardin ou un dessin que vous avez fait. Offrir quelque chose à un ami montre que vous pensez à lui. Quel cadeau aimeriez-vous offrir à votre ami? Pensez à quelque chose qui le rendrait heureux et qui lui montrerait combien il est spécial pour vous."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Quand nous partageons et jouons ensemble, nous créons des souvenirs précieux. Ces souvenirs sont comme des étoiles brillantes dans le ciel de notre cœur. Vous pouvez les raconter à vos parents ou les dessiner pour ne jamais les oublier. Chaque sourire, chaque rire partagé avec un ami reste gravé dans notre mémoire. Et vous savez quoi? Vous aussi, vous êtes une étoile pour vos amis!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Souvenez-vous, l'amitié, c'est aussi être là dans les moments heureux et tristes. Si votre ami est triste, vous pouvez lui offrir un câlin ou lui dire quelque chose de gentil. Être présent montre que vous êtes un véritable ami. Comme un arc-en-ciel après la pluie, votre présence peut apporter de la joie. Quelle belle façon de montrer à vos amis qu'ils comptent pour vous!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Apprenons à dire merci. Quand un ami fait quelque chose de gentil pour vous, dire merci est une belle façon de montrer votre gratitude. Cela montre que vous appréciez leur geste. Vous pouvez dire, 'Merci pour ce joli dessin!' ou 'Merci d'avoir joué avec moi!' Les mots gentils rendent l'amitié encore plus spéciale. Pratiquons ensemble, 'Merci, mon ami!' Vous voyez, c'est facile et ça fait plaisir!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, vous avez appris tellement de choses sur l'amitié aujourd'hui! Vous êtes de merveilleux amis. N'oubliez pas que chaque jour est une nouvelle occasion de faire sourire quelqu'un. Vous pouvez le faire! Avec vos gestes gentils et vos mots doux, vous pouvez illuminer la journée de vos amis. Continuez à être le super ami que vous êtes, et souvenez-vous, chaque petit geste compte!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir exploré le monde de l'amitié avec moi aujourd'hui. J'ai passé un moment fantastique à partager ces histoires et conseils avec vous. N'oubliez pas que chaque ami est une étoile brillante dans votre ciel. Continuez à être gentils et attentionnés, et vos amitiés grandiront chaque jour. À bientôt pour une nouvelle aventure, mes chers amis! Prenez soin de vous et amusez-vous bien!"
+    }
+  ],
+  "title": "Histoire de Friendship de Mino"
+}

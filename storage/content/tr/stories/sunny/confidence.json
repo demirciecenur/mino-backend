@@ -1,0 +1,104 @@
+{
+  "id": "sunny_confidence_story",
+  "character": "Sunny",
+  "topic": "confidence",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Sunny. Bugün birlikte özgüven hakkında harika bir yolculuğa çıkacağız. Özgüven, kendimize inanmamız ve bir şeyleri başarabileceğimize olan güvenimizdir. Bu yolculukta seninle birlikte eğlenceli oyunlar oynayacağız ve yeni şeyler öğreneceğiz. Hazır mısın? Seni çok merak ediyorum."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven, yaptığımız şeylerde kendimize inanmamızı sağlar. Mesela, bir resim çizerken ya da yeni bir arkadaşla tanışırken özgüvenimiz bize cesaret verir. Özgüvenli olduğumuzda, yeni şeyler denemekten korkmayız. Bu, tıpkı bisiklete binmeyi öğrenmek gibi, önce biraz zor olabilir ama pratik yaptıkça daha iyi oluruz. Sen de böyle hissettiğin bir anı hatırlıyor musun?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özgüvenimizi artırmak için bazı basit adımlar atabiliriz. İlk adım, kendimize olumlu şeyler söylemek. Mesela, 'Ben bunu yapabilirim' demek gibi. İkinci adım, küçük hedefler koymak ve başardıkça daha büyük hedeflere geçmek. Üçüncü adım ise, hata yaptığımızda kendimize nazik davranmak. Herkes hata yapar ve bu, öğrenmenin bir parçasıdır. Şimdi birlikte bu adımları deneyelim."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte nefes alalım ve 'Ben bunu yapabilirim' diyelim. Derin bir nefes al ve nefesini ver. Harika! Bunu her gün yaparak kendine olan güvenini artırabilirsin. Unutma, sen çok özelsin ve her şeyi başarabilecek güce sahipsin. Şimdi birlikte bir sonraki adımımıza geçelim."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda özgüvenin nasıl önemli olduğundan bahsetmiştik. Şimdi, özgüveni günlük hayatımızda nasıl kullanabileceğimizi düşünelim. Mesela, oyuncaklarını toplamak ya da dişlerini fırçalamak gibi basit işleri yaparken özgüvenini kullanabilirsin. Bu işler küçük gibi görünse de, onları başarmak kendine olan güvenini artırır. Her gün bu işleri yaparak kendi başarı hikayeni yazabilirsin."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özgüvenli olmak, arkadaşlarımızla iyi ilişkiler kurmamıza da yardımcı olur. Mesela, bir arkadaşına yardım etmek ya da onlara güzel sözler söylemek, hem onların hem de senin kendini iyi hissetmeni sağlar. Bu tür davranışlar, arkadaşlıkları güçlendirir ve sana daha fazla güven kazandırır. Şimdi, bir arkadaşına güzel bir söz söylemeyi denemek ister misin?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi bir arkadaşına 'Sen harikasın' demeyi deneyebilirsin. Bunu söylediğinde, hem sen hem de arkadaşın kendinizi çok iyi hissedeceksiniz. Böylece, hem kendine hem de başkalarına olan güvenin artar. Hadi, bunu denemek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bir önceki bölümde arkadaşlarımıza güzel sözler söylemekten bahsettik. Peki, sen en son ne zaman bir arkadaşına böyle güzel bir şey söyledin? Hatırlıyor musun? Bunu düşündüğünde nasıl hissettin? Senin için çok özel bir an olduğunu düşünüyorum."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir arkadaşına güzel bir şey söylediğinde, onun yüzündeki gülümsemeyi görmek harika değil mi? Bu tür anlar, hem senin hem de arkadaşının gününü aydınlatabilir. Özgüven, sadece kendimize değil, başkalarına da iyi hissettirmek için harika bir araçtır. Şimdi, bir sonraki adımımızda başka neler yapabileceğimize bakalım."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özgüvenimizi artırmanın bir diğer yolu da, yeni şeyler denemektir. Mesela, hiç denemediğin bir oyunu oynamak ya da yeni bir resim yapmak gibi. İlk başta biraz zor gelebilir ama denemekten korkma. Her denemede daha iyi olacaksın ve bu, kendine olan güvenini artıracak. Şimdi, yeni bir şey denemek için hazır mısın?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Yeni bir şey denemek çok heyecan verici olabilir. Her denemede biraz daha cesur olacaksın. Unutma, her yeni deneyim, seni daha da güçlendirir. Seninle bu yolculuğu paylaşmak çok keyifli. Şimdi, birlikte nefes alalım ve 'Ben güçlüyüm' diyelim."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda yeni şeyler denemekten bahsettik. Şimdi, bu deneyimlerin sana nasıl yardımcı olabileceğini düşünelim. Yeni şeyler denedikçe, kendini daha iyi tanıyacak ve neler yapabileceğini keşfedeceksin. Bu, tıpkı bir macera gibi, her adımda yeni bir şey öğrenmek demektir. Her gün küçük bir adım atarak, büyük başarılar elde edebilirsin."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özgüvenimizi artırmanın bir diğer yolu da, başarılarımızı kutlamaktır. Küçük ya da büyük, her başarı önemlidir. Mesela, bir resmi tamamladığında ya da bir oyunu kazandığında kendini kutlamak harika bir fikir. Bu, sana daha fazla güven verir ve bir sonraki hedefin için seni motive eder. Şimdi, en son başardığın bir şeyi düşün ve kendini kutla!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi birlikte 'Aferin bana!' diyelim. Başarılarını kutlamak, sana daha fazla özgüven verir ve seni daha da güçlendirir. Unutma, sen her zaman en iyisini yapıyorsun ve bu çok değerli. Şimdi, birlikte bir sonraki adımımıza geçelim."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün özgüven hakkında harika şeyler öğrendik ve birlikte eğlenceli bir yolculuk yaptık. Seninle bu kadar özel bir konuyu paylaşmak benim için çok değerliydi. Unutma, sen harikasın ve her şeyi başarabilecek güce sahipsin. Hep böyle güçlü ve cesur kal. Bir sonraki buluşmamızda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Sunny'ın Confidence Hikayesi"
+}

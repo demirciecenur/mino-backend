@@ -1,0 +1,104 @@
+{
+  "id": "mino_homework_story",
+  "character": "Mino",
+  "topic": "homework",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mino, uzayın en renkli ve eğlenceli kaşifi. Bugün seninle birlikte ödevler hakkında harika bir yolculuğa çıkacağız. Ödevler, öğrenmemize ve yeni şeyler keşfetmemize yardımcı olur. Sen de benimle bu maceraya katılmak ister misin? Hazırsan, başlıyoruz!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ödev yapmak, tıpkı oyuncaklarını toplamak gibi bir sorumluluktur. Sorumluluklarımız, büyüdüğümüzü ve daha çok şey öğrendiğimizi gösterir. Ödevler, bize yeni bilgiler öğrenme fırsatı sunar. Mesela, bir gün uzay hakkında bir şeyler öğrenmek istersen, ödevlerin sana yardımcı olabilir. Şimdi, ödevlerin neden önemli olduğunu biraz daha keşfedelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ödev yaparken dikkatli ve sabırlı olmak önemlidir. Her gün biraz zaman ayırarak, ödevlerini düzenli olarak yapabilirsin. Bu, öğrenme alışkanlıklarını geliştirir ve daha iyi sonuçlar almanı sağlar. Örneğin, her gün 15 dakika ödev yapmak, bilgilerini pekiştirir. Şimdi, birlikte ödev yapmanın yollarını düşünelim."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ödev yaparken bazen zorlanabilirsin, ama unutma, her zorluk yeni bir öğrenme fırsatıdır! Kendine güven ve sabırlı ol. Zorlandığında, bir mola verip derin bir nefes alabilirsin. Haydi, birlikte üç derin nefes alalım. Harika, şimdi devam edebiliriz!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda, ödev yapmanın öneminden bahsetmiştik. Şimdi, ödev yaparken nasıl daha eğlenceli hale getirebileceğimizi konuşalım. Mesela, bir ödev arkadaşın olabilir ve birlikte çalışabilirsiniz. Bu, hem eğlenceli hem de motive edici olabilir. Başka hangi yollarla ödev yapmayı eğlenceli hale getirebiliriz, bir düşünelim."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ödev yaparken dikkatini toplamak bazen zor olabilir. Ancak, dikkatini toplamak için sessiz bir ortamda çalışmak işe yarayabilir. Ayrıca, ödevlerini yaparken kısa molalar vermek de dikkatini arttırabilir. Molalarda neler yapabileceğini düşündün mü? Belki biraz dans edebilirsin ya da kısa bir hikaye okuyabilirsin."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ödev yaparken, bir plan yapmak çok işine yarayabilir. Ödevlerine başlamadan önce hangi konuları çalışacağını belirleyebilirsin. Böylece hangi sırayla çalışman gerektiğini bilirsin ve daha organize olursun. Bu plan, her gün ne kadar çalışman gerektiğini de gösterir. Şimdi, birlikte bir ödev planı yapmayı deneyelim."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ödev yaparken kendini motive etmek için hedefler koyabilirsin. Mesela, bir konuyu bitirdikten sonra kendine küçük bir ödül verebilirsin. Bu, motivasyonunu artırır ve seni çalışmaya teşvik eder. Hedeflerin ne kadar küçük ya da büyük olursa olsun, onları başarmak seni mutlu edecektir. Şimdi, senin hedeflerin neler olabilir?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda hedeflerden bahsetmiştik. Şimdi, ödev yaparken nasıl daha verimli olabileceğimizi konuşalım. Ödev yaparken zamanı iyi kullanmak önemlidir. Her gün düzenli çalışmak, zaman yönetimini geliştirir. Peki, sen ödev yaparken nasıl zaman yönetimi yapıyorsun?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ödev yaparken en sevdiğin şey nedir? Belki resim yapmak, belki de matematik problemleri çözmek. Senin için ödev yapmayı eğlenceli kılan şeyleri merak ediyorum. Hadi, birlikte düşünelim! Senin için ödev yapmayı eğlenceli hale getiren şeyler neler?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ödev yaparken dikkatli olmayı ve hatalarını düzeltmeyi unutma. Hatalar, öğrenmenin bir parçasıdır ve onları düzeltmek seni daha iyi yapar. Hatalarını görmek ve düzeltmek için ödevlerini kontrol etmeyi alışkanlık haline getirebilirsin. Bu, daha dikkatli olmanı sağlar. Şimdi, birlikte dikkatli olmayı nasıl öğrenebiliriz?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ödevlerini bitirdiğinde kendinle gurur duyabilirsin. Çünkü bu, çok çalıştığını ve öğrendiğini gösterir. Kendine her zaman inanmaya devam et ve başardıklarını kutla. Küçük başarılar bile büyük mutluluklar getirebilir. Sen de başarılarını kutlamak için neler yapıyorsun?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ödevlerimizi bitirdiğimizde, dinlenmek ve eğlenmek için zaman ayırabiliriz. Dinlenmek, zihnimizi tazeler ve yeni şeyler öğrenmeye hazırlar. Eğlenceli aktiviteler yaparak günümüzü renklendirebiliriz. Sen dinlenirken neler yapmayı seviyorsun? Belki bir oyun oynamak ya da bir kitap okumak."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ödev yapmanın pek çok faydası olduğunu gördük. Şimdi, öğrendiklerimizi gözden geçirelim. Ödev yaparken dikkatli olmayı, plan yapmayı ve motivasyonu artırmayı öğrendik. Sen de bu öğrendiklerini uygulamaya başlayabilirsin. Bir sonraki ödevini yaparken bu ipuçlarını denemek ister misin?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir macera yaşadık ve ödevler hakkında pek çok şey öğrendik. Ödevlerimizi yaparken eğlenmeyi ve öğrenmeyi unutmayalım. Seninle bu yolculuğa çıkmak çok keyifliydi. Bir dahaki sefere görüşmek üzere, küçük dostum! Kendine iyi bak ve daima öğrenmeye devam et!"
+    }
+  ],
+  "title": "Mino'ın Homework Hikayesi"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "piggy_friend_imagination_story",
+  "character": "Piggy Friend",
+  "topic": "imagination",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Piggy Friend et je suis tellement heureux de te rencontrer aujourd'hui. Nous allons partir dans un voyage incroyable sur l'imagination. Es-tu prêt à explorer avec moi? L'imagination est comme une clé magique qui ouvre des portes vers des mondes merveilleux. Je suis tellement curieux de savoir ce que nous allons découvrir ensemble. Allons-y et amusons-nous!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est comme avoir un coffre au trésor rempli de rêves et d'idées. As-tu déjà imaginé que tu étais un pirate sur un bateau en bois? Ou peut-être un astronaute volant dans l'espace? Avec l'imagination, tu peux être tout ce que tu veux. N'est-ce pas merveilleux de pouvoir rêver aussi grand? Maintenant, parlons de ce que tu aimerais imaginer aujourd'hui."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour imaginer, nous devons d'abord fermer les yeux et prendre une grande inspiration. Prends une grande respiration avec moi, un... deux... trois... et expire doucement. Imagine maintenant que tu es dans un jardin magique où les fleurs parlent. Que diraient-elles, à ton avis? Écoute attentivement et laisse ton esprit peindre ce monde coloré."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Tu fais un excellent travail en utilisant ton imagination. Peut-être que les fleurs chantent une chanson joyeuse ou murmurent des secrets doux. Tu peux inventer n'importe quelle histoire que tu aimes. Plus tu pratiques, plus ton imagination devient forte et belle. Continue comme ça, tu es incroyable!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi quand nous avons parlé des pirates et des astronautes? Avec l'imagination, tu peux aussi être un chevalier courageux ou une princesse brillante dans un château enchanté. Comment serait ton château? Aurait-il des tours hautes et des ponts-levis? Ou peut-être un grand jardin avec des licornes? Faisons ensemble un voyage dans ce monde magique."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour rendre notre château encore plus spécial, nous allons ajouter nos détails préférés. Peut-être des fenêtres en forme d'étoiles ou des portes qui chantent quand on les ouvre. Imagine maintenant que tu entres dans ce château. Que vois-tu autour de toi? Faisons un tour ensemble et découvrons tous les secrets cachés."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "C'est fantastique! Ton château est vraiment unique et plein de magie. Chaque détail que tu as imaginé le rend encore plus spécial. N'oublie jamais que ton imagination n'a pas de limites. Tu peux créer des mondes entiers juste avec tes pensées. Continue à rêver et à explorer, tu es un véritable créateur d'histoires!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Passons maintenant à un autre type d'aventure. As-tu déjà pensé à voler comme un oiseau dans le ciel? Avec l'imagination, tu peux déployer tes ailes et survoler des montagnes et des océans. Regarde en bas, que vois-tu? Peut-être des villes miniatures ou des forêts luxuriantes. Laisse ton esprit s'envoler et découvre ce monde vu d'en haut."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour voler, nous devons être légers comme une plume. Faisons semblant de battre des ailes. Un, deux, trois, et maintenant nous sommes dans le ciel. Sens-tu le vent doux sur ton visage? C'est merveilleux de flotter si haut. Continue de battre des ailes, nous avons encore beaucoup à explorer."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "N'est-ce pas incroyable ce que l'imagination peut faire? Nous avons parcouru tant d'endroits magiques ensemble. Et maintenant, je me demande où tu aimerais aller ensuite. Peut-être sur la lune ou au fond de l'océan? Chaque endroit a ses propres mystères à découvrir. Alors, où partons-nous maintenant?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dis-moi, cher ami, quel est ton endroit imaginaire préféré? Est-ce un jardin rempli de bonbons ou une plage avec des châteaux de sable géants? J'aimerais beaucoup entendre tes idées. Chaque endroit que tu imagines est spécial et unique, juste comme toi. Partage avec moi ton monde magique."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Merci d'avoir partagé tes idées avec moi. C'est vraiment amusant d'imaginer tous ces endroits merveilleux. Avec l'imagination, chaque jour peut être une nouvelle aventure. Tu peux revenir à ces mondes magiques chaque fois que tu veux. Rappelle-toi toujours que l'imagination est ton amie pour la vie."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as fait un travail fantastique en explorant avec ton imagination. Continue à rêver et à créer, car chaque rêve est une nouvelle histoire qui attend d'être racontée. Tu es un véritable aventurier dans le monde de l'imagination. Je suis si fier de toi et de tout ce que tu as accompli aujourd'hui."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était un plaisir de voyager avec toi dans le monde de l'imagination. Je suis si heureux d'avoir partagé ces moments magiques avec toi. N'oublie jamais que tu peux toujours revenir pour explorer encore plus. Merci d'avoir rêvé avec moi, cher ami. À bientôt pour une nouvelle aventure! Au revoir et prends soin de toi!"
+    }
+  ],
+  "title": "Histoire de Imagination de Piggy Friend"
+}

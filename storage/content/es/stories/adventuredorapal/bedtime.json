@@ -1,0 +1,98 @@
+{
+  "id": "adventure_dora_pal_bedtime_story",
+  "character": "Adventure Dora Pal",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Adventure Dora Pal. Hoy vamos a embarcarnos en una aventura increíble sobre la hora de dormir. ¿Estás listo? ¡Estoy muy emocionada de compartir este viaje contigo! Juntos, aprenderemos sobre las rutinas antes de dormir. ¡Será muy divertido!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La hora de dormir es un momento especial del día. Es cuando nuestro cuerpo se prepara para descansar y soñar. Para que sea más fácil, podemos seguir una rutina que nos ayude a relajarnos. Una rutina es algo que hacemos todos los días, como cepillarnos los dientes o ponernos el pijama. ¿Te gusta ponerte tu pijama favorito?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Primero, vamos a hablar sobre cepillarnos los dientes. Es muy importante para mantener nuestros dientes fuertes y saludables. ¿Sabías que deberíamos cepillarnos los dientes durante dos minutos? Puedes contar hasta 120 mientras lo haces. ¡Vamos a intentarlo juntos! Uno, dos, tres..."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora que nuestros dientes están limpios, es hora de ponernos el pijama. Elige tu pijama más cómodo. ¿Cuál es tu color favorito? Ponerse el pijama nos dice a nuestro cuerpo que es hora de relajarse. ¡Qué bien lo estás haciendo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Después de ponernos el pijama, es bueno leer un cuento. Los cuentos nos llevan a lugares mágicos y nos ayudan a relajarnos. ¿Tienes un cuento favorito que te gusta escuchar antes de dormir? Leer juntos es una parte muy especial de la rutina. ¡Podemos volar con nuestra imaginación!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a probar una técnica de relajación. Vamos a respirar profundamente. Inhala contando hasta tres, y luego exhala contando hasta tres. Vamos a hacerlo juntos: uno, dos, tres, inhalamos. Uno, dos, tres, exhalamos. ¡Qué relajante!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Excelente! Respirar profundamente ayuda a nuestro cuerpo a relajarse. Ahora, podemos pensar en cosas felices que nos hacen sonreír. ¿Qué te hace feliz? Tal vez un paseo al parque o jugar con tus amigos. Pensar en cosas felices nos ayuda a dormir mejor."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gusta escuchar música suave antes de dormir? La música suave es como una caricia para nuestros oídos. ¿Tienes una canción favorita que te gusta escuchar cuando te acuestas? Escuchar música puede ser una parte bonita de nuestra rutina de dormir."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos hablado de nuestras rutinas, es hora de prepararnos para dormir. Recuerda, una buena noche de sueño nos ayuda a tener energía para el día siguiente. ¿Estás listo para soñar con aventuras mágicas? Dormir bien es como recargar nuestras baterías."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Antes de cerrar los ojos, podemos pensar en lo que más nos gustó del día. Tal vez fue jugar con un amigo o aprender algo nuevo. Pensar en cosas bonitas nos ayuda a estar agradecidos. ¡Vamos a intentarlo juntos!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo haces! Ahora, cierra los ojos lentamente y piensa en un lugar feliz. Podría ser una playa soleada o un prado lleno de flores. ¿Puedes imaginarlo? Deja que tu mente viaje a ese lugar mientras te relajas."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez has soñado con volar como un pájaro? Los sueños son como películas mágicas que vemos mientras dormimos. ¿Qué te gustaría soñar esta noche? Tal vez una aventura increíble en la selva o un viaje en un globo aerostático. ¡Los sueños son maravillosos!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos relajados, es hora de despedirse del día. Recuerda que mañana es un nuevo día lleno de posibilidades. Dormir bien nos prepara para disfrutarlo al máximo. ¡Estoy muy orgullosa de ti por seguir esta rutina de dormir!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es hora de decir adiós, pequeño amigo. Espero que hayas disfrutado de nuestra aventura sobre la hora de dormir. ¡Recuerda, cada noche es una oportunidad para descansar y soñar! Hasta la próxima vez, duerme bien y sueña con cosas maravillosas. ¡Buenas noches!"
+    }
+  ],
+  "title": "Historia de Bedtime de Adventure Dora Pal"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "swamp_buddy_hero_nutrition_alimentation_saine_habitudes_alimentaires_aliments_sains_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "nutrition, alimentation saine, habitudes alimentaires, aliments sains",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis ton Swamp Buddy Hero préféré. Aujourd'hui, nous allons explorer ensemble le monde merveilleux de la nutrition et des aliments sains. Es-tu prêt pour cette aventure amusante? Nous allons découvrir comment les aliments nous aident à grandir forts et en bonne santé. Je suis tellement curieux de savoir ce que tu aimes manger!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par parler des fruits et légumes. Tu sais, ces aliments colorés sont pleins de vitamines qui nous aident à rester en forme. Par exemple, les carottes sont bonnes pour tes yeux, et les pommes sont délicieuses et croquantes. As-tu un fruit ou un légume préféré? Moi, j'adore les bananes parce qu'elles me donnent de l'énergie pour mes aventures dans le marais!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des repas équilibrés. Un repas équilibré est comme un puzzle où chaque pièce est importante. Il doit avoir des protéines, comme du poulet ou des haricots, pour nous aider à construire des muscles. Ensuite, nous ajoutons des glucides, comme du riz ou du pain, qui nous donnent de l'énergie. N'oublions pas les légumes pour les vitamines et les minéraux!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons de faire ensemble un repas équilibré! Imaginons que nous préparons un déjeuner. Que dirais-tu d'un sandwich au poulet avec de la laitue et des tomates? Ajoutons une pomme et un verre de lait. Super! Ça a l'air délicieux et c'est plein de bonnes choses pour ton corps. Tu peux le faire, je crois en toi!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Passons maintenant aux collations. Les collations sont importantes pour nous donner un petit coup de pouce entre les repas. Mais attention, il faut choisir des collations saines! Une poignée d'amandes ou un yaourt sont de bons choix. Ils nous aident à rester concentrés et pleins d'énergie pour jouer. Quelle est ta collation préférée?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons aussi de l'eau. L'eau est essentielle pour notre corps, tout comme une voiture a besoin de carburant. Elle nous aide à rester hydratés et à fonctionner correctement. Il est important de boire beaucoup d'eau chaque jour, surtout quand il fait chaud ou après avoir joué. Alors, n'oublie pas de boire de l'eau!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, voyons si tu peux deviner combien de verres d'eau il faut boire chaque jour. Oui, environ six à huit verres, c'est parfait! Tu peux y arriver, un verre à la fois! Chaque fois que tu bois de l'eau, ton corps te remercie en te gardant en pleine forme. Bravo, continue comme ça!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des habitudes alimentaires. Avoir de bonnes habitudes alimentaires, c'est manger à des heures régulières et ne pas sauter de repas. Cela aide notre corps à savoir quand il va recevoir de l'énergie. Pense à ton corps comme à une horloge qui aime la routine. Es-tu prêt à essayer de manger à la même heure chaque jour?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons de créer une routine alimentaire ensemble. Par exemple, le matin, tu peux commencer par un bon petit déjeuner avec des céréales et un fruit. À midi, un déjeuner équilibré avec des légumes et des protéines. Et le soir, un dîner léger pour bien dormir. En ayant une routine, ton corps sera heureux et en bonne santé!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un excellent travail! Continuons avec un petit exercice. Comptons ensemble jusqu'à trois et faisons une grande respiration. Un, deux, trois, inspire profondément et expire. Cela aide non seulement à se calmer, mais aussi à se préparer pour de nouvelles aventures. Tu es formidable!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Passons à la diversité alimentaire. Manger une variété d'aliments assure que tu reçois tous les nutriments dont tu as besoin. Chaque aliment a quelque chose de spécial à offrir à ton corps. Alors, n'hésite pas à essayer de nouveaux aliments, même ceux qui semblent étranges. Peut-être découvriras-tu un nouveau plat préféré!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu déjà essayé quelque chose de nouveau récemment? Peut-être un fruit exotique ou un légume que tu ne connaissais pas? C'est toujours amusant d'explorer de nouvelles saveurs. Et toi, qu'aimerais-tu essayer la prochaine fois que tu seras à table?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "N'oublions pas l'importance de manger ensemble en famille. C'est un moment spécial pour partager des histoires et des rires. En plus de rendre le repas plus agréable, cela t'encourage à manger plus sainement. Alors, la prochaine fois que tu es à table, profite de ce moment avec ceux que tu aimes."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu sais, même moi, Swamp Buddy Hero, j'adore partager mes repas avec mes amis du marais. Nous rions, nous chantons et nous passons un bon moment ensemble. As-tu un moment préféré pour manger avec ta famille? C'est toujours plus amusant quand on est ensemble, n'est-ce pas?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était une aventure incroyable de découvrir la nutrition ensemble! N'oublie pas, chaque petit pas vers une alimentation saine est une grande victoire. Je suis tellement fier de toi et de tout ce que tu as appris aujourd'hui. Continue à explorer les aliments sains et à prendre soin de ton corps. À bientôt, petit ami, pour une nouvelle aventure!"
+    }
+  ],
+  "title": "Histoire de Nutrition de Swamp Buddy Hero"
+}

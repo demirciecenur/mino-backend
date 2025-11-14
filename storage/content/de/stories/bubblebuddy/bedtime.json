@@ -1,0 +1,98 @@
+{
+  "id": "bubble_buddy_bedtime_story",
+  "character": "Bubble Buddy",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin dein fröhlicher Bubble Buddy. Heute Abend machen wir eine spannende Reise in die Welt des Schlafengehens. Bist du bereit, mit mir auf Entdeckungstour zu gehen? Schlafenszeit kann so viel Spaß machen, wenn wir es zusammen erleben. Ich bin so neugierig darauf, was wir alles erleben werden. Lass uns beginnen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an all die Abenteuer, die wir heute erlebt haben? Jetzt ist es Zeit, sich auf eine neue Reise vorzubereiten – die Traumreise! Bevor wir ins Bett hüpfen, können wir uns auf das Schlafengehen einstimmen. Denn Entspannung ist der Schlüssel zu schönen Träumen. Gemeinsam werden wir herausfinden, wie wir uns am besten auf die Nacht vorbereiten können."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Zuerst sollten wir uns umziehen und unsere Schlafanzüge anziehen. Schlafanzüge sind wie kleine Kuscheldecken, die uns warmhalten. Hast du schon deinen Lieblingsschlafanzug an? Wenn nicht, dann ist jetzt die perfekte Zeit dafür! Wenn wir uns wohlfühlen, können wir uns viel besser entspannen. Und Entspannung hilft uns, schneller einzuschlafen."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Nun, da wir in unseren Schlafanzügen sind, lass uns unsere Zähne putzen. Zähneputzen ist wichtig, damit unsere Zähne sauber und gesund bleiben. Kannst du die Zahnbürste in die Hand nehmen und mit mir bis fünf zählen, während wir putzen? Eins, zwei, drei, vier, fünf! Du machst das wunderbar!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo unsere Zähne blitzeblank sind, können wir uns auf die Entspannung konzentrieren. Erinnerst du dich, wie wir heute zusammen gespielt haben? Jetzt ist es Zeit, unseren Körper zu beruhigen. Lass uns drei tiefe Atemzüge zusammen machen. Einatmen, ausatmen. Nochmal, einatmen, ausatmen. Und ein letztes Mal, einatmen, ausatmen. Fühlst du, wie ruhig du wirst?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Nun ist es Zeit, ein kleines Gute-Nacht-Lied zu singen. Lieder helfen uns, uns zu entspannen und auf den Schlaf vorzubereiten. Kennst du ein Lied, das du gerne hörst, bevor du einschläfst? Lass uns zusammen ein einfaches Lied singen. Vielleicht summen wir einfach eine Melodie. So können wir uns noch besser auf den Schlaf einstellen."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hast du toll gesungen! Jetzt sind wir fast bereit für die Traumreise. Bevor wir die Augen schließen, können wir uns unsere Lieblingsgeschichten vorstellen. Was ist deine Lieblingsgeschichte? Vielleicht eine über einen mutigen Helden oder ein lustiges Tier? Lass uns darüber nachdenken, während wir ins Bett kuscheln."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über die Traumreise gesprochen haben? Die beste Art, in die Traumwelt zu reisen, ist, unsere Augen sanft zu schließen. Wenn wir die Augen schließen, können wir uns alles vorstellen, was wir wollen. Vielleicht ein Abenteuer unter Wasser oder auf einer Wolke? Die Möglichkeiten sind endlos!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Welche Art von Träumen magst du am liebsten? Träumst du gerne von Abenteuern oder von lustigen Tieren? Vielleicht träumst du gerne von einem Tag am Strand oder in den Bergen. Es gibt so viele wunderbare Möglichkeiten. Was denkst du, worüber du heute Nacht träumen wirst?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir bereit sind, in die Traumwelt zu reisen, ist es wichtig, sich wohl zu fühlen. Kuschel dich in deine Decke und fühl dich sicher und geborgen. Manchmal hilft es, ein Kuscheltier bei sich zu haben. Hast du ein Lieblingskuscheltier, das du mit ins Bett nimmst? Es kann ein treuer Freund auf deiner Traumreise sein."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bevor wir endgültig in die Traumwelt abtauchen, lass uns noch einmal tief durchatmen. Einatmen, ausatmen. Fühlst du, wie ruhig und entspannt du jetzt bist? Jetzt ist der perfekte Moment, die Augen zu schließen und die Träume kommen zu lassen. Du hast alles getan, um dich auf den Schlaf vorzubereiten."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du hast das ganz wunderbar gemacht! Schlafenszeit kann wirklich eine schöne Zeit sein, wenn wir uns darauf vorbereiten. Du bist bereit, die Nacht mit schönen Träumen zu füllen. Lass die Fantasie fliegen und erlebe wunderbare Abenteuer in deinen Träumen. Du bist ein echter Schlafprofi!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Wenn wir morgen aufwachen, gibt es wieder so viel zu entdecken. Aber jetzt ist es Zeit, gut zu schlafen und neue Energie zu tanken. Schlaf ist wichtig, damit wir stark und gesund bleiben. Morgen ist ein neuer Tag voller Abenteuer und Spaß. Aber für jetzt, lass uns die Augen schließen und die Nacht genießen."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, diesen Abend mit dir zu verbringen. Ich hoffe, du hast viele schöne Träume und wachst morgen mit einem Lächeln auf. Schlaf gut, kleiner Freund. Bis zum nächsten Mal, wenn wir wieder gemeinsam auf Abenteuerreise gehen. Gute Nacht und schlaf schön!"
+    }
+  ],
+  "title": "Bubble Buddys Bedtime Geschichte"
+}

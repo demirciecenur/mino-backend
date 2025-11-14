@@ -1,0 +1,104 @@
+{
+  "id": "clever_mouse_jerry_temps_d'écran_sécurité_numérique_utilisation_de_la_technologie_habitudes_saines_d'écran_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis! Je suis Jerry, la petite souris maligne. Aujourd'hui, nous allons explorer l'univers fascinant des écrans et comment les utiliser de manière sûre et amusante. Êtes-vous prêts pour cette aventure? Ensemble, nous allons découvrir comment utiliser la technologie tout en gardant des habitudes saines. Je suis tellement curieux de savoir ce que vous en pensez!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Saviez-vous que les écrans peuvent être comme des fenêtres magiques vers d'autres mondes? Mais, tout comme on ne regarde pas le soleil trop longtemps, il faut aussi faire attention au temps passé devant les écrans. Trop d'écran peut rendre nos yeux fatigués, comme quand on court trop longtemps. C'est pourquoi il est important de prendre des pauses et de faire d'autres activités amusantes. Maintenant, parlons de quelques façons de garder nos yeux en sécurité."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une bonne règle est de prendre une pause de 10 minutes après chaque heure passée devant un écran. Pendant cette pause, on peut faire quelque chose de différent, comme jouer dehors ou lire un livre. C'est un peu comme donner à nos yeux une petite sieste. Vous voyez, même les yeux ont besoin de repos pour rester forts! N'oubliez pas de cligner des yeux souvent, c'est un exercice facile et amusant."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Maintenant, pensons à toutes les choses amusantes que nous pouvons faire pendant nos pauses. Peut-être faire un dessin, ou danser sur notre chanson préférée. On pourrait aussi construire une tour de blocs plus haute que nous! Rappelez-vous, chaque petite pause peut être une nouvelle aventure. Vous êtes tous des explorateurs incroyables!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de la sécurité numérique. Il est important de ne jamais partager d'informations personnelles en ligne, comme notre adresse ou notre école. C'est un peu comme garder un secret spécial pour nous. Quand nous jouons à des jeux en ligne, nous devons aussi nous assurer qu'ils sont adaptés à notre âge. Il est toujours bon de demander à un adulte si nous ne sommes pas sûrs."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre astuce est de toujours utiliser des mots gentils quand nous parlons en ligne. Tout comme dans la cour de récréation, il est important d'être respectueux et poli. Nous pouvons faire des amis en ligne, mais il est essentiel de rester prudent et de ne pas parler à des inconnus. Pensez à Internet comme à un grand parc de jeux où la gentillesse est la clé!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous quand nous avons parlé de la gentillesse? Eh bien, cela s'applique aussi aux jeux vidéo! Il est important de choisir des jeux qui nous apprennent de bonnes choses et qui nous font rire. Jouer ensemble avec des amis ou en famille peut rendre l'expérience encore plus amusante. Maintenant, parlons de comment choisir les meilleurs jeux pour nous."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les meilleurs jeux sont ceux qui nous font bouger, réfléchir et apprendre de nouvelles choses. Parfois, un jeu de construction peut nous aider à devenir de petits architectes! Ou bien, un jeu de mémoire peut nous rendre aussi malins que des renards. L'important est de toujours s'assurer que le jeu est amusant et adapté à notre âge. Maintenant, voyons ce que nous avons appris jusqu'ici."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez tous fait un travail formidable en apprenant sur la sécurité numérique et les habitudes saines d'écran. Chaque étape que vous faites vous rend plus intelligent et plus fort. N'oubliez pas que chaque fois que vous utilisez un écran, vous avez le pouvoir de faire des choix sages. Continuez à explorer, à apprendre et à vous amuser. Bravo, vous êtes des champions!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Alors, quelle est votre activité préférée à faire pendant une pause d'écran? Est-ce que vous aimez sauter comme des grenouilles ou peut-être peindre comme des artistes? Peut-être que vous aimez lire des histoires passionnantes? Partagez vos idées avec vos amis et votre famille. Je suis sûr qu'ils aimeraient savoir ce que vous aimez faire!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous, les écrans ne sont qu'une partie de notre monde rempli de découvertes. Il y a tant de choses à explorer, que ce soit en jouant dans le parc ou en construisant des châteaux de sable. Chaque journée est une nouvelle aventure qui nous attend. Utiliser les écrans de manière équilibrée nous aide à en profiter encore plus. Maintenant, pensons à comment nous pouvons partager ce que nous avons appris."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une bonne idée est de parler à nos parents de ce que nous avons appris sur les écrans. Nous pouvons leur montrer comment nous prenons des pauses et choisissons des jeux éducatifs. C'est une excellente façon de montrer à quel point nous sommes responsables. En partageant nos connaissances, nous aidons aussi notre famille à adopter des habitudes saines. Ensemble, nous pouvons faire de la sécurité numérique une priorité."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous ce que nous avons dit sur le partage avec la famille? C'est comme organiser une fête où tout le monde apprend et s'amuse ensemble. Peut-être que vous pouvez même organiser un petit atelier avec vos amis pour parler des écrans. C'est un bon moyen de devenir un héros de la sécurité numérique. Maintenant, pensons à comment nous pouvons continuer à apprendre."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Chaque jour est une chance de découvrir quelque chose de nouveau. Que ce soit un nouveau jeu, une nouvelle chanson ou une nouvelle histoire, l'apprentissage ne s'arrête jamais. Continuez à poser des questions et à explorer le monde autour de vous. Vous avez déjà appris tellement de choses, et je suis sûr que vous allez en apprendre encore plus. Vous êtes tous des explorateurs fantastiques!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce temps avec moi, mes amis! Ensemble, nous avons découvert tant de choses sur les écrans et comment les utiliser de manière sûre et amusante. N'oubliez pas de prendre soin de vos yeux et de partager vos connaissances avec votre famille. Je suis fier de vous et de tout ce que vous avez appris. À bientôt pour une nouvelle aventure, mes petits explorateurs!"
+    }
+  ],
+  "title": "Histoire de Screen Time de Clever Mouse Jerry"
+}

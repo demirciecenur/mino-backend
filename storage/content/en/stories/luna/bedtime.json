@@ -1,0 +1,98 @@
+{
+  "id": "luna_bedtime_story",
+  "title": "Luna's Bedtime Story",
+  "character": "Luna",
+  "topic": "bedtime",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little star! I'm Luna, and I'm so happy to see you tonight. We're going to have a magical bedtime adventure together. Are you ready to float on a cloud and visit dreamland with me? We'll learn all about getting cozy and calm for a good night's sleep. Let's start this dreamy journey, shall we?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about why bedtime is so important. It's the time when your body rests and grows strong. Just like a flower needs the night to bloom beautifully in the morning, you need sleep to wake up refreshed and happy. Remember when you feel sleepy, it's your body's way of saying it's time to rest. So, let's get ready to make bedtime a magical time!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "To get ready for bed, we can start with a little routine. First, let's make sure our room is cozy and tidy, like picking up our toys and putting them in their special places. This helps us feel calm and relaxed. Next, we can brush our teeth to keep them shiny and clean. Just like a star twinkles in the night sky, our smiles will shine brightly too!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job tidying up! You're doing wonderfully. Now, let's put on our pajamas. They are like our special dream clothes, soft and snuggly, ready to take us to dreamland. Imagine your pajamas are made of clouds, so light and fluffy. Can you feel how cozy they are? You're almost ready for a good night's sleep!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Once we're in our pajamas, it's time to relax and wind down. How about we read a bedtime story or listen to soft music? Stories and melodies can help our minds settle, like gentle waves on a quiet sea. They take us on adventures in our dreams, where anything is possible. What kind of story would you like to hear tonight?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now that we've talked about stories, let's do a fun little exercise. We can close our eyes and imagine our favorite place. Is it a magical forest or maybe a starry sky? Picture yourself there, feeling calm and happy. This helps our minds get ready for sleep. Isn't it wonderful how imagination can take us anywhere?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try a relaxing breathing exercise together. Breathe in gently like you're smelling a lovely flower. Hold it for just a moment, and then breathe out slowly like you're blowing a soft bubble. Let's do this three times. Breathing like this helps our bodies feel calm and peaceful. You can do it whenever you want to feel relaxed!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful breathing! You're doing great. Now, let's think about something we're grateful for today. It could be a fun game you played or a yummy snack you had. Thinking about happy things makes our hearts feel warm and helps us drift off to sleep with a smile. What are you grateful for today?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever wondered what dreams are made of? They are like little stories our minds create while we sleep. Sometimes they are adventures, and sometimes they are like floating on a cloud. What kind of dreams do you have? Are they filled with friendly animals or magical lands?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about how we can make our room feel special for bedtime. Maybe you have a favorite soft toy or a cozy blanket that makes you feel safe. These things are like little bedtime friends, ready to join you on your dream adventures. Do you have a bedtime friend you like to cuddle with?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Before we close our eyes, let's say goodnight to everything around us. Goodnight to the moon and stars, shining bright in the sky. Goodnight to our toys, resting until morning. Goodnight to our family, who love us so much. Saying goodnight is like wrapping everything in a cozy blanket of love and peace."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well getting ready for bed. Remember, bedtime is your special time to rest and dream. It's your time to recharge, just like a phone needs to charge its battery. You're a little star, and your dreams are as bright as you are. Keep shining, and soon you'll be dreaming away!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As you snuggle into bed, remember that the world is a magical place, full of wonder and dreams. Close your eyes and feel the gentle night wrapping you in its arms. Tomorrow is a new day, full of adventures waiting for you. But for now, it's time to rest and let your dreams take flight."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Goodnight, little dreamer. May your dreams be sweet and your sleep be restful. Remember, I'll be here to guide you through the stars whenever you need. Until next time, sleep tight and let the magic of the night fill your heart with joy. Sweet dreams and goodnight!"
+    }
+  ]
+}

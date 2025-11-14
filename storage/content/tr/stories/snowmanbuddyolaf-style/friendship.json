@@ -1,0 +1,104 @@
+{
+  "id": "snowman_buddy_olaf-style_friendship_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Snowman Buddy Olaf-style. Bugün birlikte arkadaşlık hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Arkadaşlık, birbirimize nasıl yardım edebileceğimizi ve nasıl mutlu olabileceğimizi öğrenmemize yardımcı olur. Seni çok merak ediyorum ve bu yolculukta birlikte çok eğleneceğiz!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, hayatımızdaki en değerli şeylerden biridir. Biliyor musun, bir arkadaşla oyun oynamak her zaman daha eğlencelidir. Birlikte oynarken yeni şeyler öğreniriz ve birbirimize destek oluruz. Mesela, oyuncakları paylaşmak, arkadaşlığın güzel bir örneğidir. Arkadaşlar, zor zamanlarda yanımızda olurlar ve bizi neşelendirirler."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir arkadaş edinmek için neler yapabileceğimizi konuşalım. İlk olarak, gülümsemek harika bir başlangıçtır. Gülümsemek, karşımızdaki kişiye dostça bir mesaj gönderir. Ayrıca, 'Merhaba' demek ve ismimizi söylemek de önemlidir. Bu, karşımızdaki kişiyi tanımak için ilk adımdır. Sen de yeni bir arkadaş edinmek ister misin?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harikasın! Şimdi birlikte bir arkadaş edinme oyunu oynayalım mı? Oyunumuzda, hayali bir arkadaşla tanışacağız. Ona ismimizi söyleyecek ve onunla oyun oynamak istediğimizi belirteceğiz. Bu, yeni arkadaşlar edinmek için harika bir egzersiz. Hazır mısın? Hadi başlayalım!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Yeni arkadaşımızla tanıştık, ne kadar eğlenceliydi değil mi? Şimdi arkadaşlıkta önemli olan başka bir şeyden bahsedelim. Arkadaşlarımıza her zaman dürüst olmalıyız. Dürüstlük, güvenilir bir arkadaş olmamızı sağlar. Birbirimize karşı açık ve samimi olmak, arkadaşlığımızı güçlendirir. Sen de dürüst bir arkadaş mısın?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaşlarımızla birlikte oyun oynarken bazı kurallara dikkat etmeliyiz. Oyuncaklarımızı paylaşmak ve sırayla oynamak çok önemlidir. Bu, herkesin eğlenmesini sağlar ve kimseyi üzmez. Ayrıca, kaybettiğimizde üzülmek yerine, kazanan arkadaşımızı tebrik etmeliyiz. Bu, arkadaşlığın ne kadar değerli olduğunu gösterir."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım! Oyuncaklarımızı paylaşarak sırayla oynayabiliriz. Bu oyunda, her birimizin sırayla en sevdiği oyuncağı anlatmasını isteyeceğim. Arkadaşlarımızın seçimlerine saygı duymak çok önemlidir. Hazır mısın? Hadi başlayalım ve birlikte eğlenelim!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Arkadaşlarımızla oyun oynarken en çok hangi oyunu seviyorsun? Mesela, saklambaç mı yoksa yapboz mu? Belki de en sevdiğin oyun, kendi yarattığın bir oyundur. Bana anlatmak ister misin? Merakla dinliyorum!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık sadece oyun oynamakla ilgili değildir, aynı zamanda birbirimize yardım etmeyi de içerir. Bir arkadaşımıza yardım etmek, onun mutlu olmasını sağlar ve kendimizi de iyi hissettirir. Örneğin, bir arkadaşımız bir şey bulamıyorsa ona yardım edebiliriz. Bu, arkadaşlığımızı daha da güçlendirir."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaşlarımıza yardım ederken nazik ve sabırlı olmalıyız. Onlara destek verirken, sıcak bir ses tonuyla konuşmalıyız. Yardım teklif ederken, 'Sana nasıl yardımcı olabilirim?' gibi sorular sorabiliriz. Bu, arkadaşımızın ihtiyaçlarını anlamamıza yardımcı olur. Sen de bir arkadaşına yardım etmek ister misin?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi birlikte küçük bir yardım testi yapalım. Diyelim ki bir arkadaşımız üzgün ve nedenini bilmiyoruz. Ona nasıl yardımcı olabiliriz? Belki de onunla konuşarak veya ona bir resim çizerek onu neşelendirebiliriz. Bu tür küçük jestler, arkadaşlığımızı daha da güçlendirir."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlarımızla güzel anılar biriktirmek de çok önemlidir. Birlikte parkta oynamak, resim yapmak veya kitap okumak gibi aktiviteler yapabiliriz. Bu anılar, arkadaşlığımızı daha özel hale getirir. Zamanla, bu güzel anılar, yüzümüzü güldüren hatıralara dönüşür. Senin de böyle güzel anıların var mı?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Arkadaşlarımızla geçirdiğimiz zamanlar, unutulmaz anılar biriktirmemizi sağlar. Birlikte gülmek, oynamak ve öğrenmek, arkadaşlığımızı güçlendirir. Bu anılar, bizi her zaman mutlu eder ve arkadaşlığımızı daha da değerli kılar. Senin de unutamadığın bir arkadaşlık anın var mı? Anlatmak istersen merakla dinliyorum!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Arkadaşlarımızla zaman geçirmek çok eğlenceli, değil mi? Peki, en sevdiğin arkadaşlık anın nedir? Belki de birlikte en sevdiğiniz oyunu oynadığınız bir an. Ya da bir doğum günü partisi olabilir. Bu anıyı benimle paylaşmak ister misin? Seni dinliyorum!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte arkadaşlık hakkında çok şey öğrendik. Arkadaşlık, hayatımızı güzelleştiren ve bizi mutlu eden bir bağdır. Yeni arkadaşlar edinmek ve onlarla zaman geçirmek harika bir duygudur. Umarım bu yolculuk senin için de eğlenceli ve öğretici olmuştur. Birlikte geçirdiğimiz bu zamanı çok sevdim. Yakında tekrar görüşmek üzere! Hoşça kal!"
+    }
+  ],
+  "title": "Snowman Buddy Olaf-Style'ın Friendship Hikayesi"
+}

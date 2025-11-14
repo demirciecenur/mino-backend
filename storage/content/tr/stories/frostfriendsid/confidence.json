@@ -1,0 +1,104 @@
+{
+  "id": "frost_friend_sid_confidence_story",
+  "character": "Frost Friend Sid",
+  "topic": "confidence",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Frost Friend Sid. Bugün birlikte özgüven hakkında harika bir yolculuğa çıkacağız. Özgüven, kendimize güvenmek ve cesurca yeni şeyler denemek demek. Hazır mısın? Seni çok merak ediyorum ve birlikte çok eğleneceğiz!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven, tıpkı bisiklet sürmeyi öğrenmek gibi bir şeydir. İlk başta biraz korkutucu olabilir ama denedikçe daha iyi olursun. Örneğin, bir resim çizerken kendine güvenmek, daha güzel resimler yapmana yardımcı olur. Kendine güvendiğinde, zor görünen işleri bile kolayca yapabilirsin. Şimdi seninle bu konuda daha fazla konuşacağız."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özgüvenimizi artırmak için yapabileceğimiz pek çok şey var. Mesela, her gün yeni bir şey denemek iyi bir başlangıç olabilir. Yeni bir oyun oynamak ya da farklı bir yemek tatmak gibi. Ayrıca, başarısız olduğumuzda bile kendimize inanmaya devam etmeliyiz. Çünkü denemeye devam etmek, özgüvenimizi güçlendirir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi şimdi birlikte bir oyun oynayalım! Gözlerimizi kapatıp üç derin nefes alalım. Birinci nefeste kendimize 'Ben yapabilirim' diyelim. İkinci nefeste 'Kendime güveniyorum' diyelim. Üçüncü nefeste 'Başaracağım' diyelim. Harika iş çıkardın! Bu küçük egzersiz, kendine olan güvenini artırmana yardımcı olabilir."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda nefes alarak kendimize nasıl güven verebileceğimizi öğrenmiştik. Şimdi, özgüvenimizi artırmak için başka bir yöntemden bahsedelim. Kendimize küçük hedefler koymak, başardıkça daha büyük hedeflere ulaşmamızı sağlar. Mesela, her gün bir oyuncak toplamak gibi basit bir hedef belirleyebiliriz. Bu, başarının tadını çıkarmamıza ve kendimize olan güvenimizi artırmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sen kendine nasıl güveniyorsun? Mesela, en son ne zaman yeni bir şey denedin? Yeni bir oyun oynamak ya da farklı bir yemek denemek gibi. Hatırlıyor musun? Bu tür deneyimler, özgüvenimizi artırmak için harika fırsatlardır. Şimdi sen de düşün ve bana anlat!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda senin deneyimlerini dinlemek çok keyifliydi. Şimdi, özgüvenimizi artırmanın başka bir yolunu keşfedelim. Başkalarına yardım etmek, kendimize olan güvenimizi artırabilir. Bir arkadaşına yardım etmek ya da birine bir şey öğretmek, kendimizi iyi hissettirir. Bu tür davranışlar, özgüvenimizi güçlendirir."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi, şimdi bir arkadaşına yardım etmeyi dene! Belki bir oyuncağını paylaşabilir ya da bir oyun oynarken ona yardım edebilirsin. Bunu yaptığında, kendinle gurur duyacaksın. Unutma, küçük iyilikler büyük özgüvenler yaratır. Sen harikasın!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir önceki konuşmamızda başkalarına yardım etmenin öneminden bahsetmiştik. Şimdi, kendimize olan inancımızı nasıl artırabileceğimizi konuşalım. Her gün kendimize olumlu şeyler söylemek, özgüvenimizi artırabilir. Mesela, 'Ben güçlüyüm', 'Ben cesurum' gibi cümleler kurabiliriz. Bunları tekrar etmek, kendimize olan inancımızı pekiştirir."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Olumlu düşünceler, tıpkı bir çiçeğin suya ihtiyaç duyması gibi bize güç verir. Olumlu düşündüğümüzde, daha mutlu ve kendimize daha çok güveniriz. Bir dahaki sefere kendini kötü hissettiğinde, bu olumlu cümleleri hatırla. Kendine inandığında, yapamayacağın hiçbir şey yoktur. Şimdi, bu düşünceleri hayatımıza nasıl dahil edebileceğimizi görelim."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda olumlu düşüncelerin öneminden bahsetmiştik. Şimdi sana bir soru sormak istiyorum. Sen hangi olumlu cümleleri kendine söylüyorsun? Belki 'Ben harikayım' ya da 'Ben yetenekliyim' diyebilirsin. Bu cümleler seni nasıl hissettiriyor? Hadi, birlikte düşünelim ve paylaşalım."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika cevaplar verdin! Unutma, sen çok özel ve yeteneklisin. Şimdi, birlikte bir şey daha yapalım. Bir kağıt al ve üzerine en sevdiğin olumlu cümleleri yaz. Bu cümleleri her gün görmek, kendine olan güvenini artırmana yardımcı olacak. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda olumlu cümleler yazmanın öneminden bahsetmiştik. Şimdi, özgüvenimizi artırmak için başka bir aktiviteye bakalım. Hedefler belirlemek ve bunlara ulaşmak, kendimize olan güvenimizi artırır. Mesela, haftada bir yeni bir kitap okumak gibi bir hedef koyabiliriz. Bu hedefe ulaştığımızda, kendimize olan inancımız daha da artar."
+    },
+    {
+      "id": "scene_13",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Senin de belirlediğin hedefler var mı? Belki bir spor dalında daha iyi olmak ya da yeni bir beceri öğrenmek istiyor olabilirsin. Bu hedeflere ulaşmak için neler yapıyorsun? Hedeflerine ulaştığında nasıl hissediyorsun? Hadi, birlikte düşünelim ve paylaşalım."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte özgüven hakkında harika şeyler öğrendik. Seninle bu yolculuğu paylaşmak çok güzeldi. Unutma, sen her zaman kendine güvenebilirsin ve başarabilirsin. Kendine inandığında, yapamayacağın hiçbir şey yoktur. Şimdi, seni büyük bir sevgiyle selamlıyorum. Görüşmek üzere, küçük dostum!"
+    }
+  ],
+  "title": "Frost Friend Sid'ın Confidence Hikayesi"
+}

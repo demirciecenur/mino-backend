@@ -1,0 +1,104 @@
+{
+  "id": "ocean_dreamer_moa_behavior_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "behavior",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Ocean Dreamer Moa. Heute gehen wir auf eine spannende Reise, um über Verhalten zu sprechen. Bist du bereit, mit mir die Wellen zu reiten? Ich bin so gespannt, was wir alles entdecken werden. Lass uns gemeinsam die Geheimnisse des guten Benehmens erkunden!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Verhalten bedeutet, wie wir uns verhalten, wenn wir mit anderen zusammen sind. Es ist wichtig, freundlich und respektvoll zu sein, damit sich alle wohlfühlen. Wenn wir zum Beispiel bitte und danke sagen, zeigen wir, dass wir höflich sind. Und wenn wir unsere Spielsachen teilen, machen wir unsere Freunde glücklich. Gutes Verhalten hilft uns, viele Freunde zu finden und gemeinsam Spaß zu haben."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Erinnerst du dich, wie wichtig es ist, Regeln zu befolgen? Regeln helfen uns, sicher zu bleiben und Spaß zu haben. Zum Beispiel, wenn wir am Strand spielen, ist es wichtig, nicht zu weit ins Wasser zu gehen. So bleiben wir sicher und können die Wellen genießen. Regeln geben uns auch Struktur, wie das Zähneputzen vor dem Schlafengehen. Was für Regeln kennst du noch?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lass uns zusammen eine kleine Übung machen! Stell dir vor, du bist ein kleiner Delfin, der lernt, mit anderen Delfinen zu spielen. Kannst du dir vorstellen, wie du freundlich grüßt und mit ihnen teilst? Wunderbar! Jetzt kannst du dir vorstellen, dass du beim Spielen immer freundlich bleibst. Super gemacht, kleiner Delfin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über das Teilen gesprochen haben, lass uns über das Zuhören sprechen. Zuhören ist ein wichtiger Teil, um ein guter Freund zu sein. Wenn jemand mit uns spricht, ist es höflich, zuzuhören und nicht zu unterbrechen. Stell dir vor, du hörst den Wellen zu, die dir eine Geschichte erzählen. Kannst du die leisen Geräusche hören? So sollten wir auch unseren Freunden zuhören."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn wir über Verhalten sprechen, müssen wir auch über das Aufräumen nach dem Spielen reden. Es ist wichtig, unsere Spielsachen wegzuräumen, damit niemand darüber stolpert. Stelle dir vor, du bist ein kleiner Krabbe, die den Strand aufräumt. Kannst du alle Muscheln in einen Eimer legen? Es fühlt sich gut an, wenn alles an seinem Platz ist, oder?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Du bist wirklich gut darin, aufzuräumen. Jetzt lass uns darüber nachdenken, wie wir anderen helfen können. Wenn wir sehen, dass jemand Hilfe braucht, können wir fragen: \"Kann ich dir helfen?\". Das zeigt, dass wir fürsorglich sind. Es ist so schön, anderen zu helfen, genau wie die Sonne, die den Ozean erwärmt. Du bist wirklich ein strahlender Helfer!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lasst uns über das Teilen von Geschichten sprechen. Geschichten erzählen ist eine wunderbare Art, zusammen zu sein. Wenn wir Geschichten teilen, lernen wir voneinander. Kannst du dich erinnern, als wir über den kleinen Delfin gesprochen haben? Vielleicht hast du auch eine Geschichte, die du teilen möchtest. Geschichten machen uns glücklich und bringen uns zusammen."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du eine Lieblingsgeschichte? Vielleicht eine über Abenteuer oder Freundschaft? Ich würde gerne mehr darüber hören. Geschichten sind wie kleine Schätze, die wir miteinander teilen können. Vielleicht kannst du mir erzählen, was du an deiner Geschichte am meisten magst. Ich bin so neugierig, was du zu erzählen hast!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über das Lächeln sprechen. Ein Lächeln kann Wunder wirken und jemandem den Tag verschönern. Stell dir vor, dein Lächeln ist wie die Sonne, die über dem Meer aufgeht. Es macht alles heller und schöner. Kannst du ein großes Lächeln zeigen? Das ist fantastisch! Dein Lächeln ist wirklich strahlend."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lächeln ist eine einfache Art, jemanden glücklich zu machen. Wenn wir lächeln, fühlen wir uns auch selbst besser. Es ist wie ein kleiner Sonnenstrahl, der unsere Herzen erwärmt. Du machst das großartig! Dein Lächeln kann die Welt verändern, ein Lächeln nach dem anderen. Lass uns weiterhin die Freude teilen!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über all diese wunderbaren Verhaltensweisen gesprochen haben, lass uns darüber nachdenken, wie wir sie jeden Tag anwenden können. Jeden Morgen können wir mit einem Lächeln beginnen und freundlich zu unseren Freunden und unserer Familie sein. Das macht jeden Tag zu einem besonderen Tag. Und wenn wir uns an die Regeln halten, können wir sicher und glücklich sein."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich an den kleinen Delfin, der mit seinen Freunden spielt? Du kannst genauso sein, wenn du mit deinen Freunden spielst. Denke daran, freundlich zu sein und zu teilen. Es ist so aufregend, neue Freunde zu finden und mit ihnen Abenteuer zu erleben. Du bist wirklich ein mutiger und freundlicher Entdecker!"
+    },
+    {
+      "id": "scene_13",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Ich bin so stolz auf dich, dass du all diese Dinge gelernt hast! Hast du Fragen zu dem, was wir besprochen haben? Vielleicht möchtest du mehr über das Verhalten oder das Teilen wissen. Ich bin hier, um zuzuhören und zu helfen. Du bist ein großartiger Zuhörer und Entdecker."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, diese Reise mit dir zu machen! Du hast so viel über gutes Verhalten gelernt und wie wichtig es ist, freundlich und respektvoll zu sein. Jetzt kannst du all das, was du gelernt hast, mit deinen Freunden und deiner Familie teilen. Ich freue mich schon auf unser nächstes Abenteuer. Bis bald, kleiner Freund!"
+    }
+  ],
+  "title": "Ocean Dreamer Moas Behavior Geschichte"
+}

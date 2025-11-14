@@ -1,0 +1,98 @@
+{
+  "id": "piggy_friend_bedtime_story",
+  "title": "Piggy Friend's Bedtime Story",
+  "character": "Piggy Friend",
+  "topic": "bedtime",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Piggy Friend, and today we're going to explore the magical world of bedtime together. Are you ready to have some fun and learn how to get ready for a peaceful night's sleep? Bedtime is such a special time because it helps us rest and dream about all the wonderful things we love. So, get cozy and let's start our bedtime adventure. I'm so excited to spend this time with you!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bedtime is like a gentle end to a day full of play and fun. It's important because it gives our bodies the rest they need to grow strong and healthy. Just like how flowers need sunshine and water to bloom, we need sleep to feel our best. When we have a good bedtime routine, it helps us feel calm and ready to drift into dreamland. Let's talk about some ways we can get ready for bed!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "One of the first things we do to get ready for bed is to tidy up our toys. Picking up our toys can be like a fun game of treasure hunting! We can sing a little song as we put each toy back in its place. This helps our room feel peaceful and ready for sleep. Remember, a tidy room makes for a happy bedtime. Now that our toys are tucked away, let's move on to the next step!"
+    },
+    {
+      "id": "scene_3",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Next, we brush our teeth to keep them sparkling clean. Imagine your toothbrush is a tiny superhero fighting off sugar bugs! We brush up and down, and all around, to make sure our teeth are ready for a good night's sleep. Can you count to ten while you brush? Let's try it together: one, two, three, four... Great job! Now our teeth are all clean and happy."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "After brushing our teeth, it's time to put on our cozy pajamas. Pajamas are like a warm hug that helps us feel snug and secure. Do you have a favorite pair of pajamas? Maybe they have your favorite animal or color on them. Putting on pajamas signals to our body that it's time to relax and unwind. Now that we're all dressed for bed, let's talk about another important part of our routine."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Reading a bedtime story is a wonderful way to end the day. Stories take us on adventures and help our imagination grow. You can choose a book with colorful pictures or a story about your favorite characters. As we read, we can snuggle up with a blanket and enjoy the tale. Stories are like little dreams we have while we're still awake. Let's pick a story and dive into a new world!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Now that we're cozy with our bedtime story, let's try some gentle breathing to help us relax. Breathing deeply is like filling up a big balloon with air. Let's take a deep breath in, and slowly let it out. Wonderful! Breathing helps our body feel calm and ready for sleep. You can do it anytime you want to feel peaceful. Now that we're feeling relaxed, let's talk about dreams."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dreams are like magical movies that play in our minds while we sleep. They can be about anything we love, like flying with birds or exploring the ocean. Before we drift off, we can think about something happy we want to dream about. Maybe it's a day at the park or playing with a friendly dragon. Dreams are our brain's way of telling us stories. What would you like to dream about tonight?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a special bedtime friend or toy that you like to cuddle with? Having a favorite stuffed animal or blanket can make us feel safe and loved. Maybe you have a teddy bear or a soft blanket that you hug tight. It's like having a little friend to keep us company as we sleep. What is your bedtime friend like? Do they have a name or a story of their own?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let’s talk about the sounds we hear at bedtime. Sometimes we can hear crickets chirping or the soft hum of a fan. These sounds can be like a lullaby, helping us feel calm and sleepy. Closing our eyes and listening to the gentle noises around us can be really soothing. It's like nature's way of singing us to sleep. What sounds do you hear when you close your eyes?"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Did you know that giving hugs and saying goodnight is an important part of bedtime? Hugging our family or friends before bed can make us feel warm and loved. It’s like wrapping ourselves in a blanket of happiness. So, give your family a big hug and say, 'Goodnight!' This helps everyone end the day with a smile. Now, let's think about one more thing before we close our eyes."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What was your favorite part of today? Maybe it was playing a game, drawing a picture, or spending time with someone special. Thinking about happy moments from our day can help us feel grateful and content. It's like collecting little treasures in our heart. What made you smile today? Let's hold onto those happy thoughts as we drift off to sleep."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we get ready to close our eyes, let's remember that tomorrow is a new day full of possibilities. Each morning is like a fresh start, bringing new adventures and fun. It's exciting to think about what we might do and learn. But for now, it's time to rest and recharge our bodies and minds. Let's take one more deep breath together and let it out slowly. You're ready for a good night's sleep."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this bedtime journey, little friend. I hope you have the sweetest dreams tonight and wake up feeling refreshed and happy. Remember, bedtime is a special time to relax and think about all the wonderful things in your life. Until next time, sleep tight and know that your Piggy Friend is wishing you the very best. Goodnight and sweet dreams!"
+    }
+  ]
+}

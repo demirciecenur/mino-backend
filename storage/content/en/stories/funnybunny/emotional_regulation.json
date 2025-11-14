@@ -1,0 +1,104 @@
+{
+  "id": "funny_bunny_emotional_regulation_story",
+  "character": "Funny Bunny",
+  "topic": "emotional_regulation",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friends! I'm Funny Bunny, your fluffy pal from the forest. Today, we're going to hop into a very special adventure about feelings and how to handle them. Have you ever felt so happy you wanted to jump around? Or maybe so mad you wanted to stomp your feet? Well, I'm here to help you understand all those feelings, and we'll learn some fun tricks to keep them in check. Are you ready to explore with me? Let's get started!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about feelings. We all have them, right? Sometimes we feel like a big, bright sun, and other times like a rainy cloud. That's okay! Feelings can be like colors, changing all the time. Just like when you mix blue and yellow to make green, our feelings can mix too. Isn't that fun to think about?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about mixing colors? Well, we can mix our feelings too! Sometimes you might feel both excited and a little scared, like before a big slide at the playground. That's perfectly normal. The important thing is to notice and name your feelings. You can say, 'I feel happy!' or 'I feel angry!' This helps us understand what's going on inside."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job on naming your feelings! Now let's try something fun together. Let's take three big, deep breaths. Ready? Breathe in through your nose like you're smelling a flower, and breathe out through your mouth like you're blowing out a candle. One, two, three! Doesn't that feel nice and calming? You can do this whenever you need to feel a bit more relaxed."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've learned about taking deep breaths, let's talk about another way to handle big feelings. Sometimes, when you're mad or upset, it helps to count to five. Let's try it together: one, two, three, four, five. Counting gives your brain a little time-out to think and feel better. It's like pressing a pause button on a video game!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Next, let's imagine we're blowing bubbles. Have you ever blown bubbles before? Imagine each bubble is a feeling, and as you blow it away, you're letting that feeling float off into the sky. This is a fun way to let go of feelings that might be too big to handle. You can say goodbye to them as they drift away!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're doing so well! Sometimes, if you're feeling really jumpy or wiggly, it helps to move around. You can do a silly dance or jump up and down like a kangaroo. Moving your body helps those feelings get out in a fun and safe way. Let's do a little dance together now! Wiggle your arms, shake your legs, and hop like me!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about dancing and moving? It's such a great way to feel better. But sometimes, we need a quiet moment too. Would you like to try a quiet game? Let's sit down and close our eyes. Imagine you're a peaceful tree in the forest, with the wind gently swaying your branches. Feel how calm you are?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I've got a question for you. Can you think of a time when you felt really happy, like when you got a new toy or played with a friend? How about a time you felt a little sad, like when your ice cream fell on the ground? It's okay to have all these feelings. They're like stories your heart tells you. Can you remember one?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's keep learning about our feelings by making a feelings chart. You can draw happy faces, sad faces, or even surprised faces on a piece of paper. Whenever you feel a certain way, point to the face that matches your feeling. This helps you understand what you're feeling and why. It's like a map of your heart!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job with your feelings chart! Remember, it's okay to feel different things at different times. You're learning how to be a feelings expert! Every time you practice, you get better at understanding how you feel. Keep up the great work, and soon you'll be a pro at this!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about what to do when you're feeling a bit shy or nervous. Sometimes, it helps to have a special friend or toy with you, like a favorite stuffed animal. You can tell them how you're feeling, and they can be your little buddy. It's nice to have someone to share your feelings with, even if it's a fluffy friend."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's practice saying kind things to ourselves. This is called positive self-talk. You can say, 'I am brave,' or 'I can do it!' Saying these words helps you feel strong and confident. Let's say it together: 'I am awesome!' Doesn't that feel great? Remember, you can say these words whenever you need a little boost."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wow, you've learned so much today! Remember, it's okay to feel all kinds of feelings. You're doing amazing at understanding and managing them. Keep practicing these tricks, and you'll get even better. You're a superstar at this, and I'm so proud of you. Keep shining bright, my little friend!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Well, it's time for me to hop on back to the forest. But don't worry, I'll be here whenever you need a little help with your feelings. Remember all the fun tricks we've learned today. Keep practicing, and you'll be an expert in no time. Thank you for spending time with me, Funny Bunny. Goodbye, my friend, and take care!"
+    }
+  ],
+  "title": "Funny Bunny's Emotional Regulation Story"
+}

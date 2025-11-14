@@ -1,0 +1,104 @@
+{
+  "id": "swamp_buddy_hero_transitions_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "transitions",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük arkadaşım! Ben Swamp Buddy Hero. Bugün seninle birlikte hayatımızdaki değişiklikler ve yeni şeylere uyum sağlamak hakkında konuşacağız. Biliyor musun, bazen değişiklikler biraz korkutucu olabilir, ama birlikte her şeyin üstesinden gelebiliriz. Hazır mısın? Bu maceraya atılmak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçen gün, kocaman bir bataklıkta yürüyordum ve birden bire büyük bir ağaç devrildi. İşte bu benim için bir değişiklikti! Önce biraz şaşırdım ama sonra düşündüm, bu yeni duruma nasıl uyum sağlayabilirim? Ağaç devrilmişti ama ben oradan geçmenin başka bir yolunu buldum. İşte biz de böyle değişiklikleri kabul edip, yeni yollar bulabiliriz."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, değişikliklerin nasıl olabileceği hakkında biraz düşünelim. Mesela, sabahları okula gitmek için erken kalkman gerekebilir. İlk başta zor olabilir ama sonra alışır ve hatta sabahları daha fazla şey yapabileceğini fark edersin. Değişiklikleri kucaklamak için, öncelikle onları kabul etmek ve yeni düzenimize uyum sağlamak önemlidir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi birlikte bir oyun oynayalım! Şimdi gözlerini kapat ve derin bir nefes al. Hayal et ki bir kelebeksin ve bir tırtıldan kelebek olmaya geçiş yapıyorsun. Tırtılken yavaşça yürüyorsun ama sonra kanatların çıkıyor ve uçabiliyorsun! Değişikliklerin bize nasıl yeni fırsatlar sunduğunu görebiliyor musun? Harikasın!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda kelebeklerden bahsettik, değil mi? Şimdi başka bir örnek düşünelim. Diyelim ki en sevdiğin oyuncak bozuldu. Bu üzücü olabilir ama belki de bu, yeni bir oyuncak yapma veya başka bir oyuncağı keşfetme fırsatıdır. Her değişiklikte yeni bir şey öğrenebiliriz. Haydi, bu tür fırsatları nasıl değerlendirebileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Yeni bir duruma uyum sağlamak için yapabileceğimiz şeylerden biri de plan yapmak. Mesela, sabahları daha erken kalkman gerektiğinde, akşamdan giyeceğin kıyafetleri hazırlayabilirsin. Bu, sabahları daha az acele etmeni sağlar ve daha rahat hissetmene yardımcı olur. Plan yapmak, değişikliklerle başa çıkmanın harika bir yoludur."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Hiç yeni bir okula ya da yeni bir sınıfa başladın mı? Eğer öyleyse, bu değişiklikle nasıl başa çıktın? Yeni arkadaşlar edinmek veya yeni şeyler öğrenmek nasıl bir deneyimdi? Cevabını merak ediyorum!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ne güzel cevaplar verdin! Yeni şeyler öğrenmek ve yeni arkadaşlar edinmek her zaman heyecan vericidir, değil mi? Biraz önce konuştuğumuz gibi, değişiklikler bazen korkutucu olabilir ama aynı zamanda bizi büyütür ve geliştirir. Şimdi, bu yeni deneyimlerin hayatımıza kattığı güzel şeylere bir bakalım."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda yeni arkadaşlardan bahsettik. Şimdi düşünelim, her gün yatmadan önce dişlerimizi fırçalamak gibi bir rutinimiz var. Ama bir gün bu rutine bir yenisini ekleyip yatmadan önce bir hikaye dinlemeye başlayabiliriz. Bu değişiklik, geceleri daha eğlenceli hale getirebilir. Değişiklikler bazen rutinlerimizi güzelleştirebilir."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, birlikte bir nefes egzersizi yapalım. Burnundan derin bir nefes al ve yavaşça ağzından ver. Bunu üç kez tekrarla. Bu egzersiz, kendini daha sakin ve rahat hissetmene yardımcı olabilir. Değişikliklerle karşılaştığında, bu tür nefes egzersizleri yaparak daha iyi hissedebilirsin."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Şimdi, değişikliklerin bize sunduğu fırsatları nasıl değerlendirebileceğimizi konuşalım. Mesela, yeni bir spor dalı denemek veya yeni bir hobi edinmek gibi. Bu tür değişiklikler, yeni beceriler kazanmamıza ve kendimizi daha iyi hissetmemize yardımcı olabilir. Sen de bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hatırlıyor musun, tırtıldan kelebeğe dönüşen minik dostumuzu? İşte onun gibi, biz de değişikliklerle birlikte büyüyüp gelişiyoruz. Her yeni gün, bize yeni fırsatlar ve deneyimler sunuyor. Günlük hayatta karşılaştığımız küçük değişiklikler bile bize büyük şeyler öğretebilir. Şimdi, bu değişikliklerin nasıl birer maceraya dönüşebileceğini düşünelim."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Birlikte düşünelim, hayatında hangi değişiklik seni en çok heyecanlandırdı? Belki bir doğum günü partisi ya da bir tatil günü? Bu değişiklik seni nasıl hissettirdi? Hangi yeni şeyleri keşfettin? Cevabını çok merak ediyorum!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ne harika bir paylaşım! Değişiklikler bize hem heyecan hem de mutluluk getirebilir, değil mi? Bazen de yeni şeyler öğrenmemizi sağlar. Şimdi, bu değişikliklerin bize kattığı güzellikleri nasıl koruyabileceğimizi düşünelim. Böylece her yeni gün, daha da güzel olabilir."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık, değil mi? Hayatımızdaki değişikliklerin aslında ne kadar güzel fırsatlar sunduğunu gördük. Unutma, her değişiklik yeni bir macera olabilir. Ben Swamp Buddy Hero, seninle bu maceraları paylaşmak beni çok mutlu etti. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Swamp Buddy Hero'ın Transitions Hikayesi"
+}

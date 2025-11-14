@@ -1,0 +1,104 @@
+{
+  "id": "ocean_dreamer_moa_nutrition_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük denizci! Ben Ocean Dreamer Moa. Bugün birlikte beslenme konusunda heyecan verici bir maceraya atılacağız. Hazır mısın? Sağlıklı yiyecekler hakkında konuşacağız ve vücudumuzun nasıl daha güçlü olabileceğini öğreneceğiz. Seninle bu yolculuğa çıkmak için sabırsızlanıyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme, vücudumuzun ihtiyaç duyduğu enerji ve besin maddelerini alması demektir. Tıpkı bir geminin denizde yol alabilmesi için yakıta ihtiyaç duyması gibi, bizim de enerjik ve sağlıklı olabilmemiz için doğru besinlere ihtiyacımız var. Meyveler, sebzeler, tahıllar ve proteinler bu besinlerden bazılarıdır. Örneğin, bir elma yediğimizde vücudumuz vitamin ve lif alır. Bu da bizi daha güçlü ve sağlıklı yapar."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, sebzelerin neden önemli olduğunu düşünelim. Sebzeler, vitaminler ve minerallerle doludur. Havuçlar, gözlerimizi güçlendiren A vitamini ile doludur. Brokoli, bağışıklık sistemimizi destekleyen C vitamini içerir. Sebzeler, vücudumuzu hastalıklardan korur ve daha enerjik hissetmemizi sağlar. Her gün biraz sebze yemeyi unutma!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsun! Şimdi, birlikte bir meyve salatası yapalım. Elma, muz ve çilek gibi meyveleri bir araya getirebiliriz. Meyveler tatlı ve lezzetlidir, aynı zamanda sağlıklıdır. Onlar, vücudumuza enerji verir ve bizi zinde tutar. Sen de denemek ister misin? Kendi meyve salatanı yapabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sohbetimizde meyve ve sebzelerin öneminden bahsettik. Şimdi, proteinlerin vücudumuz için neden önemli olduğunu konuşalım. Proteinler, kaslarımızı güçlendirir ve bizi daha enerjik yapar. Et, balık, yumurta ve baklagiller protein kaynaklarıdır. Örneğin, sabah kahvaltısında bir yumurta yemek, gün boyunca enerjik kalmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Tahılların sağlığımız için neden önemli olduğunu biliyor musun? Tam tahıllar, vücudumuza enerji veren karbonhidratlar içerir. Ekmek, makarna ve pirinç gibi yiyecekler bu gruptadır. Tam tahıllar, uzun süre tok kalmamıza yardımcı olur ve gün içinde daha aktif olmamızı sağlar. Kahvaltıda bir dilim tam buğday ekmeği yemek harika bir başlangıç olabilir."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, birlikte bir oyun oynayalım! Gözlerini kapat ve en sevdiğin yiyeceği düşün. Onun nasıl koktuğunu ve nasıl göründüğünü hayal et. Bu yiyecek hangi besin grubuna ait? Meyve mi, sebze mi, yoksa protein mi? Harika! Seninle oyun oynamak çok eğlenceli!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki oyunumuzda yiyecek gruplarını düşündük. Şimdi, suyun neden önemli olduğunu konuşalım. Su, vücudumuzun en önemli ihtiyaçlarından biridir. Her gün yeterince su içmek, vücudumuzun düzgün çalışmasını sağlar. Su içmek, cildimizi parlak tutar ve bizi susuzluktan korur. Bol bol su içmeyi unutma!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Birlikte düşünelim: Bugün hangi sağlıklı yiyecekleri yedin? Meyve mi, sebze mi, yoksa protein mi? Hangi yiyecek sana en çok enerji verdi? Cevabını duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Daha önce suyun öneminden bahsetmiştik. Şimdi, sağlıklı atıştırmalıklar hakkında konuşalım. Sağlıklı atıştırmalıklar, gün içinde enerjimizi yüksek tutmamıza yardımcı olur. Fındık, yoğurt ve taze meyveler harika seçeneklerdir. Bu atıştırmalıklar, tatlı ve lezzetli oldukları kadar, sağlıklı da olabilir."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte nefes alalım. Burnundan derin bir nefes al ve yavaşça ver. Bu egzersiz, yediklerimizi sindirmemize yardımcı olur ve bedenimizi rahatlatır. Nefes almak, vücudumuzun daha iyi çalışmasına yardımcı olur. Her gün birkaç dakika bu egzersizi yapabilirsin."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkarıyorsun! Her gün sağlıklı seçimler yapmak önemlidir. Dengeli bir beslenme, vücudumuzu güçlü ve sağlıklı tutar. Sen de bu seçimleri yapabilirsin! Unutma, sen harikasın ve bunu başarabilirsin!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Birlikte bir düşünce yolculuğuna çıkalım. Yarın hangi sağlıklı yiyecekleri denemek istersin? Hangi yeni tatları keşfetmek seni heyecanlandırıyor? Hadi, hayal gücünü kullan ve beni şaşırt!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bugün beslenme hakkında pek çok şey öğrendik. Sağlıklı yiyecekler, su içmek ve dengeli beslenmek hayatımızın önemli parçalarıdır. Bu bilgileri kullanarak daha güçlü ve enerjik olabiliriz. Her gün yeni bir şey öğrenmek için heyecanlanıyorum. Seninle bu yolculuğa çıkmak harikaydı!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugünkü maceramız burada sona eriyor. Seninle harika bir yolculuk yaptık ve çok şey öğrendik. Unutma, her gün sağlıklı seçimler yapmak senin elinde. Bir dahaki sefere görüşmek üzere, küçük denizci! Hoşça kal ve sağlıklı kal!"
+    }
+  ],
+  "title": "Ocean Dreamer Moa'ın Nutrition Hikayesi"
+}

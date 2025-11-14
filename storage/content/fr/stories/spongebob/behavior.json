@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_behavior_story",
+  "character": "Bubble Buddy",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis ! Je suis Bubble Buddy, votre copain sous-marin qui adore l'aventure. Aujourd'hui, nous allons découvrir quelque chose de super important : le bon comportement. Êtes-vous prêts à plonger dans cette aventure avec moi ? Je suis tellement curieux de tout apprendre avec vous. Ensemble, nous allons explorer comment être gentils, respectueux et pourquoi c'est important."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par comprendre ce qu'est le bon comportement. Le bon comportement, c'est être gentil avec les autres, comme quand tu dis \"merci\" ou \"s'il te plaît\". Cela montre que tu respectes les gens autour de toi. Imagine que tu partages tes jouets avec un ami, c'est ça aussi le bon comportement. Cela rend tout le monde heureux et nous aide à vivre ensemble en harmonie."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des règles. Les règles sont comme des petits guides qui nous aident à savoir ce qu'il faut faire. Par exemple, à la maison, il y a peut-être une règle qui dit de ranger tes jouets après avoir joué. Cela aide à garder la maison propre et ordonnée. Suivre les règles montre que tu es responsable et que tu prends soin de ton espace."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, mes amis ! Vous faites un travail formidable en apprenant tout cela. Rappelez-vous, suivre les règles et être gentil, c'est comme un super pouvoir. Cela rend les autres heureux et toi aussi. Vous pouvez le faire, je crois en vous ! Continuons à découvrir d'autres façons d'avoir un bon comportement."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de la gestion du comportement. Cela signifie savoir comment réagir quand on est en colère ou triste. Parfois, on peut se sentir frustré, et c'est normal. Mais apprendre à respirer profondément et à parler calmement peut nous aider à nous sentir mieux. C'est comme un petit exercice de relaxation, voulez-vous essayer avec moi ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Prenons trois grandes respirations ensemble. Inspirez profondément, puis expirez lentement. Encore une fois, inspirez... et expirez. Une dernière fois, inspirez... et expirez. Super, vous voyez comme cela peut vous aider à vous sentir plus calme ? Vous pouvez le faire à tout moment, quand vous en avez besoin."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous quand nous avons parlé de partager les jouets ? Eh bien, cela fait partie de la gestion du comportement aussi. Partager, c'est montrer que tu es attentionné et que tu penses aux autres. Imagine que tu as un gâteau et que tu le partages avec ton ami. Cela rend tout le monde heureux et crée de belles amitiés."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre partie du bon comportement est d'écouter les adultes. Quand maman ou papa parle, c'est important de bien écouter. Cela montre que tu respectes ce qu'ils disent. Parfois, ils te disent des choses pour te garder en sécurité, comme traverser la rue avec prudence. Écouter est une compétence précieuse qui t'aidera toute ta vie."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes tous incroyables à apprendre toutes ces choses ! Continuez à pratiquer et vous verrez à quel point cela peut être amusant et gratifiant. Chaque jour est une nouvelle chance de montrer du bon comportement. Je suis tellement fier de vous et de ce que vous apprenez. Continuons notre aventure !"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Passons maintenant à comment aider les autres. Aider les autres, c'est aussi du bon comportement. Par exemple, aider quelqu'un à ramasser ses affaires quand il les fait tomber. Ou encore, aider maman à mettre la table pour le dîner. Ces petits gestes montrent que tu es attentionné et que tu aimes prendre soin des autres."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà aidé quelqu'un aujourd'hui ? Peut-être que vous avez rangé vos jouets ou aidé un ami à l'école. Pensez à ce que vous avez fait et à quel point cela a rendu quelqu'un heureux. C'est incroyable de voir comment de petits actes peuvent avoir un grand impact. Alors, qu'allez-vous faire pour aider quelqu'un demain ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "N'oubliez pas que le bon comportement inclut aussi de prendre soin de vous. Cela signifie manger sainement, dormir suffisamment et jouer pour rester en forme. Quand tu prends soin de toi, tu te sens bien et tu es prêt pour toutes sortes d'aventures. C'est comme recharger tes batteries pour être plein d'énergie chaque jour !"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons de faire un petit exercice ensemble. Levez les bras très haut, aussi haut que vous le pouvez. Maintenant, balancez-les doucement de gauche à droite comme si vous étiez des algues dans l'océan. C'est amusant, n'est-ce pas ? Ces exercices aident votre corps à rester actif et en bonne santé."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez été incroyables aujourd'hui, mes amis ! Apprendre sur le bon comportement peut être beaucoup de plaisir. Continuez à être gentils, à aider les autres, et à suivre les règles. Je suis tellement fier de vous et de tout ce que vous avez appris. Ensemble, nous pouvons rendre le monde meilleur, un bon comportement à la fois."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'est l'heure de dire au revoir, mes petits amis. J'ai passé un moment merveilleux à explorer le bon comportement avec vous. Rappelez-vous d'être toujours gentils, respectueux et d'aider les autres. Je vous retrouverai pour une autre aventure sous-marine très bientôt. À bientôt, et continuez à briller comme les étoiles de mer que vous êtes !"
+    }
+  ],
+  "title": "Histoire de Behavior de Bubble Buddy"
+}

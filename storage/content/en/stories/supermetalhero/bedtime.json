@@ -1,0 +1,98 @@
+{
+  "id": "super_metal_hero_bedtime_story",
+  "title": "Super Metal Hero's Bedtime Story",
+  "character": "Super Metal Hero",
+  "topic": "bedtime",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little adventurers! I'm Super Metal Hero, your friendly bedtime guide. Tonight, we're going on a fantastic journey to explore the magical land of dreams. Are you ready to wind down and prepare for a peaceful night's sleep? I'm excited to share some super tips to help you relax and get cozy. So, grab your favorite stuffed animal and let's begin our bedtime adventure together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we're ready, let's talk about why bedtime is so important. Just like superheroes need their energy for big missions, you need sleep to grow strong and smart. When we sleep, our bodies rest and recharge, preparing us for a brand new day full of fun and learning. So, it's important to have a good bedtime routine. This helps us feel calm and ready for sleep. Are you ready to learn some superhero bedtime tips?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about routines being important? Well, a great bedtime routine starts with brushing your teeth. Just like I polish my super suit to keep it shiny, brushing your teeth keeps them strong and healthy. It's a simple step, but it makes a big difference. After all, we want our smiles to be as bright as the stars! Now, let’s imagine brushing our teeth together, each stroke making our teeth sparkle."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job imagining that! Next, let's put on our cozy pajamas. Picking out your favorite pajamas is like choosing your superhero costume for dreamland. They make you feel comfy and ready for the adventure of sleep. You can pretend your pajamas give you special powers, like flying in your dreams or having super strength. Isn't that exciting? Now, let's snuggle into those pajamas and get ready for the next step."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let’s create a peaceful environment in your room. Just like my headquarters is calm and organized, your room should be a quiet place. Turn off bright lights and maybe use a nightlight to keep things cozy. You can even listen to soft music or a bedtime story to help you relax. Creating this calm atmosphere helps your mind and body know it's time to sleep. Doesn’t that sound nice and peaceful?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try a fun relaxation exercise together. We’re going to take three deep breaths. Inhale deeply, like you're filling up with superhero energy, then exhale slowly, letting go of any worries. Ready? Breathe in... and out. Feel your body relaxing more with each breath. This helps your body feel calm and ready for sleep. You're doing an amazing job!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! Now that we're calm, let's think about one happy thing that happened today. It could be playing with friends or learning something new. Focusing on happy thoughts helps you drift into sweet dreams. Remember, even superheroes like to end their day with a smile. What happy moment are you thinking of? Hold onto that thought as we continue our bedtime journey."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite bedtime story or song? Stories and songs can be like lullabies for your imagination, carrying you to dreamland. They help your mind relax and prepare for sleep. Maybe you have a story about a brave knight or a gentle giant. What is your favorite? I’d love to hear about it!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've talked about stories, let's think about the dreams you might have tonight. Dreams are like little adventures your mind takes while you sleep. You could dream of flying through the sky or exploring a jungle. Imagine what fun adventures you might have! Thinking about dreams can be a wonderful way to drift off to sleep."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Before we say goodnight, let's do one last check. Is your favorite stuffed animal or blanket with you? Having something soft to hug can make you feel safe and warm. It’s like having a superhero sidekick by your side. Make sure you’re tucked in nice and snug. Now, you’re ready for a peaceful sleep, knowing you have everything you need."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You've done a fantastic job getting ready for bed! Remember, every step you take helps you become a bedtime superhero. You're learning how to take care of yourself and prepare for the adventures of tomorrow. Keep up the great work, and you'll always be ready for exciting new days. You're truly amazing!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Before we wrap up, do you have any questions about bedtime routines? I’m here to help you understand why each part is important. Whether it’s about brushing teeth or choosing pajamas, every question is a great one. I'm curious to know what's on your mind. Let’s make sure you feel ready and confident for sleep."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we finish our bedtime adventure, remember that sleep is a superpower. It gives you energy, helps you grow, and keeps your mind sharp. Every night is a chance to recharge and dream big. So, as you close your eyes, know that you’re doing something wonderful for yourself. Sweet dreams, little hero!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Goodnight, my brave little adventurer! Remember, Super Metal Hero is always here to help you on your bedtime journey. Keep dreaming big and waking up ready for new adventures. Sleep tight, and know that tomorrow is another day full of possibilities. Until next time, sleep well and dream sweetly. Goodbye for now!"
+    }
+  ]
+}

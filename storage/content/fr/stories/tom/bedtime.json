@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_bedtime_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Sneaky Cat Tom, et aujourd'hui, nous allons explorer le monde magique du coucher. Êtes-vous prêt pour une aventure amusante avant d'aller au lit? Ensemble, nous allons découvrir comment se détendre et se préparer à dormir. Je suis tellement curieux de savoir comment vous vous préparez pour le coucher. Allons-y, ça va être génial!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le soir, avant de se coucher, il est important de se préparer pour une bonne nuit de sommeil. Cela commence par une routine relaxante qui nous aide à nous calmer. Par exemple, prendre un bon bain chaud peut être très apaisant. Avez-vous déjà remarqué comment l'eau chaude peut rendre vos muscles tout détendus? Ensuite, mettre un pyjama tout doux aide à se sentir confortable et prêt pour le lit."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Après avoir mis votre pyjama, il est temps de penser à se brosser les dents. Saviez-vous que c'est important pour garder vos dents fortes et brillantes? Prenez votre brosse à dents et un peu de dentifrice, et brossez doucement vos dents. Comptez jusqu'à vingt pendant que vous brossez, ça rend la tâche plus amusante! N'oubliez pas de rincer votre bouche avec de l'eau claire après."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super, vous avez brossé vos dents! Maintenant, c'est le moment parfait pour choisir un livre à lire. Lire une histoire avant de dormir aide à calmer l'esprit. Quel est votre livre préféré? Peut-être une histoire d'aventure ou un conte de fées? Prendre le temps de lire quelques pages est une excellente façon de terminer la journée."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après la lecture, il est temps de se blottir sous les couvertures. Fermez vos yeux et imaginez un endroit paisible. Peut-être un champ de fleurs ou une plage tranquille. Prenez une grande inspiration par le nez, puis expirez lentement par la bouche. Répétons cela ensemble trois fois. Vous sentez-vous plus calme maintenant?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des lumières. Une lumière douce ou une veilleuse peut aider à se sentir en sécurité dans le noir. Avez-vous une veilleuse spéciale dans votre chambre? Éteindre les lumières vives indique à votre corps qu'il est temps de dormir. Cela aide aussi à créer une ambiance relaxante."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, vous avez éteint les lumières! Avant de fermer les yeux, pensons à trois choses positives qui se sont passées aujourd'hui. Peut-être un jeu amusant, un moment avec un ami, ou un repas délicieux. Penser à ces moments heureux peut vous aider à vous endormir avec un sourire. Vous pouvez le faire, je crois en vous!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous, il est important de dormir suffisamment pour être en pleine forme le lendemain. Le sommeil aide notre corps à grandir et à rester en bonne santé. Il recharge notre énergie pour de nouvelles aventures. Avez-vous déjà remarqué comme vous vous sentez plein d'énergie après une bonne nuit de sommeil? C'est magique!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Avant de dire bonne nuit, faisons un petit exercice de relaxation. Imaginez un nuage doux et moelleux. Grimpez dessus et laissez-le vous emmener doucement à travers le ciel. Respirez lentement et sentez-vous flotter. Cela vous aide à vous détendre encore plus. Est-ce que vous aimez cette sensation?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez fait un excellent travail en suivant toutes ces étapes pour le coucher! N'oubliez pas qu'une bonne routine de sommeil vous aide à vous sentir bien. Continuez à pratiquer chaque soir, et cela deviendra plus facile. Vous êtes incroyable, et je suis fier de vous!"
+    },
+    {
+      "id": "question_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous des rituels spéciaux que vous aimez faire avant de dormir? Peut-être une chanson douce ou un câlin avec votre peluche préférée? Partager ces moments spéciaux avec quelqu'un peut rendre le coucher encore plus agréable. Je suis curieux de savoir ce que vous préférez!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Maintenant que nous avons partagé tant de belles idées pour le coucher, pensez-vous que vous allez essayer quelque chose de nouveau ce soir? Peut-être une nouvelle histoire ou une nouvelle façon de se détendre? Les petites choses peuvent faire une grande différence. J'ai hâte de savoir ce que vous allez choisir!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "N'oubliez pas de dire bonne nuit à votre famille avant de vous endormir. Cela remplit la maison de chaleur et d'amour. Un câlin ou un bisou peut aussi être un joli geste pour montrer que vous tenez à eux. Ces petits moments rendent le coucher encore plus spécial."
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Enfin, avant de dormir, essayez de vous allonger confortablement. Trouvez la position qui vous semble la plus agréable. Peut-être sur le côté comme un chat qui ronronne, ou sur le dos en regardant le plafond. Trouver votre position idéale aide votre corps à se détendre complètement."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Voilà, notre aventure du coucher se termine ici! J'espère que vous avez aimé explorer toutes ces idées avec moi. Dormez bien, petits explorateurs, et rêvez de belles aventures. Je serai là demain pour une nouvelle journée pleine de découvertes. Bonne nuit et à bientôt!"
+    }
+  ],
+  "title": "Histoire de Bedtime de Sneaky Cat Tom"
+}

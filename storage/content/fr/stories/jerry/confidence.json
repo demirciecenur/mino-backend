@@ -1,0 +1,104 @@
+{
+  "id": "clever_mouse_jerry_confidence_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "confidence",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Jerry, la souris maligne. Aujourd'hui, nous allons partir dans une aventure incroyable sur la confiance en soi. Êtes-vous prêt ? Je suis si curieux de savoir comment vous vous sentez aujourd'hui. Ensemble, nous allons découvrir comment être courageux et sûr de soi. Alors, mettez votre sourire le plus confiant et partons à l'aventure !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand vous avez appris à faire du vélo ? C'était un moment où vous avez montré beaucoup de courage. Au début, c'était peut-être un peu effrayant, mais à chaque tour de roue, vous deveniez plus confiant. La confiance, c'est comme un muscle que l'on renforce en essayant de nouvelles choses. Plus on essaie, plus on devient fort et sûr de soi. Et vous savez quoi ? Vous êtes déjà très courageux !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment on peut renforcer notre confiance. Une façon simple est de se rappeler de nos réussites passées. Pensez à un moment où vous avez accompli quelque chose de spécial, comme attacher vos lacets tout seul. Se souvenir de ces moments peut vous donner du courage pour essayer de nouvelles choses. Alors, la prochaine fois que vous vous sentez un peu hésitant, souvenez-vous de vos succès !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Vous commencez à comprendre comment la confiance fonctionne. Maintenant, faisons un petit exercice ensemble. Fermons les yeux et prenons trois grandes respirations ensemble. Inspirez profondément... et expirez. Encore une fois... et une dernière. Cela aide à calmer notre esprit et à se sentir plus fort. Bravo, vous l'avez fait !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons avec un autre exemple. Avez-vous déjà essayé de dessiner quelque chose de nouveau ? Au début, cela peut sembler difficile, mais chaque coup de crayon vous rapproche de votre chef-d'œuvre. Avec chaque dessin, vous devenez plus confiant dans vos capacités. C'est pareil pour toutes les choses que vous apprenez. Chaque pas compte et vous devenez meilleur à chaque fois."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Vous vous souvenez de notre exercice de respiration ? C'est un outil puissant pour renforcer votre confiance. Chaque fois que vous ressentez un peu de doute, vous pouvez l'utiliser. C'est comme une baguette magique qui vous aide à retrouver votre courage. Et n'oubliez pas, vous êtes déjà très courageux, juste comme ça. Continuons notre aventure avec un grand sourire !"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant de l'importance de demander de l'aide. Avez-vous déjà demandé à quelqu'un de vous aider à monter une tour de blocs ? Parfois, travailler ensemble peut nous aider à être plus confiants. Les amis et la famille sont là pour vous soutenir et vous encourager. Il n'y a rien de mal à demander un peu d'aide pour devenir encore plus fort."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, essayons quelque chose de drôle ! Imaginez que vous êtes un super-héros avec un costume incroyable. Quel serait votre super pouvoir pour être encore plus confiant ? Peut-être voler dans les airs ou lire des livres super vite ? Utilisez votre imagination pour vous donner des super pouvoirs de confiance. Vous êtes déjà un héros incroyable !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance, c'est aussi s'amuser et essayer de nouvelles choses. Quand vous jouez à un nouveau jeu, au début, cela peut sembler difficile. Mais plus vous jouez, plus vous devenez habile. C'est pareil avec la confiance. Plus vous essayez, plus vous devenez assuré. Pensez à quelque chose de nouveau que vous aimeriez essayer. Vous pouvez le faire !"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est un moment où vous vous êtes senti vraiment fier de vous ? Peut-être avez-vous aidé un ami ou réussi quelque chose à l'école. Ces moments sont importants car ils montrent à quel point vous êtes capable. Pensez-y pendant un moment. Cela vous fait sourire, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Revenons à notre aventure. Souvenez-vous, la confiance grandit avec chaque petite victoire. Comme lorsque vous avez appris à utiliser une fourchette et un couteau pour manger. Au début, c'était peut-être un peu difficile, mais maintenant, c'est facile ! Chaque petite réussite vous rend plus fort. Vous êtes formidable et capable de tant de choses !"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Vous avez été incroyable jusqu'à présent ! Maintenant, réfléchissons à un autre exercice. Quand vous vous brossez les dents ce soir, regardez-vous dans le miroir et dites : 'Je suis courageux et confiant !' Cela peut sembler drôle, mais ces mots vous rappellent votre force intérieure. Essayez-le et voyez comment cela vous fait sentir. Vous êtes un champion !"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Continuons à explorer comment la confiance nous aide à grandir. Quand vous apprenez quelque chose de nouveau, comme faire un puzzle, c'est une aventure. Chaque pièce que vous placez vous rend plus confiant. C'est comme un jeu où vous devenez plus fort à chaque étape. Vous pouvez accomplir tout ce que vous voulez avec un peu de pratique et de courage."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà fait quelque chose qui vous a fait dire 'Wow, je l'ai fait !' ? Peut-être avez-vous lu un livre tout seul ou construit une tour de blocs géante. Ces moments montrent combien vous êtes incroyable. Pensez à un moment comme ça. Cela vous donne envie d'essayer encore plus de nouvelles choses, n'est-ce pas ?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure avec moi, petit ami. Vous avez appris beaucoup sur la confiance aujourd'hui. N'oubliez pas, vous êtes déjà très courageux et capable de grandes choses. Continuez à essayer de nouvelles choses et à croire en vous. À bientôt pour une nouvelle aventure !"
+    }
+  ],
+  "title": "Histoire de Confidence de Clever Mouse Jerry"
+}

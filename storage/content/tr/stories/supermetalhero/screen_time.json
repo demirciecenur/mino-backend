@@ -1,0 +1,104 @@
+{
+  "id": "super_metal_hero_screen_time_story",
+  "character": "Super Metal Hero",
+  "topic": "screen_time",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Super Metal Hero. Bugün birlikte ekran süresi hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Ekranlar çok eğlenceli olabilir ama onları akıllıca kullanmak da önemlidir. Şimdi bu konuda daha fazla bilgi edineceğiz ve birlikte eğlenceli aktiviteler yapacağız."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekranlar, televizyonlar, tabletler ve telefonlar gibi pek çok farklı cihaz olabilir. Bu cihazlar bize oyunlar oynatabilir, videolar izletebilir ve yeni şeyler öğrenmemize yardımcı olabilir. Ancak, çok fazla ekran süresi gözlerimizi yorabilir ve bizi yorgun hissettirebilir. İşte bu yüzden ekran süresini dengede tutmak çok önemlidir. Şimdi ekran süresini nasıl dengede tutabileceğimizi keşfedelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresini dengelemek için bir plan yapabiliriz. Örneğin, ekran karşısında geçirdiğimiz zamanı günde bir saatle sınırlamak iyi bir başlangıç olabilir. Günün geri kalanında ise dışarıda oynamak, kitap okumak veya resim yapmak gibi aktivitelerle vakit geçirebiliriz. Bu şekilde hem zihnimiz hem de bedenimiz sağlıklı kalır. Şimdi bu aktivitelerden birini seçip birlikte denemeye ne dersin?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Ekran süresini sınırlamak sadece sağlığımız için değil, aynı zamanda daha fazla eğlence için de önemlidir. Dışarıda oyun oynamak, arkadaşlarla buluşmak veya yeni şeyler keşfetmek çok eğlenceli olabilir. Sen de bir dahaki sefere ekranın başından kalktığında, hangi aktiviteyi denemek istersin? Unutma, her zaman yeni şeyler denemek için cesur olmalıyız!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda ekran süresini nasıl dengeleyeceğimizden bahsetmiştik. Şimdi, ekran karşısında geçirdiğimiz zamanı daha verimli hale getirmek için ne yapabileceğimizi konuşalım. Ekran başında geçirdiğimiz süreyi daha eğitici ve öğretici içeriklerle değerlendirebiliriz. Mesela, eğitici oyunlar oynayabilir veya ilginç belgeseller izleyebiliriz. Bu sayede hem eğlenir hem de yeni bilgiler öğreniriz."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi ekran süremizi nasıl daha verimli kullanabileceğimizi planlayalım. Her gün belirli bir saatte ekran karşısına geçip, belirli bir süre boyunca eğitici içeriklerle vakit geçirebiliriz. Örneğin, bu süreyi yeni bir dil öğrenmek için kullanabiliriz. Ya da doğa hakkında belgeseller izleyerek çevremizi daha iyi tanıyabiliriz. Bu aktiviteler hem eğlenceli hem de öğretici."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Çok güzel! Ekran süresini bu şekilde planlamak hem eğlenmemizi hem de öğrenmemizi sağlar. Sen de kendi planını yapabilir ve her gün yeni bir şey öğrenebilirsin. Unutma, bilgi güçtür ve sen de bu gücü kazanabilirsin! Şimdi, hangi konuyu öğrenmek istersin? Haydi, birlikte keşfedelim!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda ekran süremizi nasıl verimli hale getirebileceğimizden bahsetmiştik. Şimdi, ekran karşısında geçirdiğimiz zamanı daha eğlenceli ve etkileşimli hale getirmek için neler yapabileceğimizi konuşalım. Ailemizle birlikte eğitici oyunlar oynayabilir veya birlikte bir hikaye okuyabiliriz. Bu aktiviteler hem eğlenceli hem de ailenizle daha fazla vakit geçirmenizi sağlar."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresini daha eğlenceli hale getirmek için ailemizle birlikte planlar yapabiliriz. Örneğin, hafta sonları birlikte bir film gecesi düzenleyebiliriz. Ya da her akşam ailece bir oyun oynayabiliriz. Bu aktiviteler hem eğlenceli hem de aile bağlarımızı güçlendirir. Şimdi, hangi aile aktivitesini denemek istersin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Muhteşem! Aileyle birlikte zaman geçirmek her zaman çok değerli ve eğlencelidir. Sen de ekran süreni bu şekilde daha keyifli hale getirebilirsin. Unutma, birlikte geçirilen zaman en güzel zamandır. Şimdi, bir dahaki aile etkinliğinde ne yapmayı planlıyorsun? Harika fikirlerin olduğunu biliyorum!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede, ekran süresini ailemizle birlikte nasıl eğlenceli hale getirebileceğimizi konuşmuştuk. Şimdi, ekran süresini azaltmanın başka yollarını keşfedelim. Belki de yeni bir hobi edinmek isteyebilirsin. Resim yapmak, müzik çalmak veya yeni bir spor dalı öğrenmek gibi. Bunlar hem eğlenceli hem de kendimizi geliştirmemiz için harika fırsatlar sunar."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresini azaltmanın harika yollarından biri de yeni hobiler edinmektir. Her gün belirli bir süreyi yeni bir şey öğrenmeye ayırabiliriz. Bu, bizi hem mutlu eder hem de yeni beceriler kazanmamıza yardımcı olur. Şimdi, yeni bir hobi edinmek için ne yapabileceğimizi düşünelim. Belki de bir enstrüman çalmayı öğrenmek istersin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir fikir! Yeni bir hobi edinmek hem eğlenceli hem de öğreticidir. Sen de kendi ilgi alanlarına göre bir hobi seçebilirsin. Unutma, her yeni beceri seni daha da güçlü kılar. Şimdi, hangi hobiyi denemek istersin? Seninle birlikte harika şeyler başarabileceğimize eminim!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bugün çok şey öğrendik, değil mi? Ekran süresini nasıl dengede tutacağımızı ve daha verimli hale getirebileceğimizi konuştuk. Peki, şimdi senin fikrini merak ediyorum. Günlük ekran süreni nasıl planlamak istersin? Hangi aktiviteleri denemek istersin? Hadi, düşüncelerini benimle paylaş!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün harika bir yolculuk geçirdik, küçük dostum. Ekran süresini dengede tutmanın ve daha verimli hale getirmenin yollarını keşfettik. Seninle birlikte bu konuları konuşmak çok keyifliydi. Unutma, her zaman dengeyi bulmak önemlidir. Şimdi, ekran başında geçirdiğin zamanı daha eğlenceli ve faydalı hale getirmenin zamanı geldi. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Super Metal Hero'ın Screen Time Hikayesi"
+}

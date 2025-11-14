@@ -1,0 +1,104 @@
+{
+  "id": "luna_transitions_story",
+  "character": "Luna",
+  "topic": "transitions",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little star! I'm Luna, and today we're going to explore the magical world of transitions. Transitions are like little steps we take when things change around us. Imagine you're a butterfly, gently fluttering from one flower to another. Isn't that a lovely thought? Together, we'll discover how to make these changes fun and exciting. Are you ready to begin our adventure?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Transitions happen all around us, every day. Just like when the sun goes to sleep and the moon comes out to play. Have you ever noticed how the sky changes colors? It's a beautiful transition from day to night. In our lives, we also have small transitions, like going from playtime to bedtime. These changes can be fun and magical if we let them be."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn how to make transitions easier. One way is to think of them as a special game. For example, when it's time to clean up, we can pretend we're superheroes saving the day. Isn't that exciting? We can also sing a special song while we brush our teeth. Finding fun in these moments helps us feel happy and calm."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Now, let's try a little exercise together. Imagine you are a cloud, floating gently in the sky. Let's take three deep breaths, in and out. Can you feel how calm and peaceful it is? Wonderful! Breathing deeply can help us feel better when things change. You can be a calm cloud anytime you need to."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about changes in the sky? Just like the moon and stars come out, we can also welcome new things. Maybe a new friend at school or a new bedtime story. These new experiences can be like little treasures, waiting for us to discover. Isn't it wonderful to think about all the new adventures we can have?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite transition? Maybe it's the moment when you wake up and start a new day. Or perhaps it's when you snuggle into bed with your favorite story. Transitions can be special moments to look forward to. What do you think? Can you think of other transitions in your day?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our journey by thinking about routines. Routines are like a cozy blanket that helps us feel safe and secure. They guide us through the day, from breakfast to bedtime. Having a routine can make transitions smoother and more magical. Do you have a favorite part of your routine?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Imagine your routine is a gentle river, flowing through your day. You can float along, feeling the gentle waves. When you know what comes next, it can be easier to enjoy each moment. Let's practice by thinking of a fun activity you do every day. How does it feel to know what's coming next?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a great job exploring these transitions with me! Let's imagine we're explorers, discovering new things every day. Each transition is like finding a new star in the sky. Isn't that exciting? You have the power to make each change a new adventure."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about how we can help others with their transitions. Maybe you have a younger sibling or a friend who needs a little extra help. You can be their guide, showing them how to enjoy each new step. Sharing your calm and happy thoughts can make a big difference."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember the butterfly we imagined earlier? Just like the butterfly, we can flutter through our day with grace and joy. Each change is an opportunity to grow and learn. Do you feel ready to spread your wings and embrace new transitions? I believe in you!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's take a moment to celebrate all the wonderful transitions we've talked about. From morning to night, from playtime to bedtime, each moment is special. When we welcome these changes with open arms, we can find magic in every day. Isn't that a beautiful thought?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's practice one more magical exercise. Close your eyes and picture yourself as a twinkling star, shining brightly in the sky. Feel the warmth and happiness of being a star. You can be this star whenever you need to feel brave and strong."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're shining so brightly, little star! Remember, you can always find magic in transitions. Each change is like a new story waiting to be told. Keep your heart open to new adventures and let your light guide the way. You're doing such a wonderful job!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time to say goodbye for now, my sparkling friend. Remember, transitions are like little steps on a magical journey. I'm so proud of you for exploring them with me today. Keep shining and dreaming, and I'll see you again soon. Goodbye, little star!"
+    }
+  ],
+  "title": "Luna's Transitions Story"
+}

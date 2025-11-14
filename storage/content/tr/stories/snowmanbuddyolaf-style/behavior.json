@@ -1,0 +1,98 @@
+{
+  "id": "snowman_buddy_olaf-style_behavior_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostlarım! Ben Snowman Buddy Olaf-style, ve bugün sizinle çok özel bir yolculuğa çıkacağız. Davranışlar hakkında konuşacağız ve birlikte yeni şeyler öğreneceğiz. Hazır mısınız? Hep birlikte eğleneceğiz ve yeni bilgiler edineceğiz. O zaman başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Davranışlar, günlük hayatta nasıl davrandığımızı gösteren şeylerdir. İyi davranışlar, başkalarına saygı göstermek, kurallara uymak ve nazik olmak gibi güzel şeyleri içerir. Örneğin, arkadaşlarımızla oynarken oyuncaklarımızı paylaşmak iyi bir davranıştır. Ayrıca, yemek yerken ellerimizi yıkamak da önemli bir davranıştır. Haydi, şimdi birlikte iyi davranışlar hakkında daha fazla konuşalım."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "İyi davranışlar öğrenilebilir ve bu, bizim için harika bir şeydir. Mesela, birine teşekkür etmek veya lütfen demek, harika bir başlangıçtır. Bu kelimeler, başkalarını mutlu eder ve bizim de mutlu hissetmemizi sağlar. Ayrıca, sırada beklerken sabırlı olmak da iyi bir davranıştır. Bu, başkalarına saygı gösterdiğimizi gösterir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım! Ben bir davranış söyleyeceğim, siz de bunun iyi mi yoksa kötü mü olduğunu söyleyeceksiniz. Mesela, 'Oyuncakları toplamak' dediğimde, bu iyi bir davranış mıdır? Evet, harikasınız! Oyuncakları toplamak, düzenli olmanın ve sorumluluk almanın bir parçasıdır."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki oyunumuzda harika iş çıkardınız! Şimdi, günlük hayatta nasıl daha iyi davranışlar sergileyebileceğimizi düşünelim. Örneğin, dişlerimizi fırçalamak sağlığımız için çok önemlidir. Bu, hem kendimize hem de çevremize olan saygımızı gösterir. Ayrıca, arkadaşlarımızla oynarken kibar olmak ve onları dinlemek de önemlidir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bazen, kurallara uymak zor olabilir ama bu, hepimizin daha iyi bir ortamda yaşamasını sağlar. Mesela, okulda öğretmenimizi dinlemek ve kurallara uymak, öğrenmemizi kolaylaştırır. Ayrıca, evde ailemizin koyduğu kurallara uymak da önemlidir. Bu kurallar, güvende olmamızı ve daha iyi bir yaşam sürmemizi sağlar."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi biraz nefes alalım ve rahatlayalım. Üç derin nefes alalım, hadi birlikte! Bir, iki, üç... Harika! Sakinleşmek ve düşünmek, bazen en iyi davranışı sergilememize yardımcı olabilir. Böylece, daha mutlu ve başarılı olabiliriz."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, siz hangi iyi davranışları yapmayı seviyorsunuz? Belki oyuncaklarınızı toplamak ya da arkadaşlarınıza yardım etmek? Bunları düşünmek ve paylaşmak ister misiniz? Hadi, biraz düşünün ve bana söyleyin. Merakla bekliyorum!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Harika cevaplarınız için teşekkürler! İyi davranışlar, dünyayı daha güzel bir yer yapar. Her gün küçük bir iyilik yapmak bile büyük bir fark yaratabilir. Örneğin, bir arkadaşınıza gülümsemek ya da ona yardım etmek gibi. Bu tür davranışlar, hem bizi hem de çevremizdekileri mutlu eder."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, bir sonraki adımda neler yapabileceğimize bakalım. Günlük rutininizde hangi iyi davranışları ekleyebilirsiniz? Belki sabahları yatağınızı toplamak ya da akşamları dişlerinizi fırçalamak. Küçük adımlar, büyük değişiklikler yaratabilir. Unutmayın, her gün biraz daha iyi olabiliriz."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi, birlikte bir karar verelim. Bugün bir iyi davranış seçin ve bunu yapmaya çalışın. Belki bir arkadaşınıza yardım edebilir ya da birine gülümseyebilirsiniz. Siz bunu yapabilirsiniz! Her zaman hatırlayın, küçük değişiklikler büyük farklar yaratır."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Davranışlar hakkında konuşmak gerçekten eğlenceliydi! Şimdi, öğrendiklerimizi hatırlayalım. İyi davranışlar, başkalarına saygı göstermemizi ve nazik olmamızı sağlar. Ayrıca, kurallara uymak ve sorumluluk almak da önemlidir. Bunlar, hayatımızı daha güzel ve mutlu yapar."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda, iyi davranışların öneminden bahsettik. Şimdi, bu davranışları günlük hayatımıza nasıl uygulayabileceğimizi düşünelim. Mesela, yemek yerken teşekkür etmek ya da sıra beklerken sabırlı olmak gibi. Bu tür davranışlar, hem bizi hem de çevremizdekileri mutlu eder."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün harika bir gün geçirdik ve çok şey öğrendik! İyi davranışlar, hayatımızı daha güzel ve mutlu yapar. Unutmayın, her gün biraz daha iyi olabiliriz ve siz de bunu başarabilirsiniz. Şimdi, yeni öğrendiklerinizi uygulamak için sabırsızlanıyorum. Bir sonraki görüşmemizde daha fazla eğleneceğiz. Hoşça kalın!"
+    }
+  ],
+  "title": "Snowman Buddy Olaf-Style'ın Behavior Hikayesi"
+}

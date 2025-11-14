@@ -1,0 +1,98 @@
+{
+  "id": "mino_shapes_story",
+  "character": "Mino",
+  "topic": "shapes",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mino, uzayın derinliklerinden gelen renkli bir gezginim. Bugün seninle şekillerle dolu bir maceraya çıkacağız. Hazır mısın? Eğlenceli ve öğretici bir yolculuk bizi bekliyor. Şekiller dünyası o kadar büyüleyici ki, her köşesinde yeni bir keşif var. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şekillerle ilgili ilk durağımızda, en yaygın şekillerden biri olan daireyi keşfedeceğiz. Daire, etrafında köşesi olmayan bir şekildir ve her yeri eşit uzaklıktadır. Örneğin, bir top ya da bir saat kadranı daire şeklindedir. Etrafında dönerken dairenin nasıl dairesel bir yol izlediğini görebilirsin. Daireler, günlük hayatımızda sıkça karşılaştığımız eğlenceli şekillerdir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi bir sonraki şeklimize geçelim: Kare. Kare, dört eşit kenarı ve dört köşesi olan bir şekildir. Örneğin, bir kutunun yüzeyleri ya da bir satranç tahtasının kareleri bu şekildedir. Karelerin özelliklerini keşfederken, dört köşenin de eşit açılara sahip olduğunu fark edebilirsin. Hadi birlikte etrafımızda kaç tane kare bulabileceğimize bakalım!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsun! Şimdi dikdörtgenleri inceleyelim. Dikdörtgen, iki karşılıklı kenarı eşit uzunlukta olan dört kenarlı bir şekildir. Örneğin, bir kitap ya da bir masa dikdörtgen olabilir. Dikdörtgenlerin uzun ve kısa kenarları vardır, bu da onları karelerden farklı kılar. Etrafında hangi eşyaların dikdörtgen olduğunu bulmaya çalışabilirsin."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Biraz da üçgenlerden bahsedelim. Üçgen, üç kenarı ve üç köşesi olan bir şekildir. Örneğin, bir dilim pizza ya da bir trafik uyarı levhası üçgen şeklindedir. Üçgenlerin farklı türleri vardır; eşkenar, ikizkenar ve çeşitkenar gibi. Her birini keşfederken, köşelerin ve kenarların nasıl farklı olduğunu görebilirsin."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, şekillerin nasıl birleşip yeni şekiller oluşturduğuna bakalım. Örneğin, iki kareyi yan yana koyarsak, bir dikdörtgen oluşturabiliriz. Ya da iki üçgeni birleştirerek, bir dörtgen yapabiliriz. Şekillerle oynamak ve onları birleştirerek yeni şekiller oluşturmak çok eğlencelidir. Haydi, sen de dene!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence hangisi daha eğlenceli, daire mi yoksa kare mi? Nedenini düşün ve bana söyle. Belki de her ikisi de farklı şekillerde eğlencelidir. Şekilleri keşfederken hangi şeklin senin favorin olduğunu keşfetmek harika bir deneyimdir. Haydi, bir düşünelim!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi bir şeklin daha derinlerine inelim: Beşgen. Beşgen, beş kenarı ve beş köşesi olan bir şekildir. Örneğin, bir futbol topunun yüzeyindeki bazı parçalar beşgen şeklindedir. Beşgenlerin farklı türleri olabilir, ama hepsinin beş köşesi vardır. Bu şekil biraz daha karmaşıktır ama bir o kadar da ilginçtir."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Şimdi biraz dinlenelim ve nefes alalım. Üç derin nefes alıp verelim. Şekillerle olan maceramız devam edecek, ama önce biraz enerji toplayalım. Nefes alırken şekillerin güzelliğini düşün ve rahatla."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi altıgenleri inceleyelim. Altıgen, altı kenarı ve altı köşesi olan bir şekildir. Örneğin, bir bal peteği altıgenlerden oluşur. Altıgenlerin doğada nasıl bulunduğunu ve nasıl kullanıldığını görmek çok ilginçtir. Bu şekil, simetri ve düzenin güzel bir örneğidir."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi şekillerle bir oyun oynayalım. Ben bir şekil söyleyeceğim, sen de odanda bu şekle benzeyen bir şey bulacaksın. Başlayalım mı? İlk şeklimiz daire. Etrafında daire olan bir şey bulabilir misin? Harika! Şimdi sıradaki şekle geçelim: Kare. Bakalım neler bulacaksın."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hadi bakalım, buldukların neler? Daire ve kare bulmak eğlenceliydi, değil mi? Şekillerle oynamak ve onları keşfetmek her zaman heyecan vericidir. Bulduklarını bana anlatabilirsin. Bu şekilde, şekillerle daha fazla eğlenebiliriz."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Son olarak, yıldız şekline bir göz atalım. Yıldız, genellikle beş ucu olan bir şekildir. Gökyüzündeki yıldızlar gibi parlayan bir şekil. Belki de bir çizim yaparak kendi yıldızını oluşturabilirsin. Yıldızlar, hayal gücümüzü harekete geçiren büyüleyici şekillerdir."
+    },
+    {
+      "id": "scene_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir şekil yolculuğu yaptık! Her bir şeklin ne kadar özel ve farklı olduğunu gördük. Seninle bu macerayı paylaşmak harikaydı. Şimdi biraz dinlen ve öğrendiklerini düşün. Bir sonraki maceramızda tekrar görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Mino'ın Shapes Hikayesi"
+}

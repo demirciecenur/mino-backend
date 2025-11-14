@@ -1,0 +1,98 @@
+{
+  "id": "super_jump_hero_screen_time_story",
+  "character": "Super Jump Hero",
+  "topic": "screen_time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Super Jump Hero, and today we're going on an amazing journey about screen time. Are you ready to jump into this adventure with me? Screen time is when we use our tablets, phones, or watch TV. It's important to have fun but also to take breaks and play. I'm so excited to explore this with you!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about why screen time can be fun. Screen time lets us watch our favorite shows and play cool games. It's like visiting a magical world where anything is possible. But just like in any adventure, we need to know when to pause and rest. Do you have a favorite game or show you like to watch?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember, too much screen time can make us feel tired. Our eyes need a break just like we do after playing outside. It's good to look away from screens every now and then. We can play a game, read a book, or do something fun without screens. Let's try to think of something fun to do instead!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking of fun things to do! Maybe we can draw, play with toys, or even help with cooking. Did you know that using your imagination can be just as exciting as playing a video game? Let's count to three and think of our favorite playtime activities. One, two, three—what did you think of?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we have some ideas, let's talk about how screens can help us learn. We can watch videos about animals, space, and even how to make things. But remember, it's important to balance learning with playing outside and being creative. What new thing did you learn from your screen time today?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's make a fun plan to balance our screen time with other activities. We can start by setting a timer for screen time. When the timer goes off, it's time to play or do something else. This way, we can enjoy screens and still have time for other adventures. Are you ready to try this plan with me?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You can do it! Balancing screen time is a superpower just like mine. Every time you take a break, you recharge your energy. It's like getting extra power-ups in a game. Let's cheer for each other as we try to balance screen time today. Hip, hip, hooray!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, here's a question for you: What is your favorite thing to do when you're not on a screen? Is it drawing, dancing, or maybe playing with friends? I'd love to hear what you enjoy doing. Let's think about all the fun things we can do that don't involve screens!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about setting a timer? It's also important to have a cozy place to relax after screen time. Maybe a comfy chair or a blanket fort. When we have a special place, it makes our breaks even more fun. What does your cozy place look like?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try a little exercise together. Close your eyes and take three deep breaths. One... two... three. Feel how nice it is to relax. This is a great way to take a break from screens and feel calm. You can do this anytime you need a little rest."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're doing an amazing job learning how to balance screen time. Remember, it's all about having fun and feeling good. Every step you take is a big jump towards being a screen time hero! Keep up the great work, my friend."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Here's another question for you: Can you think of a new hobby you'd like to try? Maybe something like painting, building, or exploring nature. Trying new things is like going on a new adventure. What exciting journey will you choose next?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now let's think about how we can share our screen time adventures with our family. We can tell them about the games we play or the shows we watch. Sharing is a great way to connect and have fun together. What would you like to share with your family today?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this exciting journey about screen time! Remember, balancing screen time with other fun activities is like being a superhero. I'm so proud of you for learning and exploring with me. Until next time, keep jumping into adventures, my friend. Goodbye!"
+    }
+  ],
+  "title": "Super Jump Hero's Screen Time Story"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "mino_nutrition_story",
+  "character": "Mino",
+  "topic": "nutrition, alimentation saine, habitudes alimentaires, aliments sains",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis! Je suis Mino, votre ami de l'espace! Aujourd'hui, nous allons explorer un monde fascinant: celui de la nutrition et des aliments sains. Êtes-vous prêts à embarquer dans cette aventure colorée? Nous allons découvrir ensemble comment les bons aliments nous aident à être forts et pleins d'énergie. Je suis si enthousiaste de commencer cette aventure avec vous!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Saviez-vous que manger des aliments sains est comme donner du carburant à une fusée? Les fruits et légumes sont comme des super-héros pour notre corps. Ils nous aident à courir, sauter et jouer toute la journée. Imaginez manger une pomme croquante ou une carotte juteuse. Miam! Ces aliments remplissent notre corps de vitamines et de minéraux importants. C'est comme avoir une équipe de soutien dans notre ventre!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des habitudes alimentaires. Avez-vous déjà entendu parler de prendre un bon petit-déjeuner? C'est un peu comme charger nos batteries le matin. Un bol de céréales avec du lait et quelques fruits est une excellente façon de commencer la journée. Cela nous donne l'énergie nécessaire pour apprendre et jouer. N'oubliez pas de boire de l'eau aussi. L'eau est essentielle pour nous garder hydratés et en bonne santé."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons quelque chose de marrant! Comptons combien de couleurs différentes nous pouvons trouver dans notre assiette. Les carottes sont orange, les épinards sont verts, et les tomates sont rouges. Plus il y a de couleurs, mieux c'est! C'est comme avoir un arc-en-ciel dans son assiette. Quelle est votre couleur préférée? La mienne est le bleu, même si c'est rare dans les aliments. Continuons à explorer ensemble!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les protéines sont aussi importantes! Elles aident nos muscles à devenir forts. Les œufs, le poisson, et les légumineuses comme les lentilles sont pleins de protéines. Imaginez que chaque bouchée est comme un petit constructeur qui aide à bâtir notre corps. C'est fascinant, n'est-ce pas? Et n'oublions pas les produits laitiers, comme le fromage et le yaourt, qui sont bons pour nos os!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous lorsque nous avons parlé de l'importance de boire de l'eau? Eh bien, c'est parce que l'eau est comme une rivière qui traverse notre corps. Elle nous aide à rester hydratés et à évacuer tout ce dont nous n'avons pas besoin. Essayons de boire au moins six à huit verres d'eau par jour. Vous verrez, cela fait du bien!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des collations. Saviez-vous que les collations peuvent aussi être saines? Au lieu de bonbons, essayons de manger des bâtonnets de légumes ou des fruits. Les noix et les graines sont aussi de super collations. Elles sont pleines d'énergie et très croquantes. C'est parfait pour une pause entre deux jeux, n'est-ce pas?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail incroyable en apprenant tout cela! Continuez à explorer de nouveaux aliments et à essayer de nouvelles choses. Chaque nouvelle bouchée est une aventure. Et souvenez-vous, il est important d'écouter votre corps. Il vous dira quand il a faim et quand il est rassasié. C'est comme un dialogue secret avec votre ventre!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La variété est la clé d'une alimentation saine. En mangeant différents aliments, nous donnons à notre corps tout ce dont il a besoin. Imaginez que chaque aliment est une pièce d'un puzzle. Plus nous ajoutons de pièces, plus le puzzle est complet. Alors, n'hésitez pas à goûter de nouvelles choses. Qui sait, vous pourriez découvrir un nouvel aliment préféré!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous un repas préféré? J'aimerais beaucoup savoir! Est-ce quelque chose que vous pouvez partager avec votre famille ou vos amis? Les repas sont aussi un moment pour être ensemble et partager des histoires amusantes. Parlons de votre plat préféré. Y a-t-il un aliment que vous aimeriez essayer? Je suis curieux!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les repas en famille sont importants. C'est un moment spécial pour partager et se connecter. C'est aussi l'occasion de découvrir de nouveaux aliments ensemble. En cuisinant ou en mangeant ensemble, nous créons des souvenirs précieux. Et n'oublions pas de dire merci pour la nourriture que nous avons. La gratitude est aussi une partie de l'alimentation saine!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "N'oubliez pas, vous êtes déjà sur la bonne voie pour être un expert en nutrition! Continuez à poser des questions et à explorer de nouveaux goûts. Chaque jour est une nouvelle opportunité d'apprendre et de grandir. Vous êtes incroyable et je suis fier de vous. Ensemble, nous pouvons continuer cette aventure passionnante!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Avant de terminer, faisons un petit exercice ensemble. Prenons trois grandes respirations. Inspirez profondément par le nez et expirez lentement par la bouche. C'est relaxant, n'est-ce pas? Se sentir bien à l'intérieur et à l'extérieur fait partie d'une vie saine. Prenons soin de notre corps chaque jour."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure avec moi! J'ai adoré explorer le monde de la nutrition et des aliments sains avec vous. Rappelez-vous, chaque petit pas compte. Continuez à être curieux et à faire de bons choix alimentaires. Je suis impatient de vous retrouver pour une nouvelle aventure. À bientôt, mes amis!"
+    }
+  ],
+  "title": "Histoire de Nutrition de Mino"
+}

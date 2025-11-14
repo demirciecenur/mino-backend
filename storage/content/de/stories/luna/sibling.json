@@ -1,0 +1,104 @@
+{
+  "id": "luna_sibling_story",
+  "character": "Luna",
+  "topic": "sibling",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Luna. Heute gehen wir auf eine magische Reise über Geschwister. Bist du bereit, mitzukommen? Ich bin so gespannt, was wir alles entdecken werden. Geschwister können die besten Freunde sein, nicht wahr?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister sind wie funkelnde Sterne am Himmel. Sie leuchten immer, auch wenn man sie nicht immer sieht. Weißt du, dass Geschwister oft die besten Spielkameraden sind? Sie können zusammen lachen, spielen und die wunderbarsten Abenteuer erleben. Stell dir vor, ihr seid Piraten auf einem Schiff oder Astronauten im Weltraum!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Manchmal kann es auch kleine Streitereien geben, aber das ist ganz normal. Wichtig ist, dass man sich danach wieder verträgt. Das Teilen von Spielsachen kann manchmal schwierig sein, aber es macht auch viel Spaß, gemeinsam zu spielen. Wenn du dein Lieblingsspielzeug teilst, könnt ihr zusammen noch mehr Freude haben. Probier es aus!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lasst uns gemeinsam etwas Magisches ausprobieren. Stell dir vor, du hältst die Hand deines Geschwisters und ihr zählt zusammen bis drei. Eins, zwei, drei! Fühlt sich das nicht wunderbar an? Ihr könnt alles schaffen, wenn ihr zusammenhaltet. Großartig gemacht!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an die tollen Abenteuer, die du mit deinem Geschwisterchen erleben kannst? Zusammen könnt ihr Burgen bauen oder im Garten auf Schatzsuche gehen. Es gibt so viele spannende Dinge zu entdecken, wenn man zu zweit ist. Und das Beste ist, dass ihr immer jemanden habt, der euch versteht."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Manchmal ist es wichtig, dem anderen zuzuhören. Wenn dein Geschwisterchen etwas erzählt, hör gut zu. So könnt ihr voneinander lernen und noch bessere Freunde werden. Übt das Zuhören, indem ihr euch abwechselnd Geschichten erzählt. Es ist spannend, was man alles erfährt!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wirklich toll! Weißt du, Geschwister können sich auch gegenseitig helfen. Zum Beispiel beim Aufräumen des Zimmers oder beim Anziehen. Gemeinsam geht alles viel schneller und macht mehr Spaß. Probier es doch mal aus und schau, wie schnell ihr fertig seid!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister haben oft geheime Sprachen oder Codes, die nur sie verstehen. Das macht eure Verbindung ganz besonders. Vielleicht habt ihr auch einen geheimen Handschlag oder ein Lied, das nur ihr kennt. Solche kleinen Geheimnisse machen eure Beziehung einzigartig und zauberhaft."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal darüber nachgedacht, was du an deinem Geschwisterchen besonders magst? Vielleicht ist es das Lachen oder die Art, wie ihr zusammen spielt. Was ist dein Lieblingsmoment mit deinem Geschwisterchen? Überleg mal, und vielleicht kannst du es ihm oder ihr erzählen!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über all die schönen Dinge gesprochen haben, die man mit Geschwistern erleben kann, lass uns an die Abenteuer denken, die noch kommen. Vielleicht plant ihr gemeinsam eine kleine Party oder ein Picknick im Garten. Es gibt unendlich viele Möglichkeiten, Spaß zu haben!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ein kleiner Tipp: Wenn ihr euch mal nicht einig seid, könnt ihr zusammen eine Lösung finden. Sprecht darüber und findet einen Kompromiss. Das macht euch beide glücklich und stärkt eure Freundschaft. Ihr könnt es wie eine kleine Detektivarbeit sehen, bei der ihr zusammen die beste Lösung findet."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein wunderbarer Geschwister! Denk daran, dass du immer jemanden an deiner Seite hast, der dich liebt und unterstützt. Ihr seid ein tolles Team, und zusammen könnt ihr alles erreichen. Glaub an euch und erlebt viele zauberhafte Momente zusammen!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich an die lustigen Spiele, die ihr zusammen spielt? Vielleicht habt ihr ein Lieblingsspiel, das ihr immer wieder spielt. Oder ihr erfindet neue Spiele, die nur ihr beide kennt. Solche Erinnerungen sind kostbar und machen eure Beziehung noch stärker."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkst du, macht Geschwister zu etwas Besonderem? Ist es die Liebe, die ihr teilt, oder die Abenteuer, die ihr erlebt? Vielleicht ist es das Gefühl, immer jemanden zu haben, der für einen da ist. Was auch immer es ist, es macht eure Beziehung einzigartig und wertvoll."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es Zeit, sich zu verabschieden. Ich hoffe, du hattest Spaß auf unserer kleinen Reise über Geschwister. Denk daran, wie wichtig und besonders deine Beziehung zu deinem Geschwisterchen ist. Ich freue mich schon auf das nächste Abenteuer mit dir. Bis bald, kleiner Freund!"
+    }
+  ],
+  "title": "Lunas Sibling Geschichte"
+}

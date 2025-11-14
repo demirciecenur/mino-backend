@@ -1,0 +1,104 @@
+{
+  "id": "adventure_dora_pal_screen_time_story",
+  "character": "Adventure Dora Pal",
+  "topic": "screen_time",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Adventure Dora Pal. Bugün birlikte ekran süresi hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Ekranlar, televizyonlar, tabletler ve telefonlar gibi birçok eğlenceli şey içeriyor. Ama bunları ne kadar kullandığımızı bilmek de çok önemli. Hadi, bu maceraya başlayalım ve ekran süresi hakkında daha fazla şey öğrenelim!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekran süresi, gün boyunca ekran karşısında geçirdiğimiz zamandır. Bu, televizyon izlemekten tablet oyunları oynamaya kadar birçok şeyi kapsar. Peki, ekran başında çok fazla zaman geçirmenin nasıl etkileri olabilir? Bazen çok fazla ekran süresi gözlerimizi yorabilir ve uyumamızı zorlaştırabilir. İşte bu yüzden ekran başında geçirdiğimiz süreyi dengede tutmamız çok önemli."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresini dengede tutmak için bazı kurallar koyabiliriz. Mesela, her gün belirli bir süre televizyon izleyebilir veya tabletle oynayabiliriz. Ayrıca, ekran süresi bittikten sonra açık havada oynamak veya kitap okumak gibi aktiviteler yapabiliriz. Bu aktiviteler hem eğlenceli hem de sağlıklı. Şimdi, ekran süresini nasıl dengeleyebileceğimizi düşünelim!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ekran süresini dengede tutmak için harika bir planımız var! Şimdi birlikte bir liste yapalım. Gün içinde ekran başında ne kadar zaman geçirdiğimizi not alabiliriz. Sonra bu süreyi farklı aktivitelerle dengeleyebiliriz. Bu harika bir fikir, değil mi? Hadi, şimdi birlikte düşünelim, başka neler yapabiliriz?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekran süresini dengelemek sadece sağlığımız için değil, aynı zamanda eğlenceli vakit geçirmek için de önemli. Mesela, ekran başında geçirdiğimiz zaman yerine arkadaşlarımızla oyunlar oynayabiliriz. Ya da ailemizle birlikte resim yapabiliriz. Bu aktiviteler hem eğlenceli hem de yaratıcılığımızı geliştirir. Şimdi, senin en sevdiğin ekran dışı aktivite nedir?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresini sınırlarken dikkat etmemiz gereken bir diğer şey de ekranları uyumadan önce kullanmamaktır. Çünkü ekran ışığı uykuya dalmamızı zorlaştırabilir. Bunun yerine uyumadan önce kitap okuyabilir veya rahatlatıcı müzik dinleyebiliriz. Bunlar uyumamıza yardımcı olur ve daha iyi dinlenmemizi sağlar. Şimdi, uyumadan önce neler yapabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi ekran süresini dengede tutmak için bir planımız var. Her gün belirli bir süre ekran başında olmak yeterli. Sonrasında ise dışarıda oynamak ya da kitap okumak gibi aktiviteler yapabiliriz. Bu şekilde hem sağlıklı kalırız hem de eğlenceli vakit geçiririz. Unutma, sen bunu yapabilirsin! Hadi, bu planı uygulamaya başlayalım!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, ekran süresini dengede tutmak için başka neler yapabiliriz? Senin önerilerin nelerdir? Bu konuda ne düşündüğünü çok merak ediyorum. Belki de en sevdiğin oyunları oynamak için belirli bir zaman ayırabilirsin. Ya da ekran süresini arkadaşlarınla paylaşarak daha eğlenceli hale getirebilirsin."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda ekran süresini sınırlamanın yollarını tartışmıştık. Şimdi bu yolları nasıl uygulayabileceğimizi düşünelim. Mesela, ekran süresi için bir zamanlayıcı kullanabiliriz. Bu sayede ekran başında ne kadar zaman geçirdiğimizi kontrol edebiliriz. Ayrıca, ekran süresini bitirdiğimizde kendimize küçük ödüller verebiliriz. Bu harika bir motivasyon olur!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ekran süresini dengede tutmak, sağlıklı kalmamıza yardımcı olur. Ayrıca, farklı aktiviteler yapmak yaratıcılığımızı geliştirir ve yeni şeyler öğrenmemize olanak tanır. Senin de harika fikirlerin olduğunu biliyorum. Şimdi bu fikirleri uygulayarak ekran süresini daha eğlenceli hale getirebiliriz. Hadi, birlikte başlayalım!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresini dengede tutarken, ekran başında geçirdiğimiz zamanın kalitesine de dikkat etmeliyiz. Eğitici ve öğretici içerikler izlemek bize yeni bilgiler kazandırır. Özellikle eğitici oyunlar ve belgeseller izlemek çok faydalıdır. Bu tür içerikler hem eğlendirir hem de öğretir. Şimdi, senin en sevdiğin eğitici içerik nedir?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekran süresi hakkında öğrendiğimiz birçok şey var. Günlük hayatımızda ekran süresini dengede tutarak daha sağlıklı ve mutlu olabiliriz. Dışarıda oyun oynamak, kitap okumak ve ailemizle vakit geçirmek de çok önemli. Bu aktiviteler hem bedenimize hem de zihnimize iyi gelir. Şimdi, bu öğrendiklerimizi uygulamaya koymanın tam zamanı!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Unutma, ekran süresini dengede tutmak senin elinde. Senin de harika bir planın var ve bunu uygulayabilirsin. Her gün ekran süresini kontrol ederek ve farklı aktiviteler yaparak daha sağlıklı bir yaşam sürebilirsin. Harika bir iş çıkarıyorsun! Şimdi, bu planı uygulamaya koymanın zamanı geldi!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnemizde ekran süresini nasıl dengede tutabileceğimizi konuştuk. Şimdi, bu bilgileri nasıl uygulayabileceğimizi düşünelim. Ekran süresini sınırlamak için bir aile planı yapabiliriz. Bu planı uygularken birbirimizi motive edebiliriz. Bu şekilde ekran süresini daha eğlenceli ve sağlıklı hale getirebiliriz."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün ekran süresi hakkında çok şey öğrendik. Bu bilgileri günlük hayatımızda uygulayarak daha sağlıklı ve mutlu olabiliriz. Seninle bu maceraya çıkmak çok eğlenceliydi! Unutma, ekran süresini dengede tutmak senin elinde. Bir dahaki maceramızda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Adventure Dora Pal'ın Screen Time Hikayesi"
+}

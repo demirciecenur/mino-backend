@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_sibling_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "sibling",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Tom le Chat Malin et aujourd'hui, nous allons explorer le monde merveilleux des frères et sœurs. As-tu un frère ou une sœur? Peut-être que tu joues souvent avec eux. Ensemble, nous allons découvrir comment les frères et sœurs peuvent être les meilleurs amis du monde. Es-tu prêt pour cette aventure amusante? Allons-y!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les frères et sœurs peuvent être très spéciaux. Ils sont là pour jouer avec toi et partager des secrets. Parfois, vous pouvez vous disputer, mais c'est normal. En fin de compte, les frères et sœurs s'aiment toujours. Tu sais, les frères et sœurs peuvent aussi t'aider à apprendre de nouvelles choses, comme faire du vélo ou lire un livre."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment nous pouvons être de bons frères et sœurs. Être gentil et partager sont très importants. Par exemple, si tu as deux jouets, tu peux en donner un à ton frère ou ta sœur. Cela montre que tu les aimes et que tu veux jouer avec eux. Et si jamais tu te disputes, tu peux toujours dire 'pardon' et faire un câlin."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super, tu fais un excellent travail en étant un bon frère ou une bonne sœur! Continue à partager et à être gentil. Tu peux aussi proposer de jouer à des jeux ensemble, comme cache-cache ou un jeu de société. C'est une excellente façon de passer du temps ensemble et de s'amuser. N'oublie pas de les encourager aussi!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi de la dernière fois que tu as joué avec ton frère ou ta sœur. Peut-être avez-vous construit une forteresse en coussins ou dessiné ensemble. Ces moments sont précieux et remplis de joie. En jouant ensemble, vous créez des souvenirs que vous chérirez pour toujours. Alors, la prochaine fois que tu joueras, pense à combien c'est spécial."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dis-moi, quel est ton jeu préféré à jouer avec ton frère ou ta sœur? Est-ce que c'est un jeu de ballon ou peut-être un jeu de construction? Les jeux sont un excellent moyen de se rapprocher et d'apprendre à travailler ensemble. Alors, quel jeu aimerais-tu essayer la prochaine fois? Peut-être que tu pourrais même inventer un nouveau jeu ensemble!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi de l'importance de partager. Si tu as un goûter, tu pourrais en donner un morceau à ton frère ou ta sœur. Cela montre que tu es généreux et que tu penses à eux. Partager, c'est aussi écouter quand ils ont quelque chose à dire. Parfois, juste être là pour écouter est la meilleure chose que tu puisses faire."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Voyons comment nous pouvons résoudre les petits conflits. Si jamais tu te fâches, prends une grande respiration. Compte jusqu'à trois, puis essaie de parler calmement. Parfois, il suffit de discuter pour comprendre ce que l'autre ressent. Tu verras, avec un peu de patience, tout peut s'arranger."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo! Tu deviens un expert en résolution de conflits et en partage. Continue comme ça, et tu verras que tes relations avec ton frère ou ta sœur seront encore plus joyeuses. Chaque fois que tu fais quelque chose de gentil, tu construis une belle amitié. Alors n'arrête jamais d'être attentionné!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des surprises. Tu pourrais faire un petit dessin et le cacher pour que ton frère ou ta sœur le trouve. C'est une façon amusante de montrer que tu penses à eux. Les surprises n'ont pas besoin d'être grandes pour être spéciales. Parfois, un simple sourire est la meilleure surprise!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelle-toi de la dernière surprise que tu as faite. Peut-être as-tu aidé à ranger sans qu'on te le demande? Ou peut-être as-tu partagé ton jouet préféré? Ces petites actions montrent combien tu es attentionné. Alors, quelle sera ta prochaine surprise? Je parie que ce sera quelque chose de merveilleux!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les frères et sœurs sont comme des partenaires d'aventure. Ensemble, vous pouvez explorer le jardin, construire des châteaux de sable ou même imaginer des mondes fantastiques. Chaque jour est une nouvelle opportunité pour créer des souvenirs incroyables. Alors, quelle aventure choisiras-tu aujourd'hui avec ton frère ou ta sœur?"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, quelles sont tes aventures préférées avec ton frère ou ta sœur? Est-ce que vous aimez explorer de nouveaux endroits ou inventer des histoires? Les aventures peuvent être grandes ou petites, l'important est de les vivre ensemble. Alors, quelle sera ta prochaine aventure? Je suis sûr qu'elle sera incroyable!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Continue à être un frère ou une sœur extraordinaire! Chaque jour, tu as la chance de faire quelque chose de gentil et de montrer combien tu tiens à eux. Rappelle-toi, les petits gestes comptent beaucoup. Alors, garde le sourire et continue d'être merveilleux!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé du temps avec moi aujourd'hui, mes petits amis! J'espère que tu as appris beaucoup sur les frères et sœurs et que tu es prêt pour de nouvelles aventures. N'oublie pas de toujours être gentil et de partager. À bientôt pour une nouvelle histoire amusante! Au revoir!"
+    }
+  ],
+  "title": "Histoire de Sibling de Sneaky Cat Tom"
+}

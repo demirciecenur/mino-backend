@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_behavior_story",
+  "character": "Piggy Friend",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Piggy Friend. Aujourd'hui, nous allons découvrir le monde du bon comportement. Es-tu prêt pour cette aventure amusante ? Je suis tellement curieuse de savoir comment tu te comportes à la maison et à l'école. Ensemble, nous apprendrons comment être gentil et respectueux avec tout le monde autour de nous. Alors, partons à l'aventure !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par parler du respect des règles. Tu te souviens quand maman ou papa te disent d'attendre ton tour pour jouer ? C'est une règle importante ! Elle nous aide à être justes et à partager avec nos amis. Quand nous respectons les règles, tout le monde peut s'amuser et être heureux. Et toi, quelles règles suis-tu à la maison ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment gérer son comportement. Parfois, il est difficile de rester calme quand on est énervé, n'est-ce pas ? Une bonne astuce est de prendre trois grandes respirations. Allons-y, inspire profondément, puis expire lentement. Encore une fois, inspire et expire. Ça fait du bien, non ? Cela nous aide à rester calmes et heureux !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Tu fais du bon travail ! Maintenant, parlons de comment être gentil avec les autres. Dire des mots gentils, comme \"s'il te plaît\" et \"merci\", montre que nous apprécions les autres. Ça rend tout le monde heureux et crée une ambiance joyeuse. As-tu utilisé ces mots magiques aujourd'hui ?"
+    },
+    {
+      "id": "scene_4",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelle-toi quand nous avons parlé de partager ? Partager ses jouets est une belle façon de montrer que tu es un bon ami. Quand tu prêtes ton jouet préféré, cela fait sourire ton copain, et toi aussi ! As-tu déjà partagé quelque chose avec un ami ? Si oui, comment t'es-tu senti ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons avec l'importance d'écouter. Quand quelqu'un parle, il est poli de l'écouter attentivement. Cela montre que tu respectes ce qu'il dit. Essaie de ne pas interrompre et attends ton tour pour parler. C'est un excellent moyen de montrer que tu es attentif et respectueux."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Et si nous parlions de ranger ses affaires ? Après avoir joué, il est important de ranger ses jouets. Cela rend la pièce plus propre et plus agréable pour tout le monde. Tu peux transformer cela en jeu amusant ! Compte combien de jouets tu peux ranger en une minute. Prêt ? Allez, c'est parti !"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo ! Tu as fait un excellent travail ! Ranger ses affaires est une belle façon de montrer que tu es responsable. Tu vois, le bon comportement commence par de petites actions comme celles-ci. Chaque petit geste compte et rend la journée de tout le monde meilleure."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Te rappelles-tu de la dernière fois où tu as aidé quelqu'un ? Aider les autres est un geste de gentillesse. Que ce soit en aidant maman à mettre la table ou en aidant un ami à l'école, chaque acte compte. Quand tu aides les autres, tu te sens bien, et cela rend tout le monde heureux."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, y a-t-il quelque chose que tu aimerais améliorer dans ton comportement ? Peut-être rester plus calme ou être plus attentif ? C'est toujours bien d'avoir des objectifs pour s'améliorer. Quels sont tes objectifs ? Je suis sûre que tu peux y arriver avec un peu de pratique !"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de comment exprimer ses émotions. Il est normal de se sentir triste ou en colère parfois. Mais il est important de parler de ce que tu ressens. Tu peux le dire à maman, papa ou même à un ami. Ils sont là pour t'écouter et t'aider à te sentir mieux."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand tu te sens contrarié, essaie de dessiner ce que tu ressens. Le dessin peut être une façon amusante de montrer tes émotions. Prends un crayon et dessine ce qui te passe par la tête. C'est une belle manière de partager ce que tu ressens sans avoir à parler."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "C'est fantastique ! Tu as appris tellement de choses aujourd'hui sur le bon comportement. Chaque petit effort que tu fais pour être gentil et respectueux compte beaucoup. Continue à pratiquer tout ce que nous avons vu aujourd'hui, et tu seras un véritable modèle de bon comportement."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelle-toi que le bon comportement rend non seulement les autres heureux, mais te rend aussi heureux. Quand tu es gentil et respectueux, tu te fais des amis facilement. Et tu verras que les autres te traiteront aussi avec gentillesse. C'est un cercle magique de bonheur !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, petit ami. J'espère que tu as appris beaucoup et que tu t'es amusé. N'oublie pas de toujours être gentil, respectueux et de suivre les règles. Je suis fière de toi et de tes efforts pour être une meilleure personne chaque jour. À bientôt pour d'autres aventures amusantes !"
+    }
+  ],
+  "title": "Histoire de Behavior de Piggy Friend"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "snowman buddy olaf-style_confidence_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "confidence",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy tu amigo muñeco de nieve, al estilo Olaf. Hoy vamos a embarcarnos en una aventura increíble sobre la confianza. ¿Estás listo para descubrir lo maravilloso que es creer en ti mismo? Estoy tan emocionado de compartir este momento contigo. ¡Vamos a divertirnos mucho juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confianza es como una pequeña chispa dentro de nosotros que nos hace sentir seguros y valientes. Es como cuando aprendes a montar en bicicleta y, aunque al principio puedas tambalearte, poco a poco te sientes más seguro. ¿Recuerdas la última vez que hiciste algo por primera vez? ¡Eso fue un acto de confianza! Ahora, vamos a explorar cómo podemos fortalecer esa chispa dentro de nosotros."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para fortalecer nuestra confianza, podemos comenzar con algo muy simple, como respirar profundamente. Vamos a intentarlo juntos: inhala contando hasta tres y luego exhala contando hasta tres. Esto nos ayuda a sentirnos tranquilos y seguros. ¿Lo intentamos una vez más? ¡Muy bien! Respirar así puede ayudarnos cuando nos sentimos un poco nerviosos."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora, piensa en algo que te gustaría intentar, como dibujar un sol o cantar una canción. Recuerda que está bien cometer errores porque cada intento nos hace más fuertes. ¿Te animas a intentarlo? ¡Tú puedes hacerlo, confío en ti!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora hablemos de cómo la confianza se parece a plantar una semilla. Al principio, es pequeña y necesita cuidado, pero con el tiempo, crece y se convierte en una hermosa planta. Cada vez que intentas algo nuevo, es como regar esa semilla. ¿Puedes pensar en una semilla que quieras cuidar hoy?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar diciendo cosas positivas sobre nosotros mismos. Repite conmigo: 'Soy valiente', 'Puedo intentarlo', 'Soy especial'. Decir estas palabras en voz alta nos ayuda a sentirnos más fuertes. ¿Puedes pensar en otra frase positiva que te gustaría decir?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué maravillosas palabras has escogido! Cada vez que te dices algo positivo, es como darle un gran abrazo a tu corazón. No olvides que siempre puedes contar conmigo para recordarte lo increíble que eres. ¡Eres capaz de lograr cosas grandiosas!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos que la confianza también es como un amigo que nos acompaña. Siempre está ahí, incluso cuando no lo vemos. Como cuando estás en el parque y decides subir al tobogán más alto, tu confianza te dice: '¡Tú puedes hacerlo, adelante!'"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez has sentido que no podías hacer algo y luego lo lograste? ¿Cómo te sentiste cuando lo conseguiste? Apuesto a que fue una sensación increíble. ¿Puedes contarme sobre un momento así? Me encantaría saberlo."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Eso suena asombroso! Cada vez que superamos un desafío, nuestra confianza crece un poquito más. Es como añadir una estrella más a nuestro cielo personal. Ahora vamos a descubrir cómo podemos seguir añadiendo más estrellas."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Podemos practicar pequeñas cosas todos los días para sentirnos más seguros. Como vestirse solos o ayudar a poner la mesa. Estas pequeñas acciones son como pasos de gigante hacia una gran confianza. ¿Qué te gustaría intentar hoy?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué idea tan estupenda! Recuerda que cada pequeño paso cuenta y es importante celebrar cada logro, por pequeño que sea. ¡Démosle una gran sonrisa a ese logro! ¡Eres fantástico y cada día te vuelves más fuerte!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en un lugar donde te sientas realmente seguro y feliz. Puede ser tu habitación, el parque o un lugar especial en tu imaginación. Este lugar es donde tu confianza brilla más fuerte. ¿Puedes cerrar los ojos e imaginarlo?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Cómo es ese lugar especial en tu mente? ¿Hay colores, sonidos o personas que te hacen sentir bien? Compartirlo puede hacernos sentir aún más confiados. Me encantaría saber cómo es tu lugar especial."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un viaje maravilloso descubrir la confianza juntos. Recuerda, siempre que necesites un poco de ánimo, piensa en todas las cosas asombrosas que puedes hacer. Estoy muy orgulloso de ti y de todo lo que has aprendido hoy. ¡Hasta la próxima vez, pequeño amigo! ¡Sigue brillando y siendo genial!"
+    }
+  ],
+  "title": "Historia de Confidence de Snowman Buddy Olaf-Style"
+}

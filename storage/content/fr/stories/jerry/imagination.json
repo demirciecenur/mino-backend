@@ -1,0 +1,104 @@
+{
+  "id": "clever_mouse_jerry_imagination_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "imagination",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis Jerry, la souris maligne. Aujourd'hui, nous allons partir pour une aventure incroyable sur l'imagination. Êtes-vous prêts? Je suis tellement curieux de savoir comment vous utilisez votre imagination. Allons explorer ensemble ce monde magique!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est comme un super pouvoir! Elle nous permet de créer des mondes fantastiques dans notre tête. Par exemple, vous pouvez imaginer que vous êtes un chevalier courageux ou une princesse dans un château. Avec l'imagination, il n'y a pas de limites! Vous pouvez même voler comme un oiseau dans le ciel. N'est-ce pas merveilleux?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment nous pouvons utiliser notre imagination chaque jour. Par exemple, quand vous jouez avec vos jouets, vous pouvez leur donner des voix et créer des histoires. Ou bien, quand vous dessinez, vous pouvez inventer des paysages incroyables! L'important est de s'amuser et de laisser votre imagination faire le travail."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons ensemble! Fermez les yeux et imaginez que vous êtes dans une forêt magique. Que voyez-vous? Peut-être des arbres géants ou des animaux qui parlent. C'est super! Vous voyez à quel point votre imagination peut être puissante? Continuez à rêver et à créer!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons imaginé être dans une forêt magique? Maintenant, imaginez que vous êtes un explorateur. Que découvririez-vous? Peut-être un trésor caché ou une île mystérieuse. L'imagination nous permet de voyager loin, sans quitter la maison. C'est comme un voyage magique!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vous savez, l'imagination est aussi utile pour résoudre des problèmes. Par exemple, si vous avez perdu votre jouet préféré, vous pouvez imaginer toutes les cachettes possibles. Ou encore, si vous voulez construire quelque chose, imaginez d'abord à quoi cela ressemblera. L'imagination est vraiment un outil incroyable!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Souvenez-vous de notre forêt magique. Et si nous y retournions? Cette fois, imaginez que vous rencontrez un nouvel ami, peut-être un petit dragon ou un gentil géant. Comment serait-il? Amusant, n'est-ce pas? Avec l'imagination, nous pouvons rencontrer des amis extraordinaires!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites du très bon travail! Continuons notre aventure. Que diriez-vous d'imaginer être un super-héros? Quels pouvoirs auriez-vous? Peut-être la capacité de voler ou de devenir invisible. C'est génial! Vous voyez, tout est possible avec l'imagination!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination peut aussi nous aider à nous détendre. Par exemple, si vous êtes un peu stressé, imaginez que vous êtes allongé sur une plage ensoleillée. Vous entendez les vagues et sentez le sable chaud. C'est relaxant, n'est-ce pas? Utilisons notre imagination pour trouver la paix!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, faisons un petit exercice d'imagination. Imaginez que vous êtes un peintre célèbre. Quel tableau aimeriez-vous créer? Peut-être un paysage coloré ou un portrait amusant. Prenez un moment pour penser à tous les détails. Bravo, vous êtes un artiste incroyable!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà pensé à ce que vous aimeriez devenir quand vous serez grand? Peut-être un astronaute, un médecin ou un chef cuisinier? L'imagination peut vous aider à explorer toutes ces possibilités. Quel rêve aimeriez-vous poursuivre? Rappelez-vous, tout est possible avec un peu d'imagination!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons notre voyage dans le monde de l'imagination. Imaginez que vous pouvez parler aux animaux. Que diraient-ils? Peut-être vous raconteraient-ils des histoires sur leurs aventures. C'est une idée amusante, n'est-ce pas? L'imagination nous permet de vivre des expériences extraordinaires!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "N'abandonnez jamais votre imagination, mes amis! Elle vous aide à voir le monde sous un jour nouveau. Que vous soyez en train de jouer, de lire ou de rêver, votre imagination est toujours là pour vous inspirer. Continuez à rêver et à explorer!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, je suis curieux de savoir: quelle a été votre partie préférée de notre aventure aujourd'hui? Était-ce d'imaginer être dans une forêt magique, ou peut-être un super-héros? J'aimerais beaucoup entendre vos idées! L'imagination est magique, n'est-ce pas?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure avec moi, les amis! N'oubliez pas que votre imagination est un trésor précieux. Continuez à l'utiliser chaque jour pour créer, explorer et rêver. À bientôt pour une nouvelle aventure! Prenez soin de vous et amusez-vous bien!"
+    }
+  ],
+  "title": "Histoire de Imagination de Clever Mouse Jerry"
+}

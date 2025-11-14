@@ -1,0 +1,104 @@
+{
+  "id": "luna_behavior_story",
+  "character": "Luna",
+  "topic": "behavior",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeños amigos! Soy Luna, y hoy vamos a embarcarnos en un viaje mágico para aprender sobre el buen comportamiento. ¿Están listos para descubrir cosas maravillosas conmigo? Estoy tan emocionada de compartir este momento con ustedes. Juntos, aprenderemos a ser amables, a escuchar y a seguir las reglas. ¡Va a ser una aventura mágica llena de estrellas y sonrisas!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en qué significa comportarse bien. Comportarse bien es cuando hacemos cosas que son amables y respetuosas. Por ejemplo, cuando compartimos nuestros juguetes con los amigos, mostramos buen comportamiento. También, cuando escuchamos a nuestros padres y profesores, estamos siendo obedientes. Esto ayuda a que todos se sientan felices y seguros. ¿No es maravilloso hacer a otros sentir bien?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a aprender cómo seguir reglas de manera divertida. Las reglas son como pequeñas estrellas que nos guían en lo que debemos hacer. Por ejemplo, una regla importante es lavarnos las manos antes de comer. Esto nos mantiene sanos y fuertes. Otra regla es recoger nuestros juguetes después de jugar. Así mantenemos todo ordenado y bonito. ¡Qué genial es tener un lugar limpio para jugar!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a intentarlo juntos! Imaginemos que estamos en un mundo mágico donde los juguetes vuelven a su lugar con un chasquido de dedos. Ahora, tú puedes ser el mago que hace que eso pase. ¡Intenta recoger tus juguetes y verás cómo el mundo se vuelve más ordenado! ¡Fantástico! Al hacer esto, estás mostrando un comportamiento excelente. ¡Puedes hacerlo, lo sé!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden que también es importante escuchar con atención. Escuchar es como abrir una puerta mágica a nuevas ideas y aventuras. Cuando alguien nos habla, podemos mirar sus ojos y prestar atención a sus palabras. Esto muestra que nos importa lo que dicen. Y cuando escuchamos bien, aprendemos cosas nuevas y hacemos nuevos amigos. ¡Qué bello es el poder de escuchar!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdan cuando hablamos de compartir? Compartir es otra forma de mostrar buen comportamiento. Es como si tuviéramos un gran pastel y todos pudieran disfrutar de un pedazo. Si compartimos nuestros juguetes o nuestras ideas, hacemos que todos se sientan incluidos. ¡Es tan bonito ver cómo compartir puede hacer que todos se sientan felices y unidos!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a practicar cómo escuchar. Vamos a cerrar los ojos un momento y escuchar los sonidos a nuestro alrededor. Puede ser el canto de un pajarito o el susurro del viento. Este ejercicio nos ayuda a concentrarnos y a valorar los pequeños sonidos del mundo. ¡Qué fascinante es descubrir todo lo que nos rodea al escuchar atentamente!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo están haciendo genial! Ahora, vamos a practicar otra cosa importante: decir 'por favor' y 'gracias'. Estas palabras mágicas abren puertas y hacen que las personas se sientan valoradas. Cuando pedimos algo con un 'por favor', mostramos respeto. Y al decir 'gracias', mostramos gratitud. ¡Practiquemos juntos y veamos lo poderosas que son estas palabras!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablemos sobre cómo manejar nuestras emociones. A veces, podemos sentirnos enojados o tristes, y eso está bien. Lo importante es saber cómo calmarnos. Podemos respirar profundamente, como si estuviéramos soplando una nube suave en el cielo. Esta técnica nos ayuda a sentirnos tranquilos y a pensar con claridad. ¡Qué mágico es poder controlar nuestras emociones!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdan cuando mencionamos las reglas? Hay una regla muy especial: tratar a los demás como queremos ser tratados. Esto significa ser amable y considerado. Si queremos que nos presten atención, también debemos prestar atención a los demás. Ser amable es como plantar semillas de felicidad en el jardín de la amistad. ¡Qué hermoso jardín podemos crear juntos!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer un pequeño ejercicio de respiración juntos. Inhalen profundamente como si estuvieran oliendo una flor mágica. Ahora, exhalen suavemente como si estuvieran soplando una vela. Este ejercicio nos ayuda a calmarnos y a sentirnos en paz. Practicar esto puede hacer que nuestros días sean más felices y tranquilos. ¡Increíble, verdad!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Están haciendo un trabajo maravilloso! Ahora piensen en una vez cuando hicieron algo amable por alguien. Tal vez ayudaron a un amigo o compartieron un juguete. Recuerden cómo se sintieron al hacerlo. ¡Es una sensación mágica, verdad! Sigamos haciendo cosas amables cada día. ¡Estoy tan orgullosa de ustedes!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Pueden pensar en una regla que les guste seguir en casa o en la escuela? Tal vez sea algo como lavarse los dientes antes de dormir. ¿O quizás ayudar a mamá y papá a poner la mesa? Las reglas nos ayudan a vivir en armonía y a cuidar unos de otros. ¡Me encantaría escuchar cuáles son sus reglas favoritas!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué ideas tan maravillosas tienen! Ahora, pensemos en cómo podemos usar lo que aprendimos hoy. Podemos empezar cada día con una sonrisa y recordar ser amables. Y cuando enfrentemos un desafío, recordemos respirar profundamente y mantener la calma. Así, cada día puede ser una aventura mágica llena de buen comportamiento."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer compartir este tiempo con ustedes, mis pequeños amigos. Recuerden que el buen comportamiento nos ayuda a ser felices y a hacer felices a los demás. Espero que sigan practicando lo que aprendimos hoy. Estoy siempre aquí, bajo la luna brillante, para recordarles lo especiales que son. ¡Hasta pronto, y que tengan días llenos de magia y sonrisas!"
+    }
+  ],
+  "title": "Historia de Behavior de Luna"
+}

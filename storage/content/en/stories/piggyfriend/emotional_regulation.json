@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_emotional_regulation_story",
+  "character": "Piggy Friend",
+  "topic": "emotional_regulation",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Piggy Friend, and I'm so happy to see you today! We're going on an amazing journey to learn about how we can feel better when we're upset or angry. It's called emotional regulation! Are you ready to have fun with me and learn some new things? Let's jump into our adventure together and discover all the magic of understanding our feelings!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about a time when you felt really, really mad. Maybe it was when you couldn't find your favorite toy or when it was time to stop playing. It's okay to feel upset sometimes. Everyone does! But what we can do is learn how to make ourselves feel better. Doesn't that sound great? Learning this helps us be happier and have more fun with our friends!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "One way to help ourselves feel better is by taking deep breaths. Let's try it together! First, let's sit comfortably. Ready? Breathe in slowly through your nose like you're smelling a flower. Then, breathe out through your mouth like you're blowing out a candle. Let's do it three times. Great job! Can you feel how it makes you feel calmer?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You did such a wonderful job with the breathing! Remember, you can do this anytime you feel upset. It's like having a little superpower inside you! And you know what? Practicing this can help you at school, at home, or even at the playground. Isn't that amazing? You're doing fantastic!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure by talking about another way to help our feelings. Sometimes, moving our bodies can help too! We can jump up and down, dance to our favorite song, or even run around the yard. Moving helps our bodies feel good and our minds feel clearer. Do you have a favorite way to move around when you're feeling a little grumpy?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Next, let's talk about talking! Yes, talking about how we feel is very important. If you're upset, you can tell someone you trust, like your mom, dad, or a teacher. You can say, 'I'm feeling mad because...' and share what happened. This helps others understand and support you. Can you think of someone you'd like to talk to when you're feeling upset?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great thinking! Talking about our feelings can make us feel lighter, just like a balloon floating up into the sky. It's always okay to share how you feel. You're doing an amazing job learning all these new ways to help your feelings. Remember, being able to understand and talk about your feelings is super special!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Sometimes, we might feel upset because things didn't go the way we wanted. That's when we can use our imagination! We can imagine ourselves in a happy place, like a beach or a park. Close your eyes and think about the sounds, smells, and sights. Doesn't that make you feel calm and happy? Imagination is a powerful tool!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's try a little exercise together. Imagine a rainbow above your head. Each color represents a feeling. Red can be for love, blue for calm, green for happiness. Picture these colors shining down on you. Feel the warmth and comfort they bring. Isn't that a lovely feeling? You can use this whenever you need a little extra cheer!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You did it! You created your very own rainbow of feelings! Remember, every color is important because they make the rainbow beautiful, just like all your feelings make you special. You're learning so much about understanding your emotions. Keep practicing these exercises, and you'll become a feelings expert!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, can you think of a time when you used one of these ideas to help your feelings? Maybe you took deep breaths, talked to someone, or imagined your happy place. How did it make you feel? Sharing your experiences can help others learn too! Would you like to share with me?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "That's wonderful! Sharing your story makes you a helper for others. It's so nice to know that you can use these ideas whenever you need them. Next time you feel a big emotion, you'll know just what to do. Isn't that exciting? You're becoming a pro at understanding your feelings!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about using our imagination? You can also create a special place in your mind where you feel safe and happy. Maybe it's a cozy pillow fort or a magical forest. Whenever you're feeling upset, you can visit this place in your imagination. It's your own secret hideaway!"
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice one more time. Close your eyes and think of your special place. What do you see? Do you hear any sounds or smell something nice? Imagine everything in detail. When you're ready, open your eyes and notice how you feel. Isn't it amazing how your mind can take you anywhere?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Wow, you've learned so much today! Understanding and managing your feelings is a big skill, and you're doing it so well. Remember, I'm always here to help, and you can practice these ideas whenever you need them. Thank you for spending this time with me, Piggy Friend. I hope you have a happy day full of smiles and fun. Goodbye, and see you soon!"
+    }
+  ],
+  "title": "Piggy Friend's Emotional Regulation Story"
+}

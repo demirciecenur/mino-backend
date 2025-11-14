@@ -1,0 +1,98 @@
+{
+  "id": "luna_bedtime_story",
+  "character": "Luna",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Luna, et aujourd'hui, nous allons explorer le monde magique du coucher. Prépare-toi pour une aventure pleine de rêves et d'étoiles scintillantes. Es-tu prêt à plonger dans ce voyage doux et merveilleux? J'ai hâte de découvrir tout ce que nous allons apprendre ensemble. Allons-y!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le coucher est un moment spécial où nous nous préparons à nous reposer après une journée bien remplie. C'est comme un petit rituel magique qui nous aide à nous détendre et à nous relaxer. Nous pouvons commencer par mettre nos pyjamas doux et confortables. Ensuite, nous pouvons lire une petite histoire ou écouter une chanson douce. Ces petites routines nous aident à nous sentir bien et prêts à rêver."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour bien se préparer au sommeil, il est important de se brosser les dents. Cela aide à garder nos dents propres et en bonne santé, comme si elles brillaient comme des étoiles. Tu peux utiliser une brosse à dents colorée et un dentifrice qui a un goût que tu aimes. N'oublie pas de brosser doucement pendant deux minutes, en haut et en bas. Te sens-tu prêt à essayer cela ce soir avant de te coucher?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo! Tu fais un excellent travail en te brossant les dents. Maintenant, nous allons prendre trois grandes respirations ensemble pour nous détendre. Inspire profondément par le nez et expire doucement par la bouche. Cela aide à calmer notre corps et notre esprit. Sens-tu la magie de la tranquillité qui t'entoure? Tu peux le faire chaque soir avant de dormir."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après avoir pris de profondes respirations, nous pouvons penser à quelque chose de joyeux. Peut-être un souvenir heureux de ta journée, comme jouer avec tes amis ou dessiner un beau dessin. Ces pensées heureuses sont comme des petites étoiles qui illuminent notre esprit. Elles nous aident à nous sentir bien et à nous endormir paisiblement. Quelles sont tes pensées heureuses aujourd'hui?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Souviens-toi, quand nous avons parlé de nos pensées heureuses? C'est merveilleux de s'endormir avec un sourire. Maintenant, nous allons nous blottir sous nos couvertures douces. Imagine que ta couverture est un nuage moelleux qui te porte doucement vers le pays des rêves. Sens-tu la douceur qui t'enveloppe? C'est comme un câlin réconfortant qui te souhaite une bonne nuit."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Avant de fermer les yeux, nous pouvons écouter une petite histoire ou une chanson douce. Cela nous aide à nous détendre encore plus et à nous préparer à dormir. Choisis une histoire ou une chanson que tu aimes beaucoup. Tu peux même demander à quelqu'un de te la lire ou de la chanter pour toi. Cela rend le moment du coucher encore plus spécial et magique."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu une histoire ou une chanson préférée que tu aimes écouter avant de dormir? Peut-être une histoire de dragons gentils ou une chanson sur les étoiles? Partager tes préférences peut rendre le coucher encore plus amusant. J'aimerais beaucoup savoir ce qui te fait sourire avant de fermer les yeux. Que choisis-tu ce soir?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après avoir écouté une histoire ou une chanson, il est temps de fermer doucement les yeux. Imagine un ciel rempli d'étoiles scintillantes qui te guident vers un sommeil paisible. Chaque étoile est comme une petite lumière qui veille sur toi pendant que tu dors. Sens-tu la paix qui t'enveloppe doucement? C'est le moment de te laisser emporter par tes rêves."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelle-toi, nous avons parlé des étoiles qui veillent sur toi? C'est si réconfortant de savoir qu'elles sont là. Maintenant, imagine que tu es dans un monde magique où tout est possible. Peut-être que tu voles avec des papillons ou que tu explores une forêt enchantée. Ces rêves doux t'accompagnent toute la nuit et te réveillent avec un sourire. Quels rêves aimerais-tu faire ce soir?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail fantastique en te préparant pour le coucher. Chaque petit pas que tu fais rend le moment du sommeil plus doux et plus agréable. Tu as appris à te détendre et à te préparer pour une nuit paisible. Continue comme ça! Je suis tellement fière de toi et de tout ce que tu as accompli ce soir. Prends ton temps et savoure chaque instant."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour finir notre routine de coucher, disons bonne nuit à tout ce qui nous entoure. Une bonne nuit à notre chambre, à nos jouets, et à nos rêves. Cela nous aide à nous sentir connectés et en paix avec notre environnement. Avec un doux sourire, nous nous endormons en sachant que demain sera une nouvelle journée pleine de découvertes. N'est-ce pas merveilleux de se coucher avec un cœur léger?"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Qu'est-ce que tu préfères le plus dans ta routine de coucher? Peut-être est-ce le moment où tu te blottis sous ta couverture ou quand tu écoutes ta chanson préférée. Partager ce que tu aimes rend chaque soir encore plus spécial. J'aimerais beaucoup entendre ce qui rend ton coucher magique. Peux-tu me le dire?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était un plaisir de partager ce moment magique du coucher avec toi. J'espère que tu te sens calme et prêt à plonger dans un doux sommeil. Souviens-toi toujours de la magie des étoiles et des rêves qui t'accompagnent chaque nuit. Je te souhaite une bonne nuit pleine de rêves enchantés. À très bientôt, petit ami!"
+    }
+  ],
+  "title": "Histoire de Bedtime de Luna"
+}

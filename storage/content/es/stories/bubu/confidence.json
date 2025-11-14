@@ -1,0 +1,104 @@
+{
+  "id": "bubu_confidence_story",
+  "character": "Bubu",
+  "topic": "confidence",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Bubu, y hoy vamos a hablar sobre algo muy especial: la confianza. La confianza es como una luz brillante dentro de ti que te ayuda a hacer cosas nuevas y emocionantes. ¿Sabías que todos tenemos esa luz? Estoy muy emocionado de explorar esto contigo. ¡Vamos a descubrirlo juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confianza es lo que sientes cuando crees en ti mismo. Es como cuando te atreves a subirte a un columpio alto o cuando decides probar un nuevo juego. A veces, puede ser un poco difícil sentir confianza, pero está bien. Todos sentimos eso alguna vez. Lo importante es recordar que siempre puedes intentarlo otra vez."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a practicar cómo aumentar nuestra confianza. Cierra los ojos y respira profundamente, así: uno, dos, tres. Imagina que tienes una capa mágica que te hace sentir valiente. Esta capa te ayuda a hacer cosas que antes te daban un poquito de miedo. ¿Lo sientes? ¡Eso es la confianza creciendo dentro de ti!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Cuando haces algo nuevo, como aprender a dibujar o a bailar, estás usando tu confianza. ¡Y eso es fantástico! Cada vez que lo intentas, tu confianza se hace más fuerte. Recuerda, no importa si no sale perfecto la primera vez. Lo importante es que estás dando lo mejor de ti."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, piensa en una vez que hiciste algo que te hizo sentir orgulloso. Tal vez fue cuando compartiste tus juguetes o cuando ayudaste a un amigo. Esa sensación cálida en tu corazón es tu confianza diciéndote que hiciste algo maravilloso. Cuanto más practiques, más fácil será sentir esa sensación."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer un pequeño ejercicio para fortalecer nuestra confianza. Piensa en algo que te gustaría intentar, como un nuevo juego o un dibujo. Ahora, imagina que ya lo hiciste y que salió muy bien. ¿Cómo te sientes? Esa es la confianza en acción. Puedes hacerlo siempre que quieras."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Cada vez que te animas a probar algo nuevo, estás ganando confianza. Es como plantar una semillita que crece y crece. Y pronto, tendrás un hermoso árbol de confianza dentro de ti. Sigue así, pequeño amigo. ¡Eres increíble!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, podemos sentirnos un poco tristes o inseguros, y eso está bien. Todos sentimos eso de vez en cuando. Lo importante es recordar que siempre puedes pedir ayuda. Hablar con alguien que quieres puede hacer que esa tristeza se sienta más ligera, como una nube que se aleja."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas una vez que hiciste algo que te dio un poco de miedo, pero lo lograste? ¿Cómo te sentiste después? A veces, recordar esos momentos puede darte la fuerza para enfrentar nuevos desafíos. ¿Podemos pensar en otro reto juntos? ¡Me encantaría saber qué piensas!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Gracias por compartir tus pensamientos conmigo! Ahora, vamos a recordar que la confianza también se trata de aceptar que no siempre saldrá perfecto. Lo importante es intentarlo y aprender de cada experiencia. Así, cada día serás más fuerte y valiente."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer una actividad divertida. Imagina que eres un superhéroe con una misión importante. ¿Cuál sería tu superpoder? Tal vez es la habilidad de ayudar a los demás o de aprender cosas nuevas rápidamente. ¡Usa tu imaginación y deja que tu confianza te guíe!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Cada vez que te imaginas como un superhéroe, estás fortaleciendo tu confianza. Recuerda, no hay límites para lo que puedes lograr. Con cada pequeño paso, estás construyendo un camino hacia grandes aventuras. ¡Sigue adelante!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, otros pueden necesitar un poco de nuestra confianza también. Puedes compartirla diciendo palabras amables o ayudando a un amigo. Cuando compartes tu confianza, todos se sienten mejor y más fuertes. Es como un regalo mágico que hace felices a los demás."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme sobre una vez que ayudaste a alguien? ¿Cómo se sintieron ellos y cómo te sentiste tú? Compartir momentos de bondad también refuerza nuestra confianza. Me encantaría escuchar sobre tus experiencias y cómo te hicieron sentir."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido maravilloso hablar contigo sobre la confianza. Recuerda que siempre puedes encontrar esa luz brillante dentro de ti. Con cada pequeño paso, estás construyendo un camino lleno de aventuras. Gracias por compartir este tiempo conmigo. ¡Nos vemos pronto, pequeño amigo!"
+    }
+  ],
+  "title": "Historia de Confidence de Bubu"
+}

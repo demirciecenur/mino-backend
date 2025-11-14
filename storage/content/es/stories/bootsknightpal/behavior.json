@@ -1,0 +1,98 @@
+{
+  "id": "boots knight pal_behavior_story",
+  "character": "Boots Knight Pal",
+  "topic": "behavior",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Boots Knight Pal, el caballero valiente y aventurero. Hoy vamos a embarcarnos en una emocionante aventura sobre el buen comportamiento. ¿Estás listo para descubrir cómo ser un héroe del comportamiento? ¡Estoy muy emocionado de compartir este viaje contigo! Vamos a aprender y divertirnos mucho juntos."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "El comportamiento es cómo actuamos y tratamos a los demás. Cuando nos comportamos bien, hacemos que todos a nuestro alrededor se sientan felices y seguros. Por ejemplo, decir 'por favor' y 'gracias' son formas simples de mostrar buen comportamiento. También es importante escuchar a los demás cuando hablan, como cuando mamá o papá nos piden que hagamos algo. Ahora que sabemos esto, veamos cómo podemos practicar el buen comportamiento cada día."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para ser un héroe del comportamiento, primero debemos aprender a seguir las reglas. Las reglas son como un mapa del tesoro que nos guía hacia el comportamiento correcto. Por ejemplo, en casa, una regla podría ser recoger nuestros juguetes después de jugar. Esto ayuda a mantener nuestra casa ordenada y bonita. Siguiendo las reglas, mostramos respeto por los demás. Ahora, pensemos en una regla que puedas seguir hoy. ¿Cuál podría ser?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora vamos a practicar juntos. Imagina que estás en un parque jugando con amigos. Una buena manera de mostrar buen comportamiento es compartir tus juguetes. ¿Por qué no intentamos decir '¿Te gustaría jugar con mi pelota?' cuando juegas con otros? Compartir nos hace a todos felices y nos permite divertirnos juntos. ¡Tú puedes hacerlo! Estoy seguro de que serás un excelente compañero de juegos."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, recordemos lo importante que es escuchar. Cuando alguien nos habla, como un amigo o un adulto, debemos prestar atención. Escuchar bien nos ayuda a entender lo que dicen y a responder de manera amable. ¿Alguna vez has escuchado a alguien contar una historia divertida? Escuchar puede ser tan emocionante como contar una historia. ¡Vamos a practicar escuchando atentamente la próxima vez que alguien nos hable!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hablando de historias, ¿te gusta cuando alguien te cuenta una historia antes de dormir? Escuchar historias es una gran manera de relajarse y aprender cosas nuevas. Además, es un momento perfecto para practicar el buen comportamiento escuchando con atención y respeto. La próxima vez que alguien te cuente una historia, trata de imaginar las imágenes en tu cabeza. Así, te convertirás en un experto en escuchar."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Maravilloso! Ahora vamos a practicar la paciencia. A veces, esperar puede ser difícil, como cuando estamos en una fila para jugar en el columpio. Pero ser paciente es una parte importante del buen comportamiento. Mientras esperamos, podemos pensar en cosas felices, como nuestro juego favorito o nuestra canción preferida. ¡Practiquemos contando hasta cinco juntos mientras esperamos! Uno, dos, tres, cuatro, cinco. ¡Muy bien hecho!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "También es importante ser amable con los demás. Ser amable significa usar palabras suaves y acciones que hagan sentir bien a los demás. Por ejemplo, si ves a alguien triste, puedes ofrecerle un abrazo o preguntar si quiere jugar contigo. Ser amable es como un superpoder que hace que todos se sientan felices y seguros. ¿No te gustaría ser un superhéroe de la amabilidad?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora, tengo una pregunta para ti. ¿Cuáles son algunas maneras de mostrar buen comportamiento en casa? Tal vez podrías ayudar a poner la mesa o recoger tus juguetes. ¿Qué otras ideas se te ocurren? Piensa en una cosa que puedas hacer para mostrar buen comportamiento hoy. ¡Estoy seguro de que harás un trabajo fantástico!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablemos sobre el respeto. El respeto es tratar a los demás como queremos ser tratados. Significa escuchar cuando alguien habla, y no interrumpir. También significa cuidar nuestras cosas y las de los demás. Por ejemplo, si usas un libro de la biblioteca, debes devolverlo en buenas condiciones. Mostrar respeto hace que todos se sientan valorados y apreciados. ¿Puedes pensar en una manera de mostrar respeto hoy?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Recuerda que el comportamiento también incluye cuidar de nosotros mismos. Esto significa lavarse las manos antes de comer y cepillarse los dientes antes de dormir. Cuidar de nuestro cuerpo nos ayuda a estar sanos y felices. ¿Por qué no intentamos cepillarnos los dientes juntos? ¡Imagina que somos caballeros cuidando de nuestra brillante armadura! ¡Sigue así, pequeño héroe!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en cómo podemos ser valientes al enfrentar situaciones nuevas. A veces, puede dar un poco de miedo probar algo por primera vez, como ir a un nuevo lugar o conocer a nuevos amigos. Pero ser valiente es parte del buen comportamiento. Podemos ser valientes al decir 'hola' a alguien nuevo o al tratar de aprender algo diferente. Recuerda, cada pequeño paso cuenta. ¡Tú eres valiente y puedes hacerlo!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Antes de terminar, repasemos lo que hemos aprendido. Hablamos sobre seguir reglas, compartir, escuchar, ser paciente, amable y respetuoso. También aprendimos a cuidar de nosotros mismos y a ser valientes. Cada una de estas cosas nos ayuda a ser una mejor persona y amigo. ¿No es increíble lo que podemos lograr cuando practicamos el buen comportamiento? ¡Estoy muy orgulloso de ti!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer compartir esta aventura contigo, pequeño amigo. Recuerda que cada día es una nueva oportunidad para practicar el buen comportamiento. Sigue siendo el maravilloso caballero que eres, lleno de valentía y amabilidad. Estoy seguro de que harás un trabajo increíble. ¡Hasta la próxima aventura, y que tengas un día lleno de sonrisas y alegría! ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Behavior de Boots Knight Pal"
+}

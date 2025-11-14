@@ -1,0 +1,98 @@
+{
+  "id": "sunny_behavior_attention_story",
+  "character": "Sunny",
+  "topic": "behavior_attention",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Sunny, and today we're going on a joyful adventure about paying attention and calming down. Are you ready to have fun and learn some new things with me? I’m so excited to explore this sunny day with you. We’ll discover how to stay focused and how to feel calm when things get a little wiggly. It’s going to be amazing, and I’m thrilled you’re here with me!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about paying attention. Paying attention is like focusing your eyes and ears on something important, just like when you watch your favorite cartoon or listen to a bedtime story. It helps you learn new things and have fun. Sometimes, though, it can be hard to keep your attention on one thing. But don’t worry, because we can practice together and get better at it! Are you ready to learn some tricks to help you pay attention?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "One way to help pay attention is by using our superpower of deep breathing. Taking big, slow breaths can help calm our minds and bodies. Let's try it together! Breathe in slowly through your nose like you're smelling a flower. Now breathe out through your mouth like you're blowing out a candle. Doesn't that feel nice? When we practice this, it helps us feel relaxed and ready to focus."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You did a wonderful job breathing with me! Remember, you can use deep breathing anytime you need to calm down and pay attention. It's like a magic trick that helps your brain get ready to learn. The more we practice, the better we get at it. So let's keep practicing and become deep-breathing experts together! You’re doing great, and I’m so proud of you!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let’s think about how we can use our bodies to help us pay attention. Sometimes, when we’re feeling wiggly, standing still can be tricky. But we can try a fun game called ‘Freeze Dance.’ We dance when the music plays and freeze like a statue when it stops. It’s a fun way to practice stopping and focusing. Would you like to try it next time you feel wiggly?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Another great way to pay attention is by making a simple routine. Routines help us know what to expect and make it easier to focus. Like when we brush our teeth before bed or put our toys away after playing. When we have a routine, it’s like having a little map that helps guide us through our day. Let’s think of another routine we could try together!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing amazing at thinking of routines! Remember, routines can be anything you do regularly, like having a snack after school or reading a book before bed. They help keep us organized and ready for what’s next. You can even make a fun chart with stickers to track your routines. Isn’t that exciting? I know you can do it, and you’ll be great at it!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I have a question for you. What is one thing you like to focus on? Maybe it's drawing, playing with blocks, or listening to a story. It’s important to find something you love because it makes paying attention easier and more fun. Can you think of something special you’d like to try focusing on today?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let’s remember how important it is to take breaks. Sometimes, after focusing for a while, our brains need a little rest. A break can be as simple as standing up, stretching, or having a quick snack. It’s like giving our brains a little nap so they can work better when we return to what we were doing. Breaks are another superpower to help us focus longer!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let’s talk about using our imagination to help us focus. Imagine you’re a superhero with special focus powers. Close your eyes and picture yourself in a superhero cape, ready to focus on anything you choose. When you open your eyes, you can use that superhero power to pay attention. Isn’t it fun to use our imagination in such powerful ways?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re a fantastic focus superhero! Remember, using your imagination can make focusing more fun. You can pretend you’re a detective solving a mystery or an explorer discovering new things. Your imagination is limitless, and it helps make paying attention exciting. Keep practicing, and you’ll become the best focus superhero ever! I believe in you!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite superhero or character who pays attention really well? Maybe they solve puzzles, read books, or help others. It’s fun to think about how they use their focus powers. You can learn from them and become just as great at paying attention. Who is your favorite, and what do you like about them?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let’s remember all the great things we’ve learned today about paying attention. We talked about deep breathing, routines, taking breaks, and using our imagination. These are all wonderful tools to help us focus and stay calm. The more we practice, the better we’ll get. I’m so glad we got to learn and have fun together today!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for spending time with me today. You’ve done an amazing job learning about paying attention and calming down. Remember, you can use your focus superpowers anytime you need them. I’m so proud of you, and I hope you have a sunny day filled with joy and discovery. Until next time, keep smiling and shining bright!"
+    }
+  ],
+  "title": "Sunny's Behavior & Attention Story"
+}

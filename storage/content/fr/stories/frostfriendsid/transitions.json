@@ -1,0 +1,104 @@
+{
+  "id": "frost_friend_sid_transitions_story",
+  "character": "Frost Friend Sid",
+  "topic": "transitions",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Sid, votre ami du givre. Aujourd'hui, nous allons explorer le monde des transitions. C'est un peu comme changer de saison, n'est-ce pas excitant? Êtes-vous prêts pour cette aventure amusante? Je suis tellement curieux de savoir comment vous gérez les changements dans votre vie quotidienne!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par parler des transitions. Une transition, c'est quand quelque chose change, comme quand on passe de l'été à l'automne. Cela peut être aussi simple que de changer de vêtements le matin ou de ranger ses jouets après avoir joué. Les transitions sont partout autour de nous, et elles peuvent être très amusantes. Pensez à la dernière fois que vous avez essayé quelque chose de nouveau. Comment vous êtes-vous senti? Explorons ensemble comment rendre ces moments de changement plus faciles et joyeux!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment vous pouvez faciliter les transitions. Par exemple, quand il est temps de se coucher, vous pouvez avoir une routine spéciale. Vous pouvez lire une histoire, puis éteindre les lumières. Cela aide votre corps à comprendre qu'il est temps de dormir. Avoir une routine rend les transitions prévisibles et moins stressantes. N'est-ce pas génial d'avoir des petites habitudes qui nous aident à nous sentir bien?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Et maintenant, jouons à un petit jeu! Imaginez que vous êtes un papillon qui passe d'une fleur à une autre. Flap, flap, flap! Vous pouvez agiter vos bras comme des ailes. N'est-ce pas amusant de faire semblant de voler? Les transitions peuvent être aussi légères et joyeuses que ça. Vous êtes incroyables, mes amis, continuez à explorer ces changements avec joie!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous, les transitions ne sont pas toujours faciles, mais elles nous aident à grandir. Parfois, vous pouvez ressentir des papillons dans votre ventre. C'est normal! Quand quelque chose de nouveau arrive, comme aller à l'école pour la première fois, cela peut sembler un peu effrayant. Mais avec le temps, cela devient une nouvelle aventure excitante. Vous pouvez toujours parler à un adulte si vous vous sentez nerveux. Ils sont là pour vous aider!"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà ressenti de la nervosité lors d'un changement? Peut-être que c'était le premier jour de la maternelle ou un nouveau sport. Comment vous êtes-vous senti? Parlez-en à quelqu'un près de vous. Partager vos sentiments peut vous aider à vous sentir mieux. Et n'oubliez pas, les changements apportent de nouvelles expériences et beaucoup de plaisir!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Maintenant que nous avons parlé de vos expériences, pensons à quelque chose de concret. Imaginez que vous devez ranger votre chambre. C'est une transition d'un espace désordonné à un espace propre. Quelles sont les étapes pour le faire? Peut-être commencer par ramasser les jouets, puis passer l'aspirateur. Vous voyez, chaque transition a ses petites étapes, et vous pouvez y arriver, pas à pas!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons un exercice de respiration pour nous aider avec les transitions. Prenez une grande inspiration par le nez, retenez-la un moment, puis expirez lentement par la bouche. Répétez cela trois fois. Cela vous aide à vous sentir calme et prêt pour le changement. Vous vous sentez mieux maintenant? Les respirations profondes sont un excellent moyen de se préparer à de nouvelles choses!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo pour votre respiration! Vous êtes tous de vrais champions des transitions! Rappelez-vous, chaque jour est une nouvelle chance d'apprendre et de grandir. Vous avez déjà appris tellement de choses, et il y a encore plus à découvrir. Continuez à être curieux et courageux. Les transitions sont comme des petites aventures, et vous êtes prêts à les vivre!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Pensez à une transition que vous aimez. Peut-être que c'est le moment où vous passez du jeu à l'heure du goûter. Miam! Les transitions peuvent être délicieuses aussi. Ou peut-être préférez-vous passer de la maison à l'aire de jeux. Chaque transition a ses propres plaisirs. Qu'est-ce que vous aimez le plus dans ces moments? Réfléchissez-y et partagez-le avec vos amis!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quelles sont les transitions que vous trouvez les plus difficiles? Peut-être que c'est le matin quand il faut quitter le lit douillet. Comment pourriez-vous rendre ce moment plus agréable? Peut-être avec une chanson joyeuse ou un câlin. Pensez à quelque chose qui pourrait aider et essayez-le la prochaine fois. Vous avez tous de superbes idées, je le sais!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous, quand quelque chose change, c'est aussi une chance de découvrir de nouvelles choses. C'est comme ouvrir un nouveau livre plein d'histoires. Chaque jour apporte quelque chose de différent. Peut-être que demain, vous apprendrez une nouvelle chanson ou rencontrerez un nouvel ami. Les transitions rendent la vie intéressante et pleine de surprises!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons une autre petite activité. Imaginez que vous êtes un arbre qui change de couleur. Vous commencez vert, puis lentement, vous devenez jaune, puis rouge. Vous pouvez même bouger vos bras comme des branches dans le vent. C'est amusant de penser à toutes les façons dont nous pouvons changer, n'est-ce pas? Les transitions sont comme une danse de la nature!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez tous fait un travail incroyable en apprenant sur les transitions! Rappelez-vous, chaque petit changement est une chance d'apprendre quelque chose de nouveau. Vous êtes des explorateurs courageux et curieux. Continuez à être ouverts aux nouvelles expériences. Vous faites un travail fantastique, mes petits amis!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, mes amis! J'ai adoré explorer le monde des transitions avec vous. N'oubliez pas de garder vos esprits ouverts et curieux. Chaque jour est une nouvelle aventure qui vous attend. J'ai hâte de vous retrouver pour d'autres histoires amusantes. À très bientôt, et prenez soin de vous!"
+    }
+  ],
+  "title": "Histoire de Transitions de Frost Friend Sid"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "swamp_buddy_hero_bedtime_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Swamp Buddy Hero, et ce soir, nous allons découvrir ensemble les merveilles de l'heure du coucher. Êtes-vous prêt à vous détendre et à vous préparer pour une bonne nuit de sommeil? J'adore partager des moments amusants et relaxants avec vous. Ensemble, nous allons apprendre comment rendre l'heure du coucher douce et agréable. Alors, mettons-nous à l'aise et commençons notre aventure nocturne!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'heure du coucher est un moment spécial où nous nous préparons à nous reposer. C'est comme une aventure où nous disons au revoir à la journée et bonjour aux rêves. Pensez à tout ce que vous avez fait aujourd'hui, comme jouer avec vos amis ou lire un livre amusant. Maintenant, il est temps de se détendre et de laisser notre corps se reposer. Vous verrez, une bonne nuit de sommeil vous donnera plein d'énergie pour demain!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour bien commencer, nous devons préparer notre chambre. Avez-vous déjà rangé vos jouets? C'est une bonne idée de les remettre à leur place pour que votre chambre soit calme et accueillante. Ensuite, nous pouvons tamiser les lumières, cela rend l'atmosphère plus douce. N'oublions pas de choisir un pyjama confortable, c'est important pour être bien à l'aise."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Maintenant que tout est prêt, prenons un moment pour respirer ensemble. Inspirons doucement par le nez, puis expirons lentement par la bouche. Faisons-le trois fois, voulez-vous essayer avec moi? C'est une excellente façon de nous calmer et de nous détendre avant de nous coucher. Bravo, vous êtes formidable!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, nous avons parlé de se préparer pour dormir. Maintenant, parlons d'une autre chose amusante à faire avant de dormir: lire une histoire. Avez-vous un livre préféré? Lire une histoire apaisante peut nous aider à rêver de beaux rêves. C'est comme voyager dans un monde magique tout en restant dans notre lit douillet."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Avant de nous blottir sous les couvertures, il est temps de se brosser les dents. Savez-vous pourquoi c'est important? Cela aide à garder nos dents fortes et en santé. Prenez votre brosse à dents et mettez un peu de dentifrice, puis brossez doucement en petits cercles. Vous êtes un champion du brossage!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez si bien brossé vos dents, bravo! Maintenant, passons à une activité relaxante. Pourquoi ne pas essayer de compter les étoiles imaginaires au plafond? Vous pouvez fermer les yeux et imaginer un ciel plein d'étoiles scintillantes. Combien pouvez-vous en compter? C'est un jeu amusant que vous pouvez faire chaque soir."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après avoir compté les étoiles, pensons à quelque chose de gentil que nous avons fait aujourd'hui. Peut-être avez-vous aidé un ami ou partagé un jouet. Penser à ces moments heureux nous remplit de joie et nous aide à nous endormir avec un sourire. C'est agréable de se coucher en pensant à de belles choses, n'est-ce pas?"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Alors, que diriez-vous de choisir une peluche préférée pour l'heure du coucher? Avez-vous un doudou que vous aimez câliner? Les peluches sont de merveilleux compagnons pour la nuit. Elles nous réconfortent et veillent sur nous pendant que nous dormons. Choisissez votre préféré et tenez-le près de vous."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, avant de fermer les yeux, prenons un moment pour dire merci. Merci pour cette belle journée, merci à maman et papa, et merci à vous-même pour être incroyable. Dire merci nous remplit de gratitude et de bonheur. C'est une belle façon de terminer la journée."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez fait un travail formidable en vous préparant pour le lit! N'oubliez pas que chaque nuit est une nouvelle aventure de rêves. Fermez doucement vos yeux et laissez les rêves venir. Vous êtes prêt pour une nuit paisible, rempli de beaux rêves. Bonne nuit, petit aventurier!"
+    },
+    {
+      "id": "question_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, j'ai une petite question pour vous. Quel est votre rêve préféré? Est-ce de voler dans le ciel comme un oiseau ou de nager avec les poissons dans la mer? Les rêves peuvent être tout ce que vous imaginez. Pensez à ce qui vous rend heureux et racontez-moi votre rêve préféré."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "C'est merveilleux d'entendre parler de vos rêves! Saviez-vous que chaque nuit, vous pouvez avoir un rêve différent? C'est comme une nouvelle aventure à chaque fois que vous fermez les yeux. Alors, continuez à rêver grand et à explorer tous ces mondes fantastiques. Vous êtes un véritable explorateur des rêves!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce moment spécial avec moi. J'espère que vous avez aimé notre aventure à l'heure du coucher. Rappelez-vous, chaque nuit est une chance de se reposer et de rêver. Dormez bien et faites de beaux rêves. Bonne nuit, et à bientôt pour une nouvelle aventure!"
+    }
+  ],
+  "title": "Histoire de Bedtime de Swamp Buddy Hero"
+}

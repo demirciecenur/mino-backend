@@ -1,0 +1,98 @@
+{
+  "id": "sneaky_cat_tom_transitions_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "transitions",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin der schlaue Kater Tom. Heute gehen wir auf ein spannendes Abenteuer und lernen alles über Übergänge. Bist du bereit? Ich bin so neugierig, was wir zusammen entdecken werden. Lass uns gemeinsam Spaß haben und Neues lernen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Übergänge sind wie kleine Abenteuer, die jeden Tag passieren. Stell dir vor, du wechselst von einem Spiel zum nächsten. Manchmal fühlt es sich aufregend an, manchmal ein bisschen ungewohnt. Aber das ist okay, denn wir lernen dabei immer etwas Neues. Erinnerst du dich an das letzte Mal, als du etwas Neues ausprobiert hast?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns zusammen überlegen, wie man mit Veränderungen umgehen kann. Eine gute Idee ist, tief einzuatmen, wenn etwas Neues kommt. Atme tief ein und dann langsam aus. Das hilft, ruhig zu bleiben und bereit für das Neue zu sein. Möchtest du es mit mir ausprobieren?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Du bist so mutig, neue Dinge auszuprobieren. Veränderungen können wie ein Abenteuer im Park sein, wo man neue Freunde trifft und neue Spiele entdeckt. Jeden Tag lernen wir etwas Neues, und das macht das Leben spannend. Du kannst das schaffen!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir wissen, wie wir ruhig bleiben können, lass uns über tägliche Übergänge sprechen. Zum Beispiel, wenn es Zeit ist, ins Bett zu gehen. Manchmal möchte man weiterspielen, aber Schlaf ist wichtig, um Energie für den nächsten Tag zu sammeln. Was machst du, um dich auf das Schlafengehen vorzubereiten?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Eine tolle Möglichkeit, sich auf Veränderungen vorzubereiten, ist eine Routine zu haben. Zum Beispiel vor dem Schlafengehen Zähne putzen, eine Geschichte lesen und dann das Licht ausmachen. Das gibt uns ein Gefühl von Sicherheit und Geborgenheit. Hast du eine Abendroutine?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Welches ist dein Lieblingsübergang des Tages? Ist es der Morgen, wenn du aufwachst, oder der Nachmittag, wenn du draußen spielst? Vielleicht ist es auch etwas ganz anderes! Ich bin gespannt, was du erzählst. Erzähl mir mehr darüber!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie aufregend es war, als du das erste Mal Fahrrad gefahren bist? Das war ein großer Übergang, aber du hast es geschafft! Solche Momente zeigen uns, wie stark und mutig wir sind. Jeder Übergang ist eine Chance, etwas Neues zu lernen und zu wachsen."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, da wir über große Übergänge gesprochen haben, lass uns über kleine sprechen. Wie das Wechseln von einem Spiel zum anderen. Manchmal kann es schwer sein, ein Spiel zu beenden, aber das nächste Abenteuer wartet schon auf dich. Was ist dein Lieblingsspiel?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Übergänge sind auch wichtig, wenn wir neue Freunde treffen. Manchmal kann es ein bisschen einschüchternd sein, aber denk daran, dass jeder neue Freund eine neue Geschichte mitbringt. Vielleicht lernst du ein neues Spiel oder eine neue Idee kennen. Freundschaften sind wunderbare Übergänge."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du das nächste Mal vor einem Übergang stehst, erinnere dich an unsere Tipps. Atme tief ein, denke an deine Routine und sei offen für das Neue. Manchmal helfen auch ein paar beruhigende Worte oder ein fröhliches Lied. Lass uns zusammen ein Lied singen, das dir ein Lächeln ins Gesicht zaubert!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Jeder Tag bringt neue Übergänge, und du meisterst sie mit Bravour. Es ist wunderbar, wie du lernst, dich anzupassen und Neues zu entdecken. Du bist ein echter Abenteurer, genau wie ich, der schlaue Kater Tom!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkst du, ist das Spannendste an Übergängen? Ist es das Neue, das du lernst, oder die Freunde, die du triffst? Vielleicht ist es auch das Abenteuer, das jeder neue Tag mit sich bringt. Erzähl mir, was dir am meisten Freude macht!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Übergänge zu sprechen. Du hast so viel gelernt und warst so mutig. Ich hoffe, du freust dich auf die Abenteuer, die vor dir liegen. Bis zum nächsten Mal, kleiner Freund! Tschüss und bis bald!"
+    }
+  ],
+  "title": "Sneaky Cat Toms Transitions Geschichte"
+}

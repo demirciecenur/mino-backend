@@ -1,0 +1,104 @@
+{
+  "id": "blu_pup_emotional_regulation_story",
+  "character": "Blu Pup",
+  "topic": "emotional_regulation",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Blu Pup. Bugün duygularımızı nasıl daha iyi anlayabileceğimizi ve yönetebileceğimizi keşfetmek için harika bir yolculuğa çıkacağız. Bazen hepimiz üzgün, mutlu ya da kızgın hissedebiliriz, değil mi? Bu duyguların hepsi çok normal ve önemli olan nasıl başa çıkacağımızı öğrenmek. Hazır mısın? O zaman başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımız, içimizde olup bitenleri anlamamıza yardımcı olur. Mesela, oyuncakların kırıldığında üzgün hissedebilirsin. Bu üzüntü bize, o oyuncağın ne kadar önemli olduğunu gösterir. Ama üzgün hissettiğimizde ne yapabiliriz? İşte burada duygularımızı düzenlemek devreye girer. Üzgün olduğumuzda derin nefes almak veya sevdiğimiz bir şeyi düşünmek bize iyi gelebilir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, derin nefes almanın ne kadar önemli olduğunu öğrenelim. Derin nefes almak, kalbimizin daha yavaş atmasına ve kendimizi daha sakin hissetmemize yardımcı olur. Üç derin nefes almayı deneyelim mi? Önce burnumuzdan derin bir nefes alalım ve sonra yavaşça ağzımızdan verelim. Bu işlemi üç kez tekrarlayalım. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Nefes almayı başardın! Şimdi kendini nasıl hissediyorsun? Daha sakin ve huzurlu hissetmek harika bir duygu, değil mi? Duygularımızı kontrol edebilmek için bu tür egzersizleri sık sık yapabiliriz. Sen de bunu her gün denemek ister misin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda derin nefes almayı öğrendik. Şimdi, başka bir yöntemden bahsedelim. Duygularımızı ifade etmek, onları daha iyi anlamamıza yardımcı olabilir. Mesela, üzüldüğünde bu duygunu bir resimle anlatabilirsin. Ya da belki bir şarkı söyleyebilirsin. Duygularını ifade etmenin birçok yolu var!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Birlikte bir resim çizmeye ne dersin? Şimdi, mutlu hissettiğinde çizmek istediğin bir resmi düşün. Belki bir gökkuşağı, belki de sevdiğin bir hayvan olabilir. Haydi, birlikte çizelim ve duygularımızı renklerle ifade edelim. Bu çok eğlenceli olacak!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Gökkuşağı çizmek gerçekten çok eğlenceli, değil mi? Renklerle oynamak, içimizdeki mutluluğu dışa vurmanın harika bir yolu. Peki, şimdi bu resmi birilerine göstermek ister misin? Bazen duygularımızı paylaşmak, onları daha iyi anlamamıza ve başkalarının da bizi anlamasına yardımcı olabilir."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Duygularımızı paylaşmak için bir başka harika yol da hikayeler anlatmak. Şimdi, birlikte bir hikaye oluşturalım. Başlangıçta, mutlu bir köpek yavrusu olan Blu Pup vardı. Blu Pup, parkta oynarken birden yağmur yağmaya başladı. Bu durum Blu Pup'ı biraz üzdü ama sonra ne yapabileceğini düşündü. Hadi, hikayemizin sonunu birlikte düşünelim!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir hikaye oluşturduk! Blu Pup, yağmurun altında saklambaç oynayarak eğlenmeye karar verdi. Bazen üzücü durumları eğlenceli hale getirmek bizim elimizde. Sen de Blu Pup gibi farklı çözümler bulabilir misin? Unutma, senin hayal gücün çok güçlü!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Daha önce üzüldüğünde ne yaptın? Belki bir arkadaşınla konuştun ya da en sevdiğin oyuncağınla oynadın. Bu tür anıları hatırlamak, gelecekte nasıl başa çıkabileceğimizi öğrenmemize yardımcı olur. Senin de paylaşmak istediğin bir hikaye var mı?"
+    },
+    {
+      "id": "scene_10",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Paylaştığın hikaye gerçekten çok güzel! Herkesin farklı duygularla başa çıkma yolu vardır ve bu yolları keşfetmek çok önemlidir. Duygularımızı anlamak ve onları yönetmek, büyüdükçe daha da kolaylaşır. Senin gibi harika bir arkadaşla bu konuları konuşmak çok keyifli."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda hikayelerimizi paylaştık. Şimdi, duygularımızı daha iyi anlamak için başka bir yöntemden bahsedelim. Zihnimizde mutlu bir yer hayal etmek, kendimizi daha iyi hissetmemize yardımcı olabilir. Belki bu yer bir plaj, belki de bir orman olabilir. Haydi, gözlerimizi kapatıp bu yeri hayal edelim."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hayal gücün gerçekten çok güçlü! Şimdi, hayal ettiğin bu yerin sana nasıl hissettirdiğini düşün. Belki de seni çok mutlu ve huzurlu hissettirdi. Bu duygular çok değerli ve onları sık sık hatırlamak bizi her zaman mutlu eder. Sen de bu yeri her zaman hatırlayabilirsin!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir sonraki adımda, bu huzurlu yeri daha da güzelleştirmek için neler ekleyebileceğimizi düşünelim. Belki bir salıncak, belki de bir piknik battaniyesi. Hayal gücümüzle bu yeri istediğimiz gibi değiştirebiliriz. Haydi, bu yeri daha da güzelleştirelim!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte duygularımızı nasıl daha iyi anlayabileceğimizi ve yönetebileceğimizi öğrendik. Duygularımızı anlamak ve onları doğru şekilde ifade etmek, her zaman mutlu ve huzurlu olmamıza yardımcı olur. Seninle bu yolculuğu paylaşmak benim için çok keyifliydi. Unutma, her zaman duygularını ifade edebilir ve kendini daha iyi hissetmek için yöntemler bulabilirsin. Bir dahaki sefere tekrar buluşmak üzere, küçük dostum!"
+    }
+  ],
+  "title": "Blu Pup'ın Emotional Regulation Hikayesi"
+}

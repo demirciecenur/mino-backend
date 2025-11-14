@@ -1,0 +1,104 @@
+{
+  "id": "funny_bunny_sibling_story",
+  "character": "Funny Bunny",
+  "topic": "sibling",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Funny Bunny, y hoy vamos a hablar sobre algo muy especial: los hermanos. ¿Sabías que tener un hermano es como tener un amigo para siempre? Juntos podemos hacer muchas cosas divertidas y aprender a compartir. ¿Están listos para esta aventura? ¡Vamos a descubrirlo juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tener un hermano significa que siempre tienes a alguien con quien jugar. Imagínate construir una torre de bloques tan alta que casi toca el cielo, ¡pero cuidado que no se caiga! Los hermanos también nos ayudan a aprender cosas nuevas, como andar en bicicleta o pintar un dibujo bonito. Juntos, los días son más divertidos y nunca te sientes solo. ¡Qué maravilla es tener un hermano!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, pensemos en cómo podemos ser buenos hermanos. Una manera es compartir los juguetes, como cuando tienes un oso de peluche y lo prestas para que también juegue tu hermano. Otra forma es ayudar cuando tu hermano necesita algo, como buscar su zapato perdido. Ser un buen hermano es también escuchar y cuidar a tu hermanito o hermanita. ¡Así es como se crea un gran equipo!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ustedes son geniales! Ahora, vamos a hacer un pequeño ejercicio juntos. Pensemos en una cosa que nos gusta hacer con nuestro hermano o hermana. ¿Es jugar en el parque o leer un cuento antes de dormir? ¡Eso suena divertido! Recuerden que cada momento juntos es especial y único. ¡Sigan pensando en más ideas mientras seguimos nuestra historia!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden cuando hablamos de compartir, eso también significa compartir nuestras emociones. Si estamos felices, podemos reír juntos, y si estamos tristes, podemos abrazarnos para sentirnos mejor. Los hermanos son como nuestros primeros amigos, y siempre están ahí para apoyarnos. ¡Qué importante es tener a alguien así en nuestras vidas!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a aprender cómo resolver pequeñas peleas, porque a veces eso pasa. Si te sientes enojado, cuenta hasta cinco y respira profundo. Uno, dos, tres, cuatro, cinco... ¡Muy bien! Luego, habla con calma y explica cómo te sientes. Siempre es mejor hablar que gritar. Así es como los hermanos se entienden mejor."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo están haciendo genial! Resolver problemas juntos nos hace más fuertes. Imagina que tu hermano se cayó y se lastimó. Puedes ayudarle a levantarse y darle un abrazo para que se sienta mejor. Ser un buen hermano significa estar ahí en los buenos y malos momentos. ¡Ustedes pueden hacerlo!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de las cosas divertidas que podemos hacer juntos. ¿Les gusta jugar a las escondidas? Es muy divertido buscar y encontrar a tu hermano detrás de las cortinas o debajo de la mesa. También pueden hacer un dibujo juntos o construir una ciudad de bloques. ¡La imaginación no tiene límites cuando están juntos!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdan la última vez que hicieron algo divertido con su hermano? ¡Apuesto a que fue increíble! Cada recuerdo que crean juntos es como un pequeño tesoro que guardan en su corazón. Así que sigan creando momentos especiales todos los días. ¡Eso es lo que hace que tener un hermano sea tan maravilloso!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora tengo una pregunta para ustedes: ¿Cuál es su cosa favorita de tener un hermano? Tal vez les gusta que siempre tienen a alguien con quien jugar. O quizás les gusta que su hermano les cuente historias antes de dormir. ¡Me encantaría saberlo! Cada respuesta es especial y única, igual que ustedes."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Después de pensar en lo que más les gusta de tener un hermano, ahora podemos hablar de cómo podemos ser amigos para siempre. Los hermanos que se cuidan y se respetan crecen siendo amigos para toda la vida. Es como tener un superpoder que les ayuda a enfrentar cualquier cosa. ¡Qué increíble es eso!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para ser amigos para siempre, es importante recordar siempre decir 'gracias' y 'lo siento'. Estas palabras mágicas ayudan a mantener la paz y la felicidad. Si tu hermano te ayuda a recoger tus juguetes, dile 'gracias'. Si accidentalmente derramas su bebida, dile 'lo siento'. ¡Así es como se mantienen las sonrisas!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Están haciendo un trabajo fantástico! Recuerden que cada día es una nueva oportunidad para ser un buen hermano. Tal vez hoy pueden intentar hacer algo especial por su hermano, como dibujarle una tarjeta o ayudarle con su tarea. Pequeños gestos pueden hacer una gran diferencia. ¡Estoy muy orgulloso de ustedes!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A medida que crezcan, sus hermanos siempre serán una parte importante de su vida. Ellos estarán allí para celebrar sus triunfos y para apoyarlos en los desafíos. Los hermanos son un regalo que siempre debemos valorar. Así que recuerden siempre decirles cuánto los quieren y lo importantes que son para ustedes."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Y así hemos llegado al final de nuestra aventura sobre los hermanos. Espero que hayan disfrutado y aprendido algo nuevo. Recuerden que ser un buen hermano es un gran regalo que podemos dar todos los días. ¡Gracias por acompañarme, amiguitos! Nos vemos pronto para otra divertida historia. ¡Adiós, adiós!"
+    }
+  ],
+  "title": "Historia de Sibling de Funny Bunny"
+}

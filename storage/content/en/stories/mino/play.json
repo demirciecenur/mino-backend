@@ -1,0 +1,104 @@
+{
+  "id": "mino_play_story",
+  "character": "Mino",
+  "topic": "play",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Mino, your space buddy who loves to explore and have fun. Today, we're going to embark on a fantastic journey all about play. Are you ready to discover exciting ways to play together? I can't wait to share some fun ideas with you. Let's get started on our playful adventure!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Play is like a magical world where anything is possible. It’s a time when we can use our imagination and create amazing adventures. Whether it's building a tower with blocks or pretending to be a superhero, play helps us learn and grow. Did you know that playing also helps us make new friends? Let’s dive deeper into how we can play in different ways!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "One of the simplest ways to play is by using our imagination. Imagine you're a brave astronaut exploring the stars. What do you see up there? Maybe a friendly alien or a twinkling star! Now, let's pretend to be astronauts. Close your eyes and imagine floating in space. Can you feel the excitement of a new adventure?"
+    },
+    {
+      "id": "scene_3",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've imagined being astronauts, let's talk about playing with toys. Toys are wonderful because they come in all shapes and sizes, just like the stars in the sky. Do you have a favorite toy you like to play with? Maybe it's a toy car or a soft teddy bear. Playing with toys can help us learn how things work and spark our creativity."
+    },
+    {
+      "id": "scene_4",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job using your imagination and thinking about your toys! Remember, there are so many ways to play. You can even invent your own games. Have you ever tried making up a game with your friends or family? Next time you play, try creating a new game and see how much fun you can have!"
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let’s talk about playing outside. When we play outside, we can run, jump, and explore. It’s like having a big, open space to let our imaginations run wild! Have you ever played tag or hide and seek? These games are not only fun but also help us stay active and healthy. Let's think about our favorite outdoor games."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Playing with friends is another exciting way to have fun. When we play with others, we learn to share, take turns, and work together. It's like being part of a team. Have you ever played a game where you needed to help a friend? Maybe you played a game of catch or built something together. Playing with friends teaches us kindness and cooperation."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you played a fun game with a friend? What game did you play? How did it make you feel to share that moment with someone special? Playing with friends is a wonderful way to create happy memories. Now, let's imagine what new games we can try together!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Art and music can also be part of playtime. Have you ever drawn a picture or danced to your favorite song? Creating art is like painting a picture of your dreams. And dancing is a way to express how happy we are. Let's think about our favorite colors and songs. What would you like to create or dance to today?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let’s take a moment to try something fun. Close your eyes and imagine a rainbow of colors. Now, think about your favorite color in the rainbow. Can you draw something using that color in your mind? Maybe a sunny day or a beautiful flower. Art is a fantastic way to express what we feel inside."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember how we talked about play helping us learn? Well, did you know that even simple games like counting can be fun and educational? Let’s count together from one to five. One, two, three, four, five! See how easy and fun that was? Counting helps us with numbers, and we can do it anytime, anywhere."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You did a fantastic job counting! Remember, learning can be playful, and play can be a great way to learn new things. Whether it’s counting stars or learning the alphabet, playtime is full of possibilities. Keep exploring and having fun with learning every day. You can do anything when you make it playful!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let’s not forget about quiet playtime too. Sometimes, playing quietly with puzzles or reading a book is just what we need. It’s like having a little peaceful adventure. What’s your favorite book or puzzle? Next time you have some quiet time, try a new puzzle or read a new story. It’s another way to explore and learn."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now that we’ve explored so many ways to play, which one are you excited to try next? Will it be a new game, a fun toy, or maybe a colorful painting? Remember, every day is a new adventure, and you can choose how you want to play. I’m excited to hear about your next playful journey!"
+    },
+    {
+      "id": "closure_Y",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time to say goodbye for now, but remember that playtime is always just around the corner. Keep exploring, creating, and having fun each day. I’m so glad we got to share this playful adventure together. Until next time, keep smiling and playing. Goodbye, little explorer!"
+    }
+  ],
+  "title": "Mino's Play Story"
+}

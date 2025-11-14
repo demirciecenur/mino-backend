@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_nutrition_story",
+  "character": "Bubble Buddy",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba minik dostum! Ben Bubble Buddy, deniz altındaki en neşeli dostun! Bugün seninle beslenme hakkında harika bir maceraya çıkacağız. Sağlıklı beslenmenin nasıl eğlenceli olabileceğini öğrenmeye hazır mısın? Bu yolculukta seni şaşırtacak bilgilerle dolu bir dünya bekliyor! Hadi, birlikte keşfetmeye başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme, vücudumuzun büyümesi ve enerjik kalması için çok önemli. Her gün yediğimiz yiyecekler, vücudumuza güç ve sağlık verir. Mesela, sabah kahvaltısı yaparken yediğimiz yumurtalar ve süt, kaslarımızın güçlü olmasına yardımcı olur. Meyve ve sebzeler ise vücudumuza vitamin ve mineraller sağlar, böylece sağlıklı kalırız. Sağlıklı yiyecekler yemek, oyun oynamak için ihtiyacımız olan enerjiyi de sağlar!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, sağlıklı bir tabak nasıl hazırlanır, ona bakalım! Tabağımızda her zaman biraz protein, biraz meyve ve sebze, ve biraz da tahıl olmalı. Protein, et, balık ya da baklagillerden gelebilir. Meyve ve sebzeler ise rengarenk olmalı, böylece her vitamin ve minerali alabiliriz. Tahıllar ise ekmek, makarna veya pirinç olabilir. Bu çeşitlilik, vücudumuzun ihtiyacı olan tüm besinleri almasını sağlar."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi, sen de kendi sağlıklı tabağını hazırlamaya ne dersin? Mutfakta annene ya da babana yardım edebilirsin. Birlikte salata yapabilir veya meyve tabağı hazırlayabilirsiniz. Unutma, ne kadar renkli bir tabak hazırlarsan, o kadar sağlıklı olur! Bu eğlenceli aktivite sayesinde hem yemek yapmayı öğrenir, hem de sağlıklı beslenmiş olursun."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda sağlıklı bir tabağın ne kadar önemli olduğunu öğrendik. Şimdi, suyun vücudumuz için ne kadar önemli olduğuna bakalım. Su, vücudumuzun en önemli ihtiyaçlarından biridir. Her gün yeterince su içmek, vücudumuzun düzgün çalışmasını sağlar. Su içmek, enerjik kalmamıza ve oyun oynarken daha uzun süre yorulmamamıza yardımcı olur."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Gün boyunca su içmeyi unutmamalıyız. Özellikle oyun oynadıktan sonra veya sıcak bir günde dışarıda vakit geçirdikten sonra su içmek çok önemlidir. Yanında her zaman bir su şişesi bulundurmak iyi bir fikirdir. Su, vücudumuzdaki toksinleri temizler ve cildimizin daha sağlıklı görünmesini sağlar. Su içmek, aynı zamanda beynimizin daha iyi çalışmasına da yardımcı olur."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, birlikte bir su içme oyunu oynayalım mı? Her saat başı bir bardak su içerek bu oyunu kazanabilirsin. Bu oyunu oynarken, hem eğlenir hem de vücudunu sağlıklı tutarsın! Su içmeyi bir alışkanlık haline getirdiğinde, kendini ne kadar iyi hissettiğine şaşıracaksın. Hadi, su şişeni doldur ve oyunumuz başlasın!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme maceramızda şimdi sıra, eğlenceli bir egzersiz yapmaya geldi. Sağlıklı beslenmenin yanında, hareket etmek de çok önemlidir. Her gün biraz egzersiz yapmak, vücudumuzu güçlü ve sağlıklı tutar. Mesela, deniz altında balıklarla yüzmek veya kumda koşmak gibi! Egzersiz yapmak, enerjimizi artırır ve daha mutlu hissetmemizi sağlar."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Evde yapabileceğin bazı eğlenceli egzersizler var. Mesela, müzik aç ve dans et! Dans etmek, hem eğlenceli hem de harika bir egzersizdir. Ayrıca, ip atlamak veya saklambaç oynamak da çok eğlenceli olabilir. Bu aktiviteler, kalbimizin daha sağlıklı olmasına yardımcı olur ve kaslarımızı güçlendirir. Her gün biraz hareket etmeyi unutma!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harikasın! Şimdi, sen de bir egzersiz planı yapmaya ne dersin? Her gün farklı bir aktivite seçebilir ve eğlenceli bir şekilde hareket edebilirsin. Bu, hem vücudunu sağlıklı tutar hem de kendini daha iyi hissetmeni sağlar. Hadi, en sevdiğin egzersizi seç ve hemen başla! Eminim çok eğleneceksin!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bugüne kadar en sevdiğin sağlıklı yiyecek nedir? Meyve mi, sebze mi yoksa başka bir şey mi? Belki de en sevdiğin yiyeceği bir arkadaşınla paylaşarak daha da eğlenceli hale getirebilirsin. Senin favori yiyeceğini merak ediyorum! Cevabını düşündüğünde, benimle paylaşmayı unutma!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda suyun öneminden bahsettik. Şimdi sıra, tatlıların nasıl dikkatli tüketilmesi gerektiğine geldi. Tatlılar, çok lezzetli olabilir ama onları çok fazla yemek vücudumuz için iyi değil. Şekerli yiyecekler, dişlerimize zarar verebilir ve enerjimizi çabuk tüketir. Bu yüzden tatlıları yalnızca özel günlerde ve ölçülü olarak yemeliyiz."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Tatlılar yerine daha sağlıklı atıştırmalıklar tercih edebiliriz. Örneğin, bir elma dilimi veya bir avuç dolusu ceviz harika bir seçim olabilir. Bu tür yiyecekler, hem tatlı ihtiyacımızı karşılar hem de vücudumuza faydalı besinler sağlar. Sağlıklı atıştırmalıklar yemek, oyun oynarken daha uzun süre enerjik kalmamıza da yardımcı olur. Unutma, sağlıklı seçimler yapmak her zaman daha iyidir!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, sen de kendi sağlıklı atıştırmalıklarını hazırlamaya ne dersin? Belki bir meyve salatası yapabilir veya yoğurtla karıştırılmış meyveler deneyebilirsin. Kendi tariflerini oluşturmak çok eğlenceli olabilir! Unutma, sağlıklı beslenmek her zaman daha mutlu ve enerjik hissetmemizi sağlar. Sen de bunu deneyebilirsin!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte beslenme hakkında harika şeyler öğrendik. Sağlıklı beslenmenin ve hareket etmenin ne kadar önemli olduğunu artık biliyorsun. Bu bilgileri günlük yaşamında uygulamak, kendini daha iyi hissetmene yardımcı olacak. Seninle bu yolculuğu paylaşmak çok güzeldi! Şimdi, yeni maceralarda görüşmek üzere hoşça kal!"
+    }
+  ],
+  "title": "Bubble Buddy'ın Nutrition Hikayesi"
+}

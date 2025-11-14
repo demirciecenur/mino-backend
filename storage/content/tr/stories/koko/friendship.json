@@ -1,0 +1,104 @@
+{
+  "id": "koko_friendship_story",
+  "character": "Koko",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Koko. Bugün birlikte arkadaşlık hakkında harika bir yolculuğa çıkacağız. Arkadaşlık, birlikte oyunlar oynadığımız, gülümsediğimiz ve birbirimize destek olduğumuz o özel bağdır. Hazır mısın? Seni çok merak ediyorum. Bu yolculukta seninle birlikte olmak beni çok mutlu ediyor."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, birlikte zaman geçirdiğimizde daha da güçlenen bir bağdır. Arkadaşlar, mutlu olduğumuzda bizimle gülen, üzgün olduğumuzda ise yanımızda olan kişilerdir. Birlikte oyunlar oynar, yeni şeyler öğreniriz. Arkadaşlar, bizim için çok değerlidir çünkü onlarla paylaştığımız anılar çok özeldir. Şimdi, arkadaş edinmenin yollarını öğrenmeye ne dersin?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaş edinmek için ilk adım, kendimizi tanıtmaktır. Yeni bir arkadaşla tanıştığında gülümseyerek 'Merhaba, ben... Senin adın ne?' diyebilirsin. Bu basit ama güçlü bir başlangıçtır. İnsanlar, samimi ve nazik bir şekilde yaklaştığımızda bizi daha iyi tanımak ister. Unutma, herkes yeni bir arkadaş edinmekten hoşlanır!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım! Haydi, kollarımızı yukarı kaldıralım ve 'Benimle arkadaş olur musun?' diyelim. Harika! Bu şekilde, birine arkadaşlık teklif ettiğimizde nasıl hissettiğimizi görebiliriz. Cesaretle yaklaşmak, yeni dostlukların kapısını aralar. Unutma, sen harika bir arkadaşsın!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlarımızla oyunlar oynamak, onları daha iyi tanımamıza yardımcı olur. Birlikte saklambaç oynayabilir, resim yapabilir ya da hikayeler anlatabiliriz. Her oyun, arkadaşlığımızı güçlendirir ve bize eğlenceli anılar bırakır. Peki, sen en çok hangi oyunu oynamayı seversin? Şimdi birlikte düşünelim."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin en sevdiğin oyun nedir? Belki de top oynamak ya da bulmaca çözmek olabilir. Düşün ve bana söyle, hangi oyun seni en çok mutlu ediyor? Arkadaşlarınla bu oyunu oynadığında neler hissediyorsun? Hadi, cevabını merakla bekliyorum!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda oyunlardan bahsetmiştik. Şimdi, arkadaşlarımızla paylaştığımız anların ne kadar değerli olduğuna bakalım. Her anı, birlikte gülüp eğlendiğimizde daha da anlam kazanır. Bu anılar, arkadaşlık bağlarımızı güçlendirir. Şimdi, birlikte daha fazla anı biriktirelim."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaşlarımızla iyi geçinmek için nazik ve saygılı olmak önemlidir. Bir arkadaşımızın fikrini dinlemek ve ona değer vermek, ilişkilerimizi güçlendirir. Herkesin farklı düşünceleri olabilir ve bu zenginliktir. Bu yüzden, arkadaşlarımızın söylediklerine kulak verelim ve onları anlayalım. Şimdi, birlikte nasıl daha iyi dinleyici olabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte üç derin nefes alalım. Derin bir nefes al, tut ve ver. Harika iş çıkardın! Bu, sakinleşmemize ve arkadaşlarımızı daha iyi dinlememize yardımcı olur. Senin gibi harika bir arkadaş için bu çok önemli bir beceri. Şimdi, bunu denemeye devam edelim!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlarımızla birlikte olmak, bazen küçük anlaşmazlıklar yaşamamıza neden olabilir. Ama endişelenme, bu çok normaldir. Önemli olan, bu durumlarda nasıl davrandığımızdır. Anlayışlı olmak ve özür dilemek, ilişkilerimizi onarmamıza yardımcı olur. Şimdi, bir anlaşmazlık yaşadığımızda nasıl davranabileceğimizi konuşalım."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir arkadaşınla anlaşmazlık yaşadığında, derin bir nefes al ve sakinleş. Sonra, nazik bir şekilde 'Özür dilerim' demek, her şeyi daha iyi yapabilir. Bu, arkadaşlığımızı korumanın önemli bir yoludur. Unutma, herkes hata yapabilir ve önemli olan bu hatalardan ders almaktır. Şimdi, bunu nasıl uygulayabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsun! Senin gibi bir arkadaş, başkalarına ilham verir. Her zaman nazik ve anlayışlı olmayı seçtiğin için teşekkür ederim. Bu, seni harika bir dost yapar. Şimdi, bu değerli beceriyi her gün kullanmak için kendimize söz verelim."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Arkadaşlarını mutlu etmek için neler yapabilirsin? Belki de onlara bir resim yapabilir ya da en sevdikleri oyuncağı ödünç verebilirsin. Düşün bakalım, senin arkadaşlarını mutlu eden şeyler neler? Şimdi, bu konuda biraz düşün ve bana söyle!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Düşüncelerini paylaştığın için teşekkür ederim. Arkadaşlarını mutlu etmek için harika fikirlerin var. Şimdi, bu fikirleri hayata geçirmenin zamanı geldi. Unutma, küçük bir iyilik bile büyük mutluluklar yaratabilir. Sen harika bir arkadaşsın!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün arkadaşlık hakkında çok şey öğrendik. Seninle bu yolculuğa çıkmak çok keyifliydi. Her zaman nazik, cesur ve anlayışlı olmayı unutma. Seninle tekrar görüşmek için sabırsızlanıyorum. Şimdilik hoşça kal ve arkadaşlarınla harika zaman geçir!"
+    }
+  ],
+  "title": "Koko'ın Friendship Hikayesi"
+}

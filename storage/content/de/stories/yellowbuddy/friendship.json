@@ -1,0 +1,98 @@
+{
+  "id": "yellow_buddy_friendship_story",
+  "character": "Yellow Buddy",
+  "topic": "friendship",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo kleiner Freund! Ich bin Yellow Buddy und heute sprechen wir über etwas ganz Besonderes: Freundschaft! Bist du bereit für ein lustiges Abenteuer? Gemeinsam werden wir entdecken, was es bedeutet, ein guter Freund zu sein. Ich bin so gespannt darauf, was wir alles lernen werden!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft ist wie ein bunter Regenbogen. Sie bringt Freude und Lächeln in unser Leben. Weißt du, ein Freund ist jemand, der uns zum Lachen bringt, wenn wir traurig sind. Freunde spielen mit uns und teilen ihre Spielzeuge. Es ist so schön, Freunde zu haben, die uns verstehen und unterstützen!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns darüber sprechen, wie man ein guter Freund sein kann. Ein guter Freund hört zu, wenn jemand etwas erzählen möchte. Man hilft seinen Freunden, wenn sie Hilfe brauchen, zum Beispiel beim Aufräumen von Spielzeug. Und ganz wichtig, man teilt seine Sachen und spielt fair. So machen Freundschaften richtig Spaß!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super gemacht! Du bist ein toller Zuhörer. Jetzt können wir zusammen etwas Lustiges machen. Lass uns gemeinsam bis fünf zählen. Eins, zwei, drei, vier, fünf! Großartig! Mit Freunden macht alles viel mehr Spaß, findest du nicht auch?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Teilen gesprochen haben? Teilen ist wichtig, weil es zeigt, dass man an andere denkt. Wenn du dein Spielzeug teilst, macht das Spielen noch mehr Spaß. Und manchmal können Freunde auch etwas zurückgeben, das du brauchst. So entsteht eine tolle Freundschaft!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, wo wir über das Teilen gesprochen haben, was denkst du, wie fühlt sich ein Freund, wenn du mit ihm teilst? Er fühlt sich sicher glücklich und geschätzt. Es ist so schön, wenn man anderen ein Lächeln schenken kann. Lass uns daran erinnern, wie wichtig es ist, freundlich zu sein!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt wollen wir etwas Neues lernen: Wie man Freunde findet! Freunde zu finden ist wie ein Abenteuer. Man kann anfangen, indem man einfach 'Hallo' sagt und lächelt. Dann kann man fragen, ob der andere mitspielen möchte. Freundschaften beginnen oft mit einem einfachen Gespräch."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar! Du machst das großartig. Lass uns jetzt ein bisschen üben: Stell dir vor, du siehst jemanden, der allein spielt. Was könntest du sagen? Vielleicht: 'Hallo, möchtest du mit mir spielen?' Super! Du bist ein echter Freundschaftsprofi!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaften sind nicht nur wichtig, sie sind auch sehr wertvoll. Mit Freunden kann man Geheimnisse teilen und neue Abenteuer erleben. Manchmal streitet man sich, aber das ist okay. Wichtig ist, dass man sich wieder verträgt und gemeinsam weiterspielt. So wird die Freundschaft noch stärker!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt lass uns überlegen, was man tun kann, wenn man sich mit einem Freund streitet. Man kann sagen: 'Es tut mir leid.' Und dann kann man darüber reden, was passiert ist. Das hilft, Missverständnisse zu klären und die Freundschaft zu reparieren. So bleibt man immer gute Freunde!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal mit einem Freund gespielt und etwas Neues gelernt? Vielleicht hast du ein neues Spiel entdeckt oder ein lustiges Lied gelernt. Es ist toll, von Freunden zu lernen. Was war das Lustigste, das du je mit einem Freund gemacht hast?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Freundschaften können überall entstehen, in der Schule, auf dem Spielplatz oder sogar in der Nachbarschaft. Es ist wichtig, freundlich und offen zu sein. So zieht man Freunde an wie ein Magnet. Und vergiss nicht, immer du selbst zu sein. So finden dich die richtigen Freunde!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein fantastischer Freund! Jetzt lass uns einen tiefen Atemzug nehmen. Eins, zwei, drei, tief einatmen und ausatmen. Fühlt sich das nicht gut an? Entspannung hilft uns, ruhig und glücklich zu bleiben. Und Freunde zu haben, macht uns noch glücklicher!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Freundschaft zu sprechen! Ich hoffe, du hast viel gelernt und bist bereit, neue Freunde zu finden. Denk daran, freundlich zu sein und zu teilen. Ich freue mich schon auf unser nächstes Abenteuer. Tschüss und bis bald, mein kleiner Freund!"
+    }
+  ],
+  "title": "Yellow Buddys Friendship Geschichte"
+}

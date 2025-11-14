@@ -1,0 +1,104 @@
+{
+  "id": "mino_sibling_story",
+  "character": "Mino",
+  "topic": "sibling",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis Mino, votre ami de l'espace. Aujourd'hui, nous allons explorer un sujet merveilleux: les frères et sœurs. Avez-vous un frère ou une sœur à la maison? Si oui, c'est super! Les frères et sœurs peuvent être de merveilleux amis pour jouer et partager des aventures. Êtes-vous prêts à découvrir toutes les choses amusantes que vous pouvez faire ensemble?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les frères et sœurs, c'est comme avoir des compagnons de jeu à la maison. Imaginez que vous avez toujours quelqu'un avec qui jouer à cache-cache ou à la marelle. C'est aussi une chance de partager des secrets et de rigoler ensemble. Parfois, on peut se disputer, mais c'est normal. Après une dispute, on peut faire la paix et redevenir amis, car l'amour fraternel est très fort."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des moments où vous jouez ensemble. Vous pouvez construire des tours avec des blocs ou dessiner des dessins colorés. C'est important de partager et de prendre des tours pour que chacun puisse s'amuser. Cela vous aide à devenir plus patient et à mieux comprendre les autres. Et n'oubliez pas de féliciter votre frère ou sœur pour ses idées géniales!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Allons-y, essayons de compter ensemble! Comptez avec moi jusqu'à cinq. Un, deux, trois, quatre, cinq! Bravo! Compter ensemble peut être amusant, surtout si vous le faites avec votre frère ou votre sœur. Vous pouvez aussi essayer de compter les étoiles dans le ciel la nuit. Vous verrez, c'est magique!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de partager? C'est une grande partie d'avoir un frère ou une sœur. Parfois, vous avez peut-être le même jouet préféré. Que faire? Vous pouvez apprendre à partager, peut-être en jouant avec le jouet à tour de rôle. Cela montre combien vous vous souciez l'un de l'autre, et cela rend le jeu encore plus amusant."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pensez à toutes les choses que vous pouvez apprendre en jouant avec votre frère ou sœur. Vous pouvez apprendre à être plus rapide, plus créatif, et même plus courageux. En jouant ensemble, vous découvrez de nouvelles façons de résoudre des problèmes. Et si vous ne savez pas comment faire quelque chose, demandez à votre frère ou sœur de vous montrer comment. C'est comme avoir un professeur à la maison!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous savez ce qui est amusant à faire avec un frère ou une sœur? Créer des histoires ensemble! Vous pouvez inventer des aventures incroyables, comme explorer une planète lointaine ou découvrir un trésor caché. Utilisez votre imagination et laissez vos idées briller. Et rappelez-vous, il n'y a pas de mauvaise idée quand il s'agit de s'amuser ensemble!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "En parlant d'imagination, avez-vous déjà construit un fort avec des couvertures et des oreillers? C'est une excellente activité à partager. Vous pouvez créer votre propre château fort ou vaisseau spatial. Ensuite, invitez votre frère ou sœur à entrer et à jouer à des jeux de rôle. C'est comme avoir votre propre monde secret où tout est possible!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Même si vous aimez jouer ensemble, il est aussi important d'avoir du temps pour soi. Chacun a besoin de moments tranquilles pour se détendre. Peut-être que votre frère ou sœur aime lire pendant que vous préférez dessiner. Respecter les moments de calme de chacun est aussi une belle façon de montrer de l'amour et du respect."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de résoudre les petits désaccords. Parfois, vous pouvez ne pas être d'accord sur quel jeu jouer. Une bonne idée est de faire un compromis. Aujourd'hui, vous jouez au jeu que votre frère ou sœur choisit, et demain, c'est votre tour. Faire des compromis, c'est apprendre à être juste et à respecter les choix des autres."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous savez quoi? Parfois, les frères et sœurs se donnent des surnoms amusants. Avez-vous un surnom pour votre frère ou sœur? C'est un moyen spécial de montrer votre affection. Les surnoms peuvent être rigolos et montrer combien vous aimez passer du temps ensemble. Peut-être que vous pouvez inventer un surnom ensemble, juste pour rire!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, qu'aimez-vous faire avec votre frère ou sœur? Est-ce que vous aimez jouer à des jeux de société, faire du vélo ou peut-être cuisiner ensemble? Chacune de ces activités est une chance de créer des souvenirs précieux. Pensez à votre activité préférée et comment elle vous rend heureux. Partager ces moments renforce votre lien."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des moments où vous pouvez aider votre frère ou sœur. Peut-être qu'il ou elle a besoin d'aide pour ranger sa chambre ou pour faire un puzzle difficile. Offrir votre aide montre combien vous vous souciez de lui ou d'elle. Et en retour, votre frère ou sœur peut vous aider aussi. C'est ça l'esprit d'équipe!"
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Enfin, n'oubliez pas de dire merci et je t'aime à votre frère ou sœur. Ces mots simples peuvent illuminer leur journée. Vous pouvez aussi faire un petit dessin ou une carte pour montrer votre affection. Ces petits gestes font une grande différence et renforcent votre amitié. C'est merveilleux d'avoir quelqu'un à qui vous pouvez dire je t'aime tous les jours."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était fantastique de parler avec vous aujourd'hui! Rappelez-vous, avoir un frère ou une sœur est un véritable trésor. Vous pouvez jouer, partager, et apprendre ensemble chaque jour. J'espère que vous continuerez à créer de beaux souvenirs avec eux. Merci d'avoir exploré cet univers avec moi. À bientôt, mes petits explorateurs de l'espace!"
+    }
+  ],
+  "title": "Histoire de Sibling de Mino"
+}

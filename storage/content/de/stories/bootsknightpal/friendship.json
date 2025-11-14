@@ -1,0 +1,104 @@
+{
+  "id": "boots_knight_pal_friendship_story",
+  "character": "Boots Knight Pal",
+  "topic": "friendship",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Boots Knight Pal, und heute gehen wir auf ein aufregendes Abenteuer über Freundschaft. Bist du bereit? Ich bin so neugierig, mehr über dich zu erfahren. Gemeinsam werden wir entdecken, wie wunderbar es ist, Freunde zu haben. Lass uns beginnen und die Welt der Freundschaft erkunden!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft ist etwas ganz Besonderes, mein kleiner Abenteurer. Es bedeutet, jemanden zu haben, mit dem man lachen und spielen kann. Freunde helfen einander und machen sich gegenseitig glücklich. Denk an die Zeiten, in denen du mit einem Freund gespielt hast und wie viel Spaß ihr hattet. Freunde sind wie die Sterne am Himmel, die immer da sind, auch wenn man sie nicht sieht."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns überlegen, wie man ein guter Freund sein kann. Ein guter Freund hört zu, wenn jemand etwas zu sagen hat. Es ist auch wichtig, freundlich zu sein und anderen zu helfen. Zum Beispiel, wenn ein Freund traurig ist, kannst du ihn trösten. Oder wenn jemand Hilfe braucht, könntest du deine Hand ausstrecken. Freundschaft bedeutet, füreinander da zu sein."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar! Du machst das großartig. Jetzt lass uns gemeinsam ein kleines Spiel spielen. Stell dir vor, wir zählen bis fünf, um unsere Freundschaft zu feiern. Eins, zwei, drei, vier, fünf! Großartig gemacht! Es ist wichtig, zusammen Spaß zu haben und zu lachen, denn das stärkt die Freundschaft."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Zuhören gesprochen haben? Jetzt wollen wir das in einer Geschichte sehen. Stell dir vor, du und dein Freund entdecken einen geheimen Garten. Während ihr die Blumen betrachtet, erzählt dein Freund von einem Traum. Du hörst aufmerksam zu und ihr lacht gemeinsam über die lustigen Teile. So entsteht eine starke Freundschaft."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, wo wir über das Zuhören gesprochen haben, lass uns über das Teilen reden. Teilen bedeutet, dass man Dinge mit anderen teilt, wie Spielzeuge oder Ideen. Wenn du dein Lieblingsspielzeug mit einem Freund teilst, zeigt das, dass du an ihn denkst. Teilen macht nicht nur den anderen glücklich, sondern auch dich selbst. Es ist ein wichtiger Teil der Freundschaft."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du lernst wirklich schnell. Lass uns noch einmal zählen, aber diesmal bis drei, um das Teilen zu feiern. Eins, zwei, drei! Du bist ein wunderbarer Freund. Es ist so schön, mit Freunden zu teilen und gemeinsam zu lachen. Du machst das fantastisch!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Nun lass uns über das Spielen sprechen. Spielen ist eine der besten Möglichkeiten, Freundschaften zu knüpfen. Wenn du mit jemandem spielst, lernst du, wie man zusammenarbeitet und Spaß hat. Zum Beispiel könnt ihr zusammen ein Puzzle machen oder ein lustiges Spiel spielen. Spielen bringt Freude und stärkt die Freundschaft."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hast du jemals erlebt, dass ein Freund dir geholfen hat? Das ist auch ein Teil der Freundschaft. Wenn jemand dir zeigt, wie man etwas macht oder dir hilft, wenn du es brauchst, fühlst du dich gut. Freundschaft bedeutet, dass man sich gegenseitig unterstützt, egal was passiert. So wächst die Verbindung zwischen Freunden immer stärker."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kannst du dich an eine Zeit erinnern, als du einem Freund geholfen hast? Vielleicht hast du ihm bei den Hausaufgaben geholfen oder ihm gezeigt, wie man ein Spiel spielt. Es fühlt sich gut an, zu helfen, nicht wahr? Was denkst du, macht Hilfe so besonders in einer Freundschaft? Lass uns darüber nachdenken."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, da wir über das Helfen gesprochen haben, lass uns über das Trösten sprechen. Manchmal sind Freunde traurig, und es ist wichtig, für sie da zu sein. Du könntest ihnen ein Lächeln schenken oder eine Umarmung geben. Trösten zeigt, dass du dich kümmerst, und das stärkt die Freundschaft. Es ist schön, wenn man jemanden hat, der einen versteht."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein fantastischer Freund! Lass uns jetzt gemeinsam tief durchatmen. Eins, zwei, drei, tief einatmen und ausatmen. Das fühlt sich gut an, nicht wahr? Es ist wichtig, ruhig zu bleiben und anderen zu helfen, wenn sie es brauchen. Du machst das großartig!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Nun lass uns über das Lachen sprechen. Lachen ist eine wunderbare Möglichkeit, Freundschaften zu stärken. Wenn du mit einem Freund lachst, fühlt ihr euch beide glücklich. Vielleicht habt ihr einen lustigen Witz oder eine lustige Geschichte. Lachen bringt Freude und macht die Welt heller. Es ist eine einfache, aber kraftvolle Möglichkeit, Freunde zu finden."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was bringt dich zum Lachen? Vielleicht ein lustiges Spiel oder ein komischer Tanz? Lachen ist ansteckend und macht Spaß. Hast du schon einmal mit einem Freund so sehr gelacht, dass ihr nicht aufhören konntet? Lass uns darüber nachdenken, wie schön es ist, zusammen zu lachen."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Freundschaft zu sprechen. Du bist ein wunderbarer kleiner Freund, und ich bin stolz auf dich. Denk daran, freundlich zu sein, zuzuhören und zu teilen. Diese Dinge machen dich zu einem großartigen Freund. Ich freue mich darauf, bald wieder mit dir zu plaudern. Bis zum nächsten Mal, mein kleiner Abenteurer!"
+    }
+  ],
+  "title": "Boots Knight Pals Friendship Geschichte"
+}

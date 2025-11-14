@@ -1,0 +1,98 @@
+{
+  "id": "piggy_friend_bedtime_story",
+  "character": "Piggy Friend",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy tu amigo Piggy. Hoy vamos a hablar sobre algo muy importante: la hora de dormir. ¿Estás listo para aprender sobre las rutinas que nos ayudan a descansar bien? Dormir bien nos llena de energía para jugar al día siguiente. Vamos a descubrir juntos cómo prepararnos para una noche tranquila."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La hora de dormir es un momento especial del día. Es cuando nuestro cuerpo se relaja y se prepara para soñar. ¿Sabías que los sueños son como aventuras mágicas que tenemos mientras dormimos? Dormir bien nos ayuda a crecer fuertes y sanos. Así que es importante tener una rutina antes de ir a la cama."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Una buena rutina de sueño comienza con un baño calentito. El agua tibia nos ayuda a relajarnos y sentirnos cómodos. Después del baño, es hora de ponerse el pijama. Elegir un pijama suave y cómodo es como ponernos una mantita de abrazos. ¿Te gusta tu pijama favorito? Ahora estamos casi listos para dormir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ahora es momento de cepillar nuestros dientes! Cepillar los dientes antes de dormir es muy importante para mantenerlos sanos y fuertes. ¿Sabías que los dientes limpios también pueden tener sueños bonitos? Cepilla tus dientes durante dos minutos, como si estuvieras cantando tu canción favorita. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Después de cepillar los dientes, podemos leer un cuento. Los cuentos son mágicos y nos llevan a lugares increíbles. Puedes elegir un libro que te guste mucho. Leer un cuento nos ayuda a calmarnos y preparar nuestra mente para soñar. ¿Cuál es tu cuento favorito para la hora de dormir?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a hacer unos ejercicios de respiración. Inhala profundamente por la nariz y exhala lentamente por la boca. Vamos a repetir esto tres veces. Esto ayuda a nuestro cuerpo a relajarse y sentirse tranquilo. ¡Es como un gran abrazo para nuestro corazón!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué bien lo estás haciendo! Recuerda que cada noche es una nueva oportunidad para descansar bien. Cuando terminamos con nuestra rutina, nos sentimos listos para dormir. Nuestra cama es un lugar seguro y cómodo, como un nido calentito. Ahora, vamos a prepararnos para cerrar los ojos."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gusta la hora de dormir? A veces, puede ser difícil irse a la cama porque queremos seguir jugando. Pero dormir es tan importante como jugar. ¿Qué es lo que más te gusta de tu rutina de noche? Me encantaría saberlo."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que conocemos nuestra rutina, vamos a hablar sobre lo que sucede en nuestros sueños. Los sueños son como películas que vemos mientras dormimos. A veces son divertidos, otras veces son aventuras emocionantes. Cada noche, nuestros sueños pueden ser diferentes y especiales."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Antes de dormir, podemos pensar en algo bonito. Como un día soleado en el parque o un paseo en bicicleta. Pensar en cosas felices nos ayuda a tener sueños agradables. Cierra los ojos y piensa en una cosa que te haga sonreír. ¡Qué lindo!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Recuerda que dormir bien nos ayuda a estar felices y llenos de energía. Cada noche es una nueva oportunidad para descansar y soñar. Siempre es un buen momento para agradecer por todo lo bonito que vivimos durante el día."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos listos para dormir, podemos sentirnos tranquilos y seguros. Nuestra cama es nuestro refugio especial donde podemos descansar. Dormir bien nos prepara para un nuevo día lleno de aventuras. ¡Qué emocionante es despertar con energía para jugar y aprender!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Recuerda que siempre puedes contar con tu rutina para ayudarte a dormir mejor. Cada paso, desde el baño hasta el cuento, es importante. Siguiendo estos pasos, tendrás una noche de sueños dulces. ¡Eres un experto en preparar la hora de dormir!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido maravilloso compartir contigo esta aventura sobre la hora de dormir. Espero que disfrutes de tus dulces sueños esta noche. Recuerda siempre seguir tu rutina para una noche tranquila. ¡Dulces sueños, pequeño amigo! Hasta la próxima, con mucho cariño, tu amigo Piggy."
+    }
+  ],
+  "title": "Historia de Bedtime de Piggy Friend"
+}

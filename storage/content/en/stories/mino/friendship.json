@@ -1,0 +1,98 @@
+{
+  "id": "mino_friendship_story",
+  "character": "Mino",
+  "topic": "friendship",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Mino, your cheerful space explorer buddy. Today, we're going on an amazing journey to discover the magic of friendship. Are you ready to join me on this adventure? Friendship is like a beautiful star in the sky, shining brightly. Together, we'll learn about making friends, playing happily, and spreading kindness. Let's get started and see what wonderful things we can discover about being a great friend!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about what friendship means. Friendship is when you have someone to laugh with, share your toys, and play games together. It's like having a special buddy who makes every day more fun. Imagine playing with your favorite toy and having someone to join you in your adventures. That's what friends do! They make everything more exciting and joyful. Do you have a special friend you like to play with?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about sharing? Sharing is one of the best ways to make new friends. When you share, you show that you care about others and want them to be happy too. Like when you have a yummy snack, you can offer some to your friend. It makes them feel included and special. Sharing can be as simple as letting someone use your crayons or building blocks. It's a kind and friendly thing to do!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Now, let's practice something fun together. Imagine you have a big, colorful balloon. Can you pretend to share it with me? Great! You're doing a wonderful job. See how happy it makes us when we share? You can do this with your friends too. Whenever you share, it brings smiles to everyone. You're becoming such a thoughtful friend!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's talk about listening. Listening is very important in friendship because it shows you care about what your friend is saying. When your friend is telling you about their day, make sure to listen carefully. You can nod your head and ask questions to show you're interested. Listening helps you understand your friend better and makes them feel valued. It's like opening a treasure chest full of stories and ideas!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's practice listening! Imagine your friend is telling you about a fun game they played. You can listen closely and ask, 'What was your favorite part of the game?' This shows you're interested and makes your friend happy to share more. Listening is like giving your friend a big, warm hug, even if you're far apart. Can you try asking questions next time you listen?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about playing together? Playing is one of the best ways to build strong friendships. When you play, you learn to take turns and work as a team. You can build a tower together or play pretend games like superheroes. Playing helps you understand each other better and creates happy memories. It's like weaving a colorful friendship bracelet with each activity!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's play a little game together! Imagine we're in a spaceship zooming through the stars. Can you count the stars with me? One, two, three, four, five! Great job! Playing games like counting or hide and seek helps you bond with your friends. You're becoming a fantastic space explorer and a wonderful friend. Keep playing and exploring with your buddies!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, let's think about something important. How do you feel when a friend shares with you or listens to your stories? Does it make you happy? When you feel happy, it means you're experiencing the magic of friendship. Would you like to share your toys or listen to your friend's stories more often? These little actions can make your friendship grow even stronger."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue by imagining a world full of kind friends. Kindness is like a gentle breeze that makes everyone feel good. When you're kind, you use gentle words and do nice things for others. Like helping your friend when they fall or saying thank you when they share. Kindness makes friendships bloom like beautiful flowers. Can you think of a kind thing you can do for a friend today?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice being kind together. Imagine your friend is feeling sad. You can give them a big smile and say, 'It's okay, I'm here for you!' This simple act of kindness can make your friend's day so much brighter. Kindness is like a magical spell that spreads happiness everywhere. You're becoming a kindness champion, and your friends will love being around you!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Now, let's do a little kindness exercise. Can you think of three kind things you can do today? Maybe help your parents, share your toys, or say something nice to a friend. Wonderful! You're doing an amazing job. Every kind action you take adds a sparkle to your friendship. Keep it up, and you'll see how happy you and your friends will be!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember, friendship is a journey where we learn and grow together. It's like a big adventure filled with laughter and fun. Each day, you have the chance to make new friends and strengthen your bonds with old ones. By sharing, listening, playing, and being kind, you become a star friend. Your friendship journey will be full of exciting discoveries and happy moments!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this friendship adventure today! We've learned so much about being a great friend. Remember to share, listen, play, and be kind. These are the keys to a wonderful friendship. I'm so proud of you for being such an amazing friend. Until next time, keep shining like the brightest star in the sky. Goodbye, little friend! See you on our next adventure!"
+    }
+  ],
+  "title": "Mino's Friendship Story"
+}

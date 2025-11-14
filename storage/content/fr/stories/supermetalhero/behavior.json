@@ -1,0 +1,104 @@
+{
+  "id": "super metal hero_behavior_story",
+  "character": "Super Metal Hero",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Super Metal Hero, ton héros technologique préféré. Aujourd'hui, nous allons explorer un sujet passionnant : le comportement. Êtes-vous prêt pour cette aventure incroyable? Nous allons apprendre comment être respectueux et gentil, tout en s'amusant. Je suis tellement curieux de savoir comment tu te comportes chaque jour!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le comportement, c'est la façon dont nous agissons avec les autres et dans notre environnement. Par exemple, quand tu dis 's'il te plaît' et 'merci', tu montres un bon comportement. Être poli et respectueux rend les autres heureux et rend la journée plus agréable pour tout le monde. Imagine que tu partages tes jouets avec un ami, c'est aussi un excellent comportement. Maintenant que nous savons ce qu'est le comportement, continuons notre voyage!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour bien se comporter, il est important de suivre quelques règles simples. D'abord, toujours écouter les adultes qui te protègent et te guident. Ensuite, il est essentiel de ranger tes affaires après les avoir utilisées, comme tes jouets ou tes crayons. Cela montre que tu es responsable. N'oublie pas de respecter les autres, même quand tu es en colère. Maintenant, nous allons pratiquer ensemble!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super travail! Maintenant, essayons un exercice amusant. Imagine que tu es dans un parc avec des amis. Quel bon comportement pourrais-tu avoir? Peut-être que tu pourrais aider un ami à monter sur la balançoire. Ou bien, tu pourrais attendre ton tour pour descendre le toboggan. N'est-ce pas génial de voir comment de petites actions peuvent faire une grande différence? Continue comme ça!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi, le bon comportement, c'est aussi prendre soin de soi. Cela signifie manger sainement, se brosser les dents et bien dormir. Quand tu prends soin de toi, tu te sens mieux et tu es prêt pour de nouvelles aventures chaque jour. Imagine que tu te brosses les dents comme un super-héros pour garder ton sourire éclatant. Maintenant, voyons comment nous pouvons être encore plus respectueux!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Être respectueux signifie écouter quand quelqu'un parle. Par exemple, quand un ami te raconte une histoire, écoute attentivement sans interrompre. Cela montre que tu respectes ce qu'il a à dire. De plus, quand tu joues, assure-toi de partager et de ne pas crier. Cela rend l'expérience agréable pour tout le monde. Maintenant, prenons un moment pour réfléchir à comment nous pouvons être encore plus respectueux."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo! Tu apprends vite. Maintenant, réfléchissons à ce que nous avons appris. Peut-être peux-tu penser à un moment où tu as montré un bon comportement. Ce pourrait être aider tes parents à mettre la table ou dire bonjour à un voisin. Ces petites actions peuvent rendre le monde plus heureux. Continue d'être un super-héros du comportement!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dis-moi, quel est ton moment préféré où tu as montré un bon comportement? Est-ce que c'était quand tu as aidé quelqu'un ou quand tu as partagé un jouet? Je suis sûr que tu as beaucoup de moments incroyables à raconter. Partager ces histoires peut inspirer les autres à faire de même. Alors, qu'en penses-tu?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de comment gérer ses émotions. Parfois, il est normal de se sentir en colère ou triste. Ce qui est important, c'est de savoir comment les exprimer correctement. Par exemple, quand tu es en colère, tu peux prendre trois grandes respirations pour te calmer. Compter jusqu'à cinq peut aussi aider. Reste calme et explique ce que tu ressens aux adultes autour de toi."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons ensemble de prendre trois grandes respirations. Inspirez profondément par le nez... et expirez lentement par la bouche. Encore deux fois. Cela aide à calmer notre esprit et notre corps. Tu vois, c'est comme si tu étais un super-héros qui utilise ses pouvoirs pour rester calme. Pratique ce petit exercice chaque fois que tu te sens bouleversé."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastique! Tu as fait un excellent travail. Rappelle-toi que chaque jour est une nouvelle opportunité pour montrer de bons comportements. Que ce soit à la maison, à l'école ou au parc, tes actions positives font une grande différence. Continue à être un modèle pour les autres enfants. Et surtout, amuse-toi en apprenant!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu une idée de ce que tu vas essayer demain pour montrer un bon comportement? Peut-être que tu pourrais aider à préparer le dîner ou lire une histoire à un ami. Chaque nouvelle journée apporte des chances de faire des choix positifs. J'aimerais beaucoup entendre ce que tu as en tête. Quelles sont tes idées?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "En parlant de comportement, n'oublions pas l'importance de dire des mots gentils. Les mots gentils peuvent rendre quelqu'un heureux et créer une atmosphère positive. Par exemple, complimenter un ami sur son dessin ou dire merci à quelqu'un qui t'aide. Ces petites paroles ont un grand impact. Souviens-toi toujours que tes mots peuvent être aussi puissants que tes actions."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Maintenant, réfléchissons à quelques mots gentils que nous pourrions dire aujourd'hui. Peut-être 'Tu es incroyable!' ou 'Merci pour ton aide!' Ces mots peuvent égayer la journée de n'importe qui. Pratique les dire chaque jour pour devenir un vrai super-héros des mots gentils. Es-tu prêt à relever ce défi?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était une aventure formidable d'apprendre sur le comportement avec toi. N'oublie pas, chaque petit geste compte et peut faire de toi un vrai super-héros. Continue d'être respectueux, gentil et responsable. Je suis fier de toi et impatient de notre prochaine aventure ensemble. À bientôt, petit ami!"
+    }
+  ],
+  "title": "Histoire de Behavior de Super Metal Hero"
+}

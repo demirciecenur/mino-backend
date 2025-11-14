@@ -1,0 +1,104 @@
+{
+  "id": "tiko_behavior_story",
+  "character": "Tiko",
+  "topic": "behavior",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Tiko, y hoy vamos a explorar el mágico mundo del comportamiento. ¿Estás listo para una gran aventura? Vamos a aprender sobre cómo podemos ser amables y seguir las reglas. ¡Estoy tan emocionado de descubrir esto contigo! ¿Sabías que el comportamiento es como una brújula que nos guía? ¡Empecemos este divertido viaje juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "El comportamiento es algo muy importante y divertido de aprender. Es cómo mostramos a los demás que somos amigables y respetuosos. Por ejemplo, cuando compartimos nuestros juguetes, estamos mostrando buen comportamiento. También, cuando escuchamos a nuestros papás y maestros, estamos siendo muy atentos. Cada pequeña acción cuenta, como decir 'por favor' y 'gracias'. ¡Esas palabras mágicas son parte del buen comportamiento!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de seguir reglas. Las reglas son como pequeños ayudantes que nos dicen qué hacer para estar seguros y felices. En casa, una regla puede ser recoger nuestros juguetes después de jugar. En el parque, podemos esperar nuestro turno en el columpio. Las reglas nos ayudan a jugar y vivir juntos de manera armoniosa. ¿No es genial cómo las reglas nos cuidan?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Tú puedes ser un campeón del buen comportamiento! Imagina que tienes una capa de superhéroe que te ayuda a ser amable y considerado. Cada vez que sigues una regla, tu capa brilla aún más. ¿Te gustaría intentar ser un superhéroe del comportamiento hoy? ¡Sé que lo harás genial! Vamos a practicar juntos y ver cómo brillamos."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, recordemos lo que aprendimos sobre compartir. Compartir es cuidar, y hace que todos se sientan felices. ¿Recuerdas la última vez que compartiste algo con un amigo? Tal vez fue un juguete o un libro interesante. Cada vez que compartimos, hacemos que el mundo sea un lugar más amable. ¡Y eso es algo maravilloso!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar una pequeña actividad juntos. Imagina que tienes un juguete muy especial. Ahora, piensa en cómo podrías compartirlo con un amigo. ¿Qué palabras usarías para invitarlo a jugar contigo? Tal vez podrías decir, '¿Te gustaría jugar conmigo?' Practicar estas palabras nos ayuda a ser mejores amigos. ¡Inténtalo la próxima vez que juegues!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estás haciendo un trabajo increíble! Ahora, vamos a hablar sobre escuchar. Cuando escuchamos a los demás, les mostramos que nos importan. Escuchar atentamente es como darle un abrazo con nuestros oídos. ¿No es una imagen divertida? La próxima vez que alguien te hable, intenta escuchar con toda tu atención. ¡Verás cuánto puedes aprender!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas cuando hablamos de las palabras mágicas? 'Por favor' y 'gracias' son pequeñas palabras con gran poder. Cuando las usamos, hacemos que las personas se sientan felices y apreciadas. Es como si estuviéramos esparciendo polvo de estrellas por donde caminamos. La próxima vez que alguien te ayude, recuerda usar estas palabras mágicas. ¡Harás sonreír a todos!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hablemos de un pequeño misterio. ¿Por qué crees que es importante seguir las reglas? ¿Te gustaría compartir tus ideas conmigo? Tal vez pienses que las reglas nos ayudan a mantenernos seguros. O quizás creas que hacen que los juegos sean más divertidos para todos. Me encantaría saber tu opinión. ¡Eres tan inteligente!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en cómo podemos ser buenos amigos. Un buen amigo es alguien que escucha, comparte y cuida de los demás. Cuando somos buenos amigos, creamos un círculo de felicidad a nuestro alrededor. ¿Recuerdas un momento en que un amigo fue amable contigo? Tal vez te ayudó a subir al tobogán o te ofreció su merienda. ¡Ser un buen amigo es tan importante como divertido!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "¡Vamos a hacer una actividad divertida! Piensa en una cosa amable que puedas hacer por alguien hoy. Tal vez podrías ayudar a tu hermano a recoger sus juguetes o decir algo bonito a un amigo. Las acciones amables son como pequeños regalos que podemos dar cada día. ¿Qué acción amable te gustaría hacer hoy? ¡Piensa en ello y hazlo realidad!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estoy tan orgulloso de ti y de lo que estás aprendiendo! Recuerda que cada pequeño esfuerzo cuenta. Cada vez que haces algo bueno, estás construyendo un mundo mejor. ¡Eres una estrella brillante en este gran universo! Sigue practicando y verás cómo tu comportamiento hace que todos a tu alrededor se sientan felices. ¡Tú puedes lograrlo!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas nuestras palabras mágicas y las reglas que seguimos? ¡Son nuestros pequeños secretos para un gran comportamiento! Cada día es una nueva oportunidad para practicar. Imagina que cada buena acción es como plantar una semilla de felicidad. Con el tiempo, crecerá en un árbol lleno de sonrisas. ¡Qué hermoso será!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora que hemos aprendido tanto sobre comportamiento, ¿te gustaría contarme cuál es tu parte favorita? ¿Es compartir, escuchar, o usar palabras mágicas? Tal vez te guste seguir reglas porque te hace sentir seguro. Me encantaría escuchar tus pensamientos. ¡Tu opinión es muy importante para mí!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido una aventura increíble aprender sobre el comportamiento contigo. Espero que te hayas divertido tanto como yo. Recuerda, cada día es una nueva oportunidad para ser amable, compartir y seguir las reglas. ¡Eres un superhéroe del comportamiento y estoy muy orgulloso de ti! Hasta la próxima, pequeño amigo. ¡Adiós y sigue brillando!"
+    }
+  ],
+  "title": "Historia de Behavior de Tiko"
+}

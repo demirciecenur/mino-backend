@@ -1,0 +1,104 @@
+{
+  "id": "tiko_bedtime_story",
+  "character": "Tiko",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour petit ami ! Je suis Tiko et aujourd'hui, nous allons découvrir ensemble le merveilleux monde de l'heure du coucher. Tu sais, c'est un moment très spécial de la journée. C'est l'heure où l'on commence à se détendre et à se préparer pour une bonne nuit de sommeil. Es-tu prêt à explorer ce moment magique avec moi ? Je suis tellement curieux de savoir comment tu te prépares pour aller au lit !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de ce que l'on fait juste avant d'aller au lit. Tu te souviens de ce que tu fais habituellement ? Peut-être que tu te brosses les dents, ou que tu ranges tes jouets. C'est important de faire ces petites choses pour que ta chambre soit bien rangée et que tes dents soient propres. Quand tout est en ordre, on peut mieux se détendre et s'endormir paisiblement. Tu vois, l'heure du coucher, c'est comme une petite aventure chaque soir !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Laisse-moi te montrer comment on peut se préparer à dormir. D'abord, on se brosse les dents. Prends ta brosse à dents et mets un peu de dentifrice. Ensuite, fais des mouvements circulaires sur tes dents, comme si tu faisais une danse. N'oublie pas de brosser aussi la langue ! Une fois terminé, rince bien ta bouche. Voilà, tes dents sont toutes propres et prêtes pour la nuit !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Tu as fait un excellent travail en te brossant les dents. Maintenant, passons à la prochaine étape de notre routine du coucher. C'est l'heure de mettre ton pyjama préféré. Choisis celui qui te fait sentir le plus confortable et prêt à rêver. Une fois que tu l'as, enfile-le et sens comme il est doux et accueillant. Tu es maintenant prêt pour la prochaine étape de l'aventure du coucher !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tu sais, après avoir mis ton pyjama, c'est le moment de lire une histoire. As-tu un livre que tu aimes particulièrement ? Peut-être une histoire de dragons ou de princesses ? Lire une histoire avant de dormir aide à calmer l'esprit et à préparer le corps à se reposer. C'est comme entrer dans un monde magique où tout est possible. Choisissons ensemble une histoire et plongeons dans l'aventure !"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Avant de commencer l'histoire, faisons un petit exercice de relaxation. Assieds-toi confortablement sur ton lit. Maintenant, inspirons profondément par le nez, en comptant jusqu'à trois. Un, deux, trois... et expire lentement par la bouche. Faisons-le encore une fois. Inspirons... et expirons. C'est un excellent moyen de se détendre et de se préparer à écouter une belle histoire. Tu te sens déjà plus calme, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo ! Tu as réussi à te détendre avec moi. Maintenant, ouvrons notre livre d'histoires et commençons à lire. Que dirais-tu d'une histoire où un petit ours découvre la forêt pour la première fois ? Imagine tous les arbres, les fleurs, et les petits animaux qu'il rencontre. C'est comme si nous étions là avec lui, explorant et découvrant de nouvelles choses. Laisse ton imagination te guider à travers cette aventure !"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Pendant que nous lisons, pense à toutes les belles choses que tu as vues aujourd'hui. Peut-être as-tu joué avec des amis, dessiné un joli dessin, ou simplement passé du temps avec ta famille. Ces souvenirs sont comme des petits trésors que tu peux garder dans ton cœur. Ils t'aident à te sentir heureux et à faire de beaux rêves la nuit. Quels trésors as-tu découverts aujourd'hui ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Avant de fermer les yeux, pensons à trois choses pour lesquelles nous sommes reconnaissants aujourd'hui. Cela peut être n'importe quoi, comme le soleil qui a brillé, ou un câlin chaleureux de maman ou papa. Prendre un moment pour se souvenir de ces belles choses nous aide à nous endormir avec un sourire. Alors, quelles sont les trois choses qui ont rendu ta journée spéciale ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Je me demande, quel est ton moment préféré de la journée ? Est-ce le matin quand tu te réveilles et que tu es plein d'énergie ? Ou peut-être l'après-midi quand tu joues avec tes amis ? Ou encore le soir, quand tu te détends et que tu te prépares à dormir ? Chaque moment est spécial à sa manière. Alors, dis-moi, quel est ton moment préféré ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après avoir réfléchi à ces belles choses, nous sommes presque prêts à nous endormir. Tu sais, le sommeil est très important. C'est le moment où notre corps se repose et grandit. Pendant que nous dormons, nos rêves nous emmènent dans des aventures incroyables. On peut être un pirate naviguant sur les mers ou un explorateur dans la jungle. Le sommeil nous ouvre les portes d'un monde magique !"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Et toi, à quoi rêves-tu normalement ? Peut-être de voler dans le ciel comme un oiseau, ou de nager au fond de la mer comme un poisson. Les rêves sont comme des histoires que nous inventons pendant que nous dormons. Ils peuvent être drôles, excitants, ou même un peu mystérieux. C'est toujours une surprise de découvrir ce que l'on va rêver. Alors, qu'est-ce que tu aimerais rêver ce soir ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "C'est merveilleux de penser à tout ce que l'on peut rêver. Maintenant, il est temps de se blottir sous les couvertures. Ferme doucement les yeux et imagine un endroit paisible et calme. Peut-être un champ de fleurs ou une plage tranquille. Laisse ce lieu apaisant t'aider à te détendre complètement. Tu es prêt à faire de beaux rêves et à te reposer pour une nouvelle journée d'aventures demain !"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tu as fait un excellent travail en te préparant à dormir. Chaque soir, se préparer de cette façon aide à rendre le coucher agréable et paisible. N'oublie pas que tu peux toujours revenir à ces moments de détente et de bonheur. Le sommeil est un cadeau précieux qui nous aide à grandir et à être en bonne santé. Alors, repose-toi bien et rêve de toutes les merveilles qui t'attendent demain."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure du coucher avec moi, petit ami. Je suis sûr que tu vas faire de très beaux rêves cette nuit. N'oublie pas que je serai toujours là pour découvrir de nouvelles aventures avec toi. Passe une douce nuit et à bientôt pour une nouvelle histoire. Au revoir et dors bien !"
+    }
+  ],
+  "title": "Histoire de Bedtime de Tiko"
+}

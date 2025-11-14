@@ -1,0 +1,98 @@
+{
+  "id": "super_metal_hero_nutrition_alimentation_saine_habitudes_alimentaires_aliments_sains_story",
+  "character": "Super Metal Hero",
+  "topic": "nutrition, alimentation saine, habitudes alimentaires, aliments sains",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Super Metal Hero, et aujourd'hui, nous allons découvrir le monde incroyable de la nutrition. Es-tu prêt à apprendre comment devenir fort et en bonne santé ? Ensemble, nous explorerons les aliments sains et comment ils aident notre corps à grandir. Je suis impatient de commencer cette aventure avec toi. Alors, en route pour une journée pleine de découvertes !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Savais-tu que manger des aliments sains est comme donner du super carburant à ton corps ? Les fruits et les légumes sont pleins de vitamines qui te rendent fort et intelligent. Par exemple, les carottes sont bonnes pour tes yeux, et les pommes te donnent de l'énergie. Quand tu manges bien, tu peux courir plus vite et jouer plus longtemps. Alors, allons découvrir quels aliments sont les meilleurs pour toi !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Regarde autour de toi et essaie de trouver des fruits et légumes que tu aimes. Peut-être aimes-tu les bananes ou les brocolis ? Chaque couleur de fruit et légume a quelque chose de spécial à offrir. Par exemple, les fruits rouges comme les fraises sont pleins de vitamine C. C'est comme avoir un arc-en-ciel de super pouvoirs dans ton assiette. Pourquoi ne pas essayer de manger une couleur différente chaque jour ?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo ! Tu fais un excellent travail en apprenant sur les aliments sains. N'oublie pas que boire de l'eau est aussi très important pour rester hydraté. L'eau aide à garder ta peau douce et à te sentir plein d'énergie. C'est comme si elle arrosait les plantes pour qu'elles poussent. Alors, lève ton verre d'eau et dis 'santé' à ta santé !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant que nous savons ce qui est bon pour nous, parlons des habitudes alimentaires. Manger à des heures régulières aide ton corps à savoir quand il doit se préparer à recevoir de l'énergie. Comme lorsque tu te brosses les dents chaque matin et soir, manger à des heures fixes est une bonne habitude. Cela fait de toi un super-héros de la santé !"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons quelque chose d'amusant ! Comptons combien de fois par jour tu manges. Il y a le petit déjeuner, le déjeuner, le dîner, et peut-être une collation ou deux. C'est comme un emploi du temps pour ton estomac. Chaque repas est une chance de donner à ton corps ce dont il a besoin pour être en pleine forme. Tu vois, c'est facile d'être un expert en alimentation saine !"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu déjà essayé quelque chose de nouveau, comme un fruit exotique ou un légume inhabituel ? C'est amusant de découvrir de nouvelles saveurs et textures. Quel est ton aliment préféré, et pourquoi l'aimes-tu tant ? Parfois, essayer quelque chose de nouveau peut être une grande aventure. Es-tu prêt à élargir ton palais aujourd'hui ?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi, petit héros, que cuisiner en famille est une excellente façon d'apprendre sur les aliments. Tu peux aider à laver les légumes ou à mélanger les ingrédients. C'est comme être un chef avec des super pouvoirs. Quand tu cuisines toi-même, tu sais exactement ce que tu manges, et c'est toujours plus savoureux quand c'est fait avec amour."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail incroyable en apprenant à propos des aliments sains ! N'oublie pas que chaque petit changement que tu fais compte beaucoup. Choisir une pomme au lieu d'un biscuit, c'est déjà un grand pas vers une meilleure santé. Tu es en train de devenir un véritable expert en nutrition, et je suis très fier de toi !"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des portions. Manger la bonne quantité est aussi important que de manger des aliments sains. Imagine que ton assiette est divisée en trois parties : une pour les légumes, une pour les protéines, et une pour les glucides comme le riz ou le pain. C'est un moyen facile de s'assurer que tu obtiens tout ce dont ton corps a besoin. Prêt à essayer ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est ton repas préféré ? Est-ce quelque chose de salé, de sucré, ou peut-être un peu des deux ? Parfois, nous aimons manger certaines choses parce qu'elles nous rappellent de bons moments. As-tu un plat que tu aimes partager avec ta famille ? Dis-moi tout, je suis curieux d'en savoir plus !"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nous avons beaucoup appris aujourd'hui, n'est-ce pas ? Chaque choix que tu fais avec les aliments peut t'aider à devenir plus fort et en meilleure santé. Les super-héros comme toi savent que prendre soin de son corps est la clé pour être en pleine forme. Alors, continue à faire de bons choix, et tu verras combien tu te sentiras bien !"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es vraiment un champion de la nutrition maintenant ! N'oublie pas que chaque jour est une nouvelle chance de prendre soin de toi. Avec chaque repas, tu deviens un peu plus fort et plus sain. Continue ton bon travail, et n'hésite pas à partager ce que tu as appris avec tes amis. Ensemble, nous pouvons tous être des super-héros de la santé !"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, petit héros. J'espère que tu as appris beaucoup de choses sur la nutrition et les aliments sains. Souviens-toi, tu as le pouvoir de faire de bons choix pour ton corps. Je suis toujours là pour t'encourager, alors n'hésite pas à revenir pour d'autres aventures. À bientôt, et prends soin de toi !"
+    }
+  ],
+  "title": "Histoire de Nutrition de Super Metal Hero"
+}

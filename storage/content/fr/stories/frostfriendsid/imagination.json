@@ -1,0 +1,104 @@
+{
+  "id": "frost_friend_sid_imagination_story",
+  "character": "Frost Friend Sid",
+  "topic": "imagination",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Sid, votre ami givré. Aujourd'hui, nous allons explorer le monde incroyable de l'imagination. Es-tu prêt pour une aventure pleine de magie ? Je suis tellement curieux de savoir ce que tu peux imaginer. Ensemble, nous allons créer des histoires fantastiques et découvrir de nouveaux mondes. Alors, mets ton chapeau d'aventurier et partons à l'aventure !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est comme un super pouvoir que nous avons tous. Avec elle, on peut transformer n'importe quel objet en quelque chose de magique. Par exemple, un simple coussin peut devenir un bateau pirate voguant sur une mer agitée. N'est-ce pas incroyable ? On peut aussi imaginer être un héros dans un monde fantastique rempli de dragons et de trésors. Et toi, qu'aimerais-tu imaginer aujourd'hui ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour commencer à imaginer, ferme les yeux un instant, et pense à ton endroit préféré. Est-ce un château dans les nuages ou une forêt enchantée ? Imagine les couleurs, les sons et même les odeurs. Plus tu ajoutes de détails, plus ta création devient réelle dans ton esprit. Maintenant, ouvre les yeux. Vois-tu comme c'est amusant de créer un monde rien qu'à toi ?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Génial ! Tu as déjà fait un premier pas dans le monde de l'imagination. Tu sais, il n'y a pas de limites à ce que tu peux créer. Peut-être un jardin où les fleurs chantent ou un ciel où les étoiles dansent. Tout est possible avec un peu de rêve et beaucoup de créativité. Alors, continue à explorer ces idées et amuse-toi !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi, quand on imagine, on peut aussi inventer des histoires. Par exemple, une histoire où tu es un explorateur découvrant une île mystérieuse. Sur cette île, il y a des animaux qui parlent et des rivières remplies de chocolat. Que ferais-tu en premier ? L'imagination te permet de vivre des aventures incroyables sans même quitter ta maison. C'est un peu comme voyager dans un livre magique !"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Prenons un moment pour imaginer ensemble. Pense à un animal que tu aimerais rencontrer. Peut-être un éléphant volant ou un chat qui joue de la guitare. Imagine ce qu'il dirait et comment il se comporterait. Tu vois, en ajoutant des détails, ton imagination devient encore plus vive et amusante. Alors, quel animal as-tu imaginé ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "C'est fantastique ! Tu as une imagination incroyable. Continue à explorer ces idées et à les partager avec tes amis et ta famille. Plus tu pratiques, plus ton imagination grandit. Et qui sait, peut-être que tes idées deviendront des histoires que tout le monde voudra entendre. Bravo, petit créateur !"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, l'imagination peut aussi nous aider à résoudre des problèmes. Par exemple, si tu ne sais pas comment construire une tour en blocs, imagine d'abord à quoi elle pourrait ressembler. En visualisant chaque étape, tu trouves de nouvelles façons de faire. C'est un peu comme avoir une boîte à outils magique dans ta tête. Utilise-la chaque fois que tu en as besoin !"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu te souviens de notre voyage imaginaire sur l'île mystérieuse ? Qu'est-ce que tu as découvert là-bas ? Peut-être une nouvelle plante ou un trésor caché ? Chaque découverte que tu fais dans ton imagination est spéciale. Elle te permet de voir le monde d'une manière unique et merveilleuse. Alors, continue à rêver et à explorer !"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Penses-tu que l'imagination est importante ? Pourquoi ? Imagine un monde sans histoires, sans jeux créatifs. Ce serait un peu ennuyeux, non ? L'imagination ajoute des couleurs à notre vie et rend chaque jour plus excitant. Alors, qu'est-ce que tu vas imaginer demain ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est aussi un moyen de partager des moments avec les autres. Quand tu inventes une histoire, tu peux la raconter à tes amis et ensemble, vous pouvez la rendre encore plus grande. C'est comme créer un monde où tout le monde peut jouer et s'amuser. Partager ces moments rend l'imagination encore plus magique et spéciale."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "N'oublie pas, petit ami, que ton imagination est un trésor. Chaque idée, chaque rêve que tu as est précieux. Alors, garde-les près de ton cœur et continue à les nourrir. Chaque jour est une nouvelle occasion de rêver et de créer. Tu es un explorateur du monde imaginaire, et ce monde est infini !"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons un petit jeu. Ferme les yeux et imagine que tu es sur une plage ensoleillée. Le sable est chaud sous tes pieds et tu entends le bruit des vagues. Sens-tu le vent doux sur ton visage ? C'est comme être là, n'est-ce pas ? C'est la magie de l'imagination. Ouvre les yeux et dis-moi ce que tu as vu !"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Alors, qu'as-tu imaginé sur cette plage ? Peut-être des coquillages qui chantent ou des poissons qui dansent ? Chaque détail que tu ajoutes rend ton histoire plus vivante. Et n'oublie pas, tu peux toujours revenir à cette plage chaque fois que tu veux t'évader un peu. L'imagination est ton passeport pour l'aventure !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure imaginaire avec moi, petit explorateur. J'espère que tu as passé un moment merveilleux à rêver et à créer. N'oublie jamais que ton imagination est puissante et précieuse. Continue à explorer, à inventer, et surtout à t'amuser. Au revoir, et à bientôt pour de nouvelles aventures avec ton ami givré Sid !"
+    }
+  ],
+  "title": "Histoire de Imagination de Frost Friend Sid"
+}

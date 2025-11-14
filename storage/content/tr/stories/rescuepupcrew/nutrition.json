@@ -1,0 +1,104 @@
+{
+  "id": "rescue_pup_crew_nutrition_story",
+  "character": "Rescue Pup Crew",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Rescue Pup Crew. Bugün birlikte beslenme hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Beslenme vücudumuzun güçlü ve sağlıklı kalmasına yardımcı olur. Bu yüzden çok önemli. Şimdi bu eğlenceli yolculuğa başlamak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenmenin ne olduğunu hiç merak ettin mi? Beslenme, vücudumuza enerji veren yiyecekleri ve içecekleri seçme şeklimizdir. Sağlıklı beslenmek, büyümek ve oyun oynamak için ihtiyacımız olan enerjiyi sağlar. Ayrıca, sağlıklı besinler yediğimizde kendimizi daha mutlu hissederiz. Peki, sağlıklı besinler nelerdir, bir bakalım mı?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Sağlıklı besinler, sebzeler, meyveler, tam tahıllar ve protein kaynakları gibi yiyecekleri içerir. Sebzeler ve meyveler, vücudumuzun ihtiyacı olan vitamin ve mineralleri sağlar. Tam tahıllar, enerji için önemlidir ve bizi gün boyu aktif tutar. Protein kaynakları ise kaslarımızı güçlendirir. Şimdi seninle sağlıklı bir tabak oluşturmanın yollarını keşfedelim!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi birlikte bir tabak hazırlayalım. Tabaklarımızı renklendirmek için farklı renklerde sebzeler seçebiliriz. Havuç, domates ve brokoli gibi. Meyveler de çok önemli, elma ve muz gibi meyveler tatlı bir tat katar. Unutma, her gün farklı besinleri denemek sağlıklı büyümemize yardımcı olur. Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda sağlıklı bir tabak hazırlamıştık. Şimdi, içecekler hakkında konuşalım. Su, vücudumuz için en iyi içecektir. Gün boyunca bol su içmek, vücudumuzu nemli tutar ve sağlıklı kalmamıza yardımcı olur. Meyve suyu içmek de lezzetlidir ama şeker içerebilir, bu yüzden dikkatli olmalıyız. Su içmenin neden önemli olduğunu biliyor musun?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Su içmenin neden önemli olduğunu biliyor musun? Su, vücudumuzun en önemli ihtiyaçlarından biridir. Vücudumuzun büyük bir kısmı sudan oluşur. Su içmek, organlarımızın doğru çalışmasını sağlar ve bizi enerjik tutar. Sen günde kaç bardak su içiyorsun?"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnede suyun öneminden bahsettik. Şimdi, sağlıklı atıştırmalıkları keşfedelim. Atıştırmalıklar, öğünler arasında açlığımızı bastırmak için harikadır. Ancak, sağlıklı atıştırmalıklar seçmek önemlidir. Fındık, yoğurt veya meyve gibi atıştırmalıklar hem lezzetli hem de besleyicidir. Sen hangi atıştırmalıkları seviyorsun?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Atıştırmalık seçerken dikkatli olmalıyız. Çikolata veya cips gibi abur cuburlar lezzetli olabilir ama fazla tüketilmesi iyi değildir. Bunun yerine, fındık ve meyve gibi doğal atıştırmalıklar tercih edebiliriz. Bu şekilde daha enerjik ve mutlu oluruz. Unutma, sağlıklı seçimler yapmak her zaman en iyisidir!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda sağlıklı atıştırmalıklardan bahsettik. Şimdi, yemeklerin düzeni hakkında konuşalım. Kahvaltı, günün en önemli öğünüdür. Bize gün boyu enerji verir ve okulda daha iyi odaklanmamıza yardımcı olur. Öğle ve akşam yemeklerinde ise dengeli beslenmek çok önemlidir. Her öğünde sebze, protein ve tahıl olmasına dikkat edelim. Sen kahvaltıda neler yiyorsun?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika, şimdi birlikte bir kahvaltı tabağı hazırlayalım. Yulaf ezmesi veya tam tahıllı ekmek, harika bir başlangıç yapmamıza yardımcı olur. Yanında süt veya yoğurt da ekleyebiliriz. Meyve dilimleri ise tatlı bir tat katar. Unutma, kahvaltı yaparken acele etmemek ve keyif almak önemlidir. Sen de sabahları böyle güzel bir kahvaltı yapar mısın?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kahvaltının önemini anladık, değil mi? Peki, öğle ve akşam yemeklerinde nelere dikkat etmeliyiz? Her öğünde farklı renklerde sebzeler ve protein kaynakları bulundurmak önemlidir. Ayrıca, yemek yerken yavaş ve dikkatli olmalıyız. Senin en sevdiğin akşam yemeği nedir?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Öğle ve akşam yemekleri hakkında konuştuk. Şimdi, tatlılar hakkında konuşalım. Tatlılar çok lezzetli olabilir ama her zaman dikkatli tüketmeliyiz. Fazla şeker tüketmek sağlığımız için iyi değildir. Bunun yerine, meyve salatası veya yoğurt gibi daha sağlıklı tatlılar seçebiliriz. Sen hangi tatlıları tercih edersin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Tatlı tüketirken, şeker oranına dikkat etmeliyiz. Çok fazla şeker yemek, dişlerimize ve sağlığımıza zarar verebilir. Bunun yerine, tatlı krizlerini meyve veya yoğurtla giderebiliriz. Bu, hem tatlı ihtiyacımızı karşılar hem de sağlığımızı korur. Unutma, sağlıklı seçimler yapmak her zaman en iyisidir!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tatlılar hakkında konuştuktan sonra, son olarak sağlıklı yaşam tarzını nasıl sürdürebileceğimizi düşünelim. Yeterli uyku almak, düzenli egzersiz yapmak ve doğru beslenmek, sağlıklı bir yaşam tarzının anahtarıdır. Her gün biraz hareket etmek, oyun oynamak veya yürüyüş yapmak bizi güçlü ve mutlu tutar. Sen de her gün hareket etmeye çalışıyor musun?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün seninle birlikte beslenme hakkında çok şey öğrendik. Sağlıklı beslenme, güçlü ve mutlu kalmamıza yardımcı olur. Unutma, her gün doğru seçimler yapmak sağlığımız için çok önemlidir. Seninle bu yolculuğa çıkmak çok keyifliydi. Bir dahaki sefere görüşmek üzere, hoşçakal!"
+    }
+  ],
+  "title": "Rescue Pup Crew'ın Nutrition Hikayesi"
+}

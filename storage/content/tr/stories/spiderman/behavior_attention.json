@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_behavior_attention_story",
+  "character": "Spider Fighter",
+  "topic": "behavior_attention",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Spider Fighter. Bugün birlikte dikkat toplama ve öz-düzenleme hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. İnan bana, bu macera çok eğlenceli olacak! Şimdi başlamak için sabırsızlanıyorum."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dikkat toplamak bazen zor olabilir, değil mi? Ama endişelenme, çünkü bunu başarmak için harika yollar var. Mesela, sessiz bir köşede oturup derin nefesler almak çok işe yarar. Nefes alıp verirken, aklını sakinleştirir ve odaklanmanı sağlar. Böylece çevrendeki oyunları ve arkadaşlarını daha iyi fark edebilirsin."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte bir nefes egzersizi yapalım. Derin bir nefes al ve yavaşça bırak. Bir, iki, üç, dört ve beşe kadar sayarken nefesini tut. Sonra yavaşça nefes ver. Bu, sakinleşmene ve dikkatini toplamana yardımcı olur. Haydi, bir kez daha deneyelim!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Şimdi kendini çok daha iyi hissediyorsun, değil mi? Seninle gurur duyuyorum. Unutma, bu nefes egzersizini istediğin zaman yapabilirsin. Bu sayede zorluklarla çok daha kolay baş edebilirsin."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda dikkat toplamanın ne kadar önemli olduğundan bahsetmiştik. Şimdi, öz-düzenleme hakkında konuşalım. Öz-düzenleme, duygularını ve davranışlarını kontrol edebilme yeteneğidir. Diyelim ki çok kızgınsın; bu durumda derin nefes almak ve sakinleşmek çok işe yarar."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Sakinleşmek için başka bir yöntem de oyuncaklarını düzenlemektir. Oyuncaklarını toplarken, hem zihnin hem de çevren düzenlenir. Bu hem eğlenceli hem de faydalıdır. Oyuncaklarını renklerine göre ya da boyutlarına göre sıralayabilirsin. Bu, senin için hem bir oyun hem de bir düzenleme alıştırması olur."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Mükemmel! Oyuncaklarını düzenlemek harika bir başlangıç. Bu, hem dikkatini toplamana hem de öz-düzenleme yeteneğini geliştirmen için harika bir yoldur. Böylece, her şey çok daha kolay hale gelir. Harika bir iş çıkarıyorsun!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, basit rutinlerin öneminden bahsedelim. Rutinler, her gün tekrarladığımız alışkanlıklardır. Mesela, her sabah dişlerini fırçalamak ya da yatmadan önce kitap okumak gibi. Bu rutinler, günümüzü planlamamıza ve daha düzenli olmamıza yardımcı olur. Senin de böyle rutinlerin var mı?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hadi birlikte düşünelim, sabahları ne tür rutinler yapıyorsun? Mesela, kahvaltıdan önce ellerini yıkamak ya da ayakkabılarını bağlamak gibi. Bu rutinler, hem sağlıklı hem de dikkatli olmamıza yardımcı olur. Sen de kendi rutinlerini oluşturmak ister misin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rutin oluşturmak, her gün ne yapacağını bilmek demektir. Bu, hem zamanını iyi kullanmanı sağlar hem de kendini güvende hissettirir. Mesela, her akşam aynı saatte uyumak, sabahları daha enerjik uyanmanı sağlar. Böylece, dikkatini daha iyi toplayabilirsin."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, bir rutin oluşturmak için bir plan yapalım. Sabahları uyanınca ilk ne yapacaksın? Belki yüzünü yıkamak ya da yatağını toplamak. Sonra kahvaltı yapabilir ve dişlerini fırçalayabilirsin. Bu basit adımlar, gününü daha iyi planlamana yardımcı olur."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir plan yaptık! Şimdi bu planları uygulamaya koyabilirsin. Unutma, her gün küçük adımlar atmak büyük değişiklikler yaratır. Seninle gurur duyuyorum! Bu yolculukta çok yol kat ettik ve sen harika işler başardın."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda rutinlerin öneminden bahsetmiştik. Şimdi, davranış yönetiminden konuşalım. Bazen sabırsız ya da üzgün hissettiğimizde davranışlarımızı kontrol etmek zor olabilir. Ama unutma, bu duyguların üstesinden gelmek için her zaman bir yol vardır."
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Davranışlarını yönetmek için bir oyun oynayalım. Eğer üzgün hissediyorsan, bir kağıda resim çiz. Bu seni hem rahatlatır hem de duygularını ifade etmeni sağlar. Ya da bir şarkı söyleyebilirsin; bu da seni mutlu edebilir. Bu yöntemler, duygularını kontrol etmene yardımcı olur."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir macera yaşadık! Dikkat toplama, öz-düzenleme ve rutin oluşturma konularında çok şey öğrendik. Seninle bu yolculuğa çıkmak çok keyifliydi. Unutma, her zaman güçlü ve cesur olabilirsin. Bir sonraki maceramızda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Spiderman'ın Davranış ve Dikkat Hikayesi"
+}

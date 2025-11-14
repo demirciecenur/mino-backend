@@ -1,0 +1,104 @@
+{
+  "id": "ocean_dreamer_moa_behavior_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Ocean Dreamer Moa. Today, we're going on an amazing journey to learn about good behavior. Are you ready to explore with me? We'll discover how following rules can be fun and helpful. I'm so curious to see what we can learn together. Let's dive in and find out how we can be the best we can be!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about what behavior means. Behavior is how we act and treat others around us. It's like choosing to be kind, sharing our toys, or listening to our parents. When we follow rules, it helps everyone feel happy and safe. Can you think of a time when you shared or listened well? It's like being a little hero in our own story!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about sharing? Sharing is caring, and it shows we respect others. For example, when playing with friends, we can take turns with toys. This way, everyone gets a chance to have fun. It's important to listen, too, like when someone is speaking, we let them finish. These little actions make a big difference in making our world a better place."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about sharing and listening! Now let's practice a fun activity together. Can you think of a time when you waited patiently? Maybe it was waiting for your turn on the slide or for dinner to be ready. It's not always easy, but it shows how strong and patient you can be. Let's count to five together to practice waiting: one, two, three, four, five. Wonderful!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's think about kindness. Being kind means using gentle words and actions. For instance, saying 'please' and 'thank you' makes others feel appreciated. When someone is feeling sad, a kind word or a smile can cheer them up. Have you ever given someone a hug to make them feel better? Kindness is like a magic spell that makes everyone feel good!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn about another important behavior: helping. Helping means doing something nice for someone else. Like picking up toys after playtime or helping a friend who fell down. It shows we care and want to make things better. Even small actions, like holding the door, can be a big help. Helping makes our hearts feel warm and happy."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a great job learning about helping! Now, let's imagine we're in a classroom. The teacher asks us to clean up after art time. Working together, we can quickly tidy up. Let's pretend to pick up crayons and put them in a box. Can you see how teamwork makes everything easier? You can do it, and it's so much fun!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about listening. Listening is super important, like when our parents give us instructions. It helps us know what to do and keeps us safe. Maybe it's crossing the street or when to go to bed. When we listen, we learn new things and show respect. Do you remember a time when you listened carefully and learned something cool?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "I have a question for you! What do you think makes a good friend? Is it someone who shares, listens, and is kind? Maybe it's someone who cheers you up when you're sad. Think about your friends and what makes them special. Can you be that kind of friend too? I'm excited to hear your thoughts!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's remember to use our manners every day. Saying 'thank you' shows gratitude, and 'excuse me' is polite when we need to pass by. These words are like magic keys that open doors to kindness. Practice using them with your family and friends. It makes everyone feel respected and happy. Let's try saying 'please' together: please!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's explore how to solve problems. Sometimes we might disagree with friends or family. It's okay! We can use our words to talk about how we feel. Maybe we can find a solution that makes everyone happy. Like deciding to play a game everyone likes. Problem-solving is like finding a treasure map that leads to happiness!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing amazing with problem-solving! Let's pretend we're pirates looking for treasure. If we disagree on which way to go, we can talk and decide together. It's like being a team of explorers finding the best path. You can solve problems, and it's such an adventure! Keep up the great work, little adventurer!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "It's important to remember that everyone makes mistakes. When we do, we can say 'I'm sorry' and try to make it better. Apologizing shows we care about others' feelings, like when we accidentally knock over a friend's blocks. We can help rebuild them and say sorry. It makes everything better and keeps friendships strong."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember, being honest is also a part of good behavior. Telling the truth helps people trust us. Like if we spill milk, we can tell an adult and clean it up. It shows we're responsible and brave. Have you ever told the truth and felt proud? It's like being a hero with a big heart!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this adventure about behavior! We've learned so much about sharing, listening, and being kind. Remember, you're a star when you follow these wonderful behaviors. I'm so proud of you for exploring with me today. Keep shining bright and making the world a happier place. Goodbye, little adventurer, until our next journey!"
+    }
+  ],
+  "title": "Ocean Dreamer Moa's Behavior Story"
+}

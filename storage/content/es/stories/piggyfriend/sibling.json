@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_sibling_story",
+  "character": "Piggy Friend",
+  "topic": "sibling",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy tu amigo Piggy. Hoy vamos a hablar sobre algo muy especial: ¡los hermanos! ¿Tienes un hermano o hermana? Estoy muy emocionado de compartir contigo todas las cosas divertidas que podemos hacer con nuestros hermanos. ¡Vamos a comenzar esta aventura juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Los hermanos son como nuestros primeros amigos. Con ellos podemos jugar, reír y aprender muchas cosas. ¿Sabías que compartir es una de las cosas más bonitas que podemos hacer con nuestros hermanos? Por ejemplo, podemos compartir nuestros juguetes o incluso un delicioso bocadillo. Compartir nos hace sentir felices y nos une más."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, pensemos en un juego que te guste mucho. ¿Podrías jugarlo con tu hermano o hermana? Tal vez sea un juego de pelota o un juego de mesa. Es divertido jugar juntos porque podemos ayudarnos y aprender nuevas maneras de divertirnos. Además, cuando jugamos juntos, creamos recuerdos felices que durarán para siempre."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué maravilloso es tener un hermano! A veces, podemos tener pequeñas discusiones, pero eso es normal. Lo importante es recordar que siempre podemos pedir perdón y hacer las paces. Decir 'lo siento' es una manera de mostrar cuánto nos importa nuestro hermano o hermana. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos cuando compartimos un juguete. ¿Cómo te sentiste al hacerlo? Compartir puede ser difícil a veces, pero nos enseña a ser generosos. La próxima vez que juegues con tu hermano, intenta compartir un juguete especial. Verás cómo ambos se divierten mucho más y se sienten felices."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez has ayudado a tu hermano en algo? Tal vez le ayudaste a recoger sus juguetes o le enseñaste algo nuevo. Ayudar a nuestros hermanos es una manera de mostrarles cuánto los queremos. ¿Cómo te sientes cuando ayudas a alguien? Seguro que te hace sentir bien, ¿verdad?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos lo importante que es ayudar, pensemos en otras maneras de hacerlo. Podrías ayudar a tu hermano a vestirse o a preparar un bocadillo. Al hacer estas pequeñas acciones, fortalecemos nuestro vínculo. Además, a veces, nuestros hermanos pueden sorprendernos ayudándonos a nosotros también."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a contar hasta cinco juntos para recordar que siempre podemos empezar de nuevo! Uno, dos, tres, cuatro, cinco. ¡Genial! Contar juntos nos ayuda a calmarnos y a pensar en cosas positivas. Puedes hacerlo cada vez que sientas que necesitas un momento de tranquilidad."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en algo divertido que podrías hacer con tu hermano. ¿Te gusta dibujar? Puedes hacer un dibujo para él. Dibujar juntos es una actividad divertida y creativa. Al final, pueden intercambiar sus dibujos y ponerlos en la pared para recordar lo bien que lo pasaron juntos."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos sobre la importancia de escuchar. Cuando tu hermano quiere decirte algo, es bueno prestarle atención. Escuchar con atención nos ayuda a entender cómo se siente y qué piensa. La próxima vez que tu hermano hable, intenta mirarlo a los ojos y escuchar con atención. ¡Verás que se sentirá muy feliz!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, nuestros hermanos pueden sentirse tristes o enojados. En esos momentos, podemos ofrecerles un abrazo o decirles algo bonito. Un abrazo es una forma maravillosa de mostrar amor y apoyo. ¿Qué otras formas conoces para hacer sentir mejor a tu hermano? Tal vez contarle un chiste o hacerle una pequeña sorpresa."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas cuando hablamos sobre compartir? ¿Qué tal si compartimos una canción? Cantar juntos es una actividad que nos hace sentir unidos. Puedes elegir una canción que les guste a ambos y cantarla a todo pulmón. Cantar juntos es divertido y nos llena de alegría."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Cuando llega la hora de dormir, es importante desearle buenas noches a nuestro hermano. Decir 'buenas noches' es una manera de mostrar cariño antes de irnos a dormir. También podemos leer un cuento juntos antes de dormir. Esto nos ayuda a relajarnos y tener sueños bonitos."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Has pensado en qué te gustaría hacer mañana con tu hermano? Tal vez puedan salir a jugar al parque o construir algo con bloques. Planear actividades juntos es emocionante y nos da algo que esperar con ilusión. ¿Qué idea tienes para mañana?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "¡Ha sido un día estupendo hablando sobre nuestros hermanos! Espero que hayas aprendido mucho y estés listo para pasar un buen rato con tu hermano. Recuerda que los hermanos son un regalo especial y siempre podemos contar con ellos. ¡Gracias por acompañarme hoy! Nos vemos pronto para más aventuras. ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Sibling de Piggy Friend"
+}

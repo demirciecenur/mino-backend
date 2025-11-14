@@ -1,0 +1,98 @@
+{
+  "id": "yellow_buddy_bedtime_story",
+  "character": "Yellow Buddy",
+  "topic": "bedtime",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Yellow Buddy, bu akşam seninle uykuya hazırlık yolculuğuna çıkacağım. Bu yolculukta neler yapmamız gerektiğini birlikte keşfedeceğiz. Hazır mısın? Seni çok merak ediyorum ve birlikte eğlenceli bir zaman geçireceğiz. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku zamanı gelmeden önce yapmamız gereken bazı şeyler var. İlk olarak, oyuncaklarımızı toplamak bizleri daha rahat hissettirir. Odayı toplu ve düzenli görmek her zaman daha güzeldir, değil mi? Bu, sabah uyandığımızda bizi mutlu eder. Şimdi birlikte oyuncaklarımızı toplamak nasıl olur bir düşünelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Oyuncaklarımızı topladıktan sonra, dişlerimizi fırçalamamız gerekiyor. Bu, dişlerimizin sağlıklı ve temiz kalmasını sağlar. Ayrıca, bu güzel bir alışkanlık kazanmanın en iyi yoludur. Diş fırçalamak, tıpkı bir oyunu kazanmak gibi önemlidir. Sen de her gece dişlerini fırçalamayı unutmamalısın."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika işler yapıyorsun! Şimdi birlikte derin nefesler alalım. Üç derin nefes almak, bizi sakinleştirir ve uykuya hazırlar. Hadi, bir nefes al, ver... Bir daha al, ver... Son kez al, ver... Çok güzel! Bu, uyumadan önce rahatlamamıza yardımcı olur."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda nefes almayı denemiştik. Şimdi, yatmadan önce pijamalarımızı giymek iyi bir fikirdir. Pijamalarımızı giymek, bedenimize uyku zamanının geldiğini hatırlatır. Renkli ve yumuşak pijamalar giymek her zaman keyiflidir, değil mi? Senin en sevdiğin pijaman hangisi?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Pijamalarımızı giydik mi? Harika! Şimdi, bir masal zamanı. Masallar, hayal gücümüzü genişletir ve bizi farklı dünyalara götürür. Sen hangi masalı dinlemek istersin? Masal dinlemek uykuya dalmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Masalımızı seçtikten sonra, yatağımıza uzanmak ve gözlerimizi kapatmak iyi olur. Sıcak bir battaniyenin altında olmak çok rahatlatıcıdır. Yavaşça gözlerini kapat ve masala odaklan. Bu, uykuya dalmanı kolaylaştırır. Şimdi birlikte hayal edelim."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin en sevdiğin uyku öncesi masal hangisi? Belki bir prenses ya da cesur bir şövalye hakkında olabilir. Ya da belki bir uzay macerası? Merak ediyorum, bana anlatır mısın?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda masalların öneminden bahsetmiştik. Şimdi, uykuya dalmadan önce neler yapabileceğimizi düşünelim. Hafif bir müzik dinlemek iyi bir fikir olabilir. Bu, bizi daha da rahatlatır ve uyumamıza yardımcı olur. Sen en çok hangi müziği seversin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Uykuya dalmak için yaptıklarımız gerçekten harika! Şimdi, uykuya hazırlanırken, bir de yıldızları hayal edelim. Gökyüzünde parlayan yıldızlar, bizi huzurlu hissettirir. Onları saymak da çok eğlencelidir! Bir, iki, üç... Sen de benimle saymak ister misin?"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Yıldızları saydıktan sonra, artık uykuya dalmaya hazırız. Bir önceki konuşmamızda nasıl rahatlayabileceğimizi öğrenmiştik. Şimdi, hayal gücümüzü kullanarak güzel rüyalar görebiliriz. Rüyalarda neler yapmayı sevdiğini bana anlatır mısın? Belki bir deniz macerası ya da ormanda bir yolculuk?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Rüyalarımızda gezinti yaparken, uykuya dalmanın ne kadar önemli olduğunu hatırlayalım. Uyku, gün boyunca öğrendiklerimizi pekiştirir ve bizi yeni güne hazırlar. Her gece yeterince uyumak, sağlıklı ve mutlu olmamızı sağlar. Sen de her gece güzel rüyalar görmeyi hak ediyorsun."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sabah uyandığında en çok ne yapmayı seversin? Belki kahvaltı etmek ya da oyun oynamak. Ya da belki yeni bir güne başlamanın heyecanı seni mutlu ediyordur. Anlat, seni dinliyorum!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ve işte, harika bir uyku öncesi maceramızın sonuna geldik. Umarım seninle birlikte geçirdiğimiz bu zaman seni mutlu etmiştir. Her gece uyumadan önce bu adımları hatırlarsan, daha huzurlu uyuyabilirsin. Şimdi, tatlı rüyalar gör ve sabah güzel bir güne uyan. İyi geceler, küçük dostum!"
+    }
+  ],
+  "title": "Yellow Buddy'ın Bedtime Hikayesi"
+}

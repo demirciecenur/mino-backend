@@ -1,0 +1,98 @@
+{
+  "id": "shell_heroes_crew_friendship_story",
+  "character": "Shell Heroes Crew",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Nous sommes les Shell Heroes Crew et aujourd'hui, nous allons explorer l'incroyable monde de l'amitié. Êtes-vous prêt pour cette aventure ? L'amitié, c'est comme un trésor, et ensemble, nous allons découvrir comment la construire et la chérir. Imaginez jouer avec vos amis et partager des rires. C'est si amusant, n'est-ce pas ? Allons-y !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié commence souvent par un simple bonjour. Quand tu dis bonjour à quelqu'un avec un grand sourire, tu ouvres la porte à une nouvelle aventure. C'est comme planter une graine qui peut devenir une belle fleur. As-tu déjà dit bonjour à quelqu'un de nouveau aujourd'hui ? C'est un petit geste qui peut faire une grande différence."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour être un bon ami, il faut aussi savoir écouter. Quand ton ami parle, tu peux montrer que tu écoutes en le regardant dans les yeux et en hochant la tête. C'est comme être un super détective qui découvre des indices dans les mots. Peux-tu essayer de le faire la prochaine fois que tu parles avec quelqu'un ? Cela montre que tu te soucies de ce qu'il dit."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail formidable en apprenant à être de bons amis ! Maintenant, jouons à un petit jeu. Imagine que tu es un héros qui aide ses amis. Comment pourrais-tu aider un ami à se sentir mieux s'il est triste ? Peut-être en partageant un jouet ou en lui racontant une histoire drôle. C'est merveilleux de rendre quelqu'un heureux !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de dire bonjour ? Eh bien, une fois que vous avez commencé une conversation, vous pouvez poser des questions. Demandez à votre ami quel est son jouet préféré ou ce qu'il aime faire. Cela montre que vous vous intéressez à lui et que vous voulez en savoir plus. C'est une belle façon de renforcer votre amitié."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Et si votre ami aime quelque chose que vous n'aimez pas ? C'est une occasion parfaite d'apprendre quelque chose de nouveau. Peut-être qu'ils aiment un jeu que vous ne connaissez pas encore. Seriez-vous prêt à essayer ce jeu avec eux ? C'est ainsi que vous pouvez grandir ensemble et vous amuser encore plus."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Les amis partagent et prennent soin les uns des autres. Si vous avez deux biscuits et que votre ami n'en a pas, vous pouvez en donner un. C'est un geste simple mais très spécial. Partager, c'est aussi être généreux avec son temps et son attention. Peux-tu penser à quelque chose que tu pourrais partager aujourd'hui ?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites des progrès incroyables en apprenant à être de bons amis ! N'oubliez pas que les amis rient beaucoup ensemble. Le rire est comme une colle magique qui rapproche les gens. Avez-vous une blague ou une histoire drôle à partager ? Essayez-la et voyez comment elle peut illuminer la journée de quelqu'un !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant que nous savons comment être de bons amis, réfléchissons à la façon dont nous pouvons garder ces amitiés fortes. Parfois, il suffit de dire merci ou de donner un câlin. Ces petits gestes montrent à vos amis qu'ils comptent pour vous. Avez-vous remercié un ami aujourd'hui ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Pensez à un moment où vous vous êtes senti très heureux avec un ami. Qu'est-ce qui a rendu ce moment si spécial ? Était-ce le jeu auquel vous jouiez ou les rires que vous partagiez ? Ces souvenirs sont précieux et nous rappellent l'importance de l'amitié. Quels souvenirs aimeriez-vous créer aujourd'hui ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Créer des souvenirs ensemble renforce les liens d'amitié. Que diriez-vous de planifier une activité amusante avec vos amis ? Peut-être une chasse au trésor ou un pique-nique imaginaire. Ces moments de jeu et de rire sont les pierres angulaires d'une grande amitié. Qu'allez-vous faire pour vous amuser aujourd'hui ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Et si vous avez un désaccord avec un ami ? Cela arrive parfois, et c'est normal. La clé est de parler calmement et de trouver une solution ensemble. C'est comme assembler un puzzle où chaque pièce trouve sa place. Êtes-vous prêt à essayer de résoudre un problème avec un ami ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, réfléchissons à tout ce que nous avons appris sur l'amitié. Dire bonjour, écouter, partager, rire et résoudre des problèmes ensemble. Chaque petit geste contribue à créer une amitié forte et joyeuse. C'est comme construire un château de sable, une poignée de sable à la fois. Vous êtes déjà un ami formidable !"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé du temps avec nous aujourd'hui, petit ami ! Nous sommes les Shell Heroes Crew et nous sommes fiers de toi. Continue à être un super ami et à répandre la joie autour de toi. Nous espérons te revoir bientôt pour une nouvelle aventure. À bientôt, et n'oublie pas : l'amitié est un trésor précieux !"
+    }
+  ],
+  "title": "Histoire de Friendship de Shell Heroes Crew"
+}

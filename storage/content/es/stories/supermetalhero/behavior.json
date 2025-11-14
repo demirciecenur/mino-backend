@@ -1,0 +1,104 @@
+{
+  "id": "super_metal_hero_behavior_story",
+  "character": "Super Metal Hero",
+  "topic": "behavior",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Super Metal Hero, y hoy vamos a embarcarnos en un increíble viaje sobre el comportamiento. ¿Estás listo para aprender y divertirte? Estoy muy emocionado de conocer todas las cosas asombrosas que puedes hacer. Vamos a descubrir juntos cómo tener un comportamiento fantástico. ¡Será una aventura llena de diversión y aprendizaje!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos listos, hablemos sobre lo que significa tener un buen comportamiento. Tener buen comportamiento es cuando hacemos cosas que son amables y ayudan a los demás. Por ejemplo, cuando compartes tus juguetes con un amigo, eso es un gran comportamiento. También significa escuchar a tus padres o maestros cuando te piden algo. Recuerda, ser amable y respetuoso hace que todos se sientan felices."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a aprender cómo podemos mejorar nuestro comportamiento día a día. Primero, es importante seguir las reglas, como lavarse las manos antes de comer. ¿Por qué? Porque las reglas nos ayudan a mantenernos seguros y saludables. También podemos practicar diciendo 'por favor' y 'gracias', lo que muestra respeto a los demás. ¿Te gustaría intentar practicarlo conmigo?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora vamos a practicar juntos. Imagina que estás en el parque y ves a un niño que quiere jugar con tu pelota. Puedes decirle: 'Claro, juguemos juntos'. Esto demuestra que eres amable y compartes. Cada vez que compartes, ayudas a crear una amistad. ¿No es eso maravilloso? ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablamos sobre escuchar a los adultos. Es muy importante prestar atención cuando alguien nos habla. Cuando escuchamos, aprendemos cosas nuevas y mostramos que nos importa lo que dicen los demás. Por ejemplo, si mamá te dice que es hora de cenar, es bueno dejar de jugar y lavar tus manos. Así, todos pueden disfrutar de una comida juntos. ¡Buen trabajo!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora hablemos sobre cómo manejar nuestros sentimientos. A veces, podemos sentirnos enojados o tristes, y eso está bien. Pero es importante encontrar maneras de calmarse. Podemos respirar profundamente tres veces. Vamos a intentarlo juntos. Inhala... exhala. Otra vez. Esto nos ayuda a sentirnos más tranquilos y pensar mejor. ¡Inténtalo siempre que lo necesites!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Practicar la calma es una habilidad muy poderosa. Cuando te sientes más tranquilo, es más fácil tomar buenas decisiones. Como cuando estás jugando y alguien te molesta, en lugar de enojarte, puedes respirar y hablar con ellos sobre cómo te sientes. Esto ayuda a resolver problemas de una manera pacífica. ¡Eres todo un héroe del comportamiento!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos cómo calmarnos, hablemos sobre ser responsables. Ser responsable significa cuidar de tus cosas y hacer lo que prometes. Por ejemplo, si prometes recoger tus juguetes después de jugar, asegúrate de hacerlo. Esto muestra que eres confiable y que los demás pueden contar contigo. Ser responsable es una gran parte de tener buen comportamiento."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te has preguntado por qué es tan importante seguir las reglas? Las reglas nos ayudan a mantenernos seguros y felices. Por ejemplo, la regla de no correr en la calle es para evitar accidentes. ¿Puedes pensar en alguna regla que sigues en casa o en la escuela? Las reglas son como superpoderes que nos guían a ser mejores cada día."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Volvamos a hablar sobre ser amables. Ser amable es una forma de mostrar respeto y cuidado por los demás. Esto puede ser tan simple como sonreír a un amigo o ayudar a alguien que lo necesita. Cuando somos amables, hacemos del mundo un lugar mejor. ¿Recuerdas la última vez que fuiste amable con alguien? ¡Eso es algo para estar orgulloso!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, practiquemos una pequeña actividad para recordar ser amables. Piensa en una cosa amable que puedas hacer hoy. Puede ser ayudar a mamá a poner la mesa o darle un abrazo a un amigo. ¿Ya lo pensaste? Cada pequeño acto de amabilidad cuenta y hace una gran diferencia. ¡Vamos a intentarlo!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres increíble! Cada vez que haces algo amable, estás usando tus superpoderes para el bien. Al igual que yo, Super Metal Hero, usas tus habilidades para ayudar a los demás. Sigue practicando la amabilidad todos los días, y verás cuántas sonrisas puedes crear. ¡Sigue así, pequeño héroe!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Finalmente, hablemos sobre la importancia de pedir perdón cuando cometemos un error. Todos cometemos errores, y eso está bien. Lo importante es reconocerlos y pedir disculpas si hemos lastimado a alguien. Decir 'lo siento' es una forma de mostrar que nos importa cómo se sienten los demás. ¿Alguna vez has tenido que pedir perdón? ¡Es una parte importante del buen comportamiento!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Recuerda que cada día es una nueva oportunidad para mejorar nuestro comportamiento. Podemos practicar ser amables, responsables y respetuosos. Si alguna vez te sientes confundido, recuerda respirar profundamente y pensar en lo que hemos aprendido hoy. ¿Estás listo para usar tus superpoderes de buen comportamiento todos los días? ¡Sé que puedes hacerlo!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "¡Ha sido un placer aprender contigo hoy! Estoy muy orgulloso de todo lo que has aprendido sobre el comportamiento. Recuerda, cada pequeño esfuerzo cuenta y hace una gran diferencia. Sigue usando tus superpoderes para ser amable y responsable. ¡Hasta la próxima, pequeño héroe! ¡Nos vemos pronto!"
+    }
+  ],
+  "title": "Historia de Behavior de Super Metal Hero"
+}

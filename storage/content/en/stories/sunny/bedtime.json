@@ -1,0 +1,104 @@
+{
+  "id": "sunny_bedtime_story",
+  "title": "Sunny's Bedtime Story",
+  "character": "Sunny",
+  "topic": "bedtime",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friend! I'm Sunny, and I'm so excited to spend this special bedtime with you. Today, we're going to learn all about how to get ready for a cozy, dreamy sleep. Are you ready to join me on this wonderful journey? I promise it'll be fun, relaxing, and full of smiles. Let’s make sure you have the sweetest dreams tonight!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about why bedtime is so important. It's the time when our bodies rest and recharge after a busy day. Just like our favorite toys need a break, so do we! When we sleep, our minds can dream up amazing adventures. So, getting ready for bed helps us feel happy and energetic the next day. Isn’t that wonderful?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "One of the first things we can do is create a bedtime routine. A routine is like a little plan we follow every night. It can include brushing our teeth to keep them shiny and clean. Then, we can put on our cozy pajamas that feel like a warm hug. Having a routine helps us know that bedtime is near and makes us feel safe and snug. Let’s start thinking about your routine!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking about your routine! Now, let’s add some fun to it. How about we read a story together? Stories take us to magical places where anything can happen. Or maybe we can sing a gentle lullaby that makes us feel calm. You can even ask a grown-up to tell you about their day. These activities help us relax and feel ready for sleep."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about brushing our teeth? It's one of the most important things to do before bedtime. It keeps our teeth healthy and strong, just like a superhero. After brushing, we can wash our face and hands, making sure we're fresh and clean. Doesn’t it feel nice to be all ready for bed? Now let’s move on to something else!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about calming our bodies. Sometimes, we have lots of energy from playing all day. We can calm down by taking three deep breaths together. Ready? Breathe in like you're smelling a beautiful flower, and breathe out slowly like you're blowing out a candle. Wonderful! Deep breaths help our bodies relax and get ready for sleep."
+    },
+    {
+      "id": "scene_6",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Let's think about our favorite things from today. Maybe you played a fun game or learned something new. Close your eyes and imagine it again, like a little movie in your head. Thinking about happy moments makes us feel grateful and peaceful. What was your favorite part of today? It's nice to end the day with a big, warm smile."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job getting ready for bed! Now, let’s make sure our room is ready too. We can tidy up our toys and make our bed all cozy. Maybe you have a special stuffed animal to cuddle with. Isn’t it lovely to have everything in its place? This helps us feel calm and happy as we drift off to dreamland."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let’s talk about the lights in our room. Dim lights help our eyes relax, telling our brain it's time to sleep. We can turn on a small nightlight if we like a little glow. It’s like having a tiny star watching over us. Isn’t that comforting? Now, let’s prepare ourselves for some quiet time."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "It's time for a bit of quiet time now. We can lie down in our bed, close our eyes, and listen to the soft sounds around us. Maybe we can hear the gentle breeze outside or a lullaby playing softly. Quiet time helps our minds slow down and prepares us for sleep. Let’s enjoy this peaceful moment together."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "I have a question for you, my little friend. What’s your favorite part of getting ready for bed? Is it the bedtime story, brushing your teeth, or maybe cuddling with your favorite toy? Everyone has a special part they love. Isn’t it fun to think about what makes bedtime so special for you?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’ve done such a great job preparing for bed! Now, let’s settle in and get ready for sweet dreams. You can think of your favorite things, like rainbows, fluffy clouds, or friendly animals. These happy thoughts make our dreams bright and cheerful. Remember, you are safe, loved, and ready for a wonderful sleep."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we drift off to sleep, let’s remember the fun things we did today. Maybe we made a new friend, learned something exciting, or created a beautiful drawing. All these moments fill our hearts with joy. Tomorrow, we’ll have even more adventures to look forward to. Isn’t bedtime a magical time to dream about all the possibilities?"
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Before we say goodnight, let’s snuggle into our blankets and get comfy. You can turn on your favorite nightlight or hug your special toy. Feeling cozy and warm helps us fall asleep easily. Remember, if you wake up at night, you can always close your eyes and think of something happy. Sweet dreams are just around the corner."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Goodnight, little friend! I hope you have the sweetest dreams filled with joy and laughter. Remember, I’m always here to help you get ready for bed anytime. Sleep tight and wake up to a bright, sunny day. Sweet dreams and see you soon! Goodnight!"
+    }
+  ]
+}

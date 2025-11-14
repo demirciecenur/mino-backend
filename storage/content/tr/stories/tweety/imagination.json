@@ -1,0 +1,98 @@
+{
+  "id": "chirpy_birdie_imagination_story",
+  "character": "Chirpy Birdie",
+  "topic": "imagination",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Chirpy Birdie. Bugün birlikte hayal gücümüzü keşfe çıkacağız. Hazır mısın? Hayal gücü, düşündüğümüz her şeyi mümkün kılar. Seninle birlikte bu büyülü yolculuğa çıkmak için sabırsızlanıyorum. Haydi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücü, bir şeyleri farklı ve eğlenceli bir şekilde düşünme yeteneğimizdir. Mesela, bir kutuyu uzay gemisi gibi hayal edebiliriz. Sen de oyuncaklarını kullanarak kendi hikayelerini yaratabilirsin. Hayal gücüyle her şey mümkün! Sen de ne tür maceralar düşünebilirsin?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte bir hayal kurma oyunu oynayalım. Gözlerini kapat ve bir denizaltı macerası hayal et. Denizin altında hangi yaratıklar olabilir? Belki de renkli balıklar ya da dost canlısı yunuslar vardır. Hayallerinde neler görebildiğini hayal etmen çok eğlenceli!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Hayal kurmak, yeni şeyler öğrenmemize ve eğlenmemize yardımcı olur. Şimdi biraz daha derin nefes alalım ve hayal gücümüzü daha da genişletelim. Seninle birlikte daha pek çok macera yaşayabiliriz. Hadi devam edelim!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki maceramızda denizaltına inmiştik, değil mi? Şimdi de bir korsan gemisinde olduğumuzu hayal edelim. Hazine avına çıkmak ne kadar heyecan verici olurdu! Rüzgar yüzümüzü okşarken, dalgaların sesiyle birlikte yol alıyoruz. Sen hangi adaya gitmek isterdin?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sen hiç kendi hikayeni yazmayı denedin mi? Belki de bir gün gökyüzünde uçan bir kuş olmayı hayal etmişsindir. Ya da belki bir süper kahraman olmayı? Hangi güçlere sahip olurdun? Haydi, biraz düşün ve bana hayallerini anlat!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücümüz bizi her yere götürebilir. Bir ormanda yürüyüşe çıktığımızı hayal edelim. Ağaçların arasından süzülen güneş ışıkları ve kuşların cıvıltısı ne kadar güzel, değil mi? Hayal gücü sayesinde doğanın güzelliklerini keşfedebiliriz. Sen de bir ormanda neler keşfetmek isterdin?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi bir oyun oynayalım. Masal kahramanlarıyla dolu bir dünyada olduğumuzu hayal edelim. Bir prenses ya da cesur bir şövalye olabiliriz. Herkesin bir rolü var ve birlikte harika bir hikaye yaratabiliriz. Sen hangi karakteri oynamak isterdin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bu çok eğlenceli bir oyun oldu! Hayal gücümüzü kullanarak dünyayı daha renkli ve eğlenceli bir yer haline getirebiliriz. Senin hayal gücün de çok güçlü, biliyor musun? Hadi, daha fazla hayal kuralım ve eğlenceye devam edelim!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Birlikte bir hayal kurmuştuk, hatırlıyor musun? Şimdi, bir bilim insanı olduğumuzu düşünelim. Yeni icatlar yapıyor ve dünyayı daha iyi bir yer haline getiriyoruz. Belki de bir uçan araba yapabiliriz! Sen hangi icadı yapmak isterdin?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hayal gücünle neler başarabileceğini hiç düşündün mü? Belki de bir gün kendi kitabını yazabilir ya da bir resim sergisi açabilirsin. Senin hayallerin nelerdir? Hayal kurmak çok eğlenceli ve heyecan verici, değil mi?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda hayal gücünün gücünden bahsetmiştik. Şimdi, hayal gücümüzü kullanarak bir uzay macerasına çıkalım. Yıldızların arasında süzülen bir astronot olabiliriz. Sen uzayda hangi gezegenleri ziyaret etmek isterdin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücümüz sayesinde dünyayı ve ötesini keşfetmek mümkün. Bir kitap okuyarak ya da bir resim çizerek de hayal gücümüzü kullanabiliriz. Bu, yeni dünyalar keşfetmemize ve kendimizi ifade etmemize yardımcı olur. Sen hangi hikayeyi anlatmak isterdin?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün hayal gücümüzle dolu bir yolculuğa çıktık. Her bir maceramızda seninle birlikteydim ve çok eğlendim. Hayal gücünü her zaman kullanmayı unutma, çünkü o senin en büyük gücün. Bir sonraki maceramızda görüşmek üzere! Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Chirpy Birdie'ın Imagination Hikayesi"
+}

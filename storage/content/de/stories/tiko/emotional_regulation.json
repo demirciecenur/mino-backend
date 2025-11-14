@@ -1,0 +1,98 @@
+{
+  "id": "tiko_Emotionsregulation_Gefühle_managen_sich_beruhigen_Selbstregulation_story",
+  "character": "Tiko",
+  "topic": "Emotionsregulation, Gefühle managen, sich beruhigen, Selbstregulation",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Tiko, und heute gehen wir auf ein aufregendes Abenteuer, um unsere Gefühle zu verstehen. Weißt du, manchmal fühlen wir uns glücklich, manchmal traurig, und manchmal sogar ein bisschen wütend. Das ist ganz normal! Heute lernen wir, wie wir mit all diesen Gefühlen umgehen können. Bist du bereit? Ich bin so gespannt, was wir alles entdecken werden!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie es sich anfühlt, wenn du sehr aufgeregt bist, wie bei einem Geburtstag? Manchmal können wir vor Aufregung kaum stillsitzen. Aber was tun wir, wenn wir ruhig werden müssen, zum Beispiel beim Zubettgehen? Das ist, wo Emotionsregulation ins Spiel kommt. Es bedeutet, zu lernen, wie wir unsere Gefühle kontrollieren können, damit sie uns nicht überwältigen. Das ist eine wichtige Fähigkeit, die uns hilft, glücklicher und zufriedener zu sein."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt zeige ich dir einen tollen Trick, um ruhig zu werden, wenn du aufgeregt bist. Wir atmen tief ein und zählen langsam bis drei. Eins, zwei, drei – und dann pusten wir die Luft ganz langsam wieder aus. Das kannst du auch ausprobieren, wenn du dich wütend oder ängstlich fühlst. Es hilft deinem Körper, sich zu entspannen, und dein Kopf wird klarer. Bist du bereit, es mit mir zusammen zu versuchen?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Du hast das wirklich toll hinbekommen. Siehst du, wie einfach es ist, sich zu beruhigen? Manchmal brauchen wir nur ein paar ruhige Atemzüge und schon fühlen wir uns besser. Es ist wie ein Zaubertrick, den du immer bei dir hast. Und das Beste daran ist, dass du das überall machen kannst, egal ob zu Hause oder im Kindergarten. Du wirst sehen, es wird dir helfen, ruhiger und glücklicher zu sein."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir wissen, wie man sich beruhigen kann, lass uns darüber sprechen, wie wir unsere Gefühle ausdrücken können. Manchmal ist es wichtig, anderen zu sagen, wie wir uns fühlen. Wenn du traurig bist, kannst du es deiner Mama oder deinem Papa sagen, und sie werden dir helfen. Oder wenn du wütend bist, kannst du darüber sprechen, anstatt zu schreien oder zu treten. Das hilft dir, deine Gefühle besser zu verstehen und zu kontrollieren."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns ein Spiel spielen, um unsere Gefühle besser zu verstehen! Stell dir vor, du bist ein Wind, der mal stark und mal schwach bläst. Wenn du stark bläst, bist du wütend oder aufgeregt. Wenn du schwach bläst, bist du ruhig oder traurig. Jetzt puste mal stark und dann ganz sanft. Siehst du, wie sich das anfühlt? So können wir unsere Gefühle besser einordnen. Es macht Spaß, oder?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super gemacht! Du hast das richtig gut hinbekommen. Gefühle sind wie das Wetter – sie ändern sich ständig, und das ist völlig in Ordnung. Manchmal scheint die Sonne, und manchmal regnet es. Wichtig ist, dass wir wissen, wie wir damit umgehen. Und du bist schon auf einem tollen Weg, das zu lernen. Ich bin so stolz auf dich!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, es gibt auch andere Möglichkeiten, mit unseren Gefühlen umzugehen. Zum Beispiel, wenn du traurig bist, kannst du ein Bild malen oder ein Lied singen. Das hilft dir, deine Gefühle auszudrücken und dich besser zu fühlen. Oder du kannst mit deinem Lieblingsspielzeug spielen und dich ein bisschen ablenken. All das sind tolle Möglichkeiten, um mit deinen Gefühlen umzugehen."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich, als wir über das Atmen gesprochen haben? Es gibt noch eine andere Übung, die du ausprobieren kannst. Stell dir vor, du bist ein Baum im Wind. Wenn der Wind weht, bewegst du deine Arme wie die Äste eines Baumes. Das hilft dir, dich zu konzentrieren und ruhig zu bleiben. Lass uns das zusammen ausprobieren. Es ist wie ein Tanz mit der Natur!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wirklich fantastisch! Du bist ein richtiger Emotions-Experte geworden. Mit all diesen Übungen kannst du deine Gefühle besser verstehen und kontrollieren. Und das Beste ist, du kannst sie überall anwenden. Ob im Park, zu Hause oder im Kindergarten – du hast immer die Kontrolle über deine Gefühle. Das ist wirklich toll!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du eine Lieblingsübung, die dir hilft, ruhig zu bleiben? Vielleicht das tiefe Atmen oder der Baum im Wind? Ich bin so neugierig, was dir am besten gefällt. Wenn du magst, kannst du es deinen Freunden oder deiner Familie zeigen. Sie werden bestimmt auch begeistert sein. Was denkst du, möchtest du es ausprobieren?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Du siehst, es gibt so viele Möglichkeiten, mit unseren Gefühlen umzugehen. Und du hast heute so viel gelernt! Gefühle sind ein großer Teil von uns, und sie machen uns einzigartig. Es ist wichtig, sie zu verstehen und zu wissen, wie wir mit ihnen umgehen können. Ich bin so froh, dass wir diesen Weg zusammen gegangen sind."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Zum Abschluss möchte ich, dass du dir selbst auf die Schulter klopfst. Du hast heute so viel gelernt und erlebt. Vielleicht kannst du auch anderen Kindern davon erzählen und ihnen zeigen, wie sie mit ihren Gefühlen umgehen können. Du bist jetzt ein echter Gefühls-Experte! Und das ist wirklich etwas, worauf du stolz sein kannst."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es Zeit, sich zu verabschieden. Aber keine Sorge, wir sehen uns bald wieder für ein neues Abenteuer. Bis dahin kannst du all die tollen Dinge üben, die du heute gelernt hast. Ich bin so stolz auf dich und freue mich darauf, bald wieder mit dir zu sprechen. Tschüss, kleiner Freund! Bis zum nächsten Mal!"
+    }
+  ],
+  "title": "Tikos Emotional Regulation Geschichte"
+}

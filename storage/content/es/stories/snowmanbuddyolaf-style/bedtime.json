@@ -1,0 +1,104 @@
+{
+  "id": "snowman_buddy_olaf_style_bedtime_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy tu amigo de nieve, el Snowman Buddy Olaf-style. Hoy vamos a embarcarnos en una aventura mágica sobre la hora de dormir. ¿Estás listo para descubrir cómo hacer que la hora de dormir sea divertida y relajante? Estoy muy emocionado de compartir estos momentos contigo. Vamos a comenzar esta maravillosa aventura juntos."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La hora de dormir es un momento muy especial del día. Es cuando nos preparamos para descansar y soñar con cosas bonitas. A veces, puede ser difícil dejar de jugar y comenzar a relajarse, ¿verdad? Pero tengo algunos trucos que pueden ayudarte a hacer que la hora de dormir sea más divertida. Vamos a hablar sobre ellos y ver cómo podemos hacer que cada noche sea mágica."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Primero, hablemos de la rutina antes de dormir. Tener una rutina ayuda a nuestro cuerpo a saber que es hora de descansar. Podemos empezar por ponernos el pijama, cepillarnos los dientes y lavarnos la cara. Estas pequeñas tareas nos ayudan a relajarnos y a decirle a nuestro cuerpo que es momento de descansar. ¿Te gustaría intentar seguir una rutina esta noche?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Ahora que sabemos lo importante que es la rutina, podemos hacerla divertida. Podemos imaginar que somos superhéroes preparándonos para una gran misión de sueño. Cada tarea que hacemos es como un superpoder que nos ayuda a descansar mejor. ¡Tú puedes hacerlo! Estoy seguro de que serás un gran superhéroe de la hora de dormir."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Después de completar nuestra rutina, es hora de relajarnos un poco más. Podemos hacer algunos ejercicios de respiración juntos. Vamos a inhalar profundamente por la nariz y luego exhalar lentamente por la boca. Vamos a hacerlo tres veces. ¿Listo? Inhala, exhala... ¡Muy bien! Estos ejercicios nos ayudan a sentirnos tranquilos y listos para dormir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora que estamos más relajados, podemos leer un cuento juntos. Los cuentos nos llevan a lugares mágicos donde podemos imaginar todo tipo de aventuras. ¿Cuál es tu cuento favorito para antes de dormir? Leer juntos es una manera maravillosa de terminar el día con una sonrisa y prepararnos para soñar."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Recuerda cuando hablamos de ser superhéroes de la hora de dormir. Ahora, mientras escuchamos el cuento, podemos imaginar que somos los personajes de la historia. ¿Te gustaría ser un valiente caballero o una princesa aventurera? Deja que tu imaginación vuele mientras te preparas para dormir. ¡Es muy divertido!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora que hemos leído un cuento, podemos pensar en algo bonito para soñar. Tal vez quieras soñar con un bosque encantado o una playa soleada. Soñar con cosas bonitas nos ayuda a dormir mejor y a despertar felices. Estoy seguro de que tendrás los sueños más maravillosos esta noche."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Antes de cerrar los ojos, podemos agradecer por las cosas buenas que tuvimos hoy. Podemos decir gracias por jugar, por aprender algo nuevo, o por pasar tiempo con nuestra familia. Agradecer nos ayuda a sentirnos felices y tranquilos antes de dormir. ¿Qué cosas buenas te pasaron hoy? Es agradable pensar en ellas antes de dormir."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora, piensa en lo cómodo que es tu cama. Tu cama es como una nube suave que te abraza para que duermas bien. Puedes acurrucarte bajo las mantas y sentirte seguro y cálido. Imagina que estás flotando en una nube mientras te duermes. ¿No es una sensación maravillosa?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "A veces, contar ovejas puede ayudarnos a dormir mejor. Vamos a intentarlo juntos. Imagina un campo lleno de ovejitas saltando una cerca. Vamos a contar hasta cinco. Una ovejita... dos ovejitas... tres ovejitas... cuatro ovejitas... cinco ovejitas. ¡Muy bien! Contar nos ayuda a relajarnos y a prepararnos para dormir."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabías que dormir bien nos ayuda a crecer fuertes y sanos? Cuando dormimos, nuestro cuerpo descansa y se prepara para el siguiente día. ¿Cómo te sientes después de una buena noche de sueño? Dormir bien también nos ayuda a tener energía para jugar y aprender cosas nuevas cada día. ¿No es increíble?"
+    },
+    {
+      "id": "scene_12",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Ahora que estamos casi listos para dormir, vamos a escuchar los sonidos a nuestro alrededor. Tal vez puedas escuchar el viento suave o el canto de un grillo. Escuchar estos sonidos nos ayuda a relajarnos aún más. ¿Qué sonidos puedes escuchar en tu habitación? Escuchar con atención nos prepara para un sueño tranquilo."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo hiciste muy bien! Ahora es el momento de cerrar los ojos y dejar que los sueños te lleven a un lugar mágico. Recuerda que siempre estoy aquí como tu amigo de nieve, listo para acompañarte en tus aventuras de sueño. Estoy seguro de que tendrás una noche maravillosa llena de sueños felices. ¡Dulces sueños!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer acompañarte en esta aventura hacia la hora de dormir. Espero que hayas disfrutado y que te sientas listo para descansar. Recuerda que cada noche es una nueva oportunidad para soñar y descansar. Espero verte de nuevo pronto para más aventuras. ¡Buenas noches y dulces sueños, pequeño amigo!"
+    }
+  ],
+  "title": "Historia de Bedtime de Snowman Buddy Olaf-Style"
+}

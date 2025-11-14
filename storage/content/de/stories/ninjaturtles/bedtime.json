@@ -1,0 +1,98 @@
+{
+  "id": "shell_heroes_crew_bedtime_story",
+  "character": "Shell Heroes Crew",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Wir sind die Shell Heroes Crew und heute nehmen wir dich mit auf ein spannendes Abenteuer zum Thema Schlafenszeit. Bist du bereit, mit uns auf eine Reise zu gehen? Wir sind so neugierig, mehr über dein Abendritual zu erfahren. Schlafenszeit ist eine ganz besondere Zeit, in der wir uns entspannen und auf schöne Träume vorbereiten. Lass uns gemeinsam herausfinden, wie wir uns richtig auf das Schlafen vorbereiten können."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir uns auf den Abend vorbereiten, lass uns darüber sprechen, warum Schlafenszeit so wichtig ist. Wenn wir schlafen, tanken wir Energie für den nächsten Tag und unsere Körper können wachsen und stärker werden. Schlafen hilft uns auch, unsere Abenteuer vom Tag zu verarbeiten. Es ist, als ob unser Gehirn all die spannenden Erlebnisse in einem großen Buch speichert. Deshalb ist es wichtig, dass wir gut schlafen, damit wir am nächsten Tag wieder voller Energie sind."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Als erstes müssen wir uns auf das Schlafengehen vorbereiten. Hast du schon einmal dein Zimmer aufgeräumt, bevor du ins Bett gehst? Es ist wichtig, damit wir in einer ordentlichen Umgebung einschlafen können. Vielleicht möchtest du auch deine Zähne putzen, um sie sauber und gesund zu halten. Und dann ziehst du dein bequemes Schlafanzug an, damit du dich richtig wohlfühlst. All diese Schritte helfen dir, dich auf einen ruhigen Schlaf vorzubereiten."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig, dass du so gut mitmachst! Jetzt, da du bereit bist, lass uns ein wenig entspannen. Atme tief ein und dann langsam wieder aus. Wir können das zusammen machen, um uns zu beruhigen. Einatmen, eins, zwei, drei... und ausatmen, eins, zwei, drei. Fühlst du, wie ruhig und entspannt du wirst? Das ist der perfekte Weg, um in den Schlaf zu gleiten."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über das Aufräumen gesprochen haben? Lass uns jetzt über das Vorlesen einer Geschichte sprechen. Geschichten sind eine wunderbare Möglichkeit, unsere Fantasie zu nutzen und in andere Welten zu reisen. Vielleicht hast du ein Lieblingsbuch, das du gerne vor dem Schlafengehen hörst. Geschichten helfen uns, uns zu beruhigen und auf die Träume vorzubereiten. Welches Buch möchtest du heute Abend lesen?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt, wo wir über Geschichten gesprochen haben, ist es Zeit, sich ins Bett zu kuscheln. Hast du ein Lieblingskuscheltier, das mit dir schlafen geht? Es ist schön, jemanden bei sich zu haben, der uns Geborgenheit gibt. Wenn du dich in deine Decke wickelst, fühlst du dich warm und sicher. Das hilft dir, schnell einzuschlafen und schöne Träume zu haben. Denk daran, dass dein Kuscheltier immer bei dir ist."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wirklich toll! Lass uns jetzt ein kleines Spiel spielen. Zähle alle Sterne, die du dir vorstellen kannst, während du in deinem Bett liegst. Eins, zwei, drei... Wie viele Sterne kannst du finden? Dieses Spiel hilft dir, dich zu entspannen und auf den Schlaf vorzubereiten. Du kannst dir auch einen Wunsch wünschen, wenn du einen besonders hellen Stern siehst. Was würdest du dir wünschen?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über Wünsche gesprochen haben, denk daran, dass die Schlafenszeit auch eine Zeit ist, um zu träumen. Träume sind wie kleine Abenteuer, die wir jede Nacht erleben können. Vielleicht träumst du davon, ein Held zu sein oder mit uns, der Shell Heroes Crew, auf ein Abenteuer zu gehen. Egal, was es ist, Träume sind etwas ganz Besonderes und gehören nur dir. Was war dein schönster Traum bisher?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal darüber nachgedacht, warum wir träumen? Träume sind eine Art, wie unser Gehirn Geschichten erzählt, während wir schlafen. Manchmal sind sie lustig und manchmal spannend. Was denkst du, welche Geschichten wird dein Gehirn heute Nacht erzählen? Vielleicht hast du eine Idee, die du teilen möchtest. Wir sind gespannt, was du dir ausdenkst!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich, als wir über das Entspannen gesprochen haben? Eine andere Möglichkeit, sich zu beruhigen, ist, sich vorzustellen, dass man an einem ruhigen Ort ist. Vielleicht ein Strand mit sanften Wellen oder ein Wald mit zwitschernden Vögeln. Wo würdest du gerne sein, wenn du die Augen schließt? Diese Vorstellung kann dir helfen, dich sicher und entspannt zu fühlen. Lass uns gemeinsam an diesen schönen Ort denken."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo du dich entspannt hast, ist es wichtig, dass wir uns daran erinnern, dass Schlafenszeit eine Zeit der Ruhe ist. Es ist die Zeit, in der wir uns von den Abenteuern des Tages erholen. Wenn wir gut schlafen, sind wir bereit für die neuen Abenteuer, die morgen auf uns warten. Schlafen ist wie eine magische Pause, die uns neue Energie gibt. Bist du bereit, dich in diese magische Pause zu begeben?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich ein toller Zuhörer! Lass uns zum Abschluss noch einmal tief durchatmen. Einatmen, eins, zwei, drei... und ausatmen, eins, zwei, drei. Du bist jetzt bereit für eine gute Nacht voller schöner Träume. Denk daran, dass wir, die Shell Heroes Crew, immer bei dir sind, um dir zu helfen, wenn du uns brauchst. Gute Nacht und träum schön!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bevor wir uns verabschieden, möchten wir dich noch etwas fragen: Was ist deine liebste Schlafenszeit-Geschichte? Vielleicht hast du ein Buch oder eine Geschichte, die du immer wieder hören möchtest. Geschichten sind wie kleine Freunde, die uns helfen, uns zu entspannen. Wir würden gerne wissen, welche Geschichten du besonders magst. Möchtest du uns davon erzählen?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es Zeit, gute Nacht zu sagen. Wir hoffen, dass du eine wundervolle Schlafenszeit hast und von vielen Abenteuern träumst. Denk daran, dass wir, die Shell Heroes Crew, immer hier sind, um dir zu helfen, wenn du uns brauchst. Schlaf gut und träum schön! Wir freuen uns schon darauf, dich bald wiederzusehen. Gute Nacht, kleiner Held!"
+    }
+  ],
+  "title": "Shell Heroes Crews Bedtime Geschichte"
+}

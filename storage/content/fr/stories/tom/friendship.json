@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_friendship_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis Tom le Chat Malin. Aujourd'hui, nous allons explorer le monde merveilleux de l'amitié. Êtes-vous prêts à partir à l'aventure avec moi? Je suis tellement curieux d'apprendre sur vos amis et comment vous jouez ensemble. L'amitié, c'est comme une grande aventure pleine de rires et de découvertes."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est quelque chose de très spécial. Pensez à votre meilleur ami, celui avec qui vous aimez jouer. Peut-être que vous aimez courir ensemble dans le parc ou partager vos jouets préférés. L'amitié, c'est aussi aider les autres, comme quand vous aidez votre ami à ramasser ses jouets. C'est une manière de montrer que vous vous souciez de quelqu'un."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand on parle d'amitié, on parle aussi de partage. Partager, c'est donner un peu de ce que l'on a à quelqu'un d'autre. Par exemple, si vous avez deux biscuits, vous pouvez en donner un à votre ami. Cela rend tout le monde heureux et montre que vous êtes un bon ami. Vous pouvez essayer de partager quelque chose aujourd'hui!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous savez, être un bon ami, c'est aussi écouter. Quand votre ami vous parle, vous pouvez montrer que vous écoutez en regardant ses yeux. Peut-être que vous pouvez hocher la tête ou dire 'oui' pour montrer que vous comprenez. Cela fait chaud au cœur à votre ami de savoir qu'il est entendu. Vous pouvez le faire, j'en suis sûr!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous, l'amitié, c'est aussi s'amuser ensemble. Pensez à un jeu que vous aimez jouer avec vos amis. Peut-être que vous aimez construire des châteaux de sable ou jouer à cache-cache. Ces moments de jeu sont précieux et renforcent votre relation. Plus vous jouez ensemble, plus vous devenez proches."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment résoudre les petits conflits. Parfois, vous et votre ami pouvez ne pas être d'accord. C'est normal! Ce qui est important, c'est de parler et de trouver une solution ensemble. Vous pouvez dire 'je n'aime pas ça, pouvons-nous essayer autre chose?' Cela montre que vous respectez les sentiments de l'autre."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Et si nous essayions quelque chose ensemble? Prenons une grande inspiration calme. Inspirez par le nez... et expirez par la bouche. C'est apaisant, n'est-ce pas? Vous pouvez faire cela quand vous vous sentez un peu contrarié. Cela vous aide à vous sentir mieux et prêt à parler gentiment à votre ami."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Une autre chose importante dans l'amitié est de dire 'merci'. Quand votre ami partage ou vous aide, dire 'merci' est une belle façon de montrer votre gratitude. Cela fait plaisir à votre ami et renforce votre lien. Vous pouvez essayer de dire 'merci' plus souvent et voir comment cela rend vos amis heureux."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous un ami spécial? Que faites-vous ensemble? Peut-être aimez-vous dessiner ou chanter des chansons. Comment vous sentez-vous quand vous êtes avec votre ami? Vous sentez-vous heureux et plein d'énergie? C'est ce que l'amitié peut faire, elle remplit nos cœurs de joie."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "N'oubliez pas que faire de nouveaux amis peut être une aventure aussi. Peut-être que vous pouvez dire 'bonjour' à quelqu'un de nouveau à l'école ou au parc. Un simple sourire peut être le début d'une belle amitié. Essayez de dire 'bonjour' et voyez comment cela fait sourire quelqu'un d'autre."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand vous jouez avec vos amis, pensez à être gentil et à partager. Si vous jouez à un jeu, assurez-vous que tout le monde a une chance de participer. C'est important de s'assurer que personne ne se sent laissé de côté. Vous pouvez être le chef d'équipe qui veille à ce que tout le monde s'amuse."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes un super ami, je le sais! Chaque fois que vous faites un geste gentil, vous semez les graines de l'amitié. Pensez à toutes les façons dont vous pouvez être un bon ami aujourd'hui. Peut-être en aidant quelqu'un ou en partageant un jouet. Chaque petit geste compte et rend le monde meilleur."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous quand nous avons parlé d'écouter vos amis? C'est aussi important de leur parler de vos sentiments. Si vous êtes triste ou heureux, dites-leur. Cela aide vos amis à vous comprendre et à vous soutenir. N'ayez pas peur de partager vos émotions, c'est une partie importante de l'amitié."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est votre moment préféré avec vos amis? Est-ce quand vous jouez à l'extérieur ou quand vous faites des dessins ensemble? Pourquoi est-ce si spécial pour vous? Parlez-en à quelqu'un aujourd'hui, peut-être à votre famille. Partager vos souvenirs rend ces moments encore plus précieux."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir exploré l'amitié avec moi aujourd'hui! J'espère que vous avez appris beaucoup et que vous êtes prêt à être le meilleur ami possible. Souvenez-vous de partager, d'écouter et de dire merci. Je suis fier de vous et j'ai hâte de vous retrouver pour d'autres aventures. À bientôt, mes chers amis!"
+    }
+  ],
+  "title": "Histoire de Friendship de Sneaky Cat Tom"
+}

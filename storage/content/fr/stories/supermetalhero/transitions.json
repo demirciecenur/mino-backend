@@ -1,0 +1,104 @@
+{
+  "id": "super_metal_hero_transitions_story",
+  "character": "Super Metal Hero",
+  "topic": "transitions",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Super Metal Hero. Aujourd'hui, nous allons explorer les transitions, ces moments où les choses changent un peu autour de nous. Es-tu prêt pour cette aventure passionnante ? Je suis tellement curieux de savoir comment tu gères ces moments. Ensemble, nous découvrirons plein de façons amusantes de s'adapter aux changements. Allons-y !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions peuvent être comme un matin où tu te réveilles pour aller à l'école. Parfois, c'est un peu difficile de quitter le confort de son lit. Mais savais-tu que chaque jour est une nouvelle aventure ? En se levant, on découvre plein de nouvelles choses. C'est un peu comme enfiler une armure spéciale qui nous rend plus forts pour la journée. N'est-ce pas excitant ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment on peut rendre ces transitions plus faciles. Imagine que tu as une cape magique. Cette cape te donne le pouvoir de sourire et de te sentir bien. Quand tu changes d'activité, comme passer du jeu au dîner, prends une grande respiration. Imagine que ta cape te réchauffe et te prépare pour le moment suivant. Tu vois, c'est simple et magique !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Tu es en train de devenir un expert des transitions ! Chaque fois que tu changes d'activité, pense à quelque chose de joyeux. Peut-être une chanson que tu aimes chanter ? Tu peux même inventer ta propre chanson de transition. Cela rend le moment encore plus amusant et agréable. Tu peux le faire, je crois en toi !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi quand on a parlé de se lever le matin ? Eh bien, une autre transition importante est quand il est temps de se coucher. C'est un moment où ton corps se repose pour être prêt pour le lendemain. Tu peux imaginer que tu te prépares pour une mission de rêve. Ton lit devient un vaisseau spatial qui t'emmène dans des aventures nocturnes. C'est une belle façon de finir la journée, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant de comment préparer ces transitions. Avant de commencer quelque chose de nouveau, assure-toi d'avoir tout ce dont tu as besoin. Par exemple, avant de jouer dehors, vérifie que tu as bien mis tes chaussures. C'est comme préparer ton armure avant de partir en mission. Cela te rend prêt et confiant pour chaque nouvelle aventure. N'oublie pas, chaque détail compte !"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail incroyable en apprenant toutes ces choses ! Quand tu es prêt, c'est comme si tu avais une super force. Maintenant, essayons ensemble. Imagine que tu as une mission spéciale, comme ranger tes jouets. Compte jusqu'à cinq avant de commencer. Un, deux, trois, quatre, cinq ! Maintenant, tu es prêt à accomplir ta mission avec succès. Bravo, tu es fantastique !"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu déjà changé d'activité et ressenti que c'était un peu difficile ? Peut-être que tu jouais et qu'il était temps de manger. Que fais-tu pour te sentir prêt ? Pense à une chose qui te rend heureux pendant la transition. Est-ce que tu as une idée ? J'aimerais beaucoup savoir comment tu fais !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Quand on parle de transitions, il y a aussi les moments où l'on rencontre de nouvelles personnes. C'est un changement qui peut être un peu intimidant. Mais pense à toutes les nouvelles amitiés que tu peux créer. Chaque nouvelle personne est comme un livre plein d'histoires intéressantes. Alors, n'hésite pas à dire bonjour avec un grand sourire. Qui sait quelles aventures vous pourriez vivre ensemble ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour t'aider à te sentir à l'aise, essaie de te souvenir d'une fois où tu as rencontré quelqu'un et que cela s'est bien passé. Peut-être que cette personne t'a fait rire ou que vous avez joué ensemble. Pense à ce moment et à ce que tu as ressenti. Cela peut te donner confiance pour les prochaines rencontres. Tu as déjà tout ce qu'il faut pour réussir !"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es vraiment courageux d'apprendre à gérer les transitions ! Chaque fois que tu fais face à un changement, tu deviens plus fort. C'est un peu comme un super-héros qui gagne de nouveaux pouvoirs. Continue à essayer, et souviens-toi que je suis toujours là pour t'encourager. Tu es vraiment incroyable, et tu peux tout accomplir !"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de quand il est temps de terminer quelque chose. C'est une transition importante aussi. Par exemple, quand tu finis de jouer avec tes jouets, c'est bien de les ranger. Cela t'aide à te préparer pour la prochaine activité. C'est comme fermer un chapitre de ton livre d'aventures pour en ouvrir un nouveau. Et chaque chapitre est rempli de surprises !"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour rendre ces transitions encore plus amusantes, pourquoi ne pas ajouter un jeu ? Par exemple, lorsque tu ranges, imagine que tu es un robot qui trie tout. Fais des sons de robot pendant que tu travailles. Cela rendra l'activité plus amusante et te fera sourire. Qui aurait cru que ranger pouvait être aussi amusant ?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Tu te souviens d'une fois où tu as terminé quelque chose et que c'était difficile ? Peut-être que tu devais arrêter un jeu que tu aimais. Qu'as-tu ressenti à ce moment-là ? Et qu'est-ce qui t'a aidé à te sentir mieux ? Partager tes expériences peut vraiment aider. J'aimerais entendre ton histoire !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était un plaisir de partager ces moments avec toi, petit aventurier ! Les transitions font partie de la vie, et tu deviens chaque jour plus fort en les affrontant. Souviens-toi de respirer profondément et de sourire, car chaque changement est une nouvelle opportunité. Je suis fier de toi et de tout ce que tu as appris aujourd'hui. À très bientôt pour de nouvelles aventures ensemble !"
+    }
+  ],
+  "title": "Histoire de Transitions de Super Metal Hero"
+}

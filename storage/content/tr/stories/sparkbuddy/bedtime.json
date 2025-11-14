@@ -1,0 +1,98 @@
+{
+  "id": "spark_buddy_bedtime_story",
+  "title": "Spark Buddy'nin Uyku Zamanı Hikayesi",
+  "character": "Spark Buddy",
+  "topic": "bedtime",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Spark Buddy. Bugün birlikte uyku zamanı hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Uyku zamanı geldiğinde vücudumuzun dinlenmeye ihtiyacı vardır. Bu yüzden güzel bir uyku rutini oluşturmak çok önemlidir. Hadi şimdi birlikte bu rutini keşfedelim!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku zamanı geldiğinde yapmamız gereken ilk şey, oyuncaklarımızı toplamak. Oyuncaklarını toplamak, odanın daha düzenli görünmesini sağlar ve zihnin daha sakin olur. Ayrıca bu, ertesi gün oyun oynamaya başlamak için iyi bir alışkanlıktır. Sen de oyuncaklarını toplarken eğlenceli bir oyun gibi düşünebilirsin. Şimdi, oyuncaklarını toplamak için hazırsan, harika bir iş yapıyorsun!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir sonraki adımımız dişlerimizi fırçalamak. Dişlerimizi fırçalamak, ağız sağlığımız için çok önemlidir. Dişlerini fırçalarken, fırçanı nazikçe yukarı ve aşağı hareket ettir. Dişlerini fırçalarken bir şarkı söylemek eğlenceli olabilir. Bu, dişlerini fırçalama süresini daha keyifli hale getirir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Dişlerini fırçaladıktan sonra, pijamalarını giymek harika bir fikirdir. Pijamalarımızı giymek, vücudumuza uykuya hazırlandığımızı gösterir. Yumuşak ve rahat pijamalar giymek, daha huzurlu bir uyku için önemlidir. Pijamalarını giyerken, hangi renk pijamaların en sevdiğin olduğunu düşün. Pijamalarını giydin mi? Harika, şimdi uykuya hazırız!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi biraz sakinleşmek için nefes egzersizleri yapalım. Derin bir nefes al ve yavaşça ver. Bu, vücudunu rahatlatır ve uyku için hazırlar. Üç defa derin nefes alıp vermek, kalbinin daha yavaş atmasını sağlar. Nefes alırken havanın burnundan içeri girdiğini ve ağızdan çıktığını hisset. Bu egzersizi yapmak seni daha huzurlu hissettirecek."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Uyku öncesi bir hikaye dinlemek ister misin? Hikayeler, uyumadan önce zihnimizi hayal gücüyle doldurur. Hangi tür hikayeleri seversin? Macera, dostluk ya da hayvanlarla ilgili hikayeler hoşuna gider mi? En sevdiğin hikayeyi düşün, belki de bu gece o hikayeyi okuyabilirsin."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hikayeyi düşündün mü? Harika, şimdi uyku için son hazırlıkları yapalım. Işıkları biraz kısalım ve yatağımızın içine girelim. Yatağımızın sıcak ve rahat olması, uykuya dalmamızı kolaylaştırır. Sen de yatağında rahat mısın? Hadi biraz daha rahatlayalım."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Yatmadan önce birkaç esneme hareketi yapmak da iyi olabilir. Kollarını yukarı doğru uzat ve sonra yavaşça aşağı indir. Bu hareketler, vücudunun günün yorgunluğunu atmasına yardımcı olur. Başını hafifçe sağa ve sola çevirerek boynunu rahatlatabilirsin. Bu küçük egzersizler, kaslarını gevşetir ve rahatlamanı sağlar."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, hayal gücümüzü kullanarak güzel bir rüya düşünelim. Belki de uçan bir balonla gökyüzünde süzüldüğünü hayal edebilirsin. Ya da sevimli hayvanlarla dolu bir ormanda yürüdüğünü düşünebilirsin. Hayal gücün seni nereye götürmek istiyorsa oraya git. Rüyalarını hayal etmek, uykuya dalmanı kolaylaştırabilir."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Eğer hala biraz uyanıksan, en sevdiğin yumuşak oyuncağına sarılabilirsin. Oyuncağın sana güven ve huzur verir. O yumuşak yoldaşınla birlikte uyumak seni daha güvende hissettirebilir. Oyuncağınla birlikte uyuduğunda, güzel rüyaların kapısını aralayabilirsin. Şimdi uykuya dalmak için hazırsın!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Güzel bir uyku için başka neler yapabilirsin? Belki de bir gece lambası açık bırakmak isteyebilirsin. Gece lambası sana karanlıkta ışık sağlar ve daha rahat hissetmeni sağlar. Senin uyku rutinin nasıl? Başka hangi alışkanlıkların var?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Uyku rutinin hakkında düşündün mü? Harika! Şimdi bu güzel alışkanlıkları her gece tekrarlamak seni daha huzurlu yapacaktır. Unutma, iyi bir uyku, sağlıklı bir günün başlangıcıdır. Her gece aynı saatte uyumak, vücudunun biyolojik saatini düzenler. Şimdi bu geceyi güzel bir uyku ile sonlandırmaya hazır mısın?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Son olarak, uyumadan önce minik bir dua ya da dilek tutabilirsin. Bu, kalbini ve zihnini huzurla doldurur. Dileklerini düşündüğünde, belki de sabah uyandığında onları gerçekleştirmek için motivasyonun olur. Şimdi, gözlerini kapat ve güzel bir uykuya dal. İyi geceler demeden önce, tatlı rüyalar dileyelim."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir uyku zamanı yolculuğu yaptık. Umarım bu ipuçlarıyla her gece daha huzurlu uyursun. Unutma, ben her zaman buradayım ve seninle olmaktan mutluluk duyuyorum. İyi geceler küçük dostum! Tatlı rüyalar ve huzurlu bir uyku dilerim. Yarın yeni bir gün ve yeni maceralar bizi bekliyor!"
+    }
+  ]
+}

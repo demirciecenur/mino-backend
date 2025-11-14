@@ -1,0 +1,98 @@
+{
+  "id": "blu_pup_imagination_story",
+  "character": "Blu Pup",
+  "topic": "imagination",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Blu Pup. Today we're going on an amazing journey about imagination. Are you ready? I'm so curious about you. Let's explore the wonderful world of imagination together. It's going to be so much fun!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Imagination is like a magic key that opens the door to endless adventures. When you imagine, you can be anything you want. You could be a brave pirate sailing the seas or a scientist discovering new planets. Isn't that exciting? With imagination, the possibilities are endless and so much fun!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn how to use our imagination. First, close your eyes and take a deep breath. Think about your favorite place in the whole wide world. Can you see it in your mind? Now, imagine you're there and tell me what you see. This is how we start our imaginative journey!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wow, you're doing great! Imagining is like painting a picture in your mind. You can add all the colors and shapes you like. It's your own special world. Keep going, you're amazing at this!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about being a pirate? Let's imagine we're on a big pirate ship right now. The waves are crashing, and the wind is blowing in our hair. Can you hear the seagulls? It's like we're really there, isn't it? That's the power of imagination!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now, let's think about being a scientist. What kind of experiments would you like to do? Maybe you could mix colorful potions or build a rocket ship. Science is full of imagination and discovery. You can be a scientist anytime you want!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try a little exercise. Imagine you're a superhero with a special power. What is your power, and how would you use it to help others? Think about all the amazing things you could do. It's fun to imagine helping people and making the world a better place!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing wonderfully! Imagination helps us dream big and think of new ideas. It's like a muscle that gets stronger the more we use it. Keep imagining and see where your thoughts take you. You're a star at this!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's imagine we're in a jungle, surrounded by tall trees and colorful birds. Can you hear the sounds of the jungle? Maybe there's a friendly monkey swinging from the branches. Imagination lets us explore places we've never been before. Isn't that amazing?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What do you like to imagine the most? Is it being a pirate, a scientist, or maybe something else? There are so many things to imagine. I can't wait to hear about your favorite imaginative adventure. It's fun to share our dreams and ideas, don't you think?"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now that we've imagined so many things, let's think about how imagination helps us. It makes playtime more fun and helps us solve problems. When we imagine, we're using our brains in creative ways. It's like a superpower we all have!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try one more imaginative exercise. Imagine you're a chef in a big kitchen. What yummy dishes would you cook? Maybe a giant pancake tower or a magical fruit salad. Cooking with imagination can be a delicious adventure!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a great job! Imagination is like a playground for your mind. The more you use it, the more fun you have. Keep imagining and let your mind explore. You're a fantastic imaginer!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this imaginative adventure. We explored so many wonderful places together. Remember, your imagination is always with you, ready for the next adventure. Keep dreaming big and having fun. Until next time, goodbye!"
+    }
+  ],
+  "title": "Blu Pup's Imagination Story"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "bubu_friendship_story",
+  "character": "Bubu",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Bubu. Bugün birlikte arkadaşlık hakkında harika bir yolculuğa çıkacağız. Arkadaşlık ne kadar önemli, değil mi? Arkadaş edinmek, oyun oynamak ve birlikte vakit geçirmek üzerine konuşacağız. Hazır mısın? Seni çok merak ediyorum."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, hayatımızı daha mutlu ve eğlenceli hale getirir. Bir arkadaşla oyun oynamak, yeni şeyler öğrenmek ve birlikte gülmek çok güzeldir. Hatırlıyor musun, geçen gün yeni bir oyun öğrenmiştik? İşte o oyunları arkadaşlarımızla oynadığımızda daha da keyifli olur. Peki, senin en sevdiğin oyun nedir?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaş edinmek için ne yapabiliriz, biliyor musun? Öncelikle, gülümsemek harika bir başlangıç olabilir. Gülümsemek, karşımızdaki kişiye onu sevdiğimizi ve onunla vakit geçirmek istediğimizi gösterir. Ayrıca, 'Merhaba' demek ve adını sormak da güzel bir başlangıçtır. Böylece yeni bir arkadaş edinmiş oluruz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım mı? Haydi, hayal et ki bir oyun parkındasın ve yeni bir arkadaşla tanışıyorsun. Ona nasıl 'merhaba' dersin? Harika! Çok güzel bir başlangıç yaptın. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlarımızla paylaşmak da çok önemli. Mesela, oyuncaklarımızı paylaşmak, birlikte oyun oynarken keyifli vakit geçirmemizi sağlar. Bir arkadaşının oyuncak kamyonunu seninle paylaştığını hayal et. Bu, onun sana ne kadar değer verdiğini gösterir. Sen de onunla oyuncaklarını paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaşlarımızla iyi geçinmek için bazen sabırlı olmak gerekir. Mesela, sırayla oynamak ve dinlemek çok önemlidir. Bir arkadaşın bir şey anlattığında onu dikkatlice dinlemek, ona değer verdiğini gösterir. Sen de bir arkadaşını dinlerken sabırlı olabilir misin?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi şimdi birlikte derin bir nefes alalım ve rahatlayalım. Bir, iki, üç, nefes al. Ve şimdi yavaşça ver. Harika! Bazen arkadaşlarımızla sorunlar yaşadığımızda bu nefes egzersizi bize yardımcı olabilir. Sen de bunu denemek ister misin?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık bazen küçük sürprizlerle doludur. Mesela, bir arkadaşına küçük bir hediye vermek onu çok mutlu edebilir. Bu bir resim olabilir ya da kendi yaptığın bir oyuncak. Küçük şeyler bile arkadaşlarımızı ne kadar sevdiğimizi gösterir."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sen hiç arkadaşlarına küçük sürprizler yaptın mı? Ne tür sürprizler hoşlarına giderdi? Belki de bir resim ya da güzel bir hikaye anlatmak onları mutlu eder. Haydi, bunları düşünelim ve belki de bir sonraki buluşmamızda deneyelim!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlarımızla bazen tartışabiliriz ama bu çok normaldir. Önemli olan, bu durumda özür dilemek ve barışmak. Özür dilemek, hatamızı kabul ettiğimizi ve arkadaşlığımızı önemsediğimizi gösterir. Peki, sen bir arkadaşından özür diledin mi hiç?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaşlarımızı anlamak için empati kurmak çok önemlidir. Empati, bir arkadaşımızın ne hissettiğini anlamaya çalışmak demektir. Mesela, bir arkadaşın üzgünse onunla konuşup, dinlemek iyi bir empati örneğidir. Sen de bir arkadaşını anlamaya çalışabilir misin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Arkadaşlarımızı mutlu etmek için bazen sadece yanlarında olmak yeterlidir. Onlarla birlikte oynamak ya da sadece onların yanında olmak, onları mutlu eder. Sen de bir arkadaşını mutlu etmek için onunla vakit geçirmek ister misin? Harika!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin en iyi arkadaşın kim? Onunla hangi oyunları oynamayı seviyorsun? Belki de birlikte bir resim yaparsınız ya da bir hikaye anlatırsınız. Haydi, düşün bakalım, en sevdiğin arkadaşınla ne yapmak istersin?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, hayatımızı güzelleştiren bir armağandır. Yeni arkadaşlar edinmek, onlarla vakit geçirmek çok özel bir duygudur. Birlikte gülmek, oynamak ve öğrenmek bizi daha mutlu yapar. Seninle bu konuları konuşmak çok güzeldi. Birlikte daha güzel anılar biriktirebiliriz."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün benimle arkadaşlık üzerine konuştuğun için teşekkür ederim. Seninle bu yolculuğa çıkmak çok güzeldi. Umarım sen de yeni arkadaşlar edinir ve harika vakit geçirirsin. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Bubu'ın Friendship Hikayesi"
+}

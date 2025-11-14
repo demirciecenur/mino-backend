@@ -1,0 +1,98 @@
+{
+  "id": "mino_emotional_regulation_story",
+  "character": "Mino",
+  "topic": "emotional regulation",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little stars! I'm Mino, your friendly space explorer. Today, we're going to learn about something super important called emotional regulation. It's all about understanding our feelings and knowing what to do with them. Are you ready for a fun adventure through the galaxy of emotions? Let's buckle up and start our journey!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Emotions are like the colors of the rainbow, and we all have them. Sometimes we feel happy, like when we're playing with our favorite toys. Other times, we might feel sad if we miss our friends or lose something special. It's okay to have different feelings because they help us understand what's happening inside us. Now, let's explore how we can manage these emotions together!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "When we feel a strong emotion, like being really upset, taking deep breaths can help us calm down. Let's try it together! Breathe in slowly through your nose, hold it for a moment, and then breathe out gently through your mouth. Can you feel your body relaxing a little bit? Breathing helps us slow down and think more clearly."
+    },
+    {
+      "id": "scene_3",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Now that we've learned about breathing, let's practice it with a fun exercise. Imagine you're a balloon. As you breathe in, fill up with air, and as you breathe out, slowly deflate. Let's do this three times together. Ready? One, two, three. Great job! Doesn't it feel nice to be a calm balloon?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we felt happy playing with toys? We can also use that memory to help us when we feel upset. Thinking about things that make us happy can change our mood. What's something that makes you smile? Maybe it's a favorite song or a cuddle from a pet. Keep those happy thoughts close for when you need them!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Another way to manage our emotions is by talking about them. When we share our feelings with a trusted grown-up, it can help us feel better. If you're feeling sad or mad, try saying, 'I feel upset because...' This helps others understand and support you. Let's practice saying, 'I feel...' together. Ready?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning about emotions! Remember, it's okay to have all sorts of feelings. With practice, you'll get better at knowing what to do with them. Keep trying, and don't be afraid to ask for help if you need it. You're a superstar in emotional regulation!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you felt really happy or really sad? What did you do to express that feeling? Sharing our experiences can help us understand each other better. I'm curious to know your story. Would you like to tell me about it?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what happens when we feel excited. Sometimes, excitement can make us feel wiggly and bouncy. It's fun to be excited, but we also need to know how to calm down when it's time to focus. Counting to five slowly can help us settle down. Let's count together: one, two, three, four, five. Good job!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Did you know that drawing can also help us manage our feelings? When you're feeling a bit mixed up, try drawing what you're feeling. It could be a happy sun or a stormy cloud. Drawing helps us express emotions without using words. Give it a try next time you want to share how you feel!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing wonderfully on this journey of emotions! Every time you practice, you're getting better at understanding and managing your feelings. Remember, it's okay to ask for help when you need it. You're a brave explorer in the galaxy of emotions!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What do you like to do when you feel calm and happy? Maybe you like reading a book, playing with a friend, or listening to music. Sharing these activities can help us find more ways to feel good. Can you think of something you'd like to try next time?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've explored so many ways to manage our emotions, let's remember that it's a skill we can practice every day. Just like brushing your teeth or tying your shoes, the more we practice, the better we get. Keep using your breathing, counting, and drawing whenever you need to."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our adventure through the galaxy of emotions is coming to an end, but the journey doesn't stop here. Keep exploring your feelings and remember all the tools we've learned today. You're a fantastic emotional explorer, and I'm so proud of you. Until next time, keep shining bright like a star! Goodbye, little friends!"
+    }
+  ],
+  "title": "Mino's Emotional Regulation Story"
+}

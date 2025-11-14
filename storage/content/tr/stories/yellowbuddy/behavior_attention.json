@@ -1,0 +1,98 @@
+{
+  "id": "yellow_buddy_behavior_attention_story",
+  "character": "Yellow Buddy",
+  "topic": "behavior_attention",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Yellow Buddy. Bugün birlikte davranışlarımızı nasıl daha iyi yönetebileceğimizi keşfedeceğiz. Bu, eğlenceli bir yolculuk olacak! Dikkatini toplamak ve kendini sakinleştirmek için bazı ipuçları öğreneceğiz. Hadi başlayalım ve birlikte bu maceraya atılalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "İlk olarak, dikkatini toplamanın ne kadar önemli olduğundan bahsedelim. Dikkatini toplamak, oyun oynarken veya bir şeyler öğrenirken sana çok yardımcı olabilir. Örneğin, bir bulmacayı çözerken dikkatini topladığında, daha hızlı ve kolayca çözebilirsin. Bu yüzden, önce derin bir nefes al ve etrafındaki sesleri dinle. Dikkatini toplamak için bu harika bir başlangıç!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, dikkatini toplamak için bir oyun oynayalım. Etrafındaki beş farklı nesneyi saymanı istiyorum. Örneğin, odandaki oyuncakları sayabilirsin. Bu, dikkatini toplamana ve çevrendeki şeylere odaklanmana yardımcı olur. Haydi, birlikte sayalım ve bu eğlenceli oyunu oynayalım!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Şimdi, öz-düzenlemenin ne olduğunu konuşalım. Öz-düzenleme, duygularını kontrol etmene ve sakinleşmene yardımcı olur. Bunu yapmanın en iyi yolu, derin nefesler almak ve yavaşça nefes vermektir. Hadi, birlikte üç derin nefes alalım. Derin nefes almak gerçekten rahatlatıcı, değil mi?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda nefes almanın ne kadar önemli olduğunu öğrendik. Şimdi, basit rutinler oluşturmanın nasıl yardımcı olabileceğine bakalım. Her gün aynı saatte uyumak ve uyanmak gibi rutinler, kendini daha iyi hissetmene yardımcı olabilir. Bu sayede, gün boyunca enerjik ve mutlu olabilirsin. Hadi, senin için uygun bir uyku saati belirleyelim!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, sakinleşmek için bir başka yöntem öğrenelim. Sevdiğin bir şarkıyı dinlemek ya da bir hikaye okumak sakinleşmene yardımcı olabilir. En sevdiğin şarkıyı düşün ve onu mırıldanarak söyle. Bu, seni neşelendirir ve zihnini rahatlatır. Hangi şarkıyı seçtiğini merak ediyorum!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Çok güzel seçim! Şimdi, davranışlarımızı yönetmenin ne kadar eğlenceli olabileceğine bakalım. Davranışlarını yönetmek, bir hedef belirlemek ve ona ulaşmak gibidir. Örneğin, oyuncaklarını toplamak gibi bir hedef belirleyebilirsin. Hedefine ulaştığında, kendini harika hissedersin. Sen de bunu yapabilirsin, inanıyorum!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki hedef belirleme konuşmamızdan sonra, şimdi biraz oyun zamanı! Oyuncaklarını toplarken bir yarışma yapalım. Bunu bir oyun gibi düşün ve en hızlı şekilde oyuncaklarını topla. Bu, hem eğlenceli hem de düzenli olmanı sağlar. Hazır mısın? Hadi başlayalım ve birlikte eğlenelim!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Harika! Şimdi, sana bir soru sormak istiyorum. Bugün öğrendiklerimizden en çok hangisini beğendin? Dikkatini toplamak mı, yoksa öz-düzenleme mi? Ya da belki de oyunlar ve şarkılar seni daha çok eğlendirdi. Cevabını duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Cevabını duymak gerçekten çok güzel! Şimdi, öğrendiklerimizi günlük hayatta nasıl kullanabileceğimizi düşünelim. Her gün küçük rutinler oluşturarak ve dikkatini toplayarak daha mutlu olabilirsin. Bu, hem okulda hem de oyun oynarken sana yardımcı olur. Her gün biraz pratik yaparak bu becerileri geliştirebilirsin."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda öğrendiklerimizi nasıl uygulayabileceğimizi konuştuk. Şimdi, bu becerileri nasıl daha da geliştirebileceğimize bakalım. Her gün biraz daha fazla odaklanarak ve sakinleşerek, bu becerileri güçlendirebilirsin. Bu, tıpkı kaslarını güçlendirmek gibi bir şeydir. Hadi, birlikte daha fazla pratik yapalım!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, birlikte bir rahatlama egzersizi yapalım. Gözlerini kapat ve yavaşça beşe kadar sayarken nefes al. Sonra, yine beşe kadar sayarak nefes ver. Bu, seni rahatlatır ve zihnini temizler. Bu egzersizi istediğin zaman yapabilirsin ve her seferinde daha iyi hissedeceksin."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkardın! Şimdi, öğrendiklerini uygulamanın ne kadar eğlenceli olabileceğini unutma. Her gün bu becerileri kullanarak daha mutlu ve huzurlu olabilirsin. Unutma, sen harikasın ve her şeyi başarabilirsin. Seni destekliyorum ve her zaman yanında olacağım!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık ve çok şey öğrendik. Dikkatini toplamak ve öz-düzenleme becerilerini geliştirmek için harika adımlar attık. Umarım bu yolculuk senin için de eğlenceli olmuştur. Şimdi veda zamanı ama her zaman geri dönebilirim. Hoşça kal ve kendine iyi bak, küçük dostum!"
+    }
+  ],
+  "title": "Yellowbuddy'ın Davranış ve Dikkat Hikayesi"
+}

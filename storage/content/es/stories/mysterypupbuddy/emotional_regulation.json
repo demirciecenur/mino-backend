@@ -1,0 +1,98 @@
+{
+  "id": "mystery pup buddy_regulación emocional, manejo de emociones, calmarse, autorregulación_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "regulación emocional, manejo de emociones, calmarse, autorregulación",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Mystery Pup Buddy, y hoy vamos a embarcarnos en una aventura increíble sobre la regulación emocional. ¿Alguna vez te has sentido muy feliz o muy enojado? ¡A mí también me pasa! Aprender a manejar nuestras emociones es muy importante. ¿Estás listo para descubrir cómo podemos calmarnos juntos? ¡Estoy tan emocionado de explorar esto contigo!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de lo que son las emociones. Las emociones son esos sentimientos que tenemos dentro, como la alegría cuando jugamos o la tristeza cuando algo nos duele. A veces, las emociones pueden ser intensas, como cuando tu corazón late rápido porque estás emocionado. Es completamente normal sentir diferentes emociones a lo largo del día. ¡Vamos a aprender cómo manejarlas de una manera divertida!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Una forma de manejar las emociones es aprender a respirar profundamente. Cuando respiramos despacito, nuestro cuerpo se relaja y nos sentimos más tranquilos. Vamos a intentarlo juntos: respira profundamente por la nariz, cuenta hasta tres, y luego suelta el aire por la boca. ¡Eso es, lo estás haciendo genial! Practicar esto puede ayudarnos a calmarnos cuando estamos muy emocionados o enojados."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora que sabemos cómo respirar para calmarnos, podemos usar esta habilidad cuando lo necesitemos. Recuerda que está bien sentirte de diferentes maneras. Lo importante es saber que puedes controlar cómo reaccionas. ¡Eres muy valiente por aprender esto conmigo! Estoy muy orgulloso de ti."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos que las emociones siempre están con nosotros, pero podemos aprender a manejarlas. A veces, cuando estoy asustado, recuerdo respirar y me siento mejor. ¿Te ha pasado alguna vez? Es como tener un superpoder que nos ayuda a sentirnos más tranquilos. ¡Sigamos explorando cómo podemos usar este poder!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Otra manera de regular nuestras emociones es hablar sobre ellas. Cuando compartimos cómo nos sentimos, nos ayuda a entender mejor nuestras emociones. Puedes decirle a un adulto o un amigo cómo te sientes. Por ejemplo, puedes decir: 'Hoy me siento feliz porque jugué con mis amigos'. ¡Intentémoslo juntos!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Hablar sobre tus emociones es como contar una historia sobre ti mismo. Es importante porque ayuda a los demás a entenderte mejor. Nunca tengas miedo de compartir lo que sientes. ¡Eres muy valiente y estoy aquí para apoyarte en el camino!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en lo que podemos hacer cuando sentimos emociones fuertes. A veces, cuando estoy muy emocionado, me gusta dar un paseo o jugar con mis juguetes. Hacer actividades que te gustan puede ayudarte a sentirte mejor. ¿Qué te gusta hacer cuando necesitas calmarte?"
+    },
+    {
+      "id": "question_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Tienes algún juego o actividad favorita que te ayude a sentirte tranquilo? Tal vez te guste colorear o escuchar música. ¿Te gustaría compartirlo conmigo? ¡Estoy muy curioso por saber qué te hace sentir bien!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Gracias por compartir conmigo. Ahora sabemos que hay muchas maneras de manejar nuestras emociones. Podemos respirar, hablar o hacer algo que nos guste. Todo esto nos ayuda a sentirnos mejor y más tranquilos. ¡Eres muy especial por aprender esto!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar una última cosa: cerrar los ojos y pensar en algo que nos haga sentir felices. Puede ser un recuerdo bonito o un lugar que te guste. Imagina ese lugar en tu mente y siente cómo te hace sonreír. ¿Lo tienes? ¡Qué bien se siente, verdad?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Increíble! Has aprendido tantas cosas hoy sobre cómo manejar tus emociones. Recuerda que siempre puedes usar estas herramientas cuando lo necesites. Eres fuerte y valiente, y estoy muy orgulloso de todo lo que has aprendido. ¡Sigue así!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Antes de irnos, recordemos lo que hemos aprendido. Hemos hablado de cómo respirar, compartir nuestros sentimientos y hacer cosas que nos hacen felices. Todas estas son formas maravillosas de manejar nuestras emociones. ¡Qué aventura tan divertida hemos tenido!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es hora de despedirnos, pequeño aventurero. Espero que hayas disfrutado de nuestra aventura sobre la regulación emocional. Recuerda que siempre puedes contar conmigo para aprender y explorar. ¡Gracias por ser un gran amigo y compañero de aventuras! ¡Hasta la próxima!"
+    }
+  ],
+  "title": "Historia de Emotional Regulation de Mystery Pup Buddy"
+}

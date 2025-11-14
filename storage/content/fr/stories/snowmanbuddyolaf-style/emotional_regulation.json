@@ -1,0 +1,104 @@
+{
+  "id": "snowman_buddy_olaf-style_régulation_émotionnelle_gestion_des_émotions_se_calmer_autorégulation_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis votre copain Bonhomme de Neige, inspiré par Olaf. Aujourd'hui, nous allons explorer le monde des émotions. Vous savez, ces petits sentiments qui font que l'on se sent parfois heureux, triste ou même un peu en colère. Êtes-vous prêts à découvrir comment les comprendre et les gérer? Je suis tellement excité de commencer cette aventure avec vous!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La première chose à savoir sur les émotions, c'est qu'elles sont normales et tout le monde en a. Parfois, on peut se sentir comme un volcan prêt à exploser de colère, ou comme un oiseau qui chante de bonheur. C'est important de savoir que toutes ces émotions sont valables. Mais ce qui est encore plus important, c'est comment on les gère. Vous voulez savoir comment on fait? Je vais vous le dire!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour bien gérer nos émotions, nous devons d'abord les reconnaître. Cela signifie que lorsque tu te sens triste, tu peux dire: 'Je suis triste'. C'est une bonne façon de commencer. Ensuite, tu peux essayer de comprendre pourquoi tu te sens comme ça. Est-ce parce que tu as perdu ton jouet préféré? Ou peut-être parce que tu as envie de jouer avec un ami? Comprendre la raison peut vraiment aider à se calmer."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, essayons ensemble! Si tu te sens un peu fâché, prends une grande inspiration. Respire profondément avec moi, d'accord? Inspirons... et expirons... C'est bien, tu vois? Parfois, prendre quelques respirations profondes peut nous aider à nous sentir plus calmes. C'est comme si on soufflait des nuages pour faire apparaître le soleil!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de la respiration? C'est un outil très puissant pour gérer nos émotions. Mais il y a aussi d'autres moyens amusants. Par exemple, tu peux chanter ta chanson préférée ou dessiner un joli dessin. Ces activités peuvent aider à changer notre humeur et nous faire sentir mieux. N'est-ce pas merveilleux de savoir que tu as le pouvoir de te calmer?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre astuce consiste à penser à quelque chose de joyeux, comme un souvenir heureux. Peut-être un jour où tu es allé au parc avec ta famille ou quand tu as mangé une glace délicieuse. Ces pensées peuvent nous aider à nous sentir plus légers et heureux. Alors, la prochaine fois que tu te sens un peu triste, essaie de penser à quelque chose qui te fait sourire."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail incroyable en apprenant tout cela! Vous savez, même les grands ont des émotions qu'ils doivent gérer. Et vous êtes déjà sur la bonne voie pour devenir de vrais experts en gestion des émotions. Continuez à pratiquer ces petits exercices, et vous verrez combien cela peut vous aider. Je suis tellement fier de vous!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de ce que l'on peut faire quand on est très excité. Parfois, on a tellement d'énergie qu'on ne sait pas quoi en faire! C'est là que bouger peut être une bonne idée. Tu peux courir, sauter, ou même danser sur ta musique préférée. Ça aide à libérer toute cette énergie et à te sentir plus calme après."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, qu'est-ce que vous aimez faire pour vous calmer? Est-ce que vous préférez lire un livre, ou peut-être écouter une histoire? Chacun a sa propre façon de se détendre. Vous pouvez essayer différentes choses pour voir ce qui fonctionne le mieux pour vous. Qu'en pensez-vous? Avez-vous déjà une idée?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "J'aimerais vous parler d'une autre façon de gérer les émotions: c'est l'autorégulation. C'est un mot un peu compliqué, n'est-ce pas? Mais ça veut simplement dire apprendre à contrôler ses réactions. Par exemple, si tu te sens frustré parce que tu ne peux pas faire quelque chose, tu peux essayer de demander de l'aide ou de faire une pause. C'est une compétence précieuse à avoir!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour pratiquer l'autorégulation, on peut utiliser une technique appelée le 'temps de pause'. Quand tu sens que tu es sur le point de te fâcher, tu peux dire: 'Je vais faire une pause'. Pendant cette pause, tu peux respirer, penser à quelque chose de joyeux, ou même compter jusqu'à dix. Cela te donne le temps de te calmer avant de réagir."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes vraiment doués pour apprendre tout cela! Chaque fois que vous pratiquez ces techniques, vous devenez plus forts dans la gestion de vos émotions. C'est comme un super pouvoir que vous développez. Continuez à essayer et à pratiquer, car chaque petit pas compte. Vous êtes des champions de l'autorégulation!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, il est aussi utile de parler de ses émotions à quelqu'un en qui on a confiance. Cela peut être un parent, un enseignant ou même un ami. Exprimer ce que l'on ressent peut vraiment aider à se sentir mieux. C'est comme partager un secret spécial qui rend le cœur plus léger. Alors, n'hésite pas à parler quand tu en as besoin."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Avez-vous déjà essayé de parler de vos émotions à quelqu'un? Comment cela s'est-il passé? Parfois, cela peut être un peu intimidant, mais c'est toujours une bonne idée. Partager ses sentiments peut renforcer les liens avec les autres et nous aider à comprendre que nous ne sommes pas seuls. C'est une belle chose à faire!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi pour explorer le monde des émotions. Vous avez appris des choses importantes aujourd'hui, et je suis si fier de vous! N'oubliez pas de pratiquer et de partager ce que vous avez appris. Je suis sûr que vous deviendrez des experts en régulation émotionnelle. À bientôt, mes amis, et souvenez-vous que je suis toujours là pour vous aider!"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Snowman Buddy Olaf-Style"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "funny_bunny_screen_time_story",
+  "character": "Funny Bunny",
+  "topic": "screen_time",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Funny Bunny, bu gün harika bir yolculuğa çıkacağız. Ekran süresi hakkında konuşmak için buradayım. Ekran süresi nedir, nasıl kullanmalıyız, hep birlikte öğrenelim. Hazır mısın? O zaman başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekran süresi, televizyon, tablet veya telefon gibi cihazlarla geçirdiğimiz zamandır. Çok fazla ekran süresi gözlerimizi yorabilir ve bizi yorgun hissettirebilir. Buna dikkat etmemiz gerekiyor, değil mi? Ayrıca, ekran başında çok fazla zaman geçirmek, oyun oynamak için dışarı çıkmamızı da engelleyebilir. Bu yüzden, ekran süresini dengeli kullanmak önemlidir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi ekran süresini nasıl dengeleyeceğimizi öğrenelim. İlk olarak, her gün belirli bir süre ekran karşısında kalmalıyız. Örneğin, bir saat oyun oynadıysak, biraz da dışarıda oynamak iyi olabilir. Ayrıca, ekran başında çok uzun süre oturmamak için her yarım saatte bir kalkıp hareket edebiliriz. Böylece hem eğleniriz hem de sağlıklı kalırız."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsun! Şimdi birlikte birkaç derin nefes alalım ve rahatlayalım. Bir, iki, üç... Derin nefes al ve ver. Kendimizi iyi hissetmek için nefes almak çok önemlidir. Sen de denemek ister misin? Hadi, birlikte yapalım!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi ekran süresiyle ilgili bir oyun oynamaya ne dersin? Oyuncaklarını ekran süresi gibi düşün. Her bir oyuncağı farklı bir süre için ayarlayabilirsin. Örneğin, bir oyuncakla 10 dakika oynadıktan sonra diğerine geçebilirsin. Böylece hepsine eşit zaman ayırmış olursun. Eğlenceli değil mi?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ekran süresini dengelemek için başka neler yapabiliriz, sence? Düşüncelerin neler? Belki de yeni bir kitap okumak ya da resim yapmak iyi bir fikir olabilir. Sen en çok ne yapmayı seviyorsun? Cevabını merakla bekliyorum!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda ekran süresini nasıl dengeleyebileceğimizi konuştuk. Şimdi bunu uygulamaya koymak için birkaç öneri vereceğim. Mesela, aile ile birlikte ekran süresini planlamak iyi bir başlangıç olabilir. Böylece herkesin ne kadar süre ekran başında kalacağını belirleyebiliriz. Bu size nasıl geliyor?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresini eğlenceli hale getirmek için başka bir yol da oyunlarla öğrenmek olabilir. Ekran başında eğitici oyunlar oynayarak hem eğlenebilir hem de yeni şeyler öğrenebiliriz. Bu tür oyunlar, renkleri, şekilleri veya hayvanları tanımamıza yardımcı olabilir. Sen de böyle oyunları denemek ister misin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen harikasın! Şimdi birlikte biraz daha hareket edelim. Hadi, beşe kadar sayarak zıplayalım. Bir, iki, üç, dört, beş! Hareket etmek çok eğlenceli ve sağlıklı. Sen de zıplarken eğleniyor musun? Harika, devam edelim!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki bölümde hareket etmenin önemini konuştuk. Şimdi ekran süresini nasıl daha keyifli hale getirebileceğimizi düşünelim. Belki de sevdiğimiz çizgi filmleri izlerken kısa molalar verebiliriz. Bu molalarda sevdiğimiz bir şarkıyı dinleyebilir veya dans edebiliriz. Böylece ekran başında sıkılmadan zaman geçirebiliriz."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence ekran süresi dışında başka neler yapabiliriz? Belki de yeni bir hobi edinmek iyi bir fikir olabilir. Resim yapmayı veya müzik aleti çalmayı denedin mi? Hangi aktiviteler seni mutlu ediyor, merak ediyorum!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ekran süresi dışında yapabileceğimiz birçok eğlenceli aktivite var. Örneğin, dışarıda arkadaşlarımızla oynamak ya da bisiklete binmek harika bir seçenek olabilir. Bu aktiviteler hem eğlenceli hem de sağlıklı. Sen hangisini denemek istersin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi ekran süresini daha iyi yönetmek için bir plan yapalım. Her gün ne kadar süre ekran başında kalacağımızı belirleyebiliriz. Ayrıca, hangi aktiviteleri yapacağımızı da planlayabiliriz. Bu planı ailemizle paylaşmak ve onların da fikirlerini almak iyi olabilir. Böylece daha dengeli bir gün geçirebiliriz."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün ekran süresi hakkında çok şey öğrendik ve eğlendik. Şimdi öğrendiklerimizi uygulamaya koyma zamanı. Unutma, ekran süresini dengeli kullanmak çok önemli. Her zaman sağlıklı ve mutlu kal. Bir sonraki buluşmamıza kadar kendine iyi bak! Hoşça kal!"
+    }
+  ],
+  "title": "Funny Bunny'ın Screen Time Hikayesi"
+}

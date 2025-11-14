@@ -1,0 +1,98 @@
+{
+  "id": "sunny_bedtime_story",
+  "character": "Sunny",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Sunny, y hoy vamos a embarcarnos en una aventura mágica sobre la hora de dormir. ¿Estás listo para descubrir todos los secretos para tener un sueño maravilloso? Estoy tan emocionado de estar aquí contigo. Hablaremos de las cosas especiales que hacemos antes de dormir para tener dulces sueños. Así que, ¡abramos la puerta a este mundo de sueños juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¿Sabías que tener una rutina antes de dormir puede ser muy divertido? Es como preparar un espectáculo especial cada noche. Primero, podemos empezar con un baño relajante. El agua calentita nos ayuda a sentirnos tranquilos y felices. Después, podemos ponernos nuestro pijama favorito, ¡como si estuviéramos vistiendo un traje de superhéroe! Así, estamos listos para la siguiente parte de nuestra rutina de dormir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora que estamos cómodos en nuestro pijama, es importante cepillarnos los dientes. ¿Por qué? Porque queremos que nuestros dientes estén limpios y fuertes, igual que los de un león. Tomemos nuestro cepillo y pongamos un poco de pasta de dientes. Ahora, cepillemos suavemente, como si estuviéramos pintando una obra de arte. ¡Es un trabajo importante y divertido!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial, amigo! Ahora, es el momento de elegir un cuento. ¿Tienes un libro favorito? Leer juntos es una forma maravillosa de relajarnos. Los libros nos llevan a mundos mágicos donde todo es posible. Podemos volar con dragones o bailar con hadas. ¡Qué emocionante es usar nuestra imaginación!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Después de leer, podemos hacer algo muy especial: ¡respirar profundamente! Vamos a sentarnos cómodos y respirar juntos. Inhalamos por la nariz contando hasta tres, y luego exhalamos suavemente por la boca. Esto nos ayuda a sentirnos tranquilos y listos para dormir. Es como si el aire nos abrazara suavemente. ¿No es maravilloso?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, es el momento de apagar las luces. Podemos dejar una pequeña luz nocturna si nos gusta. Esto nos ayuda a sentirnos seguros y acogidos en nuestra habitación. Si miramos alrededor, podemos ver las sombras que bailan suavemente. Es como si nuestra habitación se convirtiera en un teatro mágico, lleno de historias y sueños."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas cuando hablamos de los cuentos? Podemos inventar uno juntos antes de dormir. Piensa en un personaje divertido, como un oso bailarín o un conejo curioso. ¿Qué aventuras podrían tener? Usar nuestra imaginación es una forma fabulosa de relajarnos antes de dormir. ¡Qué divertido es crear historias juntos!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres tan creativo! Ahora, vamos a acurrucarnos en nuestra cama. Sentir las sábanas suaves es como recibir un abrazo cálido. Podemos cerrar los ojos y pensar en algo bonito que sucedió hoy. Tal vez fue un abrazo de mamá o una sonrisa de un amigo. Estos pensamientos felices nos ayudan a tener sueños dulces."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Tienes un peluche favorito con el que duermes? A veces, tener un amigo suave a nuestro lado nos hace sentir seguros y felices. ¿Cuál es su nombre? Podemos contarle nuestros sueños y aventuras mientras nos preparamos para dormir. ¡Es como tener un compañero de sueños!"
+    },
+    {
+      "id": "scene_9",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Escuchar los sonidos de la noche también es parte de nuestra rutina. Si prestamos atención, podemos oír el viento susurrando o los grillos cantando. Es como si la naturaleza nos estuviera cantando una canción de cuna. Estos sonidos nos ayudan a sentirnos conectados con el mundo que nos rodea."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Antes de dormir, podemos pensar en una cosa que nos gustaría hacer mañana. Tal vez jugar en el parque o dibujar un nuevo dibujo. Tener algo emocionante en mente nos hace sentir emocionados por el día siguiente. Así, nos dormimos con una sonrisa en el rostro, listos para soñar con nuevas aventuras."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos listos para dormir, podemos decir buenas noches a nuestra habitación. Decimos adiós a nuestros juguetes, libros y peluches. Les prometemos que jugaremos con ellos mañana. Este pequeño ritual nos ayuda a sentir que estamos cerrando el día de una manera especial. Es como decir 'hasta luego' a un amigo."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo has hecho! Has seguido todos los pasos de la rutina de dormir. Ahora, podemos cerrar los ojos y dejar que los sueños nos lleven a lugares mágicos. Recuerda que cada noche es una nueva oportunidad para soñar. ¡Eres un campeón en la hora de dormir!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido maravilloso compartir este momento contigo, pequeño amigo. Espero que tengas los sueños más dulces y que despiertes lleno de energía y alegría. Recuerda que siempre estoy aquí para acompañarte en tus aventuras. ¡Buenas noches y dulces sueños! Nos vemos pronto para más historias y diversión."
+    }
+  ],
+  "title": "Historia de Bedtime de Sunny"
+}

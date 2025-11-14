@@ -1,0 +1,104 @@
+{
+  "id": "rescue_pup_crew_nutrición_alimentación_saludable_hábitos_alimentarios_alimentos_saludables_story",
+  "character": "Rescue Pup Crew",
+  "topic": "nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeños amigos! Soy el Rescue Pup Crew, y hoy vamos a emprender un viaje increíble sobre la nutrición y la alimentación saludable. ¿Están listos para aprender y divertirnos juntos? Vamos a descubrir cómo los alimentos pueden ayudarnos a crecer fuertes y felices. Estoy muy emocionado de compartir esta aventura con ustedes. ¡Vamos a comenzar!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La nutrición es como darle a nuestro cuerpo el combustible que necesita para funcionar bien. Al igual que un coche necesita gasolina para correr, nosotros necesitamos alimentos saludables para tener energía. Comer frutas y verduras nos ayuda a mantenernos fuertes y saludables. También es importante beber suficiente agua para mantenernos hidratados. Ahora que sabemos esto, vamos a hablar sobre cuáles son los alimentos que nos hacen sentir mejor."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Es importante comer una variedad de alimentos coloridos. Los colores en las frutas y verduras significan que tienen diferentes vitaminas y minerales. Por ejemplo, las zanahorias naranjas tienen vitamina A, que es buena para nuestros ojos. Las espinacas verdes nos dan hierro para tener fuerza. ¿Pueden pensar en otros alimentos de colores que les gusten? ¡Vamos a intentar comer un arcoíris de alimentos cada día!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo están haciendo genial al aprender sobre los alimentos saludables! Ahora, vamos a hacer un pequeño ejercicio juntos. Vamos a contar hasta cinco mientras respiramos profundamente. Uno, dos, tres, cuatro, cinco. ¡Muy bien! Respirar profundamente también es importante para sentirnos tranquilos y felices."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden que no solo es importante qué comemos, sino también cómo comemos. Comamos despacio y disfrutemos cada bocado. Esto ayuda a nuestro estómago a digerir mejor los alimentos. También es un buen momento para disfrutar en familia y hablar sobre nuestro día. ¿Les gusta contar historias mientras comen? ¡Es una forma divertida de compartir!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora hablemos de un hábito muy importante: ¡el desayuno! El desayuno es la primera comida del día y nos da la energía que necesitamos para empezar bien la mañana. Comer algo como avena, fruta o yogur puede hacernos sentir listos para aprender y jugar. ¿Qué les gusta desayunar a ustedes? Recuerden, un buen desayuno nos ayuda a estar alertas y felices."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Increíble! Ahora que saben tanto sobre los alimentos saludables, pueden empezar a ayudar a sus familias a elegir qué comer. Pueden ser los pequeños héroes de la cocina. ¿Se animan a ayudar a preparar una ensalada o a elegir la fruta para el postre? ¡Sé que pueden hacerlo! Cada pequeño esfuerzo cuenta para mantenernos saludables."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Saben por qué es importante comer diferentes alimentos todos los días? Cada alimento tiene algo especial que nos ayuda a crecer y estar sanos. Al mezclar diferentes alimentos, obtenemos todo lo que necesitamos. ¿Pueden pensar en un día en el que comieron algo de cada color del arcoíris? ¡Eso es un gran logro!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora hablemos de un superhéroe de la nutrición: el agua. El agua es muy importante porque nos mantiene hidratados y ayuda a nuestro cuerpo a funcionar bien. Beber agua nos ayuda a mantenernos concentrados y a tener energía para jugar. ¿Cuántos vasos de agua creen que deberían beber al día? ¡Intenten beber agua cada vez que tengan sed!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora que sabemos lo importante que es el agua, podemos hacer un juego. Cada vez que bebamos un vaso de agua, podemos hacer una pequeña danza de la victoria. ¡Es divertido y nos recuerda lo bien que estamos cuidando de nosotros mismos! ¿Quieren intentarlo? ¡Estoy seguro de que les encantará!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Están aprendiendo mucho sobre cómo cuidar su cuerpo. Cada vez que elijan un alimento saludable, están dando un paso más hacia una vida feliz y saludable. Recuerden que cada elección cuenta y ustedes tienen el poder de ser fuertes y sanos. ¡Sigan así, pequeños campeones!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vamos a recordar todo lo que aprendimos hoy. La nutrición es importante para que crezcamos fuertes y saludables. Comer una variedad de alimentos coloridos nos da las vitaminas y minerales que necesitamos. No olvidemos el poder del agua y la importancia de disfrutar cada comida. ¿Qué fue lo que más les gustó aprender hoy?"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Les gustaría compartir lo que aprendieron con sus amigos o familiares? Pueden contarles sobre los alimentos del arcoíris o sobre la importancia de beber agua. Compartir lo que sabemos nos ayuda a recordar y a ayudar a los demás. ¿A quién les gustaría contarle sobre nuestra aventura de hoy?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué emocionante ha sido este día! Ahora que saben tanto sobre la alimentación saludable, pueden ser los héroes de su propia historia. Cada día es una nueva oportunidad para hacer elecciones saludables. Estoy seguro de que harán un trabajo increíble. ¿Listos para seguir adelante con todo lo que aprendieron hoy?"
+    },
+    {
+      "id": "closure_Y",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es hora de despedirnos, pero recuerden que siempre pueden contar conmigo para aprender más. Estoy muy orgulloso de todo lo que han aprendido hoy. Continúen haciendo elecciones saludables y cuidando de su cuerpo. ¡Nos veremos pronto para otra gran aventura! ¡Adiós, pequeños héroes!"
+    }
+  ],
+  "title": "Historia de Nutrition de Rescue Pup Crew"
+}

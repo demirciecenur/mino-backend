@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_emotional_regulation_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "emotional_regulation",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Sneaky Cat Tom. Bugün birlikte duygularımızı nasıl daha iyi anlayabileceğimizi keşfedeceğiz. Bunu yaparken eğlenceli ve macera dolu bir yolculuk bizi bekliyor! Hazır mısın? Seni çok merak ediyorum ve birlikte harika vakit geçireceğiz."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı anlamak bazen zor olabilir, değil mi? Ama merak etme, bu çok doğal bir şey. Duygularımız tıpkı gökyüzündeki bulutlar gibidir, bazen gelirler ve sonra giderler. Önemli olan, o an ne hissettiğimizi anlamak ve bu duyguları nasıl yöneteceğimizi öğrenmek. Şimdi birlikte duygusal bir keşfe çıkalım!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Peki, duygularımızı nasıl tanıyabiliriz? Öncelikle, derin bir nefes alalım ve içimize bakalım. Kalbimiz hızlı mı atıyor? Ya da midemizde kelebekler mi uçuşuyor? Bu hisler bize duygularımız hakkında ipuçları verir. Örneğin, kalbimiz hızla atıyorsa belki heyecanlıyızdır. Bu tür işaretler duygularımızı tanımamıza yardımcı olur."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi biraz pratik yapalım. Gözlerimizi kapatıp derin nefes alalım. İçimizde neler olup bittiğini anlamaya çalışalım. Belki biraz heyecan, biraz mutluluk ya da biraz da endişe hissediyoruz. Bunların hepsi normal ve önemli olan, bu duyguları nasıl yönetebileceğimizi öğrenmek. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda duygularımızı tanımayı öğrendik. Şimdi, bu duyguları nasıl kontrol edebileceğimizi konuşalım. Mesela, çok öfkelendiğimizde ne yapmalıyız? Derin nefes almak, su içmek ya da bir süre sakin bir yerde oturmak iyi bir fikir olabilir. Böylece duygularımızı kontrol altına alabiliriz."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte nefes egzersizi yapalım. Derin bir nefes al ve yavaşça ver. Bu, bedenimizi ve zihnimizi sakinleştirir. Duygularımızı kontrol etmek için harika bir yöntemdir. Her zaman bu basit egzersizi yaparak kendimizi daha iyi hissedebiliriz. Hadi, birlikte deneyelim!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Çok güzel! Sen gerçekten harika iş çıkarıyorsun. Duygularımızı tanımak ve kontrol etmek kolay olmayabilir, ama sen bunu yapabilirsin. Her zaman duygularını anlamaya çalış ve kendine zaman tanı. Unutma, her duygu önemlidir ve onları yönetmeyi öğrenmek bize güç verir."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Birlikte neler başardığımızı düşünelim. Duygularımızı tanıdık, onları kontrol etmeyi öğrendik ve şimdi daha güçlü hissediyoruz. Bu, her gün uygulayabileceğimiz bir şey. Örneğin, oyuncaklarımızı toplamak ya da dişlerimizi fırçalamak gibi basit görevlerle başlayabiliriz. Bu görevler, duygusal düzenlemeyi pekiştirir."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Senin en sevdiğin rahatlama yöntemin nedir? Belki bir oyuncakla oynamak ya da bir hikaye dinlemek olabilir. Neler yapmayı sevdiğini düşün ve bunu bana anlat. Merakla cevaplarını bekliyorum!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Vay canına, çok ilginç bir cevap verdin! Herkesin farklı rahatlama yöntemleri olabilir ve bu çok normal. Önemli olan, kendimize neyin iyi geldiğini bulmak ve bunu düzenli olarak uygulamak. Senin de harika fikirlerin var ve bunları denemek harika olacak!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki soruda harika cevaplar verdin ve bu beni çok mutlu etti. Şimdi, duygularımızı kontrol etmenin başka yollarını keşfedelim. Örneğin, bir resim yapmak ya da bir şarkı söylemek duygularımızı ifade etmenin harika yollarıdır. Böylece içimizdeki duyguları dışa vurabiliriz."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hadi şimdi birlikte bir resim yapmayı deneyelim. Kendimizi nasıl hissettiğimizi kağıda dökelim. Belki bir güneş çizebiliriz ya da rengarenk bir gökkuşağı. Bu, duygularımızı ifade etmenin eğlenceli bir yolu ve içimizdeki enerjiyi dışa vurur. Hadi, başla!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir resim yaptın! Renklerin ve çizgilerin duygularını çok güzel yansıtıyor. Bu tür aktiviteler duygusal düzenlemeye çok yardımcı olur. Seninle bu yolculuğa çıkmak gerçekten çok keyifli. Unutma, her zaman duygularını ifade edebilirsin ve bu harika bir şey."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bir resim yaptık ve duygularımızı ifade ettik. Şimdi, başka hangi aktiviteleri yapabileceğimizi düşünelim. Senin favori aktiviten ne? Belki bir kitap okumak ya da dans etmek olabilir. Cevabını merakla bekliyorum!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün duygularımızı daha iyi anlamak için harika bir yolculuk yaptık. Seninle bu macerayı paylaşmak çok güzeldi. Unutma, duygularımızı anlamak ve kontrol etmek her zaman önemlidir. Her zaman bu becerileri kullanabilirsin. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Sneaky Cat Tom'ın Emotional Regulation Hikayesi"
+}

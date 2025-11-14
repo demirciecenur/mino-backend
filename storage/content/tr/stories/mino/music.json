@@ -1,0 +1,98 @@
+{
+  "id": "mino_music_story",
+  "character": "Mino",
+  "topic": "music",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mino, uzaydan gelen maceracı arkadaşın. Bugün seninle müziğin büyülü dünyasına harika bir yolculuk yapacağız. Müzik, tıpkı yıldızlar gibi ışıl ışıl ve büyüleyicidir. Hazır mısın? Seni çok merak ediyorum ve birlikte harika bir zaman geçireceğimize eminim."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda müziğin büyülü dünyasına giriş yapacağımızı söylemiştim. Müzik, her yerde bulabileceğimiz harika bir şeydir. Doğada, kuşların cıvıltısında, rüzgarın hışırtısında bile müzik bulabiliriz. Peki, sen müziği nerelerde duyuyorsun? Müzik, duygularımızı ifade etmemize ve eğlenmemize yardımcı olur."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi müziğin nasıl yapıldığını keşfedelim. Müzik yapmak için farklı sesleri bir araya getiririz. Bir davulun ritmi, bir flütün melodisi ya da bir gitarın tınısı gibi. Her enstrümanın kendine özgü bir sesi vardır. Sen de evde kendi enstrümanını yapmayı denemek ister misin? Mesela, boş bir kutuya vurarak davul sesi çıkarabilirsin."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harikasın! Şimdi birlikte bir ritim oluşturalım. Ellerimizi birbirine vurup basit bir ritim yapabiliriz. Birlikte sayalım: bir, iki, üç, dört! Sen de benimle birlikte yapabilir misin? Harika, işte şimdi müziğin bir parçası oldun! Müzik böyle küçük adımlarla başlar."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede ritim oluşturmuştuk, hatırlıyor musun? Şimdi melodilere odaklanalım. Melodiler, bir dizi notanın arka arkaya gelmesiyle oluşur. Mesela bir kuşun şarkısı ya da bir ninni gibi. Hangi melodiyi hatırlıyorsun? Düşün bakalım, belki de en sevdiğin çizgi film müziği olabilir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi melodilerin nasıl oluştuğunu öğrenelim. Melodiler, notaların yüksekliğine ve uzunluğuna göre değişir. Bir nota uzun çalındığında farklı, kısa çalındığında farklı duyulur. Evdeki oyuncaklarınla farklı sesler çıkarmayı dene. Kim bilir, belki de kendi melodini bulabilirsin!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Çok güzel! Şimdi biraz da şarkılar hakkında konuşalım. Şarkılar, ritim ve melodinin birleşimidir. Bir şarkı söylediğimizde, hem duygularımızı ifade ederiz hem de eğleniriz. Sen en çok hangi şarkıyı söylersin? Belki de benimle birlikte bir şarkı söylemek istersin!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Müzik hakkında konuşurken, senin en sevdiğin müzik aletini merak ettim. Bir piyanoyu mu yoksa bir gitarı mı tercih edersin? Belki de bambaşka bir şeydir. Söyle bakalım, hangi müzik aletini çalmak isterdin? Kim bilir, belki de gelecekte bir müzisyen olabilirsin!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede hangi müzik aletini sevdiğini sordum. Şimdi biraz da müziğin duygularımız üzerindeki etkisinden bahsedelim. Müzik, bizi mutlu, hüzünlü ya da enerjik hissettirebilir. Sen hangi müzik türünü dinleyince mutlu oluyorsun? Müzik, ruhumuzun gıdasıdır derler, değil mi?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsun! Şimdi bir müzik oyunu oynayalım. Ben bir ritim tutacağım, sen de aynı ritmi tekrarlayacaksın. Hazır mısın? Bir, iki, üç, dört! Harika, çok iyi yapıyorsun! Bu şekilde kendi ritimlerinizi oluşturarak eğlenceli zamanlar geçirebilirsiniz."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki oyunumuzda ritim tuttuk. Şimdi biraz da müziğin bizi nasıl bir araya getirdiğinden bahsedelim. Müzik, insanları bir araya getirir ve birlikte eğlenmemizi sağlar. Düşünsene, bir konserde herkes aynı şarkıyı söylüyor! Sen de arkadaşlarınla birlikte müzik yapmayı sever misin? Müziğin gücü burada ortaya çıkıyor."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Müziğin birleştirici gücünden bahsetmiştik. Şimdi biraz da farklı kültürlerdeki müziklere bakalım. Her kültürün kendine özgü müzikleri ve dansları vardır. Mesela, Afrika'nın ritmik davulları ya da Asya'nın sakin melodileri. Sen hangi ülkenin müziğini merak ediyorsun? Belki de yeni bir şeyler keşfedebilirsin."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kültürel müziklerin çeşitliliğinden bahsettik. Şimdi kendi müzik yolculuğumuzu düşünelim. Müzik, bizim kim olduğumuzu ve ne hissettiğimizi anlatır. Senin hikayeni anlatan bir şarkı var mı? Belki de kendi şarkını yazmak istersin. Müzik, hayallerimizi ve duygularımızı paylaşmanın harika bir yoludur."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün seninle müziğin büyülü dünyasında harika bir yolculuk yaptık. Ritimler, melodiler ve şarkılarla dolu bir maceraydı. Seninle bu kadar çok şey paylaşmak beni çok mutlu etti. Umarım sen de eğlenmişsindir. Şimdi vedalaşma zamanı, ama unutma, müzik her zaman seninle olacak. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Mino'ın Music Hikayesi"
+}

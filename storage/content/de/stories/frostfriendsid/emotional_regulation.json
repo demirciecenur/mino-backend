@@ -1,0 +1,98 @@
+{
+  "id": "frost_friend_sid_Emotionsregulation_Gefühle_managen_sich_beruhigen_Selbstregulation_story",
+  "character": "Frost Friend Sid",
+  "topic": "Emotionsregulation, Gefühle managen, sich beruhigen, Selbstregulation",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Frost Freund Sid und heute gehen wir auf eine spannende Reise über Emotionsregulation. Weißt du, was das bedeutet? Es ist, wie man seine Gefühle lenkt, damit man sich besser fühlt. Wir werden zusammen lernen, wie man sich beruhigt, wenn man mal böse oder traurig ist. Bist du bereit? Ich bin schon ganz neugierig!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Gefühle sind wie Farben in einem großen Malkasten. Manchmal sind sie hell und fröhlich, und manchmal sind sie dunkel und traurig. Aber keine Sorge, alle Gefühle sind wichtig! Heute lernen wir, wie wir unsere Gefühle managen können, damit sie uns helfen und nicht stören. Das ist wie ein kleines Abenteuer in unserem Kopf!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du dich wütend fühlst, kannst du tief einatmen und bis fünf zählen. Lass uns das mal zusammen ausprobieren. Eins, zwei, drei, vier, fünf – tief einatmen und ausatmen. Das hilft, die Wut zu beruhigen, wie ein Sturm, der sich legt. Probier es mal aus, wenn du das nächste Mal wütend bist!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Siehst du, wie ruhig du jetzt bist? Du kannst das jedes Mal machen, wenn du dich aufregst. Erinnerst du dich an das letzte Mal, als du wütend warst? Jetzt weißt du, was du tun kannst! Ich bin so stolz auf dich!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Wusstest du, dass auch Lachen eine tolle Methode ist, sich besser zu fühlen? Wenn du traurig bist, versuch mal, an etwas Lustiges zu denken. Vielleicht an einen witzigen Witz oder ein lustiges Spiel. Lachen kann wie ein Sonnenstrahl sein, der die Wolken vertreibt!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt probieren wir etwas Neues aus. Stell dir vor, du bist ein ruhiger See. Atme tief ein und aus. Fühlst du, wie ruhig das Wasser ist? So kannst du dich fühlen, wenn du dich entspannst. Es ist wie Zauberei, die du selbst machen kannst!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wunderbar! Jetzt kannst du ein kleines Geheimnis für dich behalten: Du hast die Macht, deine Gefühle zu lenken. Das ist nicht einfach, aber du bist schon auf einem tollen Weg. Weiter so, kleiner Held!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Manchmal kann es auch helfen, mit jemandem zu reden, wenn man sich nicht gut fühlt. Vielleicht kannst du mit Mama oder Papa sprechen oder mit einem Freund. Es ist wie einen schweren Rucksack abzugeben, damit er leichter wird. Reden hilft immer!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du jemanden, mit dem du gerne redest, wenn du traurig bist? Es ist so wichtig, jemanden zu haben, der zuhört. Wer ist dein bester Zuhörer? Ich bin gespannt, von dir zu hören!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir wissen, wie wir unsere Gefühle managen können, ist unser Herz ein bisschen leichter. Denk daran, dass es okay ist, alle Arten von Gefühlen zu haben. Sie sind wie bunte Schmetterlinge, die uns zeigen, dass wir lebendig sind. Genieße die Farben!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns noch ein kleines Spiel machen. Stell dir vor, du bist ein fröhlicher Vogel, der durch die Wolken fliegt. Wenn du dich frei und leicht fühlst, kannst du die Arme ausbreiten und fliegen. Das hilft, sich gut zu fühlen und die Sorgen wegzufliegen!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein fantastischer kleiner Vogel! Siehst du, wie hoch du fliegen kannst? Mit jedem Flügelschlag wird alles einfacher. Du kannst immer zu diesem Gefühl zurückkehren, wenn du es brauchst. Flieg weiter, kleiner Freund!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an die ruhigen Momente, die wir zusammen erlebt haben? Diese Momente kannst du immer wiederholen. Sie sind wie kleine Schätze, die du immer bei dir hast. Du bist ein wahrer Emotionen-Abenteurer!"
+    },
+    {
+      "id": "scene_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Gefühle zu sprechen und neue Dinge zu lernen. Denk daran, dass du immer die Macht hast, deine Gefühle zu lenken. Ich freue mich schon darauf, dich bald wiederzusehen. Auf Wiedersehen, kleiner Freund, und bis zum nächsten Abenteuer!"
+    }
+  ],
+  "title": "Frost Friend Sids Emotional Regulation Geschichte"
+}

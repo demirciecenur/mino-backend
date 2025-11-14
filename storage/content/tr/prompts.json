@@ -1,0 +1,10 @@
+{
+  "language": "tr",
+  "prompts": {
+    "opening": "Merhaba! Ben {{character}}, renkli uzay arkadaşın 🌈 {{topic}} hakkında keşfetmeye hazır mısın?",
+    "closure": "Seninle konuşmak harikaydı! Güle güle! 👋",
+    "question_template": "Sen 5-9 yaş arası bir çocukla konuşan {{character}}'sın. Konu: {{topic}}. Ton: {{tone}}. Dil: {{lang}}. Kısa bir soru sor (<=12 kelime).",
+    "followup_template": "Sen {{character}}'sın. Çocuk dedi ki: \"{{child_text}}\". Kısa bir cümleyle cevap ver ve ilgili bir soru sor. Dil: {{lang}}."
+  }
+}
+

@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_behavior_story",
+  "character": "Piggy Friend",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Piggy Friend. Bugün birlikte davranışlar hakkında harika bir yolculuğa çıkacağız. İyi davranışlar, arkadaşlarımızla ve ailemizle daha iyi anlaşmamıza yardımcı olur. Hazır mısın? Seni çok merak ediyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Davranışlar, nasıl davrandığımız ve başkalarına nasıl davrandığımızla ilgilidir. Örneğin, lütfen demek ve teşekkür etmek iyi davranışlardır. İyi davranışlar, arkadaşlarımızı mutlu eder ve daha fazla arkadaş edinmemize yardımcı olur. Ayrıca, ailemizin bizimle gurur duymasını sağlar. Şimdi, iyi davranışların neler olduğunu daha ayrıntılı inceleyelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "İyi bir davranış örneği, oyuncaklarımızı toplamak olabilir. Oyun oynadıktan sonra oyuncaklarımızı yerine koymak, hem düzenli olmamızı sağlar hem de oyuncaklarımızın kaybolmasını önler. Ayrıca, ailemize yardım ettiğimiz için onları mutlu eder. Bu tür davranışlar, sorumluluk sahibi olduğumuzu gösterir. Şimdi, başka hangi iyi davranışları yapabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte iyi davranışlar hakkında konuşmak harika bir başlangıç! Peki, dişlerimizi düzenli fırçalamak da iyi bir davranış mıdır? Tabii ki! Dişlerimizi her gün fırçalamak, sağlıklı kalmamıza yardımcı olur ve güzel bir gülümsemeye sahip olmamızı sağlar. Sen de bu davranışları alışkanlık haline getirebilirsin. Hadi şimdi birkaç derin nefes alalım ve başka iyi davranışlara bakalım!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda dişlerimizi fırçalamaktan bahsetmiştik. Şimdi, sıra oyun oynarken sırayla oynamaya geldi. Sırayla oynamak, arkadaşlarımızla daha iyi anlaşmamıza yardımcı olur. Herkes sırayla oynadığında, herkes mutlu olur ve oyun daha eğlenceli hale gelir. Bu davranışı denemek ister misin? Hadi birlikte deneyelim."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, iyi davranışların neden önemli olduğunu düşünelim. İyi davranışlar, sevgi ve saygı göstererek başkalarına değer verdiğimizi gösterir. Bu, hem bize hem de çevremizdeki insanlara kendimizi iyi hissettirir. Ayrıca, iyi davranışlar insanların bize güven duymasını sağlar. Bu yüzden, her zaman iyi davranışlar sergilemeye çalışmalıyız."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "İyi davranışlar sergilemenin ne kadar önemli olduğunu gördük. Peki, sen hangi iyi davranışları sergileyebilirsin? Belki de arkadaşlarına yardım edebilir veya ailenle birlikte yemek masasına yardım edebilirsin. Her bir küçük davranış, büyük bir fark yaratabilir. Hadi, iyi davranışlar sergilemeye devam edelim ve bu konuda daha fazla konuşalım."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda sırayla oynamaktan bahsetmiştik. Şimdi, başka bir iyi davranış olan paylaşmayı keşfedelim. Paylaşmak, arkadaşlarımızla daha iyi ilişkiler kurmamıza yardımcı olur. Oyuncaklarımızı veya yiyeceklerimizi paylaşmak, cömert olduğumuzu gösterir. Cömert olmak, herkesin mutlu olmasına katkıda bulunur. Sen de paylaşmayı denemek ister misin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Oyuncaklarını paylaşmak sence iyi bir davranış mı? Neden böyle düşündüğünü merak ediyorum. Belki de paylaşmanın ne kadar değerli olduğunu daha iyi anlayabiliriz. Cevabını sabırsızlıkla bekliyorum. Senin fikirlerin benim için çok önemli!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Oyuncaklarını paylaşmanın iyi bir davranış olduğunu düşünüyorsan, harikasın! Paylaşmak, başkalarına değer verdiğimizi gösterir ve arkadaşlık bağlarımızı güçlendirir. Bu yüzden, paylaşmak her zaman iyi bir fikirdir. Şimdi, başka hangi iyi davranışları keşfedebileceğimize bakalım."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda paylaşmanın öneminden bahsetmiştik. Şimdi, bir başka önemli davranış olan dinlemeye geçelim. Dinlemek, başkalarına saygı gösterdiğimizi ve onları önemsediğimizi gösterir. Başkalarını dikkatlice dinlediğimizde, onların ne söylediğini anlarız ve daha iyi iletişim kurarız. Dinlemek, güçlü ilişkiler kurmanın anahtarıdır."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Dinlemenin ne kadar önemli olduğunu anladıktan sonra, bunu nasıl daha iyi yapabileceğimize bakalım. Birisi konuşurken gözlerine bakmak ve dikkatlice dinlemek önemlidir. Ayrıca, onları dinlediğimizi göstermek için başımızı sallayabiliriz. Bu, karşımızdaki kişiye saygı gösterdiğimizi hissettirir. Şimdi, dinleme becerilerimizi geliştirmek için birkaç ipucu öğrenelim."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Dinleme becerilerini geliştirmek, çok eğlenceli olabilir! Bir arkadaşın konuşurken, onun söylediklerini dikkatlice dinlemeyi deneyebilirsin. Onun söylediklerini anladığını göstermek için birkaç soru sorabilirsin. Bu, arkadaşının kendini değerli hissetmesini sağlar. Dinleme becerilerini geliştirmek için harika bir yol değil mi? Şimdi, başka bir iyi davranışa geçelim."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda dinlemenin öneminden bahsetmiştik. Şimdi, başka bir iyi davranış olan sabırlı olmayı keşfedelim. Sabırlı olmak, bazen beklememiz gerektiğinde çok önemlidir. Örneğin, bir oyun sırası beklerken sabırlı olmak, herkesin adil bir şekilde oynamasını sağlar. Sabırlı olmak, sakin ve mutlu kalmamıza yardımcı olur."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte birçok iyi davranış keşfettik. İyi davranışlar, hem kendimize hem de çevremizdekilere fayda sağlar. Davranışlarımızı geliştirerek, daha mutlu ve huzurlu bir yaşam sürebiliriz. Seninle bu yolculuğa çıkmak çok eğlenceliydi! Umarım, öğrendiklerini uygulamaya koyarsın. Tekrar görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Piggy Friend'ın Behavior Hikayesi"
+}

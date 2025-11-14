@@ -1,0 +1,98 @@
+{
+  "id": "koko_Ernährung_gesundes_Essen_Essgewohnheiten_gesunde_Lebensmittel_story",
+  "character": "Koko",
+  "topic": "Ernährung, gesundes Essen, Essgewohnheiten, gesunde Lebensmittel",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Koko, und heute begeben wir uns auf ein spannendes Abenteuer über Ernährung und gesundes Essen. Weißt du, warum es wichtig ist, gesund zu essen? Es hilft uns, stark und energiegeladen zu bleiben, genau wie ein Superheld! Bist du bereit, mehr darüber zu erfahren? Ich bin so neugierig auf dich und freue mich, diese Reise mit dir zu beginnen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir darüber gesprochen haben, wie wichtig es ist, stark zu sein? Essen spielt dabei eine große Rolle! Wenn wir gesunde Lebensmittel wie Obst und Gemüse essen, bekommen wir die Vitamine und Nährstoffe, die unser Körper braucht. Stell dir vor, dein Körper ist wie ein Auto, und das gesunde Essen ist der Treibstoff, der es am Laufen hält. Möchtest du wissen, welche gesunden Lebensmittel uns besonders stark machen?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns über einige Superhelden-Lebensmittel sprechen! Äpfel zum Beispiel sind knackig und süß und geben uns viel Energie. Karotten sind nicht nur lecker, sondern helfen auch unseren Augen, stark zu bleiben. Und Brokkoli ist wie ein kleiner Baum, der voller Vitamine steckt. Wenn wir diese Lebensmittel essen, fühlen wir uns wie echte Helden. Probier mal aus, beim nächsten Essen etwas von jedem zu essen!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Lass uns zusammen zählen, wie viele verschiedene Farben wir auf unserem Teller sehen können. Rot wie ein Apfel, grün wie Brokkoli und orange wie eine Karotte! Jede Farbe bringt uns etwas Gutes. So wie ein Regenbogen wunderschön ist, ist auch ein bunter Teller voller gesunder Lebensmittel toll für uns. Kannst du dir vorstellen, wie stark und mutig du dich fühlen wirst?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Denk daran, wie wichtig es ist, regelmäßig zu essen. Frühstück, Mittag- und Abendessen geben uns Energie für den ganzen Tag. Wenn wir zwischendurch Hunger haben, können gesunde Snacks wie Nüsse oder Joghurt helfen. Sie sind wie kleine Energiebooster für unseren Körper. Und wenn wir genug trinken, bleiben wir hydratisiert und fühlen uns wohl. Jetzt lass uns darüber sprechen, wie wir gesunde Essgewohnheiten entwickeln können."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Eine tolle Gewohnheit ist, langsam zu essen und gut zu kauen. Das hilft unserem Bauch, das Essen besser zu verdauen. Wenn wir langsam essen, können wir auch besser merken, wann wir satt sind. Und wenn wir gemeinsam mit unserer Familie oder Freunden essen, macht es noch mehr Spaß! Lass uns versuchen, unser nächstes Essen ganz bewusst zu genießen und auf unser Bauchgefühl zu hören. Jetzt kommen wir zu einer spannenden Frage!"
+    },
+    {
+      "id": "question_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du ein Lieblingsessen, das du gerne isst? Vielleicht magst du Spaghetti oder einen frischen Obstsalat? Es ist wichtig, verschiedene Lebensmittel auszuprobieren, um herauszufinden, was uns schmeckt und gut tut. Wenn du etwas Neues probierst, kannst du es wie ein Abenteuer betrachten. Bist du bereit, ein mutiger Entdecker zu sein und neue Geschmäcker zu entdecken?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über das Probieren neuer Lebensmittel gesprochen haben, lass uns darüber nachdenken, wie wir das tun können. Vielleicht kannst du beim nächsten Einkauf mithelfen, gesunde Lebensmittel auszuwählen. Oder du kannst Mama oder Papa in der Küche helfen, etwas Leckeres zu kochen. So lernst du mehr über die verschiedenen Zutaten und wie sie zubereitet werden. Zusammen macht das Kochen noch mehr Spaß!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein toller Küchenhelfer! Wenn du beim Kochen hilfst, kannst du auch sehen, wie sich die Lebensmittel verändern. Aus rohen Zutaten wird ein leckeres Gericht! Das ist wie ein kleines Wunder. Und wenn du dein eigenes Essen zubereitest, schmeckt es gleich noch besser. Lass uns gemeinsam ein einfaches Rezept ausprobieren und sehen, wie viel Spaß das macht. Du wirst es lieben!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir darüber gesprochen haben, dass Essen unser Treibstoff ist? Wenn wir gut essen, können wir besser spielen, lernen und Spaß haben. Unser Gehirn braucht auch Energie, um gut zu denken. Wenn wir in der Schule oder beim Spielen konzentriert sein wollen, hilft uns gesundes Essen dabei. Jetzt, wo wir so viel gelernt haben, lass uns überlegen, wie wir das in unseren Alltag einbauen können."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Eine Möglichkeit ist, einen Essensplan zu machen. Wir können uns überlegen, was wir an jedem Tag essen möchten. So sorgen wir dafür, dass wir viele verschiedene gesunde Lebensmittel haben. Und wenn wir einen Plan haben, fällt es uns leichter, gesunde Entscheidungen zu treffen. Vielleicht kannst du deinen eigenen kleinen Plan mit Hilfe von Mama oder Papa machen. Es ist wie ein Spiel, bei dem du jeden Tag neue, gesunde Abenteuer erlebst!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du schon mal versucht, dein eigenes Sandwich zu machen? Du kannst es mit verschiedenen Gemüsesorten, Käse und vielleicht etwas Hähnchen belegen. So ein Sandwich ist lecker und gesund. Und das Beste daran ist, dass du kreativ sein kannst. Vielleicht magst du es, dein Sandwich in lustige Formen zu schneiden. Lass uns kreativ sein und ein Sandwich-Kunstwerk schaffen!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viele Ideen für gesunde Ernährung haben, ist es Zeit, alles zusammenzufassen. Wir wissen, dass gesunde Lebensmittel wie Obst und Gemüse uns stark und energiegeladen machen. Wir haben über das langsame Essen und das Genießen jeder Mahlzeit gesprochen. Und wir haben gelernt, dass wir durch das Ausprobieren neuer Lebensmittel mutige Entdecker sein können. Jetzt lass uns einen Plan machen, wie wir diese tollen Dinge jeden Tag umsetzen können."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so toll, dieses Abenteuer über gesunde Ernährung mit dir zu erleben! Denk daran, dass du wie ein Superheld bist, wenn du gesunde Entscheidungen triffst. Du hast die Kraft, stark und gesund zu bleiben, indem du gut isst. Ich freue mich darauf, beim nächsten Mal mehr mit dir zu entdecken. Bis dahin, iss gesund, bleib stark und hab viel Spaß beim Entdecken neuer Lebensmittel. Auf Wiedersehen, kleiner Held!"
+    }
+  ],
+  "title": "Kokos Nutrition Geschichte"
+}

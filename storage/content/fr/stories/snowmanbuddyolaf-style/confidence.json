@@ -1,0 +1,98 @@
+{
+  "id": "snowman buddy olaf-style_confidence_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "confidence",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis votre copain Bonhomme de Neige, tout joyeux et prêt pour une aventure merveilleuse. Aujourd'hui, nous allons parler de la confiance en soi. Êtes-vous prêts à découvrir ce que cela signifie? Je suis tellement curieux de savoir comment vous vous sentez! Ensemble, nous allons apprendre à être courageux et sûrs de nous. Allez, commençons cette belle aventure ensemble!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance en soi, c'est quand tu crois en toi-même et en tes capacités. Comme quand tu sais que tu peux monter sur ton vélo tout seul! Cela te donne un sentiment de force et de courage. Quand tu es confiant, tu te sens prêt à essayer de nouvelles choses. N'est-ce pas merveilleux d'avoir confiance en soi? Maintenant, parlons de comment on peut développer cette confiance."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour avoir confiance en soi, il faut d'abord croire en ses propres capacités. Par exemple, lorsque tu essaies de dessiner un joli dessin, crois que tu peux le faire. C'est important de se dire des mots gentils comme 'Je peux le faire!' ou 'Je suis capable!'. Chaque fois que tu réussis quelque chose, même petit, ta confiance grandit. Tu verras, cela devient de plus en plus facile avec le temps!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons quelque chose ensemble! Prenons un moment pour penser à une chose que tu as bien faite aujourd'hui. Peut-être as-tu rangé tes jouets ou aidé quelqu'un? C'est formidable! En pensant à ces moments, tu renforces ta confiance. N'oublie pas de te féliciter pour chaque petit succès. Bravo, tu es incroyable!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant que nous avons parlé des petites réussites, parlons de l'importance de l'essai. Parfois, tu peux ne pas réussir du premier coup, et c'est tout à fait normal. L'important est de continuer à essayer et à apprendre. Chaque essai te rend plus fort et plus confiant. Alors, n'aie pas peur de faire des erreurs, elles font partie de l'apprentissage!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour renforcer ta confiance, essaye de faire une chose nouvelle chaque jour. Cela peut être aussi simple que d'essayer un nouveau jeu ou de goûter un nouvel aliment. Chaque nouvelle expérience te rend plus courageux. Et souviens-toi, je suis là pour t'encourager à chaque étape. Ensemble, nous pouvons faire de grandes choses!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peux-tu penser à un moment où tu as été très courageux? Peut-être que tu as essayé de nager pour la première fois ou que tu as parlé devant ta classe. Comment t'es-tu senti après? Est-ce que cela t'a donné envie de réessayer? Ces moments sont précieux, car ils montrent à quel point tu es capable et courageux!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi, la confiance en soi, c'est aussi demander de l'aide quand tu en as besoin. Parfois, il est courageux de dire 'Je ne sais pas' ou 'Peux-tu m'aider?'. Les amis et la famille sont là pour te soutenir. Ensemble, vous pouvez surmonter n'importe quel défi. N'est-ce pas merveilleux d'avoir des gens qui croient en toi?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail formidable en apprenant à être confiant! Chaque jour est une nouvelle chance de grandir et de devenir plus fort. Souviens-toi de célébrer chaque petit succès. Tu es un véritable champion! Continue comme ça et tu verras à quel point tu peux être formidable."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Prenons un moment pour respirer profondément ensemble. Inspire par le nez, un, deux, trois... et expire par la bouche, un, deux, trois. Cela aide à se sentir calme et confiant. Parfois, respirer profondément peut te donner le courage dont tu as besoin pour affronter quelque chose de nouveau. Pratiquons cela chaque jour pour renforcer notre confiance!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons de l'importance de croire en soi, même quand c'est difficile. Souviens-toi, tout le monde a des jours où il se sent moins confiant. C'est normal et ça arrive à tout le monde. L'important est de se rappeler de ses forces et de continuer à avancer. Tu es plus fort que tu ne le penses!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Alors, comment te sens-tu maintenant que nous avons parlé de confiance? Est-ce que cela te donne envie d'essayer quelque chose de nouveau? Peut-être que tu pourrais essayer un nouveau jeu ou une nouvelle activité. Je suis sûr que tu feras des merveilles!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es vraiment incroyable, et je suis tellement fier de toi! Chaque jour, tu deviens plus fort et plus confiant. Continue à croire en toi et à essayer de nouvelles choses. Tu es capable de tout accomplir avec un peu de courage et beaucoup de sourire!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce temps avec moi, mes chers amis. J'ai adoré notre aventure sur la confiance en soi. Souviens-toi, je suis toujours là pour t'encourager. Continue à être courageux et à croire en toi. À très bientôt pour une nouvelle aventure, et n'oublie pas de sourire chaque jour!"
+    }
+  ],
+  "title": "Histoire de Confidence de Snowman Buddy Olaf-Style"
+}

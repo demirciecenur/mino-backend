@@ -1,0 +1,110 @@
+{
+  "id": "piggy_friend_confidence_story",
+  "character": "Piggy Friend",
+  "topic": "confidence",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friend! I'm Piggy Friend, and today we're going on a wonderful adventure about confidence. Are you ready to explore and have fun together? Confidence means feeling good about yourself and trying new things. It's like when you learn to ride a bike or make a new friend. Let's discover how we can be more confident every day!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Do you remember the first time you tried something new? Maybe it was drawing a picture or playing a game. Sometimes it feels a little scary at first, but that's okay! With practice and a big smile, you can do anything. Confidence grows when we try and try again, just like how flowers bloom in the sunshine."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn a little exercise to boost our confidence. Stand up tall with your hands on your hips, and take a deep breath in, then out. Now say, 'I can do it!' Great job! When you tell yourself positive things, you start to believe them. It's like giving yourself a big, warm hug."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're doing amazing. Confidence is like a muscle; the more you use it, the stronger it gets. Think of something new you'd like to try, like learning a song or building a tower with blocks. Remember, it's okay to make mistakes because that's how we learn and grow."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about how friends can help us feel more confident. When we cheer each other on, it feels like having a team of superheroes by our side. Have you ever cheered for a friend at the playground? It makes everyone feel happy and strong, knowing we have support."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's imagine we're superheroes with special powers. Close your eyes and think about your superhero name and what your power would be. Maybe it's 'Brave Bunny' with the power to try new things! Remember, being confident is like having a superpower that you use every day."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Did you come up with a superhero name? That's fantastic! Superheroes are always learning and growing, just like you. Each day is a new adventure to discover how strong and confident you can be. Now, let's think about how we can help our friends feel confident, too."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Helping others feel confident is like spreading sunshine. When you say kind words or share your toys, you're making the world a brighter place. Think about a time when someone helped you feel happy and brave. It feels like a warm hug, doesn't it? Let's practice spreading that sunshine every day."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you felt really confident? Maybe it was when you learned to tie your shoes or helped a friend. Those moments are special because they show us how strong we are. What other things make you feel confident and happy?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great thinking! Remember, every time you try something new, you're growing your confidence. It's like planting seeds in a garden; with time and care, they become beautiful flowers. Keep trying new things, and you'll see how amazing you can be!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try another fun exercise to boost our confidence. Stand up, and let's jump up high while saying, 'I am brave!' Ready? One, two, three, jump! Well done! Feeling brave and confident is like having a dance party in your heart."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Confidence is also about asking for help when we need it. It's okay to say, 'Can you help me, please?' Everyone needs a little help sometimes, and that's perfectly okay. When we work together, we can do anything, like building a big puzzle or making a tall tower."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Isn't it great to know we can ask for help? It's like having a team of helpers ready to support us. Next time you feel unsure, remember that friends, family, and teachers are there to help you shine. Let's keep exploring the magic of confidence together!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning about confidence! Remember, it's about trying, learning, and growing every day. You're like a little star shining bright in the sky. Keep believing in yourself, and you'll achieve wonderful things!"
+    },
+    {
+      "id": "scene_14",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you know what makes you special and unique? Maybe it's your smile, your kindness, or how you always try your best. Everyone is special in their own way, and that's something to be very proud of. What do you think makes you special?"
+    },
+    {
+      "id": "closure_15",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this amazing confidence adventure! I'm so proud of you for learning and exploring with me. Remember, you're brave, strong, and capable of great things. Keep shining bright like the star you are. Goodbye for now, my little friend!"
+    }
+  ],
+  "title": "Piggy Friend's Confidence Story"
+}

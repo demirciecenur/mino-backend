@@ -1,0 +1,104 @@
+{
+  "id": "mino_bravery_story",
+  "character": "Mino",
+  "topic": "bravery",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba sevgili küçük dostlar! Ben Mino, maceracı uzay kaşifiniz. Bugün sizinle birlikte cesaretin ne demek olduğunu keşfedeceğiz. Hazır mısınız? Bu yolculukta birlikte korkularımızı nasıl yeneceğimizi öğreneceğiz. Çok heyecan verici olacak!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Cesaret, bazen çok büyük bir şey gibi görünebilir. Ama aslında, her gün yaptığımız küçük şeylerde de cesur olabiliriz. Mesela, karanlık bir odada tek başına kalmak veya yeni bir arkadaşla konuşmak gibi. Bu tür durumlarda kendimize güven duymak cesaretin bir parçasıdır. Şimdi cesaretin ne kadar önemli olduğunu anlamak için bir örnek verelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Diyelim ki, bir gün parkta oynuyorsunuz ve bir salıncağa binmek istiyorsunuz. Ama salıncak biraz yüksek ve bu sizi korkutuyor. İşte burada cesaret devreye giriyor. İlk adım, derin bir nefes almak ve kendinize 'Bunu yapabilirim!' demek. Sonra yavaşça salıncağa yaklaşmak ve bir adım atmak."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi, salıncağa oturduğunuzda, bir arkadaşınızın sizi yavaşça itmesine izin verin. İlk başta biraz korkutucu gelebilir ama bir süre sonra çok eğlenceli olduğunu fark edeceksiniz. İşte bu, cesaretin güç verdiği bir an! Başardığınız için kendinizle gurur duyabilirsiniz."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hatırlıyor musunuz, cesur olmak her zaman büyük şeyler yapmak demek değildir. Bazen sadece yeni bir yiyecek denemek bile cesaret gerektirir. Mesela, hiç tatmadığınız bir sebzeyi denemek gibi. Bu küçük adımlar, büyük cesaret gösterileridir. Şimdi, hayatımızdaki başka hangi durumlarda cesur olabiliriz?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi cesaretimizi artırmak için bir egzersiz yapalım. Gözlerinizi kapatın ve üç derin nefes alın. Her nefeste, kendinize 'Ben cesurum' deyin. Bu egzersiz, zor zamanlarda sakin kalmanıza ve cesur olmanıza yardımcı olabilir. Şimdi birlikte deneyelim!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardınız! Bu nefes egzersizi, cesur olduğunuzu hatırlatacak. Unutmayın, cesaret, başkalarına yardım ederken ya da bir arkadaşınıza destek olurken de ortaya çıkar. Her zaman cesaretinizi gösterebileceğiniz fırsatlar vardır. Şimdi başka bir örnekle devam edelim."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Diyelim ki, bir arkadaşınızın yardıma ihtiyacı var ve siz ona yardım etmek istiyorsunuz. Belki de okulda bir proje yaparken zorlanıyor. Ona yardım etmek için cesaretinizi toplamak ve yanına gidip 'Sana yardım edebilir miyim?' demek büyük bir adımdır. Bu, hem sizin hem de arkadaşınızın mutlu olmasına neden olabilir."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, siz hangi durumlarda cesur oldunuz? Belki ilk kez yüzmeye çalıştınız ya da bir hayvanla tanıştınız. Hadi bir düşünün. Hatırladığınız bir cesaret anınızı benimle paylaşmak ister misiniz? Dinlemek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda arkadaşlarımıza nasıl cesurca yardım edebileceğimizi konuştuk. Şimdi, cesaretin başka bir yönüne bakalım. Kendi hedeflerimize ulaşmak için de cesarete ihtiyacımız var. Mesela, bisiklet sürmeyi öğrenmek istiyorsanız, birkaç kez düşmekten korkmamalısınız. Her düşüşten sonra tekrar denemek cesaretin bir göstergesidir."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, cesaretimizi daha da artırmak için başka bir egzersiz yapalım. 5'e kadar sayalım ve her sayıda kendimize 'Ben güçlüyüm' diyelim. Bu egzersiz, kendimize olan güvenimizi artıracak ve zorluklarla başa çıkmamıza yardımcı olacak. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Müthiş! Bu sayma egzersizi sizi daha güçlü hissettirecek. Şimdi, cesaretin her zaman yanında olan bir şey daha var: sabır. Bazen istediğimiz şeylerin gerçekleşmesi zaman alabilir. Ama sabırlı olup beklemek de cesaretin bir parçasıdır. Unutmayın, her şeyin bir zamanı vardır."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, cesaretin günlük hayatımızda nasıl ortaya çıktığını düşünelim. Mesela, bir resim yaparken farklı renkler denemek cesaret ister. Çünkü sonuçta nasıl görüneceğini bilmeyebilirsiniz ve bu biraz korkutucu olabilir. Ama denemek, yeni şeyler keşfetmenizi sağlar ve bu da cesaretin güzel bir yanıdır."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda cesaret ve sabırdan bahsettik. Şimdi, öğrendiklerimizi nasıl kullanabileceğimizi düşünelim. Bugün, cesaretinizi gösterdiğiniz bir şey yapmaya ne dersiniz? Belki bir oyun oynarken yeni bir kural denemek ya da bir hikaye yazmak. Ne yaparsanız yapın, cesur olduğunuzu unutmayın!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün cesaret hakkında çok şey öğrendik ve birlikte harika bir yolculuk yaptık. Her birinizin cesur bir kalbi olduğunu biliyorum ve bu beni çok mutlu ediyor. Unutmayın, cesaret her zaman yanınızda olacak. Bir sonraki maceramızda görüşmek üzere! Hoşça kalın, küçük kaşifler!"
+    }
+  ],
+  "title": "Mino'ın Bravery Hikayesi"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "yellow buddy_confidence_story",
+  "character": "Yellow Buddy",
+  "topic": "confidence",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Yellow Buddy, et aujourd'hui, nous allons découvrir quelque chose de fantastique: la confiance en soi! Êtes-vous prêts pour cette aventure amusante? Je suis tellement excité de vous accompagner! Ensemble, nous allons apprendre à être courageux et à croire en nous-mêmes. Allons-y, c'est parti pour une journée remplie de joie et de confiance!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance en soi, c'est comme une petite lumière à l'intérieur de nous qui brille fort. Elle nous aide à essayer de nouvelles choses, comme monter sur un vélo ou chanter une chanson. Quand on croit en nous, on se sent fort et prêt à relever tous les défis! C'est comme avoir une cape de super-héros invisible qui nous rend invincibles. N'est-ce pas merveilleux de penser que nous avons tous cette lumière en nous?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment nous pouvons renforcer cette confiance. Une façon est de se rappeler des moments où nous avons réussi quelque chose. Par exemple, souvenez-vous de la fois où vous avez construit une tour de blocs très haute! C'était incroyable, n'est-ce pas? Chaque petite victoire nous rend plus confiants. Alors, pensons à ces moments spéciaux pour nous donner du courage."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons quelque chose ensemble! Fermons les yeux et prenons trois grandes respirations. Inspirons, expirons... C'est bien! En respirant calmement, nous pouvons sentir notre confiance grandir. Vous voyez, même les super-héros prennent une pause pour respirer profondément avant de partir à l'aventure. Vous êtes déjà sur la bonne voie pour devenir plus confiant!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de comment la confiance peut nous aider à essayer de nouvelles choses. Imaginez que vous voulez apprendre à jouer d'un instrument de musique, comme un tambour. Au début, cela peut sembler difficile, mais avec de la pratique et de la confiance, vous pouvez y arriver! Chaque fois que vous jouez, votre confiance grandit, et bientôt, vous jouerez des rythmes incroyables. Croyez en vous, et vous verrez que tout est possible!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Un autre moyen de renforcer la confiance est d'aider les autres. Lorsque vous aidez un ami à attacher ses lacets ou à ranger ses jouets, vous vous sentez bien et fier. Cela montre que vous êtes capable et gentil, et cela booste votre confiance en même temps! Alors, n'hésitez pas à tendre la main et à partager votre lumière avec ceux qui vous entourent."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Continuons avec un jeu amusant! Trouvons trois choses que vous aimez chez vous. Peut-être que vous êtes rapide comme l'éclair ou que vous avez un sourire qui illumine la pièce. Pensez à ces qualités spéciales, et souvenez-vous qu'elles font de vous une personne unique et incroyable. Bravo, vous êtes génial!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà ressenti de la fierté après avoir accompli quelque chose? Peut-être après avoir appris un nouveau mot ou terminé un puzzle difficile. Comment cela vous a-t-il fait sentir? Cette sensation de fierté est un indicateur que votre confiance grandit. Pensez à ces moments et laissez-les vous inspirer à essayer encore plus de nouvelles choses!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, nous pouvons avoir peur de ne pas réussir, mais c'est normal. Même les plus grands aventuriers ressentent cela! L'important est de se rappeler que chaque essai est une chance d'apprendre. Alors, n'ayez pas peur de faire des erreurs. Elles sont comme des petits tremplins qui nous aident à sauter encore plus haut vers le succès!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Voyons comment nous pouvons transformer nos doutes en confiance. Quand un doute apparaît, imaginez qu'il est une petite bulle de savon. Soufflez dessus doucement et regardez-la s'envoler et disparaître. Maintenant, sentez-vous plus léger et prêt à affronter le monde! Essayez de le faire chaque fois que vous vous sentez inquiet."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes incroyable et vous pouvez accomplir tout ce que vous désirez! Rappelez-vous, la confiance est comme une plante qui grandit avec soin et attention. Chaque mot gentil et chaque geste de courage sont comme de l'eau et de la lumière pour cette plante. Continuez à nourrir votre confiance et elle fleurira de plus en plus chaque jour!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Maintenant que nous avons parlé de confiance, que diriez-vous de partager ce que vous avez appris avec quelqu'un? Peut-être un ami, un parent ou même votre doudou préféré. Partager ce que nous savons est une excellente façon de renforcer notre propre confiance tout en aidant les autres à se sentir confiants aussi. Essayons ensemble!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Savez-vous ce que les super-héros font quand ils ont besoin d'un peu plus de confiance? Ils se rappellent de leurs réussites passées et se disent qu'ils peuvent le refaire. Quelle est votre réussite préférée? N'est-ce pas merveilleux de se souvenir de ces moments et de se sentir fort? Partagez votre histoire avec moi!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Et voilà, mes chers amis! Nous avons appris tant de choses sur la confiance aujourd'hui. N'oubliez jamais que vous êtes incroyables et que vous pouvez accomplir tout ce que vous souhaitez. Merci d'avoir partagé cette aventure avec moi, Yellow Buddy. Je suis tellement fier de vous! À bientôt pour une nouvelle aventure pleine de joie et de rires. Au revoir, mes petits héros!"
+    }
+  ],
+  "title": "Histoire de Confidence de Yellow Buddy"
+}

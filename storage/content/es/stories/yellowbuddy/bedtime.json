@@ -1,0 +1,98 @@
+{
+  "id": "yellow_buddy_bedtime_story",
+  "character": "Yellow Buddy",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Yellow Buddy, y hoy vamos a hablar sobre la hora de dormir. ¿Estás listo para una aventura divertida y relajante? Me encanta la hora de dormir porque es un momento especial para relajarse y soñar. Vamos a descubrir juntos cómo prepararnos para una buena noche de sueño. ¡Estoy tan emocionado de que estés aquí conmigo! ¿Listo para empezar?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de por qué la hora de dormir es tan importante. Dormir bien nos hace sentir felices y con energía para jugar al día siguiente. También ayuda a que nuestro cuerpo crezca fuerte y sano. ¿Sabías que mientras dormimos, nuestro cerebro ordena todas las cosas increíbles que aprendimos durante el día? Es como si nuestro cerebro estuviera haciendo un gran rompecabezas. ¡Qué interesante, ¿verdad?!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Antes de dormir, es importante tener una rutina que nos ayude a relajarnos. Una rutina puede incluir actividades como cepillarse los dientes y ponerse el pijama. También podemos leer un cuento o escuchar música suave. Estas actividades le dicen a nuestro cuerpo que es hora de descansar. Hacer lo mismo cada noche ayuda a que nuestro cuerpo se acostumbre y se prepare para dormir. ¿Te gustaría probar una rutina de noche?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a practicar juntos una parte de la rutina de noche! Primero, imaginemos que estamos cepillándonos los dientes. Tomamos nuestro cepillo de dientes y lo movemos arriba y abajo, y de lado a lado. ¡Muy bien! Ahora, vamos a ponernos nuestro pijama más cómodo. ¿Sientes lo suave que es? ¡Genial! Ya estás un paso más cerca de estar listo para dormir. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que tenemos nuestro pijama puesto, hablemos de cómo podemos relajarnos aún más. Una forma es cerrar los ojos y respirar profundamente. Inhalamos por la nariz, y exhalamos por la boca. ¡Hagámoslo juntos! Uno, dos, tres, inhale... y exhale. ¿No se siente maravilloso? Respirar así ayuda a que nuestro cuerpo se relaje y se prepare para un sueño tranquilo."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Tienes un peluche favorito que te gusta abrazar antes de dormir? Abrazar algo suave puede hacernos sentir seguros y felices. Yo tengo un osito llamado Teddy que siempre está conmigo. ¿Cómo se llama tu peluche? ¿Te gustaría contarme más sobre él? ¡Me encantaría saberlo!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué nombre tan bonito tiene tu peluche! Ahora, vamos a imaginar que estamos en un lugar mágico. Cierra los ojos y piensa en un campo lleno de flores. Podemos caminar entre ellas y sentir el suave viento en nuestra cara. Este tipo de imaginación nos ayuda a sentirnos tranquilos y listos para dormir. ¿Puedes oler las flores en tu imaginación? ¡Qué divertido!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Antes de que nos vayamos a dormir, es importante apagar las luces y decir buenas noches a todos. Apagar las luces le dice a nuestro cerebro que es hora de descansar. También podemos decir buenas noches a nuestros juguetes y agradecerles por un día divertido. Esto nos ayuda a sentirnos agradecidos y contentos antes de dormir. ¿Quieres intentarlo esta noche?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Ahora, pensemos en algo bonito que nos pasó hoy. Tal vez jugaste con un amigo o aprendiste algo nuevo. Recordar cosas felices nos ayuda a dormir mejor. ¿Puedes pensar en algo que te hizo sonreír hoy? ¡Eso es maravilloso! Siempre es bueno ir a dormir con pensamientos felices."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría que te contara un pequeño cuento antes de dormir? Los cuentos son una manera maravillosa de terminar el día. ¿Cuál es tu cuento favorito? Me encantaría escucharlo. Los cuentos nos llevan a lugares mágicos y nos ayudan a soñar grandes sueños. ¿Listo para una historia?"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Escuchar cuentos es siempre una gran idea. Ahora imagina que estamos en un bosque encantado. Hay árboles altos y un río que susurra canciones suaves. Podemos ver a los animalitos jugando entre las hojas. ¿Puedes escuchar el sonido del río? ¡Qué lugar tan tranquilo para visitar antes de dormir!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Antes de cerrar los ojos, recordemos hacer una respiración más profunda. Inhalamos por la nariz y exhalamos por la boca. Esto nos ayuda a terminar el día con calma. Ahora, estirémonos un poquito como un gato y relajemos todo nuestro cuerpo. ¿Sientes cómo tu cuerpo se relaja? ¡Eso es! Ahora estás listo para un descanso reparador."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Has hecho un trabajo increíble preparando todo para dormir! Estoy muy orgulloso de ti. Ahora, es hora de cerrar los ojos y dejar que los sueños te lleven a lugares mágicos. Recuerda que siempre estoy aquí para ayudarte a dormir bien. ¡Dulces sueños, pequeño amigo! Mañana será otro día lleno de aventuras y diversión."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Gracias por acompañarme en esta aventura de la hora de dormir, pequeño amigo. Espero que hayas disfrutado y aprendido mucho. Recuerda que siempre puedes seguir esta rutina para tener sueños felices. ¡Nos vemos pronto para más aventuras! Buenas noches y que descanses bien. ¡Hasta la próxima!"
+    }
+  ],
+  "title": "Historia de Bedtime de Yellow Buddy"
+}

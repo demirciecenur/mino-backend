@@ -1,0 +1,104 @@
+{
+  "id": "mystery_pup_buddy_screen_time_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "screen_time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Mystery Pup Buddy, your furry mystery-solving pal. Today, we're going on an amazing adventure to learn about screen time. Are you ready to join me on this journey? We'll discover what screen time is and why it's important to balance it with other fun activities. I'm so excited to explore this with you!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about screen time. Screen time is when we use devices like tablets, phones, or TVs to watch or play. It's fun, but did you know it's also important to take breaks? Just like playing outside or reading a book, taking breaks from screens helps our eyes rest and lets us do other fun things. What are some of your favorite activities to do away from screens?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about taking breaks? Let's learn how to do it together! We can set a timer to remind us when it's time to pause and play. How about we count to five together, like this: one, two, three, four, five! Great job! This helps us remember to play games like tag or build with blocks."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning about screen time! Let's think of some fun activities you can do instead of using screens. How about drawing a picture, playing with a pet, or even dancing to your favorite song? These activities help our minds grow and keep us happy and healthy. You can do it!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue exploring more about screen time. Did you know that when we take breaks, it helps us sleep better at night? When we read a book or listen to music before bed instead of watching a screen, it helps our bodies relax. This way, we wake up feeling refreshed and ready for a new day of fun!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's practice a fun exercise to help us relax after screen time. We're going to take three deep breaths together. Ready? Breathe in slowly... and out. That's one! Again, in... and out. That's two! One more time, in... and out. That's three! Wonderful! This helps us feel calm and ready for our next adventure."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well! Let's think about how we can share what we've learned. Maybe you can tell your family or friends about taking screen breaks. You can even plan a fun activity together, like a picnic or a game of hide and seek. Sharing is caring, and you're a great friend!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's remember why balancing screen time is important. When we mix screen time with other activities, it helps us learn new things and have fun in different ways. Just like eating a variety of foods, having a mix of activities keeps us healthy and happy. What new things would you like to try today?"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Speaking of new things, have you ever tried making up your own story? It's like creating an adventure in your imagination! You can be the hero, just like me, Mystery Pup Buddy. Maybe your story will have a treasure hunt or a magical land. Stories are a great way to use your creativity!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try a fun game together! It's called 'I Spy.' I'll start: I spy with my little eye something that is green. Can you guess what it is? That's right, it's the grass! Now it's your turn to play with your family or friends. Games like this help us explore the world around us."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "I'm curious, do you have a favorite screen time activity? Maybe it's watching cartoons or playing a fun game. It's great to have favorites, but remember to take breaks and explore other activities too. What new activity would you like to try next time you take a break?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a great job learning about screen time! Keep up the good work, and remember to take breaks and have fun with other activities. You're becoming a screen time expert, just like a mystery-solving pup! Keep exploring and trying new things, and you'll always have exciting adventures."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's think about how we can make our screen time even more fun! Maybe you can watch a show with your family or play a game together. Sharing screen time with others can make it more enjoyable and a great way to spend time with loved ones. What do you think you can do with your family today?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember, exploring the world around us is just as exciting as screen time. Whether it's building a fort or going on a nature walk, there's always something new to discover. What will your next adventure be? I bet it will be amazing and full of fun surprises!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this screen time adventure! We've learned so much about balancing screen time with other fun activities. Remember, taking breaks and trying new things helps us grow and be happy. I hope you had fun, and I can't wait for our next adventure together. Goodbye, little friend!"
+    }
+  ],
+  "title": "Mystery Pup Buddy's Screen Time Story"
+}

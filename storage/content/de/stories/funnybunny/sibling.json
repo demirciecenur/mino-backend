@@ -1,0 +1,98 @@
+{
+  "id": "funny_bunny_sibling_story",
+  "character": "Funny Bunny",
+  "topic": "sibling",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Funny Bunny und heute haben wir eine spannende Geschichte über Geschwister. Weißt du, Geschwister sind wie beste Freunde, die immer da sind. Wir werden herausfinden, warum es so toll ist, Geschwister zu haben. Bist du bereit für dieses Abenteuer? Ich freue mich so sehr darauf, mit dir zu plaudern!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister zu haben bedeutet, dass man jemanden hat, mit dem man spielen kann. Stell dir vor, du baust einen riesigen Turm aus Bauklötzen. Dein Bruder oder deine Schwester kann dir helfen, ihn noch höher zu machen! Manchmal gibt es auch Streit, aber das ist okay. Wichtig ist, dass man sich immer wieder verträgt und zusammen lacht. Jetzt lass uns darüber sprechen, wie man am besten teilt."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Teilen ist wie ein kleines Geschenk, das man jemandem macht. Wenn du dein Lieblingsspielzeug teilst, machst du deinen Bruder oder deine Schwester glücklich. Es zeigt, dass du an sie denkst und sie gern hast. Manchmal ist es schwer, aber es fühlt sich gut an, wenn man es tut. Lass uns gemeinsam überlegen, was du alles teilen könntest."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Du kannst dein Spielzeugauto teilen oder ein spannendes Buch. Vielleicht sogar ein leckeres Stück Obst. Siehst du, wie viele Möglichkeiten es gibt? Du bist wirklich großartig darin, anderen eine Freude zu machen. Jetzt lass uns über das Spielen sprechen!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Spielen mit Geschwistern kann so viel Spaß machen! Ihr könnt zusammen neue Spiele erfinden oder alte Spiele spielen. Vielleicht spielt ihr Verstecken oder malt zusammen ein Bild. Es ist so schön, gemeinsam kreativ zu sein! Was ist dein Lieblingsspiel mit deinem Bruder oder deiner Schwester?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich an das letzte Mal, als ihr zusammen gespielt habt? War es nicht toll, wie ihr euch gegenseitig geholfen habt? Wenn ihr zusammenarbeitet, könnt ihr tolle Dinge erreichen. Gemeinsam seid ihr ein starkes Team. Jetzt lass uns mehr über Geschwisterliebe erfahren."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Geschwisterliebe ist etwas ganz Besonderes. Es bedeutet, dass man sich immer umeinander kümmert. Wenn dein Bruder traurig ist, kannst du ihn trösten. Oder wenn deine Schwester Hilfe braucht, bist du da. Das ist wahre Geschwisterliebe! Jetzt lass uns überlegen, wie wir diese Liebe zeigen können."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Toll gemacht! Du kannst ein Bild malen oder eine Umarmung geben. Vielleicht auch einfach nur zuhören, wenn sie etwas erzählen wollen. Es sind die kleinen Dinge, die zählen. Du machst das wirklich wunderbar! Jetzt lass uns über das Zusammenhalten sprechen."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Zusammenhalten ist wichtig, wenn man Geschwister hat. Wenn ihr zusammenhaltet, könnt ihr alles schaffen! Vielleicht müsst ihr zusammen ein großes Puzzle lösen oder ein Abenteuer im Garten erleben. Wenn ihr euch gegenseitig helft, wird alles einfacher. Jetzt lass uns eine kleine Übung machen!"
+    },
+    {
+      "id": "scene_9",
+      "type": "interaction",
+      "videoKey": "lean_closer",
+      "text": "Lass uns zusammen bis fünf zählen! Eins, zwei, drei, vier, fünf! Großartig! Das habt ihr zusammen gemacht. So einfach ist es, zusammenzuarbeiten. Jetzt lass uns darüber sprechen, warum das wichtig ist."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Zusammenarbeiten macht alles viel einfacher. Wenn ihr zusammen arbeitet, könnt ihr große Hindernisse überwinden. Es ist wichtig, aufeinander zu hören und sich gegenseitig zu helfen. So könnt ihr gemeinsam stark sein! Jetzt lass uns über das Vergeben sprechen."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vergeben ist ein schönes Geschenk, das man einem anderen machen kann. Manchmal macht jemand einen Fehler, und das ist in Ordnung. Wichtig ist, dass man verzeiht und weitermacht. Du bist wirklich gut darin, zu vergeben! Jetzt lass uns eine Frage stellen."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkst du, warum ist es wichtig, Geschwister zu haben? Ist es nicht schön, jemanden zu haben, der immer für einen da ist? Ich bin gespannt, was du denkst! Jetzt lass uns zum Abschluss kommen."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Das war ein tolles Gespräch über Geschwister, nicht wahr? Ich hoffe, du hattest genauso viel Spaß wie ich. Denk daran, dass Geschwister eine wunderbare Sache sind. Sie sind Freunde fürs Leben! Ich freue mich darauf, bald wieder mit dir zu plaudern. Tschüss, kleiner Freund!"
+    }
+  ],
+  "title": "Funny Bunnys Sibling Geschichte"
+}

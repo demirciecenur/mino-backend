@@ -1,0 +1,98 @@
+{
+  "id": "mino_feelings_story",
+  "character": "Mino",
+  "topic": "feelings",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little explorers! I'm Mino, your friendly space adventurer. Today, we're going on a fantastic journey to discover feelings. Feelings are like the colors of the rainbow inside us, making every day special. Are you ready to explore this colorful world of emotions with me? Let's buckle up and fly through the stars of happiness, sadness, and everything in between. I'm so excited to start this adventure with you!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Feelings are something we all have, just like we all have a heart that beats. Sometimes, we feel happy, like when we get a big hug from someone we love. Other times, we might feel sad, like when our favorite toy gets lost. Feelings help us understand what we like and what we don't like. They tell us when something makes us feel good or when something makes us feel not so good. Isn't it amazing how our feelings can tell us so much about ourselves?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's learn how to recognize our feelings. When you feel happy, your face might smile, and your heart feels light like a feather. When you're sad, you might have a frown, and maybe tears come to your eyes. It's okay to have these feelings; they are important. Try to notice what happens in your body when you feel different emotions. Recognizing these signs is the first step to understanding how you feel."
+    },
+    {
+      "id": "scene_3",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Let's play a fun game together! I'll say a feeling, and you show me with your face how it looks. Ready? Let's start with happy. Can you show me your happiest smile? Great job! Now, let's try surprised. Open your eyes wide and say 'wow!' You're doing amazing! This game helps us understand how different feelings look and feel."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about recognizing feelings? It's also important to express them. If you're happy, you might want to laugh or dance. If you're sad, it's okay to cry or talk to someone about it. Expressing our feelings helps us feel better and lets others know how we feel. It's like sharing a secret, but with our hearts. Isn't that a wonderful way to connect with people we care about?"
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You can express your feelings in many ways. Drawing a picture, playing a song, or even just saying how you feel are great ways to share what's inside. Let's try drawing a feeling. Grab a crayon or pencil. Think of a time you felt really happy and draw it. Look at your colorful creation! Isn't it fun to see your feelings on paper? You did an amazing job!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about how we can help others with their feelings. When someone is sad, we can give them a hug or listen to them. If someone is happy, we can laugh and play with them. Helping others with their feelings is like being a feelings superhero. We all have the power to make someone’s day a little brighter. Isn't that a superpower you'd like to have?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice being feelings superheroes right now. Imagine your friend looks sad. What could you do to help them feel better? You might offer them a toy or tell them a funny story. These small acts of kindness show we care and can help turn a frown into a smile. Let's all be feelings superheroes every day!"
+    },
+    {
+      "id": "scene_8",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Now, let's take a moment to relax and think about our feelings. Sit comfortably and close your eyes if you want. Take a deep breath in, like you're smelling a beautiful flower. Now breathe out slowly, like you're blowing out a candle. Let's do this three times together. Doesn't that feel calming? Breathing helps us feel better when our feelings are big."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever felt more than one feeling at the same time? Like maybe feeling excited and a little scared about starting something new, like a big slide at the playground? It's okay to feel lots of things at once. Our hearts are big enough for all these feelings. Can you think of a time you felt more than one emotion? Share it with someone next to you!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Sometimes, feelings can feel really big, like a giant wave in the ocean. When that happens, it's important to have ways to calm down. We can count to five, take deep breaths, or even imagine we're floating on a cloud. These little tricks help us feel more in control and make the big feelings not so big anymore. Let's try one of these calming tricks next time we have a big feeling!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Great job exploring feelings with me today! Let's remember all the wonderful things we learned. We discovered how to recognize our feelings, express them, and even help others with theirs. We also practiced calming down and being feelings superheroes. Remember, every day is a new adventure with our feelings. Are you ready for more adventures tomorrow?"
+    },
+    {
+      "id": "scene_12",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Now let's listen to our hearts and think about our favorite part of today’s journey. Was it drawing your feelings or playing the face game? Or maybe it was learning to be a feelings superhero? Listening to our hearts helps us know what makes us happy. What was your favorite part? Keep it in mind, and let's do more of that!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me, Mino, on this exciting feelings adventure. Remember, feelings are like stars in the sky, always there to guide us. Keep exploring and sharing your feelings with friends and family. It's time to say goodbye, but our adventure will continue in your heart. Until next time, keep shining bright like a star. Goodbye, little explorers!"
+    }
+  ],
+  "title": "Mino's Feelings Story"
+}

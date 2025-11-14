@@ -1,0 +1,104 @@
+{
+  "id": "yellow buddy_screen_time_story",
+  "character": "Yellow Buddy",
+  "topic": "screen_time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friend! I'm Yellow Buddy, your cheerful companion for today. We're going to embark on a fun adventure about screen time. Are you ready to play and learn with me? I promise it'll be a lot of fun, with laughs and giggles along the way. Let's get started!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Screen time means the time you spend looking at screens like TVs, tablets, or phones. Isn't it fun to watch cartoons or play games? But, just like eating too much candy, too much screen time isn't always good. It can make your eyes tired and your body feel sleepy. That's why we need to balance it with other fun activities!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's talk about some fun things we can do instead of too much screen time. How about playing outside in the fresh air? You could run, jump, or even dance like a silly monkey! Or maybe you could read a colorful book, where each page is like a new adventure. These activities help your body grow strong and your mind stay sharp."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job listening so far! Now, let's try something together. How about we take three big, calming breaths? Ready? Breathe in... and out. One more time! Breathe in... and out. Wonderful! This helps us feel relaxed and ready for more fun. You did amazing!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about playing outside? It's not just fun, but it also makes our hearts happy and healthy. You can play tag, kick a ball, or even build a sandcastle if you're at the beach. These activities are like magic for your body, making it stronger and more energetic. And don't forget, playing with friends is always the best!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Speaking of friends, do you have a favorite game you like to play with them? Maybe hide and seek, or perhaps a fun game of pretend? These games are fantastic because they let your imagination run wild. You can be a pirate, a superhero, or even a brave explorer. The possibilities are endless!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you know why it's important to balance screen time with other activities? It's because too much screen time can make us feel tired and grumpy. But when we mix it with playing outside or reading, it makes us feel happy and full of energy. What do you think? Do you have a favorite activity besides watching screens?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about a super fun activity: drawing and coloring! You can use crayons, markers, or even paint to create your own masterpiece. Drawing is like telling a story with colors and shapes. It's a wonderful way to express yourself and show your creativity. Plus, it's a great break from screens!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try a quick and fun exercise together. How about we count to five while jumping? Ready? One, two, three, four, five! Great job! Jumping helps us feel joyful and keeps our bodies active. Remember, moving around is just as important as resting and watching your favorite shows."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing fantastic! You're learning so much about balancing screen time. Keep up the great work, and remember that every little step counts. You're like a super explorer, discovering new ways to have fun. Pat yourself on the back, because you're amazing!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about bedtime. Did you know that too much screen time before bed can make it hard to sleep? That's why it's a good idea to read a book or listen to a bedtime story instead. It helps your mind relax and gets you ready for sweet dreams. And we all love a good night's sleep, don't we?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Have you ever tried making up your own bedtime story? It's so much fun! You can create a story about a flying dragon or a magical forest. You can even make it about your day and the adventures you went on. Your imagination is a powerful tool, and it can take you to wonderful places!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What do you like to do before bed to help you relax? Maybe you like to snuggle with a favorite toy or listen to calming music. These are great ways to wind down and prepare for sleep. Do you have a bedtime routine that you enjoy? I'd love to hear about it!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we near the end of our adventure, let's remember all the fun things we learned today. Balancing screen time with other activities is important for staying healthy and happy. Whether it's playing outside, drawing, or reading, there are so many wonderful things to do. You're a superstar at finding new ways to have fun!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for spending time with me today! I had so much fun exploring screen time and other activities with you. Remember, you can always come back to this adventure whenever you want. Until next time, keep smiling and enjoying all the amazing things you do. Goodbye, my friend!"
+    }
+  ],
+  "title": "Yellow Buddy's Screen Time Story"
+}

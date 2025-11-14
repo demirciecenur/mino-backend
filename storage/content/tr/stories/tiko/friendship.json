@@ -1,0 +1,104 @@
+{
+  "id": "tiko_friendship_story",
+  "character": "Tiko",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük arkadaşım! Ben Tiko, maceraperest ve neşeli bir dost. Bugün seninle arkadaşlık hakkında harika bir yolculuğa çıkacağız. Arkadaşlık, oyun oynamak ve paylaşmak gibi güzel şeyleri içerir. Hazır mısın? Bu macerada seni çok merak ediyorum ve birlikte harika vakit geçireceğiz. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, iki ya da daha fazla kişinin birbirine sevgi ve saygı duymasıdır. Bu, birlikte oyunlar oynayıp eğlenmek anlamına gelir. Örneğin, parkta bir top oyunu oynarken yeni arkadaşlar edinebilirsin. Arkadaşlar birbirlerine yardım eder ve zor zamanlarda destek olurlar. Senin de böyle arkadaşların var mı? Onlarla neler yapmayı seviyorsun?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaş edinmek için bazı önemli adımlar var. İlk adım, gülümseyerek ve nazik bir şekilde 'Merhaba' demektir. İnsanlarla konuşurken gözlerinin içine bakmak da önemlidir. Eğer birisi üzgünse, ona destek olmak ve yanında olmak güzel bir davranıştır. Unutma, arkadaşlık her zaman karşılıklı sevgi ve saygı ile güçlenir. Şimdi bunları denemek ister misin?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi birlikte bir oyun oynayalım! Elindekileri paylaşmak, arkadaşlığın önemli bir parçasıdır. Mesela, oyuncaklarını arkadaşlarınla paylaşabilirsin. Bu, onlara ne kadar değer verdiğini gösterir. Ayrıca, birlikte yeni şeyler keşfetmek de arkadaşlığı güçlendirir. Sen de oyuncaklarını paylaşmayı sever misin? Harika, sen gerçekten harika bir arkadaşsın!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda arkadaşlık ve paylaşmanın öneminden bahsetmiştik. Şimdi, arkadaşlarınla nasıl daha iyi vakit geçirebileceğinizi konuşalım. Onlarla birlikte hikayeler uydurabilir veya resimler çizebilirsiniz. Bu tür aktiviteler, arkadaşlığınızı daha da güçlendirir. En sevdiğin oyun nedir? Belki de yeni bir hikaye yaratmak istersin!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, arkadaşlık sadece oyun oynamak değil, aynı zamanda birbirine destek olmaktır. Bazen arkadaşlarımız üzgün olabilir. Onlara güzel sözler söyleyerek veya bir kucaklama vererek yardımcı olabiliriz. Böylece, onlar da daha iyi hissederler. Sen hiç bir arkadaşına destek oldun mu? Onlara nasıl yardımcı oldun?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, arkadaşlarınla nasıl iyi bir iletişim kurabileceğimizi öğrenelim. İlk olarak, dinlemek çok önemlidir. Arkadaşın konuşurken dikkatle dinlemek ve onun söylediklerine değer vermek gerekir. Ayrıca, senin de düşüncelerini paylaşman önemlidir. Böylece, arkadaşın da seninle ilgili daha fazla şey öğrenebilir. İletişim, arkadaşlık bağlarını güçlendirir."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Arkadaşlarınla birlikte oyunlar yaratmak, harika bir etkinlik olabilir. Mesela, bir hazine avı oyunu tasarlayabilirsiniz. Haritalar çizip, ipuçları hazırlayarak oyununuzu daha eğlenceli hale getirebilirsiniz. Böylece, hem yaratıcılığınızı kullanır hem de birlikte eğlenirsiniz. Sen de böyle bir oyun oynamak ister misin? Hadi, kendi oyununuzu tasarlayın!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bir arkadaşınla birlikte en son ne zaman bir şeyler yaptın? Hatırlıyor musun? Belki birlikte bir resim yaptınız ya da bir hikaye uydurdunuz. Bu tür anılar, arkadaşlık bağlarını güçlendirir. Şimdi, seninle birlikte en sevdiğin arkadaşlık anını paylaşmak ister misin? Hadi, bana anlat!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, bazen de birlikte yeni şeyler öğrenmektir. Örneğin, yeni bir oyun veya şarkı öğrenmek oldukça eğlenceli olabilir. Bunları arkadaşlarınla paylaşarak, birlikte daha fazla eğlenebilirsiniz. Ayrıca, ortak ilgi alanlarınız hakkında konuşmak da arkadaşlık bağlarını güçlendirir. Senin en sevdiğin oyun veya şarkı nedir? Arkadaşlarınla bunları paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, arkadaşlarınla birlikte keşif yapmanın ne kadar eğlenceli olduğunu düşün. Mesela, bir doğa yürüyüşüne çıkmak veya bir parkta saklambaç oynamak harika olabilir. Böylece, yeni yerler keşfederken birlikte vakit geçirirsiniz. Ayrıca, doğada bulunmak hem eğlenceli hem de öğreticidir. Sen en son ne zaman doğada bir keşif yaptın? Hadi, bir doğa macerası planlayalım!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Arkadaşlık, birlikte gülmek ve eğlenmek demektir. Komik hikayeler anlatmak veya birlikte şarkı söylemek, arkadaşlarınla bağlarınızı güçlendirir. Birlikte güldüğünüzde, aranızdaki sevgi ve dostluk daha da artar. Senin en komik arkadaşın kim? Onunla birlikte en çok ne zaman güldünüz? Hadi, birlikte gülüp eğlenmeye devam edelim!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Arkadaşlık hakkında öğrendiklerimizi hatırlıyor musun? Şimdi bir soru sormak istiyorum. Sence bir arkadaşta hangi özellikler olmalı? Belki nazik ve dürüst olmalı ya da eğlenceli ve maceraperest. Senin için en önemli özellik nedir? Hadi, düşüncelerini benimle paylaş!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki soruda arkadaşlıkta önemli olan özelliklerden bahsettik. Şimdi, bu özellikleri nasıl geliştirebileceğimizi konuşalım. Mesela, nazik olmak için güzel sözler söyleyebiliriz. Dürüst olmak için ise her zaman doğruyu söylemeliyiz. Eğlenceli olmak için yeni oyunlar öğrenebiliriz. Bu özellikler, arkadaşlık bağlarınızı daha da güçlendirecektir."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün arkadaşlık hakkında çok şey öğrendik. Seninle bu macerayı paylaşmak beni çok mutlu etti. Unutma, arkadaşlık sevgi, saygı ve paylaşımla güçlenir. Her zaman nazik ve dürüst ol, arkadaşlarınla birlikte harika anılar biriktir. Şimdi, bu öğrendiklerini arkadaşlarınla paylaşmaya ne dersin? Seni tekrar görmek için sabırsızlanıyorum. Hoşça kal küçük dostum!"
+    }
+  ],
+  "title": "Tiko'ın Friendship Hikayesi"
+}

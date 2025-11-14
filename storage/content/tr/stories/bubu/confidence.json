@@ -1,0 +1,98 @@
+{
+  "id": "bubu_confidence_story",
+  "character": "Bubu",
+  "topic": "confidence",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Bubu. Bugün birlikte özgüven hakkında harika bir yolculuğa çıkacağız. Özgüven, bir şeyi yapabileceğine inanmak demektir. Hazır mısın? Seni çok merak ediyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven, birçok farklı şekilde ortaya çıkar. Mesela, yeni bir oyuncağı denemek veya bir arkadaşınla oynamak istediğinde özgüven gösterirsin. Kendi yeteneklerine inanmak önemlidir. Belki ilk başta biraz zor gelebilir ama denemeye devam edersen başarabilirsin. Özgüven gelişir ve büyür, tıpkı bir çiçek gibi."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, nasıl özgüvenimizi artırabileceğimizi öğrenelim. İlk adım, kendimize olumlu şeyler söylemektir. 'Bunu yapabilirim' veya 'Ben güçlüyüm' gibi cümleler kullanabiliriz. Bu cümleler, içimizdeki gücü ortaya çıkarır. Her gün bu cümleleri tekrarlayarak kendimize olan inancımızı artırabiliriz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte deneyelim mi? Önce derin bir nefes alalım. Şimdi, 'Ben bunu yapabilirim' diyelim. Harika! Bunu her gün tekrar edebilirsin. Bu, özgüveninin büyümesine yardımcı olur. Seninle gurur duyuyorum!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüvenimizi artırmanın bir başka yolu da yeni şeyler denemektir. Mesela, yeni bir resim yapmak veya bir hikaye yazmak gibi. Denediğimiz her yeni şey, kendimize olan inancımızı güçlendirir. Başarısız olsak bile, denemek bile büyük bir başarıdır. Çünkü her denememiz, bizi daha güçlü yapar."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özgüvenimizi artırmanın bir başka yolu da hedefler belirlemektir. Küçük hedeflerle başlayabiliriz. Mesela, oyuncaklarımızı toplamak gibi basit bir görev. Bu hedefi başardığımızda, kendimize olan güvenimiz artar. Her küçük başarı, bizi daha büyük hedeflere hazırlar."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi sen de dene! Bugün bir hedef belirle ve ona ulaşmaya çalış. Küçük bir adım bile büyük bir fark yaratabilir. Unutma, sen harikasın ve her şeyi başarabilirsin. Kendine güven, senin en büyük gücündür."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven, aynı zamanda başkalarına yardım etmekle de gelişir. Bir arkadaşına yardım ettiğinde veya onu mutlu ettiğinde, kendini daha iyi hissedersin. Bu, sana güç verir ve kendine olan inancını artırır. Arkadaşlıklar, özgüvenimizi güçlendiren harika bir yoldur. Bir sonraki adımda, birlikte bir oyun oynayarak bunu deneyebiliriz."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, bir önceki konuşmamızda özgüvenimizi artırmanın yollarını öğrenmiştik? Şimdi, bu öğrendiklerimizi bir oyunda uygulayalım. Birlikte bir hayal kuralım. Sen bir süper kahraman ol, ben de senin yanındaki yardımcı olayım. Bu oyunda, sahip olduğun yeteneklerle dünyayı nasıl daha iyi bir yer yapabilirsin? Haydi, birlikte düşünelim!"
+    },
+    {
+      "id": "question_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence özgüvenle ilgili öğrendiğimiz en önemli şey neydi? Belki de kendimize inanmayı öğrendik, ya da yeni şeyler denemenin önemini anladık. Senin için en önemli olan neydi? Düşüncelerini duymayı çok isterim. Ne dersin, benimle paylaşır mısın?"
+    },
+    {
+      "id": "scene_10",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Seninle konuşmak çok güzeldi. Şimdi, öğrendiklerimizi tekrar edelim. Özgüven, kendimize inanmak ve yeni şeyler denemekle ilgilidir. Her gün küçük adımlar atarak bunu artırabiliriz. Ve unutma, başkalarına yardım etmek de özgüvenimizi güçlendirir. Bu yolculukta seninle olmak beni çok mutlu etti."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen çok özel birisin ve her zaman güçlü olacaksın. Unutma, her zaman senin yanındayım. Ne zaman ihtiyacın olursa, benimle konuşabilirsin. Seninle gurur duyuyorum ve her zaman senin yanında olacağım. Şimdi, kendine inan ve harika şeyler yapmaya devam et!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven yolculuğumuzun sonuna geldik. Ama bu, yeni başlangıçların da bir işareti. Her gün yeni bir şey öğrenmek ve denemek için harika bir fırsat. Seninle bu yolculuğu paylaşmak çok güzeldi. Şimdi, yeni maceralara atılma zamanı!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Veda vakti geldi ama unutma, her zaman buradayım. Seninle konuşmak çok keyifliydi. Her zaman kendine inan ve harika şeyler yap. Seninle gurur duyuyorum. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Bubu'ın Confidence Hikayesi"
+}

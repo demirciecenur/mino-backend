@@ -1,0 +1,98 @@
+{
+  "id": "chirpy_birdie_temps_d'écran_sécurité_numérique_utilisation_de_la_technologie_habitudes_saines_d'écran_story",
+  "character": "Chirpy Birdie",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Chirpy Birdie, et aujourd'hui, nous allons explorer le monde fascinant des écrans et de la technologie. Êtes-vous prêts pour une aventure amusante? Nous allons apprendre comment utiliser les écrans en toute sécurité et de manière saine. C'est comme quand on apprend à traverser la rue en regardant bien des deux côtés, n'est-ce pas? Alors, mettons nos petites ailes ensemble et partons à la découverte!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les écrans, c'est un peu comme des fenêtres magiques qui nous montrent plein de choses intéressantes. Mais, vous savez, il faut faire attention à ne pas passer trop de temps devant. Comme quand on mange des bonbons, il faut en profiter, mais pas trop! Cela peut être amusant de regarder des dessins animés ou de jouer à des jeux, mais il y a aussi d'autres choses amusantes à faire, comme jouer dehors ou lire un livre. D'accord, les amis?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de la sécurité numérique. C'est un peu comme mettre un casque quand on fait du vélo. On doit être prudent avec ce qu'on partage en ligne. Par exemple, ne jamais donner son nom complet ou son adresse. Imaginez que vous êtes un petit détective, et que vous gardez vos informations secrètes pour rester en sécurité. C'est important de toujours demander à un adulte de confiance avant de faire quelque chose de nouveau sur un écran. Vous pouvez le faire!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, jouons à un petit jeu! Essayons de compter ensemble jusqu'à cinq, lentement, pour nous rappeler de faire des pauses. Un, deux, trois, quatre, cinq! Bien joué! Faire des pauses, c'est important pour nos yeux et notre esprit. C'est comme quand on joue au parc et qu'on s'arrête pour boire de l'eau. Cela nous aide à rester en forme et heureux. Bravo à vous!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, il y a tellement de choses amusantes à faire en dehors des écrans aussi! Vous pouvez dessiner un joli dessin, construire une tour avec des blocs ou même aider à préparer un goûter avec un adulte. Chaque activité est une nouvelle aventure, tout comme dans vos émissions préférées. C'est important d'avoir un bon équilibre entre le temps passé devant l'écran et le temps passé à jouer autrement. Vous êtes tous des petits champions!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons aussi des habitudes saines d'écran. C'est comme se brosser les dents tous les jours pour garder un sourire éclatant. On peut décider d'un moment précis pour utiliser les écrans, comme après avoir fait ses devoirs ou aidé à ranger sa chambre. Cela nous aide à ne pas passer trop de temps devant. Et n'oubliez pas de choisir des programmes ou des jeux qui sont faits pour vous et qui vous apportent de la joie et de l'apprentissage. C'est super, n'est-ce pas?"
+    },
+    {
+      "id": "scene_6",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Maintenant, faisons un exercice ensemble! Prenons tous une grande inspiration, puis soufflons doucement. Encore une fois, inspirez profondément, et soufflez. Cela nous aide à nous détendre et à nous concentrer. Quand vous sentez que vous avez passé beaucoup de temps devant l'écran, faire cet exercice peut vous aider à vous sentir mieux. C'est comme un petit câlin pour votre esprit!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, les écrans peuvent être de formidables outils d'apprentissage. On peut découvrir des choses sur les dinosaures, les planètes, et même apprendre de nouvelles chansons amusantes. Mais c'est aussi important de bouger et de jouer. Faire un petit tour dans le jardin ou danser sur sa chanson préférée est tout aussi excitant. Cela rend chaque journée plus équilibrée et joyeuse!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes tous des experts en technologie maintenant! N'oubliez pas de toujours demander de l'aide à un adulte si vous ne savez pas quelque chose. C'est comme avoir un guide lors d'une promenade en forêt. Vous pouvez explorer en toute sécurité et découvrir plein de choses merveilleuses. Vous êtes de vrais petits aventuriers numériques, et c'est fantastique!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, qu'est-ce que vous préférez faire quand vous n'êtes pas devant un écran? Aimez-vous construire des châteaux de sable ou faire des puzzles? Peut-être que vous aimez courir comme le vent dans le parc? Chaque activité est spéciale et vous rend unique. Partagez vos idées avec vos amis et votre famille. C'est toujours amusant de découvrir de nouvelles façons de jouer!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Avez-vous déjà essayé de créer une histoire ou une chanson? C'est une activité sans écran qui peut être très amusante! Vous pouvez imaginer des aventures incroyables et les partager avec les autres. Et qui sait, peut-être que vos histoires deviendront un jour de vrais livres ou des chansons que tout le monde chantera. Laissez votre imagination s'envoler!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les amis, vous êtes formidables! Chaque jour, vous apprenez de nouvelles choses, et c'est merveilleux. N'oubliez pas que l'équilibre, c'est la clé pour être heureux. Les écrans sont là pour nous aider, mais il y a tant d'autres choses à explorer. Vous avez tout ce qu'il faut pour devenir de vrais petits experts en temps d'écran et en sécurité numérique!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Continuez à explorer, à apprendre et à jouer. Vous êtes des étoiles brillantes qui illuminent le monde avec votre curiosité et votre joie. Chaque jour est une nouvelle chance de découvrir quelque chose de merveilleux. Vous pouvez le faire, et je suis si fier de vous. Allez, mes petits aventuriers, continuez à briller!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, mes chers amis! J'espère que vous avez appris plein de choses sur les écrans et la sécurité. Rappelez-vous de toujours garder un bon équilibre et de demander de l'aide si vous en avez besoin. Je suis si heureux d'avoir partagé cette aventure avec vous. À très bientôt pour de nouvelles découvertes! Au revoir, mes petits explorateurs!"
+    }
+  ],
+  "title": "Histoire de Screen Time de Chirpy Birdie"
+}

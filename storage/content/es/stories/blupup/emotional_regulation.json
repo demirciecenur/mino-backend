@@ -1,0 +1,98 @@
+{
+  "id": "blu_pup_regulación_emocional_manejo_de_emociones_calmarse_autorregulación_story",
+  "character": "Blu Pup",
+  "topic": "regulación emocional, manejo de emociones, calmarse, autorregulación",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Blu Pup y hoy vamos a hablar de algo muy emocionante: cómo manejar nuestras emociones. ¿Sabes qué son las emociones? Son esos sentimientos que tenemos en nuestro corazón, como cuando estamos felices, tristes o un poco enojados. ¡Vamos a aprender juntos a calmarnos y sentirnos bien! ¿Estás listo para esta aventura? ¡Será muy divertido!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, cuando sentimos muchas emociones, puede ser un poco confuso. Por ejemplo, cuando un juguete se rompe, podemos sentirnos tristes o enojados. Pero no te preocupes, ¡hay maneras de calmarse! Imagina que las emociones son como olas en el mar. A veces son grandes, pero con el tiempo, siempre se calman. Vamos a aprender a surfear esas olas juntos, ¿te parece?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Primero, vamos a respirar profundamente para calmarnos. Inhala por la nariz contando hasta tres, y luego exhala por la boca contando hasta tres otra vez. ¿Lo intentamos juntos? Uno, dos, tres... ¡Muy bien! Ahora, cuando te sientas un poco enojado o triste, recuerda que puedes respirar así para sentirte mejor. Es como una magia que todos podemos hacer."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora vamos a imaginar que somos un árbol fuerte. Cierra los ojos y piensa en un árbol con raíces profundas que lo mantienen firme. Cuando el viento sopla, el árbol se mueve, pero nunca se cae. Así somos nosotros cuando manejamos nuestras emociones. ¡Tú también puedes ser un árbol fuerte!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¿Recuerdas cuando hablamos de las olas del mar? A veces, una ola puede ser muy grande, como cuando no podemos encontrar nuestro juguete favorito. Pero después de respirar y sentirnos como un árbol, la ola se hace más pequeña. ¡Y eso es gracias a tu superpoder de autorregulación! Ahora, cada vez que sientas una ola grande, ya sabes qué hacer."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a practicar otra técnica. Se llama 'contar hasta cinco'. Cuando algo te moleste, cierra los ojos y cuenta lentamente: uno, dos, tres, cuatro, cinco. Mientras cuentas, piensa en algo que te haga feliz, como un helado o jugar en el parque. Esto ayuda a que el enojo o la tristeza se vayan. ¿Quieres intentarlo?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Ahora sabes que tienes muchas formas de calmarte. Respirar, imaginar un árbol, contar hasta cinco... Todas son maneras maravillosas de manejar tus emociones. Recuerda que está bien sentir diferentes cosas, y que siempre puedes encontrar una forma de sentirte mejor. ¡Eres muy valiente!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez has sentido que no puedes dejar de estar enojado o triste? ¿Qué hiciste para sentirte mejor? A veces, hablar con un adulto o un amigo puede ayudar mucho. ¿Te gustaría contarme alguna vez que lograste calmarte solito? Estoy muy curioso por saber cómo lo hiciste. ¡Cuéntame!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablando con alguien de confianza es una excelente manera de manejar las emociones. Los adultos siempre están ahí para ayudarte y escucharte. Tal vez un abrazo o un cuento antes de dormir también puedan hacerte sentir mejor. ¡Hay tantas formas de encontrar la calma! Recuerda, siempre puedes pedir ayuda cuando la necesites."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora, pensemos en una situación divertida. ¿Qué tal si imaginamos que somos un globo? Cuando soplamos aire dentro del globo, se hace grande. Pero cuando dejamos salir el aire, el globo se relaja. Así somos nosotros cuando dejamos salir nuestras emociones de a poco. ¡Es un truco divertido que puedes probar!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer un juego. Imagina que cada dedo de tu mano es una emoción diferente. El pulgar es la alegría, el índice es la tristeza, el medio es el enojo, el anular es la sorpresa, y el meñique es el miedo. Al mover cada dedo, piensa en esa emoción y cómo podrías calmarla. ¡Es una manera divertida de conocer tus sentimientos!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien juegas con tus emociones! Aprender a manejar cómo nos sentimos es como un superpoder. Cuanto más practiques, mejor lo harás. Y recuerda, siempre está bien pedir ayuda si la necesitas. ¡Eres muy especial y puedes lograrlo!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme cuál es tu emoción favorita y por qué? A veces, compartir lo que sentimos nos ayuda a entendernos mejor. ¿Cuál emoción te gusta más, la alegría o la sorpresa? Estoy emocionado por escuchar lo que piensas. ¡Dime, amiguito!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Gracias por compartir este tiempo conmigo y aprender sobre las emociones. Recuerda que siempre puedes manejar cómo te sientes con un poco de práctica. ¡Eres un gran amigo y estoy muy orgulloso de ti! Nos veremos pronto para más aventuras. ¡Adiós, amiguito!"
+    }
+  ],
+  "title": "Historia de Emotional Regulation de Blu Pup"
+}

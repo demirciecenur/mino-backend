@@ -1,0 +1,104 @@
+{
+  "id": "tiko_nutrition_story",
+  "character": "Tiko",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Tiko. Bugün seninle beslenme hakkında harika bir keşfe çıkacağız. Beslenme, vücudumuzu güçlü ve sağlıklı tutmak için çok önemli. Hazır mısın? O zaman maceraya başlıyoruz!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme, yediğimiz yiyeceklerden aldığımız enerji ve besinlerle ilgilidir. Yiyeceklerimiz, vücudumuzun büyümesine ve gelişmesine yardımcı olur. Sebzeler, meyveler, tahıllar ve proteinler gibi çeşitli yiyecekler tüketmeliyiz. Bu yiyecekler, vücudumuzun ihtiyacı olan vitamin ve mineralleri sağlar. Sağlıklı beslenme, daha enerjik ve mutlu hissetmemizi sağlar."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, her gün vücudumuzun ihtiyaç duyduğu bazı temel besinleri öğrenelim. Proteinler, kaslarımızı güçlendirir ve büyümemizi destekler. Et, balık, yumurta ve fasulye gibi yiyeceklerde protein bulunur. Karbonhidratlar, bize enerji verir. Ekmek, makarna ve pirinç gibi yiyeceklerde bulunur. Vitaminler ve mineraller ise bağışıklık sistemimizi güçlendirir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsun! Şimdi birlikte bir oyun oynayalım. Evdeki farklı yiyecekleri düşünelim ve hangi gruplara ait olduklarını bulalım. Mesela, elma hangi gruba girer? Evet, meyve grubuna! İşte bu kadar kolay. Sen de kendi yiyeceklerini sınıflandırabilirsin."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda yiyecek gruplarını öğrendik. Şimdi, suyun neden önemli olduğunu konuşalım. Su, vücudumuzun en sevdiği içecektir. Hücrelerimizin çalışmasına, cildimizin parlak kalmasına ve vücut sıcaklığımızın dengede olmasına yardımcı olur. Her gün bol su içmek bizi daha zinde yapar."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Günde ne kadar su içmeliyiz? Çocuklar genellikle günde 5-8 bardak su içmelidir. Bu, vücudumuzun ihtiyaç duyduğu suyu almasını sağlar. Su içmek, oyun oynarken veya dışarıda koşarken bile çok önemlidir. Su, en iyi dostlarımızdan biridir!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Bugün hangi sağlıklı yiyecekleri yedin? Düşünmek için biraz zaman alabilirsin. Belki bir muz veya biraz yoğurt yemişsindir. Bu yiyecekler vücuduna enerji ve güç verir. Sen de hangi yiyecekleri tercih ettiğini paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenmemizi daha eğlenceli hale getirmek için renkli tabaklar oluşturabiliriz. Farklı renklerdeki meyve ve sebzelerle bir gökkuşağı yaratmak harika bir fikir! Kırmızı elmalar, yeşil brokoliler ve turuncu havuçlar ile rengarenk bir tabak hazırlayabiliriz. Böylece hem gözümüz hem de midemiz bayram eder."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Gökkuşağı tabakları hazırlamak çok eğlenceli! Sen de denemek ister misin? Belki bir sonraki öğünde bunu yapabilirsin. Hem sağlıklı hem de renkli bir tabak seni bekliyor olacak. Unutma, sağlıklı beslenmek vücudunu güçlü ve enerjik tutar."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda renkli tabaklar hazırlamaktan bahsettik. Şimdi de tatlılar hakkında konuşalım. Tatlılar çok lezzetlidir ama çok fazla yenmemelidir. Tatlı yerine meyve gibi doğal tatlı yiyecekler tercih edebiliriz. Böylece hem sağlıklı kalırız hem de tatlı ihtiyacımızı karşılarız."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Tatlı ihtiyacımızı nasıl karşılayabiliriz? Mesela, muz veya çilek gibi meyveler harika birer tatlı alternatifi olabilir. Meyveler, tatlılıklarının yanı sıra vitamin ve mineral de içerir. Böylece hem sağlıklı kalırız hem de tatlı ihtiyacımızı karşılarız. Tatlı yerine meyveleri tercih etmek her zaman iyi bir fikirdir."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Tatlı yerine hangi meyveleri yemeyi seversin? Belki de elma veya üzüm favorin olabilir. Meyveler, tatlı ihtiyacımızı doğal bir şekilde karşılar. Sen de en sevdiğin meyveyi düşün ve neden onu sevdiğini anlat. Belki de bir sonraki tatlı ihtiyacında bu meyveyi tercih edersin."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tatlı ihtiyacımızı meyvelerle karşılamanın ne kadar iyi olduğunu konuştuk. Şimdi de düzenli yemek yemenin önemine bakalım. Düzenli yemek yemek, vücudumuzun ihtiyaç duyduğu enerjiyi almasını sağlar. Her gün kahvaltı, öğle ve akşam yemeği yemeliyiz. Böylece gün boyu enerjik kalabiliriz."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Düzenli yemek yemek çok önemlidir! Sen de bu alışkanlığı kazanabilirsin. Her öğünde farklı yiyecekler tüketmek, vücudunun ihtiyacı olan besinleri almanı sağlar. Unutma, sağlıklı ve düzenli beslenmek seni daha mutlu ve enerjik yapar. Harika gidiyorsun!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün seninle beslenme hakkında harika bir yolculuk yaptık. Beslenmenin ne kadar önemli olduğunu ve nasıl daha sağlıklı seçimler yapabileceğimizi öğrendik. Seninle bu konuları konuşmak çok keyifliydi. Unutma, sağlıklı beslenmek her zaman önemlidir. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Tiko'ın Nutrition Hikayesi"
+}

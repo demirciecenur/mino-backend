@@ -1,0 +1,98 @@
+{
+  "id": "mino_imagination_story",
+  "character": "Mino",
+  "topic": "imagination",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Mino, y hoy vamos a embarcarnos en un emocionante viaje sobre la imaginación. ¿Estás listo? La imaginación es como una puerta mágica que nos lleva a lugares increíbles. Juntos exploraremos cómo podemos usar nuestra mente para crear mundos fantásticos. ¡No puedo esperar para comenzar esta aventura contigo!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La imaginación es como un cohete que nos lleva a las estrellas. Cuando cerramos los ojos y pensamos en cosas maravillosas, podemos ir a cualquier lugar. ¿Alguna vez has imaginado ser un astronauta o un valiente explorador? Con la imaginación, podemos ser lo que queramos. ¡Es como tener un superpoder que nos permite soñar sin límites!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a usar nuestra imaginación juntos. Cierra los ojos y piensa en un lugar especial donde te gustaría estar. Puede ser un castillo en las nubes o una isla llena de dulces. ¿Lo tienes? Siente cómo la imaginación te lleva allí, como si estuvieras volando. Recuerda, no hay límites para lo que puedes imaginar."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Has hecho un gran trabajo usando tu imaginación. Ahora, imagina que estás en un bosque mágico donde los árboles hablan. ¿Qué te dirían los árboles? Tal vez te cuenten historias sobre animales que viven allí. ¡Eres un explorador increíble de mundos imaginarios!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "En nuestro viaje, podemos encontrar amigos imaginarios que nos acompañen. ¿Cómo se vería tu amigo imaginario? Podría tener alas de mariposa o ser un gigante amable. Estos amigos pueden jugar con nosotros y compartir nuestras aventuras. ¡Imagina cuántas cosas divertidas pueden hacer juntos!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Recuerda cuando hablamos de ser astronautas. Ahora, imagina que estás en una nave espacial. ¿Qué planetas visitarías? Tal vez hay un planeta hecho de helado o uno donde todos los días son de juegos. ¡Con la imaginación, podemos viajar por el universo entero y descubrir cosas asombrosas!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer un pequeño ejercicio. Imagina que estás en una playa soleada. Siente la arena bajo tus pies y escucha el sonido del mar. ¿Puedes sentir la brisa? La imaginación nos ayuda a sentir y experimentar lugares, incluso si estamos en casa. Es como un viaje mágico en nuestra mente."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora, imagina que puedes volar como un pájaro. ¿A dónde irías? Podrías volar sobre montañas altas o visitar una ciudad llena de luces. ¡Con cada aleteo, tu imaginación te lleva más alto! Sigue soñando y explorando, porque cada idea es única y especial."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, la imaginación nos ayuda a resolver problemas. Imagina que estás construyendo un castillo de bloques y se cae. ¿Cómo lo reconstruirías? Tal vez podrías hacerlo más fuerte o inventar una nueva forma. La imaginación nos da muchas ideas para crear y aprender. ¡Es como tener una caja de herramientas mágica!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Cuál es tu cosa favorita que has imaginado hoy? ¿Fue un lugar, un amigo, o una aventura? Me encantaría saberlo. Cada idea que tienes es especial y única, como tú. ¿Te gustaría contarme más sobre tus sueños y cómo los imaginas?"
+    },
+    {
+      "id": "scene_10",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Ahora es tu turno de hablar. Cuéntame sobre algo que has imaginado recientemente. Tal vez fue un viaje a la luna o un picnic con animales del bosque. Escuchar tus ideas es como abrir un libro de aventuras. ¡Cada historia es emocionante y llena de sorpresas!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La imaginación también nos ayuda a relajarnos. Cierra los ojos de nuevo e imagina un lugar tranquilo, como un jardín lleno de flores. Escucha los pájaros cantar y siente el sol en tu cara. La imaginación es un lugar seguro donde siempre podemos encontrar paz y felicidad."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué maravilloso es ver todo lo que puedes imaginar! Recuerda que tu imaginación no tiene límites. Siempre puedes crear nuevos mundos y aventuras. ¡Sigue soñando y explorando, porque el mundo está lleno de posibilidades increíbles! Eres un verdadero maestro de la imaginación."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es hora de despedirnos por ahora, pero nuestra aventura de imaginación nunca termina. Siempre puedes volver y explorar más con tu mente mágica. Gracias por compartir este tiempo conmigo, pequeño amigo. Hasta la próxima vez, sigue soñando y usando tu imaginación. ¡Adiós y que tengas un día lleno de sonrisas!"
+    }
+  ],
+  "title": "Historia de Imagination de Mino"
+}

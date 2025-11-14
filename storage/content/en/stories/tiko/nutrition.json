@@ -1,0 +1,104 @@
+{
+  "id": "tiko_nutrition_story",
+  "character": "Tiko",
+  "topic": "nutrition",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Tiko, and today we're going on an amazing adventure all about nutrition. Are you ready to join me? We're going to learn how different foods help our bodies feel strong and happy. Isn't that exciting? I can't wait to explore this colorful world of fruits, vegetables, and more with you. Let's get started on this tasty journey!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about fruits. Fruits are like nature's candy, but they're super healthy for us! They come in all sorts of colors like red, yellow, and green. Can you think of a fruit that's red? That's right, apples! Fruits give us vitamins and help us stay healthy. So, next time you see a colorful fruit, remember it's like a superhero for your body!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about how fruits are colorful? Vegetables are just as important and come in many colors too. Eating a rainbow of vegetables helps us grow big and strong. Carrots, for example, are orange and help our eyes see better. Have you ever seen a bunny munching on a carrot? They love them because they're so good for you!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's try something fun together! Can you pretend to be a carrot and stretch up tall? Great job! Now, let's be a broccoli and make ourselves all bumpy and green. Wonderful! See how fun it is to imagine being different healthy foods? You're doing amazing, and your body loves all these healthy moves!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's talk about grains. Grains give us energy to play and learn all day. Foods like bread, rice, and pasta are made from grains. Imagine you're a train zooming down the tracks. The grains are your fuel, helping you go faster and longer. Isn't it great how food powers us up for adventures?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember how grains give us energy? Proteins are like builders for our body. They help us grow and make our muscles strong. Foods like chicken, beans, and eggs are full of protein. Think of them as the construction workers inside you, building a strong and healthy body. Isn't that cool?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's do a little exercise together! Pretend to be a strong muscle. Flex your arms like you're lifting something heavy. Wow, look at those muscles! Just like protein helps our muscles, you're getting stronger every day. You're doing fantastic, and your muscles are cheering you on!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's learn about dairy. Dairy foods like milk, cheese, and yogurt are rich in calcium. Calcium helps our bones grow strong and healthy. Imagine your bones are like a sturdy bridge, carrying you across all your adventures. Drinking milk is like adding extra beams to make that bridge even stronger."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember how dairy helps our bones? Water is super important too! It keeps us hydrated and helps everything in our body work well. Drinking water is like giving a thirsty plant a drink. It perks up and grows better, just like we do when we have enough water. So, let's remember to drink water every day."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's pretend we're thirsty flowers. Stretch your arms up like petals, and then slowly lower them as you take a pretend sip of water. Ah, refreshing! You did it! Just like a flower needs water to bloom, you need water to stay happy and healthy. Keep up the great work, little flower!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you remember all the different foods we talked about today? What was your favorite? Was it the colorful fruits, the crunchy vegetables, or maybe the strong proteins? I’m so curious to know what you enjoyed learning about. Let's think about what we can eat next time to keep our bodies healthy and strong."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Great thinking! It's so fun to think about all the delicious foods we can try. Every time we eat something healthy, we're giving our bodies a big hug. Isn't it nice to know we can take care of ourselves with every bite? You're a nutrition superstar!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's talk about snacks. Healthy snacks like nuts and yogurt give us energy between meals. Imagine you're a squirrel gathering nuts for a snack. These snacks are like treasures that keep you going on your adventures. Remember, choosing healthy snacks helps us stay full of energy all day."
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember how snacks give us energy? It's also important to share our food with friends. Sharing makes snack time more fun and teaches us to care for others. Next time you have a snack, try sharing a piece with someone. You'll see how happy it makes them, and it makes snack time even better!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Wow, what an adventure we've had together! We've learned so much about how different foods help our bodies. I hope you had as much fun as I did. Remember, eating a variety of healthy foods makes us strong and happy. Thanks for joining me today, and I can't wait to see you on our next adventure. Goodbye for now, and keep eating healthy!"
+    }
+  ],
+  "title": "Tiko's Nutrition Story"
+}

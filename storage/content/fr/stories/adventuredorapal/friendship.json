@@ -1,0 +1,104 @@
+{
+  "id": "adventure_dora_pal_friendship_story",
+  "character": "Adventure Dora Pal",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Adventure Dora Pal. Aujourd'hui, nous allons partir pour une aventure incroyable sur l'amitié. Êtes-vous prêt ? L'amitié, c'est comme une fleur qui grandit avec soin et amour. Je suis tellement curieuse d'en apprendre plus avec vous. Allons découvrir ensemble comment être un bon ami !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est quelque chose de très spécial. C'est comme avoir un compagnon de jeu avec qui partager des rires et des aventures. Avez-vous un ami avec qui vous aimez jouer ? C'est important d'être gentil et de partager, comme prêter vos jouets préférés. Quand nous sommes amicaux, nous rendons les autres heureux et nous nous sentons bien aussi."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment nous pouvons faire de nouveaux amis. Pour cela, il faut dire bonjour et sourire. Un sourire est comme un rayon de soleil qui illumine la journée de quelqu'un. Ensuite, vous pouvez demander : 'Veux-tu jouer avec moi ?'. Cela montre que vous êtes gentil et que vous aimez partager."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous pouvez le faire ! Pensez à un moment où vous avez partagé un jouet avec un ami. C'était amusant, n'est-ce pas ? Partager rend tout plus joyeux. Vous pouvez essayer de jouer à un jeu ensemble, comme le cache-cache. N'oubliez pas d'écouter aussi, car écouter est une part importante de l'amitié."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous la dernière fois que nous avons parlé de sourire et de saluer ? Continuons avec une autre idée : aider un ami. Quand vous aidez quelqu'un, vous montrez que vous vous souciez de lui. Par exemple, ramasser les jouets ensemble ou aider à dessiner. Cela rend le monde plus beau et plus amical."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parfois, votre ami pourrait être triste. Que pouvez-vous faire alors ? Vous pouvez lui dire des mots gentils ou lui proposer un câlin. Parler doucement et écouter son histoire peut aussi aider. Les amis sont là pour se soutenir les uns les autres. Vous pouvez aussi lui proposer de jouer à son jeu préféré."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons maintenant de compter jusqu'à trois ensemble. Un, deux, trois ! Super ! Vous voyez, travailler ensemble rend les choses plus faciles et amusantes. Quand vous jouez avec un ami, vous pouvez aussi apprendre à partager les tours. Comme ça, tout le monde a une chance de s'amuser."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous comment c'est important de partager et d'écouter ? Maintenant, parlons de dire merci. Dire merci montre que vous appréciez ce que votre ami a fait. Par exemple, si un ami vous aide à ramasser vos jouets, vous pouvez dire : 'Merci beaucoup !'. Cela rend les gens heureux et renforce l'amitié."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà remercié un ami pour quelque chose de spécial ? Pensez-y un moment. Que ressentez-vous quand quelqu'un vous dit merci ? Cela réchauffe le cœur, n'est-ce pas ? C'est comme un câlin pour votre cœur. Pourquoi ne pas essayer de dire merci aujourd'hui ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Quand nous avons des amis, nous avons aussi des souvenirs spéciaux ensemble. Les souvenirs sont comme des petits trésors que nous gardons dans notre cœur. Jouer dans le parc, dessiner ensemble, ou même lire une histoire sont des moments précieux. Ces souvenirs rendent l'amitié encore plus forte. Avez-vous un souvenir préféré avec un ami ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, pensons à comment nous pouvons inviter un nouvel ami à jouer. Vous pouvez dire : 'Bonjour, veux-tu te joindre à nous ?'. C'est une belle façon de montrer que vous voulez inclure tout le monde. Jouer à des jeux en groupe est une excellente façon de rencontrer de nouveaux amis. Plus on est de fous, plus on rit !"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons de respirer profondément ensemble. Inspirons par le nez, et expirons par la bouche. Un, deux, trois, et souffle ! Cela nous aide à nous sentir calmes et prêts à être de bons amis. Vous pouvez aussi essayer cela avec votre ami avant de commencer à jouer. Cela rend les jeux encore plus amusants."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est aussi accepter nos différences. Chaque ami est unique et spécial. Peut-être que votre ami aime les dinosaures, et vous aimez les étoiles. C'est bien, car cela rend les jeux plus intéressants. Partager ce que vous aimez est une belle façon de découvrir de nouvelles choses ensemble."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Qu'aimez-vous faire avec vos amis ? Est-ce jouer à cache-cache ou peut-être construire des tours en blocs ? Pensez à une activité que vous aimez partager. Pourquoi ne pas essayer une nouvelle activité ensemble ? Cela pourrait être le début d'une nouvelle aventure."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir exploré l'amitié avec moi aujourd'hui. Vous avez appris tant de belles choses sur comment être un bon ami. N'oubliez pas de sourire, de partager, et de dire merci. Ces petites choses rendent le monde plus joyeux. J'ai hâte de notre prochaine aventure ensemble. À bientôt, petit ami !"
+    }
+  ],
+  "title": "Histoire de Friendship de Adventure Dora Pal"
+}

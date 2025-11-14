@@ -1,0 +1,98 @@
+{
+  "id": "tiko_behavior_story",
+  "character": "Tiko",
+  "topic": "behavior",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Tiko und heute gehen wir auf ein spannendes Abenteuer über gutes Benehmen. Bist du bereit? Ich freue mich schon so sehr darauf, mit dir zu sprechen. Gemeinsam werden wir lernen, wie man ein guter Freund ist und warum Regeln wichtig sind. Lass uns gemeinsam Spaß haben und viele tolle Dinge entdecken!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nun, weißt du, was Verhalten bedeutet? Verhalten ist, wie wir uns verhalten, also wie wir sprechen, handeln und mit anderen umgehen. Es ist wichtig, freundlich zu sein und gute Manieren zu haben, wie Bitte und Danke zu sagen. Wenn wir freundlich sind, fühlen sich andere Menschen wohl und glücklich in unserer Nähe. Das ist doch toll, oder?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber sprechen, wie wir gute Manieren zeigen können. Wenn du jemanden triffst, ist es schön, Hallo zu sagen und zu lächeln. Wenn du mit Freunden spielst, ist Teilen eine großartige Möglichkeit, zu zeigen, dass du freundlich bist. Und vergiss nicht, immer Danke zu sagen, wenn dir jemand hilft. Diese kleinen Dinge machen einen großen Unterschied!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt machen wir eine kleine Übung! Stell dir vor, du hast ein Spielzeug, das du wirklich magst. Kannst du es mit einem Freund teilen? Großartig, das ist sehr freundlich von dir! Du kannst das! Teilen macht Spaß und zeigt, dass du ein guter Freund bist. Lass uns das gemeinsam üben."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Teilen gesprochen haben? Es ist auch wichtig, auf andere zu hören, wenn sie sprechen. Das nennt man zuhören, und es zeigt, dass du respektvoll bist. Wenn du zuhörst, kannst du neue Dinge lernen und großartige Geschichten hören. Jetzt lass uns zusammen üben, gut zuzuhören."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn jemand spricht, schauen wir ihnen in die Augen und hören aufmerksam zu. Wir unterbrechen nicht, sondern warten, bis sie fertig sind, bevor wir sprechen. Das ist eine tolle Möglichkeit zu zeigen, dass du respektvoll bist. Möchtest du das nächste Mal, wenn jemand spricht, ausprobieren, gut zuzuhören?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Erinnerst du dich, wie wichtig es ist, Bitte und Danke zu sagen? Das macht Menschen glücklich und zeigt, dass du höflich bist. Versuche, es heute ein paar Mal zu sagen, und du wirst sehen, wie sehr es die Menschen um dich herum freut. Du kannst das, ich glaube an dich!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über Zuhören und höflich sein gesprochen haben, lass uns über Regeln sprechen. Regeln sind wichtig, weil sie uns helfen, sicher und glücklich zu sein. Zum Beispiel, wenn wir im Park spielen, bleiben wir auf dem Spielplatz, damit wir nicht verloren gehen. Regeln helfen uns, Spaß zu haben, während wir sicher bleiben."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber nachdenken, warum Regeln wichtig sind. Sie helfen uns, zu wissen, was wir tun sollen, damit niemand verletzt wird. Wenn wir zu Hause sind, räumen wir unsere Spielsachen auf, damit niemand darüber stolpert. Wenn wir die Regeln befolgen, können wir alle sicher und fröhlich sein. Möchtest du mit mir darüber nachdenken, welche Regeln du zu Hause hast?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Welche Regeln hast du zu Hause oder in der Schule? Gibt es eine Regel, die du besonders wichtig findest? Ich bin neugierig, was du denkst. Denkst du, dass Regeln Spaß machen können? Lass uns gemeinsam herausfinden, wie wir Regeln zu einem Teil unseres täglichen Abenteuers machen können!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über all diese wichtigen Dinge gesprochen haben, frage ich mich, wie du dich fühlst. Fühlst du dich bereit, all diese tollen Dinge auszuprobieren? Es ist so aufregend, neue Dinge zu lernen und ein guter Freund zu sein. Lass uns gemeinsam daran arbeiten, jeden Tag ein bisschen besser zu werden. Ich weiß, dass du das kannst!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich toll! Erinnere dich immer daran, dass es in Ordnung ist, Fehler zu machen, solange wir daraus lernen. Jeder macht mal Fehler, und das ist völlig normal. Wichtig ist, dass wir daraus lernen und es das nächste Mal besser machen. Du bist stark und mutig, und ich bin stolz auf dich!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns eine kleine Übung machen, um uns zu entspannen. Atme tief ein, halte die Luft an und atme langsam aus. Das hilft uns, ruhig zu bleiben und nachzudenken, bevor wir handeln. Möchtest du es mit mir zusammen probieren? Eins, zwei, drei, einatmen... und ausatmen. Gut gemacht!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, heute mit dir zu sprechen! Du hast so viel gelernt und ich bin so stolz auf dich. Vergiss nicht, dass du jeden Tag ein bisschen besser werden kannst. Ich freue mich schon darauf, bald wieder mit dir zu sprechen. Bis zum nächsten Mal, kleiner Freund!"
+    }
+  ],
+  "title": "Tikos Behavior Geschichte"
+}

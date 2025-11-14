@@ -1,0 +1,104 @@
+{
+  "id": "super_metal_hero_imagination_story",
+  "character": "Super Metal Hero",
+  "topic": "imagination",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Super Metal Hero. Aujourd'hui, nous allons partir pour un voyage incroyable sur l'imagination. Es-tu prêt? Je suis tellement curieux de savoir ce que tu peux imaginer. Ensemble, nous allons explorer le monde magique de la pensée créative. Prépare-toi pour une aventure pleine de découvertes et de surprises!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est comme une superpuissance que tout le monde a. Elle te permet de créer des mondes entiers dans ta tête, juste en pensant. Par exemple, tu peux imaginer être un pirate naviguant sur les mers ou un astronaute explorant l'espace. Quand tu joues, tu utilises ton imagination pour inventer des histoires et des jeux. C'est ce qui rend chaque jour différent et excitant!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment nous pouvons utiliser notre imagination pour résoudre des problèmes. Supposons que tu veuilles construire un château avec des blocs. Comment pourrais-tu faire pour qu'il soit solide et grand? Peut-être pourrais-tu imaginer que les blocs sont des briques très spéciales. En utilisant ta créativité, tu trouveras des solutions que personne d'autre n'aura envisagées. C'est la magie de l'imagination!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Maintenant, essayons ensemble. Ferme les yeux et imagine un endroit où tu aimerais être. Peut-être une plage ensoleillée ou une forêt enchantée. Que vois-tu autour de toi? Quels sons entends-tu? En utilisant ton imagination, tu peux voyager n'importe où, sans même quitter ta chambre. C'est incroyable, n'est-ce pas?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi quand nous avons parlé d'imaginer des solutions? Maintenant, essayons de penser à un jeu que nous pourrions inventer. Peut-être un jeu où nous sommes des détectives à la recherche d'un trésor caché. Que devrions-nous chercher? Peut-être un indice dans le jardin ou une carte mystérieuse. Chaque idée que tu as rend le jeu encore plus amusant et excitant!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "L'imagination peut aussi nous aider à comprendre les autres. Imagine que tu as un ami qui est triste. Que pourrais-tu faire pour lui remonter le moral? Peut-être inventer une histoire drôle ou dessiner un joli dessin. En utilisant ton imagination, tu peux trouver de nombreuses façons de rendre quelqu'un heureux. C'est une compétence précieuse que tu peux utiliser tous les jours!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Génial! Maintenant, prenons un moment pour imaginer ensemble. Pense à quelque chose qui te fait vraiment sourire. Peut-être un animal mignon ou un souvenir heureux. Sens-tu comment cela te rend joyeux? L'imagination peut transformer ta journée et te donner de l'énergie positive. Continue d'imaginer et de créer!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi de tous les endroits où nous avons voyagé avec notre imagination. Nous avons exploré des châteaux, des plages, et même des planètes lointaines! Chaque idée que tu as est comme une étoile brillante dans le ciel. Plus tu utilises ton imagination, plus tu découvres de nouvelles étoiles. C'est un univers infini d'opportunités!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons un petit exercice. Imagine que tu es un super-héros avec un pouvoir spécial. Quel serait ton pouvoir? Peut-être voler dans le ciel ou parler aux animaux. Pourquoi ce pouvoir est-il spécial pour toi? Chaque pouvoir que tu imagines te permet de rêver et de t'amuser encore plus!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Formidable! Tu as fait un travail incroyable en utilisant ton imagination. N'oublie jamais que tu peux toujours rêver et créer. Chaque jour est une nouvelle chance d'inventer et de découvrir. Tu es capable de tout avec ta pensée créative. Continue d'explorer et de rêver grand!"
+    },
+    {
+      "id": "question_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, dis-moi, quel est ton endroit préféré que tu as imaginé aujourd'hui? Était-ce un monde sous-marin ou un château dans le ciel? Pourquoi cet endroit est-il si spécial pour toi? Je suis curieux de savoir ce qui te fait rêver et sourire. Partage ton imagination avec moi!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est merveilleux de voir comment chacun a des idées uniques et spéciales. Ton imagination est un trésor précieux que tu dois chérir. Chaque idée que tu as est un cadeau pour toi et pour les autres. Continue de partager tes rêves et de faire sourire ceux qui t'entourent. Tu es un créateur incroyable!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Penses-tu que nous pourrions utiliser notre imagination pour rendre le monde meilleur? Peut-être imaginer des façons de protéger notre planète ou d'aider les animaux. Chaque idée que tu as peut faire une grande différence. Ensemble, avec nos pensées créatives, nous pouvons accomplir de grandes choses. Continue de rêver et de créer!"
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Prenons un moment pour imaginer un monde où tout le monde est gentil et heureux. Que devrions-nous faire pour que cela arrive? Peut-être être aimable avec nos amis ou aider quelqu'un dans le besoin. Chaque petit geste compte. En utilisant notre imagination, nous pouvons rendre ce monde un endroit merveilleux pour tous!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir voyagé avec moi dans le monde de l'imagination aujourd'hui. Rappelle-toi, tu es un super créateur avec des idées incroyables. Continue de rêver et de partager ta magie avec ceux qui t'entourent. J'ai hâte de découvrir ce que tu imagineras demain. À bientôt, petit héros, et continue de briller avec ton imagination!"
+    }
+  ],
+  "title": "Histoire de Imagination de Super Metal Hero"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "tiko_confidence_story",
+  "character": "Tiko",
+  "topic": "confidence",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Tiko y hoy vamos a embarcarnos en una aventura sobre la confianza. ¿Estás listo? La confianza es como una magia especial que nos ayuda a intentar cosas nuevas. ¿No es emocionante? Me encanta aprender cosas nuevas contigo. ¡Vamos a descubrir cómo ser más valientes juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confianza es cuando crees en ti mismo, como cuando piensas que puedes montar tu bicicleta sin rueditas. ¿Recuerdas la primera vez que intentaste algo nuevo? A veces da un poco de miedo, pero con un poco de confianza, ¡todo es posible! La confianza nos hace sentir fuertes y capaces. Ahora, piensa en algo que realmente te gustaría hacer. ¡Seguro que lo puedes lograr!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para sentirnos más seguros, podemos practicar cosas pequeñas cada día. Por ejemplo, podemos empezar el día cepillándonos los dientes solos. ¿Te gusta cepillarte los dientes? Es un gran paso hacia la independencia. También podemos ayudar a recoger nuestros juguetes. Cada pequeño logro nos hace sentir más seguros de nosotros mismos. ¡Intenta celebrar cada vez que lo hagas!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Ahora vamos a hacer un ejercicio divertido juntos. Vamos a respirar profundamente tres veces. Inhala por la nariz, siente cómo el aire llena tu barriguita. Y exhala lentamente por la boca. ¿Lo sientes? Cada respiración te llena de calma y confianza. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos practicado la respiración, hablemos de cómo enfrentar cosas que nos asustan un poco. Imagina que eres un valiente león en la selva. Los leones son fuertes y seguros, ¿verdad? Cuando te sientas inseguro, piensa en ese león dentro de ti. ¡Ruge fuerte y sigue adelante!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Una forma de aumentar nuestra confianza es establecer pequeñas metas. Por ejemplo, si quieres aprender a saltar la cuerda, puedes empezar practicando un poquito cada día. Cada vez que lo intentes, estarás un paso más cerca de lograrlo. ¡No importa si al principio no sale perfecto, lo importante es intentarlo!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez te has sentido orgulloso de ti mismo? ¿Cómo se sintió? Cuando logramos algo, por pequeño que sea, es importante reconocerlo. ¿Recuerdas la última vez que hiciste algo que pensabas que no podías hacer? ¡Eso es confianza en acción! Cuéntame, ¿qué te gustaría intentar hoy?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confianza también se trata de ser amable contigo mismo. A veces cometemos errores, y está bien. Los errores nos ayudan a aprender y crecer. Cuando algo no sale como esperabas, puedes decirte a ti mismo: '¡Está bien, lo intentaré de nuevo!' ¿No es maravilloso saber que siempre puedes volver a intentarlo?"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Te gustaría saber un secreto? Todos, incluso los adultos, a veces se sienten inseguros. Pero lo importante es no rendirse. Como cuando intentas atarte los zapatos y al principio es difícil. Con práctica, se vuelve más fácil. ¡Y un día lo harás sin pensar! ¡Sigue practicando!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo muy bien! Recuerda que cada paso que das es un paso hacia ser más confiado. Pequeños pasos como decir 'hola' a un nuevo amigo o probar un nuevo juego. Todo cuenta. ¡Eres increíble y valiente por intentarlo!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vamos a hacer un pequeño juego. Piensa en algo que te dé un poco de miedo y dibújalo. Luego, dibuja algo que te hace sentir fuerte. Cuando lo veas, recuerda que puedes superar cualquier cosa con confianza. ¡El dibujo puede ser tu recordatorio de lo valiente que eres!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a practicar decir algo positivo sobre nosotros mismos. Puedes decir: 'Soy valiente', 'Puedo hacerlo', o 'Soy un buen amigo'. Repite después de mí. Estas palabras mágicas te ayudan a sentirte bien y seguro. ¡Dilo fuerte y claro!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Qué piensas que podrías hacer mañana para sentirte más seguro? ¿Quizás probar algo nuevo en el parque o ayudar a alguien en casa? Piensa en algo pequeño que puedas intentar. ¡Estoy seguro de que lo harás genial! ¿Estás listo para el desafío?"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estoy tan orgulloso de ti por aprender sobre la confianza hoy! Recuerda, cada día es una nueva oportunidad para ser valiente. Puedes ser como un explorador que siempre busca nuevas aventuras. ¡Tu valentía te llevará muy lejos!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "¡Ha sido un día increíble aprendiendo sobre la confianza contigo! Gracias por acompañarme en esta aventura. Recuerda siempre creer en ti mismo y nunca dejar de intentar. ¡Eres fuerte, valiente y capaz de todo lo que te propongas! Nos vemos en la próxima aventura, pequeño amigo. ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Confidence de Tiko"
+}

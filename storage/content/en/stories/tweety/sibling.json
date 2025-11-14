@@ -1,0 +1,98 @@
+{
+  "id": "chirpy_birdie_sibling_story",
+  "character": "Chirpy Birdie",
+  "topic": "sibling",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Chirpy Birdie, and today we're going on an amazing adventure about siblings. Do you have a brother or a sister? Or maybe both! Siblings are like special friends who live with you. They can be fun to play with and always there to share your toys. Are you ready to learn more about the joys of having siblings? Let's flap our wings and get started!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Siblings can be your best playmates. When it's time to play, you can pretend to be superheroes or have a tea party with your dolls. Isn't it fun to have someone to laugh with when you play hide and seek? Having a sibling means having someone to share your stories with, like that time you saw a big, fluffy cloud shaped like a bunny. Siblings are there to make every day feel like an adventure!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Sharing is an important part of having siblings. Imagine you have a big box of crayons. Sharing them means everyone can draw pretty pictures together. When you share, it makes everyone happy, and you might even get to use colors you haven't tried before. So next time you have a toy or a snack, try sharing it with your sibling. It can make playtime even more fun!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Now, let's take a moment to think about something special you can do for your sibling. Maybe you could draw a picture for them or build a tower of blocks together. Doing things for each other shows how much you care. It makes your bond stronger, just like glue holding pieces together. You can be a little hero by being kind and thoughtful. Isn't that wonderful?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Sometimes, siblings might disagree or argue. It’s okay to feel upset, but it's important to talk about your feelings. You can say, 'I didn't like that,' or 'Let's try another way.' When you talk and listen, you can solve problems together. Finding a solution means everyone can go back to having fun. Remember, every day is a new chance to play and laugh together!"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite game you like to play with your sibling? Maybe it's tag, or perhaps you love building things with blocks. Think about why you love playing those games together. Is it because you both laugh a lot? Or maybe you both feel really happy when you win together. It's fun to have a special game that you both enjoy. Can you think of a new game to try today?"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about sharing? Let’s think of something else fun to share with your sibling. You could share a storybook and take turns reading. Or maybe you have a favorite snack, like apple slices or crackers, that you can enjoy together. Sharing these moments can turn an ordinary day into a special one. What will you share next?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Siblings can learn from each other every day. Maybe your brother can show you how to kick a ball, or your sister can teach you how to draw a cool dinosaur. When you learn together, you both get better at new things. Each time you practice, you're growing smarter and stronger. Isn't it exciting to think about all the new things you can discover together?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let’s try a fun exercise together! How about we count to five while clapping our hands? Ready? One, two, three, four, five! Great job! You can do this with your sibling, too. Counting together can be a fun way to learn and play at the same time. You can clap, stomp your feet, or even hop like a bunny. What other fun ways can you think of to count together?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a great job learning about siblings! Remember, every day is a chance to be a good friend to your brother or sister. You can be brave like a little hero when you help them or when you say sorry if you’ve had a disagreement. Every little thing you do to show kindness makes your heart grow bigger. Keep being amazing!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Sometimes, it’s fun to have a little competition with your sibling. You can see who can hop on one foot the longest or who can make the silliest face. Competition can be fun if everyone remembers that it’s okay to win or lose. The most important thing is to have fun and cheer each other on. Let’s clap for each other and celebrate all the fun times!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite memory with your sibling? Maybe it was a day at the park or a rainy day when you both played with your toys inside. Think about what made that day so special. Was it the laughter or the games you played together? Memories like these are treasures that you can keep forever. What new memory will you make today?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now that we've talked about memories, let’s think about something new to try with your sibling. How about making a fort with blankets and pillows? You can pretend it's a castle or a spaceship. Imagining new places can make your playtime magical. What other adventures can you dream up together? Let your imagination soar like a bird!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "We've had such a lovely time talking about siblings today! Remember, having a brother or sister means you have a friend for life. You can play, share, and learn together every day. Thank you for joining me, Chirpy Birdie, on this joyful adventure. Keep being kind and brave, and give your sibling a big hug from me. Goodbye, little friend, until next time!"
+    }
+  ],
+  "title": "Chirpy Birdie's Sibling Story"
+}

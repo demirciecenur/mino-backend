@@ -1,0 +1,104 @@
+{
+  "id": "ocean_dreamer_moa_friendship_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostlarım! Ben Ocean Dreamer Moa ve bugün sizinle harika bir maceraya çıkacağız. Bugün arkadaşlığın ne kadar önemli ve değerli olduğunu keşfedeceğiz. Hazır mısınız? Denizin derinliklerinde, dalgalar arasında birçok dostum var ve onları tanımanızı çok isterim. Haydi, birlikte bu yolculuğa çıkalım ve arkadaşlığın ne kadar güzel bir şey olduğunu görelim!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, kalbimizi ısıtan ve bizi mutlu eden bir şeydir. Düşünsenize, oyun oynarken yanınızda bir arkadaşınızın olması ne kadar güzel! Birlikte gülebilir, yeni şeyler öğrenebilir ve birbirimize destek olabiliriz. Arkadaşlar, zor zamanlarda da yanımızda olurlar ve bizi cesaretlendirirler. Bir arkadaşınız olduğunda, kendinizi hiç yalnız hissetmezsiniz çünkü her zaman yanınızda birinin olduğunu bilirsiniz."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaş edinmek için neler yapabiliriz, hiç düşündünüz mü? İlk adım, gülümsemek ve 'Merhaba' demektir. Çünkü bir gülümseme, herkesin kalbini ısıtır ve yeni bir dostluğun kapısını aralar. Ayrıca, karşımızdaki kişiyi dinlemek ve onunla konuşmak da çok önemlidir. Onun ne düşündüğünü ve nelerden hoşlandığını öğrenmek, arkadaşlığımızı güçlendirir. Unutmayın, paylaşmak da arkadaşlığın en önemli parçalarından biridir!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım! Hayal edin ki büyük bir gemideyiz ve birlikte denizleri keşfediyoruz. Herkes bir denizci gibi davranabilir ve dalgaların sesini dinleyebilir. Birlikte şarkılar söyleyip, maceralarımızı paylaşabiliriz. Bu oyun, arkadaşlarımızla daha da yakınlaşmamıza yardımcı olur. Haydi, denizci dostlarım, macera bizi bekliyor!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki oyunumuzda, denizlerde nasıl eğlendiğimizi gördünüz. Şimdi, arkadaşlarımızla nasıl daha iyi anlaşabileceğimizden bahsedelim. Anlayışlı olmak, yani karşımızdakini dinlemek ve anlamaya çalışmak çok önemlidir. Bazen arkadaşlarımız üzgün olabilir ve onları neşelendirmek için yanlarında olmalıyız. İşte bu, gerçek bir dostun yapacağı bir şeydir. Arkadaşlarımıza karşı sabırlı ve nazik olmayı unutmayalım."
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, aynı zamanda birlikte güzel anılar biriktirmektir. Mesela, bir gün parkta oynarken bir arkadaşınızla eğlenceli bir anı hatırlayın. O anı, yıllar sonra bile hatırlayıp birbirinize gülebilirsiniz. İşte bu, arkadaşlığın büyüsüdür. Birlikte geçirilen zamanlar, kalbimizde özel bir yer edinir. Her yeni anı, dostluğumuzu daha da güçlendirir."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Denizlerdeki maceralarıma katılmak ister misiniz? Orada birçok farklı deniz canlısı ile arkadaş oldum. Her biri farklı ve özel, tıpkı bizim gibi. Deniz yıldızları, yunuslar, deniz kaplumbağaları... Hepsiyle farklı oyunlar oynadık ve birbirimizi tanıdık. Farklılıklarımızı kabul etmek ve saygı göstermek, arkadaşlığın en güzel yanlarından biridir."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir nefes egzersizi yapalım. Derin bir nefes alalım ve yavaşça verelim. Bu, bizi sakinleştirir ve daha iyi hissetmemizi sağlar. Arkadaşlarımızla birlikte bu tür egzersizler yaparak, birbirimize destek olabiliriz. Haydi, derin bir nefes daha alalım ve verelim. Harika! Şimdi kendimizi çok daha iyi hissediyoruz."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi bir soru sorma zamanı! Hiç yeni bir arkadaş edinmek için neler yapabileceğimizi düşündünüz mü? Belki de yeni bir oyun önererek başlayabiliriz. Ya da birlikte bir resim yapabiliriz. Senin aklında başka fikirler var mı? Her düşüncen çok değerli, hadi bakalım, sen neler düşünüyorsun?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sorumuzda, arkadaş edinme fikirlerinizi duydum ve çok mutlu oldum. Şimdi, bu fikirleri nasıl uygulayabileceğimizi konuşalım. Belki de bir sonraki oyun saatinde bu fikirleri deneyebiliriz. Arkadaşlarımızla birlikte yeni şeyler denemek, onlarla daha da yakınlaşmamıza yardımcı olur. Unutmayın, her yeni deneyim, dostluğumuzu daha da güçlendirir."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, paylaşmak demektir. Mesela, bir oyuncak ya da bir kitap. Bunları arkadaşlarımızla paylaşarak, onlara ne kadar değer verdiğimizi gösterebiliriz. Paylaşmak, karşılıklı güven ve saygının bir göstergesidir. Aynı zamanda, başkalarının da bizimle paylaşmasına izin vermek, dostluğumuzu daha da anlamlı kılar. Paylaşmanın güzelliğini her zaman hatırlayalım."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Birlikte yeni bir şey öğrenmek ister misiniz? Arkadaşlarımızla birlikte yeni bir dilin birkaç kelimesini öğrenebiliriz. Mesela, 'Merhaba' demek için başka dillerde nasıl söylenir, biliyor musunuz? İngilizce'de 'Hello', Fransızca'da 'Bonjour'. Bu, arkadaşlarımızla farklı kültürleri tanımamıza yardımcı olur. Yeni şeyler öğrenmek, dostluğumuzu daha da renklendirir."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi biraz eğlenelim! Birlikte bir şarkı söyleyelim ve dans edelim. Müzik, hepimizi bir araya getiren harika bir şeydir. Arkadaşlarımızla şarkı söylemek, aramızdaki bağı güçlendirir. Hadi, en sevdiğimiz şarkıyı seçip, birlikte söyleyelim. Unutmayın, dans etmek ve şarkı söylemek, kalbimizi neşeyle doldurur."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, hayatımızı güzelleştiren en önemli şeylerden biridir. Birlikte güler, birlikte ağlar ve her anı paylaşırız. Bu yolculukta, denizlerdeki maceralarımda olduğu gibi, her anın tadını çıkarmalıyız. Dostlarımızla paylaştığımız her an, kalbimizde özel bir yer edinir. Unutmayın, arkadaşlık, hayatın en değerli hazinesidir."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün sizinle arkadaşlık hakkında harika bir yolculuk yaptık. Umarım bu macera, kalbinizde güzel bir iz bırakmıştır. Her zaman yanınızda bir arkadaşınız olduğunu unutmayın. Ben Ocean Dreamer Moa, her zaman sizinle maceraya çıkmaya hazırım. Şimdi size veda ediyorum ama unutmayın, denizlerin altında her zaman bir dostunuz var. Hoşça kalın!"
+    }
+  ],
+  "title": "Ocean Dreamer Moa'ın Friendship Hikayesi"
+}

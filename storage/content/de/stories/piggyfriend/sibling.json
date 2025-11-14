@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_sibling_story",
+  "character": "Piggy Friend",
+  "topic": "sibling",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Piggy Friend. Heute werden wir über etwas ganz Besonderes sprechen - Geschwister! Hast du einen Bruder oder eine Schwester? Geschwister können die besten Spielkameraden sein. Lass uns gemeinsam herausfinden, warum Geschwister so toll sind!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister sind wie beste Freunde, die man immer in der Nähe hat. Sie teilen ihre Spielsachen mit dir und ihr könnt zusammen lachen und spielen. Manchmal kann es auch Streit geben, aber das ist ganz normal. Wichtig ist, dass man sich wieder verträgt und zusammen Spaß hat. Erinnerst du dich an das letzte Spiel, das du mit deinem Geschwisterchen gespielt hast?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn ihr zusammen spielt, könnt ihr viele spannende Abenteuer erleben. Zum Beispiel könnt ihr ein Piratenschiff bauen oder einen geheimen Garten erforschen. Es ist wichtig, einander zuzuhören und Ideen zu teilen. Auf diese Weise wird das Spiel noch lustiger für alle. Versucht doch mal, zusammen ein neues Spiel zu erfinden!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ihr könnt auch gemeinsam tolle Dinge lernen. Zum Beispiel könnt ihr zusammen zählen lernen oder die Farben entdecken. Wenn du etwas nicht weißt, kann dein Geschwisterchen dir helfen. Und wenn ihr beide etwas Neues gelernt habt, könnt ihr es Mama und Papa zeigen. Ihr seid ein tolles Team!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lasst uns über das Teilen sprechen. Es ist wichtig, Spielsachen mit deinem Geschwisterchen zu teilen. Wenn du dein Lieblingsspielzeug teilst, macht es doppelt so viel Spaß. Und wenn dein Geschwisterchen teilt, kannst du auch neue Spielsachen ausprobieren. Teilen macht glücklich und stärkt eure Freundschaft."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wie wäre es, wenn wir zusammen drei tiefe Atemzüge nehmen? Das hilft uns, ruhig zu bleiben, wenn es mal Streit gibt. Atme tief ein und dann langsam aus. Noch einmal einatmen, und langsam ausatmen. Und ein letztes Mal. Jetzt fühlst du dich bestimmt entspannter, oder?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ihr könnt auch zusammen kleine Aufgaben erledigen, wie das Aufräumen eures Zimmers. Wenn ihr zusammenarbeitet, geht es viel schneller. Und danach könnt ihr euch gegenseitig loben. Das macht Spaß und ihr fühlt euch richtig stolz auf euch selbst. Probiert es doch mal aus!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Weißt du, was das Beste an Geschwistern ist? Es ist die Liebe, die ihr teilt. Kannst du dich daran erinnern, wann du zuletzt deinem Geschwisterchen gesagt hast, dass du es lieb hast? Warum sagst du es nicht jetzt gleich? Es macht dein Geschwisterchen bestimmt sehr glücklich!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundliche Worte sind wie kleine Geschenke, die wir einander machen können. Wenn du deinem Geschwisterchen sagst, dass es toll ist, fühlt es sich gut an. Und du wirst sehen, dass es dir genauso zurückgegeben wird. Habt ihr schon einmal zusammen ein Lied gesungen? Das macht viel Spaß und stärkt eure Verbindung."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns überlegen, wie wir einem Geschwisterchen helfen können, wenn es traurig ist. Vielleicht kannst du es umarmen oder mit ihm malen. Eine kleine Zeichnung kann ein großes Lächeln zaubern. Und wenn du nicht weißt, wie du helfen sollst, frag einfach. Manchmal hilft schon das Zuhören."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ihr könnt auch zusammen etwas Neues ausprobieren, wie ein neues Spiel oder ein neues Lied. Das macht nicht nur Spaß, sondern ihr lernt auch voneinander. Und wenn es mal nicht sofort klappt, ist das nicht schlimm. Gemeinsam könnt ihr alles schaffen. Gebt nicht auf und unterstützt euch gegenseitig!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnert ihr euch an das letzte Mal, als ihr zusammen gelacht habt? Lachen ist so wichtig und macht alles gleich viel schöner. Vielleicht könnt ihr zusammen eine lustige Geschichte erfinden. Oder ihr könnt euch gegenseitig Witze erzählen. Lachen verbindet und macht glücklich!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister sind wirklich etwas Besonderes. Sie sind immer da, um dich zu unterstützen und mit dir zu spielen. Auch wenn es manchmal kleine Streitereien gibt, ist die Liebe immer größer. Könnt ihr euch eine Welt ohne Geschwister vorstellen? Ich glaube, das wäre ziemlich langweilig!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Jetzt möchte ich von dir wissen: Was ist das Schönste, was du jemals mit deinem Geschwisterchen gemacht hast? Vielleicht ein Ausflug oder ein besonderes Spiel? Denk daran zurück und erzähle es mir. Es ist immer schön, sich an solche Momente zu erinnern."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Das war eine wundervolle Zeit mit dir! Ich hoffe, du hast viel über Geschwister gelernt und wie wichtig sie sind. Denk daran, immer nett zu deinem Geschwisterchen zu sein und viel Spaß zusammen zu haben. Wir sehen uns bald wieder, kleiner Freund. Tschüss und bis zum nächsten Mal!"
+    }
+  ],
+  "title": "Piggy Friends Sibling Geschichte"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "swamp_buddy_hero_regulación_emocional_manejo_de_emociones_calmarse_autorregulación_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "regulación emocional, manejo de emociones, calmarse, autorregulación",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy tu amigo del pantano, Swamp Buddy Hero. Hoy vamos a embarcarnos en un viaje increíble sobre cómo manejar nuestras emociones. ¿Estás listo? Me muero de curiosidad por saber cómo te sientes hoy. Vamos a aprender juntos de una manera divertida y emocionante."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Las emociones son como pequeñas olas en un lago. A veces son tranquilas, y a veces pueden ser grandes y ruidosas. Es normal sentir muchas cosas diferentes, como felicidad, tristeza o enojo. Lo importante es aprender a manejarlas para que no nos controlen. Hoy vamos a descubrir cómo hacerlo juntos."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando sentimos que una emoción grande nos está invadiendo, podemos intentar calmarnos. Una manera de hacerlo es respirar profundamente. ¿Por qué no probamos juntos? Vamos a inhalar por la nariz contando hasta tres, y luego exhalar por la boca contando hasta tres. ¡Vamos a intentarlo!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo hiciste genial! Respirar profundamente ayuda a que nuestro cuerpo se sienta más tranquilo. Ahora, cada vez que te sientas un poco abrumado, puedes usar esta técnica para calmarte. Recuerda que siempre puedes contar conmigo para ayudarte a practicar."
+    },
+    {
+      "id": "scene_4",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que sabemos cómo calmarnos, hablemos de cómo entender nuestras emociones. Es como cuando ves una nube en el cielo y tratas de adivinar su forma. A veces, saber qué sentimos nos ayuda a decidir cómo actuar. ¿Puedes pensar en una emoción que hayas sentido hoy?"
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Cada emoción tiene su momento y su razón de ser. La alegría nos hace sonreír y compartir momentos felices. La tristeza nos ayuda a reflexionar y a veces nos da ganas de un abrazo. El enojo puede ser una señal de que algo no está bien. Aprender a identificarlas es el primer paso para manejarlas."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Una forma divertida de manejar las emociones es usar nuestra imaginación. Imagina que estás en un lugar tranquilo, como un bosque o una playa. ¿Qué sonidos escuchas? ¿Qué ves a tu alrededor? Este ejercicio nos ayuda a sentirnos más en paz. ¿Te gustaría intentarlo ahora?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo hiciste! Imaginar un lugar tranquilo es como darle un abrazo a nuestro corazón. Nos ayuda a sentirnos seguros y relajados. Siempre puedes usar tu imaginación para encontrar calma en momentos difíciles. Estoy muy orgulloso de ti por intentarlo."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabes que las emociones también pueden ser compartidas? ¿Cómo crees que se siente un amigo cuando le das un abrazo? Compartir nuestras emociones y escuchar a los demás nos ayuda a fortalecer nuestras amistades. ¿Te gustaría contarme alguna vez que compartiste tus emociones?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Compartir emociones con amigos y familiares nos hace sentir acompañados. Es como cuando compartimos un juguete o un juego. También podemos aprender a escuchar cómo se sienten ellos y ofrecer nuestro apoyo. Juntos, podemos crear un entorno lleno de amor y comprensión."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de cómo expresar nuestras emociones de manera saludable. Si te sientes enojado, podrías dibujar o escribir sobre ello. Si estás feliz, podrías bailar o cantar. Expresar nuestras emociones nos ayuda a liberarlas y a sentirnos mejor. ¿Te gustaría probar alguna de estas ideas?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Excelente! Recuerda que siempre puedes buscar maneras creativas de expresar lo que sientes. No hay una sola forma correcta de hacerlo. Lo importante es que te sientas bien y seguro. Estoy aquí para apoyarte en cada paso del camino."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme cómo te sientes ahora? Saber cómo nos sentimos es una parte importante de la autorregulación. Nos ayuda a tomar decisiones y a entendernos mejor. ¿Tienes alguna emoción que quieras compartir conmigo?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Es maravilloso que compartas tus emociones. Cada vez que lo haces, te vuelves más fuerte y más sabio. Como un verdadero héroe del pantano, estás aprendiendo a manejar tus emociones con valentía. Estoy muy orgulloso de ti y de todo lo que hemos aprendido juntos hoy."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer acompañarte en este viaje sobre la regulación emocional. Recuerda que siempre puedes volver a estas técnicas cuando lo necesites. Estoy aquí para ti, siempre listo para ayudarte. ¡Hasta la próxima, pequeño héroe! Cuida tus emociones y sigue siendo increíble."
+    }
+  ],
+  "title": "Historia de Emotional Regulation de Swamp Buddy Hero"
+}

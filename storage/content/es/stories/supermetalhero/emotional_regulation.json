@@ -1,0 +1,104 @@
+{
+  "id": "super_metal_hero_regulación_emocional_manejo_de_emociones_calmarse_autorregulación_story",
+  "character": "Super Metal Hero",
+  "topic": "regulación emocional, manejo de emociones, calmarse, autorregulación",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Super Metal Hero, y hoy vamos a explorar un mundo increíble sobre la regulación emocional. ¿Estás listo para esta aventura? Aprenderemos cómo manejar nuestras emociones como verdaderos héroes. Juntos descubriremos formas de calmarnos y sentirnos mejor. ¡Será muy divertido y educativo! Estoy muy emocionado de empezar este viaje contigo."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Las emociones son como pequeños superpoderes dentro de nosotros. A veces nos sentimos felices, tristes o incluso un poco enojados. Pero no te preocupes, eso es normal. Lo importante es saber cómo manejar estas emociones para sentirnos mejor. Vamos a hablar sobre cómo podemos ser los héroes de nuestras propias emociones. ¿No es emocionante?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando te sientas enojado o frustrado, hay una técnica especial que podemos usar. Se llama respiración profunda. Vamos a intentarlo juntos. Inhala profundamente por la nariz, como si estuvieras oliendo una flor, y luego exhala lentamente por la boca. Esto ayuda a que nuestro cuerpo se relaje. ¿Lo intentamos otra vez?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! La respiración profunda es solo una de las formas de calmarse. Recuerda que siempre puedes contar con esta técnica cuando lo necesites. Con práctica, te volverás un experto en manejar tus emociones. ¡Tú puedes hacerlo! Ahora vamos a aprender otra técnica."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Otra forma de manejar nuestras emociones es pensar en algo que nos haga felices. Puede ser tu juguete favorito o un momento divertido que hayas vivido. Cuando te concentras en estos pensamientos felices, puedes cambiar la forma en que te sientes. ¿Cuál es tu recuerdo feliz favorito?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora vamos a crear un 'rincón de la calma'. Busca un lugar en tu casa donde puedas sentarte y relajarte. Puedes llevar un libro, un peluche o cualquier cosa que te haga sentir bien. Este será tu espacio especial para calmarte cuando lo necesites. ¡Vamos a decorarlo juntos!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué rincón tan maravilloso has creado! Tener un lugar especial para calmarse es una gran herramienta. Recuerda que siempre puedes ir allí cuando te sientas sobrepasado. Es un espacio solo para ti, donde puedes respirar profundo y pensar en cosas felices. ¡Eres increíble!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabías que comer bien y descansar también nos ayuda a regular nuestras emociones? ¿Tienes algún alimento favorito que te haga sentir bien? Cuando cuidamos nuestro cuerpo, también cuidamos nuestras emociones. ¿Te gustaría contarme más sobre tus comidas favoritas?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dormir bien es otra forma de ayudar a nuestras emociones. Cuando dormimos, nuestro cuerpo descansa y se recupera. Esto nos ayuda a sentirnos más felices y menos estresados. ¿Tienes una rutina antes de dormir que te ayude a relajarte? ¡Es importante tener un buen descanso!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar una rutina de sueño juntos. Antes de dormir, puedes leer un cuento o escuchar música suave. Luego, apaga las luces y cierra los ojos. Imagina que estás en un lugar tranquilo y bonito. Esto te ayudará a dormir mejor y despertar lleno de energía."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Ahora sabes muchas formas de manejar tus emociones. Recuerda que practicar estas técnicas te hará sentir más fuerte y feliz. Eres un verdadero héroe emocional. ¡Sigue así y verás lo bien que te sientes!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría compartir alguna técnica que hayas aprendido hoy con tus amigos o familia? Hablar sobre nuestras emociones puede ayudarnos a entendernos mejor. ¿Cómo crees que podrías explicarles lo que has aprendido? ¡Estoy seguro de que lo harás genial!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Compartir lo que aprendemos es una forma de ayudar a los demás. Cuando tus amigos sepan cómo manejar sus emociones, todos podrán ser más felices juntos. Recuerda que está bien pedir ayuda si alguna vez te sientes muy triste o enojado. ¡Siempre hay alguien que puede ayudarte!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Estoy muy orgulloso de ti por haber aprendido tanto hoy. Has demostrado ser un verdadero Super Metal Hero al manejar tus emociones con confianza. Sigue practicando y verás cómo te vuelves aún más fuerte. ¡Tú puedes hacerlo, pequeño héroe!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer compartir este tiempo contigo, pequeño amigo. Espero que hayas disfrutado nuestra aventura sobre la regulación emocional. Recuerda que siempre puedes volver a practicar lo aprendido. ¡Nos vemos pronto para más aventuras heroicas! Adiós y cuídate mucho."
+    }
+  ],
+  "title": "Historia de Emotional Regulation de Super Metal Hero"
+}

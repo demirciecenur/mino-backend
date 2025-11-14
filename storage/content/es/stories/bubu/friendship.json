@@ -1,0 +1,104 @@
+{
+  "id": "bubu_friendship_story",
+  "character": "Bubu",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Bubu y estoy muy feliz de verte hoy. Vamos a embarcarnos en un viaje sobre la amistad. La amistad es algo muy especial y hace que nuestros corazones se sientan cálidos y felices. ¿Estás listo para aprender más sobre cómo hacer amigos y cuidarlos? Estoy tan emocionado de empezar esta aventura contigo."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad es como un hermoso jardín que necesita amor y cuidado para crecer. Cuando somos amables y compartimos, estamos regando las flores de la amistad. Por ejemplo, cuando compartes tus juguetes, estás mostrando a tus amigos que te importan. Y cuando escuchas a tus amigos, estás ayudando a que su día sea mejor. Ahora que sabemos esto, pensemos en algunas formas de ser un buen amigo."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ser un buen amigo significa hacer cosas simples pero importantes. Por ejemplo, puedes sonreír y decir 'hola' cuando ves a un amigo. También puedes preguntarles cómo ha sido su día. Escuchar con atención es otra forma de mostrar que te importa. ¿Puedes pensar en otras formas de ser un buen amigo? Vamos a practicar juntos algunas de estas ideas."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Ahora, intentemos juntos. Imagina que ves a un amigo que parece triste. ¿Qué podrías hacer para ayudarle a sentirse mejor? Tal vez podrías ofrecerle un abrazo o invitarlo a jugar. A veces, una simple palabra amable puede cambiar todo. ¡Tú puedes hacer la diferencia en el día de alguien!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablamos de compartir, eso es muy importante. Compartir no solo es dar cosas, también es dar tiempo y atención. Puedes compartir un cuento o un juego, y eso hará que tu amigo se sienta especial. ¿Has compartido algo con un amigo últimamente? Compartir nos hace sentir bien por dentro y crea un vínculo fuerte."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de cómo resolver problemas con amigos. A veces, pueden surgir malentendidos, y eso está bien. Lo importante es hablar y escuchar con calma. Puedes decir, 'No estoy de acuerdo, pero me gustaría entenderte'. Esto muestra que te importa la opinión de tu amigo. Resolver problemas juntos fortalece la amistad."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres un gran amigo! Ahora, pensemos en cómo podemos jugar juntos de manera divertida y segura. Cuando jugamos, es importante seguir las reglas y asegurarnos de que todos se diviertan. ¿Puedes pensar en un juego que te gustaría jugar con tus amigos? Jugar juntos nos une y crea recuerdos felices."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablamos sobre escuchar a nuestros amigos, y eso es algo muy valioso. Cuando escuchas, estás mostrando respeto y cariño. Puedes asentir con la cabeza y decir 'entiendo' para que tu amigo sepa que le prestas atención. Escuchar es un regalo que podemos dar todos los días. ¿Te gustaría practicar cómo escuchar mejor?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora, me gustaría preguntarte algo. ¿Cuál es tu parte favorita de tener amigos? Tal vez te gusta jugar juntos o contar secretos. ¿O quizás te gusta cómo te hacen sentir especial? Cada amistad es única y especial, y estoy emocionado de saber qué piensas tú."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué interesante respuesta! Todos tenemos diferentes razones para disfrutar de la amistad. Ahora que hemos hablado de tantas cosas, ¿te gustaría recordar alguna de las formas en que podemos ser buenos amigos? Como compartir, escuchar, y resolver problemas. Todas estas acciones nos ayudan a ser amigos increíbles."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Sigamos hablando de cómo podemos ser un apoyo para nuestros amigos. Cuando un amigo necesita ayuda, podemos estar ahí para él. Puedes ofrecer un hombro para llorar o simplemente estar a su lado. Ser un buen amigo significa estar presente en los momentos buenos y también en los difíciles. Eso es lo que hace que la amistad sea tan especial."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a practicar un ejercicio de respiración juntos. Esto puede ayudarnos a calmarnos y a estar más presentes con nuestros amigos. Respira profundamente por la nariz y luego suelta el aire lentamente por la boca. Vamos a hacerlo tres veces juntos. Esto nos ayuda a sentirnos tranquilos y listos para ser buenos amigos."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo hiciste genial! Respirar juntos nos hace sentir conectados. Ahora, piensa en un amigo al que te gustaría agradecer por ser tan especial. Puedes decirle algo bonito la próxima vez que lo veas. Un simple 'gracias por ser mi amigo' puede iluminar su día. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Finalmente, recordemos que la amistad es un viaje que hacemos juntos. A veces habrá días soleados y otras veces lloverá, pero siempre podemos contar con nuestros amigos. Cuidar de nuestras amistades es como cuidar de un tesoro. ¿Estás listo para seguir siendo un amigo maravilloso?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer compartir este tiempo contigo, pequeño amigo. Espero que hayas aprendido mucho sobre la amistad y que estés emocionado de aplicar todo lo que hemos hablado. Recuerda siempre que eres un amigo increíble. ¡Hasta pronto, y sigue brillando como la estrella que eres!"
+    }
+  ],
+  "title": "Historia de Friendship de Bubu"
+}

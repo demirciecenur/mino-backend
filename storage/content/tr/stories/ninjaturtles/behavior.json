@@ -1,0 +1,104 @@
+{
+  "id": "shell_heroes_crew_behavior_story",
+  "character": "Shell Heroes Crew",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Shell Heroes Crew. Bugün birlikte davranışlar hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Davranışlar, günlük hayatımızda çok önemli bir yere sahiptir. Doğru davranışlar, hem kendimize hem de çevremize iyi hissettirir. Hadi, birlikte öğrenmeye başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Davranışlarımız, başkalarına nasıl davrandığımızı ve kendimize nasıl baktığımızı gösterir. İyi davranışlar sergilemek, arkadaşlarımızla daha iyi anlaşmamızı sağlar. Örneğin, oyuncaklarımızı paylaşmak, bir arkadaşımızı mutlu edebilir. Hem kendimizi hem de etrafımızdakileri mutlu etmek için, dikkatli ve nazik davranışlar sergilemek önemlidir. Şimdi, iyi davranışları nasıl geliştirebileceğimize bakalım."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "İyi davranışlar geliştirmek için bazı kurallara dikkat edebiliriz. İlk olarak, lütfen ve teşekkür ederim demeyi unutmamalıyız. Bu kelimeler, başkalarına saygılı olduğumuzu ve onların yardımını takdir ettiğimizi gösterir. Ayrıca, sıraya girmek ve sabırla beklemek de iyi bir davranıştır. Bu, herkesin adil bir şekilde sırasını beklemesini sağlar. Hadi, şimdi birlikte bu kuralları uygulayalım!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Unutma, her gün bu kuralları uygulamak seni daha iyi bir arkadaş yapar. Örneğin, oyuncaklarını toplamak ve odanı temiz tutmak da iyi bir davranıştır. Bu, hem senin hem de ailenin daha mutlu olmasını sağlar. Başka bir örnek olarak, dişlerini düzenli olarak fırçalamak da önemlidir. Bu, sağlıklı olmanı sağlar ve güzel bir gülüşe sahip olmanı destekler."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Davranışlarımızın diğer insanlar üzerinde büyük bir etkisi vardır. Örneğin, birine gülümsemek, onun gününü aydınlatabilir. Aynı şekilde, birine yardım etmek, onu çok mutlu edebilir. Bu tür davranışlar, arkadaşlıklarımızı güçlendirir ve bizi daha iyi bir insan yapar. Şimdi, bu güzel davranışları nasıl sürdürebileceğimizi düşünelim. Belki de her gün birine yardım etmeyi deneyebiliriz."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Unutma, iyi davranışlar sergilemek, zamanla alışkanlık haline gelir. Her gün, küçük bir iyi davranışta bulunmak için kendine bir hedef koyabilirsin. Örneğin, sabahları kalktığında yatağını toplamak güzel bir alışkanlıktır. Ya da, akşam yemeğinde masayı kurmaya yardımcı olmak da bir başka iyi davranış örneğidir. Bu tür davranışlar seni daha sorumlu ve dikkatli biri yapar."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, birlikte birkaç derin nefes alalım ve iyi davranışlarımızı düşünelim. Derin nefes almak, sakinleşmemize ve daha iyi odaklanmamıza yardımcı olur. Hadi, birlikte üç derin nefes alalım. Bir, iki, üç... Harika! Şimdi daha rahat hissediyor musun? Bu, iyi davranışlar sergilemek için harika bir başlangıçtır."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence, iyi bir davranış sergilediğinde nasıl hissediyorsun? Belki mutlu, belki de gururlu hissediyorsundur. Bu duygular, iyi davranışların ne kadar önemli olduğunu gösterir. Sen de birine yardım ettiğinde nasıl hissettiğini anlatmak ister misin? Duygularını paylaşmak, başkalarıyla daha iyi bir bağ kurmanı sağlar."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda, iyi davranışların ne kadar önemli olduğunu konuştuk. Şimdi, kötü davranışların sonuçlarına bakalım. Kötü davranışlar, bazen başkalarını üzebilir veya incitebilir. Örneğin, birine kaba davranmak veya bağırmak, onu üzebilir. Bu yüzden, her zaman nazik ve saygılı olmalıyız. Böylece, etrafımızdaki insanlar da bize aynı şekilde davranır."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kötü bir davranışta bulunduğumuzda, hatamızı kabul etmek önemlidir. Özür dilemek, yaptığımız hatanın farkında olduğumuzu gösterir. Bu, başkalarının bize olan güvenini geri kazanmamızı sağlar. Ayrıca, bir daha aynı hatayı yapmamak için ders almak da önemlidir. Şimdi, birlikte özür dilemenin önemini düşünelim."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Özür dilemek, cesur bir davranıştır. Bu, hatalarımızdan ders alıp daha iyi biri olmamızı sağlar. Örneğin, bir arkadaşını incittiysen, ona içten bir şekilde özür dileyebilirsin. Bu, arkadaşlığınızı daha da güçlendirir. Sen de birine özür dilediğinde nasıl hissettiğini paylaşmak ister misin? Unutma, hepimiz hata yapabiliriz, önemli olan hatalarımızdan ders almak."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda, özür dilemenin öneminden bahsettik. Şimdi, davranışlarımızın nasıl alışkanlık haline gelebileceğini düşünelim. Her gün küçük iyi davranışlar sergilemek, zamanla büyük değişiklikler yapabilir. Örneğin, her sabah gülümsemek, hem senin hem de etrafındakilerin gününü güzelleştirebilir. Hadi, bu güzel alışkanlıkları nasıl sürdürebileceğimizi planlayalım."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Her gün için kendine bir iyi davranış hedefi koyabilirsin. Örneğin, bugün bir arkadaşına yardım etmeyi hedefleyebilirsin. Ya da, bir aile üyenle vakit geçirip ona nasıl yardımcı olabileceğini sorabilirsin. Bu tür hedefler, seni daha dikkatli ve sorumlu biri yapar. Hadi, birlikte bir iyi davranış hedefi belirleyelim!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harikasın! Unutma, her gün küçük bir adım atmak, büyük değişiklikler yapabilir. Sen de her gün birine yardım ettiğinde veya iyi bir davranış sergilediğinde nasıl hissettiğini paylaşmak ister misin? Bu, seni daha mutlu ve huzurlu yapar. Şimdi, birlikte bu güzel davranışları nasıl sürdürebileceğimizi düşünelim."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün, birlikte davranışlarımız hakkında çok şey öğrendik. İyi davranışlar sergilediğimizde, hem kendimizi hem de etrafımızdakileri mutlu ederiz. Bu yolculukta seninle olmak çok güzeldi. Unutma, her gün küçük bir iyi davranış, dünyayı daha iyi bir yer yapabilir. Şimdi, bu güzel davranışları hayatına katmaya devam et. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Shell Heroes Crew'ın Behavior Hikayesi"
+}

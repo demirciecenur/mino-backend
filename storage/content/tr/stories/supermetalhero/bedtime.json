@@ -1,0 +1,98 @@
+{
+  "id": "super_metal_hero_bedtime_story",
+  "title": "Super Metal Hero'nin Uyku Zamanı Hikayesi",
+  "character": "Super Metal Hero",
+  "topic": "bedtime",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Super Metal Hero. Bugün birlikte uyku zamanı hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Uyku zamanı, dinlenmek için çok önemli bir süreçtir. Hadi başlayalım ve birlikte keşfedelim!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku zamanı gelmeden önce yapmamız gereken bazı hazırlıklar var. Mesela, günün yorgunluğunu atmak için oyuncaklarımızı toplamak önemlidir. Bu, odanın düzenli olmasını sağlar ve uyurken daha rahat hissetmemize yardımcı olur. Ayrıca, oyuncaklarını toplamak seni bir süper kahraman gibi düzenli yapar! Şimdi, oyuncaklarını toplamak için neler yapabileceğini düşünelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Uyku öncesi bir diğer önemli adım ise dişlerimizi fırçalamaktır. Dişlerimizi fırçalamak, ağzımızı temiz ve sağlıklı tutar. Bunu yaparken diş macununun tadını seveceksin. Her sabah ve akşam dişlerini fırçalamak, seni güçlü ve sağlıklı bir süper kahraman yapar. Şimdi, dişlerini nasıl fırçalayacağını hatırlayalım."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Dişlerini fırçalayarak ve oyuncaklarını toplayarak süper bir başlangıç yaptın. Şimdi sıra, pijamalarını giymekte. Pijamalar, uykuya hazırlanırken rahat hissetmemize yardımcı olur. Seni yumuşacık ve rahat hissettirecek pijamalarını giymek, uyku için harika bir adımdır. Sen de pijamalarını giymek ister misin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, uykuya geçmeden önce biraz sakinleşmek için bir süre oturabiliriz. Gözlerini kapatıp derin nefes almak, vücudumuza 'rahatla' sinyalini gönderir. Üç derin nefes alalım: bir, iki, üç. Nefes alıp verirken, kendini bir bulutun üstünde süzülüyormuş gibi düşünebilirsin. Bu seni daha da rahatlatacak."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Uyumadan önce kitap okumayı sever misin? Kitaplar, bizi harika maceralara götürebilir. En sevdiğin kitabın ne olduğunu merak ediyorum. Belki birlikte bir kitap okuyabiliriz. Kitap okumak, uyumadan önce zihnini sakinleştirebilir."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, uyku öncesi bir hikaye dinlemeye ne dersin? Hikayeler, hayal gücümüzü geliştirir ve bizi farklı dünyalara götürür. Birlikte bir hikaye seçebiliriz. Hikayeler, uykuya dalmadan önce bize huzur verir. Haydi, en sevdiğin hikayeyi düşünelim."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Uyku öncesi yapılabilecek bir diğer şey ise hafif bir müzik dinlemektir. Müzik, ruhumuzu dinlendirir ve bizi rahatlatır. Hafif melodiler, uykuya geçişimizi kolaylaştırır. Hangi müzikleri dinlemekten hoşlandığını merak ediyorum. Belki birlikte bir melodi seçebiliriz."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Güzel bir melodi bulduğunuzda, gözlerini kapatıp müziğin ritmiyle hayal kurabilirsin. Belki de bir süper kahraman gibi gökyüzünde uçuyorsundur. Hayal gücünü kullanmak, uykuya dalmanı kolaylaştırır. Sen de bunu deneyebilirsin! Hayal gücünle neler yapabileceğini görmek harika."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Biliyor musun, uyku sırasında vücudumuz büyür ve yenilenir. Bu yüzden uykuya zamanında gitmek çok önemlidir. Yeterince uyuduğunda, sabahları enerji dolu uyanırsın. Bu da seni gün boyunca aktif ve mutlu yapar. Uyku, en güçlü süper güçlerden biridir!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Uyumadan önce ışıkları kapatmak da önemlidir. Karanlık, beynimize uyku vaktinin geldiğini söyler. Işıkları kapatmak, daha hızlı uykuya dalmamıza yardımcı olur. Belki odanda gece lambası kullanmak isteyebilirsin. Gece lambası, odanı hafifçe aydınlatır ve seni rahatlatır."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Seninle birlikte bu uyku rutinini oluşturmak harikaydı! Artık uykuya hazırlanırken kendini daha güvende ve hazır hissedeceksin. Her gece bu adımları takip edersen, uykuya geçişin çok daha kolay olacak. Unutma, her adım seni daha da güçlü yapar. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Şimdi, uyku zamanı rutinimizi gözden geçirelim. İlk olarak oyuncaklarımızı topluyoruz, sonra dişlerimizi fırçalıyoruz. Pijamalarımızı giyip biraz sakinleşiyoruz. Sonra bir hikaye dinleyebilir veya müzik dinleyebiliriz. Ve en sonunda ışıkları kapatıp uykuya dalıyoruz."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Harika bir uyku zamanı yolculuğu yaptık. Seninle birlikte bu adımları keşfetmek çok keyifliydi. Unutma, her gece bu adımları uygularsan, harika bir uyku çekersin. Yarın sabah enerjik ve mutlu uyanacaksın. İyi geceler, küçük süper kahramanım!"
+    }
+  ]
+}

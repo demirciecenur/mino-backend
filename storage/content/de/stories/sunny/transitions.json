@@ -1,0 +1,104 @@
+{
+  "id": "sunny_transitions_story",
+  "character": "Sunny",
+  "topic": "transitions",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo kleiner Freund! Ich bin Sunny, und heute gehen wir auf eine spannende Reise über Veränderungen. Weißt du, manchmal ändern sich die Dinge, und das ist völlig in Ordnung. Hast du schon einmal bemerkt, wie der Himmel seine Farben wechselt, wenn die Sonne untergeht? Das sind auch Veränderungen, und sie sind wunderschön. Lass uns gemeinsam entdecken, wie wir mit diesen Übergängen umgehen können. Bist du bereit? Ich bin so neugierig auf dich!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über den Himmel gesprochen haben? Genau wie der Himmel sich ändert, ändern sich manchmal auch unsere Tagesabläufe. Vielleicht gehst du jetzt in den Kindergarten oder hast ein neues Geschwisterchen. Das kann sich anfangs komisch anfühlen, aber es ist eine Gelegenheit, neue Dinge zu lernen und Freunde zu finden. Veränderungen können spannend sein, wenn wir sie mit einem Lächeln begrüßen. Lass uns darüber sprechen, wie wir das machen können!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn sich etwas ändert, kannst du dir Zeit nehmen, es zu verstehen. Zum Beispiel, wenn du in einen neuen Kindergarten gehst, kannst du dich darauf freuen, neue Spiele zu entdecken. Du kannst dir vorstellen, wie du neue Freunde findest und neue Spielzeuge erkundest. Es hilft oft, tief einzuatmen und bis drei zu zählen, um sich zu beruhigen. Probieren wir es zusammen: Eins, zwei, drei. Fühlst du dich jetzt ein bisschen ruhiger?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Du kannst das immer wieder tun, wenn du dich unsicher fühlst. Veränderungen sind wie Abenteuer, und du bist der mutige Entdecker. Denk daran, dass du nicht allein bist. Deine Familie und Freunde sind da, um dir zu helfen. Gemeinsam könnt ihr alle Herausforderungen meistern. Du bist stark und mutig, und das ist wunderbar!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir wissen, wie wir mit Veränderungen umgehen können, lass uns über Routinen sprechen. Eine Routine ist etwas, das wir jeden Tag auf die gleiche Weise tun, wie Zähneputzen oder Geschichten vor dem Schlafengehen. Routinen geben uns ein Gefühl von Sicherheit und helfen uns, den Tag zu strukturieren. Auch wenn sich Dinge ändern, können wir unsere Routinen beibehalten. Das gibt uns Stabilität und ein Gefühl von Geborgenheit."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Um eine neue Routine zu schaffen, kannst du dir kleine Schritte überlegen. Zum Beispiel kann das Aufräumen deines Zimmers Teil deiner Abendroutine werden. Du kannst es wie ein Spiel gestalten: Zähle, wie viele Spielsachen du aufräumst, und schau, ob du morgen noch mehr schaffen kannst. Es macht Spaß und hilft, den Raum sauber zu halten. Möchtest du das ausprobieren? Es wird bestimmt großartig!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich daran, wie wir über den Himmel gesprochen haben, der seine Farben ändert? Auch du kannst dich an Veränderungen anpassen, genau wie der Himmel. Wenn du dich an neue Routinen gewöhnst, kannst du stolz auf dich sein. Jeder kleine Schritt ist ein großer Erfolg. Und wenn du einmal Hilfe brauchst, kannst du immer jemanden fragen. Gemeinsam könnt ihr alles schaffen!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das toll! Es ist wichtig, sich selbst zu loben, wenn man etwas Neues gelernt hat. Veränderungen sind eine Chance zu wachsen und stärker zu werden. Du bist ein toller Entdecker, der jeden Tag neue Abenteuer erlebt. Bleib neugierig und offen für alles, was kommt. Du kannst stolz auf dich sein, denn du bist wunderbar!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns darüber nachdenken, wie wir Veränderungen mit Freude begegnen können. Vielleicht kannst du ein Lied singen oder tanzen, wenn du dich an eine neue Situation gewöhnst. Musik macht alles fröhlicher und hilft uns, uns besser zu fühlen. Du kannst auch ein Bild malen von dem, was du erlebt hast. Es ist eine tolle Möglichkeit, deine Gefühle auszudrücken und gleichzeitig Spaß zu haben."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du dich auf Veränderungen vorbereitest, kannst du auch ein Spiel daraus machen. Stell dir vor, du bist ein Superheld, der neue Abenteuer erlebt. Was würdest du tun? Wie würdest du dich fühlen? Du kannst dir ein Cape umhängen und so tun, als ob du fliegen könntest. Es macht Spaß und gibt dir das Gefühl, dass du alles schaffen kannst. Möchtest du das ausprobieren? Es wird ein Riesenspaß sein!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal eine große Veränderung erlebt? Vielleicht hast du ein neues Spielzeug bekommen oder bist umgezogen. Wie hat sich das für dich angefühlt? Warst du aufgeregt oder vielleicht ein bisschen nervös? Es ist völlig normal, verschiedene Gefühle zu haben. Möchtest du darüber sprechen? Ich bin hier, um zuzuhören!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Es ist wunderbar, dass du deine Erfahrungen teilst. Jeder erlebt Veränderungen anders, und das ist völlig in Ordnung. Du bist nicht allein, und es gibt immer jemanden, der dir hilft. Sei stolz auf dich, dass du über deine Gefühle sprichst. Du bist mutig und stark, und das ist fantastisch!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel über Veränderungen gelernt haben, lass uns überlegen, wie wir anderen helfen können. Vielleicht hat ein Freund von dir auch eine Veränderung erlebt und braucht deine Unterstützung. Du kannst ihm zuhören oder ihm ein Lächeln schenken. Manchmal reicht es schon, einfach da zu sein. Gemeinsam könnt ihr alles schaffen und euch gegenseitig ermutigen."
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du jemandem helfen möchtest, kannst du ihm vorschlagen, gemeinsam ein Spiel zu spielen. Spiele bringen Freude und lenken von Sorgen ab. Du könntest auch ein Bild malen, das eure Freundschaft zeigt. Es ist eine schöne Art, zu zeigen, dass du da bist. Möchtest du es ausprobieren? Es wird bestimmt viel Spaß machen und deinem Freund ein Lächeln ins Gesicht zaubern."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es Zeit, sich zu verabschieden, mein kleiner Freund. Wir haben heute viel über Veränderungen gelernt und wie wir sie mit Freude und Mut annehmen können. Denk daran, dass du stark und mutig bist, und dass du immer jemanden hast, der dir hilft. Ich bin so stolz auf dich und freue mich auf unser nächstes Abenteuer. Bis zum nächsten Mal, bleib fröhlich und neugierig! Tschüss!"
+    }
+  ],
+  "title": "Sunnys Transitions Geschichte"
+}

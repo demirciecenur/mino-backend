@@ -1,0 +1,98 @@
+{
+  "id": "mino_digital_safety_story",
+  "character": "Mino",
+  "topic": "digital safety",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little explorer! I'm Mino, your friendly space adventurer. Today, we're setting off on an exciting journey to learn all about digital safety. Just like wearing a helmet when you ride your bike, being safe online is very important. Are you ready to explore this new world with me? Let's blast off into the digital galaxy, where we'll discover how to stay safe and happy while using technology!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Digital safety is like having a special space suit that keeps us safe when we explore the internet. The internet is a big, fun place like a huge playground, but we need to be careful. Just like we don't talk to strangers at the playground, we shouldn't talk to strangers online. It's important to always tell a grown-up if something doesn't feel right. Now, let's learn more about how to use our digital space suits!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "One important rule of digital safety is keeping our personal information private. Personal information is like your home address or your birthday. We should never share this information with people we don't know online. It's like keeping your favorite toy safe and not letting strangers play with it. Always ask a grown-up if you're unsure about sharing something online. They are there to help you make the right choices!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about keeping your information safe! Now, let's think about passwords. A password is like a secret code that only you and your family know. It's important to make it strong, just like a superhero's shield. Use a mix of letters, numbers, and maybe even a special character like a star! Remember, never share your password with anyone except your trusted grown-ups. You're doing amazing!"
+    },
+    {
+      "id": "scene_4",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Another important part of digital safety is being kind online. Just like in real life, we should always use nice words and be friendly. Imagine how you'd feel if someone said something mean to you. It wouldn't feel very good, right? So, let's always choose words that make others smile. If you ever see someone being unkind online, tell a grown-up right away. Together, we can keep the internet a happy place!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now that we know about being kind and safe, let's think about the time we spend online. Just like playing outside, we need to have a balance with our screen time. Too much screen time can make us miss out on other fun activities, like building with blocks or drawing. It's important to set limits and take breaks. Let's count to five together and take a big stretch to give our eyes a rest!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's talk about downloading apps and games. It's like picking a new book to read; you want to make sure it's the right one for you. Always ask a grown-up before downloading anything new. They can help you choose apps that are safe and fun. Remember, just because something looks exciting doesn't mean it's the best choice. With a grown-up's help, you can find the best digital adventures!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a wonderful job learning about digital safety! Remember, it's okay to ask questions if you're unsure about something online. Asking questions is like using a telescope to see things more clearly. Never feel shy about asking a grown-up for help. They are like your co-pilots in this digital adventure, ready to guide you safely through every challenge!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about online games. Games are fun, but it's important to play ones that are safe and age-appropriate. Just like we wear the right shoes for running, we need the right games for our age. If you're not sure, ask a grown-up to help you choose. Playing games together can also be a fun way to learn new things and share laughs with family and friends!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you remember what we do if we see something online that makes us feel uncomfortable? That's right! We tell a grown-up right away. It's important to trust your feelings, just like you trust your instincts when you know it's time for a snack. Grown-ups are always there to help and keep you safe. Can you think of a grown-up you would go to if you needed help online?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's also remember to be careful with pictures and videos online. Just like we don't give away our toys to strangers, we don't share pictures with people we don't know. Always ask a grown-up before posting or sharing anything. They can help you decide what's okay to share. Together, you can keep your digital world safe and private, like a special treasure chest!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about video calls. They're a fun way to talk to friends and family, but we need to be safe. Always make sure a grown-up knows who you're talking to. It's like having a buddy on a space mission; you want to know who you're flying with! Keep your location and personal details private during calls, just like you would in a letter. You’re doing great!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're becoming a digital safety superstar! Remember, each step you take helps make the internet a safe place for everyone. Keep asking questions, stay curious, and always share what you learn with others. You're like a shining star, lighting the way for your friends and family. Keep up the amazing work, little adventurer!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this digital safety adventure. Remember, being safe online is just as important as being safe in the real world. Keep your personal information private, be kind, and always ask for help when you need it. I'm so proud of all you've learned today. Until our next adventure, keep shining bright and exploring safely. Goodbye, little explorer!"
+    }
+  ],
+  "title": "Mino's Digital Safety Story"
+}

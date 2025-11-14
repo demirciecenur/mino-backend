@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_friendship_story",
+  "character": "Bubble Buddy",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeños amigos! Soy Bubble Buddy, y hoy vamos a embarcarnos en una aventura increíble sobre la amistad. ¿Están listos para descubrir qué significa ser un buen amigo? ¡Estoy tan emocionado de compartir con ustedes! La amistad es como una burbuja mágica que nos hace sentir felices y acompañados. Así que, prepárense para aprender, jugar y, sobre todo, divertirnos juntos. ¡Vamos a comenzar!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad es algo muy especial, como un tesoro escondido en el fondo del mar. Un amigo es alguien con quien puedes jugar, reír y compartir tus secretos. ¿Alguna vez han compartido sus juguetes con un amigo? ¡Eso es un acto de amistad! Tener amigos nos hace sentir felices y acompañados, como cuando estamos en una fiesta de burbujas. Ahora, vamos a descubrir cómo podemos ser buenos amigos."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para ser un buen amigo, debemos escuchar con atención cuando los demás hablan. Escuchar es como abrir una puerta mágica a nuevas historias y aventuras. Cuando un amigo nos cuenta algo, es importante mirar sus ojos y prestar atención. ¿Quieren practicar conmigo? Finjan que están escuchando a un amigo contando sobre su día. ¡Qué bien lo hacen! Ahora saben que escuchar es una gran parte de la amistad."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Súper trabajo escuchando! Ahora, hablemos sobre compartir. Compartir es como hacer magia con tus cosas, porque cuando compartimos, todos se sienten felices. Piensen en algo que podrían compartir con un amigo, como un libro o un juguete. ¡Qué idea tan maravillosa! Recuerden, cuando compartimos, hacemos que la amistad crezca como una burbuja gigante. ¡Ustedes pueden hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos cómo escuchar y compartir, hablemos sobre jugar juntos. Jugar es una forma divertida de hacer nuevos amigos y fortalecer la amistad. ¿Cuál es su juego favorito para jugar con amigos? Cuando jugamos juntos, todos se ríen y se divierten, como peces en una corriente de burbujas. ¡Vamos a practicar! Imaginen que estamos jugando al escondite. ¡Qué divertido es jugar con amigos!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "¿Recuerdan lo que hablamos sobre escuchar y compartir? Ahora, aprendamos sobre cómo ayudar a nuestros amigos. Ayudar es como ser un superhéroe de la amistad. Si un amigo necesita ayuda, podemos ofrecer nuestra mano o nuestro corazón. Pueden ayudar a recoger los juguetes o simplemente dar un abrazo. ¡Son actos de amistad que hacen la diferencia! ¿Listos para ser superhéroes de la amistad?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué increíble trabajo están haciendo! Aprender a ser un buen amigo es una aventura emocionante. Ahora, hablemos sobre ser amables. Ser amable es como lanzar una burbuja de amor al mundo. Cuando decimos palabras bonitas o damos sonrisas, hacemos que nuestros amigos se sientan especiales. ¿Pueden pensar en una palabra amable para decirle a un amigo? ¡Eso es! ¡Continúen siendo amables!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos hablado sobre muchas formas de ser amigos, recordemos que la amistad es un camino de dos vías. Significa que debemos dar y recibir amor y cuidado. ¿Recuerdan una vez que un amigo les hizo sentir especiales? Esos momentos son como burbujas doradas en nuestro corazón. Sigamos creando más recuerdos felices con nuestros amigos. ¡Qué hermoso es tener amigos!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora, tengo una pregunta para ustedes. ¿Cuál es una cosa que les gusta hacer con sus amigos? ¿Es jugar al aire libre, leer juntos o quizás inventar historias? Todas estas actividades son parte de la diversión de la amistad. Piensen en su actividad favorita y cómo pueden invitar a un amigo a unirse. ¡Qué emocionante es compartir momentos especiales!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¡Qué respuestas tan maravillosas! Ahora, hablemos sobre cómo resolver problemas con amigos. A veces, podemos tener diferencias, pero eso está bien. Resolver problemas es como encontrar el camino en un laberinto de burbujas. Podemos hablar con calma, escuchar las ideas de los demás y encontrar una solución juntos. ¡Eso es lo que hacen los verdaderos amigos!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "¿Recuerdan cómo hablamos sobre escuchar y ayudar? Ahora, practiquemos cómo decir lo siento. Decir lo siento es como soplar una burbuja que limpia el aire. Si lastimamos a un amigo, podemos decir lo siento y hacer las paces. Practiquemos juntos: 'Lo siento'. ¡Perfecto! Ahora saben que pedir disculpas es parte de ser un buen amigo."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Increíble! Han aprendido tanto sobre la amistad hoy. Recuerden que cada pequeño acto de bondad cuenta. Como cuando saludan a un amigo con una sonrisa o le dicen gracias. ¡Qué bien lo están haciendo! Sigamos practicando estas habilidades todos los días. ¡Ustedes son verdaderos amigos de burbujas!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en cómo podemos hacer nuevos amigos. Hacer nuevos amigos es como abrir una puerta a un mundo de aventuras. Pueden presentarse y preguntar a otros qué les gusta hacer. Es como plantar una semilla de amistad que crecerá con el tiempo. ¡Vamos a intentarlo! ¿Quién quiere ser mi amigo? ¡Qué emocionante es conocer a nuevos amigos!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Tengo otra pregunta para ustedes. ¿Qué es lo que más les gusta de sus amigos? ¿Es su risa, su creatividad, o cómo siempre están ahí para jugar? Piensen en sus amigos y lo que los hace especiales. Esas cualidades son como destellos de luz en el océano de la amistad. ¡Qué bonito es valorar a nuestros amigos!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha llegado el momento de despedirnos, pero recuerden que la amistad es un viaje que siempre continúa. Espero que hayan aprendido mucho y que estén listos para ser amigos maravillosos. Sigamos practicando la amistad cada día, como soplar burbujas de alegría. Gracias por acompañarme en esta aventura submarina. ¡Hasta pronto, pequeños amigos!"
+    }
+  ],
+  "title": "Historia de Friendship de Bubble Buddy"
+}

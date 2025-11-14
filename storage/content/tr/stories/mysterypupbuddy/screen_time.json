@@ -1,0 +1,98 @@
+{
+  "id": "mystery_pup_buddy_screen_time_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "screen_time",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mystery Pup Buddy. Bugün birlikte ekran süresi hakkında harika bir yolculuğa çıkacağız. Ekran süresi nedir, biliyor musun? Bu, televizyon izlemek, tablet ya da telefon oynamak gibi aktiviteleri içerir. Hazır mısın? Seni çok merak ediyorum!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekran süresi, eğlenceli oyunlar ve videolar izlemek için harika olabilir, değil mi? Ama ekran karşısında çok uzun süre kalmak gözlerimizi yorabilir. Ayrıca, fazla ekran süresi oyun oynamak ya da dışarıda koşmak gibi aktivitelerden uzak kalmamıza neden olabilir. Bu yüzden ekran süresini dengeli kullanmak çok önemli. Şimdi ekran süresi hakkında daha fazla konuşalım."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresini dengeli kullanmak için bazı kurallar koyabiliriz. Örneğin, yemek yerken televizyonu kapatmak iyi bir fikir olabilir. Ayrıca, yatmadan önce ekranlardan uzak durmak daha iyi uyumamıza yardımcı olur. Bu kurallar sayesinde ekranlar eğlenceli kalır ama sağlığımız da korunur. Şimdi, bu kuralları nasıl uygulayabiliriz, bir düşünelim."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi birlikte bir oyun oynayalım! Ekran süresini sınırlamak için bir zamanlayıcı kurmayı deneyelim. Mesela, 30 dakika ekran süresi için bir alarm kurabiliriz. Alarm çaldığında, ekrandan uzaklaşıp başka eğlenceli şeyler yapabiliriz. Bu, ekran süresini kontrol etmemize yardımcı olur. Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki oyunda ekran süresini sınırlamanın ne kadar kolay olduğunu gördük, değil mi? Şimdi biraz daha derinlemesine bakalım. Ekran başında çok vakit geçirince fiziksel aktivitelerimizi ihmal edebiliriz. Oyun oynamak, dans etmek ya da koşmak gibi şeyler yaparak vücudumuzu hareket ettirmeliyiz. Haydi, birlikte biraz hareket edelim!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresini azaltmak için başka neler yapabiliriz? Kitap okumak harika bir seçenek olabilir. Hikayeler bizi farklı dünyalara götürebilir ve hayal gücümüzü geliştirir. Ayrıca, arkadaşlarımızla oyunlar oynayabiliriz. Bu aktiviteler hem eğlenceli hem de sağlıklı. Şimdi ekran süresini azaltmak için başka neler yapabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ekran süresi hakkında konuştuğumuzda, senin favori ekran dışı aktiviten nedir? Dışarıda oynamayı mı yoksa resim yapmayı mı seversin? Belki de en sevdiğin oyuncaklarla oynamak hoşuna gider. Şimdi, senin favori aktiviteni merak ediyorum. Bana söylemek ister misin?"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Harika, duyduğuma çok sevindim! Favori ekran dışı aktivitelerimizle daha fazla zaman geçirebiliriz. Bu, hem eğlenceli hem de sağlığımıza faydalı olur. Ayrıca, arkadaşlarımızla birlikte oynayarak sosyal becerilerimizi de geliştirebiliriz. Şimdi, yeni aktiviteler keşfetmeye ne dersin? Birlikte neler yapabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede yeni aktiviteler keşfetmenin ne kadar eğlenceli olduğunu konuştuk. Şimdi, ekran süresini nasıl daha eğlenceli ve faydalı hale getirebiliriz, bir bakalım. Eğitim videoları izlemek ya da yaratıcı uygulamalar kullanmak iyi bir fikir olabilir. Bu tür aktiviteler hem eğlenceli hem de öğretici olabilir. Şimdi, ekran süresini nasıl daha verimli kullanabileceğimizi keşfedelim."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ekran süresini verimli kullanmanın yollarını bulmak harika, değil mi? Şimdi, bu bilgileri uygulamaya koyma zamanı. Ekran süresini planlamak ve düzenlemek için bir takvim yapabiliriz. Her gün ne kadar ekran süresi kullanacağımızı belirleyebiliriz. Bu, ekran süresini kontrol etmemize yardımcı olur. Sen de bunu denemek ister misin?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresini planlamak için bir takvim yaparken, her gün için farklı aktiviteler ekleyebiliriz. Örneğin, pazartesi günleri kitap okuma saatleri, salı günleri ise dışarıda oyun saatleri olabilir. Bu çeşitlilik, günlerimizi daha eğlenceli hale getirir. Ayrıca, ekran süresini sınırlamak için belirli saatler koyabiliriz. Şimdi, kendi takvimimizi yapmayı deneyelim."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Takvim yaparken hangi aktiviteleri eklemek istersin? Belki bir gün parkta oynamak, başka bir gün ise bisiklet sürmek olabilir. Hangi aktiviteler seni en çok heyecanlandırıyor? Fikirlerini duymak için sabırsızlanıyorum. Hadi, birlikte düşünelim!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ne kadar harika fikirler! Takvimimizi bu harika aktivitelerle doldurabiliriz. Böylece her gün farklı ve heyecan verici olur. Ekran süremizi sınırlayıp, daha fazla eğlenceli aktiviteye yer açabiliriz. Şimdi, bu planı nasıl hayata geçirebileceğimizi düşünelim. Her günümüzü daha eğlenceli hale getirelim!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün ekran süresi hakkında çok şey öğrendik, değil mi? Ekranlarımızı verimli kullanmayı ve onları dengeli bir şekilde hayatımıza entegre etmeyi konuştuk. Şimdi, bu bilgileri uygulamaya koyma zamanı. Unutma, her zaman eğlenmek ve öğrenmek mümkün! Bir sonraki buluşmamızda daha fazla macera bizi bekliyor olacak. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Mystery Pup Buddy'ın Screen Time Hikayesi"
+}

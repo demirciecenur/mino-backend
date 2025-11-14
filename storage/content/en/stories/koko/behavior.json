@@ -1,0 +1,104 @@
+{
+  "id": "koko_behavior_story",
+  "character": "Koko",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, young adventurers! I'm Koko, your friendly guide on this exciting journey about behavior. Today, we're going to explore how being kind and following rules can make our world a better place. Are you ready to learn about being a superhero in your own story? I can't wait to share some amazing tips and tricks with you. Let's get started on our adventure together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what behavior means. Behavior is how we act and speak with others around us. Just like superheroes have rules to follow, we have rules too. These rules help us be safe and happy. When we follow them, it makes everyone feel good and helps us make friends. Can you think of a time when you followed a rule and felt proud?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about superheroes? They always do their best to help others. One way we can be like them is by listening to our parents and teachers. Listening carefully is important because it helps us know what to do next. Let's practice together: close your eyes and listen to the sounds around you. What do you hear? Great job focusing!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing wonderfully, little hero! It's time for a fun activity. Let's pretend we're superheroes getting ready for a mission. First, we need to tidy up our superhero headquarters. This means picking up toys and putting them away. Can you try doing this in your room later? You'll see how nice it feels to have a clean space to play in."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we're all tidied up, let's talk about sharing. Sharing is like lending your superhero gadgets to a friend. When we share, everyone gets to have fun and enjoy playing together. Imagine you have a toy that your friend really likes. By sharing, you're showing kindness and making your friend happy. Have you ever shared something and felt good about it?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's continue with another important behavior: saying 'please' and 'thank you.' These words are like magic keys that open doors to kindness. When you say 'please,' it shows you're polite and respectful. And when you say 'thank you,' it shows you're grateful. Let's practice: Can you say 'please' and 'thank you' with me? Fantastic!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're learning so fast! Let's talk about being brave, like a superhero. Being brave means trying new things, even if they seem a little scary at first. Maybe it's trying a new food or making a new friend. Remember, every superhero was once a beginner too. So, don't worry if it's hard at first. Keep trying, and you'll become stronger!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about how to handle our feelings. Sometimes, we might feel angry or sad, and that's okay. What's important is how we express those feelings. Taking deep breaths can help calm us down. Let's try it together: Breathe in through your nose, hold it, and breathe out through your mouth. Feeling calmer already? You're doing great!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you felt upset but found a way to calm down? Maybe you took a deep breath or talked to someone about it. It's important to know that sharing your feelings with someone you trust can make you feel better. What do you do when you need to calm down?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's move on to another exciting part of our journey: helping others. Helping is like giving your superhero strength to someone who needs it. It could be as simple as holding the door open or helping a friend with their homework. Helping others not only makes them happy but also makes you feel like a true superhero. Have you helped someone today?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's practice our superhero focus. Focusing helps us do our best work, just like superheroes on a mission. Let's play a quick game: I'll count to three, and we'll focus on touching our nose. Ready? One, two, three! Did you do it? Great job! Remember, focusing is an important skill that helps us learn and grow."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job, my little hero! Let's talk about being honest. Honesty is like the superhero's shield; it protects us from trouble. When we tell the truth, people trust us more. If we make a mistake, it's okay to admit it. Everyone makes mistakes, and being honest helps us learn from them. Can you think of a time when you were honest?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's explore the idea of respect. Respect means treating others the way we want to be treated. It's like showing kindness to everyone, no matter who they are. We can show respect by listening when someone is speaking or being gentle with our words. When we respect others, we create a world where everyone feels valued. How do you show respect to your friends?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you remember a time when you felt respected by someone? Maybe they listened to you or helped you when you needed it. Respect is a two-way street, and it's important to give it to receive it. What are some ways you can show respect to the people around you?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "We've had such an incredible adventure today, learning about behavior and how we can be superheroes in our own lives. Remember, being kind, honest, and respectful makes the world a better place. I'm so proud of you for joining me on this journey. Keep practicing what you've learned, and you'll shine like a superhero every day. Until next time, my brave friends, stay strong and keep smiling!"
+    }
+  ],
+  "title": "Koko's Behavior Story"
+}

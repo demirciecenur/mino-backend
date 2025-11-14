@@ -1,0 +1,104 @@
+{
+  "id": "mino_colors_story",
+  "character": "Mino",
+  "topic": "colors",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostlarım! Ben Mino, uzayın renkli dünyasından geldim. Bugün sizinle renklerin büyülü dünyasında harika bir yolculuğa çıkacağız. Renklerin ne kadar büyüleyici olduğunu biliyor musunuz? Hazır mısınız? O zaman başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Renkler, dünyamızı daha eğlenceli ve canlı hale getirir. Mesela gökyüzü neden mavi, hiç düşündünüz mü? Güneş ışığı, atmosferdeki hava moleküllerine çarptığında mavi olarak görünür. Çimenler yeşildir çünkü klorofil denilen bir madde ışığı emer. Her rengin kendine özgü bir hikayesi vardır."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, etrafınıza bir bakın ve gördüğünüz renkleri düşünün. Kırmızı, sarı, mavi gibi ana renkler vardır. Bu renkler karışarak diğer renkleri oluşturur. Mesela, kırmızı ve mavi birleşince mor olur. Bu renkleri nasıl karıştırabileceğimizi birlikte keşfedelim!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, bir kağıt ve boya kalemlerinizi alın. Hadi birlikte bir gökkuşağı çizelim! İlk olarak kırmızıdan başlayalım, sonra sarı, ardından mavi. Harika, çok güzel bir gökkuşağı yapıyorsunuz! Çiziminize başka renkler de eklemek ister misiniz?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Gökkuşağı, yağmur sonrası güneş ışığının yağmur damlalarına çarpmasıyla oluşur. Bu, ışığın kırılarak farklı renklere ayrılması demektir. Renklerin bu şekilde bir araya gelmesi gerçekten çok güzel. En sevdiğiniz renk hangisi? Benim favorim, parlak ve enerjik olan turuncu."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sizce hangi renk en eğlenceli? Kırmızı mı, mavi mi, yoksa yeşil mi? Renkler, farklı duygular hissetmemize sebep olabilir. Kırmızı enerji verirken, mavi sakinleştirir. Peki, sizin favori renginiz hangisi?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Renklerin dünyasında biraz daha gezinelim. Evdeki eşyaların renklerine bir bakın. Oyuncaklarınızın, kıyafetlerinizin, duvarların rengi nedir? Her rengin kendine özgü bir hikayesi vardır. Bu hikayeleri keşfetmek çok eğlenceli olabilir!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte nefes alalım. Bir, iki, üç... Derin bir nefes alın ve bırakın. Nefes alıp verirken, gözlerinizi kapatın ve en sevdiğiniz rengi hayal edin. Renklerin enerjisini hissedin. Çok güzel, değil mi?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Renkler sadece güzellik katmakla kalmaz, aynı zamanda günlük hayatımızda da önemlidir. Trafik ışıkları kırmızı, sarı ve yeşil renklerle çalışır. Kırmızı dur, yeşil geç anlamına gelir. Renkler hayatımızı kolaylaştırır ve düzenler."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda renklerin hayatımıza nasıl katkı sağladığını konuştuk. Şimdi, evde kendi renkli dünyanızı oluşturmak ister misiniz? Belki de odanızı farklı renklerle süsleyebilirsiniz. Nasıl bir renk paleti seçerdiniz?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sizce hangi renk en tatlı? Belki pembe, belki de sarı. Renklerin tatlılığı ve yumuşaklığı farklı duygular uyandırabilir. Hangi renk size mutluluk veriyor? Renklerin hissettirdiklerini paylaşmak ister misiniz?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Birlikte renklerle ilgili bir oyun oynamaya ne dersiniz? Ben bir renk söyleyeceğim ve siz de o renge sahip bir eşya bulacaksınız. İlk renk kırmızı! Evinizde kırmızı bir şey bulabilir misiniz? Harika, şimdi sıra yeşilde!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Renklerin dünyasında yolculuğumuz ne kadar eğlenceliydi, değil mi? Her renk kendine özgü bir hikaye anlatıyor. Bu hikayeleri keşfetmek bizim için büyük bir macera. Renklerin dünyasında daha pek çok şey öğrenebiliriz."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kendi renkli dünyanızı oluşturmak için harika bir iş çıkardınız. Renklerle ilgili daha fazla şey öğrenmek için sabırsızlanıyor musunuz? Unutmayın, her gün yeni bir renk keşfedebilirsiniz. Siz de kendi renkli hikayelerinizi yaratabilirsiniz!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık. Renklerin büyülü dünyasında gezdik ve çok şey öğrendik. Şimdi veda etme zamanı geldi. Her zaman renkli ve neşeli kalın. Bir sonraki macerada görüşmek üzere, hoşça kalın!"
+    }
+  ],
+  "title": "Mino'ın Colors Hikayesi"
+}

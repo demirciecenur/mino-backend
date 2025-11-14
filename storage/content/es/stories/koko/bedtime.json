@@ -1,0 +1,104 @@
+{
+  "id": "koko_bedtime_story",
+  "character": "Koko",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Koko, tu amigo protector. Hoy vamos a embarcarnos en una aventura sobre la hora de dormir. ¿Estás listo para descubrir cómo hacer de la hora de dormir un momento mágico? Me encanta saber que estás aquí conmigo. Vamos a aprender juntos, y te prometo que será divertido y relajante."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos listos, hablemos de por qué la hora de dormir es tan importante. Dormir bien nos ayuda a ser fuertes y valientes, como un superhéroe. Cuando dormimos, nuestro cuerpo y mente se recargan, listos para nuevas aventuras al día siguiente. Es como cuando cargamos nuestros juguetes para que funcionen mejor. ¿No es maravilloso saber que dormir nos hace más fuertes y felices?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Antes de dormir, hay cosas que podemos hacer para prepararnos. Primero, podemos recoger nuestros juguetes, así nuestro espacio se siente tranquilo y ordenado. Luego, es importante cepillarnos los dientes, para mantenerlos limpios y saludables. Después, podemos ponernos nuestro pijama favorito, que nos hará sentir cómodos y listos para soñar. Estas pequeñas acciones nos ayudan a relajarnos y a decirle a nuestro cuerpo que es hora de descansar."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora, vamos a practicar una técnica especial para relajarnos. Vamos a respirar profundamente juntos. Inhala contando hasta tres, y luego exhala también contando hasta tres. ¿Listo? Inhala... uno, dos, tres. Exhala... uno, dos, tres. ¡Perfecto! Esto ayuda a calmar nuestra mente y nos prepara para un sueño reparador."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablamos de preparar nuestro espacio. Ahora, imagina que tu cama es como una nave espacial que te llevará a mundos de ensueño. Asegúrate de que tu almohada esté cómoda y que tu manta te abrace suavemente. Esto hará que sea más fácil cerrar los ojos y dejar que los sueños te lleven a lugares increíbles. Dormir es una gran aventura, y estás listo para ella."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "También podemos leer un cuento antes de dormir. Escoger un libro especial es como elegir una historia mágica para cerrar el día. Pide a tus papás que te lean, o si puedes, intenta leer tú mismo. Las historias nos llevan a mundos lejanos y nos hacen sentir felices y seguros. Leer antes de dormir es una manera maravillosa de terminar el día."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Ahora, piensa en algo bonito que te hizo sonreír hoy. Recordar cosas felices nos llena el corazón de alegría y nos ayuda a dormir mejor. Puede ser un juego divertido que jugaste o una canción que cantaste. Mantén ese pensamiento mientras te acurrucas en tu cama. Así, tus sueños estarán llenos de felicidad."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Es importante también decir buenas noches a todos en casa. Un abrazo y un beso antes de dormir nos hace sentir queridos y protegidos. Puedes decir buenas noches a mamá, papá, hermanos, y hasta a tus peluches favoritos. Esto crea un ambiente de amor y seguridad, perfecto para descansar tranquilo. Dormir rodeado de amor es lo mejor."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora dime, ¿cuál es tu parte favorita de la hora de dormir? ¿Te gusta más leer un cuento o que te den un beso de buenas noches? Tal vez prefieres acomodar tus juguetes antes de ir a la cama. Todas estas cosas son especiales y hacen que la hora de dormir sea mágica. Estoy curioso por saber qué te hace feliz antes de dormir."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando respiramos juntos para relajarnos. Podemos hacer esto cada noche para sentirnos tranquilos. Cerrar los ojos y respirar profundamente nos ayuda a dejar atrás el día y a prepararnos para soñar. Es como un pequeño ritual que nos lleva a un mundo de paz. Y tú, con cada respiración, te vuelves más y más fuerte."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, imagina que estás flotando en una nube suave. La nube te abraza y te lleva suavemente hacia el cielo estrellado. Piensa en las estrellas como pequeños guardianes que te cuidan mientras duermes. Este pensamiento te hace sentir seguro y protegido. Las nubes y las estrellas son tus amigos en el cielo."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres muy valiente y fuerte! Cada noche, cuando te preparas para dormir, te conviertes en un héroe de sueños. Recuerda que incluso los superhéroes necesitan descansar para ser más fuertes. Tú también eres un héroe en tu propia aventura de sueños. Estoy muy orgulloso de ti y de todo lo que haces."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, mientras te acurrucas en tu cama, piensa en todas las cosas buenas que hiciste hoy. Cada pequeño logro es un paso hacia adelante, como cuando ayudas a alguien o aprendes algo nuevo. Estos pensamientos positivos te llenan de energía para el día siguiente. Dormir con gratitud en el corazón nos hace más felices."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas todas las aventuras que hemos tenido hoy hablando de la hora de dormir? Cada paso que has dado te ha llevado a este momento de calma y paz. Estoy seguro de que tus sueños serán tan emocionantes como nuestras historias. Sueña con cosas grandiosas porque tú eres grandioso."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es hora de cerrar los ojos y dejar que los sueños te lleven a lugares mágicos. Recuerda que siempre estoy aquí para protegerte, incluso en tus sueños. Gracias por acompañarme en esta aventura de la hora de dormir. Que tengas dulces sueños, pequeño héroe. Buenas noches y hasta mañana."
+    }
+  ],
+  "title": "Historia de Bedtime de Koko"
+}

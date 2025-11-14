@@ -1,0 +1,104 @@
+{
+  "id": "chirpy_birdie_behavior_attention_story",
+  "character": "Chirpy Birdie",
+  "topic": "behavior_attention",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Chirpy Birdie, your cheerful companion today. We're going to embark on a fun journey to learn about paying attention and calming down. It's going to be exciting and full of tiny adventures! Are you ready to explore how we can be our best selves? Let's flap our wings and fly into this wonderful world of learning together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what it means to pay attention. Paying attention is like focusing your eyes and ears on something important, just like when you listen to a story. Imagine you're a detective, looking for clues in a big mystery. Paying attention helps you find those clues! It makes everything more fun and helps you learn new things. Isn't that amazing?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn a simple way to help us focus better. Sometimes, taking a deep breath can help us calm down and pay more attention. Let's try it together: breathe in deeply like you're smelling a flower, then breathe out slowly like you're blowing out a candle. Great job! Doing this can help us feel relaxed and ready to listen."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You did that so well! Remember, if you ever feel wiggly or distracted, you can take a few deep breaths. This helps your mind focus, just like a superhero getting ready for an adventure. You're doing such a fantastic job! Keep up the good work, my little friend."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about how we can use our attention every day. Paying attention is important when we're playing games, listening to stories, or even when we're drawing a picture. It helps us enjoy each moment and learn something new. Can you think of a time when you paid really good attention to something fun? It's like discovering a new treasure!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice a fun game to help us focus. We'll play a listening game! I'll say a word, and you clap your hands when you hear it. The word is 'birdie.' Ready? Here we go: tree, flower, birdie, cloud, birdie! Great job! This game helps us practice listening carefully and paying attention. Well done!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a great job with these games! Remember, practicing paying attention can make us feel proud and happy. Like when we finish a puzzle or complete a drawing. You're becoming a little attention expert, and that's something to celebrate! Keep it up, you're amazing!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's talk about routines. Routines are like little plans we follow every day, like brushing our teeth before bed. They help us know what to expect next, making things feel calm and easy. Having a routine can be like having a map that guides us through our day. Isn't that comforting?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try creating a simple routine together. First, let's think about our morning routine. We might wake up, wash our face, and then have breakfast. Can you think of something you do every morning? Making a plan like this helps us start the day with a smile and feel ready for anything!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastic! You're really good at this. Routines are like little steps that guide us through the day. They help us feel safe and organized, just like when we build with blocks. You're doing a wonderful job thinking about your routine. Keep it up, and you'll be a routine expert in no time!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about taking deep breaths? Well, let's combine that with our routine. Imagine taking a deep breath every time we start a new activity. Like a superhero getting ready for action! It helps us feel calm and focused, making every task more fun and enjoyable."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when taking a deep breath helped you feel better? Maybe it was during a game, or when you were feeling a little upset. It's a superpower we can use anytime we need it. Isn't that great? How about you try it next time you need a little calm? You'll do awesome!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about how we can use all these skills together. Paying attention, having routines, and taking deep breaths can help us in so many ways. Like when we're learning something new or trying to be brave. These little tools make us strong and ready for anything, like a superhero!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning all these new things! Remember, every time you practice paying attention or calming down, you're becoming even stronger. It's like collecting stars on a treasure map. You're a superstar in the making, and I'm so proud of you!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Well, our adventure has come to an end for today. But remember, you can practice these skills anytime you like. I'm so glad we got to spend this time together. Keep shining bright, and remember that you can do anything you set your mind to. Goodbye for now, my little friend! Until next time, keep being awesome!"
+    }
+  ],
+  "title": "Chirpybirdie's Behavior & Attention Story"
+}

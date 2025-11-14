@@ -1,0 +1,98 @@
+{
+  "id": "elisa_the_ice_fairy_friendship_story",
+  "character": "Elisa the Ice Fairy",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Elisa, el Hada de Hielo. Hoy vamos a embarcarnos en un maravilloso viaje sobre la amistad. ¿Estás listo para descubrir cómo podemos hacer nuevos amigos? Estoy muy emocionada de compartir esta aventura contigo. ¡Juntos aprenderemos lo importante que es tener amigos y cómo cuidarlos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad es como un tesoro mágico que todos podemos tener. Un amigo es alguien con quien puedes jugar y compartir tus secretos. ¿Sabías que los amigos nos hacen sentir felices y acompañados? Cuando tenemos un amigo, nunca nos sentimos solos. Ahora, vamos a descubrir cómo podemos encontrar y cuidar a nuestros amigos."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para hacer amigos, lo primero que podemos hacer es ser amables. Ser amable significa sonreír y decir 'hola' a los demás. También podemos compartir nuestros juguetes o invitar a alguien a jugar con nosotros. ¿Te gustaría intentar ser amable hoy? Recuerda que cuando somos amables, las personas quieren estar cerca de nosotros."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a practicar juntos! Imagina que ves a alguien jugando solo. Puedes acercarte y preguntar: '¿Puedo jugar contigo?'. Esto muestra que eres amable y quieres compartir. ¡Qué maravilloso es hacer sentir bien a los demás! Intenta recordar esto la próxima vez que veas a alguien nuevo."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos cómo ser amables, hablemos sobre cómo mantener una amistad. Es importante escuchar a nuestros amigos cuando hablan. Cuando escuchamos, mostramos que nos importa lo que dicen. También podemos ayudarlos si tienen un problema, como compartir un juguete o dar un abrazo si están tristes."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar el escuchar. Imagina que tu amigo te está contando sobre su día. Puedes asentir con la cabeza y decir: '¡Qué interesante!' o 'Cuéntame más'. Esto hará que tu amigo se sienta especial. Practiquemos juntos: ¿Puedes asentir y decir '¡Qué interesante!'?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo hiciste muy bien! Escuchar a nuestros amigos es una habilidad mágica. Hace que las amistades crezcan fuertes y felices. Recuerda, un buen amigo siempre está ahí para escuchar. ¡Puedes hacerlo! Ahora, sigamos aprendiendo más sobre amistades."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, podemos tener desacuerdos con nuestros amigos. Es normal, y todos lo experimentamos. Lo importante es hablar con calma y resolver los problemas juntos. Podemos decir: 'No estoy de acuerdo, pero podemos encontrar una solución'. Esto muestra que valoramos nuestra amistad."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Practiquemos cómo resolver un desacuerdo. Imagina que quieres jugar a un juego diferente al de tu amigo. Puedes decir: '¿Podemos jugar a mi juego después del tuyo?'. Esto muestra que estás dispuesto a compartir y escuchar. ¿Te gustaría intentarlo la próxima vez?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Maravilloso! Resolver desacuerdos juntos es una gran habilidad. Ayuda a que las amistades sean más fuertes. Recuerda, siempre podemos encontrar una solución si trabajamos juntos. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora hablemos sobre divertirnos con nuestros amigos. Jugar juntos es una de las mejores partes de la amistad. Podemos inventar juegos, contar historias o simplemente reírnos juntos. ¿Cuál es tu juego favorito para jugar con tus amigos? Jugar juntos nos une más."
+    },
+    {
+      "id": "question_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas un momento divertido que tuviste con un amigo? ¿Qué hicieron juntos? Compartir estos recuerdos nos hace sentir felices y agradecidos. ¿Te gustaría contarme sobre tu recuerdo especial?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Gracias por compartir tu recuerdo conmigo. Los amigos nos ayudan a crear momentos especiales. Esos momentos se convierten en tesoros que siempre podemos recordar. Ahora que sabemos tanto sobre la amistad, sigamos creando recuerdos mágicos juntos."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer hablar sobre la amistad contigo hoy. Espero que te lleves estos consejos mágicos y los uses para hacer y cuidar amigos. Recuerda ser amable, escuchar y jugar juntos. ¡Nos veremos pronto para más aventuras! ¡Adiós, pequeño amigo!"
+    }
+  ],
+  "title": "Historia de Friendship de Elisa The Ice Fairy"
+}

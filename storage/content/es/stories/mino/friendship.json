@@ -1,0 +1,104 @@
+{
+  "id": "mino_friendship_story",
+  "character": "Mino",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño aventurero! Soy Mino, tu amigo espacial. Hoy vamos a explorar el maravilloso mundo de la amistad. ¿Estás listo para aprender a hacer nuevos amigos y divertirte mucho? ¡Será una gran aventura! La amistad es como una estrella brillante en el cielo, siempre nos ilumina y nos hace sentir felices. Así que abróchate el cinturón, porque vamos a despegar en este viaje increíble."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad es algo muy especial. Es como tener a alguien con quien compartir tus juguetes y tus risas. Cuando tienes un amigo, nunca estás solo. Los amigos pueden hacer que un día triste se vuelva feliz, como cuando el sol sale después de la lluvia. Piensa en un momento en el que jugaste con un amigo y lo mucho que te divertiste."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de cómo podemos hacer amigos. Una forma es decir \"hola\" con una gran sonrisa. Es como abrir una puerta mágica que invita a otros a jugar contigo. También podemos compartir nuestros juguetes, como si estuviéramos compartiendo un tesoro. Recuerda, ser amable y escuchar es muy importante. Así es como mostramos que nos importa."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Tú puedes hacerlo! Vamos a intentar juntos. Imagina que estás en el parque y ves a alguien jugando solo. Puedes acercarte y decir \"¿Quieres jugar conmigo?\". ¡Eso es todo! Es tan simple como contar hasta tres. Uno, dos, tres... ¡y ya tienes un amigo nuevo! Practiquemos juntos diciendo \"hola\" y \"¿quieres jugar?\"."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos cómo acercarnos a otros, pensemos en lo divertido que es jugar con amigos. Puedes jugar a las escondidas, construir una torre de bloques o incluso inventar una historia juntos. Cada juego es una nueva aventura, como viajar a un planeta desconocido. ¿Recuerdas un juego que te encanta jugar con tus amigos? ¡Es genial compartir esos momentos!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Es importante recordar que todos somos diferentes, y eso es lo que hace especial a cada amigo. Algunos amigos pueden ser buenos para correr rápido, mientras que otros pueden contar historias increíbles. Aceptar las diferencias nos ayuda a hacer más amigos. Es como tener una caja de colores; cada uno es único y juntos hacen un hermoso arcoíris."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Tú eres un gran amigo! Recuerda siempre ser amable y compartir. Si alguna vez ves a alguien que se siente solo, puedes ser su amigo. Esto puede hacer que se sientan felices y queridos. Imagina lo feliz que serías si alguien te invitara a jugar cuando te sientes solo. ¡Tú puedes ser esa persona especial para alguien más!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad también significa resolver problemas juntos. A veces, podemos tener desacuerdos, pero hablar y escuchar ayuda a solucionarlos. Es como cuando construyes un castillo de arena y necesitas trabajar en equipo para que no se derrumbe. Cuando cooperamos, podemos lograr cosas asombrosas. ¿Has trabajado en equipo con tus amigos antes?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Cuántos amigos tienes? ¿Puedes contar en voz alta con tus dedos? Uno, dos, tres, cuatro... ¡Cada amigo es una estrella en tu cielo! ¿Qué es lo que más te gusta hacer con tus amigos? Tal vez jugar en el parque o compartir un bocadillo. Me encantaría escuchar tus historias sobre tus amigos y las aventuras que tienen juntos."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que hemos hablado de hacer amigos, ¿recuerdas cómo se siente tener un amigo especial? Se siente cálido y feliz, como un abrazo suave. Tener amigos nos ayuda a sentirnos seguros y amados. Cada amigo es un regalo que debemos cuidar con cariño. Así como cuidamos nuestras cosas favoritas, también cuidamos nuestras amistades."
+    },
+    {
+      "id": "scene_10",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Escuchar a nuestros amigos es muy importante. Cuando escuchamos, mostramos que nos importa lo que sienten y piensan. Es como abrir un libro y descubrir una nueva historia. ¿Puedes recordar un momento en el que escuchaste a un amigo? Quizás te contaron un secreto o una historia divertida. Escuchar hace que las amistades crezcan fuertes."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Compartir momentos con amigos es como compartir un pastel delicioso. Cada rebanada es especial y nos llena de alegría. Cuando compartimos, creamos recuerdos que duran para siempre. Piensa en un momento divertido que compartiste con un amigo. Tal vez fue una fiesta de cumpleaños o una tarde en el parque. ¿No es maravilloso tener esos recuerdos juntos?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar cómo ser un buen amigo. Primero, podemos practicar decir \"gracias\" cuando un amigo hace algo amable. Es como dar una estrella dorada de agradecimiento. Segundo, podemos decir \"lo siento\" si hemos cometido un error. Esto muestra que nos importa y queremos mejorar. Practiquemos juntos: \"gracias\" y \"lo siento\"."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres increíble por aprender sobre la amistad! Recuerda, cada día es una oportunidad para hacer nuevos amigos y fortalecer los que ya tienes. Ser un buen amigo es como ser un explorador en busca de tesoros. Los amigos son como joyas preciosas que debemos cuidar. ¡Sigue brillando como una estrella y haciendo amigos por donde vayas!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un viaje fantástico aprender sobre la amistad contigo. Recuerda siempre ser amable, compartir y escuchar. Estos son los ingredientes mágicos para una gran amistad. Espero que sigas explorando y haciendo nuevos amigos. ¡Hasta la próxima, pequeño aventurero! Nos vemos en nuestra próxima aventura espacial. ¡Adiós y sigue brillando!"
+    }
+  ],
+  "title": "Historia de Friendship de Mino"
+}

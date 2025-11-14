@@ -1,0 +1,104 @@
+{
+  "id": "mystery_pup_buddy_emotional_regulation_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "emotional_regulation",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Mystery Pup Buddy, and today we're going on an exciting adventure about emotional regulation. Are you ready to explore with me? Sometimes feelings can be like a big roller coaster, but don't worry, we're going to learn how to ride it together. We'll discover fun ways to handle our emotions, just like a superhero! So, hold on tight, because it's going to be a fun and friendly ride!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Do you know what emotions are? They're the feelings we have inside, like being happy, sad, or even a little scared. Just like when you see a big, friendly dog and you feel happy, or when a loud noise surprises you and you feel a bit scared. Emotions are natural and everyone has them. But sometimes they can be tricky to handle, like when you're upset because your tower of blocks falls down. It's okay to feel these things. Let's find out how to make them easier to manage!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "One way to handle big emotions is by taking deep breaths. Breathing slowly helps us feel calm and relaxed. Let's try it together! Take a deep breath in through your nose, hold it for a second, and then let it out slowly through your mouth. Can you feel how it makes your body relax? Great job! Breathing like this can help when you're feeling angry or upset. Remember, you can do this anytime you need to feel calm!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Now, let's try something fun! Whenever you feel a little sad or upset, you can think of a happy place. Maybe it's a sunny beach or a cozy room full of toys. Close your eyes and imagine being there. Can you see it? Wonderful! This happy place can help you feel better when things seem a bit tough. You're doing amazing, and remember, it's okay to ask for help if you need it."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about feelings being like a roller coaster? Sometimes they can go up and down really fast! But with practice, you can become the best roller coaster rider. Think about a time when you felt really happy, like when you got a new toy or played with a friend. Hold onto that feeling and let it fill you up. It's like having a superpower to brighten your day and others around you!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn another trick to help with emotions. It's called counting to five. When you feel overwhelmed, slowly count to five. One, two, three, four, five. This gives your mind a little break and helps you think about what to do next. You can even count your fingers or toes if you want to make it more fun! It's a simple way to calm down and feel more in control."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you felt really excited? Maybe it was during a birthday party or when you saw a big, colorful balloon. How did it make you feel inside? Did your heart feel like it was jumping up and down? It's fun to feel excited, isn't it? Just remember, it's okay to feel excited, but it's also important to calm down when you need to. How do you calm yourself when you're too excited?"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Wow, those are some great thoughts! Now let's think about how we can use these skills every day. Like when you're waiting your turn to play on the swing. You might feel impatient, but you can use your breathing or counting to help you wait calmly. It's like having a special toolbox full of tricks to help with any feeling. You're becoming a real emotion expert!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about sharing how we feel with others. It's important to let people know when we're happy, sad, or even a little scared. Like telling a friend if you're feeling left out or asking a grown-up for a hug if you need one. Sharing your feelings is like opening a door to let others in to help and support you. Remember, it's always okay to talk about how you feel!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing a fantastic job learning about emotions! Remember, everyone feels different things, and that's okay. You're becoming a superhero at understanding and managing your feelings. Keep practicing your breathing and counting, and soon you'll feel even more confident. You've got this! And I'm right here cheering you on every step of the way!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice one more fun activity. It's called the 'feelings dance.' When you feel a big emotion, you can dance it out! If you're happy, you might jump around. If you're sad, you can sway gently. Dancing helps you express how you feel and can make you feel better. Let's dance together, and you can show me your favorite moves. Dancing is a great way to let your feelings out!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember, emotions are like colors in a big, beautiful rainbow. Each one is important and adds to who you are. Sometimes we feel red like a firetruck when we're angry, or blue like the ocean when we're calm. Understanding our feelings helps us make choices that are good for us and others. You're learning so much, and I'm so proud of you for exploring this with me!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "If you could choose a color for how you're feeling right now, what would it be? Would it be a bright yellow for happiness or a soft green for being peaceful? Colors can be a fun way to talk about our feelings. What color do you feel like today? It's amazing how colors can help us understand our emotions better. Why do you think that is?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Those are some wonderful colors you've chosen! Now, let's think about how we can use everything we've learned today. Next time you're feeling a big emotion, remember to take a deep breath, count to five, or even dance it out. These tools are always with you, like a special magic kit. You've got the power to manage your feelings and make every day brighter!"
+    },
+    {
+      "id": "closure_Y",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this amazing adventure about emotional regulation! You've been such a great friend and learner. Remember, it's okay to feel all sorts of emotions, and you've got the tools to handle them. Keep practicing, and you'll become even more amazing at it. Until next time, keep smiling and remember that Mystery Pup Buddy is always here to help. Goodbye, little friend!"
+    }
+  ],
+  "title": "Mystery Pup Buddy's Emotional Regulation Story"
+}

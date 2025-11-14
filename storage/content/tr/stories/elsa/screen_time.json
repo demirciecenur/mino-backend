@@ -1,0 +1,104 @@
+{
+  "id": "elisa_the_ice_fairy_screen_time_story",
+  "character": "Elisa the Ice Fairy",
+  "topic": "screen_time",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba sevgili çocuklar! Ben Elisa, buz perisi ve bugün sizlerle ekran zamanı hakkında büyülü bir yolculuğa çıkacağız. Hepimiz ekranları çok seviyoruz, değil mi? Ama ekranlarla geçirdiğimiz zamanı nasıl dengede tutabileceğimizi konuşacağız. Hazır mısınız? Hadi başlayalım ve bu maceranın tadını çıkaralım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekranlar bize birçok harika dünya sunar. Filmler izleyebilir, oyunlar oynayabilir ve yeni şeyler öğrenebiliriz. Ancak çok fazla ekran karşısında kalmak bizi yorgun hissettirebilir. Gözlerimiz yorulabilir ve bazen başımız ağrıyabilir. Bu yüzden ekran zamanımızı dikkatlice planlamak önemlidir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran zamanı için bir plan yapmak, tıpkı oyuncaklarımızı toplamak gibi düzenli olmamıza yardımcı olur. Örneğin, günde sadece belirli saatlerde ekran başına geçebiliriz. Bu, günün diğer aktiviteleri için de zaman ayırmamızı sağlar. Ayrıca, ekran başında geçirdiğimiz süreyi çeşitlendirmek de önemlidir. Biraz oyun, biraz öğrenme, biraz da eğlence!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi birlikte ekran zamanı planımızı yapalım. İlk olarak, her gün ekran başında ne kadar vakit geçireceğimizi belirleyelim. Sonra bu süreyi günün farklı zamanlarına bölelim. Örneğin, sabah biraz, öğleden sonra biraz daha. Böylece gözlerimiz dinlenebilir ve biz de enerjik kalabiliriz!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda ekran süresini nasıl bölebileceğimizi öğrendik. Şimdi, ekran dışında yapabileceğimiz eğlenceli aktiviteleri düşünelim. Belki dışarıda oyun oynayabiliriz ya da kitap okuyabiliriz. Arkadaşlarımızla vakit geçirmek de harika bir seçenektir. Böylece hem eğleniriz hem de yeni şeyler öğreniriz."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran dışında yapabileceğimiz aktiviteler arasında resim yapmak, dans etmek ve şarkı söylemek de vardır. Bu aktiviteler bizi hem mutlu eder hem de yaratıcılığımızı geliştirir. Her gün farklı bir aktivite denemek, günlerimizi daha eğlenceli hale getirebilir. Unutmayın, her bir aktivite bize yeni bir şey öğretir!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, ekran zamanı dışında yaptığımız aktiviteler bizi daha mutlu ve enerjik yapar. Peki, bugün hangi aktiviteyi denemek istersin? Belki bir resim yapabilir ya da yeni bir şarkı öğrenebilirsin. Hadi, ne yapmak istediğini düşün ve hemen denemeye başla!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. En sevdiğin ekran dışı aktivite nedir? Belki oyuncaklarınla oynamak ya da dışarıda koşmak? Cevabını çok merak ediyorum! Düşün ve bana söyle."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir seçim! Seçtiğin aktiviteyi yaparken çok eğleneceğinden eminim. Unutma, her gün farklı bir şey denemek seni daha da mutlu kılabilir. Şimdi, birlikte nefes alalım ve içimizdeki enerjiyi hissedelim. Derin bir nefes al, ve yavaşça ver."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir sonraki adımda, ekran zamanı ve diğer aktiviteler arasında nasıl denge kurabileceğimizi konuşalım. Her gün ekran başında geçirdiğimiz zamanı kontrol etmek, sağlıklı bir yaşam tarzı için önemlidir. Böylece hem eğleniriz hem de sağlığımızı koruruz. Ekran dışında yapabileceğimiz birçok harika şey var!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresini sınırlamak için belirli kurallar koyabiliriz. Örneğin, yemek yerken ekran kullanmamak gibi. Bu, yemek zamanlarını daha keyifli hale getirir. Ayrıca, yatmadan önce ekran kullanmamak, daha iyi uyumamıza yardımcı olabilir. Böylece sabahları daha dinç uyanabiliriz."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnede ekran süresini nasıl sınırlayabileceğimizden bahsettik. Şimdi, bu kuralları uygulamak için neler yapabileceğimizi düşünelim. Belki bir çizelge oluşturabiliriz ya da bir zamanlayıcı kullanabiliriz. Böylece ekran süremizi kontrol altında tutabiliriz."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sana bir soru daha sormak istiyorum. Ekran süreni kontrol etmek için hangi yöntemi kullanmayı düşünüyorsun? Belki bir çizelge hazırlamak ya da ebeveynlerinle birlikte bir plan yapmak? Merakla cevabını bekliyorum!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Cevabın için teşekkür ederim! Seçtiğin yöntem harika görünüyor ve eminim çok işine yarayacak. Şimdi, bu planı uygulamaya koy ve nasıl hissettiğini bana anlat. Unutma, her gün yeni bir başlangıçtır ve sen harika bir iş çıkarıyorsun!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün ekran zamanı hakkında çok şey öğrendik ve harika vakit geçirdik. Umarım bu bilgileri kullanarak daha dengeli bir yaşam sürebilirsin. Her zaman yanındayım ve seninle bu yolculuğa çıkmak benim için çok keyifliydi. Şimdi hoşça kal deme zamanı. Bir sonraki görüşmemizde yeni maceralara yelken açacağız. Hoşça kal, sevgili arkadaşım!"
+    }
+  ],
+  "title": "Elisa The Ice Fairy'ın Screen Time Hikayesi"
+}

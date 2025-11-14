@@ -1,0 +1,104 @@
+{
+  "id": "yellow_buddy_behavior_story",
+  "character": "Yellow Buddy",
+  "topic": "behavior",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Yellow Buddy, y hoy vamos a aprender sobre algo muy importante y divertido: el buen comportamiento. ¿Están listos para comenzar esta aventura conmigo? ¡Estoy tan emocionado de que estemos juntos en esto! Vamos a descubrir cómo podemos hacer que nuestros días sean más alegres siguiendo algunas simples reglas. ¿No es genial? Y lo mejor de todo, ¡podemos divertirnos mientras aprendemos! Así que, ¡prepárense para una jornada llena de risas y aprendizaje!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos sobre qué es el comportamiento. El comportamiento es cómo actuamos o nos comportamos con los demás y con nosotros mismos. Es importante porque nos ayuda a vivir felices y en armonía. Por ejemplo, cuando compartimos nuestros juguetes con otros, estamos mostrando buen comportamiento. También, cuando escuchamos a nuestros padres o maestros, estamos demostrando respeto. ¿Verdad que suena sencillo? ¡Y es muy divertido ser amable y respetuoso!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Una parte importante del buen comportamiento es seguir reglas. Las reglas son como pequeños trucos que nos ayudan a saber qué hacer. Por ejemplo, una regla puede ser lavarse las manos antes de comer. ¿Por qué? Porque nos mantiene saludables. Otra regla importante es recoger nuestros juguetes después de jugar. Esto ayuda a mantener nuestro espacio limpio y seguro. ¿Pueden pensar en alguna regla que sigan en casa? ¡Sigamos aprendiendo juntos!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ahora, intentemos algo divertido! Vamos a practicar cómo pedir las cosas por favor. Imaginen que quieren un juguete de un amigo. En lugar de tomarlo sin preguntar, decimos: '¿Me lo prestas, por favor?' ¡Inténtenlo ustedes ahora! ¿No se siente bien cuando usamos palabras amables? ¡Eso es porque estamos mostrando respeto y amabilidad! Recuerden, las palabras mágicas como 'por favor' y 'gracias' son muy poderosas. ¡Ustedes pueden hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden cuando hablamos sobre compartir, ¡eso es tan importante! Compartir nos ayuda a hacer amigos y a divertirnos más. Imaginemos que tenemos un pastel delicioso. Si lo compartimos, todos pueden disfrutarlo. ¿No es eso maravilloso? Y cuando compartimos, también aprendemos a ser generosos y considerados. Ahora, piensen en algo que puedan compartir hoy, como un juguete o un cuento. ¡Qué emocionante es compartir!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Otra parte del buen comportamiento es escuchar. Cuando alguien nos habla, es importante prestar atención. Esto muestra que nos importa lo que dicen. Por ejemplo, si mamá está contando una historia, ¿no les encanta escuchar cada palabra? Escuchar bien nos ayuda a aprender y a entender mejor a los demás. La próxima vez que alguien les hable, intenten concentrarse en sus palabras. ¡Es un superpoder secreto para ser un buen amigo!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Hagamos un ejercicio de escucha juntos! Vamos a cerrar los ojos y contar hasta cinco mientras respiramos. Uno, dos, tres, cuatro, cinco. ¡Excelente trabajo! Ahora, cuando abramos los ojos, escucharemos atentamente el sonido más cercano. ¿Lo escuchan? ¡Qué bien lo han hecho! Escuchar con atención nos ayuda a conocer mejor nuestro entorno. ¡Ustedes son unos escuchadores expertos!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablemos de ser pacientes. A veces, tenemos que esperar nuestro turno, como en la fila para el tobogán. Esperar puede ser difícil, pero es una gran manera de mostrar respeto por los demás. Mientras esperamos, podemos pensar en cosas divertidas o cantar una canción en nuestra cabeza. La paciencia nos enseña a ser considerados y a disfrutar más de cada momento. ¡Pronto será su turno y será muy divertido!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a practicar la paciencia juntos. Imaginemos que estamos en una fila esperando un helado. ¿Qué podemos hacer mientras esperamos? Podemos contar las nubes en el cielo o imaginar qué sabor de helado elegiremos. ¡Qué divertido es usar nuestra imaginación! Practicar la paciencia nos ayuda a sentirnos más tranquilos y felices. ¡Ustedes son increíbles esperando su turno!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo están haciendo! Ahora, pensemos en cómo podemos ayudar a otros. Ayudar a alguien es una forma maravillosa de mostrar buen comportamiento. Puede ser tan simple como sostener la puerta o recoger algo que se ha caído. Cuando ayudamos, hacemos que los demás se sientan felices y apreciados. ¿Pueden pensar en una forma de ayudar a alguien hoy? ¡Estoy seguro de que harán un gran trabajo!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden que todos cometemos errores. A veces olvidamos seguir las reglas o no escuchamos bien. ¡Y eso está bien! Lo importante es aprender de nuestros errores y tratar de hacerlo mejor la próxima vez. Podemos decir 'lo siento' y tratar de corregir lo que hicimos. Aprender de nuestros errores nos hace más fuertes y sabios. ¡Ustedes son unos aprendices fantásticos!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdan algún momento en el que aprendieron algo de un error? Tal vez olvidaron recoger sus juguetes y luego lo hicieron mejor. ¿Cómo se sintieron después? Es genial aprender y crecer, ¿verdad? Cada día es una nueva oportunidad para ser mejores. ¡Estoy tan orgulloso de ustedes y de todo lo que están aprendiendo!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que hemos aprendido tanto sobre el buen comportamiento, pensemos en un desafío divertido. ¿Qué tal si intentamos recordar una regla importante que hemos aprendido hoy? Puede ser escuchar bien o compartir con amigos. ¿Cuál es su favorita? ¡Les apuesto que pueden recordarlas todas! Practicar estas reglas todos los días nos ayudará a ser las mejores versiones de nosotros mismos."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ha sido una aventura increíble aprender sobre el buen comportamiento juntos. Hemos descubierto la importancia de las reglas, la escucha, la paciencia y la amabilidad. Cada pequeña acción cuenta y hace que nuestro mundo sea un lugar mejor. Recuerden que siempre pueden mejorar y aprender más. ¡Estoy tan feliz de haber compartido este tiempo con ustedes! ¡Sigan siendo increíbles!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Y así llegamos al final de nuestra aventura. ¡Gracias por acompañarme, amiguitos! Recuerden, el buen comportamiento nos ayuda a ser felices y a hacer felices a los demás. Estoy muy orgulloso de todo lo que han aprendido hoy. ¡Hasta la próxima, amigos! No olviden seguir practicando y divirtiéndose. ¡Adiós, hasta pronto!"
+    }
+  ],
+  "title": "Historia de Behavior de Yellow Buddy"
+}

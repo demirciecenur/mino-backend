@@ -1,0 +1,98 @@
+{
+  "id": "luna_régulation_émotionnelle_gestion_des_émotions_se_calmer_autorégulation_story",
+  "character": "Luna",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis ! Je suis Luna, et aujourd'hui, nous allons explorer un monde magique où nous apprendrons à mieux comprendre nos émotions. Es-tu prêt pour un voyage fantastique ? Nous allons découvrir comment se calmer et gérer nos émotions, tout comme les étoiles qui dansent calmement dans le ciel. J'ai hâte de partager cette aventure avec toi. Allons-y ensemble, ça va être merveilleux !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Sais-tu ce que sont les émotions ? Ce sont ces petits sentiments que nous ressentons à l'intérieur, comme être heureux quand on joue ou triste quand on perd un jouet. Parfois, nos émotions peuvent être très fortes, et c'est là que nous devons apprendre à les gérer. Imagine une rivière qui coule doucement, c'est comme ça que nous voulons que nos émotions soient. Ensemble, nous allons apprendre à les apaiser et à les comprendre."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour commencer, parlons de la respiration. Quand tu te sens fâché ou triste, prendre de grandes respirations peut t'aider à te calmer. Respire profondément par le nez, comme si tu sentais une jolie fleur, puis souffle doucement par la bouche. Faisons-le ensemble, veux-tu ? Une grande inspiration... et maintenant, souffle lentement. Tu vois, c'est comme un petit nuage qui flotte tranquillement dans le ciel."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Tu as fait ça à merveille. N'est-ce pas incroyable comme cela peut te faire sentir plus calme ? La prochaine fois que tu ressens une grosse émotion, souviens-toi de cette respiration magique. Tu peux le faire n'importe où, n'importe quand. Bravo, tu es vraiment fort !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de l'écoute. Quand on se sent bouleversé, écouter les sons autour de nous peut nous aider à nous recentrer. As-tu déjà écouté le vent dans les arbres ou le chant des oiseaux le matin ? Ces sons peuvent être très apaisants. Ferme les yeux et imagine ces sons doux. Comment te sens-tu maintenant ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre façon de gérer nos émotions est de parler de ce que l'on ressent. Parfois, dire à quelqu'un ce qui nous dérange peut nous soulager. Imagine que tu parles à une étoile dans le ciel. Raconte-lui tes sentiments, et tu verras, cela peut faire une grande différence. Essaie de trouver une personne de confiance à qui parler, comme un parent ou un ami."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail formidable en apprenant tout cela ! N'oublie pas que les émotions sont normales et qu'il est important de les comprendre. Chaque fois que tu réussis à te calmer, c'est comme si tu devenais un peu plus fort. Continue ainsi, tu es incroyable !"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de l'imagination. Quand tu te sens inquiet, pense à un endroit magique où tu te sens en sécurité. Cela peut être un jardin enchanté ou une forêt pleine de licornes. Ferme les yeux et imagine-toi là-bas. Que vois-tu ? Que ressens-tu ? Utiliser ton imagination peut vraiment t'aider à te sentir mieux."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons un petit exercice ensemble. Imagine que tu es une étoile brillante dans le ciel. Prends une grande inspiration et brille de tout ton éclat. Puis souffle doucement et laisse ta lumière scintiller calmement. Chaque fois que tu fais cela, tu apprends à contrôler tes émotions. C'est magique, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi aussi que bouger ton corps peut aider. Quand tu te sens tendu, danse, saute ou fais des étirements comme un chat. Cela aide ton corps à se détendre et ton esprit à se calmer. Essaie de faire une petite danse joyeuse maintenant. Tu verras, cela te fera sourire !"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "C'est fantastique ! Regarde comme tu as appris à te calmer et à comprendre tes émotions. Chaque petit pas que tu fais est important. Continue d'utiliser toutes ces astuces magiques, et tu deviendras un expert en gestion des émotions. Je suis si fière de toi !"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu une émotion que tu trouves difficile à gérer ? Peut-être la colère ou la tristesse ? C'est normal, tu sais. Chacune de ces émotions peut être apprivoisée avec un peu de pratique. Veux-tu essayer de me dire laquelle est la plus difficile pour toi ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tu sais, même les étoiles dans le ciel ont des moments où elles brillent moins fort. Et c'est tout à fait normal. L'important est de toujours essayer de trouver des moyens de briller à nouveau. Avec tout ce que tu as appris aujourd'hui, tu as beaucoup d'outils pour t'aider."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce moment magique avec moi, petit ami. N'oublie jamais que tu as le pouvoir de gérer tes émotions et de te calmer comme une étoile brillante. Je suis toujours là pour t'aider quand tu en as besoin. À très bientôt pour une nouvelle aventure ! Au revoir !"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Luna"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "shell_heroes_crew_screen_time_story",
+  "character": "Shell Heroes Crew",
+  "topic": "screen_time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friends! We're the Shell Heroes Crew, and today we're going on an exciting adventure all about screen time. Are you ready to join us? We're so curious to learn and explore with you. Remember, we're all about teamwork, courage, and having fun while learning new things. Let's dive into this adventure together and discover how we can make the most out of our screen time!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about what screen time means. It's the time we spend using devices like tablets, phones, or computers. These screens can be lots of fun because we can play games, watch shows, or even learn new things. But it's important to balance our screen time with other activities. Just like we can't eat only candy all day, we need to mix up our activities too. What are some of your favorite things to do when you're not using screens?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about balance? That means doing different activities, so we stay healthy and happy. Playing outside, reading a book, or even helping with chores are great ways to balance screen time. When we mix our activities, we use our bodies and minds in different ways. This helps us grow stronger and smarter! So, let's think about how we can plan our day with a little screen time and lots of other fun things."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking about balance! It's okay to enjoy some screen time, but let's also remember to be active. How about we stand up and stretch together? Reach up high like you're trying to touch the sky! Stretching helps our bodies feel good after sitting with screens. It's important to move around and keep our muscles happy. Wonderful! Now let's see what else we can do to make the most of our day."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure by talking about making choices. Sometimes, we have to decide how to spend our time. Choosing a fun game or an interesting show can be exciting, but it’s also fun to choose a book or a puzzle. These choices help us learn new things and have different kinds of fun. Did you know that when you choose a book, you’re like a hero on a quest for knowledge? Every choice is a chance to explore something new!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now that we know about choices, let's talk about setting limits. Setting a timer can help us remember when it's time to take a break from screens. We can use a timer to remind ourselves to play outside or do a fun craft. This way, we make sure we're not spending too much time on screens. It’s like having a superhero sidekick that helps us stay on track. So, next time you start your screen time, remember to set a timer!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning about screen time! Let's celebrate by doing a fun activity. How about a quick dance party? Dancing is a great way to move and have fun away from screens. Put on your favorite song and let's dance like nobody's watching! It's important to find joy in activities that help us move and groove. You're a superstar for balancing your screen time with awesome activities like this!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's talk about how screens can help us learn. There are lots of educational games and videos that teach us new skills. We can learn about animals, space, or even how to draw! These tools can make learning fun and exciting. But remember, it's still important to take breaks and do other activities too. Learning from screens is great, but so is learning from books, friends, and exploring outside!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever wondered what heroes do when they're not on screens? Heroes like us love to explore, build, and create! What are some of your favorite non-screen activities? Maybe you like building with blocks or drawing pictures. These activities help our imaginations grow big and strong. Can you think of something new to try today that doesn't involve screens? Let's be creative and have fun!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about creativity? Using our imaginations is like going on an adventure without leaving home. We can pretend to be pirates, astronauts, or even chefs in our own kitchen. These pretend games are a great way to spend time without screens. They help us think, solve problems, and have fun with friends or family. So, what adventure will you go on next? Let's keep exploring!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's think about sharing screen time with friends or family. Watching a movie or playing a game together can be so much fun. It’s a great way to bond and share experiences. But remember, it's also important to talk about what you see or play. Sharing your thoughts and ideas makes the experience even better. So next time you're enjoying screen time with someone, try talking about what you like or learned!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing fantastic, heroes! Let's take a moment to relax and think about all we’ve learned. Close your eyes and take a deep breath in, then slowly let it out. Breathing helps us feel calm and focused. It's a simple way to take a break from screens and relax our minds. Remember, you can do this anytime you need a little calm. Great job, you’re a true screen time hero!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's wrap up our adventure by thinking about everything we've talked about today. We learned about balancing screen time with other activities, making choices, and setting limits. We also discovered how screens can help us learn and how important it is to take breaks. You've done an amazing job exploring these ideas with us. Remember, being a hero means making smart choices and having fun in different ways!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time for us to say goodbye, but our adventure doesn't end here. You can keep being a screen time hero every day by making good choices and having fun with all sorts of activities. We're so proud of you for joining us on this journey. Remember, the Shell Heroes Crew is always here to cheer you on. Until next time, keep exploring, learning, and having fun. Goodbye, friends!"
+    }
+  ],
+  "title": "Shell Heroes Crew's Screen Time Story"
+}

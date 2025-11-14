@@ -1,0 +1,104 @@
+{
+  "id": "sunny_bedtime_story",
+  "character": "Sunny",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Sunny, und heute gehen wir auf eine wunderbare Reise zum Thema Schlafenszeit. Bist du bereit, mit mir zu entdecken, wie schön und entspannend das Zubettgehen sein kann? Schlafenszeit ist eine ganz besondere Zeit des Tages. Es ist der Moment, in dem wir uns von all den Abenteuern erholen, die wir erlebt haben. Lass uns gemeinsam herausfinden, wie wir uns auf das Schlafengehen vorbereiten können!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an das letzte Mal, als wir über Abendrituale gesprochen haben? Abendrituale helfen uns, uns auf das Schlafengehen vorzubereiten. Vielleicht hast du auch ein Lieblingsbuch, das du gerne liest, bevor du ins Bett gehst. Bücher sind wie kleine Türen zu anderen Welten, die uns helfen, uns zu entspannen. Was ist dein Lieblingsbuch? Es kann ein Buch über Tiere oder Abenteuer sein!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns darüber sprechen, warum es wichtig ist, sich vor dem Schlafengehen die Zähne zu putzen. Zähneputzen ist nicht nur gut für unsere Zähne, sondern hilft uns auch, den Tag abzuschließen. Denk daran, nach jedem Essen und vor dem Schlafengehen deine Zähne gründlich zu putzen. Es ist eine gute Angewohnheit, die uns gesund hält. Kannst du dich erinnern, wie lange wir unsere Zähne putzen sollten? Genau, etwa zwei Minuten!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig, du machst das toll! Jetzt lass uns gemeinsam zählen, während wir unsere Zähne putzen. Eins, zwei, drei, vier, fünf! Zählen macht Spaß und hilft uns, die Zeit im Blick zu behalten. Zählen wir noch einmal: sechs, sieben, acht, neun, zehn! Siehst du, wie schnell die Zeit vergeht? Du bist wirklich klasse darin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nachdem wir unsere Zähne geputzt haben, ist es Zeit, sich den Schlafanzug anzuziehen. Ein gemütlicher Schlafanzug hilft uns, uns wohlzufühlen und gut zu schlafen. Hast du einen Lieblingsschlafanzug? Vielleicht mit bunten Mustern oder lustigen Tieren darauf? Schlafanzüge sind wie weiche Umarmungen, die uns durch die Nacht begleiten."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt über das Aufräumen sprechen, bevor wir schlafen gehen. Es ist wichtig, unser Zimmer ordentlich zu halten, damit wir am Morgen frisch starten können. Wie wäre es, wenn wir alle Spielsachen an ihren Platz zurücklegen? Das macht das Aufwachen am nächsten Tag viel angenehmer. Und es macht Spaß, zu sehen, wie ordentlich alles aussieht!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein echter Aufräumprofi! Es ist toll zu sehen, wie du alles an seinen Platz legst. Erinnerst du dich, wo dein Lieblingsspielzeug hingehört? Genau, dort in die Kiste! Es ist wunderbar, wie ordentlich dein Zimmer jetzt aussieht. Gute Arbeit, mein kleiner Freund!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo alles aufgeräumt ist, können wir uns auf das Schlafengehen konzentrieren. Vielleicht möchtest du noch eine Gute-Nacht-Geschichte hören. Geschichten helfen uns, unsere Fantasie zu entfalten und süß zu träumen. Welche Art von Geschichten magst du? Vielleicht über mutige Helden oder lustige Tiere?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du jemals darüber nachgedacht, warum wir schlafen müssen? Schlaf ist wichtig, damit unser Körper sich ausruhen und wachsen kann. Er hilft uns, Energie für den nächsten Tag zu sammeln. Was denkst du, was passiert, wenn wir schlafen? Vielleicht träumen wir von Abenteuern oder fliegenden Drachen."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns über Entspannung sprechen. Bevor wir schlafen gehen, können wir ein paar tiefe Atemzüge machen. Atme tief ein durch die Nase, und langsam wieder aus durch den Mund. Es hilft uns, ruhig und friedlich zu werden. Fühlst du, wie entspannt du bist? Es ist eine schöne Art, den Tag zu beenden."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das ganz toll mit dem Atmen! Noch ein tiefer Atemzug, und wir sind bereit für die Nacht. Es ist wunderbar, wie ruhig und friedlich du jetzt bist. Du bist wirklich gut darin, dich zu entspannen. Jetzt bist du bereit für die schönsten Träume!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Wir haben schon viel über Abendrituale gesprochen. Erinnerst du dich, wie wichtig es ist, jeden Abend zur gleichen Zeit ins Bett zu gehen? Ein regelmäßiger Schlafrhythmus hilft uns, besser zu schlafen. Es ist wie eine kleine Gewohnheit, die uns stark und gesund hält. Und es macht den Morgen viel einfacher!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, wo du so viel über das Schlafengehen weißt, kannst du es kaum erwarten, ins Bett zu gehen, oder? Es ist schön, sich auf den Schlaf zu freuen. Denn morgen wartet ein neuer, aufregender Tag auf dich. Was glaubst du, welche Abenteuer morgen auf dich warten? Vielleicht ein neues Spiel oder ein spannender Ausflug!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was ist deine Lieblingssache an der Schlafenszeit? Ist es das Kuscheln mit deinem Kuscheltier oder die Geschichten, die du hörst? Jeder hat seine eigene Art, sich auf das Schlafengehen zu freuen. Vielleicht magst du das Gefühl, unter der warmen Decke zu liegen. Was immer es ist, es macht die Schlafenszeit besonders."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es Zeit, gute Nacht zu sagen. Es war so schön, mit dir über das Schlafengehen zu sprechen. Ich hoffe, du hast viel gelernt und bist bereit für eine erholsame Nacht. Träume süß und hab einen schönen Schlaf. Bis zum nächsten Mal, kleiner Freund!"
+    }
+  ],
+  "title": "Sunnys Bedtime Geschichte"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_bedtime_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "bedtime",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Sneaky Cat Tom, and I'm so excited to join you tonight. We're going to explore the magical world of bedtime together. Are you ready for an adventure? Bedtime is a special time when we get cozy and prepare for sweet dreams. Let's see what fun we can have before drifting off to sleep!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what happens before bedtime. Do you have a favorite bedtime story? Stories can take us to amazing places, like a pirate ship or a candy land. Before we start our night journey, it's important to get comfy in our pajamas. Pajamas are like our superhero suits for bedtime adventures!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about getting comfy? Well, brushing your teeth is another important bedtime step. It keeps your teeth shiny and happy, just like how a cat keeps its fur clean. So grab your toothbrush, and let's brush our teeth together! Can you make your toothbrush dance like a happy cat?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job brushing those teeth! You did it like a pro. Now let's think about what else makes bedtime special. How about a nice, warm bath? Baths can feel like swimming in a cozy ocean, and they help us relax. Next time, try splashing around like a playful fish!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we're clean and cozy, let's talk about our favorite stuffed animals. Do you have a special friend who helps you sleep? My favorite is a little mouse named Jerry. He's great at keeping me company. Stuffed animals can be like our bedtime buddies, ready for any dream adventure!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's continue with a calming exercise. How about we take three deep breaths together? Breathing slowly helps us feel relaxed and ready for sleep. Imagine you're blowing up a big balloon with each breath. Inhale deeply, and then let it all out. Doesn't that feel nice and calming?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful breathing, my friend! You're doing so well. Now let's imagine a peaceful place where we can rest. Maybe a soft, fluffy cloud or a gentle meadow filled with flowers. Close your eyes and picture it. This is your special place to visit whenever you want to relax."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about stories? Let's think of a bedtime story you love. A story can be like a key that unlocks a world of imagination. Whether it's about brave knights or friendly dragons, stories help us dream big. What's your favorite story to hear before sleeping?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you ever wonder why we need sleep? Sleep is like a magic potion that helps us grow strong and smart. It gives us energy for fun and learning every day. What do you like to dream about when you're asleep? Maybe you can tell me a dream you had!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's think about how we can make our room feel cozy for bedtime. Soft blankets and dim lights can create a peaceful atmosphere. It's like building a little nest where we can rest. Do you have a favorite nightlight that glows like a friendly star in the night?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now we can try a gentle stretch before bed. Stretching is like waking up your muscles with a big, friendly hug. Reach up high to the sky, then down to your toes. You might feel like a tall tree swaying in the wind. Stretching helps us feel relaxed and ready to sleep."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You did a fantastic job stretching! You're as flexible as a cat. Now let's snuggle into bed and think about something happy. Maybe it's a day at the park or a fun playdate with friends. Happy thoughts are like little clouds that carry us to dreamland."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we're all tucked in, let's listen to the quiet sounds of the night. Can you hear the gentle rustle of leaves or the soft chirping of crickets? These sounds can be like a lullaby that helps us relax. Listening to nature is a wonderful way to end the day."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a special bedtime routine? Maybe you like to sing a song or say goodnight to your family. Routines help us feel safe and ready for sleep. What's one thing you always do before bed that makes you feel cozy and loved?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time for me to say goodnight, little friend. I hope you enjoyed our bedtime adventure with Sneaky Cat Tom. Remember, bedtime is a special time for rest and dreams. Sweet dreams, and I'll see you again for another fun story soon. Goodnight and sleep tight!"
+    }
+  ],
+  "title": "Sneaky Cat Tom's Bedtime Story"
+}

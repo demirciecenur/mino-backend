@@ -1,0 +1,104 @@
+{
+  "id": "frost friend sid_nutrition_story",
+  "character": "Frost Friend Sid",
+  "topic": "nutrition",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friends! I'm Frost Friend Sid, and today we're going to have a frosty fun time learning about nutrition! Do you know what nutrition is? It's all about the yummy foods we eat that help us grow big and strong, just like superheroes! Are you ready to learn and play with me? Let's go on this exciting journey together and discover the secrets of healthy eating!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about fruits and vegetables! They are colorful and full of vitamins, like magic potions that help our bodies stay healthy. Have you ever tried a crunchy carrot or a juicy apple? They're not only tasty but also give us energy to play and run around. Eating a rainbow of fruits and veggies every day is like having a superpower. What's your favorite fruit or veggie? Mine is the sweet strawberry!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about fruits and veggies? They help us grow strong bones and muscles. Now, let's pretend we're munching on a crispy cucumber. Crunch, crunch! Feel how it gives us strength? Eating healthy foods is like filling up a car with fuel so it can zoom around. So, next time you have a snack, think about how it's helping you grow tall and strong!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about fruits and veggies! You can do it! Now, let's imagine being superheroes with super strength. Ready? Let's stand up and stretch our arms to the sky, just like we're flying. Can you feel the energy from all those healthy foods? Wonderful! Keep it up, and you'll be a nutrition superhero in no time!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue with grains. Grains, like rice and bread, give us lots of energy to play all day. Imagine you're a race car, and grains are your special fuel. Eating whole grains is like putting the best fuel in your tank. Have you ever tried oatmeal for breakfast? It's warm and yummy, and it helps us start the day with a big smile. What's your favorite grain to eat?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, remember our talk about grains? They help us have energy to play and learn. Let's pretend to be bakers making bread. Knead the dough with your hands, squish and squash! Grains are in many foods, like pasta and cereal. Next time you eat a sandwich, think about the grains giving you power. Isn't that fun to imagine?"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Did you know there are also foods that help us stay super healthy, like proteins? Proteins are like building blocks for our muscles. They come from foods like chicken, beans, and eggs. Imagine building a strong tower with blocks; that's what proteins do for our bodies. Have you ever cracked an egg open to see what's inside? It's full of surprises that help us grow!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a fantastic job learning about nutrition! Keep it up! Let's pretend to be builders, stacking blocks to make a tall tower. Every time we eat protein, it's like adding a block to our tower. Can you stretch your arms high and pretend to build? You're getting stronger with every healthy bite. Great work, little builder!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about dairy. Dairy foods like milk, cheese, and yogurt help make our bones strong. Drinking milk is like giving our bones a big hug! Have you ever tried making a yogurt parfait with fruits? It's like a tasty rainbow in a cup. Dairy foods are like the friendly helpers that keep our teeth and bones healthy and happy. Do you like drinking milk or eating cheese?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember our chat about dairy? It helps our bones grow strong. Let's pretend we're making a smoothie with milk and fruits. Swirl, swirl, mix it up! Dairy is in many delicious foods. Next time you have a glass of milk, think about how it's helping you grow. It's like magic in a cup, isn't it?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now that we've learned so much about nutrition, what was your favorite part? Was it the crunchy veggies or the super grains? Maybe it was the building proteins or the hugging dairy? All these foods help us be our best selves. Can you think of a new healthy food you'd like to try? I'm curious about what you'll choose!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about keeping our bodies hydrated! Drinking water is super important. It's like giving our bodies a refreshing splash. Have you ever felt thirsty after running around? A big gulp of water helps us feel better and ready to play again. Water is like a magical drink that helps our bodies stay cool and happy. How much water do you drink every day?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing amazing learning all these things about nutrition! Let's take a big, happy sip of water together. Ready? Sip, sip, ahh! Water is our body's best friend. Every time you drink water, you're helping your body stay strong and healthy. Keep sipping, little friend, and you'll be a hydration hero!"
+    },
+    {
+      "id": "scene_13",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Now let's listen to our tummies. They make funny sounds when they're hungry, don't they? Our tummies love it when we feed them good foods. Next time you hear a grumble, it's your tummy asking for a healthy snack. What do you think your tummy would like right now? Maybe a piece of fruit or some nuts?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Wow, what a wonderful journey we've had learning about nutrition! Remember, eating healthy is like giving our bodies a big hug. Thank you for joining me, Frost Friend Sid, on this fun adventure. Keep eating those yummy, healthy foods, and you'll grow strong and happy. Until next time, keep smiling and stay healthy, my little nutrition explorers! Goodbye!"
+    }
+  ],
+  "title": "Frost Friend Sid's Nutrition Story"
+}

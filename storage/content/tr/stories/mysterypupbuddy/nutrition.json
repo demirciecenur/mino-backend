@@ -1,0 +1,104 @@
+{
+  "id": "mystery_pup_buddy_nutrition_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostlarım! Ben Mystery Pup Buddy, sizinle tanışmak için sabırsızlanıyorum. Bugün birlikte beslenme hakkında harika bir yolculuğa çıkacağız. Sağlıklı yiyeceklerin ne kadar önemli olduğunu biliyor musunuz? Hadi, bu maceraya başlamaya hazır mısınız? Eğlenceli ve öğretici bir gün geçireceğiz!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme, vücudumuzun sağlıklı kalması için çok önemlidir. Sağlıklı yiyecekler, bize enerji verir ve bizi güçlü yapar. Mesela, sabah kahvaltıda yediğimiz meyveler ve yulaf bize gün boyunca enerji sağlar. Vücudumuzun büyümesi ve gelişmesi için vitaminlere ihtiyacımız var. Bu yüzden her gün farklı renklerde meyve ve sebze yemeliyiz."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi besin piramidinden bahsedelim. Besin piramidi, hangi yiyecekleri ne kadar yememiz gerektiğini gösterir. Alt kısımda ekmek, makarna gibi karbonhidratlar var, onlar bize enerji verir. Orta kısımda meyve ve sebzeler var, onlar vitamin ve mineral sağlar. Üst kısımda ise süt ve et gibi protein kaynakları bulunur, bu da kaslarımızı güçlendirir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi birlikte bir oyun oynayalım! Elma, muz ve havuç yediğimizde ne kadar güçlü olacağımızı hayal edelim. Şimdi üçe kadar sayalım ve güçlü bir şekilde kollarımızı kaldırıp \"Güçlüyüm!\" diyelim. Bir, iki, üç! Harikasınız, işte böyle! Sağlıklı yiyecekler bizi güçlü yapar."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda besin piramidinden bahsetmiştik. Şimdi de suyun önemini konuşalım. Su, vücudumuzun düzgün çalışması için çok gereklidir. Her gün bol bol su içmeliyiz. Su içmek, enerjik kalmamıza ve oyun oynarken daha hızlı koşmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi şimdi birlikte su içme hareketi yapalım! Hayal edin, elinizde bir bardak su var. Bir yudum alın ve \"Ahhh, ne kadar ferahlatıcı!\" deyin. Bu hareketi her gün tekrar edelim, çünkü su içmek vücudumuzu mutlu eder. Harikasınız, devam edin!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi de tatlılar hakkında konuşalım. Tatlılar çok lezzetli olabilir, ama onları az yemeliyiz. Fazla şeker yemek dişlerimize zarar verebilir ve enerjimizi düşürebilir. Tatlı yerine meyve yemek daha sağlıklıdır. Meyveler de tatlıdır ama aynı zamanda vitamin doludur."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Meyveler, tatlı krizlerimizi gidermek için harika bir alternatiftir. Elma, armut veya üzüm gibi meyveler tatlıdır ve sağlıklıdır. Her gün bir meyve yeme alışkanlığı edinelim. Böylece hem tatlı ihtiyacımızı karşılarız hem de sağlıklı kalırız. Meyve yemek hem eğlenceli hem de faydalıdır."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Siz en çok hangi meyveyi seviyorsunuz? Elma mı, muz mu yoksa çilek mi? Meyveler gerçekten çok lezzetli ve renkli, değil mi? Her gün farklı bir meyve yediğinizde vücudunuz çok mutlu olur. Siz de farklı meyveler denemek ister misiniz?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda meyvelerden bahsetmiştik. Şimdi de sebzelerin gücüne göz atalım. Sebzeler, vücudumuzun güçlü ve sağlıklı kalmasına yardımcı olur. Havuç, brokoli ve ıspanak gibi sebzeler vitaminlerle doludur. Her öğünde sebze yemeye çalışalım, çünkü onlar bizi güçlü yapar."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sebzeleri daha eğlenceli hale getirmek için renkli salatalar yapabiliriz. Hadi şimdi bir salata yapalım ve içine kırmızı, yeşil ve turuncu sebzeler koyalım. Her bir sebze farklı bir vitamin sağlar. Renkli bir tabak hazırlamak çok eğlenceli, değil mi? Siz de denemek ister misiniz?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Sebzelerin rengarenk dünyası vücudumuza enerji verir. Her gün farklı bir sebze yediğimizde vücudumuz daha güçlü olur. Mesela, havuç gözlerimizi güçlendirirken, brokoli bağışıklık sistemimizi korur. Sebzeler, doğanın bize sunduğu harika birer hediyedir. Onları yemeyi unutmayalım."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, siz en çok hangi sebzeyi seviyorsunuz? Havuç mu, bezelye mi yoksa salatalık mı? Sebzelerle dolu bir tabağı düşünün, ne kadar renkli ve güzel değil mi? Her gün farklı sebzeler yediğinizde vücudunuz size teşekkür eder. Siz de sebzeleri daha çok sevmeye başladınız mı?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme yolculuğumuzda birçok harika şey öğrendik. Sağlıklı yiyecekler yemek, vücudumuzu güçlü ve mutlu tutar. Meyveler, sebzeler ve su bizim en iyi arkadaşlarımızdır. Her gün bu yiyecekleri yemeye özen gösterelim. Unutmayın, sağlıklı beslenmek bizi mutlu eder!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugünkü beslenme maceramızın sonuna geldik. Sizinle bu harika yolculuğu paylaşmak çok güzeldi. Umarım öğrendiklerimizi günlük hayatınıza uygularsınız. Sağlıklı beslenmek her zaman eğlencelidir. Bir sonraki maceramızda görüşmek üzere, hoşça kalın küçük dostlarım!"
+    }
+  ],
+  "title": "Mystery Pup Buddy'ın Nutrition Hikayesi"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "blu_pup_friendship_story",
+  "character": "Blu Pup",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Blu Pup. Bugün birlikte arkadaşlığın ne kadar harika olduğunu keşfedeceğiz. Arkadaşlık, birlikte oyun oynamak ve birbirimize destek olmak demektir. Seninle bu konuda konuşmak için çok heyecanlıyım. Hazır mısın? Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, tıpkı bir bahçe gibidir; ona iyi bakarsak güzel çiçekler açar. Arkadaşlarımızla vakit geçirmek, onlarla oyunlar oynamak ve onları mutlu etmek için çaba göstermek önemlidir. Bir arkadaş edinmek, yeni bir maceraya atılmak gibidir. Senin en yakın arkadaşın kim? Onunla neler yapmayı seviyorsun?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaş edinmenin ilk adımı, yeni insanlarla tanışmaya cesaret etmektir. Birine 'Merhaba!' demek, güzel bir başlangıç yapmanın en kolay yoludur. Gözlerinin içine bakarak gülümsemek ve adını söylemek de iyi bir fikirdir. Yeni arkadaşlar edinmek için hangi oyunları oynamayı seversin? Belki de birlikte bir oyun başlatabilirsin!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi bir düşünelim, arkadaşlarımızla oyun oynamak için hangi oyunları seçebiliriz? Belki saklambaç, belki de bir hikaye anlatma oyunu. Haydi birlikte bir oyun seçelim ve arkadaşlarımızla nasıl eğleneceğimizi düşünelim. Unutma, herkesin fikrine saygı göstermek önemlidir. Harika bir arkadaşlık böyle başlar!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda oyunlardan bahsetmiştik, şimdi ise paylaşmanın önemine değinelim. Bir oyuncak paylaşmak, arkadaşlık bağlarını güçlendirir. Paylaşmak, karşımızdakine değer verdiğimizi gösterir. Hangi oyuncaklarını arkadaşlarınla paylaşmayı seversin? Bu, onların da seni daha çok sevmesini sağlar."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, geçen gün hangi oyunları oynadığımızı konuşmuştuk? Şimdi de arkadaşlarımızla nasıl iyi vakit geçirebileceğimizi düşünelim. Belki birlikte bir resim yapabiliriz ya da bir şarkı söyleyebiliriz. Sen ne yapmayı seversin? Bu fikirler, arkadaşlarımızla daha yakın olmamıza yardımcı olabilir."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaşlarımızla anlaşmazlıklar yaşayabiliriz, bu çok normaldir. Önemli olan, bu durumlarda nasıl davrandığımızdır. Sorunları konuşarak çözmek, her iki taraf için de faydalı olur. Bir sorun olduğunda, arkadaşımıza nasıl hissettiğimizi anlatmalı ve onun da ne düşündüğünü dinlemeliyiz. Böylece daha güçlü arkadaşlıklar kurabiliriz."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte vakit geçirmenin ve eğlenmenin en güzel yolu, birbirimize saygı göstermektir. Herkesin farklı fikirleri ve duyguları olabilir. Bunlara saygı duymak, arkadaşlığımızı daha da güçlendirir. Sen de arkadaşlarına saygı gösteren biri misin? Bunu yapıyorsan, harika bir arkadaşsın!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, sen arkadaşlarınla en çok hangi oyunları oynamayı seviyorsun? Onlarla hangi aktiviteleri yaparken en çok eğleniyorsun? Belki bir parkta koşmak ya da bir bulmaca çözmek olabilir. Paylaşmak ister misin? Söylediklerin, arkadaşlarınla olan bağını daha da güçlendirebilir."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda arkadaşlarımızla oyunlardan bahsetmiştik. Şimdi ise birlikte bir hikaye oluşturmayı deneyelim. İki arkadaşın bir maceraya çıktığını hayal edelim. Bu macerada neler olabilir? Belki bir hazine arayışına çıkabilirler ya da yeni yerler keşfedebilirler. Hikayeyi sen tamamlamak ister misin?"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Son konuşmamızda hikaye oluşturmayı denemiştik. Şimdi ise arkadaşlarımızla nasıl daha iyi iletişim kurabileceğimizi düşünelim. Onları dinlemek ve duygularını anlamak, iyi bir başlangıçtır. Sen de arkadaşlarınla konuşurken dikkatli bir dinleyici misin? Dinlemek, onlara ne kadar değer verdiğimizi gösterir."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi şimdi birlikte derin bir nefes alalım ve arkadaşlığın ne kadar önemli olduğunu düşünelim. Üç kere derin nefes al ve ver. Bu, sakinleşmemize ve daha iyi düşünmemize yardımcı olur. Sen de denemek ister misin? Derin nefes almak, bizi rahatlatır ve arkadaşlarımızla daha iyi ilişkiler kurmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir arkadaşımıza nasıl yardım edebileceğimizi düşünelim. Belki bir konuda desteğe ihtiyacı vardır veya sadece bir dinleyiciye. Yardım etmek, arkadaşlığın temel taşlarından biridir. Sen de arkadaşlarına nasıl yardım edebileceğini düşünüyor musun? Onlara destek olmak, arkadaşlığınızı daha da güçlü kılar."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Arkadaşlık hakkında düşündüğünde, aklına ilk ne geliyor? Belki birlikte güldüğünüz anlar ya da paylaştığınız sırlar. Senin için arkadaşlık ne ifade ediyor? Bu konuda paylaşmak istediklerin var mı? Söylediklerin, arkadaşlığın ne kadar özel olduğunu gösterir."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün arkadaşlık hakkında çok şey öğrendik ve konuştuk. Umarım senin için faydalı olmuştur ve yeni şeyler keşfetmişsindir. Arkadaşlık, hayatımızı daha güzel ve anlamlı kılar. Sen de harika bir arkadaşsın ve bunu asla unutma! Bir sonraki buluşmamızda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Blu Pup'ın Friendship Hikayesi"
+}

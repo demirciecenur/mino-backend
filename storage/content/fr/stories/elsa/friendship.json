@@ -1,0 +1,98 @@
+{
+  "id": "elisa_the_ice_fairy_friendship_story",
+  "character": "Elisa the Ice Fairy",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis ! Je suis Elisa la Fée des Glaces. Aujourd'hui, nous allons partir pour un voyage magique sur l'amitié. Êtes-vous prêts ? Ensemble, nous allons découvrir ce que signifie être un bon ami. Je suis si curieuse de connaître vos idées sur l'amitié. Allons explorer ce monde merveilleux ensemble !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est comme un flocon de neige, unique et précieux. Un bon ami est quelqu'un qui est gentil et qui partage ses jouets, comme quand vous partagez vos crayons de couleur. Avez-vous déjà prêté un jouet à un ami ? Cela fait chaud au cœur, n'est-ce pas ? L'amitié, c'est aussi écouter l'autre, comme quand on écoute une belle histoire. Maintenant, parlons de comment nous pouvons être de bons amis."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Être un bon ami, c'est aussi dire des mots gentils. Par exemple, dire à quelqu'un qu'il a bien fait quelque chose, comme dessiner un joli dessin. Vous pouvez dire : 'Bravo, c'est magnifique !'. Cela rend les gens heureux. Vous voyez, les mots gentils sont comme des petits flocons de neige qui réchauffent le cœur. Essayons de dire quelque chose de gentil à notre voisin. Que diriez-vous ?"
+    },
+    {
+      "id": "scene_3",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous quand nous avons parlé de partager ? C'est une belle manière de montrer que l'on se soucie des autres. Imaginez que vous avez un gâteau au chocolat, et vous en donnez un morceau à votre ami. Cela montre que vous êtes généreux. Partager, c'est aussi écouter les histoires de vos amis, comme écouter une belle chanson. Partager rend le monde plus joyeux."
+    },
+    {
+      "id": "scene_4",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes tous des amis formidables ! Et vous savez, jouer ensemble est aussi une belle partie de l'amitié. Jouez-vous souvent à cache-cache ou à la marelle avec vos amis ? Ces jeux vous aident à rire et à créer des souvenirs. N'oubliez pas de toujours inclure tout le monde dans le jeu, car tout le monde aime s'amuser. Vous pouvez le faire !"
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons du pardon. Parfois, les amis peuvent se disputer, comme quand on veut jouer avec le même jouet. Mais savez-vous ce qui est magique ? Dire 'je suis désolé' et 'je te pardonne'. Cela répare les cœurs et rend l'amitié encore plus forte. Avez-vous déjà pardonné à un ami ? C'est un beau geste, tout comme un câlin chaleureux."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons quelque chose ensemble. Respirez profondément, comme si vous inspiriez l'air frais de l'hiver. Inspirez par le nez, et expirez par la bouche, doucement. Cela vous aide à vous calmer quand vous êtes en colère. Vous pouvez aussi compter jusqu'à cinq pour vous détendre. Un... deux... trois... quatre... cinq. Ça va mieux, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est aussi découvrir de nouvelles choses ensemble. Comme explorer un nouveau parc ou lire un livre que vous n'avez jamais lu. Avez-vous un ami avec qui vous aimez découvrir de nouveaux jeux ? Ces moments partagés créent des souvenirs précieux. Chaque jour peut être une nouvelle aventure avec un bon ami à vos côtés."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail merveilleux en apprenant à être de bons amis ! N'oubliez jamais que chaque petit geste compte, comme un sourire ou un merci. Ces petites choses rendent le monde plus lumineux. Vous pouvez faire la différence dans la vie de quelqu'un. Continuez à être gentils et attentionnés. Vous êtes fantastiques !"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, mes chers amis, j'ai une question pour vous. Quel est votre moment préféré avec vos amis ? Est-ce quand vous jouez ensemble, ou peut-être quand vous partagez une collation ? Pensez à ce moment spécial et comment il vous a fait sentir. Vous pouvez le partager avec moi ou avec vos amis. Je suis impatiente de connaître vos histoires."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous que l'amitié est comme un jardin. Elle a besoin d'être arrosée avec amour et attention. Imaginez planter une graine qui grandit en une belle fleur. C'est comme ça que l'amitié grandit, avec des actes de gentillesse et de compréhension. Prenez soin de vos amis et ils prendront soin de vous en retour. C'est un échange magique."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, faisons une petite activité ensemble. Imaginez que vous êtes un arbre en hiver, couvert de neige. Levez vos bras comme des branches. Balancez-vous doucement dans le vent. Cela vous aide à vous sentir calme et paisible. Les arbres sont forts et flexibles, tout comme les amitiés durables. Vous êtes forts comme ces arbres !"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Pensez à un ami qui vous fait sourire. Pourquoi est-ce que cet ami est spécial pour vous ? Peut-être qu'il vous fait rire ou qu'il vous aide quand vous en avez besoin. Ces moments sont précieux et montrent la force de l'amitié. Avez-vous remercié votre ami récemment pour être dans votre vie ? C'est important de montrer notre gratitude."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Il est temps de dire au revoir, mes chers amis. J'espère que vous avez appris beaucoup sur l'amitié aujourd'hui. Rappelez-vous d'être toujours gentils et de partager votre sourire. Vous êtes tous des amis incroyables, et je suis si fière de vous. À bientôt pour une autre aventure magique. Prenez soin de vous et de vos amis ! Au revoir !"
+    }
+  ],
+  "title": "Histoire de Friendship de Elisa The Ice Fairy"
+}

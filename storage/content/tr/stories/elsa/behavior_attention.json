@@ -1,0 +1,104 @@
+{
+  "id": "elisa_the_ice_fairy_behavior_attention_story",
+  "character": "Elisa the Ice Fairy",
+  "topic": "behavior_attention",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Elisa the Ice Fairy, büyülü kış diyarından geldim. Bugün birlikte dikkat ve davranışlarımızı nasıl yönetebileceğimizi keşfedeceğiz. Bunun için harika bir yolculuğa çıkmaya hazır mısın? Seninle tanışmak için çok heyecanlıyım ve sana bu konuda yardımcı olacağım. Hadi, bu büyülü maceraya başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dikkat toplamak bazen zor olabilir, değil mi? Ama merak etme, bu konuda sana yardımcı olacağım. Dikkatimizi toplamak, oyun oynarken veya bir şeyler öğrenirken çok işimize yarar. Mesela, oyuncaklarını toplarken dikkatini sadece bu işe verirsen daha hızlı bitirirsin. Şimdi, dikkatini nasıl daha iyi toplayabileceğine dair birkaç ipucu vereceğim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Dikkatini toplamak için ilk adım, çevrende dikkatini dağıtan şeylerden uzaklaşmaktır. Mesela, televizyon açıksa ve sen oyuncaklarını toplamak istiyorsan, televizyonu kapatmak iyi bir fikir olabilir. Ayrıca, derin bir nefes alarak ve nefesini yavaşça vererek sakinleşebilirsin. Bu, zihnini temizler ve dikkatini toplamana yardımcı olur. Sence bunu denemek ister misin?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika, derin bir nefes alalım ve yavaşça verelim. Şimdi daha sakin hissettiğini fark ettin mi? Bu şekilde odaklanmak çok daha kolay olacaktır. Her seferinde böyle birkaç nefes alarak kendini daha iyi hissedebilirsin. Sen bunu yapabilirsin, inanıyorum!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dikkatimizi topladıktan sonra, şimdi sırada davranışlarımızı yönetmek var. Bazen her şeyi bir anda yapmak isteriz ama bu biraz zor olabilir. Bunun yerine, işleri sırayla yapmak daha iyi bir fikirdir. Mesela, önce oyuncaklarını toplayıp sonra dişlerini fırçalamak gibi. Bu şekilde, her işi sırayla yaparak daha düzenli olabilirsin."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, basit bir rutin oluşturalım. Her sabah uyandığında, önce yüzünü yıkamak, sonra kahvaltı yapmak gibi. Bu rutini her gün tekrarladığında, alışkanlık haline gelecek ve işleri daha kolay yapabileceksin. Rutinler, bize ne yapacağımızı hatırlatır ve işlerimizi daha düzenli yapmamıza yardımcı olur. Senin de bir rutinin var mı?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin günlük rutinlerin neler? Her sabah uyandığında ilk ne yaparsın? Belki de oyuncaklarını toplamak veya dişlerini fırçalamak olabilir. Rutinlerini benimle paylaşmak ister misin? Ben de seninle kendi rutinlerimi paylaşabilirim. Bu şekilde birbirimizden yeni şeyler öğrenebiliriz."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rutinlerimizi oluşturduktan sonra, kendimizi ödüllendirmek de önemlidir. Örneğin, oyuncaklarını topladıktan sonra sevdiğin bir hikaye kitabını okuyabilirsin. Bu, seni motive eder ve işleri daha eğlenceli hale getirir. Kendimize küçük ödüller vermek, bizi mutlu eder ve daha çok çalışmamızı sağlar. Sen hangi ödülleri seversin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika seçimler yapıyorsun! Küçük ödüllerle kendini motive etmek çok iyi bir fikir. Bu, seni daha fazla çaba göstermeye teşvik eder. Her gün bu şekilde davranarak, zamanla daha iyi alışkanlıklar kazanabilirsin. Sen zaten harikasın ve bunu başarabilecek güçtesin!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi birlikte sakinleşme egzersizleri yapalım. Üç derin nefes alıp verelim ve her nefeste biraz daha rahatlayalım. İlk nefesimizde, burnumuzdan derin bir nefes alalım ve ağzımızdan yavaşça verelim. İkinci nefesimizde, gözlerimizi kapatalım ve kendimizi kışın sakin ve huzurlu bir yerinde hayal edelim. Üçüncü nefesimizde ise, tüm vücudumuzun rahatladığını hissedelim."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bu nefes egzersizlerini yaptıktan sonra nasıl hissettin? Daha sakin ve rahatladın mı? Bu tür egzersizler, stresli veya gergin hissettiğinde sana yardımcı olabilir. Her zaman uygulayabileceğin basit bir yöntemdir. Şimdi sana başka bir ipucu vereceğim, hazır mısın?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir başka dikkat toplama yöntemi, basit sayma oyunları oynamaktır. Örneğin, 1'den 5'e kadar saymak gibi. Bu, zihnini sakinleştirir ve dikkatini toplamana yardımcı olur. Ayrıca, etrafındaki nesneleri sayarak da bunu uygulayabilirsin. Mesela, odandaki oyuncakları veya pencereden gördüğün ağaçları sayabilirsin."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Seninle sayma oyunu oynayalım mı? Hadi birlikte 1'den 5'e kadar sayalım. 1, 2, 3, 4 ve 5! Harika, çok iyi iş çıkardın! Bu oyunları oynadıkça daha iyi olacaksın. Bu tür oyunlar, dikkatini toplamana ve eğlenmene yardımcı olur."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dikkatini toplamak için başka hangi oyunları oynuyorsun? Belki de yapboz yapmak ya da resim çizmek olabilir. Senin favori dikkat oyunların neler? Ben de yeni oyunlar öğrenmeyi çok seviyorum. Belki birlikte yeni oyunlar keşfedebiliriz!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün seninle harika bir zaman geçirdim ve çok şey öğrendik. Dikkatimizi nasıl toplayacağımızı ve davranışlarımızı nasıl yöneteceğimizi keşfettik. Her zaman hatırlaman gereken şey, sen harikasın ve her şeyi başarabilirsin. Beni her zaman çağırabilirsin, ben buradayım. Şimdi vedalaşma zamanı, ama bir sonraki maceramızda görüşmek üzere. Hoşça kal!"
+    }
+  ],
+  "title": "Elsa'ın Davranış ve Dikkat Hikayesi"
+}

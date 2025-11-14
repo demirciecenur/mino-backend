@@ -1,0 +1,104 @@
+{
+  "id": "blu_pup_sibling_story",
+  "character": "Blu Pup",
+  "topic": "sibling",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis! Je suis Blu Pup, et aujourd'hui, nous allons explorer le monde merveilleux des frères et sœurs. Ensemble, nous découvrirons à quel point il est amusant d'avoir un frère ou une sœur. Êtes-vous prêts pour cette aventure? Je suis tellement excité de partager ces moments avec vous! Préparez-vous à jouer, à rire et à apprendre!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Avoir un frère ou une sœur, c'est comme avoir un meilleur ami à la maison. Vous pouvez jouer à des jeux ensemble, comme construire des châteaux de sable ou faire des courses de voitures. Parfois, vous pouvez même inventer vos propres jeux amusants! Imaginez toutes les aventures que vous pouvez vivre ensemble. Et même si vous vous disputez parfois, vous savez que vous vous aimez toujours très fort."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Apprendre à partager est une partie importante d'avoir un frère ou une sœur. Par exemple, vous pouvez partager vos jouets ou vos livres préférés. Cela montre que vous vous souciez de l'autre et que vous voulez vous amuser ensemble. Quand vous partagez, cela rend tout le monde heureux et c'est une belle façon de montrer votre amour. Alors, la prochaine fois que vous jouez, pensez à offrir quelque chose à votre frère ou sœur."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Et si nous essayons de compter ensemble? Compter des objets est une belle activité à faire avec un frère ou une sœur. Prenez des cubes ou des légos et comptez-les ensemble. Un, deux, trois, quatre, cinq! Super! Vous voyez, c'est amusant et ça vous aide à apprendre. Continuez comme ça, vous faites un excellent travail!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de jouer dehors. Jouer au parc ou dans le jardin est encore plus amusant avec un frère ou une sœur. Vous pouvez jouer à cache-cache, courir ou même faire du vélo ensemble. Le plein air vous donne beaucoup d'espace pour explorer et découvrir de nouvelles choses. Et n'oubliez pas de toujours rester ensemble et de prendre soin l'un de l'autre!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand vous jouez avec votre frère ou votre sœur, c'est important d'écouter. Écouter leurs idées peut rendre le jeu encore plus amusant. Par exemple, si votre sœur veut jouer au docteur, vous pouvez être le patient. Cela montre que vous respectez les idées de l'autre et que vous êtes prêts à essayer de nouvelles choses. Alors, la prochaine fois que vous jouez, souvenez-vous d'écouter attentivement!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Avez-vous déjà essayé de créer une histoire ensemble? C'est une belle façon de laisser libre cours à votre imagination! Vous pouvez inventer des aventures avec des dragons, des princesses ou même des astronautes. Tour à tour, ajoutez des éléments à l'histoire et voyez où elle vous mène. Vous serez surpris de voir à quel point votre histoire peut être incroyable. Continuez, vous êtes formidables!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les frères et sœurs peuvent également être de grands partenaires pour apprendre ensemble. Par exemple, vous pouvez pratiquer l'alphabet ou les chiffres ensemble. C'est une belle façon de s'entraider et de grandir ensemble. Et si vous êtes un peu plus âgé, vous pouvez même aider votre petit frère ou sœur à apprendre quelque chose de nouveau. Apprendre ensemble rend l'apprentissage encore plus amusant!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parfois, il est important de prendre un moment pour se calmer. Prenez une grande inspiration ensemble. Inspirez... et expirez. Encore une fois, inspirez... et expirez. Cela vous aide à vous sentir plus détendu et prêt pour la prochaine aventure. Vous pouvez le faire chaque fois que vous en avez besoin, et c'est encore mieux quand vous le faites ensemble!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous que même si vous vous disputez parfois, cela ne dure jamais longtemps. Les disputes arrivent parce que vous êtes tous les deux passionnés par ce que vous faites. Mais le plus important, c'est de toujours se réconcilier et de se souvenir de l'amour que vous partagez. Un câlin ou un petit mot gentil peut faire toute la différence. Vous êtes une équipe, et ensemble, vous êtes plus forts!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà fait quelque chose de spécial pour votre frère ou sœur? Peut-être que vous avez partagé votre dessert préféré ou aidé à ranger les jouets. Ces petits gestes montrent à quel point vous vous souciez de l'autre. Pensez à une chose spéciale que vous pourriez faire aujourd'hui pour montrer votre amour. Qu'en pensez-vous? Cela pourrait être une surprise amusante!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Passons maintenant à un jeu amusant que vous pouvez essayer. Vous pouvez jouer au jeu des devinettes! Pensez à un animal ou à un objet, et donnez des indices pour que votre frère ou sœur devine ce que c'est. Par exemple, \"Je suis grand, j'ai une longue trompe, et je suis gris.\" Oui, c'est un éléphant! C'est un excellent moyen de passer du temps ensemble et de rire."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "N'oubliez pas que vous êtes tous les deux uniques et spéciaux. Chacun de vous a des talents et des forces différents. Peut-être que l'un de vous est doué pour dessiner et l'autre pour chanter. Ensemble, vous pouvez créer de belles choses. Continuez à encourager et à soutenir votre frère ou sœur. Vous êtes incroyables, et ensemble, vous pouvez faire des merveilles!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Enfin, souvenez-vous que les frères et sœurs sont là pour vous aider à grandir. Ils sont là pour partager vos joies et vos peines. Vous avez la chance de créer des souvenirs précieux avec eux. Alors, profitez de chaque instant, car ces moments sont spéciaux. Et même si vous grandissez, l'amour entre frères et sœurs reste toujours fort."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Voilà, les amis! J'espère que vous avez aimé notre aventure sur les frères et sœurs. N'oubliez pas de jouer, de partager et de rire ensemble. Merci d'avoir passé ce moment avec moi, Blu Pup. Je suis très heureux de vous avoir comme amis. À la prochaine fois! Prenez soin de vous et amusez-vous bien!"
+    }
+  ],
+  "title": "Histoire de Sibling de Blu Pup"
+}

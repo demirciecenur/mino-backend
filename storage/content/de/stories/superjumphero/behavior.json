@@ -1,0 +1,98 @@
+{
+  "id": "super jump hero_behavior_story",
+  "character": "Super Jump Hero",
+  "topic": "behavior",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Super Jump Hero und heute gehen wir auf ein spannendes Abenteuer über gutes Benehmen. Bist du bereit, mit mir zu lernen und Spaß zu haben? Wir werden herausfinden, wie wichtig es ist, Regeln zu befolgen und freundlich zueinander zu sein. Ich bin so neugierig auf dich und freue mich, dass du hier bist. Lass uns gemeinsam in diese aufregende Reise starten!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns über gutes Benehmen sprechen. Gutes Benehmen bedeutet, dass wir nett und respektvoll zu anderen sind. Zum Beispiel, wenn wir mit unseren Freunden spielen, teilen wir Spielzeuge und warten geduldig auf unsere Reihe. Es ist auch wichtig, bitte und danke zu sagen, wenn uns jemand hilft oder etwas gibt. Solche kleinen Dinge machen uns zu tollen Freunden!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Erinnerst du dich, wie wir über das Teilen gesprochen haben? Teilen ist ein wunderbarer Weg, um Freundschaften zu pflegen. Wenn du dein Spielzeug teilst, machst du nicht nur andere glücklich, sondern du fühlst dich auch gut. Versuche, beim nächsten Mal, wenn du spielst, zu sagen: 'Möchtest du auch spielen?' Es ist eine kleine Geste, die einen großen Unterschied macht!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super gemacht! Du kannst das! Jetzt lass uns über das Aufräumen sprechen. Wenn wir mit dem Spielen fertig sind, ist es wichtig, unsere Spielsachen wegzuräumen. Das hält unser Zuhause sauber und ordentlich und verhindert, dass jemand über sie stolpert. Lass uns zusammen zählen, wie viele Spielsachen wir aufräumen können. Eins, zwei, drei – großartig!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über das Aufräumen gesprochen haben, denk daran, dass es auch wichtig ist, unsere Zähne zu putzen. Jeden Morgen und Abend putzen wir unsere Zähne, um sie gesund und stark zu halten. Stell dir vor, deine Zähne sind wie kleine Helden, die sauber und glänzend sein wollen. Wenn du deine Zähne putzt, hilfst du ihnen, stark zu bleiben!"
+    },
+    {
+      "id": "question_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Weißt du, warum es wichtig ist, bitte und danke zu sagen? Wenn wir diese Wörter benutzen, zeigen wir anderen, dass wir ihre Hilfe schätzen. Es ist wie ein kleines Geschenk der Freundlichkeit, das wir ihnen geben. Hast du heute schon jemandem danke gesagt? Wenn nicht, ist jetzt eine tolle Gelegenheit, es auszuprobieren!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar! Du machst das großartig! Jetzt lass uns über das Zuhören sprechen. Wenn jemand mit uns spricht, ist es wichtig, zuzuhören und nicht zu unterbrechen. Das zeigt, dass wir respektvoll und aufmerksam sind. Versuche, das nächste Mal, wenn jemand mit dir spricht, ruhig zuzuhören und dann zu antworten. Du wirst sehen, wie viel Spaß es macht, zuzuhören und zu lernen!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Erinnerst du dich, wie wir über das Zuhören gesprochen haben? Lass uns eine kleine Übung machen. Schließe deine Augen und höre genau hin. Was kannst du hören? Vielleicht das Zwitschern der Vögel oder das Rauschen des Windes? Übung macht den Meister, und bald wirst du ein großartiger Zuhörer sein!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt kommen wir zu einer weiteren wichtigen Sache: das Helfen. Wenn wir jemandem helfen, fühlen wir uns gut und machen die Welt ein bisschen besser. Vielleicht kannst du Mama oder Papa helfen, den Tisch zu decken oder deine Spielsachen zu sortieren. Jede kleine Hilfe zählt und bringt ein Lächeln auf das Gesicht der anderen!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du bist ein fantastischer Helfer! Und jetzt, lass uns über das Spielen sprechen. Spielen ist nicht nur lustig, sondern auch eine großartige Möglichkeit, neue Dinge zu lernen. Probier neue Spiele aus, erfinde Geschichten oder male ein Bild. Alles, was du machst, ist eine wunderbare Gelegenheit, kreativ zu sein!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Denke daran, dass es beim Spielen auch Regeln gibt. Regeln helfen uns, sicher zu bleiben und Spaß zu haben. Zum Beispiel beim Fangen: Wir rennen nicht zu schnell und passen auf, dass wir niemanden stoßen. Regeln sind wie kleine Helfer, die dafür sorgen, dass alles gut läuft!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt, da wir über Regeln gesprochen haben, lass uns eine weitere wichtige Regel lernen: das Warten. Manchmal müssen wir in einer Schlange warten oder bis wir an der Reihe sind. Das kann schwer sein, aber es ist wichtig, geduldig zu sein. Nächstes Mal, wenn du wartest, zähle in deinem Kopf bis zehn. Das hilft, die Zeit schneller vergehen zu lassen!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das toll! Geduld ist eine Superkraft, die du hast! Und jetzt, lass uns über das Träumen sprechen. Träumen bedeutet, sich vorzustellen, was wir gerne tun oder werden möchten. Vielleicht möchtest du ein Superheld sein oder ein Künstler. Deine Träume sind wichtig und können Wirklichkeit werden, wenn du an dich glaubst!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über gutes Benehmen zu sprechen. Ich hoffe, du hattest genauso viel Spaß wie ich. Denk daran, dass du ein wunderbarer Freund bist, der immer lernt und wächst. Ich freue mich darauf, bald wieder mit dir zu sprechen. Bis zum nächsten Mal, kleiner Held! Tschüss und pass gut auf dich auf!"
+    }
+  ],
+  "title": "Super Jump Heros Behavior Geschichte"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "blu_pup_imagination_story",
+  "character": "Blu Pup",
+  "topic": "imagination",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Blu Pup. Bugün birlikte hayal gücümüzün sınırlarını keşfedeceğiz. Hayal gücü nedir, nasıl kullanılır, birlikte öğreneceğiz. Hazır mısın? Hayal gücümüzle neler yapabileceğimizi görmek için sabırsızlanıyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücü, zihnimizde yeni ve ilginç dünyalar yaratmamıza olanak tanır. Örneğin, bir kutuyu uzay gemisi gibi hayal edebiliriz. Bu sayede uzayın derinliklerinde maceralar yaşayabiliriz. Hayal gücümüz, oyuncaklarımızı canlandırmamıza ve onlarla konuşmamıza da olanak tanır. Bu, onları daha eğlenceli hale getirir. Hayal gücü sayesinde her şeyi mümkün kılabiliriz!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi hayal gücümüzü kullanarak bir hikaye oluşturalım. Öncelikle bir kahraman seçmeliyiz. Bu kahraman bir prenses, süper kahraman ya da cesur bir kaşif olabilir. Ardından, bu kahramanı bir maceraya çıkarmalıyız. Maceramızda kahramanımızın karşılaşacağı zorlukları ve nasıl üstesinden geleceğini düşünelim. Unutma, her şey senin hayal gücüne bağlı!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hikayemize bir başlangıç yapalım. Kahramanımız bir sabah uyandığında neyle karşılaşsın? Belki de bir hazine haritası bulur. Bu harita onu gizemli bir adaya götürebilir. Senin de harika fikirlerin olduğuna eminim. Haydi, birlikte bu hikayeyi oluşturalım. Sen de kendi maceranı yaratabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda hikayemizin başlangıcını oluşturduk. Şimdi kahramanımızın adaya vardığını hayal edelim. Adada onu neler bekliyor olabilir? Belki de konuşan hayvanlar ya da sihirli bitkilerle dolu bir orman. Bu ormanda kahramanımızın çözmesi gereken bulmacalar olabilir. Hayal gücünle bu dünyayı nasıl şekillendirirsin?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi sırada kahramanımızın karşılaştığı engeller var. Bu engeller bir ejderha ya da dev bir örümcek olabilir. Kahramanımız bu zorluklarla nasıl başa çıkacak? Belki de yeni arkadaşlar edinerek iş birliği yapabilir. Hayal gücümüzle bu engelleri aşmak için yaratıcı çözümler bulabiliriz. Senin de aklına gelen yaratıcı çözümler var mı?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kahramanımızın en sevdiği bir arkadaşı olabilir mi? Bu arkadaş kim olabilir sence? Belki de bir unicorn veya konuşan bir kedi. Senin en sevdiğin arkadaşın kim? Hayal gücünle bu arkadaşı nasıl tanımlarsın? Şimdi biraz düşün ve hayal et."
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnede kahramanımızın arkadaşlarını düşündük. Bu arkadaşlarla birlikte kahramanımızın macerası nasıl devam eder dersin? Belki de birlikte bir hazine bulurlar. Bu hazine, onlara yeni kapılar açabilir. Hayal gücünle bu macerayı daha da genişletebiliriz. Bir sonraki adımda neler olacak?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kahramanımız ve arkadaşları sonunda hazineyi buldular. Hazine sandığını açtıklarında içinden neler çıkabilir? Belki de sihirli bir asa veya parlayan taşlar. Bu hazine onların dünyasını nasıl değiştirir? Hayal gücümüzle bu yeni dünyayı keşfedebiliriz. Sen olsan bu hazineyi nasıl kullanırdın?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi hayal gücümüzle bir adım daha atalım. Hazineyi bulduktan sonra kahramanımızın yeni bir hedefi olabilir. Belki de başka bir maceraya atılmak istiyordur. Bu yeni macera nereye götürebilir? Hayal gücünle bu yeni macerayı şekillendir. Unutma, hayal gücünün sınırı yok!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir hikaye oluşturduk! Şimdi, hayal gücümüzle başka neler yapabiliriz bir düşünelim. Belki de bir resim çizebiliriz. Hayal gücümüzü kullanarak resimlerde yeni dünyalar yaratabiliriz. Senin de çizmek istediğin bir şey var mı? Hadi birlikte denemeye ne dersin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hayal gücünle hangi renkleri kullanmak istersin? Belki de gökkuşağının tüm renklerini. Ya da sadece mavi ve yeşil. Senin en sevdiğin renk hangisi? Hayal gücünle bu renkleri nasıl kullanırsın? Biraz düşün ve hayal et."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda renkleri düşündük. Şimdi bu renklerle hayal dünyamızı nasıl boyayabileceğimizi düşünelim. Belki de bir gökyüzü çizebiliriz. Ya da sihirli bir orman. Hayal gücünle bu dünyayı nasıl renklendirirsin? Senin de harika fikirlerin olduğuna eminim!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün hayal gücümüzle harika bir yolculuk yaptık. Seninle birlikte hayal dünyamızda dolaşmak çok eğlenceliydi. Unutma, hayal gücünle her şeyi mümkün kılabilirsin. Bir sonraki maceramızda tekrar görüşmek üzere. Hoşça kal küçük dostum!"
+    }
+  ],
+  "title": "Blu Pup'ın Imagination Hikayesi"
+}

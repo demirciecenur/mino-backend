@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_screen_time_story",
+  "character": "Piggy Friend",
+  "topic": "screen_time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friend! I'm your Piggy Friend, and today we're going to have a delightful time talking about screen time. Do you know what screen time is? It's when we use devices like tablets, phones, or TVs to watch or play. Are you ready to explore this topic with me? I'm so excited to learn and play with you today!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about all the fun things we can do with screen time. We can watch funny shows, play games, and learn new things. But did you know it's also important to take breaks? Just like how we need to sleep and eat, our eyes need to rest too. Screen time is exciting, but balance is key to feeling great!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's talk about why taking breaks from screens is important. When we look at screens too long, our eyes can get tired. Have you ever felt sleepy after watching too much TV? That's because our brains and eyes need a little rest. Taking breaks helps us stay happy and healthy. Would you like to try counting to three with me to practice a break?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job! Now, let's pretend we're taking a fun break by stretching our arms wide. Can you stretch with me? Wonderful! Stretching helps our bodies feel good. Next time you're watching your favorite show, remember to take a stretch break, just like we're doing now. You're doing amazing!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about taking breaks? It's also fun to play outside or with toys during our screen breaks. We can build blocks, play with dolls, or even draw pictures. These activities help us use our imagination and creativity. What do you like to do when you're not on a screen?"
+    },
+    {
+      "id": "question_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever played a game that made you laugh a lot? What was it? Sharing stories about our favorite games can be so much fun. I love hearing about the games you enjoy. Let's think about how we can play those games but also enjoy other activities too!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now that we've shared our favorite games, let's talk about setting a timer. A timer can help us know when it's time to take a break. We can set it for 20 or 30 minutes and then do something else when it rings. This way, we have time for everything we love. Isn't that a clever idea?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try something fun together. Can you think of a favorite song to sing during a break? Singing is a great way to enjoy our time away from screens. It makes us smile and feel happy. Next time you take a break, try singing your favorite tune. You'll feel like a superstar!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well! Remember, it's okay to enjoy screen time as long as we balance it with other activities. Playing outside, reading a book, or even helping in the kitchen can be fun too. You're learning how to be smart with screen time. Keep up the great work!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's think about a new adventure. What if we pretended to be explorers looking for treasure? We can find treasures in books or by drawing maps. This is a fun way to spend time away from screens. Adventures can happen anywhere, even in our own homes!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you imagine what kind of treasure you might find on your adventure? Maybe it's a shiny rock or a special leaf. Imagining new things is so exciting, isn't it? Let's use our imagination to create wonderful stories together. What treasure will you find today?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Those treasures sound amazing! Now, let's think about how we can share our adventures with family or friends. We can tell them stories about our imaginary treasures. Sharing stories is a wonderful way to connect with the people we love. It's like bringing them on our adventure too!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Here's a fun idea: let's create a screen-time chart together. We can draw pictures of our favorite activities and plan when to do them. This helps us see all the fun things we can do in a day. Planning makes our days exciting and full of joy!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing fantastic with all these ideas! Remember, having a little screen time is okay, as long as we balance it with other fun activities. You're becoming an expert at this. Keep exploring and having fun, and you'll always have a great day!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for spending time with me today, little friend! We've learned so much about screen time and all the fun things we can do. Remember to balance your screen time with other activities. I'm so proud of you. Until next time, keep smiling and exploring!"
+    }
+  ],
+  "title": "Piggy Friend's Screen Time Story"
+}

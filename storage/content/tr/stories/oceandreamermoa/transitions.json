@@ -1,0 +1,98 @@
+{
+  "id": "ocean_dreamer_moa_transitions_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "transitions",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba sevgili dostlarım! Ben Ocean Dreamer Moa. Bugün birlikte değişiklikler ve yeni durumlara nasıl uyum sağladığımızı keşfedeceğiz. Hazır mısınız? Çünkü bu macera dolu bir yolculuk olacak. Denizin engin sularında yüzmek gibi, hayat da bazen bizi yeni ve heyecan verici yerlere götürür. O zaman hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Değişiklikler bazen biraz korkutucu olabilir, değil mi? Ama tıpkı bir deniz kaplumbağasının yeni bir plaja yüzmesi gibi, biz de yeni şeylere alışabiliriz. Geçişler, sabah uyandığımızda yeni bir güne başlamamız gibidir. Her gün yeni bir macera sunar. Unutmayın, her değişiklik aynı zamanda yeni bir öğrenme fırsatıdır."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi biraz düşünelim. Mesela, sabahları uyanıp kendimizi yeni bir güne hazırlarken neler yapıyoruz? İlk önce, güzelce geriniriz, sonra yüzümüzü yıkar ve dişlerimizi fırçalarız. Bunlar bizim sabah rutinimizdir. Rutinler, değişikliklere daha kolay uyum sağlamamıza yardımcı olur. Peki ya senin sabah rutinin nasıl?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika, şimdi birlikte nefes alalım ve rahatlayalım. Derin bir nefes al ve yavaşça ver. Bu, yeni bir duruma alışırken sakinleşmemize yardımcı olur. Hadi bir kez daha deneyelim. Derin bir nefes al, ve ver. İşte böyle, harika!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçişler sadece sabah rutinleriyle sınırlı değil, biliyor musun? Mesela, yeni bir okula başlamak da bir geçiştir. İlk başta biraz heyecan verici olabilir ama zamanla yeni arkadaşlar ediniriz ve yeni şeyler öğreniriz. Tıpkı bir kaptanın yeni bir denize açılması gibi, biz de yeni deneyimlere yelken açarız."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi bir oyun oynayalım. Gözlerini kapat ve en sevdiğin yeri düşün. Oraya nasıl gittin? Belki bir araba yolculuğuyla ya da yürüyerek. İşte bu da bir geçiş. Her yolculuk, büyük ya da küçük, bir geçiştir ve her seferinde yeni şeyler keşfederiz."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçişlerin bazen zorlayıcı olabileceğini biliyorum. Ama unutma, her zaman yanındayım. Yeni bir şey öğrenmek için cesur olmalıyız. Tıpkı denizlerde yol alırken karşılaştığımız dalgalar gibi. Her dalga, bizi daha da güçlendirir."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir hikaye hayal edelim. Bir ormanda yürüyorsun ve karşına yeni bir patika çıkıyor. Merakla bu patikayı takip etmeye karar veriyorsun. Bu yeni patika seni harika bir göle götürüyor. İşte, küçük bir değişiklik bile bizi harika yerlere götürebilir."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, sen yeni bir duruma nasıl alışıyorsun? Belki yeni bir oyuncakla oynamak gibidir. Yeni bir oyuncakla oynarken neler hissediyorsun? Merak mı, heyecan mı? Hadi, birlikte düşünelim."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda yeni durumlardan bahsetmiştik. Şimdi, bu durumlarla nasıl başa çıkabileceğimize bakalım. Her yeni başlangıç, biraz cesaret ve merak gerektirir. Tıpkı yeni bir adaya yelken açarken olduğu gibi. Unutma, her adım bir keşif."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Birlikte bir resim yapalım. Kağıda büyük bir deniz çizin ve ortasına bir gemi yerleştirin. Bu gemi, senin hayal gücün. Her dalga ve rüzgar, seni yeni maceralara götüren bir geçiştir. Haydi, şimdi sen de dene!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir sonraki adımda, kendimize bir hedef belirleyelim. Mesela, bir haftada yeni bir şarkı öğrenmek gibi. Bu hedefe ulaşmak için her gün biraz çalışacağız. Tıpkı denizde ilerlerken rotamızı belirlemek gibi. Hedefler, bize yön verir."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin bir hedefin var mı? Belki yeni bir şey denemek istiyorsundur. Neler yapmayı hayal ediyorsun? Hadi, biraz düşün ve benimle paylaş. Yeni hedefler belirlemek, geleceğe dair umut verir."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün harika bir yolculuk yaptık, değil mi? Yeni şeyler öğrenmek ve değişikliklere uyum sağlamak cesaret gerektirir. Ama unutma, sen çok cesursun! Her yeni başlangıç, yeni bir macera demektir. Bir sonraki maceramızda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Ocean Dreamer Moa'ın Transitions Hikayesi"
+}

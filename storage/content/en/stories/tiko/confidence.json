@@ -1,0 +1,98 @@
+{
+  "id": "tiko_confidence_story",
+  "character": "Tiko",
+  "topic": "confidence",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Tiko, and I'm so excited to go on an adventure with you today. Have you ever felt like a brave explorer, ready to discover new things? Today, we're going to learn all about confidence and how it helps us feel strong and happy. Are you ready to be brave with me? Let's start our journey, and I promise it's going to be lots of fun!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Confidence is like having a superpower that helps you try new things, even when they seem a little scary. Remember when you first learned to ride a bike? It might have been a bit wobbly at first, but with practice, you got better and felt proud, right? That's confidence growing inside you! When we believe in ourselves, we can do amazing things. Let's explore more about how confidence can make us feel like superheroes!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "To build confidence, we need to practice being brave, just like a superhero. Imagine you have a magic cape that helps you feel strong. Now, let's think of something you want to try, like drawing a picture or singing a song. Remember, it's okay if it's not perfect at first. Every time you try, you're building your superpower of confidence. Let's take three deep breaths together to feel calm and ready. Ready? Breathe in... and out. Great job!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Now that we've taken our deep breaths, let's try something new together! How about we pretend to be animals? Let's roar like a lion or hop like a bunny. Can you do it? Roar as loud as you can or hop as high as you can! Wow, you did it fantastically! See, trying new things can be fun and exciting. Every time you try, your confidence grows a little more. You're doing amazing!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about being brave like a superhero? Sometimes, even superheroes need to ask for help. It's okay to ask a grown-up or a friend when you need a little boost. Like when you're building a tall tower with blocks, sometimes you need someone to hold the blocks steady. Asking for help is a smart and brave thing to do. It helps us learn and grow even more. Let's keep our confidence growing by being brave and asking for help when we need it."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's practice using our confidence in a fun way. Let's try counting to five together while clapping our hands. Ready? One, clap! Two, clap! Three, clap! Four, clap! Five, clap! Great job! You see, confidence helps us try new things and have fun while doing them. Every time we practice, we get better and feel more confident. You're doing wonderfully, keep it up!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a great job being confident! Now, let's use our imagination a little more. Imagine you're a brave explorer in a magical forest. What kind of adventures would you have? Maybe you'd find a hidden treasure or meet friendly forest animals. Your imagination is powerful, and it helps your confidence grow. You're a fantastic adventurer, and I'm so proud of you!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's think about a time when you felt really proud of yourself. Maybe it was when you learned to tie your shoes or when you helped a friend. Remembering these moments helps us feel confident and ready to try more new things. Confidence is like a little light inside us that shines brighter every time we do something brave. Keep letting your light shine bright!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of something you'd like to try that you've never done before? Maybe it's drawing a picture of your favorite animal or trying a new dance move. What do you think it would be like to try that? Remember, it's okay if it's not perfect. The important thing is to try and have fun. What new adventure would you like to go on next?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "That's a wonderful idea! Imagine all the fun you'll have trying something new. Remember, every little step you take is a step towards building your confidence. Just like when you learned to do a puzzle, each piece you fit together makes the picture clearer. You're doing so well, and I'm so excited to see what you'll try next. Let's keep exploring new adventures together!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's try a little confidence exercise. Stand up tall, like a big, strong tree. Stretch your arms out wide and say, 'I am brave!' Can you feel how strong and confident you are? You're like a mighty tree with roots that go deep into the ground. This helps you stand tall and strong. Let's say it together again, 'I am brave!' You're doing amazing!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a great job building your confidence! Remember, confidence is something that grows inside us every day. Like when you water a plant and watch it grow bigger and stronger, we need to practice being brave. Every time you try something new, you're watering your confidence. You're growing into a wonderful, confident person, and I'm so proud of you!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember, confidence is all about believing in yourself and trying new things. Just like when you practiced riding your bike, or when you learned to tie your shoes. Every time you try, you get a little better, and your confidence grows. Keep believing in yourself, and you'll be able to do amazing things. I'm so excited to see all the wonderful things you'll do with your confidence!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our adventure today has been so much fun! Thank you for exploring confidence with me. Remember, you're brave, you're strong, and you can do anything you set your mind to. Keep practicing your confidence every day, and you'll be a super confident adventurer. Goodbye for now, my friend! I can't wait to go on another adventure with you soon. Keep shining bright!"
+    }
+  ],
+  "title": "Tiko's Confidence Story"
+}

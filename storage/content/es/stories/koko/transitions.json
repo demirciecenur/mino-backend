@@ -1,0 +1,104 @@
+{
+  "id": "koko_transitions_story",
+  "character": "Koko",
+  "topic": "transitions",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Koko, tu amigo fuerte y valiente. Hoy vamos a hablar de algo muy interesante: los cambios. ¿Sabías que todos pasamos por transiciones? Como cuando cambiamos de ropa, de juegos o de actividades. Estoy aquí para ayudarte a entenderlas mejor y a sentirte cómodo con ellas. ¿Estás listo para esta emocionante aventura?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Los cambios son como pequeñas aventuras que nos ayudan a crecer y aprender. Por ejemplo, cuando pasas del desayuno al juego, es un cambio. Estos cambios pueden parecer grandes o pequeños, pero cada uno es importante. Nos enseñan cosas nuevas y nos ayudan a ser más fuertes y valientes. Ahora que sabes un poco más sobre los cambios, vamos a explorar cómo los enfrentamos juntos."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando enfrentamos un cambio, es útil estar preparados. Imagina que estás por ir al parque. Primero, te pones los zapatos, luego sales por la puerta. Sigues un proceso que te ayuda a sentirte listo. Los cambios son similares, y podemos prepararnos paso a paso. Así, cada transición se vuelve menos aterradora y más emocionante. ¿Vamos a practicar cómo prepararnos para un cambio juntos?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Ahora, imagina que es hora de dejar de jugar y cenar. Primero, recogemos los juguetes. Luego, lavamos las manos. Finalmente, nos sentamos a la mesa. Cada paso nos acerca al siguiente momento. Puedes hacerlo, y cada vez que lo logras, te vuelves más fuerte. ¡Muy bien, pequeño héroe! Ahora que lo has practicado, vamos a ver qué más podemos aprender sobre los cambios."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, los cambios pueden ser un poco difíciles, como cuando empiezas en una nueva escuela o vas a dormir en una cama diferente. Pero recuerda, cada cambio es una oportunidad para algo nuevo. Puedes hacer nuevos amigos o descubrir un nuevo libro. Es como abrir un regalo, nunca sabes qué sorpresa te espera. Con el tiempo, cada cambio se convierte en algo normal, y aprendes a disfrutarlo."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos de cómo podemos sentirnos mejor con los cambios. Una manera es hablar con alguien de confianza, como un adulto o un amigo. Puedes contarles cómo te sientes y escuchar sus consejos. Otra forma es respirar profundamente, como un superhéroe calmándose antes de una misión. Intenta respirar conmigo, inhalando y exhalando lentamente. ¿Ves? Ya te sientes más tranquilo y listo."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico, lo estás haciendo muy bien! Recuerda que cada vez que haces algo nuevo, estás siendo valiente. Como cuando te animas a probar una nueva comida o a jugar con alguien que no conoces. Estas acciones te hacen más fuerte cada día. Sigue así, pequeño héroe, y verás lo lejos que puedes llegar. Ahora, vamos a hablar sobre cómo los cambios pueden ser divertidos también."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Los cambios pueden ser como una gran aventura. Imagina que estás explorando un nuevo parque o aprendiendo un nuevo juego. Cada cambio es una oportunidad para descubrir algo que no conocías. Tal vez encuentres un nuevo juego favorito o hagas un nuevo amigo. Las aventuras traen sorpresas emocionantes, y tú eres el valiente explorador. Vamos a aprender a disfrutar cada nueva experiencia."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a pensar en algunos cambios que ocurren todos los días. Como cuando te despiertas por la mañana y te preparas para el día. O cuando es hora de acostarse por la noche. Estos son cambios que ya conoces bien. Al practicar estos cambios diarios, te vuelves más experto en manejar otros nuevos. Practiquemos juntos: cierra los ojos, respira y piensa en tu rutina diaria. ¡Muy bien!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Excelente trabajo! Cada paso que das te hace más fuerte y más preparado. Como un superhéroe que se prepara para su próxima misión. Recuerda que siempre puedes pedir ayuda si un cambio se siente demasiado grande. Hay muchas personas que quieren ayudarte a ser el mejor que puedes ser. Ahora, hablemos de cómo podemos hacer que los cambios sean más divertidos."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Podemos hacer que los cambios sean divertidos usando nuestra imaginación. Por ejemplo, cuando cambias de actividad, puedes imaginar que estás en una aventura espacial. O cuando te preparas para ir al colegio, puedes pensar que estás en una misión secreta. La imaginación hace que cada cambio sea emocionante. ¿Te gustaría probarlo la próxima vez? ¡Estoy seguro de que lo disfrutarás!"
+    },
+    {
+      "id": "question_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te sientes listo para enfrentar los cambios como un valiente explorador? ¿Qué cambio te gustaría practicar primero? Recuerda que cada pequeño paso cuenta. ¿Hay algún cambio que te gustaría que hablemos más? Estoy aquí para ayudarte y juntos podemos encontrar la mejor manera de hacerlo. ¡Estoy emocionado de escuchar tus ideas!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que has compartido tus ideas, es hora de ponerlas en práctica. Recuerda, cada cambio es una oportunidad para crecer. Como cuando una planta crece más fuerte cada día. Tú también puedes crecer con cada nuevo cambio. Estoy aquí para apoyarte en cada paso del camino. ¡Vamos a seguir adelante con confianza y valentía!"
+    },
+    {
+      "id": "scene_13",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Escucho atentamente tus pensamientos y sentimientos sobre los cambios. Es importante hablar sobre ellos y aprender juntos. Cada vez que compartes, aprendes algo nuevo sobre ti mismo. Y yo estoy aquí para aprender contigo. Juntos, podemos enfrentar cualquier cambio que venga. ¿Estás listo para seguir adelante con una sonrisa?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un viaje maravilloso hablar sobre los cambios contigo. Recuerda que cada cambio es una nueva oportunidad para aprender y crecer. Estoy muy orgulloso de ti, pequeño héroe. Sigue siendo valiente y fuerte, y nunca olvides que siempre puedes contar conmigo. ¡Hasta la próxima aventura, amigo! ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Transitions de Koko"
+}

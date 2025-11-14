@@ -1,0 +1,98 @@
+{
+  "id": "spark buddy_behavior_story",
+  "character": "Spark Buddy",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour petit ami! Je suis Spark Buddy, et aujourd'hui, nous allons découvrir le monde merveilleux du bon comportement. Es-tu prêt pour cette aventure amusante? Nous allons apprendre comment être gentil et respectueux ensemble. C'est très important pour vivre en harmonie avec les autres. Je suis tellement excité de commencer avec toi. Allons-y!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le bon comportement, c'est comme un super pouvoir qui nous aide à être de bons amis. Par exemple, quand tu partages tes jouets, tu rends les autres heureux. Cela montre que tu te soucies d'eux. C'est un peu comme des étincelles de bonheur que tu envoies autour de toi. Et devine quoi? Cela te rend aussi heureux!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de l'écoute. Écouter, c'est prêter attention quand quelqu'un parle. Imagine que tu es un détective qui cherche des indices. Tu dois te concentrer et entendre chaque mot. Ainsi, tu apprends et comprends mieux ce que l'autre dit. C'est une compétence magique qui te rendra très spécial."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Maintenant, essayons ensemble. Faisons semblant que je te raconte une histoire. Essaie de me regarder dans les yeux et d'écouter attentivement. Es-tu prêt? C'est comme un jeu amusant où tu gagnes chaque fois que tu comprends. Tu peux le faire, je crois en toi!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tu te souviens quand nous avons parlé de partager? C'est une autre partie importante du bon comportement. Partager, c'est donner un peu de ce que tu as à quelqu'un d'autre. Par exemple, si tu as deux biscuits, tu peux en donner un à ton ami. Cela montre que tu es généreux et attentionné."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre chose importante est de dire merci. Quand quelqu'un te fait un cadeau ou t'aide, dire merci c'est comme lui donner un grand câlin avec des mots. Cela montre que tu apprécies ce qu'ils ont fait pour toi. C'est simple, mais cela peut rendre leur journée encore plus belle!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons ensemble! Imagine que je te donne un joli dessin. Que dirais-tu? Oui, c'est ça, merci! C'est un mot magique qui fait sourire tout le monde. Tu es vraiment doué pour cela. Continue comme ça!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de suivre les règles. Les règles, c'est comme des panneaux de signalisation qui nous guident pour rester en sécurité et heureux. Par exemple, à la maison, il pourrait y avoir une règle pour ranger tes jouets après avoir joué. Cela aide tout le monde à garder la maison propre et agréable."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Suivre les règles, c'est aussi comme jouer à un jeu où chacun a un rôle. Quand tu respectes les règles, tout le monde peut s'amuser ensemble. Imagine que tu es dans un jeu où il faut marcher doucement pour ne pas réveiller un dragon endormi. C'est passionnant, n'est-ce pas?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es incroyable! Chaque fois que tu suis une règle, tu deviens plus fort et plus sage. C'est comme si tu gagnais un badge de héros. Tu peux le faire à la maison et à l'école. Je suis sûr que tu seras un super héros du bon comportement!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, réfléchissons à comment nous pouvons être gentils avec les autres. La gentillesse, c'est comme une lumière qui brille dans notre cœur. Quand tu dis des mots gentils, c'est comme offrir des fleurs à quelqu'un. Cela rend le monde plus beau et plus joyeux."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peux-tu penser à un moment où tu as été gentil avec quelqu'un? Peut-être que tu as aidé un ami à ramasser ses crayons. Ou peut-être as-tu fait un joli dessin pour ta famille. Quelle est ta manière préférée d'être gentil? Je suis curieux de savoir!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Être patient, c'est aussi très important. Parfois, nous devons attendre notre tour, comme dans une file d'attente pour la balançoire. C'est une façon de montrer du respect aux autres. Cela peut être difficile, mais cela montre que tu es vraiment mature et respectueux."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, petit ami! Tu as appris tellement de choses sur le bon comportement aujourd'hui. Je suis si fier de toi! Continue à être gentil et respectueux chaque jour. À très bientôt pour une nouvelle aventure avec Spark Buddy!"
+    }
+  ],
+  "title": "Histoire de Behavior de Spark Buddy"
+}

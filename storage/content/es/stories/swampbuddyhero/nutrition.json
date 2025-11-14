@@ -1,0 +1,104 @@
+{
+  "id": "swamp_buddy_hero_nutrición_alimentación_saludable_hábitos_alimentarios_alimentos_saludables_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy el Swamp Buddy Hero, y hoy vamos a embarcarnos en una aventura emocionante sobre la nutrición. ¡Es un tema muy importante y divertido! Aprenderemos sobre cómo los alimentos saludables nos ayudan a crecer fuertes y felices. ¿Están listos para descubrir el poder de las frutas y verduras? ¡Yo estoy muy emocionado de empezar este viaje con ustedes!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Primero, hablemos sobre qué es la nutrición. La nutrición es como darle gasolina a un coche; es lo que nos da energía para jugar y aprender. Comer bien nos ayuda a tener huesos fuertes y mentes brillantes. ¿Sabían que las zanahorias son buenas para los ojos y las espinacas nos hacen fuertes como Popeye? ¡Así es, amigos! Comer saludable es como ser un superhéroe."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a aprender sobre cómo podemos hacer elecciones saludables todos los días. Es importante incluir frutas y verduras en nuestras comidas. Podemos comer una manzana crujiente como merienda o agregar espinacas a nuestra pizza. ¿Y qué tal si bebemos agua en lugar de refrescos? El agua es genial para mantenernos hidratados y llenos de energía. ¡Vamos a intentarlo juntos!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Buen trabajo, amigos! Comer bien también significa tener buenos hábitos alimentarios. Significa comer a la misma hora todos los días y no saltarse el desayuno. El desayuno es como una carga de energía para comenzar el día. ¿Ustedes desayunan? ¡Espero que sí! Recuerden que nuestro cuerpo es como una máquina que necesita el mejor combustible."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden cuando hablamos de las zanahorias y las espinacas. Pues hay otros alimentos que también son superhéroes, como los plátanos y los yogures. Los plátanos nos dan mucha energía para correr y saltar. Y el yogur es genial para nuestros huesos. Comer una variedad de alimentos es como tener un equipo de superhéroes en nuestro plato. ¡Qué emocionante es eso!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdan cuántas comidas al día debemos tener? ¡Exacto, tres comidas principales! Y también podemos tener pequeños bocadillos saludables entre ellas. Podemos elegir entre frutas, nueces o un poco de queso. Comer de esta manera nos mantiene llenos de energía todo el día. ¡Así que, a disfrutar de cada comida como si fuera una fiesta de superhéroes!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a practicar un pequeño ejercicio juntos. Vamos a cerrar los ojos e imaginar nuestro plato favorito lleno de colores. Piensen en el rojo de los tomates, el verde de la lechuga, y el amarillo del maíz. ¿Pueden verlo? ¡Qué hermoso se ve! Comer un arcoíris de colores en cada comida nos ayuda a obtener todas las vitaminas y minerales que necesitamos."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora que sabemos cómo elegir alimentos saludables, podemos convertirnos en expertos en nutrición. Podemos ayudar a nuestros amigos y familiares a hacer lo mismo. Tal vez puedan ayudar a preparar la cena o elegir la fruta en el supermercado. ¡Es divertido ser parte del equipo de cocina! Recuerden, cada pequeño cambio cuenta."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez han probado una nueva fruta o verdura? Puede ser muy divertido descubrir nuevos sabores. ¿Cuál fue su favorito? A mí me encantan las fresas porque son dulces y jugosas. Probar cosas nuevas es como una aventura para nuestros gustos. ¡A veces encontramos nuevos favoritos que no esperábamos!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos aprendido tanto sobre la alimentación saludable, es importante recordar que todos podemos hacer elecciones saludables. Incluso cuando vamos a fiestas o picnics, podemos buscar opciones saludables en el menú. Tal vez podamos elegir un poco de ensalada o frutas como postre. Comer bien es algo que podemos hacer en cualquier lugar."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer un pequeño juego. ¿Listos? Vamos a contar cuántas frutas diferentes podemos nombrar en diez segundos. ¿Listos? Uno, dos, tres... ¡manzana, plátano, pera, naranja, uvas, fresas! ¡Guau, lo hicieron genial! ¿Pueden pensar en más? Es divertido ver cuántas frutas conocemos y podemos disfrutar."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Increíble! Ustedes son unos expertos en frutas. Recuerden, cada vez que comemos una fruta o verdura, estamos haciendo algo bueno para nuestro cuerpo. Es como darle un abrazo a nuestro estómago. Sigamos eligiendo alimentos que nos hagan sentir bien y felices. ¡Estoy muy orgulloso de ustedes!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Antes de terminar, ¿qué tal si hablamos sobre algo muy importante? ¡El agua! Beber suficiente agua es esencial para mantenernos hidratados. A veces, cuando jugamos mucho, podemos olvidar beber agua. Así que asegúrense de beber cuando tengan sed. ¡El agua es nuestro mejor amigo!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez han sentido mucha sed después de jugar? Eso es porque nuestro cuerpo nos está diciendo que necesita agua. ¿Qué tal si intentamos beber un vaso de agua juntos? Uno, dos, tres... ¡glug, glug, glug! ¡Qué refrescante! Beber agua es una forma sencilla de cuidar de nosotros mismos."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bueno, amiguitos, ha sido una aventura maravillosa aprender sobre la alimentación saludable con ustedes. Recuerden siempre elegir alimentos que hagan a su cuerpo feliz y fuerte. Estoy muy orgulloso de todo lo que han aprendido hoy. ¡Hasta la próxima, pequeños héroes de la nutrición! ¡Nos vemos pronto!"
+    }
+  ],
+  "title": "Historia de Nutrition de Swamp Buddy Hero"
+}

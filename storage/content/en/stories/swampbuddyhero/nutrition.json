@@ -1,0 +1,104 @@
+{
+  "id": "swamp_buddy_hero_nutrition_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "nutrition",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Swamp Buddy Hero, your trusty guide through the swamp of healthy eating. Today, we're going on an amazing journey about nutrition. Are you ready to learn how to grow strong and healthy? It's going to be a fun adventure filled with stories and games. I'm so curious to see what you'll discover along the way!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about why food is so important. Food gives us energy, like how a car needs fuel to move. Imagine trying to run around the playground without eating anything all day. You'd feel tired and grumpy, right? Eating the right foods helps us play, learn, and grow. So, let's find out what kinds of foods make us feel our best!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Eating fruits and vegetables is like giving your body a big hug. They are full of vitamins that help us stay healthy. Think of an apple like a superhero cape that helps you fight off colds. Carrots are like magic glasses for your eyes. Let's pretend to munch on some crunchy carrots together. Yum, yum, don't they make you feel strong?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job pretending to eat those carrots! Now, let's talk about proteins. Proteins are like building blocks for your muscles. Imagine you’re building a tower with blocks; proteins help you stack them higher and higher. Foods like chicken, beans, and eggs are full of protein. You can be a strong superhero with every bite. You can do it!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about energy? Well, grains like rice and oats give us lots of energy to zoom around. They are like the batteries for your favorite toy. Without them, your toy wouldn't work, right? So, next time you have some oatmeal or a sandwich, think about how it's powering you up for a day full of fun and adventure."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's not forget about dairy, like milk and cheese. They help make our bones strong. Imagine your bones are like the sturdy branches of a tree. Dairy keeps your branches from breaking when you climb and play. So, when you drink a glass of milk, think about how you're helping your bones grow tall and strong. Cheers to healthy bones!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're learning so much about what foods help us. Now, let's take a moment to count together. Can you count to three with me? One, two, three! Great job! Just like counting, balancing our food is important too. Eating a little bit of everything helps us stay strong and healthy. You're doing fantastic!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's talk about something very refreshing: water. Water is like the magical potion that keeps everything in our bodies working smoothly. It's important to drink water every day, especially when you're playing or it's hot outside. Can you imagine a flower without water? It would wilt, right? So, let's keep our bodies blooming with lots of water."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "It's also fun to try new foods. Imagine you're an explorer discovering new lands. Each new food you try is a new adventure. Maybe you'll find a new favorite food, like kiwi or sweet potatoes. Trying new foods helps us get different vitamins and keeps our meals exciting. So, don't be afraid to taste something new. Would you like to try?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job exploring the world of nutrition. Remember, it's okay not to like everything. Everyone has different tastes, just like how some people like blue, and others like green. The important thing is to keep trying and find what makes you feel good and strong. Keep up the great work, little explorer!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I've got a question for you. Do you know which food is your favorite? Is it something sweet like an apple, or something savory like cheese? Think about what makes you smile when you eat it. It's fun to have favorites, but remember to try different foods too. I'm curious to know what you like!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "That's a fantastic choice! Having a favorite food is like having a favorite toy. It's something special that makes you happy. Just like toys, it's fun to have a variety to play with, or in this case, to eat. So, keep enjoying your favorite, but remember to mix it up with other foods too. Variety is the spice of life!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's wrap up our adventure with a little game. Can you think of a fruit that starts with the letter B? How about a vegetable that starts with C? Bananas and carrots are great examples. This game helps us remember all the healthy foods we've talked about today. You're a nutrition superstar!"
+    },
+    {
+      "id": "scene_13",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "I love hearing all your ideas about food. Listening to you makes me so happy. It's wonderful to share this journey with you. Remember, eating healthy is like giving yourself a big, warm hug. Your body will thank you with lots of energy and happiness. What do you think about that?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our time together has been so much fun! I'm proud of you for learning about nutrition with me. Remember, every meal is a chance to be a strong, healthy hero. Keep exploring, trying new foods, and drinking lots of water. Until next time, keep smiling and eating well. Goodbye, little friend!"
+    }
+  ],
+  "title": "Swamp Buddy Hero's Nutrition Story"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_screen_time_story",
+  "character": "Spider Fighter",
+  "topic": "screen_time",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Spider Fighter. Bugün birlikte ekran süreleri hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum ve birlikte öğreneceğimiz şeyler için sabırsızlanıyorum. Ekranlar bazen çok eğlenceli olabilir ama dikkatli olmamız da gerekiyor. Şimdi maceraya başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçen gün bir arkadaşım bana ekran süreleri hakkında bir soru sordu. O da ekran başında çok vakit geçiriyormuş ve bunun iyi olup olmadığını merak ediyordu. Ekranlar, oyunlar ve videolarla doludur ve bunlar çok çekici olabilir. Ama her şeyin bir dengesi olması gerektiğini biliyoruz, değil mi? Hadi ekran sürelerinin ne olduğunu ve neden önemli olduğunu konuşalım."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süreleri, bir gün içinde ekran başında geçirdiğimiz zamandır. Bu süreyi planlamak, sağlığımız için çok önemlidir. Çok fazla ekran başında kalmak gözlerimizi yorabilir ve bizi yorgun hissettirebilir. Ayrıca, ekranların başında çok vakit geçirmek, dışarıda oyun oynamak veya kitap okumak gibi diğer eğlenceli aktivitelerden bizi uzak tutabilir. Şimdi ekran sürelerini nasıl dengede tutabileceğimize bakalım."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte ekran süremizi nasıl sınırlayabileceğimizi düşünelim. Mesela, her gün belirli bir süre ekran başında kalmayı planlayabiliriz. Örneğin, bir saat ekran başında kalıp sonra dışarıda oynamak gibi. Böylece hem eğleniriz hem de sağlıklı kalırız. Sen de bu planı denemek ister misin? Harika, şimdi birlikte birkaç örnek düşünelim."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Diyelim ki bir gün boyunca ekran başında ne kadar vakit geçirdiğimizi sayıyoruz. Sabah bilgisayarda bir oyun oynadık, öğleden sonra bir çizgi film izledik. Toplamda ne kadar ekran süremiz oldu? Hadi birlikte sayalım. Böylece günün geri kalanında başka aktiviteler için ne kadar zamanımız kaldığını görebiliriz."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresini sınırlamak için birkaç ipucu paylaşmak istiyorum. Birincisi, ekran başındayken aralar vermek önemlidir. İkincisi, ekran süresini sınırlayan bir zamanlayıcı kullanabiliriz. Bu, bize ne zaman ara vermemiz gerektiğini hatırlatır. Üçüncüsü, ekran dışında yapabileceğimiz aktiviteleri listelemek faydalı olabilir. Böylece ekran başında olmadığımız zamanlarda sıkılmayız."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi ekran dışında yapabileceğimiz eğlenceli şeyler bulalım. Mesela dışarıda arkadaşlarla saklambaç oynamak, parka gitmek ya da güzel bir kitap okumak gibi. Bunlar hem eğlenceli hem de sağlıklı aktiviteler. Senin favori ekran dışı aktiviten ne? Evet, bu harika bir seçim! Şimdi birlikte daha fazla fikir düşünelim."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlarımın çoğu ekran süresini nasıl yönettiklerini paylaştılar. Kimisi bir gününü planlayarak ekran süresini sınırlıyor, kimisi ise sadece hafta sonları ekran başında zaman geçiriyor. Herkesin farklı bir yöntemi var ama önemli olan sağlıklı bir denge kurmak. Sen hangi yöntemi denemek istersin? Şimdi biraz düşünelim."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ekran dışında yapmayı en sevdiğin şey nedir? Belki resim yapmayı seviyorsundur ya da legolarla oynamayı. Bu aktiviteler, ekran dışında zaman geçirmenin harika yollarıdır. Sen de ekran dışında neler yapabileceğini düşündün mü? Hadi biraz hayal kuralım ve bu konuda konuşalım."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekran süreleri hakkında bu kadar konuştuktan sonra, şimdi biraz da ekranların bize nasıl yardımcı olabileceğinden bahsedelim. Ekranlar, öğrenmek ve yeni şeyler keşfetmek için harika araçlar olabilir. Örneğin, yeni bir dil öğrenmek için uygulamalar kullanabiliriz ya da eğitici videolar izleyebiliriz. Ama bunları yaparken dengeli olmak çok önemli. Şimdi ekranların olumlu yönlerini nasıl kullanabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekranları en iyi şekilde kullanmak için bir plan yapabiliriz. Mesela, her gün sadece eğitici içerikler izlemek için belirli bir süre ayırabiliriz. Bu süreyi belirlerken, ekran başında çok fazla vakit geçirmemeye dikkat etmeliyiz. Ayrıca, ekran başında geçirdiğimiz zamanı bir yetişkinle paylaşmak, bize rehberlik edebilir. Şimdi bu planı nasıl yapabileceğimizi konuşalım."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Senin de ekran başında geçirdiğin zamanı sağlıklı yönetebileceğine inanıyorum. Unutma, her şey dengeyle ilgilidir. Birlikte ekran sürelerini nasıl yönetebileceğimizi öğrendik ve şimdi bunu uygulama zamanı. Senin başarabileceğini biliyorum! Şimdi birlikte bu bilgileri nasıl uygulayabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda ekran sürelerini nasıl yöneteceğimizden bahsetmiştik. Şimdi bu bilgileri kullanarak günümüzü nasıl planlayabileceğimizi düşünelim. Mesela, sabah kahvaltıdan sonra biraz ekran başında vakit geçirip, sonra dışarıda oynamak gibi. Bu plan sana nasıl geliyor? Belki de kendi planını yapabilirsin!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ekran sürelerini yönetmek için başka hangi yöntemleri kullanabiliriz? Belki arkadaşlarınla bu konuda konuşup onların fikirlerini alabilirsin. Ya da bir aile üyesiyle birlikte bir plan yapabilirsin. Senin bu konuda düşündüğün başka fikirler var mı? Hadi biraz daha beyin fırtınası yapalım."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün ekran süreleri hakkında harika şeyler öğrendik, değil mi? Artık ekran başında geçirdiğimiz zamanı nasıl daha iyi yönetebileceğimizi biliyoruz. Unutma, önemli olan denge ve her şeyin bir zamanı var. Seninle bu macerayı paylaşmak çok keyifliydi. Bir sonraki maceramızda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Spider Fighter'ın Screen Time Hikayesi"
+}

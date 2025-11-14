@@ -1,0 +1,104 @@
+{
+  "id": "shell_heroes_crew_behavior_story",
+  "character": "Shell Heroes Crew",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis l'équipe des Shell Heroes. Aujourd'hui, nous allons partir dans une aventure incroyable sur le comportement. Êtes-vous prêt ? Nous allons parler de comment être gentil et respectueux avec les autres. Vous allez voir, c'est très amusant !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le comportement, c'est comment nous agissons avec les autres et autour de nous. Par exemple, dire \"s'il vous plaît\" et \"merci\" montre que nous sommes polis. Quand nous jouons, nous partageons nos jouets pour que tout le monde s'amuse. C'est une façon de montrer du respect. Et vous savez quoi ? Être gentil fait sourire tout le monde !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de suivre les règles. Les règles sont là pour nous aider à rester en sécurité et heureux. Par exemple, marcher au lieu de courir à l'intérieur empêche les accidents. Et attendre son tour quand on joue rend le jeu plus juste pour tous. Vous voyez, les règles rendent les choses meilleures pour tout le monde !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons quelque chose ensemble ! Imaginez que vous êtes au parc. Que feriez-vous si vous voyez quelqu'un qui veut jouer avec vous ? Vous pouvez dire \"Viens jouer avec moi !\" N'est-ce pas génial de faire de nouveaux amis ? Vous êtes vraiment bon en partageant et en étant amical !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, être courageux signifie aussi dire la vérité. Parfois, nous faisons des erreurs, et c'est normal. L'important est de dire \"Je suis désolé\" et d'essayer de mieux faire la prochaine fois. C'est ainsi que nous apprenons et grandissons. N'est-ce pas formidable ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons de gérer ses émotions. Quand nous sommes fâchés, nous pouvons respirer profondément pour nous calmer. Inspirons ensemble, un, deux, trois... et expirons. Vous sentez-vous plus calme maintenant ? C'est une bonne façon de gérer nos sentiments. Vous pouvez le faire vous aussi !"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de l'importance d'écouter. Quand quelqu'un parle, nous écoutons avec attention. Cela montre que nous respectons ce qu'ils disent. En écoutant, nous apprenons de nouvelles choses et comprenons mieux les autres. C'est très important, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un excellent travail en apprenant tout cela ! Rappelez-vous, chaque jour est une nouvelle chance d'être gentil et respectueux. Vous pouvez essayer quelque chose de nouveau aujourd'hui, comme aider à mettre la table. Vous êtes déjà un super héros du comportement !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Saviez-vous que nous pouvons aussi être des héros en prenant soin de notre planète ? Ramasser les déchets et recycler sont de bonnes actions. Cela aide à garder notre monde propre et sain. Vous pouvez demander à un adulte comment vous pouvez aider à la maison. C'est un excellent moyen de montrer du bon comportement !"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, pensons à la gentillesse. Quand nous voyons quelqu'un qui a besoin d'aide, nous pouvons lui offrir notre aide. Peut-être qu'un ami a besoin d'un câlin ou d'une main pour ramasser ses livres. Ces petits gestes rendent le monde meilleur. Vous êtes déjà un expert en gentillesse !"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Pouvez-vous penser à un moment où vous avez été très gentil avec quelqu'un ? Peut-être avez-vous partagé vos jouets ou aidé à la maison. Comment cela vous a-t-il fait sentir ? C'est super d'être gentil, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Quand nous faisons des erreurs, nous pouvons toujours apprendre et nous améliorer. Par exemple, si nous oublions de partager, nous pouvons nous excuser et essayer de mieux faire. C'est ainsi que nous devenons de meilleurs amis et de meilleures personnes. Vous êtes déjà sur la bonne voie !"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes incroyable ! N'oubliez pas que chaque petit geste compte. Que ce soit un sourire ou un mot gentil, vous faites une grande différence. Continuez à être le super héros que vous êtes. Vous pouvez le faire, je crois en vous !"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "À présent, réfléchissons à l'importance de dire \"merci\". Cela montre notre gratitude pour l'aide ou les cadeaux. C'est un mot magique qui fait plaisir à entendre. Vous pouvez essayer de dire \"merci\" aujourd'hui à quelqu'un qui vous a aidé. C'est un geste simple mais puissant !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir été avec nous aujourd'hui ! Vous avez appris beaucoup sur le bon comportement et comment être un ami formidable. Continuez à pratiquer tout ce que nous avons appris. Je suis si fier de vous ! À bientôt pour une nouvelle aventure avec l'équipe des Shell Heroes. Au revoir, petit héros !"
+    }
+  ],
+  "title": "Histoire de Behavior de Shell Heroes Crew"
+}

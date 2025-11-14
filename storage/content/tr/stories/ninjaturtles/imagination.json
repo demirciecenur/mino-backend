@@ -1,0 +1,98 @@
+{
+  "id": "shell_heroes_crew_imagination_story",
+  "character": "Shell Heroes Crew",
+  "topic": "imagination",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Shell Heroes Crew. Bugün birlikte hayal gücümüzü keşfetmek için harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Hayal gücü, tıpkı bir sihir gibi, bizi farklı dünyalara götürebilir. Hadi başlayalım ve neler keşfedeceğimizi görelim!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücü, aklımızın içinde oluşturduğumuz harika bir dünyadır. Bir kitap okurken, bir oyun oynarken ya da sadece düşünürken bile hayal gücümüzü kullanabiliriz. Mesela, bir karton kutudan uzay gemisi yapabiliriz. Bu uzay gemisiyle Mars'a yolculuk edebiliriz. Hayal gücü sayesinde her şey mümkün!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hayal gücümüzü geliştirmek için bazı egzersizler yapabiliriz. Mesela, gözlerini kapat ve en sevdiğin hayvanı düşün. Onunla nasıl bir macera yaşamak istersin? Belki de uçan bir filin sırtında uçmak istersin. Hayal gücünle her şey mümkün, unutma!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi birlikte bir oyun oynayalım. Gözlerini kapat ve bir denizaltında olduğumuzu hayal et. Denizaltımız okyanusun derinliklerinde yüzüyor. Acaba hangi deniz canlılarıyla karşılaşacağız? Belki bir yunus, belki de renkli balıklar! Hayal gücünle onları görebiliyor musun?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede denizaltımızla okyanusun derinliklerine dalmıştık. Şimdi, hayal gücümüzle başka bir dünyaya gidelim. Bu sefer bir ormanda olduğumuzu düşün. Etrafta rengârenk kelebekler uçuşuyor. Ağaçların arasında gizemli bir kulübe var. İçeri girdiğimizde neler bulabiliriz?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi bir nefes egzersizi yapalım. Derin bir nefes al ve yavaşça ver. Hayal gücünü kullanarak, nefes alırken bir balonun içine dolduğunu hisset. Balon büyüyor ve büyüyor. Nefes verirken balonun yavaşça küçüldüğünü düşün. Bu egzersiz, hayal gücümüzü canlandırmaya yardımcı olur."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Çok güzel! Şimdi, hayal gücümüzle bir oyun daha oynayalım. Bir karlı dağın zirvesinde olduğumuzu düşün. Etraf bembeyaz karlarla kaplı. Karların üzerinde kayarak aşağıya iniyoruz. Rüzgar saçlarımızı uçuruyor ve çok eğleniyoruz. Sen de bu heyecanı hissedebiliyor musun?"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hayal gücünle hangi maceraları yaşamak istersin? Belki bir korsan gemisinde hazine aramak ya da bir ejderhayla dost olmak istersin. Senin favori hayal dünyan nasıl bir yer? Bunu düşünmek eğlenceli olmaz mı? Hayal gücünle her şey mümkün!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede hayal dünyamızda hangi maceraları yaşamak istediğimizi düşündük. Şimdi, hayal gücümüzle bir yolculuk daha yapalım. Bu sefer, bir balonla gökyüzünde süzüldüğümüzü hayal edelim. Bulutların arasında uçuyoruz ve aşağıdaki dünyayı izliyoruz. Ne kadar harika bir manzara, değil mi?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hayal gücünü geliştirmek için bir başka yöntem de hikayeler uydurmaktır. Bir karakter seç ve onunla neler yaşayacağını düşün. Belki bir süper kahraman olabilir ya da bir prenses. Onunla hangi maceralara atılmak istersin? Hikayeni arkadaşlarınla paylaşabilirsin."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir hayal gücüne sahipsin! Şimdi, birlikte bir hayal oyunu daha oynayalım. Bir uçan halıyla dünyanın etrafında dolaştığımızı düşün. Farklı ülkeler görüyoruz, yeni arkadaşlar ediniyoruz. Hangi ülkelere gitmek istersin? Unutma, hayal gücünle her şey mümkün!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede uçan halıyla dünyayı dolaştık. Şimdi hayal gücümüzü kullanarak bir ormanda olduğumuzu düşünelim. Etrafta egzotik hayvanlar var ve biz onları izliyoruz. Belki bir aslan kükredi ya da bir maymun ağaçtan ağaca zıplıyor. Hayal gücünle bu ormanı görebiliyor musun?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hadi birlikte hayal gücümüzü biraz daha canlandıralım. Bir sihirli değneğin olduğunu düşün. Bu değnekle hangi dileklerini gerçekleştirmek istersin? Belki bir gün boyunca uçmak ya da görünmez olmak isteyebilirsin. Hayal gücünle her şey mümkün değil mi?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün hayal gücümüzle harika bir yolculuk yaptık. Seninle bu maceraları paylaşmak çok keyifliydi. Unutma, hayal gücünle her şey mümkün ve senin hayal gücün çok özel. Bir sonraki maceramızda görüşmek üzere. Kendine iyi bak, küçük dostum!"
+    }
+  ],
+  "title": "Shell Heroes Crew'ın Imagination Hikayesi"
+}

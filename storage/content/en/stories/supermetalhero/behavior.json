@@ -1,0 +1,104 @@
+{
+  "id": "super_metal_hero_behavior_story",
+  "character": "Super Metal Hero",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little heroes! I'm Super Metal Hero, your friendly guide to understanding behavior. Today, we're going to embark on an exciting journey to learn about good behavior and how it helps us in our daily adventures. Are you ready to power up and discover the secrets of being a great friend and helper? Let's get started with a super smile and lots of enthusiasm. Together, we'll explore how to be our best selves every day!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what behavior means. Behavior is how we act and speak with others, like when we share toys or say 'please' and 'thank you.' It's important because it helps us make friends and have fun together. Imagine playing a game where everyone takes turns; that's good behavior in action! When we behave well, we show kindness and respect, which makes everyone feel happy and safe."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about sharing toys? Well, sharing is a fantastic example of good behavior. When you share, you show that you care about others and want them to have fun too. It's like being a superhero who spreads joy and happiness. So next time you're playing, think about how you can share and make your friends smile. Sharing is caring, and it makes playtime more fun for everyone!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about sharing! Now, let's practice saying 'please' and 'thank you.' These magic words help us express gratitude and kindness. When you say 'please,' you're asking for something politely, and 'thank you' shows appreciation. Let's try it together: 'Please pass the crayons,' and 'Thank you for helping me.' Fantastic! Using these words makes everyone feel valued and respected."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's talk about listening, which is another superpower of good behavior. Listening means paying attention when someone is speaking, just like how superheroes focus on their missions. When we listen, we learn new things and understand our friends better. For example, when a friend tells you a story, listening shows you care about what they have to say. So, let's practice listening by being quiet and focusing on the speaker."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now that we know how to listen, let's think about following rules. Rules are like guidelines that help us stay safe and have fun. Imagine playing on a playground; rules like 'don't push' and 'wait for your turn' keep everyone safe. Following rules is a way to show respect for others and make sure everyone enjoys their time. Remember, superheroes always follow the rules to keep their missions successful!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're doing an amazing job learning about good behavior. Let's talk about being kind, which is another important part of behaving well. Kindness means being nice and helping others, like when you help a friend who fell or give a compliment. Acts of kindness make the world a better place and fill it with smiles. So, let's think of ways we can be kind today and spread positivity everywhere we go!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's discuss the power of saying 'sorry.' Sometimes, we might make mistakes, and that's okay because everyone does. Saying 'sorry' shows that we understand our mistake and want to make things right. It's like fixing a broken toy so it can be played with again. When we apologize, we show we're responsible and ready to learn from our actions. Remember, a heartfelt 'sorry' can mend friendships and make everyone feel better."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice being patient, which is waiting calmly without getting upset. Patience is like waiting for your turn in a game or for cookies to bake. It teaches us self-control and respect for others' time. When we're patient, we show that we're considerate and understanding. So next time you have to wait, take a deep breath and think of something fun while you wait. Patience is a powerful tool that every superhero needs."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing fantastic! Let's talk about helping others, which is a big part of good behavior. Helping can be as simple as picking up toys or holding the door open. When we help, we make the world a better place and show that we're team players. Helping others can also make us feel good inside, like a warm hug. So, let's find ways to help our family and friends today, and see the smiles we can create!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I have a question for you. Can you think of a time when you showed good behavior? Maybe you helped a friend or shared something special. How did it make you feel? Think about that moment and remember how proud you felt. Good behavior not only makes others happy but also makes us feel great inside. Would you like to share your story with someone today?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about helping others? Well, sometimes helping means doing things without being asked. It's like tidying up your room or setting the table for dinner. These small actions show responsibility and initiative. When we take the lead in helping, we show that we're reliable and thoughtful. So, think of something you can do today without being asked, and see how it makes a difference!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about respect, which is treating others the way we want to be treated. Respect means listening when someone speaks and using kind words. It's like taking care of a plant by giving it water and sunlight. When we respect others, we create a positive environment where everyone feels valued. So, let's practice respect by speaking kindly and listening carefully. Remember, respect is a key ingredient in good behavior!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You've learned so much about good behavior today! Let's recap the superpowers we've discovered: sharing, saying 'please' and 'thank you,' listening, following rules, being kind, saying 'sorry,' being patient, helping, and showing respect. Each of these makes us better friends and heroes in our own lives. Keep practicing these behaviors every day, and you'll see the amazing impact they have on your world. You're a true hero!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "As we wrap up our adventure, remember that good behavior is a journey, not a destination. Every day is a new opportunity to practice and grow. I'm proud of you for learning and trying your best. Keep being the amazing little hero you are, and continue spreading kindness and joy. Until next time, keep shining bright, and remember, Super Metal Hero is always cheering for you. Goodbye, little heroes!"
+    }
+  ],
+  "title": "Super Metal Hero's Behavior Story"
+}

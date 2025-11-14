@@ -1,0 +1,104 @@
+{
+  "id": "super_jump_hero_imagination_story",
+  "character": "Super Jump Hero",
+  "topic": "imagination",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Super Jump Hero. Bugün birlikte hayal gücümüzü keşfedeceğimiz harika bir maceraya çıkacağız. Hazır mısın? Hayal gücü, her şeyi mümkün kılan sihirli bir güçtür. Seninle hayaller kurup, onları nasıl gerçeğe dönüştürebileceğimizi konuşacağız. Çok heyecanlıyım, sen de heyecanlı mısın?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücü, herkesin içinde saklı olan bir hazinedir. Dünyanın en büyük mucitleri, sanatçıları ve yazarları hep hayal güçlerini kullanarak harika şeyler başardılar. Sen de hayal gücünü kullanarak kendi dünyanı yaratabilirsin. Mesela bir oyuncak arabayı bir uzay gemisine dönüştürebilirsin. Hayal gücünle, istediğin her yere gidebilirsin, bu harika değil mi?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hayal gücünü kullanmanın en güzel yolu, gözlerini kapatıp hayal kurmaktır. Şimdi gözlerini kapat ve bir an için kendini bir korsan gemisinde hayal et. Denizleri aşarken, gökyüzünde uçan balinalarla karşılaşıyorsun. Her dalga seni yeni bir maceraya götürüyor. Hayal ettiğin her şeyin gerçek olabileceğini düşün, bu çok eğlenceli, değil mi?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi şimdi birlikte daha da ilginç bir şey hayal edelim. Birlikte bir ejderha bulup, onunla göklerde uçmaya ne dersin? Ejderhamızın rengini seçebiliriz, belki mavi ya da parlak yeşil olabilir. Kanatlarıyla bulutların üstünde süzülmek çok keyifli olurdu. Senin hayal gücünle, her şey mümkün!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda ejderhalardan bahsettik, hatırlıyor musun? Şimdi, hayal gücümüzü biraz daha genişletelim. Bir günlüğüne bir süper kahraman olduğunu hayal et. Nasıl bir kostümün olurdu? Hangi güçlere sahip olurdun? Belki uçabilir ya da görünmez olabilirsin. Hadi düşün, bu süper güçlerle neler yapabilirsin?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Süper güçlerinin neler olabileceğini düşündün mü? Belki de bir şehir kurar ve orada herkese yardım edebilirsin. Hayal gücünle, dünyayı daha iyi bir yer haline getirebilirsin. Bu gücü kullanarak arkadaşlarına ve ailene ne tür yardımlar edebilirsin? Unutma, hayal gücüyle her şey mümkün!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi hayal gücümüzü kullanarak bir hikaye oluşturalım. Başlangıçta, bir ormanın derinliklerinde kaybolmuş küçük bir tavşan var. Bu tavşan, eve dönmek için yola çıkıyor ve bir sürü macera yaşıyor. Sen bu hikayeye ne eklemek istersin? Belki tavşanın bir arkadaşı olabilir ya da gizemli bir harita bulabilir. Hadi birlikte hikayeyi geliştirelim."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Tavşanın hikayesine eklediğin detaylar çok güzel. Şimdi, hikayenin sonunu nasıl getirebileceğimizi düşünelim. Belki de tavşan, eve dönerken yeni arkadaşlar edinir ve birlikte eğlenceli oyunlar oynarlar. Hayal gücünle, her hikaye mutlu bir sona ulaşabilir. Sen de kendi hikayelerini yazabilirsin, buna inanıyorum!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede hikayelerden bahsettik, şimdi biraz daha farklı bir şey yapalım. Hayal gücümüzü kullanarak bir resim çizmeye ne dersin? Gözlerini kapat ve renkleri hayal et. Belki gökyüzü pembedir, çimler mor. Hayal gücünle her şeyin rengini değiştirebilirsin. Hadi, şimdi bu renkleri kağıda dök."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Resmini çizerken hangi renkleri kullandın? Belki kırmızı bir güneş ya da mavi bir ağaç yaptın. Hayal gücünle her şeyin mümkün olduğunu biliyor musun? Şimdi, bu resimde neler olduğunu bana anlatmak ister misin? Senin hikayeni duymak için sabırsızlanıyorum."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Resimlerin ve hikayelerin gerçekten çok etkileyici! Şimdi, hayal gücümüzü biraz daha genişletelim. Bir müzik aleti çaldığını hayal et. Belki bir piyano ya da bir gitar olabilir. Hangi melodileri çalardın? Hayal gücünle, kendi müziğini yaratabilirsin. Hadi, bu müziği bir düşün."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir müzik aleti çalarken nasıl hissettiğini hayal et. Parmaklarının tuşlara ya da tellere dokunduğunu düşün. Müzik, hayal gücünün başka bir ifadesidir. Şimdi, bu melodileri arkadaşlarınla paylaşabilirsin. Belki birlikte bir konser düzenlersiniz. Hayal gücünle her şey mümkün!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte çok güzel şeyler hayal ettik, değil mi? Senin hayal gücünle neler başarabileceğini görmek harika. Hayal gücünle, her gün yeni maceralar yaratabilirsin. Unutma, senin gibi hayal gücü güçlü bir çocuk her zaman yeni şeyler keşfedebilir. Seninle gurur duyuyorum!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Şimdi, hayal gücümüzü kullanarak başka neler yapabileceğimizi düşünelim. Belki bir kütüphane kurabilir ya da bir park tasarlayabiliriz. Hayal gücünle, her şeyin mümkün olduğunu unutma. Seninle birlikte daha neler keşfedebileceğimizi çok merak ediyorum. Hadi düşünmeye devam edelim."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte çok eğlendik ve hayal gücümüzü keşfettik. Seninle bu maceraya çıktığım için çok mutluyum. Unutma, hayal gücün senin en güçlü silahın. Onu kullanarak harika şeyler yapabilirsin. Şimdi veda etme zamanı, ama bir dahaki sefere yine görüşeceğiz. Kendine iyi bak ve hayal kurmaya devam et!"
+    }
+  ],
+  "title": "Super Jump Hero'ın Imagination Hikayesi"
+}

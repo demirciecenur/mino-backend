@@ -1,0 +1,104 @@
+{
+  "id": "blu_pup_nutrition_story",
+  "character": "Blu Pup",
+  "topic": "nutrition",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Blu Pup, and today we're going on an amazing journey about nutrition. Are you ready to learn all about the yummy foods that keep us healthy and strong? I'm so excited to explore this with you! We'll have fun discovering what foods help us grow big and strong, just like superheroes. Let's get started on this great adventure together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about fruits and veggies. Did you know that eating a rainbow of fruits and vegetables is super good for you? Each color has its own special powers to help your body. For example, carrots are orange and help you see in the dark, like a night-time explorer! And green spinach makes you strong, like a superhero. Isn't that amazing?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about carrots and spinach? Let's learn how to include these in our meals. You can have carrots as crunchy snacks or add them to your favorite salad. Spinach can be mixed into a yummy smoothie or added to a warm soup. Eating a variety of these foods every day keeps us feeling great and ready for playtime. Let's think about how we can add more colors to our plates!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing great! Let's try imagining our favorite fruits and veggies. Can you picture a big, juicy apple or a sweet, ripe banana? How about a crunchy cucumber or a bright red tomato? Each one of these is like a little gift for our bodies, helping us stay healthy and happy. Keep thinking of your favorite ones, and maybe we can try them together someday!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's talk about grains. Grains are foods like bread, rice, and cereal. They give us lots of energy, just like a car needs fuel to drive. Whole grains, like brown rice and whole wheat bread, are especially good because they help us feel full and ready to play longer. Imagine running around the playground or playing tag with friends. Grains help us do all that fun stuff!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's think about how we can choose whole grains. Maybe next time you have a sandwich, you can try it with whole wheat bread. Or if you're having breakfast, you could choose oatmeal or whole grain cereal. These small choices make a big difference in keeping us energized throughout the day. It's like having a superpower to keep going and going!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're learning so much about nutrition. Now, let's take a moment to stretch and breathe. Can you reach your arms up high like a tall tree? Now let's take three deep breaths together. Ready? One, two, three. Great job! Breathing helps us relax and get ready for more fun learning. You're doing amazing!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's chat about proteins. Proteins are like building blocks for our bodies. They help us grow strong muscles and keep us feeling full. Foods like chicken, fish, beans, and nuts are full of protein. Imagine building a tower with blocks; proteins help build our body's tower nice and tall. Isn't it cool how food can do that?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's see how we can add more protein to our meals. If you like chicken, maybe you can try it grilled with some tasty herbs. Or if you enjoy beans, you can add them to a salad or make a bean dip. Nuts make a great snack, too, and they’re super easy to carry around. Adding protein helps us stay strong and ready for anything!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now I'm curious, what is your favorite protein food? Do you like chicken, fish, or maybe crunchy nuts? How about beans or eggs? It's fun to try different ones and see which ones you like best. Remember, trying new foods can be an exciting adventure. So, what do you think you'd like to try next?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about dairy now. Dairy foods like milk, cheese, and yogurt help keep our bones and teeth strong. It's like having a magic shield for our bones! Drinking milk or having yogurt with breakfast can make our start to the day super strong. Cheese can be a fun snack, too, and there are so many kinds to try!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Do you remember the last time you had a glass of milk or a piece of cheese? How did it taste? Dairy foods are not only tasty, but they also help us jump high and play hard. Next time you have a snack, maybe you can try a new kind of cheese or a different flavor of yogurt. It's fun to explore new tastes!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's think about how all these foods work together. Eating a little bit from each food group every day helps our bodies stay balanced and strong. It's like putting together a puzzle where every piece is important. When we eat a variety of foods, we give our bodies everything they need to grow and play. Isn't that fantastic?"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a great job learning about nutrition! Remember, eating healthy foods is like giving your body a big hug. It makes us feel good and ready for all the fun activities we love. Keep exploring new foods and remember, trying new things is always a great adventure. You can do it!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this nutrition adventure, my friend! We've learned so much about how different foods help our bodies grow strong and healthy. Keep being curious and exploring new tastes. Remember, every meal is a chance to try something new and exciting. I hope you have a wonderful day, and I can't wait to see you again soon. Bye for now!"
+    }
+  ],
+  "title": "Blu Pup's Nutrition Story"
+}

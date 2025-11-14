@@ -1,0 +1,98 @@
+{
+  "id": "yellow_buddy_temps_d'écran_sécurité_numérique_utilisation_de_la_technologie_habitudes_saines_d'écran_story",
+  "character": "Yellow Buddy",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Yellow Buddy, votre copain ensoleillé. Aujourd'hui, nous allons explorer le monde fascinant des écrans et comment les utiliser en toute sécurité. Êtes-vous prêts pour cette aventure amusante? Je suis si curieux de savoir ce que vous pensez! Nous allons apprendre ensemble comment faire des choix intelligents avec la technologie."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de ce qu'est le temps d'écran. Le temps d'écran, c'est le temps que nous passons devant un écran, comme une télévision, une tablette ou un téléphone. Parfois, c'est amusant de regarder des dessins animés ou de jouer à des jeux, n'est-ce pas? Mais il est important de ne pas passer trop de temps devant les écrans. Pourquoi pensez-vous que c'est important? Cela nous aide à avoir plus de temps pour jouer dehors et faire d'autres activités amusantes!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Il est temps d'apprendre comment utiliser les écrans de manière sûre. D'abord, nous devons nous assurer que nos parents ou un adulte sont avec nous quand nous utilisons des écrans. Ils peuvent nous aider à choisir des programmes appropriés et amusants! Vous savez, c'est comme demander à un adulte de nous aider à choisir un livre à lire. Ensemble, nous pouvons faire de bons choix et nous amuser en toute sécurité."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super, mes petits amis! Vous apprenez si vite. Vous savez, il est important de faire des pauses régulières quand on utilise des écrans. Par exemple, après avoir regardé un dessin animé, on peut se lever et danser un peu. Ça aide à bouger notre corps et à rester en forme! Allez, on peut même faire une danse rigolote ensemble. Vous voulez essayer?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons notre aventure en parlant des habitudes saines d'écran. Une bonne habitude est de ne pas utiliser d'écran avant de dormir. Pourquoi, vous demandez-vous? Parce que cela peut rendre plus difficile le fait de s'endormir. À la place, on peut lire un livre ou écouter une histoire. Cela nous aide à nous détendre et à bien dormir. Avez-vous un livre préféré que vous aimez lire avant de dormir?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de la sécurité numérique. C'est un mot compliqué, mais ne vous inquiétez pas, je vais vous expliquer! La sécurité numérique signifie être prudent lorsque nous utilisons des écrans et Internet. Par exemple, ne jamais parler à des inconnus en ligne, tout comme dans la vraie vie. Et si vous voyez quelque chose qui vous rend mal à l'aise, dites-le à un adulte de confiance. C'est important pour rester en sécurité!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail fantastique en apprenant tout cela! N'oubliez pas, il est toujours bon de demander de l'aide si vous n'êtes pas sûr de quelque chose. Comme quand on apprend à faire du vélo, on a parfois besoin d'un peu d'aide. Et c'est parfaitement normal! Ensemble, nous pouvons devenir des experts en technologie et en sécurité. Vous êtes prêts à continuer?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de l'importance d'avoir du temps sans écran. Passer du temps sans écran nous permet de découvrir d'autres activités amusantes. Par exemple, on peut jouer à des jeux de société, faire des puzzles, ou même dessiner. Quelles sont vos activités préférées sans écran? Essayez de les faire tous les jours, et vous verrez combien c'est amusant!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous, utiliser la technologie, c'est comme manger des bonbons. C'est super de temps en temps, mais il ne faut pas en abuser! Trop de bonbons peuvent donner mal au ventre, et trop d'écran peut fatiguer nos yeux. Alors, prenons soin de nous en faisant de bons choix. Vous êtes d'accord?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, j'ai une question pour vous. Qu'est-ce que vous préférez faire quand vous ne regardez pas d'écran? Est-ce que c'est jouer dehors, ou peut-être cuisiner avec un adulte? Partagez vos idées avec moi! Je suis sûr que vous avez plein de bonnes idées!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour finir, souvenons-nous de quelques règles simples. Limitez le temps d'écran chaque jour et faites des pauses. Choisissez toujours des contenus adaptés à votre âge. Et surtout, amusez-vous en toute sécurité avec la technologie! En suivant ces conseils, vous serez un pro du temps d'écran. Vous pouvez le faire!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, les amis! Vous avez appris tellement de choses aujourd'hui. Chaque pas que vous faites est un grand pas vers des habitudes saines. Continuez à pratiquer et à partager ce que vous avez appris avec vos amis et votre famille. Vous êtes formidables! Je suis fier de vous!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "En conclusion, souvenons-nous que les écrans sont amusants, mais qu'il est important de les utiliser correctement. Avec un peu de pratique, vous serez en mesure de gérer votre temps d'écran comme un champion. N'oubliez pas de toujours demander l'aide d'un adulte si vous en avez besoin. Vous êtes prêts pour devenir des experts en technologie?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé du temps avec moi aujourd'hui, mes petits amis. J'ai adoré notre aventure sur les écrans et la sécurité numérique. N'oubliez pas de vous amuser et de rester curieux. Je suis toujours là pour vous aider à apprendre. À bientôt pour une nouvelle aventure! Au revoir et prenez soin de vous!"
+    }
+  ],
+  "title": "Histoire de Screen Time de Yellow Buddy"
+}

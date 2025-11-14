@@ -1,0 +1,98 @@
+{
+  "id": "clever_mouse_jerry_bedtime_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeños amigos! Soy Jerry, el ratón astuto, y hoy vamos a embarcarnos en una aventura mágica sobre la hora de dormir. ¿Están listos para aprender conmigo? Estoy muy emocionado de compartir estos momentos especiales. Vamos a descubrir cómo hacer que la hora de dormir sea divertida y relajante. ¡Será una experiencia maravillosa!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La hora de dormir es un momento muy importante del día. Es cuando nuestro cuerpo descansa y se prepara para un nuevo día lleno de aventuras. ¿Sabían que dormir bien nos hace sentir más felices y con más energía? También ayuda a que nuestro cerebro funcione mejor, para que podamos aprender y jugar. Ahora, vamos a ver cómo podemos prepararnos para dormir como auténticos campeones."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Una de las primeras cosas que podemos hacer antes de dormir es ponernos nuestro pijama favorito. Cambiarnos de ropa nos ayuda a saber que es hora de relajarnos. ¿Tienen un pijama que les encanta? Pueden elegir uno que sea suave y cómodo. ¡Eso hará que se sientan como si estuvieran abrazados por una nube! Ahora que estamos cómodos, podemos seguir con la siguiente parte de nuestra rutina."
+    },
+    {
+      "id": "scene_3",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos vestidos para dormir, es hora de cepillarnos los dientes. Cepillarse los dientes es muy importante para mantener una sonrisa brillante y saludable. Podemos hacerlo juntos, moviendo el cepillo de un lado a otro. ¿Pueden contar hasta diez mientras cepillan sus dientes? ¡Uno, dos, tres! Así es como mantenemos nuestra boca limpia y fresca antes de ir a la cama."
+    },
+    {
+      "id": "scene_4",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Después de cepillarnos los dientes, podemos leer un cuento o escuchar una historia. Las historias nos llevan a mundos mágicos y nos ayudan a relajarnos. ¿Tienen un cuento favorito que les gusta escuchar? Leer o escuchar historias nos hace sentir tranquilos y listos para dormir. Ahora, vamos a cerrar los ojos e imaginar que estamos en uno de esos mundos mágicos."
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo están haciendo! Ahora vamos a practicar un ejercicio de respiración. Vamos a inhalar profundamente por la nariz y luego exhalar suavemente por la boca. ¿Listos? Inhalen... y exhalen... ¡Genial! Este tipo de respiración nos ayuda a calmarnos y a sentirnos listos para dormir. ¡Son unos expertos en relajación!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, antes de dormir, podemos pensar en tres cosas bonitas que nos hayan pasado durante el día. Puede ser algo tan simple como ver una mariposa o compartir una sonrisa con un amigo. Pensar en cosas agradables nos hace sentir felices y agradecidos. ¿Pueden pensar en tres cosas bonitas de hoy? ¡Estoy seguro de que tuvieron un día maravilloso!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora que hemos pensado en cosas bonitas, es hora de acurrucarnos en la cama. Podemos asegurarnos de que nuestras mantas estén bien colocadas y de que tengamos nuestro peluche favorito cerca. ¿Tienen un peluche que les gusta abrazar? Abrazar algo suave nos hace sentir seguros y cómodos. Ahora estamos listos para cerrar los ojos y dejarnos llevar por el sueño."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez han visto las estrellas antes de dormir? Mirar las estrellas puede ser muy relajante. ¿Saben cuántas estrellas hay en el cielo? ¡Hay millones y millones! ¿Les gustaría contar algunas de ellas conmigo? Contar estrellas es una manera especial de terminar el día. ¿Pueden ver alguna estrella brillante desde su ventana?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden, dormir bien es muy importante para crecer fuertes y sanos. Cada noche es una nueva oportunidad para descansar y soñar. Los sueños son como pequeños viajes que hacemos mientras dormimos. ¿Alguna vez han tenido un sueño gracioso o emocionante? Los sueños pueden ser cualquier cosa que imaginemos. Ahora, es hora de que ustedes también tengan sus propios sueños mágicos."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo han hecho fantástico siguiendo todas las rutinas! Ahora pueden sentirse orgullosos de estar listos para dormir. Cada paso que hemos hecho nos ayuda a sentirnos tranquilos y felices. Recuerden que pueden hacer esto cada noche para que la hora de dormir sea especial. ¡Son unos campeones de la hora de dormir! Sigamos practicando estas buenas costumbres."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Si alguna vez tienen problemas para dormir, pueden intentar contar hasta diez despacito. Contar números nos ayuda a concentrarnos y a dejar de pensar en otras cosas. ¿Quieren intentarlo ahora? Uno, dos, tres... ¡Diez! ¡Muy bien! Practicar esto puede hacer que el sueño llegue más rápido. ¡Ahora están listos para dormir como verdaderos campeones!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden que cada noche es una nueva oportunidad para descansar y prepararse para un día lleno de aventuras. Dormir bien nos hace sentir felices y listos para jugar y aprender. Estoy muy contento de haber compartido estos momentos con ustedes. Espero que tengan sueños dulces y que se despierten con una sonrisa. Ahora, vamos a despedirnos por hoy."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer acompañarlos en esta aventura de la hora de dormir. Espero que hayan disfrutado y aprendido mucho. Ahora es momento de cerrar los ojos y dejarse llevar por el sueño. Recuerden que siempre estaré aquí para más aventuras. ¡Buenas noches, pequeños amigos! Que tengan un sueño mágico y reparador. ¡Hasta la próxima!"
+    }
+  ],
+  "title": "Historia de Bedtime de Clever Mouse Jerry"
+}

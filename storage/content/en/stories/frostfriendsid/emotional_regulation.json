@@ -1,0 +1,104 @@
+{
+  "id": "frost_friend_sid_emotional_regulation_story",
+  "character": "Frost Friend Sid",
+  "topic": "emotional_regulation",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Frost Friend Sid, your new chilly buddy. Today, we're going on a fun adventure about understanding our feelings. Isn't that exciting? We'll learn how to keep our cool just like a snowman, even when we feel all warm and fuzzy inside. Are you ready to explore how we can feel happy and calm? Let's jump right into it!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about feelings. Have you ever felt like a stormy cloud when things don't go your way? That's okay! Everyone feels that way sometimes. Our feelings are like different weather: sunny, rainy, or even snowy! What's important is learning how to handle them, so we can feel better. Are you ready to learn more about this cool trick?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "When you feel like a grumpy bear, take a deep breath. Let's practice together! Breathe in slowly like you're smelling your favorite flower. Now breathe out like you're blowing out birthday candles. Doesn't that feel nice? Breathing helps calm our minds, just like a gentle breeze calming the waves. Try this whenever you feel upset or angry."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job! You're learning so fast, like a speedy snowflake! Remember, it's okay to feel different emotions. The important part is knowing how to turn those stormy clouds into a sunny day. You can always count on deep breaths to help you. You're doing wonderfully! Keep it up, my friend!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue with another fun idea. Have you ever tried counting to calm down? It's like playing a fun game with numbers! When you feel upset, try counting to five slowly. One, two, three, four, five. Each number is like a step towards feeling better. It's like climbing a gentle hill where happiness waits at the top."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's try something new. Imagine a happy place in your mind. It could be a magical ice castle or a sunny beach. Close your eyes and picture it clearly. What colors do you see? What sounds do you hear? This happy place can help you feel calm and safe whenever you need it. It's your special secret spot!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're doing so well, like a brave little penguin. Remember, your happy place is always with you, ready to help you feel better. You're learning so many ways to handle your feelings. Keep practicing, and you'll become a feelings expert in no time! I'm so proud of you!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I have a question for you. What makes you feel happy and calm? Is it playing with your favorite toy or reading a fun story? Knowing what makes you happy is like having a treasure map to your heart. Would you like to share your happy thoughts with me?"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "That's wonderful! Thank you for sharing your happy thoughts with me. It's like sharing a warm cup of cocoa on a chilly day. Remember, you can always think of these happy things when you feel upset. You're doing such an amazing job, my friend!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about another way to feel better. Have you ever tried giving yourself a big, warm hug? Wrap your arms around yourself and squeeze gently. It feels like a cozy blanket on a cold day. This hug can help remind you that you're loved and safe. It's a simple way to feel better!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice giving ourselves a hug together. Ready? Wrap your arms around yourself, just like you're a fluffy bear. Squeeze gently and take a deep breath. Doesn't that feel nice? You can do this anytime you need a little extra comfort. It's like carrying a hug with you wherever you go!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You did it! You're learning so many ways to feel calm and happy. Remember, you're never alone with your feelings. You have all these special tools to help you. Keep practicing, and you'll be a feelings champion in no time. I'm so proud of everything you've learned today!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, here's another question for you. What do you like to do when you feel a little sad? Maybe it's drawing a picture or singing a song. Knowing these things can help you feel better faster. Would you like to share your ideas with me?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Thank you for sharing your ideas! It's like sharing the sunshine on a cloudy day. Remember, you can always use these ideas to turn a frown into a smile. You're doing such a great job learning about your feelings. Keep it up, my friend!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Well, our adventure is coming to an end. But don't worry, Frost Friend Sid will always be here to help you with your feelings. Remember all the fun things we've learned today. You're amazing, and I'm so proud of you! Until next time, keep smiling and stay frosty, my friend. Goodbye for now!"
+    }
+  ],
+  "title": "Frost Friend Sid's Emotional Regulation Story"
+}

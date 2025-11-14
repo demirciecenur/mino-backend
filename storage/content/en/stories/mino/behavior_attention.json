@@ -1,0 +1,104 @@
+{
+  "id": "mino_behavior_attention_story",
+  "title": "Mino's Behavior Attention Story",
+  "character": "Mino",
+  "topic": "behavior_attention",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little explorers! I'm Mino, your friendly space adventurer. Today, we're setting off on a journey to learn all about paying attention and staying calm. Are you excited? I sure am! We'll discover how to focus like a laser beam and keep our feelings as calm as a gentle breeze. So, buckle up and get ready for an interstellar adventure about behavior and attention!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Attention is like having superpowers! It helps us listen to stories, learn new things, and even play games better. When we pay attention, we can remember more and have more fun. Imagine you're a superhero with a special focus beam. Can you see how it helps you with everything you do? Now, let's find out how we can train our attention superpowers every day."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "One way to practice attention is by doing a fun activity called 'Listening Ears.' First, we put our hands behind our ears and listen very carefully. Can you hear the birds outside or maybe the sound of the wind? Practicing listening helps us focus on what's important. It's like tuning into your favorite space radio station! Let's try it together and see what we can discover."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job, little adventurers! You listened so well. Now, let's try another activity called 'Focus on Breathing.' We'll take three deep breaths together. Breathe in slowly, like you're filling up a big balloon. Then, breathe out gently, like you're blowing a soft cloud. Breathing helps us calm down when we feel too excited or upset. It's a cool trick to help us focus better!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about using our focus beam? Another way to practice is by playing a game called 'I Spy.' Look around and find something red, like a toy or a book. Then, focus on it and describe it to me. This game helps us notice small details and stay focused on one thing at a time. It's like being a detective in space, searching for clues!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's learn about routines. Routines are like maps that guide us through our day. They help us know what to expect and make us feel safe. For example, brushing our teeth every morning and night is a routine. It helps us start and end our day with a fresh smile. Routines are super helpful for staying organized and calm, just like a space explorer following a star map."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about calming down when we feel upset. Sometimes, we feel like a little storm inside. That's okay! We can calm the storm by taking a 'Calm Down Break.' Find a cozy spot, like a soft pillow or a quiet corner. Close your eyes and imagine you're floating in space, surrounded by twinkling stars. This helps us feel peaceful and ready to focus again."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing a fantastic job, space travelers! Let's practice another fun activity called 'Counting Stars.' Whenever you feel wiggly, count to five slowly. One, two, three, four, five. Counting helps us slow down and think clearly. It's like counting stars in the night sky, one by one. You can do this anytime you need a moment to focus."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever felt like there's too much going on, and it's hard to focus? What did you do to help yourself? Maybe you took a deep breath or asked for a hug. Sharing what helps us can give others new ideas. We all have different ways to focus and calm down, and that's perfectly okay. Let's think about how we can help each other on our space adventure."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's explore how we can use our attention skills to be good friends. Paying attention to our friends means listening when they talk and noticing when they need help. It makes our friendships stronger and more fun. Imagine you're on a space mission with a friend, working together to solve a puzzle. By paying attention, we make sure everyone has a great time."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try a 'Focus Challenge.' Pick a task, like drawing a picture or building with blocks. Set a timer for a few minutes and see how long you can focus on it without getting distracted. It's like training your attention muscles, just like astronauts train for their missions. You'll be amazed at how much you can achieve with a little practice!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "hand_on_hip",
+      "text": "Remember, it's okay to ask for help when you feel stuck. Just like astronauts have a team on Earth to guide them, you have family and friends to support you. If you ever feel your attention slipping away, ask someone to help you focus. Together, we can overcome any challenge and reach for the stars!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful job, space cadets! You've learned so much about focusing and calming down. Remember, practice makes perfect. The more you practice these skills, the better you'll get. You're already doing an amazing job, and I'm so proud of you. Keep exploring and discovering new ways to use your attention superpowers!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now that we've explored all these fantastic techniques, which one is your favorite? Do you like the 'Calm Down Break' or maybe 'Counting Stars'? It's important to find what works best for you. Everyone is unique, and that's what makes our space journey so special. Keep trying different ways to focus and see what you enjoy the most."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our adventure is coming to an end, but remember, your journey with attention never stops. Keep practicing and discovering new ways to stay focused and calm. I'm so happy you joined me on this space adventure. You're an amazing explorer, and I can't wait to see all the incredible things you'll do. Until next time, keep shining like the stars in the sky! Goodbye, little adventurers!"
+    }
+  ]
+}

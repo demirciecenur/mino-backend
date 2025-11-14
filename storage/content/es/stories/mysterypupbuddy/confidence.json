@@ -1,0 +1,104 @@
+{
+  "id": "mystery_pup_buddy_confidence_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "confidence",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguito! Soy Mystery Pup Buddy, y hoy vamos a vivir una aventura increíble sobre la confianza. ¿Estás listo para descubrir el misterio de ser valiente? Estoy muy emocionado de tenerte a mi lado. La confianza es como un superpoder que todos tenemos dentro. Juntos, aprenderemos cómo usarlo para sentirnos más seguros y felices. ¡Vamos a empezar esta maravillosa aventura!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confianza es como cuando sabes que puedes hacer algo, incluso si es un poco difícil. ¿Alguna vez te has sentido nervioso al intentar algo nuevo? Eso es completamente normal, y todos lo sentimos alguna vez. Pero con un poco de confianza, podemos superar esos miedos. Imagina que estás aprendiendo a andar en bicicleta, al principio puede ser difícil, pero con práctica y confianza, lo logras. ¡Así se siente la confianza!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a aprender cómo construir nuestra confianza. ¿Sabías que respirar profundamente puede ayudarnos a sentirnos más seguros? Vamos a intentarlo juntos. Inhala profundamente por la nariz, cuenta hasta tres, y luego exhala lentamente por la boca. Uno, dos, tres... ¡genial! Repite esto cada vez que te sientas un poco nervioso. Verás cómo poco a poco te sentirás más tranquilo y confiado."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo muy bien! La confianza también se trata de intentar cosas nuevas. Por ejemplo, podrías intentar vestirte solo por la mañana. Al principio puede parecer difícil, pero con cada intento, te sentirás más seguro. Recuerda, cada pequeño paso que das te acerca a ser más valiente. ¡Estoy seguro de que puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablamos sobre respirar profundamente para sentirnos mejor. Ahora, vamos a usar esa técnica cuando intentemos algo nuevo. Tal vez quieras intentar dibujar un nuevo animal o construir una torre de bloques más alta. Antes de empezar, respira profundamente y piensa: '¡Yo puedo hacerlo!' Verás cómo esa pequeña frase mágica te ayuda a sentirte más seguro. ¡Tú tienes el poder!"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabes qué es lo más maravilloso de la confianza? ¡Que crece cada día! ¿Puedes recordar una vez que te sentiste valiente? Tal vez fue cuando te atreviste a hablar en clase o cuando aprendiste a nadar. ¿Cómo te sentiste después de lograrlo? Seguramente te sentiste muy orgulloso de ti mismo. ¿Te gustaría compartir esa experiencia conmigo?"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Eso es increíble! Estoy muy orgulloso de ti por compartir tu historia de confianza. Ahora, cada vez que te enfrentes a algo nuevo, recuerda esa sensación de éxito. Es como tener una pequeña chispa de valentía dentro de ti. Siempre que lo necesites, esa chispa estará ahí para ayudarte. ¿No es maravilloso saber que ya tienes esa capacidad dentro de ti?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer un pequeño ejercicio para fortalecer nuestra confianza. Piensa en algo que te gustaría lograr. Puede ser algo pequeño, como aprender a atarte los zapatos. Ahora, cierra los ojos e imagina que lo lograste. Siente la alegría y el orgullo por haberlo hecho. Abre los ojos y repite conmigo: '¡Yo puedo hacerlo!' Esa frase te ayudará a recordar que eres capaz."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Recuerda que cada intento te lleva un paso más cerca de lograr tus metas. Es normal cometer errores, pero lo importante es seguir intentándolo. Cada vez que lo haces, tu confianza crece un poquito más. ¡Estoy aquí para animarte en cada paso del camino! Siempre que necesites un amigo, recuerda que Mystery Pup Buddy está a tu lado."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, la confianza también significa pedir ayuda cuando la necesitamos. No hay nada de malo en buscar apoyo de un amigo o un adulto. Todos necesitamos un poco de ayuda de vez en cuando. Imagina que estás tratando de alcanzar algo alto en un estante. Pedir ayuda para llegar allí es una forma de ser valiente también. ¡Eso demuestra que sabes cuidar de ti mismo!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a practicar cómo pedir ayuda de manera confiada. Imagina que necesitas ayuda para construir algo grande con tus bloques. Puedes decir: '¿Me puedes ayudar, por favor?' Practiquemos juntos: '¿Me puedes ayudar, por favor?' ¡Bien hecho! Al pedir ayuda, estás mostrando que tienes confianza en ti mismo y que valoras el trabajo en equipo."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme sobre una vez que pediste ayuda y te sentiste feliz por hacerlo? Tal vez fue cuando necesitabas ayuda con una tarea o cuando querías aprender algo nuevo. ¿Recuerdas cómo te sentiste después? Estoy seguro de que fue un momento de gran aprendizaje. ¿Te gustaría compartirlo con nosotros?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué historia tan maravillosa! Estoy muy contento de que hayas compartido eso conmigo. Cada vez que pides ayuda, estás creciendo y aprendiendo. Eso es lo que hace la confianza: te ayuda a seguir adelante, incluso cuando no es fácil. Recuerda siempre que tienes a tus amigos y seres queridos para apoyarte. ¡Eres muy valiente por compartir tu historia!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estamos haciendo un gran trabajo juntos! La confianza es como una semilla. Cuanto más la cuidamos, más crece y florece dentro de nosotros. Cada día es una nueva oportunidad para practicar ser valiente y seguro de ti mismo. Estoy muy orgulloso de ti por ser tan valiente y por aprender tanto hoy. ¡Sigue así, pequeño héroe!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Hemos llegado al final de nuestra aventura sobre la confianza. Gracias por acompañarme, amiguito. Recuerda siempre que tienes una chispa de valentía dentro de ti. Usa lo que aprendimos hoy para ser más seguro y feliz cada día. Estoy muy orgulloso de ti y de todo lo que logramos juntos. ¡Hasta la próxima aventura, pequeño valiente!"
+    }
+  ],
+  "title": "Historia de Confidence de Mystery Pup Buddy"
+}

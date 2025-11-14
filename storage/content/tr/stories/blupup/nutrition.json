@@ -1,0 +1,104 @@
+{
+  "id": "blu_pup_nutrition_story",
+  "character": "Blu Pup",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Blu Pup. Bugün birlikte beslenme hakkında harika bir yolculuğa çıkacağız. Sağlıklı beslenmenin neden önemli olduğunu öğrenmeye hazır mısın? Seni çok merak ediyorum. Haydi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme, vücudumuza enerji ve güç veren yiyecekleri yememiz anlamına gelir. Tıpkı oyuncak arabanın çalışması için pil gerektiği gibi, bizim de enerjiye ihtiyacımız var. Sağlıklı yiyecekler yemek, büyümemize ve güçlü olmamıza yardımcı olur. Şimdi, hangi yiyeceklerin bize en çok enerji verdiğini keşfedelim, ne dersin? Bu, gerçekten eğlenceli olacak!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Sebzeler ve meyveler, vücudumuz için çok faydalıdır. Havucun gözlerimize iyi geldiğini duymuş muydun? Elmalar da dişlerimizi temiz tutar. Bu yüzden, her gün farklı renklerde meyve ve sebze yemek, vücudumuzun sağlıklı kalmasına yardımcı olur. Şimdi birlikte en sevdiğimiz meyve ve sebzeleri sayalım mı?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harikasın! Şimdi biraz protein hakkında konuşalım. Protein, kaslarımızın güçlü kalmasına yardımcı olur. Tavuk, balık ve yumurta gibi yiyecekler, protein açısından zengindir. Sen en çok hangi proteini seviyorsun? Bunu öğrenmek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda proteinlerden bahsettik. Şimdi ise karbonhidratları keşfedelim. Ekmek, makarna ve pirinç gibi yiyecekler, bize enerji verir. Bu yiyecekler sayesinde oyun oynarken daha hızlı koşabiliriz. Ne kadar enerji dolu olduğunu hayal edebiliyor musun? Hadi, birlikte düşünelim!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vücudumuzun sağlıklı kalması için su içmek de çok önemlidir. Su, tıpkı bir çiçeği sulamak gibidir; bizi canlandırır ve taze hissetmemizi sağlar. Her gün en az 8 bardak su içmeliyiz. Şimdi, birlikte su içmenin ne kadar eğlenceli olduğunu hayal edelim!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika işler başarıyorsun! Şimdi birlikte sağlıklı bir kahvaltı hazırlayabiliriz. Yulaf ezmesi, süt ve biraz meyve ile harika bir kahvaltı yapabiliriz. Bu, sabahları enerjik olmamıza yardımcı olur. Kahvaltı yaparken hangi meyveyi tercih edersin? Bunu seçmek çok eğlenceli olacak!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kahvaltımızı yaptıktan sonra, gün boyunca enerjimizi yüksek tutmamız gerekiyor. Ara öğünler, gün içinde enerji seviyemizi dengede tutmamıza yardımcı olur. Bir avuç fındık veya bir dilim peynir gibi sağlıklı atıştırmalıklar seçebiliriz. Senin en sevdiğin atıştırmalık nedir? Hadi bunu birlikte keşfedelim!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hatırlıyor musun, beslenme hakkında birçok şey öğrendik. Peki, hangi yiyeceğin sana en çok enerji verdiğini hatırlıyor musun? Bu yiyecekleri her gün yediğimizde nasıl güçlü kaldığımızı düşündüğünde ne hissediyorsun? Senin düşüncelerini duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme, sadece yiyecekleri seçmekle ilgili değildir; aynı zamanda dengeli bir şekilde yemeyi de öğrenmeliyiz. Her gün farklı yiyecek gruplarından besinler almak çok önemlidir. Bu, vücudumuzun ihtiyaç duyduğu tüm vitaminleri almamıza yardımcı olur. Şimdi, birlikte dengeli bir öğün planı yapalım mı? Hadi başlayalım!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Dengeli bir öğün planlarken, tabağımızın yarısını sebze ve meyvelerle doldurmalıyız. Diğer yarısını ise protein ve karbonhidratlarla doldurabiliriz. Bu şekilde, vücudumuzun ihtiyacı olan tüm besinleri almış oluruz. Şimdi, tabağımızı nasıl dolduracağımızı hayal edelim!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkardın! Şimdi birlikte yemeklerimizi renklendirelim. Farklı renklerde yiyecekler yemek, vücudumuzun farklı ihtiyaçlarını karşılar. Örneğin, yeşil sebzeler demir açısından zengindir ve kırmızı meyveler kalbimize iyi gelir. Senin en sevdiğin renk nedir? Haydi, bu renklerde yiyecekler düşünelim!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Yemeklerimizi renklendirdikten sonra, tatlıları da unutmamalıyız. Tatlılar, özel günlerde ve ödül olarak yenmelidir. Çok fazla tatlı yemek, vücudumuz için iyi değildir. Tatlı yerine meyve tercih edebiliriz. Senin en sevdiğin meyve hangisi? Hadi, bunu birlikte düşünelim!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bir önceki konuşmamızda tatlılardan bahsettik. Peki, en sevdiğin tatlı nedir? Sence tatlı yerine hangi meyveyi tercih edebilirsin? Tatlıları dengeli bir şekilde tükettiğimizde nasıl hissettiğimizi düşündüğünde ne hissediyorsun? Düşüncelerini duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Harika bir yolculuktu, değil mi? Beslenme hakkında çok şey öğrendik. Sağlıklı yiyecekler seçmek, vücudumuzu güçlü ve enerjik tutar. Seninle bu yolculuğu paylaşmak çok eğlenceliydi. Bir dahaki sefere görüşmek üzere, küçük dostum!"
+    }
+  ],
+  "title": "Blu Pup'ın Nutrition Hikayesi"
+}

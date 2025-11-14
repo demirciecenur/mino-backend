@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_transitions_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "transitions",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Sneaky Cat Tom. Bugün birlikte değişiklikler ve yeni durumlara uyum sağlamanın yollarını keşfedeceğiz. Hazır mısın? Bu yolculukta eğlenceli ve öğretici anlar yaşayacağız. Herkesin hayatında değişiklikler olur ve bu, büyümek için harika bir fırsat. Haydi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda değişikliklerden bahsetmiştik. Şimdi biraz daha derine inelim. Mesela, yeni bir okula başlamak veya yeni bir eve taşınmak gibi durumlar olabilir. Bu gibi değişiklikler bazen heyecan verici olabilirken bazen de biraz korkutucu olabilir. Ama endişelenme! Çünkü her geçiş, yeni arkadaşlar edinmek ve yeni şeyler öğrenmek için bir fırsattır."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Değişikliklerle başa çıkmanın en iyi yollarından biri, onlara nasıl uyum sağlayacağımızı öğrenmektir. Örneğin, sabahları yeni bir rutine alışmak için bir plan yapabilirsin. Belki de bir gece önceden kıyafetlerini hazırlamak veya kahvaltını düşünmek iyi bir fikir olabilir. Bu tür küçük hazırlıklar, büyük değişiklikleri daha kolay hale getirebilir. Sen de böyle planlar yapmayı deneyebilirsin."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım. Hayal et ki, bir sabah uyandığında bir kedi oldun! Ne yapardın? Belki de bir ağaca tırmanır ya da kuşları izlerdin. Bu tür hayali oyunlar, değişikliklere uyum sağlamanın eğlenceli bir yoludur. Denemek istediğin başka bir hayal var mı? Hayal gücünü kullanarak farklı senaryolar oluşturabilirsin."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücüyle oynadığımız bu oyunlar, değişiklikleri daha keyifli hale getirir. Şimdi gerçek hayata dönelim. Diyelim ki, odanı yeniden düzenlemek istiyorsun. Bu, yeni bir başlangıç yapmanın harika bir yolu olabilir. Renkli kutular, oyuncaklarını düzenlemek için mükemmel olabilir. Böylece hem eğlenir hem de düzeni sağlarsın."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir değişiklikle karşılaştığında, onu daha iyi anlamak için sorular sormak önemlidir. Örneğin, yeni bir okula başlamadan önce, öğretmenin hakkında bilgi alabilirsin. Ya da yeni bir yere taşındığında, çevredeki parkları keşfedebilirsin. Bu tür bilgiler, sana daha güvende hissettirebilir. Unutma, bilgi güçtür ve seni daha rahat hissettirir."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte nefes alalım. Derin bir nefes al, sonra yavaşça ver. Bunu üç kez yapalım. Bu küçük nefes egzersizi, değişikliklerle başa çıkarken rahatlamana yardımcı olabilir. Kendini daha iyi hissettiğinde, her şey daha kolay gelir. Harika! Şimdi daha rahat hissettiğine eminim."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hatırlıyor musun, bir önceki sahnede nefes alıp verme egzersizi yaptık. Şimdi, duygularımızı nasıl ifade edebileceğimizi konuşalım. Bazen değişiklikler duygusal olabilir ve bu çok normaldir. Duygularını kelimelerle ifade etmek, seni rahatlatabilir. Bir arkadaşına ya da aile üyene hissettiklerini anlatabilirsin. Duygularını paylaşmak, onları daha iyi anlamana yardımcı olur."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Hiç büyük bir değişiklik yaşadın mı? Mesela, yeni bir arkadaş edindin mi veya yeni bir yere taşındın mı? Bu deneyimlerde neler hissettin? Belki de biraz heyecan, biraz da endişe hissetmiş olabilirsin. Duygularını paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularını paylaştığın için teşekkür ederim. Şimdi, değişikliklerin hayatımızda nasıl bir yer kapladığını düşünelim. Değişiklikler, her zaman kötü değildir. Bazen hayatımıza yeni renkler katar. Örneğin, yeni bir hobi edinmek ya da yeni bir spor dalına başlamak gibi. Bu tür değişiklikler, kendimizi geliştirmemize yardımcı olabilir."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi bir görevimiz var! Her gün, yeni bir şey öğrenmeye çalışalım. Bu, yeni bir kelime ya da yeni bir bilgi olabilir. Öğrendiklerini bir deftere yazabilirsin. Böylece, zamanla ne kadar çok şey öğrendiğini görebilirsin. Bu, değişikliklere uyum sağlamanın harika bir yolu olabilir. Denemek ister misin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Yeni şeyler öğrenmek çok eğlenceli olabilir. Şimdi seninle bir bulmaca çözebiliriz. Mesela, bir kelimeyi tersten söylemeyi deneyelim. \"Kedi\" kelimesi tersten nasıl olurdu? Evet, \"idek\" olurdu! Bu tür küçük oyunlar, zihnimizi aktif tutar. Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki bulmacayı çözmek eğlenceliydi, değil mi? Şimdi, değişikliklerin nasıl fırsatlar sunduğuna bakalım. Her değişiklik, yeni bir şeyler denemek için bir fırsat olabilir. Yeni bir arkadaş edinmek ya da yeni bir yemeği tatmak gibi. Bu tür fırsatlar, hayatımızı daha renkli kılar. Sen de yeni şeyler denemekten korkma."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Biraz önce bahsettiğimiz fırsatlardan biri de yeni bir dil öğrenmek olabilir. Mesela, \"merhaba\" kelimesini başka dillerde öğrenmek ister misin? İngilizce'de \"hello\", İspanyolca'da \"hola\" denir. Bu tür küçük bilgiler, seni daha bilgili ve açık görüşlü biri yapar. Sen de başka dillerde kelimeler öğrenmek ister misin?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık. Değişikliklerin hayatımızdaki yerini ve onlara nasıl uyum sağlayabileceğimizi öğrendik. Unutma, her değişiklik bir fırsattır ve sen bu fırsatları en iyi şekilde değerlendirebilirsin. Ben Sneaky Cat Tom, seninle bu macerayı paylaşmaktan çok mutlu oldum. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Sneaky Cat Tom'ın Transitions Hikayesi"
+}

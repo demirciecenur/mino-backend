@@ -1,0 +1,104 @@
+{
+  "id": "sunny_friendship_story",
+  "character": "Sunny",
+  "topic": "friendship",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Sunny, und heute gehen wir auf ein fröhliches Abenteuer über Freundschaft. Bist du bereit? Freundschaft ist etwas Wundervolles, und ich bin so gespannt, es mit dir zu erkunden. Gemeinsam können wir lernen, wie man ein guter Freund ist und warum Freunde so wichtig sind. Lasst uns zusammen auf diese Reise gehen und Spaß haben!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft bedeutet, jemanden zu haben, mit dem man spielen und lachen kann. Erinnerst du dich, wenn wir über das Spielen gesprochen haben? Ein Freund ist jemand, der dir hilft, wenn du traurig bist, und mit dem du deine Freude teilst. Freunde zu finden kann so aufregend sein, weil man so viele neue Dinge lernen kann. Manchmal ist es wie ein kleines Abenteuer, jemanden kennenzulernen!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Um ein guter Freund zu sein, ist es wichtig, freundlich und hilfsbereit zu sein. Wenn dein Freund Hilfe beim Aufräumen braucht, kannst du sagen: 'Ich helfe dir gerne!' So zeigt man, dass man sich um sie kümmert. Und wenn du ein Spielzeug hast, das dein Freund mag, kannst du es teilen. Teilen macht nicht nur Spaß, sondern zeigt auch, dass du ein großartiger Freund bist. Möchtest du das ausprobieren?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Jetzt lass uns zusammen zählen, wie oft wir heute freundlich sein können. Eins, zwei, drei – es ist so einfach, freundlich zu sein! Wenn du jemandem ein Lächeln schenkst, macht das ihren Tag heller. Und wenn du jemandem zuhörst, zeigst du, dass du ein guter Zuhörer bist. Du kannst das, und es macht so viel Spaß, freundlich zu sein!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir darüber gesprochen haben, freundlich zu sein? Manchmal kann ein einfaches 'Hallo' der Beginn einer wunderbaren Freundschaft sein. Wenn du jemanden siehst, der alleine spielt, kannst du fragen: 'Möchtest du mitspielen?' Das ist eine tolle Möglichkeit, einen neuen Freund zu finden. Und wer weiß, vielleicht entdeckt ihr zusammen ein neues Spiel!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über das Zuhören sprechen. Ein guter Freund hört zu, wenn der andere spricht. Wenn dein Freund dir eine Geschichte erzählt, kannst du aufmerksam zuhören und vielleicht sogar Fragen stellen. Zum Beispiel: 'Was ist dann passiert?' oder 'Wie hast du dich gefühlt?' Das zeigt, dass du dich für deinen Freund interessierst und dir seine Geschichten wichtig sind."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du schon einmal eine Geschichte erzählt, und jemand hat gut zugehört? Das fühlt sich toll an, oder? Es ist wichtig, dass wir auch unseren Freunden zuhören, damit sie wissen, dass wir sie schätzen. Wenn wir gut zuhören, können wir viel über unsere Freunde lernen und unsere Freundschaft wird stärker. Lass uns das nächste Mal daran denken, gut zuzuhören!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über das Zuhören gesprochen haben, lass uns über das Spielen sprechen. Spielen ist eine wunderbare Art, Zeit mit Freunden zu verbringen. Wenn du ein Spiel spielst, kannst du neue Dinge lernen und viel Spaß haben. Du kannst auch neue Spiele erfinden und deine Freunde einladen, mitzumachen. Spielen macht nicht nur Spaß, sondern stärkt auch die Freundschaft."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Das klingt toll, oder? Lass uns ein kleines Spiel spielen! Stell dir vor, wir sind auf einer Schatzsuche, und wir müssen zusammenarbeiten, um den Schatz zu finden. Kannst du dir vorstellen, wie aufregend das wäre? Gemeinsam können wir den Schatz finden und teilen, was wir entdeckt haben. Du bist ein fantastischer Abenteurer!"
+    },
+    {
+      "id": "question_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Weißt du, was das Beste an Freundschaft ist? Es ist die Freude, jemanden zu haben, der dich versteht und mit dem du alles teilen kannst. Hast du schon einmal einen Freund gefunden, der dir wirklich wichtig ist? Wie hast du ihn kennengelernt? Vielleicht hast du ihn in der Schule oder im Park getroffen. Erzähl mir mehr, ich bin neugierig!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nun, da wir darüber gesprochen haben, wie man Freunde findet, lass uns über das Pflegen der Freundschaft sprechen. Es ist wichtig, sich Zeit für seine Freunde zu nehmen, auch wenn man beschäftigt ist. Du kannst kleine Dinge tun, wie zum Beispiel deinem Freund eine Zeichnung schenken oder ihm eine lustige Geschichte erzählen. Solche Gesten zeigen, dass du an sie denkst und sie schätzt."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber nachdenken, wie wir unsere Freundschaften stark halten können. Eine Möglichkeit ist, ehrlich zu sein und immer die Wahrheit zu sagen. Wenn du einen Fehler machst, ist es wichtig, sich zu entschuldigen. Zum Beispiel: 'Es tut mir leid, dass ich dein Spielzeug genommen habe.' Ehrlichkeit und Entschuldigungen helfen, Vertrauen aufzubauen und die Freundschaft zu stärken."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar! Du lernst so viel über Freundschaft. Jetzt lass uns ein paar tiefe Atemzüge nehmen, um uns zu entspannen. Einatmen, ausatmen, einatmen, ausatmen. Das fühlt sich gut an, nicht wahr? Mit Freunden zu sein, kann so beruhigend sein, genau wie diese Atemzüge. Du kannst das jederzeit tun, um dich zu beruhigen und dich an all die tollen Dinge zu erinnern, die wir gelernt haben."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du heute etwas Neues über Freundschaft gelernt? Vielleicht eine neue Art, wie man ein guter Freund sein kann? Es gibt so viele Wege, um Freundschaften zu stärken und sie zu pflegen. Was wirst du als Nächstes ausprobieren? Vielleicht das Teilen oder das Zuhören? Ich bin gespannt, was du denkst!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt, wo wir so viel über Freundschaft gelernt haben, ist es Zeit, sich zu verabschieden. Ich hoffe, du hattest genauso viel Spaß wie ich und hast neue Ideen für deine Freundschaften bekommen. Denk daran, freundlich und ehrlich zu sein, und deine Freundschaften werden wachsen. Vielen Dank, dass du mit mir auf dieses Abenteuer gekommen bist. Bis bald, kleiner Freund!"
+    }
+  ],
+  "title": "Sunnys Friendship Geschichte"
+}

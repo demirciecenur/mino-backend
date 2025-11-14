@@ -1,0 +1,104 @@
+{
+  "id": "funny_bunny_behavior_story",
+  "character": "Funny Bunny",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello there, little friends! I'm Funny Bunny, your fluffy pal ready to hop into a fun adventure about behavior. Today, we're going to explore what it means to be kind, helpful, and follow the rules. Are you excited to learn together? I can't wait to share some funny stories and clever tricks with you. So, buckle up your ears and let's get started on this bouncy journey!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what behavior means. It's all about how we act and the choices we make every day. For example, when you share your toys with a friend, that's good behavior. It makes your friend happy and you feel proud. And when you say 'please' and 'thank you,' you're showing kindness and respect. Isn't it wonderful to make others smile?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about sharing toys? Well, here's a little tip. If you ever feel like keeping all the toys to yourself, try counting to five. One, two, three, four, five. This gives you a moment to think about how sharing can make playtime more fun. Sharing is caring, and it helps us make lots of friends!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking about sharing! You can do it! Now, let's imagine we're on a playground. If someone falls down, what should we do? Yes, we help them up! Helping others shows that we care. It's like being a superhero with a kind heart. You're doing amazing, little hero!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure with listening. Listening is an important part of good behavior. When someone talks, we give them our full attention, just like when we watch a fun cartoon. This shows that we respect what they're saying. So, next time your teacher or parent speaks, try to listen carefully. You'll learn so much!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Listening can be tricky sometimes, but here's a fun way to practice. Let's pretend we're detectives on a mission. We need to listen closely to find clues. Can you hear the sounds around you? Maybe a bird chirping or a car passing by. Listening helps us discover new things every day!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing a fantastic job, little detective! Keep those ears perked up. Now, let's talk about following rules. Rules are like a treasure map. They guide us to good behavior and fun adventures. When we follow rules, everyone knows what to expect and we all have a great time. You're a rule-following superstar!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about being a superhero? Well, superheroes also follow rules to keep everyone safe. For example, crossing the street with an adult and waiting for the green light. These rules help us stay safe and happy. You're learning so much, and I'm so proud of you!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice some superhero moves together. Stand up tall and take a deep breath. One, two, three, and out. Feel how calm and strong you are? These moves help us feel ready to follow rules and have fun. You're a superhero in training, and you can do anything!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful job, little hero! You're doing so well. Let's think about how we can be kind every day. Maybe by helping set the table or drawing a picture for someone special. Small acts of kindness can make a big difference. You're spreading smiles everywhere you go!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I'm curious. What's one kind thing you did today? Did you share a snack or help a friend? Every act of kindness counts, no matter how small. Remember, your kindness shines like a bright star. Would you like to share your story with me?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "That's a fantastic story! Thank you for sharing. Kindness is like a magic spell that makes everyone feel happy. Keep spreading that magic everywhere you go. You're doing an incredible job, and I'm so proud to be your friend. Let's keep up the great work together!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we wrap up our adventure, let's remember all the wonderful things we've learned. Good behavior is about being kind, helpful, and following the rules. It's like being a part of a big, happy family where everyone feels safe and loved. You're a shining example of great behavior!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Before we say goodbye, let's take a moment to celebrate. You've learned so much today, and I'm so proud of you! Keep practicing what we've talked about and you'll be a behavior superstar. Remember, you can do anything you set your mind to. You're amazing!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Well, my little friends, it's time for me to hop along. But don't worry, I'll be back soon for more fun adventures. Keep being kind, helpful, and following the rules. You're all wonderful, and I'm so happy we got to spend this time together. Until next time, keep smiling and hopping along! Goodbye!"
+    }
+  ],
+  "title": "Funny Bunny's Behavior Story"
+}

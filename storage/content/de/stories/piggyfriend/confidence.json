@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_confidence_story",
+  "character": "Piggy Friend",
+  "topic": "confidence",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo kleine Freunde! Ich bin Piggy Friend, und heute gehen wir auf eine spannende Reise über Selbstvertrauen. Seid ihr bereit? Selbstvertrauen bedeutet, an sich selbst zu glauben und mutig zu sein. Es ist, wie wenn man das erste Mal auf ein Fahrrad steigt oder das erste Mal ein neues Spiel probiert. Ich bin so gespannt, was wir heute alles lernen werden!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert ihr euch, als wir darüber gesprochen haben, wie es ist, etwas Neues auszuprobieren? Selbstvertrauen hilft uns, solche neuen Dinge mit Freude zu entdecken. Manchmal fühlt man sich etwas ängstlich, aber das ist okay. Mutig zu sein bedeutet, trotzdem weiterzumachen. Wenn wir etwas Neues lernen, wie zum Beispiel schwimmen oder ein Lied singen, wächst unser Selbstvertrauen. Das ist ein tolles Gefühl, nicht wahr?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns gemeinsam eine kleine Übung machen, um unser Selbstvertrauen zu stärken. Stellt euch vor, ihr seid ein großer, starker Baum. Steht aufrecht und streckt eure Arme weit aus. Atmet tief ein und dann langsam aus. Fühlt, wie stark ihr seid. Wenn ihr euch wie ein Baum fühlt, könnt ihr alles schaffen. Probiert es aus, und sagt: 'Ich kann das!'"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Ihr seid alle so stark und mutig. Wenn ihr euch das nächste Mal unsicher fühlt, denkt einfach an den großen Baum. Selbstvertrauen hilft uns, auch dann weiterzumachen, wenn etwas schwierig erscheint. Jeder kleine Schritt zählt. Lasst uns zusammen zählen: eins, zwei, drei, vier, fünf. Seht ihr, wie einfach das sein kann?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über Selbstvertrauen gesprochen haben, lasst uns überlegen, wann wir es im Alltag brauchen. Vielleicht beim Zähneputzen oder beim Anziehen. Diese kleinen Aufgaben machen uns jeden Tag stärker. Es sind die kleinen Dinge, die uns helfen, selbstbewusst zu werden. Was denkt ihr darüber? Fühlt ihr euch schon ein bisschen mutiger?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Habt ihr schon einmal etwas gemacht, das euch stolz gemacht hat? Vielleicht ein Bild gemalt oder ein Buch gelesen? Das sind alles tolle Beispiele dafür, wie wir unser Selbstvertrauen stärken können. Wenn wir stolz auf uns sind, wächst unser Mut. Was ist eine Sache, auf die ihr besonders stolz seid? Ich würde es gerne hören!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nachdem wir über unsere Erfolge gesprochen haben, ist es wichtig zu wissen, dass jeder Fehler macht. Fehler sind Teil des Lernens und machen uns stärker. Wenn wir hinfallen, stehen wir wieder auf und probieren es noch einmal. Das ist auch eine Form von Selbstvertrauen. Habt ihr schon einmal einen Fehler gemacht und daraus gelernt? Das ist eine tolle Leistung!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns eine kleine Übung machen, um unser Selbstvertrauen zu stärken. Schließt die Augen und denkt an etwas, das euch glücklich macht. Vielleicht an einen lustigen Tag im Park oder an eure Lieblingsgeschichte. Atmet tief ein und aus, während ihr daran denkt. Das macht uns stark und mutig. Öffnet die Augen und fühlt euch bereit für alles!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar! Ihr habt das toll gemacht. Ihr seid wirklich mutige und selbstbewusste Kinder. Denkt daran, dass Selbstvertrauen mit jedem kleinen Schritt wächst. Egal, ob ihr ein neues Spiel spielt oder einen Freund trefft, ihr könnt alles schaffen. Glaubt an euch selbst, und die Welt wird ein aufregender Ort sein!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir so viel über Selbstvertrauen gelernt haben, lasst uns überlegen, wie wir anderen helfen können, mutiger zu sein. Vielleicht könnt ihr einem Freund helfen, der sich unsicher fühlt, oder jemandem ein Kompliment machen. Wenn wir anderen helfen, fühlen wir uns auch selbst stärker. Habt ihr schon einmal jemandem geholfen? Das ist so nett von euch!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkt ihr, wie fühlt es sich an, wenn man sich selbst vertraut? Ist es wie ein warmes Gefühl im Bauch oder wie ein kleiner Sprung vor Freude? Jeder kann es anders empfinden. Wenn ihr euch selbst vertraut, könnt ihr die spannendsten Abenteuer erleben. Was möchtet ihr als Nächstes ausprobieren?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert euch daran, dass Selbstvertrauen nicht bedeutet, dass man alles wissen muss. Es bedeutet, dass man bereit ist, zu lernen und zu wachsen. Jeder Tag bringt neue Möglichkeiten, mutig zu sein. Vielleicht lernt ihr ein neues Lied oder probiert ein neues Spiel aus. Seid offen für Neues, und euer Selbstvertrauen wird immer größer!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Habt ihr schon einmal einen Tag gehabt, an dem ihr euch besonders mutig gefühlt habt? Vielleicht, als ihr zum ersten Mal eine Rutsche hinuntergerutscht seid oder als ihr einem Freund geholfen habt. Diese Momente sind so wichtig. Sie zeigen uns, wie stark wir sind. Wenn ihr euch daran erinnert, fühlt ihr euch sicherer und bereit für alles!"
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Zum Schluss möchte ich, dass ihr euch an etwas ganz Besonderes erinnert. Jedes Mal, wenn ihr etwas Neues probiert, seid ihr mutig. Ob es das Malen eines Bildes oder das Singen eines Liedes ist, all das zeigt euer Selbstvertrauen. Denkt daran, tief ein- und auszuatmen und euch zu sagen: 'Ich kann das!'"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, heute mit euch über Selbstvertrauen zu sprechen. Ihr seid alle so mutig und stark. Denkt daran, dass ihr jeden Tag neue Abenteuer erleben könnt. Ich bin so stolz auf euch und eure Fortschritte. Auf Wiedersehen, kleine Freunde! Ich freue mich schon auf unser nächstes Abenteuer. Bis bald!"
+    }
+  ],
+  "title": "Piggy Friends Confidence Geschichte"
+}

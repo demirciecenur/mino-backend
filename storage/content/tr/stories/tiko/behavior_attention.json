@@ -1,0 +1,104 @@
+{
+  "id": "tiko_behavior_attention_story",
+  "character": "Tiko",
+  "topic": "behavior_attention",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Tiko, maceraperest ve enerjik bir arkadaşın. Bugün seninle birlikte dikkat toplama ve davranışlarımızı nasıl daha iyi yönetebileceğimiz hakkında konuşacağız. Bu macerada seninle birlikte olmak için çok heyecanlıyım! Hazır mısın? O zaman başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dikkat toplamak bazen zor olabilir, değil mi? Ama merak etme, bunun için bazı eğlenceli yollar var. Örneğin, bir oyunu tamamlamak için dikkatini toplaman gerektiğinde ne yapıyorsun? Belki derin bir nefes alıp kendine biraz zaman veriyorsundur. İşte böyle küçük yöntemler, dikkatimizi toplamamıza yardımcı olabilir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi sana dikkatini toplamana yardımcı olacak bir yöntem göstereceğim. Gözlerini kapat ve derin bir nefes al. Nefesini yavaşça ver ve bunu üç kez tekrarla. Bu basit egzersiz, zihnini sakinleştirir ve dikkatini toplamana yardımcı olur. Denemek ister misin?"
+    },
+    {
+      "id": "scene_3",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Harika, şimdi bu nefes egzersizini birlikte yapalım! Hazırsan, derin bir nefes al, nefesini tut ve yavaşça ver. Bir, iki, üç, nefes al, tut ve ver. Harikasın! Şimdi daha sakin ve dikkatli hissediyor musun?"
+    },
+    {
+      "id": "scene_4",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bu nefes alma egzersizini her gün yapmak, dikkatini toplamana ve sakinleşmene yardımcı olabilir. Unutma, bu senin için bir macera! Her gün yeni bir şey öğrenmek ve keşfetmek için harika bir fırsat. Sen bunu başarabilirsin!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi bir başka dikkat toplama yöntemi öğrenelim. Bir oyun oynarken veya resim yaparken, bazen çok heyecanlanabiliriz ve dikkatimizi kaybedebiliriz. Böyle durumlarda birkaç saniye durup, derin bir nefes almak ve etrafındaki sesleri dinlemek harika bir yöntemdir. Bu, dikkatimizi yeniden kazanmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dikkatini toplamak için başka bir yol da, küçük molalar vermektir. Örneğin, bir hikaye okurken, birkaç dakika ara verip düşündüklerini gözden geçirebilirsin. Böylece hikayeye geri döndüğünde daha iyi odaklanabilirsin. Bu yöntem, büyükler için de çok faydalıdır!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bunları uygulamak için sabırlı olman gerekiyor. Her yeni şeyde olduğu gibi, biraz pratik yaparak daha iyi olacaksın. Hadi, birlikte başka bir dikkat toplama yöntemi deneyelim mi? Ne dersin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Unutma, her yeni şeyde başarılı olmak için denemeye devam etmeliyiz. Senin gibi cesur ve meraklı bir çocuk için bu çok eğlenceli olacak! Her gün biraz daha iyiye gidiyorsun ve bu harika bir şey!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi başka bir teknik öğrenelim: kendine bir rutin oluşturmak. Sabahları uyandığında, dişlerini fırçalamak gibi basit görevlerle başlayabilirsin. Bu tür rutinler, gün boyunca daha dikkatli ve organize olmana yardımcı olur. Denemek ister misin?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hadi, birlikte düşünelim. Günlük rutinlerini daha eğlenceli hale nasıl getirebilirsin? Belki de şarkı söyleyerek veya dans ederek! Senin favori sabah rutinin nedir? Paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rutinlerimizi eğlenceli hale getirmek, onları daha kolay ve keyifli hale getirir. Sabahları kalktığında bir şarkı söylemek veya dans etmek gününü daha enerjik başlatabilir. Bu tür eğlenceli aktiviteler, dikkatini toplamana da yardımcı olur."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen harika bir iş çıkarıyorsun! Her gün yeni şeyler öğrenmek ve uygulamak çok önemli. Senin gibi bir maceraperestin bunu başarabileceğinden hiç şüphem yok. Harikasın!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir sonraki maceramızda başka hangi konulara değinmek istersin? Belki de yeni bir hikaye veya oyun öğrenmek istersin. Düşüncelerini duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün seninle birlikte bu harika yolculuğu yapmak çok keyifliydi! Her zaman hatırla, dikkatini toplamak ve sakinleşmek için birçok harika yol var. Seninle tekrar buluşmayı dört gözle bekliyorum. Hoşça kal ve bir sonraki maceramızda görüşmek üzere!"
+    }
+  ],
+  "title": "Tiko'ın Davranış ve Dikkat Hikayesi"
+}

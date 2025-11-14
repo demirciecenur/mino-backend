@@ -1,0 +1,104 @@
+{
+  "id": "yellow_buddy_confidence_story",
+  "character": "Yellow Buddy",
+  "topic": "confidence",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Yellow Buddy und heute gehen wir auf eine spannende Reise über Selbstvertrauen. Bist du bereit? Ich freue mich sehr, dich kennenzulernen. Selbstvertrauen ist wie ein kleiner, fröhlicher Tanz in deinem Herzen. Lass uns gemeinsam herausfinden, wie wir diesen Tanz zum Leben erwecken können!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als du das letzte Mal etwas Neues ausprobiert hast? Vielleicht war es das erste Mal, dass du deine Schuhe selbst gebunden hast. Selbstvertrauen ist das Gefühl, das du hattest, als es dir gelungen ist. Es ist dieses warme, glückliche Gefühl, wenn du weißt, dass du es schaffen kannst. Lass uns gemeinsam darüber sprechen, wie wichtig es ist, an sich selbst zu glauben."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Um Selbstvertrauen zu gewinnen, können wir kleine Schritte machen. Stell dir vor, du lernst Fahrrad fahren. Zuerst brauchst du vielleicht Stützräder, aber mit der Zeit wirst du sie nicht mehr brauchen. Jeder kleine Erfolg macht dich stärker und mutiger. So lernen wir, dass Selbstvertrauen wächst, wenn wir geduldig mit uns selbst sind."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns zusammen etwas versuchen! Stell dir vor, du bist ein kleiner Superheld. Superhelden sind mutig und glauben an sich. Kannst du wie ein Superheld stehen? Brust raus, Kopf hoch! Du siehst toll aus! Das nennt man eine Power-Pose und sie hilft dir, dich stark zu fühlen."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir wissen, wie wir uns stark fühlen können, lass uns daran denken, dass auch Fehler in Ordnung sind. Jeder macht mal Fehler, auch die besten Superhelden. Wenn wir hinfallen, stehen wir einfach wieder auf und versuchen es erneut. Das ist ein großer Teil des Selbstvertrauens. Es bedeutet, dass wir es immer wieder versuchen, egal was passiert."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Weißt du, was noch wichtig ist? Freunde und Familie, die uns unterstützen. Sie helfen uns, wenn wir unsicher sind, und feiern mit uns, wenn wir etwas geschafft haben. Mit ihrer Hilfe fühlen wir uns stark und mutig. Haben deine Freunde oder deine Familie dir schon einmal geholfen, dich besser zu fühlen?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt machen wir eine kleine Übung. Atme tief ein und langsam wieder aus. Noch einmal: tief einatmen und ausatmen. Spürst du, wie ruhig du wirst? Atmen hilft uns, uns zu konzentrieren und sicher zu fühlen. Wenn du das nächste Mal nervös bist, probier es einfach aus!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns über Mut sprechen. Mut bedeutet, etwas zu tun, auch wenn es ein bisschen beängstigend ist. Vielleicht hast du Angst vor der Dunkelheit, aber du kannst mutig sein, indem du eine Taschenlampe mitnimmst. Mutig zu sein bedeutet nicht, keine Angst zu haben, sondern die Angst zu überwinden."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist schon so mutig! Erinnerst du dich, als du das erste Mal in den Kindergarten gegangen bist? Das war eine große Sache, und du hast es geschafft! Jeder neue Schritt, den du machst, zeigt, wie viel Mut du hast. Du bist wirklich ein kleiner Held!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Lass uns mal überlegen, was dir Mut macht. Gibt es etwas, das du gerne machst, auch wenn es am Anfang schwer war? Vielleicht ein Spiel oder ein Hobby? Was macht dir Freude und gibt dir das Gefühl, stark zu sein?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über Mut und Selbstvertrauen gesprochen haben, lass uns daran denken, dass es wichtig ist, stolz auf uns zu sein. Du hast so viele wunderbare Dinge gelernt und ausprobiert. Jeder kleine Erfolg ist ein Grund, stolz zu sein. Du bist einzigartig und das ist etwas ganz Besonderes!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Weißt du, was auch Spaß macht? Sich selbst zu loben! Sag dir selbst: 'Gut gemacht!' oder 'Ich bin stolz auf mich!' Es fühlt sich gut an, sich selbst zu loben, und es hilft uns, noch mehr Vertrauen zu gewinnen. Probier es aus, es macht richtig Spaß!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns noch eine kleine Aufgabe machen. Stell dir vor, du bist ein stolzer Löwe. Löwen sind stark und mutig. Kannst du wie ein Löwe brüllen? Brüllen wir zusammen: Rawr! Das macht Spaß und fühlt sich toll an, oder? Fühlst du dich jetzt stark und mutig?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Du hast heute so viel gelernt und ausprobiert. Es ist wichtig, immer an sich selbst zu glauben und sich zu trauen, neue Dinge zu versuchen. Du bist ein wunderbarer kleiner Abenteurer und ich bin so stolz auf dich. Egal, was du machst, du kannst es schaffen!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es Zeit, sich zu verabschieden. Danke, dass du heute mit mir auf diese Reise gegangen bist. Ich hoffe, du fühlst dich jetzt mutig und stark. Denk daran, du bist einzigartig und wunderbar. Bis zum nächsten Mal, kleiner Freund! Tschüss!"
+    }
+  ],
+  "title": "Yellow Buddys Confidence Geschichte"
+}

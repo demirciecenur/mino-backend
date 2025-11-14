@@ -1,0 +1,104 @@
+{
+  "id": "shell_heroes_crew_imagination_story",
+  "character": "Shell Heroes Crew",
+  "topic": "imagination",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Somos el Shell Heroes Crew. Hoy vamos a embarcarnos en un viaje increíble sobre la imaginación. ¿Estás listo para explorar con nosotros? La imaginación es como un superpoder que todos tenemos. Nos ayuda a crear y soñar cosas maravillosas. ¡Vamos a descubrirlo juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La imaginación es como una varita mágica en nuestra mente. Nos permite ver un mundo lleno de aventuras y posibilidades. ¿Alguna vez has imaginado ser un superhéroe o un astronauta? Con la imaginación, puedes ser lo que quieras. Es como jugar a disfrazarse, pero dentro de tu cabeza. ¡Qué divertido, ¿verdad?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a usar nuestra imaginación para crear una historia. Imagina que estamos en una isla mágica llena de tesoros escondidos. ¿Qué tipo de tesoro crees que encontraríamos? Tal vez monedas de chocolate o juguetes mágicos. Usa tu mente para ver todos esos tesoros brillando. ¿Puedes verlos?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Estás usando tu imaginación de manera increíble. Vamos a imaginar que encontramos un mapa del tesoro. El mapa nos llevará a una cueva secreta. ¿Qué sonidos crees que escucharíamos dentro de la cueva? Quizás el eco de nuestras voces o el goteo del agua. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos encontrado el mapa, necesitamos un plan. ¿Cómo crees que podemos llegar a la cueva? Podríamos construir un barco con hojas grandes y fuertes. O tal vez caminar por un puente invisible que solo los valientes pueden ver. La imaginación nos ayuda a pensar en soluciones creativas."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Recuerda cuando hablamos de la isla mágica. Ahora vamos a imaginar que hay animales amigables en la isla. ¿Qué tipo de animales te gustaría ver? Tal vez un loro que pueda hablar o un mono travieso que juegue con nosotros. ¡Qué emocionante sería tener nuevos amigos animales!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para llegar a la cueva, necesitamos ser valientes y usar nuestra imaginación. Imagina que estamos caminando por un sendero lleno de flores brillantes. Cada flor tiene un color diferente y un aroma especial. Vamos a oler las flores juntos. ¿Puedes imaginar su dulce fragancia?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Has llegado a la cueva con nosotros. Ahora, imagina que la cueva está llena de luces mágicas que brillan como estrellas. Nos guían hacia el tesoro escondido. ¿Qué crees que encontraremos al final del camino? Tal vez un cofre lleno de sorpresas. ¡Tú puedes imaginarlo!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dentro de la cueva, encontramos un cofre del tesoro. Al abrirlo, vemos que está lleno de globos mágicos. Cada globo tiene una sorpresa diferente. ¿Qué tipo de sorpresas te gustaría que hubiera dentro? Tal vez caramelos mágicos o juguetes que cobran vida. ¡Qué emocionante!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora que hemos encontrado el tesoro, ¿qué harías con él? ¿Compartirías los globos mágicos con tus amigos? La imaginación nos enseña a ser generosos y compartir nuestras aventuras. ¿Cómo crees que se sentirían tus amigos al recibir un globo mágico? ¡Sería muy divertido!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Recordemos nuestra aventura en la isla mágica. Fue un viaje lleno de descubrimientos y diversión. La imaginación nos llevó a lugares que nunca habíamos visitado antes. ¿Cuál fue tu parte favorita del viaje? Tal vez caminar por el puente invisible o ver las luces mágicas en la cueva."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a imaginar cómo sería si pudiéramos volar. Cierra los ojos y siente el viento en tu cara mientras vuelas alto en el cielo. ¿Qué cosas ves desde allí arriba? Tal vez montañas, ríos, o incluso un arcoíris. La imaginación nos permite volar sin dejar el suelo."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo muy bien! La imaginación es un regalo que siempre puedes usar. Nos ayuda a crear, a soñar y a jugar, incluso cuando estamos solos. Sigue imaginando y explorando con nosotros. ¡Eres un héroe de la imaginación!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría crear más aventuras en el futuro? Con nuestra imaginación, podemos viajar a cualquier parte. ¿Qué lugares te gustaría explorar la próxima vez? Tal vez un castillo encantado o un bosque lleno de hadas. ¡Las posibilidades son infinitas!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Gracias por unirte a nuestra aventura de imaginación hoy. Ha sido un viaje increíble, lleno de descubrimientos y risas. Recuerda que siempre puedes usar tu imaginación para crear tus propias historias. ¡Hasta la próxima, pequeño héroe! Nos vemos en nuestra próxima aventura."
+    }
+  ],
+  "title": "Historia de Imagination de Shell Heroes Crew"
+}

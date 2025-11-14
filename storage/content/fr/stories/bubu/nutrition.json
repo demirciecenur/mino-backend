@@ -1,0 +1,98 @@
+{
+  "id": "bubu_nutrition_story",
+  "character": "Bubu",
+  "topic": "nutrition, alimentation saine, habitudes alimentaires, aliments sains",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mon petit ami! Je suis Bubu, et aujourd'hui, nous allons explorer ensemble le monde merveilleux de la nutrition. Est-ce que tu es prêt à découvrir comment les aliments peuvent nous rendre forts et en bonne santé? Je suis si curieux de savoir ce que tu aimes manger. Ensemble, nous allons apprendre comment les fruits et les légumes peuvent être nos amis. Allons-y, c'est parti pour une aventure délicieuse!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tu sais, les aliments que nous mangeons sont comme le carburant pour notre corps. Imagine que tu es une voiture; sans carburant, elle ne peut pas rouler! Les fruits comme les pommes et les bananes sont pleins de vitamines. Ces vitamines nous aident à courir vite et à jouer longtemps. Alors, la prochaine fois que tu manges une pomme, pense à toute l'énergie qu'elle te donne!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des légumes. Les légumes comme les carottes et les épinards sont très importants. Ils contiennent des fibres qui aident notre ventre à bien fonctionner. Quand tu manges des légumes, c'est comme donner une cape de super-héros à ton corps! Essaie de manger des légumes de toutes les couleurs, car chaque couleur apporte quelque chose de spécial à ton corps."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Tu fais déjà un excellent travail en apprenant tout ça. Tu te demandes peut-être comment intégrer plus de fruits et légumes dans tes repas? C'est facile! Tu peux commencer ta journée avec une banane ou une orange. Et pour le déjeuner, pourquoi ne pas ajouter quelques tranches de concombre à ton sandwich? Tu verras, c'est délicieux!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les aliments sains ne sont pas seulement les fruits et légumes. Les céréales comme le riz et le pain complet sont aussi très importants. Ils nous donnent de l'énergie pour jouer toute la journée. As-tu déjà essayé de manger du riz avec un peu de légumes? C'est un repas simple mais tellement bon pour toi. Tu peux même ajouter un peu de poulet ou de poisson pour encore plus de saveur."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de l'eau. L'eau est comme une potion magique pour notre corps. Elle nous garde hydratés et aide notre corps à fonctionner correctement. Pense à boire de l'eau tout au long de la journée, surtout quand tu joues beaucoup. Si tu veux, tu peux ajouter une tranche de citron pour un goût rafraîchissant!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, tu apprends vite! Continue à essayer de nouveaux aliments et à écouter ton corps. Parfois, il peut dire \"j'ai faim\" ou \"j'ai soif\". Écoute-le et donne-lui ce dont il a besoin. Avec le temps, tu sauras exactement ce qui te fait du bien. Tu es déjà un expert en alimentation saine!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dis-moi, quel est ton fruit préféré? Est-ce que tu aimes les pommes croquantes ou les fraises sucrées? Peut-être que tu préfères les mangues juteuses ou les raisins? Chaque fruit a sa propre saveur et ses bienfaits. Essaye de goûter quelque chose de nouveau chaque semaine. Cela peut être une aventure amusante et délicieuse!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu sais, parfois, nous avons envie de sucreries ou de snacks. C'est tout à fait normal! L'important est de les manger avec modération. Tu peux essayer de préparer des snacks sains comme des bâtonnets de carottes avec du houmous. C'est croquant et délicieux, et ça te donnera plein d'énergie pour continuer à jouer!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi, une alimentation saine est comme un puzzle. Chaque pièce, qu'il s'agisse de fruits, de légumes, de céréales ou d'eau, est importante pour compléter le tableau. Quand tu manges équilibré, tu te sens bien et prêt à affronter toutes les aventures de la journée. C'est comme avoir une armure protectrice qui te garde en forme!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Voyons maintenant comment tu peux aider tes parents à préparer un repas sain. Tu peux les aider à choisir les légumes au marché ou à laver les fruits à la maison. C'est une excellente façon d'apprendre et de passer du temps ensemble. En plus, tu seras fier d'avoir contribué à préparer un repas délicieux et sain!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail formidable en apprenant tout cela. Continue à explorer de nouveaux goûts et à partager ce que tu apprends avec tes amis. Peut-être que tu peux organiser un pique-nique avec eux et apporter vos fruits préférés. Ce serait une belle façon de montrer à quel point manger sainement peut être amusant et délicieux!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, qu'aimerais-tu essayer de nouveau cette semaine? Peut-être un fruit que tu n'as jamais goûté ou un légume que tu as vu au marché? Chaque essai est une nouvelle aventure. Parfois, tu découvriras des goûts que tu aimes beaucoup. Et parfois, il faudra essayer plusieurs fois avant d'aimer. C'est ça, l'aventure des aliments!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir exploré le monde de la nutrition avec moi aujourd'hui. J'espère que tu as appris beaucoup et que tu es prêt à essayer de nouveaux aliments. Rappelle-toi, manger sainement, c'est prendre soin de toi. Je suis fier de toi et de tout ce que tu as appris aujourd'hui. À bientôt pour de nouvelles aventures, mon petit ami!"
+    }
+  ],
+  "title": "Histoire de Nutrition de Bubu"
+}

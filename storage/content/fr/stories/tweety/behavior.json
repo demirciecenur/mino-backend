@@ -1,0 +1,104 @@
+{
+  "id": "chirpy_birdie_behavior_story",
+  "character": "Chirpy Birdie",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Chirpy Birdie, et je suis tellement heureux de vous voir aujourd'hui. Nous allons parler d'un sujet très important et amusant: le bon comportement. Savez-vous ce que cela signifie? Cela veut dire faire des choix gentils et respecter les règles. Êtes-vous prêts à explorer ce sujet ensemble? Allons-y, ce sera une aventure pleine de découvertes!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le bon comportement, c'est comme être un super-héros! Imaginez que chaque fois que vous partagez vos jouets, vous gagnez des super-pouvoirs de gentillesse. C'est vrai! Quand vous aidez à ranger votre chambre, vous montrez à tout le monde que vous êtes responsable. Et devinez quoi? Dire 's'il te plaît' et 'merci', c'est comme utiliser des mots magiques qui rendent tout plus joyeux. Maintenant, pensez à un moment où vous avez été très poli. Génial, vous êtes déjà des experts!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des règles. Les règles sont là pour nous aider à rester en sécurité et heureux. Par exemple, marcher doucement à l'intérieur pour ne pas tomber. Ou encore, écouter les grandes personnes quand elles parlent. Ça peut être difficile parfois, mais c'est important. Et vous savez quoi? Plus vous pratiquez, plus cela devient facile. Alors, la prochaine fois que vous entendez une règle, souvenez-vous que c'est pour votre bien-être!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, jouons à un petit jeu! Je vais dire une action, et vous allez me dire si c'est un bon comportement. Prêts? D'abord, partager ses jouets. Oui, c'est un bon comportement! Et si je dis, interrompre quelqu'un? Oh non, ce n'est pas très gentil. Bravo, vous avez bien répondu! Vous voyez, comprendre le bon comportement peut être amusant et facile. Continuez comme ça!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé des mots magiques? Utiliser des mots comme 's'il te plaît' et 'merci' peut vraiment améliorer votre journée. Imaginez que chaque 'merci' que vous dites est comme une petite étoile brillante. Plus vous dites ces mots, plus vous illuminez le monde autour de vous. Et n'oubliez pas, un sourire est aussi un excellent moyen de montrer du respect et de la gentillesse. Alors, souriez et répandez de la joie!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Il est temps de parler de la patience. Parfois, attendre peut être difficile, n'est-ce pas? Mais la patience est une vertu importante. Imaginez que vous êtes dans une file d'attente pour un tour de manège. Attendre votre tour montre que vous respectez les autres. Vous pouvez essayer de compter jusqu'à dix pour vous aider à patienter. Vous verrez, cela rendra l'attente plus facile et agréable pour tout le monde."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Être poli et respectueux, c'est aussi penser aux autres. Par exemple, tenir la porte ouverte pour quelqu'un qui a les mains pleines. Ou encore, aider un ami à ramasser ses jouets. Ces petites actions montrent que vous avez un grand cœur. Et chaque fois que vous faites quelque chose de gentil, cela vous rend aussi heureux. Alors, continuez à être des petits héros du quotidien!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà aidé quelqu'un aujourd'hui? Pensez à un moment où vous avez fait quelque chose de gentil. Peut-être que vous avez partagé votre goûter ou aidé à mettre la table. Quelle belle action! Se souvenir de ces moments vous encourage à continuer à être gentil. Alors, quelles autres actions gentilles pouvez-vous faire demain? Je parie qu'il y en a beaucoup!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de la gestion de nos émotions. Parfois, nous pouvons nous sentir en colère ou tristes. Et c'est tout à fait normal! Ce qui est important, c'est comment nous choisissons de réagir. Prendre trois grandes respirations peut nous aider à nous calmer. Vous voulez essayer? Inspirons profondément... et expirons. Voilà, c'est mieux, n'est-ce pas? Vous voyez, vous avez le pouvoir de gérer vos émotions!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Il est aussi important de parler de nos sentiments. Si quelque chose vous dérange, il est bon d'en parler à un adulte de confiance. Par exemple, si un ami vous a fait de la peine, vous pouvez dire calmement ce que vous ressentez. Cela aide à résoudre les problèmes et à se sentir mieux. N'oubliez pas, vos émotions sont importantes, et il est toujours bon de s'exprimer."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo à vous tous pour votre écoute et votre participation. Vous avez appris tant de choses sur le bon comportement aujourd'hui. Rappelez-vous, chaque petit geste compte. Chaque sourire, chaque merci, chaque fois que vous aidez quelqu'un, vous faites une différence. Continuez à être de merveilleux petits héros chaque jour. Vous pouvez le faire, je crois en vous!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Récapitulons ce que nous avons appris. Le bon comportement, c'est être gentil, partager, et respecter les règles. Utiliser des mots magiques et sourire rend tout le monde heureux. La patience et la gestion des émotions sont aussi très importantes. Et surtout, n'oubliez pas d'être vous-même et de montrer vos belles qualités. Vous êtes tous uniques et incroyables!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Et si nous faisions un petit défi? Chaque jour, essayez de faire une bonne action. Cela peut être aussi simple que de dire un mot gentil ou d'aider quelqu'un. Notez vos belles actions dans un carnet ou partagez-les avec votre famille. Vous verrez, cela vous rendra très fier. Alors, qui est prêt à relever le défi? Je suis sûr que vous êtes tous prêts!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Je suis curieux, quel est votre moment préféré de la journée? Est-ce quand vous jouez avec vos amis ou quand vous écoutez des histoires? Chaque moment peut être spécial si vous y mettez du cœur. Pensez à ce qui vous rend le plus heureux et pourquoi. Ces moments sont précieux et nous apprennent beaucoup sur nous-mêmes. Alors, quel est votre moment préféré?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce temps avec moi, mes chers amis! Vous avez été fantastiques, et j'espère que vous avez appris plein de choses sur le bon comportement. Continuez à être gentils, à sourire, et à être des petits héros chaque jour. Je suis fier de vous, et j'ai hâte de vous revoir bientôt pour une nouvelle aventure. À très bientôt, et n'oubliez jamais combien vous êtes spéciaux!"
+    }
+  ],
+  "title": "Histoire de Behavior de Chirpy Birdie"
+}

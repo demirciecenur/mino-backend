@@ -1,0 +1,98 @@
+{
+  "id": "bubble_buddy_régulation_émotionnelle_gestion_des_émotions_se_calmer_autorégulation_story",
+  "character": "Bubble Buddy",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis Bubble Buddy et aujourd'hui nous allons explorer le monde merveilleux des émotions. Avez-vous déjà ressenti une grosse vague de joie ou peut-être un petit nuage de tristesse? Ne vous inquiétez pas, tout cela est normal! Ensemble, nous allons apprendre comment gérer ces émotions et se sentir bien. Êtes-vous prêts pour cette aventure sous-marine? Allons-y avec un grand sourire!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des émotions que nous ressentons chaque jour. Parfois, on est très heureux, comme quand on joue avec des amis. D'autres fois, on peut être un peu triste, comme quand un jouet se casse. C'est important de savoir que toutes les émotions sont normales et font partie de nous. Imaginez que vos émotions sont comme des bulles, elles montent et descendent. Vous pouvez apprendre à les gérer pour se sentir bien."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour gérer nos émotions, nous pouvons utiliser des trucs très simples. Par exemple, quand tu te sens en colère, tu peux essayer de respirer profondément. Inspire par le nez, et expire par la bouche, comme si tu soufflais une bougie. C'est un moyen facile de se calmer et de retrouver le sourire. Tu peux aussi compter jusqu'à cinq lentement, cela aide à apaiser ton esprit. Essaie, et tu verras comme c'est magique!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Maintenant, essayons ensemble. Prenons une grande inspiration! Un, deux, trois, quatre, cinq. Et voilà, tu as déjà commencé à te sentir mieux, n'est-ce pas? C'est formidable de voir comme tu apprends vite. Chaque fois que tu te sens un peu dépassé, n'oublie pas ces astuces. Tu es capable de gérer tes émotions comme un vrai champion des mers!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, partager nos émotions avec quelqu'un peut aussi nous aider à nous sentir mieux. Parler à un adulte ou à un ami de confiance peut être très réconfortant. Ils peuvent t'écouter et te donner des câlins ou des conseils. N'hésite pas à dire ce que tu ressens, c'est important de ne pas garder tout pour soi. Les émotions sont comme des bulles, elles aiment flotter à la surface!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons d'une autre technique pour gérer nos émotions: l'imagination. Imagine que tu es un poisson qui nage calmement dans l'océan. L'eau est douce et apaisante, et tu te sens libre. Ferme les yeux un instant et imagine cet endroit paisible. Cela peut t'aider à te détendre et à retrouver ton calme. Essaie de le faire chaque fois que tu te sens un peu stressé."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "C'est génial! Tu as une imagination incroyable! Utilise-la pour te sentir mieux quand tu en as besoin. Tu peux inventer des histoires ou des aventures où tu es le héros. Ces moments d'imagination sont comme des petites vacances pour ton esprit. Continue comme ça, tu es vraiment doué pour gérer tes émotions!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi aussi que bouger ton corps peut aider à gérer tes émotions. Quand tu te sens excité ou nerveux, danser ou sauter peut être très amusant. Cela aide à libérer l'énergie et à te sentir plus calme après. Tu peux aussi faire du sport ou jouer dehors pour te sentir mieux. Le mouvement, c'est comme une danse avec les vagues!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Et si nous essayions un petit exercice ensemble? Mets-toi debout et agite tes bras comme si tu nageais. Imagine que tu es dans l'océan avec moi, Bubble Buddy. Ressens la liberté de bouger et de sourire. Cela te fait du bien, n'est-ce pas? C'est une excellente façon de gérer tes émotions et de passer un bon moment."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dis-moi, qu'est-ce qui te fait sourire le plus? Est-ce que c'est jouer avec tes amis, ou peut-être un câlin de maman ou papa? Réfléchis à ce qui te rend heureux et garde cette pensée près de ton cœur. C'est un trésor précieux que tu peux utiliser pour te sentir bien. As-tu trouvé ta pensée heureuse?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les émotions peuvent parfois nous surprendre, mais elles sont toutes importantes. Rappelle-toi que tu es capable de les comprendre et de les gérer. Chaque jour, tu deviens plus fort et plus sage. Pense à toutes les choses merveilleuses que tu as apprises aujourd'hui. Tu es un vrai explorateur des émotions!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "N'oublie pas de prendre soin de toi chaque jour. Prendre un moment pour respirer, imaginer, ou bouger peut faire une grande différence. Ces petites actions sont comme des bulles de bonheur qui te protègent. Tu peux les utiliser chaque fois que tu en as besoin. C'est comme avoir une boîte à outils magique pour tes émotions!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, tu as fait un travail incroyable aujourd'hui! Tu as appris comment gérer tes émotions et te sentir bien. Je suis tellement fier de toi et de tout ce que tu as accompli. Continue à pratiquer ces astuces et tu verras comme tu te sentiras encore mieux. Tu es un champion sous-marin des émotions!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était une aventure fantastique avec toi, mon ami! Merci d'avoir partagé ce moment spécial avec moi. N'oublie jamais que tu es capable de gérer tes émotions comme un vrai pro. Je suis toujours là pour t'aider et t'encourager. À bientôt pour de nouvelles aventures sous-marines, petit explorateur des émotions!"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Bubble Buddy"
+}

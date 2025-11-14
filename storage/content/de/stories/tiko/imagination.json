@@ -1,0 +1,98 @@
+{
+  "id": "tiko_imagination_story",
+  "character": "Tiko",
+  "topic": "imagination",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo kleiner Freund! Ich bin Tiko, und heute gehen wir auf eine spannende Reise der Fantasie. Bist du bereit? Ich bin so neugierig, was wir alles entdecken werden. Fantasie ist wie ein magischer Schlüssel, der uns in wunderbare Welten führt. Lass uns gemeinsam herausfinden, was wir alles erleben können!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Fantasie ist etwas ganz Besonderes. Sie hilft uns, Dinge zu sehen, die wir sonst nicht sehen können. Stell dir vor, du bist ein Astronaut und fliegst zu den Sternen. Oder vielleicht bist du ein mutiger Ritter, der ein Schloss verteidigt. Mit unserer Fantasie können wir alles sein, was wir wollen!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns ein bisschen üben, unsere Fantasie zu benutzen. Schließe deine Augen und stelle dir einen wunderschönen Garten vor. Siehst du die bunten Blumen und die fröhlichen Schmetterlinge? Vielleicht gibt es dort auch einen kleinen Teich mit fröhlich schwimmenden Fischen. Öffne deine Augen und erzähle mir, was du gesehen hast!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Das hast du toll gemacht! Fantasie kann uns überall hinbringen, sogar an Orte, die wir noch nie besucht haben. Vielleicht möchtest du jetzt ein Piratenschiff segeln lassen oder in einem Zauberwald spazieren gehen. Du kannst alles schaffen, was du dir vorstellst. Lass deiner Fantasie freien Lauf!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir so viel über Fantasie gesprochen haben, lass uns weitergehen und neue Abenteuer erleben. Vielleicht gibt es in deinem Fantasiewald sprechende Tiere. Was denkst du, würden sie sagen? Oder gibt es vielleicht einen geheimen Schatz, der darauf wartet, entdeckt zu werden? Deine Fantasie kennt keine Grenzen!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns zusammen eine kleine Fantasiereise machen. Stell dir vor, du bist ein Vogel, der hoch am Himmel fliegt. Spürst du den Wind unter deinen Flügeln? Siehst du die Welt von oben? Vielleicht siehst du Wälder, Flüsse und Berge. Erzähl mir, was du alles von dort oben sehen kannst!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wow, das klingt fantastisch! Du hast eine wundervolle Vorstellungskraft. Mit deiner Fantasie kannst du auch anderen helfen, sich tolle Dinge vorzustellen. Vielleicht möchtest du eine Geschichte erfinden und sie deinen Freunden erzählen. Sie werden begeistert sein von deinen Ideen!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über den geheimen Schatz gesprochen haben? Stell dir vor, du findest eine alte Schatzkarte. Wo würde sie dich hinführen? Vielleicht zu einer einsamen Insel oder zu einer versteckten Höhle? Deine Fantasie kann dir helfen, die spannendsten Abenteuer zu erleben!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt eine kleine Übung machen. Stell dir vor, du malst ein Bild mit deinen Lieblingsfarben. Welche Farben würdest du wählen? Vielleicht ein leuchtendes Blau oder ein warmes Gelb? Male mit deiner Fantasie ein Bild in deinem Kopf und erzähle mir, was du gemalt hast!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal von Tagträumen gehört? Es ist, wenn wir mit offenen Augen träumen und uns Dinge vorstellen. Was ist dein liebster Tagtraum? Vielleicht ein Ausflug zu einem fernen Planeten oder ein Flug auf einem Drachen? Ich bin gespannt zu hören, wovon du träumst!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns weiter über das Träumen sprechen. Träume können uns helfen, unsere Wünsche und Hoffnungen zu erkunden. Vielleicht träumst du davon, eines Tages Astronaut zu werden. Oder vielleicht möchtest du ein berühmter Künstler sein. Alles beginnt mit einem kleinen Traum in deinem Kopf!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, wo wir so viele tolle Ideen haben, lass uns überlegen, wie wir sie in die Wirklichkeit umsetzen können. Vielleicht möchtest du eine Geschichte aufschreiben oder ein Bild malen. Alles, was du dir vorstellen kannst, kann auch Wirklichkeit werden. Lass uns kreativ sein!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist unglaublich kreativ! Deine Fantasie ist ein wertvolles Geschenk, das du jeden Tag nutzen kannst. Es gibt so viel zu entdecken und zu erschaffen. Egal, ob du alleine spielst oder mit Freunden, deine Fantasie wird dir immer helfen, Spaß zu haben!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es Zeit, sich zu verabschieden. Aber keine Sorge, die Abenteuer der Fantasie gehen immer weiter. Du kannst jederzeit zurückkommen und mit mir neue Geschichten erfinden. Danke, dass du heute mit mir auf diese Reise gegangen bist. Bis zum nächsten Mal, mein kleiner Freund!"
+    }
+  ],
+  "title": "Tikos Imagination Geschichte"
+}

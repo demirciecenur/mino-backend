@@ -1,0 +1,104 @@
+{
+  "id": "clever_mouse_jerry_behavior_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Clever Mouse Jerry, and I'm so excited to chat with you today. We're going to have a fun adventure talking about good behavior. Are you ready to join me on this journey? I bet you are! We'll learn how to be kind, follow rules, and have lots of fun doing it. Let's get started!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what behavior means. Behavior is how we act and what we do. It's like when you smile at a friend or share your toys. Good behavior makes everyone happy and helps us make friends. When we follow rules, like waiting our turn, it shows we care about others."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about sharing toys? Sharing is a great example of good behavior. It shows that we are kind and thoughtful. Next time you play with a friend, try letting them have a turn first. You'll see how happy it makes them! It's a simple way to show you care."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job listening so far! You're doing wonderful. Now let's think about another rule, like saying 'please' and 'thank you.' These words are magic because they show respect. When you use them, people know you're polite and friendly. Let's practice together: 'Please may I have a snack?' and 'Thank you for sharing with me!' You can do it!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure with a fun game! Imagine you are a superhero with the power of kindness. Your mission is to make everyone smile. You can do this by helping your family, like picking up toys or setting the table. Every time you help, your superhero powers grow stronger. Can you think of ways to use your kindness powers today?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever felt really happy when someone helped you? It's a great feeling, isn't it? Now, can you think of a time you made someone else happy? Maybe you gave them a hug or helped them with something. Those are moments of good behavior that make the world brighter. How about we try to create more of those happy moments together?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about following rules? It's important to listen to grown-ups because they help keep us safe. Like when they say to hold hands when crossing the street. This rule keeps us safe from cars. Next time you're outside, remember to hold a grown-up's hand. It's a simple rule that shows you're being careful and smart."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning about good behavior! Let's give ourselves a big cheer! Yay! Now, let's think about being a good listener. When someone is talking, it's good to look at them and listen with our ears and eyes. This shows that we care about what they're saying. Next time your friend tells you a story, try being a super listener!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about being brave, like when you try something new. Sometimes new things can be a little scary, but being brave means giving it a try anyway. Maybe it's trying a new food or playing a new game. Each time you try, you learn something new, and that's wonderful! Can you think of something new you'd like to try today?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about trying new things? Being brave is also about asking for help when you need it. Everyone needs help sometimes, and that's okay! If you're stuck on a puzzle or need help reaching something, asking for help is a smart choice. It shows you're thinking and being safe. Who could you ask for help today?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's take a moment to talk about feelings. Everyone has feelings, like happy, sad, or even a little grumpy. It's okay to feel all these things. What's important is how we handle them. If you're feeling upset, take a deep breath and count to three. Let's try it now: one, two, three. Doesn't that feel better?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Great job with those deep breaths! Now let's talk about saying sorry. If we make a mistake or hurt someone's feelings, saying sorry can help. It shows we're sorry and want to make things right. Next time you bump into someone, try saying, 'I'm sorry, are you okay?' It's a simple way to show you care."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're learning so much about good behavior! Let's celebrate with a happy dance. Wiggle your fingers, stomp your feet, and spin around! Yay! Now let's think about how we can keep practicing good behavior every day. Maybe you can make a list of good deeds to do, like helping with chores or sharing with friends. You can be a behavior superstar!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you remember all the fun things we learned today? We talked about sharing, being kind, and even being brave. Which one was your favorite? Maybe it was being a superhero of kindness or practicing saying sorry. Think about how you can use what you've learned to make your day even brighter. What will you try first?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time to say goodbye, but don't worry, we'll have more fun adventures soon. Remember, you're amazing just the way you are, and practicing good behavior makes you even more wonderful. Keep being kind, brave, and thoughtful. I can't wait to hear all about your adventures next time. Goodbye for now, my clever friend!"
+    }
+  ],
+  "title": "Clever Mouse Jerry's Behavior Story"
+}

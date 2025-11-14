@@ -1,0 +1,104 @@
+{
+  "id": "super_jump_hero_Emotionsregulation_Story",
+  "character": "Super Jump Hero",
+  "topic": "Emotionsregulation, Gefühle managen, sich beruhigen, Selbstregulation",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Super Jump Hero, und heute gehen wir auf ein spannendes Abenteuer über Gefühle und wie wir sie managen können. Bist du bereit? Es wird eine lustige Reise, bei der wir lernen, wie man sich beruhigt und fröhlich bleibt. Ich bin so neugierig auf dich und deine tollen Ideen. Lass uns gemeinsam herausfinden, wie wir unsere Gefühle besser verstehen können!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hast du schon einmal gefühlt, dass du traurig oder wütend bist und nicht weißt, warum? Das ist ganz normal, und wir alle fühlen uns manchmal so. Aber keine Sorge, wir können lernen, wie wir mit diesen Gefühlen umgehen können. Wir werden heute herausfinden, wie wir unsere Gefühle benennen und verstehen können. Das ist der erste Schritt, um sich besser zu fühlen. Und weißt du was? Es kann sogar Spaß machen!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns eine kleine Übung machen, um zu sehen, wie wir unsere Gefühle benennen können. Wenn du glücklich bist, wie fühlt sich das an? Vielleicht hast du ein Lächeln im Gesicht oder du möchtest tanzen. Und wenn du traurig bist, fühlst du dich vielleicht wie ein Regentag. Jetzt überlege, wie sich Wut anfühlt. Manchmal fühlt es sich heiß an, wie ein Drache. Lass uns diese Gefühle benennen, das hilft uns, sie zu verstehen."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Jetzt, wo wir unsere Gefühle benennen können, lass uns darüber sprechen, wie wir uns beruhigen können, wenn wir uns nicht so gut fühlen. Eine tolle Methode ist tiefes Atmen. Lass uns zusammen drei tiefe Atemzüge machen. Einatmen durch die Nase... und ausatmen durch den Mund. Das hilft, den Kopf klar zu machen und sich ruhiger zu fühlen. Du kannst das jederzeit ausprobieren!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Benennen von Gefühlen gesprochen haben? Jetzt werden wir lernen, wie wir diese Gefühle verändern können. Manchmal, wenn wir traurig sind, kann uns etwas Lustiges aufmuntern, wie ein lustiger Tanz oder ein Lied. Hast du ein Lieblingslied, das dich glücklich macht? Lass uns darüber nachdenken, wie wir unsere Gefühle mit kleinen Aktivitäten ändern können. Es ist wie Magie!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns darüber sprechen, wie wir uns beruhigen können, wenn wir uns wirklich wütend fühlen. Eine Möglichkeit ist, sich einen ruhigen Ort vorzustellen, wie einen schönen Garten oder eine gemütliche Höhle. Schließe deine Augen und stelle dir diesen Ort vor. Was siehst du dort? Vielleicht Blumen oder einen weichen Sessel. Diese Vorstellung hilft, die Wut zu verringern und sich entspannter zu fühlen."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das ganz toll! Jetzt, da wir wissen, wie man sich beruhigt und unsere Gefühle verändert, lass uns sehen, wie wir anderen helfen können. Wenn ein Freund traurig ist, können wir ihm ein Lächeln schenken oder ein Spiel vorschlagen. Manchmal hilft es, einfach zuzuhören. Du kannst ein super Freund sein, indem du anderen zeigst, wie man Gefühle managen kann. Du bist ein echter Held!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich daran, wie wir zusammen tief geatmet haben? Das können wir auch mit anderen Dingen machen, die uns helfen, uns zu beruhigen. Zum Beispiel können wir bis fünf zählen. Lass uns das zusammen machen: Eins, zwei, drei, vier, fünf. Das hilft, den Kopf klar zu machen und uns zu fokussieren. Es ist wie ein kleiner Zaubertrick, den du überall anwenden kannst!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns über eine weitere Methode sprechen, die uns hilft, ruhig zu bleiben: das Strecken und Bewegen des Körpers. Wenn wir uns bewegen, fühlen wir uns oft besser. Lass uns die Arme hoch in die Luft strecken und uns wie ein großer Baum fühlen. Jetzt schütteln wir die Arme aus und tanzen ein bisschen. Bewegung kann helfen, Stress abzubauen und uns fröhlicher zu machen."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super gemacht! Jetzt, da du so viel über das Managen von Gefühlen weißt, kannst du anderen helfen, es auch zu lernen. Vielleicht kannst du einem Freund zeigen, wie man tief atmet oder sich einen ruhigen Ort vorstellt. Du bist ein großartiger Lehrer und kannst anderen helfen, sich besser zu fühlen. Das ist wirklich heldenhaft von dir!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was machst du normalerweise, wenn du dich nicht gut fühlst? Hast du eine besondere Methode, die dir hilft, dich zu beruhigen? Vielleicht hast du ein Kuscheltier, das dich tröstet, oder ein Lieblingsspiel, das dich ablenkt. Lass uns darüber nachdenken, was wir noch tun können, um uns besser zu fühlen. Deine Ideen sind bestimmt fantastisch!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir so viele tolle Dinge gelernt haben, können wir sie jeden Tag anwenden. Denk daran, dass es in Ordnung ist, sich manchmal traurig oder wütend zu fühlen. Wichtig ist, dass wir wissen, wie wir damit umgehen können. Du hast so viel gelernt und bist jetzt ein echter Gefühlsheld! Ich bin so stolz auf dich und all die Fortschritte, die du gemacht hast."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Weißt du, was noch Spaß macht? Ein Spiel zu spielen, bei dem wir unsere Gefühle erraten. Du kannst ein Gesicht machen und ich versuche zu erraten, welches Gefühl das ist. Lass uns das ausprobieren! Mach ein Gesicht und ich sage dir, was ich denke. Das ist ein lustiges Spiel, das uns hilft, unsere Gefühle besser zu verstehen."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich fantastisch! Du hast so viel über das Managen von Gefühlen gelernt, und ich bin sicher, dass du das in Zukunft gut anwenden kannst. Egal, welche Herausforderungen kommen, du bist bereit, sie zu meistern. Du bist ein wahrer Super Jump Hero, und ich freue mich darauf, noch mehr Abenteuer mit dir zu erleben. Du kannst alles schaffen, was du dir vornimmst!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so toll, dieses Abenteuer mit dir zu erleben! Jetzt weißt du, wie du deine Gefühle besser managen kannst. Ich hoffe, du hattest genauso viel Spaß wie ich. Danke, dass du mitgemacht hast, und vergiss nicht, dass du immer ein Held bist. Bis zum nächsten Abenteuer, mein kleiner Freund! Auf Wiedersehen und hab einen wunderbaren Tag!"
+    }
+  ],
+  "title": "Super Jump Heros Emotional Regulation Geschichte"
+}

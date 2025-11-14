@@ -1,0 +1,98 @@
+{
+  "id": "sunny_behavior_story",
+  "character": "Sunny",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Sunny. Bugün birlikte davranışlar hakkında eğlenceli bir yolculuğa çıkacağız. Hazır mısın? Davranışlar, nasıl hissettiğimizi ve başkalarına nasıl davrandığımızı gösterir. Güzel davranışlarla dolu bir dünyada yaşamak harika olurdu, değil mi? Hadi başlayalım, çok heyecanlıyım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Davranışlar, her gün yaşadığımız küçük anlarda kendini gösterir. Mesela, bir arkadaşımıza gülümsediğimizde veya teşekkür ettiğimizde. İyi davranışlar, başkalarını mutlu eder ve kendimizi de iyi hissettirir. Bugün bu davranışlar hakkında daha fazla şey öğreneceğiz. Sen de öğrendiklerini arkadaşlarınla paylaşabilirsin."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, iyi davranışlar nelerdir bir bakalım. İyi davranışlar, kurallara uymak ve başkalarına saygı göstermekle başlar. Örneğin, oyun oynarken sırayla oynamak ve oyuncakları paylaşmak gibi. Başkalarının duygularını anlamak ve onlara nazik davranmak da çok önemlidir. Bu şekilde herkes mutlu olur ve birlikte güzel vakit geçiririz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım! Elinizdeki oyuncakları hayal edin ve onları sırayla paylaşın. Bu, paylaşmanın ne kadar eğlenceli olduğunu gösterir. Harika! Sen bunu çok iyi yapıyorsun. Oyuncaklarını arkadaşlarınla paylaşmak, onların da mutlu olmasını sağlar. Senin gibi bir arkadaş herkesin hayalidir!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda paylaşmanın öneminden bahsetmiştik. Şimdi, teşekkür etmenin ve özür dilemenin nasıl güzel davranışlar olduğunu düşünelim. Birisi sana yardım ettiğinde teşekkür etmek, ona minnettar olduğunu gösterir. Yanlış bir şey yaptığında özür dilemek ise sorumluluk almanın bir yoludur. Bu davranışlar, ilişkilerimizi güçlendirir ve bizi daha iyi hissettirir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Haydi, teşekkür etme ve özür dileme pratiği yapalım. Bir arkadaşınızın size yardım ettiğini hayal edin ve ona teşekkür edin. Şimdi de yanlışlıkla bir arkadaşınızı üzdüğünüzü düşünün ve ondan özür dileyin. Bu, kendimizi ve başkalarını daha iyi hissettirir. Güzel davranışlar, kalplerimizi daha da yakınlaştırır."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Bugün hangi güzel davranışları yaptığını hatırlıyor musun? Mesela, birine yardım ettin mi ya da teşekkür ettin mi? Hadi biraz düşün ve bana anlat. Seni dinlemek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki soruda düşündüğün davranışlar çok önemli. Şimdi bu davranışları her gün nasıl uygulayabileceğimizi konuşalım. Günlük hayatımızda küçük şeyler bile büyük farklar yaratabilir. Sabahları ailemize günaydın demek veya yemek için teşekkür etmek gibi. Bu davranışlar, günümüzü daha güzel yapar."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Her gün güzel davranışlar yaparak, çevremizdeki herkesin daha mutlu olmasına yardımcı olabiliriz. Senin gibi biri, bu dünyayı daha iyi bir yer yapabilir. Unutma, her davranışın bir etkisi vardır. Senin güzel davranışların, çevrendeki herkese ilham verebilir. Harika iş çıkarıyorsun!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Biraz da sabırlı olmanın öneminden bahsedelim. Sabır, bazen beklemek gerektiğinde gösterdiğimiz güzel bir davranıştır. Mesela, sırada beklerken veya bir şeyin sırasının bize gelmesini beklerken. Sabırlı olmak, hem kendimize hem de başkalarına saygı göstermemizi sağlar. Bu, herkesin daha huzurlu hissetmesine yardımcı olur."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi bir sabır oyunu oynayalım. Hep birlikte üçe kadar sayalım ve beklemeyi deneyelim. Bir, iki, üç... Harika! Sabırlı olmak, bazen zor olabilir ama çok önemlidir. Sabırlı davrandığında, herkesin daha mutlu olduğunu göreceksin. Bunu başarabildiğin için seni tebrik ederim!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sabırlı olduğun bir anı hatırlıyor musun? Belki bir oyunda sıra beklerken ya da bir şeyin sırasının sana gelmesini beklerken. Böyle anlarda nasıl hissettiğini hatırlıyor musun? Senin deneyimlerini duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Sabırla ilgili deneyimlerini paylaşmak çok değerli. Şimdi bu davranışları daha da geliştirmek için neler yapabileceğimizi düşünelim. Her gün biraz daha sabırlı olmak için küçük adımlar atabiliriz. Bu, bizi daha güçlü ve mutlu yapar. Senin gibi birinin bu konuda neler yapabileceğini görmek harika!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte çok şey öğrendik ve harika vakit geçirdik. Güzel davranışlar, sabır ve nazik olmak gibi konularda daha da iyi olabileceğini biliyorum. Her gün bu davranışları uygulayarak, çevremizdeki dünyayı daha güzel bir yer yapabiliriz. Seni tanımak ve seninle bu yolculuğa çıkmak çok güzeldi. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Sunny'ın Behavior Hikayesi"
+}

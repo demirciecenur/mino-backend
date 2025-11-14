@@ -1,0 +1,98 @@
+{
+  "id": "bubu_bedtime_story",
+  "character": "Bubu",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Bubu. Hoy vamos a hablar de algo muy especial: la hora de dormir. Es un momento mágico cuando nos preparamos para descansar y soñar. ¿Estás listo para un viaje lleno de aventuras antes de dormir? Estoy muy emocionado de compartir este momento contigo. Comencemos con una historia antes de acostarnos."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La hora de dormir es muy importante porque nos ayuda a crecer y a sentirnos bien al día siguiente. Cuando dormimos bien, nuestro cuerpo y nuestra mente se sienten descansados. Podemos tener más energía para jugar y aprender cosas nuevas. ¿No te encanta cuando tienes un día lleno de aventuras? Dormir bien nos prepara para eso. Ahora, hablemos de cómo hacer que la hora de dormir sea especial."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para prepararnos para dormir, primero necesitamos relajarnos. Podemos empezar apagando las luces brillantes y encendiendo una luz suave. Esto le dice a nuestro cerebro que es hora de descansar. También podemos escuchar música tranquila o leer un cuento. Estas actividades nos ayudan a calmarnos y nos hacen sentir seguros y listos para dormir. ¿Te gustaría intentar una de estas cosas esta noche?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ahora es el momento de ponernos cómodos! Primero, ponte tu pijama favorito. ¿Tienes uno con dibujos divertidos o colores que te gustan? Luego, acurrúcate bajo las sábanas suaves. Imagina que tu cama es una nube esponjosa donde puedes flotar y soñar. ¡Qué maravilloso es sentirse así de cómodo! Estoy seguro de que puedes hacerlo genial."
+    },
+    {
+      "id": "scene_4",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Recordemos lo que hablamos sobre relajarnos antes de dormir. Es importante también cepillarse los dientes para tener una sonrisa brillante al despertar. ¿Sabías que cepillarse los dientes es como darle un abrazo a tus dientes? Así los mantienes fuertes y felices. Después de eso, podemos decir buenas noches a nuestros juguetes y amigos. Ellos también necesitan descansar."
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos listos para dormir, podemos hacer algo muy especial: respirar profundamente. Vamos a intentarlo juntos. Inhala por la nariz contando hasta tres... uno, dos, tres. Ahora exhala suavemente por la boca. Esto ayuda a que nuestro cuerpo se relaje y se sienta tranquilo. Puedes imaginar que estás soplando una nube suave que flota en el cielo."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Otra cosa que podemos hacer es pensar en cosas bonitas antes de dormir. Podemos cerrar los ojos y pensar en un lugar especial, como un bosque mágico o una playa soleada. ¿Qué sonidos escuchas allí? ¿Qué colores ves? Imaginar cosas bonitas nos ayuda a tener sueños felices y a dormir profundamente. ¿No es maravilloso?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora vamos a contar ovejitas. Esto es un truco divertido para ayudarnos a dormir. Imagina una ovejita saltando una cerca, y contemos juntos: una ovejita... dos ovejitas... tres ovejitas. Cada ovejita que salta te lleva más cerca de un sueño tranquilo. Puedes seguir contando hasta que sientas que tus ojos se cierran suavemente."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabes por qué es importante tener una rutina antes de dormir? Las rutinas nos ayudan a sentirnos seguros porque sabemos qué esperar. Como cuando siempre das las buenas noches a tus juguetes o escuchas un cuento. ¿Tienes alguna rutina especial antes de dormir? Me encantaría saber cómo haces que tu hora de dormir sea especial."
+    },
+    {
+      "id": "scene_9",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Ahora que hemos hablado de muchas cosas para hacer antes de dormir, me gustaría escuchar tus ideas. ¿Qué te gusta hacer antes de cerrar tus ojos? Tal vez tienes un peluche favorito que te acompaña. O tal vez te gusta escuchar una canción especial. Todas estas cosas hacen que tu hora de dormir sea única y especial."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Es bueno recordar que a veces podemos sentirnos un poco nerviosos antes de dormir, y eso está bien. Podemos hablar con alguien que nos quiere, como mamá o papá, y contarles cómo nos sentimos. Ellos siempre están ahí para hacernos sentir seguros y amados. Saber que no estamos solos nos ayuda a calmarnos y descansar mejor."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a hacer un último ejercicio de relajación. Cierra los ojos e imagina que estás flotando en un lago tranquilo. El agua está tibia y el cielo está lleno de estrellas brillantes. Puedes sentirte ligero y seguro, como si estuvieras en un lugar mágico. Este es tu momento de paz antes de dormir."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Has aprendido muchas cosas sobre cómo prepararte para dormir. Recuerda que cada noche es una nueva oportunidad para soñar y descansar. Puedes usar estas ideas para tener una noche tranquila y reparadora. Estoy muy orgulloso de ti por intentar estas cosas nuevas. ¡Eres increíble!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer compartir este tiempo contigo. Recuerda que siempre puedes volver a escuchar estas historias antes de dormir. Ahora es el momento de cerrar tus ojos, respirar profundamente, y dejar que los sueños te lleven a lugares maravillosos. Buenas noches, pequeño amigo. Que tengas los sueños más dulces. ¡Hasta la próxima!"
+    }
+  ],
+  "title": "Historia de Bedtime de Bubu"
+}

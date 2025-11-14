@@ -1,0 +1,98 @@
+{
+  "id": "frost friend sid_friendship_story",
+  "character": "Frost Friend Sid",
+  "topic": "friendship",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleine Freunde! Ich bin Frostfreund Sid, und heute sprechen wir über Freundschaft. Seid ihr bereit für ein lustiges Abenteuer? Freundschaft ist etwas ganz Besonderes, wie ein Schatz, den man mit anderen teilt. Gemeinsam lachen, spielen und lernen – das macht Freunde aus. Also, schnallt euch an, und lasst uns zusammen herausfinden, was Freundschaft wirklich bedeutet!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert ihr euch, als wir über das Teilen gesprochen haben? Teilen ist eine wunderbare Art, Freundschaft zu zeigen. Wenn du dein Lieblingsspielzeug mit einem Freund teilst, zeigt das, dass du an ihn denkst und ihn magst. Freunde teilen nicht nur Spielsachen, sondern auch lustige Geschichten und schöne Erinnerungen. Und wisst ihr, das Schönste ist, dass das Teilen uns alle glücklich macht!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lasst uns darüber nachdenken, wie wir gute Freunde sein können. Gute Freunde hören zu, wenn jemand spricht, und helfen, wenn jemand Hilfe braucht. Wenn dein Freund traurig ist, kannst du ihn trösten oder ihm eine Umarmung geben. Und wenn du Hilfe beim Aufräumen brauchst, ist ein Freund da, um zu helfen. So zeigt man, dass man sich umeinander kümmert!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lasst uns zusammen zählen, wie viele Dinge wir mit Freunden machen können. Eins, zwei, drei: Spielen, Lachen, Helfen! Ist das nicht wunderbar? Und wisst ihr was? Ihr könnt auch neue Freunde finden, indem ihr einfach Hallo sagt und mit einem Lächeln fragt, ob sie mitspielen möchten. Probiert es aus, und seht, wie viele Freunde ihr finden könnt!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir wissen, wie wichtig Zuhören ist, lasst uns ein kleines Spiel spielen. Stellt euch vor, ihr seid ein Detektiv und hört ganz genau zu, was euer Freund erzählt. Wenn ihr etwas Interessantes hört, könnt ihr Fragen stellen, um mehr zu erfahren. Das macht Spaß, und euer Freund wird sich freuen, dass ihr so aufmerksam seid!"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Habt ihr schon einmal einen Freund getröstet, der traurig war? Wie habt ihr euch dabei gefühlt? Manchmal reicht es, einfach da zu sein und zuzuhören. Und manchmal hilft es, etwas Lustiges zu erzählen, um ein Lächeln auf das Gesicht deines Freundes zu zaubern. Was denkt ihr, was kann man noch tun, um einen Freund aufzuheitern?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert ihr euch, wie wir über das Fragenstellen gesprochen haben? Fragen zu stellen zeigt, dass ihr interessiert seid und mehr über euren Freund erfahren möchtet. Wenn ihr fragt, was euer Freund am liebsten spielt oder welche Farbe er mag, zeigt das, dass ihr euch um ihn kümmert. Und wer weiß, vielleicht entdeckt ihr sogar, dass ihr die gleichen Dinge mögt!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns eine Übung machen: Jeder von euch kann drei Dinge nennen, die er gerne mit Freunden macht. Vielleicht ist es ein Spiel, das ihr zusammen spielt, oder ein lustiges Lied, das ihr singt. Wenn ihr eure Ideen teilt, lernt ihr, dass jeder etwas Besonderes zu bieten hat. Und das ist das Tolle an Freundschaften – jeder bringt etwas Einzigartiges mit!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wisst ihr, dass Freundschaft wie ein Garten ist? Man muss ihn pflegen, damit er wächst. Das bedeutet, dass man sich Zeit für seine Freunde nimmt und ihnen zeigt, dass sie einem wichtig sind. Wenn ihr das nächste Mal mit einem Freund spielt, versucht, ihm zu sagen, wie viel Spaß ihr zusammen habt. Ihr werdet sehen, wie sehr es ihn freut!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über das Pflegen von Freundschaften gesprochen haben, denkt daran, dass es auch wichtig ist, ehrlich zu sein. Ehrlichkeit bedeutet, dass wir die Wahrheit sagen und unseren Freunden vertrauen. Wenn du mal einen Fehler machst, ist es okay zu sagen, dass es dir leid tut. Das zeigt, dass du ein guter Freund bist und eure Freundschaft wichtig für dich ist."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnert ihr euch an die Geschichte, die ich euch von meinem Freund, dem kleinen Schneemann, erzählt habe? Er war traurig, weil er seine Mütze verloren hatte. Aber wir haben sie gemeinsam gesucht und gefunden! Das hat ihm ein Lächeln ins Gesicht gezaubert. Gibt es eine Geschichte, die ihr mit einem Freund erlebt habt, die euch besonders in Erinnerung geblieben ist?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lasst uns nun darüber sprechen, wie wichtig es ist, dass Freunde auch mal unterschiedliche Meinungen haben können. Manchmal mag ein Freund etwas anderes als du. Das ist in Ordnung, denn jeder ist einzigartig. Ihr könnt euch gegenseitig respektieren und neue Dinge ausprobieren. Vielleicht entdeckt ihr dabei etwas Neues, das euch beiden Spaß macht!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lasst uns gemeinsam drei tiefe Atemzüge nehmen, um uns zu entspannen. Atmet ein... und aus. Noch einmal, ein... und aus. Ein letztes Mal, ein... und aus. Das fühlt sich gut an, oder? Atmen hilft uns, ruhig zu bleiben, besonders wenn wir aufgeregt oder traurig sind. Ihr könnt es auch mit euren Freunden ausprobieren, wenn sie sich nicht gut fühlen."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Zum Abschluss möchte ich euch sagen, dass ihr alle großartige Freunde seid. Ihr habt so viel über Freundschaft gelernt und könnt es jetzt in die Welt hinaustragen. Denkt daran, dass ein Lächeln und ein freundliches Wort viel bewirken können. Ich freue mich darauf, bald wieder mit euch zu plaudern. Bis zum nächsten Mal, kleine Freunde!"
+    }
+  ],
+  "title": "Frost Friend Sids Friendship Geschichte"
+}

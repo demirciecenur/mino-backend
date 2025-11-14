@@ -1,0 +1,104 @@
+{
+  "id": "yellow_buddy_behavior_attention_story",
+  "character": "Yellow Buddy",
+  "topic": "behavior_attention",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friends! I'm Yellow Buddy, and today we're going to have a super fun time learning about paying attention and staying calm. Are you ready for a playful adventure? I can't wait to share some giggles and smiles with you. We'll discover how to focus like a superhero and stay as calm as a gentle breeze. Let's start this joyful journey together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, do you remember a time when you were trying to build a tall tower with blocks? Staying focused on that task helped you make it as tall as the sky! Paying attention is just like that. It helps us do what we want to do, like listening to a story or playing a game. We'll learn how to make our attention super strong, just like our favorite superheroes."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "To make our attention muscles stronger, we can play a fun game called 'Freeze and Focus.' Imagine you're a statue! When I say 'freeze,' you stop and look around like a curious little explorer. This helps us practice stopping and focusing, which is super important. Let's try it together and see how still we can be. Ready, set, freeze!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job, everyone! You all looked like amazing statues. By practicing this game, we're getting better at focusing. Remember, practice makes perfect. Every time you try, you get a little bit better. Let's give ourselves a big cheer for doing such a fantastic job. You can do it!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about calming down. Sometimes, we might feel as bouncy as a kangaroo or as wiggly as a worm. That's okay, but being calm can help us feel better and do things more easily. Imagine a gentle breeze blowing through the trees – that's how calm we can be. Let's learn how to find that calm breeze inside us."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "One way to find calm is by taking deep breaths. Let's try it together. Breathe in like you're smelling a flower, and then breathe out like you're blowing out a candle. Can you feel how it makes you relaxed and peaceful? Practicing this helps us calm our busy minds and feel as relaxed as a sleepy kitten."
+    },
+    {
+      "id": "scene_6",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Now, let's play a game called 'Calm Counting.' We'll count to five while taking deep breaths. One... breathe in, two... breathe out, three... feel the calm, four... almost there, five... we're calm! Isn't it amazing how counting and breathing can help us feel so good? Let's try this whenever we need to feel calm."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about building that tall block tower? Just like that, staying calm helps us focus and finish what we start. It's like having a superpower that helps us do amazing things. When we practice being calm and focused, we can play games, listen to stories, and have fun with our friends much more easily."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a wonderful job learning these new skills! Every time you practice, you become even better. It's like collecting stars in a game – the more you collect, the brighter you shine. Keep practicing, and soon you'll be an attention and calm superstar. I believe in you, and I know you can do it!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I'm curious, what do you like to do when you want to feel calm? Do you have a special toy or a cozy place you like? Maybe you enjoy drawing or listening to music. It's important to know what helps us feel calm and happy. Can you think of something that makes you feel peaceful?"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "That's wonderful! Having a special place or activity that makes us feel calm is like having a magic key to peace. Whenever you feel a little wiggly or bouncy, you can use your magic key. It's a special tool that helps us feel better and enjoy our time more. Let's remember to use it whenever we need to."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's practice one more fun activity called 'Quiet Listening.' Find a cozy spot and listen carefully to the sounds around you. Can you hear the birds chirping or the wind whispering? Listening quietly helps us focus and enjoy the world around us. It's like being a detective, finding all the hidden sounds."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastic listening, everyone! You're becoming such great listeners, just like detectives. Remember, every time you practice, you get better at it. Listening helps us learn new things and enjoy our adventures even more. Keep using your super listening skills, and you'll discover so many amazing things."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "We've learned so much today about paying attention and staying calm. These are important skills that help us in everything we do. Whether we're playing with friends, listening to stories, or building towers, being focused and calm makes everything more fun. Keep practicing, and you'll be a superstar in no time!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this wonderful adventure, my little friends. Remember, you have the power to focus and find calm whenever you need it. Keep shining bright and practicing your new skills. I had so much fun with you today, and I can't wait for our next adventure together. Goodbye for now, and see you soon!"
+    }
+  ],
+  "title": "Yellowbuddy's Behavior & Attention Story"
+}

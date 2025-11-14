@@ -1,0 +1,104 @@
+{
+  "id": "luna_bedtime_story",
+  "character": "Luna",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Luna, und heute Abend reisen wir in eine magische Traumwelt. Bist du bereit, mit mir auf diese wunderbare Reise zu gehen? Gemeinsam werden wir die Sterne zählen und die Geheimnisse der Nacht entdecken. Ich bin so aufgeregt, weil Schlafenszeit die beste Zeit ist, um zu träumen. Lass uns die Reise beginnen und sehen, wohin sie uns führt!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Schlafenszeit ist eine ganz besondere Zeit des Tages. Es ist die Zeit, in der wir unsere kleinen Abenteuer des Tages beenden und uns auf große Träume vorbereiten. Hast du schon einmal bemerkt, wie die Sterne am Himmel funkeln, wenn es dunkel wird? Sie sind wie kleine Freunde, die uns in den Schlaf wiegen. Der Mond schaut auf uns herab und lächelt, während wir uns in unsere Decken kuscheln. Ist es nicht wunderbar, wie die Nacht uns umarmt?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bevor wir schlafen gehen, gibt es einige wichtige Dinge zu tun. Zuerst müssen wir unsere Zähne putzen, damit sie schön und sauber sind. Das macht unsere Zähne stark und gesund, genau wie die strahlenden Sterne am Himmel. Danach ziehen wir unseren Schlafanzug an, der uns warm und gemütlich hält. Und schließlich legen wir uns ins Bett, bereit, in die Traumwelt zu reisen. Kannst du all diese Dinge heute Abend ausprobieren?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt, wo wir bereit für das Bett sind, lass uns ein kleines Spiel spielen. Wir zählen zusammen bis fünf, während wir tief ein- und ausatmen. Eins, zwei, drei, vier, fünf - atme tief ein! Und jetzt langsam aus. Fühlst du, wie ruhig und entspannt du wirst? Du machst das großartig! Diese Übung hilft uns, den Tag hinter uns zu lassen und uns auf unsere Träume zu konzentrieren."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an die Geschichten, die wir gestern erzählt haben? Heute Abend können wir uns neue Geschichten ausdenken, während wir einschlafen. Vielleicht reisen wir zu einem geheimnisvollen Schloss oder fliegen mit einem Drachen über die Wolken. Die Möglichkeiten sind endlos, und du kannst dir alles vorstellen, was du möchtest. Träume sind wie kleine Abenteuer, die nur darauf warten, entdeckt zu werden. Was denkst du, wohin wirst du heute Nacht reisen?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du einen Lieblingsstern am Himmel? Vielleicht einen, der besonders hell leuchtet? Stell dir vor, dieser Stern ist da, um auf dich aufzupassen, während du schläfst. Was würdest du ihm gerne sagen, bevor du einschläfst? Du kannst ihm von deinem Tag erzählen oder ihm einen Wunsch zuflüstern. Es ist schön zu wissen, dass er da ist, um dich zu begleiten. Glaubst du, er hat auch Träume?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über Sterne und Träume gesprochen haben, lass uns über den Mond sprechen. Der Mond ist wie ein großer, freundlicher Wächter am Himmel. Er leuchtet hell und zeigt uns den Weg, auch wenn es dunkel ist. Manchmal sieht er aus wie eine Banane, manchmal wie ein Ball. Kennst du das Lied vom Mond? Es ist ein wunderschönes Lied, das uns in den Schlaf wiegen kann. Vielleicht kannst du es heute Abend summen, bevor du einschläfst."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du im Bett liegst, kannst du dir vorstellen, dass du auf einer Wolke liegst. Die Wolke ist weich und flauschig, und sie trägt dich sanft durch den Himmel. Stell dir vor, die Wolke schaukelt dich hin und her, während du dich entspannst. Diese Vorstellung hilft dir, dich wohlzufühlen und schneller einzuschlafen. Möchtest du das heute Abend ausprobieren? Es ist eine wunderbare Art, den Tag zu beenden."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das ganz wunderbar! Wenn du dich entspannst und an schöne Dinge denkst, wird die Schlafenszeit noch magischer. Vielleicht denkst du an einen schönen Tag im Park oder an ein spannendes Abenteuer mit deinen Freunden. Diese Gedanken sind wie kleine Geschenke, die uns helfen, glücklich einzuschlafen. Du kannst alles erreichen, was du dir vorstellst. Schlafenszeit ist eine Zeit, um zu träumen und zu wachsen."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir uns auf die Nacht vorbereitet haben, ist es Zeit, die Lichter zu dimmen. Wenn das Licht schwächer wird, werden die Sterne draußen noch heller. Es ist fast so, als ob sie uns sagen wollen, dass es Zeit ist, zu träumen. Lass uns einen letzten Blick auf die Sterne werfen und ihnen eine gute Nacht wünschen. Sie werden die ganze Nacht über uns wachen. Ist es nicht beruhigend zu wissen, dass wir nie wirklich allein sind?"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du schon ein Kuscheltier, das dich in den Schlaf begleitet? Ein kleiner Freund, der immer an deiner Seite ist? Kuscheltiere sind wunderbare Begleiter, die uns ein Gefühl von Sicherheit geben. Vielleicht hast du einen Teddybären oder ein weiches Kissen, das dich umarmt. Sie sind immer da, um dir Trost zu spenden und dir süße Träume zu schenken. Welches Kuscheltier ist heute Abend bei dir?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nun, da wir alles vorbereitet haben, können wir uns auf die Schlafenszeit freuen. Die Nacht ist voller Geheimnisse und Wunder, die wir in unseren Träumen entdecken können. Vielleicht tanzen wir mit den Sternen oder fliegen durch die Galaxie. Alles ist möglich, wenn wir unsere Augen schließen und uns der Magie der Nacht hingeben. Die Schlafenszeit ist eine Einladung, unsere Fantasie zu nutzen und neue Welten zu erkunden. Was wirst du heute Nacht entdecken?"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bevor wir einschlafen, lass uns noch eine kleine Frage stellen. Was war das Schönste, das du heute erlebt hast? Vielleicht ein Spiel mit Freunden oder ein leckerer Snack? Diese schönen Erinnerungen sind wie kleine Sterne in unserem Herzen. Sie helfen uns, mit einem Lächeln auf den Lippen einzuschlafen. Möchtest du mir von deinem schönsten Moment erzählen?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt ist es an der Zeit, sich gemütlich in die Decke zu kuscheln und die Augen zu schließen. Lass uns tief einatmen und alle Sorgen des Tages loslassen. Die Nacht ist ruhig und friedlich, und wir sind bereit, in die Traumwelt zu gleiten. Morgen wird ein neuer Tag mit neuen Abenteuern sein. Aber jetzt ist es Zeit, den Tag mit einem Lächeln zu beenden und süß zu träumen. Gute Nacht, kleiner Freund."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Danke, dass du heute Abend mit mir auf diese magische Reise gegangen bist. Ich hoffe, deine Träume sind voller Wunder und Freude. Schlaf gut und träume süß, denn morgen wartet ein neuer, aufregender Tag auf dich. Ich freue mich darauf, bald wieder mit dir zu sprechen. Gute Nacht und bis bald, mein kleiner Freund!"
+    }
+  ],
+  "title": "Lunas Bedtime Geschichte"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "blu_pup_behavior_attention_story",
+  "character": "Blu Pup",
+  "topic": "behavior_attention",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük arkadaşlar! Ben Blu Pup ve bugün sizinle harika bir maceraya çıkacağız. Haydi hep birlikte dikkatli olmanın ve davranışlarımızı nasıl kontrol edebileceğimizin sırlarını keşfedelim. Bazen hepimiz biraz karışık hissedebiliriz, değil mi? İşte bu yüzden birlikte oyunlar oynayarak ve eğlenceli aktivitelerle bu konuları öğreneceğiz. Hazır mısınız? Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dikkat toplamak bazen zor olabilir, ama endişelenmeyin, birlikte öğrenebiliriz. Dikkatimizi bir şeye vermek için önce sakinleşmemiz gerekiyor. Örneğin, derin nefes alarak başlayabiliriz. Şimdi hep birlikte üç derin nefes alalım. Hazır mıyız? Bir, iki, üç... Derin nefes al ve ver. İşte bu kadar kolay!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, dikkat toplamak için bir oyun oynayacağız. Etrafınıza bakın ve odanızda mavi bir şey bulun. Bulduğunuzda bana söyleyin! Mavinin güzelliğine dikkat edin, nasıl göz alıcı değil mi? Bu şekilde çevremizdeki şeylere odaklanmak, dikkatimizi toplamamıza yardımcı olabilir. Bu oyunu gün içinde farklı renklerle de oynayabilirsiniz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardınız! Şimdi biraz daha zor bir şey denemek ister misiniz? Hadi birlikte bir hikaye uyduralım. Hikayemizde bir karakter olsun ve bu karakter bir maceraya çıksın. Hayal gücümüzü kullanarak hikayeyi nasıl daha da ilginç hale getirebiliriz? Unutmayın, hayal gücünüz sınırsızdır!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki etkinlikte harika bir iş çıkardık. Şimdi biraz sakinleşip zihnimizi dinlendirelim. Gözlerimizi kapatıp hayal edelim ki güzel bir bahçedeyiz. Kuşların cıvıltısını ve yaprakların hışırtısını duyuyoruz. Bu tür hayaller kurmak, sakinleşmemize ve dikkatimizi toplamamıza yardımcı olabilir. Haydi bunu denemeye devam edelim."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, rutinler hakkında konuşalım. Rutinler, günümüzü planlamamıza ve ne yapacağımızı bilmemize yardımcı olur. Örneğin, her sabah kalktığınızda önce yüzünüzü yıkayıp sonra dişlerinizi fırçalamak gibi. Böylece her gün ne yapacağınızı bilirsiniz ve bu da sizi rahatlatır. Siz de kendi rutinlerinizi oluşturmak ister misiniz?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ne harika bir fikir! Kendi rutinlerinizi oluşturmak için bir liste yapabilirsiniz. Bu listeyi yaparken en sevdiğiniz aktiviteleri de eklemeyi unutmayın. Belki oyuncaklarınızı toplamak ya da kitap okumak olabilir. Bu şekilde gününüzü daha düzenli geçirebilirsiniz. Harika bir iş çıkarıyorsunuz!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi size bir soru sormak istiyorum. Dikkatinizi dağıtan bir şey olduğunda ne yapıyorsunuz? Belki bir oyun oynuyorsunuz ya da bir şeyler izliyorsunuz. Bu durumda ne yaparsınız? Düşünün ve cevabınızı bana söyleyin. Cevabınızı çok merak ediyorum!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda dikkat dağıtan şeyler hakkında düşünmüştük. Şimdi bu dikkat dağıtıcıları nasıl yönetebileceğimizi konuşalım. Eğer bir oyunun ortasındaysanız ve dikkatiniz dağılıyorsa, belki bir süre ara vermek iyi olabilir. Ara verdiğinizde, derin nefesler alarak zihninizi dinlendirebilirsiniz. Bu, tekrar odaklanmanıza yardımcı olabilir."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi bir başka oyun oynayalım. Bu oyunda, bir dakika boyunca sessizce oturup etrafımızdaki seslere odaklanacağız. Duyduğunuz her sesi bana söyleyebilirsiniz. Bu oyun, dikkatimizi toplamamıza ve çevremizdeki şeylere daha dikkatli bakmamıza yardımcı olur. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Birlikte oynadığımız bu oyunlar sayesinde dikkatimizi nasıl toplayabileceğimizi öğrendik. Şimdi, öğrendiklerimizi uygulayalım. Gün içinde bu oyunları tekrar ederek, dikkatinizi daha iyi toplayabilirsiniz. Unutmayın, her şey pratik yapmakla daha iyi hale gelir. Siz de bir dahaki sefere bu oyunları denemek ister misiniz?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Pratik yapmak her zaman önemlidir ve siz bunu çok iyi yapıyorsunuz. Unutmayın, her yeni gün yeni bir fırsattır. Bu fırsatları değerlendirerek daha iyi ve daha dikkatli olabilirsiniz. Her gün biraz daha ilerleme kaydetmek, büyük sonuçlar doğurur. Siz de bunu başarabilirsiniz!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Son olarak, bugün öğrendiklerimizden en çok hangisini sevdiniz? Belki oyunları ya da rutinleri sevdiniz. Hangisi sizin favoriniz oldu? Düşünün ve bana söyleyin. Cevabınızı duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte çok şey öğrendik ve harika vakit geçirdik. Dikkat toplamak ve davranışlarımızı yönetmek için birçok yeni yöntem keşfettik. Unutmayın, her zaman pratik yapmak önemlidir ve siz bunu çok iyi yapıyorsunuz. Şimdi, bir dahaki buluşmamıza kadar kendinize iyi bakın. Hoşça kalın, küçük dostlarım!"
+    }
+  ],
+  "title": "Blupup'ın Davranış ve Dikkat Hikayesi"
+}

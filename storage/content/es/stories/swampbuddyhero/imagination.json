@@ -1,0 +1,104 @@
+{
+  "id": "swamp_buddy_hero_imagination_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "imagination",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy tu Swamp Buddy Hero. Hoy vamos a embarcarnos en un maravilloso viaje sobre la imaginación. ¿Estás listo? Estoy tan emocionado de explorar con ustedes. La imaginación es como una puerta mágica que nos lleva a lugares increíbles, ¿no es genial?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La imaginación es muy poderosa. Nos permite crear mundos enteros en nuestras mentes. Podemos imaginar ser valientes caballeros o exploradores en una jungla. ¿Has imaginado alguna vez ser un astronauta volando hacia las estrellas? ¡Es tan divertido pensar en todas las posibilidades!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a aprender cómo usar nuestra imaginación. Cierra los ojos por un momento. Piensa en un lugar que te gustaría visitar, como una playa soleada o un bosque mágico. Imagina los sonidos, los colores, y todo lo que verías allí. Es como pintar un cuadro en tu mente."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial, lo estás haciendo muy bien! La imaginación también nos ayuda a resolver problemas. Por ejemplo, si tus juguetes se pierden, puedes imaginar una aventura para encontrarlos. ¿No es increíble lo que podemos hacer con un poco de imaginación?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerdas cuando hablamos de ser astronautas? Ahora imagina que estás en una nave espacial. ¿Qué verías por la ventana? Tal vez planetas de colores o estrellas brillantes. ¡La imaginación nos lleva a lugares donde nunca hemos estado!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a intentar algo divertido. Imagina que eres un animal en el zoológico. ¿Qué animal serías? ¿Un león rugiente o un mono travieso? Piensa en cómo caminarías y qué sonidos harías. ¡Es divertido imaginar ser alguien más!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eso es maravilloso! La imaginación puede hacer que el tiempo pase volando. Puedes imaginar un día lluvioso como una oportunidad para construir un fuerte en el salón. Todo se convierte en una aventura con un poco de imaginación."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en cómo la imaginación nos ayuda a aprender. Cuando escuchamos cuentos antes de dormir, estamos usando nuestra imaginación para ver las historias en nuestras mentes. Es como ver una película dentro de nuestra cabeza, ¡y eso es muy especial!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Probemos otro ejercicio. Imagina que estás en una tienda de dulces. ¿Qué dulces ves? ¿Tal vez caramelos de colores o chocolates deliciosos? Piensa en el olor y el sabor. ¡La imaginación puede hacer que cualquier cosa sea posible!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estás haciendo un trabajo increíble! La imaginación también nos hace sentir felices. Podemos pensar en cosas que nos hacen sonreír, como un día soleado en el parque o jugar con un amigo. La imaginación es como un amigo especial que siempre está con nosotros."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando imaginamos estar en una jungla. Ahora imagina que estás explorando un castillo encantado. ¿Qué habitaciones explorarías primero? Tal vez la torre más alta o el gran salón de baile. ¡Hay tantas cosas emocionantes que descubrir!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Cuál es tu cosa favorita para imaginar? ¿Tal vez ser un superhéroe o un chef famoso? ¿Qué te gusta de usar tu imaginación? ¡Me encantaría saberlo! La imaginación es única para cada uno de nosotros."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La imaginación también nos ayuda a hacer nuevos amigos. Cuando jugamos juntos, podemos crear historias y mundos juntos. Como cuando juegas a la casita o a los piratas en el patio. ¡Es tan divertido compartir nuestra imaginación con los demás!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres un gran imaginador! Recuerda que siempre puedes usar tu imaginación, no importa dónde estés. Ya sea en casa, en la escuela o en el parque, la imaginación siempre está contigo. ¡Sigue soñando y creando, pequeño amigo!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido una aventura maravillosa explorar la imaginación contigo. Espero que sigas usando tu imaginación para crear cosas increíbles. ¡Gracias por acompañarme hoy! Recuerda, la imaginación nunca se agota. ¡Hasta la próxima, pequeño amigo!"
+    }
+  ],
+  "title": "Historia de Imagination de Swamp Buddy Hero"
+}

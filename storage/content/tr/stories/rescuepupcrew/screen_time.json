@@ -1,0 +1,98 @@
+{
+  "id": "rescue_pup_crew_screen_time_story",
+  "character": "Rescue Pup Crew",
+  "topic": "screen_time",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Rescue Pup Crew. Bugün birlikte ekran süresi hakkında harika bir yolculuğa çıkacağız. Ekran zamanı nedir, neden önemlidir, birlikte keşfedeceğiz. Hazır mısın? Seni çok merak ediyorum. O halde başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekran zamanı, televizyon, tablet veya telefon gibi cihazlar karşısında geçirdiğimiz süreyi ifade eder. Bu cihazlar eğlenceli oyunlar oynamamıza ve yeni şeyler öğrenmemize yardımcı olabilir. Ancak çok fazla ekran süresi gözlerimizi yorabilir ve hareket etmemizi engelleyebilir. Bu yüzden ekran süresini dengeli kullanmak çok önemlidir. Şimdi ekran süresini nasıl daha iyi yönetebileceğimizi konuşalım."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresini dengeli hale getirmek için belirli bir zaman dilimi ayarlayabiliriz. Örneğin, her gün sadece bir saat ekran başında kalmak iyi bir başlangıç olabilir. Bu süreyi belirlerken, oyun oynamak ve eğitici videolar izlemek için ayrı zamanlar oluşturabiliriz. Ekran başında geçirdiğimiz süreyi eğlenceli aktivitelerle dengeleyebiliriz. Şimdi bu aktivitelerden bazılarına göz atalım."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ekran süresini azaltmanın en iyi yollarından biri dışarıda oynamaktır. Arkadaşlarınla birlikte futbol oynamak veya bisiklet sürmek harika bir seçenek olabilir. Ayrıca, resim yapmak veya kitap okumak da ekran süresini azaltmak için iyi bir yoldur. Bu aktiviteler hem eğlenceli hem de öğreticidir. Haydi, şimdi birlikte birkaç aktivite düşünelim!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda ekran süresini azaltmak için neler yapabileceğimizi düşündük. Şimdi, ekran başındayken dikkat etmemiz gereken şeylere bakalım. Ekran karşısında otururken dik durmak ve gözlerimizi sık sık dinlendirmek önemlidir. Ayrıca, ekran parlaklığını gözlerimizi yormayacak şekilde ayarlamalıyız. Bu küçük adımlar sağlıklı bir ekran deneyimi sağlar."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresini yönetmek için bir program yapabiliriz. Her gün belirli saatlerde ekran başında olmak ve diğer saatlerde farklı aktiviteler yapmak faydalıdır. Örneğin, sabahları kitap okumak, öğleden sonra oyun oynamak ve akşamları aileyle vakit geçirmek gibi. Bu program, hem eğlenceli hem de dengeli bir gün geçirmemizi sağlar. Şimdi kendi programımızı yapmaya başlayalım!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ekran süremizi iyi yönetirsek, daha fazla enerjimiz olur ve daha mutlu hissederiz. Bu sayede, hem eğlenir hem de yeni şeyler öğreniriz. Unutma, denge her zaman önemlidir. Senin de ekran süreni nasıl dengeleyeceğini merak ediyorum. Hadi, birlikte bu konuda daha fazla düşünelim!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Birlikte ekran süresini konuşurken, bunun neden önemli olduğunu da anlamış olduk. Ekran süresini yönetmek, sağlıklı ve aktif bir yaşam sürmemize yardımcı olur. Bu yüzden, ekran başında geçirdiğimiz süreyi dikkatli bir şekilde planlamalıyız. Şimdi, ekran süresini nasıl daha eğlenceli hale getirebileceğimizi tartışalım."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence ekran başında en çok hangi oyunları oynamaktan hoşlanıyorsun? Belki de eğitici videolar izlemeyi seviyorsundur. Peki, ekran dışında en çok hangi aktiviteleri yapmayı seversin? Bu aktiviteler ekran süreni dengelemen için harika bir yol olabilir. Cevaplarını çok merak ediyorum!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Çok güzel cevaplar verdin! Oyun oynamak ve eğitici videolar izlemek gerçekten keyif verici olabilir. Ancak, dışarıda arkadaşlarınla oynamak veya yeni bir şeyler öğrenmek de en az onlar kadar eğlencelidir. Unutma, dengeyi sağlamak her zaman önemlidir. Şimdi bu dengeyi nasıl koruyabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresini dengelemek için bir zamanlayıcı kullanabiliriz. Bu, bize ekran başında ne kadar süre kaldığımızı hatırlatır. Ayrıca, ekran süresi bittiğinde, başka bir eğlenceli aktiviteye geçmek için harika bir fırsattır. Bu şekilde, hem eğlenir hem de farklı şeyler yapma şansı yakalarız. Hadi şimdi bir zamanlayıcı kurmayı deneyelim!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkarıyorsun! Ekran süresini dengelemek, sağlıklı bir yaşam tarzı için çok önemlidir. Bunu başardığında, kendini daha mutlu ve enerjik hissedeceksin. Sen bunu yapabilirsin! Şimdi, ekran süreni nasıl daha etkili kullanabileceğini düşünmeye devam edelim."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Birlikte ekran süresini nasıl yöneteceğimizi öğrendik. Şimdi, bu bilgileri günlük yaşamımızda nasıl uygulayacağımızı konuşalım. Ekran süresini planlamak, eğlenceli aktivitelerle dengelemek ve dikkatli bir şekilde kullanmak önemlidir. Böylece, hem ekran başında hem de dışında harika zaman geçirebilirsin. Şimdi bu bilgileri uygulamaya başlayalım!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte ekran süresi hakkında çok şey öğrendik. Ekran süresini dengeli kullanmak, sağlıklı ve mutlu bir yaşam için çok önemlidir. Seninle bu yolculuğa çıkmak çok güzeldi. Unutma, ekran süreni iyi yöneterek harika işler başarabilirsin. Bir sonraki görüşmemize kadar kendine iyi bak!"
+    }
+  ],
+  "title": "Rescue Pup Crew'ın Screen Time Hikayesi"
+}

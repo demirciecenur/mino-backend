@@ -1,0 +1,104 @@
+{
+  "id": "funny_bunny_emotional_regulation_story",
+  "character": "Funny Bunny",
+  "topic": "emotional_regulation",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Funny Bunny. Bugün duygularımızı nasıl kontrol edebileceğimize dair harika bir yolculuğa çıkacağız. Duygularını kontrol etmek, tıpkı oyuncaklarını toplamak gibi önemli bir beceridir. Hazır mısın? Haydi, başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımız bazen çok güçlü olabilir, değil mi? Mesela, çok kızgın olduğunda kalbin daha hızlı atabilir. Ama endişelenme, bu tamamen normal. Önemli olan, bu duyguları nasıl yöneteceğimizi öğrenmek. Şimdi bu konuda biraz daha konuşalım."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Duygularımızı yönetmek için birkaç nefes almak harika bir başlangıçtır. Derin bir nefes al ve yavaşça ver. Bu, kalbini sakinleştirir ve zihnini rahatlatır. Denemek ister misin? Şimdi birlikte deneyelim!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Derin nefes almak, duygularını kontrol etmene yardımcı olabilir. Aynı zamanda, mutlu olduğunda bunu paylaşmak da önemlidir. Arkadaşlarınla birlikte gülmek ve eğlenmek, duygularını olumlu bir şekilde ifade etmenin yollarından biridir. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bazen üzgün veya kızgın hissettiğimizde, bu duygularla başa çıkmak zor olabilir. Ama üzülme, çünkü bunu öğrenmek zaman alır. Tıpkı bisiklet sürmek gibi, pratik yaparak daha iyi olursun. Kendine güven ve küçük adımlarla ilerle."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnede nefes almayı denemiştik, hatırlıyor musun? Şimdi başka bir yöntem deneyelim. Sevdiğin bir şarkıyı söylemek ya da dans etmek, duygularını ifade etmenin eğlenceli bir yoludur. Senin favori şarkın hangisi? Biraz düşün ve bana söyle."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şarkı söylemek ve dans etmek, duygularını dışa vurmanın harika yollarıdır. Şimdi, en sevdiğin şarkıyı düşün ve o şarkıyı söylerken nasıl hissettiğine odaklan. Bu, seni mutlu edebilir ve daha iyi hissetmeni sağlayabilir. Haydi, deneyelim!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Çok iyi gidiyorsun! Duygularını ifade etmek bazen zor olabilir ama sen bunu başarıyorsun. Unutma, her zaman duygularını paylaşacak birini bulabilirsin. Ailene veya arkadaşlarına nasıl hissettiğini anlatmak, onların da seni anlamalarına yardımcı olur. Sen çok cesursun!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bazen duygularımızı başkalarına anlatmak zor olabilir. Ama duygularımızı paylaşmak, bizi daha güçlü yapar. Bu, aynı zamanda başkalarının da bize nasıl yardımcı olabileceklerini anlamalarına olanak tanır. Şimdi birlikte nasıl hissettiğimizi paylaşmak üzerine konuşalım."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Duygularını paylaşmanın neden önemli olduğunu düşündün mü? Başkaları da senin gibi hissedebilir. Bu yüzden duygularını paylaştığında, başkalarına da yardımcı olabilirsin. Bir sonraki adımda birlikte ne yapabileceğimize bakalım."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir duygu günlüğü tutmak, duygularını anlamana yardımcı olabilir. Her gün nasıl hissettiğini yazabilirsin. Bu, hangi duyguların seni mutlu ettiğini ve hangi durumlarda daha fazla çalışman gerektiğini görmene yardımcı olur. Haydi, birlikte bir günlük yapalım!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Duygu günlüğü tutmak harika bir fikirdir. Bu, kendini daha iyi tanımanı sağlar ve duygularını daha iyi yönetmene yardımcı olur. Unutma, senin duyguların çok değerlidir. Onları anlamak ve yönetmek için her zaman zaman ayırmalısın. Harika bir iş çıkarıyorsun!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Bugün hangi duyguları hissettin? Mutlu muydun, yoksa biraz üzgün mü? Nasıl hissettiğini düşün ve bana söylemek ister misin? Duygularını paylaşmak seni daha iyi hissettirebilir."
+    },
+    {
+      "id": "scene_13",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Duygularını paylaştığın için teşekkür ederim. Bu, çok cesurca bir davranış. Her zaman nasıl hissettiğini paylaşabilirsin. Şimdi, birlikte neler öğrendiğimize bir bakalım ve neler yapabileceğimizi düşünelim."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün duygularımızı nasıl yönetebileceğimizi öğrendik ve harika vakit geçirdik. Unutma, duygularını ifade etmek ve başkalarıyla paylaşmak her zaman önemlidir. Sen çok güçlü ve cesur birisin. Bir sonraki buluşmamızda daha fazla şey öğrenmek için sabırsızlanıyorum. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Funny Bunny'ın Emotional Regulation Hikayesi"
+}

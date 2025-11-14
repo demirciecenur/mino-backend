@@ -1,0 +1,98 @@
+{
+  "id": "yellow buddy_régulation émotionnelle, gestion des émotions, se calmer, autorégulation_story",
+  "character": "Yellow Buddy",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Yellow Buddy, et aujourd'hui, nous allons explorer un monde merveilleux : celui des émotions. Tu sais, ces sentiments qui font sourire ton visage ou froncer tes sourcils. Es-tu prêt pour cette aventure ? Nous allons apprendre comment comprendre et gérer nos émotions, pour être heureux et calme chaque jour. Allez, en route pour cette belle découverte !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les émotions sont comme des couleurs dans un arc-en-ciel, elles rendent notre vie joyeuse et intéressante. Parfois, tu peux te sentir joyeux comme quand tu joues avec tes amis. D'autres fois, tu peux te sentir triste, comme quand un jouet se casse. Ces émotions sont normales et font partie de la vie. Mais il est important de savoir comment les gérer pour être toujours en harmonie. Alors, découvrons ensemble comment faire !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour commencer, parlons de ce que nous ressentons. Quand tu te sens en colère, comme quand quelqu'un prend ton jouet, que fais-tu ? Une bonne idée est de prendre une grande respiration et de compter jusqu'à cinq. Cela te donnera le temps de te calmer et de réfléchir. Tu verras, ça fonctionne comme par magie. Essaie de le faire avec moi maintenant !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super, tu as fait un excellent travail ! Prendre une pause et respirer peut aider ton esprit à se sentir mieux. Imagine que chaque respiration est une bulle qui flotte doucement dans le ciel. C'est relaxant, n'est-ce pas ? Tu es vraiment doué pour ça ! Continuons notre voyage, il y a encore plein de choses à découvrir."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de la joie. La joie, c'est comme un grand soleil dans ton cœur. Tu te sens joyeux quand tu joues à tes jeux préférés ou quand tu manges une glace. Pour partager cette joie, tu peux sourire à quelqu'un ou même faire un câlin. Partager des émotions positives rend tout le monde heureux autour de toi. N'est-ce pas merveilleux ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu déjà remarqué comment les autres ressentent des émotions aussi ? Parfois, tes amis peuvent être tristes ou heureux. Que fais-tu quand tu vois quelqu'un qui est triste ? Une idée est de lui demander comment il se sent et de l'écouter. C'est une belle façon de montrer que tu te soucies de lui. Penses-tu pouvoir essayer cela ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Souviens-toi, être un bon ami, c'est aussi aider les autres à gérer leurs émotions. Tu peux offrir ton aide ou simplement être là pour eux. Parfois, un sourire ou un mot gentil peut faire une grande différence. Alors, la prochaine fois que tu vois un ami dans le besoin, n'hésite pas à lui montrer ton soutien. Ensemble, nous pouvons rendre chaque journée plus belle !"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Revenons à notre exercice de respiration. Tu te souviens comment on fait ? Prenons une autre grande respiration ensemble. Inspire profondément par le nez, puis souffle doucement par la bouche. Imagine que tu souffles sur une bougie sans l'éteindre. Respire encore une fois. Sens-tu à quel point ton corps se détend ? C'est génial !"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, tu es vraiment doué pour ça ! Se calmer est une compétence précieuse. Cela t'aide à mieux comprendre ce que tu ressens et à réagir de manière positive. Chaque fois que tu te sens dépassé, souviens-toi de cet exercice. Tu verras, cela rendra ta journée plus lumineuse. Continue comme ça, tu es incroyable !"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de la tristesse. C'est normal de se sentir triste parfois, comme quand tu perds ton doudou préféré. Ce qui est important, c'est de savoir comment remonter la pente. Tu peux parler à un adulte de confiance ou jouer à un jeu que tu aimes. Ces petites actions peuvent transformer ta tristesse en sourire. Tu vois, tu as le pouvoir de changer tes émotions !"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu déjà ressenti de l'inquiétude, comme avant de commencer quelque chose de nouveau ? C'est comme avoir des papillons dans le ventre, n'est-ce pas ? Que fais-tu dans ces moments-là ? Tu pourrais essayer de dessiner ou d'écouter de la musique douce. Cela peut aider ton esprit à se détendre. Veux-tu essayer cela la prochaine fois ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est fantastique de voir comment tu apprends à gérer tes émotions ! Chaque petit pas que tu fais te rend plus fort et plus heureux. N'oublie pas que tes émotions sont comme un livre d'histoires. Elles racontent ce que tu ressens à l'intérieur. Avec un peu de pratique, tu pourras écrire de belles histoires de bonheur et de calme chaque jour. Continue d'essayer, tu es sur la bonne voie !"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour finir, faisons un petit jeu de relaxation. Allonge-toi sur le sol et ferme les yeux. Imagine que tu es allongé sur un nuage doux et moelleux. Sens comment il te porte doucement. Prends une grande respiration et laisse ton corps se détendre. C'est comme faire une sieste dans le ciel. Profite de ce moment de calme. Tu te sens bien, n'est-ce pas ?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette belle aventure avec moi aujourd'hui ! Tu as appris beaucoup de choses sur les émotions et comment les gérer. Je suis très fier de toi et de tes efforts. N'oublie pas que je suis toujours là pour t'aider. À bientôt, petit aventurier des émotions ! Passe une merveilleuse journée remplie de joie et de rires. Au revoir !"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Yellow Buddy"
+}

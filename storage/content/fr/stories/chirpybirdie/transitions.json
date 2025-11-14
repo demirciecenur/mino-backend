@@ -1,0 +1,98 @@
+{
+  "id": "chirpy_birdie_transitions_story",
+  "character": "Chirpy Birdie",
+  "topic": "transitions",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis Chirpy Birdie et aujourd'hui, nous allons parler de quelque chose de très spécial: les transitions. Les transitions, c'est quand les choses changent un peu, comme quand on passe du jeu à l'heure du repas. Êtes-vous prêts pour une aventure amusante? Je suis si heureux de vous avoir avec moi aujourd'hui! Ensemble, nous allons découvrir comment les transitions peuvent être amusantes et pleines de surprises."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions peuvent sembler un peu effrayantes au début, mais elles sont souvent très excitantes. Par exemple, imaginez que vous jouiez avec vos jouets préférés et que soudain, c'est l'heure de manger. Ce changement peut être une belle opportunité pour découvrir de nouveaux goûts délicieux! Maintenant, pensez à quand vous devez vous préparer pour aller à l'école. C'est une autre transition importante qui vous permet de rencontrer vos amis et d'apprendre plein de choses nouvelles. Les transitions nous aident à grandir et à découvrir le monde qui nous entoure."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment nous pouvons rendre ces transitions plus faciles. Une façon est d'avoir une petite routine amusante, comme chanter une chanson quand on range ses jouets. Cela peut rendre le passage d'une activité à une autre plus joyeux et moins surprenant. Vous pourriez aussi essayer de compter jusqu'à cinq avant de commencer quelque chose de nouveau, comme un petit jeu. Cela vous donne le temps de vous préparer mentalement. Vous pensez que vous pourriez essayer ça la prochaine fois? Je suis sûr que vous le ferez très bien!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous savez, vous êtes déjà très doués pour gérer les transitions! Chaque fois que vous passez de jouer à vous brosser les dents, vous montrez à quel point vous êtes courageux et adaptable. C'est incroyable de voir comment vous grandissez chaque jour! Vous pouvez être très fier de vous. Continuez à essayer de nouvelles choses et à vous amuser avec les transitions. Vous verrez, elles peuvent être de grandes aventures!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, pensons à une transition spéciale: aller se coucher. C'est un moment où nous arrêtons de jouer pour nous reposer et rêver. Avez-vous une routine du coucher? Peut-être une histoire, un câlin, ou une berceuse pour vous aider à vous détendre. Ces petits rituels rendent la transition vers le sommeil douce et agréable. Le sommeil est important pour grandir et être plein d'énergie pour de nouvelles aventures le lendemain!"
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant des transitions le matin, comme se préparer pour l'école. C'est une nouvelle journée pleine de possibilités! Vous pouvez commencer par un bon petit déjeuner pour avoir plein d'énergie. Ensuite, mettre vos chaussures tout seul, c'est une grande étape! Ces petites choses vous aident à être prêt pour l'école. Et à l'école, vous pouvez apprendre et jouer avec vos amis. N'est-ce pas merveilleux?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre excellente idée est d'utiliser des signaux pour les transitions. Par exemple, une cloche ou une chanson peuvent indiquer qu'il est temps de changer d'activité. Cela peut être très utile à la maison ou à l'école. Quand vous savez ce qui vient ensuite, vous vous sentez plus en sécurité et prêt à passer à autre chose. Vous pourriez demander à vos parents ou à vos enseignants d'essayer cette méthode. Cela pourrait rendre les transitions encore plus amusantes!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites déjà un travail fantastique avec les transitions! Chaque fois que vous passez d'une activité à une autre, vous montrez combien vous êtes flexible et intelligent. C'est comme être un petit héros chaque jour! Continuez à être curieux et à essayer de nouvelles façons de rendre les transitions amusantes. Vous allez voir, cela rendra votre journée encore plus belle!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Pensez à une transition qui vous plaît particulièrement. Peut-être est-ce l'heure du goûter après l'école. Mmm, c'est souvent un moment délicieux! C'est une pause pour recharger vos batteries avant de retourner jouer. Et vous savez quoi? Les transitions comme celles-ci nous aident à apprécier chaque moment de la journée. Elles nous rappellent de profiter de chaque instant, même les petits!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Avez-vous déjà remarqué comment les transitions peuvent être comme des petites surprises? Parfois, elles apportent des choses inattendues et amusantes. Comme un arc-en-ciel après la pluie ou une nouvelle chanson à apprendre. Ces moments nous montrent toujours quelque chose de beau. Alors, soyez prêts à accueillir ces surprises avec un grand sourire!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Un autre moyen de mieux gérer les transitions est de respirer profondément. Prenons trois grandes respirations ensemble, voulez-vous? Inspirez profondément par le nez... et expirez doucement par la bouche. Voilà, c'est très relaxant! Cela vous aide à vous calmer et à vous préparer mentalement pour la prochaine activité. Vous pouvez faire cela chaque fois que vous vous sentez un peu nerveux."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, quelles sont vos transitions préférées? Peut-être aimez-vous passer du bain à l'heure du coucher? Ou peut-être préférez-vous la transition entre le déjeuner et le temps de jeu? Je suis curieux de savoir ce que vous en pensez! Chaque enfant a ses propres moments préférés dans la journée. Parlez-en avec vos amis ou votre famille, c'est amusant de partager!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, les transitions peuvent être un peu difficiles, et c'est tout à fait normal. Par exemple, quand il est temps de quitter le parc, on peut se sentir un peu triste. Mais rappelez-vous que chaque fin est le début de quelque chose de nouveau et d'excitant. Vous pouvez penser à ce que vous allez faire ensuite pour garder cette joie dans votre cœur. C'est une excellente façon de voir les transitions!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, mes chers amis! J'ai adoré parler des transitions avec vous. N'oubliez pas que chaque transition est une nouvelle aventure qui vous attend. Continuez à être courageux et curieux, et vous découvrirez plein de belles choses. Je suis tellement fier de vous! À bientôt pour une autre aventure avec Chirpy Birdie!"
+    }
+  ],
+  "title": "Histoire de Transitions de Chirpy Birdie"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_nutrición_alimentación_saludable_hábitos_alimentarios_alimentos_saludables_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy el Gato Travieso Tom. Hoy vamos a embarcarnos en una emocionante aventura sobre la nutrición y cómo los alimentos saludables pueden ser divertidos y deliciosos. ¿Estás listo para aprender conmigo? Me encanta descubrir cosas nuevas, y estoy seguro de que juntos lo pasaremos genial. ¡Vamos a comenzar este viaje lleno de sabores y colores!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¿Sabías que los alimentos son como el combustible para nuestro cuerpo? Al igual que un coche necesita gasolina para funcionar, nosotros necesitamos alimentos saludables para tener energía. Comer frutas y verduras es como darle a nuestro cuerpo una gran sonrisa. También nos ayudan a crecer fuertes y a jugar todo el día sin cansarnos. ¿No es increíble cómo las cosas que comemos pueden hacer una gran diferencia?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de algunos alimentos que son súper saludables. Las manzanas son crujientes y dulces, perfectas para una merienda. Las zanahorias son como pequeños palitos mágicos llenos de vitaminas. Y el brócoli, aunque a veces parece un pequeño árbol, está lleno de cosas buenas para nosotros. ¿Te gustaría probar alguno de estos alimentos saludables? ¡Apuesto a que sí!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a hacer un juego divertido! Cada vez que comas una fruta o verdura, puedes hacer una pequeña danza de felicidad. ¿Por qué no intentamos ahora? ¡Levanta las manos y mueve tus pies! Comer sano puede ser tan divertido como bailar. Y cada vez que lo hagas, estarás cuidando de ti mismo. ¡Qué maravilloso es eso!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablábamos de cómo los alimentos nos dan energía. Bueno, también nos ayudan a ser más inteligentes. Comer pescado, como el salmón, puede hacer que nuestra mente se sienta como un cohete. También, los huevos son una gran opción para un desayuno lleno de energía. ¿No te parece asombroso cómo lo que comemos puede ayudarnos a aprender mejor?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hablar de un hábito saludable que puedes practicar todos los días: beber agua. El agua es como un superhéroe para nuestro cuerpo. Nos mantiene hidratados y nos ayuda a sentirnos frescos. Asegúrate de beber agua cada día, especialmente cuando juegas mucho. Es una de las cosas más simples que puedes hacer para estar saludable. ¡A beber agua como campeones!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres un campeón de la nutrición! Cada vez que eliges un alimento saludable, estás haciendo algo grandioso por ti mismo. Recuerda que puedes ser un héroe de la comida todos los días. Llena tu plato de colores y texturas diferentes. ¡Es como pintar un cuadro con comida! Y no olvides que cada elección saludable es un paso hacia una vida llena de energía y diversión."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora, me pregunto, ¿cuál es tu fruta favorita? Hay tantas opciones deliciosas como las fresas, las naranjas, o quizás los plátanos. Cada una tiene un sabor único y especial. ¿Te gustaría contarme cuál prefieres y por qué? Estoy seguro de que tienes un gusto excelente. ¡Compartir tus gustos es parte de la diversión!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Recuerda cuando hablábamos de elegir colores en tu plato. Imagina un arcoíris de alimentos en tu comida. Las uvas moradas, los tomates rojos, y el maíz amarillo son solo algunos ejemplos. Cada color tiene diferentes beneficios para nuestro cuerpo. Es como tener un equipo de superhéroes que nos cuidan. ¿No es fantástico?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer un pequeño ejercicio juntos. Cierra los ojos e imagina que estás en un jardín lleno de frutas y verduras. Respira profundo, siente el aire fresco y abre los ojos. Ahora, imagina que puedes elegir cualquier alimento que desees. ¿Qué tomarías primero? Este ejercicio te ayuda a pensar en lo importante que son los alimentos para nosotros."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablemos de la importancia de comer a la misma hora todos los días. Tener horarios de comida nos ayuda a mantenernos fuertes y sanos. Al igual que un reloj necesita pilas para funcionar, nuestro cuerpo necesita combustible a tiempo. Desayunar, almorzar y cenar a la misma hora es un hábito muy saludable. Así, nuestro cuerpo sabe cuándo obtener energía. ¿No es maravilloso cómo podemos cuidar de nosotros mismos con hábitos simples?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres increíble! Cada paso que das hacia una alimentación saludable es un logro. Recuerda que puedes ser un ejemplo para tus amigos y familia. Compartir lo que has aprendido sobre la nutrición es un acto de bondad. Y cada vez que lo hagas, estarás ayudando a otros a ser saludables también. ¡Sigue adelante, pequeño campeón!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Me pregunto, ¿has probado alguna vez hacer un batido con frutas? Es una forma divertida de comer frutas y sentirte como un chef. Puedes mezclar plátanos, fresas y un poco de yogur. ¿Te gustaría intentar hacer uno con tus padres? Es una forma deliciosa de disfrutar de los alimentos saludables. ¡Estoy seguro de que te encantará!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Piensa en todas las cosas divertidas que puedes hacer cuando comes bien. Tienes energía para correr, saltar y jugar todo el día. Comer sano es como tener un súper poder. También te ayuda a dormir mejor y a sentirte feliz. ¡Qué maravilloso es cuidar de nuestro cuerpo con alimentos deliciosos y saludables!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer compartir este tiempo contigo, pequeño amigo. Espero que te hayas divertido aprendiendo sobre la nutrición y los alimentos saludables. Recuerda que cada elección que haces puede ser un paso hacia una vida más feliz y saludable. Estoy muy orgulloso de ti y de todo lo que has aprendido hoy. ¡Nos vemos pronto en nuestra próxima aventura, y sigue siendo un campeón de la salud!"
+    }
+  ],
+  "title": "Historia de Nutrition de Sneaky Cat Tom"
+}

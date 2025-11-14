@@ -1,0 +1,104 @@
+{
+  "id": "shell_heroes_crew_imagination_story",
+  "character": "Shell Heroes Crew",
+  "topic": "imagination",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Salut, petit ami! Je suis membre de l'équipe des Héros de la Coquille. Aujourd'hui, nous partons pour une aventure incroyable sur le pouvoir de l'imagination. Es-tu prêt à explorer avec moi? Ensemble, nous allons découvrir comment l'imagination peut nous emmener dans des endroits magiques. Je suis tellement curieux de savoir ce que tu peux imaginer!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est comme une porte magique qui s'ouvre sur des mondes fantastiques. Parfois, elle nous permet de voler comme des oiseaux ou de nager avec les poissons dans l'océan. As-tu déjà imaginé être un super-héros, avec des pouvoirs incroyables? C'est ce que nous allons explorer aujourd'hui. Avec l'imagination, tout est possible, et tu peux être tout ce que tu veux!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, fermons les yeux un instant et imaginons ensemble. Imagine que tu es dans une forêt enchantée, entouré d'arbres qui chantent. Entends-tu le vent dans les branches? C'est comme une douce mélodie. Imagine les animaux qui dansent autour de toi. N'est-ce pas merveilleux ce que l'imagination peut créer?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Génial! Tu fais un travail incroyable avec ton imagination. Maintenant, essayons d'imaginer quelque chose de différent. Et si nous étions des astronautes en voyage dans l'espace? Nous flottons parmi les étoiles, et la Terre semble si petite de là-haut. Tu vois, l'imagination peut nous emmener très loin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi quand nous avons parlé de voler comme des oiseaux. Maintenant, imagine que tu es un oiseau, haut dans le ciel. Tu peux voir les montagnes, les rivières et les forêts en dessous de toi. Quelle liberté incroyable! L'imagination nous permet de voir le monde d'une manière nouvelle et excitante."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, ouvrons les yeux et regardons autour de nous. Même si nous sommes dans notre chambre ou dans le salon, l'imagination peut transformer ces endroits en quelque chose de magique. Peut-être que ton lit est un navire de pirate, et que le canapé est une montagne à escalader. Que vois-tu autour de toi avec ton imagination?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastique! Tu es vraiment doué pour imaginer. Souviens-toi, l'imagination n'a pas de limites. Tu peux créer des histoires incroyables et des aventures passionnantes. Et chaque fois que tu utilises ton imagination, tu deviens plus créatif et courageux. Continue à rêver grand!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, penchons-nous sur les rêves. Parfois, nos rêves nous montrent des choses que nous n'avons jamais vues auparavant. Ils peuvent être drôles, étranges, ou même inspirants. As-tu déjà rêvé d'être un chevalier ou une princesse dans un château magique? Les rêves sont une autre façon pour l'imagination de s'exprimer."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dis-moi, quel est ton rêve préféré? Peut-être as-tu rêvé d'un voyage dans un pays lointain ou d'une aventure avec des amis? Les rêves peuvent nous donner des idées pour jouer et créer. Qu'aimerais-tu imaginer aujourd'hui?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est une idée merveilleuse! Peut-être pouvons-nous imaginer ensemble une histoire autour de ce rêve. Chaque rêve peut devenir une aventure passionnante si nous le laissons grandir dans notre esprit. Continuons à explorer cette idée!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Revenons à notre forêt enchantée. Imagine maintenant que tu trouves un trésor caché sous les feuilles. Ce trésor est rempli de toutes les choses que tu aimes. Peut-être des jouets, des livres ou des friandises. L'imagination peut transformer les choses ordinaires en quelque chose d'extraordinaire."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons de créer une histoire ensemble. Nous commencerons par choisir un héros. Peut-être un animal courageux ou un personnage magique. Ensuite, imaginons un défi que notre héros doit surmonter. Cela peut être une montagne à gravir ou une rivière à traverser. Que penses-tu que notre héros devrait faire?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Quelle idée brillante! Notre histoire devient de plus en plus excitante grâce à ton imagination. Ensemble, nous pouvons créer une aventure que personne n'a jamais vécue auparavant. Chaque détail que tu ajoutes rend notre histoire encore plus spéciale. Continue comme ça!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, réfléchissons à la fin de notre histoire. Comment notre héros va-t-il surmonter le défi? Peut-être avec l'aide d'amis ou en découvrant une nouvelle force en lui-même. Quelle fin aimerais-tu pour notre aventure?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure imaginaire avec moi. Rappelle-toi, l'imagination est un cadeau merveilleux que tu peux utiliser à tout moment. Continue à rêver et à créer de nouvelles histoires. J'ai hâte de découvrir ce que tu imagineras la prochaine fois. À bientôt, petit aventurier!"
+    }
+  ],
+  "title": "Histoire de Imagination de Shell Heroes Crew"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_Ernährung_gesundes_Essen_Essgewohnheiten_gesunde_Lebensmittel_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "Ernährung, gesundes Essen, Essgewohnheiten, gesunde Lebensmittel",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleine Freunde! Ich bin der schlaue Kater Tom. Heute machen wir eine spannende Reise in die Welt des gesunden Essens! Seid ihr bereit, mehr über Ernährung und gesunde Lebensmittel zu erfahren? Ich bin schon ganz neugierig, was wir alles entdecken werden! Lasst uns gemeinsam Spaß haben und lernen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Wusstet ihr, dass gesundes Essen wie ein Abenteuer ist? Es gibt so viele verschiedene Lebensmittel, die unserem Körper helfen, stark und gesund zu bleiben. Zum Beispiel sind bunte Früchte und knackiges Gemüse wie Superkräfte für uns! Sie geben uns Energie und lassen uns schneller wachsen. Ist das nicht spannend? Lasst uns herausfinden, welche Lebensmittel besonders gut für uns sind!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ernährung ist wie ein bunter Regenbogen. Je mehr Farben auf unserem Teller, desto besser! Wenn wir rote Tomaten, grüne Gurken und gelbe Paprika essen, bekommen wir viele wichtige Vitamine. Diese Vitamine sind wie kleine Helfer, die unseren Körper stark machen. Habt ihr Lust, heute etwas Buntes zu essen? Vielleicht könnt ihr auch eure eigenen Regenbogen-Teller machen!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lasst uns zusammen zählen, wie viele verschiedene Farben wir auf unserem Teller haben können. Eins, zwei, drei, vier, fünf! Wow, das sind viele Farben! Jedes Mal, wenn ihr esst, könnt ihr versuchen, so viele Farben wie möglich zu haben. Das macht nicht nur Spaß, sondern ist auch super gesund. Toll gemacht, ihr kleinen Entdecker!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über Farben gesprochen haben, lasst uns über leckere Snacks reden. Wusstet ihr, dass Nüsse und Samen tolle Snacks sind? Sie sind klein, aber voller Energie! Wenn ihr das nächste Mal Hunger habt, könnt ihr ein paar Nüsse probieren. Sie helfen euch, euch stark und wach zu fühlen. Ist das nicht großartig?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Denkt daran, dass es wichtig ist, jeden Tag viel Wasser zu trinken. Wasser ist wie ein magisches Getränk, das unseren Körper erfrischt. Es hilft uns, besser zu denken und zu spielen. Wenn ihr durstig seid, greift nach einem Glas Wasser. Es ist viel besser als süße Getränke. Versucht es mal!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Ihr macht das wirklich gut. Jetzt lasst uns über das Frühstück sprechen. Ein gesundes Frühstück gibt uns den besten Start in den Tag. Haferflocken mit Früchten sind eine tolle Wahl. Sie geben uns Energie und machen uns bereit für alle Abenteuer. Habt ihr heute schon gefrühstückt? Wenn ja, was habt ihr gegessen?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert ihr euch, wie wir über bunte Teller gesprochen haben? Lasst uns jetzt über Proteine reden. Proteine sind wie Bausteine für unseren Körper. Sie helfen uns, Muskeln aufzubauen und stark zu bleiben. Fleisch, Fisch und Bohnen sind tolle Proteinquellen. Vielleicht könnt ihr diese Woche ein neues Protein ausprobieren!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns jetzt eine kleine Übung machen. Atmet tief ein und aus. Eins, zwei, drei. Das fühlt sich gut an, oder? So wie tiefes Atmen uns entspannt, hilft uns auch gesundes Essen, uns gut zu fühlen. Versucht, jeden Tag ein bisschen Zeit für Entspannung zu finden. Das ist genauso wichtig wie gesundes Essen."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir uns entspannt haben, lasst uns über Essgewohnheiten sprechen. Regelmäßige Mahlzeiten helfen uns, den ganzen Tag über Energie zu haben. Wenn wir zu bestimmten Zeiten essen, fühlt sich unser Körper wohl. Könnt ihr euch an eure Essenszeiten erinnern? Vielleicht könnt ihr eine kleine Uhr malen, um euch daran zu erinnern!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Habt ihr ein Lieblingsessen? Vielleicht etwas, das ihr immer wieder essen möchtet? Es ist wichtig, auch neue Dinge zu probieren. Manchmal entdecken wir neue Lieblingsspeisen, wenn wir mutig sind. Was denkt ihr, könnt ihr diese Woche etwas Neues probieren? Ich bin so neugierig auf eure Antworten!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert ihr euch an unsere Regenbogen-Teller? Lasst uns über gesunde Fette sprechen. Avocados und Olivenöl sind tolle Quellen für gesunde Fette. Diese Fette helfen unserem Gehirn, gut zu funktionieren. Vielleicht könnt ihr diese Woche etwas mit Avocado essen. Es ist lecker und gesund!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt wollen wir über Bewegung sprechen. Bewegung ist genauso wichtig wie gesundes Essen. Wenn wir spielen und rennen, bleibt unser Körper fit. Vielleicht könnt ihr heute ein kleines Spiel spielen oder draußen laufen. Das macht Spaß und ist gut für euch. Seid ihr bereit, euch zu bewegen?"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ihr macht das toll! Ihr habt so viel über gesunde Ernährung gelernt. Denkt daran, dass es wichtig ist, jeden Tag ein bisschen zu lernen und zu wachsen. Ihr könnt eure Familie fragen, ob sie euch beim Kochen hilft oder euch mehr über Lebensmittel erzählt. Ihr seid großartige kleine Entdecker!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es Zeit, sich zu verabschieden, meine kleinen Freunde. Ich hoffe, ihr hattet Spaß auf unserer Reise in die Welt des gesunden Essens. Denkt daran, dass ihr jeden Tag die Chance habt, etwas Neues zu probieren und gesund zu bleiben. Ich freue mich darauf, bald wieder mit euch zu lernen und zu lachen. Auf Wiedersehen und bis zum nächsten Mal!"
+    }
+  ],
+  "title": "Sneaky Cat Toms Nutrition Geschichte"
+}

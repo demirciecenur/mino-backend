@@ -1,0 +1,104 @@
+{
+  "id": "boots_knight_pal_behavior_story",
+  "character": "Boots Knight Pal",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Boots Knight Pal, votre compagnon d'aventure préféré. Aujourd'hui, nous allons explorer un sujet fascinant : le bon comportement. Êtes-vous prêts à découvrir comment être un vrai chevalier du comportement? Ensemble, nous apprendrons à être respectueux et à suivre les règles. Je suis si curieux de savoir comment vous vous comportez chaque jour. Allons-y, l'aventure commence maintenant!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le comportement, c'est comment nous agissons et parlons avec les autres. Par exemple, dire \"s'il te plaît\" et \"merci\" montre que nous sommes polis. C'est comme quand on partage nos jouets avec nos amis; cela montre du respect. Imaginez que vous êtes un chevalier courageux, toujours prêt à aider. Être gentil, c'est comme avoir une épée magique qui rend tout le monde heureux autour de vous. Vous voyez, le comportement peut être une aventure magique!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des règles. Les règles sont là pour nous aider à vivre en harmonie. Par exemple, à la maison, on doit ranger ses jouets après avoir joué. Cela aide à garder la maison propre et agréable pour tout le monde. Suivre les règles à l'école, comme écouter la maîtresse, nous aide à apprendre et à nous amuser. Pensez aux règles comme à des amis qui nous guident. Elles nous montrent le chemin pour être de bons petits chevaliers!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons ensemble de pratiquer un bon comportement. Imaginez que vous êtes en train de ranger vos jouets. Vous pouvez dire à haute voix : \"Je range mes jouets pour que ma chambre soit propre!\" C'est formidable de voir comment un petit geste peut faire une grande différence. Vous êtes tous de merveilleux petits chevaliers du comportement. Vous pouvez le faire, et je suis fier de vous!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, le bon comportement est aussi important à l'extérieur de la maison. Quand vous êtes au parc, attendre votre tour pour la balançoire montre que vous respectez les autres. Cela signifie que tout le monde peut s'amuser en toute sécurité. C'est comme être un chevalier qui protège ses amis. Chaque fois que vous faites cela, vous montrez à quel point vous êtes courageux et attentionné. Continuons à être de super chevaliers du comportement!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons de la gestion de nos émotions. Parfois, nous pouvons nous sentir en colère ou triste, et c'est normal. Mais un bon chevalier apprend à respirer profondément pour se calmer. Prenons trois grandes respirations ensemble. Inspirez par le nez, et expirez par la bouche. Cela nous aide à nous sentir mieux et à réfléchir avant d'agir. C'est un secret de chevalier pour garder le contrôle."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail incroyable en apprenant à gérer vos émotions. Rappelez-vous, même les chevaliers ont besoin de temps pour se calmer. Vous êtes tous si courageux d'essayer de nouvelles choses. Chaque jour est une nouvelle aventure, et vous êtes prêts à la relever. Je suis vraiment fier de vous et de vos efforts!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, pensons à comment nous pouvons aider les autres. Aider quelqu'un à ramasser ses affaires ou à ouvrir une porte est un acte de gentillesse. C'est comme tendre la main à quelqu'un qui a besoin d'un ami. Chaque petit geste compte et montre que vous êtes un vrai chevalier. Ensemble, nous pouvons rendre le monde plus beau et plus joyeux. Être gentil, c'est vraiment magique!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà aidé un ami ou un membre de votre famille? Comment cela vous a-t-il fait sentir? C'est toujours merveilleux de donner un coup de main. Peut-être avez-vous partagé un jouet ou aidé à mettre la table. Chaque fois que vous faites cela, vous devenez un héros du quotidien. N'est-ce pas incroyable de voir combien de bonheur vous pouvez apporter?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons notre aventure en parlant de l'écoute. Écouter attentivement, c'est comme prêter une oreille attentive à ceux qui parlent. Cela montre que vous vous souciez de ce qu'ils disent. Quand un ami vous parle, regardez-le dans les yeux et écoutez calmement. C'est un signe de respect et d'attention. Vous êtes déjà de merveilleux petits auditeurs!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pratiquons ensemble l'écoute active. Imaginez que je vous raconte une histoire. Fermez les yeux et écoutez attentivement chaque mot. Ensuite, vous pouvez me dire ce que vous avez entendu. C'est comme un jeu où l'écoute est la clé du succès. Cela vous aide à comprendre et à apprendre de nouvelles choses. Être un bon auditeur est une qualité de chevalier!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes tous de fantastiques auditeurs! Chaque fois que vous écoutez, vous montrez combien vous êtes attentifs et respectueux. Rappelez-vous que l'écoute est une compétence précieuse. Elle vous aide à comprendre vos amis et votre famille. Je suis fier de vous voir devenir de si bons chevaliers de l'écoute!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de la patience. La patience, c'est attendre calmement même quand on est excité. Comme quand on attend son tour pour un jeu amusant. Cela montre que vous respectez les autres et que vous êtes prêt à partager. La patience est une vertu de chevalier, elle vous rend plus fort et plus sage. Vous voyez, chaque moment d'attente est une opportunité d'apprendre."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous la dernière fois que vous avez été patient? Peut-être avez-vous attendu votre tour pour parler ou pour jouer à un jeu. C'était un moment où vous avez montré votre bravoure de chevalier. Chaque fois que vous êtes patient, vous vous rapprochez un peu plus d'être un grand héros. Je suis si fier de vous et de votre patience!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Voilà, mes petits chevaliers, notre aventure sur le comportement se termine ici. Vous avez appris tant de choses sur comment être respectueux, gentil, et patient. Rappelez-vous, chaque jour est une nouvelle chance de montrer votre bon comportement. Je suis tellement fier de chacun d'entre vous. Merci d'avoir partagé cette aventure avec moi. À bientôt, et continuez d'être de merveilleux petits chevaliers!"
+    }
+  ],
+  "title": "Histoire de Behavior de Boots Knight Pal"
+}

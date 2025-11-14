@@ -1,0 +1,98 @@
+{
+  "id": "mino_time_story",
+  "character": "Mino",
+  "topic": "time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Mino, your space explorer buddy! Today, we're going on an amazing journey to learn all about time. Are you ready to explore this exciting topic with me? Time is like a magical clock that helps us know when to do things, like playing, eating, or sleeping. I'm so curious about how you understand time, and together, we'll discover its wonders. Let's blast off into our adventure!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's start our journey by thinking about what time really is. Time is a way to tell when things happen, like when the sun comes up and when it goes down. Imagine a big clock in the sky that tells us when it's morning, afternoon, or night. Have you ever noticed how the sky changes colors as time goes by? That's time showing us its magic. It's amazing how time helps us plan our day!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about the sky changing colors? That's one way we see time moving. Now, let's learn how to tell time using a clock. A clock has numbers and two hands that move around. The short hand tells us the hour, and the long hand tells us the minutes. Can you imagine a clock in your mind? It's like a circle with numbers around it. Let's pretend to move our hands like the clock hands!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job imagining the clock, little explorer! Now, let's count the numbers on the clock together. One, two, three, all the way to twelve! That's how many hours there are on a clock. You can do it! Counting helps us understand how time moves. Next time you see a clock, try to count the numbers and see where the hands are pointing. It's like a fun puzzle to solve!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Did you know that we also use time to know when to do different things during the day? Like when to eat breakfast, go to school, or play outside. Time helps us create a routine, which is like a plan for our day. Having a routine makes everything run smoothly, like a spaceship flying through the stars. Do you have a favorite part of your daily routine? Maybe it's playtime or storytime!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's think about how we can use time to make our day even more fun. Imagine you have a magic timer that helps you know when to start and stop different activities. You can use it to know when to play with your toys, when to tidy up, and when to get ready for bed. It's like a friendly reminder to help you stay on track. Shall we pretend to set our magic timer for playtime now?"
+    },
+    {
+      "id": "scene_6",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Wonderful! Let's pretend to set our timer for five minutes of playtime. Can you count to five with me? One, two, three, four, five! Now, let's imagine we're playing with our favorite toys. When the timer goes off, it will be time to tidy up. This helps us make sure we have time for everything we love to do. Isn't it fun to use time like this?"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I have a question for you. What is your favorite time of the day? Is it morning when you wake up, or maybe bedtime when you hear a lovely story? Each time of day has its own special magic. Think about why you love that time and what makes it so special for you. I'm curious to know what you think!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we imagined our magic timer? Using time wisely helps us do all the things we enjoy. Let's think about how we can use time to help our family, too. We can help by setting the table for dinner or tidying up our room. When everyone works together, we have more time for fun activities. Teamwork makes everything better, just like a team of astronauts working together in space!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "As we explore time, let's think about how we can make waiting fun. Sometimes, we have to wait for things, like when you're in line for a ride or waiting for dinner to be ready. Let's count to ten together while we wait. One, two, three, all the way to ten! Counting helps the time pass quickly, and before you know it, it's time for the next adventure!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job exploring time with me! Remember, time helps us do all the things we love and keeps everything organized. Let's give ourselves a big clap for learning so much today. Can you clap your hands with me? Clap, clap, clap! It's so much fun to learn together, and I'm so proud of you!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about how time can be a friend when we're feeling sleepy. At bedtime, time helps us wind down and get ready for a good night's sleep. We can use time to brush our teeth, put on our pajamas, and listen to a bedtime story. Taking deep breaths can help us relax. Let's try it together: breathe in slowly, and breathe out gently. Doesn't that feel nice?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we wrap up our adventure, let's remember how time is like a magical tool that helps us every day. It helps us know when to wake up, play, eat, and rest. Time is always with us, guiding us through our day like a friendly star in the sky. The more we understand time, the more we can enjoy each moment. Isn't that wonderful?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this time adventure, little explorer! We've learned so much about how time helps us in our daily lives. Remember, time is our friend, and it makes each day special. I'm so glad we could explore this together. Until next time, keep discovering and having fun! Goodbye, and see you soon!"
+    }
+  ],
+  "title": "Mino's Time Story"
+}

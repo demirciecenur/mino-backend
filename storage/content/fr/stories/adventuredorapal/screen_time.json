@@ -1,0 +1,98 @@
+{
+  "id": "adventure_dora_pal_temps_d'écran_sécurité_numérique_utilisation_de_la_technologie_habitudes_saines_d'écran_story",
+  "character": "Adventure Dora Pal",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis! Je suis Adventure Dora Pal, et aujourd'hui, nous allons explorer un monde magique et amusant. Nous allons parler du temps que nous passons devant nos écrans et comment rester en sécurité en ligne. Êtes-vous prêts pour cette aventure? J'ai hâte de découvrir tout cela avec vous. Allons-y ensemble!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par comprendre ce que signifie 'temps d'écran'. Le temps d'écran, c'est le temps que nous passons à regarder des écrans, comme la télévision ou les tablettes. Parfois, on peut regarder des dessins animés ou jouer à des jeux amusants. Mais il est important de ne pas rester trop longtemps devant l'écran pour que nos yeux ne se fatiguent pas. Saviez-vous que jouer dehors est tout aussi amusant?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de la sécurité numérique. La sécurité numérique, c'est comme avoir une ceinture de sécurité pour internet. Quand on utilise un ordinateur ou une tablette, il faut être prudent. Ne partagez jamais votre nom ou votre adresse avec des personnes que vous ne connaissez pas. Et toujours demander à un adulte avant de télécharger quoi que ce soit. C'est comme demander la permission avant de prendre des bonbons!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un excellent travail en apprenant tout cela! Vous savez, utiliser la technologie peut être très intéressant. On peut apprendre de nouvelles choses et même discuter avec des amis. Mais souvenez-vous, il est aussi important de faire des pauses pour jouer et bouger. Vous êtes prêts à essayer de nouveaux jeux en plein air?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous, lorsqu'on utilise la technologie, il est important de garder des habitudes saines. Cela signifie équilibrer notre temps entre les écrans et les autres activités. Comme lire un livre, dessiner ou jouer avec des amis. Ces activités sont tout aussi importantes pour notre développement. Et elles nous aident à rester en bonne santé et heureux!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des règles à suivre pour un bon usage de la technologie. Avez-vous des règles à la maison pour le temps d'écran? Par exemple, ne pas utiliser les écrans pendant les repas ou avant de dormir. Ces règles nous aident à rester en bonne santé et à bien dormir. Et vous, quelles sont vos règles préférées?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo les amis! Vous apprenez tellement vite. Rappelez-vous de toujours demander de l'aide à un adulte si vous êtes confus ou si vous avez besoin d'aide. Les adultes peuvent vous aider à comprendre ce qui est sûr et ce qui ne l'est pas. Vous êtes incroyables, continuez comme ça!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant des activités alternatives aux écrans. Il y a tellement de choses amusantes à faire! Comme construire un château de sable, peindre un joli tableau, ou même cuisiner quelque chose de délicieux avec un parent. Ces activités sont amusantes et vous permettent d'utiliser votre créativité. Qu'aimeriez-vous essayer aujourd'hui?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, les amis, combien de temps passez-vous devant vos écrans chaque jour? Pensez-vous que vous pourriez essayer de réduire un peu ce temps pour faire autre chose? Peut-être lire un livre ou jouer à un jeu de société? Partageons nos idées!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour finir, parlons des signes qui montrent qu'on a passé trop de temps devant un écran. Parfois, nos yeux commencent à picoter ou on se sent fatigué. C'est le moment de faire une pause et de bouger un peu. On peut faire quelques étirements ou prendre une grande inspiration. Vous voulez essayer avec moi?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez tous fait un travail formidable aujourd'hui! Rappelez-vous que l'important est de s'amuser tout en étant prudent. Vous pouvez toujours demander de l'aide si vous en avez besoin. Continuez à explorer et à apprendre. Vous êtes de véritables aventuriers!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, pensons à comment nous pouvons aider nos amis à apprendre ces règles aussi. Partager ce que nous avons appris peut être très utile. Peut-être que vous pouvez organiser une petite réunion avec vos amis pour parler de la sécurité numérique. C'est une excellente façon de montrer que vous vous souciez d'eux!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "N'oublions pas que la technologie est un outil merveilleux. Elle nous aide à découvrir de nouvelles choses et à rester connectés avec ceux que nous aimons. Mais comme pour tout, il est important de l'utiliser avec sagesse. Et vous, comment allez-vous utiliser la technologie aujourd'hui?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, les amis! J'ai adoré explorer le monde des écrans et de la sécurité numérique avec vous. Souvenez-vous de tout ce que nous avons appris aujourd'hui et amusez-vous en toute sécurité. À bientôt pour de nouvelles aventures! Au revoir!"
+    }
+  ],
+  "title": "Histoire de Screen Time de Adventure Dora Pal"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "piggy_friend_bedtime_story",
+  "character": "Piggy Friend",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Piggy Friend. Heute machen wir uns bereit für die Schlafenszeit. Bist du bereit für ein lustiges Abenteuer? Schlafenszeit kann so spannend sein! Lass uns gemeinsam herausfinden, wie wir uns am besten auf die Nacht vorbereiten können. Ich bin schon ganz neugierig auf dich!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wichtig es ist, sich vor dem Schlafengehen zu entspannen? Eine warme Gute-Nacht-Geschichte kann uns helfen, zur Ruhe zu kommen. Vielleicht hast du ein Lieblingsbuch, das du dir gerne anhörst. Geschichten vor dem Schlafen sind wie kleine Abenteuer in unseren Träumen. Lass uns gemeinsam die Magie der Geschichten entdecken!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt wollen wir lernen, wie wichtig es ist, sich die Zähne zu putzen. Zähneputzen ist wie ein kleiner Tanz für unseren Mund. Es hält unsere Zähne sauber und stark. Hast du schon deine Zahnbürste bereit? Wir können zusammen zählen, während wir putzen: Eins, zwei, drei, vier, fünf! Super gemacht!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du hast deine Zähne toll geputzt! Jetzt ist es Zeit, das Gesicht zu waschen. Ein frisches Gesicht fühlt sich so gut an, bevor wir ins Bett gehen. Du kannst das Wasser plätschern hören, während du dein Gesicht wäschst. Fühlt sich das nicht erfrischend an? Du machst das wunderbar!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir sauber und frisch sind, können wir unser gemütliches Schlafanzug anziehen. Schlafanzüge sind wie warme Umarmungen. Welche Farbe hat dein Lieblingsschlafanzug? Meiner ist rosa mit kleinen Sternen darauf. Lass uns hinein schlüpfen und uns wohlfühlen!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Nun, da wir bereit sind, können wir über unsere Lieblingskuscheltiere sprechen. Hast du ein Kuscheltier, das du besonders liebst? Kuscheltiere sind die besten Freunde in der Nacht. Sie passen gut auf uns auf, während wir schlafen. Welches Kuscheltier nimmst du heute mit ins Bett?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns ein kleines Spiel spielen, um zu entspannen. Wir atmen tief ein und zählen bis drei. Eins, zwei, drei, und puste die Luft sanft aus. Das hilft uns, ruhig und entspannt zu werden. Möchtest du es noch einmal ausprobieren? Du machst das ganz toll!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Weißt du, warum es wichtig ist, eine regelmäßige Schlafenszeit zu haben? Es hilft unserem Körper, sich zu erholen und neue Energie zu tanken. Was machst du am liebsten vor dem Schlafengehen? Vielleicht ein kleines Lied singen oder ein Gute-Nacht-Kuss? Ich bin neugierig, wie deine Schlafenszeit aussieht!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir alles vorbereitet haben, können wir uns hinlegen und die Augen schließen. Denk an all die schönen Dinge, die du heute erlebt hast. Vielleicht hast du etwas Lustiges gespielt oder etwas Neues gelernt. Lass uns die Augen schließen und von all den Abenteuern träumen. Schlaf gut, kleiner Freund!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wirklich wunderbar! Jedes Mal, wenn wir schlafen gehen, ist es ein neues Abenteuer. Wir können von so vielen spannenden Dingen träumen. Vielleicht von einem Tag im Zoo oder einem Picknick im Park. Deine Träume sind so einzigartig und besonders. Du kannst alles schaffen!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Morgen ist ein neuer Tag voller Überraschungen. Was freust du dich am meisten zu tun? Vielleicht ein neues Spiel spielen oder mit Freunden spielen? Schlaf hilft uns, bereit für den nächsten Tag zu sein. Du bist immer bereit für neue Abenteuer!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bevor wir einschlafen, können wir noch ein kleines Schlaflied summen. Lieder sind wie sanfte Umarmungen für unsere Ohren. Du kannst ein Lied auswählen, das dir gefällt. Vielleicht ein Lied über Sterne oder den Mond. Lass uns zusammen summen und die Musik genießen."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal von einem Abenteuer im Traumland geträumt? Im Traumland gibt es so viele aufregende Dinge zu entdecken. Welche Abenteuer würdest du gerne erleben? Vielleicht ein Flug mit einem Drachen oder eine Schatzsuche? Deine Fantasie kennt keine Grenzen."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es Zeit, gute Nacht zu sagen. Ich hoffe, du hattest viel Spaß mit unserem Schlafenszeit-Abenteuer. Schlaf gut und träume schön, kleiner Freund! Ich freue mich schon auf unser nächstes Abenteuer zusammen. Bis bald und gute Nacht!"
+    }
+  ],
+  "title": "Piggy Friends Bedtime Geschichte"
+}

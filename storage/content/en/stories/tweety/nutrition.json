@@ -1,0 +1,104 @@
+{
+  "id": "chirpy_birdie_nutrition_story",
+  "character": "Chirpy Birdie",
+  "topic": "nutrition",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friends! It's me, Chirpy Birdie, and today we're going to flutter into the colorful world of nutrition. Isn't that exciting? Nutrition is all about the yummy foods that help us grow big and strong, like superheroes! Are you ready to learn about all the delicious things we can eat to stay healthy? Let's flap our wings and get started on this fun adventure together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "First, let's talk about fruits and veggies, which are like the colorful jewels of the food world. Eating a rainbow of fruits and veggies gives us lots of vitamins and minerals. These are special helpers that keep our bodies happy and healthy. For example, crunchy carrots help our eyes see better, and juicy oranges give us vitamin C to keep us from getting sick. So, let's munch on some yummy fruits and veggies every day!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, do you know about the power of protein? Protein helps build our muscles so we can run, jump, and play all day long. Foods like eggs, chicken, and beans are full of protein. Imagine your muscles getting stronger with every bite! It's like giving them a big, strong hug. So, next time you're eating, think about how you're helping your muscles grow!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about protein! Let's take a moment to celebrate with a little exercise. Stand up and pretend to be a tall, strong tree. Can you sway gently like the wind is blowing your branches? Wonderful! You can feel your muscles working hard, just like when you eat protein. Keep up the great work, little tree!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about grains, like rice and bread. These foods give us energy, like a car getting fuel to zoom around. Whole grains are the best because they have lots of fiber, which helps our tummies feel good. When we eat whole grains, we can play longer and have more fun without getting tired too quickly. Let's fill our plates with grains that power us up!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Did you know that dairy is like a superhero for our bones? Foods like milk, cheese, and yogurt have calcium, which makes our bones strong. Imagine your bones getting stronger with each sip of milk, like building a sturdy tower. It's important to have dairy every day to keep our bones ready for all the jumping and dancing we love to do!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's not forget about the importance of water. Our bodies need water to stay hydrated and happy, just like plants need water to grow. Drinking enough water helps us think clearly and play without feeling tired. So, always remember to sip on water throughout the day, like a little fish swimming in a pond. It keeps us feeling fresh and ready for anything!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning about nutrition! Let's celebrate with a little dance. Wiggle your toes, shake your feathers, and spin around like a happy birdie. Look at you go! Dancing is a fun way to keep our bodies moving and healthy. Remember, moving around is just as important as eating well. Keep dancing and smiling, little friend!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever wondered why we need to eat a little bit of everything? It's because different foods give us different things our bodies need. Eating a mix of foods is like putting together a colorful puzzle, each piece making us healthier. Can you think of your favorite foods that help you grow strong? Maybe apples, cheese, or even a big, crunchy carrot? Let's think about all the yummy foods we love!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about treats. It's okay to have a sweet treat now and then, like a cookie or a piece of cake. But remember, treats are like a special surprise, not something we eat all the time. Too many sweets can make our tummies feel yucky. So, enjoy your treats, but also remember to eat lots of fruits, veggies, and other healthy foods to keep your body happy."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's play a game to remember all the food groups we've learned about. Can you pretend to be each one? Be a strong protein, a colorful fruit, a powerful grain, a refreshing dairy, and a hydrating water. Look at you, transforming into each amazing food group! This helps us remember how important it is to eat a variety of foods every day. Great job, little food explorer!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Did you know that sharing meals with family and friends can make them even more special? When we eat together, we share stories and laughter, which makes our hearts happy too. It's like a big feast of love! So, next time you sit down for a meal, invite your family to join you, and enjoy the delicious food and fun times together."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well learning about nutrition! Let's take a deep breath together. Inhale slowly, like you're smelling a beautiful flower, and exhale gently, like you're blowing out a candle. Wonderful! Breathing helps us relax and feel calm. Remember, just like taking care of our bodies with good food, taking care of our minds is important too. Keep breathing and smiling!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about eating a rainbow of fruits and veggies? Let's think of all the colors we can eat. Red apples, orange carrots, yellow bananas, green broccoli, and purple grapes. Each color gives us special nutrients, like a magical rainbow in our tummies. Can you imagine eating a rainbow every day? Let's make our meals colorful and fun!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this wonderful journey through the world of nutrition, little friends! Remember, eating a mix of different foods helps us grow strong and healthy. Keep exploring new foods and have fun with every bite. I'm so proud of you for learning and playing along with me. Until next time, keep chirping happily and eating well. Goodbye for now, and see you soon!"
+    }
+  ],
+  "title": "Chirpy Birdie's Nutrition Story"
+}

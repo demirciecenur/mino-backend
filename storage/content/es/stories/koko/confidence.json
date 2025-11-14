@@ -1,0 +1,104 @@
+{
+  "id": "koko_confidence_story",
+  "character": "Koko",
+  "topic": "confidence",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Koko, tu amigo protector y valiente. Hoy vamos a embarcarnos en una aventura increíble sobre la confianza. La confianza es como una capa mágica que te hace sentir fuerte y seguro. ¿Estás listo para descubrir cómo podemos ser valientes juntos? Estoy muy emocionado de comenzar este viaje contigo. ¡Vamos a explorar el mundo de la confianza y la valentía juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confianza es algo muy especial. Es lo que te ayuda a sentirte seguro cuando haces cosas nuevas, como aprender a andar en bicicleta o cantar una canción. Cuando confías en ti mismo, sientes que puedes lograr cualquier cosa. Es como tener un amigo invisible que siempre está a tu lado apoyándote. Ahora, vamos a descubrir cómo podemos fortalecer nuestra confianza cada día."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para tener más confianza, es importante recordar las cosas que ya sabes hacer bien. Por ejemplo, si puedes atarte los zapatos solo, eso es algo maravilloso. Piensa en todas las veces que has logrado algo nuevo. Cada vez que lo haces, tu confianza crece un poco más. Ahora, vamos a practicar juntos recordando nuestras pequeñas victorias. ¿Listo para empezar?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Tú puedes hacerlo! Vamos a recordar una cosa que hiciste bien hoy. Puede ser algo pequeño, como dibujar un bonito dibujo o ayudar a tu mamá. Cada pequeño logro cuenta y te hace más fuerte. Ahora, cierra los ojos y piensa en un momento en el que te sentiste orgulloso de ti mismo. ¿Lo tienes? ¡Eso es confianza creciendo dentro de ti!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos que la confianza también significa no tener miedo de cometer errores. Todos cometemos errores, incluso yo, Koko. Lo importante es aprender de ellos y seguir adelante. Cuando algo no sale como esperabas, puedes intentarlo de nuevo. Así es como crece nuestra confianza, poco a poco, paso a paso. Ahora, vamos a hablar sobre cómo podemos enfrentar nuestros miedos."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Una forma de enfrentar miedos es imaginar que tienes una capa mágica de confianza. Esta capa te protege y te da valor para intentar cosas nuevas. Cuando sientas miedo, cierra los ojos e imagina que te pones tu capa mágica. Siente cómo te envuelve y te da fuerza. Ahora, abre los ojos y mira el mundo con valentía. ¡Eres más fuerte de lo que crees!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres increíble! Cada vez que te enfrentas a un miedo, te vuelves más valiente. Piensa en algo que te gustaría intentar, como hablar en clase o hacer un nuevo amigo. Con tu capa mágica de confianza, sabes que puedes hacerlo. Recuerda, siempre estoy aquí para apoyarte. ¡Vamos a conquistar el mundo juntos con confianza y valentía!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos más sobre la confianza, pensemos en cómo podemos usarla para ayudar a los demás. Cuando ves a un amigo que se siente triste o inseguro, puedes compartir un poco de tu confianza con él. Dile algo amable o anímalo a intentarlo de nuevo. Al compartir tu confianza, ayudas a que otros también se sientan fuertes. Todos podemos ser héroes de la confianza."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar un ejercicio de confianza juntos. Imagina que estás en un lugar donde te sientes feliz y seguro. Puede ser tu parque favorito o tu habitación. Ahora, respira profundamente, inhala por la nariz y exhala por la boca. Siente cómo la confianza entra en tu cuerpo con cada respiración. Hazlo tres veces y siente la calma que te rodea. ¡Qué bien lo hiciste!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez te has sentido inseguro al intentar algo nuevo? Es normal tener esos sentimientos, y todos los tenemos. La próxima vez que sientas eso, recuerda tu capa mágica de confianza. ¿Qué cosas te gustaría hacer con más confianza? Tal vez quieras aprender a nadar o leer un libro en voz alta. ¡Cuéntame, me encantaría saberlo!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos hablado sobre la confianza, recordemos que es algo que crece con el tiempo. No necesitas ser perfecto para tener confianza. Lo importante es seguir intentándolo y no rendirse. Cada día es una nueva oportunidad para ser valiente y aprender algo nuevo. Siempre estaré aquí para apoyarte en tu camino hacia la confianza."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer un pequeño juego para fortalecer nuestra confianza. Piensa en algo que te gustaría lograr esta semana. Puede ser algo sencillo, como ordenar tus juguetes o ayudar a preparar la cena. Cada vez que lo hagas, sentirás cómo tu confianza crece. Anota tus logros en un papel y celebra cada uno de ellos. ¡Qué divertido será ver cuánto has crecido!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Recuerda, pequeño amigo, que siempre puedes contar conmigo, Koko. Estoy aquí para recordarte lo valiente y fuerte que eres. No importa cuán grande o pequeño sea el desafío, tú puedes enfrentarlo. La confianza es como una semilla que crece cada vez que te esfuerzas. ¡Sigue adelante, porque estoy seguro de que lograrás grandes cosas!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría compartir una historia de una vez que te sentiste muy valiente? Tal vez fue cuando te subiste a un columpio muy alto o cuando hablaste delante de tu clase. Me encantaría escuchar tus historias de valentía. Compartir nuestras experiencias nos ayuda a crecer juntos. ¿Cuál es tu historia de confianza? ¡Cuéntamela, por favor!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Hemos llegado al final de nuestra aventura sobre la confianza. Espero que hayas aprendido mucho y que te sientas más fuerte y valiente. Recuerda siempre que la confianza está dentro de ti, esperando a brillar. No importa lo que pase, siempre puedes confiar en ti mismo. Gracias por acompañarme en este viaje, pequeño héroe. ¡Hasta la próxima, sigue confiando en ti mismo!"
+    }
+  ],
+  "title": "Historia de Confidence de Koko"
+}

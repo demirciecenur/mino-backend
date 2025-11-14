@@ -1,0 +1,98 @@
+{
+  "id": "clever_mouse_jerry_confidence_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "confidence",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Jerry, el ratón ingenioso. Hoy vamos a embarcarnos en un viaje increíble sobre la confianza. ¿Estás listo? Me encanta saber que estás aquí conmigo. Vamos a descubrir juntos cómo sentirnos seguros y valientes. ¿Te gustaría escuchar algunas historias divertidas? ¡Estoy muy emocionado de empezar!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confianza es como un superpoder que todos tenemos dentro. A veces, puede esconderse, pero con un poco de práctica, ¡podemos hacerlo crecer! Imagina que la confianza es como una semilla que plantamos en nuestro corazón. Con amor y cuidado, esa semilla crece y se convierte en un árbol fuerte. Hoy vamos a aprender cómo cuidar esa semilla para que nuestra confianza florezca. ¡Qué aventura tan emocionante nos espera!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Primero, hablemos de cómo podemos sentirnos más seguros. Una forma es recordar todo lo que ya sabemos hacer bien. ¿Puedes pensar en algo que haces todos los días, como cepillarte los dientes? ¡Eso es un gran logro! Cada vez que haces algo por ti mismo, tu confianza crece un poquito más. Así que la próxima vez que hagas algo por tu cuenta, recuerda que estás fortaleciendo tu confianza."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ahora, vamos a practicar juntos! Cierra los ojos y respira hondo. Siente cómo el aire entra y sale, suave y tranquilo. Imagina que con cada respiración, estás llenando tu corazón de confianza. ¿Lo sientes? ¡Fantástico! Cada respiración que tomas te hace más fuerte y valiente. ¡Lo estás haciendo muy bien! Vamos a seguir respirando juntos."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos practicado respirar, hablemos de los pequeños pasos. Cada pequeño paso que damos nos lleva más cerca de ser más seguros. Piensa en algo nuevo que quieras intentar, como aprender a dibujar un sol. No importa si no sale perfecto al principio. Lo importante es intentarlo y divertirse mientras lo haces. Así es como crece la confianza, un pequeño paso a la vez."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a imaginar que somos valientes exploradores. Los exploradores siempre están listos para descubrir cosas nuevas y emocionantes. ¿Te gustaría ser uno? ¡Genial! Vamos a buscar tesoros de confianza a nuestro alrededor. Puede ser un abrazo de mamá o papá, o ese dibujo que hiciste ayer. Todo eso son tesoros que nos hacen sentir bien y seguros."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Tú puedes hacerlo! Cada vez que encuentras un tesoro de confianza, te vuelves más fuerte. Es como un juego divertido en el que cada día puedes encontrar algo nuevo que te haga sentir valiente. Recuerda que incluso los exploradores más valientes a veces tienen miedo, pero nunca se rinden. Eso es lo que los hace tan especiales y seguros."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, podemos sentirnos inseguros, y eso está bien. Todos tenemos días en los que no nos sentimos tan valientes. Lo importante es recordar que esos sentimientos pasarán. Cuando te sientas así, piensa en todas las cosas maravillosas que has logrado. Como aquel día que ayudaste a alguien o compartiste tus juguetes. ¡Eres increíblemente valiente y eso nunca cambiará!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a practicar un truco especial para sentirnos más seguros. Se llama \"la sonrisa mágica\". Cuando sonríes, tu corazón se llena de alegría y confianza. ¿Quieres intentarlo? Sonríe lo más grande que puedas. ¿Lo sientes? ¡Tu confianza está creciendo! Cada sonrisa es como un rayo de sol que ilumina tu día y el de los demás."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Cada sonrisa que compartes es un regalo para ti y para el mundo. Recuerda que siempre puedes encontrar algo que te haga sonreír, incluso en los días más grises. Eso es lo que hace que tu confianza sea tan especial y fuerte. ¡Sigue sonriendo y verás cómo todo se vuelve más brillante!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te has sentido alguna vez como un superhéroe? Los superhéroes tienen confianza en sí mismos porque creen en sus habilidades. ¿Cuál es tu habilidad especial? Tal vez seas muy bueno contando historias o construyendo torres altas con bloques. Todos tenemos un superpoder único que nos hace especiales. ¿Te gustaría compartir tu superpoder conmigo?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en todas las cosas maravillosas que has aprendido hoy. Hemos hablado de la confianza, de cómo respirar profundamente y de cómo sonreír. También hemos explorado cómo encontrar tesoros de confianza a nuestro alrededor. Cada una de estas cosas te ayuda a ser más fuerte y seguro. Estoy muy orgulloso de ti por escuchar y aprender conmigo."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres increíble! Recuerda que la confianza es algo que siempre puedes llevar contigo. Como una capa invisible que te hace sentir valiente y fuerte. Cada día es una nueva oportunidad para practicar y crecer. Con cada paso que das, te vuelves más seguro. ¡Sigue adelante, pequeño amigo! Estoy seguro de que lograrás grandes cosas."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer compartir este tiempo contigo. Espero que te lleves contigo toda la confianza que hemos encontrado juntos. Recuerda que siempre puedes volver y escuchar estas historias cuando necesites un poco de valentía extra. Estoy aquí para ti, siempre listo para una nueva aventura. ¡Hasta la próxima, pequeño amigo! ¡Sigue siendo valiente y confiado!"
+    }
+  ],
+  "title": "Historia de Confidence de Clever Mouse Jerry"
+}

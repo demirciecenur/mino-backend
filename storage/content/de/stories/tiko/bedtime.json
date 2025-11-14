@@ -1,0 +1,98 @@
+{
+  "id": "tiko_bedtime_story",
+  "character": "Tiko",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo kleiner Freund! Ich bin Tiko und heute gehen wir auf ein spannendes Abenteuer über die Schlafenszeit. Bist du bereit, etwas Neues zu lernen? Ich bin so neugierig auf dich und deine Abendrituale. Lass uns gemeinsam herausfinden, wie wir uns entspannen und auf das Schlafen vorbereiten können. Es wird eine wunderbare Reise, also lass uns beginnen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, warum Schlafenszeit so wichtig ist? Es ist die Zeit, in der unser Körper und unser Gehirn sich ausruhen können. Schlaf hilft uns, groß und stark zu werden, genau wie die Bäume im Wald. Wenn wir gut schlafen, können wir am nächsten Morgen voller Energie aufwachen. Stell dir vor, wie ein fröhlicher Vogel, der bereit ist, den neuen Tag zu begrüßen!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt, da wir wissen, warum Schlaf wichtig ist, lass uns über unsere Abendrituale sprechen. Abendrituale helfen uns, uns auf das Schlafengehen vorzubereiten. Wie zum Beispiel das Zähneputzen, es ist wie eine kleine Reinigungsparty für unsere Zähne. Danach können wir uns in unsere gemütlichen Schlafanzüge kuscheln. Das fühlt sich immer so weich und warm an, nicht wahr?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lass uns gemeinsam eine kleine Übung machen, um uns zu entspannen. Atme tief ein und zähle dabei bis drei. Eins, zwei, drei. Und jetzt langsam ausatmen, eins, zwei, drei. Das fühlt sich gut an, oder? Du machst das großartig, genau so kann man sich auf eine ruhige Nacht vorbereiten. Lass uns das noch einmal machen!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an unser kleines Atemspiel? Es hilft uns, ruhig und entspannt zu werden. Jetzt können wir vielleicht ein kleines Buch lesen oder eine Geschichte hören. Geschichten sind wie kleine Abenteuer, die wir im Kopf erleben können, ohne unser Bett zu verlassen. Hast du eine Lieblingsgeschichte, die du gerne hörst?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Nach der Geschichte ist es wichtig, dass wir uns in unser Bett kuscheln. Stell dir vor, dein Bett ist wie ein kleines Nest, das dich sicher und warm hält. Du kannst deine Lieblingskuscheltiere mitnehmen, damit sie dir Gesellschaft leisten. Fühlst du schon, wie sich deine Augen schwerer anfühlen? Das ist ein gutes Zeichen, dass du bereit bist zu schlafen."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wunderbar! Jetzt ist es an der Zeit, die Augen zu schließen und an etwas Schönes zu denken. Vielleicht an einen Regenbogen oder an einen wunderschönen Schmetterling. Lass deinen Geist durch die Wolken schweben und träume von all den schönen Dingen, die du dir vorstellen kannst. Du kannst alles sein, was du möchtest, in deinen Träumen!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Denke daran, dass die Sterne am Himmel über dich wachen, während du schläfst. Sie funkeln und leuchten, als würden sie dir eine gute Nacht wünschen. Ist es nicht schön zu wissen, dass der Mond und die Sterne immer da sind, um dich zu beschützen? Jetzt lass uns an unsere Lieblingssterne denken und ihnen eine gute Nacht wünschen."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nun, da wir über den Himmel gesprochen haben, lass uns über den Morgen nachdenken. Wenn wir gut schlafen, wachen wir erfrischt auf und bereit, neue Abenteuer zu erleben. Vielleicht ein neues Spiel lernen oder ein neues Bild malen. Schlafen gibt uns die Energie, die wir brauchen, um all die lustigen Dinge zu tun, die wir lieben."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du jemals darüber nachgedacht, was du gerne träumen würdest? Vielleicht von einem Abenteuer im Dschungel oder einem Ausflug zum Mond? Träume sind wie kleine Geschichten, die wir uns selbst erzählen. Was wäre dein Traumabenteuer? Lass uns zusammen überlegen, was für ein lustiger Traum das sein könnte!"
+    },
+    {
+      "id": "scene_10",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Jetzt, da wir über Träume gesprochen haben, lass uns ein wenig zuhören. Hörst du die leisen Geräusche der Nacht? Vielleicht das sanfte Rauschen des Windes oder das leise Zirpen der Grillen. Diese Geräusche sind wie eine beruhigende Melodie, die uns ins Traumland begleitet. Lass uns zusammen lauschen und die Ruhe genießen."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir darüber gesprochen haben, warum Schlaf wichtig ist? Es ist wie ein kleines Wunder, das jede Nacht passiert. In der Nacht träumen wir und unser Körper erholt sich. Am nächsten Tag sind wir bereit für neue Abenteuer. Schlafen ist so etwas wie Magie, die uns stark und gesund macht!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig, indem du dich auf die Schlafenszeit vorbereitest. Jeder Schritt, den du machst, hilft dir, besser zu schlafen. Ob es das Zähneputzen, das Kuscheln mit deinem Lieblingsstofftier oder das Hören einer Geschichte ist. Du kannst stolz auf dich sein, dass du gut für dich sorgst. Schlaf gut und träume süß, kleiner Freund!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Nun, mein lieber Freund, es ist Zeit, sich zu verabschieden. Ich hoffe, du hast etwas Neues über die Schlafenszeit gelernt. Denk daran, dass jede Nacht ein neues Abenteuer im Traumland auf dich wartet. Schlaf gut und träume von all den wunderbaren Dingen, die du erleben möchtest. Ich freue mich schon, dich bald wiederzusehen. Gute Nacht und bis bald!"
+    }
+  ],
+  "title": "Tikos Bedtime Geschichte"
+}

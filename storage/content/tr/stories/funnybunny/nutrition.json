@@ -1,0 +1,104 @@
+{
+  "id": "funny_bunny_nutrition_story",
+  "character": "Funny Bunny",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Funny Bunny. Bugün seninle beslenme hakkında harika bir yolculuğa çıkacağız. Yiyeceklerin bize nasıl enerji verdiğini ve güçlü olmamıza nasıl yardımcı olduğunu öğreneceğiz. Hazır mısın? Hadi başlayalım, bakalım bu konuda neler keşfedeceğiz!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme, vücudumuzun ihtiyaç duyduğu enerjiyi ve besinleri almak için yediğimiz yiyeceklerdir. Bir önceki konuşmamızda enerji demiştik, değil mi? İşte bu enerji, oyun oynamak, koşmak ve zıplamak için gereklidir. Yani, sabah kahvaltısında yediğimiz bir dilim ekmek bile bize gün boyu enerji verebilir. Şimdi, sağlıklı yiyeceklerin vücudumuza nasıl fayda sağladığını inceleyelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Biliyor musun, meyve ve sebzeler vitamin ve mineral doludur! Bunlar, vücudumuzun güçlü ve sağlıklı kalmasına yardımcı olur. Örneğin, havuç gözlerimizin iyi görmesine yardımcı olabilir. Elma ise dişlerimizi temizlemeye yardımcı olur. Yani, her gün bir elma yemek harika bir alışkanlık olabilir. Bu yüzden, meyve ve sebzeleri tabağımızdan eksik etmemeliyiz."
+    },
+    {
+      "id": "scene_3",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, proteinlerden bahsedelim. Proteinler, kaslarımızın güçlü olmasına yardımcı olur. Tavuk, balık ve fasulye gibi yiyecekler protein açısından zengindir. Sen de oyuncaklarını toplarken kaslarını kullanıyorsun, değil mi? İşte bu yüzden proteine ihtiyacımız var. Her gün biraz protein almak, büyümemize ve oyun oynamamıza yardımcı olur."
+    },
+    {
+      "id": "scene_4",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsun! Şimdi de süt ve süt ürünlerinden bahsedelim. Süt, peynir ve yoğurt gibi yiyecekler kalsiyum açısından zengindir. Kalsiyum, kemiklerimizin ve dişlerimizin güçlü olmasına yardımcı olur. Bu yüzden, her gün bir bardak süt içmek çok faydalıdır. Sen de denemek ister misin? Hadi, birlikte bir bardak süt içelim!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi de karbonhidratlara geçelim. Makarnalar, ekmekler ve patatesler karbonhidrat içerir. Bu yiyecekler, bize hızlı enerji verir ve gün boyu zinde kalmamıza yardımcı olur. Yani, parkta koştururken ihtiyacın olan enerjiyi bu yiyeceklerden alabilirsin. Ancak, her şeyin fazlası zararlıdır, o yüzden dengeli yemeyi unutma!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence su içmek neden önemlidir? Su, vücudumuzun en çok ihtiyaç duyduğu şeylerden biridir. Su içmek, vücudumuzu serin tutar ve organlarımızın düzgün çalışmasına yardımcı olur. Sen de her gün yeterince su içiyor musun? Hadi birlikte düşünelim!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sorumuzda suyun öneminden bahsettik. Şimdi de tatlılardan konuşalım. Tatlılar çok lezzetli ama onları çok fazla yememeliyiz. Çünkü şeker, dişlerimize zarar verebilir ve fazla enerji verebilir. Ama arada bir tatlı yemek tabii ki güzel! Önemli olan, her şeyi dengeli bir şekilde yemek. Senin en sevdiğin tatlı nedir?"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Daha önce bahsettiğimiz gibi, dengeli beslenmek çok önemlidir. Yani, tabağımızda birçok farklı renk ve türde yiyecek olmalı. Kırmızı domates, yeşil ıspanak ve sarı mısır gibi. Bu şekilde, vücudumuz ihtiyacı olan tüm besinleri alır. Bir sonraki yemeğinde tabağında kaç farklı renk var, bir bak bakalım!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika, çok iyi gidiyorsun! Şimdi, birlikte bir oyun oynayalım. Haydi, gözlerimizi kapatalım ve en sevdiğimiz meyvenin tadını hayal edelim. Ben çileği düşünüyorum, çünkü o tatlı ve sulu. Sen de düşün bakalım, hangi meyveyi hayal ediyorsun? Bu küçük oyun, yiyecekler hakkında düşünmemize yardımcı olabilir."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, sağlıklı atıştırmalıklardan bahsedelim. Kuruyemişler, yoğurt ve meyveler harika atıştırmalıklardır. Bunlar, bize enerji verirken aynı zamanda sağlıklı kalmamıza da yardımcı olur. Çikolata ve cips yerine bu atıştırmalıkları tercih edebiliriz. Bu şekilde hem sağlıklı hem de mutlu oluruz."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, kahvaltı yapmanın önemi hakkında ne düşünüyorsun? Kahvaltı, günün en önemli öğünüdür. Çünkü sabahları uyandığımızda vücudumuzun enerjiye ihtiyacı vardır. Sen sabahları neler yemeyi seversin? Hadi düşünelim ve neler yapabileceğimizi konuşalım!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Son sorumuzda kahvaltının öneminden bahsetmiştik. Şimdi, yemek yerken yavaş yemenin önemini konuşalım. Yavaş yemek, yiyeceklerin tadını daha iyi almamıza ve sindirimimizi kolaylaştırmamıza yardımcı olur. Ayrıca, yavaş yediğimizde vücudumuzun doygunluk hissini daha iyi anlamasına olanak tanır. Bu yüzden, yemek yerken acele etmemeliyiz."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Son olarak, birlikte sağlıklı bir yaşam için neler yapabileceğimizi düşünelim. Düzenli spor yapmak, yeterince uyumak ve dengeli beslenmek bunların başında gelir. Her gün biraz hareket etmek, zıplamak veya dans etmek bile çok faydalıdır. Sen de her gün biraz hareket etmeyi deneyebilirsin. Şimdi, bu bilgileri günlük hayatımıza nasıl uygulayabileceğimizi düşünelim."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün seninle beslenme hakkında harika şeyler öğrendik, değil mi? Artık yiyeceklerin vücudumuza nasıl fayda sağladığını biliyoruz. Sen de öğrendiklerini ailenle paylaşabilirsin. Unutma, dengeli beslenmek ve sağlıklı kalmak çok önemli. Bir sonraki buluşmamıza kadar sağlıklı kal ve bol bol gülümse! Hoşça kal!"
+    }
+  ],
+  "title": "Funny Bunny'ın Nutrition Hikayesi"
+}

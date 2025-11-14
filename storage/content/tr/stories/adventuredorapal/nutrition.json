@@ -1,0 +1,104 @@
+{
+  "id": "adventure_dora_pal_nutrition_story",
+  "character": "Adventure Dora Pal",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Adventure Dora Pal. Bugün birlikte beslenme hakkında harika bir yolculuğa çıkacağız. Vücudumuzun enerjiye ihtiyacı olduğunu biliyor musun? Bu enerji, yediğimiz yiyeceklerden geliyor. Hazır mısın? O zaman başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme, vücudumuzun sağlıklı kalması için çok önemlidir. Farklı yiyecekler farklı vitaminler ve mineraller içerir. Örneğin, meyveler ve sebzeler bize bol miktarda vitamin sağlar. Bunlar vücudumuzun güçlü ve sağlıklı kalmasına yardımcı olur. Her gün çeşitli yiyecekler yemek, sağlıklı bir vücut için gereklidir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, sağlıklı bir tabağın nasıl göründüğünü hayal edelim. Tabağımızın yarısı meyve ve sebzelerle dolu olmalı. Diğer yarısı ise tahıllar ve protein kaynaklarıyla dolu olmalı. Bu denge, vücudumuzun ihtiyaç duyduğu tüm besinleri almasına yardımcı olur. Yemeklerimizi bu şekilde planlamak sağlığımız için harika bir adım!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım. Gözlerini kapat ve en sevdiğin meyveyi düşün. Rengini, kokusunu ve tadını hayal et. Harika, değil mi? Şimdi sıra sende! Sen de sevdiğin bir meyveyi seç ve bana anlat. Eminim çok lezzetlidir!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda meyvelerden bahsetmiştik. Şimdi, protein kaynaklarını keşfedelim. Proteinler, kaslarımızın güçlü olmasına yardımcı olur. Tavuk, balık, yumurta gibi yiyecekler protein açısından zengindir. Bu yiyecekleri yemek, vücudumuzu güçlü tutmak için önemlidir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, tahılların neden önemli olduğuna bir bakalım. Tahıllar, bize enerji veren karbonhidratlar içerir. Ekmek, makarna ve pirinç gibi yiyecekler tahıl grubuna girer. Bu yiyecekler, gün boyunca enerjik kalmamıza yardımcı olur. Her öğünde biraz tahıl tüketmek, dengeli bir beslenme için gereklidir."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence en sevdiğin tahıl yemeği nedir? Ben makarnayı çok severim! Senin favorin nedir? Belki pirinç pilavıdır, belki de bir dilim ekmek. Cevabını duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda tahıllardan bahsetmiştik. Şimdi süt ve süt ürünlerini keşfedelim. Süt, yoğurt ve peynir gibi yiyecekler, kemiklerimizin güçlü olmasına yardımcı olur. Bu yiyecekler kalsiyum açısından zengindir. Kalsiyum, sağlıklı bir iskelet sistemi için çok önemlidir."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi seninle eğlenceli bir etkinlik yapalım. Bir bardak süt içmek için hazırlan! Sütün tadını çıkarırken, kemiklerinin güçlendiğini hayal et. Harika değil mi? Sen de yapabilirsin!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi yağlar hakkında konuşalım. Yağlar, vücudumuzun bazı vitaminleri emmesine yardımcı olur. Ancak, çok fazla yağ tüketmek sağlığımız için iyi değildir. Zeytinyağı gibi sağlıklı yağları tercih etmek önemlidir. Yağları dengeli bir şekilde tüketmek, sağlıklı bir beslenme için gereklidir."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Yağların dengeli tüketilmesi gerektiğini öğrendik. Peki, su içmenin önemini biliyor musun? Su, vücudumuzun her gün ihtiyaç duyduğu en önemli şeylerden biridir. Su, vücudumuzun tüm işlevlerini yerine getirmesine yardımcı olur. Her gün bol su içmek, sağlığımız için çok önemlidir."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Günde kaç bardak su içiyorsun? Su içmek için özel bir zamanın var mı? Belki oyun oynarken, belki de yemeklerle birlikte. Su içmek harika bir alışkanlıktır. Senin su içme alışkanlığın nasıl?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda suyun öneminden bahsetmiştik. Şimdi sağlıklı atıştırmalıklar hakkında konuşalım. Meyve dilimleri, yoğurt veya bir avuç fındık gibi atıştırmalıklar sağlıklıdır. Bu tür atıştırmalıklar, enerji verirken sağlığımızı da korur. Sağlıklı atıştırmalıklar seçmek, iyi bir alışkanlık geliştirmemize yardımcı olur."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Haydi, şimdi birlikte sağlıklı bir atıştırmalık hazırlayalım! Birkaç dilim elma ve biraz yoğurt alalım. Bu atıştırmalık hem lezzetli hem de sağlıklı olacak. Sen de denemek ister misin? Harika bir seçim yapıyorsun!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün beslenme hakkında çok şey öğrendik. Meyveler, sebzeler, tahıllar ve daha birçok besin hakkında konuştuk. Hepsi vücudumuz için çok önemli. Seninle bu yolculuğa çıkmak harikaydı! Bir dahaki sefere başka bir macerada görüşmek üzere. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Adventure Dora Pal'ın Nutrition Hikayesi"
+}

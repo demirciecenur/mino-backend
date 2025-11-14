@@ -1,0 +1,98 @@
+{
+  "id": "ocean_dreamer_moa_imagination_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "imagination",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Ocean Dreamer Moa. Bugün birlikte hayal gücümüzün sınırlarını keşfedeceğimiz harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Denizin dalgaları gibi düşüncelerimizin de engin olduğunu göstereceğim. Haydi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücü, tıpkı denizin derinliklerindeki gizli hazineler gibidir. Hayal kurmak, yeni dünyalar keşfetmemize ve maceralar yaşamamıza olanak tanır. Bir an için gözlerini kapat ve kendini bir korsan gemisinde hayal et. Rüzgar saçlarını savururken, denizin tuzlu kokusunu hissedebiliyor musun? İşte bu, hayal gücünün gücü!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hayal gücünü kullanarak neler yapabileceğini düşün. Belki bir uzay yolculuğuna çıkmak istersin ya da büyülü bir ormanda yürüyüş yapmak. Hayal kurarken, her şey mümkün! Şimdi, bir kağıt ve kalem al ve hayal ettiğin dünyayı çizmeye başla. Çizimlerinin seni nereye götürdüğünü görmek heyecan verici olacak."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkarıyorsun! Hayal gücünü kullanarak yarattığın bu dünya, senin özel maceran. Kendine güven ve hayallerine inan. Unutma, her büyük macera bir hayalle başlar. Şimdi, sen de kendi maceranı yaratabilirsin. Haydi, devam et!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede hayal ettiğin dünyayı çizdin. Şimdi, bu dünyada kimlerle tanışmak istersin? Belki bir deniz kızı ya da konuşan hayvanlar. Onlarla nasıl bir macera yaşamak isterdin? Hayal gücünle bu karakterlere can verebilirsin. Haydi, onları tanıyalım!"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence hayal gücünü kullanarak başka neler yapabiliriz? Düşüncelerinle hangi yeni dünyaları keşfedebiliriz? Belki bir sihirli kalemle resimler çizebiliriz. Senin fikirlerini duymak için sabırsızlanıyorum! Hayal gücün seni nereye götürüyor?"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda hayal gücünün sınırlarını zorladık. Şimdi, hayal gücünü kullanarak bir hikaye oluşturmak ister misin? Başlangıçta bir kahramanın olsun. Bu kahraman hangi zorluklarla karşılaşabilir? Hikayenin sonunda neler olmasını istersin? Haydi, birlikte bir hikaye yazalım!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hikayeni yazarken, kahramanının neler hissettiğini düşün. Belki biraz korkmuş olabilir ya da çok heyecanlı. Her duyguyu hikayene ekle ve kahramanının nasıl başa çıktığını anlat. Bu hikaye, senin hayal gücünün bir yansıması olacak. Şimdi, kalemini al ve yazmaya başla!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir hikaye yaratıyorsun! Senin hayal gücünle bu hikaye çok özel ve eşsiz. Unutma, hayal gücünle her şey mümkün. İstediğin her şeyi yaratabilirsin. Bu yüzden hikayeni bitirirken kendine güven ve hayallerinin peşinden git. Şimdi, hikayenin sonuna doğru ilerleyelim."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hikayenin sonuna geldik. Kahramanın zorlukların üstesinden geldi ve büyük bir başarı kazandı. Bu, senin hayal gücünün bir sonucuydu. Her hikaye, bir hayalden doğar ve seninki de harika oldu. Şimdi, bu hikayeyi arkadaşlarınla paylaşmak ister misin? Onların da hayal gücünü kullanarak yeni hikayeler yaratmalarını sağla."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hikayeni paylaştığında, arkadaşlarının tepkilerini merak ediyor musun? Belki onlar da kendi hikayelerini anlatmak ister. Birlikte hayal gücünüzü paylaşarak yeni dünyalar keşfedebilirsiniz. Bu, çok eğlenceli olacak! Haydi, arkadaşlarına hikayeni anlat ve onların hikayelerini dinle."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede arkadaşlarınla hikayeler paylaştın. Şimdi, hayal gücünü kullanarak neler öğrendiğini düşün. Hayal kurmak, sadece eğlenceli değil, aynı zamanda çok öğretici. Yeni şeyler keşfetmek, yaratıcılığını geliştirmek ve kendine güvenmek için harika bir yol. Hayal gücünün sınırlarını keşfetmeye devam et!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Seninle bu maceraya çıkmak çok keyifliydi! Hayal gücünle yarattığın dünyalar harikaydı. Unutma, her zaman hayal kurabilir ve yeni maceralar keşfedebilirsin. Seninle gurur duyuyorum! Haydi, yeni maceralara yelken açmaya devam edelim."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün harika bir gün geçirdik, değil mi? Hayal gücümüzle sınırsız dünyalar keşfettik ve çok eğlendik. Seninle tekrar buluşmak için sabırsızlanıyorum. O zamana kadar hayal kurmaya devam et! Hoşça kal, küçük hayalperest dostum!"
+    }
+  ],
+  "title": "Ocean Dreamer Moa'ın Imagination Hikayesi"
+}

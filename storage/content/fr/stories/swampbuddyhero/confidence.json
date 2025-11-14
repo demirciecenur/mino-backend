@@ -1,0 +1,104 @@
+{
+  "id": "swamp_buddy_hero_confidence_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "confidence",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis Swamp Buddy Hero, votre compagnon des marais. Aujourd'hui, nous allons partir à l'aventure pour découvrir la confiance en soi. Êtes-vous prêts? Je suis tellement curieux de savoir comment vous vous sentez aujourd'hui. Allez, mettons nos bottes et plongeons ensemble dans cette aventure magique!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance, c'est comme un petit trésor caché à l'intérieur de nous. Quand on croit en nous-mêmes, on peut faire de grandes choses! Imaginez que vous êtes un super-héros avec un pouvoir spécial. Ce pouvoir, c'est la confiance! Elle vous aide à essayer de nouvelles choses, comme apprendre à faire du vélo ou à dessiner un joli dessin. Vous voyez, la confiance, c'est magique!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment on peut trouver ce trésor de confiance en soi. D'abord, il faut se souvenir de toutes les fois où l'on a réussi quelque chose. Peut-être que vous avez appris à attacher vos lacets ou à partager vos jouets. Ces petites réussites sont comme des étoiles qui brillent dans votre cœur. Chaque fois que vous vous souvenez de ces moments, votre confiance grandit un peu plus."
+    },
+    {
+      "id": "scene_3",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Essayons ensemble un petit exercice. Fermez les yeux et pensez à quelque chose que vous avez bien fait récemment. Peut-être que vous avez aidé quelqu'un ou que vous avez rangé votre chambre. Maintenant, ouvrez les yeux et dites 'Je suis fier de moi!' en souriant. Vous voyez comme ça fait du bien? La confiance, c'est comme un câlin tout doux que l'on se fait à soi-même."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons notre voyage dans le monde de la confiance. Parfois, on peut avoir peur de nouvelles choses, et c'est tout à fait normal. Mais souvenez-vous, la confiance est là pour vous aider à surmonter ces peurs. Pensez à un moment où vous avez essayé quelque chose de nouveau, comme goûter un nouvel aliment. Même si c'était effrayant au début, vous avez réussi, n'est-ce pas? C'est ça, la magie de la confiance!"
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes tous de véritables champions de la confiance! Rappelez-vous, chaque petit pas compte. Quand vous vous sentez un peu inquiet, prenez une grande respiration. Inspirez profondément par le nez, et expirez lentement par la bouche. Cela aide à calmer le cœur et à faire grandir la confiance. Vous pouvez le faire, je le sais!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant des amis et de la famille. Ils peuvent vous aider à vous sentir plus confiant. Quand un ami vous encourage ou qu'un parent vous dit que vous avez fait du bon travail, cela renforce votre confiance. N'oubliez pas de dire merci à ceux qui vous soutiennent. Et vous pouvez aussi être un bon ami en encourageant les autres!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, la confiance ne signifie pas que l'on doit tout savoir ou tout faire parfaitement. C'est plutôt croire que l'on peut apprendre et s'améliorer. Si vous faites une erreur, ce n'est pas grave. C'est une occasion d'apprendre et de grandir. Chaque erreur est comme un petit pas vers la réussite. Alors, n'ayez pas peur d'essayer de nouvelles choses!"
+    },
+    {
+      "id": "scene_8",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Faisons un autre petit exercice ensemble. Imaginez que vous êtes un grand arbre avec des racines solides. Pensez à toutes les choses que vous avez apprises et aux gens qui vous soutiennent. Ces racines vous rendent fort et confiant. Maintenant, levez les bras comme des branches qui s'étirent vers le ciel. Vous êtes fort, vous êtes grand, et vous pouvez faire face à tout!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Vous vous souvenez de notre exercice de l'arbre? C'était amusant, n'est-ce pas? Chaque fois que vous vous sentez un peu hésitant, souvenez-vous de cet arbre fort et confiant. Vous pouvez être cet arbre à tout moment. Et quand vous réussissez, n'oubliez pas de célébrer vos succès, même les tout petits. Chantez, dansez, faites une petite fête pour vous-même!"
+    },
+    {
+      "id": "question_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, je suis curieux. Quel est le dernier défi que vous avez relevé? Peut-être que vous avez appris quelque chose de nouveau à l'école ou vous avez essayé un nouveau jeu. Comment vous êtes-vous senti après l'avoir fait? Penser à ces moments peut vous aider à renforcer votre confiance. Alors, dites-moi, qu'avez-vous accompli récemment?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "C'est merveilleux d'entendre toutes vos petites victoires! Chaque réussite, grande ou petite, compte énormément. Elles sont comme des briques qui construisent votre château de confiance. Plus vous en avez, plus votre château devient solide et magnifique. Alors, continuez à ajouter des briques à votre château chaque jour."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes tous incroyables! N'oubliez jamais que vous avez une force incroyable en vous. Chaque jour est une nouvelle chance de découvrir quelque chose de nouveau. Continuez à explorer, à apprendre, et à grandir. Vous êtes capables de tout ce que vous imaginez. Croyez en vous et en vos rêves!"
+    },
+    {
+      "id": "scene_13",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Prenons un moment pour écouter notre cœur. Fermez les yeux et ressentez la chaleur de la confiance qui grandit en vous. Cela fait du bien, n'est-ce pas? Chaque battement de cœur vous rappelle que vous êtes fort et capable. Écouter votre cœur peut vous aider à rester calme et confiant dans chaque situation."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure avec moi, mes petits amis! Je suis si fier de tout ce que vous avez accompli aujourd'hui. Souvenez-vous que la confiance est toujours avec vous, comme un fidèle compagnon. Je suis impatient de vous retrouver pour notre prochaine aventure. À bientôt, et n'oubliez pas, vous êtes incroyables!"
+    }
+  ],
+  "title": "Histoire de Confidence de Swamp Buddy Hero"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "mino_screen_time_story",
+  "character": "Mino",
+  "topic": "screen time",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba minik dostlarım! Ben Mino, uzaydan gelen dost canlısı bir karakterim. Bugün sizinle ekran süresi hakkında konuşacağız. Ekran süresi nedir diye merak ediyor musunuz? Hadi bu renkli ve eğlenceli maceraya birlikte çıkalım. Hazır mısınız? Harika, o zaman başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekran süresi, televizyon, tablet, telefon gibi cihazlarda geçirdiğimiz zamandır. Bu cihazlar bize eğlenceli oyunlar ve videolar sunar. Ancak çok fazla ekran başında kalmak sağlığımıza zarar verebilir. Örneğin, gözlerimiz yorulabilir veya uyku düzenimiz bozulabilir. Bu yüzden ekran süresini dengede tutmak önemlidir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi ekran süresini nasıl dengede tutabileceğimize bakalım. Öncelikle, ekran başında geçirdiğimiz zamanı belirlemek önemlidir. Günlük olarak belirli bir süre ayırmak, diğer aktiviteler için de zaman kalmasını sağlar. Örneğin, oyun oynamak ya da kitap okumak gibi. Bu şekilde hem eğlenebilir hem de sağlıklı kalabiliriz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ekran süresini sınırlarken ne gibi aktiviteler yapabileceğimizi düşünelim. Dışarıda oyun oynamak, arkadaşlarımızla buluşmak harika alternatiflerdir. Ayrıca resim yapmak ya da bir şeyler inşa etmek de çok eğlencelidir. Bu aktiviteler hem bedenimizi hem de zihnimizi aktif tutar. Sen de bu aktiviteleri denemek ister misin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda ekran süresini nasıl sınırlayabileceğimizi öğrendik. Şimdi teknoloji kullanırken güvenli olmaktan bahsedelim. İnternette gezinirken dikkatli olmak önemlidir. Bilmediğimiz kişilerle konuşmamak ve kişisel bilgilerimizi paylaşmamak güvenliğimizi sağlar. Bu konularda dikkatli olmalıyız."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Teknoloji kullanırken güvenlik için bazı kurallar belirleyebiliriz. Örneğin, ebeveynlerimizle birlikte oturup hangi uygulamaları kullanacağımızı seçebiliriz. Ayrıca, sadece bildiğimiz ve güvendiğimiz sitelere girmek önemlidir. Bu kurallar bizi güvende tutar ve eğlenceli bir deneyim yaşamamıza yardımcı olur."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi size bir soru sormak istiyorum. Ekran süresini sınırlamak için hangi aktiviteleri yapmayı düşünüyorsunuz? Dışarıda oyun oynamak mı, yoksa resim yapmak mı? Belki de kitap okumak hoşunuza gider. Hangi aktiviteyi seçerseniz seçin, eğlenceli olacağına eminim. Cevabınızı çok merak ediyorum!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Biraz da ekran süresinin faydalarından bahsedelim. Doğru kullanıldığında ekranlar bilgi edinmemize yardımcı olabilir. Eğitici videolar izleyebilir, yeni şeyler öğrenebiliriz. Ayrıca, dünya hakkında daha fazla bilgi sahibi olabiliriz. Ancak, bu faydaları elde etmek için ekran süresini dengeli kullanmalıyız."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresini dengeli kullanmak için bir plan yapabiliriz. Örneğin, her gün belirli bir saat ekran başında kalabiliriz. Kalan zamanımızı ise farklı aktivitelerle değerlendirebiliriz. Bu şekilde hem eğlenir hem de sağlıklı kalırız. Haydi, şimdi birlikte bir plan yapalım!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede plan yapmaktan bahsetmiştik. Şimdi bu planı uygulamaya koymanın zamanı geldi. Her gün belirlediğimiz süreyi aşmadan ekran başında kalmak önemli. Bu süreyi bir alarm ile takip edebiliriz. Bu sayede diğer aktivitelere de zaman ayırabiliriz. Unutmayın, her şeyin fazlası zarar!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ekran süresini dengede tutmak için kendimize güvenmeliyiz. Bu konuda başarılı olacağımıza inanmalıyız. Ekran dışında yapabileceğimiz birçok eğlenceli aktivite var. Siz de bu aktiviteleri deneyerek kendinizi keşfedin. Harika işler başaracağınıza eminim!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekran süresi dışında yapabileceğimiz aktiviteler hakkında konuştuk. Şimdi ise bu aktiviteleri nasıl daha eğlenceli hale getirebiliriz, ona bakalım. Örneğin, arkadaşlarımızla birlikte oynayarak daha keyifli zaman geçirebiliriz. Ayrıca, yeni hobiler edinmek de çok eğlencelidir. Siz de yeni şeyler denemek ister misiniz?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnede yeni hobilerden bahsetmiştik. Şimdi bu hobilerden bazılarını birlikte keşfedelim. Belki resim yapmayı ya da dans etmeyi deneyebiliriz. Ya da doğayı keşfe çıkabiliriz. Her şey sizin hayal gücünüze bağlı. Haydi, birlikte neler yapabileceğimize bakalım!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün ekran süresi hakkında birçok şey öğrendik. Ekran süresini dengede tutmanın önemini keşfettik. Ayrıca, teknoloji kullanırken güvende kalmak için bazı kurallar belirledik. Şimdi bu bilgileri günlük hayatımıza uygulama zamanı. Bir sonraki maceramızda görüşmek üzere! Hoşça kalın, minik dostlarım!"
+    }
+  ],
+  "title": "Mino'ın Ekran Süresi Hikayesi"
+}

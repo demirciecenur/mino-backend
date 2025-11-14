@@ -1,0 +1,98 @@
+{
+  "id": "tiko_tiempo_de_pantalla_seguridad_digital_uso_de_tecnologia_habitos_saludables_de_pantalla_story",
+  "character": "Tiko",
+  "topic": "tiempo de pantalla, seguridad digital, uso de tecnología, hábitos saludables de pantalla",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola amiguitos! Soy Tiko, y hoy vamos a embarcarnos en una aventura increíble sobre el tiempo de pantalla, la seguridad digital y los hábitos saludables. ¿Están listos para descubrir cosas nuevas conmigo? Vamos a explorar cómo usar la tecnología de manera divertida y segura. ¡Estoy muy emocionado de compartir esto con ustedes! Prepárense para aprender y jugar juntos. ¡Vamos allá!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¿Sabían que el tiempo de pantalla es el tiempo que pasamos usando dispositivos como tabletas y teléfonos? Es muy divertido ver videos y jugar juegos, pero también es importante no pasar demasiado tiempo frente a la pantalla. Cuando pasamos mucho tiempo, podemos olvidar hacer otras cosas divertidas como jugar afuera o leer un cuento. Vamos a aprender cómo equilibrar nuestro tiempo. ¿Suena bien?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos sobre la seguridad digital. Es como tener un casco cuando montamos en bicicleta. Nos protege mientras navegamos en línea. Siempre debemos pedir ayuda a un adulto cuando no estamos seguros de algo en internet. Así como no hablamos con extraños en la calle, tampoco debemos hablar con extraños en línea. ¡La seguridad es lo primero!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¿Listos para un pequeño desafío? Vamos a practicar cómo usar la tecnología de manera divertida y segura. Podemos contar hasta cinco juntos antes de decidir qué hacer en línea. Uno, dos, tres, cuatro, cinco. ¡Excelente! Esto nos ayuda a pensar bien antes de actuar. ¡Ustedes son unos expertos en seguridad digital!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden que la tecnología puede ser una herramienta maravillosa para aprender cosas nuevas. Podemos ver videos sobre animales, aprender a dibujar o incluso escuchar música. Pero también es importante descansar nuestros ojos y dejar la pantalla de vez en cuando. Como cuando jugamos al aire libre o hacemos manualidades. ¡Hay tantas cosas divertidas que podemos hacer!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hablar sobre hábitos saludables de pantalla. Es bueno establecer un tiempo límite para usar nuestros dispositivos. Podemos usar un reloj o pedirle a un adulto que nos avise cuando sea hora de parar. Esto nos ayuda a tener tiempo para otras actividades. ¿Les gustaría probarlo la próxima vez que usen una tableta?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ustedes lo están haciendo genial! Recuerden que es importante tomar descansos de la pantalla. Podemos levantarnos, estirarnos y movernos un poco. ¿Les gustaría intentar hacer tres saltos juntos? Uno, dos, tres. ¡Fantástico! Estos pequeños descansos nos ayudan a sentirnos mejor y a cuidar nuestros ojos."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora recordemos cómo podemos usar la tecnología de manera segura. No debemos compartir información personal, como nuestro nombre completo o dirección, con personas que no conocemos. Es como un secreto especial que solo compartimos con nuestra familia y amigos cercanos. ¿Pueden pensar en otras formas de mantenerse seguros en línea?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Me pregunto, ¿cuál es su actividad favorita para hacer cuando no están frente a la pantalla? ¿Les gusta pintar, correr o tal vez leer un libro? ¡Hay tantas posibilidades! Me encantaría escuchar sus ideas. ¿Podrían contarme un poco más sobre ellas?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hemos aprendido mucho sobre cómo usar la tecnología de manera segura y saludable. Recuerden, es importante disfrutar del tiempo de pantalla, pero también de las otras cosas maravillosas que podemos hacer sin pantallas. ¡Jugar al aire libre, construir con bloques o incluso ayudar en la cocina! Todo cuenta como diversión."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer un pequeño ejercicio juntos. Vamos a cerrar los ojos y respirar profundamente tres veces. ¿Están listos? Inhalen, exhalen. Inhalen, exhalen. Inhalen, exhalen. ¡Qué relajante! Esto nos ayuda a descansar un poco de la pantalla y sentirnos tranquilos."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¿Saben qué? Ustedes son unos campeones en aprender sobre el uso saludable de la tecnología. Estoy muy orgulloso de lo mucho que han aprendido hoy. ¡Sigan así! Pueden enseñar a sus amigos y familiares lo que han aprendido. ¡Serán unos grandes ejemplos a seguir!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que sabemos tanto sobre el tiempo de pantalla, ¿cómo creen que pueden usar esta información en casa? Tal vez puedan establecer un horario para el tiempo de pantalla o crear una lista de actividades sin pantalla. ¡Sería divertido ver cómo ponen en práctica todo lo aprendido!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un día increíble aprendiendo juntos sobre el tiempo de pantalla y la seguridad digital. Espero que se diviertan mucho poniendo en práctica todo lo que hemos hablado. Gracias por acompañarme en esta aventura. ¡Nos vemos pronto para más descubrimientos y diversión! Adiós, amiguitos."
+    }
+  ],
+  "title": "Historia de Screen Time de Tiko"
+}

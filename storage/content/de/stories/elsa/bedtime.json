@@ -1,0 +1,104 @@
+{
+  "id": "elisa_the_ice_fairy_bedtime_story",
+  "character": "Elisa the Ice Fairy",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Elisa, die Eisfee. Heute Abend gehen wir auf eine zauberhafte Reise, um mehr über die Schlafenszeit zu erfahren. Bist du bereit? Ich freue mich so sehr, mit dir zu sprechen und dir zu helfen, dich auf das Schlafengehen vorzubereiten. Lass uns gemeinsam herausfinden, wie wir die Nacht noch schöner machen können."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir uns auf unsere Reise begeben, lass uns über die Bedeutung der Schlafenszeit sprechen. Schlafenszeit ist eine besondere Zeit, um sich zu entspannen und sich auf eine erholsame Nacht vorzubereiten. Es ist wichtig, dass wir unseren Körper und unseren Geist beruhigen, damit wir gut schlafen können. Was machst du normalerweise, bevor du ins Bett gehst? Vielleicht ziehst du deinen Schlafanzug an oder hörst eine schöne Geschichte."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns über einige Rituale sprechen, die uns beim Einschlafen helfen können. Ein schönes Ritual ist es, ein warmes Bad zu nehmen. Das warme Wasser hilft deinem Körper, sich zu entspannen. Danach kannst du deine Zähne putzen, damit sie sauber und gesund bleiben. Und vielleicht magst du es, einen Schluck warmen Tee zu trinken, bevor du ins Bett gehst. All diese Dinge helfen deinem Körper, sich auf den Schlaf vorzubereiten."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns gemeinsam tief durchatmen. Atme tief ein und dann langsam aus. Das ist wunderbar! Noch einmal, tief einatmen und ausatmen. Spürst du, wie sich dein Körper entspannt? Großartig! Das hilft uns, ruhig zu werden und bereit für die Nacht zu sein."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über das Entspannen gesprochen haben? Jetzt lass uns über das Kuscheln mit deinem Lieblingskuscheltier sprechen. Hast du ein Kuscheltier, das du gerne bei dir hast, wenn du schläfst? Es kann ein Teddybär oder vielleicht ein weicher Hase sein. Dein Kuscheltier kann dir helfen, dich sicher und geborgen zu fühlen, während du in den Schlaf gleitest."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ein weiteres schönes Ritual ist das Vorlesen einer Gutenachtgeschichte. Geschichten können uns in magische Welten entführen und uns helfen, uns zu entspannen. Vielleicht hast du ein Lieblingsbuch, das du vor dem Schlafengehen gerne hörst. Wenn nicht, kannst du dir eine Geschichte ausdenken und deiner Fantasie freien Lauf lassen. Geschichten sind ein wunderbares Tor zu süßen Träumen."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns über das Licht in deinem Zimmer sprechen. Ein sanftes Nachtlicht kann sehr beruhigend sein. Es sorgt dafür, dass dein Zimmer nicht zu dunkel ist und du dich wohl fühlst. Vielleicht hast du ein Nachtlicht in Form eines Sterns oder eines Mondes. Diese kleinen Lichter können dir helfen, dich sicher zu fühlen, während du einschläfst."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lass uns noch einmal tief durchatmen. Atme ein und aus, ganz ruhig. Du machst das großartig! Spüre, wie dein Körper sich entspannt und bereit für den Schlaf ist. Du bist jetzt ganz ruhig und bereit, in die Welt der Träume zu reisen."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal darüber nachgedacht, was du träumen möchtest? Vielleicht möchtest du von einem Abenteuer im Schnee träumen oder von einem lustigen Tag im Park. Was auch immer es ist, es kann ein wunderbarer Traum sein. Was möchtest du heute Nacht träumen? Ich bin gespannt, was du dir ausdenkst!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über Träume gesprochen haben, lass uns darüber nachdenken, wie wir uns in den Schlaf wiegen können. Vielleicht magst du es, ein sanftes Schlaflied zu hören. Die Musik kann dich beruhigen und dir helfen, dich auf den Schlaf zu konzentrieren. Manchmal hilft es auch, leise zu summen oder ein Lied zu singen. Musik ist ein wunderbares Mittel, um uns zu beruhigen."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Nun lass uns über die Temperatur in deinem Zimmer sprechen. Es sollte nicht zu heiß und nicht zu kalt sein. Eine angenehme Temperatur hilft dir, besser zu schlafen. Vielleicht magst du es, eine kuschelige Decke zu benutzen, um dich warm zu halten. Oder du öffnest ein Fenster, um etwas frische Luft hereinzulassen. Finde heraus, was für dich am besten ist."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das alles so gut! Es ist wichtig, dass du dich wohlfühlst und bereit bist, in die Nacht zu starten. Du hast gelernt, wie man sich entspannt und sich auf den Schlaf vorbereitet. Ich bin so stolz auf dich! Du bist bereit, die Welt der Träume zu erkunden."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du eine Lieblingssternenkonstellation, die du gerne anschaust? Vielleicht die Großen Wagen oder der Orion? Während du im Bett liegst, kannst du dir vorstellen, wie du durch den Nachthimmel fliegst. Welche Sterne würdest du gerne sehen? Lass uns zusammen zählen, wie viele Sterne wir finden können."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir uns auf das Schlafengehen vorbereitet haben, ist es Zeit, die Augen zu schließen und sich in die Welt der Träume zu begeben. Denke daran, dass du sicher und geborgen bist. Du bist von Liebe und Wärme umgeben. Die Nacht ist eine Zeit der Ruhe und Erholung. Ich wünsche dir die schönsten Träume und eine erholsame Nacht."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, diesen Abend mit dir zu verbringen. Ich hoffe, du fühlst dich bereit für eine wunderbare Nacht voller süßer Träume. Denk daran, dass ich immer hier bin, um dir zu helfen, wenn du mich brauchst. Schlaf gut, mein kleiner Freund. Bis bald und träume schön!"
+    }
+  ],
+  "title": "Elisa The Ice Fairys Bedtime Geschichte"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_behavior_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "behavior",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin der schlaue Kater Tom. Heute sprechen wir über etwas ganz Spannendes: das Verhalten. Weißt du, warum gutes Benehmen wichtig ist? Es hilft uns, Freunde zu finden und Spaß zu haben. Bist du bereit, mit mir auf ein Abenteuer zu gehen? Ich bin schon ganz neugierig auf dich!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns über gutes Verhalten sprechen. Gutes Verhalten bedeutet, freundlich und hilfsbereit zu sein. Zum Beispiel kannst du jemandem helfen, wenn er hinfällt. Oder du kannst ein Lächeln schenken, das macht andere glücklich. Wenn du anderen hilfst, fühlen sie sich gut und du auch! Es ist wie ein kleines Zaubertrick, der alle glücklich macht."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber nachdenken, wie wir höflich sein können. Höflich sein bedeutet, 'bitte' und 'danke' zu sagen. Wenn du etwas möchtest, sagst du 'bitte'. Und wenn du etwas bekommst, sagst du 'danke'. Es ist ganz einfach, oder? Diese kleinen Wörter sind sehr wichtig und zeigen, dass du respektvoll bist."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Komm, lass uns zusammen üben! Stell dir vor, du möchtest ein Spielzeug von einem Freund. Was sagst du? Richtig, du sagst 'bitte'. Und wenn er es dir gibt, was sagst du dann? Genau, 'danke'! Toll gemacht, du bist ein echter Höflichkeitsprofi!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Helfen gesprochen haben? Helfen kann auch bedeuten, deine Spielsachen aufzuräumen. Wenn du mit dem Spielen fertig bist, legst du alles zurück an seinen Platz. Das macht den Raum sauber und ordentlich. Und weißt du was? Deine Eltern werden so stolz auf dich sein!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt möchte ich dir etwas über das Teilen erzählen. Teilen bedeutet, dass du deine Sachen mit anderen teilst. Zum Beispiel, wenn du einen Keks hast, könntest du ihn mit einem Freund teilen. Teilen macht Spaß und zeigt, dass du großzügig bist. Und es ist auch eine tolle Möglichkeit, neue Freunde zu finden!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lass uns ein kleines Spiel spielen! Stell dir vor, du hast zwei Buntstifte und dein Freund hat keinen. Was kannst du tun? Ja, du kannst ihm einen Buntstift geben. Das ist Teilen! Super gemacht, du bist ein echter Freund!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Wenn wir über gutes Verhalten sprechen, ist es auch wichtig, zuzuhören. Zuzuhören bedeutet, aufmerksam zu sein, wenn jemand spricht. Wenn Mama oder Papa mit dir sprechen, hörst du zu und antwortest. Das zeigt, dass du sie respektierst und ernst nimmst."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns das Zuhören üben. Wenn jemand spricht, schaust du ihm in die Augen und hörst aufmerksam zu. Du kannst auch nicken, um zu zeigen, dass du verstehst. Und wenn du etwas nicht verstehst, kannst du nachfragen. So lernst du noch mehr!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Zuhören kann manchmal schwer sein, aber du schaffst das! Jetzt bist du bereit, ein super Zuhörer zu sein. Ich bin so stolz auf dich!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns jetzt darüber sprechen, wie wichtig es ist, die Regeln zu befolgen. Regeln helfen uns, sicher zu sein und Spaß zu haben. Zum Beispiel gibt es Regeln, damit wir sicher über die Straße gehen können. Wenn wir Regeln befolgen, zeigen wir, dass wir verantwortungsbewusst sind."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal darüber nachgedacht, warum Regeln so wichtig sind? Was denkst du, warum wir Regeln brauchen? Überlege mal, wie Regeln uns helfen können, sicher zu bleiben. Hast du eine Idee? Ich bin gespannt, was du denkst!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Das sind tolle Gedanken! Regeln sind wie ein unsichtbarer Freund, der uns hilft, sicher zu bleiben. Wenn wir alle Regeln befolgen, können wir zusammen spielen und Spaß haben, ohne uns Sorgen zu machen. Das ist doch super, oder?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel über Verhalten gelernt haben, lass uns darüber nachdenken, wie wir das im Alltag anwenden können. Kannst du dir vorstellen, wie du das nächste Mal, wenn du mit Freunden spielst, diese Dinge umsetzen kannst? Vielleicht kannst du jemanden neuen einladen, mit dir zu spielen. Oder du kannst deine Spielsachen teilen. Das wird viel Spaß machen!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Das war ein tolles Abenteuer, kleiner Freund! Du hast so viel über gutes Verhalten gelernt, und ich bin so stolz auf dich. Denk daran, dass gutes Benehmen dir hilft, viele Freunde zu finden und Spaß zu haben. Ich hoffe, wir sehen uns bald wieder für ein weiteres Abenteuer. Tschüss und bis bald!"
+    }
+  ],
+  "title": "Sneaky Cat Toms Behavior Geschichte"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "mino_math_story",
+  "character": "Mino",
+  "topic": "math",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mino, uzaydan gelen arkadaşın. Bugün seninle matematiğin büyüleyici dünyasında bir yolculuğa çıkacağız. Sayılarla ve şekillerle dolu bu maceraya hazır mısın? Harika! Uzay gemimize atlayalım ve birlikte keşfetmeye başlayalım."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Matematik, evrenin dilidir. Sayılar, tıpkı yıldızlar gibi her yerde karşımıza çıkar. Bir düşün, oyuncaklarını toplarken kaç tane olduğunu saymak zorunda kalırsın değil mi? Bu, matematiğin günlük hayatımızdaki önemli bir parçası. Şimdi, bu sayıları daha iyi anlayabilmek için birkaç örnek üzerinde düşünelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Önce birden beşe kadar saymayı deneyelim. Bir, iki, üç, dört, beş! Ne kadar kolay, değil mi? Şimdi biraz daha zorlaştıralım ve altıdan ona kadar sayalım. Altı, yedi, sekiz, dokuz, on! İşte bu kadar! Saymak, matematiğin temel taşlarından biridir ve her gün bu beceriyi kullanırız."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Çok güzel! Seninle birlikte saymak çok eğlenceliydi. Şimdi, saymayı öğrendiğimize göre, biraz da toplama yapalım. Örneğin, iki elma daha iki elma eklersek, kaç elma eder? Doğru, dört elma! Harika bir iş çıkardın!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Matematik sadece sayılardan ibaret değil. Şimdi biraz şekiller hakkında konuşalım. Daire, kare ve üçgen gibi şekiller, etrafımızda sıkça gördüğümüz figürlerdir. Mesela, bir daire tekerlek gibidir. Kare ise penceremizin şekline benzer. Şekilleri tanımak, dünyayı anlamamıza yardımcı olur."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte bir daire çizmeyi deneyelim. Elimizi yuvarlak bir şekilde hareket ettirerek çizebiliriz. Çok güzel! Şimdi de bir kare çizelim. Kare çizmek için dört doğru çizgiye ihtiyacımız var. Bir, iki, üç, dört! İşte bu kadar, karemiz hazır!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkardın! Şekiller çizmek, tıpkı bir sanatçı gibi hissettiriyor, değil mi? Şimdi biraz daha eğlenceli hale getirelim ve bu şekillerle bir hikaye oluşturalım. Mesela, dairemiz bir güneş olsun, karemiz ise bir evin penceresi! Hayal gücümüzle neler yapabileceğimizi bir düşün!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Matematikte problem çözmek de çok önemlidir. Bir problemle karşılaştığında, onu adım adım çözmek gerekir. Mesela, bir kutuda beş oyuncak var ve üç oyuncak daha eklersek, toplam kaç oyuncak olur? Evet, sekiz oyuncak! Problemleri böyle çözmek, hem eğlenceli hem de öğreticidir."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi bir soru soralım: Eğer bir çantada üç elma var ve iki elma daha eklersek, toplam kaç elma olur? Düşün bakalım. Evet, doğru cevap beş elma! Seninle birlikte bu problemleri çözmek çok keyifli."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Matematik, sadece sayılar ve problemlerle sınırlı değil. Aynı zamanda zaman kavramını da içerir. Saat kaç olduğunu bilmek, günün farklı zamanlarını anlamamıza yardımcı olur. Sabah kalktığımızda saat yedideyiz, öğle yemeği ise saat on ikide. Zamanı bilmek, günlük işlerimizi planlamamıza yardımcı olur."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte bir saat çizelim ve akrep ile yelkovanı yerleştirelim. Akrep saatleri, yelkovan ise dakikaları gösterir. Akrep üçte ve yelkovan on ikide olduğunda saat üç olur. Bu basit örnekle zamanı anlamak, çok daha kolay hale gelir."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Zamanı öğrenmek çok eğlenceli, değil mi? Saatleri öğrendikçe, günün farklı anlarını daha iyi anlayacaksın. Şimdi, öğrendiklerimizi biraz daha pekiştirelim. Bir sonraki adımda, biraz daha karmaşık problemler çözeceğiz. Sen bunu başarabilirsin!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Matematikteki son durağımızda, biraz da ölçülerden bahsedelim. Uzunluk, ağırlık ve hacim gibi ölçüler, çevremizdeki dünyayı anlamamıza yardımcı olur. Örneğin, bir cetvel kullanarak bir kitabın uzunluğunu ölçebiliriz. Ya da bir tartı ile bir elmanın ağırlığını öğrenebiliriz. Bu ölçüler, günlük hayatta sıkça karşımıza çıkar."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Şimdi birlikte bir kitabın uzunluğunu ölçelim. Cetvelimizi alıp, kitabın kenarına yerleştiriyoruz. Bakalım, kaç santimetre? Evet, 20 santimetre! Başka bir nesne ölçmek ister misin? Belki de en sevdiğin oyuncağını ölçebilirsin. Ölçülerle oynamak, matematiği daha da eğlenceli hale getiriyor."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün seninle matematiğin sihirli dünyasında harika bir yolculuk yaptık. Sayılar, şekiller, zaman ve ölçüler hakkında çok şey öğrendik. Seninle bu macerayı paylaşmak çok güzeldi. Şimdi, öğrendiklerini arkadaşlarınla da paylaşabilirsin. Bir sonraki buluşmamızda daha fazla keşif yapmayı dört gözle bekliyorum. Hoşça kal, küçük matematikçi!"
+    }
+  ],
+  "title": "Mino'ın Math Hikayesi"
+}

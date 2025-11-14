@@ -1,0 +1,104 @@
+{
+  "id": "sunny_nutrition_story",
+  "character": "Sunny",
+  "topic": "nutrition",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friend! I'm Sunny, and today we're going to explore the wonderful world of nutrition. Are you ready to learn about all the yummy and healthy foods that help us grow strong? I'm so excited to share this adventure with you. Together, we'll discover why eating a rainbow of fruits and veggies is so much fun. Let's start our journey with big smiles and open hearts!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Did you know that eating different colors of fruits and vegetables is like having a rainbow on your plate? Each color gives us special nutrients that help our bodies in different ways. For example, orange foods like carrots and sweet potatoes help keep our eyes healthy. Green veggies like broccoli and spinach make us strong and full of energy. Isn't it amazing how nature gives us such a colorful feast to enjoy every day?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's think about what makes a good breakfast. Breakfast is like the sun that starts our day with energy. A great breakfast could be a bowl of oatmeal with some fresh berries on top. Or maybe you like scrambled eggs with a slice of whole-grain toast. Remember, a nutritious breakfast helps you feel ready to play and learn all day long. What do you like to eat in the morning?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great choices! Eating a balanced breakfast is a wonderful way to start your day. Now, let's talk about lunch. It's important to have a mix of foods like proteins, grains, and vegetables. How about a turkey sandwich with lettuce and tomato? Or maybe a veggie wrap with hummus? Each bite gives your body the fuel it needs to keep going strong. You can do it!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about the rainbow of colors? Let's count how many colors we can eat at dinner! Maybe we have red peppers, yellow corn, and green peas. Eating a variety of colors helps us get all the nutrients our bodies need. It's like a treasure hunt for your taste buds! What colors do you see on your plate tonight?"
+    },
+    {
+      "id": "question_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever tried a new food and discovered you liked it? Sometimes trying something different can be a fun adventure. Maybe it's a fruit you've never tasted or a new vegetable. What new foods do you think you might want to try? Exploring new flavors is like going on a little journey for your taste buds!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about snacks. Snacks can be healthy and tasty too! A small handful of nuts or a piece of fruit can be a great way to keep your energy up between meals. Have you ever made a fruit salad with your favorite fruits? It's like making a colorful picture you can eat. Yummy and fun!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's imagine we're making a healthy snack together. First, we wash our hands, just like we wash our toys to keep them clean. Then, we can slice up an apple and spread a little peanut butter on each slice. Maybe add a sprinkle of cinnamon for extra flavor. This snack is not only delicious, but it also gives us energy to play and learn. Would you like to try making your own snack like this?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well learning about nutrition! Remember, water is also very important for our bodies. Drinking water helps keep us hydrated and feeling good. It's like giving a plant water so it can grow. So, let's make sure we drink plenty of water every day. You can do it!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's take a moment to think about all the wonderful foods we've talked about. Each one helps our bodies in special ways, like making our muscles strong or giving our brains the power to think. Eating a variety of foods is like building a puzzle, with each piece making us healthier and happier. What piece of the puzzle will you add to your meal today?"
+    },
+    {
+      "id": "question_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you know why it's important to eat slowly and enjoy our meals? When we take our time, our tummies can tell us when they're full, and we can really taste all the yummy flavors. It's like savoring a delicious story with every bite. What are some of your favorite foods to enjoy slowly?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's think about dessert. It's okay to have a sweet treat sometimes, but it's important to enjoy them in moderation. Maybe a small bowl of yogurt with honey or a piece of dark chocolate. Treats are like little surprises that make us smile. Remember, they're just one part of our balanced diet. What are your favorite sweet treats?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Speaking of balanced diets, do you remember the rainbow of foods we talked about? Eating different foods helps our bodies stay healthy and strong. It's like having a toolbox full of all the things we need to grow. What tools will you choose for your meal today? Let's make sure we have a little bit of everything!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's take a deep breath together and think about how good it feels to eat healthy foods. Breathing deeply helps us relax and enjoy the moment. It's like a little gift to ourselves. Remember, making healthy choices can be fun and exciting. What healthy choice will you make today?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this wonderful journey through the world of nutrition. We've learned so much about the colorful foods that help us grow strong and healthy. Remember, every meal is a chance to make good choices and feel great. I'm so proud of you for being curious and eager to learn. Until next time, keep smiling and enjoying your healthy adventures!"
+    }
+  ],
+  "title": "Sunny's Nutrition Story"
+}

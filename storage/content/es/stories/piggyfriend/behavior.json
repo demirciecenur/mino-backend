@@ -1,0 +1,98 @@
+{
+  "id": "piggy_friend_behavior_story",
+  "character": "Piggy Friend",
+  "topic": "behavior",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy tu amiga Piggy, y hoy vamos a hablar sobre algo muy importante: el comportamiento. ¿Sabías que comportarse bien es como ser un superhéroe? ¡Sí! Nos ayuda a ser felices y a hacer felices a los demás. Juntos, aprenderemos sobre cómo seguir las reglas y por qué es tan divertido. ¿Estás listo para esta aventura? ¡Vamos a comenzar!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en qué es el buen comportamiento. El buen comportamiento es cuando hacemos cosas que son amables y respetuosas. Por ejemplo, cuando compartimos nuestros juguetes con nuestros amigos, eso es un gran comportamiento. También, cuando escuchamos a mamá y papá, estamos mostrando buen comportamiento. ¿Y sabes qué? Nos hace sentir muy bien por dentro. ¡Es como tener un corazón feliz!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Recuerda cuando hablamos de compartir, eso es una regla importante. Seguir las reglas nos ayuda a mantenernos seguros y felices. Por ejemplo, si mamá dice que es hora de lavarse las manos antes de comer, es porque quiere que estemos sanos. Vamos a practicar juntos: imagina que es hora de cenar. ¿Qué hacemos primero? ¡Exacto, lavamos nuestras manos! ¡Muy bien!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora, pensemos en cómo podemos mostrar buen comportamiento en el parque. Cuando jugamos, es importante esperar nuestro turno en el columpio. También podemos decir 'por favor' y 'gracias' cuando alguien nos ayuda. ¡Qué maravilloso es ver cómo todos nos sentimos felices cuando seguimos estas reglas! ¿No es genial cómo un pequeño gesto puede hacer una gran diferencia?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vamos a recordar lo que hemos aprendido. El buen comportamiento incluye compartir, escuchar, y ser amables. ¿Te imaginas cómo sería si todos siguieran estas reglas? ¡Sería un mundo lleno de sonrisas! Ahora, pensemos en casa. ¿Cómo podemos mostrar buen comportamiento con nuestra familia? Seguro que ya estás pensando en algunas ideas geniales. ¡Vamos a escucharlas!"
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué ideas tan maravillosas! Al ayudar a recoger los juguetes después de jugar, mostramos respeto por nuestro hogar. También, cuando decimos 'buenas noches' o 'te quiero', hacemos que todos se sientan especiales. ¡Tú puedes ser un ejemplo brillante de buen comportamiento en casa! Recuerda, cada pequeño acto cuenta y hace del mundo un lugar mejor."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos sobre cómo manejar nuestros sentimientos. A veces, cuando estamos enojados o tristes, podemos olvidar cómo comportarnos bien. Pero hay maneras de calmarse, como contar hasta cinco o respirar profundamente. Vamos a intentarlo juntos: respira hondo... ¡y suelta! ¿Te sientes más tranquilo ahora? Practicar esto puede ayudarnos a recordar ser amables, incluso cuando estamos molestos."
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas cuando hablamos de compartir? ¡Esa es una gran manera de mostrar buen comportamiento! Imagina que tienes un juguete nuevo. ¿Cómo te sentirías si lo compartes con un amigo? Probablemente muy feliz, porque compartir también significa que podemos jugar juntos y divertirnos más. ¡Y eso hace que todos se sientan bien!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en la escuela o la guardería. Allí, el buen comportamiento nos ayuda a aprender y a hacer amigos. Cuando escuchamos a la maestra, podemos aprender cosas nuevas y emocionantes. Y ser amables con nuestros compañeros de clase nos ayuda a tener buenos amigos. ¿No es maravilloso cómo el buen comportamiento puede hacer que la escuela sea un lugar divertido?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora, tengo una pregunta para ti. ¿Cuál es tu regla favorita que te gusta seguir? Puede ser algo que haces en casa, en el parque, o en la escuela. Me encantaría saber por qué te gusta esa regla. ¿Es porque hace que todos se sientan felices o porque te hace sentir especial? ¡Cuéntame, estoy muy curiosa!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¡Gracias por compartir tus pensamientos! Es genial que tengas reglas favoritas que te ayuden a comportarte bien. Siguiendo estas reglas, todos podemos ser como superhéroes del comportamiento. Y recuerda, practicar estas reglas todos los días nos hace mejores amigos, hermanos y estudiantes. ¿No es emocionante pensar en cómo podemos mejorar cada día?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estoy tan orgullosa de ti! Aprender sobre el buen comportamiento es como aprender a montar en bicicleta. Al principio, puede ser un poco difícil, pero con práctica, se vuelve más fácil y divertido. ¡Tú puedes hacerlo! Cada día es una nueva oportunidad para practicar y mostrar a todos lo increíble que eres. ¡Sigue así!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para terminar, pensemos en una cosa que podamos hacer hoy para mostrar buen comportamiento. Puede ser saludar a alguien con una sonrisa, ayudar a mamá con la cena o leer un cuento con tu hermano. Pequeños actos de amabilidad pueden tener un gran impacto. ¿Qué te gustaría hacer hoy para mostrar buen comportamiento? ¡Estoy segura de que será algo maravilloso!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer hablar contigo sobre el comportamiento. Recuerda, cada día es una oportunidad para ser amable y respetuoso. Estoy muy orgullosa de ti y de todo lo que has aprendido. Espero que sigas practicando estas ideas con tus amigos y familia. ¡Hasta la próxima, amiguito! Cuídate mucho y recuerda seguir siendo un superhéroe del comportamiento. ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Behavior de Piggy Friend"
+}

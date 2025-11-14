@@ -1,0 +1,104 @@
+{
+  "id": "ocean_dreamer_moa_bedtime_story",
+  "title": "Ocean Dreamer Moa'nin Uyku Zamanı Hikayesi",
+  "character": "Ocean Dreamer Moa",
+  "topic": "bedtime",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Ocean Dreamer Moa. Bugün birlikte uykuya hazırlanmanın ne kadar eğlenceli olabileceğini keşfedeceğiz. Deniz kadar derin ve huzurlu bir uyku için neler yapabileceğimizi öğreneceğiz. Hazır mısın? Bu yolculukta seninle olmak için sabırsızlanıyorum. Haydi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku zamanı geldiğinde, günün yorgunluğunu atmak için sakinleşmek çok önemlidir. Gün boyunca neler yaptığımızı hatırlayıp, güzel anılarla dolu bir günün ardından rahatlamak harika bir fikirdir. Deniz kenarında bir gün geçirdiğini hayal et, güneş batarken denizin huzur veren sesiyle sakinleşmek gibi. Yatmadan önce böyle huzurlu anlar yaratmak, daha iyi uyumamıza yardımcı olur. Şimdi, birlikte uykuya hazırlanmanın ilk adımlarını atacağız."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Uykuya hazırlanırken ilk yapmamız gereken şey, günlük rutinlerimizi tamamlamaktır. Örneğin, oyuncaklarını toplamak ve dişlerini fırçalamak gibi. Bu rutinler, hem günümüze düzen katar hem de uykuya geçişi kolaylaştırır. Her akşam aynı sırayla bu rutinleri yapmak, bedenimize uyku zamanının geldiğini hatırlatır. Şimdi, bu adımları birlikte düşünelim ve uygulayalım."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi sıra geldi nefes alıp vermeye. Derin bir nefes alalım ve yavaşça verelim. Bu, denizin sakin dalgaları gibi bizi rahatlatır. Üç kez derin nefes alarak kendimizi daha huzurlu hissedebiliriz. Sen de denemek ister misin? Hadi birlikte nefes alalım ve rahatlayalım."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nefes alıp verdikten sonra, şimdi huzurlu bir hikaye dinleme zamanı. Deniz kenarında geçen bir macera hayal edelim. Sıcak kumların üzerinde yürürken, deniz kabuklarını topladığımızı düşünebiliriz. Bu, hem zihnimizi sakinleştirir hem de uykuya dalmamızı kolaylaştırır. Hikayeler, rüyaların kapısını aralayan anahtarlardır. Şimdi, bu hayali yolculukta birlikte yürüyelim."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Uykuya dalmadan önce, bedenimizi gevşetmek de önemlidir. Yatakta uzanırken, ayak parmaklarımızdan başımıza kadar tüm kaslarımızı sırasıyla gevşetebiliriz. Ayaklarımızdan başlayarak yukarı doğru tüm kaslarımızı hissetmek ve gevşetmek, bizi daha huzurlu hissettirir. Yavaşça bu adımları uygulayarak bedenimizi uykuya hazırlayabiliriz. Hadi birlikte bu rahatlatıcı egzersizi yapalım."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsun! Şimdi, uykuya dalarken hayal gücümüzü kullanma zamanı. Kendi deniz maceranı hayal edebilirsin. Belki de bir balina ile yüzüyor ya da deniz yıldızlarıyla oyun oynuyorsundur. Hayal gücün, seni rüya dünyasına götüren bir gemi gibidir. Sen de hayal kurmak ister misin? Hadi birlikte denizlere açılalım."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal kurmak, zihnimizi dinlendirmenin en güzel yollarından biridir. Denizlerin derinliklerinde yüzmek, farklı deniz canlılarıyla tanışmak gibi düşler kurabiliriz. Bu düşler, bizi mutlu eder ve uykuya dalmamızı kolaylaştırır. Rüyalarımızda denizlerin sonsuz güzelliklerini keşfederken, sabah uyandığımızda yeni maceralara hazır oluruz. Şimdi, bu düşlerin keyfini çıkarma zamanı."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin en sevdiğin uyku öncesi hikaye nedir? Belki de bir deniz macerası ya da ormanda geçen bir hikaye. Hangi hikayeleri dinlemek seni daha mutlu ve huzurlu hissettiriyor? Bu hikayeleri neden bu kadar seviyorsun? Şimdi, bu güzel hikayeleri düşünelim ve paylaşalım."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Yatmadan önce son bir şey daha yapabiliriz: minik bir meditasyon. Gözlerimizi kapatıp, denizin dalga seslerini dinlediğimizi hayal edelim. Bu sesler, zihnimizi dinlendirir ve bizi uykuya hazırlar. Üç kez derin nefes alıp verelim ve bu huzurlu anın tadını çıkaralım. Hadi birlikte deniz dalgalarının sesiyle rahatlayalım."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, uykuya dalmaya hazırsın. Yatakta rahatça uzan ve hayal gücünü serbest bırak. Denizlerin derinliklerinde seni bekleyen maceraları düşün. Bu maceralar seni rüya dünyasına götürecek. Sen bunu yapabilirsin! Hadi birlikte bu huzurlu yolculuğa çıkalım."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku, yeni bir gün için enerji toplamanın en güzel yoludur. Gece boyunca dinlenirken, sabah uyandığında yeni maceralara hazır olacaksın. Uyurken bedenimiz ve zihnimiz yenilenir, bu da bizi daha güçlü ve mutlu yapar. Sen de her gece bu güzellikleri keşfetmeye hazır mısın? Şimdi güzel rüyalar görme zamanı."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sabah uyandığında neler yapmayı planlıyorsun? Belki de yeni bir oyun oynamak ya da dışarıda bir maceraya atılmak istersin. Bu planlar seni heyecanlandırıyor mu? Yeni bir günün getireceği sürprizleri düşünmek güzel değil mi? Hadi birlikte sabahın getireceği güzellikleri hayal edelim."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Her yeni gün, yeni maceralar ve keşiflerle doludur. Sabah uyandığında, güneşin doğuşunu izlemek ve yeni bir günün başlangıcını kutlamak harika bir duygudur. Her sabah, yeni bir başlangıçtır ve bu başlangıçlar bize enerji verir. Sen de her sabah bu yeni başlangıçları kucaklamaya hazır ol. Şimdi güzel bir uyku çekmenin zamanı geldi."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Şimdi uykuya dalma zamanı, küçük dostum. Bu gece denizlerin derinliklerinde güzel rüyalar gör. Sabah uyandığında, seni bekleyen yeni maceralar olacak. Bu güzel uyku yolculuğunda seninle birlikte olmak harikaydı. Şimdi gözlerini kapat ve güzel rüyaların tadını çıkar. İyi geceler ve tatlı rüyalar!"
+    }
+  ]
+}

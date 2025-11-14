@@ -1,0 +1,104 @@
+{
+  "id": "elisa_the_ice_fairy_nutrition_story",
+  "character": "Elisa the Ice Fairy",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Elisa the Ice Fairy. Bugün birlikte beslenme hakkında büyülü bir yolculuğa çıkacağız. Hazır mısın? Doğru beslenmek, büyümek ve güçlü olmak için çok önemlidir. Biliyor musun, her bir yiyecek bize farklı bir güç verir. Şimdi bu harika yolculuğa başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda beslenmenin öneminden bahsetmiştik. Şimdi, yiyeceklerin vücudumuz için nasıl enerji sağladığını öğrenelim. Yiyecekler, tıpkı arabaların benzinle çalışması gibi, bize enerji verir. Eğer yeterince enerji almazsak, oyun oynarken ya da koşarken çabuk yorulabiliriz. Bu yüzden, enerji veren yiyecekleri seçmek çok önemlidir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vücudumuzun sağlıklı kalması için vitamin ve minerallere ihtiyacı vardır. Meyve ve sebzeler bu konuda harika kaynaklardır. Örneğin, portakal C vitamini ile doludur ve bağışıklık sistemimizi güçlendirir. Havuçlar ise gözlerimizin sağlıklı kalmasına yardımcı olan A vitamini içerir. Her gün farklı renklerde meyve ve sebze yemek çok faydalıdır."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım! Gözlerini kapat ve en sevdiğin meyveyi düşün. Onun rengini, kokusunu ve tadını hayal et. Harika! İşte böylece, yiyeceklerin ne kadar çeşitli ve güzel olduğunu görebiliriz. Sen de bu oyunu arkadaşlarınla oynayabilirsin. Hadi, meyve ve sebzelerle dolu bir tabak hayal edelim."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki oyunumuzda meyve ve sebzeleri hayal ettik. Şimdi, proteinlerin vücudumuz için ne kadar önemli olduğunu konuşalım. Proteinler, kaslarımızı güçlü tutmamıza yardımcı olur. Et, balık, yumurta ve fasulye gibi yiyecekler protein bakımından zengindir. Bu yiyecekleri düzenli olarak tüketmek, sağlıklı ve güçlü olmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Su içmenin önemini biliyor musun? Su, vücudumuzun her gün ihtiyaç duyduğu en önemli besindir. Su içmek, vücudumuzun düzgün çalışmasına yardımcı olur ve bizi susuzluktan korur. Her gün yeterince su içtiğimizden emin olmalıyız. Şimdi birlikte bir bardak su içelim, hadi!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika, su içmek vücudumuz için çok faydalıdır! Şimdi, sağlıklı atıştırmalıklar hakkında konuşalım. Bazen canımız abur cubur çekebilir, ama bunun yerine fındık, yoğurt veya bir dilim elma yemek daha iyi bir seçenektir. Bu atıştırmalıklar bize enerji verir ve sağlıklı kalmamıza yardımcı olur. Senin favori sağlıklı atıştırmalığın ne?"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sağlıklı besinler hakkında konuşurken, senin en sevdiğin sağlıklı yiyecek nedir? Belki bir meyve ya da sebze? Ya da belki bir kase yoğurt? Hadi, bana en sevdiğin yiyeceği söyle. Öğrenmek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda senin en sevdiğin sağlıklı yiyeceği öğrendik. Şimdi, gün boyunca dengeli beslenmenin ne kadar önemli olduğunu konuşalım. Kahvaltı, günün en önemli öğünüdür ve iyi bir başlangıç yapmamıza yardımcı olur. Öğle ve akşam yemekleri ise enerjimizi korumak için gereklidir. Her öğünde farklı besin gruplarından yiyecekler seçmeliyiz."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte bir beslenme planı yapalım. Kahvaltıda bir dilim tam buğday ekmeği, bir yumurta ve bir bardak süt içebiliriz. Öğle yemeğinde ise tavuk ve sebzelerle dolu bir tabak tercih edebiliriz. Akşam yemeğinde ise balık ve salata harika bir seçim olabilir. Bu şekilde, dengeli bir şekilde beslenebiliriz."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir beslenme planı oluşturduk! Şimdi, bu planı her gün uygulamaya çalışalım. Dengeli beslenmek, oyun oynarken daha enerjik olmamıza yardımcı olur. Sen de denemek ister misin? Unutma, sağlıklı yemekler bizi daha mutlu ve güçlü yapar. Başarabilirsin!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Akşam yemeğinde hangi sebzeyi tercih edersin? Havuç mu, yoksa brokoli mi? Ya da belki başka bir sebze? Cevabını çok merak ediyorum!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sorumda akşam yemeğinde hangi sebzeyi tercih ettiğini öğrendik. Şimdi, tatlılar hakkında konuşalım. Tatlılar lezzetlidir, ama çok fazla yememeliyiz. Bunun yerine, meyve gibi doğal tatlıları tercih edebiliriz. Böylece tatlı ihtiyacımızı sağlıklı bir şekilde karşılayabiliriz."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tatlılardan bahsederken, doğal ve sağlıklı seçimlerin önemini unutmamalıyız. Muz, çilek veya üzüm gibi meyveler tatlı ihtiyacımızı karşılayabilir. Ayrıca, doğal yoğurt üzerine biraz bal ve ceviz ekleyerek lezzetli bir tatlı yapabiliriz. Bu tür sağlıklı tatlılar, vücudumuza zarar vermeden tatlı ihtiyacımızı karşılar."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün beslenme hakkında çok şey öğrendik, değil mi? Beslenmenin ne kadar önemli olduğunu ve sağlıklı seçimlerin bizi nasıl güçlü kıldığını konuştuk. Her gün bu bilgileri hatırlayarak sağlıklı seçimler yapabiliriz. Seninle bu yolculuğu paylaşmak çok güzeldi. Bir sonraki buluşmamızda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Elisa The Ice Fairy'ın Nutrition Hikayesi"
+}

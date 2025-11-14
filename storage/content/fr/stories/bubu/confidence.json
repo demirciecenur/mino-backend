@@ -1,0 +1,98 @@
+{
+  "id": "bubu_confidence_story",
+  "character": "Bubu",
+  "topic": "confidence",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Bubu, et aujourd'hui, nous allons explorer le merveilleux monde de la confiance. Êtes-vous prêt à partir à l'aventure avec moi? C'est comme un voyage magique où nous découvrons comment être courageux et plein de confiance. Ensemble, nous allons apprendre et grandir. Je suis tellement impatient de commencer ce voyage avec vous!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance, c'est comme un super pouvoir que chacun de nous peut avoir. Imagine que tu as un petit soleil dans ton cœur qui brille de plus en plus fort chaque fois que tu essaies quelque chose de nouveau. Quand tu es confiant, ce soleil te rend fort et heureux. Par exemple, quand tu montes sur une balançoire pour la première fois, c'est ton petit soleil qui t'encourage. La confiance nous aide à faire des choses même quand elles semblent un peu effrayantes au début."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment nous pouvons renforcer notre confiance. Chaque fois que tu fais quelque chose de bien, comme ranger tes jouets, c'est une petite victoire. Ces petites victoires s'accumulent et renforcent ta confiance. Pense à quelque chose que tu as fait récemment et qui t'a rendu fier. Est-ce que c'était dessiner un joli dessin ou peut-être essayer un nouveau jeu? Chaque petit succès nourrit ce soleil dans ton cœur."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons quelque chose ensemble. Prenons une grande inspiration ensemble, puis soufflons doucement. Prêt? Inspirons... et soufflons. Super! Cela aide notre esprit à se calmer et notre cœur à se sentir plus fort. Chaque fois que tu te sens un peu inquiet, rappelle-toi de respirer comme ça. Tu verras, cela t'aidera à te sentir plus confiant."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous, la confiance ne signifie pas ne jamais avoir peur. C'est normal d'avoir un peu peur parfois. Mais la confiance, c'est essayer quand même, même si on a un peu peur. Comme quand on apprend à nager, au début, l'eau peut sembler froide et profonde. Mais avec chaque essai, on devient plus fort et plus confiant. Avec le temps, on se rend compte que l'eau est notre amie."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu te souviens d'un moment où tu as ressenti ce petit soleil en toi? Peut-être que c'était quand tu as partagé un jouet avec un ami ou quand tu as aidé à préparer le dîner. Ces moments sont spéciaux parce qu'ils montrent comment tu grandis et deviens confiant. Chaque petit geste compte et montre ta force intérieure."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons un exercice amusant. Pensons à trois choses que tu aimes faire. Peut-être que tu aimes peindre, chanter ou jouer au ballon. Chaque fois que tu fais ces activités, tu pratiques aussi ta confiance. Tu te sens plus à l'aise et fier de toi. C'est comme planter des graines de confiance qui grandissent chaque jour."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "N'oublie pas que tout le monde fait des erreurs, et c'est tout à fait normal. Les erreurs sont des occasions d'apprendre et de grandir. Quand tu fais une erreur, dis-toi que c'est une étape vers la réussite. Comme quand tu apprends à faire du vélo, tu peux tomber, mais chaque fois tu te relèves plus fort. Tu es capable de tout!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de la gentillesse envers soi-même. Être gentil avec soi-même, c'est se dire des choses positives, même quand on trouve quelque chose difficile. Par exemple, si tu n'arrives pas à construire une tour de blocs, dis-toi que tu es intelligent et que tu peux essayer encore. La gentillesse nourrit la confiance et rend ton petit soleil encore plus brillant."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Est-ce que tu as déjà ressenti une grande fierté après avoir réussi quelque chose de difficile? Peut-être que c'était quand tu as appris à nouer tes lacets ou à dessiner un beau dessin. Ces moments sont précieux parce qu'ils montrent ta force et ta détermination. Tu te souviens d'un moment comme ça? Qu'est-ce que tu as ressenti?"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Souvenons-nous de ces moments où nous nous sommes sentis forts. Ces souvenirs sont comme des trésors que nous gardons dans notre cœur. Ils nous rappellent que nous pouvons surmonter les défis. Chaque fois que tu te sens un peu hésitant, pense à ces trésors et laisse-les te guider. Ils sont la preuve que tu es capable de grandes choses."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, faisons un petit jeu. Comptons ensemble jusqu'à cinq, et à chaque nombre, pensons à quelque chose de positif sur nous-mêmes. Un, je suis gentil. Deux, je suis courageux. Trois, j'aime apprendre. Quatre, je suis un bon ami. Cinq, je suis plein de joie. Ces pensées positives nous remplissent de confiance."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Rappelle-toi que tu n'es jamais seul dans ton aventure de confiance. Tes amis, ta famille et moi, Bubu, nous sommes tous là pour te soutenir. Chaque fois que tu as besoin d'un peu d'encouragement, nous sommes là pour te rappeler à quel point tu es spécial. Tu as un grand cœur et une grande force en toi. Continue d'avancer avec confiance!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce voyage de confiance avec moi aujourd'hui. N'oublie jamais que tu as un petit soleil dans ton cœur qui brille chaque jour. Je suis tellement fier de toi et de tout ce que tu accomplis. Continue de nourrir ta confiance, petit à petit. Au revoir, et à bientôt pour une nouvelle aventure ensemble!"
+    }
+  ],
+  "title": "Histoire de Confidence de Bubu"
+}

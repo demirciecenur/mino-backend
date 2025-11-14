@@ -1,0 +1,98 @@
+{
+  "id": "spider_fighter_bedtime_story",
+  "character": "Spider Fighter",
+  "topic": "bedtime",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little heroes! I'm Spider Fighter, your friendly neighborhood hero here to guide you through an amazing bedtime adventure. Are you ready to swing into dreamland with me? Bedtime is a special time when our bodies and minds get to relax and recharge. Just like how I need to recharge after a long day of saving the city, you need your rest too. So, let's get cozy and prepare for a journey through the night skies of dreamland."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about why bedtime is so important. Just like I need to be strong and alert to catch the bad guys, you need sleep to grow big and strong too. When you sleep, your body is busy growing and getting ready for another fun day. It's like giving your muscles and brain a big hug of energy. And when you wake up, you're all set to play, learn, and have adventures. Isn't that amazing?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when I said bedtime is like recharging? Let's learn how to do that together. First, we need to calm our bodies and minds. One way to do this is by taking deep breaths. Let's try it now: breathe in deeply through your nose like you're smelling a flower, and then slowly breathe out through your mouth like you're blowing out a candle. This helps you relax and feel ready for sleep."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job, little hero! Breathing deeply can help you feel calm and sleepy. Now, let's think about our bedtime routine, just like how I have my superhero routine. Maybe you brush your teeth, put on your pajamas, and listen to a bedtime story. Each step helps your body know it's time to rest. Let's count the steps together: one, two, three. You're doing fantastic!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's talk about the wonderful world of dreams. When you fall asleep, your imagination goes on an adventure, just like I do when I'm swinging through the city. You might dream about flying with me or visiting a magical land. Dreams can be fun and exciting, and they help your brain practice new things. So, let's close our eyes and imagine the adventure waiting for us tonight."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's try a fun exercise to help you drift off to sleep. Imagine you're a spider like me, spinning a soft, cozy web. Picture yourself wrapping up in this web, feeling warm and safe. This web is your bed, and it's the perfect place to rest. Let's count to five slowly as we imagine snuggling in: one, two, three, four, five. Feel how your body relaxes?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're becoming a bedtime expert. Remember, it's okay to feel a little wiggly or restless at first. Just like when I practice my web-swinging, it takes time to get it just right. If you're having trouble sleeping, you can try counting spiders or your favorite animals in your mind. This can help you focus and feel sleepy."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever wondered what your favorite superhero dreams about? I often dream about saving the city with my friends and helping people. What do you think you might dream about tonight? Maybe you'll visit a magical castle or meet a friendly dragon. Your dreams are your own special adventures, and they're always waiting for you."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about the sounds of the night. Just like the rustling leaves and gentle breezes I hear when I'm out at night, you might hear calming sounds too. Maybe it's the sound of crickets or a gentle lullaby. These sounds can help you relax and drift into a peaceful sleep. Can you think of a sound that makes you feel calm?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "That's a great choice! Sounds like rain or the ocean can be very soothing. If you listen closely, you might find a rhythm that helps you feel sleepy. It's like a gentle song just for you. And when you wake up, you'll feel refreshed and ready for a new day of adventures. Isn't it exciting to think about what tomorrow will bring?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about how you can prepare for a good night's sleep. Just like I prepare my web shooters before going out, you can prepare by making your room cozy. Maybe you have a favorite stuffed animal or a special blanket that makes you feel safe. These little things can help your mind know it's time to rest and dream."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job getting ready for bedtime! Remember, every superhero needs their rest to be their best. Just like I need to recharge my superhero powers, you need sleep to recharge your energy. So, give yourself a big hug and know that you're ready for a night full of wonderful dreams. I'm so proud of you!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we wind down our bedtime journey, let's remember the fun we had preparing for sleep. We talked about routines, dreams, and calming sounds. Each of these helps us get ready for a restful night. And remember, I'm always here to help guide you through any bedtime adventure. Sleep tight, little hero!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Goodnight, my brave little friend! You've done an amazing job preparing for sleep tonight. Remember, every night is a new adventure in dreamland, and I'm always here cheering you on. Rest well, recharge, and get ready for another day of fun and discovery. Sweet dreams and see you soon!"
+    }
+  ],
+  "title": "Spider Fighter's Bedtime Story"
+}

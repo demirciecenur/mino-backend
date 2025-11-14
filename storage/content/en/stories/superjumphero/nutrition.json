@@ -1,0 +1,104 @@
+{
+  "id": "super_jump_hero_nutrition_story",
+  "character": "Super Jump Hero",
+  "topic": "nutrition",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Super Jump Hero, and today we're going on an amazing adventure about nutrition. Are you ready to jump into a world full of yummy foods and healthy choices? We'll learn about the superpowers hidden in fruits, veggies, and more. I'm so excited to share this journey with you. Let's hop into the world of tasty and nutritious adventures!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's start by talking about fruits. Fruits are like nature's candy, full of vitamins and sweetness! They help keep our bodies strong and give us lots of energy. Imagine eating a juicy apple or a sweet banana; they’re yummy and healthy. Eating different colors of fruits can make us super strong, just like a hero!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about fruits? Well, vegetables are their best buddies! Veggies like carrots, broccoli, and peas are packed with goodness that helps us grow tall and strong. Eating vegetables can make our eyes sparkle and our skin glow. Let's pretend to be like rabbits and nibble on some carrots. Crunch, crunch, crunch!"
+    },
+    {
+      "id": "scene_3",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue with grains, which are super important too. Grains like rice, oats, and bread give us the energy to play and learn all day. They keep our tummies happy and full. Have you ever had a bowl of oatmeal in the morning? It’s like a warm hug for your belly. Eating grains helps us jump higher and run faster!"
+    },
+    {
+      "id": "scene_4",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about grains! Now, let's explore proteins. Proteins are like building blocks for our bodies. Foods like chicken, beans, and eggs help us build strong muscles. Imagine being as strong as a superhero! Eating protein-rich foods helps us grow big and strong. You can do it, little hero!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Next, let's talk about dairy products. Dairy foods like milk, cheese, and yogurt are full of calcium. Calcium helps our bones become hard and strong, just like a superhero’s shield. Drinking a glass of milk is like a magic potion for our bones. Remember, a strong body helps us do amazing things!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's not forget about fats, which are also important in small amounts. Healthy fats from foods like avocados, nuts, and olive oil give us energy and keep our hearts happy. They help our brains work well too. Think of it as fuel for our superhero minds. Eating a little bit of healthy fats keeps us sharp and ready for action!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about all those food groups? Combining them makes our meals super balanced. A balanced meal has a little bit of everything: fruits, veggies, grains, proteins, and dairy. It’s like a superhero team working together to make us strong and healthy. Can you imagine your favorite meal with all these healthy foods?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, can you think of a meal that has all these food groups? Maybe breakfast with eggs, toast, and a fruit smoothie? Or dinner with chicken, rice, and a side of veggies? Let's think together about the yummy meals we can make. What’s your favorite food to eat that makes you feel strong and full of energy?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure by talking about snacks. Healthy snacks keep our energy up between meals. Things like apple slices, carrot sticks, or a handful of nuts are great choices. Snacks should be small but full of goodness, just like a mini power-up. Choosing healthy snacks helps us stay active and happy."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's do a fun activity! Let's count to five while thinking of our favorite fruits. Ready? One, two, three, four, five! Great job! Counting helps us remember to eat lots of different foods. Just like we counted to five, we can try to eat five different fruits and veggies every day. It's a fun way to stay healthy!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You’re doing so well on this nutrition adventure. Remember, every time you choose a healthy food, you’re choosing to be a superhero. Eating well helps us feel good and have lots of energy to play and learn. Keep being amazing and making great choices, little hero!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember our talk about fruits and veggies? Let's think of a rainbow on our plate. Eating different colors of fruits and vegetables gives us all sorts of vitamins. It’s like painting a beautiful picture with our food. What colors can you see on your plate today? It's like a magical rainbow of nutrition!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Would you like to try making a healthy snack with your family? Maybe a fruit salad or veggie sticks with hummus? It’s fun to prepare food together and learn about the different tastes and textures. What snack would you like to try making? Let’s think about all the delicious possibilities!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this nutritious adventure! Remember, eating healthy is like giving your body superpowers every day. Keep exploring new foods and making balanced choices. You’re a superstar for learning about nutrition. Until next time, keep jumping high and eating right. Goodbye, little hero!"
+    }
+  ],
+  "title": "Super Jump Hero's Nutrition Story"
+}

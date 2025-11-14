@@ -1,0 +1,104 @@
+{
+  "id": "sunny_friendship_story",
+  "character": "Sunny",
+  "topic": "friendship",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Sunny, and I'm so happy to see you today. We're going to have a fun adventure all about friendship. Friendship is like having a buddy who makes you smile and feel happy. Are you ready to explore how we can make new friends and be a great friend? Let's jump into this sunny journey together, and we'll learn some amazing things along the way!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what a friend is. A friend is someone you like to play with and share your toys with. Friends are people who make you laugh and feel good when you're with them. Do you have a friend who makes you feel this way? Having friends is important because they can turn any day into a fun adventure. Remember, being a friend means being kind and helpful to others."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn how to make new friends. First, you can say hello with a big smile, just like this. Smiling makes people feel welcome and happy. Next, you can ask if they want to play a game or share a toy. Sharing is a wonderful way to show you care. It's also nice to listen to what your new friend wants to do. Can you think of a game you could play together?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking about a game! You can do it! Making friends is like planting a seed and watching it grow into a beautiful flower. Every time you smile, share, or play together, your friendship grows stronger. Isn't that wonderful? Remember, you can be friends with anyone who makes you feel happy and safe. Let's keep learning about friendship!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about sharing? Sharing is one of the best ways to show kindness. Imagine you have a big, delicious cookie. If you share it with a friend, you both get to enjoy it! Sharing can be as simple as letting someone borrow your crayons. When you share, it shows you care about making others happy. Now, let's think about how sharing makes you feel inside."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try something together. Close your eyes and take a deep breath in. Now, let it out slowly. Let's do that two more times. Breathing deeply can help us feel calm and happy. When we're calm, it's easier to be a good friend. You can use this breathing exercise whenever you need to feel ready to share and play. Isn't that a handy tool?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a great job! Let's keep going. Remember, being a friend also means listening. Listening helps us understand how our friends feel. When your friend talks, try to look at their eyes and hear every word. This shows them that you care about what they are saying. Isn't it nice when someone listens to you? You can be that special listener too!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about playing together. Playing is a fun way to spend time with friends. Whether it's building with blocks, drawing pictures, or playing tag, there are so many games to choose from. When you play, remember to take turns and follow the rules of the game. This makes playing fun for everyone. What's your favorite game to play with friends?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try a little game right now. Can you think of five things you love to do with your friends? I'll help you get started. Maybe you like playing on the swings, drawing with chalk, or singing songs together. Each activity is like a new adventure with friends. Now, count on your fingers as you think of your favorite activities. Can you find five?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You thought of some great activities. You can do it! Every time you play, you're building stronger friendships. Remember, friendships are like little plants. They need care, time, and love to grow. When you play and share with your friends, you're helping those friendships bloom. Let's keep being amazing friends!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about feelings. Sometimes, friends can feel sad or upset. It's important to be there for them when they do. You can ask if they're okay or if they want a hug. Being kind and understanding can make them feel better. Just like when you're sad, having a friend nearby can make a big difference. Can you remember a time when a friend helped you feel better?"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Let's think about this together. Have you ever helped a friend who was feeling sad? Maybe you shared a toy or told them a funny story. Helping friends feel better is a big part of being a good friend. It's like being a superhero with a special power to make smiles appear. What are some ways you can help your friends when they need you?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "You're doing so well! Now, let's talk about saying sorry. Sometimes, we might make a mistake and hurt a friend's feelings. When this happens, it's important to say sorry and mean it. Saying sorry is like giving a hug with words. It shows that you care about your friend and want to make things better. Can you think of a time when you said sorry and it made a friend happy?"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're learning so much about friendship! Remember, every friend is like a shiny star. Each one is special and bright. By being kind, sharing, playing, and saying sorry, you're making your star shine even brighter. You can do it! Keep being the amazing friend that you are, and your friendships will shine like the sun!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time to say goodbye for now, little friend. We've had so much fun learning about friendship together. Remember all the wonderful things you've learned today. Keep smiling, sharing, and playing with your friends. You're a wonderful friend, and I'm so proud of you! Until next time, keep shining bright like the sun. Goodbye, and see you soon!"
+    }
+  ],
+  "title": "Sunny's Friendship Story"
+}

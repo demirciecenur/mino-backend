@@ -1,0 +1,104 @@
+{
+  "id": "shell_heroes_crew_bedtime_story",
+  "character": "Shell Heroes Crew",
+  "topic": "bedtime",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friend! We're the Shell Heroes Crew, and tonight we're on a bedtime adventure. Are you ready to join us? We'll explore the wonderful world of bedtime and learn how to get ready for a great night's sleep. So, grab your favorite stuffed animal, and let's begin our journey together. We're super excited to have you with us!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bedtime is a special time of the day when we get to relax and prepare for a restful sleep. It's like winding down after a big adventure, and everyone needs a good night's rest to feel ready for new adventures tomorrow. Just like how heroes need to recharge their powers, you need sleep to be your best self. Do you have a bedtime routine that you follow? It's important to have one, just like the Shell Heroes Crew does!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's talk about what a bedtime routine could look like. First, it's time to put away your toys. Imagine you're organizing your superhero gadgets, making sure everything is in its place. Then, it's time to brush your teeth, just like polishing your superhero smile. After that, changing into your comfy pajamas is like putting on your cozy superhero suit. Finally, you can read a story or listen to a bedtime tale, helping your mind to relax and dream of amazing adventures."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job! You've got a bedtime routine going, and that makes you a real hero of the night. Remember, having a routine helps your body know when it's time to sleep. It's like telling your superhero clock that it's time to power down. You're doing amazing, and we're proud of you. Keep up the fantastic work, and soon you'll be drifting into dreamland."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about the importance of calming down before bed. It's like cooling down after a big superhero mission. When you calm down, your body knows it's time to rest. You can take deep breaths, just like inhaling a big, relaxing breeze. Let's try it together: breathe in slowly, and breathe out gently. Doesn't that feel nice? It's a great way to let your body know that bedtime is here."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's try a little exercise to help our bodies relax even more. Imagine you're a turtle, slowly tucking into your shell. Lie down comfortably, close your eyes, and feel each part of your body getting softer and softer. Start with your toes, then your legs, moving up to your arms, and finally your head. Feel how cozy you are, just like a turtle tucked in its shell, ready for a peaceful sleep."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing wonderfully, little hero! Relaxing your body helps you get ready for sleep. It's like preparing for a big day of adventures tomorrow. You're learning how to be a bedtime hero, and that's amazing. Keep practicing this routine, and you'll be a master of bedtime in no time. Remember, every hero needs rest to be strong and ready for the next day."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's think about what makes bedtime special for you. Is it your favorite bedtime story, or maybe a special lullaby? Everyone has their own way of making bedtime magical. It's like having a secret bedtime power that helps you fall asleep. What's your special bedtime power? Maybe you can share it with us as we continue our bedtime adventure."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What is your favorite thing to do before bed? Is it listening to a story, or maybe cuddling with your favorite stuffed animal? We'd love to hear what makes your bedtime special. Remember, bedtime is a time for you to unwind and relax, so whatever you choose should make you feel calm and happy. Do you have a bedtime buddy that helps you feel safe and cozy?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "That's wonderful! Having a favorite bedtime ritual or buddy makes going to sleep even more enjoyable. It's like having a superhero sidekick who helps you drift off into dreamland. Remember to thank your bedtime buddy for being there with you. You're doing such a great job getting ready for sleep, and we know you'll have the sweetest dreams tonight."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue by thinking about dreams. Dreams are like adventures you have while you're asleep. They're fun and can take you to amazing places. You might dream of flying through the sky, swimming with dolphins, or exploring a magical forest. What kind of dreams do you hope to have tonight? Remember, dreams are your imagination's way of having fun while you rest."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job preparing for sleep, and now it's time to let your dreams take you on an adventure. Remember, you are the hero of your own dreams, and you can go anywhere and do anything. Close your eyes, take a deep breath, and let your dreams begin. You're a bedtime champion, ready for a wonderful night's rest."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Before we say goodnight, let's take one more deep breath together. Breathe in through your nose, feeling the air fill your lungs, and then breathe out slowly through your mouth. Imagine you're blowing out a candle on a birthday cake. That's it, nice and slow. This helps your body know it's time to relax and sleep. You're doing so well, and we're so proud of you."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we wrap up our bedtime adventure, remember that sleep is important for every little hero. It helps you grow strong, feel happy, and be ready for new adventures tomorrow. You've learned so much about bedtime routines, relaxation, and dreaming tonight. Keep practicing, and you'll become a bedtime expert in no time. We can't wait to see what adventures you'll have in your dreams."
+    },
+    {
+      "id": "closure_0",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Goodnight, little hero! Thank you for joining the Shell Heroes Crew on this bedtime adventure. We hope you have the sweetest dreams and wake up ready for a brand-new day. Remember, you're always a hero in our eyes. Sleep tight, and we'll see you in your dreams. Until next time, sweet dreams and goodnight!"
+    }
+  ],
+  "title": "Shell Heroes Crew's Bedtime Story"
+}

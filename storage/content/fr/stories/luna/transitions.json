@@ -1,0 +1,104 @@
+{
+  "id": "luna_transitions_story",
+  "character": "Luna",
+  "topic": "transitions",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Luna. Aujourd'hui, nous allons explorer le monde magique des transitions. Êtes-vous prêts à découvrir comment les choses changent autour de nous? C'est un peu comme quand la lune brille et que les étoiles commencent à danser dans le ciel. Je suis impatiente de partager cette aventure avec vous. Prenons une grande respiration ensemble pour commencer!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions sont comme des petits voyages que nous faisons chaque jour. Pensez à quand vous passez du petit-déjeuner à jouer avec vos amis. C'est une transition! Parfois, cela peut sembler un peu étrange, mais c'est aussi très excitant. Les changements nous aident à grandir et à découvrir de nouvelles choses. Maintenant, imaginez que vous êtes une petite étoile qui se déplace dans le ciel. Prêt à apprendre davantage?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons de comment préparer nos esprits pour les transitions. Imaginez que vous êtes un papillon qui change de fleur en fleur. Pour vous sentir bien, vous pouvez prendre trois grandes respirations. Inspirez profondément par le nez et expirez doucement par la bouche. Cela vous aide à vous sentir calme et prêt pour le prochain changement. Voulez-vous essayer ensemble? Inspirons une fois, deux fois, et trois fois. C'est génial!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant que nous savons comment nous préparer, voyons comment nous pouvons rendre les transitions amusantes! Pensez à une chanson que vous aimez chanter. Vous pouvez la chanter quand vous rangez vos jouets ou quand vous vous brossez les dents. Cela rend le changement plus joyeux et amusant. Et devinez quoi? Vous pouvez même inventer votre propre danse spéciale pour chaque transition. Vous êtes prêts à danser avec moi?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous de la dernière fois où vous êtes allé à la plage ou au parc. C'était une transition du quotidien à quelque chose de spécial. Ces moments sont comme des cadeaux magiques. Chaque jour a ses propres surprises, comme un livre d'histoires rempli de pages colorées. Quand vous acceptez ces changements, vous devenez un petit aventurier prêt à explorer le monde. N'est-ce pas merveilleux?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Et si nous parlions des transitions à la maison? Comme quand il est temps de se coucher après une journée bien remplie. Vous pouvez avoir un rituel apaisant, comme lire une histoire ou écouter une berceuse douce. Cela aide à calmer votre esprit et à vous préparer pour des rêves étoilés. Avez-vous une histoire préférée que vous aimez écouter avant de dormir? Partagez-la avec moi!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Les transitions peuvent aussi être un moment pour apprendre quelque chose de nouveau. Comme quand vous commencez une nouvelle activité ou un nouveau jeu. Chaque fois que vous essayez quelque chose de différent, vous devenez plus fort et plus sage. Vous êtes comme un petit explorateur découvrant de nouveaux trésors. N'oubliez pas, chaque pas que vous faites est une victoire. Vous pouvez le faire!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, les transitions peuvent être un peu effrayantes, mais c'est normal. Imaginez que vous êtes un chaton curieux découvrant un nouvel endroit. Prenez votre temps, regardez autour de vous et trouvez quelque chose de familier pour vous réconforter. Peut-être un doudou ou une chanson douce. Et souvenez-vous, vous n'êtes jamais seul. Il y a toujours quelqu'un pour vous aider et vous guider."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Voyons comment nous pouvons rendre les transitions plus faciles. Pensez à préparer vos affaires la veille pour être prêt le matin. Cela aide à commencer la journée en douceur. Vous pouvez aussi créer un petit calendrier coloré pour savoir ce qui vous attend chaque jour. Cela rend les transitions plus prévisibles et moins stressantes. Voulez-vous essayer de créer votre propre calendrier?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, je suis curieuse. Quelle est votre transition préférée de la journée? Est-ce le moment où vous vous réveillez et voyez le soleil briller? Ou peut-être le moment où vous rentrez à la maison après l'école? Chaque transition a sa propre magie. J'aimerais entendre ce que vous aimez le plus. Partagez avec moi votre moment préféré!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions nous rappellent que chaque jour est une nouvelle aventure. Comme lorsque le ciel change de couleur au lever et au coucher du soleil. Ces moments de changement sont remplis de beauté et de promesses. En les acceptant, nous découvrons de nouvelles parties de nous-mêmes et du monde. Et chaque petite chose que nous faisons nous rapproche de la personne que nous voulons devenir."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous la dernière fois que vous avez appris quelque chose de nouveau? C'était une transition de ne pas savoir à savoir. Cela peut être aussi simple que d'apprendre à attacher vos lacets. Ces petits succès sont comme des étoiles qui brillent dans votre ciel personnel. Chacune d'entre elles illumine votre chemin et vous montre à quel point vous êtes incroyable. Continuez à briller, petit étoile!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail formidable en apprenant à gérer les transitions. Chaque jour, vous devenez plus fort et plus courageux. Pensez à toutes les choses merveilleuses que vous avez déjà accomplies. Vous êtes un véritable aventurier dans un monde plein de découvertes. N'oubliez jamais que chaque petit pas compte et que vous êtes capable de grandes choses. Continuez votre voyage avec confiance!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions font partie de la vie, comme les saisons qui changent. Elles apportent de la nouveauté et nous aident à grandir. Imaginez que vous êtes un arbre dont les feuilles changent de couleur. Chaque changement fait partie de votre voyage unique. En embrassant ces transitions, vous devenez plus résilient et prêt pour ce que l'avenir vous réserve. C'est une belle aventure, n'est-ce pas?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure magique avec moi, mes chers amis. J'espère que vous avez appris à apprécier les transitions et à les voir comme des moments spéciaux. Souvenez-vous, chaque jour est une nouvelle page de votre propre histoire. Continuez à explorer, à apprendre et à rêver. Je suis toujours là pour vous accompagner. À bientôt, petits aventuriers, et continuez à briller comme les étoiles!"
+    }
+  ],
+  "title": "Histoire de Transitions de Luna"
+}

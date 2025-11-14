@@ -1,0 +1,98 @@
+{
+  "id": "super_metal_hero_bedtime_story",
+  "character": "Super Metal Hero",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño aventurero! Soy Super Metal Hero y hoy vamos a embarcarnos en una increíble aventura sobre la hora de dormir. ¿Estás listo para descubrir todos los secretos para un buen descanso? Dormir bien es muy importante para que puedas tener energía para jugar y aprender cosas nuevas. Estoy aquí para ayudarte a entender por qué la hora de dormir puede ser tan divertida y especial. ¡Vamos a empezar esta aventura juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos listos, hablemos de por qué es importante tener una rutina antes de dormir. Tener una rutina te ayuda a relajarte y a prepararte para un sueño reparador. Por ejemplo, puedes empezar recogiendo tus juguetes, lo que también ayuda a que tu habitación esté ordenada. Luego, puedes ponerte tu pijama favorito, que te hace sentir cómodo y listo para descansar. Todas estas actividades te dicen a ti y a tu cuerpo que es hora de descansar."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Una parte importante de la rutina antes de dormir es cepillarse los dientes. Cepillarse los dientes no solo mantiene tu boca saludable, sino que también es una señal de que el día está llegando a su fin. Puedes hacerlo divertido eligiendo un cepillo de dientes con tus colores favoritos. Además, cantar una canción mientras te cepillas hace que el tiempo pase volando. Así, tus dientes estarán limpios y brillantes, listos para sonreír mañana."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora, vamos a practicar una actividad que te ayudará a relajarte aún más. Vamos a respirar profundamente juntos. Inhala contando hasta tres y luego exhala contando hasta tres. Esto ayuda a calmar tu mente y a preparar tu cuerpo para dormir. Puedes imaginar que eres un superhéroe que necesita recargar energía para el día siguiente. ¡Tú puedes hacerlo, pequeño héroe!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos también lo importante que es leer un cuento antes de dormir. Leer un cuento es como una pequeña aventura antes de cerrar los ojos. Puedes elegir un libro con tus personajes favoritos o una historia nueva que te intrigue. Mientras lees, puedes imaginar todos los colores y sonidos en tu mente. Esto no solo es divertido, sino que también te ayuda a relajarte y a disfrutar del momento."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, pensemos en cómo podemos hacer que nuestra habitación sea un lugar tranquilo para dormir. Puedes comenzar apagando las luces fuertes y encendiendo una luz tenue o una lamparita. También es bueno asegurarse de que no haya ruidos fuertes que puedan molestarte. Puedes usar una manta suave que te haga sentir cálido y seguro. Todo esto ayuda a que tu espacio sea perfecto para descansar."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Excelente! Estás aprendiendo mucho sobre cómo prepararte para dormir. Ahora, pensemos en algo agradable antes de cerrar los ojos. Puedes imaginar un lugar que te guste mucho, como un parque o la playa. Visualiza los colores y sonidos, y cómo te sientes allí. Esto te ayudará a tener sueños felices y a despertar con una sonrisa. ¡Estoy seguro de que puedes hacerlo!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda también que es importante acostarse a la misma hora todas las noches. Esto ayuda a tu cuerpo a acostumbrarse a un horario y a saber cuándo es hora de descansar. Puedes usar un reloj o pedirle a un adulto que te avise cuando es hora de ir a la cama. Así, cada noche será más fácil relajarte y dormir bien. Dormir a la misma hora te hace sentir más descansado al día siguiente."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos sobre lo que no debemos hacer antes de dormir. Evita jugar con aparatos electrónicos como tabletas o teléfonos justo antes de acostarte. La luz que emiten puede hacer que sea más difícil para tu cerebro relajarse. En lugar de eso, prueba actividades tranquilas como leer o dibujar. Esto ayuda a que tu mente esté tranquila y lista para dormir. Recuerda, un superhéroe siempre cuida su descanso."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo fantástico! Vamos a recordar lo importante que es tener pensamientos positivos antes de dormir. Piensa en algo bueno que sucedió hoy o en algo que te gustaría hacer mañana. Puedes imaginar que eres un superhéroe que ha tenido un día lleno de aventuras y que ahora necesita descansar. Esto te ayudará a sentirte feliz y tranquilo antes de dormir. ¡Eres increíble!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme cuál es tu parte favorita de tu rutina antes de dormir? Quizás te gusta cuando lees un cuento o cuando te cepillas los dientes. O tal vez disfrutas de cuando te pones tu pijama favorito. Cada parte es especial y te ayuda a prepararte para un buen descanso. Me encantaría saber qué es lo que más te gusta hacer."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos aprendido tanto sobre la hora de dormir, recordemos que descansar bien nos hace más fuertes y felices. Dormir es como una recarga de energía para que puedas jugar, aprender y disfrutar al máximo. Cada noche es una oportunidad para soñar y crecer. Mañana será otro día lleno de aventuras y nuevas oportunidades. ¡Descansar bien es la clave para ser un gran superhéroe!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas cuando hablamos sobre la importancia de tener una rutina? Puedes compartir lo que has aprendido con tus amigos o familiares. Tal vez puedas ayudarlos a crear su propia rutina de sueño. Compartir lo que sabes es una forma de ser un superhéroe en la vida de los demás. ¡Es genial poder ayudar a otros a descansar bien también!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer hablar contigo sobre la importancia de la hora de dormir. Recuerda que siempre estaré aquí para ayudarte a ser el mejor superhéroe que puedas ser. Ahora es momento de cerrar los ojos y dejar que los sueños te lleven a lugares maravillosos. Mañana será otro día para aprender y jugar. ¡Duerme bien, pequeño aventurero, y hasta pronto!"
+    }
+  ],
+  "title": "Historia de Bedtime de Super Metal Hero"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "boots_knight_pal_emotional_regulation_story",
+  "character": "Boots Knight Pal",
+  "topic": "emotional_regulation",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Boots Knight Pal. Bugün birlikte duygularımızı nasıl daha iyi anlayabileceğimizi ve onları nasıl kontrol edebileceğimizi keşfedeceğiz. Bu harika bir yolculuk olacak, hazır mısın? Seninle bu maceraya atılmak için sabırsızlanıyorum. Hadi başlayalım ve birlikte neler başarabileceğimize bir göz atalım."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygular, bizim içimizdeki renkli baloncuklar gibidir. Bazen mutluyuz, bazen üzgün, bazen de kızgın olabiliriz. Ama bu duygular her zaman bizimle ve onları anlamak çok önemli. Mesela, bir oyuncak paylaşmak istemediğimizde hissettiğimiz kızgınlık, aslında içimizdeki bir baloncuk gibi. Bu baloncuğu nasıl kontrol edebileceğimizi öğrenmek, bizi daha mutlu yapar."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, duygularımızı nasıl kontrol edebileceğimizi öğrenelim. İlk olarak, derin bir nefes almak bize çok yardımcı olabilir. Üç kez derin nefes alıp verdiğimizde, zihnimiz daha sakin olur. Hadi birlikte deneyelim: Bir, iki, üç, nefes al ve ver. Harika! Her seferinde bu nefesi aldığında, içindeki baloncuk daha da küçülür."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen harikasın! Şimdi, bir sonraki adımda, hissettiğimiz duyguyu tanımlayalım. Örneğin, üzgün olduğumuzda, 'Ben şu an üzgünüm' diyebiliriz. Bu şekilde duygumuzu adlandırmak, onu daha iyi anlamamıza yardımcı olur. Bunu yapmak, kendimize ve etrafımızdakilere nasıl hissettiğimizi göstermenin cesur bir yoludur. Sen de bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede nefes almayı ve duygularımızı adlandırmayı öğrendik. Şimdi, bu duygularla nasıl başa çıkabileceğimizi düşünelim. Mesela, bir arkadaşımızla oyun oynarken kızdığımızda, biraz durup düşünmek iyi olabilir. 'Bu oyunun başka bir yolu var mı?' diye sormak, hem kendimizi hem de arkadaşımızı daha iyi hissettirebilir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, bir oyun zamanı! Haydi, duygularımızı bir renk olarak hayal edelim. Mesela, mutluluk sarı olabilir, kızgınlık kırmızı ve üzüntü mavi. Her bir duyguyu bir renk olarak düşündüğümüzde, onları daha kolay anlayabiliriz. Hadi birlikte düşünelim: Senin mutluluk rengin ne olurdu?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin duyguların hangi renklerde olurdu merak ediyorum. Belki de kızgınlık kırmızı, mutluluk sarı ya da üzüntü mavi olabilir. Senin rengin ne olurdu? Düşün ve bana söyle. Hangi renkleri seçtiğinizi çok merak ediyorum."
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Harika seçimler yaptın! Duygularımızı renklerle ifade etmek, onları daha iyi anlamamıza yardımcı olabilir. Bir önceki konuşmamızda, duygularımızı tanımlamayı ve nefes almayı öğrenmiştik. Şimdi, bu renkleri kullanarak duygularımızı daha da iyi kontrol edebiliriz. Bu renkler, bizim duygusal dünyamızın haritası gibi."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Seninle gurur duyuyorum! Duygularını bu kadar iyi anladığın için seni tebrik ediyorum. Şimdi, bu bilgileri günlük hayatında nasıl kullanabileceğini düşünelim. Mesela, bir dahaki sefere üzgün hissettiğinde, mavi baloncuğunu nasıl küçülteceğini hatırla. Sen bunu yapabilirsin, çünkü çok güçlüsün!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede duygularımızı nasıl kontrol edebileceğimizi konuştuk. Şimdi, duygularımızı paylaşmanın neden önemli olduğunu keşfedelim. Duygularımızı arkadaşlarımızla veya ailemizle paylaştığımızda, onlar da bize yardımcı olabilir. Bu, hem bizim hem de onların daha iyi hissetmesini sağlar. Duygularımızı paylaşmak, cesaretli bir davranıştır."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, bir düşünce deneyi yapalım. Bir arkadaşınla paylaşmak istediğin bir duygu düşün. Bu duygu, belki seni mutlu eden bir şey ya da biraz üzen bir olay olabilir. Bu duyguyu nasıl paylaşabileceğini düşün. Belki ona bir resim çizerek ya da bir hikaye anlatarak. Duygularını paylaşmanın birçok yolu var!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bir arkadaşına veya ailene hangi duygunu paylaşmak istersin? Bunu nasıl yapacağını düşündün mü? Belki bir resim çizersin ya da bir hikaye anlatırsın. Senin paylaşımını çok merak ediyorum. Nasıl hissettiğini paylaşmak harika bir şey!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ne güzel fikirler! Duygularını paylaşmak, onları daha iyi anlamamıza ve başkalarıyla bağ kurmamıza yardımcı olur. Bir önceki konuşmamızda duygularımızı renklerle ifade etmiştik. Şimdi, bu renkleri ve duyguları nasıl paylaşabileceğimizi düşünüyoruz. Duygularımızı paylaşmak, bizim güçlenmemizi sağlar."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen harika bir iş çıkardın! Duygularını tanımak ve paylaşmak konusunda çok yol kat ettin. Şimdi, bu öğrendiklerini her gün kullanabilirsin. Duygularını tanı, nefes al ve paylaş. Bu üç adım, seni daha mutlu ve güçlü yapacaktır. Seninle bu yolculuğa çıkmak çok güzeldi!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık! Duygularımızı tanımak ve onlarla başa çıkmak konusunda çok şey öğrendik. Seninle bu macerayı paylaşmak beni çok mutlu etti. Unutma, duygularını her zaman tanı ve paylaş. Bir sonraki maceramızda görüşmek üzere, küçük dostum. Hoşça kal!"
+    }
+  ],
+  "title": "Boots Knight Pal'ın Emotional Regulation Hikayesi"
+}

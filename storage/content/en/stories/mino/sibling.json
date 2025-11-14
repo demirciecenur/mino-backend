@@ -1,0 +1,104 @@
+{
+  "id": "mino_sibling_story",
+  "character": "Mino",
+  "topic": "sibling",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little explorer! I'm Mino, your space friend, and today we're going on a joyful adventure all about siblings. Do you have a brother or a sister? Siblings can be our very first friends in the universe! They play with us, share with us, and sometimes, they even teach us new things. Are you ready to discover the wonders of having a sibling? Let's get started on this exciting journey!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Having a sibling is like having a buddy who is always close by. You can play games together, like tag or hide and seek, and even create your own space adventures at home. Sometimes, siblings can be a bit different from us, which makes playing together even more fun. You might like building blocks, while your sibling enjoys drawing, but together, you can create amazing things. Isn't it wonderful to have someone special to share your day with?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about sharing. Sharing is a big part of being a great sibling. When you share your toys or snacks, it makes your sibling feel happy and loved. Imagine if you had two yummy cookies, and you gave one to your brother or sister. They would feel so grateful! Sharing shows that you care about them and want them to be happy too. Next time, try sharing something you love with your sibling and see how it makes them smile."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking about sharing! Remember, even when it's hard to share, you're doing something very special. It's like being a superhero of kindness. Let's practice together: picture your favorite toy and imagine giving it to your sibling for a turn. How does that make you feel? Wonderful! You can do it, and your sibling will appreciate it so much. Keep being the amazing, caring sibling you are!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Playing with siblings can be an adventure every day. You can pretend to be astronauts exploring a new planet or chefs cooking up a storm in your very own kitchen. The possibilities are endless when you use your imagination together. Sometimes, you might have different ideas, but that's okay! It's fun to listen to your sibling's ideas and try new things. Together, you can create the best adventures in the universe!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about sharing and playing together? Now, let's think about how we can solve problems with our siblings. Sometimes, we might disagree on what game to play or who gets the first turn. But don't worry, because solving problems is another adventure! You can take turns choosing games or find a new game you both want to play. Being patient and listening to each other helps everyone have fun. Let's try it next time!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's talk about helping each other. Siblings can be great helpers, just like you! If your sibling is feeling sad, you can cheer them up with a hug or a funny story. If they need help with their homework, you can work together and learn new things. Helping makes both of you feel good inside, like sunshine on a rainy day. Being there for each other makes your bond stronger and your adventures even more fun."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you helped your sibling? Maybe you helped them find their lost toy or shared your snack when they were hungry. How did it make you feel? Helping and caring for each other is a big part of being a sibling. It's like being a team, where everyone plays an important role. What else can you do to help your sibling today? Let's think of some ideas together!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about celebrating each other's successes. When your sibling does something great, like drawing a beautiful picture or winning a game, it's wonderful to cheer them on. You can say, 'Great job!' or give them a high five. Celebrating together makes achievements even more special and shows your sibling that you're proud of them. It's like adding a sprinkle of magic to their day. So, next time your sibling does something amazing, let's celebrate together!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn about taking turns. Taking turns is important when playing games or using toys. It means that everyone gets a chance to enjoy and have fun. You can use a timer or count to a number, like ten, to know when it's time to switch. Taking turns shows fairness and respect for each other's time. Next time you play, try taking turns and see how it makes the game more enjoyable for everyone."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning about being a great sibling! Remember, it's okay to have different opinions or want to do different things. What's important is that you listen to each other and find ways to play and share together. You are a wonderful sibling, and your kindness and care make a big difference. Keep up the great work, and your sibling will love spending time with you even more!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about saying sorry. Sometimes, we might accidentally hurt our sibling's feelings or take their toy without asking. When that happens, saying sorry is like giving a big hug to their heart. It shows that you care and want to make things better. You can say, 'I'm sorry for taking your toy. Can we play together?' Saying sorry helps fix little problems and makes your bond even stronger. Remember, everyone makes mistakes, but saying sorry helps us learn and grow."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever had to say sorry to your sibling? How did it feel afterward? Saying sorry can be hard, but it shows that you are brave and kind. It helps your sibling know that you care about their feelings. What other ways can you show your sibling that you care? Let's think about how we can be kind and thoughtful every day. You are doing such a great job!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Finally, let's talk about the special bond you share with your sibling. It's like a magical connection that grows stronger with every adventure, every shared laugh, and every moment you care for each other. This bond is something you can cherish forever. As you grow, you'll have so many wonderful memories to look back on. Remember, being a sibling means being a friend for life. Isn't that amazing?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this adventure about siblings! I hope you've learned lots about sharing, caring, and playing together. Remember, being a sibling is a special journey filled with love and laughter. Keep being the wonderful sibling you are, and your adventures will always be out of this world. Until next time, my little explorer, keep shining bright like the stars! Goodbye!"
+    }
+  ],
+  "title": "Mino's Sibling Relationships Story"
+}

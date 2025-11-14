@@ -1,0 +1,104 @@
+{
+  "id": "ocean_dreamer_moa_friendship_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Moa, la Soñadora del Océano. Hoy, vamos a embarcarnos en una aventura maravillosa sobre la amistad. ¿Estás listo? Estoy muy emocionada de explorar contigo y aprender sobre cómo hacer amigos. La amistad es como el océano, grande y lleno de sorpresas. ¡Vamos a descubrirlo juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad es algo muy especial. Es como tener un compañero de aventuras que siempre está a tu lado. ¿Te imaginas tener a alguien con quien jugar todos los días? Los amigos son esos compañeros que te hacen sentir feliz y te ayudan cuando lo necesitas. Como cuando construyes un castillo de arena y necesitas más manos para hacerlo más grande. ¡Eso es lo que hacen los amigos!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de cómo podemos hacer nuevos amigos. Primero, siempre es bueno sonreír y decir 'hola'. Una sonrisa puede hacer que alguien se sienta bienvenido y feliz. También es importante escuchar a los demás, como cuando escuchas el sonido de las olas. ¿Y sabes qué más? Compartir tus juguetes o tus ideas también es una gran manera de empezar una nueva amistad."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Tú puedes hacer amigos maravillosos! Solo necesitas ser amable y siempre estar dispuesto a ayudar. Cuando ves a alguien que parece solo, ¿por qué no invitarlo a jugar contigo? Recuerda que todos pueden ser amigos si eres sincero y amable. ¡Vamos a intentarlo la próxima vez que veamos a alguien nuevo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¿Recuerdas cuando hablamos de compartir? Compartir es una parte importante de la amistad. Imagina que tienes una caja de colores y tu amigo quiere pintar contigo. Si compartes tus colores, ambos pueden crear una obra de arte juntos. Así es como la amistad se vuelve más fuerte, cuando compartimos momentos y cosas especiales con los demás."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a practicar un ejercicio de amistad. Cierra los ojos e imagina que estás en la playa con tu mejor amigo. ¿Qué cosas divertidas harías juntos? Quizás construirían un castillo de arena o buscarían conchas. Al abrir los ojos, piensa en cómo puedes invitar a un amigo a hacer esas cosas contigo la próxima vez. ¡Es divertido imaginar y luego hacerlo realidad!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Recuerda que la amistad también significa ser un buen amigo. Esto quiere decir que debemos ser honestos y cuidar de nuestros amigos. Cuando un amigo está triste, podemos ofrecerle un abrazo o escuchar lo que le preocupa. Así, ellos sabrán que pueden contar contigo siempre."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablando de amigos, ¿tienes un amigo especial con quien te gusta jugar? Los amigos especiales son aquellos con quienes compartimos nuestras aventuras más emocionantes. Como cuando sales a explorar un nuevo lugar o descubres un nuevo juego. Estos amigos siempre están listos para divertirse contigo y crear recuerdos inolvidables."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que conocemos más sobre la amistad, ¿te gustaría contarme sobre un amigo tuyo? Me encantaría saber cómo se divierten juntos. A veces, hablar sobre nuestros amigos nos hace apreciarlos aún más. ¡Porque cada amigo es único y especial a su manera!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a aprender un truco para recordar ser un buen amigo. Cada vez que veas a un amigo, piensa en tres cosas que puedes hacer para que se sientan felices. Puede ser un saludo, un juego divertido o simplemente escuchar. Practicar estas cosas hace que nuestra amistad crezca y sea más fuerte cada día."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría tener más amigos? ¿Cómo crees que puedes conocer nuevos amigos? Podemos pensar en actividades, como unirse a un club o participar en juegos grupales. A veces, simplemente ser tú mismo puede atraer a nuevos amigos que comparten tus intereses. ¿Qué piensas de esto?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Recuerda siempre que ser un buen amigo también significa respetar a los demás. Todos somos diferentes y eso es lo que nos hace especiales. Respetar las diferencias de nuestros amigos es una gran parte de la amistad. ¡Abraza esas diferencias y aprende de ellas!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, los amigos pueden tener pequeñas discusiones, y eso está bien. Lo importante es aprender a resolverlas. Hablar sobre cómo te sientes y escuchar al otro puede ayudar a entenderse mejor. Así, la amistad sigue creciendo y se vuelve más fuerte con cada desafío superado juntos."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas alguna vez que resolviste un problema con un amigo? Estas experiencias nos enseñan mucho sobre cómo ser un buen amigo. Resolver problemas juntos nos hace más cercanos y nos ayuda a entendernos mejor. ¡Eso es algo maravilloso de la amistad!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido increíble hablar sobre la amistad contigo hoy. Espero que hayas aprendido algo nuevo y emocionante. Recuerda que la amistad es como un océano lleno de aventuras. Estoy muy feliz de haber compartido este tiempo contigo. ¡Hasta la próxima, amigo! ¡Sigue explorando y haciendo nuevos amigos!"
+    }
+  ],
+  "title": "Historia de Friendship de Ocean Dreamer Moa"
+}

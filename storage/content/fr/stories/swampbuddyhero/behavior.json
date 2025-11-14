@@ -1,0 +1,98 @@
+{
+  "id": "swamp buddy hero_behavior_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis ! Je suis Swamp Buddy Hero, votre compagnon du marais. Aujourd'hui, nous allons explorer quelque chose de très important : le comportement. Êtes-vous prêts pour cette aventure palpitante ? Je suis sûr que nous allons apprendre beaucoup ensemble. Alors, mettons-nous en route !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le comportement, c'est la façon dont nous agissons chaque jour. Par exemple, dire 'bonjour' avec un grand sourire est un bon comportement. Cela rend les autres heureux et montre que nous sommes gentils. Est-ce que vous aimez quand quelqu'un vous sourit ? Moi, j'adore ça !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des règles. Les règles nous aident à savoir ce qui est bien de faire. Comme par exemple, se brosser les dents avant de dormir. Cela garde nos dents fortes et en bonne santé. Est-ce que vous vous brossez les dents tous les soirs ? Bravo si vous le faites !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous savez, suivre les règles peut aussi être amusant. Par exemple, ranger ses jouets après avoir joué. Cela fait de la place pour jouer à nouveau le lendemain ! Voulez-vous essayer de ranger avec moi ? Je suis sûr que vous pouvez le faire !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de sourire ? Eh bien, être poli fait aussi partie du bon comportement. Dire 'merci' et 's'il te plaît' montre que nous respectons les autres. Et ça fait du bien de recevoir un merci, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, pensons aux moments où nous devons attendre notre tour. Comme lors d'une file d'attente pour la balançoire. Attendre patiemment est très important. Cela montre que nous sommes respectueux des autres qui attendent aussi. Vous pouvez le faire, j'en suis sûr !"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Parfois, il est difficile d'attendre, mais nous pouvons rendre ça amusant. Comptons ensemble jusqu'à cinq pendant que nous attendons. Un, deux, trois, quatre, cinq ! Vous voyez, le temps passe vite quand on s'amuse. Super boulot !"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant du partage. Quand nous partageons nos jouets ou nos idées, tout le monde peut participer au jeu. C'est comme partager un gâteau, tout le monde en a une part et tout le monde est content. Partager rend les moments plus joyeux !"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Vous souvenez-vous de la dernière fois que vous avez partagé quelque chose ? Comment vous êtes-vous senti ? C'était agréable, n'est-ce pas ? Le partage est un moyen de montrer que nous nous soucions des autres."
+    },
+    {
+      "id": "question_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà aidé quelqu'un aujourd'hui ? Peut-être avez-vous aidé à mettre la table ou à ramasser un jouet ? L'aide est une façon merveilleuse de montrer un bon comportement. Ça fait du bien de savoir que nous avons fait plaisir à quelqu'un, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lorsque nous faisons des erreurs, il est important de s'excuser. Tout le monde fait des erreurs, et dire 'je suis désolé' montre que nous voulons nous améliorer. Vous voyez, s'excuser peut rendre les choses meilleures pour tout le monde."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons ensemble. Imaginez avoir accidentellement renversé du lait. Que diriez-vous ? 'Je suis désolé, je vais nettoyer.' C'est un excellent moyen de montrer que nous sommes responsables. Vous pouvez le faire, je le sais !"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez déjà fait un travail fantastique aujourd'hui. Se souvenir de toutes ces choses rendra votre journée encore plus belle. Continuez comme ça, vous êtes incroyable ! Je suis tellement fier de vous."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce temps avec moi, mes chers amis. J'espère que vous avez appris beaucoup sur le bon comportement. N'oubliez pas, chaque petit geste compte. À bientôt, et continuez à être formidables !"
+    }
+  ],
+  "title": "Histoire de Behavior de Swamp Buddy Hero"
+}

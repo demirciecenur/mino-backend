@@ -1,0 +1,104 @@
+{
+  "id": "funny_bunny_behavior_story",
+  "character": "Funny Bunny",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostlarım! Ben Funny Bunny, hepinizle tanışmak için sabırsızlanıyorum. Bugün birlikte davranışlar hakkında konuşacağız, hazır mısınız? Davranışlar, nasıl davrandığımızı ve başkalarına nasıl davrandığımızı anlatır. Eğlenceli bir yolculuğa çıkmaya ne dersiniz? Haydi başlayalım, bakalım neler öğreneceğiz!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Davranışlar, başkalarıyla nasıl iyi geçineceğimizi ve kendimizi nasıl rahat hissettireceğimizi belirler. İyi davranışlar, arkadaşlarımızla daha iyi anlaşmamıza yardımcı olur. Örneğin, bir arkadaşımıza 'lütfen' ve 'teşekkür ederim' demek, onunla daha iyi bir ilişki kurmamıza yardımcı olabilir. Ayrıca, oyuncaklarımızı paylaşmak da iyi bir davranış örneğidir. Haydi, şimdi birlikte davranışların önemini keşfedelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "İyi davranışlar nasıl öğrenilir, biliyor musunuz? İlk olarak, iyi bir dinleyici olmak çok önemlidir. Başkalarını dinlemek, onların ne düşündüğünü ve hissettiğini anlamamıza yardımcı olur. Ayrıca, empati kurarak, başkalarının yerine kendimizi koyabiliriz. Böylece, onlara nasıl yardımcı olabileceğimizi daha iyi anlarız. Şimdi, bir sonraki adımda empatiyi nasıl geliştirebileceğimizi öğreneceğiz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Empati kurmak için, karşımızdaki kişinin ne hissettiğini anlamaya çalışmalıyız. Örneğin, bir arkadaşınız üzgün olduğunda, ona nasıl yardımcı olabilirsiniz? Belki de onu neşelendirmek için bir şaka yapabilirsiniz. Veya, ona sevdiği bir oyuncağı ödünç verebilirsiniz. Harika! Siz de empati kurarak, başkalarına yardım edebilirsiniz. Şimdi, empati hakkında daha fazla şey öğrenelim."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda empati kurmanın önemini öğrendik. Şimdi, günlük hayatta nasıl daha iyi davranışlar sergileyebiliriz, buna bakalım. Örneğin, sabahları annemize ya da babamıza 'günaydın' demek güzel bir başlangıç olabilir. Ayrıca, yemek masasında yemek yerken, sessiz ve düzenli olmak da iyi bir davranış örneğidir. Bunlar, ailemizi ve arkadaşlarımızı mutlu edebilir. Haydi, şimdi başka davranışlar keşfedelim."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Günlük hayatta iyi davranışlar sergilemek için bazı kurallara uymamız gerekir. Örneğin, oyuncaklarımızı toplamak, odamızı temiz tutmak gibi. Bu tür davranışlar, hem kendimize hem de çevremize saygı göstermemizi sağlar. Ayrıca, başkalarının eşyalarına zarar vermemek de önemlidir. Şimdi, bu kurallara nasıl uyabileceğimizi daha detaylı inceleyelim."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kurallara uymak, hayatımızı daha düzenli ve mutlu hale getirir. Mesela, dişlerimizi fırçalamak, sağlığımız için çok önemlidir. Her sabah ve akşam dişlerimizi fırçalayarak, sağlıklı kalabiliriz. Ayrıca, okulda öğretmenimizi dinlemek ve kurallara uymak da önemlidir. Bu şekilde, hem kendimize hem de çevremize faydalı olabiliriz. Şimdi, birlikte bu kurallara nasıl uyabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sizce iyi davranışlar sergilemek neden önemlidir? Belki de başkalarıyla iyi arkadaşlıklar kurmamıza yardımcı olabilir. Ya da, kendimizi ve başkalarını daha mutlu edebiliriz. Siz ne düşünüyorsunuz? İyi davranışlar sergilemek, hayatımızı nasıl daha güzel yapabilir? Birlikte düşünelim ve cevaplarınızı duymak için sabırsızlanıyorum."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede iyi davranışların önemini tartıştık. Şimdi, başkalarına nasıl örnek olabiliriz, buna bakalım. Örneğin, sıraya girmek, başkalarına saygı gösterdiğimizi gösterir. Ayrıca, başkalarına yardım etmek, onların da iyi davranışlar sergilemesine ilham verebilir. Siz de başkalarına örnek olarak, onların iyi davranışlar sergilemesine yardımcı olabilirsiniz. Şimdi, birlikte daha fazla örnek keşfedelim."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Başkalarına örnek olmak için, önce kendimize dikkat etmeliyiz. Örneğin, söz verdiğimiz şeyleri yerine getirmek önemlidir. Bu, başkalarına güven vermemizi sağlar. Ayrıca, yalan söylememek ve her zaman doğruyu söylemek de önemlidir. Bu şekilde, başkalarına dürüst bir şekilde örnek olabiliriz. Şimdi, dürüstlük hakkında daha fazla şey öğrenelim."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dürüst olmak, başkalarına güven vermemizin en iyi yoludur. Mesela, bir arkadaşımıza yanlışlıkla zarar verdiğimizde, hemen özür dilemek önemlidir. Bu, onunla olan ilişkimizi güçlendirir. Ayrıca, dürüst olmak, kendimize de saygı duymamızı sağlar. Siz de dürüst olarak, hem kendinize hem de başkalarına fayda sağlayabilirsiniz. Şimdi, dürüstlüğün başka faydalarına bakalım."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Dürüstlüğün faydalarını öğrendik, değil mi? Şimdi, bu bilgileri günlük hayatımızda nasıl kullanabiliriz, buna bakalım. Örneğin, bir arkadaşımıza doğruyu söylemek, onunla daha iyi bir ilişki kurmamıza yardımcı olur. Ayrıca, kendimize karşı da dürüst olmalıyız. Yani, hatalarımızı kabul etmek ve onlardan ders almak önemlidir. Siz de dürüstlükle, hayatınızı daha iyi hale getirebilirsiniz. Haydi, birlikte düşünelim."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dürüst olmak neden önemlidir, sizce? Belki de başkalarıyla daha iyi ilişkiler kurmamıza yardımcı olur. Ya da, kendimize karşı daha dürüst olmamızı sağlar. Siz ne düşünüyorsunuz? Dürüstlük, hayatımızı nasıl daha iyi yapabilir? Cevaplarınızı merak ediyorum ve duymak için sabırsızlanıyorum."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda dürüstlüğün öneminden bahsettik. Şimdi, öğrendiklerimizi nasıl uygulayabileceğimize bakalım. Örneğin, bir problemle karşılaştığımızda, dürüstçe çözüm aramak önemlidir. Ayrıca, başkalarına da dürüst davranarak, onların güvenini kazanabiliriz. Siz de dürüst davranarak, çevrenize olumlu bir örnek olabilirsiniz. Haydi, birlikte daha fazla şey öğrenelim."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte çok şey öğrendik, değil mi? İyi davranışların ve dürüstlüğün önemini keşfettik. Siz de bu bilgileri günlük hayatınızda kullanarak, çevrenize güzel bir örnek olabilirsiniz. Unutmayın, iyi davranışlar ve dürüstlük, başkalarıyla olan ilişkilerimizi güçlendirir. Sizlerle konuşmak çok keyifliydi! Bir dahaki sefere görüşmek üzere, hoşça kalın!"
+    }
+  ],
+  "title": "Funny Bunny'ın Behavior Hikayesi"
+}

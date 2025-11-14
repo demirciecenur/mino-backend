@@ -1,0 +1,98 @@
+{
+  "id": "bubble_buddy_confidence_story",
+  "character": "Bubble Buddy",
+  "topic": "confidence",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy tu amigo Bubble Buddy y estoy muy feliz de estar aquí contigo hoy. Vamos a embarcarnos en una aventura submarina para aprender sobre la confianza. La confianza es como una burbuja mágica que nos hace sentir valientes y seguros. ¿Estás listo para explorar y descubrir cómo ser más valiente? ¡Vamos a divertirnos mucho mientras aprendemos juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confianza es algo muy especial que todos podemos tener. Es esa sensación que nos da valor para intentar cosas nuevas, como aprender a nadar o cantar una canción. Cuando creemos en nosotros mismos, podemos hacer cosas increíbles. ¿Alguna vez has intentado algo nuevo y te has sentido orgulloso? Eso es la confianza trabajando en ti. Ahora, vamos a descubrir cómo podemos aumentar esa confianza día a día."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para empezar a sentirnos más seguros, podemos practicar cosas pequeñas cada día. Por ejemplo, al cepillarte los dientes por ti mismo o al recoger tus juguetes después de jugar. Cada vez que haces algo por tu cuenta, tu confianza crece un poquito más. ¿No es maravilloso? Vamos a intentar recordar alguna pequeña cosa que hiciste hoy y que te hizo sentir orgulloso. ¡Eso es un gran paso hacia la confianza!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Ahora, vamos a hacer un pequeño ejercicio juntos. Respiremos profundamente tres veces. ¿Listo? Inhalamos por la nariz, y exhalamos por la boca. Uno, dos, tres. ¡Excelente! Este ejercicio nos ayuda a sentirnos más tranquilos y seguros. Siempre que te sientas un poquito nervioso, puedes hacer este ejercicio para calmarte. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas cuando hablamos de hacer cosas pequeñas por nuestra cuenta? ¡Eso nos lleva a nuestro próximo paso! Imagina que cada día es una nueva aventura. Cada cosa nueva que intentas es como descubrir un tesoro escondido. Y cada tesoro que encuentras te da más y más confianza. ¿Qué tesoro te gustaría encontrar mañana? ¡Piensa en algo emocionante!"
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en algunas personas que nos ayudan a sentirnos seguros. Pueden ser nuestros papás, maestros o amigos. Ellos siempre están ahí para apoyarnos y darnos ánimo. Cuando nos sentimos apoyados, nuestra confianza crece como una burbuja gigante. Así que no olvides agradecerles y decirles cuánto te ayudan. ¡Eso también te hará sentir bien!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos de cómo podemos animar a otros a sentirse confiados también. Podemos hacerlo diciendo palabras amables y ofreciendo ayuda cuando alguien la necesita. Cuando hacemos sentir bien a los demás, también nos sentimos bien nosotros. Es como compartir nuestra burbuja de confianza con ellos. ¿Quieres probarlo la próxima vez que veas a un amigo? ¡Seguro que lo harás genial!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora, vamos a imaginar que somos valientes exploradores submarinos. Cada vez que tratamos algo nuevo, estamos explorando un mundo de posibilidades. No importa si no sale perfecto la primera vez, lo importante es intentarlo. Así es como se construye la confianza, paso a paso. ¡Eres un explorador increíble y puedes lograr lo que te propongas!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme sobre una vez que te sentiste muy valiente? Tal vez fue cuando subiste a un tobogán alto o cuando probaste un nuevo alimento. Esas son las aventuras que nos hacen más fuertes. ¿Qué aventura te gustaría intentar ahora? ¡Estoy seguro de que será una experiencia maravillosa!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, podemos sentirnos un poco inseguros, y eso está bien. Es normal sentirnos así de vez en cuando. Pero recuerda, cada pequeña burbuja de confianza que construyes te ayuda a superar esos momentos. Siempre puedes hablar con alguien de confianza cuando te sientas así. Ellos pueden darte un abrazo y palabras de aliento. ¡Nunca estás solo!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a hacer un pequeño juego para fortalecer nuestra confianza. Vamos a contar hasta cinco mientras damos un aplauso con cada número. ¿Listos? Uno, dos, tres, cuatro, cinco. ¡Fantástico! Cada aplauso es un recordatorio de lo fuerte y valiente que eres. Puedes hacer este juego cada vez que necesites un impulso de confianza. ¡Es divertido y poderoso!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo hiciste muy bien! Recuerda que la confianza se construye poco a poco, como cuando creamos una torre de bloques. Cada bloque es una nueva experiencia que nos hace más fuertes. No te preocupes si la torre se tambalea un poco, siempre puedes reconstruirla. ¡Eres un constructor increíble de confianza!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarle a alguien sobre lo que aprendimos hoy? Compartir lo que sabemos también nos ayuda a sentirnos más seguros. ¿Quién crees que se beneficiaría de escuchar sobre nuestra aventura submarina de confianza? Piensa en alguien especial y cuando lo veas, ¡cuéntale todo lo que aprendiste!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "¡Ha sido una aventura maravillosa, amiguito! Espero que te sientas más confiado y listo para enfrentar cualquier cosa. Recuerda que siempre puedes contar conmigo, Bubble Buddy, para más aventuras submarinas. Siempre estaré aquí para animarte y explorar contigo. ¡Gracias por compartir este tiempo especial conmigo! Hasta la próxima aventura, ¡adiós!"
+    }
+  ],
+  "title": "Historia de Confidence de Bubble Buddy"
+}

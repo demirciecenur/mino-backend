@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_bedtime_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Tom, el Gato Travieso. Hoy vamos a embarcarnos en una aventura increíble sobre la hora de dormir. ¿Estás listo para aprender sobre cómo prepararnos para una noche de sueño reparador? Me encanta explorar cosas nuevas contigo. ¡Será divertido y relajante!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos sobre lo importante que es la hora de dormir. Dormir bien nos ayuda a sentirnos felices y llenos de energía al día siguiente. Es como cargar las baterías de un juguete. ¿No es genial? Cuando dormimos, nuestro cuerpo crece y se vuelve más fuerte. ¡Dormir es una gran aventura!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para prepararnos para dormir, primero necesitamos hacer algunas cosas importantes. Una de ellas es ponernos nuestro pijama favorito. ¿Tienes uno con tu personaje favorito? También es bueno cepillar nuestros dientes para que estén limpios y brillantes. ¡Así evitamos las caries y tenemos una sonrisa hermosa!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora, vamos a recoger nuestros juguetes. Guardar tus juguetes antes de dormir hace que tu habitación sea un lugar más agradable para descansar. ¿Puedes contar cuántos juguetes guardas? ¡Contemos juntos! Uno, dos, tres... ¡Muy bien!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Una vez que todo está en su lugar, es hora de una historia antes de dormir. ¿Te gusta escuchar cuentos de aventuras? Los cuentos nos llevan a lugares mágicos y nos ayudan a relajarnos. A mí me encanta imaginar que soy un valiente explorador. ¿Y a ti? ¡Es una forma divertida de terminar el día!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Después de la historia, podemos hacer un pequeño ejercicio de respiración. Inhalamos profundamente por la nariz y exhalamos lentamente por la boca. Vamos a intentarlo juntos. Inhala... y exhala... ¡Eso es! La respiración profunda nos ayuda a sentirnos tranquilos y listos para dormir."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Maravilloso! Ahora, podemos elegir un peluche para abrazar mientras dormimos. ¿Tienes un peluche favorito? Abrazar un peluche nos hace sentir seguros y cómodos. Es como tener un amigo especial que nos acompaña en nuestros sueños. ¡Qué bonito es eso!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda que la habitación debe estar oscura y silenciosa para dormir mejor. Si tienes una lamparita de noche, puedes encenderla para sentirte más tranquilo. A veces, una luz suave hace que la habitación se sienta más acogedora. ¿Te gusta tener una luz encendida?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabías que a veces contar ovejitas nos ayuda a dormir? ¡Es cierto! Imagina que saltan sobre una valla, una por una. ¿Quieres intentarlo? Contemos juntos: una ovejita, dos ovejitas, tres ovejitas... ¿Cuántas ovejitas puedes contar antes de quedarte dormido?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos cómo prepararnos para dormir, podemos pensar en el día que tuvimos. ¿Qué fue lo más divertido que hiciste hoy? Recordar cosas bonitas nos hace sentir agradecidos y felices. ¡Es una manera maravillosa de terminar el día!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Te gustaría contarme sobre tus sueños? A mí me encanta soñar con aventuras emocionantes y lugares mágicos. Los sueños son como historias que nuestra mente crea mientras dormimos. ¡Puede ser muy divertido compartirlos al día siguiente!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda que siempre es bueno ir a dormir a la misma hora. Esto ayuda a nuestro cuerpo a saber cuándo es hora de descansar. Como un reloj interno que nos dice que es momento de dormir. Tener una rutina nos hace sentir seguros y organizados. ¡Eso es muy importante!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo muy bien! Con cada paso, te estás convirtiendo en un experto en la hora de dormir. ¡Estoy muy orgulloso de ti! Recuerda que siempre puedes mejorar y hacer que tu rutina sea aún más divertida. ¡Sigue adelante!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme cuál es tu parte favorita de la rutina de dormir? Tal vez sea el cuento, el abrazo al peluche, o las respiraciones profundas. Cada parte es especial a su manera. ¡Me encantaría saber lo que más disfrutas!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bueno, mi pequeño amigo, es hora de que me despida. Espero que hayas aprendido mucho sobre cómo prepararte para dormir. Recuerda que siempre estaré aquí para ayudarte a tener dulces sueños. ¡Que tengas una noche maravillosa y un descanso reparador! ¡Hasta la próxima!"
+    }
+  ],
+  "title": "Historia de Bedtime de Sneaky Cat Tom"
+}

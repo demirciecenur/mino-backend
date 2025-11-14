@@ -1,0 +1,104 @@
+{
+  "id": "luna_nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables_story",
+  "character": "Luna",
+  "topic": "nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeños aventureros! Soy Luna, y hoy vamos a emprender un viaje mágico sobre la nutrición y cómo alimentarnos bien. ¿Están listos para descubrir un mundo lleno de frutas coloridas y verduras crujientes? ¡Qué emocionante es aprender sobre los alimentos que nos hacen crecer fuertes y felices! Imaginen un bosque encantado donde las zanahorias son varitas mágicas y las manzanas son tesoros brillantes. ¡Vamos a explorar juntos este maravilloso mundo de la alimentación saludable!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en nuestro desayuno. ¿Sabían que comenzar el día con un desayuno saludable es como darle un gran abrazo a nuestro cuerpo? Cuando comemos cosas como avena con frutas o un vaso de leche, le damos a nuestro cuerpo la energía que necesita para jugar y aprender. Imaginen que están en una aventura y necesitan fuerzas para trepar montañas. ¡Un buen desayuno es el secreto para tener esa energía mágica! Así que siempre recuerden empezar el día con algo delicioso y nutritivo."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora vamos a aprender sobre las frutas y verduras, que son como pequeños superhéroes para nuestro cuerpo. ¿Sabían que las zanahorias nos ayudan a ver mejor en la oscuridad? ¡Es como si tuviéramos ojos mágicos! Y las espinacas nos dan fuerza, igual que a un personaje de cuento. Cuando comemos una variedad de colores en nuestras frutas y verduras, le damos a nuestro cuerpo diferentes tipos de vitaminas y minerales. ¡Es como tener un arcoíris de salud en nuestro plato!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ahora es tu turno! ¿Por qué no intentas contar cuántos colores diferentes puedes encontrar en tu plato de frutas y verduras? ¿Hay rojo, verde, amarillo? ¡Cuantos más colores, mejor! Es como pintar un cuadro hermoso que también te hace más fuerte y saludable. Y no te preocupes si no te gustan todas las verduras de inmediato. A veces, hay que probarlas varias veces para que nos gusten. ¡Así que sigue intentándolo, lo estás haciendo genial!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablemos de algo muy importante: el agua. ¿Sabías que el agua es como una poción mágica que nos mantiene hidratados y felices? Beber suficiente agua durante el día nos ayuda a sentirnos bien y a pensar con claridad. Imagina que eres un árbol en un bosque mágico. Necesitas agua para crecer y mantener tus hojas verdes. Así que recuerda beber agua a lo largo del día, especialmente cuando juegas mucho o hace calor."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora, recordemos lo que aprendimos sobre el agua. ¿Cuántos vasos de agua crees que deberíamos beber cada día? ¡Vamos a contarlos! Uno, dos, tres, cuatro, cinco, y más si es necesario. Beber agua es tan importante como comer frutas y verduras. ¡Es una parte esencial de nuestra aventura diaria hacia una vida saludable! Así que no olvides tu botella de agua cuando salgas a jugar."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora hablemos sobre los momentos especiales en los que comemos juntos, como en familia. Compartir una comida es como contar una historia mágica. En la mesa, podemos hablar sobre nuestro día y aprender cosas nuevas de los demás. También es una oportunidad para probar nuevos sabores y texturas. Imagina que cada comida es una fiesta donde todos los alimentos son invitados especiales. ¡Qué divertido es descubrir nuevos platos y recetas juntos!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, intentemos algo divertido. ¿Te gustaría crear un plato mágico con tus alimentos favoritos? Puedes usar rodajas de plátano para hacer sonrisas y fresas para hacer corazones. ¿Qué otras formas puedes crear? Es una manera divertida de hacer que la comida sea emocionante y deliciosa. Recuerda siempre lavar tus manos antes de empezar, ¡así estarán listas para crear obras maestras comestibles!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué maravilloso es ver tu creatividad! Crear platos mágicos es una forma genial de disfrutar de la comida. Cada vez que comes, estás cuidando de tu cuerpo, dándole todo lo que necesita para crecer y estar fuerte. Así que sigue experimentando y divirtiéndote con tus comidas. ¡Eres un chef increíble y puedes hacer que cada comida sea una aventura mágica!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos sobre los dulces. Aunque son deliciosos, es importante comerlos con moderación. Los dulces son como pequeñas sorpresas que podemos disfrutar de vez en cuando, pero no todos los días. Imagina que son como las estrellas en el cielo, brillantes y especiales, pero no necesitamos muchas. Así que, cuando comas dulces, hazlo despacito y saborea cada bocado. ¡Así disfrutarás más y te sentirás mejor!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas cuando hablamos de las frutas y verduras como superhéroes? Bueno, los dulces son más como los personajes de cuento que aparecen de vez en cuando. Son especiales, pero no siempre necesarios en nuestro cuento diario. Así que, la próxima vez que tengas un antojo de dulces, piensa en qué otros alimentos mágicos puedes disfrutar. ¡Hay tantas opciones saludables que también son deliciosas!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablemos un poco sobre los momentos de descanso y cómo también son parte de una vida saludable. Dormir bien es tan importante como comer bien. Cuando dormimos, nuestro cuerpo se recarga, como una varita mágica que recupera su poder. Tener una rutina de sueño nos ayuda a crecer y a sentirnos felices. Imagina que cada noche es un viaje a un mundo de sueños donde puedes volar entre las estrellas. ¡Qué bonito es descansar bien!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gusta soñar? ¿Qué te gustaría soñar esta noche? Quizás volar sobre un bosque mágico o nadar en un mar de nubes. Dormir bien nos da la oportunidad de tener sueños hermosos y mágicos. Así que, antes de dormir, intenta relajarte y pensar en cosas bonitas. ¿Cuál es tu sueño favorito? ¡Estoy segura de que es maravilloso!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo increíble! Recuerda que cada pequeño paso que das hacia una vida saludable es importante. Comer bien, beber agua, descansar y disfrutar de tus comidas son partes mágicas de tu día. Sigue explorando y aprendiendo sobre la nutrición. Cada día es una nueva oportunidad para cuidar de ti mismo y de tu cuerpo. ¡Eres un aventurero valiente y estoy muy orgullosa de ti!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un viaje maravilloso, pequeños amigos. Aprendimos sobre la importancia de comer bien, beber agua y descansar. Recuerden que cada elección saludable que hacen es como una estrella que brilla en su camino. Estoy muy feliz de haber compartido este tiempo con ustedes. Ahora, sigan explorando y cuidándose. ¡Hasta la próxima aventura mágica, mis queridos aventureros! ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Nutrition de Luna"
+}

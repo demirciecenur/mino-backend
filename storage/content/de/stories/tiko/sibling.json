@@ -1,0 +1,104 @@
+{
+  "id": "tiko_sibling_story",
+  "character": "Tiko",
+  "topic": "sibling",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Tiko und heute gehen wir auf ein wunderbares Abenteuer über Geschwister. Weißt du, Geschwister können die besten Freunde sein, die man hat. Sie sind immer da, um mit dir zu spielen und Spaß zu haben. Bist du bereit, mehr über die Liebe und das Teilen zwischen Geschwistern zu erfahren? Ich bin so neugierig auf dich und deine Geschwister!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister zu haben ist wie ein aufregendes Abenteuer jeden Tag. Manchmal spielt man zusammen, manchmal streitet man sich, aber am Ende liebt man sich immer. Hast du auch einen Bruder oder eine Schwester? Vielleicht habt ihr ein gemeinsames Spielzeug oder ein lustiges Spiel, das ihr beide liebt. Wenn ja, dann weißt du, wie schön es ist, Dinge zu teilen und gemeinsam zu lachen."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Es ist wichtig, dass wir lernen, wie man teilt und sich um andere kümmert. Wenn du ein Spielzeug hast, das du liebst, versuche es mit deinem Geschwisterchen zu teilen. Stell dir vor, wie glücklich ihr beide sein werdet, wenn ihr zusammen spielen könnt. Teilen zeigt, dass du freundlich und großzügig bist. Und weißt du was? Es macht das Spielen noch viel mehr Spaß!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lass uns zusammen eine kleine Übung machen. Denk an dein Lieblingsspielzeug. Stell dir vor, wie du es deinem Bruder oder deiner Schwester gibst. Kannst du sehen, wie sie lächeln? Großartig! Das ist der Zauber des Teilens. Du kannst das! Und vergiss nicht, dass du genauso Freude empfinden wirst, wenn dein Geschwisterchen etwas mit dir teilt."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über das Teilen gesprochen haben, lass uns darüber reden, wie man zusammen spielen kann. Hast du ein Lieblingsspiel, das du mit deinem Geschwisterchen spielst? Vielleicht Verstecken oder Fangen? Wenn ihr zusammen spielt, könnt ihr neue Abenteuer erfinden und eure Fantasie nutzen. Jeder Tag ist eine neue Möglichkeit, etwas Spannendes zu erleben!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Manchmal kann es schwierig sein, sich mit Geschwistern zu verstehen. Vielleicht gibt es Streit um ein Spielzeug oder wer zuerst spielen darf. In solchen Momenten ist es wichtig, ruhig zu bleiben und miteinander zu sprechen. Erkläre deinem Geschwisterchen, wie du dich fühlst, und höre auch zu, was es zu sagen hat. Gemeinsam könnt ihr eine Lösung finden!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wenn du dich das nächste Mal über etwas streitest, erinnere dich daran, wie wichtig es ist, freundlich zu sein. Du kannst es schaffen, eine Lösung zu finden, die für euch beide funktioniert. Vielleicht könnt ihr abwechselnd spielen oder euch eine neue Spielidee ausdenken. Sei mutig und probiere es aus. Du wirst sehen, wie gut es sich anfühlt, Probleme gemeinsam zu lösen!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Denke auch daran, dass du mit deinem Geschwisterchen tolle Erinnerungen schaffen kannst. Vielleicht habt ihr einen besonderen Ort, an dem ihr gern spielt, wie den Garten oder das Wohnzimmer. Diese Erinnerungen werden euch für immer begleiten. Sie sind wie kleine Schätze, die ihr in eurem Herzen bewahrt. Was ist dein Lieblingsort, um mit deinem Geschwisterchen zu spielen?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal einen schönen Moment mit deinem Geschwisterchen erlebt, den du nie vergessen wirst? Vielleicht ein lustiger Ausflug oder ein gemeinsames Abenteuer? Ich würde so gern davon hören. Solche Momente sind besonders und zeigen, wie stark die Liebe zwischen Geschwistern sein kann. Gibt es eine Geschichte, die du mit mir teilen möchtest?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über all die schönen Dinge gesprochen haben, die Geschwister teilen, lass uns über die Liebe sprechen. Geschwisterliebe ist etwas ganz Besonderes. Sie ist da, auch wenn man sich manchmal streitet oder nicht einig ist. Diese Liebe bedeutet, dass du immer jemanden hast, der dir hilft und dich unterstützt. Das ist ein wunderbares Gefühl, nicht wahr?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Eine Möglichkeit, deine Geschwisterliebe zu zeigen, ist, kleine Dinge für dein Geschwisterchen zu tun. Du könntest eine Zeichnung malen oder ein kleines Geschenk machen. Solche Gesten zeigen, wie viel dir dein Bruder oder deine Schwester bedeutet. Und weißt du was? Das wird deinem Geschwisterchen sicher auch ein Lächeln ins Gesicht zaubern!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lass uns zusammen ein kleines Geheimnis überlegen. Vielleicht könnt ihr zusammen ein Geheimversteck bauen oder ein geheimes Spiel erfinden. Das macht nicht nur Spaß, sondern stärkt auch eure Verbindung. Eure geheime Welt ist ein Ort, an dem nur ihr beide euch versteht. Probier es aus, und du wirst sehen, wie viel Spaß es macht!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister zu haben bedeutet auch, dass man immer jemanden hat, mit dem man lachen kann. Lachen ist so wichtig, denn es macht das Herz leicht und die Welt viel bunter. Hast du schon einmal so sehr mit deinem Geschwisterchen gelacht, dass ihr nicht mehr aufhören konntet? Solche Momente sind unbezahlbar und zeigen, wie stark eure Verbindung ist."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wenn du das nächste Mal mit deinem Geschwisterchen spielst, erinnere dich daran, wie wichtig es ist, gemeinsam Spaß zu haben. Du kannst es schaffen, die beste Zeit zu erleben, indem du freundlich und liebevoll bist. Sei mutig und offen für neue Abenteuer. Du wirst sehen, wie viel Freude ihr zusammen haben könnt!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es hat so viel Spaß gemacht, mit dir über Geschwister zu sprechen! Ich hoffe, du hast viel über die Liebe und das Teilen gelernt. Vergiss nicht, wie wichtig es ist, freundlich und liebevoll zu deinem Geschwisterchen zu sein. Ich bin so stolz auf dich und freue mich darauf, das nächste Abenteuer mit dir zu erleben. Bis bald, kleiner Freund!"
+    }
+  ],
+  "title": "Tikos Sibling Geschichte"
+}

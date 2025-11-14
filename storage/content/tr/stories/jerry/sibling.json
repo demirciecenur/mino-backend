@@ -1,0 +1,98 @@
+{
+  "id": "clever_mouse_jerry_sibling_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "sibling",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostlarım! Ben Clever Mouse Jerry, bugün sizlerle kardeşlik hakkında güzel bir yolculuğa çıkacağız. Kardeşler arasında nasıl eğlenceli vakit geçirilebileceğini keşfetmeye hazır mısınız? Kardeşler arasında paylaşımın ve sevginin ne kadar önemli olduğunu öğreneceğiz. Hadi, bu maceraya birlikte adım atalım ve kardeşliğin güzelliklerini keşfedelim. Bugün çok eğleneceğiz!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşler, hayatımızdaki en özel arkadaşlarımızdır. Onlarla birlikte oyunlar oynar, yeni şeyler keşfederiz. Kardeşlik demek, bazen oyuncaklarımızı paylaşmak ve birlikte hayal kurmak demektir. Kardeşinizle oynarken, onunla iyi geçinmek ve ona karşı nazik olmak önemlidir. Kardeşler arasında sevgi ve saygı, ilişkinin temel taşlarıdır."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşlerle oyun oynamak çok eğlencelidir. Birlikte bir kale yapabilir veya yeni bir macera yaratabilirsiniz. Oyun oynarken sırayla oynamak ve birbirinizi dinlemek önemlidir. Böylece her iki taraf da eğlenir ve oyun daha keyifli hale gelir. Hadi şimdi birlikte bir oyun düşünelim, belki de bir hazine avı olabilir!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kardeşinizle bir şeyler paylaşmak, onu ne kadar sevdiğinizi göstermek için harika bir yoldur. En sevdiğiniz oyuncağı ya da kitabı paylaşarak, ona değer verdiğinizi gösterebilirsiniz. Unutmayın, paylaşmak mutluluğu artırır ve kardeşlik bağlarını güçlendirir. Şimdi, hangi oyuncağınızı kardeşinizle paylaşmak istersiniz? Harika bir seçim yapacağınızdan eminim!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlikle ilgili bir başka önemli konu da birlikte vakit geçirmektir. Kardeşinizle bir yürüyüşe çıkabilir, parkta oynayabilir veya bir film izleyebilirsiniz. Bu aktiviteler, aranızdaki bağı güçlendirir ve birbirinizi daha iyi tanımanızı sağlar. Bir sonraki maceranızda neler yapabileceğinizi düşünmek eğlenceli değil mi?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda oyunlardan bahsetmiştik. Peki, kardeşinizle hangi oyunları oynamaktan hoşlanırsınız? Belki de bir saklambaç oyunu ya da bir resim yapma seansı olabilir. Kardeşinizle birlikte yeni oyunlar keşfetmek her zaman heyecan vericidir. Şimdi, en sevdiğiniz oyun hangisi? Merakla bekliyorum!"
+    },
+    {
+      "id": "question_1",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinizle birlikte en son ne zaman bir şeyler paylaştınız? Paylaşmak, sevgiyi göstermenin en güzel yollarından biridir. Belki de en sevdiğiniz tatlıyı paylaştınız ya da birlikte bir kitap okudunuz. Şimdi biraz düşünün, en son neyi paylaştınız? Cevabınızı heyecanla bekliyorum!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşinizle tartışmak da bazen kaçınılmazdır. Ancak önemli olan, bu tartışmaları nasıl çözdüğünüzdür. Birbirinizi dinlemek ve anlamaya çalışmak her zaman en iyisidir. Kardeşinizle anlaşmazlık yaşadığınızda, sakinleşmek ve onunla konuşmak her şeyi daha iyi yapabilir. Unutmayın, her tartışma bir çözümle sona erer."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşinizle birlikte yeni şeyler öğrenmek de çok eğlencelidir. Belki bir resim çizmeyi ya da yeni bir şarkı söylemeyi öğrenebilirsiniz. Birlikte öğrenmek, hem eğlenceli hem de öğretici olabilir. Şimdi, birlikte öğrenmek istediğiniz bir şey düşünün. Belki de bir dans figürü olabilir!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kardeşinizle işbirliği yapmak, harika projeler yaratmanıza olanak tanır. Örneğin, birlikte bir hikaye yazabilir ya da bir sanat eseri oluşturabilirsiniz. İşbirliği, takım çalışmasını ve yaratıcı düşünceyi geliştirir. Hadi, şimdi birlikte ne yaratabileceğinizi düşünün. Eminim ki harika bir şey ortaya çıkaracaksınız!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşinizle birlikte vakit geçirirken, bazen sessiz anlar da paylaşabilirsiniz. Bu anlar, birbirinizin varlığından keyif almanızı sağlar. Sessizce oturup bir kitabı incelemek ya da sadece birlikte oturmak bile harika olabilir. Kardeşliğin sessiz anları da en az eğlenceli anlar kadar değerlidir."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda sessiz anlardan bahsetmiştik. Peki, kardeşinizle hangi sessiz anları paylaştınız? Belki bir bulmaca çözdünüz ya da birlikte bir resim yaptınız. Sessiz anlar, aranızdaki bağı güçlendirebilir. Şimdi, en sevdiğiniz sessiz anı düşünün!"
+    },
+    {
+      "id": "question_2",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinizle birlikte en çok hangi aktiviteyi yapmayı seviyorsunuz? Belki birlikte bir parkta oynamak ya da bir film izlemek. Bu aktiviteler, kardeşliğinizi daha da güçlendirir. Şimdi, en sevdiğiniz aktiviteyi düşünün. Cevabınızı duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "closure_11",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün kardeşlik hakkında çok şey öğrendik, değil mi? Kardeşinizle vakit geçirmek, onunla paylaşmak ve işbirliği yapmak ne kadar önemli, şimdi daha iyi anladık. Umarım bu öğrendiklerimizi günlük hayatımıza da yansıtırız. Şimdi, bir sonraki maceramızda görüşmek üzere! Hoşça kalın ve kardeşinizle harika zaman geçirin!"
+    }
+  ],
+  "title": "Clever Mouse Jerry'ın Sibling Hikayesi"
+}

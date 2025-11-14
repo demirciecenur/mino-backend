@@ -1,0 +1,104 @@
+{
+  "id": "sunny_transitions_story",
+  "character": "Sunny",
+  "topic": "transitions",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Sunny. Bugün birlikte geçişler hakkında harika bir yolculuğa çıkacağız. Geçişler, bir durumdan diğerine geçerken neler yapabileceğimizi anlatır. Örneğin, oyun oynamaktan yemek yemeye geçmek gibi. Bu değişiklikler bazen zor olabilir ama birlikte öğrenirsek çok eğlenceli olabilir. Hazır mısın? Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçişler, hayatımızın bir parçasıdır. Her gün birçok geçiş yaparız, farkında olmadan. Sabah kalkmak, kahvaltı yapmak, okula gitmek gibi. Her biri bir geçiştir ve farklı bir enerji gerektirir. Örneğin, sabahları uyanmak bazen zor olabilir ama güzel bir kahvaltı bizi enerjik yapar. Peki, sen sabahları nasıl bir geçiş yapıyorsun?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hadi şimdi bir geçişi nasıl daha kolay hale getirebileceğimizi konuşalım. Bir geçiş yaparken, nefes almak çok önemlidir. Derin bir nefes alıp yavaşça vermek, bizi rahatlatır ve geçişi daha kolay yapmamıza yardımcı olur. Üç derin nefes almayı deneyelim mi? Bir, iki, üç... Harika! Şimdi daha iyi hissetmiyor musun?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Çok güzel! Geçişlerde kendimizi rahatlatmak için başka neler yapabiliriz? Mesela bir şarkı söyleyebiliriz ya da bir oyun oynayabiliriz. Bu, geçişi eğlenceli hale getirebilir. Senin en sevdiğin şarkı ne? Belki birlikte söyleyebiliriz. Bunu denemek harika olmaz mıydı?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda geçişleri eğlenceli hale getirmeyi konuştuk. Şimdi, rutinlerimizin nasıl değiştiğini konuşalım. Rutinler, her gün yaptığımız şeylerdir. Dişlerimizi fırçalamak, oyuncaklarımızı toplamak gibi. Bazen bu rutinlerde değişiklikler olabilir. Örneğin, tatildeyken farklı bir saatte uyuyabiliriz. Bu değişikliklere uyum sağlamak önemlidir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Rutinlerimizdeki değişikliklere nasıl uyum sağlayabiliriz? Bunun için öncelikle yeni durumları kabul etmeliyiz. Değişiklikler bazen bizi korkutabilir ama her değişiklik yeni bir macera demektir. Örneğin, yeni bir okula başlamak, yeni arkadaşlar edinmek demektir. Her yeni adımda kendimize güvenmeli ve olumlu düşünmeliyiz. Sen de yeni şeyler denemeye açık mısın?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Yeni şeyler denemek her zaman heyecan vericidir. Şimdi, geçişlerde nasıl daha iyi olabileceğimizi düşünelim. Belki de bir geçiş günlüğü tutabiliriz. Bugün neler yaptığını, hangi geçişleri nasıl yaptığını yazabilirsin. Bu, kendini daha iyi anlamana yardımcı olabilir. Denemek ister misin? Eminim çok eğlenceli olur!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda geçiş günlüğü tutmayı önerdik. Şimdi, değişikliklerin bizi nasıl güçlendirdiğini konuşalım. Her yeni deneyim, bize yeni şeyler öğretir. Örneğin, yaz tatilinde yeni bir yere gitmek, farklı kültürleri tanımamıza yardımcı olur. Bu tür değişiklikler, dünyamızı genişletir ve bizi daha güçlü yapar. Sen de yeni şeyler öğrenmeyi seviyor musun?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Biraz düşünelim, senin için en unutulmaz değişiklik hangisiydi? Belki yeni bir arkadaş edindin ya da yeni bir oyun öğrendin. Bu değişikliklerin sana neler kattığını düşündün mü? Hadi birlikte düşünelim, senin için en güzel geçiş neydi? Bunu paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Unutulmaz değişiklikler hakkında düşündük. Şimdi, değişiklikler sırasında nasıl destek alabileceğimizi konuşalım. Ailemiz ve arkadaşlarımız, geçişlerde bize destek olabilir. Onlarla konuşmak, duygularımızı paylaşmak rahatlatıcıdır. Birlikte oyun oynamak ya da bir şeyler yapmak da çok eğlencelidir. Senin de böyle bir desteğe ihtiyacın olduğunda kiminle konuşuyorsun?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Geçişlerde destek almak çok önemlidir. Şimdi, kendi kendimize nasıl yardımcı olabileceğimizi konuşalım. Bir geçiş yaparken kendimize olumlu şeyler söyleyebiliriz. 'Ben bunu yapabilirim', 'Her şey yolunda' gibi cümleler bizi motive eder. Ayrıca, olumlu düşünmek her zaman işe yarar. Hadi, birlikte olumlu bir şeyler söyleyelim. 'Bugün harika bir gün olacak!'"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Süper! Olumlu düşünmek gerçekten harika. Şimdi, geçişlerde eğlenceli aktiviteler yapmayı konuşalım. Belki de bir resim yapabiliriz ya da bir hikaye yazabiliriz. Bu aktiviteler, geçişleri daha eğlenceli hale getirir. Senin en sevdiğin aktivite ne? Hadi, bunu birlikte yapalım. Eminim çok keyif alacağız!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Eğlenceli aktiviteler hakkında konuştuktan sonra, şimdi bir geçişin sonunda nasıl hissettiğimizi konuşalım. Her geçişin sonunda kendimizi nasıl hissettiğimiz de önemlidir. Belki biraz yorgun olabiliriz ama aynı zamanda mutlu ve gururlu hissedebiliriz. Çünkü her geçiş, bir başarıdır. Sen de bir geçişin sonunda nasıl hissediyorsun?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir geçişin sonunda nasıl hissettiğimizi düşündük. Şimdi, bu hisleri nasıl paylaşabileceğimizi konuşalım. Hislerimizi paylaşmak, bizi rahatlatır ve başkalarına da ilham verir. Bir arkadaşına ya da aile üyesine, geçişin sonunda neler hissettiğini anlatabilirsin. Bu, onları da mutlu edebilir. Hadi, sen de hislerini paylaşmak ister misin?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün geçişler hakkında çok şey öğrendik, değil mi? Her geçiş, yeni bir macera ve yeni bir başlangıçtır. Bu maceralarda kendimize güvenmeli ve pozitif olmalıyız. Her şeyin sonunda, her adımda daha güçlü ve mutlu olacağız. Seninle bu yolculuğu yapmak harikaydı! Bir dahaki sefere kadar, kendine iyi bak ve hep gülümse!"
+    }
+  ],
+  "title": "Sunny'ın Transitions Hikayesi"
+}

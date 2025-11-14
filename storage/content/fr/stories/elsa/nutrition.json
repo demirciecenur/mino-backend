@@ -1,0 +1,104 @@
+{
+  "id": "elisa_the_ice_fairy_nutrition_alimentation_saine_habitudes_alimentaires_aliments_sains_story",
+  "character": "Elisa the Ice Fairy",
+  "topic": "nutrition, alimentation saine, habitudes alimentaires, aliments sains",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Elisa la Fée de Glace. Aujourd'hui, nous allons embarquer dans une aventure magique sur la nutrition. Êtes-vous prêts à découvrir des secrets sur les aliments sains et les bonnes habitudes alimentaires? Je suis tellement curieuse de partager ces merveilles avec vous. Allons explorer ensemble!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dans notre royaume de glace, les aliments sains sont très importants. Ils nous aident à être forts et pleins d'énergie pour jouer et explorer. Imaginez manger une pomme croquante ou une carotte juteuse. Ces aliments sont comme de petits trésors remplis de vitamines. Les vitamines aident notre corps à grandir et à rester en bonne santé. N'est-ce pas merveilleux?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des couleurs des aliments. Les fruits et légumes viennent dans toutes les couleurs de l'arc-en-ciel. Chaque couleur a ses propres bienfaits magiques. Par exemple, les légumes verts comme les épinards nous aident à avoir des os solides. Les fruits rouges comme les fraises sont bons pour notre cœur. Essayons de manger toutes les couleurs chaque jour!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous pouvez le faire, mes petits amis! La prochaine fois que vous mangez, regardez combien de couleurs vous pouvez trouver dans votre assiette. C'est comme un jeu amusant! Plus vous trouvez de couleurs, plus votre repas est sain. N'oubliez pas de boire de l'eau aussi, c'est important pour rester hydraté. Ensemble, nous pouvons prendre soin de notre corps!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, manger sainement nous donne de l'énergie pour faire toutes les choses que nous aimons. Comme courir, sauter, et même danser! Imaginez que votre corps est un petit moteur, et les aliments sains sont le carburant. Plus vous mangez des aliments sains, plus votre moteur fonctionne bien. Vous serez prêt pour toutes les aventures!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant des habitudes alimentaires. Il est important de manger à des heures régulières. Cela aide notre corps à savoir quand il recevra de l'énergie. Essayez de manger trois repas par jour avec quelques collations saines. Les collations peuvent être des fruits, des noix ou du yaourt. Elles nous aident à rester pleins d'énergie entre les repas."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "C'est formidable de créer de bonnes habitudes alimentaires! Vous pouvez commencer aujourd'hui. Essayez de manger lentement et de savourer chaque bouchée. Cela aide votre ventre à se sentir plein et heureux. Et n'oubliez pas de remercier ceux qui préparent vos repas. C'est un geste magique de gratitude!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Aimez-vous cuisiner avec maman ou papa? C'est une belle façon d'apprendre sur les aliments. Quel est votre fruit préféré? Peut-être les pommes ou les bananes? Saviez-vous que cuisiner ensemble peut être amusant et éducatif? Partagez vos histoires culinaires avec moi!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dans le royaume de glace, nous aimons aussi faire des exercices. Bouger notre corps nous aide à rester forts et en bonne santé. Vous pourriez essayer de danser comme un flocon de neige ou de sauter comme un lapin. L'exercice est une autre partie importante d'une vie saine. C'est amusant et bon pour le cœur!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de la façon de choisir les aliments. Lorsque vous allez au marché, essayez de choisir des aliments frais et colorés. Les aliments frais sont généralement plus savoureux et plus nutritifs. Vous pouvez aussi demander à essayer un nouvel aliment chaque semaine. Cela rend le repas encore plus excitant!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes tous incroyables! Continuez à explorer de nouveaux aliments et à développer de bonnes habitudes. N'oubliez pas que chaque petit pas compte. Chaque fois que vous mangez sainement, vous faites un bon choix pour votre corps. Je suis si fière de vous!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est votre légume préféré? Est-ce le brocoli ou peut-être la carotte? Avez-vous déjà essayé un smoothie aux fruits? C'est une façon délicieuse de manger des fruits. J'aimerais entendre vos idées sur les aliments sains!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, la nourriture est notre amie. Elle nous aide à grandir et à être forts. Chaque fois que vous choisissez de manger sainement, vous faites un choix magique pour vous-même. C'est comme donner à votre corps un câlin chaleureux. N'est-ce pas merveilleux de prendre soin de vous?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Maintenant, imaginez que vous êtes un petit chef dans votre propre cuisine. Vous pouvez créer des repas amusants et sains. Peut-être une salade arc-en-ciel ou une soupe magique. Que cuisineriez-vous? Utilisez votre imagination et amusez-vous!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure magique avec moi, mes chers amis! J'espère que vous avez appris beaucoup sur la nutrition et les aliments sains. N'oubliez pas de prendre soin de vous chaque jour. Je suis impatiente de vous revoir pour d'autres aventures magiques. À bientôt, petits explorateurs!"
+    }
+  ],
+  "title": "Histoire de Nutrition de Elisa The Ice Fairy"
+}

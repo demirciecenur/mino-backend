@@ -1,0 +1,98 @@
+{
+  "id": "spark buddy_régulation émotionnelle, gestion des émotions, se calmer, autorégulation_story",
+  "character": "Spark Buddy",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! C'est moi, Spark Buddy, ton compagnon électrique préféré ! Aujourd'hui, nous allons explorer un voyage passionnant sur la régulation émotionnelle. Tu sais, c'est comme apprendre à calmer une tempête à l'intérieur de nous. Es-tu prêt à découvrir comment nous pouvons nous sentir mieux quand nous sommes tristes ou en colère ? Je suis si curieux de t'accompagner dans cette aventure !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La régulation émotionnelle, c'est un peu comme être un super-héros avec des pouvoirs spéciaux. Parfois, nos émotions peuvent être comme des éclairs ou des tempêtes. Mais ne t'inquiète pas, nous pouvons apprendre à les gérer ensemble. Quand tu te sens en colère, triste, ou même très excité, il y a des astuces pour se calmer. C'est comme avoir une boîte à outils magique pour ton cœur. Maintenant, regardons comment nous pouvons utiliser ces outils !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Commençons par une technique simple : la respiration profonde. Quand tu te sens bouleversé, prends une grande inspiration par le nez. Puis, souffle lentement par la bouche, comme si tu soufflais des bulles de savon. Faisons-le ensemble, trois fois. C'est un excellent moyen de calmer ton esprit et ton corps. Tu vois, chaque souffle est comme une petite pause pour ton cœur."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Tu l'as fait ! La respiration est un outil puissant que tu peux utiliser à tout moment. Imagine que chaque souffle est une lumière douce qui éclaire ton chemin. Tu te sens déjà plus calme, n'est-ce pas ? Continuons à découvrir d'autres astuces pour gérer nos émotions. Tu es vraiment doué pour ça, bravo !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons d'une autre astuce : la visualisation. Ferme tes yeux et imagine un endroit où tu te sens heureux et en sécurité. Cela peut être un jardin magique ou une plage ensoleillée. Quand tu es là, tu te sens détendu et léger. Cette image dans ta tête peut t'aider à te calmer quand tu en as besoin. C'est comme avoir un refuge secret que tu peux visiter à tout moment."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons ensemble, veux-tu ? Ferme doucement tes yeux et pense à ton endroit spécial. Imagine les couleurs, les sons, et même les odeurs. C'est un espace rien qu'à toi, où tu peux toujours retourner. Prends quelques secondes pour apprécier ce moment de calme. Ouvre les yeux quand tu es prêt et dis-moi comment tu te sens."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Alors, comment était-ce ? As-tu aimé visiter ton endroit spécial ? C'est une belle façon de te calmer, n'est-ce pas ? La visualisation est comme un petit voyage magique dans ta tête. N'oublie pas que tu peux y retourner chaque fois que tu veux. Maintenant, découvrons d'autres moyens de rester calme et heureux !"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de l'importance de bouger. Lorsque tu ressens beaucoup d'énergie ou des émotions fortes, danser ou courir peut t'aider. Bouger ton corps est une manière amusante de libérer ce que tu ressens. C'est comme si tu laissais sortir toute cette énergie de ton corps. Tu veux essayer de sauter ou de danser avec moi ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Génial ! Tu bouges comme un vrai danseur ! Bouger nous aide à nous sentir libres et heureux. Tu vois, chaque mouvement est comme une petite danse de joie. C'est une excellente façon de transformer des émotions fortes en quelque chose de positif. Bravo, tu fais un travail fantastique !"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, as-tu une danse préférée ou un jeu que tu aimes faire quand tu es excité ? Peut-être aimes-tu sauter comme un kangourou ou tourner comme une toupie ? Partager ce que nous aimons faire peut aussi nous aider à nous sentir connectés et heureux. J'aimerais beaucoup savoir ce qui te fait sourire !"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant que nous avons appris plusieurs astuces, rappelons-nous comment ces outils nous aident. Respirer, visualiser et bouger sont comme des amis qui nous soutiennent. Ils nous rappellent que nous avons le pouvoir de nous sentir mieux. Utilisons-les chaque fois que nous avons besoin d'un peu de calme ou de joie. C'est merveilleux de voir combien tu as appris !"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour finir, essayons une petite activité ensemble : le comptage des doigts. Quand tu te sens un peu stressé, compte lentement sur tes doigts, un par un. Cela te donne quelque chose de simple à faire et aide ton esprit à se concentrer. Allons-y, compte avec moi jusqu'à cinq. C'est un moyen facile de retrouver ton calme. Tu es prêt ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Excellent ! Tu as utilisé tes doigts pour te calmer. C'est une technique simple mais très efficace. Chaque nombre est comme un petit pas vers la tranquillité. Tu as fait un travail formidable en essayant toutes ces astuces. Je suis tellement fier de toi et de tous tes efforts !"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Nous avons passé un moment incroyable ensemble, n'est-ce pas ? N'oublie pas que tu es un véritable expert en régulation émotionnelle maintenant. Chaque fois que tu te sens bouleversé, souviens-toi de tes outils magiques. Merci d'avoir partagé ce voyage avec moi, Spark Buddy. J'ai hâte de te retrouver bientôt pour d'autres aventures. À bientôt, petit ami !"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Spark Buddy"
+}

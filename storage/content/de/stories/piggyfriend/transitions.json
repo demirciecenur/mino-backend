@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_transitions_story",
+  "character": "Piggy Friend",
+  "topic": "transitions",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin dein Piggy Friend und heute reden wir über etwas Spannendes: Veränderungen! Manchmal ändern sich Dinge, wie wenn wir von einer Aktivität zur nächsten wechseln. Das kann aufregend, aber auch ein bisschen beängstigend sein, oder? Keine Sorge, gemeinsam werden wir lernen, wie wir mit solchen Übergängen umgehen können. Bist du bereit für unser Abenteuer?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als du das letzte Mal in den Kindergarten gegangen bist? Das war eine große Veränderung! Neue Freunde, neue Spielsachen und so viel zu entdecken! Veränderungen können uns helfen, neue Dinge zu lernen und Spaß zu haben. Es ist wie ein neues Abenteuer, das auf uns wartet. Manchmal fühlen wir uns vielleicht etwas nervös, aber das ist völlig normal."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber nachdenken, was wir tun können, wenn sich etwas ändert. Zuerst nehmen wir drei tiefe Atemzüge, um uns zu beruhigen. Atme tief ein und dann langsam aus. Das hilft uns, ruhig zu bleiben und klar zu denken. Wenn wir uns ruhig fühlen, können wir uns besser auf das Neue vorbereiten. So sind wir bereit für alles, was kommt!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Du kannst das wirklich gut! Jetzt lass uns überlegen, wie wir Spaß an Veränderungen haben können. Vielleicht kannst du dir eine Geschichte darüber ausdenken, was passieren wird. Oder du machst ein Spiel daraus, indem du dir vorstellst, du bist ein Abenteurer auf einer Reise. Das macht Veränderungen viel spannender und weniger beängstigend!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir wissen, wie wir mit Veränderungen umgehen können, lass uns über alltägliche Übergänge sprechen. Zum Beispiel, wenn es Zeit ist, ins Bett zu gehen. Das kann ein großer Übergang sein, besonders wenn du noch spielen möchtest. Aber wenn du eine ruhige Routine hast, wird es einfacher. Vielleicht liest du ein Buch oder hörst ein beruhigendes Lied."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du eine Lieblingsroutine, wenn du ins Bett gehst? Vielleicht magst du es, deine Zähne zu putzen und dann ein Kuscheltier zu umarmen. Diese kleinen Schritte helfen uns, uns sicher und geborgen zu fühlen. Und wenn wir uns sicher fühlen, sind Veränderungen nicht mehr so beängstigend. Lass uns weiter erkunden, wie wir mit Veränderungen umgehen können!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Denke daran, dass es okay ist, Hilfe zu brauchen, wenn sich etwas ändert. Du kannst immer mit Mama, Papa oder einem anderen Erwachsenen sprechen. Sie sind da, um dir zu helfen und dich zu unterstützen. Manchmal hilft es auch, deine Gefühle zu malen oder zu zeichnen. Das kann dir helfen, besser zu verstehen, was du fühlst."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns über Veränderungen sprechen, die Spaß machen! Wie wäre es mit einem neuen Spielzeug oder einem neuen Freund? Diese Art von Veränderungen können uns viel Freude bringen. Es ist spannend, neue Dinge zu entdecken und neue Freundschaften zu schließen. Veränderungen können uns helfen, zu wachsen und neue Erfahrungen zu machen."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das super! Ich bin so stolz auf dich, dass du so gut mit Veränderungen umgehst. Jetzt lass uns zusammen ein kleines Spiel spielen. Stell dir vor, du bist ein Schmetterling, der von Blume zu Blume fliegt. Jede Blume ist eine neue Veränderung. Flattere von Blume zu Blume und entdecke, wie schön Veränderungen sein können!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Denkst du, dass Veränderungen dir helfen können, etwas Neues zu lernen? Vielleicht lernst du, wie man ein neues Spiel spielt oder ein neues Lied singt. Was denkst du, was passieren könnte, wenn wir nie etwas ändern würden? Würde das nicht ein bisschen langweilig werden? Lass uns darüber nachdenken!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel über Veränderungen gelernt haben, lass uns darüber nachdenken, wie wir sie in unserem täglichen Leben nutzen können. Vielleicht kannst du morgen etwas Neues ausprobieren, wie ein neues Spiel oder ein neues Essen. Veränderungen sind wie kleine Abenteuer, die wir jeden Tag erleben können. Bist du bereit für dein nächstes Abenteuer?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich mutig und neugierig, das ist großartig! Erinnerst du dich daran, wie wir über das Atmen gesprochen haben? Lass uns das noch einmal zusammen machen. Tief einatmen und langsam ausatmen. Das fühlt sich gut an, nicht wahr? Du kannst das immer machen, wenn du dich auf eine Veränderung vorbereitest."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nun lass uns über eine Veränderung sprechen, die viele Kinder erleben. Wie wäre es mit dem Wechsel von den Ferien zurück in die Schule? Das kann aufregend sein, weil du deine Freunde wieder siehst. Aber es kann auch ein bisschen nervös machen, wenn du an die Hausaufgaben denkst. Mit einer positiven Einstellung wird alles viel einfacher!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkst du, wie du dich auf den Schulanfang vorbereiten kannst? Vielleicht kannst du deine Schultasche packen oder deine Lieblingskleidung auswählen. Was sind deine Lieblingssachen, die du in die Schule mitnehmen möchtest? Lass uns gemeinsam darüber nachdenken und Pläne machen!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt haben wir so viel über Veränderungen gelernt und wie wir sie meistern können. Du bist wirklich toll darin, neue Dinge zu entdecken und mutig zu sein. Danke, dass du heute mit mir über dieses aufregende Thema gesprochen hast. Ich hoffe, du hast genauso viel Spaß gehabt wie ich. Bis zum nächsten Mal, kleiner Freund!"
+    }
+  ],
+  "title": "Piggy Friends Transitions Geschichte"
+}

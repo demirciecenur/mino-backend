@@ -1,0 +1,104 @@
+{
+  "id": "funny_bunny_nutrition_alimentation_saine_habitudes_alimentaires_aliments_sains_story",
+  "character": "Funny Bunny",
+  "topic": "nutrition, alimentation saine, habitudes alimentaires, aliments sains",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Salut, petit ami! Je suis Funny Bunny, ton compagnon joyeux pour une aventure sur la nutrition. Aujourd'hui, on va découvrir comment bien manger peut nous donner de l'énergie pour jouer. Es-tu prêt à explorer le monde des aliments sains avec moi? On va s'amuser tout en apprenant, et tu verras, c'est facile comme un jeu d'enfant. Alors, attrape ta carotte et suivons le chemin de la bonne alimentation!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tu te souviens quand on a parlé de l'énergie pour jouer? Les aliments sont comme le carburant pour notre corps. Manger des fruits et des légumes colorés nous aide à courir, sauter, et même penser rapidement! Par exemple, les carottes sont bonnes pour nos yeux, et les pommes nous donnent de l'énergie. Imagine que chaque bouchée que tu prends est une petite aventure qui rend ton corps plus fort!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de la variété des aliments. C'est important de manger de toutes les couleurs! Chaque couleur a quelque chose de spécial pour nous. Les rouges, comme les tomates, sont bons pour notre cœur. Les verts, comme les épinards, nous rendent forts. Alors, la prochaine fois que tu manges, essaie d'avoir un arc-en-ciel dans ton assiette. Plus c'est coloré, mieux c'est pour toi!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo! Tu es un super explorateur des aliments! Continuons avec une petite activité amusante. Comptons les couleurs dans ton assiette. Combien de couleurs vois-tu? Un, deux, trois, peut-être plus? C'est comme un jeu de cache-cache avec les vitamines! Rappelle-toi, chaque couleur est une nouvelle aventure pour ton corps!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, passons aux habitudes alimentaires. Savais-tu que manger lentement est bon pour toi? Cela aide ton ventre à dire à ton cerveau quand tu es rassasié. Quand tu manges trop vite, ton cerveau n'a pas le temps de comprendre. Alors, prenons l'habitude de mâcher doucement, comme un lapin qui savoure sa carotte. C'est aussi une façon de mieux apprécier chaque saveur!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Un autre secret, c'est de boire beaucoup d'eau. L'eau est essentielle pour que notre corps fonctionne bien. Elle nous aide à rester hydratés, surtout quand on joue beaucoup. Tu peux imaginer que ton corps est comme une plante qui a besoin d'eau pour grandir. Alors, n'oublie pas de boire régulièrement, même quand tu n'as pas soif!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Génial! Maintenant, jouons à un petit jeu. Chaque fois que tu bois un verre d'eau, fais un petit saut de joie. Ça rend l'hydratation amusante, n'est-ce pas? Et chaque saut montre à quel point tu deviens plus fort et plus rapide. Continue comme ça, tu es un vrai champion de la bonne alimentation!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Passons maintenant aux collations. Les collations peuvent être saines aussi! Par exemple, un yaourt avec des morceaux de fruits ou quelques noix sont de bonnes options. Elles te donnent de l'énergie sans te remplir trop. Imagine que chaque collation est une petite pause pour recharger tes batteries. C'est comme une mini-aventure entre les repas!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, quelles sont tes collations préférées? Aimes-tu les fruits, les légumes, ou peut-être un peu de fromage? C'est amusant de découvrir de nouvelles saveurs et textures. La prochaine fois que tu choisis une collation, essaie quelque chose de nouveau. Qui sait, tu pourrais découvrir un nouveau favori!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu as de super idées! Souviens-toi, chaque fois que tu manges, c'est une chance de faire quelque chose de bien pour ton corps. Et chaque choix que tu fais peut être un pas vers une vie plus saine. C'est comme être le héros de ta propre histoire de santé. Continue d'explorer et d'apprendre, et tu deviendras un expert de l'alimentation saine!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons du petit-déjeuner. C'est le repas le plus important de la journée! Il te donne toute l'énergie dont tu as besoin pour commencer ta journée du bon pied. Un bon petit-déjeuner peut être composé de céréales, de fruits et d'un verre de lait. Imagine que ton petit-déjeuner est comme un super pouvoir qui te rend prêt à affronter toutes les aventures de la journée!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail formidable en apprenant tout cela! Chaque petit changement que tu fais compte. C'est comme assembler un puzzle où chaque pièce est importante. Continue à faire des choix intelligents, et tu verras à quel point tu te sentiras bien. Bravo, tu es sur le bon chemin!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Et maintenant, parlons de l'importance de manger ensemble. Partager un repas en famille ou avec des amis rend l'alimentation encore plus agréable. C'est un moment pour échanger, rire, et apprécier la compagnie des autres. Manger ensemble peut aussi t'aider à essayer de nouveaux aliments que tu n'aurais peut-être pas goûtés seul. C'est comme une fête à chaque repas!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Aimes-tu manger avec ta famille ou tes amis? Quels sont les moments que tu préfères pendant ces repas? Peut-être que c'est quand vous racontez des histoires drôles ou quand vous essayez de nouvelles recettes ensemble. Partager un repas, c'est plus que de la nourriture, c'est aussi partager des souvenirs. Alors, quelles aventures culinaires aimerais-tu vivre?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir exploré l'univers de la nutrition avec moi, petit ami! J'espère que tu as appris beaucoup et que tu es prêt à faire de bons choix alimentaires. N'oublie pas, chaque repas est une occasion de grandir fort et en bonne santé. Continue de manger des aliments sains et de rester curieux. À bientôt pour une nouvelle aventure avec Funny Bunny!"
+    }
+  ],
+  "title": "Histoire de Nutrition de Funny Bunny"
+}

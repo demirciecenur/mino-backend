@@ -1,0 +1,104 @@
+{
+  "id": "yellow_buddy_friendship_story",
+  "character": "Yellow Buddy",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Yellow Buddy, ton copain jaune. Aujourd'hui, nous allons découvrir ensemble le monde merveilleux de l'amitié. Es-tu prêt à partir pour cette aventure amusante? J'adore rencontrer de nouveaux amis et partager des sourires. Ensemble, nous allons apprendre comment être un bon ami. C'est parti pour une journée pleine de joie et de rires!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est comme un trésor précieux. Elle nous rend heureux et nous fait sourire. Tu sais, avoir un ami, c'est quelqu'un avec qui jouer et rigoler. Quand nous partageons nos jouets, nous montrons à nos amis qu'ils comptent pour nous. C'est comme offrir un petit morceau de bonheur."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour être un bon ami, il est important d'écouter. Quand ton ami te parle, tu peux lui montrer que tu l'écoutes en hochant la tête. Essaie de répéter ce qu'il dit pour être sûr de bien comprendre. Cela montre que tu te soucies de ses mots. Alors, la prochaine fois, écoute attentivement et vois comme cela fait plaisir à ton ami."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Tu fais un excellent travail en écoutant tes amis. Continuons à apprendre d'autres façons d'être un bon ami. Parfois, c'est bien de partager ce que nous avons, comme une part de gâteau ou un jouet. Quand nous partageons, nous montrons que nous pensons les uns aux autres. Tu peux le faire, je crois en toi!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de jouer ensemble. Jouer à des jeux est une excellente façon de renforcer l'amitié. Que dirais-tu de faire une course de voitures ou de construire une tour de blocs? Quand nous jouons ensemble, nous apprenons à travailler en équipe et à nous amuser. C'est toujours plus amusant de jouer à plusieurs!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parfois, les amis peuvent se disputer, et c'est normal. Ce qui est important, c'est de savoir dire pardon. Dire pardon montre que tu te soucies de tes amis. La prochaine fois que tu fais une erreur, n'hésite pas à t'excuser. Cela aide à réparer les cœurs blessés et à renforcer l'amitié."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es incroyable! Apprendre à dire pardon est une grande étape vers une belle amitié. N'oublie pas, chaque jour est une nouvelle chance de montrer à tes amis combien tu les apprécies. Continue comme ça, tu deviens un super ami!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi de toujours être gentil. La gentillesse, c'est comme une lumière qui brille dans le cœur. Quand nous sommes gentils, nous faisons sourire les autres et nous nous sentons bien aussi. Par exemple, offrir un dessin à un ami peut illuminer sa journée. La gentillesse est un cadeau que tout le monde peut donner."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Imagine toutes les choses amusantes que tu peux faire avec tes amis. Comme jouer à cache-cache ou faire des dessins ensemble. Chaque activité est une nouvelle aventure pleine de rires et de découvertes. Quelle est ton activité préférée à faire avec tes amis? J'aimerais beaucoup le savoir!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, comment montres-tu à tes amis que tu tiens à eux? Peut-être en leur faisant un câlin ou en partageant un goûter. Il y a tant de façons de montrer que tu es un bon ami. Quelle est ta façon préférée? Je suis curieux de savoir!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les amis sont comme des étoiles qui brillent dans notre vie. Même quand ils sont loin, ils restent dans notre cœur. Parfois, nous pouvons leur écrire une petite lettre ou leur dessiner un joli dessin. C'est une belle manière de rester connecté. Les amis rendent chaque jour plus lumineux!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es vraiment fantastique! Chaque jour, tu apprends à être un ami encore meilleur. Continue de sourire et de partager ta joie. Tes amis ont de la chance de t'avoir. Ensemble, vous pouvez conquérir le monde avec votre amitié!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, il est bon de découvrir de nouveaux amis. Un simple bonjour peut être le début d'une belle amitié. Quand tu vois quelqu'un jouer seul, pourquoi ne pas l'inviter à se joindre à toi? Plus on est de fous, plus on rit, n'est-ce pas? Les nouveaux amis apportent encore plus de joie dans notre vie!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Imagine un monde où tout le monde est ami. Ce serait un monde plein de rires et de câlins. Chaque sourire que tu partages rend ce monde plus amical. Quelle belle image, n'est-ce pas? Ensemble, nous pouvons rendre ce rêve réalité, un sourire à la fois."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, petit ami. J'ai adoré parler de l'amitié avec toi. N'oublie jamais que chaque jour est une nouvelle chance de faire de nouveaux amis et de partager ton sourire. Je suis fier de toi et de ton grand cœur. À bientôt pour une nouvelle aventure avec Yellow Buddy!"
+    }
+  ],
+  "title": "Histoire de Friendship de Yellow Buddy"
+}

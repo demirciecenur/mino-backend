@@ -1,0 +1,104 @@
+{
+  "id": "bubu_friendship_story",
+  "character": "Bubu",
+  "topic": "friendship",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Bubu, and I'm so happy to see you today. We're going on a wonderful adventure all about friendship. Are you ready to explore with me? Friendship is like having a special buddy who you can play and laugh with. Let's learn how to make friends and be the best friend we can be. It will be so much fun!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what friendship means. A friend is someone who makes you smile and feel happy inside. They play with you, share toys, and tell funny stories. Friends are there to help you when you're feeling sad or lonely. They make the world a brighter place just by being there. Isn't that wonderful?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about sharing toys? Sharing is a big part of being a good friend. When you share, it shows that you care about your friend’s happiness. You can share your crayons, your blocks, or even your favorite book. Sharing makes playtime more fun for everyone. Can you think of something you'd like to share with a friend?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking about sharing! Now, let's imagine we're at the playground. There are swings, slides, and lots of other kids. Sometimes, it can be a little scary to say hello. But remember, a big smile and a friendly wave can make you feel brave. You can do it! Let's practice saying, 'Hi, my name is [Your Name]. Want to play?'"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Wonderful! Making new friends is like opening a door to new adventures. Friends can join you in building sandcastles or playing tag. They can be your partner in a game of hide and seek. Every friend is special and brings something unique to your playtime. Isn’t it exciting to think about all the fun you can have together?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's talk about listening. Listening is another way to show your friends you care. When a friend is talking, we stop what we're doing and give them our full attention. We can nod and say, 'I understand' or 'That sounds fun!' Listening helps us learn more about our friends and makes them feel important. Can you practice listening today?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing great! Let's imagine we're on a treasure hunt with our friends. We need to work together to find the hidden treasure. Teamwork means helping each other and sharing ideas. When we work together, we can solve puzzles and reach our goals. Teamwork is an important part of friendship. You can be an amazing teammate!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about kindness. Being kind means saying nice things and doing nice things for others. You can give a compliment like, 'I like your drawing!' or help a friend who has fallen down. Kindness makes everyone feel good and brings friends closer together. How can you be kind to someone today?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Great! Remember, being a friend means sometimes saying sorry. If we make a mistake or hurt someone’s feelings, saying 'I'm sorry' helps. It shows we care about our friends and want to make things right. Apologizing can be hard, but it’s an important part of being a good friend. Can you think of a time you said sorry?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever felt a little sad or lonely? It's okay to feel that way sometimes. Friends are there to make us feel better. They might give us a hug or make us laugh. How do you cheer up a friend who feels sad? Maybe by telling a funny story or playing their favorite game?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure by thinking about special friend moments. Do you remember a time when you laughed so hard with a friend that your tummy hurt? Those are the moments that make friendship so special. They become happy memories that we can think about whenever we need a smile. What’s your favorite memory with a friend?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning about friendship! Let's take a moment to breathe together. We'll take three deep breaths, in through the nose and out through the mouth. Ready? One, two, three. Breathing helps us feel calm and ready to make new friends. You can do this anytime you feel nervous or excited."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's imagine we're having a picnic with our friends. We can share our snacks, like apples and sandwiches. Sharing food is a fun way to show we care. While we eat, we can talk about our favorite games or what makes us happy. Picnics are a great way to enjoy time with friends. What snacks would you bring to a picnic?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about sharing? It’s important to share our time too. Giving a friend your time shows them they’re important to you. Whether it’s playing a game or just sitting together, being there for a friend is what counts. How do you like to spend time with your friends?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this friendship adventure! We've learned so much about being a good friend. Remember to share, listen, and be kind. These little things make a big difference. I hope you have lots of fun making new friends and creating happy memories. Goodbye for now, my wonderful friend! I can't wait to see you again soon."
+    }
+  ],
+  "title": "Bubu's Friendship Story"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "snowman_buddy_olaf-style_friendship_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy tu amigo el Muñeco de Nieve estilo Olaf. Hoy vamos a hablar sobre algo mágico: la amistad. ¿Estás listo para esta aventura? Estoy muy emocionado de compartir contigo. Juntos, descubriremos cómo hacer amigos y ser un buen amigo."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad es como un brillante rayo de sol en un día nevado. Es importante porque nos hace sentir felices y acompañados. ¿Alguna vez has sentido que alguien te hace sonreír solo con estar cerca? Eso es la magia de la amistad. Ahora, vamos a descubrir cómo podemos hacer nuevos amigos. ¿Te gustaría aprender más?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para hacer amigos, lo primero que podemos hacer es sonreír. Una sonrisa es como un abrazo cálido y hace que todos se sientan bienvenidos. ¿Puedes practicar una gran sonrisa conmigo ahora? ¡Eso es! También podemos decir 'hola' y preguntar cómo está la otra persona. Estas pequeñas cosas pueden empezar una gran amistad."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora que hemos aprendido a saludar, podemos pensar en actividades divertidas para hacer juntos. Jugar es una maravillosa forma de conocer a alguien. ¿Te gusta jugar con bloques o pintar? Estas actividades nos ayudan a compartir risas y crear recuerdos. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablamos de sonreír y decir 'hola'. Ahora vamos a practicar cómo compartir. Compartir es como un regalo que damos a nuestros amigos. Cuando compartimos, mostramos que nos importa la felicidad de los demás. Por ejemplo, podemos compartir nuestros juguetes favoritos o invitar a alguien a jugar con nosotros. ¿No es maravilloso compartir?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez has compartido algo especial con un amigo? Tal vez un juguete o un cuento. ¡Me encantaría saberlo! Compartir experiencias y cosas hace que las amistades sean más fuertes. ¿Podrías pensar en algo que te gustaría compartir la próxima vez que veas a un amigo?"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué idea tan genial! Ahora, hablemos sobre escuchar. Escuchar a tus amigos es muy importante. Cuando prestamos atención, mostramos que nos importa lo que dicen. Podemos asentir con la cabeza y hacer preguntas sobre lo que nos cuentan. Esto hace que nuestros amigos se sientan especiales."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar escuchar. Imagina que tu amigo te está contando una historia sobre su día. ¿Cómo lo escucharías atentamente? Puedes mirar a los ojos y sonreír. También puedes decir algo como, '¡Eso suena divertido!' Practicar escuchar nos ayuda a ser mejores amigos."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo muy bien! Ahora que sabemos cómo escuchar, podemos hablar sobre cómo resolver pequeños problemas. A veces, los amigos pueden no estar de acuerdo. Pero está bien. Podemos aprender a hablar sobre lo que sentimos y encontrar una solución juntos. ¡Es una gran habilidad para tener!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Cuando hay un problema, podemos usar palabras amables para hablar sobre ello. Por ejemplo, podemos decir, 'Me siento triste cuando eso pasa'. Esto ayuda a nuestros amigos a entendernos mejor. Y juntos, podemos encontrar una manera de hacer las paces y seguir jugando felices."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas alguna vez que resolviste un problema con un amigo? Tal vez fue algo pequeño, como compartir un juguete. ¡Eso es genial! Resolver problemas juntos nos hace más fuertes y más cercanos. ¿Qué piensas que podríamos hacer la próxima vez que haya un pequeño desacuerdo?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Esa es una gran idea! Ahora, hablemos de ser un amigo leal. Esto significa estar ahí para nuestros amigos cuando nos necesitan. Como cuando alguien se siente triste, podemos darle un abrazo o simplemente estar a su lado. Ser leal nos hace amigos de verdad."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar ser leales. Imagina que tu amigo está triste porque perdió su juguete favorito. ¿Qué harías? Podrías ofrecer ayudar a buscarlo o simplemente sentarte a su lado. Estas acciones muestran que te importa y que siempre estarás ahí. ¡Eso es ser un buen amigo!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo de maravilla! Ahora que sabemos tanto sobre la amistad, podemos recordar que ser un buen amigo es muy especial. Siempre podemos encontrar maneras de ser amables, compartir, escuchar y resolver problemas juntos. ¡Tú puedes hacer amigos increíbles!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un viaje maravilloso aprender sobre la amistad contigo. Recuerda siempre sonreír, compartir y escuchar. La amistad es un tesoro que podemos cuidar todos los días. ¡Gracias por ser un amigo tan especial! Espero verte pronto para más aventuras. ¡Adiós, pequeño amigo!"
+    }
+  ],
+  "title": "Historia de Friendship de Snowman Buddy Olaf-Style"
+}

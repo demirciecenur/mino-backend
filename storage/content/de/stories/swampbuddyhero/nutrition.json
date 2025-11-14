@@ -1,0 +1,104 @@
+{
+  "id": "swamp_buddy_hero_Ernährung_gesundes_Essen_Essgewohnheiten_gesunde_Lebensmittel_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "Ernährung, gesundes Essen, Essgewohnheiten, gesunde Lebensmittel",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin dein Swamp Buddy Hero. Heute gehen wir auf ein spannendes Abenteuer über Ernährung und gesundes Essen. Bist du bereit? Ich bin so neugierig auf dich und was du alles über gesundes Essen weißt. Lass uns gemeinsam entdecken, wie lecker und gesund Essen sein kann!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir darüber gesprochen haben, wie wichtig gesundes Essen ist? Gesundes Essen gibt uns die Energie, die wir brauchen, um zu spielen und zu wachsen. Stell dir vor, du bist ein kleiner Superheld und gutes Essen ist dein Treibstoff. Ohne diesen Treibstoff könnten wir nicht so schnell rennen oder so hoch springen. Ist das nicht spannend?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über verschiedene Arten von gesundem Essen sprechen. Obst und Gemüse sind wie bunte Farben in einem Regenbogen. Sie stecken voller Vitamine, die uns stark und gesund machen. Hast du schon mal eine knackige Karotte oder einen saftigen Apfel gegessen? Probier es aus, sie sind super lecker und gut für dich!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wusstest du, dass es auch wichtig ist, viel Wasser zu trinken? Wasser ist wie ein magischer Trank, der uns hilft, frisch und munter zu bleiben. Lass uns zusammen zählen, wie viele Gläser Wasser du heute schon getrunken hast. Eins, zwei, drei – wunderbar! Du machst das großartig!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über Wasser gesprochen haben, lass uns über eine ausgewogene Mahlzeit sprechen. Eine ausgewogene Mahlzeit hat ein bisschen von allem: Gemüse, Obst, Eiweiß und Kohlenhydrate. Das ist wie ein Team von Superhelden, die zusammenarbeiten. Jeder Teil hat seine eigene Superkraft, um dir zu helfen, stark und gesund zu bleiben."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Eine gute Essgewohnheit ist es, langsam zu essen. Wenn wir langsam essen, kann unser Bauch uns sagen, wann wir satt sind. Stell dir vor, du bist ein langsamer, weiser Elefant, der jeden Bissen genießt. So kannst du dein Essen richtig schmecken und dich besser fühlen. Lass uns das nächste Mal zusammen probieren, langsam zu essen."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns über Frühstück sprechen, das ist die wichtigste Mahlzeit des Tages! Es gibt uns den Startschuss für einen energiegeladenen Tag. Hast du heute dein Frühstück genossen? Vielleicht ein leckeres Müsli mit Früchten oder ein warmes Brot mit Honig? Großartig, du bist bereit für Abenteuer!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an unsere bunten Obst- und Gemüseregenbögen? Jeder Tag kann eine neue Farbe haben. Heute vielleicht rote Äpfel, morgen grüne Brokkoli. So bleibt es spannend und wir bekommen alle Nährstoffe, die wir brauchen. Lass uns zusammen überlegen, welche Farben wir heute essen können!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon mal darüber nachgedacht, wie das Essen auf unseren Tisch kommt? Es beginnt oft auf einem Bauernhof, wo frische Lebensmittel angebaut werden. Hast du eine Lieblingsfrucht oder ein Lieblingsgemüse, das du gerne isst? Ich bin neugierig, was du am liebsten magst!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns einen kleinen Trick lernen, um gesund zu bleiben. Wenn du Lust auf etwas Süßes hast, probiere es mit einer süßen Frucht wie einer Banane oder Beeren. Sie sind süß und lecker, aber auch gesund. So kannst du deinen süßen Zahn befriedigen und gleichzeitig deinem Körper Gutes tun!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Toll gemacht, kleiner Freund! Du lernst so viel über gesundes Essen und wie es uns hilft, stark zu bleiben. Denk daran, dass es Spaß macht, neue Lebensmittel auszuprobieren. Vielleicht gibt es ein Gemüse, das du noch nie probiert hast. Lass uns mutig sein und es ausprobieren! Du kannst das!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da du so viel über Ernährung weißt, kannst du anderen davon erzählen. Vielleicht deinen Freunden oder deiner Familie. Du kannst ihnen zeigen, wie man ein gesundes Sandwich macht oder einen leckeren Obstsalat zubereitet. Teilen macht Spaß und zusammen schmeckt es noch besser!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du schon mal einen Koch gespielt? Es macht großen Spaß, in der Küche zu helfen. Vielleicht kannst du beim Gemüsewaschen oder beim Tischdecken helfen. So wirst du zum kleinen Küchenhelden. Und wer weiß, vielleicht wirst du eines Tages ein großer Koch!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkst du, welche Lebensmittel sind deine Superhelden des Tages? Vielleicht die Karotten, die dir helfen, besser zu sehen, oder die Bananen, die dir Energie geben. Ich bin gespannt, welche Superkräfte du heute entdeckt hast. Erzähl es mir!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Danke, dass du mit mir auf dieses gesunde Abenteuer gegangen bist. Du hast so viel über Ernährung und gesundes Essen gelernt. Vergiss nicht, dass du ein kleiner Superheld bist, der mit gesundem Essen stark und glücklich bleibt. Ich freue mich darauf, bald mehr mit dir zu entdecken. Bis zum nächsten Mal, kleiner Freund!"
+    }
+  ],
+  "title": "Swamp Buddy Heros Nutrition Geschichte"
+}

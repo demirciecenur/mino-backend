@@ -1,0 +1,104 @@
+{
+  "id": "yellow_buddy_Bildschirmzeit_digitale_Sicherheit_Technologienutzung_gesunde_Bildschirmgewohnheiten_story",
+  "character": "Yellow Buddy",
+  "topic": "Bildschirmzeit, digitale Sicherheit, Technologienutzung, gesunde Bildschirmgewohnheiten",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Yellow Buddy, dein fröhlicher Begleiter. Heute gehen wir auf eine spannende Reise, um über Bildschirmzeit, digitale Sicherheit und gesunde Bildschirmgewohnheiten zu sprechen. Bist du bereit, mit mir zu lernen und Spaß zu haben? Ich bin so neugierig auf all die tollen Dinge, die wir entdecken werden. Lass uns gemeinsam loslegen und eine wunderbare Zeit haben!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie viel Spaß es macht, ein Spiel auf dem Tablet zu spielen? Aber wusstest du, dass es wichtig ist, nur eine bestimmte Zeit am Bildschirm zu verbringen? Zu viel Bildschirmzeit kann unsere Augen müde machen, so wie wenn wir zu lange in der Sonne bleiben. Deshalb ist es gut, ab und zu eine Pause zu machen. So können wir auch andere lustige Dinge tun, wie draußen spielen oder ein Buch lesen."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über digitale Sicherheit sprechen. Weißt du, dass wir unsere Informationen im Internet schützen müssen? Das ist wie ein Geheimversteck, das niemand finden darf. Du solltest niemals deinen Namen oder deine Adresse einfach so preisgeben. Es ist wichtig, Mama oder Papa zu fragen, bevor du etwas im Internet machst. So bleibst du sicher und kannst das Internet mit einem guten Gefühl nutzen."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super gemacht, du lernst schnell! Jetzt lass uns ein kleines Spiel spielen. Stell dir vor, du bist ein Superheld und musst deine Geheimnisse vor den Bösewichten schützen. Was würdest du tun, um sicher zu bleiben? Denk daran, immer einen Erwachsenen zu fragen, wenn du unsicher bist. Du bist ein toller Superheld, der sich gut um seine Sicherheit kümmert!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über Pausen gesprochen haben? Pausen sind wie ein kleines Nickerchen für unsere Augen und unser Gehirn. Wenn wir lange auf einen Bildschirm schauen, brauchen wir manchmal eine Pause, um unsere Augen auszuruhen. Lass uns zusammen bis fünf zählen und dann tief einatmen. Eins, zwei, drei, vier, fünf. Großartig! Jetzt bist du bereit für die nächste Runde Spaß."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt erklären wir, wie man gesunde Bildschirmgewohnheiten entwickeln kann. Es ist wichtig, eine feste Zeit für den Bildschirm zu haben, genau wie beim Zähneputzen. Vielleicht kannst du mit Mama und Papa einen Plan machen, wann du spielen darfst. Und vergiss nicht, auch andere Dinge wie Malen oder Bauen zu tun. So bleibt dein Tag spannend und abwechslungsreich!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das schon so gut! Jetzt lass uns überlegen, welche lustigen Aktivitäten wir ohne Bildschirme machen können. Wie wäre es mit einem Tanz im Wohnzimmer oder einem Picknick im Garten? Es gibt so viele tolle Möglichkeiten, Spaß zu haben und dabei aktiv zu bleiben. Du kannst sogar neue Spiele erfinden. Lass deiner Fantasie freien Lauf!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du jemals darüber nachgedacht, warum wir Bildschirme benutzen? Sie helfen uns, zu lernen, zu spielen und mit Freunden zu sprechen. Aber warum ist es wichtig, nicht zu lange daran zu bleiben? Kannst du dir vorstellen, was passieren würde, wenn wir den ganzen Tag nur auf Bildschirme schauen? Lass uns darüber nachdenken und herausfinden, warum Pausen so wichtig sind."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "War das nicht eine interessante Frage? Denken wir daran, dass es wichtig ist, unseren Körper und Geist in Bewegung zu halten. Wenn wir zu lange sitzen, fühlen wir uns vielleicht müde oder schlapp. Deshalb ist es gut, regelmäßig aufzustehen und sich zu bewegen. Vielleicht kannst du einen kleinen Tanz machen oder ein bisschen herumhüpfen. Das hält uns fit und glücklich!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir so viel gelernt haben, lass uns über die Technik sprechen, die wir jeden Tag benutzen. Technik ist wie ein Zauberstab, der uns viele Dinge leichter macht. Aber wir müssen lernen, wie wir sie richtig benutzen. Weißt du, dass wir mit Technik neue Dinge lernen können, wie Zahlen oder Buchstaben? Aber es ist auch wichtig, dass wir sie mit Bedacht einsetzen."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Denken wir daran, dass Technik uns helfen kann, aber wir sollten auch wissen, wann genug ist. Du kannst mit deinen Eltern eine Liste machen, wann und wie lange du Technik verwenden darfst. Das hilft dir, den Überblick zu behalten. Und vergiss nicht, dass es auch andere spannende Dinge gibt, die du machen kannst. Wie wäre es mit einem Abenteuer im Freien?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich klasse! Jetzt, da du all diese Dinge weißt, kannst du ein Bildschirm-Detektiv werden. Ein Bildschirm-Detektiv achtet darauf, dass die Bildschirmzeit gesund und sicher ist. Du kannst deinen Eltern zeigen, wie gut du das machst. Und vergiss nicht, dass du auch anderen helfen kannst, ein Bildschirm-Detektiv zu werden. Gemeinsam macht das Lernen noch mehr Spaß!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkst du, wie viele Minuten am Tag wir mit Bildschirmen verbringen sollten? 30 Minuten? Eine Stunde? Es ist wichtig, die richtige Balance zu finden. Was würdest du wählen, wenn du entscheiden könntest? Lass uns darüber nachdenken und mit Mama und Papa sprechen. Sie können dir helfen, die besten Entscheidungen zu treffen."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Du hast großartige Ideen! Es ist toll, darüber nachzudenken, wie wir unsere Zeit am besten nutzen können. Manchmal kann es schwer sein, sich zu entscheiden, aber mit ein bisschen Übung wird es leichter. Denk daran, dass es immer gut ist, mit jemandem darüber zu sprechen. Du bist ein toller Zuhörer und ein kluger Denker!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es Zeit, sich zu verabschieden, kleiner Freund. Wir hatten so viel Spaß und haben viel über Bildschirme, Sicherheit und gesunde Gewohnheiten gelernt. Ich bin so stolz auf dich und all die Dinge, die du jetzt weißt. Vergiss nicht, dass du jederzeit ein Bildschirm-Detektiv sein kannst. Bis zum nächsten Mal, und denk daran, immer neugierig und fröhlich zu bleiben!"
+    }
+  ],
+  "title": "Yellow Buddys Screen Time Geschichte"
+}

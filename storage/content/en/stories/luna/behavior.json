@@ -1,0 +1,38 @@
+{
+  "id": "luna_behavior_story",
+  "character": "Luna",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hi, I'm Luna! Ready for a short behavior adventure?"
+    },
+    {
+      "id": "question_1",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What made you happiest today?"
+    },
+    {
+      "id": "narration_2",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hi, I'm Luna! Ready for a short behavior adventure?"
+    },
+    {
+      "id": "closing_3",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "That was great! See you soon!"
+    }
+  ],
+  "title": "Luna's Behavior Story"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "koko_friendship_story",
+  "character": "Koko",
+  "topic": "friendship",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Koko, your brave and trusty guide. Today, we're going on an amazing adventure all about friendship. Are you ready to explore what makes a great friend? Together, we'll learn how to show kindness, share fun moments, and help each other. I'm so excited to have you with me on this journey. Let's begin our adventure with a big smile! Can you show me your biggest, brightest smile?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Friendship is like a special treasure we find in our hearts. It's about being kind and caring to the people we love. When we make friends, we share happy times and help each other when we're feeling sad. Remember, being a good friend means listening and being there for someone when they need you. Just like superheroes, friends help each other be strong and brave. Now, let's think about a time when you felt happy playing with a friend."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "To be a good friend, we must learn to share. Sharing is when we let others use our toys or join in our games. It shows we care and want everyone to have fun. Imagine you have a toy car, and your friend wants to play with it too. By sharing, you both can have a great time together. Let's practice sharing by pretending to pass a toy to a friend. Can you imagine how happy that would make them feel?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking about sharing! You can do it, and it's wonderful to see you trying. Now, let's think about another important part of friendship: saying kind words. When we say nice things, we make our friends feel happy and special. Can you think of a kind word you might say to a friend? Maybe something like, 'You're awesome!' or 'I like playing with you!' Remember, your words have the power to make someone smile."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we know about sharing and kind words, let's talk about playing together. Playing is one of the best ways to make friends. When we play, we laugh, learn, and create new adventures. Whether it's building a castle with blocks or pretending to be superheroes, playing brings us closer to our friends. Think about your favorite game to play with a friend. Isn't it fun to imagine all the adventures you can have together?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Listening is also a super important part of being a friend. When we listen, we show our friends that we care about what they have to say. Imagine your friend is telling you a story about their day. By listening carefully, you can learn more about them and understand how they feel. Let's practice listening by sitting quietly for a moment and imagining we're hearing a friend's story. Can you hear what they're saying?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning about friendship! Listening, sharing, and speaking kindly are all superpowers you have. Each time you use these superpowers, you make your friendships stronger. Remember, every small act of kindness makes a big difference. Can you think of a time when you used one of your friendship superpowers? It could be as simple as giving a hug or saying thank you."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about helping our friends. When a friend needs help, we can be there to support them. Helping could be picking up a toy they dropped or comforting them if they're sad. Imagine your friend is trying to reach something high up. You could offer to help them, and together, you can solve the problem. Helping others makes us feel good inside and shows we care. Can you think of a way you might help a friend today?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Sometimes, friends might have different ideas or want to do different things. That's okay! It's important to talk and find a way to play together. This is called compromising. If your friend wants to play tag and you want to draw, maybe you can do both. First, play a little tag, then sit down to draw together. Finding a balance makes sure everyone is happy. Let's think of a way you can compromise with a friend."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastic! You're learning so much about being a great friend. Remember, friendships grow stronger with every kind action and word. You're building a treasure chest of happy memories with each friend you make. Keep using your friendship superpowers, and you'll have many wonderful friends. You're doing so well, and I'm so proud of you for trying. Can you feel how strong your friendship powers are becoming?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I have a question for you. What is your favorite thing to do with a friend? Is it playing hide and seek, drawing together, or maybe telling funny stories? Each of these activities is a wonderful way to spend time with friends. Think about what makes you happiest when you're with your friends. Can you tell me why that activity is so special to you? I'm curious to hear your favorite friendship moments."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Thank you for sharing your favorite friendship moments. It's those happy times that make friendships so special. Remember, friends are like stars, always there to light up our lives. Even when we're apart, the memories we make keep us connected. Keep your heart open, and you'll always have room for more friends. Let's think about how we can make tomorrow even brighter with our friendship superpowers."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about sharing and helping? Those are just the start of the amazing things you can do with your friends. Each day is a new opportunity to make someone smile. Whether it's sharing a toy or saying 'hello' to someone new, every action counts. Think about what you can do tomorrow to be an even better friend. Maybe there's someone new you'd like to play with or a friend who could use a hug."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're ready to be the best friend you can be! Keep exploring the world of friendship with courage and kindness. Each step you take makes you stronger and more confident. Remember, you have all the tools you need to make wonderful friendships. You're amazing, and your friends are lucky to have you. Keep shining bright, just like the star you are!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "And so, our journey about friendship comes to an end today. But remember, every day is a chance to create new adventures with your friends. I'm so glad you joined me, and I hope you had fun learning. Keep using your friendship superpowers, and you'll make the world a happier place. Thank you for being such a great listener and friend. Until next time, keep smiling and making memories with your friends! Goodbye for now!"
+    }
+  ],
+  "title": "Koko's Friendship Story"
+}

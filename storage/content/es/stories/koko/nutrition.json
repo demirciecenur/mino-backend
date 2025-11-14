@@ -1,0 +1,104 @@
+{
+  "id": "koko_nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables_story",
+  "character": "Koko",
+  "topic": "nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Koko. Hoy vamos a embarcarnos en un increíble viaje sobre la nutrición y la alimentación saludable. ¿Estás listo? Estoy muy emocionado de compartir contigo todos estos secretos de los alimentos que nos mantienen fuertes y felices. ¡Vamos a comenzar esta aventura juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La nutrición es como el combustible que necesita nuestro cuerpo para funcionar bien. Así como los coches necesitan gasolina, nosotros necesitamos alimentos saludables. Comer frutas y verduras, por ejemplo, nos da vitaminas y energía. ¿Sabías que las zanahorias pueden ayudarnos a ver mejor en la oscuridad? Es increíble cómo los alimentos tienen superpoderes."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos sobre cómo podemos elegir alimentos saludables. Es importante que nuestro plato esté lleno de colores, como un arcoíris. Cada color en las frutas y verduras nos da diferentes nutrientes. Los tomates rojos, las espinacas verdes y las naranjas cítricas son ejemplos maravillosos. Intentemos recordar comer al menos cinco colores diferentes al día."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Tú puedes hacerlo! Comer bien es una forma de ser un verdadero héroe de la salud. Imagina que cada bocado de comida saludable es como una pequeña misión cumplida. Cada vez que eliges una manzana en lugar de un caramelo, estás haciendo una elección poderosa. ¡Estoy tan orgulloso de ti por querer aprender sobre la nutrición!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos que el desayuno es la comida más importante del día. Nos da energía para comenzar nuestras aventuras diarias. Un buen desayuno puede incluir un tazón de avena con frutas o un yogur con cereal. ¿Te gustaría intentar un desayuno diferente mañana? ¡Será una manera fantástica de empezar el día con energía!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a practicar cómo hacer un plato saludable. Imagina que tienes un plato y lo divides en cuatro partes. Una parte debe ser para proteínas, como el pollo o los frijoles. Otra parte es para carbohidratos, como el arroz o las papas. Y las dos partes restantes para muchas verduras y frutas. ¡Así es como creamos un plato balanceado!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Recuerda que cada elección saludable que haces es un paso hacia ser más fuerte y feliz. Piensa en los alimentos como amigos que te ayudan a crecer. Y no olvides beber suficiente agua, que es muy importante para mantenernos hidratados. ¡Sigue adelante, pequeño héroe de la salud!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabes por qué es importante comer despacio y masticar bien los alimentos? Cuando comemos despacio, nuestro estómago tiene tiempo para decirnos que está lleno. Además, masticar bien ayuda a nuestro cuerpo a digerir mejor los alimentos. ¿Te gustaría intentar comer más despacio en tu próxima comida? ¡Es una gran idea!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos sobre la importancia de comer despacio, hablemos sobre las meriendas. Las meriendas son importantes para mantener nuestra energía durante el día. Una buena merienda podría ser una banana o un puñado de almendras. Escoge meriendas que te den energía, no que te la quiten. ¡Así podrás jugar y aprender con más ganas!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a aprender sobre la importancia de leer las etiquetas de los alimentos. Las etiquetas nos dicen qué hay dentro de los productos que comemos. Es como un mapa del tesoro que nos guía hacia las elecciones saludables. Busca palabras como 'natural' o 'integral' en las etiquetas. ¡Así sabrás que estás eligiendo bien!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estás aprendiendo tanto! Cada paso que das hacia una alimentación saludable es un gran logro. Piensa en cómo te sientes después de comer bien: lleno de energía y listo para cualquier cosa. ¡Sigue tomando decisiones inteligentes y verás cómo te vuelves más fuerte cada día! Estoy aquí para apoyarte en cada paso del camino."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora hablemos sobre la importancia de comer en familia. Compartir una comida con la familia es una gran oportunidad para disfrutar y aprender juntos. Puedes contarles a tus padres lo que has aprendido sobre la alimentación saludable. Además, es un momento especial para conversar y reír. ¡Comer juntos hace que la comida sea aún más deliciosa!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para terminar, recordemos hacer ejercicio como parte de un estilo de vida saludable. Moverse es tan importante como comer bien. Puedes correr, bailar o simplemente jugar en el parque. El ejercicio ayuda a nuestro cuerpo a mantenerse fuerte y sano. ¿Cuál es tu actividad física favorita? ¡Vamos a movernos y divertirnos!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres un campeón en aprender sobre la salud! Cada cosa nueva que aprendes te hace más fuerte y preparado para el futuro. Recuerda, la salud es un tesoro que debemos cuidar cada día. Estoy muy orgulloso de ti por todo lo que has aprendido hoy. ¡Sigue adelante, siempre con valentía y alegría!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer hablar contigo sobre la nutrición y la alimentación saludable. Espero que te hayas divertido y aprendido mucho. Recuerda que siempre estoy aquí para ayudarte a ser un héroe de la salud. Cuida de ti mismo y sigue eligiendo alimentos saludables. ¡Hasta la próxima, pequeño amigo!"
+    }
+  ],
+  "title": "Historia de Nutrition de Koko"
+}

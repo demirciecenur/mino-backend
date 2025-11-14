@@ -1,0 +1,104 @@
+{
+  "id": "bubu_nutrición_alimentación_saludable_habitos_alimentarios_alimentos_saludables_story",
+  "character": "Bubu",
+  "topic": "nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Bubu, y hoy vamos a aprender sobre algo muy importante: la nutrición. ¿Sabías que los alimentos saludables nos hacen sentir fuertes y felices? Vamos a descubrir juntos cómo podemos hacer que nuestro cuerpo esté lleno de energía. Estoy tan emocionado de compartir esta aventura contigo. ¿Estás listo para empezar?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La nutrición es como darle a nuestro cuerpo el combustible que necesita para jugar y aprender. Imagina que nuestro cuerpo es como un coche, y los alimentos saludables son la gasolina que lo hace funcionar. Comer frutas y verduras nos da vitaminas que nos ayudan a crecer. ¿Te gusta comer manzanas o zanahorias? Son deliciosas y nos hacen sentir bien."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de los hábitos alimentarios. Es importante comer a la misma hora todos los días. Esto ayuda a nuestro cuerpo a saber cuándo es hora de comer y cuándo es hora de descansar. Como cuando cepillas tus dientes cada noche antes de dormir. Así, tu cuerpo se siente feliz y listo para nuevas aventuras."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¿Sabes qué más es importante? Beber agua. El agua es como un superhéroe para nuestro cuerpo. Nos mantiene hidratados y ayuda a que nuestro cerebro funcione bien. ¡Vamos a beber un poco de agua juntos! ¿No es refrescante? ¡Qué bien lo estás haciendo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos que los dulces y las golosinas están bien de vez en cuando. Pero no debemos comerlos todo el tiempo. Es como cuando juegas con tus juguetes favoritos; a veces necesitas descansar para disfrutar más tarde. Comer sano es lo mismo. Nos da energía para correr, saltar y jugar."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer un pequeño ejercicio. Cerremos los ojos e imaginemos un plato lleno de colores. Puede tener rojo de manzanas, verde de brócoli, y amarillo de plátanos. ¿No es bonito? Comer una variedad de colores significa obtener diferentes nutrientes. ¡Es como pintar un arcoíris en nuestro plato!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ahora, pensemos en un desayuno saludable. Podemos comer avena con un poco de fruta. ¿Te gustaría probarlo? La avena nos da energía para empezar el día con fuerza. Y con fruta, es como un postre saludable. ¡Qué idea tan maravillosa!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas qué alimentos son saludables? ¿Qué tal las verduras como las espinacas o el brócoli? ¿Y las frutas como las fresas o los plátanos? ¿Cuál es tu fruta favorita? Me encantaría saberlo. ¡Compartir es divertido!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Es importante recordar que los alimentos saludables nos ayudan a mantenernos fuertes. Como cuando construyes una torre con bloques, necesitas una base sólida. Comer bien es esa base para nuestro cuerpo. Nos ayuda a jugar más tiempo y a sentirnos felices cada día."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando comemos juntos en familia, también aprendemos buenos hábitos. Es un momento para compartir y disfrutar. Podemos hablar sobre nuestro día y reírnos juntos. ¿Tienes un momento favorito para comer con tu familia? ¡Es tan especial!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tú puedes ser un héroe de la nutrición. Cada vez que eliges una zanahoria en lugar de una galleta, estás cuidando de ti mismo. ¡Qué valiente eres! Estoy muy orgulloso de ti. Vamos a seguir haciendo elecciones saludables juntos."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en hacer ejercicio. Mover nuestro cuerpo es tan importante como comer bien. Podemos correr, saltar o bailar. ¿Te gusta bailar? Es una forma divertida de mantenernos activos y saludables. ¡Vamos a movernos un poco!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Te acuerdas de lo que aprendimos hoy? La nutrición es como darle amor a nuestro cuerpo. Comer frutas, verduras, y beber agua nos hace sentir felices. ¿Te gustaría contarle a un amigo lo que has aprendido? Compartir es cuidar."
+    },
+    {
+      "id": "scene_13",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Ahora, me gustaría escuchar tus ideas. ¿Qué alimentos saludables te gustaría probar la próxima vez? Tal vez una nueva fruta o una verdura que no conocías. Estoy seguro de que te gustarán. ¡Eres muy valiente por probar cosas nuevas!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Fue un placer aprender contigo hoy. Espero que te hayas divertido tanto como yo. Recuerda, cada elección saludable es un regalo para tu cuerpo. Gracias por acompañarme en esta aventura. ¡Hasta la próxima, pequeño amigo!"
+    }
+  ],
+  "title": "Historia de Nutrition de Bubu"
+}

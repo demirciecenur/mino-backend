@@ -1,0 +1,98 @@
+{
+  "id": "luna_confidence_story",
+  "character": "Luna",
+  "topic": "confidence",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Luna, et aujourd'hui, nous allons explorer le merveilleux monde de la confiance! Es-tu prêt à découvrir comment devenir aussi courageux qu'un petit aventurier? Ensemble, nous allons apprendre tant de choses amusantes et magiques. Je suis tellement excitée de partager ce voyage avec toi. Alors, partons à l'aventure!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance, c'est comme une petite lumière brillante à l'intérieur de nous. Elle nous aide à essayer de nouvelles choses, comme apprendre à faire du vélo ou chanter une chanson devant la classe. Imagine que cette lumière grandit chaque fois que tu fais quelque chose de courageux. N'est-ce pas magique? La confiance, c'est aussi se sentir bien dans sa peau, même quand on fait des erreurs. Tout le monde fait des erreurs, et c'est ainsi que nous apprenons!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment nous pouvons renforcer notre confiance. Commence par te tenir bien droit, comme un grand arbre fier. Sens-tu comme cela te rend plus fort? Ensuite, pense à une fois où tu as fait quelque chose de difficile, comme attacher tes lacets tout seul. Rappelle-toi de ce sentiment de fierté. C'est ça, la confiance en soi!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Et si nous essayions un petit exercice ensemble? Prenons trois grandes respirations ensemble. Inspire profondément par le nez et expire lentement par la bouche. Une, deux, trois! Sens-tu comme cela te calme et te rend plus confiant? C'est une astuce magique que tu peux utiliser à tout moment!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi, chaque petit pas que tu fais te rend plus confiant. Même des choses simples comme ranger tes jouets ou dire bonjour à un nouvel ami. Chaque fois que tu essaies quelque chose de nouveau, ta lumière de confiance brille de plus en plus. N'est-ce pas merveilleux de savoir que tu peux grandir et devenir plus courageux chaque jour?"
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail incroyable! Je suis tellement fière de toi. Chaque fois que tu te sens un peu nerveux, souviens-toi de cette lumière spéciale en toi. Elle est toujours là pour t'aider à être courageux. Et n'oublie pas, tu n'es jamais seul. Je suis ici pour t'accompagner à chaque étape!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons de penser à un moment où tu as été très courageux. Peut-être que c'était la première fois que tu es allé à l'école sans tes parents. Comment t'es-tu senti après? Fier et heureux, n'est-ce pas? C'est ça, la magie de la confiance. Elle te donne des ailes pour voler vers de nouvelles aventures!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, y a-t-il quelque chose que tu aimerais essayer, mais qui te fait un peu peur? Peut-être monter sur un toboggan très haut ou parler devant toute la classe. Qu'en penses-tu? N'oublie pas, chaque fois que tu essaies, ta lumière de confiance grandit encore plus. Es-tu prêt à relever ce défi?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tu sais, la confiance est comme un jardin magique que nous devons arroser chaque jour. Avec un peu d'amour et de patience, il fleurit magnifiquement. Chaque sourire, chaque mot gentil que tu dis à toi-même, c'est comme une goutte d'eau pour ce jardin. Alors, continuons à l'arroser ensemble!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Je sais que tu peux le faire! Tu as en toi tout ce qu'il faut pour être confiant et courageux. Souviens-toi de toujours croire en toi, même lorsque les choses semblent difficiles. Tu es plus fort que tu ne le penses, et je suis là pour te rappeler que tu es incroyable!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu déjà aidé quelqu'un d'autre à se sentir plus confiant? Peut-être un ami qui avait peur de grimper au sommet du jeu. Comment l'as-tu aidé? En lui tenant la main peut-être? Tu vois, la confiance, c'est aussi partager notre lumière avec les autres!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "C'est merveilleux de voir comment tu peux inspirer les autres à être courageux, tout comme toi. Chaque fois que tu partages un sourire ou un mot gentil, tu aides à faire grandir la lumière de la confiance autour de toi. C'est comme un petit rayon de soleil qui éclaire tout le monde!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour terminer notre aventure, pensons à quelque chose de positif que nous pouvons dire à nous-mêmes tous les jours. Par exemple: 'Je suis fort et courageux', ou 'Je peux accomplir de grandes choses'. Répétons-le ensemble, veux-tu? Voilà, tu viens de renforcer ta confiance encore un peu plus!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce voyage magique avec moi aujourd'hui. Je suis tellement heureuse d'avoir pu explorer la confiance avec toi. Souviens-toi toujours de ta lumière intérieure, et n'hésite pas à la faire briller pour toi et pour les autres. À bientôt, petit aventurier, et n'oublie pas que tu es merveilleux tel que tu es!"
+    }
+  ],
+  "title": "Histoire de Confidence de Luna"
+}

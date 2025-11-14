@@ -1,0 +1,98 @@
+{
+  "id": "swamp_buddy_hero_bedtime_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin dein Sumpf-Buddy-Held. Heute machen wir eine lustige Reise in die Welt der Schlafenszeit. Bist du bereit? Ich bin so gespannt, was wir alles erleben werden. Lass uns gemeinsam die Geheimnisse der Abendrituale entdecken!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Schlafenszeit ist eine ganz besondere Zeit, findest du nicht? Es ist die Zeit, in der wir uns entspannen und auf eine gute Nacht vorbereiten. Erinnerst du dich, wie wir über das Zähneputzen gesprochen haben? Das ist ein wichtiger Teil der Schlafenszeit. Es hält unsere Zähne stark und gesund, wie die von einem echten Helden!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über das Anziehen von Schlafanzügen sprechen. Schlafanzüge sind wie unsere Superheldenanzüge für die Nacht. Sie halten uns warm und gemütlich. Hast du deinen Lieblingsschlafanzug schon bereit? Wenn nicht, lass uns einen aussuchen, der so bequem ist wie eine weiche Wolke."
+    },
+    {
+      "id": "scene_3",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nachdem wir unseren Schlafanzug angezogen haben, ist es Zeit für eine ruhige Geschichte. Eine Geschichte hilft uns, in eine Traumwelt zu reisen. Denk an all die Abenteuer, die wir in unseren Träumen erleben können. Vielleicht fliegen wir mit Drachen oder schwimmen mit Delfinen. Geschichten sind wie magische Schlüssel zu fantastischen Welten!"
+    },
+    {
+      "id": "scene_4",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lass uns nun über das Kuscheln sprechen. Kuscheln ist wie eine warme Umarmung, die uns hilft, uns sicher und geliebt zu fühlen. Hast du ein Lieblingskuscheltier? Nimm es in den Arm und spüre, wie es dir Geborgenheit schenkt. Du machst das großartig!"
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir gekuschelt haben, ist es Zeit, uns zu entspannen. Wir können drei tiefe Atemzüge nehmen, um uns zu beruhigen. Atme tief ein und wieder aus. Fühlst du, wie die Ruhe in dich hineinströmt? Das ist wunderbar!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Eine weitere tolle Aktivität vor dem Schlafengehen ist das Zählen. Lass uns zusammen bis fünf zählen. Eins, zwei, drei, vier, fünf. Zählen hilft uns, uns auf etwas Einfaches zu konzentrieren und unsere Gedanken zu beruhigen. Du bist ein toller Zähler!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nun, nachdem wir gezählt haben, lass uns über die Bedeutung von leisen Geräuschen sprechen. Vielleicht hörst du das sanfte Rauschen von Blättern oder das leise Summen einer Biene. Diese Geräusche sind wie eine sanfte Melodie, die uns ins Traumland begleitet. Hörst du auch etwas?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wunderbar! Es ist wichtig, sich auf die schönen Dinge vor dem Einschlafen zu konzentrieren. Denk an etwas, das dir heute Freude gemacht hat. Vielleicht war es ein Spiel mit Freunden oder ein leckeres Eis. Diese Gedanken sind wie kleine Sterne, die uns durch die Nacht führen."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir uns auf die Nacht vorbereitet haben, ist es Zeit, unsere Augen zu schließen. Stell dir vor, du liegst auf einer weichen Wolke. Die Wolke trägt dich sanft durch den Himmel. Spürst du, wie du langsam einschläfst? Das ist der Zauber der Schlafenszeit!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Wusstest du, dass Schlaf wie eine Reise ist? Wohin möchtest du heute Nacht reisen? Vielleicht besuchst du einen geheimnisvollen Dschungel oder einen lustigen Jahrmarkt. Was denkst du, was du in deinen Träumen erleben wirst?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Wenn wir schlafen, tanken wir neue Energie für den nächsten Tag. Schlaf ist wie ein Zaubertrank, der uns stark und fröhlich macht. Morgen wartet ein neuer Tag voller Abenteuer auf dich. Bist du bereit, die Welt zu erobern?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein echter Schlafenszeit-Held! Jeden Tag lernst du mehr über die Welt und dich selbst. Schlafen hilft dir, groß und stark zu werden. Du kannst stolz auf dich sein!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über die Schlafenszeit zu sprechen. Ich hoffe, du hattest genauso viel Spaß wie ich. Jetzt ist es Zeit, die Augen zu schließen und ins Traumland zu reisen. Gute Nacht, kleiner Held! Träume süß und bis zum nächsten Abenteuer!"
+    }
+  ],
+  "title": "Swamp Buddy Heros Bedtime Geschichte"
+}

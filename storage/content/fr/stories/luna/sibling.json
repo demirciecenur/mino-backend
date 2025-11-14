@@ -1,0 +1,98 @@
+{
+  "id": "luna_sibling_story",
+  "character": "Luna",
+  "topic": "sibling",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis ! Je suis Luna, et aujourd'hui nous allons explorer le merveilleux monde des frères et sœurs. Avez-vous un frère ou une sœur ? Oh, je suis tellement curieuse d'en savoir plus ! Ensemble, nous découvrirons comment jouer, partager et s'amuser avec eux. Êtes-vous prêts pour cette aventure magique ?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Avoir un frère ou une sœur, c'est comme avoir un ami magique avec qui on peut toujours jouer. Imaginez-vous en train de construire un château de sable ensemble à la plage, ou de partager un goûter délicieux. Parfois, il peut y avoir des disputes, mais ce n'est jamais grave. Vous pouvez toujours vous réconcilier avec un câlin ou un sourire. C'est ça, l'amour fraternel, un lien spécial qui dure pour toujours."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de partager. Partager, c'est offrir une partie de ce que l'on a à quelqu'un d'autre. Par exemple, si tu as deux jolis jouets, tu peux en donner un à ton frère ou ta sœur. Cela les rendra très heureux et vous pourrez jouer ensemble. C'est un peu comme partager un gros gâteau au chocolat, chacun en prend un morceau ! Partager rend tout plus amusant, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons de compter ensemble maintenant. Un, deux, trois, quatre, cinq ! Bravo, vous avez réussi ! C'est tellement amusant de faire des choses ensemble. Continuez à pratiquer et vous deviendrez des experts en comptage. Vous pouvez même apprendre à votre frère ou votre sœur comment compter. Vous verrez, ils seront ravis de suivre votre exemple !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous, jouer ensemble, c'est aussi très important. Vous pouvez inventer des histoires magiques où vous êtes les héros. Peut-être que vous êtes des explorateurs à la recherche d'un trésor caché dans le jardin. Ou bien vous êtes des astronautes voyageant vers des étoiles lointaines. Avec un peu d'imagination, les aventures sont infinies !"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà joué à cache-cache avec votre frère ou votre sœur ? C'est un jeu tellement amusant où l'on doit se cacher et se chercher. Où aimez-vous vous cacher ? Dans le jardin, derrière un grand arbre, ou peut-être sous la table ? Jouer ensemble renforce les liens et crée des souvenirs inoubliables. Alors, où allez-vous vous cacher la prochaine fois ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après avoir joué, il est temps de se reposer un peu. Vous pouvez lire un livre ensemble, blottis sous une couverture douce. Les histoires nous transportent dans des mondes magiques où tout est possible. Vous pouvez aussi inventer votre propre histoire, avec des personnages rigolos et des aventures incroyables. N'oubliez pas, les histoires sont encore meilleures quand elles sont partagées."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Il est important de se rappeler de dire merci et s'il te plaît. Ces mots magiques rendent la vie plus douce et montrent que l'on apprécie les autres. Par exemple, quand ton frère ou ta sœur te prête un jouet, n'oublie pas de dire merci. Et quand tu veux quelque chose, dis s'il te plaît. Ces petits mots font une grande différence !"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, prenons trois respirations profondes ensemble. Inspirez doucement, et expirez lentement. Encore une fois, inspirez, et expirez. Une dernière fois, inspirez... et expirez. C'est apaisant, n'est-ce pas ? Vous pouvez faire cet exercice avec votre frère ou votre sœur pour vous détendre après une longue journée de jeux."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, même si parfois on se dispute, l'important est de toujours se réconcilier. Un câlin ou un sourire peut faire disparaître les petits nuages. Quand on est fâché, il suffit de parler calmement et d'écouter l'autre. Vous verrez, tout s'arrangera vite et vous pourrez retourner jouer ensemble, heureux comme avant."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, quelles activités aimez-vous faire avec votre frère ou votre sœur ? Peut-être aimez-vous dessiner, danser, ou chanter ensemble ? Chaque moment passé ensemble est précieux et renforce votre amitié. Alors, quelle sera votre prochaine activité amusante à faire ensemble ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous, les frères et sœurs sont comme des étoiles dans le ciel. Parfois, elles sont cachées par les nuages, mais elles brillent toujours. Votre relation est spéciale et unique, pleine de moments magiques. Prenez soin l'un de l'autre et continuez de créer de beaux souvenirs ensemble. Le lien que vous partagez est un trésor inestimable."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Avez-vous déjà fait un pique-nique avec votre frère ou votre sœur ? C'est une belle occasion de profiter de la nature et de déguster de bonnes choses. Vous pouvez préparer des sandwiches, des fruits, et des biscuits. Installez une couverture dans le jardin ou au parc, et amusez-vous à manger ensemble. Quel délice !"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Et voilà, notre aventure touche à sa fin. Merci d'avoir exploré le monde des frères et sœurs avec moi aujourd'hui. J'espère que vous avez appris plein de choses et que vous vous êtes amusés. N'oubliez pas, chaque jour est une nouvelle aventure à partager avec votre frère ou votre sœur. À bientôt mes petits amis, continuez de rêver et de jouer ensemble !"
+    }
+  ],
+  "title": "Histoire de Sibling de Luna"
+}

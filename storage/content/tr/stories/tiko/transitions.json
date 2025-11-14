@@ -1,0 +1,104 @@
+{
+  "id": "tiko_transitions_story",
+  "character": "Tiko",
+  "topic": "transitions",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Tiko. Bugün birlikte transitions, yani değişimler hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Değişimler bazen biraz korkutucu olabilir ama birlikte olduğumuzda her şey daha eğlenceli ve kolay olacak."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Değişimler hayatımızın bir parçası, tıpkı büyümek gibi. Örneğin, sabahları uyanıp kahvaltı yapmak bir geçiştir. İlk başta biraz zor gelebilir ama zamanla daha kolay olur. Her gün yeni bir macera ve yeni bir başlangıç demek. Bu yüzden değişimleri kucaklamak önemlidir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, değişimlerin ne kadar eğlenceli olabileceğini düşünelim. Mesela, yeni bir yere taşınmak veya yeni bir okulda başlamak. Başlangıçta biraz endişe verici olabilir ama yeni arkadaşlar edinmek ve yeni şeyler öğrenmek çok heyecan verici! Bir değişimin ardından gelen yenilikleri keşfetmek her zaman bir fırsat sunar."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım. Haydi hep birlikte, değişimlerin hayatımıza kattığı güzel şeyleri sayalım. Bir, yeni arkadaşlar. İki, yeni oyunlar. Üç, yeni maceralar. Böylece, değişimlerle gelen güzellikleri daha iyi anlayabiliriz. Harika gidiyorsun!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda değişimlerin ne kadar eğlenceli olabileceğinden bahsetmiştik. Şimdi, değişimlerin neden önemli olduğunu düşünelim. Değişimler bize yeni şeyler öğretir ve daha güçlü olmamıza yardımcı olur. Yeni bir şey denemek, cesaretimizi artırır ve kendimize güvenimizi geliştirir. Bu yüzden, değişimlerle karşılaştığımızda onları kucaklamak önemlidir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Değişimlerle başa çıkmanın yollarından biri, onları planlamaktır. Mesela, okula başlarken çantanı önceden hazırlamak iyi bir fikirdir. Böylece sabahları daha az stres yaşarsın. Ya da yeni bir yere taşınırken, odanı nasıl düzenleyeceğini planlamak heyecan verici olabilir. Plan yapmak, değişimlere uyum sağlamanı kolaylaştırır."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, birlikte bir nefes egzersizi yapalım. Derin bir nefes alalım ve yavaşça verelim. Bir, iki, üç... Rahatladın mı? Harika! Unutma, değişimlerle karşılaştığında derin nefes almak seni sakinleştirir ve daha iyi hissettirir. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki nefes egzersizimizde ne kadar rahatladığımızı hatırlıyor musun? Şimdi, değişimlerin hayatımıza getirdiği yeni alışkanlıklardan bahsedelim. Her gün dişlerini fırçalamak gibi. Başlangıçta zor gelebilir ama zamanla bir rutin haline gelir. Bu yeni alışkanlıklar, sağlıklı ve mutlu olmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, sen hangi değişimlerle karşılaştın? Yeni bir okula mı başladın, yoksa yeni bir arkadaş mı edindin? Belki de bir hobiye başladın! Hadi, biraz düşün. Bu değişimlerin sana neler kattığını fark ettin mi? Seninle bu konuda konuşmayı çok isterim."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Değişimlerin bize kattığı şeylerden biri de yeni deneyimlerdir. Örneğin, ilk kez bir hayvanat bahçesine gitmek gibi. Orada gördüğün hayvanlar ve öğrendiğin bilgiler seni daha bilgili yapar. Her yeni deneyim, seni biraz daha büyütür ve geliştirir. Bu yüzden değişimleri sevinçle karşılamak önemlidir."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Değişimlerle başa çıkmanın bir diğer yolu da, kendine zaman tanımaktır. Yeni bir ortama alışmak zaman alabilir ve bu çok normaldir. Kendine sabırlı ol ve her gün küçük adımlar at. Böylece, değişime uyum sağlamak daha kolay olur. Unutma, her adım seni daha güçlü yapar."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte bir oyun daha oynayalım mı? Haydi, değişimlerin getirdiği olumlu şeyleri hayal edelim. Mesela, yeni bir arkadaş edinmek. Bu arkadaşla birlikte oynayabileceğin oyunları düşün. Ya da yeni bir yer keşfetmek. Orada neler göreceksin? Hayal gücünü kullan, bu harika!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki oyunumuzda ne kadar eğlendiğimizi hatırlıyor musun? Şimdi, değişimlerin neden bir fırsat olduğunu düşünelim. Değişimler, bize kendimizi geliştirmek için yeni yollar sunar. Yeni şeyler öğrenmek, yeni beceriler kazanmak demektir. Bu da bizi daha donanımlı ve mutlu yapar."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir sonraki maceramızda, değişimlerin getirdiği sürprizleri keşfedeceğiz. Hazır mısın? Değişimlerle dolu bir dünya, keşfetmemizi bekliyor. Seninle bu yolculuğa çıkmak çok heyecan verici olacak. Birlikte çok şey öğreneceğiz!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte değişimler hakkında çok şey öğrendik. Seninle bu macerayı paylaşmak harikaydı. Unutma, değişimler hayatımızın bir parçası ve onları kucaklamak önemlidir. Her değişim, yeni bir başlangıç ve fırsattır. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Tiko'ın Transitions Hikayesi"
+}

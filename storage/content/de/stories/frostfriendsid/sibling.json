@@ -1,0 +1,98 @@
+{
+  "id": "frost_friend_sid_sibling_story",
+  "character": "Frost Friend Sid",
+  "topic": "sibling",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo liebe Freunde! Ich bin Frostfreund Sid und heute haben wir ein ganz besonderes Abenteuer vor uns. Wir werden über Geschwister sprechen. Was für eine spannende Reise das wird! Geschwister können die besten Freunde im Leben sein, und ich kann es kaum erwarten, euch mehr darüber zu erzählen. Seid ihr bereit, mit mir auf Entdeckungsreise zu gehen? Großartig!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister sind wie beste Freunde, die immer da sind. Manchmal spielen sie zusammen, manchmal streiten sie sich, aber am Ende haben sie sich immer lieb. Wenn du Geschwister hast, weißt du, wie viel Spaß es machen kann, zusammen zu spielen. Vielleicht habt ihr ein Lieblingsspiel, das ihr immer zusammen spielt. Es ist schön, jemanden zu haben, mit dem man alles teilen kann, oder?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns über das Teilen sprechen. Teilen ist eine wunderbare Art, Liebe zu zeigen. Wenn du dein Lieblingsspielzeug mit deinem Geschwisterchen teilst, zeigst du, dass du es lieb hast. Es ist nicht immer einfach, aber es macht beide glücklich. Stell dir vor, wie schön es ist, wenn dein Bruder oder deine Schwester etwas mit dir teilt. Das ist Geschwisterliebe!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns zusammen etwas Lustiges tun! Stell dir vor, du und dein Geschwisterchen seid ein super Team. Ihr könnt zusammen eine Burg bauen oder ein tolles Bild malen. Glaubt an euch, denn zusammen könnt ihr alles schaffen. Ist das nicht großartig? Ihr seid ein fantastisches Team!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert ihr euch, als wir über das Teilen gesprochen haben? Es gibt so viele Möglichkeiten, wie Geschwister einander helfen können. Vielleicht kannst du deinem Geschwisterchen helfen, die Schuhe zu binden oder beim Aufräumen des Zimmers. Kleine Dinge machen einen großen Unterschied! Es ist toll, einander zu helfen und gemeinsam stark zu sein."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Wisst ihr, manchmal gibt es auch Missverständnisse zwischen Geschwistern. Aber das ist in Ordnung, denn dadurch lernen wir. Wenn ihr euch mal streitet, versucht, euch zu entschuldigen und darüber zu reden. Das macht die Beziehung stärker. Und erinnert euch, nach jedem Streit kommt ein Lächeln!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lasst uns über die schönen Momente sprechen, die ihr mit euren Geschwistern teilt. Vielleicht habt ihr schon einmal zusammen ein Abenteuer erlebt oder einen lustigen Tag im Park verbracht. Solche Erinnerungen sind wertvoll und bleiben für immer in unseren Herzen. Sie machen die Geschwisterbeziehung besonders."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn ihr das nächste Mal mit eurem Geschwisterchen spielt, denkt daran, wie wichtig es ist, nett zueinander zu sein. Ein freundliches Wort oder eine Umarmung kann viel bewirken. Es stärkt eure Verbindung und macht das Spielen noch schöner. Probiert es aus und seht, wie glücklich ihr euch macht!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ihr macht das toll! Jetzt lasst uns über Kreativität sprechen. Was macht ihr gerne zusammen? Vielleicht malt ihr zusammen Bilder oder erfindet lustige Geschichten. Eurer Fantasie sind keine Grenzen gesetzt. Zusammen könnt ihr die erstaunlichsten Dinge erschaffen. Seid stolz auf das, was ihr gemeinsam erreicht!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Habt ihr schon einmal darüber nachgedacht, warum eure Geschwister so besonders sind? Was macht sie einzigartig? Vielleicht ist es ihr Lachen oder wie sie euch zum Lachen bringen. Denkt darüber nach und teilt eure Gedanken mit mir. Ich bin gespannt, was ihr zu sagen habt!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Denkt daran, dass Geschwister immer füreinander da sind. Sie sind wie kleine Schutzengel, die aufeinander aufpassen. Wenn ihr einmal traurig seid, ist es schön zu wissen, dass ihr jemanden habt, der euch tröstet. Das ist das Besondere an Geschwistern. Sie sind immer da, um einander zu unterstützen."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Manchmal können Geschwister auch die größten Lehrer sein. Ihr könnt voneinander lernen und euch gegenseitig Neues beibringen. Vielleicht zeigt euch euer Bruder, wie man ein neues Spiel spielt, oder eure Schwester erklärt euch, wie man einen Kuchen backt. Das Lernen voneinander ist eine wunderbare Sache!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nun, da wir so viel über Geschwister gelernt haben, ist es Zeit, die schönen Momente zu feiern. Denkt an die lustigen Zeiten, die ihr zusammen hattet, und wie viel Spaß ihr zusammen habt. Diese Erinnerungen sind kostbar und machen das Leben bunter. Genießt jede Sekunde mit euren Geschwistern!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit euch über Geschwister zu sprechen! Danke, dass ihr euch die Zeit genommen habt, mit mir zu plaudern. Denkt daran, eure Geschwister zu schätzen und die Zeit mit ihnen zu genießen. Ich freue mich schon auf unser nächstes Abenteuer zusammen. Bis bald, kleine Freunde!"
+    }
+  ],
+  "title": "Frost Friend Sids Sibling Geschichte"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "frost_friend_sid_bedtime_story",
+  "title": "Frost Friend Sid's Bedtime Story",
+  "character": "Frost Friend Sid",
+  "topic": "bedtime",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Frost Friend Sid, your chilly buddy here to make bedtime fun and relaxing. Today, we're going on an amazing journey all about winding down for sleep. Are you ready to join me on this cozy adventure? I promise we'll have lots of laughs and learn some cool tricks to help you sleep tight. So grab your favorite blanket, and let's get started on our bedtime journey!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, when we think about bedtime, we often imagine warm blankets and fluffy pillows. But did you know there are important steps to help us get ready for sleep? Just like how a snowman needs a hat and scarf to be complete, we need to prepare for bedtime too. We start by putting on comfy pajamas, which are like a big hug for our bodies. And then, we brush our teeth to keep them sparkly and clean. It's like giving your smile a bedtime bath!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Next, we can try a little exercise to help us relax. Let's take three deep breaths together, like we're blowing up a big, fluffy cloud. Ready? Inhale through your nose, filling up your belly like a balloon, and then exhale slowly through your mouth. Great job! Breathing deeply helps calm our minds and bodies, getting us ready for a restful sleep. It's like a gentle breeze that makes everything feel peaceful."
+    },
+    {
+      "id": "scene_3",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Now that we've practiced our breathing, let's think about our favorite bedtime stories. Do you have a favorite tale you love to hear before dozing off? Stories are like magic carpets that take us to dreamland, filled with adventures and happy moments. Listening to a story helps our imaginations soar and sets the stage for sweet dreams. Maybe you can even tell a story to your favorite stuffed animal tonight!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about brushing our teeth? Well, brushing isn't just for bedtime, but it's a special part of getting ready to sleep. We brush away all the day’s adventures, like the time we spent playing and eating yummy snacks. It's a way to say goodnight to our teeth and keep them healthy. Plus, it feels so nice to have a fresh, clean mouth before snuggling into bed. It's like a little bedtime ritual that makes us feel cozy."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's move on to another fun bedtime activity. How about we do a little stretch to loosen up our bodies? Imagine you're a tall, strong tree reaching up to the sky. Stretch your arms high and sway gently like the wind is blowing through your branches. This helps our bodies feel relaxed and ready for sleep. Stretching is like giving your muscles a gentle hug, saying, 'Good job today!' Now, let's get ready for more bedtime fun."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing amazing! Bedtime routines are like a special dance we do every night to get ready for sleep. Each step, from brushing our teeth to listening to a story, helps us feel calm and happy. And guess what? You're already a bedtime superstar! Keep up the great work, and you'll be ready for the best dreams ever. Remember, every little step helps us get closer to a peaceful night's sleep."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about something really important—our favorite bedtime buddies. Do you have a special stuffed toy or blanket you like to cuddle with? These friends help us feel safe and warm, just like a cozy snow fort. They’re there to give us comfort and keep us company as we drift off to sleep. It's always nice to have a buddy by our side, don't you think?"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Speaking of buddies, have you ever counted the stars before going to sleep? Counting stars is a fun way to relax our minds. Let's try counting to five together, imagining each number as a twinkling star in the sky. One, two, three, four, five—great job! Counting helps us focus and feel calm, like a gentle lullaby that leads us into dreamland. Now, let's see what other bedtime magic we can discover."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a bedtime song or lullaby you love to hear? Music is like a soft blanket for our ears, wrapping us in soothing sounds. Singing or listening to a lullaby helps us feel relaxed and safe, ready to drift into a world of dreams. If you could sing a lullaby to someone special, what song would you choose? I bet it would be the sweetest song ever!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let’s remember the importance of turning off the lights and saying goodnight to the day. When we switch off the lights, it tells our bodies it's time to rest. It's like the sun setting in the sky, making way for the moon and stars. Darkness helps us sleep better, just like a cozy blanket covering us in comfort. So, let's say goodnight to the day and hello to a peaceful night."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "As we get closer to bedtime, let's do one last calming activity. Imagine you're floating on a gentle cloud, feeling light and peaceful. Close your eyes and take a deep breath, feeling the cloud carry you softly to dreamland. This visualization helps our minds and bodies relax, making it easier to fall asleep. It's like a little bedtime magic that helps us feel safe and dreamy."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing fantastic! Bedtime routines might seem like a lot, but they're really fun and helpful. Each step we take helps us feel more relaxed and ready to sleep. You're becoming a bedtime pro, and I'm so proud of you! Keep practicing these steps, and you'll have the best sleep ever. Remember, every night is a new adventure, and you're the star of the show!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've learned all these bedtime steps, let's put them into action tonight. From brushing our teeth to listening to a story, each part of our routine makes bedtime special. It's like preparing for a cozy adventure every night. So, let's get ready to snuggle up and drift off to dreamland. Sweet dreams await, filled with happiness and fun!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Well, my little friend, it's time for me to say goodnight. I hope you enjoyed our bedtime journey and learned some fun ways to get ready for sleep. Remember, every night is a chance to relax and dream big. I'm so glad we could share this time together, and I can't wait for more adventures with you. Sleep tight, and may your dreams be as bright as the stars. Goodnight, and see you soon!"
+    }
+  ]
+}

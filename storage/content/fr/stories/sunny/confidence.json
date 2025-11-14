@@ -1,0 +1,104 @@
+{
+  "id": "sunny_confidence_story",
+  "character": "Sunny",
+  "topic": "confidence",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Sunny, et aujourd'hui, nous allons découvrir le monde merveilleux de la confiance en soi. Es-tu prêt pour cette aventure? Ensemble, nous apprendrons comment être courageux et fiers de nous-mêmes. Je suis si content de te rencontrer et de partager ce moment magique avec toi. Prends une grande inspiration et prépare-toi à explorer avec moi!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance, c'est comme un rayon de soleil dans notre cœur. Elle nous aide à essayer de nouvelles choses, comme apprendre à faire du vélo ou à dessiner un joli papillon. Quand on a confiance, on se sent fort et prêt à relever des défis. As-tu déjà ressenti ce sentiment de fierté après avoir accompli quelque chose de nouveau? Ensemble, nous allons découvrir comment nourrir cette confiance chaque jour."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour avoir confiance en soi, il est important de se rappeler de toutes les choses que l'on sait déjà faire. Par exemple, tu sais peut-être déjà nouer tes lacets ou compter jusqu'à dix. Ces petites réussites sont comme des briques qui construisent ta confiance. La prochaine fois que tu réussis quelque chose, même petit, fais un grand sourire et dis 'Je suis fier de moi!'"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu sais quoi? Chaque fois que tu essaies, tu deviens plus courageux! Même si, parfois, tu ne réussis pas du premier coup, c'est tout à fait normal. L'important est de continuer à essayer et de croire en toi. Tu es capable de tant de choses incroyables, et je suis là pour t'encourager à chaque pas. Allons-y, ensemble!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi, la confiance grandit avec le temps. C'est comme planter une graine qui deviendra un bel arbre. Chaque jour, tu peux arroser cette graine en essayant de nouvelles choses et en célébrant tes réussites. As-tu une activité que tu aimerais essayer? Peut-être cuisiner un gâteau ou construire une tour en blocs? N'oublie pas que chaque essai est une victoire!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Prenons un moment pour nous détendre et respirer profondément. Inspirons ensemble en comptant jusqu'à trois, un, deux, trois, et expirons en relâchant tout doucement. Cette respiration calme nous aide à nous sentir en confiance et prêts pour de nouvelles aventures. Tu peux le faire chaque fois que tu te sens un peu nerveux. Prends une autre grande inspiration, et ressens la force en toi."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peux-tu penser à un moment où tu t'es senti très fier de toi? Peut-être après avoir partagé un jouet ou aidé un ami? Ces moments sont précieux et montrent à quel point tu es courageux et gentil. Partager ces souvenirs avec quelqu'un que tu aimes peut aussi renforcer ta confiance. Qui aimerais-tu raconter cette histoire?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, il est utile d'avoir un mantra de confiance, comme 'Je suis fort' ou 'Je suis courageux'. Ces mots simples peuvent être répétés chaque matin pour commencer la journée avec assurance. Tu peux aussi les murmurer à toi-même avant de faire quelque chose de nouveau. Quel mantra aimerais-tu choisir pour t'accompagner aujourd'hui?"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Maintenant que nous avons parlé de mantras, essayons d'imaginer une situation où tu pourrais les utiliser. Par exemple, avant de participer à un jeu de groupe ou de présenter un dessin à la classe. Ces mots te rappelleront que tu es capable et spécial. Imagines-tu d'autres moments où ces mantras pourraient t'aider à te sentir confiant?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es déjà en train de construire un merveilleux trésor de confiance en toi. Chaque sourire, chaque mot gentil, et chaque effort que tu fais ajoutent des étoiles à ton ciel intérieur. Continue d'avancer, petit aventurier, car chaque jour est une nouvelle opportunité de briller. Je crois en toi, et je sais que tu peux accomplir tout ce que tu désires!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi qu'il n'y a pas de petites réussites. Chaque geste, comme ramasser tes jouets ou aider à mettre la table, est une occasion de grandir et de renforcer ta confiance. C'est en faisant ces petites choses que tu développes de grandes capacités. As-tu une tâche préférée que tu aimes accomplir tout seul? C'est formidable de voir à quel point tu es capable!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons un petit exercice ensemble. Ferme les yeux et imagine-toi en train de réaliser quelque chose que tu souhaites vraiment. Sens la joie et la fierté remplir ton cœur. Ouvre lentement les yeux et garde ce sentiment avec toi. Tu peux répéter cet exercice chaque fois que tu as besoin d'un petit coup de pouce de confiance. C'est comme avoir un super pouvoir!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, quelles sont les choses que tu aimerais accomplir avec plus de confiance? Peut-être apprendre une nouvelle chanson ou jouer un rôle dans une pièce de théâtre? Pense à quelque chose qui te passionne et que tu aimerais essayer. Tu verras que chaque pas, même petit, te rapproche de ton rêve. Qu'est-ce qui te rend le plus excité à essayer?"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Souviens-toi, chaque jour est une nouvelle chance de grandir et de devenir plus confiant. Même les jours où tu te sens moins courageux, il est important de te rappeler que tu es extraordinaire. Continue de croire en toi, et ton courage brillera comme le soleil. Je suis tellement fier de toi et de tout ce que tu as accompli jusqu'à présent!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, petit ami. J'espère que tu te sens plein de confiance et prêt pour de nouvelles aventures. N'oublie pas que je suis toujours là pour t'encourager. Prends soin de toi et garde ton sourire lumineux. Au revoir, et à bientôt pour une nouvelle aventure pleine de découvertes et de confiance!"
+    }
+  ],
+  "title": "Histoire de Confidence de Sunny"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "tiko_behavior_attention_story",
+  "character": "Tiko",
+  "topic": "behavior_attention",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Tiko, and today we're going on an amazing journey about paying attention and calming down. Are you ready for some fun? We're going to learn how to focus like a superhero. We'll talk about how to stay calm when things get a little busy. Let's explore together and discover some awesome tricks for being our best selves!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's start by thinking about what it means to pay attention. Paying attention is like using a magnifying glass to look closely at something important. When we focus, we notice things we might have missed before, like the way the leaves rustle in the wind. It's like a magical power that helps us learn new things and have fun. Can you think of a time when you really focused on something you love?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about superheroes? They have a special ability to stay calm and focused, even in the middle of an adventure. One way we can practice this is by taking deep breaths. Let's try it together! Breathe in slowly through your nose, hold it for a moment, and then let it out gently through your mouth. Doesn't that feel nice? Taking deep breaths helps us feel calm and ready to focus on what's next."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job with the breathing! Now, let's use our imagination. Pretend you're on a big adventure in the forest. There are so many sounds and sights around you. Can you hear the birds singing? When we focus, it's like tuning into our favorite song. We can hear every note and enjoy the music. You can do it, just like a superhero exploring new worlds!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure by thinking about routines. Routines are like a map that helps us know what to do next. They make the day smoother, like sliding down a fun slide! For example, brushing our teeth every morning is a routine that keeps our teeth shiny and healthy. What are some routines you have that help you start or end your day happily?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Routines help us feel safe and secure because we know what's coming next. Let's make a fun game out of it! Imagine you're a train on a track. Each stop is a part of your routine. First, we wake up, then we eat breakfast, and finally, we get dressed. Choo-choo! You're on your way to a great day, and each stop helps you stay on track."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're becoming an expert at routines and focus. Now, let's play a little game. Can you find three things in your room that are the color blue? Look around and focus, just like a detective searching for clues. Did you find them? That's fantastic! You're using your attention skills like a pro!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've practiced focusing, let's talk about how to calm down when we're feeling a bit wiggly. Sometimes, we get so excited that it's hard to sit still, and that's okay! One fun way to calm down is by doing a silly dance and then freezing like a statue. It helps us use our energy and then find our calm center. Would you like to try it?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try the silly dance together! Wiggle your arms and legs like a spaghetti noodle, and then freeze! Hold still like a statue. This helps us practice stopping and starting, which is a great way to manage our energy. It's fun and helps us learn to control our bodies. You're doing an amazing job, and I'm so proud of you!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I have a question for you. What do you like to do when you need to calm down or focus? Is it drawing a picture, reading a book, or maybe listening to music? There are so many ways to find our calm. I'd love to hear your ideas! It's important to find what works best for you, and sharing ideas can help us learn from each other."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Thank you for sharing your ideas! It's so wonderful to hear about all the different ways we can calm down and focus. Remember, everyone is unique, and what works for one person might be different for another. That's what makes us special! Let's keep exploring and finding new ways to use our wonderful attention powers."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's talk about another fun way to practice attention. Have you ever tried counting? It's like a magic spell that helps us focus. Let's count to five together slowly. One, two, three, four, five. Great job! Counting helps our mind concentrate on one thing at a time. It's a wonderful trick to have in our toolbox."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've learned so much, let's think about how we can use these skills every day. Whether we're playing, learning, or just relaxing, paying attention can make everything more fun and interesting. It's like having a special pair of glasses that helps us see all the little details. You're doing so well, and I'm so happy to be on this adventure with you!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job! Remember, it's okay if we sometimes forget to focus or feel a little wiggly. We can always take a deep breath, count to five, or do a silly dance to help us find our calm again. You're learning and growing, and that's the best part of any adventure. Keep up the great work!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Well, our adventure is coming to an end, but the fun never stops! I'm so proud of you for learning how to focus and calm down. You're like a little superhero with amazing powers! Remember to use your new skills every day, and you'll keep getting better and better. Thank you for spending time with me, and I can't wait to see you again soon. Goodbye, my wonderful friend!"
+    }
+  ],
+  "title": "Tiko's Behavior & Attention Story"
+}

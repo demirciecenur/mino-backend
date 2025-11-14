@@ -1,0 +1,104 @@
+{
+  "id": "yellow buddy_Emotionsregulation, Gefühle managen, sich beruhigen, Selbstregulation_story",
+  "character": "Yellow Buddy",
+  "topic": "Emotionsregulation, Gefühle managen, sich beruhigen, Selbstregulation",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Yellow Buddy und heute gehen wir auf eine spannende Reise, um zu lernen, wie wir unsere Gefühle regulieren können. Bist du bereit, mit mir zu lachen und zu lernen? Wir werden Spaß haben und viele tolle Dinge entdecken. Hast du manchmal das Gefühl, dass du viele verschiedene Emotionen hast? Keine Sorge, wir werden gemeinsam herausfinden, wie wir damit umgehen können!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über Gefühle gesprochen haben? Gefühle sind wie bunte Farben, die unser Leben spannend machen. Manchmal fühlen wir uns glücklich, wie wenn die Sonne scheint. Aber manchmal sind wir auch traurig oder wütend, und das ist völlig in Ordnung. Heute lernen wir, wie wir diese Gefühle verstehen und kontrollieren können, damit sie uns nicht überwältigen."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du traurig bist, kannst du tief ein- und ausatmen, um dich zu beruhigen. Atme tief ein, als würdest du an einer Blume schnuppern. Dann puste langsam aus, als würdest du eine Kerze ausblasen. Das hilft deinem Körper, sich zu entspannen und deine Gedanken zu beruhigen. Möchtest du es mit mir ausprobieren? Lass uns gemeinsam dreimal tief ein- und ausatmen."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super gemacht! Du bist wirklich gut darin. Das Atmen hilft uns, ruhiger zu werden und unsere Gefühle besser zu verstehen. Wenn wir ruhig sind, können wir klarer denken und bessere Entscheidungen treffen. Du kannst diese Übung immer machen, wenn du dich aufgeregt oder unruhig fühlst. Jetzt weißt du, wie du deine Gefühle ein bisschen besser managen kannst!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns darüber sprechen, was wir tun können, wenn wir wütend sind. Wut ist ein starkes Gefühl, das manchmal schwer zu kontrollieren ist. Aber wir können lernen, damit umzugehen, indem wir zum Beispiel bis zehn zählen. Zählen hilft uns, uns zu beruhigen und nicht sofort auf unsere Wut zu reagieren. Lass uns zusammen zählen: eins, zwei, drei... bis zehn!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du das Gefühl hast, dass du explodieren könntest, stell dir vor, du bist ein Vulkan, der sich langsam beruhigt. Du kannst auch deine Hände wie einen Vulkan formen, der sanft auskühlt. Stell dir vor, wie der Vulkan immer leiser wird und die Lava langsam abkühlt. Diese Übungen helfen dir, deine Wut zu kontrollieren, ohne dass sie überkocht."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Toll gemacht! Du lernst schnell, wie du deine Gefühle regulieren kannst. Es ist nicht immer einfach, aber mit ein wenig Übung wird es leichter. Du bist stark und kannst das schaffen! Immer wenn du dich wütend fühlst, erinnere dich daran, dass du die Kontrolle hast. Du bist der Boss deiner Gefühle!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über Traurigkeit gesprochen haben? Manchmal fühlen wir uns traurig, und das ist okay. Wenn du traurig bist, kannst du mit jemandem darüber sprechen, dem du vertraust. Das kann ein Elternteil, ein Freund oder ein Lehrer sein. Sie können dir helfen, die Traurigkeit zu verstehen und zu verarbeiten. Manchmal hilft es auch, etwas zu tun, das dir Freude macht, wie malen oder ein lustiges Buch lesen."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du eine Lieblingsaktivität, die dir hilft, dich besser zu fühlen? Vielleicht magst du es, draußen zu spielen oder mit deinen Spielsachen zu basteln. Was auch immer es ist, es ist wichtig, sich Zeit für Dinge zu nehmen, die uns glücklich machen. Kannst du mir erzählen, was du gerne machst, wenn du dich traurig fühlst? Ich bin gespannt, das zu hören!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Danke, dass du das mit mir geteilt hast! Es ist so wichtig, Dinge zu finden, die uns Freude bereiten. Jeder hat seine eigenen kleinen Tricks, um sich besser zu fühlen. Jetzt, da wir wissen, wie wir mit Traurigkeit und Wut umgehen können, lass uns über Freude sprechen! Freude ist ein wunderbares Gefühl, das wir mit anderen teilen können. Es macht Spaß, andere zum Lächeln zu bringen, nicht wahr?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Wenn du dich freust, kannst du diese Freude mit anderen teilen, indem du freundlich bist. Ein einfaches Lächeln kann den Tag von jemandem heller machen. Du kannst auch ein Lied singen oder eine lustige Geschichte erzählen. Freude zu teilen, ist wie ein Geschenk, das immer größer wird, je mehr du es teilst. Lass uns überlegen, wie wir heute jemandem eine Freude machen können!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns eine kleine Übung machen: Überlege dir eine Sache, die du heute tun kannst, um jemandem eine Freude zu machen. Vielleicht kannst du deinem Freund ein Bild malen oder deinem Geschwisterchen bei etwas helfen. Es sind die kleinen Dinge, die einen großen Unterschied machen. Wenn du anderen eine Freude machst, fühlst du dich auch selbst glücklicher. Probier es aus und schau, wie viel Freude du verbreiten kannst!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich großartig darin, anderen eine Freude zu machen! Es ist so schön zu sehen, wie du diese Fähigkeiten lernst und anwendest. Du bist ein kleiner Sonnenschein und bringst Licht in die Welt. Vergiss nicht, dass du immer die Kontrolle über deine Gefühle hast. Du kannst sie lenken und sie zu etwas Positivem machen. Du bist ein echter Gefühle-Manager!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Jetzt, wo wir so viel gelernt haben, frage ich mich: Was war dein Lieblingsteil unserer Reise? War es das Atmen, das Zählen oder vielleicht das Teilen der Freude? Ich bin neugierig, was dir am meisten Spaß gemacht hat. Vielleicht hast du sogar etwas Neues entdeckt, das du gerne machst, um deine Gefühle zu regulieren. Teile es mit mir, ich bin gespannt!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war wundervoll, diese Reise mit dir zu machen, kleiner Freund. Du hast so viel gelernt über Emotionsregulation, Gefühle managen und sich beruhigen. Jetzt bist du bereit, diese Fähigkeiten in deinem täglichen Leben anzuwenden. Denk daran, dass du nie allein bist und immer Hilfe findest, wenn du sie brauchst. Ich freue mich schon darauf, bald wieder mit dir zu spielen und zu lernen. Bis bald, kleiner Held!"
+    }
+  ],
+  "title": "Yellow Buddys Emotional Regulation Geschichte"
+}

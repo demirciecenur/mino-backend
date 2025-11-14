@@ -1,0 +1,104 @@
+{
+  "id": "super_metal_hero_sibling_story",
+  "character": "Super Metal Hero",
+  "topic": "sibling",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Super Metal Hero. Bugün birlikte kardeşlik dünyasına harika bir yolculuk yapacağız. Kardeşlerinle nasıl daha iyi anlaşabileceğini merak ediyor musun? O zaman hazır ol, çünkü bu yolculuk çok eğlenceli olacak!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşler bazen en iyi arkadaşlarımız olabilirler. Onlarla birlikte oyunlar oynamak çok eğlencelidir. Ancak, bazen oyun oynarken anlaşmazlıklar yaşayabiliriz. Bu çok normaldir, çünkü her birimiz farklı şeylerden hoşlanabiliriz. Önemli olan, bu durumlarda nasıl davranacağımızı bilmek."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşinle bir oyuncağı paylaşmak zor olabilir, değil mi? Ama paylaşmak, birbirimizi daha iyi anlamamıza yardımcı olur. Örneğin, en sevdiğin oyuncağını kardeşinle sırayla kullanabilirsiniz. Bu şekilde, hem sen hem de kardeşin mutlu olursunuz. Paylaşmak, sevgi dolu bir kalbin göstergesidir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi şimdi bir oyun oynayalım! Oyuncaklarınızı sırayla kullanmayı deneyelim. İlk olarak sen başla, sonra kardeşin. Bu şekilde, ikiniz de eğlenebilirsiniz. Harika! Bu şekilde, paylaşmanın ne kadar güzel bir şey olduğunu göreceksiniz."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerle oynamak kadar, onlara sevgi göstermek de önemlidir. Sabah uyandığınızda ona günaydın demek ya da iyi geceler öpücüğü vermek, aranızdaki bağı güçlendirir. Sevgi dolu sözler ve küçük jestler, kardeşinize ne kadar değer verdiğinizi gösterir. Unutmayın, sevgi her şeyin anahtarıdır."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Birlikte bir şeyler yapmak, kardeşliğinizi güçlendirir. Mesela, birlikte resim yapmayı deneyebilirsiniz. Her biriniz kendi resminizi çizebilir ve ardından çizimlerinizi değiştirebilirsiniz. Bu, yaratıcılığınızı paylaşmanın eğlenceli bir yoludur. Birlikte çalışmak, birbirinizi daha iyi anlamanıza yardımcı olur."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi bir mola verelim ve birlikte derin bir nefes alalım. Üç kez derin nefes alalım ve verelim. Harika! Bu, sakinleşmenize ve daha iyi hissetmenize yardımcı olur. Kardeşinle birlikte bu egzersizi yapabilirsin. Böylece ikiniz de daha huzurlu hissedersiniz."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşinle birlikte hikayeler anlatmak da çok eğlencelidir. Her biriniz bir hikaye uydurabilir ve sırayla anlatabilirsiniz. Bu, hayal gücünüzü geliştirir ve birbirinizi daha iyi tanımanıza yardımcı olur. Hikayelerinizi paylaşmak, birlikte vakit geçirmenin harika bir yoludur. Hayal gücünüzü serbest bırakın!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle en son ne zaman birlikte oyun oynadınız? Oyun sırasında neler hissettiniz? Bir sonraki sefer hangi oyunu oynamak istersiniz? Bu oyunları oynarken nasıl daha eğlenceli hale getirebilirsiniz? Hadi düşünelim ve cevapları birlikte bulalım!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda hikayeler anlatmanın öneminden bahsetmiştik. Şimdi, kardeşinle birlikte bir hikaye kitabı okumayı deneyebilirsiniz. Her biriniz kitabın farklı bir sayfasını okuyabilir. Bu, okuma becerilerinizi geliştirirken eğlenmenizi sağlar. Ayrıca, kitaplar sayesinde yeni dünyalar keşfedebilirsiniz."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşinle birlikte yemek yapmak da harika bir aktivite olabilir. Basit bir tarif seçip birlikte hazırlayabilirsiniz. Örneğin, meyve salatası yapmak eğlenceli ve kolaydır. Meyveleri keserken birbirinize yardım edebilirsiniz. Bu tür aktiviteler, işbirliği yapmayı öğrenmenize yardımcı olur."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi bir düşünelim, kardeşinle birlikte daha başka neler yapabilirsiniz? Belki birlikte bir şarkı söyleyebilir veya dans edebilirsiniz. Yaratıcılığınızı kullanarak yeni aktiviteler bulmak çok eğlencelidir. Unutmayın, birlikte olmak her zaman daha eğlencelidir! Hadi, neler yapabileceğinizi düşünün."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede birlikte aktiviteler yapmanın önemini konuştuk. Şimdi, kardeşinle birlikte yeni bir oyun icat etmeye ne dersiniz? Kuralları birlikte oluşturabilir ve oyunu test edebilirsiniz. Bu, yaratıcılığınızı geliştirirken eğlenmenizi sağlar. Ayrıca, kendi oyununu yaratmak çok heyecan vericidir!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle en sevdiğiniz oyun nedir? Bu oyunu daha eğlenceli hale getirmek için neler yapabilirsiniz? Yeni kurallar eklemek ister misiniz? Birlikte düşünelim ve bu oyunu daha da eğlenceli hale getirelim. Ne dersiniz, hazır mısınız?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün kardeşlik hakkında çok şey öğrendik. Paylaşmanın, sevgi göstermenin ve birlikte vakit geçirmenin ne kadar önemli olduğunu gördük. Kardeşinle birlikte geçirdiğin zamanın tadını çıkar. Unutma, kardeşin senin en iyi arkadaşlarından biridir. Bir sonraki maceramızda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Super Metal Hero'ın Sibling Hikayesi"
+}

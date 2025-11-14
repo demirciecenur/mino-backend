@@ -1,0 +1,104 @@
+{
+  "id": "shell_heroes_crew_behavior_story",
+  "character": "Shell Heroes Crew",
+  "topic": "behavior",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Wir sind die Shell Heroes Crew und heute gehen wir auf ein spannendes Abenteuer über gutes Benehmen. Seid ihr bereit, mit uns zu lernen und Spaß zu haben? Wir sind so neugierig auf euch und eure tollen Ideen! Gemeinsam werden wir herausfinden, wie man ein echter Held im Alltag sein kann. Klingt das nicht aufregend?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lasst uns darüber sprechen, was gutes Benehmen eigentlich bedeutet. Gutes Benehmen heißt, dass wir freundlich zueinander sind und auf unsere Worte achten. Es ist wichtig, anderen zu helfen und Rücksicht zu nehmen, wie bei einem echten Team. Zum Beispiel, wenn wir jemandem die Tür aufhalten oder \"Bitte\" und \"Danke\" sagen. So zeigen wir, dass wir Respekt haben und anderen helfen möchten."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Schaut mal, wie wir mit einfachen Dingen gutes Benehmen zeigen können. Wenn wir zum Beispiel das Spielzeug aufräumen, bevor wir ins Bett gehen, zeigen wir, dass wir Verantwortung übernehmen. Das macht nicht nur die Eltern glücklich, sondern gibt uns auch ein gutes Gefühl. Oder wenn wir leise sind, wenn jemand anderes spricht, zeigen wir, dass wir zuhören können. Diese kleinen Dinge machen einen großen Unterschied!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lasst uns gemeinsam üben! Stellt euch vor, ihr seid Superhelden, die anderen helfen. Können wir alle zusammen dreimal tief durchatmen, um uns zu konzentrieren? Eins, zwei, drei... Super gemacht! Ihr seid wirklich toll darin, euch auf das Wesentliche zu konzentrieren. Mit dieser Übung können wir besser zuhören und anderen helfen."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert ihr euch daran, wie wichtig es ist, freundlich zu sein? Jetzt wollen wir darüber sprechen, wie man Konflikte löst. Manchmal streiten wir uns mit Freunden, aber das ist okay. Es ist wichtig, ruhig zu bleiben und den anderen ausreden zu lassen. Danach können wir gemeinsam nach einer Lösung suchen. So zeigen wir, dass wir echte Teamplayer sind!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns darüber nachdenken, wie wir unsere Gefühle ausdrücken können, ohne wütend zu werden. Wenn wir uns ärgern, können wir tief durchatmen oder bis fünf zählen. Das hilft uns, ruhiger zu werden und klarer zu denken. Danach können wir in Ruhe erklären, warum wir uns so fühlen. Auf diese Weise verstehen uns die anderen besser und wir fühlen uns gehört."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ihr macht das wirklich großartig! Jetzt lasst uns darüber sprechen, wie wir anderen helfen können. Wenn jemand traurig ist, können wir ihm ein Lächeln schenken oder fragen, ob wir helfen können. Manchmal reicht eine kleine Geste, um jemandem den Tag zu verschönern. Ihr seid echte Helden, wenn ihr anderen helft und freundlich seid!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Wisst ihr, was noch wichtig ist? Zusammenzuarbeiten! Wenn wir in einem Team sind, sollten wir zuhören und unsere Ideen teilen. So können wir gemeinsam die besten Lösungen finden. Zum Beispiel beim Spielen, wenn wir die Regeln besprechen und uns daran halten. Dadurch wird das Spiel für alle viel mehr Spaß machen!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkt ihr, warum ist es wichtig, dass wir Regeln befolgen? Regeln helfen uns, sicher und glücklich zu sein. Sie geben uns eine Struktur und sorgen dafür, dass alle fair behandelt werden. Habt ihr schon einmal erlebt, dass es ohne Regeln chaotisch wurde? Was ist dann passiert?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lasst uns weiter darüber nachdenken, wie wir in der Gemeinschaft stark sein können. Wenn wir alle zusammenarbeiten und uns gegenseitig unterstützen, können wir viel erreichen. Stellt euch vor, wie ein Ameisenhaufen funktioniert, wo jede Ameise ihre Aufgabe hat. So können wir auch als Team zusammenarbeiten und Großes schaffen!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Und jetzt lasst uns überlegen, wie wir uns selbst um uns kümmern können. Dazu gehört, dass wir genug schlafen, gesund essen und uns bewegen. Wenn wir gut auf uns achten, haben wir mehr Energie, anderen zu helfen und unsere Aufgaben zu erledigen. Probiert es mal aus: Streckt euch jetzt einmal richtig und fühlt, wie gut das tut!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ihr seid wirklich toll dabei, all diese Dinge zu lernen und zu üben! Denkt daran, dass jeder Tag eine neue Chance ist, ein bisschen besser zu werden. Egal, ob ihr euch entscheidet, ein bisschen freundlicher zu sein oder jemandem zu helfen. Jeder kleine Schritt zählt und macht euch zu wahren Helden!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnert euch daran, dass wir immer aus unseren Fehlern lernen können. Wenn wir etwas falsch machen, ist das eine Gelegenheit, es beim nächsten Mal besser zu machen. Sprecht mit euren Eltern oder Lehrern, wenn ihr Hilfe braucht. Sie sind immer da, um euch zu unterstützen und euch zu helfen, zu lernen und zu wachsen."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Habt ihr schon einmal jemandem geholfen oder etwas Nettes getan? Wie hat sich das angefühlt? Es ist ein tolles Gefühl, zu wissen, dass man jemandem den Tag verschönern kann. Vielleicht habt ihr einem Freund geholfen oder jemandem ein Lächeln geschenkt. Diese Momente machen euch zu echten Alltagshelden!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war fantastisch, heute mit euch über gutes Benehmen zu sprechen! Denkt daran, dass ihr jeden Tag die Chance habt, ein Held zu sein. Mit kleinen Gesten der Freundlichkeit und Zusammenarbeit könnt ihr die Welt ein bisschen besser machen. Wir, die Shell Heroes Crew, sind stolz auf euch und eure tollen Fortschritte! Bis zum nächsten Abenteuer, kleiner Held!"
+    }
+  ],
+  "title": "Shell Heroes Crews Behavior Geschichte"
+}

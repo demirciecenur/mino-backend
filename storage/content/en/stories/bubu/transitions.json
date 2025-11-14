@@ -1,0 +1,104 @@
+{
+  "id": "bubu_transitions_story",
+  "character": "Bubu",
+  "topic": "transitions",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Bubu. Today, we're going on an amazing journey about transitions. Are you ready? Transitions are like little changes that happen every day. They can be simple, like switching from playing to eating. I'm so curious about how you feel about changes!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about what a transition is. Imagine you are playing with your favorite toy, and then it's time to go to bed. That's a transition! It might feel a bit tricky at first, but it's a normal part of our day. Transitions help us do different things, like going from one fun activity to another. Sometimes, they can be exciting, like starting a new game!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about playing and then stopping to eat? That’s a transition too. Let's learn a little trick to make transitions easier. When it's time to switch, we can count to five slowly. One, two, three, four, five. This helps our minds get ready for what's next. Would you like to try counting with me now?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job counting! You did it wonderfully. Now, every time you need to change what you're doing, try counting to five. It's like a magic number that helps you move smoothly from one thing to the next. You can do it! Transitions are like little steps that take us to new adventures."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue exploring transitions. Think about waking up in the morning. First, we open our eyes, then we stretch, and finally, we get out of bed. Each step is a transition that gets us ready for a new day. Transitions help us start fresh and try new things. Isn’t it amazing how they guide us through our day?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Have you ever felt a little unsure about a transition? Maybe you felt a bit sad leaving the playground. That's okay! Everyone feels that way sometimes. But remember, transitions can lead to exciting things, like storytime or snack time. It's like turning the page to a new part of your day!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice a transition together. Imagine we are drawing and now it's time to tidy up. We can sing a little song to make it fun. 'Clean up, clean up, everybody, everywhere.' Singing helps make the transition smoother and more enjoyable. Would you like to try singing while cleaning up next time?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful singing! You are doing an amazing job with transitions. Remember, every time you face a change, you can use your counting or singing. These are special tools just for you! They make transitions feel easier and even a little fun. Keep using them and you'll see how helpful they are."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's talk about another kind of transition. Have you ever moved from one place to another, like going from home to school? That's a big transition! It can feel a bit strange at first, but it's a chance to meet new friends and learn new things. Transitions like these help us grow and explore the world around us."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a transition that you experience every day? Maybe it's something like getting dressed in the morning or brushing your teeth before bed. How do you feel about these transitions? Do you have a favorite one? It's fun to think about how many transitions we go through each day!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Transitions are important because they help us manage our time and activities. Imagine if we never transitioned from one thing to another. We might miss out on exciting events or new adventures. By embracing transitions, we open ourselves up to all the wonderful things life has to offer. They help us grow and learn."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we practiced counting to five? Let's do it again for fun! One, two, three, four, five. Counting can be a great way to help with transitions throughout the day. You can also imagine a fun story in your mind while you count. It's like a little adventure every time you transition!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's take a deep breath together. Breathing helps us feel calm during transitions. Let's breathe in slowly, and then breathe out. Feel how relaxing it is? Deep breaths can make transitions feel smoother and less worrisome. You can use this trick anytime you need a little extra calm."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You've learned so much about transitions today! Remember, transitions are just little changes that help us move through our day. With your counting, singing, and breathing, you have all the tools you need to handle them like a pro. Keep practicing and soon, transitions will feel like a breeze!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time to say goodbye, my little friend. Remember, transitions are part of our daily adventures. I'm so proud of you for learning about them. Whenever you face a change, know that you have the power to make it easier. Thank you for joining me today. Until next time, keep smiling and enjoying your transitions!"
+    }
+  ],
+  "title": "Bubu's Transitions Story"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "ocean_dreamer_moa_imagination_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "imagination",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Moa, la rêveuse des océans. Aujourd'hui, nous allons partir dans un voyage incroyable sur l'imagination. Es-tu prêt? Je suis tellement curieuse de savoir où ton imagination peut nous emmener. Ensemble, nous allons explorer des mondes fantastiques!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est comme un bateau magique qui peut nous emmener n'importe où! Peut-être sur une île pleine de trésors ou dans un ciel rempli d'étoiles scintillantes. Quand tu fermes les yeux, où aimerais-tu aller? Penses-y! Avec l'imagination, tu peux être un pirate courageux ou un explorateur intrépide. N'est-ce pas merveilleux?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons d'utiliser notre imagination ensemble. Imagine que nous sommes sur une plage de sable doux. Le soleil brille et nous pouvons entendre le bruit des vagues. Peux-tu sentir le sable chaud sous tes pieds? Imagine que nous construisons un château de sable gigantesque. Quelle couleur est ton château?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Tu fais un travail incroyable avec ton imagination. N'oublie pas que tu peux ajouter autant de détails que tu veux. Peut-être un pont-levis ou une tour très haute! Continue à rêver grand, petit explorateur. Tu es vraiment doué pour imaginer de belles choses. Allons maintenant à notre prochaine aventure!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi quand nous avons parlé de la plage? Maintenant, imaginons que nous sommes dans une forêt enchantée. Les arbres sont si hauts qu'ils touchent presque le ciel. Peux-tu entendre les oiseaux chanter? Imagine que nous découvrons une clairière secrète où les fées dansent. C'est un endroit magique, n'est-ce pas?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "As-tu déjà rêvé d'être un animal? Peut-être un lion rugissant ou un dauphin joueur? Avec l'imagination, tu peux être n'importe quel animal que tu aimes. Imagine-toi en train de nager avec les poissons ou de grimper aux arbres comme un singe. Quelle aventure cela serait!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons maintenant de créer une histoire ensemble. Ferme les yeux et imagine que tu es un chevalier courageux. Tu chevauches à travers un royaume magique. Quels amis rencontres-tu en chemin? Peut-être un dragon gentil ou une licorne majestueuse. Raconte-moi ton histoire!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Quelle histoire fantastique tu as créée! Tu vois, ton imagination est puissante et pleine de surprises. Continue d'inventer et de rêver. Chacune de tes idées est précieuse et unique. Bravo, petit conteur! Maintenant, explorons un autre monde ensemble."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Revenons à notre exploration des mondes imaginaires. Penses-tu pouvoir voler comme un oiseau? Imagine que tu as des ailes et que tu survoles une ville animée. Que vois-tu en bas? Peut-être des parcs remplis d'enfants qui jouent ou des bateaux qui voguent sur un lac brillant. C'est fascinant, n'est-ce pas?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, quel est ton rêve le plus fou? As-tu déjà imaginé vivre dans un château de nuages ou nager dans une mer de chocolat? Partage ton rêve avec moi. Je suis impatiente de le découvrir. L'imagination n'a pas de limites, n'est-ce pas?"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelle-toi de notre voyage dans les nuages. Maintenant, imagine que tu es un astronaute. Tu voyages dans l'espace avec ton vaisseau spatial. Que découvre-tu sur une nouvelle planète? Peut-être des créatures amicales ou des montagnes de glace. C'est une aventure incroyable!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Prenons un moment pour respirer profondément et imaginer encore plus. Inspire profondément et pense à un endroit paisible. Peut-être un jardin fleuri ou une plage tranquille. Expire lentement et laisse ton esprit vagabonder. C'est relaxant, tu ne trouves pas?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as fait un travail merveilleux en explorant ton imagination. Chaque idée que tu as partagée est spéciale et magique. Continue de rêver et de créer. Tu es un véritable aventurier de l'imaginaire. Je suis si fière de toi!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Avant de terminer notre voyage, pense à toutes les histoires que nous avons créées ensemble. La plage, la forêt, le ciel, et même l'espace! Chaque endroit était rempli de magie grâce à ton imagination. Tu as le pouvoir de rendre chaque jour spécial. N'oublie jamais ça!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir voyagé avec moi aujourd'hui, petit ami. J'ai adoré découvrir ton monde imaginaire. Continue d'explorer et de rêver chaque jour. Je suis impatiente de notre prochaine aventure ensemble. À bientôt, et n'oublie pas, l'imagination est un trésor sans fin!"
+    }
+  ],
+  "title": "Histoire de Imagination de Ocean Dreamer Moa"
+}

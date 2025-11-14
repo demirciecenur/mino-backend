@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_sibling_story",
+  "character": "Piggy Friend",
+  "topic": "sibling",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Piggy Friend. Bugün kardeşlerle ilgili harika bir yolculuğa çıkacağız. Kardeşler, hayatımızın en yakın arkadaşları olabilirler. Onlarla oyunlar oynar, maceralar yaşarız. Hazır mısın? Seni çok merak ediyorum."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerinle vakit geçirmek ne kadar eğlenceli değil mi? Birlikte oynadığınız oyunlar, paylaştığınız anılar çok kıymetli. Bazen küçük tartışmalar yaşasak da, kardeşlerimizle her zaman barışırız. Çünkü onları çok severiz. Kardeş sevgisi, her şeyden daha güçlüdür."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşlerinle paylaşmak çok önemlidir. Mesela oyuncaklarını paylaşmak, birlikte oynamak için harika bir yol. Paylaşmanın ne kadar eğlenceli olduğunu biliyor musun? Oyuncaklarını paylaşarak daha fazla oyun oynayabilirsiniz. Bu da sizi daha mutlu eder."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte, kardeşlerinle oynayabileceğin bir oyun düşünelim. Belki bir saklambaç oyunu? Ya da belki birlikte resim yapabilirsiniz. Haydi, sen de bir oyun düşün. Eminim harika bir fikrin vardır!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda oyunlardan bahsetmiştik. Kardeşlerinle birlikte başka neler yapabilirsin? Belki bir hikaye kitabı okuyabilir ya da birlikte bir şarkı söyleyebilirsiniz. Kardeşlerinle birlikte vakit geçirmek her zaman eğlencelidir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşlerinle anlaşmazlıklar yaşamak normaldir. Önemli olan, bu anlaşmazlıkları nasıl çözdüğümüzdür. Birbirinizi dinlemek ve anlamak çok önemlidir. Eğer bir sorun yaşarsanız, sakin bir şekilde konuşun. Bu, aranızdaki bağı güçlendirir."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kardeşlerinle işbirliği yapmak da çok eğlencelidir. Mesela birlikte bir kule yapabilirsiniz. Veya bir yapboz tamamlayabilirsiniz. Haydi, sen de bir işbirliği fikri düşün. Eminim harika bir şey bulacaksın!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerinle vakit geçirmenin başka bir yolu da birlikte yemek yapmaktır. Mesela basit bir kurabiye tarifi deneyebilirsiniz. Hem eğlenir hem de lezzetli bir şeyler yapabilirsiniz. Bu tür aktiviteler, kardeşler arasındaki bağı daha da güçlendirir."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle en sevdiğin aktivite nedir? Belki birlikte bisiklete binmek ya da parkta oynamak? Çok merak ediyorum. Bana anlatmak ister misin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerinle birlikte yeni şeyler öğrenmek de çok eğlencelidir. Mesela yeni bir dil öğrenmeye çalışabilirsiniz. Veya birlikte bir dans figürü öğrenebilirsiniz. Öğrendiklerinizi birbirinize öğreterek çok eğlenebilirsiniz."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşlerinle birlikte doğayı keşfetmek harika bir aktivitedir. Birlikte bir doğa yürüyüşüne çıkabilirsiniz. Çevrenizdeki bitki ve hayvanları inceleyebilirsiniz. Doğayı keşfederken çok şey öğrenirsiniz. Bu da sizi daha bilgili yapar."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kardeşinle birlikte bir proje yapmayı düşündün mü? Belki bir resim yapmak ya da bir hikaye yazmak. Haydi, sen de bir proje düşün. Eminim çok yaratıcı bir şey bulacaksın!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerinle birlikte eğlenceli anılar biriktirmek çok önemlidir. Birlikte geçirdiğiniz her an, gelecekte hatırlayacağınız güzel anılar olur. Bu anıları fotoğraflarla ya da videolarla ölümsüzleştirebilirsiniz. Böylece her zaman hatırlayabilirsiniz."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda anılardan bahsetmiştik. Senin en sevdiğin kardeş anın nedir? Belki bir doğum günü kutlaması ya da bir tatil anısı? Çok merak ediyorum. Anlatmak ister misin?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün kardeşlerle ilgili harika şeyler konuştuk. Kardeşlerimizle vakit geçirmek çok değerli ve eğlencelidir. Unutma, kardeşlerin senin en yakın arkadaşlarındır. Birlikte geçirdiğiniz her an, sizi daha da yakınlaştırır. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Piggy Friend'ın Sibling Hikayesi"
+}

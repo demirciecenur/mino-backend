@@ -1,0 +1,98 @@
+{
+  "id": "spider_fighter_behavior_story",
+  "character": "Spider Fighter",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hey there, little friend! I'm Spider Fighter, your friendly neighborhood hero. Today, we're going on a fantastic adventure all about behavior. Are you ready to learn how to be the best you can be? It's going to be super fun and exciting! Together, we'll discover how to be kind, helpful, and brave in our everyday lives. Let's swing into action and explore the wonderful world of good behavior!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about what behavior is. Behavior is how we act and treat others around us. It's like how a superhero chooses to be brave and kind. Imagine if you were a superhero, too! You'd want to use your powers to help and make others feel happy. Being well-behaved is just like that, using your superpowers to do good things every day."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about being kind and helpful? Let's explore that some more. Being kind means using nice words and actions. Like when you share your toys or say 'please' and 'thank you.' Can you think of a time when you were kind to someone? It's like being a superhero, spreading happiness wherever you go. Now, let's try to be kind today and see how great it feels!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking about kindness! Now, let's practice being brave. Being brave means trying new things and not giving up, even when they're tough. Like learning to ride a bike or making a new friend. You can do it! Take a deep breath, stand tall, and say, 'I am brave!' Let's try something new today and see how strong we can be!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's talk about being helpful. It's like when Spider Fighter helps around the city. You can help at home by picking up your toys or setting the table for dinner. Helping others makes them feel happy and shows you care. Think about how you can be helpful today. It's like a secret mission to make your home a better place!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's learn about listening. Listening means paying attention when someone is talking. It's important because it shows you care about what they have to say. When you listen, you can learn new things and understand how others feel. Can you practice listening by sitting quietly and focusing on someone's words today? It's a superpower that helps you be a great friend!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're doing an amazing job learning about good behavior. Let's talk about following rules. Rules are like a superhero's code that keeps everyone safe and happy. At school or home, rules help us know what to do. Following rules makes you a true hero! Can you think of a rule you follow every day? Keep it up, and you'll be a behavior champion!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, let's think about why good behavior is important. Why do you think being kind, brave, and helpful matters? It's because it makes the world a better place! When we all use our superpowers for good, everyone feels happier and safer. What would you like to do today to show your good behavior? I'm excited to hear your ideas!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure with a fun exercise. Imagine you have a superhero cape. Every time you do something kind or helpful, your cape gets brighter! Isn't that exciting? Today, let's try to make our capes shine by using our superpowers. Whether it's sharing, helping, or listening, each action makes your cape glow with goodness!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about being brave? Let's see if we can try something new today. Maybe it's trying a new food or playing a new game. Being brave helps us learn and grow. And even if it's a little scary, you're not alone. Just like Spider Fighter, you have the courage to face anything. Let's see what new adventure awaits!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's practice a calming exercise. Sometimes, when we feel upset, taking deep breaths can help. Let's take three deep breaths together. Breathe in slowly through your nose, and out through your mouth. Feel the calmness spread, just like when Spider Fighter swings gently through the city. Remember, you can use this anytime you need to feel calm."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing fantastic! Let's think about how we can use our good behavior to make new friends. Being friendly and kind is the best way to show others you care. Smiling, saying hello, and sharing are great ways to start. Imagine all the friends you can make by being the amazing superhero you already are!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's wrap up our adventure by thinking about all the things we've learned. We've talked about being kind, brave, helpful, and following rules. Each of these is like a special tool in your superhero kit. Use them every day to make the world a brighter place. Remember, being a hero isn't just about superpowers, it's about having a super heart!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this amazing journey about behavior. You've shown that you have what it takes to be a true superhero. Keep using your powers for good, and the world will be a better place. Remember, Spider Fighter is always here to cheer you on. Until next time, keep being brave, kind, and wonderful. Goodbye, my little hero!"
+    }
+  ],
+  "title": "Spider Fighter's Behavior Story"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "spark buddy_behavior_story",
+  "character": "Spark Buddy",
+  "topic": "behavior",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Spark Buddy, dein fröhlicher Begleiter. Heute gehen wir auf eine spannende Reise über gutes Benehmen. Bist du bereit? Ich bin so neugierig auf dich und all die wunderbaren Dinge, die du lernen kannst. Zusammen werden wir viel Spaß haben!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an das letzte Mal, als wir über das Aufräumen gesprochen haben? Gutes Benehmen bedeutet, Dinge ordentlich zu halten, wie zum Beispiel das Aufräumen deiner Spielsachen. Wenn du deine Spielsachen wegräumst, kannst du sie später leichter finden. Es ist wie ein kleines Abenteuer, bei dem du der Held bist, der alles an seinen Platz bringt. Und weißt du, was das Beste daran ist? Deine Eltern werden stolz auf dich sein!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns darüber sprechen, wie wichtig es ist, anderen zuzuhören. Wenn jemand mit dir spricht, ist es höflich, aufmerksam zu sein und zuzuhören. Du kannst zeigen, dass du zuhörst, indem du den Kopf leicht nickst oder 'Ja' sagst. Es ist wie, wenn du deine Lieblingsgeschichte hörst und nichts verpassen möchtest. Das Zuhören hilft dir, neue Dinge zu lernen und Freunde zu finden."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Lass uns jetzt eine kleine Übung machen. Stell dir vor, du hörst deinem Freund zu, der dir von seinem Tag erzählt. Kannst du ihm eine Frage stellen, wie 'Was hast du heute gemacht?'? Das zeigt, dass du interessiert bist und mehr erfahren möchtest. Es ist wunderbar, neugierig zu sein!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über das Zuhören gesprochen haben, lass uns über das Teilen sprechen. Teilen macht Spaß und bringt Freude! Wenn du dein Spielzeug oder deinen Snack teilst, machst du andere glücklich. Es ist wie ein Geschenk, das du gibst und das Lächeln hervorruft. Und manchmal bekommst du auch etwas zurück, wie einen neuen Freund oder eine lustige Geschichte."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du jemals dein Lieblingsspielzeug mit jemandem geteilt? Es kann am Anfang schwer sein, aber es fühlt sich toll an, wenn du siehst, wie glücklich es macht. Teilen zeigt, dass du ein großartiger Freund bist. Und wer weiß, vielleicht teilt dein Freund das nächste Mal etwas mit dir. Es ist eine wunderbare Art, Freundschaft zu zeigen."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt über Regeln sprechen. Regeln helfen uns, sicher und glücklich zu sein. Zum Beispiel gibt es Regeln, um die Straße sicher zu überqueren. Immer auf die Ampel achten und nach links und rechts schauen, bevor du gehst. Regeln sind wie kleine Helfer, die uns den Weg zeigen. Wenn wir ihnen folgen, können wir viele Abenteuer erleben!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein toller Zuhörer! Lass uns eine kleine Pause machen und tief durchatmen. Einatmen... und ausatmen. Das hilft uns, ruhig und konzentriert zu bleiben. Wenn du dich das nächste Mal aufgeregt fühlst, probiere es aus. Du wirst sehen, wie beruhigend es sein kann!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Teilen gesprochen haben? Es gibt noch mehr, was du tun kannst, um freundlich zu sein. Ein einfaches 'Danke' oder 'Bitte' kann einen großen Unterschied machen. Diese kleinen Wörter zeigen, dass du respektvoll und höflich bist. Sie sind wie magische Wörter, die Freude verbreiten!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkst du, warum sind 'Bitte' und 'Danke' so wichtig? Sie helfen uns, freundlich miteinander umzugehen. Wenn du diese Wörter benutzt, zeigst du, dass du die Gefühle anderer respektierst. Es ist ein bisschen wie, wenn du ein Lächeln schenkst. Möchtest du es ausprobieren?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über viele wichtige Dinge gesprochen haben, lass uns über das Spielen sprechen. Spielen ist eine wunderbare Möglichkeit, neue Fähigkeiten zu lernen. Wenn du mit anderen spielst, lernst du, zusammenzuarbeiten und zu teilen. Es ist wie ein großes Abenteuer, bei dem du neue Freunde finden kannst. Spielen macht nicht nur Spaß, sondern stärkt auch deinen Geist und Körper."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du ein Lieblingsspiel, das du gerne mit anderen spielst? Vielleicht ein lustiges Versteckspiel oder ein kreatives Malen? Spiele sind eine tolle Möglichkeit, deine Fantasie zu nutzen. Und wenn du mit anderen spielst, könnt ihr gemeinsam lachen und eure Ideen teilen. Es ist eine wunderbare Art, den Tag zu verbringen!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Zum Abschluss unserer Reise lass uns über das Schlafengehen sprechen. Ein guter Schlaf hilft dir, gesund und glücklich zu sein. Eine ruhige Routine vor dem Schlafengehen kann helfen, besser zu schlafen. Vielleicht ein schönes Buch lesen oder leise Musik hören. Das ist wie ein kleiner Zauber, der dir hilft, gut zu träumen."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es Zeit, sich zu verabschieden. Ich hoffe, du hattest genauso viel Spaß wie ich! Denk daran, die Dinge, die wir gelernt haben, auszuprobieren. Du bist wunderbar und kannst alles schaffen, was du dir vornimmst. Bis zum nächsten Mal, kleiner Freund! Auf Wiedersehen!"
+    }
+  ],
+  "title": "Spark Buddys Behavior Geschichte"
+}

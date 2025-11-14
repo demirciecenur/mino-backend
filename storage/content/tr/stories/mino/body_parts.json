@@ -1,0 +1,104 @@
+{
+  "id": "mino_body_parts_story",
+  "character": "Mino",
+  "topic": "body parts",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mino. Bugün seninle vücut bölümleri hakkında harika bir yolculuğa çıkacağız. Vücudumuzun ne kadar harika olduğunu keşfedeceğiz. Hazır mısın? Seni çok merak ediyorum ve bu macera için sabırsızlanıyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, vücudumuzun en önemli parçalarından biri olan kafamıza bir bakalım. Kafamızın içinde beynimiz var ve beynimiz düşünmemize, öğrenmemize yardımcı olur. Beynimiz sayesinde hikayeler uydurabiliriz, oyunlar oynayabiliriz. Ayrıca kafamızda gözlerimiz, burnumuz ve ağzımız var. Gözlerimizle etrafımızı görür, burnumuzla kokuları alırız."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Gözlerimizle neler yapabileceğimizi bir düşünelim. Mesela gökyüzündeki yıldızları görebiliriz. Gözlerimiz sayesinde renkleri ayırt edebiliriz. Her sabah güneşin doğuşunu izlemek ne kadar güzel, değil mi? Şimdi sen de gözlerini kapat ve hayal et, bakalım neler görebileceksin."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Gözlerini kapatarak hayal gücünü kullandın. Şimdi burnumuza bakalım. Burnumuz sayesinde çiçeklerin güzel kokusunu alabiliriz. Ayrıca yemeklerin lezzetli kokularını da hissedebiliriz. Burnumuz çok önemli, çünkü nefes almamıza da yardımcı oluyor. Derin bir nefes alalım, içimize temiz hava dolsun."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda nefes almanın önemini keşfettik. Şimdi ağzımızın ne kadar önemli olduğunu keşfedelim. Ağzımızla konuşur, güler ve yemek yeriz. Dilimiz sayesinde farklı tatları hissedebiliriz. Ağzımız olmadan arkadaşlarımızla konuşamaz, lezzetli yiyeceklerin tadını çıkaramazdık."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi ellerimize bakalım. Ellerimizle ne kadar çok şey yapabiliyoruz, değil mi? Resim çizebilir, oyuncaklarımızı toplayabiliriz. Ellerimizle dokunarak farklı dokuları hissedebiliriz. Ellerimiz sayesinde dünyayı daha iyi tanıyabiliriz. Sen de ellerinle neler yapabileceğini bir düşün."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ellerimizle neler yapabileceğimizi düşündük. Şimdi ayaklarımıza bakalım. Ayaklarımız sayesinde yürüyebilir, zıplayabiliriz. Dans etmek, koşmak gibi aktiviteleri ayaklarımızla yapabiliriz. Ayaklarımız bizi her yere götürür ve bize denge sağlar. Haydi, ayaklarımızla minik bir dans yapalım!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Vücudumuzdaki en sevdiğin bölüm hangisi? Belki gözlerinle gökyüzünü izlemeyi seviyorsundur. Ya da belki ellerinle resim yapmayı. Hadi düşün ve bana söyle!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Vücudumuzdaki bölümleri keşfetmeye devam edelim. Şimdi kalbimize bakalım. Kalbimiz sürekli çalışarak vücudumuza kan pompalar. Kalbimiz sayesinde enerjik ve sağlıklı kalırız. Kalbimizin ritmini hissedebilir misin? Elini göğsüne koy ve kalbinin nasıl attığını hisset."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kalbimizin önemini öğrendik. Şimdi vücudumuzu korumak için neler yapabileceğimizi konuşalım. Sağlıklı besinler yemek ve bol su içmek çok önemli. Ayrıca düzenli uyumak ve egzersiz yapmak da vücudumuza iyi gelir. Bu alışkanlıklar vücudumuzu güçlü ve sağlıklı tutar."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Sağlıklı alışkanlıkları öğrenmek çok önemli. Şimdi biraz hareket edelim mi? Birlikte yerimizde zıplayalım ve enerjimizi yayalım. Hadi, bir, iki, üç, zıpla! Hareket etmek vücudumuzu güçlendirir ve bizi mutlu eder. Harika iş çıkardın!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, vücudumuzun dışını korumanın önemine bakalım. Cildimiz vücudumuzun koruyucu kalkanıdır. Onu temiz tutmak ve güneşten korumak çok önemlidir. Cildimiz sayesinde dış dünyayı hissedebiliriz. Güneşli günlerde şapka takmak ve güneş kremi sürmek cildimizi korur."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana başka bir soru sormak istiyorum. Cildimizi korumak için neler yapabiliriz? Belki banyo yapmayı seversin. Ya da güneşli günlerde gölgede kalmayı. Düşün ve bana söyle, bakalım sen neler yapıyorsun?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Cildimizi koruma yollarını düşündük. Şimdi vücudumuzun ne kadar harika olduğunu bir kez daha hatırlayalım. Her bir parçamız bize farklı yetenekler kazandırır. Vücudumuzu sevmek ve ona iyi bakmak çok önemlidir. Unutma, vücudun senin en değerli hazinendir."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün vücudumuz hakkında çok şey öğrendik. Seninle bu yolculuğa çıkmak çok eğlenceliydi. Vücudunu tanımak ve ona iyi bakmak harika bir şey. Her gün yeni bir şeyler öğrenmek için sabırsızlanıyorum. Bir sonraki maceramızda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Mino'ın Body Parts Hikayesi"
+}

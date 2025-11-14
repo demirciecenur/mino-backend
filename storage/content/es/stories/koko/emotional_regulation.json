@@ -1,0 +1,98 @@
+{
+  "id": "koko_regulación emocional, manejo de emociones, calmarse, autorregulación_story",
+  "character": "Koko",
+  "topic": "regulación emocional, manejo de emociones, calmarse, autorregulación",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeños amigos! Soy Koko, y hoy vamos a embarcarnos en una aventura emocionante. Hablaremos sobre cómo manejar nuestras emociones y cómo calmarnos cuando nos sentimos un poco alterados. ¿Alguna vez te has sentido así? No te preocupes, todos lo hacemos. Estoy aquí para ayudarte a aprender a controlar esos sentimientos. ¡Vamos a comenzar!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Cuando sentimos que algo nos molesta, es importante saber cómo calmarnos. A veces, puede ser difícil, pero juntos podemos aprender. Imagina que estás construyendo una torre con bloques y de repente se cae. ¡Qué frustrante puede ser eso! Pero en lugar de enojarnos, podemos respirar profundo y volver a intentar. Aprender a calmarse es como ser un superhéroe de tus propias emociones."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a practicar una técnica para calmarnos. Respiremos juntos: inhala por la nariz contando hasta tres, y exhala por la boca también contando hasta tres. Puedes imaginar que estás soplando una vela. ¿Sientes cómo tu cuerpo se relaja? Esto es una forma poderosa de manejar tus emociones. Practiquemos esto cada vez que nos sintamos abrumados."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Saber cómo calmarse es una habilidad muy importante. Cada vez que lo practiques, te harás más fuerte, como un verdadero héroe. Si alguna vez te sientes triste o enojado, recuerda que puedes usar tu respiración para ayudarte a sentirte mejor. ¡Estoy muy orgulloso de ti por intentarlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos lo que aprendimos sobre la respiración. Es una herramienta que llevas contigo todo el tiempo, como una capa de superhéroe invisible. Cuando tengas miedo o estés triste, puedes usarla para sentirte más tranquilo. Imagínate usando tus poderes de respiración para calmarte como un verdadero campeón. ¡Es increíble lo que puedes hacer!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a hablar sobre identificar nuestras emociones. ¿Alguna vez has sentido que tu corazón late muy rápido? O que tus manos están sudorosas. Estos son signos de que estás sintiendo algo fuerte. Cuando reconozcas estos signos, es el momento perfecto para usar tus técnicas de respiración. Saber identificar tus emociones es el primer paso para manejarlas."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Es maravilloso que estés aprendiendo a reconocer tus emociones. Cada vez que lo hagas, te estarás volviendo más consciente y poderoso. No olvides que está bien sentirse de cualquier manera, pero ahora tienes herramientas para ayudarte. ¡Eres increíblemente valiente por aprender esto! Sigue practicando y verás cómo mejoras cada día."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vamos a recordar lo que hemos aprendido hasta ahora. Hemos hablado de cómo respirar para calmarnos y cómo identificar nuestras emociones. Estas son habilidades que puedes usar en cualquier lugar, ya sea en casa, en la escuela o en el parque. Recuerda que cada vez que te sientas abrumado, puedes usar estas herramientas para ayudarte. ¡Eres un verdadero campeón en el manejo de tus emociones!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme alguna vez cuando te sentiste enojado o triste? ¿Qué hiciste para sentirte mejor? Es importante compartir nuestras experiencias con los demás. Así podemos aprender juntos y apoyarnos. Estoy aquí para escucharte y ayudarte en lo que necesites. ¡Cuéntame más sobre tus aventuras emocionales!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos compartido un poco, vamos a pensar en momentos felices. Recuerda un momento en que te sentiste muy feliz, como cuando juegas con tus amigos o cuando comes tu helado favorito. Pensar en cosas buenas puede ayudarnos a sentirnos mejor cuando estamos tristes. Es una forma de manejar nuestras emociones de manera positiva."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer un ejercicio juntos. Piensa en algo que te haga feliz y sonríe mientras lo imaginas. ¿Sientes cómo tu corazón se llena de alegría? Este es otro superpoder que tienes. Puedes usar tus pensamientos felices para cambiar cómo te sientes. Practiquemos esto cada vez que necesitemos un poco de felicidad extra."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Usar tus pensamientos para manejar tus emociones es realmente poderoso. Eres como un superhéroe que puede cambiar su mundo con solo imaginar cosas felices. Sigue practicando y verás cómo te vuelves más fuerte cada día. ¡Estoy tan orgulloso de ti por aprender y crecer!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda siempre que está bien sentir una variedad de emociones. Es normal sentirse feliz, triste, enojado o asustado. Lo importante es saber cómo manejarlas de manera que te ayuden a sentirte mejor. Ahora tienes muchas herramientas en tu caja de superhéroe para hacerlo. ¡Eres increíblemente valiente y fuerte!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un viaje maravilloso aprender sobre nuestras emociones juntos. Estoy muy feliz de que hayas estado aquí conmigo. Recuerda siempre que estoy aquí para apoyarte y que puedes usar lo que aprendiste hoy en cualquier momento. ¡Hasta la próxima, pequeño héroe! Sigue siendo valiente y fuerte. ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Emotional Regulation de Koko"
+}

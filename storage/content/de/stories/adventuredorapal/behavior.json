@@ -1,0 +1,104 @@
+{
+  "id": "adventure_dora_pal_behavior_story",
+  "character": "Adventure Dora Pal",
+  "topic": "behavior",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Adventure Dora Pal. Heute machen wir eine spannende Reise, um über Verhalten zu lernen. Bist du bereit? Ich bin so neugierig, was wir gemeinsam entdecken werden. Lass uns zusammen auf dieses Abenteuer gehen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Verhalten ist, wie wir uns benehmen und wie wir mit anderen Menschen umgehen. Es ist wichtig, freundlich und respektvoll zu sein. Zum Beispiel, wenn wir 'Bitte' und 'Danke' sagen, zeigen wir gutes Benehmen. Das hilft uns, Freunde zu finden und glücklich zu sein. Lass uns herausfinden, wie wir noch besser werden können!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Es gibt viele Regeln, die uns helfen, gut miteinander auszukommen. Eine wichtige Regel ist, auf andere zu hören, wenn sie sprechen. Das zeigt, dass wir sie respektieren und ihre Meinung hören wollen. Wenn wir uns an Regeln halten, wird es einfacher, zusammen zu spielen und Spaß zu haben. Jetzt lass uns ein paar Regeln zusammen lernen!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du machst das wirklich gut. Eine weitere wichtige Regel ist, immer ehrlich zu sein. Wenn wir die Wahrheit sagen, können uns die anderen vertrauen. Vertrauen ist wichtig, um gute Freunde zu haben. Möchtest du versuchen, ehrlich zu sein, auch wenn es manchmal schwer ist?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Teilen gesprochen haben? Teilen ist eine wunderbare Art, anderen zu zeigen, dass wir sie mögen. Wenn wir unser Spielzeug teilen, können wir gemeinsam spielen und noch mehr Spaß haben. Lass uns überlegen, wie wir heute etwas teilen können!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du schon einmal einem Freund geholfen, der traurig war? Helfen ist eine tolle Möglichkeit, freundlich zu sein und jemandem zu zeigen, dass wir uns kümmern. Vielleicht kannst du jemandem ein Lächeln schenken oder ihm bei einer Aufgabe helfen. Das macht alle glücklich!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über Geduld sprechen. Geduld bedeutet, ruhig zu bleiben und zu warten, bis wir an der Reihe sind. Zum Beispiel, wenn wir in der Schlange stehen oder auf unser Spielzeug warten. Geduld ist wichtig, weil es uns hilft, fair zu sein und anderen eine Chance zu geben."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wirklich toll! Lass uns zusammen üben, bis fünf zu zählen, während wir geduldig warten. Eins, zwei, drei, vier, fünf! Super gemacht! Geduld zu haben kann manchmal schwer sein, aber du kannst das schaffen!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Weißt du, warum es wichtig ist, freundlich zu sein? Wenn wir freundlich sind, fühlen sich die Menschen um uns herum gut. Und wenn sie sich gut fühlen, sind sie auch freundlich zu uns. Kannst du dir eine Situation vorstellen, in der du freundlich sein kannst?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns über das Aufräumen sprechen. Wenn wir unser Spielzeug aufräumen, helfen wir, unser Zuhause sauber und ordentlich zu halten. Es ist wie ein kleines Spiel, alle Sachen an ihren Platz zu bringen. Aufräumen kann Spaß machen, wenn wir es zusammen tun!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wusstest du, dass Zuhören auch eine Art von gutem Benehmen ist? Wenn jemand spricht, schauen wir ihn an und hören aufmerksam zu. Das zeigt, dass wir interessiert sind und respektieren, was er sagt. Lass uns üben, gut zuzuhören!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein toller Zuhörer! Lass uns jetzt darüber sprechen, wie wir unsere Gefühle ausdrücken können. Wenn wir glücklich, traurig oder wütend sind, können wir darüber sprechen. Das hilft anderen, uns besser zu verstehen. Möchtest du versuchen, deine Gefühle zu beschreiben?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Super gemacht! Jetzt lass uns über das Lächeln sprechen. Ein Lächeln kann jemandem den Tag verschönern. Wenn wir lächeln, zeigen wir, dass wir freundlich und glücklich sind. Lass uns zusammen lächeln und sehen, wie es sich anfühlt!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du heute etwas Neues gelernt? Es macht Spaß, neue Dinge zu lernen und zu entdecken. Lernen hilft uns, klug zu werden und die Welt besser zu verstehen. Was möchtest du als nächstes lernen?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Vielen Dank, dass du heute mit mir auf dieses Abenteuer gegangen bist. Du hast so viel über gutes Benehmen gelernt und bist ein großartiger Freund. Ich freue mich schon auf unser nächstes Abenteuer zusammen. Bis bald, kleiner Entdecker! Tschüss!"
+    }
+  ],
+  "title": "Adventure Dora Pals Behavior Geschichte"
+}

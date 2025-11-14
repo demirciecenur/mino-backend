@@ -1,0 +1,104 @@
+{
+  "id": "funny bunny_nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables_story",
+  "character": "Funny Bunny",
+  "topic": "nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Funny Bunny y hoy vamos a descubrir juntos el mundo de la nutrición y la alimentación saludable. ¿Están listos para una aventura divertida? Aprenderemos sobre los alimentos que nos ayudan a crecer fuertes y sanos. También hablaremos de hábitos alimentarios que nos hacen sentir bien. ¡Estoy tan emocionado de compartir todo esto con ustedes! Vamos a comenzar nuestro viaje saludable."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos listos, hablemos de las frutas y verduras. Las frutas como las manzanas y las naranjas están llenas de vitaminas que son como pequeños superhéroes para nuestro cuerpo. Las verduras, como las zanahorias y el brócoli, nos ayudan a tener ojos brillantes y huesos fuertes. ¿Sabían que comer una variedad de colores en nuestro plato es muy bueno? ¡Es como tener un arcoíris en nuestra comida! Comer frutas y verduras todos los días nos hace sentir llenos de energía."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos sobre los cereales y las legumbres. Los cereales como el arroz y la avena son como el combustible para nuestro cuerpo. Nos dan la energía que necesitamos para jugar y aprender. Las legumbres, como los frijoles y las lentejas, tienen proteínas que nos ayudan a crecer. ¿Pueden imaginarse a los frijoles como pequeños constructores que fortalecen nuestros músculos? Comer cereales y legumbres es importante para tener un día lleno de aventuras."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ahora vamos a hacer un pequeño ejercicio juntos! Vamos a contar hasta cinco mientras respiramos profundamente. Inhalen, uno, dos, tres, cuatro, cinco, y exhalen. ¡Qué bien se siente! Respirar profundamente nos ayuda a relajarnos y a sentirnos tranquilos. ¿No es maravilloso cómo el aire puede hacer que nos sintamos tan bien? Pueden hacerlo siempre que lo necesiten. ¡Genial trabajo, amigos!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Sigamos con los productos lácteos y los huevos. La leche y el yogur son deliciosos y están llenos de calcio, que es como una varita mágica para nuestros huesos. Los huevos, por otro lado, son como pequeñas cajas de sorpresas llenas de proteínas. Comer productos lácteos y huevos nos ayuda a ser fuertes y a tener energía para jugar todo el día. ¿No les parece increíble cómo la comida puede hacer tantas cosas maravillosas por nosotros?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de la importancia de beber agua. El agua es como una fuente mágica que mantiene nuestro cuerpo funcionando bien. Nos ayuda a mantenernos hidratados y a que nuestro cerebro piense mejor. ¿Sabían que debemos beber agua varias veces al día? Es como darle un gran abrazo a nuestro cuerpo. Recuerden beber agua después de jugar y durante las comidas. ¡Vamos, tomen un sorbo de agua ahora mismo!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdan cuando hablamos de los colores en nuestro plato? Vamos a hacer un juego. Piensen en sus colores favoritos y busquemos alimentos que tengan esos colores. ¿Les gusta el rojo? Podemos comer fresas o tomates. ¿Prefieren el verde? Entonces eligen brócoli o espinacas. ¡Hay tantos colores y sabores para explorar! Comer alimentos de diferentes colores hace que nuestras comidas sean más divertidas y saludables."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez han probado algo nuevo que no pensaban que les gustaría? A veces, los alimentos pueden sorprendernos. ¿Qué tal si probamos un nuevo vegetal o fruta esta semana? ¿Cuál les gustaría intentar? ¡Podría convertirse en su nuevo favorito! Recuerden, probar cosas nuevas es una gran aventura y nunca sabemos qué delicias podemos descubrir. ¿Están listos para el desafío?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablemos sobre los dulces y las golosinas. Son muy sabrosos, pero debemos comerlos con moderación. Los dulces son como un pequeño premio que podemos disfrutar de vez en cuando. Es importante no comer demasiados porque no nos dan la energía que necesitamos para jugar y aprender. En cambio, podemos elegir frutas que son naturalmente dulces y también saludables. ¡Qué rico es comer una manzana o un plátano cuando tenemos antojo de algo dulce!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a hacer otro ejercicio divertido! Esta vez, vamos a saltar en nuestro lugar cinco veces. ¿Listos? Uno, dos, tres, cuatro, cinco. ¡Qué divertido! Hacer ejercicio nos ayuda a mantenernos fuertes y a tener un corazón sano. Podemos hacer estos saltos cada día para sentirnos activos y llenos de energía. ¡Ustedes son increíbles! Sigan moviéndose y disfrutando del ejercicio."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, pensemos en la hora de las comidas. Es importante comer despacio y disfrutar cada bocado. Cuando masticamos bien, nuestro cuerpo tiene tiempo para decirnos que estamos llenos. ¿Alguna vez han sentido que comieron demasiado rápido? Al comer despacio, también podemos disfrutar más de los sabores. ¡Intenten contar hasta cinco mientras mastican cada bocado! Verán cómo mejora la experiencia de comer."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdan los alimentos que nos dan energía? Vamos a pensar en un día lleno de aventuras. Si queremos correr y jugar todo el día, necesitamos mucha energía. Los cereales y las frutas son como el combustible para nuestro cuerpo. ¿Qué tal si planeamos un desayuno saludable juntos? Podríamos incluir avena, frutas y un vaso de leche. ¡Qué manera tan deliciosa de empezar el día!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Cuál es su alimento favorito para el almuerzo? A mí me encantan los sándwiches llenos de colores. ¿Y a ustedes? Podemos elegir ingredientes saludables como el pollo, las lechugas y los tomates. ¿No les parece divertido crear su propio sándwich arcoíris? Pueden probar diferentes combinaciones y encontrar su favorita. ¿Qué ingredientes elegirían para su sándwich perfecto?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Finalmente, recordemos que comer saludable nos ayuda a ser felices y sentirnos bien. Cuando elegimos alimentos que nos hacen fuertes, podemos disfrutar más de nuestras actividades favoritas. Jugar, correr, y aprender se vuelven más divertidos cuando estamos llenos de energía. Así que, cada vez que coman, piensen en todas las cosas maravillosas que su cuerpo puede hacer. ¡Ustedes son increíbles y pueden lograr lo que se propongan!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer compartir este tiempo con ustedes, amigos. Espero que hayan aprendido algo nuevo sobre la nutrición y la alimentación saludable. Recuerden siempre elegir alimentos que los hagan sentir bien y llenos de energía. Estoy muy orgulloso de todos ustedes por ser tan curiosos y valientes. ¡Hasta la próxima, mis pequeños exploradores! Cuídense y sigan siendo increíbles."
+    }
+  ],
+  "title": "Historia de Nutrition de Funny Bunny"
+}

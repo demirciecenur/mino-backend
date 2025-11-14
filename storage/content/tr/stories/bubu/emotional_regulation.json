@@ -1,0 +1,98 @@
+{
+  "id": "bubu_emotional_regulation_story",
+  "character": "Bubu",
+  "topic": "emotional_regulation",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Bubu. Bugün birlikte duygularımızı nasıl anlayıp yönetebileceğimizi keşfedeceğiz. Duygular bazen çok karmaşık olabilir, değil mi? Ama birlikte öğrenirsek, her şey daha kolay olacak. Haydi bu maceraya birlikte çıkalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygular, içimizde hissettiğimiz şeylerdir. Bazen çok mutlu hissederiz, bazen de biraz üzgün. Örneğin, en sevdiğimiz oyuncağımızı kaybettiğimizde üzgün olabiliriz. Ama merak etme, bu duygular çok normal. Herkes zaman zaman farklı duygular yaşar."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi duygularımızı nasıl daha iyi anlayabileceğimizden bahsedelim. İlk adım, ne hissettiğimizi fark etmektir. Mesela, üzgün olduğumuzu hissettiğimizde, 'Ben şimdi üzgünüm' diyebiliriz. Bu, duygularımızı tanımamıza yardımcı olur. Duygularımızı tanımak, onları yönetmenin ilk adımıdır."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir nefes egzersizi yapalım mı? Derin bir nefes al ve yavaşça ver. Bir daha deneyelim, derin nefes al ve yavaşça ver. Bu, kendimizi daha sakin hissetmemize yardımcı olabilir. Harika iş çıkardın!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı yönetmek için başka neler yapabiliriz, biliyor musun? Bir arkadaşımızla konuşabiliriz. Konuşmak, duygularımızı paylaşmamıza ve daha iyi hissetmemize yardımcı olur. Ayrıca resim yapmak ya da oyun oynamak da duygularımızı ifade etmenin güzel yollarıdır."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda duygularımızı ifade etmenin yollarından bahsetmiştik. Şimdi, hangi duyguları hissettiğimizi nasıl anlayabileceğimizi konuşalım. Bedenimiz bize ipuçları verir. Mesela, kalbimiz hızlı atıyorsa heyecanlı olabiliriz. Bu ipuçlarını takip edebiliriz."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Duygularımızı yönetirken, kendimize zaman tanımak da önemlidir. Bir şey bizi üzgün hissettirdiğinde, biraz dinlenmek iyi gelebilir. Sakin bir köşede oturup en sevdiğimiz hikayeyi dinlemek gibi. Bu, duygularımızı daha iyi anlamamıza yardımcı olabilir."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin de duygularını ifade etmek için yaptığın bir şey var mı? Mesela resim yapmak ya da bir hikaye anlatmak gibi. Bunları yaparken nasıl hissettiğini düşün. Bu, duygularını daha iyi anlamana yardımcı olabilir. Bunu denemek ister misin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı ifade ederken, başka birine de yardım edebiliriz. Mesela, arkadaşımız üzgün olduğunda ona sarılabiliriz. Bu, onun kendini daha iyi hissetmesine yardımcı olabilir. Birlikte oynamak ya da onu dinlemek de iyi bir fikir olabilir."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkarıyorsun! Duygularını anlamak ve yönetmek için gösterdiğin çaba çok önemli. Unutma, her duygu normaldir ve hepimiz duygularımızı farklı şekillerde yaşarız. Seninle bu yolculukta olmak çok keyifli."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnede duygularımızı nasıl ifade edebileceğimizden bahsetmiştik. Şimdi, bir duyguyu yaşarken neler yapabileceğimizi konuşalım. Örneğin, çok mutlu olduğumuzda bunu bir dansla kutlayabiliriz. Ya da üzgün olduğumuzda bir hikaye okuyabiliriz."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi hep birlikte nefes alıp verelim. Derin bir nefes al ve yavaşça ver. Bu basit egzersiz, duygularımızı sakinleştirmemize yardımcı olabilir. Bunu her gün denemek, daha iyi hissetmemize yardımcı olabilir."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bu egzersizi yaparken nasıl hissettin? Rahatladın mı yoksa başka bir şey mi hissettin? Duygularını paylaşmak ister misin? Bunu denemek ve nasıl hissettiğini keşfetmek harika bir yol."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün duygularımızı nasıl anlayıp yönetebileceğimizi öğrendik. Seninle bu yolculuğa çıkmak çok güzeldi. Unutma, her zaman duygularını ifade edebilirsin. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Bubu'ın Emotional Regulation Hikayesi"
+}

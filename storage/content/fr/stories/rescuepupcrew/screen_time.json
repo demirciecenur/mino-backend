@@ -1,0 +1,104 @@
+{
+  "id": "rescue pup crew_temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran_story",
+  "character": "Rescue Pup Crew",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petits amis ! Je suis le Rescue Pup Crew. Aujourd'hui, nous allons explorer le monde fascinant des écrans et comment les utiliser en toute sécurité. Êtes-vous prêts pour cette aventure ? Nous allons apprendre à devenir des experts en technologie tout en gardant des habitudes saines. Je suis tellement excité de commencer ce voyage avec vous !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par parler de ce qu'est le temps d'écran. Le temps d'écran, c'est le temps que nous passons devant un écran, comme une tablette ou une télévision. C'est amusant de regarder des dessins animés ou de jouer à des jeux, n'est-ce pas ? Mais il est important de ne pas passer trop de temps devant l'écran pour que nos yeux ne se fatiguent pas. Maintenant, vous savez ce qu'est le temps d'écran !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant de la sécurité numérique. La sécurité numérique signifie être prudent lorsque nous utilisons des appareils connectés à Internet. Par exemple, ne jamais parler à des inconnus en ligne, tout comme nous ne le faisons pas dans la vraie vie. Et si vous voyez quelque chose qui vous semble étrange, parlez-en toujours à un adulte. Ainsi, nous pouvons tous rester en sécurité en ligne !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un excellent travail en apprenant tout cela ! Maintenant, voyons comment utiliser la technologie de manière intelligente. Quand nous jouons avec une tablette, nous pouvons choisir des jeux éducatifs qui nous aident à apprendre de nouvelles choses. C'est comme avoir une école amusante à la maison. Vous pouvez le faire, je crois en vous !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de ne pas passer trop de temps devant l'écran ? C'est ce qu'on appelle avoir des habitudes saines d'écran. Cela signifie faire des pauses pour jouer dehors ou lire un livre. Cela aide notre esprit et notre corps à rester forts et en bonne santé. Ainsi, nous nous sentirons toujours pleins d'énergie !"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre habitude saine est d'avoir un endroit spécial pour utiliser nos appareils. Peut-être un coin dans le salon où un adulte peut nous voir. Cela nous aide à rester concentrés et à ne pas passer trop de temps devant l'écran. Vous pouvez aussi avoir un calendrier pour suivre votre temps d'écran. C'est amusant de planifier notre journée !"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes vraiment en train de devenir un expert en technologie ! N'oubliez pas que les écrans ne sont qu'une partie de notre journée. Jouer avec des amis, dessiner ou construire avec des blocs est tout aussi important. Chaque activité nous apprend quelque chose de nouveau. Bravo à vous pour tout ce que vous apprenez !"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous une activité préférée en dehors des écrans ? Peut-être que vous aimez jouer au parc ou peindre des images colorées. Pensez à ce que vous aimez faire et parlez-en à vos parents. Cela peut être une excellente façon de passer du temps ensemble et de découvrir de nouvelles passions. Qu'en pensez-vous ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de ce que nous pouvons faire quand nous utilisons des écrans. Il y a tellement de choses amusantes comme apprendre à dessiner ou écouter de la musique. L'important est de choisir des activités qui nous font nous sentir bien. Et si nous avons des questions, nous pouvons toujours demander à un adulte de nous aider. C'est toujours bien de partager ce que nous faisons !"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parfois, nos yeux peuvent se fatiguer si nous regardons un écran trop longtemps. Une bonne astuce est de faire une pause toutes les 20 minutes. Nous pouvons regarder par la fenêtre ou fermer les yeux quelques instants. Cela aide nos yeux à se reposer et à rester en bonne santé. N'oubliez pas de le faire la prochaine fois !"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez appris tellement de choses aujourd'hui ! Vous savez maintenant comment utiliser la technologie de manière sûre et intelligente. Continuez à pratiquer ces habitudes et vous serez un vrai champion des écrans. Je suis fier de vous et de tout ce que vous avez accompli. Continuez comme ça, vous êtes incroyable !"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous, il est important de parler à vos parents de ce que vous faites en ligne. Ils peuvent vous aider à choisir des contenus qui sont amusants et éducatifs. Vous pouvez aussi leur montrer vos jeux préférés. C'est une belle façon de partager et de passer du temps ensemble. Que diriez-vous d'essayer cela aujourd'hui ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nous avons parlé de beaucoup de choses aujourd'hui. Temps d'écran, sécurité numérique, et habitudes saines d'écran. Ce sont des sujets très importants pour grandir en bonne santé. Chaque fois que vous utilisez un écran, pensez à tout ce que vous avez appris aujourd'hui. Cela vous aidera à devenir un expert en technologie !"
+    },
+    {
+      "id": "scene_13",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, j'aimerais entendre ce que vous avez appris. Peut-être pouvez-vous me dire quelle est votre nouvelle habitude préférée ? Ou comment vous allez utiliser ce que vous avez appris aujourd'hui. Partager vos idées est une excellente façon de se souvenir de tout. J'ai hâte d'entendre ce que vous avez à dire !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était une aventure incroyable avec vous aujourd'hui ! Je suis tellement heureux que nous ayons appris ensemble. N'oubliez pas de pratiquer ce que vous avez appris et de rester en sécurité en ligne. Je suis toujours là pour vous aider et vous encourager. À la prochaine fois, mes amis ! Au revoir !"
+    }
+  ],
+  "title": "Histoire de Screen Time de Rescue Pup Crew"
+}

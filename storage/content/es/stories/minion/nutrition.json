@@ -1,0 +1,98 @@
+{
+  "id": "yellow_buddy_nutrición_healthy_eating_habits_story",
+  "character": "Yellow Buddy",
+  "topic": "nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Yellow Buddy y hoy vamos a aprender sobre algo muy importante y divertido: la nutrición. ¿Sabes lo que es? ¡Es como darle a nuestro cuerpo la energía que necesita para jugar, saltar y aprender! ¿Estás emocionado? ¡Yo sí! Vamos a descubrir juntos cómo podemos ser más fuertes y felices con alimentos saludables."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La nutrición es como el combustible para nuestro cuerpo, como la gasolina para un coche. Cuando comemos frutas y verduras, nuestro cuerpo se llena de energía. ¿Sabías que las zanahorias nos ayudan a ver mejor? ¡Sí, es verdad! Comer bien nos hace más fuertes y felices para poder correr y jugar todo el día. ¡Qué emocionante, ¿verdad?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de los colores en nuestro plato. Imagina que tu plato es un arcoíris. Podemos poner cosas verdes como el brócoli o rojas como las fresas. Comer muchos colores diferentes nos ayuda a crecer fuertes. ¿Y sabes qué más? ¡También hace que la comida sea más divertida! Así que la próxima vez que comas, intenta tener un arcoíris en tu plato."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a intentarlo juntos! Pídele a un adulto que te ayude a elegir frutas y verduras de diferentes colores. Puedes contar cuántos colores tienes en tu plato. ¿Listo para contar? Uno, dos, tres, ¡qué divertido! Recuerda, cada color tiene una sorpresa especial para tu cuerpo. ¡Lo estás haciendo genial!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora recordemos lo importante que es tomar agua. El agua es como la lluvia para las plantas, nos mantiene frescos y felices. Cuando jugamos mucho, necesitamos beber agua para no sentirnos cansados. Así que, después de saltar o correr, recuerda tomar un vaso de agua. ¡Tu cuerpo te lo agradecerá con una gran sonrisa!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "También es importante comer despacio y disfrutar de cada bocado. Cuando comemos despacio, damos tiempo a nuestro cuerpo para decirnos que ya está lleno. Es como cuando construyes una torre de bloques, lo haces con cuidado para que no se caiga. Así que mastiquemos bien y disfrutemos de cada sabor."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Ahora, pensemos en una fruta que te guste mucho. ¿Es una manzana? ¿O tal vez una banana? La próxima vez que comas una, intenta describir su sabor. ¿Es dulce o ácida? ¡Es divertido descubrirlo! Y recuerda, cada bocado te hace más fuerte y feliz."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, también podemos probar algo nuevo. ¿Alguna vez has probado el kiwi? Tiene un sabor muy especial y es muy saludable. Probar cosas nuevas es como abrir un regalo sorpresa. Nunca sabemos lo que vamos a encontrar, pero puede ser algo delicioso. ¡Vamos a ser valientes y curiosos con la comida!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora, hablemos de los momentos en que comemos. Es bueno tener un horario para las comidas, como el desayuno, el almuerzo y la cena. Esto ayuda a nuestro cuerpo a saber cuándo es hora de recargar energía. Es como tener un reloj mágico que nos dice cuándo es el momento de comer. ¡Qué útil!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gusta ayudar a preparar la comida? Puedes lavar las frutas o mezclar los ingredientes. Participar en la cocina es como ser un pequeño chef. ¿No te parece divertido? Pregúntale a un adulto si puedes ayudar la próxima vez. ¡Es una gran manera de aprender sobre los alimentos!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Algunas veces, podemos sentirnos tentados de comer muchos dulces. Pero, ¿sabías que comer demasiado azúcar no es bueno para nuestro cuerpo? Es como darle demasiada gasolina a un coche, ¡podría desbordarse! Podemos disfrutar de un dulce de vez en cuando, pero es mejor comer más frutas y verduras."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial al aprender sobre la comida saludable! Recuerda siempre elegir alimentos que te hagan sentir bien. Puedes ser un superhéroe de la nutrición, eligiendo lo mejor para tu cuerpo. ¡Sigue así, eres increíble!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Cuál es tu comida favorita que te hace sentir fuerte y feliz? Me encantaría saberlo. Tal vez puedas dibujarla y mostrársela a alguien. Compartir nuestras comidas favoritas es una manera divertida de aprender unos de otros. ¡Estoy tan curioso por saber más sobre ti!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bueno, amiguitos, ha sido un día lleno de descubrimientos sobre la nutrición y los alimentos saludables. Espero que hayas aprendido mucho y te hayas divertido. Recuerda siempre cuidar tu cuerpo con buena comida y mucha agua. ¡Nos veremos pronto para más aventuras! ¡Adiós, amiguitos!"
+    }
+  ],
+  "title": "Historia de Nutrition de Yellow Buddy"
+}

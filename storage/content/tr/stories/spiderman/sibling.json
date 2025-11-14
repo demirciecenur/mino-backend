@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_sibling_story",
+  "character": "Spider Fighter",
+  "topic": "sibling",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Spider Fighter. Bugün birlikte kardeşlik hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Kardeşler arasında nasıl iyi geçinileceğini öğrenmek çok eğlenceli olacak. Bu macerada birlikte çok şey keşfedeceğiz. Seni çok merak ediyorum!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşler bazen en iyi arkadaşlarımız olabilirler. Onlarla oynarken, birlikte vakit geçirirken çok eğlenebiliriz. Peki, sen kardeşinle en çok hangi oyunları oynamayı seviyorsun? Kardeşlerle oyun oynamak, hayal gücümüzü geliştirmek için harika bir yol. Oyuncak bloklarla şehirler inşa edebilir ya da süper kahramanlar gibi maceralara atılabiliriz."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşlerle paylaşmak bazen zor olabilir, değil mi? Ama paylaşmak, sevgimizi göstermenin güzel bir yoludur. Oyuncaklarını paylaşmak, birlikte daha fazla eğlenmenizi sağlar. Paylaştıkça, aslında daha çok şeye sahip olduğumuzu fark ederiz. Şimdi, en sevdiğin oyuncağı kardeşinle paylaşmayı deneyebilirsin."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Paylaşmak, birbirimize ne kadar değer verdiğimizi gösterir. Kardeşinle birlikte bir şeyler yaparken, birbirinizi daha iyi tanıma fırsatı bulursunuz. Bu deneyim, aranızdaki bağı güçlendirir. Sen de bunu yapabilirsin! Hadi, şimdi birlikte bir oyun oynayalım."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerle birlikte oyun oynamak, bazen küçük anlaşmazlıklara yol açabilir. Ama önemli olan, bu anlaşmazlıkları nasıl çözdüğümüzdür. Anlayışlı olmak ve birbirimizi dinlemek, bu durumlarda çok yardımcı olur. Sen hiç kardeşinle tartıştın mı? Tartıştığınızda nasıl çözdüğünüzü hatırlıyor musun?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle en son hangi oyunu oynadığını hatırlıyor musun? Oyun sırasında neler yaşadınız? Birlikte oynamak eğlenceli miydi? Hadi, biraz düşün ve bana anlat. Merakla dinliyorum!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda, kardeşlerinle oyun oynamaktan bahsetmiştik. Şimdi, birlikte başka neler yapabileceğimizi düşünelim. Mesela, birlikte resim yapabilir ya da dans edebilirsiniz. Bu tür aktiviteler, yaratıcılığınızı geliştirir ve eğlenceli anılar biriktirmenizi sağlar. İstersen şimdi birlikte bir resim yapmayı deneyebilirsin."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir fikir! Kardeşinle birlikte resim yapmak, hem eğlenceli hem de öğretici olabilir. Renkleri karıştırarak yeni tonlar keşfedebilir ve hayal gücünüzü kağıda dökebilirsiniz. Bu tür etkinlikler, yaratıcılığınızı geliştirir ve sizi daha da yakınlaştırır. Sen bunu yapabilirsin, hadi başlayalım!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerle vakit geçirmenin bir başka güzel yanı da, birlikte yeni şeyler öğrenmektir. Kardeşinle birlikte kitap okurken, yeni hikayeler keşfedebilir ve karakterlerin maceralarına katılabilirsiniz. Kitaplar, bizi farklı dünyalara götürür ve hayal gücümüzü zenginleştirir. Sen en son hangi kitabı okudun? Kardeşinle birlikte okuduğunuzda nasıl hissettin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kitap okumanın yanı sıra, kardeşinle birlikte hikayeler de oluşturabilirsiniz. Birlikte bir kahraman seçip, onun maceralarını hayal edebilirsiniz. Bu, hem eğlenceli hem de öğretici bir etkinliktir. Hikayenizi oluştururken, karakterlerin başından geçenleri düşünün ve onları farklı dünyalara götürün. Şimdi, kendi hikayenizi yaratmayı deneyebilirsiniz."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hikaye oluşturmak harika bir fikir! Bu, hem yaratıcılığınızı geliştirir hem de kardeşinizle keyifli vakit geçirmenizi sağlar. Birlikte kahramanlarınızı seçin ve onların maceralarını hayal edin. Kendi hayal gücünüzü kullanarak, onlara yeni ve heyecan verici maceralar yaratabilirsiniz. Sen de denemek ister misin? Hadi başlayalım!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerinle birlikte vakit geçirmenin birçok yolu var. Birlikte yemek yapabilir, bahçede oyunlar oynayabilir ya da birlikte şarkılar söyleyebilirsiniz. Bu tür etkinlikler, aranızdaki bağı güçlendirir ve unutulmaz anılar biriktirmenizi sağlar. Sen en çok hangi etkinliği yapmayı seversin? Kardeşinle birlikte hangi aktiviteleri yaparken eğleniyorsun?"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle en çok hangi etkinlikleri yapmayı sevdiğini düşün. Birlikte vakit geçirirken hangi oyunlar ya da aktiviteler seni en çok mutlu ediyor? Hadi, biraz düşün ve bana anlat. Senin favori etkinliğini merak ediyorum!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda, birlikte yapabileceğimiz aktivitelerden bahsetmiştik. Şimdi, kardeşler arasında güçlü bir bağ kurmanın önemini düşünelim. Kardeşler, hayatımız boyunca yanımızda olan değerli arkadaşlarımızdır. Onlarla geçirdiğimiz zaman, hem eğlenceli hem de öğretici olabilir. Şimdi, birlikte daha fazla vakit geçirmenin yollarını keşfedelim."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün kardeşler hakkında birçok şey öğrendik. Onlarla birlikte vakit geçirmenin, oyun oynamanın ve paylaşmanın ne kadar değerli olduğunu gördük. Unutma, kardeşlerin senin en iyi arkadaşların olabilir. Onlarla birlikte geçirdiğin her an, hayatının en özel anılarından biri olacak. Şimdi, bir sonraki maceramızda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Spider Fighter'ın Sibling Hikayesi"
+}

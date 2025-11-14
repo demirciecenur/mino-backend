@@ -1,0 +1,98 @@
+{
+  "id": "clever_mouse_jerry_bedtime_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "bedtime",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friends! I'm Clever Mouse Jerry, and tonight we're going on a magical bedtime adventure. Are you ready to join me? I promise it will be full of fun and discoveries as we prepare for a good night's sleep. Together, we'll explore the wonderful world of bedtime routines. So, let's get cozy and begin our journey to dreamland!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, do you remember what we do first when it's bedtime? That's right, we need to tidy up our toys! Cleaning up is like making our room ready for a peaceful sleep. Let's pretend we're on a treasure hunt, finding all the toys and putting them back in their special places. When everything is in order, it feels so nice and calm, doesn't it? Great job, everyone!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Next, it's time to brush our teeth! Just like a brave knight polishing his shiny armor, we need to keep our teeth sparkling clean. Grab your toothbrush and let's squeeze a little toothpaste on it. Now, move your brush in gentle circles, making sure to reach every tooth. Can you feel how fresh your mouth is now? Wonderful!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You've done such a great job brushing your teeth! Now, let's put on our pajamas. Pajamas are like our special nighttime uniforms, soft and cozy, perfect for snuggling. Pick out your favorite pair, maybe one with fun patterns or bright colors. Once you're all dressed, give yourself a twirl and feel how comfy you are. You're ready for a restful night!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about calming down before sleep? Now, let's practice some gentle breathing. Take a deep breath in through your nose, filling up your belly like a big balloon. Then, slowly breathe out through your mouth, letting your body relax. Let's do this together three times. Breathing like this helps us feel calm and ready for sleep."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "After our calming breaths, it's story time! Do you have a favorite bedtime storybook? Stories take us to faraway places and fill our minds with wonder. Ask a grown-up to read to you, or you can look at the pictures and imagine your own tales. Stories help us wind down and prepare for sweet dreams."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing amazing at getting ready for bed! Now, let's think about something nice before we sleep. It could be a fun day at the park, a visit to a friend's house, or something you're looking forward to. Positive thoughts make us feel happy and help us drift into dreamland with a smile. What happy thought will you choose tonight?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've thought of something nice, let's say goodnight to everything around us. Goodnight to our toys, goodnight to the stars outside, and goodnight to the moon. Saying goodnight helps us feel connected to the world and ready to rest. It's like giving a gentle hug to our surroundings before we sleep."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a special bedtime friend, like a teddy bear or a soft blanket? Having a buddy to cuddle with can make bedtime feel even cozier. What does your bedtime friend look like? Are they fluffy and soft? It's nice to have someone to snuggle with as we drift off to sleep."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's remember how important it is to turn off the lights before sleeping. Darkness helps our bodies know it's time to rest. It's like a gentle signal to our brain that says, 'Time to dream!' If you have a nightlight, it can keep the room softly lit, just enough to feel safe and snug."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Did you know that sleep is like a little vacation for our bodies? While we sleep, we grow, and our minds get ready for new adventures. It's like recharging a battery, making sure we're full of energy for the next day. Isn't it amazing what sleep can do for us?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we get ready to close our eyes, let's think about all the fun we had today. Maybe you played a new game or learned something exciting. These happy memories are like little treasures we keep in our hearts. They're what make every day special and unique."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You've done so well getting ready for bed! Now, give yourself a big hug for being so brave and clever. You're ready to drift into a world of dreams, where anything is possible. Remember, you can be anything and go anywhere in your dreams. Sweet dreams, little adventurers!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time to say goodnight, dear friends. Thank you for joining me on this bedtime journey. I hope you have the sweetest dreams and wake up feeling bright and happy. Remember, every night is a new adventure waiting to happen. Sleep tight, and I'll see you next time!"
+    }
+  ],
+  "title": "Clever Mouse Jerry's Bedtime Story"
+}

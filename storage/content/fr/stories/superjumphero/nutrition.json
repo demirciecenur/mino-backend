@@ -1,0 +1,98 @@
+{
+  "id": "super_jump_hero_nutrition_alimentation_saine_habitudes_alimentaires_aliments_sains_story",
+  "character": "Super Jump Hero",
+  "topic": "nutrition, alimentation saine, habitudes alimentaires, aliments sains",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis! Je suis Super Jump Hero et aujourd'hui, nous allons explorer le monde fantastique de la nutrition! Nous allons découvrir comment les aliments peuvent nous donner de l'énergie, comme un super carburant pour nos aventures. Êtes-vous prêts à sauter dans cette aventure avec moi? Je suis tellement excité de partager ces secrets avec vous. Allons-y ensemble et découvrons comment bien manger peut être amusant et délicieux!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par parler des fruits et des légumes. Saviez-vous qu'ils sont pleins de vitamines qui nous aident à rester forts et en bonne santé? Par exemple, les carottes sont bonnes pour nos yeux, et les pommes nous donnent de l'énergie pour courir et sauter. Imaginez manger une banane et devenir aussi rapide qu'un guépard! Les fruits et légumes sont comme des super-héros qui nous aident chaque jour. C'est vraiment incroyable, n'est-ce pas?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des céréales comme le riz, le pain et les pâtes. Ces aliments nous donnent beaucoup d'énergie pour jouer et apprendre toute la journée. Pensez au pain comme à une pierre précieuse qui vous aide à construire un château de force. Quand vous mangez des céréales au petit-déjeuner, c'est comme remplir votre réservoir d'énergie! C'est pourquoi il est important d'en avoir dans notre assiette chaque jour. Êtes-vous prêts à construire votre château de force?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo les amis! Vous faites du super travail en apprenant tout cela. Maintenant, parlons des protéines. Les protéines se cachent dans des aliments comme la viande, le poisson, les œufs et même le tofu. Elles aident nos muscles à devenir forts, comme ceux des super-héros! Imaginez que chaque bouchée de poulet vous rend aussi fort qu'un lion. Quel aliment protéiné préférez-vous? C'est génial d'avoir autant de choix!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons notre aventure avec les produits laitiers. Le lait, le yaourt et le fromage sont pleins de calcium, qui est super important pour des os solides. Pensez à vos os comme à un squelette de super-héros qui vous soutient dans toutes vos aventures. Boire un verre de lait, c'est comme donner un câlin à vos os! Quel est votre produit laitier préféré? Moi, j'adore le fromage fondant!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de quelque chose de très important: l'eau! L'eau est essentielle pour nous garder hydratés et en forme. Imaginez que chaque gorgée d'eau est comme arroser une plante pour qu'elle grandisse. Boire de l'eau aide notre corps à fonctionner comme une machine bien huilée. Alors, n'oubliez pas de boire de l'eau tout au long de la journée. Qui veut boire un verre d'eau avec moi maintenant?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastique! Vous êtes de vrais experts en nutrition maintenant. Parlons des couleurs dans notre assiette. Plus il y a de couleurs, plus c'est amusant et sain. Imaginez que votre assiette est un arc-en-ciel rempli de super-pouvoirs. Chaque couleur représente quelque chose de spécial, comme le rouge pour l'énergie ou le vert pour la force. Essayez de mettre autant de couleurs que possible dans votre repas. Vous êtes prêts pour ce défi coloré?"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà pensé à d'où viennent nos aliments? Les fruits poussent sur les arbres et les légumes dans la terre. C'est comme un jardin magique plein de trésors cachés. Saviez-vous qu'en mangeant ces trésors, nous devenons forts et en bonne santé? Quel est votre fruit ou légume préféré? Je suis curieux de savoir ce que vous préférez!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Passons maintenant aux habitudes alimentaires. Manger à des heures régulières aide notre corps à savoir quand il est temps de faire le plein d'énergie. C'est un peu comme suivre une routine magique qui nous garde en bonne santé. Pensez à votre repas comme à un rendez-vous spécial avec votre corps. Quand vous mangez à la même heure chaque jour, votre corps est heureux et prêt pour l'aventure!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Nous allons maintenant parler de manger lentement. Saviez-vous que prendre son temps pour manger aide notre corps à mieux digérer les aliments? C'est comme savourer chaque bouchée d'un délicieux gâteau. Quand vous mangez lentement, vous pouvez vraiment apprécier le goût de votre nourriture. Essayez de mâcher chaque bouchée plusieurs fois avant d'avaler. Vous verrez, c'est amusant et bon pour vous!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Eh bien, que diriez-vous de partager vos repas avec votre famille? Manger ensemble rend le repas encore plus spécial. C'est comme avoir une fête tous les jours! Partager un repas avec ceux que nous aimons nous rend heureux et crée de bons souvenirs. Quel est votre repas préféré à partager avec votre famille? Partager rend tout plus savoureux, n'est-ce pas?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail incroyable en apprenant tout cela! Rappelez-vous, avoir une alimentation saine, c'est comme donner à votre corps tout ce dont il a besoin pour être un super-héros. Chaque fois que vous choisissez une pomme au lieu d'un bonbon, vous faites un choix de super-héros. Continuez comme ça, vous êtes sur la bonne voie pour devenir fort et en bonne santé!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, réfléchissons à ce que nous avons appris. Quel est votre conseil préféré pour une alimentation saine? Peut-être aimez-vous boire beaucoup d'eau ou ajouter des couleurs à votre assiette. Peu importe ce que vous choisissez, chaque petit pas compte. J'aimerais entendre vos idées, alors n'hésitez pas à partager. Qu'en pensez-vous?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était une aventure incroyable, mes amis! Merci d'avoir exploré le monde de la nutrition avec moi. N'oubliez pas, chaque fois que vous mangez sainement, vous devenez plus fort et plus heureux. Je suis fier de vous et de tout ce que vous avez appris aujourd'hui. Continuez à faire de bons choix alimentaires, et nous aurons encore plus d'aventures ensemble. À bientôt, mes petits héros!"
+    }
+  ],
+  "title": "Histoire de Nutrition de Super Jump Hero"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "yellow buddy_confidence_story",
+  "character": "Yellow Buddy",
+  "topic": "confidence",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Yellow Buddy, and today we're going on a fun adventure about confidence. Are you ready to learn how to feel super-duper strong and brave? I am so excited to be here with you. Confidence is like a magic power that helps us do new things, even if they seem a little bit scary at first. Let's discover this magical power together, and have loads of fun!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what confidence really means. Confidence is when we believe in ourselves and think, 'Yes, I can do this!' It's like when you try a new game or learn to ride a bicycle. Even if you wobble at first, with confidence, you keep trying and soon you're zooming around! Confidence helps us to try again and again, and that's how we learn and grow. Isn't that amazing?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when you tried something new, like drawing a picture or tying your shoes? At first, it might have seemed tricky, but you kept practicing. That's confidence in action! I want you to think of something new you'd like to try. It could be something small, like helping to set the table or counting to ten. With practice and confidence, you'll get better every time!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking of something new! You are so brave and wonderful. Let's take three deep breaths together to get ready. Breathe in, one, two, three, and out, one, two, three. Breathing helps us feel calm and ready to face new challenges. You can do it, I believe in you!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure by talking about courage. Courage is like a special friend of confidence. It helps us face things that might make us feel a little bit nervous or shy. Imagine you're about to go on stage to sing a song. With courage, you can take a deep breath, smile, and sing your heart out. And guess what? Everyone will clap and cheer for you!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, think of a time when you felt really proud of yourself. Maybe it was when you finished a puzzle or shared your toys with a friend. That feeling of pride is what confidence brings. It's like having a warm, happy glow inside. Whenever you feel this glow, remember that you are amazing just the way you are."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing fantastic! Let's do a fun exercise together. Stand up tall like a superhero, with your hands on your hips. Say out loud, 'I am strong! I am brave!' Feel the power of your words. Every time you say it, your confidence grows bigger and brighter. Keep practicing, and you'll feel like a superhero every day!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I have a question for you. What is something new you would like to try this week? Maybe it’s drawing a picture, helping with a new recipe, or learning a new dance move. Think about it for a moment. Remember, trying new things is how we grow confident. What will you choose to try?"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Did you think of something? That's so exciting! Whatever you choose, remember that it's okay to make mistakes. Mistakes are like stepping stones that help us learn and get better. Every time you try, you build your confidence and become even more amazing. Keep going, and don't give up!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about how confidence can help us make new friends. When we feel confident, we can say hello and smile at new people. Imagine meeting someone who loves the same things you do, like playing with blocks or reading stories. With confidence, you can say, 'Hi, would you like to play with me?' and start a wonderful friendship."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's practice a confidence exercise together. Close your eyes and imagine a big, bright sun shining in your heart. This sun is your confidence, warm and glowing. Every time you feel unsure, think of this sun and let its light fill you up. You can do anything you set your mind to, just like the sun shines every day!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You are doing so well! Remember, confidence is like a muscle. The more you use it, the stronger it gets. Every time you try something new, or help a friend, or smile at someone, your confidence muscle grows. Keep practicing and you'll feel super strong and happy every day!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Here's another question for you. Can you remember a time you helped someone else feel confident? Maybe you cheered up a friend or helped them with a game. Helping others feel confident is a wonderful thing. How did it make you feel to help someone else?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "That's fantastic! Helping others feel confident makes the world a happier place. When you share your confidence, it spreads and grows, just like a big, happy rainbow. Keep being kind and helpful, and you'll make lots of friends along the way. You're a true confidence hero!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Wow, what an amazing journey we've had today! Thank you for joining me, Yellow Buddy, on this adventure about confidence. Remember, you are strong, brave, and wonderful just the way you are. Keep trying new things, help others, and shine your bright confidence light every day. Goodbye for now, my little friend, and keep being awesome!"
+    }
+  ],
+  "title": "Yellow Buddy's Confidence Story"
+}

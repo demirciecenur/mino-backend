@@ -1,0 +1,98 @@
+{
+  "id": "bubu_sibling_story",
+  "character": "Bubu",
+  "topic": "sibling",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo kleiner Freund! Ich bin Bubu. Heute reden wir über Geschwister. Hast du ein Geschwisterchen? Ich bin so gespannt, was wir alles über Geschwisterliebe herausfinden können. Lass uns gemeinsam auf eine fröhliche Reise gehen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, Geschwister sind wie beste Freunde, die immer bei uns sind. Manchmal spielen wir zusammen und haben viel Spaß. Aber es kann auch Momente geben, in denen wir uns streiten. Das ist ganz normal. Wichtig ist, dass wir uns immer wieder vertragen. Geschwister können uns so viel beibringen!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber sprechen, wie wichtig es ist, zu teilen. Wenn du dein Spielzeug teilst, macht das Spielen viel mehr Spaß, oder? Manchmal ist es schwer, etwas abzugeben, das man liebt. Aber denk daran, dass Teilen Freude bringt. Es ist wie ein kleines Geschenk, das du deinem Geschwisterchen machst."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lasst uns zusammen üben, wie man teilt. Stell dir vor, du hast ein großes Stück Schokolade. Würdest du es mit deinem Bruder oder deiner Schwester teilen? Super! Du bist wirklich toll. Teilen bringt uns näher zusammen und macht uns glücklich."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Spielen gesprochen haben? Spiele mit deinem Geschwisterchen sind lustig. Ihr könnt zusammen neue Abenteuer erleben. Vielleicht baut ihr ein Schloss aus Kissen oder malt ein schönes Bild. Beim Spielen lernt ihr, euch besser zu verstehen. Das stärkt eure Geschwisterliebe."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Manchmal ist es auch wichtig, ruhig zu bleiben. Atme tief ein und aus, wenn du wütend wirst. Das hilft dir, dich zu beruhigen. Lass uns zusammen drei tiefe Atemzüge nehmen. Eins, zwei, drei. Fühlst du dich jetzt ruhiger? Das ist eine tolle Übung, die du immer machen kannst."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal etwas mit deinem Geschwisterchen gebaut? Vielleicht einen Turm aus Bauklötzen? Oder habt ihr zusammen ein lustiges Spiel erfunden? Erzähle mir davon! Ich bin neugierig, was ihr zusammen erlebt habt."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister können auch manchmal traurig sein. Wenn das passiert, ist es schön, wenn man jemanden hat, der einen tröstet. Vielleicht kannst du deinem Geschwisterchen ein Kuscheltier geben oder es in den Arm nehmen. Gemeinsam fühlt man sich nicht mehr so allein. Das ist Geschwisterliebe!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das schon ganz toll! Es ist wichtig, ein guter Bruder oder eine gute Schwester zu sein. Wenn du deinem Geschwisterchen hilfst, fühlt es sich geliebt. Ihr könnt zusammen lachen und Spaß haben. Großartig, dass du so ein tolles Geschwisterchen bist!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Weißt du, manchmal können Geschwister auch Geheimnisse haben. Es ist spannend, ein geheimes Versteck zu haben oder einen geheimen Handschlag. Solche kleinen Dinge machen eure Beziehung besonders. Hast du ein Geheimnis, das du mit deinem Geschwisterchen teilst?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was macht dir am meisten Spaß mit deinem Geschwisterchen? Ist es das gemeinsame Spielen oder das Lachen über lustige Geschichten? Vielleicht habt ihr auch einen Lieblingsfilm, den ihr zusammen schaut. Ich bin gespannt, was euch am besten gefällt."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister können uns auch viel beibringen. Vielleicht hat dein Geschwisterchen dir schon einmal gezeigt, wie man etwas Neues macht. Oder du hast deinem Geschwisterchen geholfen, etwas zu lernen. So lernt ihr voneinander und wachst zusammen."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns zusammen überlegen, wie wir nett zueinander sein können. Manchmal reicht ein einfaches Lächeln, um den Tag zu erhellen. Oder ein kleines Kompliment, wie: ‚Du hast das toll gemacht!‘ Diese kleinen Gesten machen einen großen Unterschied."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Geschwister zu sprechen. Ich hoffe, du hast viel gelernt und Spaß gehabt. Denk daran, dass Geschwister etwas ganz Besonderes sind. Sie sind unsere Freunde fürs Leben. Bis zum nächsten Mal, kleiner Freund! Pass gut auf dich und dein Geschwisterchen auf!"
+    }
+  ],
+  "title": "Bubus Sibling Geschichte"
+}

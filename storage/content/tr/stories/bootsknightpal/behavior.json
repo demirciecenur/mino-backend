@@ -1,0 +1,98 @@
+{
+  "id": "boots_knight_pal_behavior_story",
+  "character": "Boots Knight Pal",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Boots Knight Pal. Bugün birlikte iyi davranışlar hakkında harika bir yolculuğa çıkacağız. İyi davranışlar, arkadaşlarımızla ve ailemizle güzel vakit geçirmemizi sağlar. Hadi başlayalım, hazırsan elini kaldır ve bana katıl!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "İyi davranışlar, başkalarına karşı nazik ve saygılı olmayı içerir. Mesela, bir arkadaşınla oynarken onunla oyuncağını paylaşmak çok önemlidir. Paylaşmak, arkadaşlarımızla daha iyi anlaşmamıza yardımcı olur. Ayrıca, lütfen ve teşekkür ederim gibi kelimeler kullanmak da iyi davranışların bir parçasıdır. Bu kelimeler, başkalarına onları önemsediğimizi gösterir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, iyi davranışların nasıl yapılacağını öğrenelim. Örneğin, oyuncaklarını toplamak, iyi bir davranış şeklidir. Bu, hem odanın temiz kalmasını sağlar hem de oyuncakların zarar görmesini engeller. Ayrıca, dişlerini fırçalamak gibi günlük rutinler de iyi davranışların bir parçasıdır. Bu tür davranışlar, sağlıklı ve mutlu olmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte bazı iyi davranışları deneyelim mi? Örneğin, şimdi birlikte derin bir nefes alabiliriz. Derin nefes almak, sakinleşmemize ve daha iyi hissetmemize yardımcı olur. Şimdi, üçe kadar sayalım ve nefes alalım: bir, iki, üç... Harika! Sen de bunu yapabilirsin, değil mi?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda derin nefes almayı denedik. Şimdi, başkalarına nasıl yardım edebileceğimizi konuşalım. Yardım etmek, arkadaşlarımıza ve ailemize değer verdiğimizi gösterir. Mesela, bir arkadaşımıza bir şeyi taşımakta yardım edebiliriz. Bu, hem onları mutlu eder hem de bizim daha iyi hissetmemizi sağlar."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir sonraki adımda, kurallara uymak hakkında konuşacağız. Kurallar, güvenliğimiz ve mutluluğumuz için vardır. Örneğin, yolda karşıdan karşıya geçerken ışıklara dikkat etmek çok önemlidir. Bu, güvenli bir şekilde karşıya geçmemizi sağlar. Kurallara uymak, arkadaşlarımızla ve ailemizle daha iyi anlaşmamıza da yardımcı olur."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Sence iyi bir davranış nedir? Belki de oyuncaklarını arkadaşlarınla paylaşmak olabilir. Ya da birine yardım etmek? Senin düşünceni duymayı çok isterim. Ne dersin, sen de bana bir örnek verir misin?"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Harika bir düşüncen var! Şimdi, iyi davranışların nasıl ödüllendirilebileceğini konuşalım. İyi davranışlar yaptığımızda, bazen ödüllendirilebiliriz. Bu, bir övgü sözü, bir gülümseme veya küçük bir hediye olabilir. Ödüller, bizi daha fazla iyi davranış yapmaya teşvik eder. Ne dersin, ödüller hakkında ne düşünüyorsun?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte iyi davranışları nasıl sürdürebileceğimizi öğrenelim. İyi davranışları alışkanlık haline getirmek için sürekli pratik yapmalıyız. Her gün, bir veya iki iyi davranış yapmayı hedefleyebiliriz. Bu, zamanla daha doğal hale gelir ve bizi mutlu eder. Hadi birlikte iyi davranışlar yapalım!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Başarıya ulaşmak için her gün küçük adımlar atmamız gerekiyor. Şimdi birlikte, beşe kadar sayalım ve her sayıda bir iyi davranış düşünelim. Bir: lütfen demek. İki: teşekkür ederim demek. Üç: oyuncakları toplamak. Dört: birine yardım etmek. Beş: kurallara uymak. Aferin, harika gidiyorsun!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnemizde iyi davranışları nasıl sürdürebileceğimizi konuştuk. Şimdi, iyi davranışların bizi nasıl daha mutlu ettiğini düşünelim. İyi davranışlar, arkadaşlarımızın ve ailemizin bize daha yakın hissetmesini sağlar. Bu da bizi mutlu eder ve daha iyi hissetmemizi sağlar. Ne dersin, sen de böyle hissediyor musun?"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana başka bir soru sormak istiyorum. Bugün öğrendiğimiz iyi davranışlardan hangisini yapmayı en çok seviyorsun? Belki de bir arkadaşına yardım etmeyi seviyorsundur. Ya da oyuncaklarını toplamak hoşuna gidiyordur. Senin favori davranışın hangisi? Cevabını merakla bekliyorum."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Cevabını duymak çok güzel! Şimdi, öğrendiklerimizi hatırlamak için kısa bir özet yapalım. İyi davranışlar, nazik olmak, paylaşmak ve kurallara uymak gibi şeyleri içerir. Bunlar, hem bizim hem de çevremizdekilerin mutlu olmasına yardımcı olur. Hadi, öğrendiklerimizi her gün uygulayalım!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün harika bir yolculuk yaptık ve birçok şey öğrendik. İyi davranışlarla dolu bir gün geçirmeni diliyorum. Unutma, her zaman nazik ve iyi ol. Bir sonraki buluşmamıza kadar kendine iyi bak. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Boots Knight Pal'ın Behavior Hikayesi"
+}

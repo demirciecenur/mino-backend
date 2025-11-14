@@ -1,0 +1,104 @@
+{
+  "id": "sneaky cat tom_Emotionsregulation, Gefühle managen, sich beruhigen, Selbstregulation_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "Emotionsregulation, Gefühle managen, sich beruhigen, Selbstregulation",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Sneaky Cat Tom und heute gehen wir auf ein spannendes Abenteuer. Wir lernen, wie wir unsere Gefühle verstehen und beruhigen können. Bist du bereit, mit mir zu kommen? Es wird lustig und interessant! Ich bin schon ganz gespannt darauf, was wir alles entdecken werden."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, Gefühle sind wie kleine Freunde, die in uns wohnen. Manchmal sind sie lustig, manchmal traurig, und manchmal machen sie uns wütend. Aber das ist ganz normal! Heute sprechen wir darüber, wie wir diese Gefühle besser verstehen können. Es ist wie ein kleines Geheimnis, das wir zusammen lüften."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber sprechen, wie wir uns beruhigen können, wenn wir wütend oder traurig sind. Eine tolle Methode ist tiefes Atmen. Atme tief ein und langsam wieder aus. Das hilft deinem Körper, sich zu entspannen und deine Gedanken zu beruhigen. Probier es mal mit mir aus!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Tiefes Atmen ist wie ein kleiner Zaubertrick, den du immer bei dir hast. Jedes Mal, wenn du dich nicht gut fühlst, kannst du ihn anwenden. Jetzt lass uns gemeinsam drei tiefe Atemzüge machen. Eins, zwei, drei – wunderbar!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über Gefühle gesprochen haben? Lass uns nun überlegen, was wir tun können, wenn wir uns wirklich aufgeregt fühlen. Manchmal hilft es, einfach ein bisschen zu tanzen oder zu singen. Bewegung kann uns helfen, unsere Energie auf eine positive Weise loszuwerden."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Stell dir vor, du bist ein großer, starker Baum. Steh ganz still und spüre deine Wurzeln, die tief in die Erde reichen. Dies hilft dir, ruhig und geerdet zu bleiben, auch wenn der Wind um dich herum weht. Probiere es aus, stehe still und fühle die Stärke in dir."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein fantastischer Baum! Siehst du, wie stark und ruhig du sein kannst? Das ist eine wunderbare Art, sich zu beruhigen, wenn alles um einen herum zu viel wird. Du kannst es jederzeit ausprobieren. Du bist wirklich toll darin!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon mal versucht, deine Gefühle mit jemandem zu teilen? Manchmal hilft es, mit einem Freund oder einem Erwachsenen darüber zu sprechen. Sie können dir helfen, die Dinge aus einer anderen Perspektive zu sehen. Mit wem würdest du gerne über deine Gefühle sprechen?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Wenn wir unsere Gefühle teilen, fühlen wir uns oft leichter und verstanden. Es ist, als ob wir einen kleinen Knoten in unserem Bauch lösen. Erinnerst du dich an das letzte Mal, als du mit jemandem gesprochen hast und es dir danach besser ging? Das ist die Magie der Kommunikation."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt ein kleines Spiel spielen. Es heißt 'Gefühlespiel'. Wenn ich ein Gefühl sage, zeigst du mir, wie du es ausdrücken würdest. Zum Beispiel, wie sieht dein Gesicht aus, wenn du glücklich bist? Oder wie fühlst du dich, wenn du überrascht bist?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein echter Gefühleschauspieler! Es ist wichtig, unsere Gefühle zu erkennen und auszudrücken. Das hilft uns, uns selbst und andere besser zu verstehen. Du machst das ganz wunderbar, weiter so!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir wissen, wie wir unsere Gefühle erkennen und ausdrücken können, lass uns darüber nachdenken, wie wir sie ändern können. Wenn du traurig bist, könntest du an etwas denken, das dich glücklich macht. Zum Beispiel an dein Lieblingsspielzeug oder an einen schönen Tag im Park."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Du kannst dir auch vorstellen, du bist ein Zauberer, der seine Gefühle verwandelt. Einfach die Augen schließen und an etwas Schönes denken. Wie ein Regenbogen nach einem Sturm. Das ist eine tolle Fähigkeit, die du hast!"
+    },
+    {
+      "id": "scene_13",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Erzähl mir, was dich glücklich macht. Ist es ein besonderes Spiel, ein lustiger Film oder ein leckeres Eis? Diese Gedanken können dir helfen, dich besser zu fühlen, wenn du mal traurig bist. Was macht dich besonders fröhlich?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Das war ein wunderbares Abenteuer, nicht wahr? Jetzt weißt du, wie du mit deinen Gefühlen umgehen kannst. Du bist wirklich großartig darin, deine Emotionen zu verstehen und zu regulieren. Ich bin so stolz auf dich! Bis zum nächsten Mal, mein kleiner Freund. Auf Wiedersehen!"
+    }
+  ],
+  "title": "Sneaky Cat Toms Emotional Regulation Geschichte"
+}

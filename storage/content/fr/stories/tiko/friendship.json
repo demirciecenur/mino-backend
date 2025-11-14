@@ -1,0 +1,98 @@
+{
+  "id": "tiko_friendship_story",
+  "character": "Tiko",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Tiko, et aujourd'hui, nous allons explorer le merveilleux monde de l'amitié. Es-tu prêt pour cette aventure? L'amitié, c'est comme un trésor que l'on découvre jour après jour. Ensemble, nous allons apprendre comment se faire de nouveaux amis et pourquoi c'est si important. J'ai hâte de commencer cette belle aventure avec toi!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par découvrir ce qu'est un ami. Un ami, c'est quelqu'un avec qui tu aimes passer du temps. Par exemple, quelqu'un avec qui tu joues au parc ou avec qui tu partages ton goûter. Les amis sont là pour nous aider quand nous avons besoin d'eux. Et toi, as-tu un ami spécial avec qui tu aimes jouer?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment on peut se faire de nouveaux amis. Pour commencer, il faut être gentil et poli. Tu peux dire \"Bonjour\" et sourire à quelqu'un. Savais-tu que sourire peut faire sentir les gens heureux et les rendre plus à l'aise? Essaye de dire \"Bonjour!\" à quelqu'un aujourd'hui. Tu verras, ça peut faire toute la différence!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Es-tu prêt à essayer de te faire un nouvel ami? Tu peux commencer par partager un jouet ou un livre. Partager, c'est montrer que tu es prêt à être un bon ami. N'oublie pas que chaque petit geste compte. Tu es capable de le faire, et je suis sûr que tu seras un super ami!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Une autre chose importante à propos de l'amitié, c'est d'écouter. Quand ton ami te parle, il est important de bien l'écouter. Cela montre que tu te soucies de ce qu'il ressent. Parfois, écouter, c'est aussi se taire et prêter attention. As-tu déjà écouté un ami te raconter une histoire amusante?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu te souviens de la dernière fois où tu as écouté quelqu'un avec attention? Peut-être que c'était une histoire drôle ou une aventure excitante. Rappelle-toi comme c'était agréable de partager ce moment. Écouter attentivement, c'est aussi une façon de montrer à ton ami que tu l'apprécies. Pense à un moment où tu as écouté quelqu'un. C'était amusant, n'est-ce pas?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de ce qui se passe quand on n'est pas d'accord avec un ami. Ça arrive parfois, et ce n'est pas grave. L'important, c'est de parler calmement et de trouver une solution ensemble. Par exemple, si tu veux jouer à un jeu et ton ami à un autre, vous pouvez faire un compromis. Peut-être jouer à ton jeu d'abord, puis au sien. C'est ça, être un bon ami!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand tu joues avec tes amis, il est important de partager et de prendre des tours. Cela rend le jeu plus amusant pour tout le monde. Imagine que tu joues à construire une tour de blocs. Si vous partagez les blocs et prenez votre temps, la tour sera plus haute et plus stable. Ensemble, vous pouvez créer quelque chose de merveilleux. Et n'oublie pas de féliciter ton ami pour son aide!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un excellent travail en apprenant à être un bon ami! Rappelle-toi, l'amitié, c'est aussi s'amuser ensemble. Que dirais-tu de faire une danse joyeuse avec ton ami? Tu peux inventer des mouvements amusants et rire ensemble. La prochaine fois que tu vois ton ami, propose-lui de danser avec toi. Vous allez passer un moment inoubliable!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des moments où un ami peut être triste. Parfois, nos amis ont besoin de réconfort. Ça peut être un câlin ou simplement être là pour eux. Tu peux aussi leur demander ce qui ne va pas et les écouter. Être un bon ami, c'est aussi être là dans les moments difficiles. Te souviens-tu d'un moment où tu as réconforté un ami?"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu te souviens de ce que tu as fait pour aider ton ami? Peut-être que tu lui as prêté ton jouet préféré ou que tu l'as fait rire. Ces petits gestes signifient beaucoup et montrent que tu es un véritable ami. Réfléchis à un moment où tu as aidé quelqu'un. Ça fait du bien, n'est-ce pas?"
+    },
+    {
+      "id": "question_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, que fais-tu pour être un bon ami? Aimes-tu partager tes jouets ou écouter des histoires? Peut-être que tu aimes jouer à des jeux avec tes amis. Il y a tellement de façons d'être un bon ami. Que dirais-tu de partager une de tes idées préférées avec moi?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nous avons appris beaucoup de choses sur l'amitié aujourd'hui. Rappelle-toi, être un bon ami, c'est partager, écouter, et jouer ensemble. C'est aussi être là dans les moments heureux et tristes. L'amitié rend la vie plus joyeuse et pleine de sourires. As-tu hâte de mettre en pratique tout ce que nous avons appris?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était une aventure incroyable avec toi, petit ami! Je suis si heureux d'avoir partagé ces moments sur l'amitié. N'oublie pas, tu es un ami formidable et je suis fier de toi. Continue d'être gentil et de partager ta joie avec les autres. À très bientôt pour une nouvelle aventure!"
+    }
+  ],
+  "title": "Histoire de Friendship de Tiko"
+}

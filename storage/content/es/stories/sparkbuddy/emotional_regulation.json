@@ -1,0 +1,98 @@
+{
+  "id": "spark buddy_regulación emocional, manejo de emociones, calmarse, autorregulación_story",
+  "character": "Spark Buddy",
+  "topic": "regulación emocional, manejo de emociones, calmarse, autorregulación",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguito! Soy Spark Buddy, tu amigable compañero. Hoy vamos a aprender algo muy especial: cómo manejar nuestras emociones y calmarnos cuando lo necesitamos. ¿No suena divertido? Estoy tan emocionado de que estés aquí conmigo. ¡Vamos a comenzar esta increíble aventura juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Primero, hablemos de las emociones. Las emociones son esos sentimientos que tenemos, como estar feliz, triste o enojado. Todos tenemos emociones y son parte de lo que nos hace humanos. A veces, nuestras emociones pueden ser muy fuertes, como cuando estamos muy emocionados por un regalo o muy tristes porque se rompió nuestro juguete favorito. ¿Alguna vez te has sentido así?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando sentimos que nuestras emociones son muy grandes, hay cosas que podemos hacer para calmarnos. Podemos respirar profundo, contar hasta diez o abrazar a nuestro peluche favorito. Estas son formas de autorregulación, que significa manejar nuestras emociones para sentirnos mejor. ¿Te gustaría intentar respirar profundo conmigo ahora?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Vamos a respirar profundo juntos. Inhala por la nariz contando hasta tres, uno, dos, tres. Ahora exhala por la boca, uno, dos, tres. ¡Eso es! Lo hiciste muy bien. Respirar profundo puede ayudarnos a sentirnos más tranquilos cuando estamos un poco nerviosos o enojados. ¡Practiquemos esto cada vez que lo necesitemos!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos cómo respirar profundo, podemos hablar de otras formas de calmarnos. ¿Has probado alguna vez hacer un dibujo cuando estás triste? Dibujar es una forma estupenda de expresar lo que sentimos. También podemos escuchar música suave o leer un cuento. Estas actividades pueden ayudarnos a sentirnos mejor y más tranquilos."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Recordemos que es importante hablar sobre nuestras emociones con alguien de confianza, como mamá, papá o un amigo. Contarles cómo nos sentimos puede hacer que las emociones grandes se sientan más pequeñas. ¿No es maravilloso tener a alguien que nos escuche y nos entienda? ¡Las emociones son mucho más fáciles de manejar cuando las compartimos!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Tú puedes hacerlo! Cada vez que te sientas abrumado, recuerda usar tu respiración profunda o hablar con alguien que te quiera. Practicar estas habilidades te ayudará a ser un experto en manejar tus emociones. ¡Estoy tan orgulloso de ti por aprender estas cosas importantes! Ahora, sigamos explorando más formas de sentirnos bien."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría compartir alguna vez que te sentiste muy feliz o muy triste? Compartir nuestras experiencias puede ayudarnos a entender mejor nuestras emociones. ¿Recuerdas un momento especial en el que te sentiste muy emocionado? Me encantaría escuchar sobre tus aventuras y cómo te sentiste en ellas."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, las emociones pueden ser como un gran torbellino en nuestro interior. Pero con un poco de práctica, podemos hacer que el torbellino sea más pequeño. Podemos usar nuestra imaginación para pensar en cosas que nos hacen felices, como un día soleado en el parque o un delicioso helado. ¡Imaginar cosas bonitas puede ayudarnos a sentirnos más tranquilos!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a imaginar juntos. Cierra tus ojos e imagina que estás en un lugar que te hace sentir feliz y seguro. ¿Es un jardín lleno de flores? ¿O tal vez una playa con arena suave? Imagina los colores, los sonidos y los olores. ¡Qué lugar tan maravilloso! Cuando te sientas listo, abre los ojos. ¿Te sientes un poquito más tranquilo ahora?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo has hecho! Imaginarnos en lugares felices es una herramienta mágica que siempre podemos usar. Recuerda, siempre tienes el poder de cambiar cómo te sientes. Con cada respiración profunda y cada pensamiento feliz, te vuelves más fuerte y más capaz de manejar tus emociones. ¡Sigue así, lo estás haciendo genial!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Es importante recordar que todas las emociones son válidas. Está bien estar triste, enojado o incluso tener miedo a veces. Lo importante es cómo decidimos responder a esas emociones. Podemos elegir calmarnos, hablar sobre lo que sentimos y buscar maneras de sentirnos mejor. ¡Eso es lo que significa ser un experto en manejo de emociones!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a hacer un pequeño ejercicio para recordar todo lo que hemos aprendido. Piensa en una emoción que hayas sentido hoy y cómo la manejaste. ¿Respiraste profundo? ¿Hablaste con alguien? ¿Dibujaste o escuchaste música? Recordar estos momentos nos ayuda a estar preparados para la próxima vez que sintamos esa emoción."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un día increíble, aprendiendo juntos sobre nuestras emociones. Recuerda, siempre puedes contar conmigo, Spark Buddy, para ayudarte a calmarte y manejar tus sentimientos. Estoy muy orgulloso de ti por ser tan valiente y aprender cosas nuevas. ¡Hasta la próxima vez, amiguito! Cuídate mucho y sigue siendo tan especial como eres."
+    }
+  ],
+  "title": "Historia de Emotional Regulation de Spark Buddy"
+}

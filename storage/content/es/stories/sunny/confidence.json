@@ -1,0 +1,104 @@
+{
+  "id": "sunny_confidence_story",
+  "character": "Sunny",
+  "topic": "confidence",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Sunny, y hoy vamos a hablar sobre algo muy especial: la confianza. ¿Saben qué es la confianza? Es ese sentimiento que nos hace sentir valientes y seguros de nosotros mismos. Imaginemos que estamos en un gran viaje de aventuras donde descubriremos lo increíbles que podemos ser. ¿Están listos para comenzar? ¡Va a ser muy divertido!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confianza es como un pequeño sol que llevamos dentro de nosotros. Nos ayuda a brillar cuando hacemos cosas nuevas, como aprender a atarnos los zapatos o dibujar un hermoso arcoíris. A veces, podemos sentirnos un poco nerviosos cuando intentamos algo por primera vez, pero la confianza nos susurra que podemos hacerlo. ¿Recuerdan la última vez que hicieron algo nuevo y se sintieron orgullosos? ¡Eso es la confianza en acción!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a aprender cómo podemos sentir más confianza. Una forma es pensar en todas las cosas que ya sabemos hacer bien. Tal vez eres muy bueno en saltar a la cuerda o en cantar canciones divertidas. Recordar esas cosas nos hace sentir felices y seguros. Otra manera es practicar, practicar y practicar. Cuanto más lo intentamos, más confianza ganamos. ¿Vamos a intentarlo juntos?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora, vamos a hacer un pequeño ejercicio de confianza. Cerremos los ojos e imaginemos que somos un gran león valiente. Tomemos tres respiraciones profundas, como leones, y digamos: \"¡Yo puedo hacerlo!\". ¿Lo hicieron? ¡Increíble! Abrir los ojos y sonreír es una gran manera de sentirnos seguros. ¡Lo hicieron genial, pequeños leones!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos que la confianza también es como una planta que crece con el tiempo. Necesita un poco de cuidado y amor cada día. Podemos pedir ayuda a nuestros amigos o familiares cuando la necesitamos. Ellos pueden darnos ánimos y recordarnos lo especiales que somos. Y cuando alguien más necesita confianza, también podemos ayudarle. ¿No es maravilloso compartir la confianza?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos de cómo podemos practicar la confianza todos los días. Una idea es intentar una cosa nueva cada día, como probar un nuevo juego o aprender una nueva palabra en otro idioma. Otra es ayudarnos a nosotros mismos diciendo cosas bonitas, como \"¡Soy fuerte!\" o \"¡Soy inteligente!\". Estas frases mágicas nos ayudan a sentirnos bien. ¿Qué les parece si lo intentamos ahora?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez han sentido miedo de hacer algo y luego lo intentaron de todos modos? ¿Cómo se sintieron después? A veces, hacer algo que nos asusta un poco nos muestra lo valientes que somos. Me gustaría saber si tienen alguna historia de valentía que quieran compartir. ¿Pueden pensar en una? ¡Me encantaría escucharla!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué historias tan maravillosas! Todas esas aventuras nos muestran lo valientes que podemos ser cuando confiamos en nosotros mismos. Ahora que sabemos cómo la confianza puede ayudarnos, podemos usarla para enfrentar cualquier cosa. Recordemos que incluso los más grandes exploradores empezaron con un pequeño paso. Y ustedes, mis amigos, ya han dado muchos pasos valientes."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confianza también nos ayuda a ser buenos amigos. Cuando confiamos en nosotros mismos, podemos compartir nuestras ideas y jugar juntos con alegría. Podemos invitar a otros a jugar y enseñarles cosas nuevas. Ser un buen amigo es una manera fantástica de mostrar nuestra confianza y hacer que todos se sientan incluidos. ¿No es genial tener amigos con quienes compartir nuestras aventuras?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora vamos a hacer un juego de confianza. Vamos a pensar en algo que queramos aprender o hacer mejor. Puede ser cualquier cosa, como montar una bicicleta o dibujar un unicornio. Imaginemos que ya lo hemos logrado y pensemos en lo felices que nos sentiremos. Con cada paso que demos, nuestra confianza crecerá como un hermoso árbol. ¿Listos para intentarlo?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo están haciendo increíble! Cada día, cuando intentan algo nuevo, su confianza se vuelve más fuerte. Recuerden que siempre pueden pedir ayuda si la necesitan. No hay nada de malo en buscar apoyo, y eso también es parte de ser valiente. ¡Estoy tan orgulloso de todos ustedes! Sigamos adelante con una gran sonrisa."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en cómo la confianza nos ayuda a sentirnos bien con nosotros mismos. Cuando confiamos en nuestras habilidades, podemos hacer cosas maravillosas. Desde construir una torre de bloques hasta cuidar de una planta, cada pequeña acción cuenta. Y cada vez que lo hacemos, nos sentimos más seguros y felices. ¿No es genial ver todo lo que podemos lograr?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Guau! Miren todo lo que hemos aprendido sobre la confianza. Desde respirar profundamente como leones hasta imaginar nuestras metas, hemos recorrido un largo camino. ¿Recuerdan cómo empezamos este viaje? Con una simple pregunta sobre qué es la confianza. Ahora sabemos que es una parte importante de quiénes somos y de cómo podemos crecer."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Antes de terminar, me gustaría saber algo más. ¿Qué les hace sentir más confiados? Tal vez sea una canción especial o un abrazo de mamá o papá. Todos tenemos esas pequeñas cosas que nos hacen sentir fuertes. ¿Pueden pensar en las suyas? ¡Me encantaría saber qué las hace sentir poderosos!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "¡Gracias por compartir este maravilloso viaje sobre la confianza conmigo! Recuerden que siempre tienen un amigo en mí, Sunny, para ayudarlos a brillar. La próxima vez que sientan un poco de duda, piensen en todo lo que hemos aprendido hoy. ¡Ustedes son increíbles y pueden lograr cualquier cosa que se propongan! Hasta la próxima vez, amiguitos. ¡Sigan brillando!"
+    }
+  ],
+  "title": "Historia de Confidence de Sunny"
+}

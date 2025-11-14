@@ -1,0 +1,104 @@
+{
+  "id": "sunny_imagination_story",
+  "character": "Sunny",
+  "topic": "imagination",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola amiguitos! Soy Sunny y hoy vamos a explorar el mundo mágico de la imaginación. ¿Están listos para un viaje increíble? ¡Yo estoy muy emocionado! La imaginación es como un superpoder que todos tenemos. Nos permite crear mundos, personajes y aventuras sin salir de casa. ¡Vamos a divertirnos mucho juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La imaginación es como tener un pincel mágico en nuestra mente. Con él, podemos pintar lo que queramos, desde un castillo en las nubes hasta un bosque encantado. ¿Alguna vez han soñado despiertos? Soñar despierto es una forma de usar nuestra imaginación para inventar historias. ¡Es muy divertido! Podemos imaginar que somos valientes caballeros o exploradores en una isla misteriosa. ¿Qué les gustaría imaginar a ustedes?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a hacer un pequeño ejercicio de imaginación. Cierren los ojos por un momento y piensen en su lugar favorito. Puede ser un parque, una playa, o incluso un lugar que solo exista en sus sueños. ¿Pueden verlo? Imaginen los colores, los sonidos y los olores. ¡Qué maravilloso es poder viajar a cualquier parte con solo cerrar los ojos!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo están haciendo! Usar la imaginación puede hacernos sentir felices y creativos. Ahora, ¿quieren intentar imaginar algo juntos? Pensemos en un mundo donde los animales pueden hablar. ¿Cómo creen que sería conversar con un león o un elefante? ¡Seguro que tendrían historias increíbles que contar! ¡Vamos, ustedes pueden hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerdan cuando hablamos de animales que hablan, ¿verdad? Ahora, pensemos en un día en la vida de un dragón amistoso. Quizás vuela por el cielo saludando a las aves. O tal vez ayuda a los agricultores a regar sus cultivos con un suave aliento de agua. ¿Qué más creen que haría nuestro amigo dragón? ¡Dejen volar su imaginación!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Imaginemos ahora que somos astronautas viajando por el espacio. ¿Qué planetas visitaríamos? ¿Cómo serían los extraterrestres que conoceríamos? Quizás sean verdes y tengan antenas divertidas. O tal vez sean como nosotros, pero de colores distintos. Viajar en el espacio con la imaginación es tan emocionante, ¿no creen? ¡Sigan imaginando!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué ideas tan creativas tienen! La imaginación no solo es divertida, sino que también nos ayuda a resolver problemas. Si alguna vez se sienten aburridos o tristes, pueden usar su imaginación para crear un nuevo juego o inventar una historia. ¡Es como tener un amigo secreto que siempre está ahí para ayudarnos a sonreír!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, intentemos imaginar un día perfecto. ¿Qué harían? ¿Jugarían al aire libre con amigos o tal vez construirían una fortaleza con cojines en casa? Imaginen cada detalle: el clima, los colores y las risas. ¡Qué bonito es poder diseñar nuestro propio día perfecto usando solo nuestra imaginación!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Qué creen que hace que nuestra imaginación sea tan poderosa? ¿Será porque nos permite ver el mundo de maneras nuevas y emocionantes? Tal vez porque nos ayuda a crear cosas que aún no existen. ¿Qué piensan ustedes? ¡Me encantaría escuchar sus ideas!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La imaginación también es una gran herramienta para aprender. Por ejemplo, cuando leemos un libro, usamos nuestra imaginación para visualizar las historias. Esto hace que la lectura sea aún más mágica y divertida. ¿Les gusta leer cuentos antes de dormir? ¡Es una excelente manera de dejar volar la imaginación antes de soñar!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que hemos hablado de muchas formas de usar la imaginación, pensemos en cómo podríamos compartirla con los demás. ¿Qué tal si inventamos una historia y la contamos a nuestros amigos o familia? Podría ser sobre un héroe que salva el día o un viaje fantástico. ¡Compartir la imaginación puede ser una gran aventura!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ustedes son unos grandes creadores de historias! Nunca dejen de imaginar, porque la imaginación nos lleva a lugares maravillosos. Cada día es una nueva oportunidad para explorar y crear. Recuerden que con imaginación, cualquier cosa es posible. ¡Sigan soñando en grande!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Imaginemos por un momento que podemos volar como pájaros. ¿A dónde iríamos primero? Tal vez a visitar una montaña alta o a ver el océano desde el cielo. Volar nos daría una perspectiva completamente nueva del mundo. ¡Qué emocionante sería tener alas y sentir el viento en nuestro rostro!"
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para terminar nuestro tiempo juntos, intentemos imaginar un mundo donde todo es posible. En este mundo, podríamos hablar con las plantas, caminar sobre las nubes, o incluso nadar con sirenas. ¿Qué les gustaría hacer en este mundo mágico? ¡Recuerden, con imaginación, no hay límites!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer imaginar con ustedes hoy. ¡Gracias por compartir su creatividad y sueños conmigo! Recuerden que la imaginación es un regalo que siempre llevamos con nosotros. ¡Sigan creando, soñando y explorando cada día! ¡Hasta la próxima, amigos! ¡Estoy ansioso por nuestra próxima aventura juntos!"
+    }
+  ],
+  "title": "Historia de Imagination de Sunny"
+}

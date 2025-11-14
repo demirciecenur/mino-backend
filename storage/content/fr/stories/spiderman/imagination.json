@@ -1,0 +1,98 @@
+{
+  "id": "spider_fighter_imagination_story",
+  "character": "Spider Fighter",
+  "topic": "imagination",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Spider Fighter et aujourd'hui, nous allons explorer le monde merveilleux de l'imagination. Êtes-vous prêt pour une aventure incroyable? L'imagination, c'est comme une superpuissance qui nous permet de créer des mondes fantastiques dans nos esprits. Ça vous intéresse? J'ai hâte de découvrir ce que vous pouvez imaginer!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est un peu comme rêver éveillé. Vous savez, quand vous fermez les yeux et que vous imaginez que vous êtes un super-héros volant dans le ciel? C'est exactement ça. L'imagination vous permet de penser à toutes sortes de choses incroyables, même des choses qui n'existent pas encore. C'est comme avoir un coffre à jouets magique dans votre tête. Qu'est-ce que vous aimeriez imaginer aujourd'hui?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour utiliser votre imagination, commencez par fermer les yeux et respirez profondément. Imaginez que vous êtes dans un endroit magique, comme une forêt enchantée ou un château dans les nuages. Qu'est-ce que vous voyez? Peut-être des arbres qui parlent ou des nuages en barbe à papa? Essayez de décrire ce que vous imaginez avec le plus de détails possible. C'est amusant, non?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Vous avez une imagination vraiment étonnante! Maintenant, essayons d'imaginer ensemble. Imaginez que vous êtes un chevalier ou une princesse dans un royaume lointain. Quels amis fantastiques avez-vous avec vous? Peut-être un dragon gentil ou un chat qui parle? C'est votre histoire, alors tout est possible. Bravo, continuez comme ça!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de ce château dans les nuages? Maintenant, imaginez que vous y organisez une grande fête. Qui inviteriez-vous? Peut-être des animaux qui dansent ou des fées qui chantent? L'imagination vous permet de créer des fêtes fabuleuses sans limites. Vous pouvez inventer toutes sortes d'activités amusantes pour vos invités!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Et si nous inventions un nouveau jeu? Pensez à un jeu que vous aimeriez jouer avec vos amis. Peut-être un jeu où vous sautez de nuage en nuage ou un concours de chant avec des oiseaux? Utilisez votre imagination pour créer les règles du jeu. N'oubliez pas, plus c'est drôle et créatif, mieux c'est!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes vraiment doué pour inventer des jeux amusants! Maintenant, imaginez que vous êtes un explorateur découvrant un monde inconnu. Quels trésors allez-vous trouver? Peut-être des pierres précieuses ou des fleurs qui brillent? Vous pouvez tout imaginer! Continuez à explorer et à découvrir de nouvelles choses."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Pensez à un super-héros que vous aimeriez être. Quels pouvoirs aimeriez-vous avoir? Peut-être voler comme un oiseau ou être invisible? Imaginez toutes les aventures que vous pourriez vivre avec ces pouvoirs. L'imagination vous permet de devenir n'importe quel héros que vous voulez. C'est vraiment magique!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà imaginé être un animal? Quel animal aimeriez-vous être et pourquoi? Peut-être un lion courageux ou un dauphin joyeux? Pensez à ce que cet animal ferait chaque jour et où il irait. C'est amusant de se mettre dans la peau de quelqu'un d'autre, n'est-ce pas?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous, nous avons imaginé être un animal. Maintenant, imaginez que cet animal a une mission spéciale. Quelle serait sa mission? Peut-être aider ses amis ou explorer de nouveaux territoires? Avec l'imagination, les possibilités sont infinies. Vous pouvez créer n'importe quelle aventure!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Quand vous jouez avec vos jouets, vous utilisez aussi votre imagination. Peut-être que vos peluches deviennent des astronautes ou vos blocs de construction deviennent des châteaux. Chaque jeu est une nouvelle histoire que vous pouvez inventer. Alors, amusez-vous et laissez votre imagination s'envoler!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons un autre exercice d'imagination. Imaginez un monde où tout est fait de bonbons. Quelles sortes de bonbons voyez-vous? Des maisons en chocolat ou des arbres en sucre d'orge? Décrivez ce monde avec autant de détails que possible. C'est délicieux, n'est-ce pas?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez fait un travail formidable en utilisant votre imagination! Chaque idée que vous avez eue est spéciale et unique. Rappelez-vous que votre imagination est un outil puissant que vous pouvez utiliser chaque jour. Continuez à rêver et à créer vos propres histoires!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir voyagé avec moi dans le monde de l'imagination aujourd'hui. J'espère que vous avez eu autant de plaisir que moi. N'oubliez pas que vous pouvez toujours revenir et explorer de nouvelles aventures. Au revoir, petit ami, et continuez à rêver grand!"
+    }
+  ],
+  "title": "Histoire de Imagination de Spider Fighter"
+}

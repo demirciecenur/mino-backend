@@ -1,0 +1,104 @@
+{
+  "id": "sunny_emotional_regulation_story",
+  "character": "Sunny",
+  "topic": "emotional_regulation",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Sunny. Bugün birlikte duygularımızı nasıl daha iyi anlayabileceğimizi ve kontrol edebileceğimizi keşfedeceğiz. Duygularımız, tıpkı hava gibi değişken olabilir, değil mi? Bazen güneşli, bazen yağmurlu. Hazır mısın? Hadi bu yolculuğa başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı anlamak çok önemlidir. Bazen mutlu, bazen üzgün, bazen de kızgın hissedebiliriz. Önemli olan bu duygularla nasıl başa çıkabileceğimizi öğrenmektir. Mesela, kızgın olduğumuzda derin bir nefes almak bizi sakinleştirebilir. Şimdi, birlikte nasıl nefes alacağımızı deneyelim mi?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Derin nefes almak çok kolaydır. Burnundan yavaşça nefes al, sanki güzel bir çiçeği kokluyormuş gibi. Sonra ağzından yavaşça nefes ver, tıpkı bir balon şişiriyormuş gibi. Bu, seni rahatlatır ve daha iyi hissetmeni sağlar. Şimdi birlikte üç derin nefes alalım. Hazır mısın?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Derin nefes almak seni sakinleştirdi mi? Duygularımızı kontrol etmek, onları anlamakla başlar. Mesela, üzgün olduğunda sevdiğin bir şeyi yapabilirsin. Belki en sevdiğin oyuncağınla oynamak seni neşelendirebilir. Şimdi birlikte en sevdiğimiz şeyleri düşünelim."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı anlamak ve onları ifade etmek çok önemlidir. Mesela, bir arkadaşına üzgün olduğunu söylemek, onunla konuşmak seni daha iyi hissettirebilir. Arkadaşlarımız ve ailemiz, duygularımızı paylaşabileceğimiz kişilerdir. Onlara nasıl hissettiğimizi anlatmak, bizi daha iyi hissettirebilir. Şimdi, bir sonraki adımda, duygularımızı nasıl ifade edebileceğimizi öğrenelim."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Duygularımızı ifade etmenin birçok yolu vardır. Bir resim çizebilir, bir şarkı söyleyebilir ya da sadece konuşabiliriz. Önemli olan, duygularımızı içimizde tutmak yerine paylaşmaktır. Bu, bizi daha mutlu ve huzurlu yapar. Şimdi, duygularını nasıl ifade etmek istersin?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika seçim! Duygularını ifade etmek, tıpkı bir çiçeğin açması gibi güzeldir. Bu, hem seni hem de çevrendekileri mutlu eder. Unutma, duygularımız bizim bir parçamızdır ve onları kabul etmek önemlidir. Şimdi, duygularımızı daha iyi anlamak için başka bir etkinlik yapalım."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bazen duygularımızı anlamak zor olabilir. Ama her zaman kendimize zaman tanımalı ve sabırlı olmalıyız. Duygularımızı anlamak için onlara dikkat etmeliyiz. Mesela, mutlu olduğumuzda kalbimiz daha hızlı atar ve gülümseriz. Şimdi, bu duyguları nasıl tanıyabileceğimizi konuşalım."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Duygularımızı tanımak için vücudumuza dikkat edebiliriz. Mutlu olduğumuzda gülümseriz, üzgün olduğumuzda ise gözlerimiz dolabilir. Kızgın olduğumuzda ise yüzümüz kızarabilir. Bu işaretleri tanımak, duygularımızı anlamamıza yardımcı olur. Şimdi, hangi duyguyu tanıdığını düşünüyorsun?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sen hangi durumlarda mutlu oluyorsun? Belki en sevdiğin oyuncağınla oynarken ya da en sevdiğin yemeği yerken? Duygularını neyin tetiklediğini bilmek, onları anlamanı kolaylaştırır. Şimdi düşün ve bana söyle. Sen en çok ne zaman mutlu oluyorsun?"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Cevabın çok güzel! Duygularımızı anlamak ve onları paylaşmak, bizi daha güçlü yapar. Duygularımızı tanıdığımızda, onlarla daha iyi başa çıkabiliriz. Şimdi, bu bilgiyi günlük hayatımızda nasıl kullanabileceğimizi konuşalım. Hadi, devam edelim!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı yönetmek, onları kontrol etmek demek değildir. Onları anlamak ve onlarla barışmak demektir. Mesela, kızgın olduğumuzda bir yastığa vurmak ya da dışarıda koşmak iyi gelebilir. Bu, duygularımızı sağlıklı bir şekilde ifade etmemizi sağlar. Şimdi, duygularımızı başka nasıl ifade edebileceğimizi keşfedelim."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Duygularımızı ifade etmenin bir diğer yolu da onları yazmaktır. Bir günlüğe yazabilir ya da bir resim çizebiliriz. Bu, duygularımızı dışa vurmanın harika bir yoludur. Duygularını yazmayı ya da çizmeyi denemek ister misin? Bu, seni daha iyi hissettirebilir."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ne harika bir fikir! Duygularını ifade etmek için yazı yazmak ya da resim çizmek, onları daha iyi anlamanı sağlar. Bu, aynı zamanda yaratıcılığını da geliştirir. Unutma, duygularını ifade etmek seni daha güçlü kılar. Şimdi, bu yolculuğumuzun sonuna geldik."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte duygularımızı nasıl anlayabileceğimizi ve kontrol edebileceğimizi öğrendik. Seninle bu yolculuğa çıkmak çok güzeldi. Unutma, duygularımız bizim bir parçamızdır ve onları kabul etmek önemlidir. Her zaman sevgiyle ve anlayışla yaklaş. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Sunny'ın Emotional Regulation Hikayesi"
+}

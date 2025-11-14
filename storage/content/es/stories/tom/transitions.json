@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_transitions_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "transitions",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeños amigos! Soy Sneaky Cat Tom, y hoy vamos a explorar algo muy emocionante: las transiciones. ¿Sabes lo que son las transiciones? Son esos cambios que suceden cuando pasamos de una cosa a otra, como cuando nos despertamos y dejamos la cama para ir a desayunar. ¡Es toda una aventura! Estoy muy emocionado de que me acompañes en este viaje. ¡Vamos a descubrirlo juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Las transiciones pueden ser muy divertidas, aunque a veces nos hagan sentir un poco nerviosos. Imagina que estás jugando con tus juguetes favoritos y de repente es hora de cenar. Cambiar de actividad puede parecer difícil, pero es una oportunidad para hacer algo nuevo. ¿Alguna vez has sentido eso? Es como cuando cambiamos de un juego a otro. Con un poco de práctica, ¡las transiciones se vuelven más fáciles!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, pensemos en cómo podemos hacer que las transiciones sean más divertidas. Una manera es creando pequeños rituales. Por ejemplo, podríamos cantar una canción cuando sea hora de recoger los juguetes. ¿Te gustaría intentarlo? Las canciones pueden hacer que el cambio sea más agradable y menos repentino. Además, podemos contar hasta cinco mientras hacemos la transición. ¿Listo para contar juntos?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Contemos juntos hasta cinco para practicar una transición. Uno, dos, tres, cuatro, cinco. ¡Lo hiciste! Ahora, cada vez que tengas que cambiar de actividad, puedes usar esta cuenta. Es como un pequeño juego que te ayuda a prepararte para lo que viene. ¡Eres un experto en transiciones ahora! ¿Ves lo fácil que puede ser?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablamos sobre las canciones para hacer transiciones. Ahora vamos a inventar una pequeña canción para cuando sea hora de dormir. Podemos cantar: 'Es hora de dormir, a descansar, mañana será un día genial'. ¿Te gusta? Las canciones nos ayudan a sentirnos más cómodos con los cambios. Además, pueden ser muy divertidas de cantar en familia."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te has preguntado por qué hacemos transiciones? Es porque nos ayudan a organizar nuestro día y a hacer muchas cosas diferentes. ¿Puedes pensar en una transición que hayas hecho hoy? Tal vez pasar de jugar a comer, o de ver televisión a leer un libro. ¿Cuál fue tu favorita? Me encantaría saberlo."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos más sobre las transiciones, pensemos en una transición que ocurre todos los días: ¡la hora de ir a la escuela! Cambiar de estar en casa a ir al colegio puede ser emocionante. En la escuela, puedes aprender cosas nuevas y jugar con tus amigos. ¿Qué es lo que más te gusta de la escuela? Es un lugar lleno de aventuras."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos de cómo podemos hacer que la transición a la escuela sea más fácil. Podemos preparar nuestra mochila la noche anterior. ¿Qué tal si hacemos una lista de las cosas que necesitamos? Como nuestros cuadernos, lápices y una botella de agua. Prepararnos con anticipación puede hacer que la mañana sea más tranquila y nos ayude a comenzar el día con una sonrisa."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora que tienes tu lista, puedes marcar cada cosa que pongas en la mochila. Esto hará que te sientas listo y organizado. ¿Ves cómo un poco de preparación puede facilitar las transiciones? ¡Eres increíblemente organizado! Estoy seguro de que tendrás un gran día en la escuela con todo listo."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora pensemos en otra transición: cuando llega la hora de jugar después de hacer la tarea. Cambiar de concentrarse en los deberes a divertirse jugando es muy emocionante. Es importante terminar nuestras tareas primero, y luego podemos disfrutar sin preocupaciones. ¿Qué juegos te gustan más para jugar después de la tarea? Jugar es una gran recompensa."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hablando de juegos, ¿alguna vez has jugado a imitar animales? Es un juego divertido que podemos hacer después de la tarea. Podemos caminar como un elefante o saltar como un canguro. ¿Quieres intentarlo? Es una forma divertida de liberar energía y hacer la transición de la tarea al juego. ¡Vamos a divertirnos imitando animales!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría saber cómo los animales hacen transiciones? Por ejemplo, los pájaros migran cuando cambian las estaciones. ¿Sabías que algunos animales cambian su piel o su pelaje? Estos son cambios naturales que ellos hacen. ¿Cuál animal te gustaría ser si pudieras cambiar como ellos? Es divertido imaginar ser un animal diferente."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos explorado tantas transiciones, pensemos en cómo nos sentimos cuando hacemos estos cambios. A veces podemos sentirnos un poco nerviosos, y eso está bien. Lo importante es recordar que cada transición nos lleva a algo nuevo y emocionante. Con práctica, cada cambio se vuelve más fácil. ¡Y tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Cada vez que enfrentes una transición, recuerda que eres valiente y curioso. Usa tus canciones y cuentas para ayudarte. Piensa en las aventuras que te esperan con cada cambio. Estoy muy orgulloso de ti por aprender sobre las transiciones conmigo. ¡Eres un verdadero aventurero! Sigue explorando y disfrutando cada momento."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un verdadero placer compartir este tiempo contigo, pequeño aventurero. Espero que hayas disfrutado aprendiendo sobre las transiciones. Recuerda que cada cambio es una nueva oportunidad para crecer y aprender. Siempre estaré aquí para guiarte en nuevas aventuras. ¡Adiós por ahora, y hasta la próxima vez! ¡Sigue siendo curioso y valiente!"
+    }
+  ],
+  "title": "Historia de Transitions de Sneaky Cat Tom"
+}

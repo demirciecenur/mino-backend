@@ -1,0 +1,98 @@
+{
+  "id": "adventure_dora_pal_friendship_story",
+  "character": "Adventure Dora Pal",
+  "topic": "friendship",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, liebe Freunde! Ich bin Adventure Dora Pal und heute gehen wir auf eine spannende Reise, um mehr über Freundschaft zu lernen. Freundschaft ist etwas ganz Besonderes, und ich bin so neugierig, mehr darüber zu erfahren. Seid ihr bereit, mit mir auf Entdeckungstour zu gehen? Wir werden viel Spaß haben und ganz viel Neues lernen! Kommt, lasst uns gemeinsam loslegen und die Welt der Freundschaft erkunden!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft bedeutet, jemanden zu haben, der immer für dich da ist. Ein Freund kann mit dir spielen, lachen und dir helfen, wenn du es brauchst. Denkst du an jemanden, der für dich ein guter Freund ist? Es ist schön, einen Freund zu haben, mit dem man alles teilen kann. Jetzt, da wir wissen, was Freundschaft ist, lasst uns darüber sprechen, wie wir neue Freunde finden können."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Um neue Freunde zu finden, ist es wichtig, freundlich zu sein. Ein Lächeln kann der erste Schritt zu einer neuen Freundschaft sein. Wenn du jemanden siehst, der alleine spielt, kannst du fragen: 'Möchtest du mit mir spielen?' Das zeigt, dass du nett bist und gerne teilst. Wir wollen doch alle zusammen Spaß haben, nicht wahr? Lasst uns üben, freundlich zu sein und neue Freunde zu finden."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lasst uns jetzt zusammen üben, wie wir neue Freunde finden können. Stell dir vor, du bist auf dem Spielplatz und siehst ein Kind, das alleine ist. Du gehst hin und sagst: 'Hallo, ich bin [dein Name]. Möchtest du mit mir spielen?' Wow, das war großartig! Du bist so mutig und freundlich. Ich bin sicher, dass du viele neue Freunde finden wirst."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert euch, als wir darüber gesprochen haben, wie man freundlich ist? Es ist auch wichtig, ein guter Zuhörer zu sein. Wenn dein Freund etwas erzählt, hör gut zu und zeige Interesse. Du kannst nicken und sagen: 'Das klingt spannend!' So wissen deine Freunde, dass du wirklich zuhörst und sie wichtig für dich sind. Lasst uns jetzt üben, gute Zuhörer zu sein."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ein weiterer wichtiger Teil der Freundschaft ist das Teilen. Teilen zeigt, dass du an andere denkst und ihnen helfen möchtest. Wenn du ein Spielzeug hast, kannst du es deinem Freund geben, damit ihr beide Spaß habt. Teilen macht glücklich und stärkt die Freundschaft. Probiert es aus: Teilt ein Spielzeug mit einem Freund und seht, wie glücklich es euch beide macht!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar, ihr macht das so gut! Freundschaft ist auch, sich gegenseitig zu helfen. Wenn dein Freund etwas nicht alleine schafft, kannst du ihm helfen. Zum Beispiel, wenn er ein Buch hochheben muss, kannst du sagen: 'Ich helfe dir!' Gemeinsam seid ihr stark und könnt alles schaffen. Ihr seid großartige Freunde!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Manchmal kann es auch Streit zwischen Freunden geben, und das ist okay. Wichtig ist, dass man darüber spricht und sich wieder verträgt. Du kannst sagen: 'Es tut mir leid, das war nicht meine Absicht.' So zeigst du, dass dir die Freundschaft wichtig ist. Freunde verzeihen einander und wachsen dadurch noch enger zusammen. Lasst uns darüber sprechen, wie man sich entschuldigt und Frieden schließt."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Habt ihr schon einmal einen Streit mit einem Freund gehabt? Wie habt ihr das gelöst? Es ist wichtig, offen zu sein und über Probleme zu sprechen. Vielleicht könnt ihr gemeinsam eine Lösung finden. Was denkt ihr, wie fühlt sich euer Freund, wenn ihr euch wieder vertragt? Es ist schön, wenn alles wieder gut ist, oder?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an die tollen Dinge, die wir über Freundschaft gelernt haben? Wir haben gelernt, dass man freundlich, ein guter Zuhörer und hilfsbereit sein sollte. Es ist auch wichtig, sich zu entschuldigen und Streit zu lösen. Freundschaft ist wie eine Pflanze, die man pflegen muss, damit sie wächst. Jetzt, da wir so viel über Freundschaft wissen, lasst uns darüber sprechen, wie wir unsere Freundschaften pflegen können."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Freundschaften pflegen bedeutet, Zeit miteinander zu verbringen und Spaß zu haben. Ihr könnt zusammen spielen, malen oder Geschichten erzählen. Es ist auch schön, einfach nur zusammen zu sein und zu lachen. Denkt daran, eure Freunde zu fragen, wie es ihnen geht, und ihnen zuzuhören. So bleibt eure Freundschaft stark und wächst immer weiter."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ihr macht das wirklich toll! Ihr seid so gute Freunde, und ich bin stolz auf euch. Denkt daran, dass Freundschaft etwas ganz Besonderes ist, das wir immer schätzen sollten. Ihr habt so viel über Freundschaft gelernt und seid bereit, großartige Freunde zu sein. Glaubt an euch selbst, und ihr werdet viele wunderbare Freundschaften haben."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, wo wir so viel über Freundschaft gelernt haben, lasst uns überlegen, was wir als Nächstes tun können. Vielleicht könnt ihr heute einen neuen Freund finden oder einem alten Freund eine Freude machen. Überlegt euch, was ihr tun könnt, um ein guter Freund zu sein. Ihr habt so viele tolle Ideen, und ich bin gespannt, was ihr alles machen werdet."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, heute mit euch über Freundschaft zu sprechen. Ihr habt so viel gelernt und seid jetzt bereit, die besten Freunde zu sein, die man sich nur wünschen kann. Denkt daran, freundlich, hilfsbereit und ein guter Zuhörer zu sein. Ich freue mich schon darauf, bald wieder mit euch zu sprechen und zu sehen, was ihr alles erlebt habt. Tschüss, bis zum nächsten Mal, liebe Freunde!"
+    }
+  ],
+  "title": "Adventure Dora Pals Friendship Geschichte"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "spider_fighter_behavior_story",
+  "character": "Spider Fighter",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Spider Fighter, ton ami courageux et joyeux. Aujourd'hui, nous allons explorer le monde fascinant du bon comportement. Es-tu prêt pour cette aventure ? Le bon comportement, c'est comme utiliser nos super-pouvoirs pour être gentils et respectueux. Ensemble, nous allons découvrir comment être des héros du quotidien !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le bon comportement, c'est tellement important ! Cela signifie être gentil et faire attention aux autres. Par exemple, quand tu joues avec tes amis, partager tes jouets est un excellent moyen de montrer du bon comportement. Ça rend tout le monde heureux et toi aussi ! Et devine quoi ? Quand tu es poli, ça rend tout le monde fier de toi !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des règles. Les règles nous aident à vivre ensemble en harmonie. Par exemple, à la maison, une règle pourrait être de ranger tes jouets après avoir joué. Cela permet de garder l'endroit propre et sûr pour tout le monde. Suivre les règles, c'est comme être un super-héros qui veille au bonheur de tous !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu sais quoi ? Tu peux être un super-héros chaque jour avec tes actions ! Chaque fois que tu aides un ami ou que tu dis 's'il te plaît' et 'merci', tu utilises tes pouvoirs de super-héros. C'est incroyable, n'est-ce pas ? Allez, essaie de dire un 'merci' aujourd'hui et vois comme ça fait du bien !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi, être gentil et respectueux, c'est aussi écouter les autres. Quand quelqu'un parle, prête-lui attention, comme un vrai ami. Cela montre que tu respectes ce qu'ils disent. Et quand tu écoutes bien, tu apprends de nouvelles choses chaque jour. C'est comme découvrir de nouveaux pouvoirs cachés !"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Maintenant, pense à une fois où tu as aidé quelqu'un. Comment t'es-tu senti ? Aider les autres, c'est comme partager un peu de ton bonheur. Et tu sais quoi ? Quand tu aides, tu deviens encore plus fort et plus courageux. C'est comme si tes pouvoirs grandissaient à chaque acte de gentillesse !"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons de la gestion des émotions. Parfois, nous pouvons être en colère ou tristes, et c'est normal. Ce qui est important, c'est comment nous réagissons. Prenons trois grandes respirations ensemble pour nous calmer. Inspirons... et expirons. Cela nous aide à rester calmes et à réfléchir avant d'agir, comme des héros réfléchis !"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Génial ! Tu as déjà fait un pas de géant vers le bon comportement. N'oublie pas que chaque petit geste compte. Un sourire, un mot gentil, tout cela illumine la journée de quelqu'un. Tu es vraiment un super-héros du quotidien, et je suis tellement fier de toi !"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Alors, petit héros, veux-tu partager une histoire où tu as montré du bon comportement ? Peut-être as-tu aidé un ami ou suivi une règle importante ? Je suis impatient d'entendre ce que tu as fait. Chaque histoire est spéciale et montre à quel point tu es formidable !"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi que même les petits gestes de gentillesse font une grande différence. Quand tu dis 'bonjour' ou que tu souris à quelqu'un, tu fais briller leur journée. C'est comme lancer une toile d'amitié qui relie tout le monde. Et plus tu pratiques, plus tu deviens un expert du bon comportement !"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour finir, rappelons-nous toujours de respecter les autres. Cela signifie parler gentiment et écouter attentivement. Si quelqu'un est triste, un câlin ou un mot doux peut faire des merveilles. C'est comme apporter du soleil dans leur journée. Et toi aussi, tu te sentiras bien d'avoir fait une bonne action !"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Continue à être le merveilleux super-héros que tu es ! Chaque jour est une nouvelle chance de montrer du bon comportement. N'oublie pas que tu as le pouvoir de rendre le monde meilleur avec tes actions. Bravo, petit héros, tu es incroyable !"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Penses-tu à d'autres façons dont tu pourrais être un héros aujourd'hui ? Peut-être en aidant à la maison ou en étant gentil à l'école ? Chaque idée est une nouvelle mission pour toi. Je suis sûr que tu seras fantastique, comme toujours !"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir exploré le monde du bon comportement avec moi, Spider Fighter ! Rappelle-toi que tu es toujours capable de faire des choix positifs. Garde ton sourire et continue d'être un héros chaque jour. À bientôt, petit ami, et n'oublie pas que tu es formidable !"
+    }
+  ],
+  "title": "Histoire de Behavior de Spider Fighter"
+}

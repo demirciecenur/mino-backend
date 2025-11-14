@@ -1,0 +1,98 @@
+{
+  "id": "clever_mouse_jerry_nutrición_alimentación_saludable_hábitos_alimentarios_alimentos_saludables_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Jerry, el ratón listo. Hoy vamos a explorar un mundo lleno de colores y sabores, ¡el mundo de la nutrición! ¿Sabías que comer bien nos hace fuertes y felices? Estoy emocionado de mostrarte cómo los alimentos saludables pueden ser divertidos. ¿Listos para esta aventura?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en nuestras comidas favoritas. ¿Te gustan las manzanas o las zanahorias? Estos alimentos son como superhéroes para nuestro cuerpo. Nos dan energía para correr, jugar y aprender. Comer frutas y verduras todos los días nos ayuda a crecer fuertes y sanos."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a aprender un poco sobre los colores de los alimentos. Cada color tiene algo especial para ofrecer. Las frutas rojas como las fresas son buenas para el corazón. Las verduras verdes como el brócoli nos ayudan a ver mejor. ¿Puedes imaginar qué superpoder tiene tu comida favorita?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora, vamos a contar juntos. ¿Cuántas frutas puedes comer en un día? Uno, dos, tres... ¡Cuantas más, mejor! Recuerda, cada bocado cuenta para hacerte más fuerte y saludable. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablando de bocados, ¿alguna vez has probado un arco iris de alimentos? Es divertido y delicioso. Imagina un plato con frutas de todos los colores. Comer un arco iris te asegura que estás recibiendo muchos nutrientes diferentes. ¡Es como una fiesta en tu boca!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de beber agua. El agua es muy importante para nuestro cuerpo. Nos mantiene hidratados y ayuda a que todo funcione bien. Es como el combustible para un coche. Beber agua durante el día es una gran manera de mantenerse saludable."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! ¿Sabías que también podemos jugar mientras aprendemos? Vamos a practicar un juego de memoria. Piensa en tres alimentos saludables que te gustan. ¿Puedes recordarlos? ¡Genial! Este juego ayuda a que tu mente sea tan fuerte como tu cuerpo."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablamos de los superhéroes de los alimentos. Ahora, pensemos en los horarios de las comidas. Comer a la misma hora todos los días ayuda a tu cuerpo a saber cuándo esperar comida. Es como un reloj interno que te mantiene en marcha."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar respirar juntos. Inhala profundamente, uno, dos, tres... y exhala. Respirar así ayuda a relajarnos y a disfrutar de nuestras comidas. Comer despacio y con calma nos permite saborear cada bocado. ¡Inténtalo en tu próxima comida!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo increíble! Ahora, ¿te gustaría intentar algo nuevo? Prueba a ayudar en la cocina. Puedes lavar las verduras o mezclar los ingredientes. Cocinar es una aventura divertida y te enseña sobre los alimentos que comes. ¡Eres un chef en entrenamiento!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablando de cocinar, ¿alguna vez has hecho una ensalada de frutas? Es fácil y deliciosa. Puedes usar tus frutas favoritas y mezclarlas en un tazón. Agrega un poco de miel para un toque dulce. ¡Es una manera deliciosa de disfrutar de un refrigerio saludable!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora, tengo una pregunta para ti. ¿Cuál es tu comida saludable favorita y por qué? Pensar en esto puede ayudarte a elegir alimentos que te hagan sentir bien. ¡Estoy seguro de que tienes grandes ideas!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda, cada alimento saludable que elijas es un paso hacia un cuerpo fuerte y feliz. Comer bien te da energía para correr, saltar y jugar todo el día. Así que la próxima vez que elijas un bocadillo, piensa en lo que tu cuerpo necesita. ¡Tú eres el héroe de tu propia historia de salud!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer aprender sobre la nutrición contigo. Espero que te hayas divertido y aprendido mucho. Recuerda, la comida saludable es tu amiga. ¡Hasta la próxima, amiguito! ¡Sigue siendo fuerte y feliz!"
+    }
+  ],
+  "title": "Historia de Nutrition de Clever Mouse Jerry"
+}

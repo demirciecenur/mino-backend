@@ -1,0 +1,98 @@
+{
+  "id": "mino_confidence_story",
+  "character": "Mino",
+  "topic": "confidence",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostlarım! Ben Mino, uzaydan gelen dost canlısı bir maceraperestim. Bugün sizinle birlikte confidence, yani özgüven üzerine harika bir yolculuğa çıkacağız. Özgüven, kendimize inanmamızı sağlayan o güçlü histir. Bu yolculukta birlikte yeni şeyler keşfedeceğiz ve eğlenceli aktiviteler yapacağız. Hazır mısınız? Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven, bir şeyi başarabileceğimize inanmak demektir. Mesela, yeni bir oyun oynarken veya resim yaparken kendimize güvenirsek, daha mutlu ve başarılı oluruz. Hatırlıyor musunuz, ilk kez bisiklete bindiğinizde biraz korkmuş olabilirsiniz. Ama denedikçe ve pratiğe devam ettikçe, bisiklete binmeyi başardınız. İşte bu, özgüvenin harika bir örneği! Şimdi, bu konuyu biraz daha açalım ve neler yapabileceğimize bakalım."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özgüveni artırmanın en iyi yollarından biri, küçük hedefler belirlemektir. Örneğin, oyuncaklarınızı toplamak veya dişlerinizi fırçalamak gibi basit görevler olabilir. Bu görevleri başardıkça, kendinize olan güveniniz artar. Başlangıçta zor gibi görünen işler, pratik yaptıkça kolaylaşır. Şimdi birlikte bir hedef belirleyelim ve onu gerçekleştirmek için adımlar atalım. Hedef belirlemek ne kadar eğlenceli, değil mi?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hedeflerinizi gerçekleştirdiğinizde kendinize 'Harika iş çıkardım!' demeyi unutmayın. Bu, özgüveninizi daha da güçlendirir. Başarılarınızı kutlamak, kendinizi daha iyi hissetmenizi sağlar. Her küçük başarı, büyük adımlar atmanıza yardımcı olur. Unutmayın, her zaman kendinize inanın ve 'Ben bunu yapabilirim!' deyin. Şimdi birlikte bunu söyleyelim: 'Ben bunu yapabilirim!'"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi size küçük bir hikaye anlatacağım. Bir zamanlar küçük bir kuş, uçmayı çok istiyordu ama çok korkuyordu. Annesi ona cesaret verdi ve 'Yapabilirsin!' dedi. Küçük kuş, kanatlarını açtı ve denemeye başladı. İlk önce çok zorlandı, ama pes etmedi. Sonunda uçmayı başardı ve gökyüzünde özgürce süzüldü. İşte bu, özgüvenin gücüdür!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi hep birlikte derin bir nefes alalım ve nefesimizi verirken 'Ben güçlüyüm ve başarabilirim' diyelim. Derin nefes almak, kendimizi sakinleştirir ve odaklanmamıza yardımcı olur. Bu basit egzersiz, zor anlarda bile kendimize güvenmemizi sağlar. Hadi, birlikte deneyelim. Nefes al, nefes ver ve 'Ben güçlüyüm ve başarabilirim' de. Harika, bunu çok iyi yaptınız!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Birlikte özgüvenimizi güçlendirmek için başka neler yapabiliriz? Sizce yeni bir şey denemek nasıl hissettirir? Belki yeni bir oyun oynamak veya bir resim yapmak isteyebilirsiniz. Siz neler düşünüyorsunuz? Hadi bir düşünelim ve fikirlerimizi paylaşalım."
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Harika fikirleriniz var! Yeni şeyler denemek, her zaman heyecan vericidir. Özgüvenimizi artırır ve yeni yetenekler kazanmamıza yardımcı olur. Unutmayın, her deneme, bizi başarıya bir adım daha yaklaştırır. Şimdi, birlikte biraz daha düşünelim ve başka neler yapabileceğimizi konuşalım."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüvenli olmak, her zaman her şeyi bilmek demek değildir. Bazen hata yapmak da öğrenmenin bir parçasıdır. Hatalarımızdan ders alıp, daha iyisini yapmaya çalışabiliriz. Bu, büyümenin ve gelişmenin doğal bir yoludur. Hadi, birlikte hatalardan nasıl ders alabileceğimizi düşünelim. Çünkü her hata, yeni bir öğrenme fırsatıdır."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hatalardan korkmayın, onlardan öğrenin. Her denemede daha iyi olacaksınız. Kendinize 'Bu sefer olmadı ama bir dahaki sefere daha iyi yapacağım' deyin. Bu, özgüveninizi artırır ve sizi motive eder. Unutmayın, her zaman bir adım daha ileri gitmek için şansınız var. Şimdi birlikte 'Bir dahaki sefere daha iyi yapacağım' diyelim."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özgüvenimizi artırmanın bir diğer yolu da başkalarına yardım etmektir. Başkalarına yardım etmek, kendimizi iyi hissettirir ve başkalarının da bize güvenmesini sağlar. Mesela, arkadaşlarınıza oyun oynarken yardım edebilir veya onlara bir konuda destek olabilirsiniz. Bu, hem sizin hem de onların özgüvenini artırır. Şimdi, başkalarına nasıl yardım edebileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Başka insanlara yardım etmek için neler yapabiliriz? Belki onlara kitap okuyabilir veya oyuncaklarınızı paylaşabilirsiniz. Siz nasıl yardımcı olabilirsiniz? Hadi fikirlerinizi paylaşın ve birlikte düşünelim. Unutmayın, yardım etmek her zaman iyi hissettirir!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Harika düşünceleriniz var! Yardım etmek, özgüvenimizi artırır ve bizi daha mutlu eder. Birlikte daha fazla şey yapabiliriz. Şimdi, yardım etmenin başka yollarını düşünelim ve bu konuda daha fazla konuşalım. Çünkü her yardım, dünyayı daha güzel bir yer yapar."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün, özgüven üzerine harika bir yolculuk yaptık. Kendimize inandığımızda neler başarabileceğimizi gördük. Unutmayın, her zaman kendinize güvenin ve 'Ben bunu yapabilirim!' deyin. Şimdi vedalaşma zamanı geldi ama unutmayın ki, her zaman burada, yanınızdayım. Bir dahaki sefere görüşmek üzere, küçük dostlarım! Hoşça kalın!"
+    }
+  ],
+  "title": "Mino'ın Özgüven Hikayesi"
+}

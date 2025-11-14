@@ -1,0 +1,110 @@
+{
+  "id": "luna_behavior_attention_story",
+  "title": "Dikkat ve Davranış",
+  "character": "Luna",
+  "topic": "behavior_attention",
+  "language": "tr",
+  "age_range": "2-8",
+  "duration_minutes": 12,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Luna. Bugün birlikte harika bir yolculuğa çıkacağız. Hazır mısın?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bazen dikkatimiz dağılır. Bu çok normal. Önemli olan nasıl toparlanacağımız."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Dikkatini toplamak için önce derin bir nefes alabilirsin. Hadi birlikte deneyelim."
+    },
+    {
+      "id": "scene_3",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Burundan derin bir nefes al. Şimdi yavaşça ağzından ver. Çok güzel!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nefes alıp vermek seni sakinleştirir. Böylece daha iyi düşünebilirsin."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Dikkatini toplamak için küçük bir oyun oynayabiliriz. Şimdi beş saniyeye kadar sayalım."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bir, iki, üç, dört, beş! Harika iş çıkardın!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sen de denemek ister misin? Beş saniyeye kadar sayabilir misin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Çok güzel! Dikkatini toplamak için küçük molalar vermek iyidir."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kendini sakin hissetmediğinde, oturup birkaç derin nefes alabilirsin."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ayrıca, basit rutinler yapmak sana yardımcı olur. Mesela oyuncaklarını toplamak gibi."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rutinler, ne zaman ne yapacağını bilmeni sağlar. Bu da daha rahat olmanı sağlar."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte sakin bir şekilde üç derin nefes alalım. Hazırsan başlayalım."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bir... İki... Üç... Çok güzel nefes aldın. Şimdi daha huzurlu hissediyorsun."
+    },
+    {
+      "id": "scene_14",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Dikkatini toplamak bazen zor olur ama sen bunu yapabilirsin. Unutma, ben buradayım!"
+    },
+    {
+      "id": "scene_15",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün bizimle olduğun için çok teşekkür ederim. Her zaman sakin olmayı ve dikkatini toplamayı unutma. Hoşça kal!"
+    }
+  ]
+}

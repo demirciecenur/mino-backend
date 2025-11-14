@@ -1,0 +1,104 @@
+{
+  "id": "bubu_transitions_story",
+  "character": "Bubu",
+  "topic": "transitions",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Bubu. Bugün birlikte geçişler hakkında harika bir yolculuğa çıkacağız. Yeni şeylerle karşılaşmak bazen zor olabilir, ama birlikte öğrenip eğleneceğiz. Seninle bu yolculuğa çıkmayı dört gözle bekliyorum. Hazır mısın? Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçişler, bir durumdan başka bir duruma geçerken yaşadığımız değişikliklerdir. Örneğin, oyun oynarken yemek vakti geldiğinde oyunu bırakmak bir geçiştir. Bazen bu değişiklikler bizi biraz üzebilir ya da endişelendirebilir. Fakat geçişler, yeni şeyler öğrenmemize ve büyümemize yardımcı olur. Şimdi, geçişlerin neden önemli olduğunu daha yakından inceleyelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Geçişlerle başa çıkmanın bir yolu, onları eğlenceli hale getirmektir. Mesela, oyuncaklarını toplarken bir şarkı söyleyebilirsin. Bu, hem eğlenceli olur hem de işi kolaylaştırır. Dişlerini fırçalarken bir hikaye uydurmak da geçişleri daha ilgi çekici hale getirebilir. Böylece, her yeni durum bir macera gibi gelir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Geçişler sırasında kendini biraz üzgün hissedebilirsin, ama bu çok normal. Herkes bazen böyle hisseder. Önemli olan, bu duygularla nasıl başa çıkacağını öğrenmendir. Birlikte derin bir nefes alalım. Harika! Şimdi daha iyi hissediyor musun? Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Daha önce konuştuğumuz gibi, geçişler yeni şeyler öğrenmemize yardımcı olur. Mesela, okula başladığında yeni arkadaşlar edinirsin ve yeni şeyler öğrenirsin. Bu başlangıçlar başta zorlayıcı olabilir, ama zamanla alışır ve mutlu olursun. Tıpkı bir çiçeğin büyümesi gibi, sen de yeni şeyler öğrenerek büyürsün. Şimdi, başka bir geçiş türüne bakalım."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir geçiş daha düşünelim: Mevsimlerin değişmesi. Kıştan bahara geçerken hava ısınır ve çiçekler açar. Bu değişiklikler doğanın bir parçasıdır. Mevsimlerin değişmesi gibi, senin de hayatında değişiklikler olur. Her yeni mevsim, yeni maceralar ve oyunlar demektir. Bu yüzden değişikliklerden korkma, onları kucakla!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bir geçiş sırasında kendini rahatlatmanın bir yolu da derin nefes almaktır. Şimdi birlikte üç derin nefes alalım. Bir, iki, üç... Harika! Derin nefes almak, seni sakinleştirir ve daha iyi hissetmeni sağlar. Bu yöntemi her zaman kullanabilirsin. Sen harikasın!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçişlerin bazen neden zorlayıcı olabileceğini düşündün mü? Çünkü alışık olduğumuz şeylerden ayrılmak zor olabilir. Ama unutma, her yeni başlangıç, yeni fırsatlar ve eğlenceler getirir. Tıpkı bir kitabın yeni bir bölümüne geçmek gibi. Her bölümde yeni bir macera seni bekler."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, sen hiç zor bir geçiş yaşadın mı? Mesela, yeni bir okula başlamak ya da yeni bir eve taşınmak gibi. Böyle bir durumda ne hissettin? Bu duygularını hatırlıyor musun? Senin hikayeni dinlemek isterim."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda, senin hikayeni dinlemek gerçekten çok güzeldi. Herkesin kendi hikayesi ve duyguları var. Bu duygular, bizi biz yapan şeylerdir. Şimdi, bu duygularla nasıl başa çıkabileceğimizi konuşalım. Birlikte yeni yollar keşfedelim."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Geçişlerle başa çıkmanın başka bir yolu da, kendine biraz zaman tanımaktır. Her şey hemen kolay olmayabilir, ama zamanla alışabilirsin. Mesela, yeni bir oyunu öğrenirken biraz pratik yapman gerekebilir. Sabırlı olursan, her şey yoluna girecektir. Şimdi, birlikte biraz daha pratik yapalım."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Geçişler sırasında kendine güvenmen çok önemli. Sen her şeyi yapabilecek güçtesin! Birlikte sayalım: bir, iki, üç... İşte bu kadar basit! Her şey adım adım olur. Sen de bu adımları atarken çok başarılı olacaksın. Buna inanıyorum!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçişler, bazen bizi yeni fırsatlarla karşılaştırır. Yeni arkadaşlar edinmek ya da yeni bir hobiye başlamak gibi. Bu fırsatlar, hayatımızı daha renkli hale getirir. Her yeni başlangıç, yeni bir macera demektir. Şimdi, bu maceralara nasıl hazırlanabileceğimizi konuşalım."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Geçişler hakkında konuşurken, senin de merak ettiğin bir şey var mı? Belki bir sonraki adımda ne yapacağını merak ediyorsundur. Ya da yeni bir şey denemek istiyorsundur. Bu konuda ne düşünüyorsun? Seninle konuşmayı çok isterim."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün geçişler hakkında çok şey öğrendik. Her geçişin bir macera olduğunu ve her yeni başlangıcın bir fırsat getirdiğini keşfettik. Seninle bu yolculuğu paylaşmak gerçekten çok güzeldi. Şimdi, hayatında karşılaşacağın her değişikliği kucakla ve eğlen. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Bubu'ın Transitions Hikayesi"
+}

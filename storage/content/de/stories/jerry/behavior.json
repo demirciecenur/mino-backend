@@ -1,0 +1,104 @@
+{
+  "id": "clever_mouse_jerry_behavior_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "behavior",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Clever Mouse Jerry, und heute gehen wir auf eine spannende Reise über gutes Benehmen. Bist du bereit? Ich bin so neugierig auf dich und was wir zusammen entdecken werden. Gutes Benehmen ist wie ein Zauber, der alles um uns herum schöner macht. Lass uns gemeinsam herausfinden, wie wir diesen Zauber anwenden können!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir letztes Mal über das Aufräumen gesprochen haben? Heute wollen wir darüber reden, warum es wichtig ist, Regeln zu befolgen. Regeln helfen uns, sicher und glücklich zu sein. Stell dir vor, alle auf dem Spielplatz rennen wild umher, ohne aufeinander zu achten. Das könnte gefährlich werden, oder? Deswegen gibt es Regeln, die uns helfen, Spaß zu haben und sicher zu bleiben."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns darüber nachdenken, wie wir Regeln befolgen können. Es ist wichtig, zuzuhören, wenn jemand spricht, besonders wenn es um Regeln geht. Wenn Mama oder Papa sagen, dass es Zeit ist, ins Bett zu gehen, dann wissen sie, dass wir unseren Schlaf brauchen, um stark und gesund zu bleiben. Regeln sind wie Wegweiser, die uns den richtigen Weg zeigen. Und wenn wir uns daran halten, fühlen wir uns gut!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt möchte ich, dass wir etwas zusammen ausprobieren. Lass uns bis fünf zählen, während wir tief durchatmen. Eins, zwei, drei, vier, fünf. Großartig! Das hilft uns, ruhig zu werden und besser zuzuhören. Wenn wir ruhig sind, können wir besser verstehen, was die Regeln sind. Und weißt du was? Du machst das schon ganz toll!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weiter geht's mit einer Geschichte über meinen Freund, das Kaninchen Hoppel. Hoppel liebte es, im Garten zu spielen, aber manchmal vergaß er, die Gartentür zu schließen. Eines Tages kam ein Windstoß und blies alle Blätter in den Garten. Hoppel lernte, dass es hilfreich ist, die Tür zu schließen, um den Garten sauber zu halten. So ist es auch mit Regeln – sie helfen uns, die Dinge in Ordnung zu halten."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt denk an eine Regel, die du kennst. Vielleicht ist es 'Bitte' und 'Danke' zu sagen? Diese kleinen Worte machen einen großen Unterschied und zeigen, dass wir höflich sind. Wenn wir höflich sprechen, fühlen sich andere wohl und wir können Freunde gewinnen. Lass uns das zusammen üben: Kannst du 'Bitte' sagen? Und jetzt 'Danke'. Wunderbar! Du bist wirklich höflich."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Weißt du, gutes Benehmen ist wie ein kleines Geschenk, das wir anderen geben. Wenn wir freundlich und respektvoll sind, fühlen sich alle glücklich. Und das Beste ist, dass es nichts kostet, freundlich zu sein. Es ist wie ein Lächeln, das wir teilen können. Und wer mag nicht ein freundliches Lächeln?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt möchte ich dir von einer anderen Regel erzählen, die wichtig ist: Teilen. Teilen zeigt, dass wir an andere denken. Wenn wir unser Spielzeug teilen, können alle zusammen spielen und Spaß haben. Stell dir vor, du hast einen großen Kuchen und teilst ihn mit deinen Freunden. Alle haben ein Stück und sind glücklich. Teilen bringt Freude, nicht wahr?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal etwas geteilt? Vielleicht ein Spielzeug oder ein Stück Kuchen? Wie hat es sich angefühlt, etwas zu teilen? Es ist ein schönes Gefühl, wenn wir anderen eine Freude machen können. Möchtest du es noch einmal versuchen? Ich bin sicher, es wird dir gefallen!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich daran, wie Hoppel die Tür schließen musste? So wie Hoppel, lernen wir durch kleine Dinge, wie wir uns gut benehmen. Jeder Tag bringt uns neue Möglichkeiten, höflich und freundlich zu sein. Und das Beste daran ist, dass wir dabei viel Spaß haben können. Was denkst du, worauf freust du dich am meisten?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über eine weitere wichtige Regel sprechen: Aufräumen. Wenn wir mit dem Spielen fertig sind, ist es wichtig, unsere Spielsachen wegzuräumen. Das macht den Raum schön und ordentlich. Wenn alles an seinem Platz ist, finden wir es später leichter wieder. Lass uns zusammen zählen, wie viele Spielsachen wir aufräumen können. Eins, zwei, drei – toll gemacht!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich ein kleiner Aufräumprofi! Wenn wir aufräumen, zeigen wir, dass wir Verantwortung übernehmen können. Und das ist ein großer Schritt zu gutem Benehmen. Es macht Spaß, wenn alles sauber und ordentlich ist, oder? Du kannst stolz auf dich sein, weil du so toll aufräumst!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel über gutes Benehmen gelernt haben, lass uns darüber nachdenken, wie wir diese Regeln jeden Tag anwenden können. Vielleicht kannst du heute jemandem ein Lächeln schenken oder ein Spielzeug teilen. Kleine Taten der Freundlichkeit machen die Welt zu einem schöneren Ort. Und das Beste daran ist, dass jeder mitmachen kann!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkst du, welche Regel möchtest du heute ausprobieren? Vielleicht das Teilen oder das Aufräumen? Oder möchtest du höflich 'Bitte' und 'Danke' sagen? Es gibt so viele Möglichkeiten, gutes Benehmen zu zeigen. Ich bin gespannt, für welche du dich entscheidest!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über gutes Benehmen zu sprechen. Ich hoffe, du hattest genauso viel Spaß wie ich. Denke daran, dass gutes Benehmen wie ein Zauber ist, der alles schöner macht. Ich freue mich darauf, bald wieder mit dir zu plaudern. Bis dahin, bleib freundlich und fröhlich! Tschüss, kleiner Freund!"
+    }
+  ],
+  "title": "Clever Mouse Jerrys Behavior Geschichte"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "sunny_friendship_story",
+  "character": "Sunny",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Sunny. Bugün seninle arkadaşlık hakkında harika bir yolculuğa çıkacağız. Arkadaşlık, oyun oynamak ve birlikte güzel vakit geçirmek demek. Hazır mısın? Seni çok merak ediyorum ve bu yolculukta bana eşlik edeceğin için çok mutluyum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, hayatımızı daha eğlenceli ve mutlu yapar. Bir arkadaş edinmek, birlikte oyunlar oynamak ve gülmek demektir. Mesela, en sevdiğin oyuncağınla oynarken yanında bir arkadaşın olması ne kadar güzel olurdu, değil mi? Arkadaşlar, birbirimize yardım ederiz ve zor zamanlarda yanımızda olurlar. Şimdi arkadaşlık hakkında daha fazla konuşalım."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaş edinmek için ilk adım gülümsemek olabilir. Gülümsemek, karşımızdaki kişiye dostça bir mesaj verir. Tanıştığında adını söyleyebilirsin, bu da karşındaki kişinin seni tanımasına yardımcı olur. 'Merhaba, ben Ayşe' gibi basit bir cümleyle başlayabilirsin. Ardından, birlikte oynamak istediğini söyleyebilirsin. Bu adımlar, yeni arkadaşlar edinmene yardımcı olabilir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, birlikte gülümseyip selam vermeyi deneyelim. Haydi, en güzel gülümsemeni göster! Harika! Şimdi, bir arkadaşını düşün ve ona nasıl selam vereceğini hayal et. 'Merhaba, seninle oynamak isterim' demek çok güzel bir başlangıçtır. Senin gibi bir arkadaşla kim oynamak istemez ki? Harikasın!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda gülümsemekten ve selam vermekten bahsetmiştik. Şimdi, arkadaşlıkta önemli olan başka bir şeyden bahsedelim: Paylaşmak. Oyuncaklarını arkadaşlarınla paylaşmak, onları mutlu eder ve oyunlar daha eğlenceli hale gelir. Paylaşmak, arkadaşlığın önemli bir parçasıdır ve herkesi mutlu eder. Bu yüzden, oyuncaklarını paylaşarak arkadaşlarına ne kadar değer verdiğini gösterebilirsin."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Arkadaşlarınla en çok hangi oyunları oynamayı seviyorsun? Saklambaç, lego yapımı ya da belki de boyama? Her oyun, arkadaşlarınla geçirilen zamanı daha da eğlenceli hale getirir. Senin favori oyunun hangisi? Düşün bakalım, belki de yeni bir oyun keşfetmek istersin!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hatırlıyor musun, arkadaşlarınla oyunlar oynamaktan bahsetmiştik. Şimdi, sırada bir başka önemli konu var: Dinlemek. Arkadaşlarımızı dikkatle dinlemek, onlara değer verdiğimizi gösterir. Onların ne söylediklerini anlamak, birlikte daha iyi vakit geçirmemize yardımcı olur. Dinlemek, arkadaşlıkta çok önemli bir beceridir. Şimdi sen de arkadaşlarını dinlemeye çalışabilirsin."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaşlarını dikkatlice dinlemek için gözlerine bakabilir ve söylediklerini anlamaya çalışabilirsin. Onlar konuşurken sessiz kalmak ve dinlemek, onların söylediklerine önem verdiğini gösterir. Eğer anlamadığın bir şey olursa, nazikçe tekrar sorabilirsin. Bu, hem onları hem de seni mutlu eder. Dinleme becerilerini geliştirmek için küçük adımlar atabilirsin."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, arkadaşlarını dinlemek için harika bir fırsat! Onlara bugün nasıl olduklarını sor ve dikkatle dinle. Belki de yeni bir şeyler öğrenirsin! Dinlemek, sadece arkadaşlıkta değil, her zaman önemlidir. Senin gibi dikkatli bir dinleyici olmak, arkadaşlarını çok mutlu eder. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda dinlemenin öneminden bahsetmiştik. Şimdi, sıra geldi teşekkür etmeye. Bir arkadaşın sana yardım ettiğinde ya da seninle oynadığında teşekkür etmek, ona değer verdiğini gösterir. Basit bir 'teşekkür ederim' demek, arkadaşını çok mutlu eder. Teşekkür etmek, arkadaşlık bağlarını güçlendirir."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sen, arkadaşlarına en son ne zaman teşekkür ettin? Düşün bakalım, belki de bir oyuncağını paylaştıklarında ya da seninle oyun oynadıklarında teşekkür etmişsindir. Teşekkür etmek, arkadaşlarımızı ne kadar sevdiğimizi göstermenin güzel bir yoludur. Şimdi sen de bir arkadaşına teşekkür etmek ister misin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık hakkında konuşurken teşekkür etmenin ne kadar önemli olduğunu gördük. Şimdi, sıra geldi arkadaşlarımızı desteklemeye. Bir arkadaşın zor bir durumda olduğunda, ona destek olmak çok önemlidir. Onun yanında olduğunu hissettirmek, arkadaşlığınızı daha da güçlü kılar. Destek olmak, arkadaşlığın temel taşlarından biridir."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir arkadaşını desteklemek için ona cesaret verici sözler söyleyebilirsin. 'Bunu yapabilirsin!' ya da 'Yanındayım!' gibi cümleler, arkadaşının kendini daha iyi hissetmesini sağlar. Onunla birlikte zaman geçirerek ve onu dinleyerek de destek olabilirsin. Destek olmak, arkadaşlığınızı daha güçlü hale getirir."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, bir arkadaşını desteklemek için bir şeyler yapmaya ne dersin? Ona güzel bir söz söyleyebilir ya da birlikte bir şeyler yapmayı teklif edebilirsin. Unutma, senin desteğin onun için çok değerli! Arkadaşlarını desteklemek, onları mutlu eder ve seni harika bir arkadaş yapar. Bunu yapabilirsin!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün, arkadaşlık hakkında çok şey öğrendik. Gülümsemek, paylaşmak, dinlemek, teşekkür etmek ve destek olmak, arkadaşlığımızı güçlü kılan şeylerdir. Seninle bu yolculuğa çıkmak çok keyifliydi ve senin harika bir arkadaş olduğunu biliyorum. Şimdi, öğrendiklerini arkadaşlarınla paylaşma zamanı. Bir sonraki buluşmamıza kadar, kendine iyi bak ve arkadaşlarınla harika zaman geçir!"
+    }
+  ],
+  "title": "Sunny'ın Friendship Hikayesi"
+}

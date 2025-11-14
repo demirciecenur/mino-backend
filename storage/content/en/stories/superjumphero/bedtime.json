@@ -1,0 +1,98 @@
+{
+  "id": "super_jump_hero_bedtime_story",
+  "title": "Super Jump Hero's Bedtime Story",
+  "character": "Super Jump Hero",
+  "topic": "bedtime",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little adventurers! It's me, Super Jump Hero, here to guide you through a magical bedtime journey. Are you excited? Tonight, we're going to explore the wonderful world of dreams and relaxation. Together, we'll learn how to calm down and get ready for a good night's sleep. So, grab your favorite stuffed animal and let's get cozy. It's going to be a super fun adventure!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about why bedtime is so important. Just like how we need to recharge our toys, our bodies need to rest too. Sleeping helps us grow strong and keeps our minds sharp for more adventures tomorrow. Imagine it as a magical time when your dreams come alive and take you on exciting journeys. So, getting ready for bed is like preparing for a nighttime adventure. Isn't that amazing?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn how to get ready for bed together. First, we can start by picking up our toys, like tiny superheroes cleaning up after a busy day of saving the world. Next, it's time to brush our teeth, making them sparkle like the stars in the night sky. Then, we put on our comfy pajamas, which are like our superhero suits for sleeping. These little steps help us prepare for a restful night."
+    },
+    {
+      "id": "scene_3",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Now, let's do a fun activity together. We're going to take three big, calm breaths to help our bodies relax. Ready? Breathe in slowly through your nose, and then breathe out gently through your mouth. Let's do that again, one more time, and feel how peaceful it is. Great job! Breathing like this helps us feel calm and ready for sleep. Can you feel your body getting sleepy?"
+    },
+    {
+      "id": "scene_4",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember how we talked about dreams? Well, dreams are like little stories that our minds create while we sleep. They can be about anything you imagine, like flying through the sky or exploring the deep ocean. It's always a surprise what you'll dream about next. Isn't it exciting to think about where your dreams might take you tonight? Now, let's see what other bedtime routines we can explore."
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job getting ready for bed! Sometimes, we can read a story or listen to a lullaby to help us relax even more. Do you have a favorite bedtime story? Reading or listening to a story is like going on a mini-adventure before we drift off to sleep. It's a wonderful way to end the day and start dreaming. Keep up the great work, little hero!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's talk about another important part of bedtime: saying goodnight to our family. It's like giving a big hug to everyone you love, letting them know you care. You can say goodnight to your toys, too, so they can get some rest. It's a special moment that helps us feel safe and loved before we close our eyes. Now, let's practice saying goodnight together. Ready?"
+    },
+    {
+      "id": "scene_7",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Here's a fun idea: let's count the stars in the sky before we sleep. Imagine the stars are twinkling just for you, wishing you sweet dreams. Let's count together: one, two, three, four, five. Counting stars is like a magical lullaby that helps us feel calm and sleepy. Can you think of any other bedtime traditions that help you feel cozy?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Did you know that having a bedtime routine helps our bodies know it's time to sleep? It's like a signal that tells us to slow down and relax. When we follow our bedtime steps, it makes falling asleep easier and more peaceful. Isn't that wonderful? Now, let's see what else we can do to make bedtime special."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite bedtime toy or blanket? Something that makes you feel warm and safe as you drift off to sleep? Having a special toy or blanket can be like having a bedtime buddy. They keep us company as we dream. What does your favorite bedtime buddy look like? I'd love to hear about it!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "One last thing before we say goodnight: let's imagine our perfect dream. Close your eyes and picture something wonderful, like a magical land where everything is made of candy, or a forest where friendly animals play. Imagining happy things helps us drift into a peaceful sleep. What will you dream about tonight? It's like creating your own bedtime story."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You've done an incredible job getting ready for bed! Remember, sleep is your superpower that helps you grow and be ready for more adventures. Every night is a chance to recharge and dream big. You're a bedtime hero, and I know you'll have the sweetest dreams. Keep up the great work, and enjoy your magical dreamland!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "As we get ready to say goodnight, let's remember all the fun we've had today. From playing games to learning new things, each day is an adventure. It's like a storybook with new chapters waiting to be written. Tomorrow is another chance to explore and discover. Are you excited about what tomorrow will bring? I can't wait to hear all about it!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Now it's time for me to say goodnight, little adventurer. I hope you have the most wonderful dreams and wake up feeling refreshed and ready for a new day. Remember, you're never alone in your dreams—I'm always cheering you on. Sweet dreams, and I'll see you for more adventures soon. Goodnight, my brave little hero!"
+    }
+  ]
+}

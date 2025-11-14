@@ -1,0 +1,16 @@
+.env
+venv/
+firebase-service-account.json
+mino-mobile-app-firebase-firebase-adminsdk-fbsvc-53e901a2d8.json    
+
+.DS_Store
+**/__pycache__/
+
+*GoogleService-Info.plist*
+
+*firebase-service-account.json*
+
+# Storage directories (too large for git)
+local_audio_storage/
+characters/
+# Note: storage/ is included in git for content files

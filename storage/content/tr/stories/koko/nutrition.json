@@ -1,0 +1,98 @@
+{
+  "id": "koko_nutrition_story",
+  "character": "Koko",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Koko. Bugün seninle beslenme hakkında harika bir yolculuğa çıkacağız. Sağlıklı beslenmek neden önemli, hiç merak ettin mi? Haydi birlikte bu heyecan verici konuyu keşfedelim! Hazır mısın? Seni çok merak ediyorum. O zaman başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme, vücudumuzun güçlü ve sağlıklı kalması için çok önemlidir. Her gün yediğimiz yiyecekler vücudumuza enerji verir ve bizi güçlü yapar. Tıpkı oyuncaklarımızın çalışabilmesi için pile ihtiyaç duyması gibi, bizim de enerjiye ihtiyacımız var. Sağlıklı yiyecekler yemek, gün boyunca oyun oynarken daha enerjik olmamızı sağlar. Peki hangi yiyecekler sağlıklıdır, biliyor musun?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Sebzeler ve meyveler, sağlıklı beslenmenin en önemli parçalarından biridir. Onlar bize vitamin ve mineraller verir ve böylece daha sağlıklı büyümemize yardımcı olur. Havuçlar gözlerimize iyi gelir, elmalar ise dişlerimizi güçlü yapar. Her gün farklı renklerde sebzeler ve meyveler yemeye çalışmalıyız. Hadi bunu bir oyun gibi düşünelim: Her gün gökkuşağının tüm renklerini tabağımıza koyabilir miyiz?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika işler yapıyorsun! Şimdi biraz da süt ve süt ürünlerinden bahsedelim. Süt, peynir ve yoğurt gibi yiyecekler kemiklerimizi güçlü yapar. Her gün bir bardak süt içmek, büyüyen vücudumuz için çok faydalıdır. Sen de süt içmeyi sever misin? Denemek istersen, sütlü bir içecek yapıp tadına bakabiliriz."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi biraz da protein kaynaklarına bakalım. Et, balık, yumurta ve fasulye gibi yiyecekler vücudumuzun kaslarını güçlendirir. Bu yiyecekler, tıpkı bir inşaatçı gibi vücudumuzdaki hasarları onarır ve bizi güçlü yapar. Her gün bir öğünde bu yiyeceklerden birini yemeye çalışmalıyız. Senin en sevdiğin protein kaynağı hangisi?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Karbonhidratlar da vücudumuz için çok önemlidir. Ekmek, makarna ve pirinç gibi yiyecekler bize enerji verir. Tıpkı bir arabanın benzinle çalışması gibi, bizim de enerjik olmamız için karbonhidratlara ihtiyacımız var. Ancak, çok fazla yememeye dikkat etmeliyiz, dengeli olmak önemli. Her gün yeterli miktarda karbonhidrat almak için farklı yiyecekler deneyebiliriz."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Hangi yiyeceklerin sana daha çok enerji verdiğini fark ettin mi? Belki de kahvaltıda yediğin bir şey seni daha enerjik yapmıştır. Bir düşün bakalım, hangi yiyecekler seni mutlu ve enerjik yapıyor? Cevabını duymayı çok isterim!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda enerji veren yiyeceklerden bahsettik. Şimdi biraz suyun öneminden bahsedelim. Vücudumuzun büyük bir kısmı sudan oluşur ve su içmek bizi sağlıklı tutar. Her gün yeterince su içmek, oyun oynarken daha iyi hissetmemizi sağlar. Susadığında hemen bir bardak su içmeyi unutma, tamam mı?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tatlılar ve şekerli yiyecekler de var tabii. Onlar da çok lezzetli ama fazla yememek gerekiyor. Çünkü çok fazla şeker yemek dişlerimize zarar verebilir. Arada bir tatlı yemek güzel ama her gün değil. Sağlıklı bir atıştırmalık olarak meyve tercih edebiliriz. Senin en sevdiğin meyve hangisi?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Beslenme konusunda çok şey öğrendik. Şimdi öğrendiklerimizi uygulama zamanı. Her gün farklı yiyecekler yiyerek sağlıklı bir tabak oluşturabiliriz. Sen de denemek ister misin? Eminim harika bir iş çıkaracaksın. Unutma, dengeli beslenmek vücudumuzu güçlü ve sağlıklı tutar."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte bir beslenme planı yapalım. Sabah kahvaltısında neler yemeliyiz, sence? Belki bir dilim tam buğday ekmeği, biraz peynir ve bir kâse yoğurt olabilir. Öğle yemeğinde ise sebzeli bir tabak ve yanında biraz protein alabiliriz. Akşam yemeğinde ise hafif ama besleyici bir şeyler tercih edebiliriz. Ne dersin, denemek ister misin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme konusunda öğrendiklerimizi uygulamak çok eğlenceli olacak. Her gün farklı yiyecekler deneyerek kendi sağlıklı tabaklarımızı oluşturabiliriz. Bu, aynı zamanda yeni tatlar denemek için harika bir fırsat. Sen de yeni tatlar keşfetmeyi sever misin? Belki de hiç denemediğin bir yiyecek senin favorin olabilir."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Unutma, sen çok güçlüsün ve sağlıklı seçimler yapabilirsin. Her gün sağlıklı besinler seçerek kendine en iyi şekilde bakabilirsin. Bu yolculukta seninle birlikte olmak çok güzeldi. Her zaman senin yanında olacağım ve seni destekleyeceğim. Harika işler başardın, tebrikler!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün seninle beslenme hakkında çok şey öğrendik. Umarım senin için eğlenceli ve öğretici olmuştur. Her zaman sağlıklı seçimler yapmaya devam et, olur mu? Şimdi vedalaşma zamanı, ama unutma, her zaman buradayım. Bir sonraki maceramızda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Koko'ın Nutrition Hikayesi"
+}

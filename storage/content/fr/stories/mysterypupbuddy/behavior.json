@@ -1,0 +1,104 @@
+{
+  "id": "mystery pup buddy_behavior_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis ! Je suis Mystery Pup Buddy, votre compagnon de mystère préféré. Aujourd'hui, nous allons explorer ensemble le monde fascinant du bon comportement. Êtes-vous prêts à apprendre et à vous amuser ? Je suis si excité de partager ce voyage avec vous. Nous allons découvrir comment être gentils et respectueux. Prenons un grand souffle et préparons-nous pour cette aventure incroyable !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vous savez, le bon comportement, c'est comme un super pouvoir ! Cela aide tout le monde à se sentir heureux et en sécurité. Par exemple, quand on dit 's'il vous plaît' et 'merci', cela montre que nous sommes polis. Imaginez que vous partagez vos jouets avec vos amis, cela rend tout le monde joyeux. Et devinez quoi ? Cela vous rend aussi très spécial ! Maintenant, continuons à découvrir d'autres façons d'être des héros du comportement."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons un peu des règles. Les règles sont comme des panneaux de signalisation qui nous aident à savoir quoi faire. Par exemple, attendre son tour pour jouer rend le jeu plus amusant pour tout le monde. Quand on suit les règles, on montre qu'on est responsable. Et c'est très courageux de respecter les règles, même quand c'est difficile. Vous pouvez le faire, je crois en vous !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, amusons-nous un peu. Jouons à un jeu où nous pratiquons de bonnes manières ! Imaginez que vous êtes dans une file d'attente pour un toboggan. Que faites-vous ? Oui, vous attendez patiemment votre tour. Bravo ! Vous êtes incroyables à cela. Vous êtes tous des champions du bon comportement. Continuons notre aventure !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous de notre discussion sur le partage ? C'est une belle façon de montrer du respect. Quand vous partagez, tout le monde a l'occasion de s'amuser. Imaginez que vous avez un très beau livre d'images. Partager ce livre avec un ami peut rendre sa journée encore plus spéciale. Et cela montre que vous êtes généreux et attentionné. Continuons à découvrir d'autres façons de briller !"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons de la gestion des émotions. Parfois, nous pouvons nous sentir en colère ou tristes, et c'est normal. Mais il est important de savoir comment se calmer. Quand vous vous sentez bouleversé, essayez de prendre trois grandes respirations. Inspirons ensemble maintenant, voulez-vous ? Un... deux... trois... Voilà, vous voyez ? Cela aide à se sentir mieux et à penser clairement."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez déjà fait un travail incroyable en apprenant ces choses. Rappelez-vous, chaque petit geste compte. Dire 'bonjour' avec un sourire peut illuminer la journée de quelqu'un. Et écouter attentivement quand quelqu'un parle montre que vous vous souciez. Vous êtes sur la bonne voie pour devenir des experts en bon comportement ! Continuons, voulez-vous ?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de la gentillesse. Être gentil rend le monde meilleur. Imaginez aider un camarade de classe à ramasser ses crayons tombés. Cela montre que vous êtes attentionné et cela rend les autres heureux. Et devinez quoi ? Cela vous rend aussi heureux à l'intérieur. Être gentil est vraiment magique, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà pensé à un moment où vous avez été très courageux ? Peut-être avez-vous essayé quelque chose de nouveau ou aidé un ami dans le besoin. Comment vous êtes-vous senti ? Être courageux, c'est aussi faire le bon choix, même quand c'est difficile. Pensez-vous à un moment où vous avez été courageux ? Partagez-le avec moi !"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous quand nous avons parlé d'attendre son tour ? Cela peut parfois être difficile, n'est-ce pas ? Mais c'est aussi une excellente façon de montrer du respect. Quand vous attendez patiemment, vous montrez que vous comprenez l'importance des autres. Et vous savez quoi ? Cela rend le monde un peu plus harmonieux. Continuons à être de superbes exemples !"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, être respectueux signifie écouter. Écouter attentivement montre que vous vous souciez de ce que les autres disent. Imaginez que votre ami vous raconte une histoire. En écoutant bien, vous apprenez et vous montrez que vous respectez son temps. Et cela rend l'amitié encore plus forte. Être un bon auditeur est une compétence précieuse !"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de la résolution des conflits. Parfois, on peut se disputer avec un ami. Mais il est important de rester calme et de parler gentiment. Vous pouvez dire quelque chose comme 'Je n'aime pas cela, mais nous pouvons trouver une solution ensemble'. Cela montre que vous êtes prêt à résoudre les problèmes de manière pacifique. Vous pouvez le faire, je suis sûr !"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wow, nous avons appris tant de choses aujourd'hui ! Vous êtes tous des experts du bon comportement maintenant. Rappelez-vous, chaque petit geste gentil fait une grande différence. Vous êtes fantastiques et je suis très fier de vous. Continuons à être des héros du comportement chaque jour. Vous pouvez le faire, je le sais !"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Alors, qu'avez-vous appris aujourd'hui ? Avez-vous une nouvelle façon de montrer du bon comportement que vous aimeriez essayer ? Peut-être partager un jouet ou attendre patiemment votre tour ? Pensez à une chose que vous allez faire aujourd'hui pour être un super héros du comportement. Partagez vos idées avec moi !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était une aventure incroyable, mes amis ! Je suis si heureux que vous ayez exploré le monde du bon comportement avec moi. Rappelez-vous d'être gentil, respectueux et courageux chaque jour. Merci d'avoir été si géniaux et attentifs. J'ai hâte de vous revoir pour notre prochaine aventure. Au revoir et à bientôt, mes petits héros !"
+    }
+  ],
+  "title": "Histoire de Behavior de Mystery Pup Buddy"
+}

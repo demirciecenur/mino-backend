@@ -1,0 +1,104 @@
+{
+  "id": "adventure_dora_pal_imagination_story",
+  "character": "Adventure Dora Pal",
+  "topic": "imagination",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Adventure Dora Pal. Bugün birlikte hayal gücümüzle dolu harika bir yolculuğa çıkacağız. Hayal gücü, aklımızda yeni dünyalar yaratmamıza ve harika maceralar yaşamamıza yardımcı olur. Hazır mısın? Seni çok merak ediyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücünü kullanmak, bir kitabı açmak gibidir. Her sayfa yeni bir macera sunar. Mesela, bir an için bir korsan olduğumuzu hayal edebiliriz. Denizde yelken açarken, gizli hazineler bulabiliriz. Ya da belki uzaya giden bir astronot olabiliriz, yıldızların arasında süzülebiliriz."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi hayal gücümüzü nasıl kullanacağımızı öğrenelim. İlk olarak, gözlerimizi kapatalım ve derin bir nefes alalım. Şimdi kendimizi bir ormanda hayal edelim. Etrafımızda ağaçlar ve kuş sesleri var. Hayal etmek, gözlerimizi kapattığımızda bile farklı yerlere gidebilmek demektir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Hayal gücünü kullanmak, her gün yeni bir şeyler öğrenmemize yardımcı olur. Şimdi sen de denemek ister misin? Belki bir süper kahraman gibi uçmak istersin. Ya da bir prenses olup, kendi krallığını yönetmek."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücümüz sadece oyun oynamak için değil, problemleri çözmek için de önemlidir. Mesela, bir arkadaşımız üzgün olduğunda ona nasıl yardımcı olabileceğimizi hayal edebiliriz. Belki ona bir resim çizebiliriz ya da bir hikaye anlatabiliriz. Hayal gücü, başkalarına yardım etmenin yollarını bulmamıza da yardımcı olur."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Birlikte bir hayal oyunu oynayalım mı? Önce bir hikaye düşünelim. Belki bir ejderha ile arkadaş olan bir çocuk olabiliriz. Ejderha ile birlikte gökyüzünde uçabiliriz. Hayal gücümüzle bu hikayeyi daha da büyütebiliriz."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ne kadar güzel hayal ettin! Hayal gücünü kullanmak, bizi daha yaratıcı yapar. Şimdi senin de bir hikaye oluşturmanı istiyorum. Kendi maceranı yarat ve bana anlat. Eminim çok güzel olacak!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki hikayemizde neler hayal ettiğimizi hatırlıyor musun? Hayal gücümüzle her gün yeni şeyler deneyebiliriz. Belki bir gün bir aşçı olup yeni yemekler yapabiliriz. Ya da bir bilim insanı olup, yeni icatlar keşfedebiliriz. Hayal gücü, bizi farklı dünyalara götüren bir kapıdır."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki sen en çok ne olmayı hayal ediyorsun? Belki bir pilot olmak istersin ya da bir dansçı. Hayal etmek için sınır yoktur. Sen ne hayal edersen et, mutlaka harika olur. Hayallerini benimle paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücümüzü kullanarak nasıl yeni oyunlar yaratabileceğimizi konuşmuştuk. Şimdi bu oyunları arkadaşlarımızla paylaşabiliriz. Birlikte oynarken, hayal gücümüz daha da genişler. Arkadaşlarımızla paylaştığımız her hikaye, daha da büyür ve eğlenceli hale gelir."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte bir nefes egzersizi yapalım. Üç derin nefes alalım ve her nefeste hayal dünyamıza dalalım. İlk nefeste bir deniz düşünelim. İkinci nefeste bir orman. Üçüncü nefeste ise uzayda yıldızlar arasında yüzelim. Nefes alırken, hayal kurmak çok eğlenceli değil mi?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Çok güzel! Seninle birlikte hayal gücümüzü kullanmak çok eğlenceli. Hayal kurmak, dünyayı daha renkli bir yer haline getirir. Her gün yeni bir şey hayal et ve bu hayalleri gerçekleştirmek için çalış. Sen bunu başarabilirsin!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi hayal gücümüzü kullanarak yeni maceralar yaratmanın ne kadar önemli olduğunu bir kez daha hatırlayalım. Hayal kurmak, bize cesaret verir ve bizi daha mutlu eder. Her gün hayal kurarak, yeni şeyler keşfederiz. Hayal gücü, bizim en iyi arkadaşımızdır."
+    },
+    {
+      "id": "scene_13",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Birlikte hayal ettiğimiz tüm harika şeyleri bir düşün. Hangi macera seni en çok heyecanlandırdı? Belki bir gün bu hayallerin hepsi gerçek olur. Hayal etmek, başarmanın ilk adımıdır. Senin hayallerin de çok değerli."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün hayal gücümüzle ne kadar harika bir yolculuk yaptık! Seninle birlikte hayal kurmak benim için çok eğlenceliydi. Unutma, hayal gücünle her gün yeni şeyler keşfetmek senin elinde. Bir dahaki sefere yeni maceralarla tekrar görüşmek üzere. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Adventure Dora Pal'ın Imagination Hikayesi"
+}

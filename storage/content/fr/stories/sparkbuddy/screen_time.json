@@ -1,0 +1,104 @@
+{
+  "id": "spark_buddy_temps_d'écran_sécurité_numérique_utilisation_de_la_technologie_habitudes_saines_d'écran_story",
+  "character": "Spark Buddy",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis ! Je suis Spark Buddy, votre ami électrique et joyeux. Aujourd'hui, nous allons partir ensemble dans un voyage passionnant pour découvrir comment utiliser les écrans de manière sûre et amusante. Êtes-vous prêts ? Je suis tellement curieux de savoir comment vous utilisez la technologie ! Allons-y ensemble dans cette aventure !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les écrans, c'est comme des fenêtres magiques vers le monde entier. Avec eux, on peut apprendre de nouvelles choses, jouer à des jeux amusants et même parler à des amis qui sont loin. Mais il est important de les utiliser correctement pour qu'ils soient toujours amusants et sécurisés. Savez-vous pourquoi c'est important de ne pas passer trop de temps devant les écrans ? C'est parce qu'il y a tellement d'autres choses amusantes à faire aussi, comme jouer dehors et lire des livres."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Alors, comment pouvons-nous utiliser les écrans de manière intelligente ? D'abord, il faut se souvenir de faire des pauses. Après avoir joué ou regardé quelque chose, c'est bien de se lever et de bouger un peu. Cela aide notre corps à rester en forme et notre esprit à rester vif. Vous pouvez faire quelques sauts ou peut-être une danse rigolote. Essayons ensemble, un, deux, trois, sautez !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Maintenant, parlons de la sécurité numérique. Quand on utilise la technologie, il est important de rester en sécurité, tout comme quand on traverse la rue. Il ne faut jamais partager son nom complet, son adresse ou d'autres informations personnelles. Vous pouvez demander de l'aide à un adulte si vous n'êtes pas sûrs. Vous êtes vraiment super à apprendre tout ça !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous de ce que nous avons dit sur les pauses. C'est aussi une bonne idée de choisir des moments dans la journée pour utiliser les écrans. Peut-être après avoir fini les devoirs ou avant le dîner. Cela aide à garder un bon équilibre entre le temps passé devant l'écran et les autres activités. Que diriez-vous de faire un dessin ou de construire un château de blocs pendant vos pauses ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Maintenant, pensez à vos jeux préférés. Est-ce qu'ils vous font sourire et rire ? C'est important de choisir des jeux qui sont amusants et qui vous apprennent de nouvelles choses. Il y a des jeux qui vous aident à compter, à lire ou même à apprendre de nouvelles langues. N'est-ce pas génial ? Explorons ensemble ces jeux éducatifs !"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand vous regardez des vidéos, il est bien de choisir des vidéos qui sont adaptées à votre âge. Cela veut dire qu'elles sont faites spécialement pour les enfants et qu'elles sont sûres et amusantes. Vous pouvez demander à vos parents de vous aider à choisir les meilleures vidéos. Ainsi, vous êtes sûrs de toujours regarder quelque chose de bien et de sécurisant."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail incroyable en apprenant tout cela ! N'oubliez pas que vous pouvez toujours poser des questions si vous n'êtes pas sûrs de quelque chose. Les adultes sont là pour vous aider et vous guider. Maintenant, prenons un moment pour respirer profondément. Inspirez... et expirez... Parfait !"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, quels sont vos moments préférés pour utiliser les écrans ? Est-ce que c'est le matin, l'après-midi ou le soir ? C'est amusant de réfléchir à tout ça. Peut-être que vous aimez regarder des dessins animés le matin ou jouer à des jeux l'après-midi. Partagez vos idées avec moi !"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après avoir parlé de tout ça, vous savez maintenant comment utiliser les écrans de manière sûre et amusante. N'oubliez pas de toujours demander de l'aide à un adulte si vous avez besoin. Vous êtes comme de vrais petits explorateurs de la technologie ! Chaque jour, vous apprenez quelque chose de nouveau et c'est fantastique."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour finir, rappelez-vous de faire d'autres activités amusantes en dehors des écrans. Vous pouvez dessiner, danser, chanter ou même faire du sport. Toutes ces activités sont bonnes pour votre corps et votre esprit. Et elles vous donnent plein d'énergie, tout comme moi, Spark Buddy !"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Je suis si fier de tout ce que vous avez appris aujourd'hui ! Vous êtes incroyables et pleins d'énergie. Continuez à explorer et à découvrir de nouvelles choses chaque jour. Je suis toujours là pour vous aider et vous encourager. Ensemble, nous pouvons faire de grandes choses !"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Maintenant, vous savez comment utiliser les écrans de manière amusante et sécurisée. Vous pouvez en parler à vos amis et leur montrer tout ce que vous avez appris. Cela peut être comme un jeu où vous partagez vos conseils et vos astuces. Qu'en pensez-vous ?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et si nous faisions un petit jeu maintenant ? Pouvez-vous deviner combien de temps vous passez devant les écrans chaque jour ? C'est comme un petit défi amusant. Comptez avec moi, un, deux, trois... C'est amusant de réfléchir à tout ça, n'est-ce pas ?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce temps avec moi, mes petits amis. Vous avez été formidables et pleins d'énergie. N'oubliez pas que je suis toujours là pour vous aider à apprendre et à vous amuser. Prenez soin de vous et amusez-vous bien avec vos amis et votre famille. À bientôt pour une nouvelle aventure !"
+    }
+  ],
+  "title": "Histoire de Screen Time de Spark Buddy"
+}

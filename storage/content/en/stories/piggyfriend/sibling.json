@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_sibling_story",
+  "character": "Piggy Friend",
+  "topic": "sibling",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friends! I'm Piggy Friend, and today we're going to talk about something very special—our siblings! Do you have a brother or sister? Siblings are like our very first best friends. We get to share so many fun times together. Are you ready to learn about all the wonderful things we can do with our siblings? Let's start our exciting journey together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Siblings can be a lot of fun to play with. They are always there to play games and have adventures with us. Do you enjoy playing games with your sibling? Maybe you like to play tag or hide and seek. Playing together helps us learn to share and take turns. It's always more fun when we include everyone in our games, don't you think?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about sharing. Sharing is when we let someone else use our toys or play with us. It's a nice way to show our siblings that we care. When we share, it makes everyone happy and helps us make more friends. Next time you're playing, try sharing your favorite toy with your sibling. You'll see how much fun it can be!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job! You're doing so well at learning about sharing. Remember, when we share, it's like giving a little gift to our sibling. Imagine how happy they feel when you let them join in on the fun. Would you like to practice sharing with me right now? Let's pretend we're sharing our favorite toys. You're amazing at this!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about playing games together? Let's think about some games we can play with our siblings. How about building a fort with blankets and pillows? Or maybe you like to pretend you're explorers on a big adventure. Playing together helps us use our imagination and creativity. What kind of games do you like to play with your sibling?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever built something really tall with your sibling, like a block tower? Working together to build something is a great way to have fun. What do you like to build with your sibling? Do you make castles, towers, or maybe a house for your toys? Building together teaches us how to work as a team. Isn't it exciting to see how tall we can make it?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's talk about helping each other. Sometimes our siblings might need a little help with something, like picking up toys or finding a missing shoe. When we help our siblings, it shows that we care about them. Helping each other can make chores more fun, and we finish them faster. Do you remember a time when you helped your sibling with something?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try something fun together. How about we practice helping by picking up our toys? Imagine we're cleaning up our playroom. We can put the blocks in one box and the dolls in another. Helping each other makes it quicker and more fun. Are you ready to help clean up? Let's count to five while we tidy up!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful job! You did a fantastic job helping. Remember, every time we help our sibling, we're making them feel special. It feels good to know we can make someone happy just by lending a hand. You're a wonderful helper, and your sibling is lucky to have you. Keep up the great work!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about saying nice things to our siblings. Compliments are like little gifts that make people smile. When we tell our siblings they're doing a great job or that we love playing with them, it makes them feel happy. Do you remember a time when someone said something nice to you? How did it make you feel?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever given your sibling a compliment? It's a great way to show them that you care. What nice things can you say to your sibling today? Maybe you can tell them they did a good job at something, or that you love playing with them. Let's think of one nice thing we can say to our sibling right now. Can you do that?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Siblings are also great for sharing secrets and whispers. Sometimes, we might have a funny joke or a little secret we want to share. Sharing secrets with our siblings helps us build a special bond. Do you have a funny joke you like to tell your sibling? How about we share a giggle together right now?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about playing games and sharing? It's also important to remember to say 'thank you' when our siblings are kind to us. Saying 'thank you' shows that we appreciate them. Next time your sibling shares a toy or helps you, don't forget to say those magic words. Can you think of a time when you felt thankful for your sibling?"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You've learned so much today about being a great sibling! Remember, siblings are like our forever friends. By playing, sharing, and helping each other, we make our bond stronger. You can always be a great sibling by being kind and thoughtful. Keep up the amazing work, and always remember how special you are!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time for us to say goodbye now. I hope you had fun learning about siblings with me, Piggy Friend. Remember all the wonderful things you can do with your sibling. Keep being kind, sharing, and playing together. Thank you for spending time with me today. Goodbye, little friends, until next time!"
+    }
+  ],
+  "title": "Piggy Friend's Sibling Story"
+}

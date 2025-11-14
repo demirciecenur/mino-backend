@@ -1,0 +1,104 @@
+{
+  "id": "tiko_behavior_story",
+  "character": "Tiko",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Tiko, and today we're going on an amazing journey about behavior. Are you ready for some fun? We're going to learn all about how to be the best we can be. It's going to be exciting, and I can't wait to explore this with you. So, let's jump into our adventure and discover all the wonderful ways we can behave!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, do you know what behavior means? Behavior is how we act and how we treat others. It's like when you listen to your parents or share your toys with friends. Good behavior helps everyone feel happy and safe. Just like how we use our manners when we say 'please' and 'thank you.' Isn't it wonderful to make others smile with our actions?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's talk about some ways we can show good behavior every day. One way is by cleaning up our toys after playing. This helps keep our space tidy and shows responsibility. Another way is by listening carefully when someone is speaking. It shows that we care about what they have to say. We can also be kind by sharing, like offering a snack to a friend. These are just a few examples of positive behavior!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about behavior! Now, let's practice together. Can you think of a time when you showed good behavior? Maybe you helped a friend or were very polite. Remember, every little action counts, and you can be a behavior superstar! I'm so proud of you for trying your best. Let's keep going and discover more ways to be awesome!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about sharing? Sharing is a super important part of good behavior. When you share, it shows you're caring and thoughtful. Imagine you have a big box of crayons, and your friend wants to color too. By sharing, you both get to create beautiful pictures together. Isn't that a fun way to make more friends and have a great time?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's talk about following rules. Rules are like little guides that help us know what to do. They keep us safe and make sure everyone can enjoy their time. For example, waiting for your turn on the slide at the playground is a rule. It helps everyone play safely and have fun. Rules are everywhere, like in games, at home, and in school. Following them shows we care about others!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing amazing learning about behavior! Let's take a moment to practice a little exercise. Can you take three deep breaths with me? Ready? One, two, three. Breathing helps us feel calm and ready to make good choices. Whenever you feel upset or excited, remember to breathe. It's a simple way to stay cool and collected. You can do it, I believe in you!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's explore why it's important to be polite. Being polite means using kind words and actions. Saying 'please' when asking for something and 'thank you' when you receive it. These words make people feel appreciated and respected. Imagine how happy your family feels when you say 'good morning' with a smile. Being polite is like spreading sunshine wherever you go!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "What if we pretend we're on a big adventure? Imagine we're in a magical forest, and we need to follow the forest rules. One rule is to always stay on the path to keep safe. Another is to listen to the forest animals, like the wise owl who says, 'Be kind!' Following these rules makes our adventure fun and safe. Can you think of any other forest rules we might need?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever seen someone showing great behavior and thought, 'Wow, that's cool'? Maybe it was a friend sharing their lunch or someone helping a teacher. Seeing good behavior can inspire us to do the same. How does it feel when you do something nice for someone else? It feels pretty great, doesn't it? Would you like to try showing good behavior today?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's remember some of the fun ways we talked about showing good behavior. We can be helpful by cleaning up, polite by saying 'thank you,' and caring by sharing. Each of these actions makes the world a happier place. It's like being a superhero with invisible powers of kindness! Every time you choose good behavior, you're making a difference."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's practice a fun little game. Pretend you're a behavior detective on a mission. Look around your room and find three things you can do to show good behavior. Maybe you can organize your books, help a sibling, or draw a thank-you card. Being a behavior detective is fun and helps us think of new ways to be kind every day. Ready to find your clues?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing a fantastic job being a behavior detective! Remember, it's okay to make mistakes sometimes. What's important is that we learn and try again. Every day is a new chance to be better and brighter. You're growing and learning, and that's amazing. Keep up the great work, and always remember to be kind to yourself too!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "We've had such a fun time learning about behavior, haven't we? It's like a big adventure full of exciting discoveries. Remember, good behavior makes us feel proud and happy. It's something we can practice every day. Just like brushing our teeth or tying our shoes, it becomes a part of who we are. Let's keep exploring and discovering new ways to be amazing!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this wonderful journey about behavior. You've learned so much and done such a great job. Remember to keep practicing and being your best self every day. I'm so proud of you, and I can't wait to see what you do next. Until next time, keep smiling and being the amazing person you are. Goodbye, little friend!"
+    }
+  ],
+  "title": "Tiko's Behavior Story"
+}

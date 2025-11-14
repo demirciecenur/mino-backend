@@ -1,0 +1,98 @@
+{
+  "id": "spider_fighter_imagination_story",
+  "character": "Spider Fighter",
+  "topic": "imagination",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Spider Fighter, your friendly neighborhood hero. Today, we're going on an amazing journey all about imagination. Are you ready to explore the world inside your mind? Imagination is like a superpower we all have, just like my webs! Let's swing into this adventure and see where our imaginations can take us. I'm so excited to learn what you can dream up!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Imagination is a wonderful thing. It's like having a magic paintbrush in your mind, and you can paint anything you want. You can imagine being a brave knight, a speedy race car driver, or even a flying superhero like me! Just like when I imagine swinging through the city, you can imagine your own adventures. What would you create if you could dream up anything? Let's think about that together!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's learn how to use our imagination. Close your eyes for a moment and take a deep breath. Imagine you're in a big, colorful balloon floating up into the sky. Can you see all the fluffy clouds and feel the gentle breeze? This is how we use our imagination to create new worlds and exciting stories. It's like building a brand new playground in your mind!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job using your imagination! You can make anything happen in your mind. Remember, you can use your imagination anytime, like when you're playing with your toys or drawing pictures. It's a fun way to explore and create new things. Keep practicing, and soon you'll be an imagination expert! Let's see what else we can dream up together."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we imagined flying in a balloon? Let's take that adventure a little further. Imagine now that you're a tiny explorer, and you're visiting a land made entirely of candy! There are chocolate rivers and jellybean trees. How would it feel to walk on marshmallow clouds? Using your imagination, you can visit places that don't even exist in real life. Isn't that amazing?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Did you like imagining the candy land? Now, let's try something different. Picture yourself as a captain of a pirate ship sailing across the ocean. You can see dolphins jumping and seagulls flying. What treasures would you find on your journey? Imagination lets us explore the unknown and have adventures without ever leaving home. Let's keep sailing in our minds!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure by imagining a secret garden. In this garden, flowers sing and butterflies tell stories. What colors do you see? What songs do the flowers sing? In your imagination, anything is possible, and you can create a world where magic happens every day. Isn't it fun to think about all the possibilities? Let's keep imagining and see where it takes us next."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's try a little exercise. Imagine you're a superhero like me, with your own special powers. What would your powers be? Could you fly, or maybe talk to animals? Think about how you would use your powers to help people and make the world a better place. Just like how I use my webs to swing around the city, you can use your imagination to save the day!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're doing an amazing job using your imagination. Remember, there's no limit to what you can create in your mind. You can be anyone, go anywhere, and do anything. Keep dreaming big, little hero! I'm so proud of how you're exploring your imagination. Let's see what other adventures we can dream up together."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever imagined what it would be like to talk to animals? What would you ask a wise old owl or a playful dolphin? Using your imagination, you can have conversations with all sorts of creatures. What do you think they would say? It's fun to imagine and create new stories with your animal friends. Let's think about that for a moment."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's imagine one more adventure before we finish. Picture yourself as an astronaut exploring a distant planet. The sky is a different color, and there are strange, friendly creatures to meet. What would you discover on this new world? Imagination lets you travel to places beyond the stars, and there's always something new to find. Let's keep exploring together!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Did you enjoy being an astronaut? Now, let's think about how we can use our imagination every day. You can imagine fun games to play with your friends or stories to share at bedtime. Imagination makes everything more exciting and helps us see the world in a new way. Keep using your imagination, and you'll always have a magical world to explore."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember, your imagination is always with you. It's like a special friend that helps you create and discover new things. Whether you're at home, at school, or on the playground, you can always use your imagination to make life more fun. Keep dreaming and imagining, and you'll find new adventures every day. Let's keep our imaginations active and ready for anything!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time to say goodbye for now, but I hope you've enjoyed our adventure into imagination. Remember, you can always imagine new things and create your own stories. I'm so proud of you for dreaming big and using your imagination. Keep exploring and having fun, little hero! Until next time, keep swinging through your dreams with Spider Fighter. See you soon!"
+    }
+  ],
+  "title": "Spider Fighter's Imagination Story"
+}

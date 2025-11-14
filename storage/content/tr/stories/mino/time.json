@@ -1,0 +1,104 @@
+{
+  "id": "mino_time_story",
+  "character": "Mino",
+  "topic": "time",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mino. Bugün birlikte zaman hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Zamanın ne kadar ilginç ve önemli olduğunu keşfedeceğiz. Uzayın derinliklerinde bile zamanın nasıl işlediğini göreceksin. Bu maceraya başlamadan önce derin bir nefes alalım ve eğlencenin tadını çıkaralım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Zaman, tıpkı yıldızlar gibi sürekli hareket eden bir şeydir. Sabahları uyanıp güne başladığımızda, günün ilk ışıklarıyla zamanın nasıl ilerlediğini hissederiz. Peki, zamanın ne olduğunu hiç düşündün mü? Zaman, olayların sıralı bir şekilde gerçekleşmesine olanak sağlar. Örneğin, sabah kahvaltı yaparız, sonra oyun oynarız. İşte bu sıralama, zamanın bir parçasıdır."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, zamanın nasıl ölçüldüğünü öğrenelim. Saatler, günler ve haftalar gibi farklı zaman ölçüleri vardır. Bir saat, 60 dakikadan oluşur ve bir gün, 24 saattir. Bu ölçüler sayesinde günümüzü planlayabiliriz. Mesela, saat 8'de kahvaltı yapabiliriz ve saat 9'da oyun oynayabiliriz. Zamanı bu şekilde düzenlemek, günümüzü daha verimli kullanmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte bir oyun oynayalım mı? Şimdi bir saat çizelim. Saatin kocaman bir yuvarlak olduğunu hayal et. İçine 1'den 12'ye kadar sayılar yazalım. Harika! Şimdi bu saati kullanarak, hangi saatte neler yapabileceğimizi düşünelim. Mesela, saat 3'te bir kitap okuyabiliriz. Sen hangi saatte ne yapmayı seversin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Gün içinde farklı zaman dilimlerinde farklı şeyler yaparız. Örneğin, sabahları enerji doluyken oyun oynayabiliriz, öğleden sonra dinlenebiliriz. Her zaman dilimi, farklı aktiviteler için uygundur. Bu yüzden, zamanı iyi kullanmak önemlidir. Günün her saati, yeni bir macera için bir fırsattır. Sen de zamanını en iyi şekilde değerlendirmeye hazır mısın?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, zamanı nasıl daha iyi yönetebileceğimizi öğrenelim. Bunun için bir rutin oluşturabiliriz. Mesela, her sabah aynı saatte uyanmak ve dişlerimizi fırçalamak gibi. Rutinler, günümüzü daha düzenli ve kolay hale getirir. Böylece, yapmamız gereken şeyleri unutmadan zamanında yapabiliriz. Senin de bir rutinin var mı?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda rutinlerden bahsettik. Şimdi, bu rutinleri eğlenceli hale getirelim. Her gün aynı saatte bir şeyler yapmak, sıkıcı olabilir. Ama bunu bir oyun haline getirebiliriz. Mesela, sabahları diş fırçalarken bir şarkı söyleyebiliriz. Böylece, rutinlerimiz daha eğlenceli olur ve zamanın nasıl geçtiğini anlamayız bile!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkarıyorsun! Şimdi, birlikte biraz egzersiz yapalım. 1'den 5'e kadar sayalım ve her sayıda bir zıplayış yapalım. 1... 2... 3... 4... 5! İşte bu kadar! Zamanı bu şekilde kullanarak hem eğlenebilir hem de sağlıklı kalabiliriz. Sen de her gün bu tür egzersizler yapmayı dener misin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Zamanı anlamak, aynı zamanda sabırlı olmayı da öğretir. Bazen beklemek zor olabilir, değil mi? Ama beklerken yapabileceğimiz birçok şey var. Mesela, beklerken resim çizebilir veya bir hikaye dinleyebiliriz. Böylece, zamanın nasıl geçtiğini bile fark etmeyiz. Sabır, zamanla birlikte öğrenilen bir beceridir."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, zamanı daha iyi anlamamıza yardımcı olacak bir hikaye dinleyelim. Bir zamanlar, bir uzay gemisiyle uzak bir gezegene giden küçük bir astronot varmış. Bu astronot, her gün belirli saatlerde görevlerini yaparmış. Görevlerini zamanında bitirdiğinde, yeni maceralar için zamanı kalırmış. Bu hikaye bize, zamanı iyi kullanmanın önemini gösteriyor."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bir önceki hikayemizdeki astronot gibi, sen de zamanını nasıl kullanıyorsun? Gün içinde yapmayı en çok sevdiğin şey nedir? Oyun oynamak mı, yoksa resim yapmak mı? Belki de yeni şeyler öğrenmek hoşuna gidiyordur. Senin de gün içinde belirli saatlerde yaptığın şeyler var mı?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Zamanı iyi kullanmanın bir başka yolu da plan yapmaktır. Bir gün önce, ertesi gün yapacaklarımızı planlayabiliriz. Plan yapmak, bize ne zaman ne yapacağımızı hatırlatır. Bu sayede, hem eğlenceli şeyler yapabilir hem de görevlerimizi tamamlayabiliriz. Plan yapmak, zamanımızı daha verimli kullanmamızı sağlar."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, birlikte nefes alıp verelim. 3 kez derin nefes alalım ve verelim. Bu, hem rahatlamamıza hem de zamanı daha iyi hissetmemize yardımcı olur. 1... nefes al... ve ver... 2... nefes al... ve ver... 3... nefes al... ve ver... İşte bu kadar! Bu tür küçük egzersizler, gün içinde kendimizi daha iyi hissetmemizi sağlar."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnelerde öğrendiklerimizi hatırlayalım. Zamanın nasıl ölçüldüğünü, rutinlerin önemini ve zamanı nasıl eğlenceli hale getirebileceğimizi öğrendik. Artık zamanı daha iyi anlıyor ve kullanıyoruz. Her gün, yeni maceralar için bir fırsat sunar. Zamanı en iyi şekilde değerlendirmek senin elinde!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün seninle zaman hakkında harika şeyler keşfettik. Şimdi, öğrendiklerimizi uygulama zamanı! Unutma, her gün yeni bir macera için bir fırsat. Seni çok merak ediyorum ve bir sonraki maceramızda tekrar buluşmayı dört gözle bekliyorum. Şimdilik hoşça kal! Kendine iyi bak ve zamanı iyi kullan!"
+    }
+  ],
+  "title": "Mino'ın Time Hikayesi"
+}

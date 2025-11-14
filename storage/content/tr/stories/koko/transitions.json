@@ -1,0 +1,104 @@
+{
+  "id": "koko_transitions_story",
+  "character": "Koko",
+  "topic": "transitions",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Koko. Bugün seninle birlikte değişiklikler hakkında harika bir yolculuğa çıkacağız. Değişiklikler bazen korkutucu görünebilir, ama birlikte bunu güvenli ve eğlenceli hale getirebiliriz. Hazır mısın? Haydi başlayalım ve bu yolculukta neler keşfedeceğimizi görelim. Seni çok merak ediyorum!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Değişiklikler hayatın bir parçasıdır. Mesela, yeni bir okula başlamak veya farklı bir eve taşınmak gibi. Bu tür değişiklikler bazen bizi heyecanlandırabilir ama aynı zamanda biraz da korkutabilir. Ama merak etme, her yeni başlangıç seni daha güçlü yapar. Unutma, her değişiklik yeni bir maceradır ve sen bu maceraya hazırsın!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte değişikliklerle nasıl başa çıkabileceğimizi öğrenelim. İlk adım, değişikliğin ne olduğunu anlamaktır. Örneğin, oyuncaklarını toplamak gibi basit bir değişiklik bile olabilir. Bu değişiklikleri anlamak, onlarla başa çıkmamıza yardımcı olur. Ayrıca, değişiklikleri adım adım yapmak işimizi kolaylaştırır."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi, birlikte bir oyun oynayalım. Değişikliklerle başa çıkmak için güçlü bir plan yapalım. Örneğin, her sabah ilk iş olarak dişlerini fırçalamak gibi yeni bir rutin oluşturabilirsin. Bu küçük değişiklikler seni daha organize yapar ve yeni durumlara daha kolay uyum sağlamana yardımcı olur. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda yeni rutinler oluşturmayı öğrenmiştik. Şimdi, bu rutinleri günlük hayatımıza nasıl dahil edeceğimizi düşünelim. Mesela, sabahları kalktığında ilk iş olarak yatağını toplamak güzel bir alışkanlıktır. Bu tür küçük adımlar, gününü daha düzenli ve keyifli hale getirir. Hatırlıyor musun, her yeni alışkanlık seni daha güçlü yapar!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Şimdi, değişiklikler hakkında daha fazla düşünelim. Örneğin, bir arkadaşın taşındığında neler hissettiğini hatırlıyor musun? Bu tür değişiklikler duygularımızı etkileyebilir. Ancak, yeni arkadaşlar edinmek için bir fırsat olduğunu da unutmamalıyız. Her değişiklik yeni bir kapı açar ve seni yeni maceralara hazırlar."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Değişikliklerin getirdiği yeniliklere açık olmak önemlidir. Örneğin, yeni bir yemek denemek, farklı tatlar keşfetmek demektir. Bu tür deneyimler seni daha cesur yapar. Hatırlıyor musun, her yeni tat bir maceradır. Sen de bu maceraya katılmak ister misin? Haydi, birlikte deneyelim!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte bir nefes egzersizi yapalım. Üç derin nefes alalım ve nefes verirken tüm kaygılarımızı bırakalım. Bir, iki, üç... Harika! Bu tür rahatlama egzersizleri, değişiklikler karşısında daha sakin olmamıza yardımcı olur. Hadi, bu egzersizi her gün yapmayı unutma."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki nefes egzersizimizi hatırlıyor musun? Şimdi bu sakinliği günlük hayatımıza nasıl uygulayabileceğimizi düşünelim. Mesela, yeni bir sınıfa başladığında derin nefes alarak kendini daha iyi hissedebilirsin. Böylece yeni arkadaşlar edinmek daha kolay hale gelir. Unutma, her nefes alışı seni daha güçlü yapar."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Daha önce yaşadığın bir değişikliği hatırlıyor musun? Bu değişiklik seni nasıl etkiledi? Belki biraz korkutucu ya da heyecan vericiydi. Senin hikayeni duymak isterim. Hatırladığın bir anı paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Değişikliklerle başa çıkarken duygularımızı paylaşmak önemlidir. Mesela, üzüldüğümüzde ya da sevindiğimizde bunu birine anlatmak rahatlatıcı olabilir. Duygularımızı paylaşmak, değişiklikleri daha kolay atlatmamıza yardımcı olur. Unutma, her duygun değerlidir ve paylaşmak seni daha mutlu yapar. Hadi, duygularımızı özgürce ifade edelim!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Değişiklikler bazen zorlayıcı olabilir, ama sen çok güçlüsün! Her yeni durum, senin daha da büyümen ve güçlenmen için bir fırsattır. Mesela, yeni bir hobi edinmek, seni yeni yetenekler kazanmaya iter. Senin de yeni bir şey denemek istediğin bir an oldu mu? Hadi, birlikte keşfedelim!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte bir aktivite yapalım. Haydi, beşe kadar sayalım ve bu sırada yeni bir şey denemeyi düşünelim. Bir, iki, üç, dört, beş! Harika! Bu tür aktiviteler değişikliklere daha kolay uyum sağlamana yardımcı olur. Sen de bu tür oyunlar oynayarak kendini daha iyi hissedebilirsin."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki aktivitemizi hatırlıyor musun? Şimdi bu tür oyunları günlük hayatımıza nasıl dahil edebileceğimizi düşünelim. Mesela, her gün yeni bir oyun oynamak seni daha mutlu yapabilir. Bu tür eğlenceli aktiviteler, değişiklikleri daha keyifli hale getirir. Unutma, her oyun yeni bir macera demektir!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün seninle birlikte harika bir yolculuk yaptık. Değişikliklerin korkutucu olmadığını, aksine yeni maceralar sunduğunu öğrendik. Unutma, sen her zaman güçlüsün ve her değişiklikle başa çıkabilirsin. Şimdi veda etme zamanı, ama bir dahaki sefere seni yine bekliyor olacağım. Hoşça kal ve yeni maceralarda görüşmek üzere!"
+    }
+  ],
+  "title": "Koko'ın Transitions Hikayesi"
+}

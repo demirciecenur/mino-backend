@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_behavior_story",
+  "character": "Bubble Buddy",
+  "topic": "behavior",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Bubble Buddy, y estoy muy feliz de verte hoy. Vamos a embarcarnos en una aventura increíble para aprender sobre el comportamiento. ¿Estás listo para explorar conmigo? Será muy divertido y aprenderemos muchas cosas nuevas. Me encanta saber que estás tan emocionado como yo. ¡Vamos a empezar!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de lo que significa el buen comportamiento. El buen comportamiento es cuando hacemos cosas que son amables y ayudan a los demás. Por ejemplo, recoger tus juguetes después de jugar es un buen comportamiento. También es importante escuchar a tus padres y maestros cuando te hablan. ¿Sabías que cuando te portas bien, haces que todos a tu alrededor se sientan felices?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a aprender cómo podemos mejorar nuestro comportamiento, ¡como un equipo de superhéroes! Primero, podemos practicar decir 'por favor' y 'gracias'. Estas palabras mágicas muestran respeto y hacen sonreír a la gente. También podemos compartir nuestros juguetes con nuestros amigos. Compartir es una forma maravillosa de demostrar que te importa. ¿Puedes pensar en otra forma de mostrar buen comportamiento?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Estás haciendo un trabajo increíble aprendiendo sobre el buen comportamiento. Ahora, intentemos juntos una pequeña actividad. Vamos a contar hasta cinco mientras respiramos profundamente. Uno... dos... tres... cuatro... cinco. ¡Fantástico! Esto nos ayuda a calmarnos cuando estamos enojados o tristes. ¿Te sientes más tranquilo ahora?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos lo que aprendimos sobre escuchar. Escuchar con atención es una parte importante del buen comportamiento. Cuando alguien habla, podemos mirar a sus ojos y asentir con la cabeza para mostrar que entendemos. Esto hace que la persona se sienta escuchada y valorada. ¿Quieres intentar escuchar atentamente la próxima vez que alguien te hable?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora hablemos de seguir las reglas. Las reglas nos ayudan a mantenernos seguros y felices. Por ejemplo, en el parque, una regla podría ser no correr cerca de los columpios para evitar accidentes. Siguiendo las reglas, mostramos respeto por los demás. ¿Puedes pensar en una regla que tengas en casa o en la escuela?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eso es! Siguiendo las reglas y mostrando buen comportamiento, hacemos que nuestro mundo sea un lugar mejor. Imagínate si todos siguieran las reglas, ¡qué divertido y seguro sería! Cada uno de nosotros puede hacer una gran diferencia con pequeños gestos. ¡Puedes hacerlo! Estoy seguro de que serás un gran ejemplo para los demás."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablemos sobre cómo ser amable con los demás. Ser amable significa usar palabras dulces y ayudar a quienes lo necesitan. Por ejemplo, si ves a alguien triste, puedes ofrecerle un abrazo o decirle algo bonito. La amabilidad puede iluminar el día de alguien y hacer que se sienta especial. ¿Te gustaría ser un amigo amable?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas un momento en que alguien fue amable contigo? ¿Cómo te hizo sentir eso? Tal vez te sentiste feliz o agradecido. Ahora, piensa en cómo puedes ser amable con alguien hoy. ¿Qué podrías hacer para hacer sonreír a otra persona?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué ideas tan maravillosas tienes! Ser amable no solo hace feliz a los demás, también nos hace sentir bien por dentro. Ahora que has pensado en maneras de ser amable, ¿crees que puedes hacerlo todos los días? ¡Estoy seguro de que sí!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar un poco más. Imagina que estás en una fila esperando tu turno para jugar. Esperar pacientemente y no empujar es parte del buen comportamiento. Practiquemos contando hasta diez mientras esperamos. Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez. ¡Excelente trabajo!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos tanto sobre el buen comportamiento, podemos ser ejemplos para nuestros amigos. Cuando los demás vean cómo te comportas, querrán seguir tu ejemplo. Puedes ser un líder positivo en tu escuela o en casa. Recuerda siempre ser amable, seguir las reglas y escuchar. ¡Eres increíble!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Estoy tan orgulloso de ti por aprender sobre el buen comportamiento. Has hecho un trabajo fantástico, y estoy seguro de que harás grandes cosas con lo que has aprendido. Siempre recuerda que cada pequeño gesto cuenta y que puedes hacer del mundo un lugar mejor. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Antes de terminar nuestra aventura, quiero preguntarte algo más. ¿Qué es lo que más te gustó aprender hoy? ¿Fue sobre ser amable, escuchar, o seguir las reglas? Me encantaría saberlo. ¡Cuéntame!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un día fabuloso aprendiendo contigo. Estoy muy feliz de haber compartido esta aventura sobre el buen comportamiento. Espero que te diviertas practicando todo lo que aprendimos hoy. Recuerda, siempre estoy aquí para ayudarte y aprender contigo. ¡Hasta la próxima, amiguito! Cuídate mucho."
+    }
+  ],
+  "title": "Historia de Behavior de Bubble Buddy"
+}

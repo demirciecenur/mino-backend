@@ -1,0 +1,98 @@
+{
+  "id": "frost_friend_sid_transitions_story",
+  "character": "Frost Friend Sid",
+  "topic": "transitions",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Frostfreund Sid, und heute gehen wir auf eine spannende Reise über Übergänge. Weißt du, was ein Übergang ist? Das ist, wenn sich etwas ändert, wie wenn der Tag zur Nacht wird oder der Sommer zum Herbst. Bist du bereit, mehr darüber zu erfahren? Ich bin so neugierig auf dich und deine Abenteuer!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Übergänge passieren die ganze Zeit, auch wenn wir sie manchmal gar nicht bemerken. Zum Beispiel, wenn du morgens aufwachst und aus dem Bett kletterst, machst du einen Übergang vom Schlafen zum Wachsein. Spannend, oder? Und wenn du deine Spielsachen aufräumst und dich für das Abendessen fertig machst, ist das auch ein Übergang. Es sind diese kleinen Veränderungen, die unseren Tag besonders machen."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns über Übergänge sprechen, die dir vielleicht bekannt vorkommen. Wie das Zähneputzen vor dem Schlafengehen. Das ist ein Übergang von Spielen zu Entspannen. Warum ist das wichtig? Weil es deinem Körper hilft zu wissen, dass es bald Zeit ist, ins Bett zu gehen. Und wenn du morgens aufstehst und dein Gesicht wäscht, weiß dein Körper, dass es Zeit ist, den Tag zu beginnen. So helfen uns Übergänge, uns auf das nächste Abenteuer vorzubereiten."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wie wäre es, wenn wir jetzt zusammen einen Übergang üben? Stell dir vor, wir sind draußen und spielen im Sandkasten. Nun ist es Zeit, reinzugehen und zu malen. Lass uns gemeinsam bis fünf zählen, während wir unsere Spielsachen wegräumen. Eins, zwei, drei, vier, fünf! Super gemacht! Jetzt sind wir bereit für unser nächstes Abenteuer mit den Farben und Pinseln."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über das Wechseln vom Spielen zum Malen gesprochen haben? Das ist ein großartiges Beispiel für einen Übergang. Manchmal können diese Veränderungen schwer sein, besonders wenn man noch mitten im Spiel ist. Aber weißt du was? Jeder Übergang bringt uns etwas Neues und Spannendes. Vielleicht lernst du eine neue Farbe oder malst ein Bild, das du noch nie zuvor gemalt hast!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Übergänge können auch eine tolle Möglichkeit sein, etwas Neues zu lernen. Wenn du zum Beispiel in den Kindergarten gehst, machst du einen Übergang von zu Hause zu einem Ort, an dem du mit Freunden spielen und lernen kannst. Es kann am Anfang ein bisschen ungewohnt sein, aber bald wirst du viele neue Spiele und Lieder kennen. Und wenn du nach Hause kommst, kannst du all das Erlernte mit deiner Familie teilen."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über das Lernen gesprochen haben, lass uns überlegen, was wir tun können, wenn ein Übergang schwer fällt. Manchmal hilft es, tief ein- und auszuatmen. Probieren wir es zusammen aus: Atme tief ein, halte kurz die Luft an, und dann langsam ausatmen. Fühlt sich das nicht gut an? Du kannst das immer machen, wenn du dich unsicher fühlst. Es hilft dir, dich zu beruhigen und bereit für das Neue zu sein."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Jetzt, da wir geübt haben, wie wir mit Übergängen umgehen, können wir uns auf die nächste Herausforderung freuen. Denk daran, dass jeder Übergang eine Chance ist, etwas Neues zu erleben. Vielleicht triffst du einen neuen Freund oder entdeckst ein neues Spiel. Sei mutig und neugierig, denn du bist ein echter Entdecker!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du bemerkt, dass wir während unserer Reise viele Übergänge gemacht haben? Vom Zuhören zum Mitmachen, vom Spielen zum Lernen. Jeder dieser Schritte hat uns etwas Neues gebracht. Erinnerst du dich an eine Zeit, in der du einen Übergang gemacht hast, der dir besonders gefallen hat? Vielleicht, als du etwas Neues ausprobiert hast oder einen neuen Freund getroffen hast?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was war dein liebster Übergang heute? War es das Zählen beim Aufräumen oder das tiefe Atmen? Vielleicht war es etwas ganz anderes. Ich bin so neugierig zu hören, was dir am meisten Spaß gemacht hat. Übergänge sind wie kleine Abenteuer, die uns helfen, die Welt zu entdecken. Was denkst du darüber?"
+    },
+    {
+      "id": "scene_10",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Ich höre dir zu, wenn du mir von deinen Übergängen erzählst. Es ist immer spannend zu erfahren, wie du die Welt erlebst. Vielleicht hast du sogar einen Tipp, wie man Übergänge noch besser meistern kann. Weißt du, jeder hat seine eigene Art, mit Veränderungen umzugehen. Und das macht uns alle einzigartig und besonders."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns einen letzten Übergang machen, bevor wir uns verabschieden. Stell dir vor, wir sind im Park und haben viel Spaß gehabt. Jetzt ist es Zeit, nach Hause zu gehen. Lass uns noch einmal bis fünf zählen, während wir uns auf den Heimweg machen. Eins, zwei, drei, vier, fünf! Großartig gemacht! Du bist wirklich ein Meister der Übergänge!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bevor wir uns verabschieden, möchte ich dir sagen, wie stolz ich auf dich bin. Du hast heute so viel gelernt über Übergänge und wie man sie meistert. Denk daran, dass jede Veränderung eine Chance ist, etwas Neues zu entdecken. Und ich bin sicher, dass du das mit Bravour meistern wirst. Du bist ein wunderbarer Entdecker, und ich freue mich darauf, mehr Abenteuer mit dir zu erleben."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es Zeit, sich zu verabschieden, mein kleiner Freund. Es war so schön, mit dir über Übergänge zu sprechen und all die spannenden Dinge zu entdecken. Vergiss nicht, dass Veränderungen etwas Gutes sind, und du bist nie allein dabei. Bis zum nächsten Mal! Ich freue mich schon auf unser nächstes Abenteuer. Auf Wiedersehen und bis bald!"
+    }
+  ],
+  "title": "Frost Friend Sids Transitions Geschichte"
+}

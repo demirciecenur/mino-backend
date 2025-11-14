@@ -1,0 +1,98 @@
+{
+  "id": "rescue_pup_crew_friendship_story",
+  "character": "Rescue Pup Crew",
+  "topic": "friendship",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin der Rescue Pup Crew. Heute gehen wir auf eine spannende Reise über Freundschaft. Bist du bereit? Ich bin so neugierig auf dich. Gemeinsam werden wir entdecken, wie wichtig es ist, Freunde zu haben und wie wir gute Freunde sein können."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft ist etwas ganz Besonderes. Es bedeutet, dass wir jemanden haben, mit dem wir spielen und lachen können. Freunde helfen uns, wenn wir traurig sind, und wir helfen ihnen auch. Weißt du, was das Beste daran ist? Wir können immer neue Freunde finden, egal wo wir sind!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Stell dir vor, du bist auf dem Spielplatz. Da siehst du ein Kind, das alleine spielt. Was könntest du tun? Du könntest hingehen und fragen, ob es mitspielen möchte. So einfach kann man neue Freunde finden. Und wenn du freundlich bist, wird das Kind bestimmt Ja sagen!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du kannst das schaffen! Jetzt lass uns mal überlegen, was wir zusammen spielen könnten. Vielleicht ein lustiges Fangspiel oder ein kreatives Bauprojekt mit Sand. Es gibt so viele Möglichkeiten, Spaß zu haben und dabei Freundschaft zu stärken."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir darüber gesprochen haben, wie wichtig es ist, neue Freunde zu finden? Nun, es ist genauso wichtig, alte Freunde zu pflegen. Das bedeutet, dass wir Zeit miteinander verbringen und uns gegenseitig zuhören. So bleibt die Freundschaft stark und schön."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Weißt du, warum Freunde so wichtig sind? Sie bringen uns zum Lachen, selbst wenn wir einen schlechten Tag haben. Hast du schon einmal einen Freund zum Lachen gebracht? Das fühlt sich toll an, oder? Lachen ist eine Sprache, die jeder versteht."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über das Teilen sprechen. Teilen ist ein großer Teil der Freundschaft. Wenn du deinen Lieblingsspielzeug teilst, zeigst du, dass du ein guter Freund bist. Und wer weiß, vielleicht teilt dein Freund auch etwas ganz Besonderes mit dir!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Toll gemacht! Teilen macht Spaß und bringt Freude. Lass uns das nächste Mal, wenn wir spielen, daran denken, unsere Spielsachen zu teilen. Auf diese Weise erleben wir doppelt so viel Spaß! Du kannst das bestimmt ganz wunderbar."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir wissen, wie man Freunde findet und pflegt, lass uns darüber sprechen, wie wir Freunde unterstützen können. Wenn ein Freund traurig ist, können wir ihn trösten. Vielleicht mit einer Umarmung oder einem lustigen Spiel, um ihn aufzumuntern."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkst du, wie fühlt sich ein Freund, wenn du ihm hilfst? Glaubst du, er fühlt sich besser? Ja, das tut er bestimmt! Wenn wir helfen, zeigen wir, dass wir uns kümmern, und das macht die Freundschaft stark."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns eine kleine Übung machen. Denk an einen Freund und überlege, was du tun könntest, um ihm zu helfen. Vielleicht ein Bild malen oder ein schönes Lied singen. Solche kleinen Dinge machen einen großen Unterschied."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein fantastischer Freund! Es ist wunderbar, dass du daran denkst, wie du anderen helfen kannst. Gemeinsam sind wir stark, und mit Freunden an unserer Seite können wir alles schaffen. Weiter so!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt haben wir viel über Freundschaft gelernt. Denk daran, dass Freunde einander helfen und zusammen Spaß haben. Sie lachen, teilen und unterstützen sich. Hast du heute etwas Neues über Freundschaft gelernt? Ich bin sicher, du bist jetzt ein noch besserer Freund."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Freundschaft zu sprechen. Ich hoffe, du hattest genauso viel Spaß wie ich. Denk immer daran, dass du nie allein bist, denn Freunde sind da, um zu helfen. Bis zum nächsten Mal, kleiner Freund. Tschüss und viel Spaß beim Spielen!"
+    }
+  ],
+  "title": "Rescue Pup Crews Friendship Geschichte"
+}

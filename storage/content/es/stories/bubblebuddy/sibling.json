@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_sibling_story",
+  "character": "Bubble Buddy",
+  "topic": "sibling",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy tu amigo, Bubble Buddy. Hoy vamos a hablar sobre algo muy especial: los hermanos. ¿Tienes un hermano o hermana? ¡Los hermanos son como compañeros de juego que siempre están ahí! Vamos a descubrir cómo podemos divertirnos juntos y aprender unos de otros."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Los hermanos pueden ser como mejores amigos. ¿Sabes? Jugar juntos hace que el día sea más emocionante. Puedes construir castillos de arena o inventar historias de piratas. Cuando juegas con tu hermano, aprendes a compartir y a cuidar de los demás. Eso hace que el juego sea aún más divertido."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "¿Sabías que compartir es algo mágico? Cuando compartes tus juguetes, haces que alguien más se sienta feliz. Al igual que cuando compartes una sonrisa, ¡haces que el día de alguien sea más brillante! Intenta compartir tus juguetes con tu hermano hoy. Verás cómo su sonrisa ilumina todo el cuarto."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué gran idea! Ahora, intentemos contar juntos hasta cinco. Uno, dos, tres, cuatro, cinco. ¡Muy bien hecho! Contar juntos puede ser muy divertido y es una forma de aprender mientras juegas. Puedes hacerlo mientras saltas o mientras juegas a las escondidas."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos contado juntos, ¿por qué no intentamos respirar juntos? Respira profundamente y suelta el aire. ¡Qué relajante! Hacer esto con tu hermano puede ayudar a calmarse cuando están emocionados o un poco enojados. Respirar juntos es como una pequeña pausa para recargar energía."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas cuando compartimos y contamos juntos? Eso es lo que los hermanos hacen: se ayudan mutuamente a aprender cosas nuevas. Imagina que estás enseñando a tu hermano a montar en bicicleta o a dibujar un bonito sol. ¡Es una aventura cada día!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, los hermanos pueden discutir, y eso está bien. Lo importante es aprender a disculparse y a perdonar. Decir 'lo siento' es una forma de demostrar amor y respeto. Después de una discusión, un gran abrazo puede hacer que todo se sienta mejor. ¡Los abrazos son mágicos!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando juegas con tu hermano, es importante escuchar. Escuchar atentamente te ayuda a entender lo que él o ella quiere decir. Puedes practicar escuchando el sonido de las olas o el canto de los pájaros. ¡Escuchar es una gran habilidad que te ayudará a ser un buen amigo!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estás haciendo un trabajo maravilloso! Ahora, pensemos en una actividad divertida que puedas hacer con tu hermano. ¿Qué tal si construyen una torre con bloques? O pueden crear una historia juntos usando sus juguetes favoritos. ¡Las posibilidades son infinitas cuando están juntos!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda que cada día con tu hermano es una nueva aventura. Pueden aprender a bailar una nueva canción o cocinar una receta sencilla. ¡Cada pequeña cosa que hacen juntos es especial! Los recuerdos que crean son tesoros que guardarán para siempre."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Te acuerdas de la última vez que te reíste tanto con tu hermano que te dolía la barriga? Reír juntos es una de las mejores partes de tener un hermano. La risa une a las personas y hace que el día sea más brillante. ¡No olvides reír todos los días!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de cómo podemos ser agradecidos con nuestros hermanos. Decir 'gracias' es una forma de mostrar que aprecias lo que hacen por ti. Puedes agradecerle a tu hermano por jugar contigo o por ayudarte a recoger tus juguetes. ¡Las palabras amables son como burbujas de felicidad!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Cómo te sientes cuando pasas tiempo con tu hermano? ¿Te gusta jugar a juegos de mesa o prefieres correr al aire libre? Es importante saber qué les gusta a ambos para que puedan disfrutar juntos. ¿Cuál es tu actividad favorita para hacer con tu hermano?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Pasar tiempo con tu hermano también puede enseñarte muchas cosas. Aprendes sobre compartir, cuidar y ser paciente. Cada día es una oportunidad para aprender algo nuevo juntos. ¡Es como tener una escuela especial en casa con tu mejor amigo!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "¡Ha sido un placer hablar sobre los hermanos contigo hoy! Espero que hayas disfrutado nuestra pequeña aventura. Recuerda siempre ser amable y apreciar a tu hermano. Juntos, pueden crear un mundo lleno de risas y amor. ¡Hasta la próxima aventura, pequeño amigo!"
+    }
+  ],
+  "title": "Historia de Sibling de Bubble Buddy"
+}

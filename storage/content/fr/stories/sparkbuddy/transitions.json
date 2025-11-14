@@ -1,0 +1,98 @@
+{
+  "id": "spark_buddy_transitions_story",
+  "character": "Spark Buddy",
+  "topic": "transitions",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis! Je suis Spark Buddy, et je suis si heureux de vous voir aujourd'hui. Nous allons parler des transitions, ces moments où quelque chose change, comme un nouveau jeu ou un nouvel ami. C'est excitant, n'est-ce pas? Ensemble, nous allons découvrir comment ces changements peuvent être amusants et comment nous pouvons nous y adapter facilement. Êtes-vous prêts pour cette aventure? Allons-y avec plein d'énergie et de sourires!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions, c'est comme un papillon qui sort de son cocon pour devenir quelque chose de nouveau et de beau. Parfois, cela peut sembler un peu effrayant au début, mais c'est aussi une grande aventure. Imaginez que vous changez de classe à l'école ou que vous déménagez dans une nouvelle maison. Ces changements peuvent sembler grands, mais ils apportent aussi de nouvelles découvertes et de nouveaux amis. Se préparer à ces changements peut nous aider à nous sentir plus à l'aise et plus confiants."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand une transition arrive, il est important de se préparer. Cela peut être aussi simple que de parler de ce qui va se passer avec un parent ou un ami. Par exemple, si vous allez à une fête d'anniversaire, vous pouvez discuter des jeux que vous pourriez jouer. Ou si vous commencez une nouvelle activité, vous pouvez pratiquer à l'avance ce que vous allez faire. Ces petites préparations nous aident à nous sentir plus sûrs et prêts à profiter du moment."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, faisons un petit exercice ensemble pour nous préparer aux transitions. Imaginez que vous allez rencontrer un nouvel ami. Prenons une grande respiration ensemble. Inspirez profondément par le nez, et expirez doucement par la bouche. Encore une fois, inspirez... et expirez. C'est bien, n'est-ce pas? Respirer profondément peut nous aider à nous calmer et à nous sentir prêts pour de nouvelles aventures."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de prendre de grandes respirations? C'est un excellent moyen de se détendre avant un changement. Parfois, les transitions peuvent nous faire ressentir des papillons dans le ventre. C'est normal, et cela arrive à tout le monde. Ce qui est important, c'est de savoir que nous avons des outils pour nous aider, comme respirer profondément et penser aux choses positives qui nous attendent. Chaque transition est une porte vers quelque chose de nouveau et d'excitant."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant des routines. Les routines sont des choses que nous faisons chaque jour, comme se brosser les dents ou ranger ses jouets. Quand une routine change, cela peut être une transition. Par exemple, si vous commencez à aller au lit plus tôt, c'est un changement. Pour vous adapter, vous pouvez créer une nouvelle routine amusante, comme lire une histoire avant de dormir. Cela rend le changement plus facile et agréable."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un excellent travail en apprenant toutes ces choses sur les transitions! N'oubliez pas que chaque fois que nous essayons quelque chose de nouveau, nous devenons plus forts et plus courageux. Vous pouvez penser à toutes les fois où vous avez réussi à vous adapter à quelque chose de nouveau. Peut-être que vous avez déjà commencé une nouvelle école ou essayé un nouveau sport. Chaque expérience est une victoire qui vous rend encore plus incroyable!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Imaginez maintenant que vous devez dire au revoir à un vieil ami parce qu'il déménage. C'est une transition qui peut être un peu triste. Mais souvenez-vous, vous pouvez toujours rester en contact et vous faire de nouveaux amis aussi. Les adieux ne signifient pas la fin, mais plutôt un nouveau départ. Vous pouvez créer de beaux souvenirs avec de nouveaux amis tout en gardant les anciens dans votre cœur."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre façon de gérer les transitions est de se concentrer sur les choses positives. Par exemple, si vous changez d'école, pensez à toutes les nouvelles choses que vous allez apprendre. Peut-être y a-t-il un nouveau terrain de jeu ou de nouveaux livres à découvrir. En vous concentrant sur les aspects positifs, vous pouvez transformer une transition en une expérience joyeuse et excitante."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Souvenez-vous de toutes les belles choses que nous avons découvertes sur les transitions aujourd'hui. Nous avons parlé de respirer profondément, de créer de nouvelles routines, et de regarder les aspects positifs. Ces outils sont là pour vous aider à chaque étape du chemin. Et n'oubliez pas, chaque transition est une chance de grandir et de découvrir quelque chose de merveilleux. Vous êtes prêts à affronter toutes les transitions avec un grand sourire!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà vécu une transition qui vous a rendu fier de vous? Peut-être que vous avez appris à faire du vélo ou commencé une nouvelle activité. Comment vous êtes-vous senti après avoir réussi? C'est incroyable de voir à quel point nous pouvons être forts et courageux face aux changements. Partager vos expériences peut aussi aider vos amis à se sentir mieux lors de leurs propres transitions. Qu'en pensez-vous?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions peuvent aussi être des moments de célébration. Pensez à la première fois que vous avez réussi quelque chose de nouveau, comme attacher vos lacets tout seul. C'est un petit changement, mais cela montre à quel point vous grandissez. Chaque transition est une chance de célébrer vos réussites et de vous sentir fier de vous. Alors, chaque fois que vous vivez un changement, rappelez-vous de célébrer vos petites et grandes victoires."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes tous de super explorateurs de transitions! Chaque jour est une nouvelle aventure, et vous êtes prêts à relever tous les défis. N'oubliez pas que vous pouvez toujours demander de l'aide si vous en avez besoin. Vos amis, vos parents et vos enseignants sont là pour vous soutenir. Ensemble, vous pouvez transformer chaque transition en une expérience positive et amusante. Continuez à explorer le monde avec votre beau sourire et votre esprit curieux!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure sur les transitions avec moi. Vous avez appris tant de choses, et je suis fier de vous. N'oubliez pas, chaque changement est une nouvelle opportunité de grandir et d'apprendre. Je suis sûr que vous allez faire face à toutes les transitions avec courage et joie. Maintenant, c'est le moment de dire au revoir, mais je suis sûr que nous nous retrouverons bientôt pour une autre aventure. À bientôt, mes amis!"
+    }
+  ],
+  "title": "Histoire de Transitions de Spark Buddy"
+}

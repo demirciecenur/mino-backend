@@ -1,0 +1,104 @@
+{
+  "id": "koko_friendship_story",
+  "character": "Koko",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Koko. Aujourd'hui, nous allons explorer le merveilleux monde de l'amitié. Êtes-vous prêt pour cette aventure? L'amitié, c'est comme une belle fleur qui pousse dans notre cœur. Ensemble, nous découvrirons comment être de bons amis et pourquoi c'est si important. Ça vous intéresse?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est un peu comme un super pouvoir. Elle nous rend plus forts et plus heureux. Imaginez jouer avec un ami au parc, courir et rire ensemble. Un ami est là pour partager des moments joyeux et pour nous réconforter quand nous sommes tristes. Avez-vous déjà ressenti cette chaleur dans votre cœur quand un ami vous sourit? C'est ça, la magie de l'amitié!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment se faire des amis. Pour commencer, il faut être gentil et dire bonjour. Vous pouvez dire 'Bonjour, comment tu t'appelles?' et sourire. Un sourire peut briser la glace et faire sentir aux autres qu'ils sont les bienvenus. Ensuite, partager vos jouets ou vos jeux peut être une excellente façon de créer un lien. Vous voyez, être un bon ami commence par de petites actions simples."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons ensemble! Imaginez que vous êtes au parc avec d'autres enfants. Vous voyez quelqu'un jouer seul. Que pourriez-vous faire? Peut-être vous pourriez vous approcher et demander s'il veut jouer avec vous. C'est courageux et montre que vous êtes un bon ami. N'oubliez pas, chaque petit geste compte. Vous pouvez le faire, je crois en vous!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous, être un bon ami signifie aussi écouter. Quand votre ami veut vous raconter quelque chose, écoutez attentivement. Cela montre que vous vous souciez d'eux. Parfois, votre ami peut avoir besoin de parler de ce qui le rend triste ou heureux. Être là pour écouter, c'est l'une des plus belles choses que vous puissiez faire. Cela fait de vous un ami formidable."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de jouer ensemble. Jouer, c'est partager des moments de joie et de rire. Vous pouvez jouer à cache-cache, construire un château de sable, ou même inventer une aventure. En jouant ensemble, vous apprenez à partager, à attendre votre tour, et à collaborer. Ces moments créent des souvenirs précieux et renforcent votre amitié."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Voyons comment vous pouvez être un super ami aujourd'hui. Pensez à une chose gentille que vous pourriez faire pour un ami. Peut-être lui faire un dessin ou partager un goûter. Ces petites actions montrent à votre ami qu'il est spécial pour vous. Et rappelez-vous, un véritable ami est toujours là, dans les bons et les mauvais moments. Vous avez le pouvoir d'être ce genre d'ami!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, il peut y avoir des désaccords entre amis. Cela arrive, et c'est normal. Ce qui est important, c'est comment vous résolvez ces désaccords. Vous pouvez parler calmement et expliquer ce que vous ressentez. Écouter aussi ce que l'autre ressent est essentiel. En résolvant les conflits, vous apprenez et grandissez ensemble. C'est ainsi que l'amitié devient encore plus forte."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, faisons un petit exercice ensemble. Prenons une grande respiration et pensons à un moment où nous avons été un bon ami. Inspirez profondément, puis expirez lentement. Cela vous aide à vous souvenir de ce que cela fait d'être gentil et attentionné. Vous voyez, réfléchir à nos actions peut nous aider à devenir des amis encore meilleurs. Bravo, vous faites un excellent travail!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà aidé un ami qui avait besoin de vous? Peut-être l'avez-vous aidé à se relever après une chute ou partagé votre goûter quand il avait oublié le sien. Ces moments sont précieux et montrent à quel point vous êtes un bon ami. Pensez à un moment où vous avez fait quelque chose de gentil. Vous rappelez-vous comment vous vous êtes senti? C'était sûrement merveilleux!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Et si nous parlions des amis que nous avons rencontrés récemment? Peut-être avez-vous un nouvel ami à l'école ou dans votre quartier. Comment est-ce arrivé? Peut-être avez-vous partagé un jeu ou une histoire. Chaque nouvelle amitié commence par une simple rencontre. Être ouvert et accueillant peut vous aider à vous faire de nouveaux amis facilement."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, nous pouvons avoir des amis qui sont différents de nous. Ils peuvent parler une autre langue, avoir d'autres habitudes ou aimer des choses différentes. C'est une belle opportunité d'apprendre et de découvrir de nouvelles choses. Chaque ami est unique, et c'est ce qui rend l'amitié si spéciale. En acceptant et en respectant ces différences, vous devenez un ami encore meilleur."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, pensons à comment nous pouvons être un ami aujourd'hui. Peut-être pouvons-nous dire quelque chose de gentil à quelqu'un. Ou aider un camarade de classe avec ses devoirs. Chaque petit geste compte et peut illuminer la journée de quelqu'un. Pensez à ce que vous pouvez faire aujourd'hui pour être ce rayon de soleil dans la vie de votre ami. Allez-y, vous pouvez le faire!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Rappelez-vous, l'amitié est comme un jardin. Elle a besoin d'amour, d'attention et de soins pour grandir. Chaque jour, vous pouvez arroser ce jardin avec des gestes gentils et des mots doux. Vous avez en vous la capacité de faire fleurir de belles amitiés. Continuez à être ce merveilleux ami que vous êtes. Vous êtes incroyable et vos amis ont de la chance de vous avoir!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce moment avec moi. Vous avez appris beaucoup de choses sur l'amitié aujourd'hui. Je suis fier de vous et de votre désir de devenir un meilleur ami. N'oubliez pas que chaque petit geste compte. Continuez à être gentils et attentionnés. À bientôt, petit ami, et n'oubliez pas de sourire!"
+    }
+  ],
+  "title": "Histoire de Friendship de Koko"
+}

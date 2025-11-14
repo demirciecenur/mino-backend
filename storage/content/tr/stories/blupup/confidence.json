@@ -1,0 +1,104 @@
+{
+  "id": "blu_pup_confidence_story",
+  "character": "Blu Pup",
+  "topic": "confidence",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Blu Pup. Bugün birlikte özgüven hakkında harika bir yolculuğa çıkacağız. Özgüven, kendimize inanmamız ve yapabileceklerimizi bilmemiz demektir. Hazır mısın? Seni çok merak ediyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven, kendimizi güçlü ve yetenekli hissetmemizi sağlar. Mesela, oyuncaklarını toplarken ne kadar başarılı olduğunu düşün. Bu, sana kendine güvenmen gerektiğini hatırlatır. Başardığın her küçük şey, özgüvenini artırır. Peki, sen en son hangi konuda kendine güvendin? Bu duygu harika değil mi?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özgüvenimizi arttırmak için bazı şeyler yapabiliriz. Örneğin, yeni bir şey öğrenmek, kendimize olan güvenimizi artırır. Dişlerini fırçalamak gibi basit şeyleri bile başarmak, bize güç verir. Her gün küçük hedefler koyarak kendimize meydan okuyabiliriz. Bu şekilde, her gün daha da güçleniriz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi, şimdi birlikte düşünelim. Bugün yapabileceğin bir şeyi seç ve onun üzerine odaklan. Belki bir resim yapmak ya da bir hikaye yazmak isteyebilirsin. Ne seçersen seç, önemli olan kendine inanmaktır. Sen bunu yapabilirsin! Harika bir iş çıkaracağına eminim."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda, özgüvenimizi artırmak için neler yapabileceğimizden bahsettik. Şimdi, bu duygu hakkında biraz daha konuşalım. Özgüven, bazen yeni arkadaşlar edinmemize de yardımcı olur. Kendimize inandığımızda, başkalarıyla daha kolay iletişim kurabiliriz. Bu, oyunlar oynarken de çok işimize yarar."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, şimdi sana bir soru sormak istiyorum. Sen en çok hangi konuda kendine güveniyorsun? Belki bir oyunda çok iyisindir ya da resim yapmada. Cevabını merakla bekliyorum. Haydi, düşün ve bana söyle!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bunu düşünmek bile sana kendini iyi hissettirdi, değil mi? Her gün yeni şeyler denemek, özgüvenimizi geliştirir. Örneğin, yeni bir oyun öğrenmek ya da farklı bir hikaye okumak. Denemekten korkma, çünkü denemek öğrenmenin en güzel yoludur. Seninle birlikte yeni şeyler keşfetmek çok eğlenceli!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, derin bir nefes alalım ve 5'e kadar sayalım. Bir, iki, üç, dört, beş. Bu, kendimizi sakinleştirmemize ve daha iyi hissetmemize yardımcı olur. Her zaman kendimizi iyi hissetmediğimizde bunu yapabiliriz. Bu egzersiz, bize güç ve güven verir."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kendine güvendiğinde, neler başarabileceğini hayal et. Belki bir gün bir astronot olabilirsin ya da bir yazar. Hayallerin ne olursa olsun, onları gerçekleştirmek için kendine inanman yeterli. Sen harikasın ve bunu asla unutma. Her zaman yanındayım!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven, bazen başkalarına yardım etmeyi de içerir. Yardım ettiğinde, kendini daha güçlü hissedersin. Örneğin, bir arkadaşına bir şey öğretmek ya da birine yardım etmek gibi. Bu, kendimize olan güvenimizi artırır ve başkalarını da mutlu eder. Sen de bugün birine yardım ettin mi?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hadi, şimdi yine bir soru sorayım. En son kime yardım ettin ve bu sana nasıl hissettirdi? Yardım etmek harika bir duygu, değil mi? Cevabını duymak için sabırsızlanıyorum. Seninle gurur duyuyorum!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Birine yardım ettiğimizde, kendimizi daha iyi hissederiz. Bu, içimizdeki gücü hissetmemizi sağlar. Her yeni gün, yeni bir fırsat demektir. Bu fırsatları değerlendirerek her gün biraz daha gelişiriz. Senin gibi harika bir arkadaşım olduğu için çok mutluyum!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Her günün sonunda, başardıklarımızı düşünmek güzel olur. Bugün neler başardığını hatırlıyor musun? Küçük ya da büyük, her başarı önemlidir. Kendine inanmaya devam et ve her gün daha da güçleneceksin. Sen bunu yapabilirsin, inan bana!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir sonraki adımda, birlikte yeni bir maceraya çıkabiliriz. Belki bir bulmacayı çözmek ya da yeni bir oyun oynamak gibi. Her şey, senin hayal gücüne bağlı. Unutma, özgüvenin seni her zaman daha ileriye taşır. Seninle birlikte olmak çok eğlenceli!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika şeyler öğrendik ve çok eğlendik. Özgüvenin ne kadar önemli olduğunu gördük. Seninle her zaman gurur duyuyorum ve seninle daha fazla şey keşfetmek için sabırsızlanıyorum. Şimdi veda etme zamanı. Kendine iyi bak, küçük dostum!"
+    }
+  ],
+  "title": "Blu Pup'ın Confidence Hikayesi"
+}

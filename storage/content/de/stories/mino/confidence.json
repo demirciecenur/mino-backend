@@ -1,0 +1,104 @@
+{
+  "id": "mino_confidence_story",
+  "character": "Mino",
+  "topic": "confidence",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Mino, dein Weltraumabenteurer. Heute machen wir eine spannende Reise, um über Selbstvertrauen zu sprechen. Selbstvertrauen bedeutet, an sich selbst zu glauben und mutig zu sein. Bist du bereit, mit mir zusammen auf diese Reise zu gehen? Ich bin so neugierig auf dich und deine Abenteuer!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Selbstvertrauen ist, wenn du glaubst, du kannst etwas schaffen, auch wenn es schwer aussieht. Es ist wie ein kleiner Stern in dir, der immer leuchtet. Erinnerst du dich an das letzte Mal, als du etwas Neues ausprobiert hast? Vielleicht war es das erste Mal, dass du dein Fahrrad gefahren bist. So fühlt sich Selbstvertrauen an, wenn du es schaffst!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber sprechen, wie man Selbstvertrauen aufbauen kann. Eine Möglichkeit ist, kleine Schritte zu machen, wie das Zähneputzen ganz allein. Jedes Mal, wenn du eine kleine Aufgabe meisterst, wächst dein Selbstvertrauen ein bisschen mehr. Wenn du dich unsicher fühlst, kannst du tief durchatmen und dich an deine Erfolge erinnern. So wird das Selbstvertrauen größer und stärker!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns etwas Lustiges machen! Stell dir vor, du bist ein starker Baum. Steh ganz gerade, heb die Arme hoch und sag: \"Ich kann das schaffen!\" Fühlt sich das nicht toll an? Du kannst das immer machen, wenn du ein bisschen Mut brauchst. Großartig gemacht, du bist ein wunderbarer Baum voller Vertrauen!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an die Geschichte vom kleinen Käfer, der einen großen Berg erklimmen wollte? Am Anfang dachte er, der Berg sei zu hoch. Aber dann machte er einen Schritt nach dem anderen. Bald merkte er, dass er es schaffen konnte! So ist es auch mit Selbstvertrauen. Jeder kleine Schritt zählt und bringt dich weiter."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns zusammen zählen, um unser Selbstvertrauen zu stärken. Zähle mit mir: eins, zwei, drei, vier, fünf. Siehst du, wie einfach das war? Jedes Mal, wenn du etwas zählst oder eine Aufgabe erledigst, wird dein Selbstvertrauen ein bisschen größer. Du kannst alles schaffen, wenn du es versuchst!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist schon so weit gekommen! Denk daran, dass du immer an dich glauben kannst. Egal, ob du ein Bild malst oder ein neues Spiel ausprobierst, du bist mutig und einzigartig. Und wenn du mal stolperst, ist das auch okay. Steh einfach wieder auf und probiere es nochmal. Du bist toll!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was macht dir besonders viel Spaß und gibt dir ein gutes Gefühl? Ist es das Bauen mit Bauklötzen oder das Malen eines Bildes? Vielleicht magst du es, neue Geschichten zu hören oder zu erfinden. Was auch immer es ist, es zeigt, dass du Selbstvertrauen hast. Kannst du mir davon erzählen?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über Selbstvertrauen gesprochen haben, lass uns an deine eigenen Abenteuer denken. Erinnerst du dich an eine Zeit, als du etwas geschafft hast, von dem du nicht sicher warst, dass du es kannst? Vielleicht war es das erste Mal, dass du alleine geschaukelt bist. Solche Momente zeigen, wie stark du wirklich bist."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns zusammen ein kleines Spiel spielen. Stell dir vor, du bist ein mutiger Astronaut. Zähle bis fünf, während du durch den Raum „schwebst“. Eins, zwei, drei, vier, fünf! Super gemacht! Du hast das toll gemacht und gezeigt, wie viel Selbstvertrauen du hast. Du bist ein echter Weltraumheld!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du hast schon so viel gelernt! Selbstvertrauen wächst jedes Mal, wenn du etwas Neues ausprobierst. Wenn du dich traust, etwas zu tun, zeigst du, wie mutig du bist. Denk daran, dass du immer an dich glauben kannst. Du bist ein wunderbares Kind voller Möglichkeiten!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns über Freundschaft sprechen. Gute Freunde helfen uns, unser Selbstvertrauen zu stärken. Wenn ein Freund dir sagt, dass du etwas gut gemacht hast, fühlt sich das toll an, oder? Und wenn du anderen hilfst, fühlen sie sich genauso. Zusammen seid ihr stark und könnt alles schaffen!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du schon mal einem Freund geholfen, der sich unsicher fühlte? Vielleicht hast du ihm gesagt, wie gut er im Malen ist oder wie schnell er laufen kann. Solche Worte machen einen großen Unterschied. Sie helfen anderen, an sich selbst zu glauben. Und du wirst sehen, dass es auch dein eigenes Selbstvertrauen stärkt."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was möchtest du als Nächstes ausprobieren, um dein Selbstvertrauen zu stärken? Vielleicht ein neues Spiel lernen oder ein Buch vorlesen? Was auch immer es ist, ich bin sicher, dass du es schaffen kannst. Magst du mir erzählen, was du als Nächstes ausprobieren möchtest?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Selbstvertrauen zu sprechen. Denk daran, dass du immer an dich glauben kannst und dass jeder kleine Schritt zählt. Ich freue mich darauf, mehr über deine Abenteuer zu hören. Bis zum nächsten Mal, kleiner Freund! Tschüss und bis bald!"
+    }
+  ],
+  "title": "Minos Confidence Geschichte"
+}

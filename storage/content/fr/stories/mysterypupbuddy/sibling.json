@@ -1,0 +1,98 @@
+{
+  "id": "mystery_pup_buddy_sibling_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "sibling",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Mystery Pup Buddy. Aujourd'hui, nous allons vivre une aventure incroyable sur les frères et sœurs. Es-tu prêt? Je suis tellement curieux de savoir comment toi et ton frère ou ta sœur jouez ensemble. Ensemble, nous allons découvrir toutes les façons amusantes de partager et de s'entraider."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par parler de ce que signifie avoir un frère ou une sœur. C'est comme avoir un ami spécial avec qui tu peux jouer tous les jours. Parfois, vous vous disputez peut-être pour un jouet, mais ensuite vous trouvez un moyen de partager. C'est là que la magie opère, car partager rend tout le monde heureux. Et quand vous travaillez ensemble, vous pouvez réaliser de grandes choses, comme construire un immense château de blocs!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment vous pouvez être un super frère ou une super sœur. Une façon est d'écouter attentivement ce que l'autre veut dire. Par exemple, si ton frère veut jouer avec ton jouet préféré, tu pourrais lui proposer de jouer ensemble. Cela montre que tu es attentionné et que tu aimes partager. De plus, tu peux apprendre beaucoup de nouvelles choses en jouant ensemble. C'est une excellente façon de renforcer votre lien."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Maintenant, essayons une petite activité ensemble. Imagine que tu construis une tour de blocs avec ton frère ou ta sœur. Vous pouvez prendre des tours pour ajouter un bloc à la tour. C'est amusant de voir jusqu'où vous pouvez aller sans que la tour ne tombe! Et n'oublie pas de féliciter ton frère ou ta sœur pour chaque bloc ajouté. Vous verrez que travailler ensemble rend tout encore plus amusant!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi quand nous avons parlé de partager. Eh bien, parfois, partager signifie aussi partager des sentiments. Si tu es triste ou heureux, tu peux en parler à ton frère ou ta sœur. Ils peuvent te comprendre et t'aider à te sentir mieux. C'est comme avoir un petit super-héros à la maison. Ensemble, vous pouvez surmonter n'importe quelle émotion, que ce soit une petite tristesse ou une grande joie."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu te souviens de notre tour de blocs? Maintenant, imagine que vous avez terminé de jouer. Que faites-vous ensuite? Eh bien, vous pouvez ranger les jouets ensemble. Cela peut être une autre activité amusante si vous faites la course pour voir qui peut ranger le plus vite. Et après, vous pouvez vous détendre en lisant un livre ensemble. C'est agréable de finir la journée avec une histoire partagée."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un excellent travail en apprenant à être un super frère ou une super sœur! N'oublie pas que chaque jour est une nouvelle aventure avec eux. Parfois, vous aurez des désaccords, mais ce n'est pas grave. Ce qui compte, c'est comment vous résolvez les problèmes ensemble. Rappelle-toi toujours de dire merci et pardon. Ces mots peuvent transformer une journée ordinaire en une journée spéciale."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, réfléchissons à une question amusante. Quel est ton jeu préféré à jouer avec ton frère ou ta sœur? Aimes-tu jouer à cache-cache ou préfères-tu dessiner ensemble? Peut-être que tu aimes inventer des histoires avec eux. Peu importe ce que vous choisissez, l'important est de s'amuser ensemble et de créer des souvenirs précieux."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons notre aventure en parlant de la patience. Parfois, il faut attendre son tour pour jouer avec un jouet. C'est difficile, mais c'est aussi une bonne leçon. Attendre patiemment montre que tu respectes ton frère ou ta sœur. Et pendant que tu attends, tu peux penser à toutes les choses amusantes que tu ferez ensuite. La patience est comme un super pouvoir que tout le monde peut apprendre!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "As-tu déjà aidé ton frère ou ta sœur à faire quelque chose de difficile? Peut-être qu'ils avaient besoin d'aide pour mettre leurs chaussures. Quand tu aides, tu montres que tu es un vrai ami. Et tu sais quoi? Ça fait du bien de savoir que tu as rendu quelqu'un heureux. La prochaine fois que ton frère ou ta sœur a besoin d'aide, tu seras prêt à être leur héros!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Voyons maintenant comment exprimer notre gratitude. Dire merci est simple mais puissant. Quand ton frère partage son jouet avec toi, dire merci lui montre que tu apprécies son geste. Cela renforce votre amitié et rend la journée plus lumineuse. Alors, n'oublie pas de dire merci souvent et de sourire. Ces petits gestes font une grande différence!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es incroyable! Chaque jour, tu apprends de nouvelles choses sur comment être un bon frère ou une bonne sœur. Continue d'explorer et de découvrir des moyens de rendre vos jeux encore plus amusants. Et n'oublie pas, c'est normal de faire des erreurs. Ce qui compte, c'est d'apprendre et de grandir ensemble. Tu es sur la bonne voie!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Une autre question pour toi: qu'est-ce que tu aimes le plus chez ton frère ou ta sœur? Est-ce leur rire, leur gentillesse, ou leur imagination? Pense à toutes les choses qui te rendent heureux d'avoir un frère ou une sœur. C'est une belle façon de se rappeler pourquoi ils sont si spéciaux pour toi. Et peut-être que tu pourras leur dire ce que tu ressens."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Eh bien, petit ami, notre aventure sur les frères et sœurs touche à sa fin. J'espère que tu as appris beaucoup de choses et que tu es prêt à être le meilleur frère ou la meilleure sœur possible. Souviens-toi de partager, d'écouter, et de jouer ensemble. Je suis fier de toi, et je sais que tu feras des merveilles. À bientôt pour une nouvelle aventure avec Mystery Pup Buddy!"
+    }
+  ],
+  "title": "Histoire de Sibling de Mystery Pup Buddy"
+}

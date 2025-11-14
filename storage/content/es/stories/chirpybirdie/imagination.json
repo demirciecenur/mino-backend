@@ -1,0 +1,98 @@
+{
+  "id": "chirpy_birdie_imagination_story",
+  "character": "Chirpy Birdie",
+  "topic": "imagination",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguito! Soy Chirpy Birdie, y hoy vamos a explorar el maravilloso mundo de la imaginación. ¿Estás listo para un viaje lleno de aventuras y sueños? La imaginación es como una puerta mágica que nos lleva a lugares increíbles. Juntos, descubriremos cómo podemos usar nuestra mente para crear cosas asombrosas. ¡Estoy muy emocionado de comenzar esta aventura contigo!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Imaginar es como soñar despiertos mientras jugamos. ¿Alguna vez has imaginado ser un valiente astronauta o un mago poderoso? Con solo cerrar los ojos, podemos transportarnos a mundos llenos de magia y diversión. La imaginación nos ayuda a crear historias y a resolver problemas de maneras creativas. ¡Es como tener un súper poder en nuestra mente!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a aprender cómo usar nuestra imaginación para jugar. Primero, piensa en un animal que te guste mucho. Puede ser un león rugiente o un delfín saltarín. Ahora, imagina que puedes moverte como ese animal. ¿Cómo se siente ser tan fuerte o tan rápido? ¡Es divertido imaginar, ¿verdad? Practiquemos juntos siendo esos animales por un momento."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Ahora, vamos a imaginar que estamos en un bosque encantado. Mira a tu alrededor y observa los árboles altos y las flores de colores. ¿Puedes escuchar a los pájaros cantando? Vamos a contar hasta tres y luego imaginaremos que estamos volando como pajaritos. Uno, dos, tres... ¡Allá vamos! ¡Qué alto volamos!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¿Recuerdas lo divertido que fue volar en el bosque encantado? La imaginación nos permite ser lo que queramos y visitar lugares que nunca hemos visto. Podemos crear nuestros propios mundos con nuestras propias reglas. Es como ser el director de una película mágica. Cuanto más practicamos, más real se siente todo en nuestra mente."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que hemos practicado un poco, ¿te gustaría contarme sobre un mundo que has imaginado? Puede ser un lugar donde los juguetes cobran vida o donde los animales hablan. Mientras lo haces, intenta describir cómo se ve y qué sucede allí. Es maravilloso compartir nuestras ideas y ver cómo crecen con la ayuda de los demás."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer un pequeño ejercicio de respiración para ayudar a nuestra imaginación. Inhala profundamente por la nariz contando hasta tres, y luego exhala por la boca contando hasta tres también. Uno, dos, tres... ¡Inhala! Uno, dos, tres... ¡Exhala! Esto nos ayuda a relajarnos y a concentrarnos mejor en nuestras ideas. ¿Sientes cómo se calma tu mente?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Ahora que estamos relajados, pensemos en un cuento que podríamos inventar juntos. ¿Qué te parece una historia sobre un pequeño dragón que quiere aprender a volar? Podemos imaginar cómo el dragón practica y finalmente logra volar alto en el cielo. ¿Qué otras aventuras crees que podría tener este dragón?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La imaginación también nos ayuda a resolver problemas. Si alguna vez te sientes triste o aburrido, puedes usar tu imaginación para encontrar una solución. Por ejemplo, si llueve y no puedes salir a jugar, puedes imaginar que tu habitación es un barco pirata navegando por mares lejanos. ¿No es increíble cómo podemos cambiar nuestra perspectiva con solo imaginar?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría compartir alguna vez que usaste tu imaginación para resolver un problema? Tal vez inventaste un juego nuevo o creaste una historia para entretenerte. Cuéntame, ¿qué hiciste y cómo te ayudó tu imaginación? ¡Estoy seguro de que tienes ideas maravillosas para compartir!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Gracias por compartir tus ideas! Es increíble cómo la imaginación puede hacer que cualquier día sea especial. A veces, incluso podemos imaginar que somos superhéroes que ayudan a los demás. Al usar nuestra imaginación, también podemos aprender a ser más amables y valientes en la vida real."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, juguemos a imaginar que somos exploradores en una selva. Imagina todos los sonidos que podrías escuchar, como el agua de una cascada o los pasos de un tigre. ¿Qué cosas interesantes crees que podríamos encontrar en nuestra aventura? Vamos a cerrar los ojos por un momento y ver qué descubrimos."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué descubrimientos tan emocionantes! La imaginación nos lleva a lugares que nunca habríamos pensado visitar. Cada vez que imaginamos, aprendemos algo nuevo sobre nosotros mismos y el mundo. ¡Sigue usando tu imaginación todos los días y verás cuántas aventuras puedes tener!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer explorar el mundo de la imaginación contigo. Recuerda que siempre puedes usar tu imaginación para crear, aprender y divertirte. ¡Eres increíble! Espero que sigas soñando y creando historias maravillosas. ¡Hasta la próxima, amiguito! ¡Sigue volando alto con tu imaginación!"
+    }
+  ],
+  "title": "Historia de Imagination de Chirpy Birdie"
+}

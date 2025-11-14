@@ -1,0 +1,98 @@
+{
+  "id": "snowman_buddy_olaf-style_imagination_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "imagination",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis votre copain bonhomme de neige, tout comme Olaf. Aujourd'hui, nous allons partir dans un voyage incroyable sur l'imagination. Êtes-vous prêts à laisser vos esprits s'envoler? Je suis tellement curieux de savoir ce que vous pouvez imaginer. Alors, mettons nos chapeaux de rêve et partons ensemble!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est comme avoir un trésor magique dans notre tête. Avec elle, nous pouvons créer des mondes où nous sommes des rois et des reines, des astronautes ou même des super-héros. C'est notre pouvoir spécial qui nous permet de transformer l'ordinaire en extraordinaire. Pensez à un moment où vous avez imaginé quelque chose de fantastique. N'est-ce pas amusant de rêver ainsi?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, laissez-moi vous montrer comment utiliser votre imagination. Fermez vos yeux un instant et imaginez que vous êtes dans un jardin magique. Dans ce jardin, les fleurs chantent et les papillons dansent autour de vous. Que voyez-vous d'autre? Peut-être un étang avec des grenouilles qui jouent de la guitare? Laissez votre esprit créer toutes sortes de merveilles!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Vous faites un excellent travail en imaginant. N'oubliez pas que votre imagination n'a pas de limites. Vous pouvez être tout ce que vous voulez, même un pirate naviguant sur les mers ou un explorateur dans une forêt enchantée. Continuez à rêver et à créer vos propres histoires. Vous êtes incroyables!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons imaginé le jardin magique? Maintenant, pensons à ce que nous pourrions faire là-bas. Peut-être que nous pourrions organiser un pique-nique avec nos amis les animaux. Que diriez-vous d'inviter un ours qui aime le miel et un lapin qui adore les carottes? Imaginez les rires et les jeux que nous pourrions partager ensemble."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Et si nous ajoutions un peu de magie à notre jardin? Peut-être qu'il y a une fontaine qui fait apparaître des arcs-en-ciel quand on y jette une pierre. Ou un arbre qui raconte des histoires merveilleuses chaque fois que le vent souffle à travers ses branches. Que pensez-vous, mes amis? Quelle autre magie pourrions-nous découvrir?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, pensons à un autre endroit incroyable où notre imagination peut nous emmener. Imaginez une plage de sable doré où les coquillages chuchotent des secrets de la mer. Les vagues chantent une douce mélodie et les poissons colorés dansent sous l'eau. Quelle aventure aimeriez-vous vivre sur cette plage magique?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons un petit exercice ensemble. Prenons une grande inspiration, et en expirant, imaginez que vous êtes un oiseau volant haut dans le ciel. Que voyez-vous en bas? Peut-être des montagnes majestueuses ou une forêt verdoyante. N'est-ce pas merveilleux de voyager si loin avec juste notre esprit?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez tous une imagination incroyable! Continuez à explorer ces mondes fantastiques que vous créez. Peut-être qu'un jour, vous partagerez vos histoires avec vos amis ou votre famille. Souvenez-vous, il n'y a pas de rêve trop grand ou trop petit. Chaque idée est précieuse et unique, tout comme vous!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Je me demande, quelles autres aventures aimeriez-vous imaginer? Peut-être un voyage dans l'espace ou une promenade dans un château mystérieux? Dites-moi, mes amis, quelle est votre idée préférée? Je suis tout ouïe pour écouter vos pensées magiques!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "N'oublions pas que l'imagination est aussi très utile. Elle peut nous aider à résoudre des problèmes, comme imaginer de nouvelles façons de ranger nos jouets ou de créer des jeux amusants. Par exemple, vous pouvez transformer votre chambre en un bateau pirate ou un château fort. Que pourriez-vous inventer d'autre avec votre imagination?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Et si nous imaginions que nous préparons un délicieux repas pour nos amis imaginaires? Que mettrions-nous dans notre menu? Peut-être des gâteaux aux étoiles ou une soupe aux arc-en-ciel? Pensez à toutes les saveurs et couleurs que nous pourrions créer. Cela vous donne envie de cuisiner, n'est-ce pas?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Voyez-vous comme l'imagination peut être amusante et utile? Elle nous aide à voir le monde d'une manière différente et à rendre chaque jour spécial. Même quand il pleut dehors, nous pouvons imaginer que nous sommes dans une aventure sous-marine avec des poissons qui brillent. Que diriez-vous de continuer à explorer votre imagination chaque jour?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce voyage imaginaire avec moi, mes chers amis. Continuez à rêver et à créer, car votre imagination est un cadeau précieux. Je suis impatient d'entendre toutes les nouvelles histoires que vous inventerez. À bientôt, et n'oubliez jamais de laisser votre imagination s'envoler. Au revoir, mes petits rêveurs!"
+    }
+  ],
+  "title": "Histoire de Imagination de Snowman Buddy Olaf-Style"
+}

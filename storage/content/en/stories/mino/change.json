@@ -1,0 +1,98 @@
+{
+  "id": "mino_change_story",
+  "character": "Mino",
+  "topic": "change",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little space explorers! I'm Mino, your friendly guide on a journey through the stars. Today, we're going to talk about something magical called change. Change is like when a caterpillar transforms into a beautiful butterfly. It's exciting and sometimes a little bit different. Are you ready to explore this adventure with me? Let's zoom into our story and see what changes we can discover!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, imagine you're on a spaceship, flying through the galaxy. Every star you pass has its own story of change. Just like how the moon changes shape in the sky, from a tiny crescent to a big, round full moon. Isn't that amazing? Change can be as small as a new toy or as big as a new school. It's all about trying new things and seeing how they make us feel. Let's continue our journey and see what else we can learn about change!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about the moon changing shapes? Let's think about how we can change too! Maybe you've learned to tie your shoes or ride a bicycle. These are changes that help us grow and become more independent. Change can also be learning to share or making a new friend. It's like adding new colors to your painting. Every change adds something special to who you are. Let's see how we can embrace these changes together!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job, explorers! Now, let's try something fun. Close your eyes and imagine your favorite place. It could be a park, a beach, or even your backyard. Picture how it looks, feels, and sounds. Now, imagine if something new appeared there, like a playful puppy or a shiny new slide. How does that change make you feel? Excited? Curious? Remember, change can bring new adventures and surprises. You can always find something wonderful in the new!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue exploring! Sometimes, change can feel a bit scary, like starting at a new school or moving to a new house. But just like a brave astronaut exploring a new planet, you can discover amazing things. You might meet new friends or find a new favorite game. It's okay to feel a little nervous at first. With time, new things can become familiar and fun. Let's keep our hearts open to these exciting changes!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn about another kind of change: the weather! Have you ever noticed how the sky changes from sunny to rainy? Each type of weather brings different adventures. On sunny days, you can play outside, and on rainy days, you can splash in puddles or read a cozy book indoors. Just like the weather, life can change, bringing new experiences. Every change helps us grow and learn something new. Now, let's take a deep breath and get ready for more adventures!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're doing great, little explorer. Let's try counting together to see how change can happen step by step. One, two, three, four, five! Just like counting, change happens one step at a time. Each step brings us closer to something new and exciting. Remember, it's okay to take your time with change. Every step is a part of your amazing journey. Let's keep counting and exploring together!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's talk about changes in nature. Have you ever watched a seed grow into a tall, strong tree? It starts as a tiny seed, then with water and sunshine, it grows bigger and stronger. This is a wonderful change that takes time and patience. Just like the tree, you are growing and changing every day. Each day brings new things to learn and explore. Let's celebrate all the amazing changes we see around us!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I have a question for you. Can you think of a change that happened recently? Maybe you learned something new or made a new friend? How did that change make you feel? Happy, excited, or maybe a little unsure? It's okay to feel different emotions with change. Sharing your feelings with someone you trust can help. Let's take a moment to think about our changes and how they make us feel."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our journey with another story. Imagine a little star named Twinkle. Twinkle was nervous about moving to a new part of the sky. But, with each twinkle, Twinkle met new star friends and learned new constellations. Twinkle discovered that change brought new adventures and fun. Just like Twinkle, you can shine bright and embrace new experiences. Let's twinkle our way to more exciting changes!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember, change can also be about trying new things, like tasting a new food. Have you ever tried a food you didn't know and ended up liking it? It's like a delicious surprise! Trying new things helps us discover what we enjoy. Next time you have a chance to try something new, think of it as an adventure. You never know what wonderful things you might find. Let's keep our taste buds ready for new experiences!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastic! You're a great explorer of change! Let's take three calm breaths together. Breathe in... and out. In... and out. One more time, in... and out. Breathing can help us feel calm and ready for change. Whenever you feel a little unsure about something new, remember you can always take a deep breath to help you feel better. You're doing an amazing job, and I'm so proud of you!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about change with our toys. Sometimes, we get new toys, and other times, we share our toys with friends. Both are changes that can be exciting and fun. Sharing toys can help us make new friends and learn to play together. It's like having a toy party with lots of smiles and laughter. Remember, sharing can bring joy to you and your friends. Let's celebrate the happiness that change can bring!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Wow, what an amazing journey we've had today! We've learned that change is like a big adventure, full of new experiences and discoveries. Remember, change can bring new friends, exciting adventures, and lots of fun. It's okay to feel different emotions about change, and you can always talk to someone you trust. Thank you for exploring with me, Mino. Until next time, keep shining bright and embracing all the wonderful changes in your life. Goodbye, little explorers!"
+    }
+  ],
+  "title": "Mino's Change Story"
+}

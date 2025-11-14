@@ -1,0 +1,104 @@
+{
+  "id": "adventure_dora_pal_imagination_story",
+  "character": "Adventure Dora Pal",
+  "topic": "imagination",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Adventure Dora Pal. Aujourd'hui, nous allons partir pour un incroyable voyage sur le thème de l'imagination. Es-tu prêt ? Je suis tellement curieuse de savoir ce que tu penses. Imaginons ensemble toutes sortes de choses merveilleuses. Allons-y !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est comme un super pouvoir que tout le monde possède. Elle nous aide à créer des histoires, à jouer à des jeux et à rêver de choses fantastiques. Par exemple, tu peux imaginer que tu es un pirate à la recherche de trésors cachés. Ou peut-être un astronaute voyageant dans l'espace. L'imagination nous permet de voyager n'importe où sans quitter notre maison. N'est-ce pas incroyable ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons un exercice d'imagination ensemble. Ferme les yeux et imagine un jardin magique. Que vois-tu dans ce jardin ? Peut-être des fleurs de toutes les couleurs de l'arc-en-ciel. Peut-être un petit ruisseau qui chante doucement. Utilise ton imagination pour ajouter des éléments amusants. Tu peux même imaginer des animaux qui parlent. Quelles histoires peuvent-ils raconter ?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super travail ! Je suis sûre que tu as imaginé un jardin incroyable. Tu vois à quel point ton imagination est puissante ? Elle peut transformer un simple moment en une aventure extraordinaire. Continue d'utiliser ton imagination chaque jour. Tu découvriras toujours quelque chose de nouveau et d'excitant. Bravo à toi !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi quand nous avons parlé du jardin magique. Maintenant, imaginons que nous sommes des explorateurs dans une forêt enchantée. Quels sons peut-on entendre ? Peut-être le chant des oiseaux ou le bruissement des feuilles. Que dirais-tu de grimper sur un arbre géant ? Avec l'imagination, tout est possible. Que vas-tu découvrir dans cette forêt ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "En parlant de découvertes, as-tu déjà créé une histoire avec tes jouets ? C'est une excellente façon d'utiliser ton imagination. Tu peux inventer des aventures incroyables avec tes peluches ou tes figurines. Peut-être que le dinosaure et le lapin partent ensemble pour un voyage sur la lune. Quelles aventures vont-ils vivre ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons un autre exercice amusant. Imagine que nous sommes dans un monde sous-marin. Que vois-tu autour de toi ? Peut-être des poissons colorés qui nagent joyeusement. Peut-être un gentil dauphin qui te guide. Utilise ton imagination pour explorer les profondeurs de l'océan. Quels trésors cachés vas-tu découvrir ?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail formidable avec ton imagination ! Chaque fois que tu imagines, tu rends le monde plus coloré et amusant. Continue d'explorer et de rêver. L'imagination est un trésor que tu peux toujours utiliser. Je suis tellement fière de toi et de ton esprit créatif !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi de notre aventure sous-marine. Maintenant, imaginons que nous sommes des chefs dans une cuisine fantastique. Quels plats incroyables allons-nous préparer ? Peut-être un gâteau au chocolat géant ou une pizza avec des ingrédients magiques. L'imagination nous permet de créer des saveurs que nous n'avons jamais goûtées. Que vas-tu cuisiner aujourd'hui ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, quel est ton endroit préféré à imaginer ? Peut-être une plage ensoleillée ou un château dans les nuages. Pourquoi aimes-tu cet endroit ? Peut-être parce qu'il te fait te sentir heureux et libre. L'imagination est un endroit où tu peux être toi-même. Alors, quel est ton endroit magique ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "En parlant d'endroits magiques, as-tu déjà imaginé être un super-héros ? Quels pouvoirs aimerais-tu avoir ? Peut-être voler dans le ciel ou parler aux animaux. L'imagination te permet d'essayer toutes sortes de choses amusantes. Quels héros voudrais-tu être aujourd'hui ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons de créer notre propre histoire. Pense à un personnage fantastique. Peut-être un chevalier courageux ou une fée malicieuse. Quelles aventures vont-ils vivre ? Peut-être sauver un village ou trouver un trésor caché. Utilise ton imagination pour raconter une histoire pleine d'action et de magie. Que va-t-il se passer ensuite ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Quelle histoire incroyable tu as créée ! J'aime tellement voir ton imagination à l'œuvre. Tu es un véritable conteur d'histoires. Continue d'inventer et de rêver. L'imagination est un cadeau précieux. Tu peux l'utiliser pour rendre chaque jour spécial et amusant. Continue comme ça !"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "En parlant de cadeaux, l'imagination est aussi un moyen de partager avec les autres. As-tu déjà inventé une histoire pour un ami ou un membre de ta famille ? C'est une belle façon de les faire sourire et de créer des souvenirs ensemble. Quelle histoire aimerais-tu partager aujourd'hui ?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure imaginative avec moi ! J'ai adoré explorer et rêver ensemble. Souviens-toi, l'imagination est toujours là pour toi quand tu en as besoin. Continue de créer, de jouer et de rêver. À bientôt, petit ami, pour de nouvelles aventures pleines d'imagination !"
+    }
+  ],
+  "title": "Histoire de Imagination de Adventure Dora Pal"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "spider_fighter_transitions_story",
+  "character": "Spider Fighter",
+  "topic": "transitions",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little adventurers! I'm Spider Fighter, your friendly neighborhood hero. Today, we're going to explore something exciting called transitions. Transitions are like when you switch from playing to having a snack. Are you ready to dive into this journey with me? Let's jump into this web of fun and learn all about changes together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Transitions happen all the time, like when the sun sets and the moon rises. It's like when you go from being awake to sleepy at bedtime. Does that sound familiar? Just like a superhero changes into their costume, we go through changes too. Isn't it cool how we can adapt to new things? Now, let's see how we can make these changes fun and easy!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "When you're moving from one activity to another, it's helpful to take a deep breath. Let's try it together now. Breathe in slowly through your nose, and out through your mouth. Doesn't that feel calming? This simple trick helps us feel ready for whatever comes next. Remember, a deep breath can be your superpower during transitions!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job with the breathing! Now, let's think about how we can prepare for changes. Having a plan can make things smoother, like knowing what to do after school. What if we make a list of fun activities? You can draw a picture or write it down. You're already doing amazing, and I'm proud of you!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's imagine we're on a superhero mission. Sometimes, we need to change directions quickly, just like in our daily lives. Maybe you're playing with toys and it's time to go outside. How do you feel when that happens? It's okay to feel a little unsure. Remember, every superhero feels that way sometimes."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about how to make transitions fun. You could sing a little song while you clean up your toys. Or maybe you could do a silly dance as you move to the next activity. These little things can make changes more enjoyable. Would you like to give it a try next time? I bet you'll have lots of fun!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing great! Remember, every superhero needs to practice to get better. Transitions are no different. The more we practice, the easier they become. Think of it like learning to ride a bike. At first, it might feel tricky, but soon you'll be zooming around with confidence. Keep up the awesome work!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite way to make transitions fun? Maybe you like to count to five before you start something new. Or perhaps you enjoy a quick stretch. I'd love to hear your ideas! It's always exciting to learn new tricks from fellow superheroes. Let's share our super skills with each other!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about taking deep breaths? Let's practice that again. Breathe in, and breathe out. It's like a mini-break to reset your mind. This can help when you're feeling a little overwhelmed by changes. You're learning so much, and I'm really impressed by your superhero skills!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now, let's think about bedtime. Transitions can be tricky at night, but they can also be cozy. Maybe you have a bedtime story or a special song that helps you relax. Do you have a favorite bedtime routine? It's nice to have something familiar to look forward to. You're doing an amazing job with these changes!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's create a fun game for transitions. You can pretend you're a superhero, and each change is a new mission. Maybe you need to rescue a toy or find a hidden treasure. This way, transitions become exciting adventures. Would you like to try this game next time? I think you'll make a fantastic superhero!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're becoming a transition expert! Just like any superhero, you have the power to make changes smooth and fun. Keep practicing your superhero skills, and remember, it's okay to ask for help. You're never alone on your adventures. I'm so proud of you for being brave and trying new things!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What was your favorite part of our adventure today? Was it learning about deep breaths or creating a superhero game? I hope you had as much fun as I did. Sharing these moments with you is always a joy. Let's keep discovering new ways to handle transitions together!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our adventure is coming to an end, but our journey with transitions continues every day. Remember, you're a superhero in your own life, ready to tackle any change that comes your way. Thank you for joining me today. Until next time, keep being brave and amazing! Goodbye, little superheroes!"
+    }
+  ],
+  "title": "Spider Fighter's Transitions Story"
+}

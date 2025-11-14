@@ -1,0 +1,104 @@
+{
+  "id": "super_jump_hero_transitions_story",
+  "character": "Super Jump Hero",
+  "topic": "transitions",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Super Jump Hero. Bugün birlikte harika bir maceraya çıkacağız ve transitions, yani değişiklikler ve yeni durumlara uyum hakkında konuşacağız. Hazır mısın? Seni çok merak ediyorum. Bu yolculukta birlikte eğleneceğiz ve çok şey öğreneceğiz. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda maceraya çıkacağımızı söylemiştim. Değişiklikler bazen biraz korkutucu olabilir ama endişelenme, çünkü ben buradayım! Yeni bir okula başlamak ya da yeni arkadaşlar edinmek gibi durumlar olabilir. Bu değişiklikler, büyümenin bir parçası ve seni daha güçlü yapar. Her zaman yanında bir dostun olduğunu unutma!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi sana değişikliklerle başa çıkmanın yollarını anlatacağım. İlk olarak, değişiklikleri küçük adımlarla ele almak çok önemlidir. Mesela, yeni bir oyuncağınla oynamak gibi. Önce ona alışman ve onunla nasıl oynayacağını öğrenmen gerekiyor. Sonra, bu yeni duruma alıştığında, her şey daha kolay hale gelir. Bu adımları izleyerek her türlü değişiklikle başa çıkabilirsin!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsun! Şimdi birlikte bir nefes alalım ve rahatlayalım. Derin bir nefes al, sonra yavaşça ver. İşte bu kadar! Her zaman kendini rahatlatmak için bu nefes egzersizini yapabilirsin. Böylece, her türlü değişiklikle daha kolay baş edebilirsin. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki nefes egzersizi, değişikliklerle başa çıkarken sakin kalmana yardımcı olabilir. Şimdi, değişikliklerin getirdiği heyecanı düşünelim. Yeni bir şey öğrenmek her zaman heyecan vericidir, değil mi? Mesela, yeni bir oyun oynamak ya da farklı bir yer keşfetmek gibi. Bu yeni deneyimler, sana her zaman güzel anılar kazandırır. Hadi, bu heyecanı birlikte yaşayalım!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, rutin değişiklikleri nasıl daha eğlenceli hale getirebileceğimizi konuşalım. Rutinlerin değişmesi bazen sıkıcı olabilir, ama eğlenceli hale getirmek senin elinde! Her sabah dişlerini fırçalarken kendine bir şarkı söyleyebilirsin. Ya da oyuncaklarını toplarken bir oyun oynayabilirsin. Böylece, her değişiklik daha eğlenceli ve keyifli olur."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki rutin örneklerini hatırlıyor musun? Şimdi, kendi rutinlerinde ne gibi değişiklikler yapabileceğini düşün. Mesela, sabah kalktığında güne neşeli bir şarkı ile başlamak gibi. Ya da akşamları uyumadan önce bir hikaye dinlemek gibi. Bu küçük değişiklikler, günlük hayatını daha eğlenceli hale getirebilir. Hadi, sen de kendi fikirlerini düşün!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Senin hayatında en son hangi değişiklik oldu? Yeni bir arkadaş mı edindin, yoksa yeni bir oyuncağın mı oldu? Bu değişiklik seni nasıl hissettirdi? Cevabını merakla bekliyorum. Hadi, düşün ve bana anlat!"
+    },
+    {
+      "id": "scene_8",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Cevabını dinlemek için sabırsızlanıyorum! Her değişiklik, yeni bir macera fırsatıdır. Değişiklikler bazen zorlayıcı olabilir ama unutma, her zaman bir çözüm vardır. Şimdi, senin hikayeni dinlemek için buradayım. Anlat bakalım!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, değişikliklerin hayatımızdaki önemini düşünelim. Değişiklikler, bazen bizi daha güçlü ve cesur yapar. Yeni şeyler öğrenmek, yeni yerler görmek ve yeni arkadaşlar edinmek gibi. Her biri bizi daha da büyütür ve geliştirir. Her değişiklik, bize yeni bir şey öğretir. Hadi, bu değişikliklerin bize neler kattığını birlikte keşfedelim!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen harikasın! Değişikliklerle başa çıkmak için gereken her şeye sahipsin. Unutma, her zaman yanındayım ve sana destek olacağım. Her yeni durum, yeni bir macera demektir. Seninle bu maceraları paylaşmak için sabırsızlanıyorum. Hadi, birlikte daha fazla keşif yapalım!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda değişikliklerin öneminden bahsetmiştik. Şimdi, bu değişikliklerin hayatımızda nasıl bir fark yarattığını düşünelim. Yeni bir okula başlamak ya da yeni bir spor dalı denemek gibi değişiklikler, bize yeni beceriler kazandırabilir. Her biri, bizi daha da cesur ve güçlü yapar. Hadi, bu değişikliklerin bize neler kattığını birlikte keşfedelim!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Şimdi, seninle birlikte bir oyun oynayalım. Bu oyun, değişikliklere nasıl uyum sağlayabileceğimizi gösterecek. Mesela, yeni bir oyuncağın olduğunu düşün. Onunla oynamak için neler yapabilirsin? Belki de yeni bir arkadaş edinmek için hangi adımları atabilirsin? Bu oyunu oynarken, değişikliklerin nasıl eğlenceli hale gelebileceğini göreceğiz!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bir başka soru daha geliyor! Değişikliklerin seni nasıl hissettirdiğini düşündün mü? Bazen heyecan verici, bazen de biraz korkutucu olabilir. Ama unutma, her zaman bir çözüm vardır. Senin bu konuda nasıl hissettiğini merak ediyorum. Düşüncelerini paylaşmak ister misin?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık, değil mi? Değişikliklerin ve yeni durumlara uyum sağlamanın ne kadar önemli olduğunu öğrendik. Seninle bu macerayı paylaşmak çok güzeldi. Her zaman yanındayım ve sana destek olacağım. Şimdi veda zamanı ama unutma, yeni maceralarda tekrar buluşacağız. Hoşça kal!"
+    }
+  ],
+  "title": "Super Jump Hero'ın Transitions Hikayesi"
+}

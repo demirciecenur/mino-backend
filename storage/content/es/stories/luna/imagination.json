@@ -1,0 +1,98 @@
+{
+  "id": "luna_imagination_story",
+  "character": "Luna",
+  "topic": "imagination",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Luna, y hoy vamos a embarcarnos en un viaje mágico lleno de imaginación. ¿Estás listo para explorar mundos maravillosos conmigo? Imaginar es como soñar despierto, donde todo es posible y no hay límites. Juntos, descubriremos cómo la imaginación puede llevarnos a lugares increíbles. Estoy muy emocionada de comenzar esta aventura contigo."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La imaginación es como una puerta mágica que se abre en nuestra mente. Nos permite crear historias, inventar personajes y visitar lugares que solo existen en nuestros sueños. ¿Alguna vez has imaginado ser un valiente caballero o una princesa en un castillo encantado? Con la imaginación, puedes ser lo que quieras. Ahora que sabemos qué es la imaginación, pensemos en cómo podemos usarla hoy."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para usar nuestra imaginación, primero necesitamos cerrar los ojos y respirar profundamente. Inhalamos suavemente y luego exhalamos lentamente, como si estuviéramos soplando una burbuja mágica. Esto nos ayuda a concentrarnos y a entrar en nuestro mundo imaginario. Ahora, pensemos en un bosque encantado lleno de árboles que brillan. ¿Puedes ver las luces mágicas entre las hojas? ¡Qué maravilloso se ve!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora, vamos a imaginar que en ese bosque hay un río cristalino que canta una canción suave. El agua es tan clara que podemos ver a los peces dorados nadando felices. ¿Puedes escuchar el sonido del agua? Es como una melodía que nos invita a seguir explorando. ¡Qué emocionante es dejar volar nuestra imaginación!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "En nuestro recorrido por el bosque, encontramos una casita mágica hecha de chocolate y caramelos. ¿Te gustaría entrar y ver quién vive allí? Dentro, encontramos un grupo de pequeñas hadas que nos dan la bienvenida con una danza. Las hadas son tan pequeñas que caben en la palma de nuestra mano, y sus alas brillan como estrellas. ¡Qué divertido es conocer personajes tan especiales!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a imaginar que somos amigos de las hadas y que podemos volar con ellas. Cerramos los ojos y sentimos cómo nos elevamos suavemente hacia el cielo. Volamos sobre el bosque, viendo todo desde arriba. Los árboles parecen pequeños y el río es como una cinta plateada. ¿No es increíble lo que podemos hacer con nuestra imaginación? ¡Podemos ir a cualquier lugar que queramos!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué fantástico es volar con las hadas! Ahora, vamos a aterrizar suavemente en un campo de flores de colores. Las flores son tan altas como nosotros y tienen un aroma dulce. Podemos olerlas y sentir su suavidad al tocarlas. ¿Puedes imaginar los colores brillantes y el perfume en el aire? ¡Es un lugar mágico lleno de alegría y serenidad!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Mientras descansamos en el campo de flores, pensemos en todas las cosas que hemos imaginado hoy. Hemos volado, conocido hadas y explorado un bosque mágico. La imaginación nos ayuda a crear mundos donde todo es posible. Es como un amigo que siempre está ahí para jugar y soñar con nosotros. ¿No es maravilloso tener una imaginación tan poderosa?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Y tú, qué te gustaría imaginar ahora? ¿Quizás un viaje a la luna o un paseo en un barco pirata? La imaginación no tiene límites, y podemos soñar con cualquier cosa que nos haga felices. Cuéntame, ¿qué es lo que más te gusta imaginar? Estoy segura de que tienes ideas increíbles y mágicas. Me encantaría escucharlas."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Me encanta escuchar tus ideas! Cada vez que imaginamos, creamos un nuevo mundo lleno de aventuras. Recuerda que siempre puedes regresar a estos lugares mágicos cuando quieras. Solo necesitas cerrar los ojos y dejar que tu imaginación te guíe. ¡Qué afortunados somos de poder soñar tan grande!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos explorado tanto, es momento de regresar a casa. Pero no te preocupes, nuestros amigos mágicos siempre estarán aquí, esperándonos para la próxima aventura. La imaginación es un regalo que podemos usar todos los días. Nos ayuda a pensar de manera creativa y a encontrar soluciones divertidas a los desafíos. ¡Nunca dejes de imaginar!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Antes de terminar, vamos a hacer un pequeño ejercicio de imaginación. Cierra los ojos y piensa en un lugar donde te sientas muy feliz. Puede ser un parque de juegos, una playa soleada o incluso tu habitación. Imagínalo con todos los detalles: los colores, los sonidos y los olores. ¿Puedes sentir la felicidad de estar allí? ¡Qué bonito es crear momentos felices con nuestra mente!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo has hecho genial! Siempre recuerda que tu imaginación es una herramienta poderosa. Puedes usarla para crear, jugar y aprender cosas nuevas. Cada día es una nueva oportunidad para imaginar algo diferente. Así que sigue soñando y dejando que tu mente vuele a lugares maravillosos. ¡Estoy muy orgullosa de ti y de todo lo que has imaginado hoy!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer compartir este viaje de imaginación contigo. Espero que te hayas divertido tanto como yo. Recuerda que siempre puedes regresar a estos mundos mágicos cuando quieras. Solo necesitas tu imaginación y un poco de magia. ¡Hasta la próxima vez, pequeño soñador! ¡Adiós y sigue creando maravillas con tu imaginación!"
+    }
+  ],
+  "title": "Historia de Imagination de Luna"
+}

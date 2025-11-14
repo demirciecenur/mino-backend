@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_behavior_attention_story",
+  "character": "Bubble Buddy",
+  "topic": "behavior_attention",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Bubble Buddy, deniz altındaki en neşeli maceracı! Bugün birlikte dikkat toplama ve öz-düzenleme konularında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Bu yolculukta birçok eğlenceli şey keşfedeceğiz. Haydi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dikkat toplamak bazen zor olabilir, değil mi? Ama hiç endişelenme, çünkü bunu eğlenceli hale getirebiliriz! Mesela, bir oyuncağa odaklanmak için onunla ilgili bir hikaye uydurabilirsin. Böylece hem eğlenir hem de dikkatin dağılmaz. Bunu denemek ister misin? Eminim çok seveceksin!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, öz-düzenleme hakkında konuşalım. Öz-düzenleme, duygularımızı ve davranışlarımızı kontrol etmemize yardımcı olur. Mesela, çok heyecanlandığında derin bir nefes almak seni sakinleştirebilir. Şimdi birlikte üç derin nefes alalım. Hazır mısın? Hadi başlayalım!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Derin nefes almak gerçekten de rahatlatıcı, değil mi? Şimdi, günlük rutinler oluşturmanın önemini konuşalım. Her gün aynı saatte uyumak ve kalkmak, vücudumuzun daha iyi çalışmasını sağlar. Senin de böyle bir rutinin var mı? Eğer yoksa, birlikte bir rutin oluşturabiliriz!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda rutinlerden bahsetmiştik. Şimdi bunu daha eğlenceli hale getirelim! Oyuncaklarını toplamak gibi basit bir görevle başlayabiliriz. Bu hem odanı düzenli tutar hem de dikkatini toplamana yardımcı olur. Şimdi, odandaki en sevdiğin oyuncağı bul ve onunla bir hikaye oluştur. Bunu yaptığında neler hissettiğini merak ediyorum!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Harika! Oyuncağınla oluşturduğun hikaye kesinlikle çok ilginç olmalı. Şimdi, dikkatini daha iyi toplamak için başka bir yöntem deneyelim. Birlikte beşe kadar sayalım ve her sayının sonunda minik bir mola verelim. Hazır mısın? Haydi başlayalım!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Beşe kadar saymak çok eğlenceliydi, değil mi? Şimdi, dikkat toplama konusunda öğrendiğimiz başka bir şeyi deneyelim. Kendi kendine konuşmak, odaklanmana yardımcı olabilir. Mesela, 'Şimdi bu oyuncağı toplayacağım' gibi cümleler kurabilirsin. Bu da seni motive eder ve dikkatini toplamanda yardımcı olur!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence hangi aktiviteler dikkatini toplamana daha çok yardımcı olabilir? Resim yapmak mı, yoksa bir hikaye okumak mı? Ya da belki başka bir şey? Cevabını duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Harika cevaplar! Şimdi, öğrendiklerimizi pekiştirmek için küçük bir oyun oynayalım. Bu oyunun adı 'Dikkat Dedektifi'. Etrafında dikkatini çeken bir nesne bul ve onun hakkında üç şey söyle. Bu, dikkatini toplamana yardımcı olacak ve çevreni daha iyi gözlemlemeni sağlayacak!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Dikkat Dedektifliği oyununu çok iyi oynadın! Bu tür oyunlar, zihnimizi keskin tutar ve dikkat toplama yeteneğimizi geliştirir. Şimdi, öğrendiğimiz her şeyi bir araya getirelim. Dikkat toplamak ve öz-düzenleme, günlük hayatımızda bize çok yardımcı olur. Sen de bu becerileri kullanarak harika işler başarabilirsin!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, öğrendiklerimizi bir adım daha ileriye taşıyalım. Bir hedef belirlemek, dikkat toplama becerini geliştirebilir. Mesela, her gün bir kitap okumak ya da bir resim yapmak gibi. Bu hedefleri belirlemek ve onlara ulaşmak, seni mutlu ve başarılı hissettirecek!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hedef belirlemek gerçekten heyecan verici, değil mi? Şimdi, belirlediğin hedefi düşün ve onu nasıl gerçekleştireceğini planla. Bu planı yaparken, dikkatini toplamak için öğrendiğimiz yöntemleri kullanabilirsin. Eminim çok başarılı olacaksın!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hedeflerinle ilgili ne düşünüyorsun? Onlara ulaşmak için hangi adımları atacaksın? Planını duymak için sabırsızlanıyorum! Bu, senin için harika bir macera olacak!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika planlar yapıyorsun! Unutma, her adımda dikkatini toplamak ve öz-düzenleme yapmak seni başarıya götürecek. Bu yolculukta her zaman yanındayım. Seninle bu macerayı paylaşmak gerçekten harikaydı!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün harika bir yolculuk yaptık, değil mi? Dikkat toplamak ve öz-düzenleme konularında çok şey öğrendik. Umarım bu bilgiler sana günlük hayatında yardımcı olur. Şimdi veda zamanı, ama unutma, Bubble Buddy her zaman burada! Yeni maceralarda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Bubblebuddy'ın Davranış ve Dikkat Hikayesi"
+}

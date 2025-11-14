@@ -1,0 +1,104 @@
+{
+  "id": "sunny_behavior_story",
+  "character": "Sunny",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis ! Je suis Sunny et aujourd'hui, nous allons parler de quelque chose de très important : le bon comportement. Êtes-vous prêts pour cette aventure ? Le bon comportement, c'est ce qui nous aide à être gentils et à bien nous entendre avec les autres. Imaginez que nous allons explorer un jardin magique où chaque fleur représente une belle action. Allons-y ensemble pour découvrir comment être le meilleur que nous pouvons être !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le bon comportement, c'est comme arroser une plante pour la faire pousser. Quand nous faisons de bonnes actions, nous grandissons aussi ! Par exemple, dire \"s'il vous plaît\" et \"merci\" est une belle manière de montrer du respect. Avez-vous déjà remarqué comment un sourire peut rendre quelqu'un heureux ? C'est magique ! Maintenant, pensons à une autre bonne action que nous pouvons faire chaque jour. Peut-être ranger nos jouets après avoir joué ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des règles. Les règles sont comme des panneaux de signalisation qui nous montrent le bon chemin. Elles nous aident à rester en sécurité et à vivre en harmonie avec les autres. Par exemple, à l'école, écouter la maîtresse est une règle importante. Cela nous aide à apprendre et à respecter les autres. À la maison, il y a aussi des règles, comme se brosser les dents avant de dormir. Ces petites choses font une grande différence !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons ensemble de compter jusqu'à trois pour nous rappeler de respirer calmement quand nous sommes en colère. Un, deux, trois... C'est super ! Prendre une grande respiration peut nous aider à nous calmer et à réfléchir avant d'agir. Vous voyez, chaque petit geste compte pour un bon comportement. Vous êtes déjà sur la bonne voie en écoutant attentivement. Continuons notre exploration magique !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de sourire ? Eh bien, partager est aussi une belle action. Quand nous partageons nos jouets ou nos idées, nous montrons que nous nous soucions des autres. Cela peut rendre tout le monde heureux et créer un environnement joyeux. Pensez à un moment où vous avez partagé quelque chose avec un ami. N'était-ce pas un moment spécial ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Imaginez que vous êtes un super-héros du bon comportement ! Chaque jour, vous avez des missions spéciales, comme aider à mettre la table ou écouter attentivement vos parents. Ces petites missions vous rendent plus forts et plus aimés par vos amis et votre famille. N'est-ce pas incroyable d'être un super-héros du quotidien ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant de la patience. La patience, c'est comme attendre que le gâteau cuise au four. Cela prend du temps, mais le résultat est délicieux ! Quand nous sommes patients, nous montrons que nous respectons le temps et les efforts des autres. Par exemple, attendre notre tour pour jouer à un jeu est une belle façon de pratiquer la patience. Vous pouvez le faire, j'en suis sûr !"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes tous incroyables ! Chaque fois que vous faites un bon choix, c'est comme ajouter une étoile brillante dans le ciel. Pensez à toutes les étoiles que vous avez déjà ajoutées aujourd'hui ! Continuez à être gentils et respectueux, et votre ciel sera rempli d'étoiles. Vous pouvez le faire, et je suis là pour vous aider à chaque étape du chemin !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de l'écoute. Écouter, c'est comme ouvrir un livre plein d'histoires intéressantes. Quand nous écoutons, nous apprenons et comprenons mieux les autres. Pensez à un moment où vous avez écouté un ami vous raconter une histoire. C'était amusant, n'est-ce pas ? L'écoute attentive est une partie importante du bon comportement. Pratiquons ensemble à écouter avec nos oreilles grandes ouvertes !"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est votre moment préféré de la journée pour montrer du bon comportement ? Est-ce le matin en aidant à préparer le petit-déjeuner ? Ou peut-être l'après-midi en jouant gentiment avec vos amis ? Chaque moment est une nouvelle chance de faire de belles actions. Avez-vous une idée de ce que vous aimeriez essayer demain ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est formidable de penser à de nouvelles façons de bien se comporter ! Chaque jour est une nouvelle aventure et une opportunité d'apprendre. Imaginez toutes les belles choses que vous pouvez faire cette semaine. Peut-être aider un ami ou dire quelque chose de gentil à quelqu'un. Vous êtes tous de vrais artistes du comportement !"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Voyons maintenant comment nous pouvons pratiquer le respect. Le respect, c'est traiter les autres comme nous aimerions être traités. Cela signifie écouter, partager, et être gentil. Par exemple, quand nous jouons avec d'autres enfants, nous pouvons montrer du respect en partageant nos jouets. Le respect est une partie essentielle du bon comportement, et il fait du monde un endroit plus heureux pour tout le monde."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites tous un excellent travail ! Chaque petit geste compte pour montrer du respect et du bon comportement. Continuez à pratiquer ces belles actions chaque jour, et vous verrez combien cela rendra tout le monde autour de vous heureux. Vous êtes sur la bonne voie, et je suis si fier de vous !"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà pensé à comment vous pouvez montrer de la gentillesse à quelqu'un aujourd'hui ? Peut-être en aidant un ami ou en faisant un compliment ? La gentillesse est contagieuse et rend tout le monde heureux. Quels sont les petits gestes que vous pourriez faire pour montrer de la gentillesse ?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Je suis tellement content d'avoir passé ce temps avec vous, mes petits amis. Nous avons appris beaucoup de choses sur le bon comportement, et je sais que vous allez continuer à être merveilleux chaque jour. N'oubliez pas, chaque petit geste compte, et je suis toujours là pour vous encourager. Merci d'avoir partagé cette aventure avec moi. À bientôt pour une nouvelle aventure magique !"
+    }
+  ],
+  "title": "Histoire de Behavior de Sunny"
+}

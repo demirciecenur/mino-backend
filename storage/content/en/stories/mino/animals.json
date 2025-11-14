@@ -1,0 +1,104 @@
+{
+  "id": "mino_animals_story",
+  "character": "Mino",
+  "topic": "animals",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little space explorers! I'm Mino, your friendly guide on this exciting journey through the world of animals. Today, we're going to learn about all kinds of wonderful creatures that live on our planet. Are you ready to blast off into this adventure with me? Imagine all the fun we can have discovering new friends like lions, elephants, and even tiny ants. So, buckle up and let's get started on this amazing animal safari!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "First, let's talk about the king of the jungle, the lion! Lions are big cats with golden fur and a mighty roar. They live in groups called prides, which are like families. Imagine a lion roaring so loud that it can be heard from miles away! Did you know that lionesses, the females, do most of the hunting? Isn't that fascinating? Now, let's move on to another amazing animal."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Next, let's learn about elephants, the gentle giants of the animal kingdom. Elephants have long trunks that they use to pick up food, drink water, and even give themselves showers! Wow, that's smart, right? They live in herds, and the leader is usually the oldest female, called a matriarch. Imagine an elephant using its trunk to say hello! Now, let's think about how we can use our imaginations just like elephants use their trunks."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's take a moment to pretend we have trunks like elephants. Can you wave your arm like a trunk? Great job! Now, let's swing our arms and imagine we're picking up a yummy snack. You did it! Using our imaginations is so much fun, and it helps us learn new things about animals. Keep up the great work, explorers!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've met some big animals, let's talk about a tiny one: the ant. Ants are small but very strong for their size. They can carry things that are much heavier than they are. Ants live in colonies with thousands of other ants, just like a busy city! Isn't it amazing how such small creatures can work together to build big homes? Let's keep exploring to find out more about these hard-working insects."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Have you ever seen a butterfly flutter by? Butterflies are insects with beautiful, colorful wings. They start life as caterpillars and go through a big change called metamorphosis. It's like magic when they transform into butterflies! Butterflies love to fly from flower to flower, sipping nectar. Imagine being a butterfly and seeing the world from up high. Let's spread our arms like wings and pretend to fly together!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Are you ready to flap your wings like a butterfly? Let's all stand up and gently move our arms up and down. Wow, look at you go! You're flying just like a butterfly. Isn't it fun to pretend and imagine? You're doing a fantastic job, little explorers. Let's continue our adventure and meet more animal friends."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's visit the ocean and meet dolphins. Dolphins are very smart and playful creatures that love to jump and swim in the water. They use sounds and clicks to talk to each other, just like we use words. Dolphins live in groups called pods, and they love to play games. Imagine swimming alongside a dolphin and feeling the splash of the waves. Let's dive into the sea of imagination together!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's explore the forest and meet the playful monkeys. Monkeys are very clever animals that love to swing from tree to tree. They use their tails for balance and their hands to pick fruits. Monkeys live in groups too and are always looking out for each other. Imagine being a monkey and swinging high up in the trees. Let's practice our monkey moves by pretending to swing our arms through the air!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's all pretend to be monkeys! Can you swing your arms like you're swinging from a tree? Fantastic! You're swinging just like a monkey in the forest. It's amazing how our imaginations can take us to faraway places. You're doing wonderfully, little adventurers. Let's keep going and discover more animal wonders."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's visit the cold, icy lands and meet the polar bears. Polar bears are big, white bears that live in the Arctic. They have thick fur and a layer of fat to keep them warm in the cold. Polar bears are excellent swimmers and can swim long distances to find food. Imagine walking through the snow with a polar bear by your side. Isn't it amazing how animals adapt to their environments?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's take a trip to the savannah and meet the tall giraffes. Giraffes are the tallest animals on land, with long necks that help them reach the leaves on top of trees. Their long legs help them run fast to escape danger. Giraffes have beautiful, spotted coats that help them blend in with the trees. Imagine looking up at a giraffe and seeing its long neck stretch towards the sky. Let's pretend to be giraffes and stretch our necks tall!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Can you stretch your neck like a giraffe and reach for the sky? Great job, little giraffes! You're standing tall and proud just like them. It's so much fun to use our bodies and imaginations to learn about animals. Keep up the great work, explorers. Let's continue our journey and see what other animals we can find!"
+    },
+    {
+      "id": "question_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, let's think about all the animals we've met today. Which animal do you think is the most interesting? Is it the mighty lion, the gentle elephant, or maybe the playful dolphin? Each animal has something special that makes it unique. What makes you feel special? Let's take a moment to think about it and share our thoughts."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our adventure in the animal kingdom has come to an end, little explorers. We've met so many amazing creatures and learned so much about them. Remember, the world is full of wonders just waiting to be discovered. Thank you for joining me, Mino, on this exciting journey. Until next time, keep exploring and learning. Goodbye, and see you on our next adventure!"
+    }
+  ],
+  "title": "Mino's Animals Story"
+}

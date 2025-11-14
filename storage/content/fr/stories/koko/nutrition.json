@@ -1,0 +1,104 @@
+{
+  "id": "koko_nutrition_story",
+  "character": "Koko",
+  "topic": "nutrition, alimentation saine, habitudes alimentaires, aliments sains",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Koko, et aujourd'hui, nous allons partir pour un voyage incroyable sur la nutrition et les habitudes alimentaires saines. Êtes-vous prêts à découvrir des secrets sur les aliments qui nous rendent forts et en bonne santé? Je suis tellement curieux de savoir ce que vous aimez manger. Ensemble, nous allons explorer comment les aliments peuvent nous aider à devenir grands et forts. Préparez-vous pour une aventure amusante et éducative!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des fruits et légumes. Ces aliments sont comme des super-héros pour notre corps! Ils nous donnent des vitamines et des minéraux qui nous aident à rester en bonne santé. Par exemple, les carottes nous aident à avoir une bonne vue, et les pommes sont excellentes pour notre cœur. Avez-vous un fruit ou un légume préféré? C'est formidable d'essayer de nouveaux aliments et de découvrir leurs super pouvoirs!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Rappelez-vous quand nous avons parlé des fruits et légumes? Imaginez maintenant que vous êtes un jardinier qui plante des graines. Chaque fois que vous mangez un fruit ou un légume, c'est comme si vous plantiez une graine de santé dans votre corps. Ces graines poussent pour vous rendre plus fort et plus rapide. Essayez de manger au moins cinq fruits et légumes chaque jour. Cela vous aidera à grandir sainement!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super travail en apprenant sur les fruits et légumes! Maintenant, parlons des céréales comme le pain, le riz et les pâtes. Ces aliments nous donnent de l'énergie, un peu comme le carburant pour une voiture. Imaginez que vous êtes une voiture de course, et les céréales sont le carburant qui vous aide à rouler vite. La prochaine fois que vous mangez des céréales, pensez à toute l'énergie que vous gagnez pour jouer et apprendre!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons avec les protéines, qui sont essentielles pour construire nos muscles. Les protéines se trouvent dans des aliments comme la viande, le poisson, les œufs et les haricots. Imaginez que chaque bouchée de ces aliments construit de petits blocs dans votre corps pour vous rendre plus fort. C'est comme construire une tour avec des blocs de construction. Plus vous mangez de protéines, plus votre tour devient haute et solide!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Rappelez-vous, les protéines sont importantes, mais nous avons aussi besoin de produits laitiers comme le lait et le yaourt. Ils nous aident à avoir des os forts et sains. Imaginez vos os comme des branches d'arbres qui deviennent plus robustes avec chaque verre de lait que vous buvez. Essayez de boire un verre de lait chaque jour pour garder vos os en pleine forme. C'est comme donner de l'eau à une plante pour qu'elle grandisse!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail fantastique en découvrant tous ces aliments sains! Parlons des graisses, mais pas n'importe lesquelles, les bonnes graisses. Elles se trouvent dans les avocats, les noix et l'huile d'olive. Ces graisses aident notre cerveau à fonctionner parfaitement. Imaginez que votre cerveau est une machine incroyable, et les bonnes graisses sont l'huile qui la maintient en mouvement. C'est important de les inclure dans votre alimentation!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, revenons à l'eau, qui est l'un des éléments les plus importants pour notre corps. Boire de l'eau, c'est comme arroser une plante pour qu'elle pousse. L'eau nous aide à rester hydratés et à maintenir notre corps en bonne santé. Imaginez que chaque verre d'eau est une potion magique qui vous donne de l'énergie. Essayez de boire plusieurs verres d'eau par jour pour rester en forme et plein d'énergie!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Rappelez-vous, mes amis, il est important de manger une variété d'aliments pour obtenir tous les nutriments dont nous avons besoin. Pensez à votre assiette comme à une palette de peintre. Plus elle est colorée avec différents aliments, plus elle est saine. Essayez de remplir votre assiette de différentes couleurs chaque jour. C'est une façon amusante de s'assurer que vous obtenez tout ce dont votre corps a besoin!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes sur la bonne voie pour devenir des experts en alimentation saine! N'oubliez pas de prendre le temps de manger tranquillement. Manger lentement aide votre corps à bien digérer les aliments. Imaginez que vous êtes un détective qui savoure chaque indice pour résoudre un mystère. Prenez le temps de goûter chaque bouchée et de découvrir tous les saveurs. Vous verrez, c'est un vrai plaisir!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Alors, mes petits détectives de la nutrition, quels sont les aliments que vous aimeriez essayer aujourd'hui? Peut-être un fruit que vous n'avez jamais goûté ou un légume tout nouveau? Pensez à quelque chose qui pourrait être une aventure de goût pour vous. Avez-vous des idées? C'est toujours excitant d'essayer quelque chose de nouveau. Partagez vos idées avec quelqu'un à la maison et amusez-vous à découvrir de nouvelles saveurs!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, chaque jour est une nouvelle chance de choisir des aliments sains. C'est comme choisir des vêtements pour la journée, mais pour votre corps. Imaginez que vous êtes un super-héros, et chaque aliment que vous choisissez vous donne plus de force. Plus vous choisissez d'aliments sains, plus vous devenez fort et en bonne santé. Faites de votre mieux pour choisir des aliments qui vous aident à être votre meilleur!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Vous avez fait un travail incroyable en apprenant tout cela aujourd'hui. Êtes-vous prêts à partager ce que vous avez appris avec vos amis ou votre famille? Pensez à une chose que vous avez apprise et que vous voulez essayer. Peut-être préparer une assiette colorée ou boire plus d'eau. Vous pouvez devenir un guide pour les autres et les aider à découvrir les merveilles de la nutrition. C'est une mission que vous pouvez accomplir facilement!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Il est temps de mettre en pratique tout ce que nous avons appris. Vous pouvez devenir des champions de l'alimentation saine. Imaginez-vous comme un chef en cuisine, prêt à préparer des repas délicieux et sains. Vous avez tout ce qu'il faut pour réussir. N'oubliez pas, chaque petit choix sain compte et vous rend plus fort. Continuez à explorer, à goûter et à apprendre. Vous êtes capables de grandes choses!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, mes petits amis. J'espère que vous avez appris beaucoup et que vous vous sentez inspirés pour manger sainement. Chaque jour est une nouvelle aventure, et vous êtes prêts à relever le défi. N'oubliez pas que je suis toujours là pour vous encourager. Prenez soin de vous et amusez-vous à découvrir de nouveaux aliments. À bientôt pour une autre aventure excitante!"
+    }
+  ],
+  "title": "Histoire de Nutrition de Koko"
+}

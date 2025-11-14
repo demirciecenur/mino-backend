@@ -1,0 +1,98 @@
+{
+  "id": "boots_knight_pal_nutrition_story",
+  "character": "Boots Knight Pal",
+  "topic": "nutrition",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little adventurers! I'm Boots Knight Pal, your brave and graceful guide today. We are about to embark on an exciting journey through the world of nutrition. Are you ready to discover the secrets of healthy eating? Together, we'll learn how to become strong and energetic like true knights! Let's put on our imaginary armor and step into the land of delicious and nutritious foods."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about something very important: fruits and vegetables. These colorful foods are like magic potions that give us energy and strength. Imagine having the power to run fast or jump high because you ate your favorite fruits! Apples, bananas, carrots, and broccoli are just a few examples. They help us grow tall and keep our bodies healthy. Just like a knight needs a strong shield, we need our fruits and veggies every day."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about the magic of fruits and vegetables? Now, let's learn how to make them even more fun to eat. We can create a rainbow on our plates by choosing different colors of fruits and veggies. Red apples, orange carrots, green broccoli, and purple grapes create a beautiful and tasty meal. When we mix these colors, it's like painting a masterpiece that we can eat. Isn't that exciting? You can be the artist of your own plate!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You can do it! Let's count how many different colors we can put on our plate today. Can you find five different colors? Imagine how proud the knight would be with a rainbow meal! Every color gives us different nutrients, like vitamins and minerals, which are super important. So, let's count together: one, two, three, four, five! Great job! You are a true nutrition knight!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's talk about another important part of our meals: grains. Grains are like the sturdy bricks that build a strong castle. Foods like rice, bread, and oats give us energy to play and learn all day long. Imagine a knight who needs to travel far and wide; grains help us have the energy for our own adventures. Whole grains are even better because they keep us feeling full and ready for anything!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's continue our journey by exploring the world of proteins. Proteins are like the strong armor that protects a knight. They help build our muscles and keep us strong. Foods like chicken, beans, and nuts are full of protein. Just like knights need their armor to be strong and brave, we need proteins to grow and stay healthy. Can you think of your favorite protein food? Maybe it's a tasty bean burrito or a crunchy peanut butter sandwich!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing a fantastic job learning about nutrition! Now, let's imagine we're knights on a quest to find the best protein meal. Would you choose a delicious chicken wrap or maybe a hearty bowl of lentil soup? Both are great choices and give us the strength to conquer any challenge. Remember, every time we eat protein, we are building our knightly muscles. Great work, little knights!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we journey further, let's talk about dairy. Dairy foods, like milk, cheese, and yogurt, are like the magical potions that keep our bones strong. Imagine having super strong bones like a knight's sword! Dairy helps us grow and keeps our teeth healthy too. So, when you drink a glass of milk or enjoy a slice of cheese, you're giving your body the strength it needs to be brave and adventurous every day."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, here's a question for you, my little knight friends. What is your favorite dairy food? Is it a creamy yogurt with fruit or maybe a cheesy grilled sandwich? Dairy foods are delicious and help us stay strong. So whenever you have your favorite dairy snack, remember it's like a knight's magical potion for your bones. Isn't that amazing? I can't wait to hear your answers!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's not forget about water, the most refreshing drink of all! Water is like the clear river that keeps a knight's land lush and green. It helps us stay hydrated and full of energy. Imagine running through a field, feeling the wind in your hair, and having the energy to keep going because you've been drinking water. We need to drink plenty of water every day to stay healthy and happy. So, let's make sure we keep our water bottles close!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's practice taking a few sips of water together. Imagine we're at a grand feast, and it's time to raise our glasses. Ready? Let's take one sip, two sips, three sips! Wonderful! Drinking water is so important, just like brushing our teeth or getting a good night's sleep. It helps us stay alert and ready for any adventure that comes our way. Keep it up, brave knights!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning all about nutrition! Remember, every time you choose a healthy food or drink water, you're making your body stronger. It's like earning a new badge of honor as a knight. Keep exploring new foods and trying different meals. You are on your way to becoming a true nutrition knight, full of energy and ready for anything. Keep shining bright, little adventurers!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we near the end of our journey, let's remember the importance of variety in our meals. Eating different types of foods gives us all the nutrients we need. Just like a knight needs a team, our body needs a team of foods to stay healthy. So, let's try new foods and discover new favorites. Every meal is a new adventure, and you are the hero of your own story. Keep exploring and enjoying your food journey!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time to say goodbye, my brave little knights. Remember all the wonderful things we've learned about nutrition today. Keep choosing colorful fruits and veggies, strong proteins, and refreshing water. You are now equipped with the knowledge to be healthy and strong. I'm so proud of you, and I can't wait for our next adventure together. Farewell, and keep shining bright, little nutrition knights!"
+    }
+  ],
+  "title": "Boots Knight Pal's Nutrition Story"
+}

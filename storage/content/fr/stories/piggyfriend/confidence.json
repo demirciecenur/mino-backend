@@ -1,0 +1,98 @@
+{
+  "id": "piggy_friend_confidence_story",
+  "character": "Piggy Friend",
+  "topic": "confidence",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Piggy Friend. Aujourd'hui, nous allons partir dans une aventure incroyable sur la confiance. Êtes-vous prêt ? Je suis si curieux de savoir ce que vous pensez. Avez-vous déjà ressenti que vous pouviez faire quelque chose de nouveau tout seul ? C'est excitant, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance, c'est comme une petite fleur qui pousse en nous. Quand nous faisons des choses nouvelles, cette fleur grandit. Par exemple, quand tu as appris à attacher tes chaussures, tu as eu plus confiance en toi. C'est un sentiment merveilleux de savoir qu'on peut réussir quelque chose. Maintenant, parlons de comment nous pouvons faire grandir cette confiance chaque jour. Êtes-vous prêts à découvrir quelques astuces ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour commencer, prenons une grande respiration ensemble. Inspirez profondément par le nez, puis expirez lentement par la bouche. Cela aide à se sentir calme et prêt. Ensuite, quand vous faites quelque chose de nouveau, dites-vous : 'Je peux le faire !' Cela vous donne de la force. Vous pouvez aussi penser à une fois où vous avez réussi quelque chose. Cela vous rappelle que vous êtes capable."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Maintenant, essayons ensemble. Pensez à une tâche simple que vous pouvez faire, comme ranger vos jouets. Dites-vous : 'Je suis fort et je peux le faire !' Ensuite, commencez doucement et voyez comment vous vous sentez. Vous verrez, chaque petit succès vous donnera plus de confiance. N'oubliez pas de sourire et de vous dire 'Bravo !' à chaque étape."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous quand nous avons parlé de la fleur de confiance ? Elle grandit chaque fois que vous essayez quelque chose de nouveau. Même si c'est un peu difficile au début, c'est normal. Chaque essai vous rend plus fort. Pensez à un jongleur : il doit s'entraîner beaucoup avant de réussir. Avec du temps et de la pratique, vous pouvez aussi devenir un expert dans ce que vous faites. Continuons à explorer !"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà essayé quelque chose de nouveau aujourd'hui ? Peut-être une nouvelle couleur pour dessiner ou un jeu différent ? Comment cela vous a-t-il fait sentir ? Parfois, cela peut être un peu effrayant, mais c'est aussi très excitant. Pensez-vous que vous aimeriez essayer quelque chose de nouveau demain ? Cela pourrait être amusant !"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous, chaque fois que vous essayez, vous apprenez. Comme quand vous avez appris à faire du vélo. Au début, c'était un peu bancal, mais avec du temps, vous avez réussi. C'est pareil pour tout ce que vous faites. Plus vous essayez, plus vous devenez confiant. Et chaque petit pas compte !"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, faisons un petit exercice ensemble. Fermons les yeux et imaginons que nous sommes des super-héros. Pensez à une chose que vous voulez faire et dites-vous : 'Je suis un super-héros et je peux le faire !' Ouvrez les yeux et ressentez la force en vous. Vous êtes incroyable !"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo ! Vous avez fait un excellent travail. Chaque jour, rappelez-vous que vous êtes capable de grandes choses. Même les petites actions comptent, comme aider à mettre la table ou partager vos jouets. Ces gestes montrent que vous êtes fort et gentil. Continuez à croire en vous, et vous verrez combien vous pouvez accomplir. Vous êtes formidable !"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "N'oubliez pas que même les grands ont parfois besoin d'aide. Demander de l'aide, c'est aussi faire preuve de confiance. Cela montre que vous savez ce qui est bon pour vous. Alors, la prochaine fois que vous avez besoin d'aide, n'hésitez pas à demander. C'est une façon de montrer votre courage et votre sagesse. Vous n'êtes jamais seul, et nous sommes là pour vous aider."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des amis. Avoir des amis, c'est important pour construire sa confiance. Quand vous jouez avec eux, vous apprenez à partager, à écouter et à être patient. Cela vous rend plus fort et plus heureux. Pensez à un moment où vous vous êtes amusés avec vos amis. C'était chouette, n'est-ce pas ? Les amis sont précieux et rendent chaque jour meilleur."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "C'est formidable d'avoir des amis qui croient en vous. Et vous aussi, vous pouvez être un bon ami en encourageant les autres. Dites-leur qu'ils peuvent réussir et soyez là pour les aider. Ensemble, vous pouvez accomplir de grandes choses. N'oubliez pas de dire 'Bravo !' à vos amis quand ils réussissent. Cela les rendra heureux et confiants, tout comme vous !"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour finir, souvenez-vous que la confiance vient aussi du fait de s'amuser. Quand vous jouez, vous apprenez de nouvelles choses et devenez meilleur. Alors, n'ayez pas peur de vous amuser et d'essayer de nouvelles choses. Cela vous aidera à grandir et à découvrir vos talents. Amusez-vous et soyez fier de ce que vous faites chaque jour. Vous êtes unique et spécial !"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce temps avec moi, petit ami. J'espère que vous avez appris beaucoup sur la confiance et que vous vous sentez prêt à essayer de nouvelles choses. N'oubliez pas que vous êtes fort et capable. Je suis si fier de vous. À bientôt pour une nouvelle aventure ! Au revoir, et n'oubliez pas de toujours croire en vous. Vous êtes incroyable !"
+    }
+  ],
+  "title": "Histoire de Confidence de Piggy Friend"
+}

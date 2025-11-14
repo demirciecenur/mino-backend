@@ -1,0 +1,98 @@
+{
+  "id": "super_jump_hero_regulation_emotionnelle_gestion_emotions_se_calmer_autoregulation_story",
+  "character": "Super Jump Hero",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Super Jump Hero, prêt pour une aventure incroyable! Aujourd'hui, nous allons explorer comment gérer nos émotions et rester calmes. C'est comme une aventure magique pour notre cœur et notre esprit! Êtes-vous prêts à sauter dans cette aventure avec moi? Allons-y, et découvrons ensemble comment devenir des experts en régulation émotionnelle!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les émotions, c'est comme des couleurs dans notre cœur. Parfois, nous nous sentons heureux, comme un soleil brillant! D'autres fois, nous pouvons nous sentir un peu tristes, comme un nuage gris. Et c'est normal! Mais savez-vous ce qui est génial? Nous pouvons apprendre à bien gérer toutes ces émotions. Cela nous aide à nous sentir mieux et à être plus heureux chaque jour!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment nous calmer. Quand nous sommes énervés, nous pouvons prendre trois grandes respirations. Inspirez profondément par le nez, puis expirez lentement par la bouche. Cela aide notre cœur à ralentir et notre esprit à se détendre. Vous voyez, c'est comme une petite magie que nous pouvons faire nous-mêmes!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons ensemble! Prenons une grande inspiration ensemble. Un, deux, trois... inspirez! Et maintenant, soufflez... Voilà! Vous êtes incroyables! Répétez cela chaque fois que vous vous sentez un peu stressés. Vous verrez, ça marche comme un charme!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de l'autorégulation. C'est un mot compliqué, mais cela signifie simplement prendre soin de nos émotions nous-mêmes. Par exemple, quand nous sommes tristes, nous pouvons penser à quelque chose de joyeux. Comme jouer avec notre jouet préféré ou écouter une chanson que nous aimons. Cela aide notre cœur à se sentir plus léger!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre façon de gérer nos émotions est de parler à quelqu'un. Comme maman, papa, ou un ami. Parler de ce que nous ressentons peut nous aider à comprendre nos émotions. Et souvent, ceux que nous aimons peuvent nous donner des câlins ou des conseils qui nous font nous sentir mieux. N'oubliez pas, vous n'êtes jamais seuls!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites du bon travail en apprenant tout cela! Maintenant, pensez à un moment où vous vous êtes sentis très heureux. Ça fait du bien, n'est-ce pas? Gardez cette sensation joyeuse avec vous. Vous pouvez y revenir chaque fois que vous avez besoin de réconfort. Vous êtes déjà des experts en régulation émotionnelle!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Réguler nos émotions, c'est aussi comme un jeu. Parfois, nous devons trouver la bonne clé pour ouvrir la porte du calme. Cela peut être un jeu amusant! Quand nous trouvons ce qui nous calme, comme dessiner ou écouter de la musique douce, nous pouvons utiliser ces clés chaque fois que nous en avons besoin."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Alors, mes amis, avez-vous une activité spéciale qui vous aide à vous sentir calme? Peut-être aimez-vous lire un livre ou faire un puzzle? C'est important de connaître nos propres clés de calme. Que diriez-vous d'essayer quelque chose de nouveau aujourd'hui pour voir si ça vous aide? Je suis curieux, dites-moi!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Vous avez partagé de super idées! Peut-être que la prochaine fois, vous pourriez apprendre à un ami comment vous vous calmez. C'est comme partager un trésor secret! Et qui sait, vous pourriez découvrir de nouvelles astuces ensemble. C'est toujours plus amusant d'apprendre avec des amis, n'est-ce pas?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous que chaque émotion que nous ressentons est importante. Elles nous aident à comprendre le monde autour de nous. Quand nous prenons le temps de les écouter, nous devenons plus forts et plus heureux. C'est comme devenir un super-héros de nos propres émotions! Et vous, vous êtes déjà sur la bonne voie!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour finir, faisons un petit exercice ensemble. Fermez les yeux et imaginez un endroit qui vous rend heureux. Peut-être un parc avec des fleurs ou une plage ensoleillée. Imaginez-vous là-bas, en train de jouer et de rire. C'est un endroit où vous pouvez toujours aller dans votre esprit pour vous sentir bien. N'est-ce pas merveilleux?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez fait un travail fantastique aujourd'hui! Vous avez appris comment gérer vos émotions et comment vous calmer. Vous êtes des héros de l'émotion! Continuez à pratiquer, et chaque jour vous deviendrez encore plus forts. Je suis tellement fier de vous!"
+    },
+    {
+      "id": "scene_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce temps avec moi, Super Jump Hero. J'ai adoré notre aventure ensemble! N'oubliez pas de partager ce que vous avez appris avec vos amis et votre famille. Maintenant, il est temps pour moi de sauter vers la prochaine aventure. Au revoir, mes petits amis! À bientôt pour de nouvelles aventures!"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Super Jump Hero"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "rescue_pup_crew_behavior_story",
+  "character": "Rescue Pup Crew",
+  "topic": "behavior",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Teil der Rescue Pup Crew und heute gehen wir auf ein spannendes Abenteuer über gutes Verhalten. Bist du bereit? Verhalten bedeutet, wie wir uns verhalten, wie wir Dinge machen und wie wir mit anderen umgehen. Es ist super wichtig, dass wir freundlich und hilfsbereit sind. Lass uns gemeinsam herausfinden, wie wir das schaffen können!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an das letzte Mal, als du jemandem geholfen hast? Vielleicht hast du einem Freund beim Aufräumen geholfen oder deine Spielsachen geteilt. Solche kleinen Dinge machen einen großen Unterschied! Gutes Verhalten bedeutet, dass wir anderen helfen und freundlich sind. Wenn wir nett sind, fühlen sich alle um uns herum glücklich und sicher. Jetzt lass uns weiter darüber sprechen, wie man ein guter Freund sein kann."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ein guter Freund zu sein bedeutet, dass wir zuhören und mit anderen teilen. Zum Beispiel, wenn du ein Spielzeug hast, kannst du es mit jemandem teilen, der es auch gerne ausprobieren möchte. Oder wenn jemand traurig ist, kannst du fragen, ob du helfen kannst. Wenn wir freundlich sind, fühlen sich alle willkommen und geliebt. Lass uns üben, indem wir einander zuhören und freundlich sind."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar! Jetzt machen wir eine kleine Übung zusammen. Stell dir vor, du hast ein großes, leckeres Eis. Jetzt überleg mal, wie es sich anfühlt, es mit einem Freund zu teilen. Das ist ein tolles Gefühl, oder? Teilen ist eine großartige Möglichkeit, anderen zu zeigen, dass wir sie mögen. Du kannst das auch mit deinen Spielsachen oder deinem Lächeln machen. Du bist fantastisch!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über das Teilen gesprochen haben, lass uns über das Zuhören sprechen. Zuhören ist genauso wichtig wie Sprechen. Wenn jemand mit dir spricht, schaue ihm in die Augen und höre gut zu. So zeigst du, dass du interessiert bist und dass dir die Person wichtig ist. Lass uns gemeinsam üben, indem wir still sitzen und gut zuhören. Kannst du das machen?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt, wo wir das Zuhören geübt haben, können wir über das Folgen von Regeln sprechen. Regeln helfen uns, sicher und glücklich zu bleiben. Zum Beispiel, wenn Mama oder Papa sagen, dass wir unsere Spielsachen aufräumen sollen, dann tun wir das, um Ordnung zu halten. Oder wenn wir in der Schule sind und der Lehrer sagt, dass wir leise sein sollen, dann folgen wir dieser Regel, damit alle lernen können. Regeln sind wie kleine Helfer, die uns den Weg zeigen."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Lass uns jetzt über eine weitere wichtige Sache sprechen: Geduld. Manchmal müssen wir warten, bevor wir etwas bekommen, was wir wollen. Geduld bedeutet, dass wir ruhig bleiben und warten, bis es an der Reihe ist. Zum Beispiel, wenn wir in der Schlange stehen, warten wir geduldig, bis wir dran sind. Das zeigt, dass wir respektvoll und höflich sind. Du kannst das schaffen!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kannst du dich an eine Zeit erinnern, als du geduldig gewartet hast? Vielleicht war es beim Warten auf dein Lieblingsspiel oder beim Anstellen für eine Rutsche. Wie hat es sich angefühlt, geduldig zu sein? Manchmal ist es schwer, aber es lohnt sich immer! Geduld hilft uns, ruhig und freundlich zu bleiben. Was denkst du darüber?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über Geduld gesprochen haben, lass uns über das Vertrauen sprechen. Vertrauen bedeutet, dass wir glauben, dass jemand ehrlich und zuverlässig ist. Wenn wir anderen vertrauen, fühlen wir uns sicher. Wir können Vertrauen aufbauen, indem wir ehrlich sind und unser Wort halten. Zum Beispiel, wenn du versprichst, etwas zu tun, dann tue es! So wissen die Menschen, dass sie sich auf dich verlassen können."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Eine weitere wichtige Sache ist, wie wir mit unseren Gefühlen umgehen. Manchmal sind wir glücklich, manchmal traurig, und manchmal wütend. Es ist okay, all diese Gefühle zu haben. Aber es ist wichtig, dass wir wissen, wie wir damit umgehen. Wenn wir wütend sind, können wir tief durchatmen oder bis fünf zählen, um uns zu beruhigen. Lass uns das zusammen üben: Atme tief ein, und dann langsam aus. Das fühlt sich gut an, nicht wahr?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Du bist ein echter Verhaltensprofi. Lass uns jetzt über Freundlichkeit sprechen. Freundlich zu sein bedeutet, dass wir anderen nette Dinge sagen und tun. Zum Beispiel, wenn wir jemandem ein Kompliment machen oder ihm helfen, wenn er es braucht. Freundlichkeit kann ein Lächeln sein oder ein einfaches „Danke“. Es macht die Welt zu einem besseren Ort. Du bist so freundlich!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich, als wir über das Teilen gesprochen haben? Teilen ist eine Art der Freundlichkeit. Und weißt du, was noch toll ist? Wenn wir freundlich sind, fühlen sich auch wir selbst gut. Es ist wie ein magischer Kreislauf der Freude. Hast du heute schon etwas Freundliches getan? Vielleicht kannst du Mama oder Papa ein Kompliment für das leckere Abendessen machen. Das wäre toll!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du eine Idee, wie du morgen freundlich sein könntest? Vielleicht könntest du einem Freund helfen oder jemandem ein Bild malen. Es gibt so viele Möglichkeiten, freundlich zu sein. Was würdest du gerne ausprobieren? Denk daran, dass jede kleine freundliche Tat zählt und die Welt ein bisschen heller macht. Ich bin gespannt auf deine Ideen!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt haben wir so viel über gutes Verhalten gelernt! Wir haben darüber gesprochen, wie wichtig es ist, zu teilen, zuzuhören, geduldig zu sein, Regeln zu folgen und freundlich zu sein. All diese Dinge machen uns zu wunderbaren Freunden und Teammitgliedern. Du bist ein richtiger Verhaltensheld! Ich bin so stolz auf dich und all die Dinge, die du gelernt hast. Jetzt lass uns ein letztes Mal tief durchatmen und uns entspannen."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über gutes Verhalten zu sprechen. Ich hoffe, du hattest genauso viel Spaß wie ich. Denk daran, dass du jeden Tag die Chance hast, freundlich und hilfsbereit zu sein. Ich freue mich schon darauf, bald wieder mit dir zu sprechen. Bis dahin, pass gut auf dich auf und sei weiterhin der tolle Mensch, der du bist. Tschüss, kleiner Freund!"
+    }
+  ],
+  "title": "Rescue Pup Crews Behavior Geschichte"
+}

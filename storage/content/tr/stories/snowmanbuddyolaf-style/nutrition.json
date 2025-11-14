@@ -1,0 +1,104 @@
+{
+  "id": "snowman buddy olaf-style_nutrition_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Snowman Buddy Olaf-style. Bugün birlikte beslenme hakkında harika bir yolculuğa çıkacağız. Beslenme, büyümemiz ve sağlıklı kalmamız için çok önemlidir. Hazır mısın? Seni çok merak ediyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme, vücudumuzun ihtiyaç duyduğu enerji ve besinleri almamızı sağlar. Her gün yediğimiz yiyecekler vücudumuza güç verir ve bizi güçlü yapar. Örneğin, sabah kahvaltısında yediğimiz bir dilim ekmek ve peynir, gün boyu enerjik olmamıza yardımcı olur. Yani beslenme, bizi hızlı koşmamızı ve yüksek zıplamamızı sağlar. Bu yüzden ne yediğimiz çok önemlidir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi meyve ve sebzelerin neden bu kadar önemli olduğunu konuşalım. Meyve ve sebzeler, vücudumuzun sağlıklı kalmasına yardımcı olan vitamin ve minerallerle doludur. Örneğin, portakal yemek, bizi hasta eden mikroplardan korur. Havuç yemek ise gözlerimizin iyi görmesini sağlar. Her gün meyve ve sebze yemeyi unutma, çünkü onlar bizim süper kahramanlarımız!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi seninle birlikte renkli bir tabak yapalım. Tabaklarımızda birçok renk olursa, bu sağlıklı beslendiğimiz anlamına gelir. Mesela, kırmızı domates, yeşil salatalık ve sarı biberle dolu bir tabak düşün. Ne kadar eğlenceli ve sağlıklı görünüyor, değil mi? Sen de kendi renkli tabağını yapabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Protein de vücudumuz için çok önemlidir. Protein, kaslarımızı güçlü yapar ve bizi daha enerjik hissettirir. Tavuk, balık ve yumurta gibi yiyeceklerde bolca protein bulunur. Mesela, bir yumurta yemek, sabahları daha enerjik hissetmemizi sağlar. Bu yüzden her gün protein içeren yiyecekler yemeliyiz."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi karbonhidratlardan bahsedelim. Karbonhidratlar, vücudumuza hızlı enerji verir. Ekmek, makarna ve pirinç gibi yiyeceklerde karbonhidrat bulunur. Öğlen yemeğinde bir tabak makarna yemek, oyun oynarken bize enerji verir. Ancak çok fazla karbonhidrat yememeliyiz, çünkü dengeli beslenmek önemlidir."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi seninle birlikte bir oyun oynayalım. Gözlerini kapat ve en sevdiğin yiyeceği düşün. O yiyecekte hangi besinler var, tahmin edebilir misin? Mesela, eğer bir elma düşünüyorsan, o elma vitaminlerle dolu! Harika bir iş çıkardın!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi de suyun öneminden bahsedelim. Su, vücudumuzun her gün ihtiyaç duyduğu en önemli şeylerden biridir. Su içmek, vücudumuzu temizler ve sağlıklı kalmamıza yardımcı olur. Mesela, oyun oynarken terlediğimizde, su içmek bizi serinletir ve enerjik hissettirir. Bu yüzden her gün bolca su içmeyi unutma!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Bugün hangi sağlıklı yiyecekleri yedin? Belki bir muz ya da bir kase yoğurt? Cevabını gerçekten merak ediyorum. Hadi şimdi düşün ve bana söyle!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Yağlar da vücudumuz için önemlidir, ama onları dikkatli tüketmeliyiz. Yağlar, bize enerji verir ve cildimizi sağlıklı tutar. Zeytinyağı ve avokado gibi sağlıklı yağlar, yemeklerimize lezzet katar. Ancak çok fazla yağ tüketmek sağlıksız olabilir. Bu yüzden dengeli bir şekilde tüketmeliyiz."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte dengeli bir tabak hazırlayalım. Bir parça tavuk, biraz pilav ve yanında yeşil salata ile harika bir öğün yapabiliriz. Bu tabakta protein, karbonhidrat ve sebzeler var. Böylece dengeli bir şekilde beslenmiş oluruz. Sen de yemeklerinde bu dengeyi kurabilirsin."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Çok iyi gidiyorsun! Şimdi birlikte bir nefes egzersizi yapalım. Burnundan derin bir nefes al ve yavaşça ver. Kendini ne kadar rahat ve mutlu hissettiğini fark ettin mi? Harika! Bu tür egzersizler, yemek yerken de daha dikkatli olmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tatlılar da bazen eğlenceli olabilir, ama dikkatli tüketmeliyiz. Çok fazla tatlı yemek, dişlerimize zarar verebilir ve sağlığımızı olumsuz etkileyebilir. Tatlı yerine meyve yemek, daha sağlıklı bir seçimdir. Mesela, bir parça çikolata yerine bir muz yemek, hem tatlı ihtiyacımızı karşılar hem de sağlıklı bir tercih olur."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, meyve ve sebzelerin öneminden bahsetmiştik. Şimdi sana bir soru daha sormak istiyorum. En sevdiğin meyve hangisi? Belki elma ya da çilek? Merak ediyorum, çünkü meyveler sağlıklı beslenmenin önemli bir parçasıdır."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte beslenme hakkında çok şey öğrendik. Umarım bu yolculuk senin için de eğlenceli olmuştur. Şimdi öğrendiklerini ailenle paylaşabilirsin. Unutma, sağlıklı beslenmek seni güçlü ve mutlu yapar. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Snowman Buddy Olaf-Style'ın Nutrition Hikayesi"
+}

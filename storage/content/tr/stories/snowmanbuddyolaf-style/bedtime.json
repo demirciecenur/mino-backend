@@ -1,0 +1,104 @@
+{
+  "id": "snowman_buddy_olaf-style_bedtime_story",
+  "title": "Snowman Buddy Olaf-style'nin Uyku Zamanı Hikayesi",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "bedtime",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Snowman Buddy Olaf-style. Bugün birlikte uyku zamanı hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Uyumak bazen zor olabilir ama birlikte eğlenceli hale getirebiliriz. O zaman başlayalım mı?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku zamanı, günün en huzurlu anlarından biridir. Herkesin dinlenmeye ve rahatlamaya ihtiyacı var, değil mi? Uykuya hazırlanırken yapabileceğimiz birçok şey var. Mesela, oyuncaklarımızı toplamak ve yatağımızı düzenlemek gibi. Bu şekilde, uyandığımızda her şey yerli yerinde olur."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, uyku öncesi yapmamız gereken önemli bir şey daha var: dişlerimizi fırçalamak! Dişlerimizi fırçalamak hem sağlığımız için çok önemli hem de eğlenceli olabilir. Fırçamızla dişlerimizi yukarı aşağı güzelce fırçalıyoruz. Birlikte sayalım, bir, iki, üç, dört, beş! Harika iş çıkardın!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, biraz rahatlamak için derin nefes alalım. Derin bir nefes al, ve yavaşça ver. Bu seni sakinleştirir ve uykuya hazırlar. Birkaç kez daha deneyelim mi? Harikasın! Nefes almak, vücudumuzu dinlendirir ve zihnimizi huzura kavuşturur."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku öncesi dinlendirici bir hikaye okumak da çok iyi gelir. Hikayeler, hayal gücümüzü harekete geçirir ve güzel rüyalar görmemize yardımcı olur. Sevdiğin bir hikaye var mı? Eğer yoksa, belki de bu gece yeni bir hikaye keşfedebilirsin. Hikayelerin dünyası çok büyüleyici, değil mi?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin en sevdiğin uyku öncesi rutinin nedir? Oyuncaklarına sarılmak mı, yoksa güzel bir hikaye dinlemek mi? Belki de sakin bir müzik dinlemek istersin. Herkesin uykuya hazırlanma şekli farklı olabilir. Senin tercihin ne? Merakla dinliyorum!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, pijamalarımızı giymenin zamanı geldi. Pijamalarımız, vücudumuzu rahatlatır ve uykuya hazırlar. Rahat pijamalar içinde kendimizi daha huzurlu hissederiz. Senin en sevdiğin pijaman hangi renk? Pijamalarımızı giydikten sonra, yatağımıza gidip yumuşacık yastığımıza başımızı koyabiliriz."
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hadi şimdi, yumuşacık battaniyemizi üzerimize çekelim. Battaniyeler bizi sıcak tutar ve huzurlu bir uyku için idealdir. Kendimizi güvende ve rahat hissetmemizi sağlarlar. Sen de battaniyeni seviyor musun? Onunla sarılıp uyumak çok güzel, değil mi?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyumadan önce son bir şey daha yapabiliriz. Gözlerimizi kapatıp güzel şeyler düşünebiliriz. Belki de kocaman bir dondurma ya da uçsuz bucaksız bir çiçek bahçesi. Güzel düşünceler, bize huzur verir ve mutlu rüyalar görmemize yardımcı olur. Sen ne düşünmeyi seversin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte beşe kadar sayalım ve sonra gözlerimizi kapatalım. Bir, iki, üç, dört, beş! Harikasın! Gözlerini kapat ve tatlı rüyalar gör. Seninle bu yolculuğu yapmak çok keyifliydi. Umarım güzel bir uyku çekersin."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Gün boyunca çok çalıştın ve oynadın. Şimdi dinlenme zamanı. Uyku, vücudumuzu yeniler ve enerji verir. Sabah uyandığında kendini çok daha iyi hissedeceksin. Dinlenmiş bir zihinle yeni maceralara atılmaya hazır olacaksın."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Yarın sabah uyandığında ne yapmak istersin? Belki yeni bir oyun oynamak ya da güzel bir resim yapmak. Her yeni gün, yeni fırsatlar getirir. Senin en sevdiğin sabah aktivitesi nedir? Söyle bana, merakla bekliyorum!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku, sadece bizim için değil, tüm canlılar için önemlidir. Kuşlar, kediler, köpekler hepsi uyur. Doğanın bir parçası olarak, biz de uyumalıyız. Herkesin uykuya ihtiyacı var. Bu yüzden, uykuya hazırlanmak çok önemli."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, tatlı rüyalar görme zamanı. Kendine iyi bak ve güzel bir uyku çek. Sabah uyandığında, seni harika bir gün bekliyor olacak. Unutma, sen çok özelsin ve her gün yeni bir macera seni bekliyor. Hadi, iyi geceler!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bu akşam birlikte harika bir zaman geçirdik. Seninle uykuya hazırlanmak çok keyifliydi. Umarım güzel rüyalar görürsün. Yarın yeni maceralar için hazır ol! İyi geceler, tatlı uykular. Yarın görüşmek üzere, hoşça kal!"
+    }
+  ]
+}

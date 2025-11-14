@@ -1,0 +1,98 @@
+{
+  "id": "mino_animals_story",
+  "character": "Mino",
+  "topic": "animals",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mino. Bugün birlikte hayvanlar dünyasında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Hayvanlar hakkında öğrenmek çok eğlenceli olacak. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayvanlar dünyası çok büyük ve çeşitlidir. Her biri farklı özelliklere ve yeteneklere sahiptir. Mesela filler, uzun hortumlarıyla su içebilir ve suyu püskürterek serinleyebilirler. Kuşlar ise kanatlarını çırparak gökyüzünde özgürce uçabilirler. Bu çeşitlilik doğayı daha da büyüleyici kılar."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi biraz hayvanların yaşam alanlarından bahsedelim. Ormanlar, çöller, denizler ve dağlar gibi farklı yerlerde yaşayan hayvanlar var. Kutup ayıları buzlu bölgelerde yaşarken, develer sıcak çöllerde rahatça dolaşabilir. Her hayvanın kendine uygun bir evi vardır. Bu da doğanın ne kadar zengin olduğunu gösterir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi birlikte bir oyun oynayalım! Gözlerini kapat ve hayal et, sen bir kuşsun. Kanatlarını açıyorsun ve gökyüzünde uçuyorsun. Rüzgar yüzünü okşuyor ve bulutların arasında süzülüyorsun. Bu hayali kurarken nefes almayı unutma. Harika! Şimdi kendini bir balina gibi hisset. Derin sulara dal ve suyun altında yüz. Çok güzel!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayvanların sesleri de çok ilginçtir. Kediler miyavlar, köpekler havlar, kuşlar cıvıldar. Her hayvanın kendine özel bir sesi vardır ve bu sesler onların iletişim kurmasını sağlar. Mesela, köpekler havlayarak diğer köpeklere bir şeyler anlatabilir. Hayvanların seslerini duymak doğayı daha da eğlenceli hale getirir."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin en sevdiğin hayvan hangisi? Belki bir kedi, belki de bir fil. Onları neden sevdiğini düşün ve bana anlat. Her hayvanın kendine özgü güzellikleri vardır. Bu yüzden onları sevmek çok kolay. Senin favori hayvanın ne yapmayı sever?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hayvanların nasıl beslendiğini biliyor musun? Bazı hayvanlar ot yerken, bazıları et yer. Örneğin, tavşanlar taze otları çok sever. Aslanlar ise avlanarak beslenirler. Doğada her hayvanın kendine uygun bir beslenme şekli vardır ve bu da ekosistemi dengede tutar."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi biraz da hayvanların hareketlerinden bahsedelim. Kangurular zıplayarak ilerlerken, yılanlar yerde sürünerek hareket eder. Balıklar yüzgeçlerini kullanarak suda hızla yol alır. Her hayvanın kendine özgü bir hareket şekli vardır. Bu özellikleri onları daha da özel kılar."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hayvanların renkleri de çok çeşitlidir. Örneğin, papağanlar rengarenk tüyleriyle dikkat çeker. Bukalemunlar ise çevrelerine uyum sağlamak için renk değiştirebilir. Bu renkler hayvanların kamufle olmasına ya da dikkat çekmesine yardımcı olur. Renkler dünyası gerçekten büyüleyici!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi şimdi bir kaplumbağa gibi yavaşça hareket edelim. Ellerimizi ve ayaklarımızı yavaşça hareket ettirelim. Sakin ve sabırlı olalım. Bu egzersiz bizi rahatlatacak ve kaplumbağaların nasıl hissettiğini anlamamıza yardımcı olacak. Harika gidiyorsun!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayvanların dostlukları da çok önemlidir. Örneğin, yunuslar sürü halinde yaşar ve birbirlerine yardım eder. Fil sürüleri de birbirlerine çok bağlıdır. Hayvanlar arasındaki bu dostluklar doğanın ne kadar muhteşem olduğunu gösterir. Birbirlerine olan bu bağlılıkları bizlere de örnek olabilir."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sen hayvanlarla oynamayı sever misin? Belki bir köpekle top oynadın ya da bir kediyle ip çekme oyunu oynadın. Hayvanlarla oynamak çok eğlencelidir ve onların neşesini paylaşmak bizi mutlu eder. Senin en sevdiğin hayvan oyunu hangisi?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hayvanların korunması da çok önemlidir. Doğal yaşam alanlarını koruyarak onlara iyi bir yaşam sunabiliriz. Plastik atıkları doğaya atmamak, hayvanların yaşamını korur. Onlara zarar vermemek ve doğaya saygı duymak bizim görevimizdir. Bu şekilde doğa daha sağlıklı olur."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte hayvanlar hakkında çok şey öğrendik. Seninle bu maceraya çıkmak harikaydı! Umarım sen de benim kadar eğlenmişsindir. Bir dahaki sefere yine buluşup yeni şeyler keşfederiz. Şimdi hoşça kal ve doğayı sev!"
+    }
+  ],
+  "title": "Mino'ın Animals Hikayesi"
+}

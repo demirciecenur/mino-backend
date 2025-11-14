@@ -1,0 +1,98 @@
+{
+  "id": "funny_bunny_behavior_attention_story",
+  "character": "Funny Bunny",
+  "topic": "behavior_attention",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little pals! It's me, Funny Bunny, your fluffy friend ready for a fun adventure. Today, we're going to explore the magical world of paying attention and staying calm. Have you ever felt like your thoughts are bouncing around like bunnies? Well, don't worry, we're going to learn some cool tricks to help us focus and relax. Are you ready to hop along with me on this journey? Let's get started and have some fun together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about what it means to pay attention. Imagine you're a detective, searching for clues in a big, colorful world. Paying attention helps us find those clues, like listening to our favorite story or watching a butterfly flutter by. It's like using a magnifying glass to see things clearly. When we focus, we can learn new things and have even more fun. So, let's put on our detective hats and see what we can discover!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "To help us focus, let's try something fun called 'Bunny Breaths.' We'll take a deep breath in through our noses, like we're smelling a flower. Then, we'll blow it out slowly, like we're cooling down a hot carrot soup. Let's do it together: breathe in, and out. Great job! Breathing like this helps calm our minds and bodies, making it easier to pay attention. Remember, you can do this anytime you need a little break."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful breathing, everyone! Now, let's practice using our ears like super-duper listening tools. When someone is talking, we can focus on their words, just like we're listening to our favorite song. Listening carefully helps us understand stories and learn new things. So next time someone speaks, let's give them our full attention and see what we can learn. You can do it, I believe in you!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we did our Bunny Breaths? Now, let's use our eyes to focus like a camera. Imagine you're taking a picture of something special, like a rainbow or a big, fluffy cloud. When we use our eyes to pay attention, we can notice all the little details around us. It's like finding hidden treasures! So, let's practice looking closely and see what new things we can find today."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try a fun game called 'Spot the Difference.' I'll describe two pictures, and you can tell me what's different between them. Picture one has a yellow sun and a green tree, and picture two has a blue sun and a red tree. Did you catch the differences? That's right! This game helps us practice using our eyes to focus and notice details. It's a great way to train our attention muscles!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastic job spotting those differences! You're becoming a real attention expert. Now, let's talk about self-regulation, which is a big word for controlling our actions and feelings. It's like being the superhero of our own emotions. We can decide when to be calm, happy, or excited. Practicing self-regulation helps us make good choices and be kind to others. You're doing amazing, keep it up!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's practice a simple routine to help us stay calm. We can create a special 'calm corner' at home with our favorite stuffed animals and books. When we feel a bit wiggly or upset, we can visit our calm corner to relax. It's a cozy place where we can read, hug a teddy, or just sit quietly. Having this routine helps us feel safe and ready to focus again. Would you like to try setting up your own calm corner?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's imagine we're brushing our teeth, a routine we do every day. When we brush, we focus on cleaning each tooth, one by one. Paying attention to routines like this helps us practice focusing on small tasks. It's like building a tower with blocks, one block at a time. Each little step helps us grow stronger in paying attention. So next time you brush your teeth, try to notice every little movement."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a great job learning all these new things! Let's talk about how we can help each other stay focused. If a friend is talking, we can show we're listening by looking at them and nodding our heads. It makes them feel happy and understood. Working together to pay attention makes everything more fun. Keep practicing, and remember, you're a fantastic friend!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about how we can use these skills when we're playing. When we're building with blocks or drawing, we can focus on each piece we place or each line we draw. Taking our time to pay attention makes our creations even more special. It's like painting a picture with lots of bright colors. So next time you play, try to notice every little detail, and see how amazing your creation becomes!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Here's a fun question for you! What kinds of things do you like to focus on when you're playing? Maybe you love building tall towers, or perhaps you enjoy drawing colorful pictures. Whatever it is, paying attention makes it even more exciting. Can you think of a time when you paid attention and learned something new? I'd love to hear all about it!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we wrap up our adventure, let's remember how important it is to take breaks. Just like bunnies need to rest after hopping around, we need to rest our minds too. Taking a short break helps us recharge and get ready to focus again. We can do a quick stretch, listen to a favorite song, or just close our eyes for a moment. Breaks are like little power-ups for our brains!"
+    },
+    {
+      "id": "scene_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our journey today was full of fun and learning, wasn't it? Remember, paying attention and staying calm are skills we can practice every day. You have everything you need to be a great listener and an amazing friend. Keep using your Bunny Breaths, focusing your eyes and ears, and visiting your calm corner. I'm so proud of you, and I can't wait for our next adventure. Bye for now, little friends, and keep hopping happily!"
+    }
+  ],
+  "title": "Funnybunny's Behavior & Attention Story"
+}

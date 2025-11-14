@@ -1,0 +1,104 @@
+{
+  "id": "bubu_behavior_story",
+  "character": "Bubu",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour petit ami! Je suis Bubu. Aujourd'hui, nous allons découvrir quelque chose de très important: le comportement. Êtes-vous prêt pour cette aventure? J'ai hâte d'explorer tout cela avec vous. Ensemble, nous allons apprendre comment être gentils et respectueux. Allons-y!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le comportement, c'est comment nous agissons avec les autres et nous-mêmes. Par exemple, être poli, c'est dire 's'il te plaît' et 'merci'. Cela montre que nous respectons les autres. Imaginez que vous partagez vos jouets avec un ami, n'est-ce pas merveilleux? Maintenant, pensez à combien cela rend tout le monde heureux."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Apprendre à bien se comporter, c'est aussi écouter les règles. Les règles, ce sont des petites choses qui nous aident à vivre ensemble. Par exemple, attendre son tour pour parler. Cela montre que nous respectons les autres et que nous prêtons attention. C'est comme un jeu où tout le monde gagne en étant gentil!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, essayons ensemble! Imagine que nous jouons à un jeu. Quand c'est ton tour, tu attends patiemment. Ensuite, tu passes le tour à ton ami. Super, tu as réussi! N'est-ce pas génial de voir tout le monde heureux? Tu peux le faire, je crois en toi!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de partager? Partager, c'est aussi prêter attention aux sentiments des autres. Si un ami est triste, on peut lui demander si tout va bien. Cela montre que nous sommes gentils et attentionnés. Cela rend le monde plus heureux et plus lumineux!"
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, c'est difficile de bien se comporter, surtout quand on est fatigué ou frustré. Mais respirons ensemble! Prenons une grande inspiration, puis expirons doucement. Cela peut nous aider à rester calmes et à réfléchir avant d'agir. C'est un super pouvoir que tout le monde peut avoir!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de dire la vérité. Dire la vérité, c'est être honnête avec nos amis et notre famille. Parfois, c'est difficile, mais c'est important. Quand nous disons la vérité, les autres peuvent nous faire confiance. La confiance, c'est comme un pont solide entre nous et les autres."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons d'être honnêtes ensemble. Pense à un moment où tu as dit la vérité, même si c'était difficile. C'est courageux de le faire! Bravo pour ton courage. Chaque fois que tu dis la vérité, tu deviens plus fort et plus confiant!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de prendre soin de nos affaires, comme ranger nos jouets. Ranger, c'est important pour garder notre espace propre et organisé. Cela montre que nous prenons soin de nos affaires et que nous respectons notre environnement. Quand tout est en ordre, c'est plus facile de trouver ce dont nous avons besoin!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Allons essayer de ranger ensemble! Pense à un jeu où chaque jouet a sa place. Quand tu finis de jouer, tu remets chaque jouet à sa place. C'est comme un puzzle géant que tu complètes. N'est-ce pas amusant de voir tout bien rangé?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Aimes-tu aider à la maison? Peut-être que tu aides à mettre la table ou à plier le linge. C'est une belle façon de montrer que tu es responsable. Quelles autres choses aimes-tu faire pour aider? Je suis curieux de savoir comment tu aides chez toi."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Aider, c'est aussi être patient. Parfois, il faut attendre son tour ou attendre que quelque chose soit prêt. La patience, c'est comme une graine qui grandit avec le temps. Plus nous sommes patients, plus nous devenons calmes et heureux. C'est un talent spécial que tout le monde peut développer!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons d'être patients ensemble. Imagine que nous faisons la queue pour un délicieux gâteau. Nous attendons calmement notre tour. Et quand c'est enfin notre tour, c'est tellement satisfaisant! Tu vois, attendre peut être une aventure en soi!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Récapitulons ce que nous avons appris aujourd'hui. Nous avons parlé de partager, d'écouter, d'être honnête, et de ranger nos affaires. Chacun de ces comportements rend notre monde plus joyeux et harmonieux. Chaque jour, nous pouvons pratiquer ces petits gestes pour devenir de meilleures personnes. N'est-ce pas incroyable?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce temps avec moi, petit ami. J'espère que tu as appris beaucoup de choses sur le comportement. N'oublie pas que tu es spécial et que tu peux faire une grande différence autour de toi. J'ai hâte de te revoir pour une nouvelle aventure. À bientôt!"
+    }
+  ],
+  "title": "Histoire de Behavior de Bubu"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "yellow buddy_Ernährung, gesundes Essen, Essgewohnheiten, gesunde Lebensmittel_story",
+  "character": "Yellow Buddy",
+  "topic": "Ernährung, gesundes Essen, Essgewohnheiten, gesunde Lebensmittel",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, meine kleinen Freunde! Ich bin Yellow Buddy, und heute gehen wir auf eine spannende Reise über Ernährung und gesundes Essen. Seid ihr bereit, mit mir zu lernen und Spaß zu haben? Wir werden herausfinden, warum es wichtig ist, gesund zu essen und wie das unseren Körper stark und glücklich macht. Ich bin so neugierig auf euch und eure Essgewohnheiten! Lasst uns gemeinsam tolle Abenteuer erleben!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert ihr euch, wie wir darüber gesprochen haben, gesund zu essen? Gesundes Essen gibt uns Energie, damit wir den ganzen Tag spielen und lernen können. Wenn wir Obst und Gemüse essen, fühlen wir uns stark wie Superhelden! Habt ihr schon einmal einen Apfel gegessen und gemerkt, wie knackig er ist? Oder wie saftig eine Orange sein kann? Mmm, das ist so lecker und macht uns fröhlich!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns darüber sprechen, wie wir gesunde Essgewohnheiten entwickeln können. Es ist wichtig, regelmäßig zu essen, damit unser Bauch nicht knurrt. Frühstück, Mittagessen und Abendessen sind die Hauptmahlzeiten, und kleine Snacks dazwischen können uns helfen, unsere Energie zu behalten. Wisst ihr, dass ein bunter Teller mit vielen verschiedenen Farben oft auch gesund ist? Versucht, bei jeder Mahlzeit ein wenig von allem zu essen!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lasst uns zusammen zählen, wie viele Obstsorten ihr kennt. Eins, zwei, drei... Äpfel, Bananen, Trauben! Großartig gemacht! Je mehr wir wissen, desto mehr können wir ausprobieren. Es ist wie ein Abenteuer, neue Früchte zu entdecken und zu probieren. Vielleicht könnt ihr eure Eltern fragen, ob ihr das nächste Mal etwas Neues im Supermarkt auswählen dürft. Das wird ein Spaß!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über bunte Teller gesprochen haben? Lasst uns darüber nachdenken, wie wir unser Mittagessen gestalten können. Vielleicht ein Sandwich mit Salat, Tomaten und Käse? Oder ein bunter Gemüsesalat mit Paprika, Gurken und Karotten? Mmm, das klingt köstlich! Und vergesst nicht, viel Wasser zu trinken, denn Wasser ist wichtig, um hydratisiert und munter zu bleiben."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wusstet ihr, dass auch das Frühstück eine wichtige Mahlzeit ist? Ein gesundes Frühstück kann uns helfen, den Tag voller Energie zu beginnen. Vielleicht Haferflocken mit Milch und Früchten oder ein leckeres Müsli? Wenn wir frühstücken, können wir besser spielen und lernen. Es ist wie das Starten eines Raketenabenteuers am Morgen!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lasst uns jetzt ein kleines Spiel spielen! Schließt die Augen und stellt euch euer Lieblingsessen vor. Ist es eine saftige Orange oder ein knackiger Apfel? Super! Jetzt öffnen wir die Augen und klatschen in die Hände! Ihr habt das toll gemacht! Spielen macht Spaß, und es hilft uns auch, mehr über unser Essen nachzudenken. Ich bin stolz auf euch!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über das Frühstück gesprochen haben? Jedes Mal, wenn wir gesund essen, tun wir etwas Gutes für unseren Körper. Es ist wie das Tanken eines Autos mit dem besten Benzin. Unser Körper braucht gutes Essen, um stark und gesund zu bleiben. Und wenn wir gut essen, können wir besser spielen, lachen und alles genießen, was der Tag bringt."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns darüber sprechen, wie wichtig es ist, verschiedene Lebensmittel zu probieren. Manchmal mögen wir etwas nicht sofort, aber es lohnt sich, es noch einmal zu versuchen. Vielleicht schmeckt der Brokkoli heute besser als gestern? Wir können auch neue Rezepte ausprobieren und unsere Eltern um Hilfe bitten. Kochen kann ein tolles Abenteuer sein, besonders wenn wir zusammenarbeiten!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lasst uns alle zusammen einen tiefen Atemzug nehmen. Einatmen... und ausatmen. Toll gemacht! Manchmal hilft uns das Atmen, uns zu konzentrieren und ruhig zu bleiben. Wenn wir essen, können wir auch langsam kauen und genießen. Das macht das Essen zu einem besonderen Moment, den wir schätzen können. Ihr macht das großartig!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Habt ihr ein Lieblingsgemüse? Vielleicht sind es Karotten oder Erbsen? Gemüse gibt uns Vitamine und macht uns stark. Wenn wir viele verschiedene Gemüsesorten essen, bekommen wir all die guten Nährstoffe, die unser Körper braucht. Könnt ihr euch vorstellen, wie es wäre, wie ein Hase zu hüpfen, nachdem man viele Karotten gegessen hat?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lasst uns daran denken, dass es wichtig ist, auch ab und zu etwas Süßes zu genießen. Ein kleines Stück Schokolade oder ein Keks kann ein besonderer Leckerbissen sein. Aber wir sollten darauf achten, nicht zu viel davon zu essen. Süßigkeiten sind wie ein kleiner Schatz, den wir ab und zu genießen können. So bleibt der Genuss etwas Besonderes!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Erinnerst du dich daran, wie wir über das Probieren neuer Lebensmittel gesprochen haben? Es ist wie ein Abenteuer, bei dem wir neue Geschmäcker entdecken. Vielleicht können wir mit einem neuen Obst beginnen, das wir noch nie probiert haben. Es könnte eine exotische Frucht wie eine Mango oder Ananas sein. Diese neuen Erfahrungen machen unser Leben bunter und spannender!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lasst uns alle zusammen eine kleine Übung machen. Steht auf und streckt euch so hoch, wie ihr könnt! Super gemacht! Bewegung ist auch ein wichtiger Teil unserer Gesundheit. Wenn wir uns viel bewegen, fühlen wir uns lebendig und glücklich. Tanzen, springen oder einfach nur spazieren gehen – all das macht Spaß und hält uns fit!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit euch über Ernährung und gesundes Essen zu sprechen. Ich hoffe, ihr habt viel gelernt und Spaß gehabt! Denkt daran, dass gesundes Essen und Bewegung uns stark und glücklich machen. Ich freue mich schon darauf, bald wieder mit euch zu sprechen. Bis dahin, bleibt gesund und fröhlich! Tschüss, meine kleinen Freunde!"
+    }
+  ],
+  "title": "Yellow Buddys Nutrition Geschichte"
+}

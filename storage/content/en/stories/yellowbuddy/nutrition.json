@@ -1,0 +1,104 @@
+{
+  "id": "yellow_buddy_nutrition_story",
+  "character": "Yellow Buddy",
+  "topic": "nutrition",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Yellow Buddy, and today we're going on a fun adventure all about nutrition. Are you ready to learn about the yummy foods that help us grow big and strong? I'm so excited to share this journey with you. We'll discover tasty fruits, colorful vegetables, and so much more. Let's get started on our nutritious adventure together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about fruits! Fruits are sweet and come in all sorts of colors like red, yellow, and green. Have you ever tried a banana? They are yellow and very delicious. Eating different fruits helps your body get vitamins, which are like superpowers that keep you healthy. Next time you see a fruit, try to guess its color and taste. Isn't that fun?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about fruits? Well, vegetables are just as important. They come in all shapes and sizes, like carrots and broccoli. Vegetables have fiber, which is great for your tummy. Think of fiber as a little broom that keeps everything clean inside. Let's make a game of counting how many different vegetables we can name. Ready, set, go!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job naming those vegetables! Did you know that drinking water is also very important? Water keeps us hydrated, which means it helps our bodies stay cool and happy. Imagine if you were a plant, you would need water to grow, right? Let's pretend to be plants and drink a big glass of water together. You can do it!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's talk about grains. Grains are things like rice, bread, and pasta. They give us energy to run and play all day long. Think of grains as the fuel for your engine, helping you zoom around with full power. Next time you eat a sandwich, remember that the bread is giving you energy. Isn’t that amazing?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember our energy from grains? Let's learn about proteins, too. Proteins are found in foods like eggs, chicken, and beans. They help build strong muscles, so you can climb and jump. Imagine proteins are like the bricks that build a strong house. Let's flex our muscles and feel how strong they are. Wow, you're strong!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's talk about dairy products. These are foods like milk, cheese, and yogurt. They help make your bones strong. Think of your bones as the frames that hold you up, just like a house needs a sturdy frame. When you drink milk, you're giving your bones a big hug. Isn't that a nice thought?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You've learned so much about nutrition. Now, let's think about how all these foods work together. Eating a variety of foods is like painting a beautiful picture with lots of colors. Each food adds a different color and makes the picture complete. Let's clap our hands for the amazing foods that help us grow!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's talk about treats. It's okay to have a sweet treat once in a while. Treats like chocolate and cookies are special and can make us happy. But remember, we should eat them in small amounts. Think of treats as the cherry on top of your healthy meals. They add a little fun to your day!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember, balance is important in everything we eat. A balanced meal includes a little bit of everything: fruits, vegetables, grains, proteins, and dairy. Imagine your plate as a rainbow, and each food group adds a different color. Next time you eat, look at your plate and see if you can find the rainbow. Isn't that exciting?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well learning about nutrition! Let's pretend to be chefs and create our own healthy meal. What would you put on your plate? Maybe some carrots, a piece of chicken, and a scoop of rice? Let's mix and match to make the most colorful and delicious meal. You can be a nutrition expert, too!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you remember all the different food groups we talked about? Can you name a fruit, a vegetable, and a grain? How about a protein and a dairy product? Let's see how many you can remember. It's like a fun game we can play together. You're doing great!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure with a little exercise. Moving our bodies is just as important as eating healthy foods. Let's pretend to be jumping beans and bounce up and down. Exercise helps our hearts stay strong and muscles grow. After all, being active is part of being healthy. Let's jump for joy!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "You're such a fantastic learner! Remember how we talked about water earlier? It's important to drink water after exercising. Water is like the refresh button for our bodies, keeping us cool and happy. Let's take a big drink of water together and feel refreshed. Ah, doesn't that feel good?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Wow, what an amazing journey we've had learning about nutrition! You've done such a great job exploring all the different foods and how they help us grow. Remember to eat a variety of foods and drink plenty of water every day. Thank you for joining me, Yellow Buddy, on this fun adventure. Until next time, stay happy and healthy, little friend!"
+    }
+  ],
+  "title": "Yellow Buddy's Nutrition Story"
+}

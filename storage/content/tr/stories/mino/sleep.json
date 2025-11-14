@@ -1,0 +1,98 @@
+{
+  "id": "mino_sleep_story",
+  "character": "Mino",
+  "topic": "sleep",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mino, uzayın en maceraperest gezgini. Bugün seninle uykuya dair harika bir keşfe çıkacağız. Uyku, tıpkı uzayda yıldızlar arasında süzülmek gibi rahatlatıcı ve büyüleyici bir yolculuktur. Bu yolculuğa çıkmaya hazır mısın? Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku, vücudumuzun dinlenmesi ve yenilenmesi için çok önemlidir. Tıpkı bir roketin yakıt doldurması gibi, biz de uyurken enerji toplarız. Uykunun bize nasıl güç verdiğini ve bizi nasıl daha mutlu yaptığını biliyor muydun? Uyandığımızda, yeni bir güne başlamak için enerji dolu oluruz. Bu yüzden, uykuya gitmeden önce güzel bir hazırlık yapmak çok önemlidir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Uykuya hazırlanmak için yapabileceğimiz bazı şeyler var. Öncelikle, dişlerimizi fırçalamak gibi gece rutinlerimizi tamamlamak iyi bir fikirdir. Ayrıca, pijamalarımızı giymek ve sevdiğimiz bir hikaye okumak bizi uykuya hazırlar. Bu rutinler, beynimize uyku zamanının geldiğini hatırlatır. Şimdi, senin uyumadan önce neler yaptığını düşünelim."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Uyumadan önce sakinleşmek için nefes egzersizleri yapmak harikadır. Birlikte üç derin nefes alalım mı? Derin bir nefes al, tut ve yavaşça ver. Harika! Bu, vücudumuzu rahatlatır ve uykuya daha kolay dalmamıza yardımcı olur. Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki nefes egzersizimizden sonra, şimdi biraz daha derinlemesine uykuya dalmanın yollarını keşfedelim. Uykuya dalarken hayal gücümüzü kullanabiliriz. Örneğin, en sevdiğimiz yumuşak oyuncağımızla uzayda bir yolculuğa çıktığımızı hayal edebiliriz. Bu, uykuya dalmayı daha eğlenceli ve rahatlatıcı hale getirir. Senin hayal gücünde neler var?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin en sevdiğin uyku öncesi hikayen nedir? Belki bir uzay macerası ya da deniz altında bir yolculuk? Bana anlatmak ister misin? Kim bilir, belki de senin hikayen benim bir sonraki maceram olur!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uykuya dalarken çevremizin de uygun olması önemlidir. Odamızın karanlık ve sessiz olması, uyumamıza yardımcı olur. Ayrıca, sevdiklerimizle iyi geceler demek de güzel bir alışkanlıktır. Bu, kendimizi güvende hissettirir ve rahat bir uyku sağlar. Sen de iyi geceler demeyi unutma!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hadi birlikte bir uyku şarkısı söyleyelim. Bu, uykuya dalmamızı kolaylaştırabilir. Yumuşak bir melodi seç ve gözlerini kapat. Şarkıyı mırıldanırken, kendini yavaşça uykuya bırak. Bu tür şarkılar, uykuya dalmamıza yardımcı olan harika araçlardır."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Senin de uykuya dalarken kullandığın özel bir yöntem var mı? Belki bir yıldız sayma oyunu ya da bir hayal kurma tekniği? Bu yöntemler, uykuya dalmayı daha eğlenceli ve rahat hale getirebilir. Denemekten çekinme, çünkü her çocuk kendi uyku yolculuğunu keşfedebilir."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uykuya dalmanın bir başka yolu da, günün güzel anılarını hatırlamaktır. Bugün seni mutlu eden bir şey düşün. Belki bir arkadaşınla oynadığın bir oyun ya da yediğin lezzetli bir yemek. Bu anılar, uyumadan önce kendimizi mutlu ve huzurlu hissetmemizi sağlar."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda güzel anılardan bahsetmiştik. Şimdi, uyumadan önce kendimize güzel şeyler söylemeyi deneyelim. 'Ben harikayım' ya da 'Bugün çok şey başardım' gibi cümleler bizi mutlu eder. Bu pozitif düşüncelerle uyumak, sabah daha enerjik uyanmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin uyumadan önce kendine söylediğin güzel bir şey var mı? Belki 'Yarın harika bir gün olacak' diyebilirsin. Bana söylemek ister misin? Belki de bu, senin uyku öncesi rutininin bir parçası olabilir."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku, tıpkı bir uzay yolculuğu gibi heyecan verici ve dinlendiricidir. Her gece uyurken, hayal gücümüzle yeni dünyalar keşfedebiliriz. Bu, her sabah yeni maceralara uyanmamızı sağlar. Şimdi, bu uyku yolculuğuna çıkmaya hazır mısın? Eminim ki harika bir uyku çekeceksin."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün uyku hakkında harika şeyler öğrendik. Seninle bu yolculuğa çıkmak çok keyifliydi. Şimdi, güzel bir uykuya dal ve rüyanda harika maceralar yaşa. Yarın yeni bir güne enerji dolu uyanacaksın. İyi geceler, küçük dostum!"
+    }
+  ],
+  "title": "Mino'ın Sleep Hikayesi"
+}

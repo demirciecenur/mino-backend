@@ -1,0 +1,104 @@
+{
+  "id": "bubu_transitions_story",
+  "character": "Bubu",
+  "topic": "transitions",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Bubu, y hoy vamos a embarcarnos en un viaje maravilloso sobre las transiciones. Las transiciones son esos momentos en que las cosas cambian un poquito, como cuando pasamos de jugar a ir a dormir. ¿No es curioso cómo a veces los cambios pueden ser un poco difíciles? Pero juntos, aprenderemos cómo hacer que estos momentos sean más fáciles. Estoy muy emocionado de compartir este tiempo contigo. ¿Estás listo para comenzar?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablábamos sobre cambios, como cuando el sol se pone y la luna aparece. Las transiciones son un poco así. A veces, pueden hacer que nos sintamos un poco tristes o confundidos, como cuando tenemos que dejar de jugar para ir a cenar. Pero, ¿sabías que cada cambio puede ser una oportunidad para aprender algo nuevo? Por ejemplo, al ir a la cama, podemos soñar con aventuras maravillosas. Ahora, vamos a explorar cómo podemos enfrentarnos a estos cambios con una sonrisa."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando enfrentamos una transición, como empezar un nuevo día, es útil tener una rutina. Una rutina es como una pequeña lista de cosas que hacemos todos los días, como cepillarnos los dientes y vestirnos. ¿Te gustaría que contemos juntos hasta cinco mientras pensamos en nuestra rutina de la mañana? Uno, cepillarse los dientes. Dos, lavarse la cara. Tres, ponerse la ropa. Cuatro, desayunar. Cinco, ¡listo para el día! Seguir una rutina nos ayuda a sentirnos seguros y preparados."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora, pensemos en cómo podemos hacer que los cambios sean divertidos. ¿Qué tal si inventamos un juego para cuando tengamos que ordenar los juguetes? Podemos imaginar que somos exploradores que buscan tesoros mientras guardamos cada juguete en su lugar. Así, lo que antes parecía un cambio aburrido, se convierte en una aventura emocionante. Recuerda, siempre puedes encontrar maneras divertidas de enfrentar los cambios. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos hablado de cómo hacer que los cambios sean divertidos, ¿qué tal si pensamos en cómo nos sentimos durante una transición? A veces, podemos sentirnos un poco nerviosos o tristes, y eso está bien. Es importante hablar sobre cómo nos sentimos. Puedes contarle a un adulto cómo te sientes, como a mamá o papá. Ellos pueden ayudarte a sentirte mejor. Recuerda que no estás solo, y siempre hay alguien para escucharte. Ahora, hablemos de cómo podemos relajarnos."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando sentimos que un cambio nos pone nerviosos, una buena idea es respirar profundamente. Vamos a intentarlo juntos. Inhalamos lentamente por la nariz, sintiendo cómo el aire llena nuestra barriga como un globo. Luego, exhalamos suavemente por la boca. ¿Lo intentamos de nuevo? Inhalamos... y exhalamos. Esto nos ayuda a calmarnos y a sentirnos más tranquilos. La próxima vez que enfrentes un cambio, recuerda que respirar profundamente puede ser tu mejor amigo."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo has hecho respirando! Ahora sabes un truco para sentirte mejor durante las transiciones. Los cambios pueden ser como pequeños retos, pero cada reto es una oportunidad para crecer. Imagina que eres un valiente aventurero que supera cada desafío con coraje. ¡Tú puedes ser ese aventurero! Cada vez que enfrentas un cambio, te haces un poco más fuerte y valiente. Estoy muy orgulloso de ti por aprender estas nuevas habilidades."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te has preguntado alguna vez por qué las transiciones suceden? Los cambios son parte natural de la vida, como cuando el invierno se convierte en primavera. ¿Puedes contarme sobre un cambio que hayas experimentado? Tal vez fue empezar en una nueva escuela o aprender a andar en bicicleta. ¿Cómo te hizo sentir ese cambio? Es importante recordar que cada cambio nos enseña algo nuevo. ¿No es emocionante pensar en lo que podrías aprender a continuación?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Después de pensar en los cambios que has experimentado, vamos a ver cómo podemos prepararnos para los próximos. Una forma de hacerlo es imaginar lo que vendrá. Si vas a empezar una nueva actividad, puedes pensar en lo divertido que será y en las nuevas cosas que aprenderás. Puedes hablar con alguien sobre lo que esperas y cómo te sientes. Prepararte mentalmente te ayudará a sentirte más seguro y emocionado por lo que está por venir."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos sobre cómo podemos hacer que las transiciones sean más suaves. Una buena idea es tener un objeto especial que te haga sentir seguro, como un peluche o una mantita. Este objeto puede acompañarte durante los cambios y recordarte que todo estará bien. ¿Tienes un objeto especial que te guste? Puedes llevarlo contigo cuando necesites un poco de consuelo. Esto te ayudará a sentirte más tranquilo y seguro durante cualquier transición."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué buena idea tener un objeto especial! Ahora, cada vez que te enfrentes a un cambio, sabes que tienes algo que te dará consuelo. Recuerda que los cambios son oportunidades para crecer y aprender. Cada pequeño paso que das es importante. Estoy muy orgulloso de la forma en que estás aprendiendo a manejar las transiciones. ¡Sigue así! Con cada cambio, te vuelves más fuerte y capaz. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hemos hablado mucho sobre cómo enfrentar las transiciones. Desde respirar profundamente hasta tener un objeto especial, ahora tienes muchas herramientas para ayudarte. Cada cambio es un nuevo capítulo en tu historia, y cada capítulo es emocionante y único. Recuerda siempre que está bien sentir diferentes emociones durante los cambios. Lo importante es hablar sobre ellas y encontrar maneras de sentirse mejor. Ahora, vamos a pensar en cómo podemos ayudar a otros con sus transiciones."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Puedes usar lo que has aprendido para ayudar a tus amigos cuando ellos enfrenten cambios. Puedes recordarles que respirar profundamente es útil o compartir tu objeto especial con ellos. También puedes estar ahí para escuchar cuando necesiten hablar. Ser un buen amigo significa ayudar a los demás cuando están pasando por transiciones. ¿Te gustaría intentar ayudar a un amigo la próxima vez que enfrente un cambio? ¡Estoy seguro de que serás una gran ayuda!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme sobre un cambio que esperas con ilusión? Tal vez un cumpleaños, una nueva clase, o un viaje emocionante. Pensar en los aspectos positivos de un cambio puede hacer que nos sintamos más emocionados y menos nerviosos. ¿Qué es lo que más esperas de este cambio? Compartir tus pensamientos y emociones puede hacer que los cambios sean más fáciles de manejar. ¿No es maravilloso tener tantas cosas emocionantes por delante?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido maravilloso hablar contigo sobre las transiciones. Recuerda, los cambios son parte de la vida y nos ayudan a crecer. Siempre puedes encontrar maneras de hacer que los cambios sean más fáciles y divertidos. Estoy muy orgulloso de ti por ser tan valiente y aprender nuevas formas de enfrentar las transiciones. Siempre estaré aquí para ayudarte. ¡Hasta pronto, pequeño aventurero! Cuídate mucho y sigue explorando el mundo con curiosidad y valentía."
+    }
+  ],
+  "title": "Historia de Transitions de Bubu"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "spark buddy_friendship_story",
+  "character": "Spark Buddy",
+  "topic": "friendship",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Spark Buddy, your cheerful, electric friend. Today, we're going to talk about something wonderful: friendship! Are you excited to learn about making new friends and having fun together? I can't wait to share some joyful moments with you. So, let's get ready for an amazing journey into the world of friendship!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Friendship is like a big, warm hug that makes you feel happy inside. Do you know what makes a good friend? A good friend is someone who is kind, shares toys, and likes to play with you. Imagine playing your favorite game with a friend. Doesn't that sound fun? Friends are special because they make us smile and feel loved."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's learn how to make a new friend. First, we can start by saying hello with a big smile. Smiles are like sunshine; they make everything brighter! Then, ask them what their favorite game is. This shows you're interested in them. It's important to be a good listener, too. Listening helps us understand our friends better."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job! You're doing amazing learning about friends. Let's practice together. Imagine meeting a new friend at the playground. What would you say? Maybe, 'Hi, I'm Spark Buddy!' You can do it! Remember, being friendly and kind makes everyone happy."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about smiling and saying hello? Now, let's think about sharing. Sharing is caring, and it makes playtime more fun! If you have a toy, you can ask, 'Would you like to play with this?' Sharing shows your friends that you care about them. It's a wonderful way to make friendships grow stronger."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Let's continue our adventure! Do you have a favorite game or toy? Sharing your favorites is a great way to bond with friends. When we share what we love, our friends feel special. It's like sharing a piece of happiness with them. Isn't that a lovely thought?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about taking turns. Taking turns is important because it shows respect and fairness. If you're playing a game, you can say, 'Your turn!' This way, everyone gets a chance to play. Taking turns makes playtime fair and fun for everyone."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing wonderfully! Let's practice taking turns. Imagine you're playing with a ball. You can roll it to your friend and say, 'Now it's your turn!' This makes the game exciting and enjoyable for both of you. You're becoming a great friend!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about sharing and taking turns? Next, let's talk about saying 'thank you.' Saying 'thank you' is a way to show appreciation. If a friend helps you or shares a toy, you can say, 'Thank you!' It makes your friend feel happy and valued."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever made a new friend before? How did it feel? Making friends can be exciting and a little bit scary, but it's always worth it. Think about a time you met someone new. What did you do to become friends? Sharing your story can help others learn too!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Let's continue exploring friendship! Imagine if everyone was a friend. The world would be filled with laughter and fun. Being a good friend means being there for others, just like they are for you. Friendship is like a garden; it needs care to grow."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's learn a fun friendship exercise. We'll take three deep breaths together. Ready? Breathe in... and out. Again, in... and out. One more time, in... and out. Doesn't that feel calming? Breathing together can help us feel connected."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well! Remember, being a friend means being kind, sharing, and having fun together. Let's celebrate all the wonderful friendships you have. You can say, 'I love my friends!' It's important to appreciate the friends in our lives."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this friendship adventure! We've learned so much about being kind, sharing, and having fun with friends. I'm so proud of you for being such a great friend. Remember, friendship is a special treasure. Until next time, keep smiling and sharing the joy of friendship! Goodbye, my friend!"
+    }
+  ],
+  "title": "Spark Buddy's Friendship Story"
+}

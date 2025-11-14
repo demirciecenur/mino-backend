@@ -1,0 +1,98 @@
+{
+  "id": "sunny_behavior_attention_story",
+  "character": "Sunny",
+  "topic": "behavior_attention",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Sunny. Bugün birlikte dikkat toplama ve öz-düzenleme üzerine harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Bu yolculukta birlikte eğlenceli aktiviteler yapacağız. Hazırsan başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Öncelikle, dikkat toplamak neden önemli biliyor musun? Dikkat toplamak, bir şeye odaklanmamıza ve daha iyi öğrenmemize yardımcı olur. Mesela, bir hikaye dinlerken veya resim çizerken dikkatimizi toplamak çok önemlidir. Böylece daha iyi anlar ve daha güzel işler çıkarabiliriz. Şimdi birlikte bu konuyu daha da keşfedelim!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Dikkatimizi toplamak için bazı küçük egzersizler yapabiliriz. Mesela, derin bir nefes alıp yavaşça vermek çok işe yarar. Beş kez derin nefes alıp vermeyi deneyelim mi? Bu, sakinleşmemize ve odaklanmamıza yardımcı olur. Birlikte nefes alalım ve rahatlayalım."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Derin nefes almanın ne kadar rahatlatıcı olduğunu gördün mü? Şimdi biraz daha eğlenelim. Mesela, sevdiğin bir oyuncağı düşün. Onu nasıl oynadığını hayal et. Dikkatini bu oyuncağa vermek seni mutlu hissettirebilir. Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, öz-düzenleme hakkında konuşalım. Öz-düzenleme, duygularımızı ve davranışlarımızı kontrol etmemize yardımcı olur. Bazen sinirlenebiliriz veya üzgün hissedebiliriz. İşte bu anlarda öz-düzenleme çok önemlidir. Böylece kendimizi daha iyi hissedebiliriz."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Öz-düzenleme becerilerimizi geliştirmek için basit rutinler oluşturabiliriz. Mesela, her sabah dişlerimizi fırçalamak veya oyuncaklarımızı toplamak gibi. Bu rutinler bize düzenli olmayı ve kendimizi daha iyi hissetmeyi öğretir. Şimdi bir rutin düşünelim, ne olabilir?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir fikir buldun! Rutinlerimiz sayesinde kendimizi daha güvende ve mutlu hissedebiliriz. Unutma, bazen küçük adımlar büyük farklar yaratır. Sen de rutinlerini oluşturmaya başlayabilirsin. Hadi, birlikte bir rutin oluşturalım!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Dikkat toplama ve öz-düzenleme konularında öğrendiklerimizi tekrar edelim mi? Nefes egzersizleri ve rutinler hakkında konuştuk. Bu bilgileri kullanarak kendimizi daha iyi hissedebiliriz. Şimdi bu bilgileri nasıl uygulayacağımıza bakalım."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin en sevdiğin rutin nedir? Oyuncaklarını toplamak mı, yoksa başka bir şey mi? Benimle paylaşmak ister misin? Merakla seni dinliyorum. Belki de yeni bir şeyler öğrenebilirim!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Öğrendiklerini uygulamak için her gün küçük adımlar atabilirsin. Mesela, bir oyuncağını toplamak veya bir hikaye dinlemek gibi. Bu küçük adımlar seni daha mutlu yapacak. Seninle bu yolculuğa çıkmak harikaydı. Şimdi öğrendiklerimizi uygulama zamanı!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Öğrendiklerimizi uygularken sabırlı olmak çok önemlidir. Bazen hemen sonuç göremeyebiliriz, ama zamanla gelişim göreceğiz. Her gün biraz daha iyi olacağız. Bu yolculuğa birlikte devam edelim. Senin yanındayım!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Unutma, her yeni gün yeni bir başlangıçtır. Her gün yeni şeyler öğrenmek için bir fırsattır. Sen harika bir iş çıkarıyorsun! Kendine güven ve devam et. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Şimdi öğrendiklerini uygulama zamanı. Günlük hayatında dikkat toplama ve öz-düzenleme becerilerini kullan. Bu yolculuğun her adımında senin yanındayım. Bir sonraki buluşmamızda neler öğrendiğini duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün harika bir zaman geçirdik, değil mi? Seninle bu yolculuğa çıkmak çok keyifliydi. Unutma, her zaman senin yanındayım. Bir sonraki buluşmamıza kadar kendine iyi bak! Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Sunny'ın Davranış ve Dikkat Hikayesi"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "blu_pup_screen_time_story",
+  "character": "Blu Pup",
+  "topic": "screen_time",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Blu Pup. Bugün birlikte ekran zamanı hakkında harika bir yolculuğa çıkacağız. Ekranlar, televizyonlar, tabletler ve telefonlar hakkında konuşacağız. Seninle bu konuyu keşfetmek için çok heyecanlıyım. Hazır mısın? Hadi başlayalım ve birlikte eğlenceli bir şeyler öğrenelim!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekranlar hayatımızın bir parçası oldu, değil mi? Sabah kalktığımızda çizgi film izlemek veya oyun oynamak çok eğlenceli olabilir. Ama ekranların önünde çok fazla zaman geçirmek, gözlerimizi yorabilir. Ayrıca dışarıda oyun oynamak veya kitap okumak gibi başka eğlenceli aktiviteleri kaçırabiliriz. Ekranları ne kadar kullanmalıyız, sence?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran başında geçirdiğimiz zamanı sınırlamak önemlidir. Uzmanlar, ekran karşısında çok fazla zaman geçirmenin sağlığımız için iyi olmadığını söylüyor. Bunun yerine, daha fazla hareket etmeli ve oyun oynamalıyız. Peki, ekran zamanı dışında neler yapabiliriz, bir düşünelim. Belki resim yapabiliriz ya da oyuncaklarımızla harika hikayeler oluşturabiliriz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte düşünelim, ekranlarımızı kapatıp neler yapabiliriz? Mesela, dışarıda top oynayabiliriz. Ya da belki bir parkta koşabiliriz. Eğer hava güzel değilse, evde saklambaç oynamak da harika bir fikir olabilir. Sen de başka neler yapabileceğimizi düşünüyorsun?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda ekranlar dışında yapabileceğimiz şeylerden bahsettik. Şimdi, ekran zamanı geldiğinde nasıl daha verimli kullanabileceğimizi düşünelim. Örneğin, sadece en sevdiğimiz çizgi filmi izleyebiliriz. Ya da eğitici bir oyun oynayarak yeni şeyler öğrenebiliriz. Ekran zamanı bitince neler yapacağımızı planlamak da çok eğlenceli olabilir."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin en sevdiğin ekran aktivitesi nedir? Çizgi film izlemek mi, yoksa oyun oynamak mı? Hangi aktiviteleri daha çok seviyorsun, benimle paylaşmak ister misin? Belki de birlikte bazı yeni aktiviteler keşfedebiliriz. Senin fikirlerini duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki soruda ekran aktivitelerinden bahsettik. Şimdi, ekran kullanımını sınırlamanın neden önemli olduğunu anlamaya çalışalım. Çok fazla ekran kullanmak, uyku düzenimizi bozabilir. Ayrıca, arkadaşlarımızla vakit geçirmek yerine ekran karşısında çok fazla zaman geçirmek, sosyal becerilerimizi geliştirmemizi engelleyebilir. Bu yüzden, ekran kullanımı konusunda dikkatli olmalıyız."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, ekran zamanımızı daha iyi yönetmek için bazı kurallar koyabiliriz. Mesela, yemek yerken ekranlardan uzak durabiliriz. Ya da sadece belirli bir süre boyunca ekran kullanabiliriz. Bu kurallar, ekran kullanımımızı kontrol etmemize yardımcı olabilir. Sen de kendi kurallarını belirlemek ister misin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda ekran kullanım kurallarından bahsettik. Şimdi, ekranları nasıl daha eğlenceli ve öğretici hale getirebileceğimizi düşünelim. Eğitici oyunlar oynayarak yeni bilgiler öğrenebiliriz. Ya da belgeseller izleyerek dünya hakkında daha fazla şey keşfedebiliriz. Ekranları sadece eğlence aracı olarak değil, öğrenme aracı olarak da kullanabiliriz."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi birlikte ekran zamanımızı nasıl daha eğlenceli hale getirebileceğimizi düşünelim. Belki de ailemizle birlikte film geceleri düzenleyebiliriz. Ya da arkadaşlarımızla online oyunlar oynayabiliriz. Ekranları olumlu bir şekilde kullanmak için birçok yol var. Sen de kendi yollarını bulabilirsin!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin ekran zamanını nasıl geçirdiğin hakkında daha fazla şey duymak isterim. En sevdiğin çizgi film veya oyun hangisi? Ekranları nasıl kullanmayı tercih ediyorsun? Bu konuda neler düşündüğünü merak ediyorum. Belki de birlikte yeni şeyler keşfedebiliriz!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda ekran aktivitelerinden bahsettik. Şimdi, ekranların dışında yapabileceğimiz diğer aktiviteleri düşünelim. Belki de bir kitap okuyabiliriz veya yeni bir şeyler öğrenebiliriz. Ayrıca, ailemizle birlikte vakit geçirmek de çok eğlenceli olabilir. Ekranlar dışında yapabileceğimiz birçok harika şey var!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, ekran dışında vakit geçirmenin faydalarını düşünelim. Daha fazla hareket etmek, sağlıklı kalmamıza yardımcı olur. Ayrıca, arkadaşlarımızla oyun oynamak sosyal becerilerimizi geliştirir. Ekran dışında zaman geçirmek, kendimizi daha iyi hissetmemizi sağlar. Bu yüzden, ekran kullanımımızı sınırlamak çok önemlidir."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün ekran zamanı hakkında çok şey öğrendik. Ekranları nasıl kullanacağımızı ve ekran dışında neler yapabileceğimizi konuştuk. Unutma, ekranları doğru şekilde kullanmak çok önemli. Şimdi, öğrendiklerimizi uygulama zamanı! Bir dahaki sefere görüşmek üzere, küçük dostum. Hoşça kal!"
+    }
+  ],
+  "title": "Blu Pup'ın Screen Time Hikayesi"
+}

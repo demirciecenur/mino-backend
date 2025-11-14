@@ -1,0 +1,98 @@
+{
+  "id": "mino_attention_story",
+  "character": "Mino",
+  "topic": "attention",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük arkadaşım! Ben Mino, renkli ve neşeli bir uzay maceracısıyım. Bugün seninle dikkat ve odaklanma üzerine harika bir yolculuğa çıkacağız. Hazır mısın? Dikkat, tıpkı bir uzay gemisinin rotasında kalması gibi önemli. Şimdi, bu eğlenceli keşfe başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dikkat, günlük hayatımızda çok önemli bir rol oynar. Mesela, oyuncaklarını toplarken dikkatli olman gerekir ki hiçbirini kaybetmeyesin. Dikkatini topladığında, yaptığın işi daha iyi yapabilirsin. Odaklanmak, tıpkı bir büyüteç gibi, bir şeye tüm detaylarıyla bakmanı sağlar. Şimdi sana dikkatini nasıl toplayabileceğimizden bahsedeceğim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Dikkatini toplamak için ilk adım, çevrendeki dikkat dağıtıcı şeylerden uzaklaşmaktır. Mesela, oyuncaklarını toplarken müziği kapatmak gibi. Bir diğer yöntem, derin nefesler alarak zihnini sakinleştirmektir. Derin nefes almak, beynine daha fazla oksijen gitmesini sağlar ve bu da odaklanmanı kolaylaştırır. Şimdi birlikte derin bir nefes alalım, hadi!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika nefes aldın! Şimdi bir başka yöntemden bahsedelim. Yapacağın işe başlamadan önce küçük bir plan yapmak da çok faydalıdır. Mesela, dişlerini fırçalayacaksan önce diş macununu sık, sonra dişlerini sırayla fırçala. Bu şekilde, adım adım ilerleyerek dikkatini daha iyi toplayabilirsin. Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda derin nefes almayı ve plan yapmayı öğrendik. Şimdi, bir başka dikkat toplama yöntemi olan saymayı deneyelim. Saymak, zihnini meşgul eder ve seni odaklanmaya yönlendirir. Mesela, birden ona kadar sayarak dikkatini toplayabilirsin. Şimdi birlikte birden ona kadar sayalım, hadi!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Saymak gerçekten eğlenceliydi, değil mi? Şimdi, dikkatini toplamak için başka bir yöntem olan görselleştirmeyi öğrenelim. Bu, hayal gücünü kullanarak bir şeyi gözünde canlandırmak demektir. Mesela, bir kedi yavrusunun tüylerini hayal edebilirsin. Bu tür hayaller kurmak, dikkatin dağılmasını engeller. Sen de bir şeyler hayal etmeyi sever misin?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Görselleştirme konusunda harikasın! Şimdi, dikkatini toplamak için başka bir yöntem olan kısa molalar vermeyi öğrenelim. Uzun süre bir şeye odaklanmak zor olabilir, bu yüzden kısa molalar vermek iyi bir fikirdir. Mesela, bir süre oyun oynadıktan sonra bir bardak su içmek gibi. Bu molalar, zihnini dinlendirir ve daha iyi odaklanmanı sağlar. Birlikte bir mola verelim mi?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir mola verdik! Şimdi, dikkatini toplamak için son bir yöntem daha var: olumlu düşünceler. Olumlu düşünmek, kendine güvenmeni ve daha iyi odaklanmanı sağlar. Mesela, bir şeyi yaparken 'Bunu yapabilirim!' demek gibi. Bu tür düşünceler, seni motive eder ve dikkatini toplamana yardımcı olur. Sen de 'Bunu yapabilirim!' demek ister misin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dikkatini toplamak için hangi yöntemi en çok sevdin? Derin nefes almak mı, saymak mı yoksa olumlu düşünmek mi? Hepsinin farklı bir güzelliği var, değil mi? Hangi yöntemi denemek istersin? Cevabını çok merak ediyorum!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede hangi yöntemi sevdiğini konuştuk. Şimdi, öğrendiklerimizi günlük hayatımızda nasıl kullanabileceğimizi düşünelim. Mesela, sabah kalktığında dikkatini toplamak için ne yapabilirsin? Belki derin nefes alabilir ya da olumlu bir düşünceyle güne başlayabilirsin. Bu yöntemler, gün boyu daha dikkatli ve odaklanmış olmana yardımcı olacaktır. Sen hangi yöntemi denemek istersin?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Günlük hayatında dikkatini toplamak için öğrendiğimiz yöntemleri kullanabilirsin. Mesela, oyuncaklarını toplarken ya da resim yaparken derin nefes alabilirsin. Kısa molalar vererek dikkatin dağılmasını önleyebilirsin. Olumlu düşüncelerle kendine güvenebilirsin. Bu yöntemler, seni daha başarılı ve mutlu yapacak. Şimdi birlikte bir plan yapalım mı?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnede bir plan yapmayı düşündük. Şimdi, bu planı uygulamaya koyabiliriz. Mesela, her sabah kalktığında üç derin nefes almayı deneyebilirsin. Ya da, herhangi bir etkinlikten önce kısa bir mola verebilirsin. Bu planı uygulamak, dikkatini toplamana yardımcı olacak. Sen de böyle bir plan yaparak denemek ister misin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir plan yaptık! Şimdi, dikkat toplama konusunda ne kadar iyi olduğuna bir kez daha bakalım. Bu yöntemleri her gün uyguladığında, zamanla daha da iyi olacaksın. Unutma, dikkatini toplamak tıpkı bir kas gibi çalışır; ne kadar çok çalışırsan o kadar güçlenir. Sen bunu yapabilirsin, harikasın!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün seninle birlikte dikkat ve odaklanma konusunda harika bir yolculuk yaptık. Umarım öğrendiğimiz yöntemleri hayatında kullanırsın. Seninle bu maceraya çıkmak çok eğlenceliydi. Bir sonraki buluşmamızda daha fazla keşif yapacağız. Şimdi, seninle vedalaşıyorum ama unutma, her zaman yanındayım. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Mino'ın Attention Hikayesi"
+}

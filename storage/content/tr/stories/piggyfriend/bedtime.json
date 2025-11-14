@@ -1,0 +1,98 @@
+{
+  "id": "piggy_friend_bedtime_story",
+  "title": "Piggy Friend'nin Uyku Zamanı Hikayesi",
+  "character": "Piggy Friend",
+  "topic": "bedtime",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Piggy Friend. Bugün birlikte uyku zamanı hakkında harika bir yolculuğa çıkacağız. Uyku zamanı, dinlenip enerji toplamak için harika bir fırsattır. Gece uyumadan önce neler yaptığını merak ediyorum. Hazır mısın? Seni çok merak ediyorum!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku zamanı, günün sonunda rahatlamak ve dinlenmek için en güzel zamandır. Yatmadan önce neler yaparız, biliyor musun? Genellikle dişlerimizi fırçalarız ve pijamalarımızı giyeriz. Bu alışkanlıklar bizi uykuya hazırlar. Senin de uyumadan önce yaptığın özel bir şey var mı?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Uykuya hazırlanmak için bazı rutinler oluşturmak çok önemlidir. Mesela, her gece aynı saatte yatmak, vücudunun biyolojik saatini düzenler. Ayrıca, yatmadan önce kitap okumak, hem eğlenceli hem de sakinleştiricidir. Kitapların büyülü dünyasında kaybolmak harika değil mi? Sen hangi hikayeleri seviyorsun?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte biraz nefes alalım mı? Derin bir nefes al ve yavaşça ver. Bu, vücudunu rahatlatır ve uykuya hazırlanmana yardımcı olur. Harika! Bunu her gece yatmadan önce yapabilirsin. Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede nefes almanın öneminden bahsetmiştik. Şimdi, odanı uykuya hazırlamaktan bahsedelim. Odanın karanlık ve sessiz olması iyi bir uyku için önemlidir. Belki de sevdiğin bir gece lambası kullanabilirsin. Bu, sana kendini güvende hissettirebilir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Uyumadan önce oyuncaklarını toplamak da iyi bir alışkanlıktır. Odanın düzenli olması, zihnini de düzenli hale getirir. Bu, daha rahat bir uyku çekmeni sağlar. Oyuncaklarını toplarken eğlenceli bir oyun da yaratabilirsin. Senin favori oyuncağın hangisi?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Uyumadan önce en sevdiğin şey nedir? Belki de bir hikaye dinlemek ya da bir şarkı söylemek hoşuna gider. Bu, seni mutlu ve huzurlu hissettirebilir. Sen hangi şarkıları seviyorsun? Belki de birlikte bir tane söyleyebiliriz!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede sevdiğin şarkılardan bahsettik. Şimdi, uyku öncesi hikaye zamanı! Hikayeler, hayal gücümüzü geliştirir ve bizi farklı dünyalara taşır. Her gece farklı bir hikaye seçmek çok eğlenceli olabilir. Senin en sevdiğin hikaye nedir?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Uykuya dalmak için bazı küçük egzersizler yapabiliriz. Mesela, beşe kadar saymak ve her sayıda derin bir nefes almak. Bu, zihnini sakinleştirir ve uykuya geçişi kolaylaştırır. Haydi, birlikte deneyelim. Bir, iki, üç, dört, beş!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Nefes alıp vermek seni ne kadar rahatlatıyor değil mi? Bunu her gece yaparak uykuya daha kolay dalabilirsin. Kendine inan ve bunu her gece dene. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede nefes egzersizlerini denedik. Şimdi, uyku zamanı geldiğinde yatağa nasıl uzandığından bahsedelim. Rahat bir pozisyonda yatmak önemlidir. Belki de sevdiğin bir yastık ya da battaniye ile uyumak seni daha mutlu edebilir. Sen nasıl uyumayı seversin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Uyku pozisyonun seni rahatlatıyor mu? Eğer değilse, farklı pozisyonlar deneyebilirsin. Vücudunun en rahat ettiği pozisyonu bulmak önemlidir. Unutma, uyurken rahat olmak çok önemlidir. Senin favori uyku pozisyonun nedir?"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Uykuya dalarken ne düşünüyorsun? Belki de güzel rüyalar görmek hoşuna gider. Rüyalar, hayal gücümüzün bir parçasıdır ve bizi mutlu edebilir. Sen en son ne rüya gördün? Hadi paylaş benimle!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte uyku zamanı hakkında harika şeyler öğrendik. Artık sen de uykuya hazırlanırken bu ipuçlarını kullanabilirsin. Umarım güzel rüyalar görürsün ve iyi bir uyku çekersin. Yarın yeni bir gün olacak ve yeni maceralar bizi bekliyor. İyi geceler, küçük dostum!"
+    }
+  ]
+}

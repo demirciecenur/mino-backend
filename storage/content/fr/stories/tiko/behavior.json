@@ -1,0 +1,104 @@
+{
+  "id": "tiko_behavior_story",
+  "character": "Tiko",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Tiko, et aujourd'hui, nous allons explorer le monde merveilleux du bon comportement. Êtes-vous prêt pour l'aventure? Imaginez que nous sommes dans une forêt magique où chaque arbre murmure des secrets sur comment être gentil et respectueux. Je suis si excité de découvrir tout cela avec vous! Allons-y!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Saviez-vous que se comporter gentiment, c'est comme être un super-héros? Oui, chaque fois que vous partagez vos jouets ou dites 's'il vous plaît' et 'merci', vous utilisez vos super-pouvoirs de gentillesse. Imaginez combien cela rend les gens heureux autour de vous! Et savez-vous quoi? Cela fait aussi de vous un héros du quotidien. Maintenant, pensons à quelques exemples de ces super pouvoirs."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lorsque vous jouez avec vos amis, il est important de partager. Partager, c'est comme ouvrir une fenêtre pour les autres, pour qu'ils puissent aussi profiter du soleil. Par exemple, si vous avez deux peluches, pourquoi ne pas en prêter une à votre ami? Cela rend le jeu plus amusant pour tout le monde! Essayez de trouver quelque chose à partager aujourd'hui, vous verrez comme c'est agréable!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Vous faites déjà un excellent travail! Maintenant, parlons du respect des règles. Les règles sont comme des panneaux de signalisation qui nous montrent le bon chemin. Imaginez que vous êtes un explorateur, et les règles sont votre carte. En les suivant, vous pouvez découvrir des trésors cachés comme de nouveaux amis et de bonnes expériences. Vous êtes prêt à explorer avec moi?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "En parlant de règles, avez-vous déjà entendu parler de la règle des trois R? Respect, responsabilité et réflexion. Respect signifie être gentil envers les autres, responsabilité, c'est prendre soin de ses affaires, et réflexion, c'est penser avant d'agir. Imaginez que vous êtes un petit détective, et chaque jour, vous essayez de suivre ces trois R. Voyons ensemble comment cela fonctionne!"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà essayé de réfléchir avant de parler ou d'agir? Cela peut être aussi simple que de se demander: 'Est-ce que cela va rendre quelqu'un heureux?' Ou 'Est-ce que c'est la bonne chose à faire?' Maintenant, je suis curieux, pouvez-vous penser à un moment où vous avez réfléchi avant d'agir? Partagez-le avec moi!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "La prochaine fois que vous êtes sur le point de dire ou de faire quelque chose, prenez une grande respiration. Comptez jusqu'à trois dans votre tête. Un, deux, trois, et ensuite, réfléchissez si c'est une bonne idée. Cela vous aidera à être sûr de faire le bon choix. Vous pouvez même essayer maintenant, prenez une grande respiration avec moi. Prêt? Inspirons ensemble!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Génial! Vous avez fait un excellent travail en respirant profondément et en réfléchissant. Cela vous aidera à devenir un expert en bon comportement. Rappelez-vous, chaque petit geste de gentillesse et de réflexion vous rend encore plus incroyable. Vous êtes déjà sur le bon chemin pour devenir un super-héros du comportement. Continuons notre exploration!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de comment gérer nos émotions. Parfois, nous pouvons nous sentir en colère ou triste, et c'est tout à fait normal. Mais apprendre à exprimer nos émotions de manière positive est important. Par exemple, si vous êtes en colère, vous pouvez dessiner ce que vous ressentez ou parler à un adulte. Cela aide à libérer ces émotions tout en restant respectueux. Essayons ensemble!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "La prochaine fois que vous vous sentez triste, essayez de fermer les yeux et de penser à un souvenir heureux. Peut-être une journée ensoleillée au parc ou un moment amusant avec un ami. Cela vous aidera à vous sentir mieux. Ou bien, vous pouvez aussi faire un câlin à votre doudou préféré. Vous voyez, il y a beaucoup de façons de gérer nos émotions. Vous voulez essayer?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail fantastique en apprenant à gérer vos émotions! Rappelez-vous, tout le monde ressent des émotions, et c'est normal. Ce qui compte, c'est comment nous les exprimons. Vous êtes déjà un expert en devenir! Continuez à être curieux et à explorer ces nouvelles façons d'être gentil et respectueux. Je suis si fier de vous!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons du respect des autres. Avez-vous déjà remarqué comment un sourire ou un simple 'bonjour' peut éclairer la journée de quelqu'un? C'est une petite chose qui peut faire une grande différence. Lorsque nous prenons soin des sentiments des autres, nous créons un monde où tout le monde se sent bienvenu et apprécié. Vous pouvez essayer cela aujourd'hui!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Pensez-vous qu'il est important de respecter les autres? Pourquoi? C'est comme arroser une plante pour qu'elle grandisse. Plus nous montrons de respect, plus nos amitiés et nos relations grandissent. Avez-vous une idée de comment vous pouvez montrer du respect aujourd'hui? Partagez votre idée avec moi!"
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons quelque chose de nouveau. La prochaine fois que vous voyez quelqu'un faire quelque chose de bien, dites-leur 'bravo' ou 'bien joué'. Cela montre que vous respectez leurs efforts et cela les encourage. Imaginez combien cela peut rendre quelqu'un heureux! Vous pouvez même essayer de faire un compliment à un ami ou à un membre de votre famille aujourd'hui. Qu'en pensez-vous?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Wow, quelle aventure incroyable nous avons eue aujourd'hui! Nous avons appris tant de choses sur le comportement et comment être un super-héros de la gentillesse. Rappelez-vous, chaque petit geste compte, et vous êtes déjà sur la bonne voie. Merci d'avoir exploré avec moi, Tiko. J'ai hâte de notre prochaine aventure ensemble. À bientôt, petit ami!"
+    }
+  ],
+  "title": "Histoire de Behavior de Tiko"
+}

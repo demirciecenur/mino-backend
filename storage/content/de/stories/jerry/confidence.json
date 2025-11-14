@@ -1,0 +1,104 @@
+{
+  "id": "clever_mouse_jerry_confidence_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "confidence",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo kleiner Freund! Ich bin Clever Mouse Jerry, und heute gehen wir auf eine spannende Reise, um mehr über Selbstvertrauen zu lernen. Bist du bereit? Ich bin so neugierig auf dich und deine Abenteuer. Wir werden viel Spaß haben und auch etwas Neues lernen. Also, schnall dich an und los geht's!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als du zum ersten Mal versucht hast, alleine deine Schuhe zu binden? Das war ein großer Schritt, nicht wahr? Selbstvertrauen bedeutet, an sich selbst zu glauben, auch wenn etwas schwierig erscheint. Es hilft uns, neue Dinge auszuprobieren und keine Angst vor Fehlern zu haben. Jeder von uns kann mutig sein, auch wenn wir klein sind, so wie ich!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber sprechen, wie man Selbstvertrauen aufbauen kann. Eine Möglichkeit ist, kleine Aufgaben zu meistern, wie das Aufräumen deiner Spielzeuge. Jedes Mal, wenn du etwas Neues lernst, wächst dein Selbstvertrauen ein bisschen mehr. Und weißt du was? Übung macht den Meister! Also, probiere es immer wieder aus. Du wirst sehen, wie toll es sich anfühlt, etwas selbst zu schaffen."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns zusammen eine Übung machen. Stell dir vor, du bist ein großer, mutiger Löwe. Atme tief ein und brülle leise wie ein Löwe: 'Ich kann das schaffen!' Machst du mit? Großartig! Du bist wirklich mutig. Jedes Mal, wenn du das machst, fühlst du dich stärker und selbstbewusster."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Selbstvertrauen hilft uns auch, freundlich und hilfsbereit zu sein. Wenn du jemandem hilfst, fühlt sich das gut an, nicht wahr? Es zeigt, dass du an dich und deine Fähigkeiten glaubst. Ob es darum geht, einem Freund beim Malen zu helfen oder Mama beim Tischdecken zu unterstützen, all das stärkt dein Vertrauen in dich selbst. Und das Beste daran? Du machst die Welt ein bisschen besser."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Eine weitere Möglichkeit, dein Selbstvertrauen zu stärken, ist, dir selbst zu sagen: 'Ich bin toll!' Schau in den Spiegel und lächle. Sag es laut: 'Ich bin toll!' Das klingt vielleicht komisch, aber es funktioniert wirklich. Es hilft deinem Herzen, an sich selbst zu glauben und sich mutig zu fühlen. Probier es aus, und du wirst sehen, wie stark du bist."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt ist es Zeit für ein kleines Spiel. Stell dir vor, du bist auf einem Abenteuer im Dschungel. Du bist mutig und stark, und nichts kann dich aufhalten. Zähle bis drei und springe wie ein tapferer Tiger. Eins, zwei, drei - spring! Super gemacht! Du bist wirklich ein kleiner Held."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Manchmal machen wir Fehler, und das ist völlig in Ordnung. Jeder macht Fehler, sogar ich! Aber weißt du was? Aus Fehlern lernen wir, und das macht uns stärker. Wenn du also das nächste Mal einen Fehler machst, denk daran, dass es eine Chance ist, etwas Neues zu lernen. Und das ist wirklich etwas Besonderes."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns über Mut sprechen. Mut ist, wenn du etwas tust, obwohl es ein bisschen beängstigend ist. Es könnte sein, dass du zum ersten Mal auf ein großes Klettergerüst kletterst. Es ist okay, ein bisschen Angst zu haben, aber mit jedem Schritt wirst du mutiger. Und wenn du oben angekommen bist, fühlst du dich wunderbar!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal etwas gemacht, das dich zuerst nervös gemacht hat, aber dann warst du stolz auf dich? Vielleicht ein neues Spiel ausprobiert oder ein schwieriges Puzzle gelöst? Wie hat sich das angefühlt? Es ist spannend, solche Herausforderungen zu meistern, oder? Erinnerst du dich an das Gefühl, das du hattest, als es dir gelungen ist?"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, wo wir über all diese mutigen Dinge gesprochen haben, lass uns sehen, wie wir anderen helfen können, mutiger zu sein. Vielleicht kannst du einem Freund ermutigen, indem du sagst: 'Du kannst es schaffen!' Deine Worte haben die Kraft, jemandem zu helfen, sich stärker zu fühlen. Und das ist wirklich etwas Besonderes, was du tun kannst."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Denk daran, dass Selbstvertrauen nicht bedeutet, dass du alles alleine machen musst. Es ist auch wichtig, um Hilfe zu bitten, wenn du sie brauchst. Das zeigt, dass du klug genug bist, um zu wissen, wann du Unterstützung benötigst. Und gemeinsam können wir noch größere Abenteuer erleben. Zusammen sind wir stark!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns noch einmal tief einatmen und die Arme in die Luft strecken. Stell dir vor, du erreichst die Sterne. Fühlst du dich stark und mutig? Du bist wirklich fantastisch! Vergiss nie, dass du alles erreichen kannst, was du dir vornimmst. Jetzt lass uns den Tag mit einem Lächeln beginnen!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Zum Abschluss unserer Reise über Selbstvertrauen, erinnere dich daran, dass du einzigartig und besonders bist. Jeder hat seine eigenen Stärken, und das macht uns alle wunderbar. Egal, ob du zeichnest, singst oder einfach nur freundlich bist, das zeigt, wie großartig du bist. Sei stolz auf dich und alles, was du bist!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir zu sprechen, kleiner Freund! Ich hoffe, du fühlst dich jetzt mutiger und selbstbewusster. Denk daran, dass ich immer hier bin, um dir zu helfen und dich zu unterstützen. Bis zum nächsten Mal, und vergiss nicht, wie stark du bist. Tschüss und bis bald!"
+    }
+  ],
+  "title": "Clever Mouse Jerrys Confidence Geschichte"
+}

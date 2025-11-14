@@ -1,0 +1,98 @@
+{
+  "id": "ocean_dreamer_moa_behavior_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Moa, la rêveuse de l'océan. Aujourd'hui, nous allons partir pour une aventure incroyable sur le comportement. Êtes-vous prêt? Il y a tant de choses merveilleuses à découvrir ensemble. Je suis impatiente de commencer ce voyage avec vous!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le comportement, c'est comment nous agissons et interagissons avec les autres. Imagine que tu es sur un bateau et que chaque action est une vague qui aide le bateau à avancer. Un bon comportement aide tout le monde à être heureux et à s'amuser ensemble. Par exemple, dire 's'il te plaît' et 'merci' est comme donner un coup de pagaie supplémentaire pour avancer. Voyons comment nous pouvons créer des vagues positives!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de l'importance de suivre les règles. Les règles sont comme les étoiles dans le ciel, elles nous guident et nous aident à naviguer. Quand nous suivons les règles, tout le monde peut jouer en toute sécurité et s'amuser. Par exemple, attendre son tour pour jouer avec un jouet est une règle qui montre du respect pour les autres. Essayons de penser à une règle que nous suivons tous les jours!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "C'est super de voir comment vous comprenez les règles! Vous êtes tous de fantastiques navigateurs dans cet océan de la vie. Maintenant, essayons de prendre trois grandes respirations ensemble pour nous concentrer. Inspirez profondément, puis expirez lentement. Encore une fois, inspirez, et expirez. Une dernière fois, inspirez, et expirez. Vous voyez? C'est comme calmer les vagues autour de nous!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous quand nous avons parlé du partage? C'est une belle façon de montrer un bon comportement. Partager, c'est comme offrir une partie de notre trésor aux autres. Quand nous partageons, nous faisons sourire nos amis et créons des moments de joie ensemble. Imaginez partager votre coquillage préféré avec un ami. Cela rend la journée de tout le monde plus lumineuse!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de l'écoute. Écouter est comme tendre l'oreille au murmure des vagues. Quand nous écoutons attentivement, nous montrons que nous respectons les autres. Par exemple, écouter un ami parler de son jour à l'école sans l'interrompre. Cela montre que nous nous soucions de ce qu'il dit. Essayons d'écouter attentivement la prochaine fois que quelqu'un nous parle!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà aidé quelqu'un aujourd'hui? Aider est une autre façon de montrer un bon comportement. C'est comme offrir une main pour grimper sur un rocher. Pensez à un moment où vous avez aidé un ami ou un membre de votre famille. Comment cela vous a-t-il fait sentir? J'aimerais entendre vos histoires!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Aider les autres est vraiment spécial, n'est-ce pas? Cela crée des liens forts et rend tout le monde heureux. Imaginez un monde où tout le monde s'entraide, comme dans une équipe de pirates cherchant un trésor. C'est tellement plus amusant et agréable! N'oublions jamais que chaque petit geste compte, comme un petit poisson dans un grand océan."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant de la patience. La patience, c'est comme attendre que la marée monte. Parfois, il faut attendre notre tour ou que quelque chose se produise. Par exemple, attendre que le feu passe au vert avant de traverser la rue. Cela demande du temps, mais c'est important pour rester en sécurité. Essayons d'être patients la prochaine fois que nous devons attendre!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes tous tellement courageux et patients! C'est merveilleux de voir comment vous grandissez chaque jour. Maintenant, faisons un petit exercice ensemble. Répétons après moi : 'Je suis patient, je suis gentil, je suis courageux.' Encore une fois : 'Je suis patient, je suis gentil, je suis courageux.' Vous êtes incroyables!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vous voyez, chaque jour est une nouvelle aventure pour apprendre et grandir. Comme un explorateur de l'océan, chaque bon comportement est une découverte précieuse. Que ce soit dans le respect, le partage, l'écoute ou l'aide, chaque petite action compte. Nous pouvons tous être des héros de l'océan avec nos beaux comportements. Continuons à explorer ces trésors ensemble!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quelles autres bonnes actions pouvez-vous faire aujourd'hui? Peut-être aider à ranger les jouets ou faire un dessin pour un ami. Pensez à quelque chose que vous pouvez faire pour rendre quelqu'un heureux. J'aimerais beaucoup savoir ce que vous allez choisir de faire. Êtes-vous prêt à partager vos idées avec moi?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Je suis tellement fière de vous et de toutes vos bonnes actions! Vous êtes tous des étoiles brillantes dans le ciel. Ensemble, nous avons appris beaucoup de choses sur le comportement. Chaque jour est une nouvelle chance de faire de notre mieux et de briller encore plus fort. Continuons à être courageux et gentils avec tout le monde autour de nous."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir voyagé avec moi aujourd'hui, mes petits explorateurs. J'ai passé un moment merveilleux à partager ces histoires de comportement avec vous. N'oubliez pas que vous êtes tous des rêveurs de l'océan incroyables. Je suis impatiente de notre prochaine aventure ensemble. À bientôt, mes amis!"
+    }
+  ],
+  "title": "Histoire de Behavior de Ocean Dreamer Moa"
+}

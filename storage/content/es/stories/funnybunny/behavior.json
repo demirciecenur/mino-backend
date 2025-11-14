@@ -1,0 +1,98 @@
+{
+  "id": "funny_bunny_behavior_story",
+  "character": "Funny Bunny",
+  "topic": "behavior",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Funny Bunny, y hoy vamos a embarcarnos en una aventura increíble sobre el comportamiento. ¿Están listos para aprender y divertirnos juntos? Estoy muy emocionado de compartir algunos secretos sobre cómo ser un buen amigo y seguir las reglas. ¡Vamos a descubrir cómo podemos hacer que cada día sea divertido y lleno de sonrisas! ¿Qué les parece si comenzamos ahora mismo?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Antes de comenzar, recordemos que el comportamiento significa cómo actuamos y cómo tratamos a los demás. Un buen comportamiento nos ayuda a jugar bien con nuestros amigos y a sentirnos felices. Imaginen estar en un parque lleno de niños; todos quieren jugar y divertirse, ¿verdad? Si seguimos las reglas, todos pueden jugar sin preocupaciones. ¿No sería genial si todos pudiéramos divertirnos juntos sin problemas?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, pensemos en algunas reglas importantes que podemos seguir. Por ejemplo, cuando estamos en casa, es bueno recoger nuestros juguetes después de jugar. Así, el espacio queda limpio y listo para la próxima aventura. También, cuando estamos en la escuela, es importante escuchar a la maestra. Esto nos ayuda a aprender cosas nuevas todos los días. ¿Ven cómo seguir las reglas hace que todo sea mejor?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Ahora que sabemos un poco más sobre las reglas, vamos a hacer un ejercicio divertido. Imaginen que estamos en un gran jardín lleno de flores. Vamos a respirar profundamente tres veces, como si estuviéramos oliendo las flores. Uno... dos... tres. ¡Qué bien se siente! Respirar así nos ayuda a calmarnos y a pensar mejor. ¡Bien hecho!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablando de calmarse, a veces podemos sentirnos un poco enojados o tristes. Eso está bien, todos sentimos eso algunas veces. Lo importante es saber cómo manejar esos sentimientos. Podemos hablar con un adulto o dibujar para expresar cómo nos sentimos. ¿Alguna vez han dibujado algo que los hace sentir mejor? Es una forma maravillosa de dejar que nuestras emociones salgan de manera creativa."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Recuerden cuando hablamos de recoger los juguetes. Esto también es parte del buen comportamiento, porque ayuda a mantener nuestro entorno limpio y ordenado. ¿Han visto alguna vez cómo se siente cuando todo está en su lugar? Es como si nuestro espacio nos sonriera, invitándonos a jugar de nuevo. ¡Es increíble lo que un poco de orden puede hacer!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Otra cosa importante es compartir con los demás. Cuando compartimos, todos tienen la oportunidad de disfrutar y ser felices. Por ejemplo, si tienes una caja de colores, puedes prestar algunos a tus amigos. Así, todos pueden dibujar juntos y crear obras maestras. Compartir no solo es amable, sino que también hace que todos se sientan incluidos y felices."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Están haciendo un trabajo increíble hasta ahora! Vamos a imaginar que somos pequeños conejitos que saltan alegremente en un campo. Vamos a saltar juntos, uno... dos... tres. ¡Saltos felices! Mover nuestro cuerpo nos ayuda a sentirnos bien y a liberar energía. ¡Son unos conejitos muy enérgicos y amables!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, podemos ver que alguien necesita ayuda. Ser un buen amigo significa estar ahí para los demás. Si un amigo se cae, podemos ayudarlo a levantarse. O si alguien está triste, podemos ofrecerle un abrazo. Pequeñas acciones como estas hacen una gran diferencia y muestran cuánto nos importa la gente a nuestro alrededor."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Qué creen que podemos hacer si alguien nos molesta? A veces, decir 'por favor, para' puede ser muy poderoso. También podemos contarle a un adulto lo que está pasando. Así, podemos buscar una solución juntos. ¿Han tenido alguna vez que decirle a alguien que se detenga? Es importante hacerlo de manera educada y con confianza."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Volvamos a pensar en cómo podemos ser amables todos los días. Decir 'gracias' y 'por favor' son maneras sencillas de mostrar respeto. ¿Recuerdan la última vez que alguien les dijo 'gracias'? Se siente muy bien, ¿verdad? Practiquemos juntos, digamos 'gracias' y 'por favor'. ¡Son palabras mágicas que hacen que el mundo sea un lugar más feliz!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de la importancia de escuchar. Cuando alguien nos habla, es bueno mirar a sus ojos y prestar atención. Esto muestra que valoramos lo que están diciendo. También podemos hacer preguntas para entender mejor. Escuchar es una habilidad increíble que nos ayuda a aprender y a ser mejores amigos. ¿Listos para practicar un poco de escucha?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Han aprendido mucho sobre el comportamiento y cómo ser buenos amigos. Vamos a terminar con un gran aplauso para todos nosotros. ¡Uno, dos, tres, aplausos! Han hecho un trabajo maravilloso aprendiendo y participando. ¡Estoy muy orgulloso de ustedes!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Hemos llegado al final de nuestra aventura sobre el comportamiento. Espero que hayan disfrutado tanto como yo. Recuerden siempre ser amables, compartir y seguir las reglas. Así, cada día puede ser una nueva aventura llena de diversión y amistad. ¡Hasta la próxima, amiguitos! ¡Nos vemos pronto!"
+    }
+  ],
+  "title": "Historia de Behavior de Funny Bunny"
+}

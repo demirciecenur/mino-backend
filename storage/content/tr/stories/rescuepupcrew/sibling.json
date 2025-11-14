@@ -1,0 +1,104 @@
+{
+  "id": "rescue_pup_crew_sibling_story",
+  "character": "Rescue Pup Crew",
+  "topic": "sibling",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Rescue Pup Crew. Bugün birlikte kardeşlik hakkında harika bir yolculuğa çıkacağız. Kardeşlerinle oyun oynamak ve onlarla vakit geçirmek ne kadar eğlenceli, değil mi? Hazır mısın? Seni çok merak ediyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlik, birlikte büyümenin en güzel yollarından biri. Kardeşinle birlikte oyunlar oynayabilir, yeni şeyler öğrenebilir ve maceralara atılabilirsin. Belki de birlikte bir kale inşa ettiniz ya da bahçede saklambaç oynadınız. Kardeşlerinle geçirdiğin her an, senin için yeni bir macera olabilir. Bu anılar, büyüdüğünde seni hep mutlu edecek."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşlerinle paylaşmak neden önemlidir, biliyor musun? Birlikte paylaşmak, sevgi ve mutluluğu artırır. Mesela en sevdiğin oyuncağını kardeşinle paylaştığında, onun da mutlu olduğunu görebilirsin. Paylaşmak, aynı zamanda birbirine güvenmeyi de öğretir. Bu yüzden, oyuncaklarını, oyunlarını ve hatta hikayelerini paylaşmayı dene!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi, şimdi birlikte bir oyun düşünelim! Belki de birlikte bir resim çizebiliriz. Hem sen hem de kardeşin, farklı renklerle resme katkıda bulunabilirsiniz. Bu, sadece eğlenceli olmakla kalmaz, aynı zamanda yaratıcılığınızı da geliştirir. Harika bir takım çalışması olur, değil mi? Şimdi, sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda, kardeşinle oyun oynamaktan bahsetmiştik. Şimdi, birlikte bir hikaye yazmayı deneyelim. Her biriniz sırayla bir cümle ekleyin ve hikayenin nereye gideceğini görün. Bu, hem yaratıcılığınızı hem de takım çalışmanızı geliştirecek. Kardeşinle birlikte hikayeler oluşturmak çok eğlenceli olabilir!"
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerinle zaman geçirirken, bazen anlaşmazlıklar yaşayabilirsin. Bu oldukça normaldir. Önemli olan, bu durumlarda nasıl davranacağını bilmektir. Anlaşmazlıklarınızı konuşarak çözmeye çalışın ve birbirinizi dinleyin. Bu, kardeşlerinle daha iyi anlaşmanı sağlar ve aranızdaki bağı güçlendirir."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir anlaşmazlık yaşadığınızda, derin bir nefes almak ve düşünmek iyi bir fikir olabilir. Hadi, şimdi birlikte üç derin nefes alalım. Nefes almak, sakinleşmene ve daha iyi düşünmene yardımcı olur. Bu şekilde, kardeşinle daha kolay bir çözüme ulaşabilirsin. Denemek ister misin?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kardeşinle geçirdiğin zamanların kıymetini bilmek çok önemli. Birlikte olduğunuzda, birbirinize ne kadar değer verdiğinizi hissettirin. Küçük bir 'teşekkür ederim' veya 'seni seviyorum' demek bile çok şey ifade eder. Böylece, aranızdaki bağ daha da güçlenir. Harika bir kardeş olmak için elinden geleni yapmaya devam et!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlik aynı zamanda birlikte büyümek ve öğrenmektir. Kardeşinle birlikte yeni şeyler denemek, hem seni hem de onu geliştirir. Belki birlikte yeni bir oyun keşfettiniz ya da yeni bir şarkı öğrendiniz. Bu yeni deneyimler, sizi daha da yakınlaştırır. Kardeşinle birlikte öğrenmek, çok eğlenceli olabilir!"
+    },
+    {
+      "id": "question_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle en çok hangi oyunları oynamayı seviyorsun? Belki de birlikte bir yarış oyunu oynuyorsunuz ya da bir yapboz yapıyorsunuz. Seni en çok ne mutlu ediyor? Kardeşinle birlikte en çok hangi anılarınızı hatırlıyorsun? Bu anılar, hep sizinle kalacak."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşinle vakit geçirirken, bazen farklı düşünceleriniz olabilir. Bu oldukça doğaldır ve her zaman aynı fikirde olmanız gerekmez. Önemli olan, farklılıklarınızı kabul etmek ve saygı göstermektir. Böylece, birbirinizi daha iyi anlayabilir ve daha güçlü bir bağ kurabilirsiniz. Farklılıklar, dünyayı daha renkli kılar!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Birlikte yapabileceğiniz eğlenceli bir aktivite daha düşünelim. Belki de birlikte bir dans partisi yapabilirsiniz. Sevdiğiniz bir müziği açın ve dans etmeye başlayın. Dans etmek, hem eğlenceli hem de sağlıklıdır. Kardeşinle birlikte dans ederken çok eğleneceksin. Hadi, şimdi denemeye ne dersin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşinle vakit geçirmenin bir başka güzel yanı da birbirinize destek olmaktır. Zor zamanlarda birbirinize yardımcı olabilir ve birlikte güçlenebilirsiniz. Kardeşin üzgün olduğunda, onun yanında olmak ve onu neşelendirmek harika bir şeydir. Bu destek, aranızdaki sevgiyi ve bağı daha da artırır. Kardeşinle her zaman birbirinizin yanında olun."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kardeşinle geçirdiğin her anı değerlendir ve onunla olan bağını güçlendir. Birlikte yaptığınız her şey, sizin için birer hatıra olacak. Bu hatıralar, büyüdüğünüzde bile sizinle kalacak. Kardeşinle olan ilişkini güçlendirmek için her fırsatı değerlendir. Harika bir kardeş olmak için senin gibi birine ihtiyaç var!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün kardeşlik hakkında konuştuğumuz için çok mutluyum. Kardeşinle harika zamanlar geçireceğine eminim. Unutma, sen harika bir kardeşsin ve kardeşinle birlikte her anın tadını çıkarmalısın. Bir sonraki maceramızda tekrar görüşmek üzere. Hoşça kal ve her zaman gülümsemeye devam et!"
+    }
+  ],
+  "title": "Rescue Pup Crew'ın Sibling Hikayesi"
+}

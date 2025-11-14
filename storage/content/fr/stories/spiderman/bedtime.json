@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_bedtime_story",
+  "character": "Spider Fighter",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Spider Fighter, ton héros de la ville. Ce soir, nous allons partir pour une aventure incroyable sur le thème du coucher. Es-tu prêt à explorer toutes les étapes pour bien te préparer au sommeil? Ensemble, nous allons découvrir comment rendre le moment du coucher amusant et relaxant. Je suis tellement curieux de savoir comment tu te prépares pour aller au lit!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par parler de pourquoi le coucher est important. Quand tu dors bien, tu te réveilles plein d'énergie pour jouer et apprendre de nouvelles choses. Le sommeil aide ton corps à grandir et à être fort, comme moi quand je grimpe sur les murs de la ville. Imagine que chaque nuit est comme une aventure où tu te reposes pour être prêt pour le lendemain. Maintenant, nous allons voir comment rendre ce moment encore plus spécial."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour commencer, il est important d'avoir une routine du coucher. Cela signifie faire les mêmes choses chaque soir pour que ton corps sache qu'il est temps de se détendre. Par exemple, tu pourrais commencer par un bain chaud qui te rendra tout propre et relaxé. Ensuite, mets ton pyjama préféré, peut-être celui avec les motifs de super-héros! N'oublie pas de te brosser les dents pour que ton sourire soit aussi éclatant que le mien."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, faisons un petit exercice ensemble pour nous détendre avant de dormir. Prenons une grande respiration ensemble, veux-tu? Inspire profondément par le nez, puis expire lentement par la bouche. Faisons cela trois fois. C'est super! Tu vois, cela aide ton corps à se calmer et à se préparer pour le sommeil. Tu peux aussi penser à quelque chose qui te rend heureux, comme jouer avec tes amis ou une belle histoire que tu aimes."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de l'importance de lire une histoire avant de dormir. Choisir un livre avec une histoire douce et amusante peut être une belle façon de terminer la journée. Cela te permet de voyager dans un monde imaginaire tout en restant bien au chaud dans ton lit. Peut-être as-tu une histoire préférée que tu aimes écouter encore et encore? Les histoires peuvent aussi te donner de beaux rêves!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelle-toi, après avoir lu, il est temps de dire bonne nuit. Tu peux faire un câlin à ton doudou préféré ou à tes parents. Dire bonne nuit montre que tu es prêt à te reposer et à laisser la nuit te bercer. As-tu un rituel spécial pour dire bonne nuit? Peut-être un bisou sur le front ou un câlin? C'est une belle façon de finir ta journée."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de ce que tu peux faire si tu as du mal à t'endormir. Parfois, fermer les yeux et imaginer un endroit calme et heureux peut aider. Imagine-toi dans un jardin plein de fleurs ou allongé sur un nuage doux. Tu peux aussi écouter une musique douce ou le bruit de la pluie. Cela aide ton esprit à se détendre et à s'endormir paisiblement."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre astuce est de vérifier que ta chambre est prête pour le sommeil. Assure-toi que tes lumières sont éteintes ou que tu as une veilleuse si cela te rassure. Ton lit doit être confortable, avec des draps doux et ton oreiller préféré. Un environnement calme et confortable aide ton corps à se préparer au repos. N'oublie pas de fermer les rideaux pour que la lumière du matin ne te réveille pas trop tôt!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, voyons comment tu peux te sentir en sécurité et protégé dans ton lit. Tu peux imaginer que ton lit est un fort magique qui te garde à l'abri. Pense à toutes les choses qui te font sourire et te sentir bien. Te sentir en sécurité est important pour bien dormir. Tu es toujours entouré d'amour, même quand tu dors. N'oublie jamais cela!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Il est aussi important de se rappeler que tout le monde dort, même les super-héros comme moi. Le sommeil nous aide à rester forts et prêts pour de nouvelles aventures. Imagine que même les animaux de la forêt se reposent la nuit. Dormir, c'est comme recharger ses batteries pour le lendemain. Et toi, tu es prêt à devenir un super dormeur, n'est-ce pas?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est ton moment préféré de la routine du coucher? Est-ce le bain chaud, la lecture d'une histoire, ou peut-être les câlins de bonne nuit? Pense à ce que tu aimes le plus et dis-le à quelqu'un qui t'aime. Partager tes moments préférés peut rendre le coucher encore plus spécial. Alors, qu'est-ce qui te rend le plus heureux avant de dormir?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Revenons à la façon dont tu te sens après une bonne nuit de sommeil. Le matin, tu te réveilles plein d'énergie, prêt à jouer et à apprendre! Lorsque tu dors bien, tu te sens heureux et en forme. Tu peux courir, sauter et même grimper comme un super-héros. Dormir, c'est comme un pouvoir magique qui te rend encore plus fort chaque jour."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Alors, comment pouvons-nous nous préparer pour une super nuit de sommeil ce soir? Répétons ensemble notre routine du coucher. D'abord, le bain relaxant, puis les dents bien brossées. Ensuite, mettons notre pyjama confortable et choisissons une histoire à lire. Enfin, n'oublions pas les câlins et les bonnes nuits. Maintenant, tu es prêt pour une nuit pleine de beaux rêves!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as fait un excellent travail en te préparant pour le coucher! Je suis sûr que tu vas avoir une nuit merveilleuse remplie de rêves joyeux. Chaque nuit est une nouvelle chance de se reposer et de grandir. Tu es un super dormeur, et je suis fier de toi. Bravo pour tout ce que tu fais pour te préparer à dormir!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Il est temps de dire au revoir, petit héros. J'espère que tu as aimé notre aventure sur le coucher. Souviens-toi que chaque nuit est une nouvelle aventure pour rêver et se reposer. Je te souhaite une belle nuit remplie de doux rêves. À bientôt pour une nouvelle aventure, et dors bien!"
+    }
+  ],
+  "title": "Histoire de Bedtime de Spider Fighter"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "bubu_behavior_story",
+  "character": "Bubu",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostlarım! Ben Bubu. Bugün birlikte davranışlar hakkında konuşacağız. Nasıl hissettiğimizi ve nasıl davrandığımızı keşfedeceğiz. Hazır mısınız? Beraber çok şey öğreneceğiz ve eğleneceğiz. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Davranışlar, nasıl hissettiğimizi ve başkalarına nasıl davrandığımızı gösterir. İyi davranışlar, arkadaşlarımızla ve ailemizle iyi geçinmemizi sağlar. Mesela, oyuncaklarımızı paylaştığımızda ya da birine yardım ettiğimizde iyi davranışlar sergilemiş oluruz. Bu davranışlar bizi mutlu eder ve etrafımızdaki insanları mutlu eder. Şimdi, iyi davranışların neden önemli olduğuna bakalım."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "İyi davranışlar sergilediğimizde, başkalarının da bize iyi davranmasını sağlarız. Örneğin, bir arkadaşımız üzgün olduğunda ona destek olmak iyi bir davranıştır. Bu, arkadaşımızı mutlu eder ve aramızdaki bağı güçlendirir. İyi davranışlar aynı zamanda kurallara uymamıza da yardımcı olur. Kurallar, hepimizin güvende olmasını ve mutlu bir şekilde oynamamızı sağlar."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, hep birlikte iyi davranış örnekleri bulalım! Oyuncaklarımızı toplamak, dişlerimizi fırçalamak gibi şeyler yapabiliriz. Bu tür davranışlar, hem kendimize hem de çevremize özen göstermemizi sağlar. Harika, değil mi? Sen de bu güzel davranışları yapabilirsin! Unutma, küçük şeyler büyük farklar yaratır."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda iyi davranışların ne kadar önemli olduğunu konuştuk. Şimdi, duygularımızı nasıl ifade edebileceğimize bakalım. Bazen üzgün ya da kızgın hissedebiliriz ve bu çok normaldir. Önemli olan, bu duyguları nasıl yöneteceğimizi öğrenmektir. Mesela, derin nefes almak ya da bir yetişkinden yardım istemek iyi bir başlangıç olabilir."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Duygularımızı ifade etmek, başkalarının bizi anlamasına yardımcı olur. Örneğin, üzgün olduğunuzda bunu söylemek, karşınızdaki kişinin size daha fazla anlayış göstermesine yol açar. Duygularınızı paylaşmak, aynı zamanda sizi rahatlatabilir. Herkesin duygularını ifade etme şekli farklıdır ve bu çok güzeldir. Şimdi, duygularımızı daha iyi nasıl ifade edebileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Duygularımızı ifade ederken, nazik ve açık olmaya çalışmalıyız. Mesela, 'Üzgünüm çünkü...' diyerek başlayabiliriz. Bu, karşımızdaki kişiye nasıl hissettiğimizi anlatmanın güzel bir yoludur. Ayrıca, duygularımızı çizimler ya da oyunlar yoluyla da ifade edebiliriz. Bu yöntemler, duygularımızı daha iyi anlamamıza yardımcı olabilir. Şimdi, bir sonraki adımda ne yapabileceğimize bakalım."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Haydi, birlikte bir oyun oynayalım! Herkes sevdiği bir duyguyu mimiklerle göstermeye çalışsın. Bu hem eğlenceli hem de öğretici bir etkinlik olabilir. Duygularımızı anlamak ve ifade etmek için harika bir yol. Şimdi, hangi duyguyu göstermek istersiniz? Harika seçimler yapıyorsunuz, devam edelim!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki oyunumuzda duygularımızı mimiklerle ifade etmeyi denedik. Şimdi, iyi davranışların günlük yaşamımızda nasıl yer aldığını keşfedelim. Sabah kalktığımızda gülümsemek ya da 'Günaydın' demek, güne güzel başlamamıza yardımcı olur. Bu basit davranışlar, günümüzü daha mutlu ve pozitif hale getirir. Şimdi, günün diğer bölümlerinde neler yapabileceğimize bakalım."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Gün boyunca iyi davranışlar sergilemek, hem kendimizi hem de çevremizdekileri mutlu eder. Örneğin, yemek yerken masada sessiz olmak ya da oyuncağımızı bir arkadaşımızla paylaşmak güzel davranışlardandır. Bu tür davranışlar, etrafımızdaki insanlarla olan ilişkilerimizi güçlendirir. Ayrıca, kendimizi de daha iyi hissetmemizi sağlar. Şimdi, başka hangi davranışları ekleyebileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sizce başka hangi iyi davranışlar günlük yaşantımızda önemlidir? Oyuncakları toplamak ya da sıra beklemek gibi davranışlar aklınıza geliyor mu? Düşünmek için biraz zaman ayıralım. Herkesin düşüncesi çok önemli. Siz de paylaşmak ister misiniz?"
+    },
+    {
+      "id": "scene_11",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Paylaştığınız düşünceler harika! Herkesin farklı fikirleri olması çok güzel. Bu çeşitlilik, daha fazla şey öğrenmemize yardımcı olur. Birbirimizi dinlemek ve anlamak, iyi davranışların bir parçasıdır. Şimdi, duyduklarımızı nasıl uygulayabileceğimizi konuşalım."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Duyduklarımızı uygulamak için, her gün küçük hedefler koyabiliriz. Mesela, bugün bir arkadaşımıza yardım etmeye çalışabiliriz. Yarın ise, bir aile bireyimize sevgi dolu bir not yazabiliriz. Bu tür hedefler, iyi davranışları alışkanlık haline getirmemize yardımcı olur. Hedeflerimizi belirlerken, kendimize nazik olmayı unutmayalım. Şimdi, başka neler yapabileceğimize bakalım."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musunuz, duygularımızı ifade etmenin ve iyi davranışların ne kadar önemli olduğunu konuşmuştuk. Şimdi, bu öğrendiklerimizi uygulama zamanı. Her gün bir iyilik yapmak ve bir duygu paylaşmak, bizi ve çevremizdekileri mutlu eder. Bu şekilde, daha iyi bir ortam yaratabiliriz. Şimdi, bu güzel davranışları nasıl sürdüreceğimizi düşünelim."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte çok güzel şeyler öğrendik. İyi davranışlar ve duygularımızı ifade etmek bizi daha mutlu yapar. Her gün bir iyilik yapmayı ve duygularımızı paylaşmayı unutmayalım. Sizlerle bu yolculuğu paylaştığım için çok mutluyum. Bir dahaki sefere görüşmek üzere, hoşça kalın!"
+    }
+  ],
+  "title": "Bubu'ın Behavior Hikayesi"
+}

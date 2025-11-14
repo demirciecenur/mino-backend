@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_imagination_story",
+  "character": "Piggy Friend",
+  "topic": "imagination",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, meine kleinen Freunde! Ich bin Piggy Freund und heute machen wir eine wundervolle Reise in die Welt der Fantasie. Bist du bereit, mit mir zu spielen und zu träumen? Ich bin so neugierig auf all die tollen Ideen, die wir zusammen entdecken werden. Fantasie ist wie ein Zauberstab, der uns an magische Orte bringen kann. Lass uns gemeinsam sehen, wohin uns unsere Vorstellungskraft heute führt!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich daran, wie wir über Fantasie gesprochen haben? Fantasie ist, wenn wir uns Dinge vorstellen, die in der echten Welt nicht passieren. Zum Beispiel können wir uns vorstellen, dass wir fliegen oder in einem Schloss leben. Hast du jemals davon geträumt, ein Ritter oder eine Prinzessin zu sein? Durch unsere Fantasie können wir all das und noch viel mehr erleben. Was möchtest du heute mit deiner Fantasie machen?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt ein wenig über kreatives Denken sprechen. Kreatives Denken ist, wenn wir neue Ideen haben und Dinge auf eine andere Weise sehen. Vielleicht kannst du dir vorstellen, dass dein Lieblingskuscheltier sprechen kann. Oder du denkst dir eine Geschichte aus, in der du der Held bist. Kreatives Denken hilft uns, Probleme zu lösen und Spaß zu haben. Lass uns versuchen, kreativ zu sein, indem wir uns neue Spiele ausdenken."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du kannst es schaffen! Lass uns zusammen eine kleine Fantasiereise machen. Stell dir vor, wir sind auf einem großen Piratenschiff. Was siehst du um dich herum? Vielleicht gibt es einen großen Schatz oder lustige Piratenfreunde. Du kannst sogar die Wellen hören und das Meer riechen. Siehst du, wie mächtig deine Fantasie sein kann? Du bist ein fantastischer Abenteurer!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir auf unserem Piratenschiff sind, lass uns überlegen, wohin wir segeln könnten. Vielleicht möchten wir zu einer geheimen Insel voller Schätze. Was für Schätze könnten dort sein? Vielleicht eine Truhe voller Süßigkeiten oder ein Baum voller Spielzeuge. Deine Fantasie kann uns überall hinbringen. Was denkst du, was wir auf der Insel finden werden?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich, als wir über die geheime Insel gesprochen haben? Was wäre, wenn wir dort neue Freunde treffen? Vielleicht gibt es dort sprechende Tiere oder freundliche Feen. Können wir uns vorstellen, wie sie aussehen und was sie sagen würden? Vielleicht laden sie uns zu einem lustigen Fest ein. Es gibt so viele Möglichkeiten, wenn wir unsere Fantasie benutzen. Was denkst du, welche Abenteuer wir noch erleben könnten?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt ein kleines Fantasieübungsspiel machen. Stell dir vor, du bist ein Superheld. Welche Superkräfte hättest du gerne? Vielleicht könntest du fliegen oder unsichtbar werden. Was würdest du mit deinen Superkräften machen? Vielleicht könntest du jemandem helfen oder die Welt retten. Fantasie hilft uns, uns stark und mutig zu fühlen. Lass uns mal zusammen überlegen, wie wir unsere Kräfte einsetzen könnten."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal davon geträumt, in einem Märchen zu sein? Welches Märchen magst du am liebsten? Vielleicht möchtest du wie ein tapferer Ritter sein oder in einem verzauberten Wald leben. Was würdest du in deinem Märchen erleben wollen? Es ist so spannend, sich vorzustellen, Teil einer magischen Geschichte zu sein. Welche Abenteuer warten in deiner Märchenwelt auf dich?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns über Tagträumen sprechen. Tagträumen ist, wenn wir uns in Gedanken verlieren und uns schöne Dinge vorstellen. Vielleicht träumst du davon, im Sommer Eis zu essen oder mit deinen Freunden im Park zu spielen. Tagträume sind wie kleine Geschichten, die wir in unserem Kopf erleben. Sie helfen uns, glücklich zu sein und neue Ideen zu bekommen. Was sind deine liebsten Tagträume?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das toll! Lass uns jetzt über kreatives Spiel sprechen. Kreatives Spiel ist, wenn wir neue Spiele erfinden oder mit Dingen spielen, die wir schon haben. Vielleicht baust du ein Schloss aus Bauklötzen oder malst ein Bild von einem Drachen. Kreatives Spiel lässt uns unsere Fantasie frei entfalten und macht so viel Spaß. Was möchtest du heute gerne spielen?"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich, als wir über kreatives Spiel gesprochen haben? Lass uns ein Spiel erfinden, das nur wir kennen. Vielleicht spielen wir, dass wir auf einem anderen Planeten leben. Was für Abenteuer könnten wir dort erleben? Vielleicht gibt es lustige Aliens oder spannende Weltraumrennen. Unsere Fantasie kann uns überall hinbringen und uns die tollsten Abenteuer erleben lassen. Was denkst du, was wir auf unserem neuen Planeten entdecken könnten?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns eine kleine Übung machen, um unsere Fantasie noch mehr zu fördern. Stell dir vor, wir sind in einem Zauberwald. Welche magischen Wesen leben dort? Vielleicht gibt es Einhörner oder freundliche Riesen. Lass uns überlegen, wie sie aussehen und was sie tun. Vielleicht haben sie besondere Fähigkeiten oder helfen uns, ein Rätsel zu lösen. Fantasie ist wie ein Schlüssel zu einer Welt voller Wunder. Was denkst du, was wir im Zauberwald erleben könnten?"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Jetzt bin ich neugierig: Was ist das lustigste, was du dir jemals vorgestellt hast? Vielleicht hast du dir vorgestellt, dass du ein großer Elefant bist oder dass du auf einem Regenbogen tanzt. Fantasie kann uns so viele lustige und spannende Ideen geben. Es ist toll, wenn wir uns trauen, verrückte Dinge zu denken. Was ist deine lustigste Fantasie?"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du hast so viele tolle Ideen! Fantasie ist wirklich etwas Besonderes. Sie hilft uns, kreativ zu sein und neue Dinge zu entdecken. Wir können mit unserer Fantasie überall hinreisen und alles erleben, was wir uns vorstellen können. Lass uns weiter träumen und unsere Fantasie jeden Tag benutzen. Du bist ein fantastischer Träumer!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Fantasie zu sprechen. Ich hoffe, du hattest genauso viel Spaß wie ich. Vergiss nicht, dass deine Fantasie immer bei dir ist und dir helfen kann, die tollsten Abenteuer zu erleben. Danke, dass du heute mit mir geträumt hast. Ich freue mich schon auf unser nächstes Abenteuer. Tschüss, bis bald, kleiner Freund!"
+    }
+  ],
+  "title": "Piggy Friends Imagination Geschichte"
+}

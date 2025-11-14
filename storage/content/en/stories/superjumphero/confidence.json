@@ -1,0 +1,104 @@
+{
+  "id": "super_jump_hero_confidence_story",
+  "character": "Super Jump Hero",
+  "topic": "confidence",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Super Jump Hero, and today we're going to discover something very special together. We're going on an adventure all about confidence! Are you ready to jump into this journey with me? I'm so excited to see all the amazing things we can do when we believe in ourselves. So, let's buckle up our capes and get started on this wonderful adventure!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, confidence is like a superpower that helps us do things we might think are difficult. Remember when you tried something new, like riding a bike or drawing a picture? Confidence is what helps us try again and again until we succeed. It’s like having a little cheerleader inside saying, 'You can do it!' As we go through our day, confidence helps us feel brave and strong."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let me show you how we can practice confidence every day. First, let's think of something we want to try, like tying our shoes or saying hello to a new friend. We can start by taking a deep breath and imagining ourselves doing it perfectly. Then, when we try, we remember that even if it's hard, each try makes us better. Let's practice this together!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking of something new to try! Remember, every superhero needs practice. Each time we try, we get a little better. And guess what? You are already doing amazing! Keep trying, and soon you'll be surprised at how much you've learned. So, let's keep cheering ourselves on, just like I do when I make big jumps!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about how confidence feels. It's like a warm, happy feeling inside when we do something we thought was hard. It's like when you build a tall tower with blocks and it stands strong. Confidence is that proud feeling you get when you see what you can do. And remember, it's okay to ask for help if you need it. Even heroes need help sometimes!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's play a little game to build our confidence. Imagine we're going on a big adventure, and we have to cross a wobbly bridge. We can pretend to walk across, one step at a time. Each step we take, we say, 'I can do it!' Let's try it together now. One step, 'I can do it!' Another step, 'I can do it!' Great! See how far we've come?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Wasn't that fun? Just like crossing our pretend bridge, confidence helps us cross real-life bridges too. When we use our confidence, we find out how strong and brave we really are. Remember, every hero has moments when they feel unsure, but they never give up. They keep trying, and so can you!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Now, let's think of something you did today that made you feel proud. Did you share your toys? Or maybe you helped a friend? Those are all wonderful things to be proud of! Each time we do something kind or brave, our confidence grows bigger and bigger, just like a balloon filling with air. You are doing amazing!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you were really brave? Maybe it was trying a new food or playing a new game. How did it make you feel? It's fun to remember those times because they show us how strong we can be. Would you like to share your brave moment with me?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Wow, that sounds like a very brave moment! I'm so proud of you for sharing it with me. Each brave thing we do makes us even more confident. And remember, it's okay to feel a little scared sometimes. What's important is to keep trying and believe in yourself. You are a true hero!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about how we can help others feel confident too. When we say kind words or help someone, we're like superheroes spreading confidence. Maybe you can tell a friend, 'You can do it!' or help them when they're feeling shy. Together, we can make everyone feel strong and happy. Isn't that wonderful?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning all about confidence. Remember, each day is a new chance to practice and grow. With every little step, you're becoming more and more of a superhero. Keep being brave and trying new things. You have the power to do great things!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What is something new you would like to try this week? Maybe it's learning a new song or helping to bake cookies. Whatever it is, remember to use your confidence superpower. Would you like to share your idea with me? I'm excited to hear what you would like to try!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "That sounds like a fantastic idea! I know you can do it with a little practice and a lot of confidence. Don't forget, I'm cheering for you every step of the way. You're going to be amazing at whatever you choose to try. Keep believing in yourself!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our adventure about confidence is coming to an end, but remember, you have the power to be confident every day. I'm so proud of everything you've learned today. Keep practicing and sharing your confidence with others. Until next time, keep jumping high and being the amazing hero you are. Goodbye, little friend!"
+    }
+  ],
+  "title": "Super Jump Hero's Confidence Story"
+}

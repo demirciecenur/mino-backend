@@ -1,0 +1,104 @@
+{
+  "id": "shell_heroes_crew_sibling_story",
+  "character": "Shell Heroes Crew",
+  "topic": "sibling",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Shell Heroes Crew. Bugün kardeşlik hakkında harika bir yolculuğa çıkacağız. Kardeşlerimizle nasıl daha iyi geçinebileceğimizi ve birlikte nasıl eğlenceli zaman geçirebileceğimizi keşfedeceğiz. Hazır mısın? Seni çok merak ediyorum ve bu yolculukta birlikte olmak harika olacak!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerimizle birlikte olmak bazen çok eğlenceli olabilir. Onlarla oyun oynamak, birlikte yeni şeyler keşfetmek harika bir deneyimdir. Ancak bazen anlaşmazlıklar da yaşayabiliriz. İşte bu yüzden bugün, kardeşlerimizle nasıl daha iyi anlaşabileceğimizi konuşacağız. Çünkü iyi bir takım olmak için birbirimizi anlamamız çok önemli."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşlerimizle iyi geçinmenin en önemli yollarından biri, paylaşmayı öğrenmektir. Mesela, oyuncaklarımızı paylaşmak çok önemlidir. Bu, hem bizim hem de kardeşimizin mutlu olmasını sağlar. Birlikte oynadığımızda daha fazla eğleniriz. Şimdi birlikte düşünelim, en sevdiğin oyuncağını kardeşinle paylaşmak nasıl olurdu?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika, seninle birlikte bu konuda düşünmek çok güzel! Kardeşlerimizle paylaşmak, onların da bizimle paylaşmasını sağlar. Bu, aramızdaki bağı güçlendirir ve daha mutlu bir aile ortamı yaratır. Unutma, paylaşmak sihir gibidir; paylaştıkça çoğalır! Şimdi bunu denemeye ne dersin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda paylaşmanın öneminden bahsetmiştik. Şimdi, birlikte oynamanın nasıl daha keyifli hale gelebileceğini konuşalım. Kardeşinle birlikte oyunlar oynarken, kuralları birlikte belirlemek çok önemlidir. Böylece herkesin eğlendiğinden emin oluruz. Hadi, hangi oyunları oynayabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşinle oynayabileceğin oyunlardan biri saklambaç olabilir. Bu oyun hem eğlenceli hem de hareketlidir. Birlikte sayarak başlamak, oyunun kurallarını hatırlamak için harika bir yoldur. Ayrıca, sırayla ebe olmak da adil bir oyun sağlar. Şimdi, sen de bu oyunu denemek ister misin?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir fikir! Saklambaç oynamak çok eğlenceli olabilir. Hem saklanmak hem de birini bulmak heyecan vericidir. Kardeşinle sırayla ebe olmayı unutma. Bu şekilde oyun daha adil ve eğlenceli hale gelir. Şimdi, bir sonraki oyunumuzu düşünelim."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerle birlikte vakit geçirmenin bir diğer güzel yolu ise hikaye anlatmaktır. Birlikte hikayeler uydurmak, hem hayal gücümüzü geliştirir hem de eğlenceli zaman geçirmemizi sağlar. Hikayeler anlatırken, karakterler ve olaylar hakkında konuşabiliriz. Kendi hikayemizi yaratmak çok heyecan verici olabilir. Sen de bir hikaye anlatmak ister misin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle hangi oyunları oynamayı seversin? Oyuncaklarınızı paylaşırken nasıl hissediyorsun? Belki de en sevdiğiniz oyunları birlikte oynayabilirsiniz. Bu oyunları daha eğlenceli hale getirmek için neler yapabilirsiniz? Fikirlerinizi duymayı çok isterim!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede, kardeşlerle birlikte oyunlar oynamaktan bahsettik. Şimdi, kardeşlerimizle nasıl daha iyi iletişim kurabileceğimizi konuşalım. İletişim kurarken, onları gerçekten dinlemek çok önemlidir. Onlara dikkatlice kulak vermek, onların ne hissettiklerini anlamamıza yardımcı olur. Böylece, birlikte daha iyi vakit geçirebiliriz."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşinle iletişim kurarken, göz teması kurmak çok önemlidir. Bu, onlara değer verdiğimizi gösterir. Ayrıca, nazik bir ses tonuyla konuşmak, iletişimimizi daha etkili hale getirir. Onları dinlerken, başımızı sallayarak anladığımızı gösterebiliriz. Şimdi, bunu denemek için bir fırsat bulabilirsin."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen harikasın! Kardeşlerinle iyi iletişim kurarak, onların da seni anlamasını sağlayabilirsin. Bu, aranızdaki bağı güçlendirir ve daha mutlu bir aile ortamı yaratır. Unutma, iletişim kurmak bir köprü gibidir; iki tarafı birbirine bağlar. Şimdi, bu köprüyü birlikte inşa etmeye ne dersin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda, iletişimin öneminden bahsetmiştik. Şimdi, kardeşlerimizle birlikte nasıl daha fazla eğlenceli zaman geçirebileceğimizi düşünelim. Birlikte resim yapabilir veya şarkılar söyleyebiliriz. Yaratıcılığımızı kullanarak, eğlenceli aktiviteler bulabiliriz. Sen hangi aktiviteleri yapmayı seversin?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle birlikte en çok hangi aktiviteleri yapmayı seversin? Belki de birlikte resim yapmak ya da müzik dinlemek hoşuna gider. Bu aktiviteleri daha eğlenceli hale getirmek için neler yapabilirsiniz? Fikirlerinizi paylaşır mısınız? Merakla bekliyorum!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün bizimle olduğun için teşekkür ederiz! Kardeşlerle birlikte olmanın ne kadar değerli olduğunu gördük. Paylaşmak, oyunlar oynamak ve iletişim kurmak, aramızdaki bağı güçlendirir. Unutma, sen harikasın ve kardeşinle birlikte her şeyin üstesinden gelebilirsin. Bir sonraki maceramızda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Shell Heroes Crew'ın Sibling Hikayesi"
+}

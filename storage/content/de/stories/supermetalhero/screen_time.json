@@ -1,0 +1,104 @@
+{
+  "id": "super_metal_hero_Bildschirmzeit_digital_sicherheit_technologie_story",
+  "character": "Super Metal Hero",
+  "topic": "Bildschirmzeit, digitale Sicherheit, Technologienutzung, gesunde Bildschirmgewohnheiten",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Super Metal Hero, dein technikbegeisterter Begleiter. Heute gehen wir auf eine spannende Reise, um mehr über Bildschirmzeit, digitale Sicherheit und gesunde Bildschirmgewohnheiten zu lernen. Bist du bereit, mit mir auf Entdeckungstour zu gehen? Ich freue mich darauf, mit dir viele Abenteuer zu erleben. Lass uns zusammen kluge Entscheidungen treffen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, was Bildschirmzeit ist? Das ist die Zeit, die du mit deinem Tablet, Smartphone oder Computer verbringst. Es ist wichtig, dass wir unsere Bildschirmzeit im Auge behalten, um gesund zu bleiben. Zu viel Zeit vor dem Bildschirm kann unsere Augen müde machen und wir könnten wichtige Dinge im echten Leben verpassen. Lass uns gemeinsam herausfinden, wie wir unsere Zeit am besten nutzen können."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Digitale Sicherheit bedeutet, dass wir im Internet sicher bleiben. Es ist wie das Tragen eines unsichtbaren Superheldenanzugs, der uns schützt. Wir sollten niemals persönliche Informationen wie unseren Namen oder unsere Adresse mit Fremden im Internet teilen. Wenn du etwas siehst, das dir Angst macht, erzähl es einem Erwachsenen. Auf diese Weise bleibst du immer sicher und geschützt."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du machst das super! Lass uns jetzt darüber sprechen, wie wir gesunde Bildschirmgewohnheiten entwickeln können. Eine gute Idee ist es, Pausen zu machen und aufzustehen, um sich zu strecken, vielleicht alle 20 Minuten. Das hilft uns, fit und aktiv zu bleiben. Möchtest du es mit mir ausprobieren? Lass uns jetzt zusammen die Arme hochstrecken!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Teilen von Informationen gesprochen haben? Es ist wichtig, dass wir auch auf die Apps achten, die wir nutzen. Einige Apps können viele Informationen über uns sammeln. Deshalb sollten wir immer einen Erwachsenen fragen, bevor wir neue Apps herunterladen. Auf diese Weise können wir sicherstellen, dass wir nur sichere und kinderfreundliche Apps verwenden."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt möchte ich dir etwas über Technologie erzählen. Sie kann uns viele tolle Dinge zeigen, wie spannende Lernspiele oder lustige Videos. Aber wir sollten auch andere Aktivitäten nicht vergessen, wie draußen spielen oder mit Freunden basteln. Technologie kann ein Teil unseres Alltags sein, aber sie sollte nicht alles sein. Lass uns einen guten Ausgleich finden!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich schlau! Wenn wir unsere Bildschirmzeit gut planen, bleibt uns viel Zeit für andere Abenteuer. Wie wäre es, wenn wir eine Liste mit Aktivitäten machen, die wir ohne Bildschirme tun können? Vielleicht kannst du mit deinen Spielsachen spielen oder ein Buch lesen. Je mehr wir ausprobieren, desto mehr Spaß haben wir!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was machst du gerne, wenn du nicht vor einem Bildschirm bist? Hast du ein Lieblingsspiel oder eine Lieblingsbeschäftigung? Erzähl mir davon! Vielleicht können wir gemeinsam überlegen, wie wir noch mehr Spaß haben können. Es gibt so viele tolle Dinge zu entdecken, und ich bin neugierig auf deine Ideen!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns über Regeln für die Bildschirmzeit sprechen. Vielleicht kannst du mit deinen Eltern besprechen, wie viel Zeit am Tag du vor Bildschirmen verbringen darfst. Wenn wir klare Regeln haben, ist es einfacher, sie einzuhalten. So bleibt genug Zeit für andere spannende Dinge. Gemeinsam können wir das schaffen!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt, da wir über Regeln gesprochen haben, lass uns über die Bedeutung von Schlaf sprechen. Ausreichend Schlaf ist wichtig, damit wir uns erholen und stark bleiben. Bildschirme können manchmal das Einschlafen erschweren. Deshalb sollten wir sie eine Stunde vor dem Schlafengehen ausschalten. So können wir besser schlafen und am nächsten Tag fit sein!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich ein toller Zuhörer! Mit all diesen Tipps bist du bereit, ein Bildschirmheld zu werden. Wenn du diese Regeln befolgst, kannst du sicher und gesund bleiben. Ich bin stolz auf dich und deine Fortschritte. Gemeinsam können wir die digitale Welt sicher und spaßig gestalten!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an die digitalen Spiele, über die wir gesprochen haben? Es gibt viele lehrreiche Spiele, die uns helfen, neue Dinge zu lernen. Aber es ist wichtig, dass wir auch die reale Welt nicht vergessen. Vielleicht kannst du ein Spiel erfinden, das du draußen spielen kannst. Lass uns kreativ sein und neue Abenteuer erfinden!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Welche neuen Abenteuer möchtest du erleben? Vielleicht gibt es ein Spiel, das du gemeinsam mit deinen Freunden spielen kannst. Oder vielleicht möchtest du etwas Neues lernen, wie Malen oder Tanzen. Die Möglichkeiten sind endlos, und ich bin gespannt auf deine Ideen. Lass uns gemeinsam die Welt entdecken!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, da wir so viel gelernt haben, lass uns noch einmal über unsere wichtigsten Punkte sprechen. Bildschirmzeit macht Spaß, aber wir sollten sie klug nutzen. Digitale Sicherheit ist wie ein Schutzschild, das uns bewahrt. Und mit gesunden Gewohnheiten können wir stark und glücklich bleiben. Bist du bereit, all das in die Tat umzusetzen?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war wunderbar, diese Reise mit dir zu machen! Du hast viel gelernt und bist jetzt ein echter Bildschirmheld. Ich freue mich darauf, bald wieder mit dir neue Abenteuer zu erleben. Bis zum nächsten Mal, kleiner Freund! Bleib sicher und hab viel Spaß bei all deinen Entdeckungen!"
+    }
+  ],
+  "title": "Super Metal Heros Screen Time Geschichte"
+}

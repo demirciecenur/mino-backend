@@ -1,0 +1,104 @@
+{
+  "id": "bubu_confidence_story",
+  "character": "Bubu",
+  "topic": "confidence",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, mein kleiner Freund! Ich bin Bubu, und heute machen wir eine spannende Reise über das Selbstvertrauen. Weißt du, Selbstvertrauen ist, wenn du an dich selbst glaubst, auch wenn es manchmal schwer ist. Bist du bereit, mehr darüber zu erfahren? Ich bin so neugierig, was du zu sagen hast. Lass uns gemeinsam anfangen, okay?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Selbstvertrauen bedeutet, dass du an dich selbst glaubst, auch wenn du etwas Neues ausprobierst. Stell dir vor, du lernst Fahrradfahren. Am Anfang kann es schwierig sein, aber mit ein wenig Übung wirst du es schaffen. Erinnerst du dich an das letzte Mal, als du etwas Neues gelernt hast? Es kann aufregend und ein bisschen beängstigend sein, aber du schaffst das! Mit jedem Schritt wirst du stärker und selbstbewusster."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns über kleine Schritte sprechen, die dir helfen können, Selbstvertrauen zu gewinnen. Zum Beispiel, wenn du deine Spielsachen aufräumst, kannst du stolz auf dich sein. Oder wenn du deine Schuhe alleine anziehst, ist das auch ein Erfolg. Es sind die kleinen Dinge, die zählen. Wenn du etwas geschafft hast, kannst du dir selbst auf die Schulter klopfen. Das fühlt sich gut an, oder?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns gemeinsam tief durchatmen. Atme tief ein, und dann langsam aus. Das hilft, ruhig zu bleiben, wenn du dich unsicher fühlst. Möchtest du es mit mir ausprobieren? Eins, zwei, drei, tief einatmen, und ausatmen. Großartig! Siehst du, du kannst es!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Fahrradfahren gesprochen haben? Das ist wie mit dem Selbstvertrauen. Manchmal musst du ein paar Mal hinfallen, bevor du es richtig kannst. Aber jedes Mal, wenn du es nochmal versuchst, wirst du besser. Und wenn du es dann schaffst, ist das ein tolles Gefühl. Du bist stark und mutig, und das ist wunderbar!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über Mut sprechen. Mut bedeutet, dass du Dinge tust, auch wenn du ein bisschen Angst hast. Wie zum Beispiel, wenn du in der Dunkelheit ins Bett gehst. Vielleicht hast du ein Nachtlicht, das dir hilft, dich sicher zu fühlen. Mut ist, wenn du trotz der Angst weitermachst. Und das kannst du, Schritt für Schritt."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Wenn du dich mutig fühlst, kannst du alles erreichen. Vielleicht kannst du heute etwas Neues ausprobieren, wie ein neues Spiel oder ein neues Buch. Und wenn du es versuchst, wirst du sehen, dass du es kannst. Glaub an dich, denn du bist fantastisch!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns über Freundlichkeit zu uns selbst sprechen. Manchmal machen wir Fehler, und das ist okay. Wenn du einen Fehler machst, kannst du dir sagen, dass es in Ordnung ist. Jeder macht Fehler, und daraus lernen wir. Sei nett zu dir selbst, so wie du zu einem Freund nett wärst. Du bist wertvoll und wichtig, egal was passiert."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal etwas gemacht, das dir Angst gemacht hat, aber du hast es trotzdem geschafft? Vielleicht war es, als du zum ersten Mal in den Kindergarten gegangen bist. Wie hast du dich gefühlt, als du es geschafft hast? Es ist ein tolles Gefühl, oder? Denk daran, wie stark du bist!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an die kleinen Schritte, die wir besprochen haben? Jeder kleine Erfolg ist ein Schritt zu mehr Selbstvertrauen. Wenn du etwas gut machst, kannst du es feiern. Vielleicht kannst du einen kleinen Tanz machen oder ein fröhliches Lied singen. Das macht Spaß und zeigt dir, wie toll du bist!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns noch einmal tief durchatmen, um uns zu entspannen. Atme tief ein, und dann langsam aus. Das hilft, ruhig zu bleiben und sich stark zu fühlen. Möchtest du es noch einmal mit mir machen? Eins, zwei, drei, tief einatmen und ausatmen. Du machst das wunderbar!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist einzigartig und besonders. Es gibt niemanden auf der Welt, der genauso ist wie du. Deine Gedanken und Gefühle sind wichtig. Wenn du an dich glaubst, kannst du alles erreichen. Du bist stark und voller Potenzial, und ich bin so stolz auf dich!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Manchmal brauchen wir ein bisschen Hilfe, um uns selbst zu vertrauen. Das ist okay, denn Freunde und Familie können uns unterstützen. Wenn du Hilfe brauchst, kannst du jemanden fragen. Gemeinsam könnt ihr großartige Dinge erreichen. Zusammen sind wir stark und können alles schaffen!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Denk daran, dass du nicht alleine bist. Wir alle lernen und wachsen jeden Tag. Wenn du dich mal unsicher fühlst, kannst du an all die Dinge denken, die du schon geschafft hast. Du bist mutig und stark, und das ist fantastisch. Ich bin immer hier, um dir zuzuhören und zu helfen."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Selbstvertrauen zu sprechen. Du bist ein wunderbarer kleiner Freund, und ich bin stolz auf all die Dinge, die du lernst. Denk daran, dass du stark bist und alles erreichen kannst. Ich freue mich darauf, bald wieder mit dir zu sprechen. Tschüss und bis zum nächsten Mal!"
+    }
+  ],
+  "title": "Bubus Confidence Geschichte"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "bubble_buddy_imagination_story",
+  "character": "Bubble Buddy",
+  "topic": "imagination",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Bubble Buddy und heute gehen wir auf eine unglaubliche Reise in die Welt der Fantasie. Bist du bereit, mit mir zu kommen? Wir werden gemeinsam entdecken, wie spannend und bunt unsere Vorstellungskraft sein kann. Ich bin so neugierig auf all die tollen Ideen, die du hast!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Imagination ist wie ein magischer Schlüssel, der uns zu aufregenden Abenteuern führt. Stell dir vor, du bist ein mutiger Pirat auf einem Schiff oder ein Astronaut, der die Sterne erkundet. Mit unserer Fantasie können wir überall hingehen, ohne unser Zuhause zu verlassen. Ist das nicht fantastisch? Lass uns gemeinsam herausfinden, wie wir unsere Vorstellungskraft nutzen können."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Um unsere Fantasie zu nutzen, brauchen wir nur ein wenig Ruhe und einen Moment der Stille. Lass uns zusammen dreimal tief einatmen und wieder ausatmen. Atme ein... und aus. Spürst du, wie sich dein Kopf mit Ideen füllt? Jetzt können wir bereit für unser fantasievolles Abenteuer sein!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Fantasie ist wie ein Malbuch, und wir haben die bunten Stifte, um es zu füllen. Was möchtest du heute malen? Vielleicht einen Regenbogen aus Lutschern oder ein Schloss aus Sand? Du kannst alles erschaffen, was du dir vorstellen kannst. Probier es aus und lass deiner Kreativität freien Lauf!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an die letzte Geschichte, die wir uns ausgedacht haben? Da ging es um einen tapferen Ritter, der einen Drachen besiegte. Heute könnten wir eine neue Geschichte erfinden. Vielleicht über eine sprechende Katze, die auf einer Wolke reitet. Was denkst du, wie könnte diese Geschichte weitergehen?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt gemeinsam eine kleine Übung machen. Schließe deine Augen und stelle dir vor, du bist ein Vogel, der hoch über den Wolken fliegt. Was siehst du von dort oben? Vielleicht ein riesiges Meer oder ein geheimnisvoller Wald? Öffne deine Augen und erzähle mir, wohin du geflogen bist."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Wow, das klingt nach einem tollen Ort! Unsere Fantasie kann uns an die unglaublichsten Orte führen. Wusstest du, dass sogar Erwachsene manchmal ihre Vorstellungskraft nutzen, um neue Dinge zu erfinden? Vielleicht kannst du eines Tages auch etwas ganz Besonderes erfinden!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viele Ideen haben, können wir sie in ein Spiel verwandeln. Stell dir vor, wir sind auf einer Schatzsuche. Wo könnten die Schätze versteckt sein? Vielleicht unter dem Kissen oder hinter dem Sofa? Lass uns gemeinsam auf die Suche gehen und sehen, was wir finden können!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wirklich toll! Jeder Schatz, den wir finden, ist wie eine kleine Belohnung für unsere Fantasie. Vielleicht finden wir ein altes Piratenschwert oder eine magische Muschel. Weiter so, du schaffst das!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir auf Schatzsuche waren, können wir unsere Abenteuer in ein Buch schreiben. Stell dir vor, wie spannend es wäre, all diese Geschichten zu lesen! Du könntest die Hauptfigur in deinem eigenen Märchen sein. Was wäre der Titel deiner Geschichte?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon eine Idee für den Titel deiner Geschichte? Vielleicht etwas wie 'Das Abenteuer des mutigen Entdeckers' oder 'Die geheimnisvolle Insel'? Es gibt so viele Möglichkeiten! Was fällt dir ein?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Mit jedem neuen Titel und jeder neuen Geschichte wächst unsere Fantasie noch weiter. Wir können sogar unsere Freunde einladen, mitzumachen und ihre eigenen Ideen beizusteuern. Zusammen können wir die aufregendsten Abenteuer erleben. Ist das nicht wunderbar?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bevor wir unsere Fantasiereise beenden, lass uns noch einmal tief einatmen und an all die wunderbaren Dinge denken, die wir uns heute vorgestellt haben. Atme ein... und aus. Fühlst du dich inspiriert und glücklich? Ich hoffe, dass du viele tolle Ideen mitgenommen hast."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir auf diese Fantasiereise zu gehen! Ich hoffe, du hattest genauso viel Spaß wie ich. Denk daran, dass deine Vorstellungskraft immer bei dir ist, egal wo du bist. Bis zum nächsten Mal, mein kleiner Abenteurer! Tschüss und bis bald!"
+    }
+  ],
+  "title": "Bubble Buddys Imagination Geschichte"
+}

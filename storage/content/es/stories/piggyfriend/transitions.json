@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_transitions_story",
+  "character": "Piggy Friend",
+  "topic": "transitions",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeños amigos! Soy tu amiga Cerdita. Hoy vamos a hablar sobre algo muy especial: las transiciones. Las transiciones son como esos momentos en los que hacemos algo nuevo o diferente. ¿Están listos para descubrir más? ¡Estoy muy emocionada de aprender junto a ustedes! Vamos a tener una aventura divertida llena de sorpresas."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en una transición que conocemos bien. ¿Recuerdan cuando pasamos de jugar a recoger los juguetes? Eso es una transición. A veces, nos cuesta dejar de hacer algo divertido, ¿verdad? Pero es importante aprender a hacer cambios con alegría. ¡Así podemos disfrutar de muchas actividades diferentes cada día!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Una manera de hacer las transiciones más fáciles es con la ayuda de una canción. Podemos cantar mientras guardamos los juguetes. ¿Quieren intentarlo? Cantemos juntos: 'Guardar, guardar, cada cosa en su lugar'. ¿Ven cómo la música hace que todo sea más divertido? ¡Así es más fácil cambiar de actividad!"
+    },
+    {
+      "id": "scene_3",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, las transiciones son un poco más grandes, como cuando comenzamos un nuevo año escolar. Puede ser emocionante y también un poco aterrador. Pero conocer nuevos amigos y aprender cosas nuevas puede ser muy divertido. ¿Alguna vez han sentido mariposas en el estómago el primer día de clases? ¡Es normal, y significa que estamos listos para la aventura!"
+    },
+    {
+      "id": "scene_4",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando nos sentimos nerviosos por un cambio, podemos hacer un ejercicio de respiración. Inhalen profundamente por la nariz, sostengan un poco, y luego exhalen por la boca. ¿Lo intentamos juntos? ¡Uno, dos, tres, respiremos! Esto nos ayuda a sentirnos tranquilos y listos para lo que viene."
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de otra transición: la hora de dormir. Pasar de jugar a dormir puede ser difícil, pero tener una rutina puede ayudar. ¿Tienen un cuento favorito que les gusta escuchar antes de dormir? Leer un cuento es una manera especial de decirle a nuestro cuerpo que es hora de descansar."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo están haciendo genial, amigos! Recordemos que cada cambio nos trae algo nuevo para aprender. Y con cada transición, nos volvemos más fuertes y valientes. ¡Ustedes pueden hacerlo! Siempre hay algo maravilloso por descubrir después de cada cambio."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Cuál es su parte favorita de las transiciones? ¿Les gusta cuando conocen nuevos amigos o cuando aprenden algo nuevo? A mí me encanta aprender cosas nuevas porque me hace sentir como una exploradora. ¿Y ustedes? ¡Me encantaría escuchar sus historias!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablemos sobre una transición que todos conocemos: el cambio de estación. Cuando el invierno se convierte en primavera, vemos cómo las flores empiezan a crecer. ¿No es mágico? También es una oportunidad para jugar afuera más tiempo. ¡Cada estación tiene su propia magia para descubrir!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a imaginar que somos mariposas. Las mariposas pasan por una gran transición cuando cambian de orugas a mariposas. ¡Qué emocionante! Cerremos los ojos y pensemos en lo que se siente volar por primera vez. ¿No es maravilloso cómo los cambios nos ayudan a crecer?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, los cambios no son fáciles, como cuando nos mudamos de casa. Es normal sentir tristeza por dejar atrás cosas conocidas. Pero también es emocionante descubrir un nuevo lugar. Podemos decorar nuestra nueva habitación y hacerla sentir como un hogar acogedor. ¡Los cambios traen nuevas aventuras!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Recuerden, cada cambio es una oportunidad para algo nuevo y emocionante. ¡Ustedes son muy valientes! Siempre que enfrenten un cambio, sepan que estoy aquí para apoyarlos. ¡Juntos podemos enfrentar cualquier transición con una sonrisa!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez han tenido un cambio que les hizo muy felices? Tal vez recibir una nueva mascota o aprender a andar en bicicleta. ¡Los cambios pueden ser divertidos y emocionantes! Me encantaría saber qué cambios les han traído alegría. ¿Quieren compartirlo conmigo?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Después de escuchar sus historias, estoy aún más emocionada por los cambios. Cada uno de ustedes tiene una historia especial que contar. ¡Y eso es lo que hace que cada día sea único! Los cambios hacen que nuestra vida sea una gran aventura."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido muy divertido hablar sobre las transiciones con ustedes. Recuerden que cada cambio es una oportunidad para crecer y aprender. ¡Estoy muy orgullosa de todos ustedes! Espero que sigan enfrentando las transiciones con valentía y alegría. ¡Hasta la próxima, pequeños exploradores!"
+    }
+  ],
+  "title": "Historia de Transitions de Piggy Friend"
+}

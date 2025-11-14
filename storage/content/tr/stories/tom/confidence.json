@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_confidence_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "confidence",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Sneaky Cat Tom. Bugün birlikte özgüven üzerine harika bir maceraya çıkacağız. Özgüven, kendine inanmak ve cesur olmak demektir. Sen de benimle bu maceraya katılmak ister misin? Hadi başlayalım, çok eğleneceğiz!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven, bir işi yapabileceğine inanmak demektir. Mesela, en sevdiğin oyuncakları toplarken kendine güvenmek gibi. Bazen yeni şeyler denemek korkutucu olabilir ama unutma, her denediğinde daha iyi olursun. Ben de zaman zaman korkarım ama denemekten vazgeçmem. Çünkü biliyorum ki, pratik yaparak her şeyin üstesinden gelebilirim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özgüven kazanmanın yollarından biri, küçük adımlar atmaktır. Mesela, her gün biraz daha fazla zıplamak veya daha hızlı koşmak gibi. Başarılar elde ettikçe kendine olan güvenin artar. Unutma, her küçük başarı büyük bir adımdır. Şimdi sen de küçük bir adım atarak bir şeyler denemek ister misin?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harikasın! Denemek, başarmanın yarısıdır. İlk başta zorlanabilirsin ama pes etme. Çünkü her denemede daha iyi olacaksın. Kendine güven ve devam et. Sen bunu yapabilirsin, inan bana!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda, küçük adımlar atmaktan bahsetmiştik. Şimdi bir adım daha atalım ve birlikte nefes alalım. Derin bir nefes al ve yavaşça ver. Bu, sakinleşmene ve kendine odaklanmana yardımcı olur. Unutma, sakin bir zihin daha güçlüdür."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Hiç yeni bir şey denemekten korktun mu? Korktuğunda ne yaptın? Cesur olup denedin mi yoksa vaz mı geçtin? Hadi, düşün ve bana anlat!"
+    },
+    {
+      "id": "scene_6",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Korkularını aşmak için çabalaman harika bir şey. Unutma, herkes korkar ama önemli olan korkunun üstesinden gelmektir. Senin gibi cesur birini dinlemek çok ilham verici. Şimdi birlikte yeni bir maceraya atılalım. Hazır mısın?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir sonraki adımda, özgüvenimizi daha da güçlendireceğiz. Bunun için hayal gücümüzü kullanacağız. Gözlerini kapat ve kendini en sevdiğin kahraman gibi hisset. O kahraman gibi güçlü ve cesur olduğunu düşün. Şimdi gözlerini aç ve bu gücü hisset."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Gözlerini açtığında, içindeki gücü hissettin mi? Hayal gücü, özgüvenimizi artırmanın harika bir yoludur. Kendine inandığında, her şey mümkün olur. Şimdi bu gücü kullanarak yeni bir şey denemeye hazır mısın? Hadi, birlikte deneyelim!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnede hayal gücümüzü kullanmıştık. Şimdi bu gücü gerçek hayatta nasıl kullanabileceğimizi düşünelim. Mesela, bir resim yaparken ya da oyun oynarken hayal gücünü kullanabilirsin. Sen en çok hangi aktivitelerde hayal gücünü kullanıyorsun? Bana anlatmak ister misin?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hayal gücünü kullanarak yaptığın şeyler harika! Senin gibi yaratıcı birini tanımak çok güzel. Unutma, her hayal ettiğin şey, bir gün gerçek olabilir. Kendine güvenmeye devam et ve hayallerinin peşinden git. Her zaman senin yanındayım!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven kazanmanın başka bir yolu da başkalarına yardım etmektir. Başkalarına yardım ettiğinde, kendini daha iyi hissedersin ve özgüvenin artar. Mesela, arkadaşına bir konuda yardımcı olabilirsin. Bu, hem senin hem de arkadaşının mutlu olmasını sağlar. Şimdi bir arkadaşına nasıl yardım edebileceğini düşün."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bir arkadaşına nasıl yardım edebilirsin? Belki oyuncaklarını paylaşabilirsin ya da onunla oyun oynayabilirsin. Yardım ettiğinde neler hissediyorsun? Hadi, düşün ve bana anlat. Senin düşüncelerini duymak istiyorum."
+    },
+    {
+      "id": "scene_13",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Yardım ettiğinde hissettiklerin gerçekten harika! Yardımsever olmak, özgüvenimizi artırır ve bizi mutlu eder. Sen de bu duyguları hissettiğin için çok şanslısın. Şimdi bir sonraki maceramıza hazırlanalım. Hazır mısın?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün özgüven üzerine harika bir yolculuk yaptık. Seninle bu macerayı paylaşmak çok güzeldi. Unutma, kendine inanmak ve cesur olmak her zaman önemlidir. Her zaman senin yanındayım ve birlikte daha birçok macera yaşayacağız. Şimdilik hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Sneaky Cat Tom'ın Confidence Hikayesi"
+}

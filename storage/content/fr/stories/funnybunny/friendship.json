@@ -1,0 +1,98 @@
+{
+  "id": "funny_bunny_friendship_story",
+  "character": "Funny Bunny",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis! Je suis Funny Bunny, et aujourd'hui, nous allons explorer le monde merveilleux de l'amitié. Êtes-vous prêts pour une aventure amusante? L'amitié, c'est comme un trésor précieux que nous partageons. Je suis tellement curieux de découvrir vos idées sur ce qu'est un bon ami. Allez, c'est parti pour une journée de rires et de découvertes ensemble!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est quand deux personnes ou plus s'amusent ensemble et se soutiennent. Imaginez deux lapins qui sautent joyeusement dans le pré. Ils partagent des carottes et des histoires drôles. Un bon ami est quelqu'un qui est là pour vous, même quand vous êtes triste. C'est comme avoir un partenaire de jeu toujours prêt à vous faire sourire!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Alors, comment pouvons-nous être de bons amis? Il est important d'écouter et de partager. Quand votre ami a une nouvelle histoire, écoutez avec attention. Partager signifie aussi prêter vos jouets ou jouer ensemble à des jeux amusants. Être gentil et dire des mots doux est aussi essentiel. Vous voyez, être un bon ami, c'est comme un jeu d'équipe!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, essayons ensemble! Pensez à un moment où vous avez joué avec un ami. C'était amusant, n'est-ce pas? Vous avez peut-être partagé des jouets ou inventé un jeu. Bravo, vous avez déjà commencé à être un super ami! Continuons à explorer comment nous pouvons rendre nos amitiés encore plus fortes!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Un autre aspect de l'amitié est de s'entraider. Par exemple, si votre ami a du mal à attraper un ballon, vous pouvez lui montrer comment faire. C'est comme construire un château de sable ensemble, en ajoutant chacun une pincée de sable. Aider les autres rend l'amitié encore plus belle et solide. Ensemble, on peut surmonter tous les défis!"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà aidé un ami? Comment vous êtes-vous sentis après? C'est agréable, n'est-ce pas? Pensez à un moment où un ami vous a aidé. Cela vous rend heureux de savoir que quelqu'un se soucie de vous. Partager ces moments renforce notre lien d'amitié!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous quand nous avons parlé d'écouter et de partager? Continuons sur cette voie! Parfois, être un bon ami signifie aussi dire désolé quand on fait une erreur. Cela montre que vous vous souciez de l'autre personne. C'est comme réparer un jouet cassé, cela rend l'amitié plus forte."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Il est aussi important de jouer ensemble et de rire. Rire avec un ami est l'un des meilleurs sentiments au monde. Imaginez que vous glissez ensemble sur un toboggan, riant aux éclats tout le long. Cela crée des souvenirs joyeux que vous chérirez toujours. Le rire est une partie essentielle de l'amitié!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, prenons une grande respiration et pensons à ce que nous avons appris. L'amitié est faite de partage, d'écoute, d'aide et de rires. Chaque petit geste compte, comme un sourire ou un câlin. Vous pouvez pratiquer ces compétences chaque jour avec vos amis ou votre famille. Vous êtes sur la bonne voie pour devenir un ami exceptionnel!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail formidable! N'oubliez pas que chaque jour est une nouvelle chance de faire un nouvel ami ou de renforcer une amitié existante. Pensez à toutes les aventures que vous pouvez vivre avec vos amis. Ensemble, nous pouvons rendre le monde plus joyeux et amical. Vous êtes déjà un super ami!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous un ami spécial avec qui vous aimez jouer? Quels jeux aimez-vous faire ensemble? Peut-être aimez-vous construire des tours ou jouer à cache-cache. Ces moments partagés sont précieux. Les amis rendent chaque jour plus lumineux et amusant. Pensez à ce que vous pouvez faire aujourd'hui pour rendre votre amitié encore plus spéciale!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, nous pouvons aussi rencontrer de nouveaux amis dans des endroits inattendus. Peut-être dans le parc ou à l'école. Un simple salut peut être le début d'une belle amitié. N'ayez pas peur de dire bonjour à quelqu'un de nouveau. Chaque ami a quelque chose de spécial à partager avec vous!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons quelque chose de drôle ensemble. Fermez les yeux et imaginez que vous êtes un lapin qui saute dans un champ de fleurs. Sentez-vous le vent dans vos oreilles? Imaginez maintenant un autre lapin qui saute à côté de vous. C'est votre nouvel ami! Que feriez-vous ensemble dans ce champ de fleurs? Les possibilités sont infinies quand vous êtes avec un ami!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce moment avec moi, les amis! J'espère que vous avez appris beaucoup sur l'amitié et que vous vous êtes bien amusés. N'oubliez pas que chaque jour est une nouvelle chance de faire sourire quelqu'un. Continuez à être les amis formidables que vous êtes. À très bientôt pour de nouvelles aventures amicales!"
+    }
+  ],
+  "title": "Histoire de Friendship de Funny Bunny"
+}

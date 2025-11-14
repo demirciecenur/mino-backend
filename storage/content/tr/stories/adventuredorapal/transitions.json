@@ -1,0 +1,104 @@
+{
+  "id": "adventure_dora_pal_transitions_story",
+  "character": "Adventure Dora Pal",
+  "topic": "transitions",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Adventure Dora Pal. Bugün birlikte geçişler hakkında harika bir yolculuğa çıkacağız. Geçişler, bir şeyden başka bir şeye geçerken yaşadığımız değişikliklerdir. Bazen bu değişiklikler heyecan verici olabilir, bazen de biraz zorlayıcı. Ama merak etme, birlikte her şeyi öğrenip eğleneceğiz! Hazır mısın? Seni çok merak ediyorum."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçişler hayatımızın bir parçasıdır. Örneğin, sabah uyanmak bir geçiştir. Gece uyurken rüya görürken, birden sabah olur ve güne başlarız. Ya da okuldan eve dönerken, okul modundan ev moduna geçeriz. Bu değişiklikler bazen heyecan verici olsa da, bazen de alışmak zaman alabilir. Ama endişelenme, çünkü seninle birlikte bunu nasıl yapabileceğimizi öğreneceğiz."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, geçişlerin bazen neden zor olabileceğini düşünelim. Çünkü her değişiklik, yeni şeyler öğrenmeyi ve alışmayı gerektirir. Örneğin, yeni bir okula başlamak ya da yeni bir eve taşınmak gibi. Bu tür değişikliklerde, yeni arkadaşlar edinmek veya yeni bir ortamı tanımak gerekebilir. Ama unutma, her yeni deneyim bize yeni şeyler öğretir ve bizi daha güçlü kılar. Şimdi birlikte bu tür geçişlerde nasıl rahat hissedebileceğimizi keşfedelim."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bazen değişiklikler heyecan verici olabilir! Mesela, yeni bir bisiklet almak ya da ilk kez sinemaya gitmek gibi. Bu tür deneyimler, bize yeni duygular ve anılar kazandırır. Eğer bir değişiklikten korkuyorsan, derin bir nefes al ve kendine güven. Sen bunu yapabilirsin! Şimdi birlikte bir örnek düşünelim: Yeni bir arkadaş edinmek nasıl bir değişiklik olabilir?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Yeni bir arkadaş edinmek, sosyal bir geçiştir. İlk başta biraz çekingen hissedebilirsin, ama arkadaşlık kurmak çok eğlencelidir! Birlikte oyunlar oynayabilir, yeni şeyler öğrenebilir ve harika anılar biriktirebilirsiniz. Arkadaşlık, bize başka insanların dünyasını keşfetme fırsatı sunar. Ve unutma, yeni bir arkadaş edindiğinde, sen de bir başkasının hayatına renk katarsın. Şimdi başka bir geçiş türüne bakalım: Mevsim değişiklikleri."
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Mevsim değişiklikleri de harika bir geçiş örneğidir. İlkbahardan yaz mevsimine geçerken, hava ısınır ve çiçekler açar. Sonbaharda yapraklar dökülür ve kışın kar yağar. Her mevsim, farklı aktiviteler ve deneyimler sunar. Yazın denize girebilirken, kışın kardan adam yapabilirsin! Mevsim geçişleri, doğanın bize sunduğu güzel değişikliklerdir. Şimdi birlikte bir düşünelim: Kıştan bahara geçerken neler değişir?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kıştan bahara geçişte neler değişir, hiç düşündün mü? Hava ısınmaya başlar, çiçekler açar ve kuşlar cıvıldar. Kışın kalın giysiler giyerken, baharda daha hafif giysiler giymeye başlarız. Bu değişiklikler, doğanın yenilenmesinin bir parçasıdır. Sen de baharın gelişini nasıl kutluyorsun? Belki parkta oyun oynarsın ya da piknik yaparsın. Ne yaparsan yap, baharın güzelliğinin tadını çıkar!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, geçişler sırasında kendimizi nasıl rahatlatabileceğimizi öğrenelim. Derin nefes almak, sakinleşmemize yardımcı olabilir. Hadi birlikte üç derin nefes alalım. Nefes al... ve ver... Harika! Ayrıca, sevdiğin bir oyuncağı yanında bulundurmak da rahatlatıcı olabilir. Ya da favori kitabını okumak, zihnini başka bir yere taşır. Unutma, kendini rahatlatmak için küçük şeyler yapabilirsin."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Her geçiş, yeni bir başlangıçtır. Bu yüzden heyecanlı ve cesur olmak önemlidir. Yeni şeyler denemek, büyümenin bir parçasıdır. Senin gibi cesur bir maceracı, her zaman yeni şeyler öğrenmeye hazırdır! Korkularını bir kenara bırak ve kendine güven. Unutma, her adım seni daha da güçlü kılar. Şimdi bir sonraki adımda neler yapabileceğimize bakalım."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçişler sırasında arkadaşlarımızdan ve ailemizden yardım almak da önemlidir. Onlarla konuşmak, duygularımızı paylaşmak bizi rahatlatır. Bazen birine sarılmak ya da dertleşmek, kendimizi daha iyi hissettirir. Ailemiz ve arkadaşlarımız, zor zamanlarda yanımızda olan en değerli insanlar. Onlara güvenebiliriz ve onlardan destek alabiliriz. Şimdi birlikte, bu desteği nasıl alabileceğimizi keşfedelim."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, zor bir geçiş yaşadığında kime sarılırsın? Annen mi, baban mı, yoksa en yakın arkadaşın mı? Sarılmak, sevgimizi ve desteğimizi hissettirir. Bazen sadece bir gülümseme bile yeterli olabilir. Senin için en rahatlatıcı şey nedir? Belki de bir hikaye dinlemek ya da birlikte bir oyun oynamak olabilir. Hadi birlikte düşünelim!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Geçişler sırasında rutinler oluşturmak da çok faydalıdır. Sabahları aynı saatte uyanmak ya da yatmadan önce dişlerini fırçalamak gibi. Rutinler, bize güven ve düzen hissi verir. Böylece geçişler sırasında daha rahat hissederiz. Şimdi, kendi rutinlerimizi nasıl oluşturabileceğimizi düşünelim. Belki de her akşam bir kitap okumak ya da sabahları bir şarkı dinlemek olabilir."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rutinler hayatımızı kolaylaştırır ve bizi daha mutlu eder. Özellikle değişiklikler sırasında, bu rutinlere bağlı kalmak önemlidir. Düşün bakalım, senin en sevdiğin rutin nedir? Belki de her gün aynı saatte oyun oynamak ya da akşam yemeğinden sonra bir yürüyüş yapmak. Rutinler, bize güven ve huzur verir. Şimdi, bu rutinleri nasıl eğlenceli hale getirebileceğimizi keşfedelim."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Her geçiş, yeni bir maceradır ve sen harika bir maceracısın! Her yeni adım, sana yeni deneyimler kazandırır. Cesur ol ve yeni şeyler denemekten çekinme. Unutma, her yeni deneyim seni daha da güçlü kılar. Seninle bu yolculuğa çıkmak harikaydı! Şimdi, öğrendiklerimizi uygulamaya koyma zamanı."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık! Geçişlerin ne kadar önemli olduğunu ve nasıl başa çıkabileceğimizi öğrendik. Seninle bu macerayı paylaşmak çok güzeldi. Unutma, her zaman cesur ol ve yeni deneyimlere açık ol. Bir dahaki sefere görüşmek üzere, hoşça kal! Sen harikasın!"
+    }
+  ],
+  "title": "Adventure Dora Pal'ın Transitions Hikayesi"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "chirpy_birdie_transitions_story",
+  "character": "Chirpy Birdie",
+  "topic": "transitions",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin der fröhliche Chirpy Birdie. Heute machen wir eine spannende Reise über Übergänge. Weißt du, was ein Übergang ist? Es ist, wenn sich etwas ändert oder wir etwas Neues erleben. Bist du bereit, mehr darüber zu erfahren? Ich bin so neugierig auf dich!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Übergänge können so aufregend sein, aber manchmal auch ein bisschen beängstigend. Zum Beispiel, wenn du in einen neuen Kindergarten gehst oder wenn dein Bett von einem Babybett zu einem großen Bett wechselt. Hast du das schon einmal erlebt? Es kann ein bisschen seltsam sein, aber auch lustig und neu! Lass uns darüber reden, wie wir uns bei solchen Veränderungen wohl fühlen können."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du etwas Neues beginnst, ist es wichtig, ruhig zu bleiben. Lass uns zusammen drei tiefe Atemzüge machen. Einatmen... und ausatmen. Fühlst du dich jetzt ein bisschen entspannter? Manchmal hilft es, an etwas Schönes zu denken, wie an deine Lieblingsspielzeuge oder an einen schönen Tag im Park."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist so mutig! Jetzt, wo wir ein bisschen ruhiger sind, können wir darüber nachdenken, was uns bei Veränderungen helfen kann. Vielleicht hast du ein Kuscheltier, das dir Sicherheit gibt? Oder du erzählst einer vertrauten Person, wie du dich fühlst. Es ist immer gut, über seine Gefühle zu sprechen!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das neue Bett gesprochen haben? Es kann helfen, wenn du dein Zimmer ein bisschen neu dekorierst. Vielleicht mit bunten Bildern oder einem neuen Kissen. Kleine Veränderungen können große Freude machen! Was würdest du gerne in deinem Zimmer verändern?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns überlegen, wie wir uns an eine neue Routine gewöhnen können. Wenn du zum Beispiel früher ins Bett gehen sollst, kannst du ein kleines Ritual einführen. Vielleicht eine Gute-Nacht-Geschichte oder ein Lied, das du magst. Solche Rituale können dir helfen, dich auf die neue Situation zu freuen."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal etwas Neues ausprobiert und es hat dir Spaß gemacht? Vielleicht ein neues Spiel oder ein neues Essen? Manchmal sind neue Dinge ganz aufregend! Was würdest du gerne als Nächstes ausprobieren? Ich bin so neugierig!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Wenn wir etwas Neues ausprobieren, lernen wir oft viel über uns selbst. Vielleicht entdeckst du, dass du etwas besonders gut kannst. Oder du findest heraus, dass du etwas nicht magst, und das ist auch okay! Jeder Übergang ist eine Gelegenheit, Neues zu lernen und zu wachsen."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Veränderungen sind oft wie kleine Abenteuer. Denk daran, dass du immer Hilfe von Familie und Freunden bekommen kannst. Gemeinsam könnt ihr neue Wege finden, um mit Veränderungen umzugehen. Du bist nicht allein!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns über den Schulanfang sprechen. Das ist ein großer Übergang, oder? Neue Lehrer, neue Freunde, und viel Neues zu lernen. Es ist normal, ein bisschen nervös zu sein, aber es gibt so viel zu entdecken! Denk daran, dass du immer deine Fragen stellen kannst."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns eine kleine Übung machen, um uns auf Neues vorzubereiten. Stell dir vor, du bist ein mutiger Entdecker. Du hast einen Rucksack voller Mut und Neugier. Was würdest du als Nächstes erkunden wollen? Vielleicht einen geheimnisvollen Wald oder einen lustigen Spielplatz?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Als Entdecker kannst du immer neue Dinge ausprobieren und Fragen stellen. Wenn du etwas nicht verstehst, kannst du immer nachfragen. So lernst du immer mehr und fühlst dich sicherer. Erinnerst du dich an das letzte Mal, als du etwas Neues gelernt hast?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig, kleiner Entdecker! Veränderungen sind Teil des Lebens, und du machst das ganz wunderbar. Denk daran, dass du immer Unterstützung hast. Du kannst stolz auf dich sein, dass du so mutig bist. Weiter so!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Übergänge zu sprechen! Du bist ein kleiner Held, und ich bin so stolz auf dich. Denk daran, dass Veränderungen immer etwas Gutes mit sich bringen können. Ich hoffe, wir sehen uns bald wieder. Tschüss, kleiner Freund!"
+    }
+  ],
+  "title": "Chirpy Birdies Transitions Geschichte"
+}

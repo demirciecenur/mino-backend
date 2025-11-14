@@ -1,0 +1,104 @@
+{
+  "id": "blu_pup_transitions_story",
+  "character": "Blu Pup",
+  "topic": "transitions",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Blu Pup y hoy vamos a hablar de algo muy especial: las transiciones. Las transiciones son esos momentos en los que pasamos de hacer una cosa a otra, como cuando dejamos de jugar para ir a cenar. ¿No es emocionante? ¡A mí me encanta aprender sobre estas cosas! ¿Están listos para comenzar nuestra aventura sobre las transiciones?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos qué son las transiciones, pensemos en una transición que hacemos todos los días. ¿Alguna vez has tenido que dejar de jugar para ir a dormir? A veces puede ser difícil, pero es importante para que podamos descansar y jugar más al día siguiente. Cuando hacemos una transición, nos preparamos para lo que viene, y eso es muy divertido. Ahora, vamos a explorar más sobre cómo podemos hacer estas transiciones."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Una forma de hacer que las transiciones sean más fáciles es tener una rutina. Una rutina es cuando hacemos las mismas cosas en el mismo orden todos los días. Por ejemplo, después de cenar, podemos cepillarnos los dientes y luego leer un cuento antes de dormir. Esto nos ayuda a saber qué esperar y nos hace sentir seguros. ¿Te gustaría probar una rutina en casa? ¡Puede ser muy divertido!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora que sabemos sobre las rutinas, vamos a intentarlo juntos. ¿Por qué no pensamos en una pequeña rutina que puedas hacer en casa? Puede ser algo como ordenar tus juguetes antes de cenar. ¡Es una gran manera de mantener todo ordenado! Y recuerda, siempre puedes pedir ayuda a un adulto si lo necesitas. ¡Estoy seguro de que lo harás genial!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en otra transición que hacemos a menudo: ir a la escuela. A veces, dejar a mamá o papá puede ser un poco difícil, pero sabemos que después de un día divertido, volveremos a casa. En la escuela, podemos aprender cosas nuevas y jugar con amigos. ¿No es maravilloso saber que siempre hay algo especial esperándonos en cada transición?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando nos sentimos un poco nerviosos por una transición, como ir a un lugar nuevo, podemos intentar respirar profundamente. Vamos a intentarlo juntos: inhala lentamente por la nariz y luego exhala por la boca. Esto puede ayudarnos a sentirnos más tranquilos y preparados. Practicar esta respiración puede ser útil cada vez que enfrentemos una nueva transición."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo hiciste genial! Ahora que sabemos cómo calmarnos, podemos estar listos para cualquier transición que venga. Recuerda siempre que cada cambio es una oportunidad para aprender algo nuevo. Y lo mejor es que no estamos solos, siempre tenemos a nuestra familia y amigos para apoyarnos. ¡Estoy muy orgulloso de ti por aprender sobre las transiciones!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora, dime, ¿cuál es tu transición favorita durante el día? ¿Es cuando pasas de jugar a comer algo delicioso? O tal vez cuando te preparas para salir al parque. ¿Te gustaría compartirlo conmigo? ¡Me encantaría saberlo!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos hablado de transiciones diarias, pensemos en los cambios de estación. Cuando pasa el invierno y llega la primavera, todo cambia a nuestro alrededor. La nieve se derrite y las flores comienzan a crecer. Cada estación nos trae nuevas cosas por descubrir y disfrutar. ¡Qué emocionante es ver cómo la naturaleza también hace sus propias transiciones!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer un pequeño ejercicio. Cierra los ojos e imagina que estás en un jardín lleno de flores. Ahora, imagina que las flores están creciendo mientras la primavera llega. ¿Puedes verlo? Este es un ejemplo de cómo la naturaleza hace transiciones de una estación a otra. Es mágico, ¿verdad?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Maravilloso! Has hecho un gran trabajo imaginando las transiciones de la naturaleza. Ahora sabes que los cambios son parte de la vida y que cada transición nos trae algo nuevo y especial. Siempre que te enfrentes a un cambio, recuerda que es una oportunidad para crecer y aprender. ¡Estoy seguro de que manejarás cualquier transición con mucha alegría!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hemos aprendido mucho sobre las transiciones hoy, ¿verdad? Desde las rutinas diarias hasta los cambios de estación, cada transición es única. Y lo mejor de todo es que siempre podemos contar con nuestra familia y amigos para ayudarnos. Ahora, cada vez que enfrentes una nueva transición, sabrás que es parte de la aventura de crecer."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas cuando hablamos de cómo respirar profundamente puede ayudarnos en las transiciones? Es un truco que puedes usar siempre que lo necesites. Y no olvides que cada transición te hace más fuerte y valiente. ¿Te gustaría practicar la respiración profunda otra vez? ¡Vamos a hacerlo juntos!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Hay alguna transición que te gustaría practicar más? Tal vez ir a la escuela o dormir temprano. ¡Cuéntame! Podemos pensar juntos en maneras de hacer esa transición más fácil y divertida. Estoy aquí para ayudarte siempre que lo necesites."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Gracias por acompañarme en esta aventura sobre las transiciones, amiguito. Espero que hayas disfrutado aprendiendo tanto como yo. Recuerda, cada cambio es una nueva oportunidad para descubrir cosas maravillosas. ¡Hasta la próxima, amigos! ¡Espero verte pronto para más aventuras con Blu Pup!"
+    }
+  ],
+  "title": "Historia de Transitions de Blu Pup"
+}

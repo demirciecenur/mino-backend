@@ -1,0 +1,104 @@
+{
+  "id": "spark buddy_nutrition, alimentation saine, habitudes alimentaires, aliments sains_story",
+  "character": "Spark Buddy",
+  "topic": "nutrition, alimentation saine, habitudes alimentaires, aliments sains",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Spark Buddy, et aujourd'hui, nous allons explorer le monde merveilleux de la nutrition et des aliments sains. Es-tu prêt pour cette aventure? Ensemble, nous découvrirons pourquoi manger des aliments sains est important pour devenir fort et énergique. Je suis tellement content d'être avec toi. Allons-y, ça va être super amusant!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par parler des fruits et légumes. Ils sont pleins de vitamines et de minéraux qui aident ton corps à être en bonne santé. Aimes-tu les pommes ou les carottes? Ces aliments sont comme des super-héros pour ton corps! Quand tu manges une banane, elle te donne de l'énergie pour courir et jouer. N'est-ce pas incroyable?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des habitudes alimentaires. Manger à des heures régulières aide ton corps à se sentir bien. As-tu un moment préféré pour manger? Le petit déjeuner est très important car il te donne de l'énergie pour commencer la journée. N'oublie pas de boire beaucoup d'eau, c'est aussi très important!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Tu fais déjà un excellent travail en apprenant tout cela. Souviens-toi de manger lentement et de bien mâcher tes aliments. Cela aide ton estomac à mieux digérer. Si tu essaies un nouvel aliment, n'hésite pas à le goûter plusieurs fois. Tu pourrais découvrir de nouvelles saveurs que tu adores!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons des aliments amusants à essayer. As-tu déjà goûté à des pois chiches ou des avocats? Ils sont délicieux et très bons pour toi. Les pois chiches peuvent être croustillants ou doux, selon la façon dont tu les prépares. L'avocat est crémeux et peut être mangé sur du pain. N'est-ce pas intéressant d'essayer de nouvelles choses?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelle-toi, il est important de manger une variété d'aliments. Cela signifie essayer des choses différentes comme les céréales, les légumes, et même les noix. As-tu un légume préféré? Chaque aliment a quelque chose de spécial à offrir à ton corps. C'est comme avoir plein de petites surprises nutritives chaque jour!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des repas équilibrés. Un repas équilibré contient un peu de chaque groupe alimentaire. Par exemple, un bon déjeuner pourrait avoir du riz, des légumes et un morceau de poulet. Cela te donne l'énergie et les nutriments dont tu as besoin pour grandir. Essaie de faire attention à ce que tu manges à chaque repas."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es incroyable, continue d'apprendre et d'essayer de nouvelles choses! Chaque jour est une nouvelle opportunité de découvrir des aliments sains. N'oublie pas de demander à un adulte si tu veux essayer quelque chose de nouveau. Ensemble, vous pouvez créer de délicieuses recettes. Tu vas devenir un expert en alimentation saine!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As-tu déjà cuisiné avec un adulte? C'est une activité amusante et éducative! Tu peux aider à laver les légumes ou à mélanger les ingrédients. La cuisine peut être un excellent moyen de découvrir comment les aliments sont préparés. C'est aussi une bonne occasion de poser des questions et d'apprendre en s'amusant."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu un repas préféré que tu aimes cuisiner ou manger? Peut-être une pizza aux légumes ou une soupe chaude? Partager tes plats préférés avec ta famille ou tes amis peut être très amusant. Quels sont les ingrédients que tu utiliserais pour ton repas préféré? J'ai hâte d'en savoir plus sur tes goûts!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des collations saines. Les collations peuvent être une partie importante de ton alimentation. As-tu déjà essayé des bâtonnets de céleri avec du beurre d'arachide? Ou peut-être des tranches de pomme avec du fromage? Ces collations te donneront de l'énergie entre les repas et sont très savoureuses!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "N'oublie pas que les aliments sucrés doivent être consommés avec modération. Ils peuvent être délicieux, mais ils ne donnent pas beaucoup d'énergie ou de nutriments. Essaie de choisir des fruits ou des yaourts comme dessert. Ils sont sucrés naturellement et très bons pour toi. C'est une façon délicieuse de finir un repas!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail formidable en apprenant tout cela! Continue de découvrir de nouveaux aliments et de nouvelles recettes. N'oublie pas que chaque petite action compte, comme choisir une pomme au lieu d'un bonbon. Tu es sur la bonne voie pour être fort et en bonne santé. Bravo!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Aimerais-tu essayer de préparer un repas avec un adulte? Peut-être une salade colorée ou un smoothie fruité? C'est une excellente façon d'apprendre et de s'amuser en même temps. Quels ingrédients aimerais-tu utiliser? Je suis sûr que tu vas créer quelque chose de délicieux!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, petit ami! J'ai adoré parler de nutrition et d'aliments sains avec toi. Rappelle-toi de toujours choisir des aliments qui te font sentir bien et énergique. Je suis fier de toi pour tout ce que tu as appris aujourd'hui. À bientôt pour une nouvelle aventure!"
+    }
+  ],
+  "title": "Histoire de Nutrition de Spark Buddy"
+}

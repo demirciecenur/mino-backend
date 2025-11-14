@@ -1,0 +1,98 @@
+{
+  "id": "funny_bunny_imagination_story",
+  "character": "Funny Bunny",
+  "topic": "imagination",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Funny Bunny. Bugün birlikte hayal gücümüzün sınırlarını keşfedeceğiz. Hayal kurmak ne kadar eğlenceli, değil mi? Hazır mısın? Seni çok merak ediyorum. Hadi bu maceraya başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücü dediğimiz şey, kafamızda yarattığımız büyülü bir dünya gibidir. Bu dünyada her şey mümkün olabilir. Mesela, bir an için süper kahraman olabilirsin ya da uzayda bir yolculuğa çıkabilirsin. Hayal gücümüzü kullanarak istediğimiz her şeyi yapabiliriz. Sen hiç böyle bir yolculuğa çıktın mı?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi hayal gücümüzü nasıl kullanacağımızdan bahsedelim. Öncelikle gözlerini kapat ve derin bir nefes al. Kendini bir ormanda hayal et. Etrafında rengarenk çiçekler, uzun ağaçlar var. Kuşların cıvıltısını duyabiliyor musun? İşte bu hayal gücünün gücü!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsun! Hayal gücünü kullanarak her gün yeni maceralara atılabilirsin. Mesela oyuncaklarınla bir kaleyi savunabilir ya da bir korsan gemisinde yolculuğa çıkabilirsin. Senin hayal gücünle neler yapabileceğini çok merak ediyorum. Hadi, birlikte bir şeyler hayal edelim!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hatırlıyor musun, geçen sefer hayal gücümüzle bir ormanda dolaşmıştık. Şimdi ise denizin altında bir maceraya çıkalım. Balıklarla yüzdüğünü, mercanların arasında dolaştığını hayal et. Denizin altındaki yaşam ne kadar da büyüleyici, değil mi? Hayal gücünün sınırları yok!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki maceramızı hatırladın mı? Şimdi başka bir maceraya atılalım. Hayal gücünle bir uçak yap ve gökyüzünde uç. Bulutların arasında dolaş, yıldızlara dokun. Bu macera seni çok heyecanlandırdı mı? Hayal gücünle her yere gidebilirsin!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Sen en çok neyi hayal etmeyi seviyorsun? Belki bir prenses ya da bir kahraman olmayı hayal ediyorsundur. Hayal gücünle neler yapabileceğini düşünmek çok eğlenceli, değil mi? Bu konuda ne dersin?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücü sadece oyun oynamak için değil, aynı zamanda öğrenmek için de çok önemlidir. Mesela, yeni bir şey öğrenirken hayal gücünü kullanarak o bilgiyi daha eğlenceli hale getirebilirsin. Bir hikaye yaratabilir veya bir şarkı yazabilirsin. Hayal gücünle öğrenmek çok daha keyifli!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi biraz hayal kurma egzersizi yapalım. Gözlerini kapat ve bir ormanda yürüdüğünü düşün. Etrafında hangi hayvanlar var? Onların seslerini duyabiliyor musun? İşte hayal gücünü kullanarak istediğin her yere gidebilirsin. Bu egzersizi her gün yapabilirsin."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hayal gücünle neler yapabileceğini gördün mü? Seninle birlikte hayal kurmak çok eğlenceli. Her gün yeni bir macera yaratabiliriz. Senin hayal gücünle dünyayı değiştirebiliriz. Sen harikasın ve bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda hayal gücümüzle denizin altında dolaşmıştık. Şimdi ise bir dağın tepesindeyiz. Etrafında karlar ve buzlar var. Soğuk bir rüzgar esiyor ama sen sıcacsın çünkü hayal gücün seni koruyor. Hayal gücüyle her şey mümkün!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, hayal gücümüzle bir uçak yapmıştık. Şimdi ise bir gemi yapalım ve okyanusun derinliklerine dalalım. Balinalarla yüz, deniz kaplumbağalarıyla dans et. Hayal gücünle neler yapabileceğini keşfetmek çok eğlenceli. Hadi, bir sonraki maceramıza atılalım!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bir soru daha sormak istiyorum. Hayal gücünle neler keşfetmek istersin? Belki bir uzay yolculuğu yapmak ya da bir hazine bulmak istersin. Hayal gücünle sınırları zorlamak çok heyecan verici. Sen de benimle paylaşmak ister misin?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün hayal gücümüzle ne kadar harika bir yolculuk yaptık! Seninle birlikte olmak çok ama çok güzeldi. Her gün hayal gücünü kullanmayı unutma. Çünkü hayal gücü, seni her zaman yeni maceralara götürebilir. Bir dahaki sefere görüşmek üzere! Hoşça kal!"
+    }
+  ],
+  "title": "Funny Bunny'ın Imagination Hikayesi"
+}

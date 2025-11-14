@@ -1,0 +1,104 @@
+{
+  "id": "funny_bunny_bedtime_story",
+  "character": "Funny Bunny",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Funny Bunny, tu amigo con orejas grandes y una sonrisa gigante. Hoy vamos a hablar sobre algo muy especial: la hora de dormir. ¿Estás listo para esta aventura? Dormir bien es muy importante para crecer y soñar con cosas maravillosas. Prepárate para una noche llena de sueños dulces y aventuras mágicas."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Antes de dormir, hacemos algunas cosas especiales para prepararnos. ¿Recuerdas lo que haces cada noche? Tal vez te cepillas los dientes como un campeón, o quizás te pones tu pijama favorito. Estas rutinas nos ayudan a relajarnos y a entender que es hora de descansar. ¡Es como una señal mágica para nuestro cuerpo!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a practicar algo divertido. Vamos a contar hasta cinco para relajarnos antes de dormir. ¿Listo? Uno, dos, tres, cuatro, cinco. ¡Genial! Contar despacito nos ayuda a calmar nuestra mente y a prepararnos para una noche tranquila. Puedes intentarlo cada noche antes de cerrar los ojos."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo hiciste muy bien! Ahora, vamos a intentar algo más. Respiremos juntos, inhalando y exhalando suavemente. Inhala... y exhala... ¡Fantástico! Respirar profundamente es como darle un abrazo a tu corazón para que esté calmado y feliz. ¿No te parece increíble lo que podemos hacer con nuestra respiración?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¿Sabías que leer un cuento antes de dormir es una gran idea? Los cuentos nos llevan a lugares mágicos y nos ayudan a soñar. Puedes elegir tu historia favorita o inventar una nueva cada noche. ¡Las posibilidades son infinitas! Los cuentos nos acompañan en nuestra imaginación mientras nos dormimos."
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ahora, piensa en algo que te hace feliz. Puede ser un paseo en el parque, jugar con amigos, o un delicioso helado. Mantén esa imagen en tu mente mientras te preparas para dormir. Pensar en cosas felices nos da sueños bonitos y nos hace sentir seguros y contentos. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Es importante que tu habitación esté lista para dormir. Asegúrate de que tus juguetes estén guardados y que tu cama esté cómoda y calentita. Un espacio ordenado nos ayuda a descansar mejor. Además, una luz suave o una pequeña lámpara de noche puede hacer que te sientas más tranquilo."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¿Alguna vez has escuchado una canción de cuna? Estas canciones son suaves y dulces, perfectas para relajarse. Puedes pedirle a alguien que te cante una o incluso inventar la tuya. Las canciones de cuna son como un abrazo musical que nos arrulla hasta quedarnos dormidos. ¡Qué bonito es soñar con música!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Tienes algún peluche o juguete que te guste abrazar al dormir? A veces, un amigo suave puede hacernos sentir seguros. ¿Cómo se llama tu peluche favorito? Estos amigos especiales nos acompañan en nuestros sueños y nos dan un sentimiento de compañía. ¿Te gustaría contarme sobre tu peluche?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué interesante! Tu peluche suena muy especial. Ahora, piensa en cómo te sientes cuando lo abrazas. Es como tener un amigo fiel que siempre está ahí. Estos pequeños detalles hacen que nuestra hora de dormir sea aún más especial y mágica. ¡Qué afortunado eres de tener un amigo así!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora vamos a dar un gran estirón como si fuéramos gatitos perezosos. Estirarnos antes de dormir nos ayuda a liberar la tensión del día. Levanta tus brazos al cielo y siente cómo tu cuerpo se relaja. ¡Perfecto! Estirarse es como decirle a nuestro cuerpo que es hora de descansar y recargar energía."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estás haciendo un trabajo increíble! Recuerda que cada noche es una oportunidad para descansar y soñar. Cada día trae nuevas aventuras y sorpresas, y dormir bien nos prepara para ellas. ¡Eres un campeón del descanso! Sigue así y tendrás sueños maravillosos cada noche."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez has soñado con ser un superhéroe o un explorador? Soñar es como volar sin alas, y cada sueño es una nueva aventura. ¿Cuál ha sido tu sueño más divertido? Los sueños nos permiten explorar mundos diferentes y ser lo que queramos ser. ¡Cuéntame sobre tus sueños favoritos!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Eso suena increíble! Tus sueños son tan coloridos y emocionantes. Recuerda que cada noche puedes crear nuevas historias en tu mente. Soñar es una de las cosas más mágicas que podemos hacer mientras dormimos. ¡Sigue soñando en grande y disfrutando cada aventura nocturna!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bueno, amiguito, es hora de decir buenas noches. Espero que esta aventura sobre la hora de dormir te haya gustado mucho. Recuerda que siempre puedes contar conmigo para soñar y descansar. Ahora cierra los ojos, relájate y déjate llevar por los sueños más dulces. ¡Hasta mañana, y que tengas una noche llena de magia!"
+    }
+  ],
+  "title": "Historia de Bedtime de Funny Bunny"
+}

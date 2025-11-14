@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_nutrición_alimentación_saludable_hábitos_alimentarios_alimentos_saludables_story",
+  "character": "Spider Fighter",
+  "topic": "nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeños amigos! Soy Spider Fighter, y hoy vamos a embarcarnos en una aventura asombrosa sobre la nutrición y la alimentación saludable. ¿Están listos para aprender y divertirnos juntos? La comida saludable es como el combustible para nuestros cuerpos, para que podamos correr, jugar y hacer volteretas. ¿Alguna vez te has preguntado por qué es importante comer frutas y verduras? ¡Vamos a descubrirlo juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos sobre por qué los alimentos saludables son tan importantes. Imagina que tu cuerpo es como un coche de carreras. Necesita el mejor combustible para correr rápido y fuerte. Los alimentos como las frutas, verduras y granos enteros son ese combustible especial. Ayudan a que nuestros huesos crezcan fuertes y nos mantienen llenos de energía para jugar todo el día. ¿No te parece genial?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Entonces, ¿cómo podemos asegurarnos de que estamos comiendo bien? Una buena idea es llenar nuestro plato con muchos colores. Los colores diferentes de las frutas y verduras nos dan diferentes vitaminas y minerales. Por ejemplo, las zanahorias son naranjas y nos ayudan a ver mejor. Los pimientos rojos son como pequeños escudos que fortalecen nuestro sistema inmunológico. ¿Puedes pensar en más colores que te gusten?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Excelente! Ahora, vamos a hacer un pequeño juego. Cuando veas una fruta o verdura en casa, intenta adivinar de qué color es y qué superpoder podría darte. ¡Es divertido y te ayudará a recordar lo que cada alimento saludable puede hacer por ti! Recuerda, cada bocado cuenta para mantenerte fuerte y valiente como yo, Spider Fighter. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos lo que hablamos antes sobre la importancia de los alimentos saludables. Además de frutas y verduras, también hay otros alimentos que nos ayudan a crecer. Los granos enteros como el arroz integral y la avena nos dan energía duradera. Y no olvidemos los productos lácteos como la leche y el yogur que fortalecen nuestros huesos. Es como tener una armadura fuerte para protegernos mientras jugamos."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de los hábitos alimentarios. Es importante comer a la misma hora todos los días para que nuestro cuerpo se acostumbre. Esto ayuda a nuestro estómago a saber cuándo es el momento de trabajar duro para digerir los alimentos. También es bueno masticar despacio para disfrutar cada bocado. Cuando comemos despacio, nuestro cuerpo tiene tiempo de sentir cuando está lleno. ¡Así que come despacito y disfruta!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora que sabes más sobre cómo y qué comer, ¡puedes ser un héroe de la alimentación saludable! Cada vez que eliges una manzana en lugar de un dulce, estás tomando una decisión heroica. Recuerda que es importante beber mucha agua también. El agua es como un río que limpia nuestro cuerpo y nos mantiene hidratados. ¡Tú también puedes ser fuerte como Spider Fighter!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabías que también es importante comer con amigos y familiares? Compartir una comida puede ser muy divertido y nos ayuda a aprender de los demás. ¿Cuál es tu comida saludable favorita para compartir con tu familia? Tal vez te guste una rica ensalada de frutas o un delicioso sándwich de pavo. Comer juntos hace que la comida sea aún más especial. ¿Qué piensas tú?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, vamos a hablar sobre cómo podemos hacer que la hora de la comida sea divertida. Puedes ayudar a mamá o papá a preparar la comida. Tal vez te guste lavar las frutas o mezclar los ingredientes. Participar en la cocina te hará sentir como un chef profesional. Además, puedes inventar nombres divertidos para tus platos, como 'ensalada arcoíris' o 'sopa mágica'. ¡Cocinar puede ser una aventura!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas lo que aprendimos sobre los colores en el plato? Vamos a pensar en un plato lleno de colores. Podría tener tomates rojos, espinacas verdes, zanahorias naranjas y maíz amarillo. Cada color nos da una pista sobre qué tipo de superpoder tiene el alimento. ¿Puedes imaginar qué superpoder te gustaría tener? ¡Usa tu imaginación y cuéntame!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en cómo podemos crear un hábito saludable. Un hábito es algo que hacemos regularmente sin pensar mucho. Como cepillarse los dientes antes de dormir. Podemos crear un hábito saludable al comer una fruta cada día. Tal vez una manzana en el desayuno o una banana como merienda. Con el tiempo, se convertirá en parte de tu rutina diaria, y tu cuerpo te lo agradecerá."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Y no olvidemos la importancia de desayunar. El desayuno es la primera comida del día y nos da energía para empezar con fuerza. Imagina que estás cargando tus baterías para un día lleno de aventuras. Un desayuno saludable podría incluir un poco de yogur con frutas o un tazón de avena. ¿Te gustaría probarlo mañana? ¡Estoy seguro de que te sentirás como un superhéroe!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Recuerda que todos los días son una oportunidad para hacer elecciones saludables. Puede que no siempre sea fácil, pero cada vez que eliges un alimento saludable, estás cuidando de ti mismo. Y eso es lo que hacen los verdaderos héroes. ¡Eres un campeón de la nutrición y la alimentación saludable! Sigue así y verás cómo te sientes más fuerte cada día."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Antes de terminar, me gustaría saber, ¿qué es lo que más te ha gustado aprender hoy? Tal vez fue descubrir los superpoderes de los alimentos o cómo hacer que la comida sea divertida. ¿Hay algo que te gustaría probar en casa con tu familia? ¡Estoy muy curioso por saberlo! Recuerda que siempre puedes preguntarme cualquier cosa sobre la alimentación saludable."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bueno, pequeños héroes, ha sido un placer compartir esta aventura con ustedes. Espero que hayan aprendido mucho sobre la nutrición y la alimentación saludable. Recuerden, cada elección saludable que hagan los hace más fuertes y felices. ¡Sigan comiendo bien y divirtiéndose en cada comida! Hasta la próxima, sigan siendo valientes y saludables. ¡Adiós, amigos!"
+    }
+  ],
+  "title": "Historia de Nutrition de Spider Fighter"
+}

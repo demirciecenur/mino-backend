@@ -1,0 +1,104 @@
+{
+  "id": "funny_bunny_confidence_story",
+  "character": "Funny Bunny",
+  "topic": "confidence",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin der lustige Hase, und heute machen wir eine spannende Reise in die Welt des Selbstvertrauens. Bist du bereit? Es wird ein lustiges Abenteuer voller Lachen und Lernen. Selbstvertrauen bedeutet, an sich selbst zu glauben und mutig neue Dinge auszuprobieren. Das klingt spannend, oder? Lass uns gemeinsam herausfinden, wie wir unser Selbstvertrauen stärken können."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, Selbstvertrauen ist wie ein unsichtbarer Freund, der dir hilft, dich stark und mutig zu fühlen. Wenn du dir zum Beispiel beim Malen nicht sicher bist, ob es gut wird, kannst du dir sagen: 'Ich kann das schaffen!' und es einfach versuchen. Hast du schon mal etwas Neues ausprobiert, das dir zuerst schwierig vorkam? Mit ein wenig Vertrauen kannst du alles schaffen. Lass uns darüber sprechen, wie wir dieses Vertrauen aufbauen können."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Um Vertrauen zu gewinnen, können wir kleine Schritte machen. Beginnen wir mit etwas Einfachem, wie das Aufräumen deiner Spielsachen. Wenn du das geschafft hast, fühlst du dich stolz und stark. Du kannst dir sagen: 'Gut gemacht, ich habe es geschafft!' So wächst dein Vertrauen immer mehr. Möchtest du das mal ausprobieren? Lass uns gemeinsam zählen, während wir die Spielsachen aufheben."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du hast es geschafft, deine Spielsachen aufzuräumen. Siehst du, wie leicht es sein kann, Vertrauen zu gewinnen? Jedes Mal, wenn du etwas Neues probierst und es schaffst, wächst dein Selbstvertrauen ein kleines Stück. Jetzt, wo du das geschafft hast, könntest du vielleicht auch mal versuchen, ein neues Lied zu singen oder ein Bild zu malen. Trau dich, es wird bestimmt toll!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich daran, wie stolz du warst, als du das letzte Mal etwas Neues gelernt hast? Vielleicht war es das Erlernen einer neuen Farbe oder das Zeichnen eines Kreises. Diese kleinen Erfolge sind wie Bausteine, die dein Selbstvertrauen aufbauen. Und weißt du was? Jeder hat manchmal Angst oder Zweifel, aber das ist völlig in Ordnung. Mit jedem Schritt, den du machst, wirst du mutiger."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon mal jemanden gesehen, der etwas ganz Tolles gemacht hat, und du wolltest es auch probieren? Vielleicht hast du gesehen, wie jemand ein tolles Bild gemalt hat oder wie jemand ein lustiges Lied gesungen hat. Was hast du dann gedacht? Hast du dich getraut, es auch zu versuchen? Es ist so wichtig, sich selbst zu ermutigen und zu sagen: 'Ich kann das auch!'"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns ein kleines Spiel spielen, um unser Selbstvertrauen zu stärken. Stell dir vor, du bist ein großer, starker Baum. Steh fest auf dem Boden und breite deine Arme wie Äste aus. Atme tief ein und aus und denke: 'Ich bin stark und mutig.' Spürst du, wie das Vertrauen wächst? Du kannst diese Übung immer machen, wenn du dich unsicher fühlst."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das ganz toll! Jeder Atemzug, den du nimmst, gibt dir mehr Kraft und Vertrauen. Und wenn du dich wie ein Baum fühlst, der im Wind tanzt, kannst du alles erreichen. Es ist wichtig, sich selbst zu vertrauen und sich zu sagen: 'Ich kann das schaffen!' Glaub an dich, und du wirst sehen, wie viel du erreichen kannst."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, jeder Tag ist eine neue Gelegenheit, etwas Neues zu lernen und zu wachsen. Vielleicht kannst du heute etwas Neues ausprobieren, wie ein neues Spiel oder ein neues Buch. Selbst wenn es beim ersten Mal nicht perfekt ist, ist das völlig in Ordnung. Mit jedem Versuch wirst du besser und dein Selbstvertrauen wächst. Und das Beste ist, dass du nie allein bist – ich bin immer hier, um dich zu unterstützen."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich an die Geschichte von dem kleinen Hasen, der sich nicht traute, über den Bach zu springen? Er hatte Angst, ins Wasser zu fallen. Aber als er es schließlich versuchte, stellte er fest, dass er springen konnte, ohne nass zu werden! Manchmal sind die Dinge gar nicht so schwer, wie sie aussehen. Hast du schon mal so etwas erlebt? Manchmal braucht es nur ein wenig Mut, um etwas Großartiges zu schaffen."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns noch einmal tief durchatmen. Atme ein, halte die Luft an, und jetzt aus. Fühlst du, wie die Aufregung verschwindet und das Vertrauen wächst? Diese Atemübung kannst du immer machen, wenn du dich unsicher fühlst. Es ist wie ein kleiner Zaubertrick, der dir hilft, dich stark und bereit zu fühlen. Nimm dir jeden Tag ein paar Minuten Zeit dafür."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist toll! Mit jedem Atemzug wirst du stärker und mutiger. Vergiss nicht, dass du alles schaffen kannst, wenn du dir selbst vertraust. Egal ob es darum geht, eine neue Geschichte zu erzählen oder ein neues Spiel zu probieren, du hast die Kraft dazu. Und wenn du einmal Hilfe brauchst, bin ich hier, um dich zu unterstützen. Gemeinsam können wir alles schaffen!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel über Selbstvertrauen gelernt haben, lass uns daran denken, wie wir anderen helfen können, sich auch sicher zu fühlen. Wenn du jemanden siehst, der sich unsicher fühlt, kannst du ihm ein Lächeln schenken oder ihm sagen, dass er es schaffen kann. Das Gefühl von Vertrauen ist wie ein Geschenk, das wir teilen können. Zusammen sind wir stark!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du eine Idee, wie du heute jemandem helfen kannst, sich mutig zu fühlen? Vielleicht kannst du einem Freund beim Spielen helfen oder jemandem ein Kompliment machen. Was denkst du, wie fühlt sich das für die andere Person an? Es ist schön zu wissen, dass wir einander unterstützen können. Möchtest du das heute ausprobieren?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Danke, dass du heute mit mir auf diese Reise gegangen bist. Es war so schön, mit dir über Selbstvertrauen zu sprechen und zu lernen, wie wir mutig sein können. Denk daran, dass du immer stark und fähig bist, egal was kommt. Ich freue mich schon auf unser nächstes Abenteuer zusammen. Bis bald, mein kleiner Freund! Bleib mutig und fröhlich!"
+    }
+  ],
+  "title": "Funny Bunnys Confidence Geschichte"
+}

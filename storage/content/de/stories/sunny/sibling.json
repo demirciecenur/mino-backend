@@ -1,0 +1,104 @@
+{
+  "id": "sunny_sibling_story",
+  "character": "Sunny",
+  "topic": "sibling",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, liebe Freunde! Ich bin Sunny und heute machen wir eine spannende Reise in die Welt der Geschwister. Habt ihr Geschwister? Vielleicht einen Bruder oder eine Schwester? Gemeinsam werden wir herausfinden, wie wunderbar es ist, einen Bruder oder eine Schwester zu haben. Seid ihr bereit? Los geht's!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister sind ganz besondere Menschen in unserem Leben. Mit ihnen können wir spielen, lachen und manchmal auch streiten. Aber das Beste ist, dass sie immer für uns da sind. Habt ihr schon mal mit euren Geschwistern ein tolles Abenteuer erlebt? Das kann so viel Spaß machen!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn wir mit unseren Geschwistern spielen, lernen wir, wie wichtig es ist, zu teilen. Teilen bedeutet, dass wir unsere Spielsachen oder unser Essen mit anderen teilen. Das macht nicht nur uns, sondern auch unsere Geschwister glücklich. Lasst uns gemeinsam überlegen, was wir heute teilen könnten!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super, dass ihr so toll teilt! Das zeigt, dass ihr ein großes Herz habt. Jetzt lasst uns gemeinsam bis fünf zählen, um zu sehen, wie viele Dinge wir teilen können. Eins, zwei, drei, vier, fünf! Wunderbar, ihr macht das großartig!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert ihr euch, als wir über das Teilen gesprochen haben? Das ist auch eine Form von Liebe. Geschwisterliebe bedeutet, dass wir uns umeinander kümmern und immer füreinander da sind. Vielleicht könnt ihr eurer Schwester oder eurem Bruder heute eine Umarmung geben!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Habt ihr schon einmal mit euren Geschwistern etwas gebaut, wie ein Lego-Schloss oder ein Puzzle? Solche Aktivitäten machen nicht nur Spaß, sondern stärken auch eure Beziehung. Und wenn etwas mal nicht klappt, könnt ihr euch gegenseitig helfen!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns jetzt eine kleine Übung machen. Atmet tief ein und dann langsam aus. Das hilft uns, ruhig zu bleiben, auch wenn wir uns mal nicht einig sind. Probiert es aus, einatmen und ausatmen. Fühlt ihr euch entspannter?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Prima, das habt ihr toll gemacht! Ruhig zu bleiben ist wichtig, wenn wir mit unseren Geschwistern zusammen sind. So können wir besser miteinander sprechen und Probleme lösen. Ihr seid wirklich großartig!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Wusstet ihr, dass man mit Geschwistern auch ganz viele lustige Spiele spielen kann? Zum Beispiel Verstecken oder Fangen. Diese Spiele machen nicht nur Spaß, sondern helfen uns auch, gemeinsam aktiv zu sein. Welche Spiele spielt ihr am liebsten mit euren Geschwistern?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Habt ihr euch jemals gefragt, was ihr tun könnt, wenn ihr euch mit euren Geschwistern streitet? Was denkt ihr, wäre eine gute Idee? Vielleicht könnt ihr zusammen reden und versuchen, eine Lösung zu finden. Das ist eine tolle Möglichkeit, Freundschaft zu zeigen!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir darüber gesprochen haben, wie wir mit Geschwistern umgehen können, lasst uns an die schönen Momente denken. Vielleicht habt ihr zusammen gelacht oder ein Geheimnis geteilt. Diese Erinnerungen sind kostbar und machen das Geschwistersein so besonders."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ihr seid alle wunderbare Geschwister! Denkt daran, dass ihr immer füreinander da sein könnt. Eure Geschwister sind eure besten Freunde und zusammen könnt ihr alles schaffen. Glaubt an euch und habt Spaß zusammen!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns jetzt noch einmal tief einatmen und ausatmen. Spürt, wie die Luft in euren Bauch strömt und euch entspannt. Das ist eine tolle Übung, um ruhig und glücklich zu sein. Ihr macht das wirklich toll!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Habt ihr schon einmal eure Geschwister gefragt, was sie gerne spielen oder machen möchten? Das ist eine wunderbare Möglichkeit, mehr über sie zu erfahren. Vielleicht entdeckt ihr gemeinsam neue Lieblingsspiele!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit euch über Geschwister zu sprechen! Denkt daran, wie wichtig es ist, füreinander da zu sein und gemeinsam Spaß zu haben. Ich hoffe, ihr habt heute etwas Neues gelernt und könnt es mit euren Geschwistern teilen. Bis bald, liebe Freunde!"
+    }
+  ],
+  "title": "Sunnys Sibling Geschichte"
+}

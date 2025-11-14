@@ -1,0 +1,104 @@
+{
+  "id": "blu_pup_bedtime_story",
+  "character": "Blu Pup",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleine Freundinnen und Freunde! Ich bin Blu Pup. Heute machen wir uns auf eine wunderbare Reise in die Welt des Schlafengehens. Bist du bereit, mit mir die Geheimnisse der Nacht zu entdecken? Ich bin so neugierig auf all die kleinen Rituale, die du abends machst. Lass uns gemeinsam herausfinden, wie wir uns richtig auf das Schlafen vorbereiten können!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über das Schlafengehen sprechen, denkst du vielleicht an all die Dinge, die du vor dem Schlafen machst. Vielleicht ziehst du deinen Schlafanzug an oder du putzt dir die Zähne. Diese kleinen Gewohnheiten helfen uns, uns auf den Schlaf vorzubereiten. Sie sagen unserem Körper, dass es Zeit ist, sich zu entspannen. Diese Rituale sind wie kleine Abenteuer, die uns helfen, ruhig und friedlich zu schlafen."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns über das Zähneputzen sprechen, das ein wichtiger Teil unseres Abendrituals ist. Warum ist es wichtig, die Zähne zu putzen, bevor wir ins Bett gehen? Es hilft, unsere Zähne stark und gesund zu halten! Stell dir vor, du bist ein kleiner Held, der die bösen Kariesmonster bekämpft. Wenn du deine Zähne putzt, vertreibst du sie und hältst deinen Mund sauber. So kannst du mit einem frischen Lächeln ins Bett gehen!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super gemacht, dass du deine Zähne so gut pflegst! Jetzt lass uns ein bisschen entspannen. Wir können tief einatmen und dann langsam ausatmen. Atme ein, als würdest du an einer duftenden Blume riechen. Und jetzt atme aus, als würdest du eine Kerze auspusten. Fühlt sich das nicht beruhigend an? Das hilft uns, unseren Körper und Geist zu beruhigen und uns auf den Schlaf vorzubereiten."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir zusammen tief durchgeatmet haben? Dieses Gefühl von Ruhe ist genau das, was wir brauchen, um gut einzuschlafen. Manchmal hilft es auch, eine schöne Gute-Nacht-Geschichte zu hören. Geschichten können unsere Fantasie anregen und uns in eine Welt voller Träume entführen. Welche Geschichte liest du gerne vor dem Schlafengehen? Vielleicht eine über mutige Abenteuer oder magische Tiere?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du eine Geschichte hörst, stell dir die Figuren und Orte ganz lebendig vor. Das macht das Einschlafen viel spannender und angenehmer. Jetzt lass uns etwas Neues ausprobieren. Stell dir vor, du bist auf einer Wolke, die sanft über den Himmel schwebt. Die Wolke ist weich und kuschelig, und du fühlst dich sicher und geborgen. Schließe deine Augen und lass dich von der Wolke in das Land der Träume tragen."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Toll gemacht, dass du dir die Wolke so gut vorstellen kannst! Jetzt ist es Zeit, noch mehr Ruhe in unseren Körper zu bringen. Lass uns unsere Hände strecken und dann ganz langsam wieder entspannen. Spürst du, wie sich dein Körper dabei wohlfühlt? Diese kleinen Übungen helfen uns, die Anspannung des Tages loszulassen. So können wir mit einem Lächeln einschlafen."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hast du bemerkt, wie ruhig du dich jetzt fühlst? Das ist wunderbar! Ein weiteres tolles Abendritual ist das Kuscheln mit deinem Lieblingskuscheltier. Kuscheltiere sind wie kleine Freunde, die uns beschützen und uns ein gutes Gefühl geben. Sie sind immer da, um uns zu trösten und uns zu begleiten, wenn wir schlafen gehen. Hast du ein Lieblingskuscheltier, das du mit ins Bett nimmst?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Welches Kuscheltier ist dein bester Freund in der Nacht? Vielleicht ist es ein Bär, ein Hase oder ein kleiner Hund? Kuscheltiere sind so besonders, weil sie uns helfen, uns nicht allein zu fühlen. Sie sind immer bereit, uns in ihren weichen Armen zu halten. Warum denkst du, sind Kuscheltiere so wichtig für uns? Lass uns darüber nachdenken, wie sie uns ein Lächeln schenken können."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über Kuscheltiere gesprochen haben, lass uns daran denken, wie wichtig es ist, eine gemütliche Schlafumgebung zu haben. Ein bequemes Bett, eine weiche Decke und vielleicht ein kleines Nachtlicht können helfen, die Nacht noch angenehmer zu machen. Diese Dinge geben uns ein Gefühl von Sicherheit und Geborgenheit. Sie sind wie ein kuscheliges Nest, in dem wir uns wohlfühlen können."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns sicherstellen, dass unser Schlafplatz schön gemütlich ist. Vielleicht magst du dein Kissen aufschütteln oder deine Decke glatt streichen. Diese kleinen Dinge machen unser Bett zu einem Ort, an dem wir uns wirklich entspannen können. Achte darauf, dass alles so ist, wie du es magst. So kannst du dich mit einem Lächeln hinlegen und die Augen schließen."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar, dass du deinen Schlafplatz so gemütlich gemacht hast! Jetzt können wir uns auf die schönen Träume freuen, die uns erwarten. Träume sind wie kleine Abenteuer, die wir im Schlaf erleben können. Sie können lustig, spannend oder sogar magisch sein. Was denkst du, wohin dich deine Träume heute Nacht führen werden? Vielleicht zu einem bunten Regenbogenland oder in den Weltraum?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich daran, wie wir über die Abenteuer in unseren Träumen gesprochen haben? Diese wunderbaren Reisen sind ein Teil dessen, was das Schlafengehen so besonders macht. Wenn wir einschlafen, öffnen wir die Tür zu einer Welt voller Fantasie und Spaß. Es ist, als ob wir eine magische Reise unternehmen, während wir in unserem Bett liegen. Was für ein schönes Gefühl, nicht wahr?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkst du, macht das Schlafengehen so besonders und wichtig? Vielleicht ist es die Ruhe, die wir finden, oder die Träume, die uns erwarten. Schlaf gibt uns die Energie, die wir für den nächsten Tag brauchen. Warum glaubst du, ist es wichtig, gut zu schlafen? Lass uns darüber nachdenken, wie der Schlaf uns hilft, stark und gesund zu bleiben."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt, da wir all die schönen Dinge über das Schlafengehen gelernt haben, ist es Zeit, sich zu verabschieden. Ich hoffe, du hast viel Spaß gehabt und fühlst dich bereit für eine gute Nacht. Denk daran, dass du immer auf dein Kuscheltier zählen kannst und dass die Träume auf dich warten. Schlaf gut und träume schön, kleiner Freund! Bis bald, und gute Nacht!"
+    }
+  ],
+  "title": "Blu Pups Bedtime Geschichte"
+}

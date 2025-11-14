@@ -1,0 +1,98 @@
+{
+  "id": "ocean_dreamer_moa_imagination_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "imagination",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Ocean Dreamer Moa und heute gehen wir auf eine wunderbare Reise in die Welt der Fantasie. Bist du bereit? Ich bin so neugierig, was du alles entdecken wirst. Gemeinsam werden wir herausfinden, wie stark unsere Vorstellungskraft ist. Lass uns eintauchen und die Geheimnisse des Ozeans erkunden!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, was Fantasie ist? Es ist wie ein magischer Schlüssel, der Türen zu neuen Welten öffnet. Mit Fantasie kannst du alles sein und alles tun. Du kannst ein Pirat auf hoher See oder ein mutiger Entdecker sein. Es gibt keine Grenzen für das, was du dir vorstellen kannst. Ist das nicht aufregend?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns zusammen ein kleines Fantasie-Abenteuer beginnen. Stell dir vor, wir sind auf einem großen Segelschiff. Der Wind bläst in unsere Segel und das Meer glitzert in der Sonne. Hörst du die Möwen, die über uns fliegen? Wir segeln zu einer geheimnisvollen Insel voller Schätze und Abenteuer. Kannst du sie schon sehen?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Du bist ein echter Abenteurer. Jetzt, wo wir auf unserer Fantasie-Insel sind, was können wir entdecken? Vielleicht gibt es hier bunte Fische, die im Wasser tanzen. Oder Palmen, die sich im Wind wiegen. Lass uns gemeinsam suchen und unsere Entdeckungen teilen. Du kannst alles sein, was du möchtest!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Auf unserer Insel gibt es so viel zu sehen und zu tun. Wir könnten eine Sandburg bauen, die bis zu den Wolken reicht. Oder wir finden eine versteckte Höhle voller funkelnder Schätze. Die Fantasie macht es möglich, dass wir all diese Dinge erleben können. Und das Beste daran ist, dass wir es gemeinsam tun."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal davon geträumt, ein Kapitän zu sein? Wie würdest du dein Schiff nennen? Vielleicht der 'Mutige Entdecker' oder die 'Sonnenfänger'? Es gibt so viele Möglichkeiten. Was denkst du, welche Abenteuer würdest du erleben? Lass uns zusammen darüber nachdenken."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich, als wir über unsere Fantasie-Insel gesprochen haben? Stell dir vor, du bist jetzt der Kapitän und führst dein Team zu neuen Abenteuern. Vielleicht segeln wir jetzt durch einen Regenbogen oder entdecken eine geheime Lagune. Was für ein Abenteuer wartet als Nächstes auf uns?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Die Fantasie hat eine wunderbare Kraft, uns überall hin zu bringen. Sie lässt uns die Welt mit anderen Augen sehen. Vielleicht siehst du jetzt einen Regenbogen und träumst davon, auf ihm zu rutschen. Oder du hörst einen Vogel singen und stellst dir vor, er erzählt dir seine Geschichten. Die Möglichkeiten sind endlos!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns ein kleines Spiel spielen. Stell dir vor, du bist ein Vogel. Wie würdest du fliegen? Breite deine Arme aus und fliege mit mir durch die Lüfte. Wir können über Wälder und Meere gleiten. Spürst du den Wind in deinen Federn? Das ist die Magie der Fantasie!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wirklich toll! Deine Vorstellungskraft ist stark und lebendig. Mit jedem Flügelschlag entdeckst du neue Welten. Du kannst überall hingehen und alles sein. Glaub an deine Fantasie, denn sie ist ein wunderbares Geschenk. Lass uns weiterträumen und neue Abenteuer erleben."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Fantasie ist wie ein Freund, der immer bei dir ist. Sie kann dich trösten, wenn du traurig bist, und dich zum Lachen bringen, wenn du dich freust. Sie hilft dir, die Welt bunter und spannender zu sehen. Und das Beste daran ist, dass sie immer mit dir wächst. Jeden Tag kannst du neue Dinge entdecken."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkst du, was könnten wir als Nächstes entdecken? Vielleicht gibt es ein Land aus Süßigkeiten oder einen Garten voller sprechender Blumen. Was für Farben und Formen siehst du? Was für Geräusche hörst du? Lass uns gemeinsam darüber nachdenken und unsere Ideen teilen."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, da wir über all die wundervollen Dinge gesprochen haben, die wir uns vorstellen können, denk daran, dass deine Fantasie keine Grenzen hat. Du kannst jederzeit an neue Orte reisen und neue Freunde treffen. Die Welt der Fantasie ist immer offen für dich. Lass uns weiterträumen und neue Geschichten erfinden."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir auf dieser Fantasie-Reise zu sein! Ich hoffe, du hattest genauso viel Spaß wie ich. Denk daran, deine Fantasie zu nutzen und jeden Tag neue Abenteuer zu erleben. Ich freue mich schon auf unser nächstes Treffen. Bis dahin, kleiner Entdecker, träum weiter und sei mutig. Auf Wiedersehen!"
+    }
+  ],
+  "title": "Ocean Dreamer Moas Imagination Geschichte"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "mino_independence_story",
+  "character": "Mino",
+  "topic": "independence",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Mino, your space buddy. Today we're going on an amazing journey about independence. Are you ready to explore with me? Independence is all about doing things by yourself, just like a brave astronaut on a new planet. It's exciting, and you can learn so much! Let's get started on this fun adventure, shall we?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Independence means doing things on your own, like putting on your shoes or picking up your toys. When you try new things by yourself, you grow stronger and smarter, just like a superhero! Did you know that every time you do something new, your brain gets a little bit bigger? That's how you become more capable every day. Let's think of something you do all by yourself. Maybe it's brushing your teeth or feeding a pet. Each time, you're becoming more independent!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's talk about how we can practice being independent. One way is to start with small tasks. You can try putting away your books after you read them. It might be tricky at first, but with practice, it becomes easier. And guess what? When you complete a task on your own, it feels super satisfying, like finishing a puzzle. So, let's think about a small task you can try today. Maybe it's setting the table for dinner. What do you think?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Now, let's try something fun together! How about we practice tying a shoelace? It's a bit like a magic trick. First, you make a loop, then another one, and finally, you pull them tight. It takes practice, but each time you get better and better. You can do it! Remember, even if it feels a bit hard, that's okay. Every time you try, you're learning and growing. Let's give it a go and see how it feels!"
+    },
+    {
+      "id": "scene_4",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "How did that feel? Wasn't it exciting to try something new? Remember, independence is like a little adventure you can have every day. And just like any adventure, sometimes there are challenges, but that's part of the fun. Think about how proud you felt when you tried on your own. Next time, it will be even easier. Now, let's move on to another exciting part of our story!"
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about responsibility. Responsibility means taking care of things that are important, like your toys or your room. When you're responsible, people trust you to do things on your own. It's like being the captain of your own spaceship! You make sure everything is in order, so the mission can go smoothly. Can you think of something you're responsible for? Maybe it's feeding your pet or watering a plant. Each time you take care of it, you're being super responsible!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's learn how to make a plan. Planning helps you know what to do next, just like a map shows you where to go. First, think of what you want to do. Maybe it's building a block tower. Then, gather what you need, like blocks of different shapes and sizes. Finally, start building step by step. Planning makes things easier and more fun. So, what's something you can plan today? Maybe a fun playtime or a craft project?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing great! Remember, every step you take towards independence is like a leap into space. It's okay to ask for help if you need it, because asking is also part of learning. Just like astronauts work together to solve problems, you can ask a grown-up or a friend. But trying on your own first is a wonderful start. You're a brave explorer, and I'm so proud of you!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Let's think for a moment. Can you remember a time when you did something all by yourself? Maybe it was drawing a picture or building a block tower. How did it make you feel? Did you feel proud and happy? It's amazing what you can do when you try. Would you like to share your story with someone? It's always fun to tell others about your adventures!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about trying new things. New things can be a bit scary at first, but they're also exciting! Like trying a new food or playing a new game. Each time you try something new, you learn something special. It's like adding a new star to your sky of experiences. What new thing would you like to try? Maybe it's drawing with different colors or learning a new song. Let's think about it together!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice being independent with a little exercise. Take a deep breath in, and out. Now, think of something you'd like to try by yourself. Imagine doing it step by step, just like a story. Picture yourself being successful, and how happy it makes you feel. This is a great way to prepare for new things. Remember, every big journey starts with a small step. You're doing wonderfully!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "How was that? Did you imagine yourself doing something new? It's exciting to think about all the possibilities. Remember, practice makes perfect. Each time you try, you're getting closer to doing it all by yourself. You're on a fantastic adventure, and there's so much more to explore. Next, let's talk about how to celebrate your achievements!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Celebrating your achievements is important. It makes you feel happy and proud. You can celebrate by doing a little dance, giving yourself a high-five, or even drawing a picture of your success. It's like giving yourself a shiny medal. Each achievement, no matter how small, is a step forward. So, let's think about how you can celebrate your next big achievement. Maybe you can share it with someone you love!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're a superstar! Remember, independence is a journey, and you're doing amazing. Every time you try something new, you become a little more independent. It's okay to make mistakes, because that's how you learn. You're brave, smart, and capable. Keep up the great work, and remember, I'm always here cheering you on. You're never alone on your journey!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time to say goodbye for now, my little explorer. Today, we learned so much about independence and trying new things. Remember, you're capable of amazing things, and each day is a new adventure. Keep exploring, keep trying, and keep being the amazing you. Until next time, keep shining bright like a star in the sky. Goodbye, and see you soon on our next adventure!"
+    }
+  ],
+  "title": "Mino's Independence Story"
+}

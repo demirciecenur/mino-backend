@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_behavior_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Sneaky Cat Tom. Today we're going on an amazing journey about behavior. Are you ready? I'm so curious about you. Let's have fun while we learn how to be the best we can be. We'll explore what good behavior means and how it helps us make friends and have fun!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, what is behavior? Behavior is how we act and do things every day. It's like when you say 'please' and 'thank you' or when you share your toys. Good behavior helps us get along with others and makes everyone happy. Isn't it great when we all play nicely together? Let's think about how we can show good behavior today."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about saying 'please' and 'thank you'? Those are magic words! They show that we care about others' feelings. When you ask for something, try saying 'please'. And when someone helps you, say 'thank you'. It makes people feel happy and appreciated. Let's practice saying these magic words together!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job practicing those magic words! You can do it! Now let's talk about sharing. Sharing is when we let others use our toys or join in our games. When we share, everyone gets to have fun. Imagine playing with a friend and taking turns with a toy. Wouldn't that make both of you smile? Let's try sharing more today!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's think about listening. Listening means paying attention when someone is talking. It's important because it shows we care about what others are saying. When your friend tells you a story, try to listen carefully. You might hear something exciting! Let's practice listening by being quiet and focusing when someone speaks. It's like a fun game!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about following rules. Rules are like little guides that help us know what to do. Like when we play a game, we follow the rules to make it fair for everyone. At home, we might have rules like brushing our teeth before bed. Following rules helps keep us safe and happy. Can you think of a rule you follow every day?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever wondered why rules are important? Rules help us understand what is right and fair. They make sure everyone is treated kindly and gets a turn. Imagine a world without rules—things might get a little chaotic, don't you think? What rule do you think is the most important? Let's think about that together!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful thinking! You're doing great! Now let's talk about using kind words. Kind words are like magic spells that make others feel good. When we say nice things, it brightens someone's day. Imagine telling your friend they did a great job. It makes them feel happy and proud. Let's try using more kind words today!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about being helpful. Being helpful means doing things to make others' lives easier. Like helping to clean up toys or setting the table. When we help, it shows we care and want to make a difference. Can you think of a way you can be helpful at home or school? Let's try to be helpful every day!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about listening? It's also important to use our listening ears when learning new things. Listening helps us understand and remember. When your teacher or parent is talking, try to listen closely. You'll learn so many new and exciting things! Let's practice using our listening ears today!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job! Keep it up! Now let's talk about being patient. Being patient means waiting our turn and not rushing. It's like waiting in line for a slide at the playground. When we're patient, everyone gets a chance to play. Let's practice being patient and see how it makes everyone happy!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue by talking about respect. Respect means treating others the way we want to be treated. Like when we use gentle words or listen when someone is speaking. Respect helps us build strong friendships and makes everyone feel valued. Let's practice showing respect to everyone we meet!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about taking turns. Taking turns means letting others have a chance to do something. It's like sharing a toy or waiting for your turn in a game. When we take turns, it shows we care about others' fun too. Let's practice taking turns and see how it makes our playtime even more fun!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever thought about how good behavior makes us feel? When we behave well, it makes us feel proud and happy. It also makes others feel good too. Imagine how nice it is when everyone is kind and caring. How does good behavior make you feel? Let's think about that feeling together!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Wow, we've learned so much about behavior today! Remember, good behavior is like a magic key that opens the door to fun and friendship. I'm so proud of you for listening and learning. Keep practicing what we've talked about, and you'll be a behavior superstar! Thanks for joining me on this adventure, and see you next time!"
+    }
+  ],
+  "title": "Sneaky Cat Tom's Behavior Story"
+}

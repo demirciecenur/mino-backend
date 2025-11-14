@@ -1,0 +1,104 @@
+{
+  "id": "koko_behavior_story",
+  "character": "Koko",
+  "topic": "behavior",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo kleine Freunde! Ich bin Koko, euer tapferer Begleiter. Heute gehen wir auf eine spannende Reise, um mehr über gutes Verhalten zu lernen. Seid ihr bereit, mit mir die Geheimnisse des guten Benehmens zu entdecken? Es wird aufregend und lehrreich zugleich. Ich bin schon ganz gespannt, was wir alles gemeinsam erleben werden!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Wisst ihr, dass gutes Verhalten wie ein magischer Schlüssel ist? Es öffnet Türen zu Freundschaften und lässt uns zusammen Spaß haben. Wenn wir freundlich sind und Regeln befolgen, fühlen sich alle wohl und sicher. Stellt euch vor, wie schön es ist, wenn alle miteinander lachen und spielen. Genau das erreichen wir mit gutem Benehmen!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns über eine wichtige Regel sprechen: das Teilen. Wenn wir unsere Spielsachen teilen, können alle mitspielen und Spaß haben. Es zeigt, dass wir an andere denken und Rücksicht nehmen. Denkt daran, wie schön es ist, wenn jemand etwas mit euch teilt. Das ist ein tolles Gefühl, nicht wahr?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lasst uns das Teilen gleich mal ausprobieren! Nehmt ein Spielzeug und überlegt, mit wem ihr es teilen könnt. Vielleicht mit einem Freund oder einem Geschwisterchen. Großartig, dass ihr so mutig seid und es ausprobiert! Gemeinsam spielen macht doch viel mehr Spaß, findet ihr nicht auch?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert ihr euch, als wir über das Teilen gesprochen haben? Jetzt wollen wir darüber reden, wie wichtig es ist, zuzuhören. Wenn jemand spricht, ist es höflich und respektvoll, aufmerksam zuzuhören. So zeigen wir, dass uns interessiert, was der andere zu sagen hat. Das baut Freundschaften auf und stärkt unser Miteinander."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt machen wir eine kleine Übung: Findet jemanden, der euch eine Geschichte erzählen kann. Hört genau zu und stellt am Ende eine Frage dazu. So zeigt ihr, dass ihr wirklich zugehört habt. Ihr werdet sehen, wie glücklich das den Erzähler macht!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ihr habt das Zuhören großartig gemacht! Ihr seid wirklich tolle Zuhörer. Jetzt lasst uns gemeinsam drei tiefe Atemzüge nehmen, um uns zu entspannen. Atmet tief ein... und aus. Noch einmal: ein... und aus. Das tut gut, nicht wahr?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nun, da wir über Teilen und Zuhören gesprochen haben, lasst uns über Höflichkeit reden. Ein einfaches „Bitte“ und „Danke“ kann viel bewirken. Es zeigt, dass wir respektvoll und freundlich sind. Wenn wir höflich sprechen, fühlen sich die Menschen geschätzt und geachtet. Das ist der erste Schritt zu einer friedlichen Welt."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns diese Höflichkeit gleich mal üben! Wenn ihr das nächste Mal etwas haben möchtet, vergesst nicht, \"Bitte\" zu sagen. Und wenn ihr etwas bekommt, sagt \"Danke\". Diese kleinen Worte haben eine große Wirkung. Probiert es aus und seht, wie die Gesichter um euch herum strahlen!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ihr seid wirklich höfliche kleine Helden! Eure Freundlichkeit ist wie ein leuchtender Stern. Lasst uns jetzt gemeinsam bis fünf zählen, um unsere Gedanken zu ordnen. Eins, zwei, drei, vier, fünf. Ihr macht das toll!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel über gutes Verhalten gelernt haben, lasst uns über das Aufräumen sprechen. Wenn wir unsere Spielsachen nach dem Spielen wegräumen, helfen wir, Ordnung zu halten. Das macht es einfacher, das nächste Mal schnell zu finden, was wir suchen. Außerdem zeigt es, dass wir Verantwortung übernehmen. Und das ist eine tolle Eigenschaft!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns das Aufräumen gleich mal üben. Sucht euch ein paar Spielsachen, die herumliegen, und räumt sie an ihren Platz. Ihr werdet sehen, wie viel schöner der Raum aussieht. Und wenn ihr das gemeinsam mit Freunden oder Geschwistern macht, geht es noch schneller!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Habt ihr schon einmal bemerkt, wie gut es sich anfühlt, wenn alles ordentlich ist? Warum glaubt ihr, ist es wichtig, Ordnung zu halten? Vielleicht, damit wir mehr Platz zum Spielen haben? Oder damit wir unsere Sachen nicht verlieren? Was denkt ihr darüber?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Was für tolle Gedanken habt ihr da! Ordnung halten ist wirklich wichtig. Es hilft uns, den Überblick zu behalten und gibt uns ein gutes Gefühl. Und mit ein wenig Übung wird es ganz leicht. Ihr seid wirklich kleine Ordnungsmeister!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, diese Reise mit euch zu machen! Wir haben viel über gutes Verhalten gelernt und wie wir alle zusammen eine freundliche Welt schaffen können. Denkt daran, immer freundlich, höflich und hilfsbereit zu sein. Ihr seid kleine Helden des Alltags! Ich freue mich schon auf unser nächstes Abenteuer. Bis bald, kleine Freunde!"
+    }
+  ],
+  "title": "Kokos Behavior Geschichte"
+}

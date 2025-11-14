@@ -1,0 +1,98 @@
+{
+  "id": "ocean_dreamer_moa_friendship_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Moa, la rêveuse de l'océan. Aujourd'hui, nous allons partir dans une aventure incroyable sur l'amitié. Êtes-vous prêt? Je suis si curieuse de découvrir vos histoires d'amis. Ensemble, nous allons explorer ce que signifie être un bon ami. Allons-y!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est comme une belle plage où l'on joue ensemble. Parfois, on doit partager nos jouets, comme quand on partage ses pelles et ses seaux pour faire un grand château de sable. C'est aussi écouter son ami quand il a quelque chose à dire, même si c'est juste une histoire de coquillages. Et vous savez quoi? Les amis rient ensemble, comme le bruit des vagues qui chatouillent nos pieds. Maintenant, pensons à quelqu'un avec qui vous aimez jouer."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Être un bon ami, c'est aussi aider quand quelqu'un en a besoin. Par exemple, si un ami tombe, on peut lui tendre la main pour l'aider à se relever. Ou bien, si un ami est triste, on peut lui donner un câlin pour le réconforter. C'est comme être un petit rayon de soleil dans sa journée. Pensez à une fois où vous avez aidé un ami. Vous vous souvenez de son sourire? C'est magique!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Allez, essayons ensemble! Pensez à un ami que vous aimez beaucoup. Qu'est-ce que vous aimez faire ensemble? Peut-être que vous aimez courir dans le parc ou dessiner des arcs-en-ciel. C'est merveilleux de partager ces moments, n'est-ce pas? Quand on joue ensemble, on crée des souvenirs spéciaux, comme des étoiles dans le ciel. Vous êtes un super ami!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de partager? C'est une partie importante de l'amitié. Comme quand on partage un goûter, ça rend tout plus délicieux. Et quand on partage un sourire, ça rend tout plus lumineux. Imaginez que vous partagez votre glace préférée avec un ami. Vous pouvez voir combien cela le rend heureux, et ça vous rend heureux aussi. Partager, c'est donner un petit morceau de bonheur."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Maintenant, réfléchissons à comment nous pouvons être gentils avec nos amis. Être gentil, c'est dire des mots doux comme 'merci' ou 's'il te plaît'. C'est aussi dire 'je suis là pour toi' quand un ami a besoin de nous. Parfois, être gentil, c'est simplement écouter. Avez-vous déjà écouté un ami raconter une histoire? C'est comme écouter la mer qui murmure ses secrets. Vous êtes prêts à essayer?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Apprenons à résoudre des petits conflits. Si vous et votre ami ne voulez pas jouer au même jeu, vous pouvez faire un compromis. Peut-être jouer d'abord à son jeu, puis au vôtre. C'est comme construire un pont entre vos idées. Quand on trouve une solution ensemble, on se sent fier. Et parfois, on découvre un nouveau jeu encore plus amusant!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Génial! Vous faites de grands pas pour être un super ami. Pensez à combien votre ami se sentira heureux de jouer avec vous. Vous pouvez même inventer un jeu ensemble! Peut-être un jeu de pirates ou de sirènes. L'important, c'est de s'amuser et de rire ensemble. Vous êtes incroyable!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les amis, c'est aussi se souvenir des bons moments. Comme quand vous avez fait un pique-nique ensemble ou construit une cabane. Ces souvenirs sont comme des trésors que l'on garde dans notre cœur. Vous pouvez les raconter encore et encore, et chaque fois, ils vous font sourire. Avez-vous un souvenir préféré avec un ami? Partagez-le, c'est un cadeau."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, qu'est-ce que vous aimez faire avec vos amis? Aimez-vous jouer à cache-cache ou chanter des chansons? Peut-être que vous aimez peindre des arcs-en-ciel ou raconter des histoires de pirates. Chaque activité est une chance de créer de nouveaux souvenirs. Alors, qu'est-ce que vous allez faire la prochaine fois que vous verrez votre ami?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "C'est formidable d'avoir des amis de tous les horizons. Chaque ami a quelque chose d'unique à partager. Comme des coquillages différents mais tous beaux à leur manière. Apprendre à connaître de nouveaux amis, c'est comme découvrir un nouveau monde. Vous pouvez apprendre de nouvelles choses et grandir ensemble. C'est une aventure sans fin!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "N'oubliez pas que chaque jour est une nouvelle chance de faire un ami. Peut-être que demain, vous rencontrerez quelqu'un de nouveau à l'école ou au parc. Soyez ouvert et souriant, et vous verrez, les amis viendront à vous comme les vagues viennent à la plage. Vous êtes prêt pour cette aventure?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous que l'amitié, c'est aussi dire pardon quand on fait une erreur. Tout le monde peut se tromper, mais ce qui compte, c'est de s'excuser et de faire mieux. C'est comme réparer un petit bateau après une tempête. Quand on dit pardon, on montre qu'on tient à l'autre personne. Et c'est vraiment important!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir voyagé avec moi dans le monde de l'amitié. Vous êtes tous des amis merveilleux! N'oubliez pas que chaque petit geste compte. Partagez, écoutez, et jouez ensemble. Je suis impatiente d'entendre toutes vos nouvelles aventures avec vos amis. Au revoir, mes chers amis, et à très bientôt pour de nouvelles histoires!"
+    }
+  ],
+  "title": "Histoire de Friendship de Ocean Dreamer Moa"
+}

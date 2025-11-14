@@ -1,0 +1,104 @@
+{
+  "id": "ocean dreamer moa_behavior_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "behavior",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Moa, la Soñadora del Océano. Hoy vamos a embarcarnos en un viaje maravilloso sobre el comportamiento. ¿Estás listo para explorar conmigo? Vamos a descubrir cómo podemos ser valientes y amables al mismo tiempo. Estoy tan emocionada de que estés aquí conmigo en esta aventura. ¡Comencemos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "El comportamiento es cómo actuamos y respondemos a las cosas a nuestro alrededor. Por ejemplo, cuando saludas a un amigo con una gran sonrisa, estás mostrando un buen comportamiento. También podemos pensar en el comportamiento cuando seguimos las reglas, como esperar nuestro turno para jugar. Es importante porque nos ayuda a llevarnos bien con los demás y a sentirnos bien con nosotros mismos. ¿Alguna vez has sentido alegría al compartir un juguete? Eso es porque compartir es un comportamiento positivo."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos sobre cómo podemos practicar un buen comportamiento todos los días. Una forma es escuchar atentamente cuando alguien nos está hablando. Podemos mirar a los ojos y asentir con la cabeza para mostrar que estamos prestando atención. También es bueno recordar usar palabras mágicas como 'por favor' y 'gracias'. Estas palabras muestran respeto y amabilidad hacia los demás. Practiquemos juntos: ¿puedes decir 'gracias'? ¡Muy bien!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres increíble! Ahora que sabes algunas formas de mostrar buen comportamiento, veamos cómo podemos ser valientes como el océano. Ser valiente significa intentar cosas nuevas y no rendirse fácilmente. Por ejemplo, si estás aprendiendo a montar en bicicleta, puede ser un poco difícil al principio. Pero con práctica y paciencia, puedes lograrlo. Recuerda, ser valiente también es ser amable y ayudar a otros cuando lo necesitan. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos que a veces podemos sentirnos frustrados o enojados, y eso está bien. Lo importante es cómo manejamos esos sentimientos. Podemos tomar respiraciones profundas para calmarnos. Vamos a intentarlo juntos: inhala profundamente, y ahora exhala lentamente. ¡Eso es! También podemos contar hasta cinco para relajarnos. Contemos juntos: uno, dos, tres, cuatro, cinco. Esto nos ayuda a pensar con claridad antes de actuar."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a hablar sobre seguir las reglas. Las reglas son como señales de tráfico que nos guían y mantienen seguros. En casa, una regla podría ser recoger los juguetes después de jugar. En la escuela, podríamos tener la regla de levantar la mano antes de hablar. Las reglas nos ayudan a entender lo que se espera de nosotros y a respetar a los demás. ¿Puedes pensar en una regla que sigas todos los días?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué maravilloso! Al seguir las reglas, estás mostrando respeto y responsabilidad. Esas son cualidades importantes que te ayudarán a ser un gran amigo y compañero. Cuando seguimos las reglas, también mostramos que somos confiables. Imagina que prometes cuidar de una planta y sigues las instrucciones para regarla. La planta crecerá fuerte, gracias a tu buen comportamiento. ¡Tú también puedes crecer fuerte y confiable!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en cómo podemos ser buenos amigos. Ser un buen amigo significa compartir, escuchar y ser comprensivo. Cuando un amigo está triste, podemos ofrecerle un abrazo o palabras amables. También podemos invitar a nuestros amigos a jugar y asegurarnos de que todos se diviertan. Ser un buen amigo nos hace sentir felices y conectados con los demás. ¿Tienes un amigo especial con quien te gusta compartir tus aventuras?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas una vez que hiciste algo amable por un amigo? Tal vez compartiste tu juguete favorito o ayudaste a alguien cuando lo necesitaba. ¿Cómo se sintió tu amigo después de eso? ¿Y cómo te sentiste tú? Las acciones amables pueden hacer que el mundo sea un lugar mejor. Estoy segura de que tienes muchas maneras maravillosas de mostrar bondad. ¿Te gustaría compartir alguna?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué historia tan linda! Ahora, pensemos en cómo podemos ayudar en casa. Ayudar en casa es una forma de mostrar buen comportamiento y responsabilidad. Puedes ayudar a poner la mesa para la cena o recoger tus juguetes después de jugar. También puedes ayudar a tu familia a cuidar de las mascotas. Cada pequeña acción cuenta y hace una gran diferencia. ¿Cómo te gusta ayudar en casa?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, podemos cometer errores, y eso está bien. Lo importante es aprender de ellos y tratar de hacerlo mejor la próxima vez. Si accidentalmente lastimamos los sentimientos de alguien, podemos disculparnos y hacer las paces. Decir 'lo siento' es una forma poderosa de mostrar que nos importa. También podemos pensar en cómo podríamos evitar el mismo error en el futuro. Aprender de nuestros errores nos hace más fuertes y sabios."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Recuerda que cada día es una nueva oportunidad para mostrar buen comportamiento. Puedes comenzar el día con una sonrisa y una actitud positiva. Cuando enfrentamos desafíos, podemos ser como el océano: fuertes y valientes. No importa cuán grande sea la ola, siempre podemos encontrar una manera de superarla. Estoy aquí para animarte en cada paso del camino. ¡Sigue así!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora, dime, ¿cuál es tu parte favorita de ser amable y seguir las reglas? ¿Te gusta cómo se siente cuando ayudas a alguien? ¿O tal vez disfrutas cuando otros son amables contigo? Hay tantas maneras de mostrar buen comportamiento y todas son especiales. ¿Te gustaría compartir una historia sobre un momento en el que te sentiste orgulloso de ti mismo? Estoy segura de que tienes muchas experiencias increíbles."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué maravilloso escuchar eso! Cada historia que compartes es un recordatorio de lo importante que es el buen comportamiento. Ahora que hemos hablado tanto sobre cómo comportarnos bien, recuerda que estas acciones hacen que el mundo sea un lugar más feliz. Puedes ser una inspiración para tus amigos y familiares con tus acciones positivas. Gracias por compartir tus pensamientos conmigo. ¡Eres asombroso!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido una aventura increíble explorar el comportamiento contigo. Recuerda que siempre puedes ser valiente, amable y responsable. Estoy muy orgullosa de todo lo que has aprendido hoy. Nunca olvides que cada pequeña acción positiva cuenta. Gracias por acompañarme en este viaje. ¡Nos veremos pronto para más aventuras! Hasta luego, pequeño explorador del océano."
+    }
+  ],
+  "title": "Historia de Behavior de Ocean Dreamer Moa"
+}

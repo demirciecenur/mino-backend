@@ -1,0 +1,104 @@
+{
+  "id": "koko_transitions_story",
+  "character": "Koko",
+  "topic": "transitions",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Koko, et aujourd'hui, nous allons explorer le monde fascinant des transitions. Es-tu prêt pour cette aventure ? Les transitions, ce sont les changements, comme passer d'une activité à une autre. Parfois, cela peut sembler difficile, mais ensemble, nous allons apprendre comment les gérer avec courage et confiance. Alors, mets ta cape de héros, et partons à l'aventure !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions sont comme des ponts qui nous aident à passer d'un endroit à un autre. Par exemple, quand tu arrêtes de jouer pour aller te coucher, c'est une transition. Cela peut être un peu difficile, mais c'est aussi une chance de commencer quelque chose de nouveau. Ce qui est important, c'est de savoir que chaque transition est une nouvelle aventure. Et toi, as-tu déjà vécu une transition qui t'a semblé un peu difficile ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour bien gérer les transitions, il est important de se préparer. Par exemple, si tu sais que tu vas devoir ranger tes jouets, tu peux commencer par en ranger un ou deux à la fois. Cela rend la transition plus facile et moins stressante. Pense à chaque étape comme à un petit défi que tu peux relever. Et n'oublie pas, chaque fois que tu termines une activité, tu peux te féliciter d'avoir accompli quelque chose !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super, tu fais déjà du bon travail ! Maintenant, essayons ensemble une petite transition. Imagine que tu joues avec tes jouets et qu'il est temps de les ranger. Prends une grande respiration, puis commence par ranger ton jouet préféré. Bravo ! Tu vois, tu es capable de faire face aux transitions avec brio. Chaque petit pas compte et te rend plus fort."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi, chaque transition nous apprend quelque chose de nouveau. Par exemple, passer de la maison à l'école peut être une grande transition. Mais à l'école, tu apprends de nouvelles choses et rencontres de nouveaux amis. Chaque jour est une nouvelle chance de découvrir quelque chose de merveilleux. Alors, même si les transitions peuvent sembler un peu effrayantes au début, elles sont pleines de belles surprises."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre astuce pour bien gérer les transitions est de créer une petite routine. Par exemple, chanter une chanson pendant que tu te brosses les dents peut rendre cette transition plus amusante. Cela te donne quelque chose de familier à attendre avec impatience. Les routines aident à rendre les transitions plus prévisibles et moins stressantes. As-tu une chanson préférée que tu aimes chanter pendant tes routines ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dis-moi, quel est ton moment préféré de la journée ? Est-ce le moment où tu joues, où tu manges, ou bien le moment où tu écoutes une histoire ? Chaque moment a sa propre magie et ses propres transitions. En pensant à ce que tu aimes, les transitions deviennent plus faciles et agréables. Alors, qu'est-ce que tu aimes le plus dans ta journée ?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions ne sont pas seulement des moments de changement, elles sont aussi des opportunités de grandir. Par exemple, quand tu passes d'un jeu à un autre, tu apprends à être flexible et à t'adapter. C'est une compétence précieuse qui te servira tout au long de ta vie. Chaque transition est une nouvelle chance d'apprendre et de devenir plus fort. Alors, n'oublie pas de célébrer chaque petite victoire !"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "C'est formidable de voir combien tu as déjà appris sur les transitions. Rappelle-toi, même si cela peut sembler difficile, tu as toujours la force intérieure pour y faire face. Imagine que tu es un super-héros avec une cape magique qui te donne du courage. Avec chaque transition que tu surmontes, ta cape devient encore plus brillante. Tu peux le faire, je crois en toi !"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Il est temps de parler de transitions qui se passent dans nos émotions. Parfois, nous pouvons nous sentir heureux, et d'autres fois un peu tristes, et c'est tout à fait normal. Comprendre que nos émotions peuvent aussi changer est une partie importante de la gestion des transitions. Apprendre à reconnaître et à accepter ces changements nous aide à grandir et à nous sentir mieux. As-tu déjà remarqué comment tes émotions peuvent changer au cours de la journée ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lorsque tu ressens un changement d'émotion, essaie de prendre trois grandes respirations. Inspire profondément par le nez, puis expire lentement par la bouche. Cela peut t'aider à te sentir plus calme et prêt à affronter la transition émotionnelle. Tu peux aussi parler de tes émotions à un adulte de confiance. Exprimer ce que tu ressens peut rendre les transitions émotionnelles plus faciles à gérer."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo pour tout ce que tu as appris aujourd'hui ! Les transitions peuvent être comme des petites aventures, et tu es devenu un expert pour les gérer. Chaque jour, tu deviens plus fort et plus courageux. Continue à explorer, à apprendre et à grandir. Tu es incroyable, et je suis fier de toi !"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "As-tu des questions sur les transitions ou quelque chose que tu aimerais partager ? Chaque question est une opportunité d'en apprendre davantage. N'hésite pas à poser tes questions, car c'est ainsi que nous grandissons ensemble. J'ai hâte d'entendre ce que tu as à dire."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nous avons parcouru un long chemin aujourd'hui en apprenant sur les transitions. Rappelle-toi que chaque transition est une chance de commencer quelque chose de nouveau et d'excitant. Que ce soit un petit changement ou un grand, tu as en toi la capacité de le surmonter. Continue à avancer avec confiance et courage."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était merveilleux de passer du temps avec toi aujourd'hui. Merci d'avoir exploré les transitions avec moi. N'oublie pas, tu es un super-héros capable de surmonter toutes les transitions. Je suis Koko, et je suis toujours là pour t'encourager. À bientôt, petit héros, et n'oublie pas de continuer à briller !"
+    }
+  ],
+  "title": "Histoire de Transitions de Koko"
+}

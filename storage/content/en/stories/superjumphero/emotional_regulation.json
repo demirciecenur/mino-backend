@@ -1,0 +1,104 @@
+{
+  "id": "super_jump_hero_emotional_regulation_story",
+  "character": "Super Jump Hero",
+  "topic": "emotional_regulation",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friends! I'm Super Jump Hero, and today we're going on an exciting adventure about feelings. Are you ready to explore with me? We're going to learn how to understand our emotions and have fun doing it! It's going to be a joyful journey, and I can't wait to start. Let's jump into our story together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about feelings. Feelings are like little friends inside us that tell us how we feel. Sometimes we feel happy, like when we play our favorite games. Other times, we might feel sad, like when a toy breaks. It's okay to have all these feelings because they help us understand ourselves and the world around us."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about different feelings? Let's learn how to manage them together. When you feel upset, try taking three deep breaths. Breathing helps calm your mind and makes you feel better. It's like magic for your heart! Would you like to try it with me now?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job! You're doing wonderful! Now, let's count to five slowly. One, two, three, four, five. Counting helps us focus and feel more in control. Isn't it amazing how simple things can help us feel better? You can do this anytime you feel overwhelmed."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure by recognizing our feelings. When you feel happy, your face might smile, and you feel light like a feather. If you're feeling angry, your face might frown, and your body might feel tight. It's important to know these signs so we can handle our emotions better. Can you think of a time when you felt happy or angry?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's learn a fun game to help with emotions! It's called the 'Feelings Dance'. When you're happy, dance like you're jumping on clouds. When you're sad, sway gently like a leaf. This game helps us express our feelings in a playful way. Would you like to try the Feelings Dance with me?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful dancing! You're doing great! Moving our bodies helps us understand and express our feelings. It's like a special language only we can speak. Remember, it's okay to feel different emotions, and dancing can help us manage them. Keep up the good work!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's talk about sharing our feelings with others. When we tell someone how we feel, it helps them understand us better. It's like opening a little door to our heart. You can say, \"I feel happy,\" or \"I feel sad.\" This way, your friends and family know how to help you. Isn't that a nice way to connect with others?"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember our breathing exercise? It's a great way to calm down when emotions get too big. Sometimes, counting to ten also helps. Let's practice together: one, two, three, four, five, six, seven, eight, nine, ten. You did it! These exercises are like tools you can use anytime you need them."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you remember a time when you used these tools to feel better? Maybe when you were upset about sharing a toy or worried about trying something new? Think about it, and remember how these little tricks helped you. It's amazing how such simple actions can make a big difference, isn't it?"
+    },
+    {
+      "id": "scene_10",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Now, let's listen to our hearts. Put your hand on your chest and feel your heartbeat. It's a reminder that we're alive and full of feelings. Our hearts are like a compass, guiding us through our emotions. Listening to it helps us understand what we're feeling. Isn't that wonderful?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about being kind to ourselves. When we feel upset, it's important to say nice things to ourselves. Like, \"I can do this,\" or \"I am brave.\" These words are like magic spells that make us stronger. Being kind to ourselves helps us handle our emotions better. Can you think of a nice thing to say to yourself?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Just like we share our feelings, we can help others with theirs. If a friend is sad, you can give them a hug or play a game together. Helping others feel better also makes us happy. It's like spreading sunshine! Let's remember to be kind and helpful, just like real heroes."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing a fantastic job learning about emotions! Remember, every feeling is important, and you can handle them all. You're brave, strong, and amazing! Keep practicing these exercises, and you'll be a master of your emotions in no time. I'm so proud of you!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our adventure is coming to an end, but the journey of understanding emotions continues. Thank you for joining me today, little hero! Remember, I'm always here to help you on your adventures. Keep smiling, stay brave, and never stop exploring. Until next time, goodbye and happy jumping!"
+    }
+  ],
+  "title": "Super Jump Hero's Emotional Regulation Story"
+}

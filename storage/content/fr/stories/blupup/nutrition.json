@@ -1,0 +1,104 @@
+{
+  "id": "blu pup_nutrition, alimentation saine, habitudes alimentaires, aliments sains_story",
+  "character": "Blu Pup",
+  "topic": "nutrition, alimentation saine, habitudes alimentaires, aliments sains",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, les amis! Je suis Blu Pup, et aujourd'hui, nous allons explorer le monde fascinant de la nutrition et des aliments sains. Êtes-vous prêts pour une aventure amusante et éducative? Nous allons découvrir pourquoi il est important de manger des aliments variés et comment cela nous aide à grandir forts et en bonne santé. Vous allez adorer apprendre tout cela avec moi! Allons-y ensemble dans ce voyage délicieux!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par parler des fruits et des légumes. Saviez-vous qu'ils sont pleins de vitamines qui nous aident à rester en bonne santé? Les carottes sont bonnes pour nos yeux, et les fraises sont délicieuses et remplies de vitamine C. Quand vous mangez des fruits et des légumes, c'est comme donner à votre corps un câlin de santé! Essayons de compter combien de couleurs différentes nous pouvons voir dans une salade. Wow, c'est comme un arc-en-ciel dans notre assiette!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des protéines. Elles sont très importantes pour construire des muscles forts. Vous pouvez les trouver dans des aliments comme le poulet, les œufs et même dans les haricots! Les protéines aident notre corps à se réparer et à grandir, un peu comme quand on construit une maison solide. Pensez à tous les jeux de course et de saut que vous aimez faire. Les protéines vous aident à avoir l'énergie pour vous amuser chaque jour!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super, les amis! Vous apprenez vite! Continuons avec les glucides. Ce sont des aliments comme le pain, les pâtes et le riz qui nous donnent beaucoup d'énergie. Imaginez que vous êtes une voiture, et les glucides sont votre carburant. Sans eux, vous ne pourriez pas courir, jouer ou danser! Alors, quand vous mangez des glucides, vous remplissez votre réservoir d'énergie. Génial, n'est-ce pas? Vous êtes vraiment des champions de la nutrition!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des produits laitiers, comme le lait et le fromage. Ils sont remplis de calcium, qui est super pour nos os et nos dents. Imaginez vos os comme des arbres forts dans une forêt. Le calcium les rend encore plus grands et plus solides. Vous pouvez boire un verre de lait ou manger un yaourt pour aider votre corps à rester fort. Quel est votre produit laitier préféré? Moi, j'adore le fromage!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "N'oublions pas les graisses saines. Elles sont aussi importantes pour notre corps. On les trouve dans des aliments comme les avocats, les noix et l'huile d'olive. Les graisses aident notre cerveau à fonctionner correctement et nous donnent de l'énergie. C'est un peu comme l'huile qui fait tourner une machine en douceur. Alors, n'ayez pas peur de manger des graisses saines, elles sont là pour vous aider à grandir et à apprendre!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail incroyable en apprenant tout cela! Parlons maintenant de l'importance de boire de l'eau. L'eau est essentielle pour que notre corps fonctionne bien. Elle nous aide à rester hydratés, surtout quand nous jouons dehors et transpirons. Imaginez que votre corps est un jardin, et l'eau est la pluie qui le garde vert et en bonne santé. N'oubliez pas de boire de l'eau tout au long de la journée!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant que nous avons parlé de tous ces aliments sains, réfléchissons à comment les combiner dans nos repas. Un repas équilibré ressemble à une belle peinture avec toutes sortes de couleurs. Vous pouvez avoir des légumes colorés, des protéines, et un peu de glucides. C'est comme créer une œuvre d'art délicieuse dans votre assiette. Chaque bouchée vous rend plus fort et plus heureux!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons de planifier un repas ensemble. Que diriez-vous d'une assiette avec du poulet grillé, des brocolis, et du riz brun? Ajoutez une petite portion de fromage pour le calcium. C'est un repas équilibré qui donne de l'énergie et des nutriments à votre corps. Vous pouvez aussi essayer de nouvelles recettes avec vos parents. C'est amusant de cuisiner ensemble et de découvrir de nouveaux goûts!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, vous êtes devenus des experts en repas équilibrés! Maintenant, parlons de l'importance de manger à des heures régulières. Cela aide notre corps à savoir quand il va recevoir de l'énergie. Pensez à votre ventre comme à une horloge. Quand vous mangez à la même heure chaque jour, votre corps sait qu'il peut compter sur vous. C'est comme avoir une routine de jeu ou de sommeil, cela nous aide à rester en forme et en bonne humeur!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà essayé de goûter un nouvel aliment? Parfois, nous pouvons être un peu hésitants, mais c'est toujours amusant de découvrir de nouvelles saveurs. Quels aliments aimeriez-vous essayer? Peut-être un fruit exotique ou un légume que vous n'avez jamais vu? Souvenez-vous, chaque nouvel aliment est une nouvelle aventure pour vos papilles gustatives!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est formidable de voir à quel point vous êtes curieux! Chaque fois que vous essayez quelque chose de nouveau, vous devenez plus courageux. Pensez à toutes les saveurs et textures que vous pouvez découvrir. C'est comme avoir un coffre au trésor de goûts à explorer. Allez-y, soyez aventureux avec vos repas!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de la façon dont nous mangeons. Manger lentement et apprécier chaque bouchée est important. Cela aide notre estomac à dire à notre cerveau quand nous sommes rassasiés. C'est un peu comme écouter de la musique douce, chaque note est précieuse. Prenez le temps de savourer vos repas et de profiter de chaque saveur. Cela rend l'heure du repas encore plus spéciale!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous des repas préférés que vous aimez manger avec votre famille? Partager un repas ensemble est un moment merveilleux pour se connecter et s'amuser. Pensez à toutes les histoires et les rires que vous partagez autour de la table. Quel est votre plat préféré à partager avec vos proches? Peut-être une soupe chaude ou une pizza faite maison?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir exploré le monde de la nutrition avec moi aujourd'hui, les amis! J'espère que vous avez appris beaucoup et que vous êtes prêts à essayer de nouveaux aliments sains. N'oubliez pas, chaque repas est une chance de devenir plus fort et plus heureux. Continuez à manger équilibré et à découvrir de nouvelles saveurs. Je suis fier de vous et j'ai hâte de vous retrouver pour une nouvelle aventure. À bientôt!"
+    }
+  ],
+  "title": "Histoire de Nutrition de Blu Pup"
+}

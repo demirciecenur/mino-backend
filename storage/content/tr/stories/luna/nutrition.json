@@ -1,0 +1,104 @@
+{
+  "id": "luna_nutrition_story",
+  "character": "Luna",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Luna. Bugün seninle beslenmenin büyülü dünyasına doğru harika bir yolculuğa çıkacağız. Sağlıklı ve güçlü olmak için yediklerimizin ne kadar önemli olduğunu birlikte keşfedeceğiz. Hazırsan, sihirli dünyamıza adım atalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda beslenmenin öneminden bahsetmiştik. Şimdi, her gün yediğimiz renkli sebzelerin vücudumuza nasıl faydalar sağladığını öğrenelim. Havuçlar gözlerimizi güçlendirir, ıspanak ise bizi daha enerjik yapar. Her sebze farklı bir süper güç gibidir, değil mi? Şimdi bir sonraki adımda meyvelerin renkli dünyasına dalalım."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Meyveler de en az sebzeler kadar önemli ve lezzetlidir. Örneğin, elmalar dişlerimizi temizlerken, muzlar bize enerji verir. Üzüm taneleri ise hafızamızı güçlendirebilir. Her gün farklı renklerde meyve yemek, vücudumuza ihtiyacı olan vitaminleri sağlar. Şimdi birlikte en sevdiğimiz meyveleri sayalım, ne dersin?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Şimdi proteinlerin büyüme ve gelişme için ne kadar önemli olduğunu keşfedelim. Yumurta, süt ve peynir gibi yiyecekler, kaslarımızı güçlü yapar. Proteinler, bedenimizi bir arada tutan yapılar gibidir. Sen de bu yiyecekleri seviyor musun? Hadi birlikte düşünelim!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede proteinlerin önemine değindik. Şimdi, tahılların ve ekmeklerin büyülü dünyasına dalalım. Bu yiyecekler, bize enerji verir ve oyun oynarken daha uzun süre dayanabilmemizi sağlar. Pirinç, makarna ve ekmek gibi yiyecekler, enerjik bir gün için bize güç katar. Unutma, dengeli beslenmek her zaman önemlidir."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, enerjik olmak için neler yememiz gerektiğini konuştuk. Şimdi, suyun vücudumuz için ne kadar önemli olduğunu öğrenelim. Su, vücudumuzu serin tutar ve bizi susuz bırakmaz. Her gün yeterince su içmek, sağlıklı kalmamıza yardımcı olur. Sen de yeterince su içiyor musun? Biraz düşünebiliriz."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Çok güzel! Şimdi, tatlıların ve atıştırmalıkların dengeli tüketilmesi gerektiğini konuşalım. Çikolatalar ve şekerler çok lezzetli olabilir, ama fazla yersek dişlerimize zarar verebilir. Tatlıları ölçülü tüketmek, sağlıklı kalmamıza yardımcı olur. Sen de tatlıları seviyor musun? Hadi konuşalım!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir önceki sahnede tatlılardan bahsetmiştik. Şimdi, sağlıklı atıştırmalıkların neler olabileceğine bakalım. Kuruyemişler, yoğurt ve meyve dilimleri gibi atıştırmalıklar, sağlıklı seçimlerdir. Bu yiyecekler bize enerji verir ve gün boyu aktif kalmamıza yardımcı olur. Sağlıklı atıştırmalıklar, büyülü bir enerji kaynağıdır, değil mi?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Bugün öğrendiklerimizden hangisi en çok hoşuna gitti? Sebzeler mi, meyveler mi, yoksa başka bir şey mi? Cevabını merakla bekliyorum!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Cevabını duymak beni çok mutlu etti! Şimdi, dengeli bir beslenmenin vücudumuza nasıl yardımcı olduğunu özetleyelim. Tüm bu yiyecekler, bizi sağlıklı, güçlü ve mutlu yapar. Dengeli beslenmek, büyülü bir macera gibidir. Her gün farklı yiyeceklerle tanışmak harika, değil mi?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Seninle bu büyülü beslenme yolculuğu harikaydı! Şimdi öğrendiklerini ailenle paylaşabilirsin. Onlara neler öğrendiğini anlat ve birlikte sağlıklı seçimler yapın. Unutma, senin sağlıklı seçimlerin, seni daha güçlü yapar. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Birlikte öğrendiklerimizi hatırlayalım. Beslenmenin büyülü dünyasında ne kadar çok keşif yaptık, değil mi? Her gün sağlıklı seçimler yapmak, bizi daha mutlu yapar. Bunun ne kadar önemli olduğunu unutma. Bir sonraki buluşmamızda yeni şeyler keşfedeceğiz."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence en sevdiğin sağlıklı yiyecek hangisi? Sebzeler mi, meyveler mi, yoksa proteinler mi? Cevabını çok merak ediyorum!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Verdiğin cevap beni çok sevindirdi! Birlikte sağlıklı beslenmenin ne kadar eğlenceli olabileceğini gördük. Her gün yeni şeyler öğrenmek ve denemek harika. Unutma, sağlıklı beslenme her zaman önemlidir. Bir sonraki maceramızda görüşmek üzere!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün seninle harika bir yolculuk yaptık. Beslenmenin büyülü dünyasında birlikte çok şey öğrendik. Seninle bu keşifleri paylaşmak çok güzeldi. Bir dahaki sefere kadar sağlıklı ve mutlu kal. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Luna'ın Nutrition Hikayesi"
+}

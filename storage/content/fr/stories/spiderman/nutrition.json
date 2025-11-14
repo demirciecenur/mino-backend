@@ -1,0 +1,98 @@
+{
+  "id": "spider fighter_nutrition, alimentation saine, habitudes alimentaires, aliments sains_story",
+  "character": "Spider Fighter",
+  "topic": "nutrition, alimentation saine, habitudes alimentaires, aliments sains",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Spider Fighter, votre héros de la santé. Aujourd'hui, nous allons explorer le monde des aliments sains et découvrir comment ils nous aident à devenir forts et pleins d'énergie. Êtes-vous prêts pour une aventure passionnante? Ensemble, nous apprendrons à choisir des aliments qui nous rendent super forts, comme moi! Préparez-vous, car notre aventure commence maintenant!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nous allons commencer par parler des fruits et légumes. Saviez-vous qu'ils sont remplis de vitamines qui nous aident à grandir? Imaginez manger une pomme croquante ou une carotte juteuse, c'est comme donner à notre corps un super pouvoir! Les fruits et légumes sont colorés et amusants à manger. Avez-vous un fruit ou un légume préféré? Moi, j'adore les fraises et les épinards!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des repas équilibrés. Un repas équilibré est comme un puzzle où chaque pièce est importante. Il doit y avoir un peu de tout: des légumes, des protéines, et des glucides. Les protéines, comme le poulet ou les haricots, aident nos muscles à devenir forts. Les glucides, comme le riz ou les pâtes, nous donnent de l'énergie pour jouer toute la journée. Rappelez-vous, un repas équilibré nous rend aussi forts qu'un super-héros!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons d'imaginer un repas équilibré ensemble! Commençons par choisir un légume, peut-être des petits pois verts. Ensuite, ajoutons une protéine, comme un délicieux œuf. Pour finir, un peu de riz pour l'énergie. Voilà, un repas équilibré parfait! Vous pouvez le faire aussi, et je suis sûr que vous allez adorer créer vos propres repas équilibrés. Allez, vous êtes des champions!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Il est important aussi de boire beaucoup d'eau. L'eau est essentielle pour que notre corps fonctionne bien, un peu comme l'huile dans une voiture. Quand nous jouons ou courons, nous perdons de l'eau, et il faut en boire pour rester hydraté. Avez-vous déjà essayé de boire un verre d'eau après avoir joué? Ça fait vraiment du bien! N'oubliez pas, l'eau, c'est la boisson des champions!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant du petit déjeuner. C'est le repas le plus important de la journée! Il nous donne l'énergie nécessaire pour commencer la journée du bon pied. Un bon petit déjeuner pourrait être un bol de céréales avec du lait et une banane. Cela nous aide à être concentrés et forts, tout comme un super-héros. Alors, n'oubliez jamais de prendre votre petit déjeuner!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous savez, manger sainement peut aussi être amusant! Pourquoi ne pas essayer de nouvelles recettes avec vos parents? Faire des formes amusantes avec les légumes, ou créer un arc-en-ciel de fruits dans votre assiette. C'est une façon géniale de rendre le repas encore plus excitant. Et en plus, c'est délicieux! Vous pouvez devenir le chef de votre propre cuisine!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des collations. Parfois, on a besoin d'un petit en-cas entre les repas, et c'est normal! Mais il est important de choisir des collations saines, comme des noix ou des yaourts. Ces collations nous aident à rester concentrés et pleins d'énergie. Vous pouvez même préparer vos propres collations avec des fruits secs et des graines. C'est comme fabriquer vos propres petites doses d'énergie!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Continuons avec les habitudes alimentaires. Manger à des heures régulières est important. Cela aide notre corps à savoir quand il doit se préparer pour digérer. Comme un train qui arrive toujours à l'heure, notre corps aime la régularité. Donc, essayez de manger vos repas à peu près aux mêmes heures chaque jour. Cela vous aidera à vous sentir bien et plein d'énergie!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail formidable en apprenant tout cela! Rappelez-vous, chaque petit effort compte. Que ce soit choisir un fruit au lieu d'un bonbon, ou boire un verre d'eau supplémentaire, chaque choix sain vous rend plus fort. Continuez à être curieux et à poser des questions sur ce que vous mangez. Vous êtes déjà sur la voie d'une vie saine et heureuse!"
+    },
+    {
+      "id": "question_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, quel est votre aliment préféré? Est-ce un fruit, un légume, ou peut-être quelque chose d'autre? J'aimerais beaucoup savoir! Posez cette question à vos amis et à votre famille aussi. C'est amusant de découvrir ce que les autres aiment manger. Peut-être trouverez-vous de nouveaux aliments à essayer ensemble!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous de notre discussion sur les aliments sains. Chaque aliment a un rôle spécial à jouer dans notre corps. Les vitamines, les protéines, et les glucides travaillent ensemble pour nous garder en bonne santé. C'est comme une équipe de super-héros qui se soutient mutuellement. N'est-ce pas incroyable? Maintenant, vous savez comment devenir un héros de l'alimentation saine!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nous avons parlé de tant de choses aujourd'hui! Des fruits, des légumes, de l'eau, et même des habitudes alimentaires. Tout cela est important pour rester en bonne santé. Essayez de vous souvenir de ces conseils et de les appliquer tous les jours. Vous verrez, cela fera une grande différence dans votre vie. Vous serez plus fort, plus énergique, et prêt à affronter toutes les aventures!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure avec moi, mes petits héros! Je suis sûr que vous allez devenir des experts en alimentation saine. Continuez à explorer, à essayer de nouveaux aliments, et surtout, amusez-vous en mangeant sainement. Je suis fier de vous et de tout ce que vous avez appris aujourd'hui. À bientôt pour de nouvelles aventures! Au revoir!"
+    }
+  ],
+  "title": "Histoire de Nutrition de Spider Fighter"
+}

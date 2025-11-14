@@ -1,0 +1,104 @@
+{
+  "id": "sunny_behavior_story",
+  "character": "Sunny",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Sunny, and today we're going to talk about something super fun and important: behavior! Are you ready to join me on this adventure? We'll learn about being kind, following rules, and having a great time with friends. Let's get started and discover how wonderful it is to be on our best behavior!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Do you know what behavior means? It's how we act and treat others every day. When we have good behavior, it means we are being nice and respectful to the people around us. Like when we share our toys or say 'please' and 'thank you'. These are all ways to show good behavior. Isn't that wonderful?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about following rules. Rules are like little guides that help us know what to do. For example, we have rules at home, like brushing our teeth before bed. And at school, we might have rules like raising our hand before speaking. Following these rules helps us stay safe and happy. Can you think of a rule you follow?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking about rules! You're doing amazing. Remember, following rules is a big part of good behavior. It shows that we care about ourselves and others. It's like being a superhero with the power to make the world a better place. You can do it!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's think about being kind. Being kind is one of the best ways to show good behavior. When we help a friend or give someone a big smile, we're spreading kindness everywhere. Imagine how happy we make others feel with our kind actions. Isn't that amazing?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice being kind together. Think of something kind you can do today. Maybe you can help your parents with a chore, or you could draw a picture for a friend. These little acts of kindness can make a big difference. Are you ready to try it?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an awesome job! Remember, every little act of kindness counts. When we all work together to be kind, the world becomes a happier place. Keep up the great work, and you'll see just how wonderful it feels to be kind."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about listening. Good behavior also means being a good listener. When someone is talking, we give them our full attention by looking at them and not interrupting. This shows that we respect what they have to say. Can you practice being a good listener today?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try a listening game. I'll say a sentence, and you try to remember it. Ready? 'The sun is shining brightly today.' Did you catch that? Great job! Listening carefully helps us learn new things and understand others better. Keep practicing!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're such a good listener! Keep practicing, and you'll get even better. When we listen well, we can learn so much and have great conversations with our friends. You're doing fantastic, and I'm so proud of you!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's think about sharing. Sharing is a big part of good behavior. When we share our toys or snacks, we're showing that we care about others. It's like giving a little piece of happiness to someone else. Isn't that nice?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice sharing together. Imagine you have a yummy cookie. What if you shared half with a friend? They would be so happy! Sharing shows that we are generous and thoughtful. Can you think of something you can share today?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful thinking! Sharing is such a kind and generous thing to do. It makes everyone feel good and helps us make new friends. Keep sharing and spreading joy wherever you go. You're doing a great job!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite way to show good behavior? Maybe it's helping out at home or being nice to your friends. I'd love to hear what you think is the best way to be kind and respectful. What do you like to do?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for spending time with me today, learning about behavior. Remember, being kind, following rules, listening, and sharing are all ways to show good behavior. I'm so proud of you for trying your best. Until next time, keep shining bright and spreading joy!"
+    }
+  ],
+  "title": "Sunny's Behavior Story"
+}

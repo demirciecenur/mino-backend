@@ -1,0 +1,98 @@
+{
+  "id": "bubble_buddy_transitions_story",
+  "character": "Bubble Buddy",
+  "topic": "transitions",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Bubble Buddy, votre ami joyeux sous l'eau. Aujourd'hui, nous allons explorer le monde fascinant des transitions. Êtes-vous prêts pour une aventure amusante? Je suis tellement curieux de savoir comment vous vous adaptez aux changements. Allons-y ensemble et découvrons comment rendre les transitions super amusantes!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions, c'est quand quelque chose change, comme quand vous passez de jouer à l'extérieur à dîner. Parfois, les transitions peuvent être un peu déroutantes, mais elles sont aussi l'occasion d'apprendre de nouvelles choses. Par exemple, commencer une nouvelle école peut être une grande transition. Mais c'est aussi une chance de se faire de nouveaux amis! Vous voyez, les transitions peuvent être excitantes et pleines de surprises!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment nous pouvons rendre les transitions plus faciles. Une façon est de se préparer à l'avance. Par exemple, si vous devez aller au lit, vous pouvez commencer par ranger vos jouets et mettre votre pyjama. Cela aide votre cerveau à comprendre que c'est bientôt l'heure de dormir. Et devinez quoi ? Ça rend tout plus amusant et moins stressant!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super travail, mes amis! Vous êtes vraiment bons pour comprendre les transitions. Vous pouvez aussi essayer de prendre trois grandes respirations pour vous calmer. Allez, inspirons ensemble... et expirons. C'est tellement relaxant, n'est-ce pas? Vous voyez, avec un peu de pratique, les transitions deviennent un jeu d'enfant!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de préparer nos esprits? Une autre astuce est de penser à quelque chose de joyeux pendant une transition. Par exemple, si vous vous sentez un peu triste de quitter le parc, pensez à quelque chose de drôle que vous avez fait. Peut-être que vous avez glissé sur le toboggan comme un super-héros! Cela vous aidera à garder le sourire pendant le changement."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Chers amis, savez-vous que les routines peuvent aider avec les transitions? Avoir une routine, c'est comme avoir un petit plan de la journée. Par exemple, chaque matin, vous vous lavez le visage, vous brossez les dents, puis vous prenez le petit déjeuner. Cela rend les transitions plus prévisibles et moins surprenantes. Essayez de créer votre propre routine amusante!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail incroyable! Continuez à explorer vos propres routines. Peut-être pouvez-vous ajouter une danse joyeuse avant de commencer quelque chose de nouveau. Cela rend chaque transition unique et amusante! Vous êtes des experts des transitions maintenant, bravo!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons des émotions que nous ressentons pendant les transitions. Parfois, nous pouvons nous sentir un peu inquiets ou excités. C'est tout à fait normal! Vous pouvez parler de vos émotions avec un adulte ou un ami. Partager ce que vous ressentez peut rendre les transitions plus faciles et plus joyeuses."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Et si nous jouions à un petit jeu pour comprendre les transitions? Imaginez que vous êtes une bulle qui flotte dans l'eau. Chaque fois que vous touchez quelque chose de nouveau, vous changez de couleur. C'est amusant, n'est-ce pas? Cela montre à quel point les transitions peuvent être colorées et amusantes!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons ensemble de faire une transition en douceur. Imaginez que vous êtes en train de jouer et que c'est l'heure de ranger. Commençons par choisir un jouet à la fois et le remettre à sa place. Vous pouvez même chanter une petite chanson pendant que vous le faites. Cela rend le rangement amusant et facile!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Est-ce que vous avez une transition préférée, mes petits amis? Peut-être que vous aimez passer du bain à l'heure du coucher? Ou peut-être que vous adorez la transition vers l'heure du goûter? Partagez avec moi, je suis curieux de savoir!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "C'est génial d'entendre vos histoires! Chaque transition est une nouvelle aventure. Comme quand vous passez de l'école à la maison. C'est l'occasion de raconter à vos parents tout ce que vous avez appris. Chaque jour est plein de petites transitions et de grandes aventures!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes tous des champions des transitions! Avec chaque changement, vous devenez plus forts et plus confiants. N'oubliez pas que je suis toujours là pour vous aider à rendre chaque transition amusante et excitante. Continuez à être incroyables!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était tellement amusant de parler des transitions avec vous aujourd'hui! Rappelez-vous, chaque changement est une chance de briller. Continuez à explorer, à apprendre et à sourire. À la prochaine, mes amis, et souvenez-vous que Bubble Buddy est toujours là pour vous accompagner dans vos aventures! Au revoir!"
+    }
+  ],
+  "title": "Histoire de Transitions de Bubble Buddy"
+}

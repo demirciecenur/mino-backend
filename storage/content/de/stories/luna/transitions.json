@@ -1,0 +1,104 @@
+{
+  "id": "luna_transitions_story",
+  "character": "Luna",
+  "topic": "transitions",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, mein kleiner Freund! Ich bin Luna, und heute gehen wir auf eine wundervolle Reise. Wir werden über Übergänge sprechen, die wie magische Brücken in neue Abenteuer sind. Bist du bereit, mit mir die Sterne zu zählen und die Geheimnisse des Mondes zu entdecken? Ich bin so gespannt, dich auf dieser Reise zu begleiten. Lass uns gemeinsam die Wunder der Veränderungen erkunden!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Übergänge sind wie die Momente, wenn der Tag zur Nacht wird. Sie sind magisch und voller neuer Möglichkeiten. Stell dir vor, du wachst auf und der Himmel ist voller Farben. So sind Übergänge, sie bringen neue Farben in unser Leben. Erinnerst du dich, als wir über den Regenbogen gesprochen haben? Übergänge sind genauso besonders und bunt."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber sprechen, wie wir mit Übergängen umgehen können. Wenn wir etwas Neues beginnen, wie das Aufräumen unserer Spielsachen, kann das ein bisschen wie ein Abenteuer sein. Erstmal tief durchatmen, das hilft uns, ruhig zu bleiben. Dann können wir uns vorstellen, dass wir ein kleines Spiel spielen. Wir fangen an und sehen, wie schnell wir unsere Spielsachen in die Kiste legen können."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Jeder Übergang ist eine Chance, etwas Neues zu lernen. Wenn wir zum Beispiel ins Bett gehen, ist das auch ein Übergang. Wir ziehen unseren Schlafanzug an, putzen Zähne und kuscheln uns in unsere Decke. Vielleicht können wir eine Geschichte lesen oder ein Lied singen. So wird der Übergang zur Schlafenszeit zu einem schönen Ritual."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an das letzte Mal, als du etwas Neues gelernt hast? Vielleicht war es, wie man einen Drachen steigen lässt oder ein neues Lied singt. Diese Momente sind Übergänge, die uns wachsen lassen. Sie machen uns mutiger und klüger. Wenn wir uns daran erinnern, wie gut wir das gemacht haben, fühlen wir uns stolz. Diese Erinnerungen helfen uns bei jedem neuen Übergang."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt einen kleinen Übergang üben. Stell dir vor, wir sind auf einem Abenteuer und müssen von einem Felsen zum nächsten springen. Wir zählen bis drei: Eins, zwei, drei, springen! Schau, wie wir es geschafft haben, den Übergang zu meistern. Es ist wichtig, sich selbst zu vertrauen und zu wissen, dass wir es schaffen können. Jetzt bist du bereit für das nächste Abenteuer!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar, du hast das toll gemacht! Jeder Übergang ist eine Gelegenheit, etwas Neues zu entdecken. Wenn wir uns darauf einlassen, können wir viele schöne Dinge erleben. Vielleicht ist es ein neues Spielzeug oder ein neuer Freund. Veränderungen bringen oft Überraschungen mit sich, und das ist aufregend. Du bist mutig und bereit für alles, was kommt!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns über den Mond sprechen. Der Mond verändert sich jede Nacht ein bisschen, genau wie wir. Manchmal ist er voll und rund, manchmal ist er nur eine schmale Sichel. Diese Veränderungen sind Übergänge, die uns zeigen, dass alles im Leben im Fluss ist. Der Mond erinnert uns daran, dass es in Ordnung ist, sich zu verändern und anzupassen. Jede Nacht bringt neue Träume und Abenteuer."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns eine Übung machen, um den Mond zu begrüßen. Wir stehen auf, strecken die Arme hoch und sagen: 'Hallo, lieber Mond!' Dann atmen wir tief ein und aus. Das hilft uns, uns auf neue Übergänge vorzubereiten. Wenn wir den Mond betrachten, können wir über unsere eigenen Veränderungen nachdenken. Jeder Tag ist ein neues Abenteuer, und wir sind bereit dafür."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist so mutig und stark! Übergänge können manchmal ein bisschen beängstigend sein, aber du hast die Kraft, sie zu meistern. Denke daran, dass du nicht allein bist. Wir alle erleben Veränderungen und wachsen daran. Deine Freunde, deine Familie und sogar der Mond sind da, um dich zu unterstützen. Gemeinsam können wir jede Herausforderung meistern!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über den Regenbogen gesprochen haben? Jeder Übergang ist wie das Überqueren eines Regenbogens. Er bringt uns von einem Ort zum anderen und zeigt uns neue Farben. Diese Farben sind die Erfahrungen, die wir sammeln. Sie machen unser Leben bunt und spannend. Über den Regenbogen zu gehen, bedeutet, mutig zu sein und Neues zu entdecken."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kannst du dich an eine Zeit erinnern, als du etwas Neues ausprobiert hast? Vielleicht war es ein neues Spiel oder ein neues Essen. Wie hat es sich angefühlt, etwas Unbekanntes zu erleben? Manchmal ist es aufregend, manchmal ein bisschen nervös. Aber jedes Mal lernen wir etwas Neues über uns selbst. Was möchtest du als Nächstes ausprobieren?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Übergänge sind auch eine Chance, neue Freunde zu finden. Wenn wir in den Kindergarten oder in die Schule gehen, treffen wir viele neue Gesichter. Diese neuen Freunde können uns helfen, uns an neue Situationen zu gewöhnen. Gemeinsam können wir spielen, lachen und lernen. Jeder neue Freund bringt etwas Besonderes in unser Leben, und das macht den Übergang einfacher und schöner."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du schon einmal einen neuen Freund gefunden, als du etwas Neues gemacht hast? Vielleicht beim Malen oder beim Spielen im Park. Es ist so schön, neue Freunde zu haben, die unsere Abenteuer teilen. Zusammen können wir die Welt entdecken und neue Dinge ausprobieren. Jeder Übergang ist eine Gelegenheit, neue Freundschaften zu schließen."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Nun ist unsere magische Reise fast zu Ende. Danke, dass du mit mir über Übergänge gesprochen hast. Denk daran, dass jede Veränderung eine neue Chance ist, etwas Wundervolles zu erleben. Ich bin so stolz auf dich und deine Entdeckungsfreude. Bis zum nächsten Mal, wenn wir wieder die Sterne zählen und neue Abenteuer erleben. Tschüss, mein kleiner Freund!"
+    }
+  ],
+  "title": "Lunas Transitions Geschichte"
+}

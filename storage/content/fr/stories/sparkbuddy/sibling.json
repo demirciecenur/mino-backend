@@ -1,0 +1,98 @@
+{
+  "id": "spark_buddy_sibling_story",
+  "character": "Spark Buddy",
+  "topic": "sibling",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour petit ami ! Je suis Spark Buddy. Aujourd'hui, nous allons découvrir l'incroyable monde des frères et sœurs. Es-tu prêt ? J'ai hâte de partager cette aventure avec toi. Ensemble, nous allons explorer comment les frères et sœurs peuvent être les meilleurs amis du monde. Allons-y, c'est parti !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les frères et sœurs sont comme des compagnons de jeu qui vivent sous le même toit. Ils partagent des moments de rire, de jeux, et parfois même de petites disputes. Mais sais-tu quoi ? Ces moments font partie de ce qui rend la relation spéciale. Imagine jouer à cache-cache avec ton frère ou ta sœur, c'est tellement amusant ! Et quand on partage, on montre combien on se soucie les uns des autres."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de l'importance de partager avec ses frères et sœurs. Quand tu partages tes jouets ou tes friandises, cela montre que tu es gentil et attentionné. Cela peut aussi rendre ton frère ou ta sœur très heureux. Par exemple, si tu as deux biscuits, pourquoi ne pas en donner un à ton frère ? Cela crée des souvenirs joyeux et renforce votre lien. Partager, c'est comme donner un cadeau spécial chaque jour."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "On continue ! Essaie de penser à un moment où tu as fait quelque chose de gentil pour ton frère ou ta sœur. Peut-être l'as-tu aidé à ramasser ses jouets ? C'est formidable de s'entraider ! Chaque petit geste compte et montre l'amour que vous avez l'un pour l'autre. Continue à être un super frère ou une super sœur, tu peux le faire !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant des jeux amusants que tu peux faire avec ton frère ou ta sœur. Jouer ensemble renforce votre amitié et vous aide à mieux vous connaître. Vous pouvez construire des châteaux avec des blocs ou inventer des histoires incroyables. Les jeux sont une belle façon de passer du temps ensemble et de s'amuser. Et n'oublie pas, le plus important est de rire et de profiter de chaque instant !"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Souviens-toi de notre discussion sur le partage. As-tu pensé à une autre façon de partager aujourd'hui ? Peut-être pourrais-tu prêter ton livre préféré à ton frère ou ta sœur. Cela montre que tu es généreux et que tu veux partager ce que tu aimes. Quand on partage, on découvre aussi de nouvelles choses ensemble. C'est une belle aventure de découvrir les goûts de l'autre."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo pour toutes ces idées de partage ! Tu es vraiment formidable. Maintenant, pense à une activité que tu pourrais faire avec ton frère ou ta sœur aujourd'hui. Peut-être un petit dessin ensemble ou une chanson à chanter. Toute activité partagée est une occasion de se rapprocher et de s'amuser. Continue à être plein d'énergie et d'amour, c'est merveilleux !"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Il est aussi important de se souvenir que parfois, on se dispute avec ses frères et sœurs. Cela arrive à tout le monde, et c'est normal. L'important est de savoir comment se réconcilier. Peut-être en s'excusant et en faisant un câlin. Les disputes peuvent être résolues avec des mots doux et des gestes gentils. C'est ainsi que les liens deviennent plus forts."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour être un bon frère ou une bonne sœur, il faut aussi savoir écouter. Écouter, c'est prêter attention à ce que dit l'autre. Cela montre que tu te soucies de ce qu'il ressent. Par exemple, si ton frère ou ta sœur est triste, tu peux lui demander ce qui ne va pas. Écouter est une façon de montrer ton amour et d'être présent pour lui."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu déjà écouté ton frère ou ta sœur raconter une histoire ? C'est toujours intéressant d'entendre ce qu'ils ont à dire. Quel est leur jeu préféré ou leur couleur préférée ? En découvrant leurs goûts, vous vous comprenez mieux. C'est comme découvrir un trésor caché à l'intérieur de votre cœur. Alors, prêt à écouter et à découvrir ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons notre voyage avec une petite activité. Trouvons une chose que vous aimez tous les deux. Peut-être un dessin animé ou un jeu de société. Passer du temps ensemble est ce qui rend les souvenirs précieux. En partageant des moments spéciaux, vous créez des souvenirs qui durent toute la vie. N'est-ce pas merveilleux de partager ces moments avec ton frère ou ta sœur ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelle-toi de notre discussion sur l'écoute. As-tu essayé d'écouter ton frère ou ta sœur aujourd'hui ? Peut-être ont-ils quelque chose de spécial à partager avec toi. Écouter permet de mieux comprendre et de se rapprocher. C'est une belle façon de montrer que tu tiens à eux. Alors, prêt à tendre l'oreille et à découvrir de nouveaux secrets ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail incroyable en étant un super frère ou une super sœur ! Continue à partager, écouter et jouer ensemble. Chaque jour est une nouvelle opportunité d'apprendre et de grandir. Tu as tout ce qu'il faut pour être le meilleur ! Je suis fier de toi et de tout ce que tu fais pour rendre tes relations spéciales."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir exploré le monde des frères et sœurs avec moi aujourd'hui. J'espère que tu as appris beaucoup de choses et que tu t'es bien amusé. N'oublie pas que les frères et sœurs sont des amis pour la vie. Continue à être gentil, attentionné et à partager des moments précieux. À bientôt pour une nouvelle aventure, petit ami !"
+    }
+  ],
+  "title": "Histoire de Sibling de Spark Buddy"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "super_jump_hero_Ernährung_gesundes_Essen_Essgewohnheiten_gesunde_Lebensmittel_story",
+  "character": "Super Jump Hero",
+  "topic": "Ernährung, gesundes Essen, Essgewohnheiten, gesunde Lebensmittel",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, meine kleinen Freunde! Ich bin Super Jump Hero und heute gehen wir auf eine spannende Reise. Wir werden über Ernährung, gesundes Essen und wie man stark und gesund bleibt sprechen. Seid ihr bereit, mit mir zu springen und zu lernen? Ich freue mich schon sehr darauf, all die spannenden Dinge mit euch zu entdecken. Lasst uns gemeinsam diese Reise beginnen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an das letzte Mal, als wir über unsere Lieblingsessen gesprochen haben? Heute werden wir herausfinden, wie wichtig es ist, gesund zu essen. Gesundes Essen hilft uns, stark und energisch zu sein, genau wie ein Superheld! Wenn wir Obst und Gemüse essen, bekommen wir viele Vitamine. Diese Vitamine helfen unserem Körper, zu wachsen und zu spielen. Lasst uns gemeinsam herausfinden, welches Essen wir heute probieren können."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lasst uns über ein paar gesunde Essgewohnheiten sprechen. Gesund essen bedeutet, viele bunte Früchte und Gemüse zu essen. Denk an die Farben des Regenbogens – rot, orange, gelb, grün und blau! Wenn wir eine bunte Auswahl essen, bekommen wir alle Vitamine, die wir brauchen. Es ist wie ein Regenbogen auf unserem Teller! Was für ein buntes Gemälde kannst du heute auf deinem Teller machen?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Jetzt, da wir die Farben des Regenbogens kennen, lasst uns zählen, wie viele Farben wir auf unserem Teller haben können. Eins, zwei, drei – oh, so viele Farben! Wenn du das nächste Mal isst, versuche, mindestens drei verschiedene Farben zu wählen. Es ist nicht nur gesund, sondern macht auch Spaß! Du kannst das schaffen, ich glaube an dich!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über die Farben gesprochen haben? Nun, es gibt noch mehr zu lernen! Wasser ist auch ein wichtiger Teil der Ernährung. Es hilft uns, hydratisiert zu bleiben und gibt uns die Energie, die wir für unsere Abenteuer brauchen. Stell dir vor, du bist eine Pflanze und Wasser hilft dir zu wachsen. Trinke jeden Tag viel Wasser, und du wirst stark und groß wie ein Baum!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lasst uns darüber sprechen, wie wichtig es ist, regelmäßig zu essen. Wenn wir drei Mahlzeiten am Tag essen – Frühstück, Mittagessen und Abendessen – bleibt unser Körper stark. Frühstück ist besonders wichtig, weil es uns die Energie für den Tag gibt. Es ist wie der Startschuss für ein tolles Abenteuer! Was isst du gerne zum Frühstück?"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du schon mal ein Frühstück mit einem Superhelden gegessen? Stell dir vor, du isst ein leckeres Müsli mit frischen Beeren. Die Beeren geben dir Superkräfte für den Tag! Und das Müsli hilft dir, den ganzen Tag über stark zu bleiben. Es ist wie ein Power-Frühstück für kleine Helden wie dich!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastisch! Du machst das super! Wir haben so viel über gesundes Essen gelernt. Jetzt lasst uns ein kleines Spiel spielen. Wenn du das nächste Mal isst, versuche, eine neue Frucht oder ein neues Gemüse zu probieren. Es ist wie ein Abenteuer für deine Geschmacksknospen. Du bist mutig und neugierig, und ich weiß, dass du es probieren wirst!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du jemals darüber nachgedacht, warum gesunde Lebensmittel so wichtig sind? Sie helfen uns, gesund zu bleiben, damit wir spielen und Abenteuer erleben können. Was ist dein Lieblingsgemüse? Denk darüber nach, wie es dir hilft, stark und gesund zu bleiben. Es gibt so viele köstliche und gesunde Optionen!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über die Wichtigkeit von gesundem Essen gesprochen haben, lasst uns überlegen, wie wir es jeden Tag in unsere Mahlzeiten einbauen können. Vielleicht kannst du mit deinen Eltern zusammen kochen. Ihr könnt gemeinsam ein neues Rezept ausprobieren und dabei Spaß haben. Kochen ist ein tolles Abenteuer, das ihr zusammen erleben könnt. Was möchtest du als nächstes kochen?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du kochst, kannst du so viele neue Dinge lernen! Du kannst über die Zutaten sprechen, die du verwendest, und wie sie dir helfen, gesund zu bleiben. Vielleicht kannst du versuchen, einen Salat mit vielen bunten Gemüsesorten zu machen. Oder du kannst einen leckeren Fruchtsmoothie mixen. Es gibt so viele Möglichkeiten, gesund zu essen und Spaß zu haben!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wunderbar! Du bist ein richtiger kleiner Küchenheld! Denk daran, dass gesundes Essen nicht nur gut für deinen Körper ist, sondern auch für dein Gehirn. Es hilft dir, in der Schule konzentriert zu bleiben und all die lustigen Dinge zu lernen. Du kannst alles erreichen, wenn du gesund isst und gut auf dich achtest!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du schon einmal darüber nachgedacht, wie du deine Freunde dazu bringen kannst, auch gesund zu essen? Vielleicht könnt ihr zusammen ein Picknick planen und viele gesunde Snacks mitbringen. Es ist eine tolle Möglichkeit, das Gelernte zu teilen und gemeinsam Spaß zu haben. Was würdest du zu einem gesunden Picknick mitbringen?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Nun, da wir so viel über gesundes Essen gelernt haben, welches neue gesunde Lebensmittel möchtest du ausprobieren? Es gibt so viele leckere Möglichkeiten wie Karotten, Äpfel oder sogar Brokkoli! Ich bin neugierig, was du als nächstes wählen wirst. Erzähl mir, welches Abenteuer du mit deinem Essen erleben möchtest!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit euch über gesundes Essen zu sprechen, meine kleinen Helden. Denkt daran, dass ihr mit jedem Bissen stark und mutig werdet. Ich bin stolz auf euch und all die Abenteuer, die ihr erleben werdet. Bis zum nächsten Mal, bleibt gesund und fröhlich! Auf Wiedersehen, meine tapferen Freunde!"
+    }
+  ],
+  "title": "Super Jump Heros Nutrition Geschichte"
+}

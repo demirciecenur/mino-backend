@@ -1,0 +1,104 @@
+{
+  "id": "boots_knight_pal_behavior_story",
+  "character": "Boots Knight Pal",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, my brave young friends! I am Boots Knight Pal, your trusty companion on this exciting adventure about good behavior. Today, we'll explore how we can be our best selves every day. Are you ready to learn and have some fun together? I can’t wait to share some amazing stories and tips with you. Let's begin this journey of kindness and courage, shall we?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what behavior means. Behavior is how we act and respond to things around us. It's like when we say please and thank you, or when we share our toys with friends. Good behavior makes everyone happy and helps us make more friends. Can you think of a time when you showed good behavior, like helping someone or being polite?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about sharing toys? Sharing is a wonderful way to show kindness. Imagine you have a big box of crayons. If a friend wants to color too, sharing your crayons can make both of you happy. It’s like spreading sunshine everywhere you go. Next time you have something to share, try it and see how it makes you feel!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking about sharing! You can do it, I know you can. Every time you share, you make the world a little brighter. Let’s pretend we’re sharing our favorite toy right now. Can you picture the smile on your friend’s face? Wonderful! You’re doing amazing!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue with another important behavior—listening. Listening is when we pay attention to what others are saying. Imagine you’re in a magical forest, and the trees are whispering stories. If you listen carefully, you might hear something wonderful. Listening shows respect and helps us learn new things. Have you ever listened to a story and learned something exciting?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's practice listening together. I will say a short rhyme, and you can listen closely. Ready? \"Twinkle, twinkle, little star, how I wonder what you are.\" Did you hear the rhyme? Listening carefully helps us understand and enjoy stories even more. Next time someone speaks, try to listen like you’re in that magical forest!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing so well with listening! Keep it up, and you’ll discover many new things. Remember, listening is like a superpower. It helps us connect with others and learn amazing stories. Each time you listen, you grow stronger and wiser. Fantastic job, my friend!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let’s talk about following rules. Rules are like a map that guides us to do the right thing. They help us stay safe and happy, like when we hold hands while crossing the street. Following rules shows we care about ourselves and others. Can you think of a rule you follow every day, like brushing your teeth before bed?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let’s imagine we’re knights on a quest, and the rules are our trusty guide. When we follow them, we complete our quest successfully. For example, cleaning up toys after playing keeps our kingdom tidy. Try following a rule today and see how it helps you. It’s like magic!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You are doing wonderfully with following rules! Each time you follow a rule, you become a hero in your own story. Remember, rules are there to help us have fun and stay safe. You are brave and strong, just like a knight. Keep up the great work!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I have a question for you. What is your favorite way to show good behavior? Is it sharing, listening, or following rules? Maybe it’s something else, like helping someone in need. I’d love to hear about it. Can you think of a time you made someone smile with your good behavior?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let’s continue our adventure by talking about being kind. Kindness is like planting a garden of happiness. When we are kind, we spread joy to everyone around us. Imagine giving a compliment to a friend—it’s like giving them a beautiful flower. Can you think of a kind act you can do today?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let’s practice kindness together. Think of a friend or family member. Now, imagine doing something nice for them, like drawing a picture or giving a hug. Kindness is a gift we can give every day. Try it and watch how it brightens someone’s day!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re such a kind and thoughtful friend! Each time you show kindness, you make the world a better place. Remember, kindness is like a boomerang; it always comes back to you. Keep spreading those kind acts, and you’ll see how wonderful it feels!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our adventure about good behavior is coming to an end, but the journey doesn’t stop here. You can continue to be a brave, kind, and thoughtful knight every day. Remember the magic of sharing, listening, following rules, and being kind. I’m so proud of you, my friend. Until next time, keep shining bright and spreading joy wherever you go. Goodbye for now!"
+    }
+  ],
+  "title": "Boots Knight Pal's Behavior Story"
+}

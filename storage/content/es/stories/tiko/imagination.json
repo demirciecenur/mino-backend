@@ -1,0 +1,98 @@
+{
+  "id": "tiko_imagination_story",
+  "character": "Tiko",
+  "topic": "imagination",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Tiko, y hoy vamos a embarcarnos en una aventura increíble sobre la imaginación. ¿Estás listo para explorar mundos mágicos conmigo? Estoy muy emocionado de descubrir todo lo que podemos imaginar juntos. La imaginación es como una puerta mágica que nos lleva a lugares sorprendentes. Juntos, podemos crear historias fantásticas y vivir aventuras inolvidables."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La imaginación es una herramienta muy poderosa. Con ella, podemos convertir una simple caja en un castillo o un barco pirata. ¿Alguna vez has imaginado que eres un astronauta explorando el espacio? ¡Es tan emocionante! Podemos viajar a planetas lejanos y conocer criaturas de otros mundos. La imaginación nos ayuda a ver las cosas de manera diferente y a crear nuestros propios cuentos."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para usar nuestra imaginación, solo necesitamos cerrar los ojos y soñar despiertos. Podemos pensar en un bosque encantado lleno de hadas y duendes. ¿Puedes imaginar el sonido de las hojas al viento y los pajaritos cantando? Ahora, abre los ojos y dibuja lo que viste en tu mente. ¡Es como hacer magia con tus pensamientos! ¿No es maravilloso?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a intentar algo juntos! Imagínate que somos exploradores en una isla llena de tesoros escondidos. Podemos buscar cofres llenos de joyas y monedas de oro. ¿Qué tipo de tesoro crees que encontraríamos? ¡Tu imaginación es el límite! Podemos imaginar que hay mapas antiguos y acertijos que resolver. ¡Qué divertido es explorar con nuestra mente!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando imaginamos el bosque encantado. Ahora, pensemos en cómo podríamos crear nuestro propio cuento. ¿Qué personajes vivirían en nuestro mundo? Tal vez un dragón amistoso o un unicornio brillante. Podemos inventar aventuras donde nuestros personajes superan obstáculos y hacen nuevos amigos. La imaginación nos permite ser los autores de nuestras propias historias."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te has preguntado alguna vez cómo sería vivir en un mundo de caramelos? ¿Te imaginas casas hechas de chocolate y ríos de limonada? Sería un lugar tan dulce y divertido. ¿Qué sabores te gustaría probar? ¡Imagina que puedes comer un helado gigante sin que se derrita! ¿No sería increíble?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en un día lluvioso. Aunque no podamos salir a jugar, nuestra imaginación nos puede llevar a lugares soleados. Podemos imaginar que el suelo es lava y tenemos que saltar de un mueble a otro para no quemarnos. ¿Qué tan lejos puedes saltar? ¡Con un poco de imaginación, cada día puede ser una aventura!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a crear un juego de imaginación. Piensa en un animal que te gustaría ser. Ahora, intenta caminar y hablar como ese animal. ¿Eres un león rugiente o un gracioso pingüino? Usa tu imaginación para convertirte en ese animal por un momento. ¡Qué divertido es ser creativo y jugar así!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! La imaginación nos ayuda a desarrollar nuestra creatividad. Podemos usarla para inventar juegos, contar cuentos y hasta resolver problemas. Cada vez que imaginamos, estamos ejercitando nuestra mente. Así que sigue soñando y creando, porque eso te hace especial y único."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, volvamos a nuestro mundo de fantasía. Imaginemos que somos héroes salvando el día. ¿Qué poderes mágicos tendrías? Tal vez puedes volar o convertirte en invisible. Con la imaginación, podemos ser cualquier cosa que soñemos. ¡Es como tener superpoderes en nuestra mente!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez has pensado en cómo sería vivir en el fondo del mar? ¿Te imaginas nadar entre peces de colores y jugar con delfines? ¿Qué tipo de aventuras podríamos tener bajo el agua? La imaginación nos permite explorar lugares que nunca hemos visitado. ¿Te gustaría ser parte de una aventura submarina?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La imaginación también nos ayuda a entender a los demás. Podemos imaginar cómo se sienten otras personas y ser más amables. Si un amigo está triste, podemos pensar en formas de alegrarlo. La imaginación nos hace más empáticos y cariñosos. Así que, cuando uses tu imaginación, piensa también en cómo puedes hacer feliz a alguien más."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para terminar, vamos a hacer un ejercicio de relajación. Cierra los ojos e imagina un lugar tranquilo donde te sientas feliz y seguro. Puede ser un jardín lleno de flores o una playa con olas suaves. Respira profundamente y deja que tu imaginación te lleve allí. ¡Qué relajante es soñar despierto!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Gracias por acompañarme en esta aventura de imaginación. Espero que te hayas divertido tanto como yo. Recuerda que siempre puedes usar tu imaginación para crear momentos mágicos. Sigue soñando y explorando, porque el mundo está lleno de posibilidades. ¡Hasta la próxima, pequeño aventurero!"
+    }
+  ],
+  "title": "Historia de Imagination de Tiko"
+}

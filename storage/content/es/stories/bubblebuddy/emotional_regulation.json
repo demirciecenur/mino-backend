@@ -1,0 +1,98 @@
+{
+  "id": "bubble_buddy_regulación_emocional_manejo_de_emociones_calmarse_autorregulación_story",
+  "character": "Bubble Buddy",
+  "topic": "regulación emocional, manejo de emociones, calmarse, autorregulación",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Bubble Buddy y estoy súper emocionado de estar aquí con ustedes. Hoy vamos a aprender sobre algo muy especial: cómo manejar nuestras emociones y calmarnos cuando lo necesitamos. ¿Están listos para una aventura submarina llena de diversión y aprendizaje? ¡Vamos a sumergirnos juntos en este mundo de emociones! Estoy seguro de que lo pasaremos genial mientras descubrimos cómo sentirnos mejor."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos listos, hablemos sobre las emociones. Las emociones son como burbujas en nuestro interior que pueden ser felices, tristes o incluso un poco molestas. A veces, cuando estamos enojados, sentimos que estamos a punto de estallar como una burbuja muy grande. Pero no se preocupen, porque hay formas de calmar esas burbujas. ¿Quieren saber cómo? ¡Vamos a descubrirlo juntos!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Primero, cuando nos sentimos enojados o tristes, podemos cerrar los ojos y respirar profundamente. ¿Pueden intentarlo conmigo? Inhalen por la nariz contando hasta tres, y luego exhalen suavemente por la boca. ¡Eso es! Al respirar así, ayudamos a que las burbujas dentro de nosotros se calmen y se vuelvan más pequeñas. ¿No es increíble? ¡Vamos a practicarlo un par de veces más!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo están haciendo genial! Ahora que sabemos cómo respirar para calmarnos, podemos usar este truco cada vez que lo necesitemos. Recuerden que siempre está bien sentirse enojado o triste, pero también es importante saber cómo volver a sentirnos tranquilos. ¡Ustedes son unos verdaderos expertos en manejar sus emociones! ¿Listos para continuar?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos sobre cómo podemos reconocer nuestras emociones. Cuando estamos felices, solemos sonreír y sentirnos ligeros como una burbuja que flota. Pero cuando estamos tristes, podemos sentirnos pesados, como una burbuja que se hunde. Identificar cómo nos sentimos es el primer paso para manejar nuestras emociones. ¡Y ustedes lo están haciendo de maravilla!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a jugar un juego divertido para practicar. Imaginen que son burbujas felices flotando en el agua. Ahora, imaginen que una pequeña nube de tristeza aparece. ¿Qué podemos hacer? ¡Así es! Podemos respirar profundamente y pensar en algo que nos haga felices, como jugar con amigos o comer un helado. ¡Intentémoslo ahora!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¡Qué bien lo están haciendo! Al pensar en cosas felices, podemos cambiar nuestras emociones. Es como si estuviéramos soplando suavemente las nubes de tristeza para que el sol vuelva a brillar. ¡Qué maravilloso es tener el poder de cambiar cómo nos sentimos! Ahora, vamos a aprender otro truco."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando nos sentimos nerviosos o ansiosos, podemos intentar contar hasta cinco lentamente. ¿Listos para probarlo? Uno, dos, tres, cuatro, cinco. ¡Excelente! Contar nos ayuda a distraernos y a centrarnos en algo diferente. Es como darle un descanso a nuestra mente y dejar que las burbujas se calmen solas."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora saben cómo respirar, pensar en cosas felices y contar para calmarse. Ustedes son unos verdaderos aventureros emocionales. Estoy muy orgulloso de lo que han aprendido hoy. Recuerden que siempre pueden usar estos trucos cuando lo necesiten. ¡Son increíbles!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de cómo podemos ayudar a nuestros amigos cuando se sienten tristes o enojados. Podemos mostrarles cómo respirar profundamente o contar juntos. También podemos hacerles compañía y recordarles cosas divertidas que hemos hecho juntos. Así, todos podemos sentirnos mejor y seguir disfrutando de nuestras aventuras."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para terminar, vamos a hacer un ejercicio especial. Cuando nos sentimos bien, podemos compartir nuestra felicidad con los demás. Así que, vamos a sonreír y a pensar en algo que nos haga felices. Luego, compartamos esa felicidad con alguien más, como mamá, papá o un amigo. ¡La felicidad se multiplica cuando se comparte!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdan alguna vez que se sintieron tristes o enojados y luego se calmaron? ¿Qué hicieron para sentirse mejor? Es importante recordar esos momentos y los trucos que usamos. Así, la próxima vez que lo necesitemos, sabremos exactamente qué hacer. ¡Compartir nuestras experiencias también es una forma de aprender!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¡Qué día tan increíble hemos tenido aprendiendo sobre nuestras emociones! Ahora saben cómo manejar sus emociones como todo un experto submarino. Recuerden que siempre está bien pedir ayuda si la necesitan. Estoy seguro de que seguirán siendo unos aventureros emocionales maravillosos. ¡Sigan practicando!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es hora de despedirnos, amiguitos. Me ha encantado pasar este tiempo con ustedes, explorando y aprendiendo sobre nuestras emociones. Recuerden respirar, contar, y pensar en cosas felices cada vez que lo necesiten. ¡Hasta la próxima aventura! Cuídense mucho y sigan siendo las burbujas felices y brillantes que son. ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Emotional Regulation de Bubble Buddy"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_friendship_story",
+  "character": "Bubble Buddy",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Bubble Buddy, et aujourd'hui, nous allons explorer le monde merveilleux de l'amitié. L'amitié, c'est comme un grand trésor sous la mer, plein de surprises et de bonheur. Es-tu prêt à partir à l'aventure avec moi ? Je suis tellement curieux d'apprendre avec toi ! Ensemble, nous allons découvrir comment être un bon ami et s'amuser. Allons-y !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est quelque chose de fantastique ! Tu sais, avoir des amis, c'est comme avoir une équipe avec qui jouer et partager des moments drôles. Les amis sont là pour nous aider quand nous avons besoin d'eux, et nous pouvons aussi les aider en retour. Par exemple, si ton ami a du mal à attacher ses lacets, tu peux lui montrer comment faire. C'est ça, être un bon ami !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment on peut se faire des amis. Pour commencer, il faut être gentil et montrer que tu veux jouer ensemble. Tu peux dire 'Salut ! Comment tu t'appelles ?' ou 'Veux-tu jouer avec moi ?'. Cela montre que tu es intéressé par l'autre personne. Et n'oublie pas de sourire, c'est très important !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons ensemble ! Imagine que nous sommes au parc et qu'il y a un autre enfant qui joue seul. Tu pourrais aller vers lui et dire bonjour. C'est un excellent moyen de commencer une nouvelle amitié. Tu vois, ce n'est pas si difficile ! Tu peux le faire, je crois en toi !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi que jouer avec des amis peut être très amusant. Par exemple, vous pouvez construire un château de sable ensemble ou jouer à cache-cache. En jouant ensemble, vous apprenez à partager et à vous entraider. C'est ainsi que l'on construit de belles amitiés qui durent longtemps. Es-tu prêt à essayer de nouveaux jeux avec tes amis ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant de l'écoute. Écouter est très important dans une amitié. Quand ton ami parle, essaie de l'écouter attentivement. Cela montre que tu te soucies de ce qu'il ressent et pense. Tu peux aussi poser des questions comme 'Comment s'est passée ta journée ?'. C'est un bon moyen de mieux connaître ton ami."
+    },
+    {
+      "id": "scene_6",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Faisons un petit exercice ensemble. Ferme les yeux et imagine que tu es avec ton meilleur ami. Pense à une question que tu pourrais lui poser pour montrer que tu t'intéresses à lui. Ça pourrait être 'Quel est ton jeu préféré ?' ou 'Que veux-tu faire aujourd'hui ?'. C'est une belle façon de commencer une conversation !"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super travail ! Tu sais, chaque fois que tu montres que tu t'intéresses à tes amis, tu renforces votre amitié. Continue à poser des questions et à écouter, et tu verras que tes amitiés deviendront de plus en plus fortes. Je suis sûr que tu deviendras un excellent ami !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des émotions. Parfois, nous pouvons nous sentir tristes ou en colère, et c'est normal. Mais il est important de partager ces émotions avec nos amis. Si tu te sens triste, tu peux dire à ton ami : 'Aujourd'hui, je me sens un peu triste'. Ton ami pourrait te réconforter et te faire sourire à nouveau."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons de prendre trois grandes respirations ensemble pour nous sentir calmes. Inspire par le nez, et expire par la bouche. Encore une fois, inspire... et expire. Une dernière fois, inspire... et expire. Maintenant, tu te sens sûrement plus détendu. C'est une bonne technique à partager avec tes amis aussi !"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dis-moi, as-tu déjà aidé un ami qui se sentait triste ? Comment t'es-tu senti après ? Aider un ami peut apporter beaucoup de bonheur, à toi et à lui. Penses-tu que tu pourrais utiliser ces techniques la prochaine fois que tu vois un ami triste ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu sais, les amis peuvent aussi nous apprendre beaucoup de choses. Par exemple, ton ami peut t'apprendre un nouveau jeu ou une nouvelle chanson. Et toi, tu peux partager tes talents avec lui aussi. C'est comme un échange de trésors !"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "N'oublie pas que chaque ami est unique et spécial. Certains amis aiment dessiner, d'autres aiment chanter. C'est ce qui rend chaque amitié si spéciale et précieuse. En respectant les différences de chacun, nous pouvons créer des souvenirs merveilleux ensemble. Es-tu prêt à découvrir toutes les belles choses que tes amis peuvent t'apporter ?"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Rappelle-toi, tu es un ami formidable ! Chaque jour est une nouvelle chance de montrer ta gentillesse et ton attention. Continue à sourire, à partager et à jouer, et tu verras que tes amitiés grandiront encore plus. Je suis tellement fier de toi !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce temps avec moi, petit ami. J'espère que tu as appris beaucoup de choses sur l'amitié aujourd'hui. Je suis sûr que tu seras un ami incroyable pour tous ceux que tu rencontreras. N'oublie jamais de sourire et de partager ta joie. À bientôt pour une nouvelle aventure sous la mer !"
+    }
+  ],
+  "title": "Histoire de Friendship de Bubble Buddy"
+}

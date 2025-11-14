@@ -1,0 +1,98 @@
+{
+  "id": "snowman buddy olaf-style_behavior_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friends! I'm Snowman Buddy, and I'm so happy to see you today. We're going to have a fun time talking about something really important—behavior! Behavior is all about how we act and how we treat others. Are you ready to learn some new things and maybe even have a bit of fun along the way? I can't wait to get started with you!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about what good behavior means. Good behavior is like being kind to your friends, sharing your toys, and listening to your parents or teachers. It's important because it makes everyone feel happy and safe. Imagine how nice it is when everyone gets along and plays together nicely. Doesn't that sound wonderful? Let's discover more about how we can show good behavior every day."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "One way to show good behavior is by using your inside voice when you're indoors. This means talking softly so you don't disturb others. Let's practice together! Can you say 'hello' in a quiet, gentle voice? Wonderful! Just like that, we can show respect to those around us and make sure everyone is comfortable. Isn't it amazing how such a small thing can make a big difference?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job practicing your inside voice! Now, let's talk about another way to show good behavior—following rules. Rules are like little guides that help us know what to do and keep us safe. For example, when you are at the playground, you might have a rule to wait your turn on the slide. Can you think of a rule you follow at home or school? You're doing so well!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about being kind and sharing? Sharing is another part of good behavior. It means letting others use your toys or play your games. Sharing shows that you care about your friends and want them to be happy too. Have you ever shared something with someone? How did it make you feel? Sharing can bring lots of joy to everyone involved!"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Here's a question for you: Can you think of a time when you helped someone feel better? Maybe you gave a friend a hug when they were sad, or you helped clean up your room without being asked. Helping others is a wonderful way to show good behavior. What are some other ways you can think of to be helpful? Let's brainstorm together!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's learn about listening. Listening is a big part of good behavior because it shows respect for others. When someone is talking, we should look at them and pay attention. Let's practice listening together. Can you pretend we're having a conversation, and I'll listen closely to what you have to say? You're getting really good at this!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue with another fun behavior activity! Have you ever tried taking deep breaths when you're upset? It can help calm you down and make you feel better. Let's try it together: breathe in slowly through your nose, and then out through your mouth. Let's do it one more time. Doesn't that feel nice? It's a great way to manage your feelings and show good behavior even when you're upset."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a fantastic job learning about good behavior! Remember, everyone makes mistakes sometimes, and that's okay. What's important is to try to do better next time and to say sorry if we hurt someone's feelings. Saying sorry is a big part of being a good friend. Have you ever apologized to someone? I bet it made you both feel better!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you know why it's important to follow rules and behave well? It's because it helps everyone feel safe and happy. When we all follow the same rules, like waiting our turn or cleaning up after playing, it makes things fair for everyone. Can you think of a place where you have to follow rules? Maybe at school or at home? You're really thinking hard, and that's great!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's talk about using kind words. Kind words are like magic; they can make someone feel really special. Saying 'please' and 'thank you' are simple ways to show kindness. Let's practice saying 'please' when asking for something. Now, let's say 'thank you' when someone helps us. See how easy that was? Kind words can brighten someone's day!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's imagine we're at a big party with all our friends. How should we behave? We should be polite, share toys, and include everyone in our games. It's important to make sure no one feels left out. Have you ever made a new friend by inviting them to play with you? Making new friends is a wonderful way to show good behavior!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a great job learning about good behavior! Remember, practicing these things every day will help you become a kind and respectful person. It's like building a snowman; each little snowball adds up to something wonderful. Keep practicing, and you'll see how much fun it can be to show good behavior. You're amazing!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Well, our time together is almost up, but I had so much fun with you! Remember the things we talked about today: being kind, sharing, listening, and following rules. These are all parts of good behavior. I'm so proud of you for learning and practicing with me. Keep being wonderful, and I'll see you again soon. Goodbye, little friends!"
+    }
+  ],
+  "title": "Snowman Buddy Olaf-Style's Behavior Story"
+}

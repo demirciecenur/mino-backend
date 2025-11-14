@@ -1,0 +1,104 @@
+{
+  "id": "frost_friend_sid_nutrition_alimentation_saine_habitudes_alimentaires_aliments_sains_story",
+  "character": "Frost Friend Sid",
+  "topic": "nutrition, alimentation saine, habitudes alimentaires, aliments sains",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis ! Je suis Sid, votre ami des glaces, et aujourd'hui, nous allons explorer le monde fascinant de la nutrition. Êtes-vous prêts à découvrir des aliments sains et comment ils nous aident à grandir forts et en bonne santé ? J'espère que vous êtes aussi excités que moi ! Ensemble, nous allons apprendre plein de choses amusantes. Alors, attachez vos ceintures et partons à l'aventure de l'alimentation saine !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous la dernière fois que vous avez mangé un fruit juteux, comme une pomme ou une banane ? Ces fruits sont pleins de vitamines qui aident notre corps à rester en bonne santé. Les fruits et légumes sont nos meilleurs amis pour avoir de l'énergie toute la journée. Imaginez que chaque fruit et légume est un petit super-héros qui nous aide à rester forts. Alors, la prochaine fois, pourquoi ne pas essayer de manger une carotte croquante ou une fraise sucrée ? Vous verrez, c'est délicieux et bon pour vous !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des repas équilibrés. Imaginez votre assiette comme un tableau de peinture. Il faut y mettre plein de couleurs avec des légumes, des fruits, des protéines comme le poulet ou les œufs, et des céréales comme le riz ou le pain. Chaque couleur apporte quelque chose d'important pour notre corps. Une assiette colorée est une assiette qui nous fait du bien. Essayons de faire un repas coloré ensemble la prochaine fois que nous sommes à table !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous savez, c'est vraiment amusant de découvrir de nouveaux aliments. Vous pouvez essayer de goûter quelque chose de nouveau chaque semaine. Peut-être un légume que vous n'avez jamais goûté ou un fruit exotique. Qui sait, vous pourriez trouver votre nouveau plat préféré ! N'ayez pas peur d'essayer, car chaque bouchée est une nouvelle aventure. Vous êtes courageux, alors allez-y, goûtez !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous, boire de l'eau est aussi très important. Notre corps a besoin d'eau pour fonctionner correctement, un peu comme une voiture a besoin d'essence. Chaque fois que vous avez soif, buvez un verre d'eau. Cela vous aidera à rester hydraté et plein d'énergie pour jouer et apprendre. Pensez-y comme à une potion magique qui vous garde en forme et heureux !"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Les collations peuvent être saines aussi, vous savez. Au lieu de choisir des bonbons, pourquoi ne pas essayer une poignée de noix ou un yaourt ? Ces choix sont remplis de bonnes choses pour vous et vous donneront l'énergie dont vous avez besoin entre les repas. La prochaine fois que vous avez faim entre les repas, essayez une collation saine. Vous verrez, c'est délicieux et bon pour vous !"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites déjà un travail incroyable en apprenant à manger sainement. Chaque petite étape compte et vous êtes sur le bon chemin. Rappelez-vous que manger sainement peut être amusant et délicieux. Continuez à explorer de nouveaux aliments et à faire des choix sains. Vous êtes un super héros de l'alimentation !"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà aidé à cuisiner à la maison ? C'est une excellente façon d'apprendre sur les aliments sains et de passer un bon moment en famille. Vous pouvez aider à laver les légumes ou à mélanger des ingrédients. Quelle est votre partie préférée de la cuisine ? J'aimerais vraiment savoir !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La cuisine peut être un vrai terrain de jeu. En mélangeant, en coupant et en goûtant, vous pouvez créer de délicieux plats avec vos parents. C'est aussi une belle occasion d'apprendre d'où viennent les aliments et pourquoi ils sont importants pour nous. Cuisiner ensemble crée de bons souvenirs et rend les repas encore plus spéciaux. Alors, pourquoi ne pas essayer de cuisiner ensemble ce week-end ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de la façon de bien manger lentement. Manger trop vite peut nous faire sentir ballonnés. Prenez le temps de bien mâcher chaque bouchée. Cela aide votre estomac à mieux digérer et vous profitez plus de la nourriture. Essayons ensemble : prenons une bouchée imaginaire et mâchons-la lentement, une, deux, trois fois. Bien joué !"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "N'oubliez pas que chaque repas est une chance de devenir plus fort et plus en bonne santé. Chaque petit morceau compte, alors continuez à faire de bons choix. Vous êtes déjà un expert en nutrition et alimentation saine ! Continuez comme ça, et vous serez en pleine forme pour toutes vos aventures !"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est votre fruit ou légume préféré ? Est-ce la pomme rouge et croquante, ou peut-être la carotte orange et croquante ? Chaque fruit et légume a sa propre magie spéciale. J'aimerais vraiment savoir quel est votre préféré !"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Essayons de compter ensemble combien de fruits et légumes vous pouvez manger dans une journée. Un, deux, trois, quatre, et peut-être même cinq ! Chaque jour est une chance d'essayer quelque chose de nouveau et de coloré. Plus vous mangez de fruits et légumes, plus votre corps sera heureux. Alors, amusons-nous à compter et à manger sainement !"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Vous savez, il y a tellement de façons amusantes de préparer les aliments. Vous pouvez faire des visages rigolos avec vos légumes ou créer des brochettes de fruits colorées. C'est comme faire de l'art avec de la nourriture ! Cela rend les repas encore plus amusants et délicieux. Prêt à essayer quelque chose de créatif à l'heure du repas ?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était tellement amusant de parler de nutrition avec vous aujourd'hui ! J'espère que vous avez appris beaucoup de choses et que vous êtes prêts à faire des choix sains. N'oubliez pas que chaque petit pas compte et que vous êtes déjà sur le bon chemin. Merci d'avoir passé ce moment avec moi, et j'ai hâte de vous revoir pour de nouvelles aventures. À bientôt, mes petits amis !"
+    }
+  ],
+  "title": "Histoire de Nutrition de Frost Friend Sid"
+}

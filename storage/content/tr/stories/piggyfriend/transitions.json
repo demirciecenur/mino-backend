@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_transitions_story",
+  "character": "Piggy Friend",
+  "topic": "transitions",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Piggy Friend. Bugün birlikte geçişler hakkında harika bir yolculuğa çıkacağız. Geçişler, hayatımızdaki değişikliklerdir ve bazen biraz zorlayıcı olabilirler. Ama merak etme, birlikte bu değişiklikleri nasıl eğlenceli hale getirebileceğimizi öğreneceğiz. Hazır mısın? Seni çok merak ediyorum!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçişler, örneğin yeni bir okula başlamak veya yeni bir eve taşınmak gibi durumlar olabilir. Bu tür değişiklikler bazen bizi heyecanlandırabilir ama bazen de biraz endişelendirebilir. Önemli olan, bu değişikliklerin hayatımızın bir parçası olduğunu kabul etmektir. Her yeni durum, yeni arkadaşlar edinmek ya da yeni şeyler öğrenmek için bir fırsattır. Haydi, bu konuyu biraz daha detaylı inceleyelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Geçişlerle başa çıkmanın bir yolu, ne zaman ve nasıl gerçekleşeceğini anlamaktır. Örneğin, sabahları uyanmak ve okula gitmek bir rutindir. Rutinler, geçişleri kolaylaştırır çünkü ne bekleyeceğimizi biliriz. Eğer yeni bir okul yılına başlıyorsan, bir önceki yıllardan neler öğrendiğini hatırlamak iyi bir başlangıç olabilir. Bu şekilde yeni sınıfına daha kolay uyum sağlayabilirsin."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım! Gözlerini kapat ve yeni bir yere taşındığını hayal et. Yeni odanda hangi oyuncaklar var? Duvarlar hangi renk? Hayal gücünü kullanarak, bu yeni ortamda neler yapabileceğini düşün. Harika! Unutma, hayal gücün seni her zaman mutlu edebilir."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda hayal gücünün öneminden bahsettik. Şimdi, geçişlerin ne kadar değerli olduğunu konuşalım. Geçişler sayesinde büyür ve gelişiriz. Yeni bir beceri öğrenmek, yeni bir oyuncağı keşfetmek gibi şeyler senin için heyecan verici olabilir. Her yeni deneyim, seni daha güçlü ve daha cesur yapar."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, geçen sefer bir arkadaşınla ilk kez tanıştığında biraz çekingen hissetmiştin. Ama sonra birlikte oynamaya başladınız ve çok eğlendiniz! İşte geçişlerin güzel tarafı bu. İlk başta biraz zor gelse de, sonunda hep bir şeyler öğreniriz. Şimdi, başka bir örneğe bakalım."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Yeni bir kardeşin doğduğunda, evdeki düzen değişebilir. Bu, büyük bir geçiş olabilir ama aynı zamanda çok eğlencelidir. Yeni kardeşinle oyunlar oynayabilir, ona kitap okuyabilir ve birlikte vakit geçirebilirsiniz. Bu yeni durum, ailenizi daha da yakınlaştırabilir. Her zaman sevgi ve anlayışla yaklaşmak önemlidir."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Süper! Şimdi, birlikte derin bir nefes alalım. Nefes almak, sakinleşmemize ve yeni durumlara daha kolay uyum sağlamamıza yardımcı olur. Hadi, üçe kadar sayarak derin bir nefes alalım ve verelim. Harika! Kendini daha iyi hissettiğini biliyorum."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Birlikte nefes almanın ne kadar rahatlatıcı olduğunu gördük. Şimdi, rutinlerin nasıl geçişleri kolaylaştırdığını konuşalım. Her gün aynı saatte yatmak ve kalkmak gibi rutinler, geçiş dönemlerinde bize yardımcı olabilir. Böylece, değişikliklere daha kolay adapte olabiliriz. Rutinler, bize güven ve huzur verir."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin de bir rutinin var mı? Örneğin, her akşam yatmadan önce dişlerini fırçalar mısın? Ya da sabahları kahvaltı yaparken hangi yiyecekleri tercih edersin? Rutinlerin seni nasıl rahatlattığını bir düşün. Şimdi bana kendi rutinlerinden bahset!"
+    },
+    {
+      "id": "scene_10",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Bu harika! Rutinler, günlük hayatımızı düzenler ve bize huzur verir. Şimdi, geçişlerin bize neler öğrettiğine bakalım. Her yeni deneyim, yeni bir şeyler öğrenmemizi sağlar. Öğrendiklerimizle büyür ve gelişiriz. Bu yüzden, değişikliklerden korkmamalı, onları birer fırsat olarak görmeliyiz."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda geçişlerin öğrettiklerinden bahsettik. Şimdi, geçişleri nasıl eğlenceli hale getirebiliriz ona bakalım. Örneğin, yeni bir okula başladığında, sınıf arkadaşlarınla tanışmak için oyunlar oynayabilirsin. Bu, hem eğlenceli hem de öğretici olur. Yeni arkadaşlar edinmek, geçişleri daha keyifli hale getirebilir."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, birlikte küçük bir oyun oynayalım. Hayal et ki, yeni bir parka gidiyorsun. Parkta hangi oyuncaklar var? Hangi oyunları oynayabilirsin? Hayal gücünü kullanarak, bu yeni parkta neler yapabileceğini düşün. Harika! Yeni yerler keşfetmek her zaman heyecan verici."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki oyunumuzda yeni bir parkı keşfettik. Şimdi, geçişlerin bize nasıl yeni fırsatlar sunduğuna bakalım. Her yeni durum, yeni bir şeyler denemek için bir fırsattır. Yeni bir hobi edinmek, yeni bir dil öğrenmek gibi. Bu tür fırsatlar, hayatımızı daha zengin ve renkli hale getirir."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte geçişler hakkında çok şey öğrendik. Geçişlerin bazen zorlayıcı olabileceğini ama aynı zamanda ne kadar eğlenceli ve öğretici olabileceğini gördük. Unutma, değişiklikler hayatımızın bir parçası ve her zaman yeni şeyler öğrenmemize yardımcı olur. Seninle bu yolculuğa çıkmak çok güzeldi. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Piggy Friend'ın Transitions Hikayesi"
+}

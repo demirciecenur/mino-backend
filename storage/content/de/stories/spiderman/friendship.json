@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_friendship_story",
+  "character": "Spider Fighter",
+  "topic": "friendship",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Spider Fighter, und heute gehen wir auf ein spannendes Abenteuer über Freundschaft. Bist du bereit? Wir werden entdecken, wie wunderbar es ist, Freunde zu haben. Freunde machen unser Leben fröhlicher und bunter. Ich bin so gespannt, was wir alles lernen werden."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, Freunde sind wie kleine Sonnenstrahlen in unserem Leben. Sie bringen uns zum Lachen, wenn wir uns mal traurig fühlen. Ein guter Freund hilft uns, wenn wir Schwierigkeiten haben, wie ein Superheld. Zusammen spielen macht mit einem Freund doppelt so viel Spaß. Manchmal kann ein einfaches Lächeln der Beginn einer schönen Freundschaft sein."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber sprechen, wie man ein guter Freund sein kann. Ein guter Freund hört zu, wenn jemand reden möchte. Es ist auch wichtig, freundlich und hilfsbereit zu sein, so wie beim Teilen von Spielzeug. Wenn dein Freund traurig ist, kannst du ihn trösten, indem du ihm eine Umarmung gibst. Ein Lächeln und ein nettes Wort können den Tag eines Freundes verschönern."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns zusammen eine kleine Übung machen! Stell dir vor, du siehst deinen Freund auf dem Spielplatz. Was würdest du tun, um ihn zum Lächeln zu bringen? Vielleicht könnt ihr zusammen ein lustiges Spiel spielen. Oder ihr könntet zusammen ein Lied singen. Erinnerst du dich an ein lustiges Spiel, das du mit einem Freund gespielt hast? Großartig!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft bedeutet auch, zusammen neue Dinge zu entdecken. Wie wäre es, wenn ihr gemeinsam ein neues Buch lest? Oder ihr könntet etwas Kreatives basteln, wie ein schönes Bild malen. Wenn ihr zusammen seid, könnt ihr euch gegenseitig helfen, neue Dinge zu lernen. Das macht nicht nur Spaß, sondern stärkt auch eure Freundschaft. Was würdest du gerne mit einem Freund ausprobieren?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich an das letzte Abenteuer, das du mit einem Freund erlebt hast? Vielleicht seid ihr zusammen gerannt oder habt ein Versteckspiel gespielt. Solche Erinnerungen sind kostbar und bleiben lange im Herzen. Es ist wichtig, diese gemeinsamen Momente zu schätzen. Jetzt lass uns überlegen, was das Beste an deinem letzten Abenteuer war."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt sprechen wir darüber, wie man neue Freunde finden kann. Manchmal kann es ein bisschen aufregend sein, neue Leute kennenzulernen. Aber wenn du einfach freundlich 'Hallo' sagst, kann das der Anfang einer neuen Freundschaft sein. Vielleicht könnt ihr zusammen ein Spiel spielen oder etwas Lustiges machen. Es ist immer schön, neue Freunde zu haben, die deine Abenteuer mit dir teilen."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hast du schon mal jemanden gesehen, der alleine spielt? Vielleicht kannst du hingehen und fragen, ob er mit dir spielen möchte. Es erfordert Mut, aber es kann der Beginn einer wunderbaren Freundschaft sein. Jeder fühlt sich besser, wenn er nicht alleine ist. Du kannst ein echter Freund sein, indem du jemanden in dein Spiel einbeziehst. Du kannst das schaffen!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freunde helfen sich auch gegenseitig, wenn sie Probleme haben. Wenn dein Freund traurig ist, kannst du ihm zuhören und ihm helfen, sich besser zu fühlen. Manchmal hilft es schon, einfach da zu sein und gemeinsam zu lachen. Ein guter Freund ist immer da, wenn man ihn braucht. Das macht eine Freundschaft stark und besonders."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du einen besten Freund? Was macht diese Freundschaft so besonders? Vielleicht habt ihr ein geheimes Spiel oder einen besonderen Gruß. Es ist toll, jemanden zu haben, der einen versteht und immer für einen da ist. Was magst du am meisten an deinem besten Freund? Lass uns darüber nachdenken und lächeln!"
+    },
+    {
+      "id": "scene_10",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Jetzt, wo wir über Freundschaft gesprochen haben, lass uns zuhören, was dein Herz dazu sagt. Wie fühlst du dich, wenn du an deine Freunde denkst? Vielleicht spürst du Wärme und Freude in deinem Herzen. Das ist das Wunderbare an Freundschaft. Es gibt uns das Gefühl, geliebt und geschätzt zu werden. Hör genau hin, dein Herz hat viel zu sagen."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Manchmal können Freunde auch unterschiedlicher Meinung sein, und das ist okay. Wichtig ist, dass man darüber redet und eine Lösung findet. Ein kleiner Streit bedeutet nicht das Ende einer Freundschaft. Es zeigt, dass ihr beide eure Meinung habt und sie respektiert. Am Ende zählt, dass ihr euch wieder vertragt und weiter zusammen spielt."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt machen wir eine kleine Ruheübung. Lass uns tief einatmen und langsam ausatmen. Eins, zwei, drei, vier, fünf... und wieder ausatmen. Das hilft uns, ruhig zu bleiben, wenn wir uns einmal aufregen. Diese Übung kannst du mit deinen Freunden teilen. Gemeinsam könnt ihr euch so beruhigen und entspannen."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du hast heute viel über Freundschaft gelernt. Du bist ein großartiger Freund, und ich bin stolz auf dich. Denk daran, dass du mit einem freundlichen Lächeln die Welt heller machen kannst. Deine Freundlichkeit wird immer geschätzt. Du kannst alles schaffen, was du dir vornimmst!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war wundervoll, heute mit dir über Freundschaft zu sprechen. Ich hoffe, du hattest genauso viel Spaß wie ich. Vergiss nicht, dass Freunde wie kleine Schätze sind, die unser Leben bereichern. Ich freue mich schon auf unser nächstes Abenteuer. Bis bald, kleiner Freund, und denk daran, immer ein Lächeln zu teilen!"
+    }
+  ],
+  "title": "Spider Fighters Friendship Geschichte"
+}

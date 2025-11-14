@@ -1,0 +1,98 @@
+{
+  "id": "mino_numbers_story",
+  "character": "Mino",
+  "topic": "numbers",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Mino, your space buddy. Today, we're going on an amazing adventure to explore the world of numbers. Are you ready to count, discover, and play with me? Numbers are everywhere, like stars in the sky, and each one has its own special place. Let's have fun learning them together! I'm so excited to start this journey with you."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's start with the number one. One is like the sun, bright and alone in the sky. Just like when you have one special toy that you love the most. Can you find something around you that you have only one of? It's fun to see how important the number one is in our lives. Next, we'll explore what comes after one!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "After one comes the number two. Two is like having a pair of shoes or two eyes to see the world. Imagine having two cookies, one for each hand! Let's try counting to two together: One, two. Great job! Two is all about balance and pairs, and it makes things double the fun. Now let's see what's next in our number adventure."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! Now we're moving on to number three. Three is like a triangle, with three sides and three corners. Think of three scoops of ice cream on a cone, yum! Let's count to three together: One, two, three. You did it! Three is a magical number, often showing up in stories and games. Keep up the great work as we continue."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, we have the number four. Four is like the legs of a sturdy table or the wheels on a car. Imagine having four colorful balloons, each flying high. Let's count them: One, two, three, four. Amazing! Four is a number that helps things stand strong and move smoothly. Are you ready to count to the next number?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Here comes number five. Five is like the fingers on one hand, ready to wave hello. Think of five little ducks swimming in a pond. Let's count to five: One, two, three, four, five. Fantastic! Five is a number that's easy to remember and full of energy. Let's keep going and see what comes next in our number journey."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job! Now, we have the number six. Six is like the petals on some pretty flowers or six friends playing together. Imagine six yummy apples in a basket. Let's count to six: One, two, three, four, five, six. You're doing amazing! Six is a number that brings a lot of joy and fun. Ready for more counting adventure?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next up is the number seven. Seven is like the days of the week, each one special in its own way. Think of seven colors in a rainbow, bright and beautiful. Let's count them: One, two, three, four, five, six, seven. Awesome! Seven is a number that's full of wonder and magic. Let's keep exploring together!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, we have number eight. Eight is like an octopus with eight wiggly arms or eight slices of a delicious pizza. Let's count to eight: One, two, three, four, five, six, seven, eight. Well done! Eight is a number that's full of surprises and fun shapes. Let's see what the next number has in store for us."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastic work! Next is number nine. Nine is like the squares on a tic-tac-toe board or nine stars twinkling in the night sky. Imagine nine fluffy clouds floating by. Let's count them: One, two, three, four, five, six, seven, eight, nine. Incredible! Nine is a number that fills the sky and our games with excitement. Are you ready for the last number?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Finally, we reach number ten. Ten is like the toes on your feet, perfect for jumping and dancing. Think of ten little fingers waving hello. Let's count to ten: One, two, three, four, five, six, seven, eight, nine, ten. Amazing job! Ten is a special number that completes our counting journey. Let's celebrate our adventure together!"
+    },
+    {
+      "id": "question_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now that we've explored all these numbers, can you tell me which one is your favorite? Do you like the number one, or maybe the number ten? Each number has its own magic and fun. Think about what makes your favorite number special. I'm so curious to know what you think!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "While you're thinking about your favorite number, let's remember how numbers help us every day. From counting toys to measuring ingredients for a yummy cake. Numbers are like little helpers in everything we do. They make our world interesting and full of possibilities. Let's always have fun with them!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this wonderful number adventure! You've done an amazing job counting and exploring with me. Remember, numbers are your friends, always ready to play and learn with you. Keep counting and discovering new things, little explorer. Until next time, keep smiling and have fun with numbers! Goodbye, my friend!"
+    }
+  ],
+  "title": "Mino's Numbers Story"
+}

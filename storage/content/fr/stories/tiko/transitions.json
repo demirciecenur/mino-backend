@@ -1,0 +1,104 @@
+{
+  "id": "tiko_transitions_story",
+  "character": "Tiko",
+  "topic": "transitions",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis! Je suis Tiko, et aujourd'hui, nous allons partir dans une aventure incroyable sur les transitions. Êtes-vous prêts? Je suis tellement curieux de découvrir avec vous comment les changements peuvent être amusants et excitants! Vous savez, comme quand on passe d'une saison à l'autre, ou quand on apprend quelque chose de nouveau. Allons-y ensemble et explorons ce monde fascinant!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions, c'est un peu comme quand on change de vêtements pour aller jouer dehors. Parfois, ça peut sembler un peu étrange, mais c'est aussi très amusant! Par exemple, quand on passe de l'été à l'automne, les feuilles changent de couleur et tombent des arbres. C'est un moment magique! Et vous, avez-vous déjà remarqué ces changements autour de vous? Chaque transition est une nouvelle aventure qui commence!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de changements dans votre routine quotidienne. Savez-vous ce que c'est une routine? C'est toutes les petites choses que l'on fait chaque jour, comme se brosser les dents ou ranger ses jouets. Imaginez que demain, vous devez essayer quelque chose de nouveau, comme apprendre à faire du vélo sans petites roues. Cela peut sembler un peu difficile au début, mais avec un peu de pratique, ça devient plus facile. Vous pouvez le faire!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons ensemble! Imaginez que nous devons traverser une rivière en sautant de pierre en pierre. Chaque saut est comme une transition, un petit changement. Parfois, on peut hésiter, mais si on prend une grande respiration et qu'on se lance, on peut y arriver! Alors, on inspire profondément, et hop, on saute! Vous voyez, c'est amusant de relever des défis et de se lancer dans l'inconnu!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vous souvenez-vous de la dernière fois que vous avez essayé quelque chose de nouveau? Peut-être que c'était lors d'un déménagement ou d'un changement d'école. Les premiers jours peuvent être un peu déroutants, mais ensuite, on se fait de nouveaux amis et on découvre plein de choses intéressantes. Chaque nouvelle expérience est comme un trésor à découvrir. Et vous, quel est votre souvenir préféré d'un changement?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Alors, comment vous sentez-vous à propos des transitions maintenant? Peut-être un peu plus curieux et excité? C'est normal de ressentir beaucoup de choses différentes lorsque l'on fait face à un changement. Parfois, on peut même être un peu nerveux, mais c'est aussi une belle occasion de grandir et d'apprendre. N'oubliez pas que vous êtes courageux et que vous pouvez surmonter tous les défis!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour nous aider à nous préparer aux transitions, nous pouvons utiliser des petites astuces. Par exemple, on peut faire un dessin de ce que l'on ressent ou en parler à quelqu'un de confiance. On peut aussi créer une liste de toutes les choses amusantes que l'on va découvrir. Ces petits gestes peuvent rendre les transitions plus faciles et plus agréables. Voulez-vous essayer l'une de ces idées?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous pouvez le faire, les amis! Chaque petit pas que vous faites vous rapproche de votre objectif. Pensez à toutes les aventures incroyables qui vous attendent. Vous êtes comme des explorateurs dans un nouveau monde, prêts à découvrir des trésors cachés. Continuez à avancer, et n'oubliez pas de sourire et de vous amuser en chemin. Vous êtes formidables!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, les transitions peuvent aussi être des moments de repos. Comme lorsqu'on passe d'une journée bien remplie à une soirée tranquille à la maison. On peut s'installer confortablement avec un bon livre ou écouter une histoire avant de s'endormir. Ces moments de calme nous aident à recharger nos batteries. Avez-vous un rituel préféré pour vous détendre le soir?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, comment vivez-vous les transitions? Aimez-vous essayer de nouvelles choses, ou préférez-vous rester dans votre routine? Il n'y a pas de bonne ou de mauvaise réponse, chacun est différent. Peut-être que vous aimez découvrir de nouveaux jeux, ou peut-être que vous aimez les moments tranquilles. Quoi qu'il en soit, souvenez-vous que chaque transition est une chance d'apprendre et de grandir. Qu'en pensez-vous?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de transitions qui arrivent chaque jour, comme le passage du jour à la nuit. Le soleil se couche, les étoiles apparaissent, et tout devient calme. C'est comme un petit spectacle magique qui se répète chaque soir. Observez-vous parfois le ciel et ses changements? C'est un moment parfait pour se détendre et rêver à de nouvelles aventures. Que voyez-vous dans le ciel ce soir?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous, même si les transitions peuvent être un peu effrayantes, elles peuvent aussi être très excitantes! Pensez à chaque changement comme une nouvelle page d'un livre d'aventures. Vous êtes les héros de votre histoire, et chaque jour apporte son lot de surprises. Quelles histoires aimeriez-vous écrire dans votre livre d'aventures? Imaginez toutes les possibilités!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes prêts pour toutes les aventures qui vous attendent! Avec un peu de courage et beaucoup de curiosité, vous pouvez surmonter tous les défis. N'oubliez pas que chaque transition est une opportunité de découvrir quelque chose de nouveau et d'incroyable. Continuez à explorer, à apprendre et à grandir. Vous êtes formidables, et je suis tellement fier de vous!"
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Avant de nous dire au revoir, prenons un moment pour respirer calmement ensemble. Respirez lentement par le nez, puis soufflez doucement par la bouche. C'est un excellent moyen de se détendre et de se préparer pour de nouvelles transitions. Vous pouvez le faire n'importe quand, quand vous en avez besoin. C'est comme un petit moment de magie pour vous aider à vous sentir mieux. Essayons ensemble!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure avec moi, les amis! J'espère que vous avez appris beaucoup de choses sur les transitions et que vous êtes prêts pour de nouvelles aventures. N'oubliez pas que chaque jour est une nouvelle chance de découvrir quelque chose de merveilleux. Je suis impatient de vous revoir pour une nouvelle histoire. À bientôt, et prenez soin de vous!"
+    }
+  ],
+  "title": "Histoire de Transitions de Tiko"
+}

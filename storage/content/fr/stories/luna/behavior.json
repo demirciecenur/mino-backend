@@ -1,0 +1,98 @@
+{
+  "id": "luna_behavior_story",
+  "character": "Luna",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis Luna, et je suis ravie de vous voir aujourd'hui. Nous allons explorer le monde magique du bon comportement. Êtes-vous prêts à venir avec moi dans cette aventure incroyable? Ensemble, nous découvrirons comment être gentils et respectueux, comme dans le village des Smurfs. Allons-y et découvrons ce merveilleux voyage!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de la magie du comportement? Le bon comportement, c'est comme une baguette magique qui rend tout le monde heureux. Quand vous dites 's'il vous plaît' et 'merci', c'est comme si vous faisiez briller une étoile dans le ciel. Imaginez que chaque sourire que vous donnez est une étoile qui s'illumine. N'est-ce pas merveilleux de rendre le monde plus brillant avec vos actions?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment nous pouvons utiliser cette magie tous les jours. Pensez à la dernière fois que vous avez partagé vos jouets avec un ami. Vous avez vu comme cela a fait sourire votre ami? C'est ça, le pouvoir du partage! Et quand vous rangez vos jouets après avoir joué, vous montrez du respect pour votre espace. Essayez de le faire aujourd'hui et voyez comment cela rend tout le monde heureux autour de vous."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail extraordinaire! Continuons à découvrir de nouvelles façons d'être gentils. Par exemple, aider à la maison est un autre acte magique. Peut-être pouvez-vous aider à mettre la table pour le dîner ou arroser les plantes. Chaque petit geste compte et montre votre amour et votre considération. Continuez à briller avec vos bonnes actions, mes petits amis!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "En parlant de bonnes actions, avez-vous déjà essayé de complimenter quelqu'un? Dire à quelqu'un qu'il a fait du bon travail ou qu'il est gentil peut vraiment égayer sa journée. C'est comme offrir un joli cadeau qui ne coûte rien. Essayez de dire quelque chose de gentil à quelqu'un aujourd'hui et voyez la magie à l'œuvre. Vous serez surpris de voir combien cela peut faire plaisir!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de l'importance de suivre les règles. Les règles sont là pour nous protéger et nous aider à vivre ensemble en harmonie. Par exemple, attendre son tour pour parler est une règle importante. Cela montre que vous respectez les autres et que vous êtes prêt à écouter. Essayez de pratiquer cela en famille ou avec vos amis et voyez combien cela améliore vos conversations."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes tellement merveilleux à apprendre toutes ces choses! N'oubliez pas, chaque petit effort que vous faites compte. Même si c'est difficile parfois, vous pouvez toujours vous améliorer un peu chaque jour. Pensez à vous comme un petit jardin qui grandit et fleurit avec chaque bonne action. Vous pouvez le faire, je crois en vous!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà essayé de résoudre un problème tout seul? Parfois, penser calmement à une solution est la clé. Que faites-vous quand vous vous sentez frustré? Peut-être pouvez-vous respirer profondément trois fois et essayer de penser à une solution. Que diriez-vous d'essayer cela la prochaine fois que vous rencontrez un problème? Je suis curieuse de savoir ce que vous allez découvrir!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, être poli et respectueux est un cadeau que vous offrez aux autres. Quand vous dites 'excusez-moi' ou 'pardon', vous montrez que vous vous souciez des sentiments des autres. C'est comme construire un pont d'amitié entre vous et les autres. Alors, n'oubliez pas d'utiliser ces mots magiques chaque jour. Ils font une grande différence dans le monde!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de la patience. Parfois, attendre peut être difficile, mais c'est une qualité précieuse. Pensez à un moment où vous avez dû attendre votre tour sur le toboggan. Cela montre que vous êtes attentif aux besoins des autres. La prochaine fois que vous devez attendre, essayez de penser à quelque chose de joyeux pendant que vous attendez. Cela rendra le temps plus agréable!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail fantastique en apprenant toutes ces nouvelles choses! Chaque jour est une nouvelle chance de pratiquer le bon comportement. N'oubliez pas que même les petites choses comptent, comme sourire à quelqu'un ou dire 'bonjour'. Vous êtes comme un petit soleil qui illumine la journée des autres. Continuez à briller, mes chers amis!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà pensé à ce que vous pourriez faire pour rendre quelqu'un heureux aujourd'hui? Peut-être pouvez-vous partager un jouet ou aider à ramasser quelque chose qui est tombé. Que feriez-vous pour apporter un sourire à quelqu'un? Pensez à une petite chose que vous pourriez faire et essayez de la réaliser aujourd'hui. Je suis impatiente de savoir ce que vous allez choisir!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ensemble, nous avons appris tellement de choses sur le bon comportement. Chaque petit geste gentil que vous faites est comme une pierre précieuse que vous ajoutez à votre trésor. Pensez à toutes les belles choses que vous avez faites aujourd'hui et combien de personnes vous avez rendues heureuses. Vous êtes vraiment incroyable, et je suis si fière de vous!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment magique avec moi. J'espère que vous avez appris quelque chose de précieux et que vous continuerez à briller avec vos actions. Rappelez-vous que chaque jour est une nouvelle chance d'être gentil et attentionné. Je suis impatiente de vous revoir bientôt pour d'autres aventures. Au revoir, mes petits amis, et continuez à être merveilleux!"
+    }
+  ],
+  "title": "Histoire de Behavior de Luna"
+}

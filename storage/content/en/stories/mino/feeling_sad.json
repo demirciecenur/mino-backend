@@ -1,0 +1,98 @@
+{
+  "id": "mino_feeling_sad_story",
+  "character": "Mino",
+  "topic": "feeling sad",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little space explorers! I'm Mino, your friendly space buddy. Today, we're going to talk about a feeling that everyone has sometimes: feeling sad. Sometimes, even the happiest stars in the sky can feel a little dim. But that's okay, because we're going to learn what to do when we feel this way. Are you ready for our adventure? Let's blast off into the world of feelings together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about what makes us feel sad. Maybe it's when a favorite toy breaks or when a friend can't come over to play. These things can make our hearts feel heavy, like a cloud covering the sun. But remember, just like clouds can move away, sadness can too. It's important to know that feeling sad is normal and everyone feels it sometimes."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "When we feel sad, there are some things we can do to feel better. One way is to take deep breaths. Let's try it together: breathe in slowly like you're smelling a beautiful flower, then breathe out like you're blowing out a candle. Doesn't that feel nice? Breathing helps us calm down and think clearly. You can do this anytime you start feeling those sad clouds coming."
+    },
+    {
+      "id": "scene_3",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Another great thing to do when you're sad is to talk about it. You can tell a grown-up, like your mom or dad, or even a teacher. Imagine you're a brave astronaut sharing your feelings with your space crew. Talking can make the sadness feel lighter. Let's pretend to talk to a friend right now and say, 'I feel a little sad today.' How does that feel?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we practiced taking deep breaths? Sometimes, drawing or coloring can help too. It's like painting the sky with bright colors when it's cloudy. You can draw a picture of something that makes you happy, like a rainbow or a spaceship. Art is a wonderful way to express how you feel without using words. Would you like to try drawing your feelings next time you're sad?"
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing great, little astronaut! Another way to chase away sadness is to move your body. Let's stand up and do a happy dance together. Wiggle your arms like a rocket ship getting ready to launch! Moving around can help change how we feel, like turning on a light switch in a dark room. Keep moving, and you might find that your sadness starts to fade away."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's talk about another way to feel better: thinking of happy memories. Remember a time when you felt really joyful, like when you had ice cream or played your favorite game. Close your eyes and picture that moment. Can you see it? Thinking of happy times can make the sad feelings shrink, like a balloon losing air. It's a great way to remind yourself that good times are always coming."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a happy memory right now? Maybe it's a birthday party or a day at the park. What makes you smile when you think about it? Sharing these memories with someone can make them even more special. Would you like to tell me about your happy memory? I can't wait to hear all about it!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Great job sharing your memory! Isn't it nice to remember happy times? Now, let's think about something else that can help: hugs. Hugs can feel like a warm blanket around your heart. If there's someone nearby, like a parent or a stuffed animal, give them a big hug. Hugs can make us feel safe and loved, even when we're feeling down."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's imagine we're on a big adventure in space. Even astronauts can feel sad when they're far away from home. They might miss their family or their favorite foods. But they know that the stars are always shining, even if they can't see them. Just like that, we can remember that happy feelings are always around the corner, waiting to be found."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well, my little star! Remember, it's okay to feel sad sometimes. It's just one of the many feelings we have, like being happy, excited, or curious. Each feeling is like a different color in a box of crayons. Together, they make the beautiful picture of who we are. You're colorful and special, just like a rainbow."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice one more thing that can help when we're sad: gratitude. Gratitude means thinking about what we're thankful for. Maybe it's your favorite toy, or the yummy breakfast you had. Let's count to three and say one thing we're thankful for. One, two, three! Did you think of something? Being grateful can help us see the bright side, even when it's cloudy."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember, little explorer, you're not alone in your feelings. We all feel sad sometimes, and it's okay to ask for help. Whether it's a hug, a talk, or just some quiet time, there are ways to feel better. You're brave and strong, and you can handle any feeling that comes your way. Let's keep exploring our feelings and learn more together."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our adventure today has been amazing, hasn't it? We've learned so much about feeling sad and how to chase those clouds away. Remember, I'm always here to explore with you whenever you need. Keep shining bright like a star, and remember that you're loved. Until next time, my little astronaut, keep reaching for the stars! Goodbye!"
+    }
+  ],
+  "title": "Mino's Feeling Sad Story"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "adventure_dora_pal_nutrición_alimentación_saludable_hábitos_story",
+  "character": "Adventure Dora Pal",
+  "topic": "nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Adventure Dora Pal, y hoy vamos a embarcarnos en una aventura increíble sobre la nutrición y los alimentos saludables. ¿Están listos para aprender y divertirnos juntos? Vamos a descubrir cómo los alimentos pueden ayudarnos a crecer fuertes y sanos. Estoy muy emocionada de explorar este mundo con ustedes. ¡Vamos a comenzar!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de lo que significa la nutrición. La nutrición es como darle a nuestro cuerpo el combustible que necesita para jugar y aprender. ¿Han visto cómo un coche necesita gasolina para funcionar? Pues nosotros necesitamos alimentos para tener energía. Comer sano es como darle a nuestro coche la mejor gasolina. ¡Así podremos correr, saltar y jugar todo el día!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Los alimentos saludables son muy importantes para nuestro cuerpo. Las frutas y verduras nos dan vitaminas y minerales que nos mantienen fuertes. ¿Alguna vez han probado una manzana crujiente o una zanahoria dulce? Estos alimentos nos ayudan a tener una piel brillante y a sentirnos bien. Comer bien es como darle a nuestro cuerpo un gran abrazo de salud."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Ahora, vamos a aprender sobre los hábitos alimentarios. Un hábito es algo que hacemos todos los días, como cepillarnos los dientes. Comer alimentos saludables todos los días es un buen hábito. ¿Quieren intentar comer más frutas y verduras esta semana? ¡Estoy segura de que pueden hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden que beber agua es también parte de una alimentación saludable. El agua nos mantiene hidratados y ayuda a que nuestro cuerpo funcione bien. ¿Cuántos vasos de agua creen que deberían beber al día? Beber agua es como darle a una planta el agua que necesita para crecer. ¡Nos hace sentir frescos y llenos de energía!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "¿Sabían que hay alimentos que nos dan mucha energía? Los cereales integrales, como el arroz y el pan integral, son muy buenos para darnos fuerza. Son como el pan que nos da poder para jugar todo el día. La próxima vez que coman, piensen en cómo estos alimentos les ayudan a ser más fuertes y rápidos."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Excelente trabajo, amigos! Ahora, hablemos de un arcoíris de alimentos. Comer alimentos de diferentes colores es bueno para nuestra salud. Cada color tiene diferentes nutrientes que nos ayudan de diferentes maneras. ¿Han visto un plato lleno de colores como el rojo de los tomates o el verde de las espinacas? ¡Intentemos comer un arcoíris todos los días!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Cuál es su fruta favorita? Me encanta saber qué les gusta comer. Las frutas son dulces y deliciosas, y nos dan vitaminas importantes. ¿Tal vez les gusta el jugo de naranja o una banana? ¡Cada fruta tiene su propio sabor especial!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en cómo podemos hacer que nuestras comidas sean divertidas. Podemos cortar las frutas en formas divertidas o hacer caritas con las verduras. Esto hace que comer sea una aventura. ¿Les gustaría probar a hacer una carita sonriente con rodajas de pepino y zanahorias? ¡Es una manera divertida de disfrutar de una comida saludable!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Es importante comer despacio y disfrutar cada bocado. Comer despacio nos ayuda a saber cuándo estamos llenos y a disfrutar más de los sabores. ¿Pueden intentar masticar bien y saborear la comida? Es como cuando escuchamos una canción bonita y queremos disfrutar cada nota. ¡Comer despacio es una gran manera de cuidar nuestro cuerpo!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo están haciendo muy bien! Recuerden también que compartir la comida con la familia y los amigos es especial. Comer juntos es un momento para hablar y reír. ¿Les gusta comer con su familia? Es una oportunidad para contar historias y aprender juntos. ¡Comer en compañía hace que la comida sepa aún mejor!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Han probado alguna vez una nueva comida y les ha gustado? A veces, probar cosas nuevas puede ser una gran aventura. ¿Qué tal si la próxima vez que coman prueban un alimento nuevo? ¡Nunca se sabe, puede que descubran su nuevo favorito!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Finalmente, recordemos que comer sano nos ayuda a sentirnos bien y felices. Cuando comemos bien, nuestro cuerpo tiene todo lo que necesita para jugar y aprender. Es como darle a nuestro día el mejor comienzo posible. ¿Están listos para seguir comiendo sano y divertido?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Gracias por acompañarme en esta aventura de nutrición y alimentación saludable. Estoy muy orgullosa de todo lo que han aprendido hoy. Recuerden siempre comer bien para sentirse felices y fuertes. ¡Espero verlos pronto en nuestra próxima aventura! Adiós, amiguitos, y ¡sigan explorando el mundo de los alimentos saludables!"
+    }
+  ],
+  "title": "Historia de Nutrition de Adventure Dora Pal"
+}

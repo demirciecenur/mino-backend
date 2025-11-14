@@ -1,0 +1,104 @@
+{
+  "id": "funny_bunny_régulation_émotionnelle_gestion_des_émotions_se_calmer_autorégulation_story",
+  "character": "Funny Bunny",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Salut, mon petit ami ! Je suis Funny Bunny, le lapin le plus amusant de la forêt. Aujourd'hui, nous allons découvrir comment gérer nos émotions. C'est comme une grande aventure où nous apprenons à rester calmes, même quand nous sommes très excités ou un peu tristes. Tu es prêt ? Je suis tellement curieux de savoir comment tu te sens aujourd'hui. Allons-y ensemble !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tu sais, parfois, on ressent des émotions très fortes, comme la colère ou la joie. C'est normal, tout le monde ressent ça, même les lapins comme moi ! Mais il est important de savoir comment les gérer pour se sentir mieux. Par exemple, quand je suis en colère, je prends trois grandes respirations. Ça m'aide à me calmer. Tu veux essayer avec moi ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, prenons une grande inspiration ensemble. Inspire par le nez... et souffle par la bouche. Encore une fois, inspire... et souffle. Une dernière fois, inspire... et souffle. Bravo ! Tu vois, c'est facile et ça aide à se calmer. Tu peux faire ça chaque fois que tu te sens un peu trop excité ou en colère."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super travail ! Tu as déjà commencé à apprendre comment te calmer tout seul. C'est comme être un super-héros des émotions ! Quand tu te sens triste, tu peux aussi essayer de penser à quelque chose qui te rend heureux, comme un câlin de maman ou jouer avec ton jouet préféré. Ça aide à retrouver le sourire."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, il est utile de parler de ses émotions à quelqu'un. Comme moi, je parle souvent à mon ami Carotte, et ça me fait du bien. Tu peux parler à un adulte ou à un ami de ce que tu ressens. Ils peuvent t'aider à comprendre pourquoi tu te sens comme ça. C'est important de ne pas garder tout ça pour toi."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Il existe aussi des jeux qui aident à se calmer. Jouons à un jeu de concentration. Regarde autour de toi et trouve cinq choses de la même couleur. Ça te permet de penser à autre chose et de te détendre. C'est amusant et ça marche à chaque fois ! Tu veux essayer maintenant ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, tu as trouvé les cinq choses ! Tu vois comme c'est amusant de se concentrer sur quelque chose de simple ? Cela te permet de te calmer et de mieux gérer tes émotions. Tu es un vrai champion de la régulation émotionnelle ! Continue comme ça, et tu verras que c'est de plus en plus facile."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dis-moi, as-tu déjà essayé de dessiner quand tu es triste ou en colère ? Dessiner est une excellente façon de montrer ce que tu ressens. Quel est ton dessin préféré à faire quand tu ressens une émotion forte ? N'oublie pas que tu peux toujours utiliser tes crayons pour exprimer tes émotions. C'est un moyen créatif et amusant !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tu sais, les émotions, c'est un peu comme des vagues à la plage. Parfois elles sont grandes, parfois elles sont petites, mais elles finissent toujours par disparaître. En apprenant à surfer sur ces vagues, tu deviens plus fort et plus calme. Tu es prêt à continuer à surfer avec moi ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons un autre exercice. Tout doucement, ferme les yeux et imagine un endroit où tu te sens heureux et en sécurité. Peut-être que c'est un jardin, ou bien ta chambre. Prends quelques instants pour y penser. Ça te permet de te sentir bien et de te calmer, même quand tu es stressé."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as fait un excellent travail en imaginant cet endroit spécial ! Tu vois comme c'est relaxant de penser à des choses positives ? Chaque fois que tu te sens un peu chamboulé, tu peux retourner dans cet endroit avec ton imagination. C'est comme un refuge magique que tu as toujours avec toi."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de la manière dont nous pouvons aider nos amis à se sentir mieux. Quand un ami est triste, tu peux lui offrir un câlin ou lui dire quelque chose de gentil. Cela peut vraiment illuminer sa journée. Tu connais peut-être un ami qui a besoin d'un sourire aujourd'hui ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu as plein d'idées pour rendre les autres heureux, c'est génial ! Tu es un vrai champion de la gentillesse. Et tu sais quoi ? Être gentil avec les autres te fait aussi te sentir bien. C'est comme une magie qui rend tout le monde heureux. Continue à partager cette magie autour de toi !"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Alors, qu'est-ce que tu as préféré dans notre aventure aujourd'hui ? Était-ce les exercices de respiration, ou peut-être le jeu de concentration ? J'aimerais beaucoup savoir ce qui t'a le plus aidé à te sentir calme et heureux. Tu veux bien me le dire ?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, petit ami. J'ai adoré notre aventure sur la régulation émotionnelle. Rappelle-toi que tu peux toujours revenir à ces exercices pour te sentir mieux. Je suis fier de toi et de tout ce que tu as appris. À bientôt pour une nouvelle aventure, et n'oublie pas de sourire !"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Funny Bunny"
+}

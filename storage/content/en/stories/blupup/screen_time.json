@@ -1,0 +1,104 @@
+{
+  "id": "blu_pup_screen_time_story",
+  "character": "Blu Pup",
+  "topic": "screen_time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Blu Pup, and today we're going to talk about something super fun and important—screen time! Are you excited to learn and play with me? We’ll discover how screen time can be a part of our day, just like playing outside and drawing pictures. By the end, you'll know all about balancing screen time with other fun activities. So, are you ready to start this adventure with me? Let’s jump in together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about what screen time is. It's when we watch TV, play games on a tablet, or use a phone. Screen time can be really fun, like when we watch our favorite cartoons or play learning games. But it's also important to make sure we do other things too, like playing with toys or running around outside. Do you have a favorite game that you like to play on a screen? It’s great to have favorites, but let’s see how we can enjoy everything!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember, screen time is just one part of our day. It's important to have a balance, like when you eat a little bit of everything on your plate. We can set a timer to help us know when it's time to put screens away and do something else. Maybe after watching a show, we can build a castle with blocks or draw a picture of what we just watched. What do you think about trying that next time?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great! You’re doing a wonderful job thinking about how to balance your day. Let’s imagine together: if we watch a show for 20 minutes, we can play outside for 20 minutes too. Balancing screen time with other activities makes our day more fun and healthy. Can you think of a fun game you like to play outside? Maybe tag or hide and seek? You’re doing awesome, keep it up!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let’s think about all the different ways we can have fun without screens. Playing with toys, reading a story, or even helping in the kitchen can be exciting. Imagine building a tower with blocks and trying to make it taller than you! Or how about pretending to be a chef and making a pretend meal? There are so many adventures waiting for us without screens. What’s one thing you’d like to try today?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about setting a timer for screen time? Let’s pretend we have a magical timer that helps us. When the timer rings, it’s time to switch to something else fun! Maybe we can pretend the timer is a friendly robot who reminds us to play outside. Isn’t it fun to imagine things like that? What would your timer robot look like?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Here’s a fun idea: let’s make a schedule for our day! We can draw pictures of what we want to do, like screen time, playing with toys, snack time, and more. This way, we can see all the fun things planned and look forward to each one. Drawing a schedule is like making a treasure map of our day. Would you like to try making one with me?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! Making a schedule is a great way to see all the fun things we can do. It’s like having a big adventure planned out. And remember, it’s okay if the plan changes a little. Sometimes we find new fun things to do, and that’s exciting too! Let’s keep exploring and having fun every day. You’re doing such a great job at balancing your time!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let’s talk about why it’s important to rest our eyes from screens. Just like when we take a break after running, our eyes need a break too. We can look out the window and find clouds shaped like animals, or count the birds we see. It’s relaxing and helps our eyes feel better. Have you ever found a cloud that looked like something funny? Let’s try finding one next time we take a break."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember the story we read about making new friends? Well, making time for play without screens can help us make new friends too! When we play outside or with toys, we can meet other kids and have fun together. It’s like when we share our toys and make up games. Isn’t it fun to have playmates? What’s your favorite game to play with friends?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I’m curious about you! What’s your favorite thing to do when you’re not using screens? Is it drawing, playing with toys, or maybe something else? I’d love to hear about all the fun things you like. Sharing our favorite activities is a great way to learn about each other. So, what’s something fun you did today?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let’s remember that screens can be a good tool for learning too. We can watch educational shows or play games that teach us new things. But it’s important to ask an adult which ones are best for us. They can help us pick shows and games that are fun and teach us new things. What’s something new you learned from a show or game recently? Isn’t it cool to learn while having fun?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing such an amazing job balancing your screen time! Remember, it’s all about having fun and learning in different ways. Every day is an adventure, and you’re the hero of your story. Keep exploring, playing, and learning. You can do it, and I’m so proud of you! Let’s keep having fun together every day."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Before we finish, I have one more question for you. What’s one new thing you’d like to try tomorrow? Maybe it’s a new game, a new storybook, or even a new way to play outside. It’s fun to think about all the possibilities! I’m excited to hear what you choose. Let’s keep thinking of new adventures every day."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It’s time to say goodbye for now, but I had so much fun talking with you about screen time. Remember, balancing screen time with other activities makes our days more exciting. I can’t wait to hear about all the fun things you’ll do. You’re amazing, and I’m so glad we could spend this time together. Until next time, keep smiling and exploring, my friend! Goodbye!"
+    }
+  ],
+  "title": "Blu Pup's Screen Time Story"
+}

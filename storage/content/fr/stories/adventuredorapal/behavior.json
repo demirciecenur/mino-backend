@@ -1,0 +1,98 @@
+{
+  "id": "adventure_dora_pal_behavior_story",
+  "character": "Adventure Dora Pal",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis ! Je suis Adventure Dora Pal. Aujourd'hui, nous allons explorer le monde merveilleux du bon comportement. Êtes-vous prêts pour une aventure amusante ? Je suis tellement curieuse de découvrir comment vous vous comportez chaque jour. Commençons ensemble cette belle aventure !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le comportement, c'est comment nous agissons avec les autres et notre environnement. Par exemple, dire 's'il vous plaît' et 'merci' montre que nous sommes polis. Quand nous partageons nos jouets, nous montrons que nous sommes gentils et attentionnés. Comprendre le bon comportement nous aide à être de bons amis. N'est-ce pas merveilleux de rendre les autres heureux ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour bien se comporter, il est important d'écouter les règles. Les règles nous aident à être en sécurité et à nous amuser ensemble. Par exemple, à l'école, rester assis pendant la classe aide tout le monde à apprendre. À la maison, ranger ses jouets après avoir joué garde la maison propre et agréable. Suivre les règles, c'est aussi respecter les autres."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous pouvez faire de grands progrès en pratiquant le bon comportement chaque jour. Essayons ensemble ! Quand vous voyez un ami triste, un câlin ou un sourire peut illuminer sa journée. Et si vous êtes en colère, prendre trois grandes respirations peut vous aider à vous calmer. Cela vous semble-t-il amusant à essayer ?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de la patience. La patience, c'est attendre son tour, comme attendre dans une file d'attente. Imaginez que vous attendez dans un parc pour jouer sur le toboggan. C'est génial de voir tout le monde s'amuser, et votre tour viendra bientôt. La patience nous enseigne à être respectueux et à apprécier le moment présent. C'est une qualité précieuse !"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Il est aussi important de dire la vérité. Être honnête montre que nous sommes dignes de confiance. Parfois, dire la vérité peut être difficile, surtout si nous avons fait une erreur. Mais les erreurs font partie de l'apprentissage, et dire la vérité aide à corriger ces erreurs. Rappelez-vous, être honnête rend votre cœur heureux et léger."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes tous incroyables pour apprendre à bien vous comporter ! Continuons à pratiquer. Lorsque vous aidez à mettre la table ou à ranger, vous montrez de la responsabilité. C'est une excellente façon de montrer que vous êtes un membre formidable de votre famille. Bravo pour tout le travail que vous faites !"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de la gentillesse. Être gentil, c'est faire des choses pour aider les autres sans attendre en retour. Par exemple, offrir un sourire ou un compliment peut rendre quelqu'un très heureux. La gentillesse crée un cercle de bonheur autour de nous. Et vous, comment aimez-vous montrer de la gentillesse ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà aidé un ami ou un membre de votre famille aujourd'hui ? Peut-être avez-vous partagé un jouet ou aidé à préparer le dîner ? C'est tellement important de réfléchir à toutes les façons dont nous pouvons être utiles. Quelle est votre façon préférée d'aider les autres ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de l'écoute. Écouter, c'est prêter attention quand quelqu'un parle. Quand nous écoutons bien, nous apprenons de nouvelles choses et montrons que nous respectons les autres. Essayez de regarder la personne qui parle et de penser à ce qu'elle dit. Êtes-vous prêts à écouter attentivement ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous pouvez devenir de super écouteurs ! La prochaine fois que quelqu'un vous parle, essayez de rester calme et de regarder dans ses yeux. Vous verrez comme ça rend la conversation plus agréable. Et n'oubliez pas de poser des questions si vous ne comprenez pas quelque chose. Vous êtes déjà sur la bonne voie !"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les comportements positifs nous aident à grandir et à devenir de bonnes personnes. Chaque petit geste compte, comme aider à arroser les plantes ou dire 'bonjour' à un voisin. Ces actions montrent notre gentillesse et notre respect. Chaque jour est une nouvelle chance de montrer notre bon comportement. Êtes-vous prêts à continuer à apprendre et à grandir ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Je suis si fière de vous pour tout ce que vous avez appris aujourd'hui ! Vous avez découvert comment être gentil, patient, honnête, et un bon auditeur. Chaque jour est une nouvelle aventure pour montrer votre bon comportement. Continuez à explorer et à pratiquer tout ce que vous avez appris. Vous êtes vraiment incroyables !"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était une aventure fantastique, mes petits amis ! Merci d'avoir exploré le monde du bon comportement avec moi. N'oubliez pas que chaque jour est une nouvelle opportunité pour être un excellent ami et élève. J'ai hâte de vous retrouver pour une nouvelle aventure. À bientôt et continuez à briller ! Au revoir !"
+    }
+  ],
+  "title": "Histoire de Behavior de Adventure Dora Pal"
+}

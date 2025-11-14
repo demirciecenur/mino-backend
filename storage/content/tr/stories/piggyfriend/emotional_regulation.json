@@ -1,0 +1,98 @@
+{
+  "id": "piggy_friend_emotional_regulation_story",
+  "character": "Piggy Friend",
+  "topic": "emotional_regulation",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Piggy Friend. Bugün birlikte duygularımızı nasıl daha iyi anlayabileceğimizi ve yönetebileceğimizi keşfedeceğiz. Duygularımız bazen bizi şaşırtabilir, değil mi? Ama endişelenme, çünkü birlikte bu duygularla nasıl başa çıkabileceğimizi öğreneceğiz. Hazır mısın? O zaman başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımız, içimizdeki küçük mesajlar gibidir. Bazen mutlu, bazen üzgün, bazen de kızgın hissedebiliriz. Örneğin, en sevdiğimiz oyuncağımızı kaybettiğimizde üzgün hissedebiliriz. Ama biliyor musun, bu duyguların hepsi çok normal! Duygularımızı anlamak ve onlarla başa çıkmak, büyümemize yardımcı olur."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi duygularımızı tanımak için bir oyun oynayalım. Gözlerini kapat ve derin bir nefes al. Şimdi hangi duyguyu hissettiğini düşün. Mutlu musun, yoksa biraz üzgün mü? Hissettiğin duyguyu düşünmek, onu anlamana ve kontrol etmene yardımcı olur. Hadi, birlikte birkaç derin nefes daha alalım."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Duygularını tanımak ve onlarla başa çıkmak için harika bir başlangıç yaptın. Şimdi, duygularımızı nasıl ifade edeceğimizi öğrenelim. Üzgün olduğunda, bunu birine söylemek iyi hissettirebilir. Oyun oynamak ya da resim yapmak gibi şeyler de duygularımızı ifade etmemize yardımcı olabilir."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda duygularımızı ifade etmenin öneminden bahsettik. Şimdi, duygularımızı kontrol etmenin yollarını keşfedelim. Bazen sinirli olduğumuzda derin nefes almak veya 10'a kadar saymak iyi gelebilir. Bu, sakinleşmemize ve daha iyi hissetmemize yardımcı olur. Hadi, birlikte 10'a kadar sayalım."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Duygularımızı kontrol etmek için başka bir yöntem de dikkat dağıtıcı şeyler bulmaktır. Mesela, sinirli olduğumuzda en sevdiğimiz kitabı okumak veya dans etmek bizi rahatlatabilir. Şimdi, en sevdiğin şarkıyı hatırla ve biraz dans et! Dans etmek, vücudumuzu hareket ettirerek duygularımızı serbest bırakmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Birlikte dans etmek çok eğlenceliydi, değil mi? Şimdi, duygularımızı anlamanın ve kontrol etmenin bir başka yolunu keşfedelim. Bu, başkalarıyla konuşmak ve duygularımızı paylaşmak. Ailene veya arkadaşına nasıl hissettiğini söylemek, kendini daha iyi hissetmene yardımcı olabilir. Sen de duygularını paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, şimdi sana bir soru sormak istiyorum. Üzgün olduğunda ne yaparsın? Belki bir hikaye kitabı okumak ya da en sevdiğin oyuncakla oynamak iyi gelebilir. Cevabını duymak için sabırsızlanıyorum. Hadi, düşün ve bana söyle!"
+    },
+    {
+      "id": "scene_8",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Harika bir cevap verdin! Üzgün olduğunda kendine iyi gelecek şeyler yapmak çok önemli. Şimdi, başka bir duyguya odaklanalım: mutluluk. Mutlu olduğunda, etrafındaki insanlara nasıl davranırsın? Belki gülümsersin ya da sevdiklerinle oyun oynarsın. Mutluluğu paylaşmak, onu daha da büyütür."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Mutluluğu paylaşmak harika bir şey! Şimdi, bir sonraki adımımızda, duygularımızı daha iyi anlamak için bir hikaye zamanı. Bir gün, Piggy Friend çok heyecanlıydı çünkü parka gitmek üzereydi. Ama hava aniden yağmurlu oldu ve Piggy Friend üzgün hissetti. Ama sonra, annesiyle birlikte içerde oyun oynadı ve yeniden mutlu oldu."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Piggy Friend'in hikayesi bize duyguların nasıl hızlı değişebileceğini gösteriyor. Bazen bir durum bizi üzebilir ama sonrasında başka bir şey bizi mutlu edebilir. Bu yüzden, duygularımızı tanımak ve anlamak çok önemlidir. Böylece, onları daha iyi yönetebiliriz. Sen de Piggy Friend gibi farklı duygular hissettin mi?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, duygularımızı nasıl daha iyi anlayabileceğimizi tekrar gözden geçirelim. İlk olarak, duygularımızı tanımayı öğrendik. Sonra, onları nasıl ifade edeceğimizi ve kontrol edeceğimizi keşfettik. Son olarak, duygularımızı paylaşmanın önemini öğrendik. Bu adımlar, duygusal düzenlememizi geliştirmemize yardımcı olur."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir yolculuk yaptık! Duygularımızı anlamak ve yönetmek, kendimizi daha iyi hissetmemize yardımcı olur. Unutma, duygularını paylaşmak ve onları kontrol etmek için her zaman bir yol bulabilirsin. Seninle bu yolculuğu yapmak çok keyifliydi! Sen de kendinle gurur duyabilirsin!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün duygularımızı nasıl daha iyi anlayabileceğimizi ve yönetebileceğimizi öğrendik. Seninle bu konuyu konuşmak çok güzeldi. Unutma, her zaman duygularını paylaşabilir ve onları kontrol edebilirsin. Bir dahaki sefere görüşmek üzere, küçük dostum! Hoşça kal ve kendine iyi bak!"
+    }
+  ],
+  "title": "Piggy Friend'ın Emotional Regulation Hikayesi"
+}

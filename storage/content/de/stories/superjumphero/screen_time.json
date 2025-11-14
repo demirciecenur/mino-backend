@@ -1,0 +1,104 @@
+{
+  "id": "super_jump_hero_Bildschirmzeit_digitale_Sicherheit_Technologienutzung_gesunde_Bildschirmgewohnheiten_story",
+  "character": "Super Jump Hero",
+  "topic": "Bildschirmzeit, digitale Sicherheit, Technologienutzung, gesunde Bildschirmgewohnheiten",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Super Jump Hero, und heute gehen wir auf eine spannende Reise über Bildschirmzeit und digitale Sicherheit. Weißt du, wie wichtig es ist, die richtige Zeit vor dem Bildschirm zu verbringen? Wir werden zusammen lernen, wie man sicher und gesund mit Technologie umgeht. Bist du bereit? Ich bin so neugierig auf all die Abenteuer, die wir erleben werden!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns über Bildschirmzeit sprechen! Weißt du, was das ist? Es ist die Zeit, die wir vor einem Bildschirm verbringen, wie beim Fernsehen oder Spielen auf einem Tablet. Zu viel Bildschirmzeit kann uns müde machen, aber wenn wir sie richtig nutzen, kann sie auch Spaß machen und lehrreich sein. Zum Beispiel, wir können neue Dinge lernen oder spannende Geschichten erleben. Es ist wichtig, eine gute Balance zu finden, damit wir nicht zu lange vor dem Bildschirm sitzen."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt, lass uns über digitale Sicherheit sprechen. Das bedeutet, wie wir uns im Internet sicher bewegen. Weißt du, dass es wichtig ist, nicht zu viel über sich selbst online zu erzählen? Das schützt uns davor, dass Fremde Dinge über uns erfahren, die sie nicht wissen sollten. Ein gutes Beispiel ist, keine Adresse oder Telefonnummer online zu teilen. Wenn du dir unsicher bist, kannst du immer einen Erwachsenen fragen."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du machst das super! Erinnerst du dich, wie wir über gesunde Bildschirmgewohnheiten gesprochen haben? Wir können eine Uhr benutzen, um die Zeit zu messen, die wir vor dem Bildschirm verbringen. Zum Beispiel, nach 30 Minuten können wir eine Pause machen und etwas anderes spielen. So bleiben unsere Augen ausgeruht und unser Körper fit. Lass uns das gemeinsam ausprobieren!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir wissen, wie wichtig Pausen sind, können wir auch darüber sprechen, was wir in diesen Pausen machen können. Vielleicht können wir draußen spielen, ein Buch lesen oder ein Bild malen. Diese Aktivitäten helfen uns, kreativ zu sein und Spaß zu haben, ohne auf einen Bildschirm zu schauen. Was ist dein Lieblingsspiel, wenn du nicht am Bildschirm bist? Lass uns das herausfinden!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt überlegen, wie wir Technologie sicher nutzen können. Es ist wichtig, starke Passwörter zu haben, die schwer zu erraten sind. Ein gutes Passwort hat Buchstaben, Zahlen und Symbole. Und weißt du was? Wir sollten es niemandem verraten, außer einem Erwachsenen, dem wir vertrauen. So bleiben unsere Daten sicher und geschützt."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar! Du lernst so schnell! Jetzt, da wir über Passwörter gesprochen haben, lass uns über Apps und Spiele reden. Es ist wichtig, nur Apps zu nutzen, die für unser Alter geeignet sind. Ein Erwachsener kann uns dabei helfen, die richtigen Spiele auszuwählen. So können wir sicherstellen, dass wir Spaß haben und gleichzeitig sicher bleiben."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über das Teilen von Informationen gesprochen haben? Es ist auch wichtig, vorsichtig zu sein, welche Fotos wir online teilen. Wir sollten nur Bilder teilen, die wir mit einem Erwachsenen besprochen haben. So können wir sicherstellen, dass wir nichts teilen, was wir später vielleicht bereuen könnten. Sicherheit geht vor, und das bedeutet, dass wir immer gut nachdenken, bevor wir etwas online stellen."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, wo wir über all diese wichtigen Dinge gesprochen haben, wie fühlst du dich dabei? Weißt du, was du tun kannst, um sicher zu bleiben? Es ist okay, Fragen zu stellen, wenn du dir unsicher bist. Erwachsene sind da, um zu helfen und sicherzustellen, dass wir sicher und glücklich bleiben. Also, wenn du eine Frage hast, zögere nicht, sie zu stellen!"
+    },
+    {
+      "id": "question_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal ein Passwort erstellt? Weißt du, warum es wichtig ist, ein starkes Passwort zu haben? Es hilft, unsere Informationen sicher zu halten. Was denkst du, macht ein Passwort stark? Vielleicht kannst du mit einem Erwachsenen zusammen ein neues, sicheres Passwort erstellen. Das kann ein lustiges Abenteuer sein!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns über Bildschirmpausen sprechen. Weißt du, dass Pausen auch gut für unseren Körper sind? Wenn wir aufstehen und uns bewegen, fühlen wir uns besser und bleiben gesund. Vielleicht können wir zusammen bis fünf zählen und dann eine kleine Dehnübung machen. Eins, zwei, drei, vier, fünf! Toll gemacht! Siehst du, wie einfach das war?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt, lass uns über die Vorteile von Technologie sprechen. Technologie kann uns helfen, neue Dinge zu lernen und mit Freunden zu sprechen, die weit weg wohnen. Aber wir müssen sicherstellen, dass wir sie auf die richtige Weise nutzen. Zum Beispiel, wenn wir ein Lernspiel spielen, können wir neue Wörter lernen oder Mathe üben. So können wir klug und sicher bleiben!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Denk daran, dass es wichtig ist, eine gute Balance zu finden. Ein bisschen Bildschirmzeit ist okay, aber zu viel kann uns müde machen. Wenn wir uns an gesunde Bildschirmgewohnheiten halten, können wir Spaß haben und gleichzeitig gesund bleiben. Du kannst es schaffen, ich glaube an dich!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Zum Schluss, lass uns noch einmal über all die tollen Dinge sprechen, die wir gelernt haben. Wir wissen jetzt, wie wichtig Pausen sind, wie wir sicher im Internet sind und wie wir Technologie auf eine gute Weise nutzen können. Diese Dinge helfen uns, sicher und glücklich zu bleiben. Erinnerst du dich an etwas, das du heute gelernt hast? Lass uns darüber reden!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so toll, mit dir zu lernen und zu spielen! Ich bin so stolz auf dich und all die Dinge, die du heute gelernt hast. Jetzt bist du bereit, deine Bildschirmzeit sicher und gesund zu gestalten. Danke, dass du mit mir auf dieses Abenteuer gegangen bist. Bis zum nächsten Mal, kleiner Held! Tschüss und bleib sicher!"
+    }
+  ],
+  "title": "Super Jump Heros Screen Time Geschichte"
+}

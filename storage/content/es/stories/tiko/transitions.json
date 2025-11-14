@@ -1,0 +1,104 @@
+{
+  "id": "tiko_transitions_story",
+  "character": "Tiko",
+  "topic": "transitions",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Tiko, y hoy vamos a explorar el mundo de las transiciones. ¿Sabías que una transición es como un cambio de una cosa a otra? ¡Es como cuando dejamos de jugar para ir a cenar! ¡Qué emocionante! Estoy muy emocionado de compartir esta aventura contigo. ¿Estás listo para descubrir más sobre los cambios y cómo nos ayudan a crecer?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Las transiciones son como pequeños viajes que hacemos todos los días. Por ejemplo, cuando te despiertas por la mañana y te preparas para ir a la escuela. O cuando terminas de jugar y es hora de guardar tus juguetes. Estos cambios nos ayudan a prepararnos para lo que viene después. ¡Es como una sorpresa cada vez! ¿Te gustan las sorpresas? A mí me encantan porque siempre hay algo nuevo que aprender."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, pensemos en una transición que todos conocemos: ¡el momento de dormir! Primero, nos cepillamos los dientes, luego leemos un cuento, y finalmente nos acurrucamos en la cama. Cada paso nos prepara para el siguiente. ¡Es como una pequeña aventura antes de cerrar los ojos! Y cuando despertamos, estamos listos para un nuevo día. ¿No es increíble cómo las transiciones nos ayudan a sentirnos seguros y preparados?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Hagamos un ejercicio juntos! Imagina que estás en el parque jugando con tus amigos. Ahora, es hora de ir a casa. Primero, decimos adiós a los amigos, luego recogemos nuestras cosas, y finalmente caminamos hacia el auto. ¡Lo hiciste genial! Transiciones como esta nos enseñan a ser organizados. ¡Y tú lo haces maravillosamente! ¿No te sientes orgulloso cuando logras un cambio tan bien?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablamos de cepillarnos los dientes antes de dormir. Es importante porque nos prepara para el descanso. Ahora, piensa en la transición de la escuela a casa. Dejas la mochila, cambias de ropa, y te preparas para jugar o hacer la tarea. Cada paso es un cambio que te ayuda a relajarte después de un día de aprendizaje. ¡Las transiciones son como pequeños ayudantes que nos guían!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a pensar en otra transición divertida: ¡las estaciones del año! En primavera, las flores comienzan a crecer. Luego llega el verano, con sol y días largos para jugar. Después el otoño, donde las hojas caen, y finalmente el invierno, con su frío y nieve. Cada estación tiene su propio encanto y nos enseña algo diferente. ¿Ves cómo las transiciones pueden ser mágicas?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Ahora, imagina que estás pintando un dibujo. Cambias de color de vez en cuando, ¿verdad? Eso también es una transición. Cada color nuevo añade algo especial a tu obra de arte. Así como en la vida, cada cambio nos trae nuevas experiencias y aprendizajes. ¡Eres un verdadero artista de las transiciones!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablemos de cómo nos sentimos con las transiciones. A veces, los cambios pueden ser un poco difíciles, como cuando empezamos en una nueva escuela. Pero, ¿sabes qué? Es normal sentirnos así. Con el tiempo, nos acostumbramos y hacemos nuevos amigos. ¡Las transiciones nos enseñan a ser valientes y a adaptarnos a nuevas situaciones! ¿No es eso algo maravilloso?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez has sentido nervios antes de un cambio? ¿Cómo te sentiste cuando te mudaste a una nueva casa o conociste a un nuevo amigo? Es importante hablar de esos sentimientos. A veces, compartirlos con mamá o papá puede ayudarnos a sentirnos mejor. ¿Te gustaría intentar hablar sobre tus sentimientos la próxima vez que experimentes una transición?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Cuando pasamos de una actividad a otra, como de jugar a cenar, es importante hacerlo con calma. Podemos tomar tres respiraciones profundas para sentirnos tranquilos. Así, nos preparamos mejor para el siguiente paso. ¿Quieres intentarlo conmigo? Respiremos juntos: uno, dos, tres. ¡Qué bien lo hiciste! Ahora estamos listos para cualquier transición que venga."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres un experto en transiciones! Cada vez que enfrentas un cambio, te vuelves más fuerte y valiente. Recuerda, los cambios son oportunidades para crecer y aprender cosas nuevas. Siempre habrá nuevas aventuras esperándote. ¡Y estoy seguro de que las enfrentarás con una gran sonrisa! ¿Listo para la próxima aventura?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Pensemos en los cambios que ocurren cuando aprendemos algo nuevo, como montar en bicicleta. Al principio puede ser difícil, pero con práctica, ¡llegamos a ser expertos! Cada pedaleo es una pequeña transición hacia la confianza. Así es como las transiciones nos ayudan a mejorar en todo lo que hacemos. ¡Y tú puedes lograrlo también!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a imaginar una transición mágica: convertirnos en superhéroes. Primero, nos ponemos nuestra capa, luego pensamos en nuestro superpoder, y finalmente, ¡estamos listos para salvar el día! Cada paso es importante para nuestra misión. Las transiciones nos preparan para ser lo mejor que podemos ser, ¡como superhéroes en acción!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Cuál es tu transición favorita? ¿Es cuando te preparas para ir al parque o cuando te sientas a escuchar un cuento? Cada uno tiene su momento especial. ¿Te gustaría contarme sobre una transición que te hace feliz? Me encantaría escucharlo, porque cada historia es única y especial, ¡igual que tú!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "¡Qué aventura tan increíble hemos tenido hoy! Aprendimos sobre las transiciones y cómo nos ayudan a crecer. Recuerda que cada cambio es una oportunidad para aprender algo nuevo. Estoy muy orgulloso de ti y de todo lo que has aprendido. ¡Gracias por acompañarme en esta aventura! Espero verte pronto para más exploraciones. ¡Adiós, amiguito!"
+    }
+  ],
+  "title": "Historia de Transitions de Tiko"
+}

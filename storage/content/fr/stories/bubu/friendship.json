@@ -1,0 +1,98 @@
+{
+  "id": "bubu_friendship_story",
+  "character": "Bubu",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour petit ami! Je suis Bubu, et aujourd'hui nous allons découvrir le merveilleux monde de l'amitié. L'amitié, c'est comme un joli jardin où l'on sème des graines de gentillesse et de rires. Es-tu prêt pour cette aventure? Je suis tellement curieux d'en savoir plus sur toi et tes amis. Ensemble, nous allons apprendre comment être un bon ami. C'est parti!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié commence souvent par un simple bonjour. Quand tu vois un nouvel ami, tu peux dire 'Salut!' avec un grand sourire. Cela montre que tu es content de le voir. Un sourire, c'est comme un rayon de soleil qui réchauffe le cœur. As-tu déjà essayé de sourire à quelqu'un pour lui faire plaisir? C'est magique!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de jouer ensemble. Quand tu joues avec un ami, il est important de partager les jouets. Par exemple, si tu as un camion et ton ami a une poupée, vous pouvez échanger pour essayer quelque chose de nouveau. Partager, c'est comme ouvrir une porte vers un monde de nouvelles possibilités. Cela rend le jeu encore plus amusant!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu sais, être un bon ami signifie aussi écouter. Quand ton ami parle, tu peux l'écouter attentivement et hocher la tête. Cela montre que tu t'intéresses à ce qu'il dit. Écouter, c'est comme tendre une oreille attentive et un cœur ouvert. Pense à un moment où tu as écouté quelqu'un avec attention. C'était super, n'est-ce pas?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, réfléchissons à l'entraide. Si ton ami a besoin d'aide pour monter sur la balançoire, tu peux lui donner un petit coup de main. C'est comme être un super-héros pour quelqu'un! Aider les autres, c'est un vrai geste d'amitié. Cela rend tout le monde heureux, et toi aussi. As-tu déjà aidé un ami aujourd'hui?"
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, il peut y avoir des disputes entre amis. C'est normal! Ce qui compte, c'est de se pardonner et de se réconcilier. Dire 'Je suis désolé' ou 'Excuse-moi' peut réparer beaucoup de choses. C'est comme recoller les morceaux d'un puzzle pour qu'il soit parfait à nouveau. As-tu déjà fait la paix avec un ami après une dispute?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pense à un moment où tu as partagé quelque chose avec un ami. Peut-être un jouet ou même un biscuit. Partager, c'est comme donner un petit morceau de bonheur. Cela montre que tu penses aux autres et que tu veux qu'ils soient heureux aussi. Partager, c'est un cadeau qui ne s'épuise jamais. Veux-tu essayer de partager quelque chose aujourd'hui?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "N'oublie pas, chaque ami est unique. Certains aiment courir, d'autres préfèrent dessiner. Respecter les différences, c'est aussi une partie de l'amitié. C'est comme un arc-en-ciel avec toutes ses couleurs. Chaque couleur est belle à sa manière. Alors, embrassons les différences et faisons-en une force!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu un meilleur ami? Qu'est-ce que tu aimes faire avec lui? Peut-être que vous jouez à cache-cache ou que vous lisez des histoires ensemble. Partager des moments spéciaux avec un ami, c'est comme créer des souvenirs qui resteront pour toujours. Raconte-moi un de tes souvenirs préférés avec ton ami."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les amis peuvent aussi nous apprendre beaucoup de choses. Par exemple, ton ami peut t'apprendre à faire du vélo ou à dessiner un chat. Apprendre ensemble, c'est grandir ensemble. C'est comme planter une graine qui deviendra un arbre solide. Peux-tu penser à quelque chose que tu aimerais apprendre avec un ami?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, jouer seul peut être amusant, mais jouer avec des amis peut être encore mieux! Quand tu joues avec des amis, tu peux inventer des jeux et des histoires ensemble. C'est comme créer un monde imaginaire où tout est possible. Jouer ensemble, c'est partager des rires et des sourires. Veux-tu essayer d'inventer un jeu avec un ami aujourd'hui?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelle-toi, l'amitié, c'est aussi être là dans les moments tristes. Si un ami est triste, tu peux lui tenir la main ou lui faire un câlin. Cela montre que tu es là pour lui. C'est comme être un petit rayon de soleil dans une journée nuageuse. As-tu déjà réconforté un ami qui était triste?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de dire merci. Quand un ami fait quelque chose de gentil, dire merci fait chaud au cœur. C'est comme offrir un sourire en retour. Dire merci, c'est montrer de la gratitude. Peux-tu penser à une fois où tu as dit merci à un ami? C'est un petit mot qui rend le monde meilleur."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Voilà, nous avons découvert ensemble le monde merveilleux de l'amitié. J'espère que tu as appris beaucoup de choses et que tu es prêt à être un super ami. N'oublie pas, l'amitié, c'est partager, écouter, aider, et surtout aimer. Merci d'avoir passé ce moment avec moi, Bubu. Au revoir, petit ami, et à bientôt pour de nouvelles aventures!"
+    }
+  ],
+  "title": "Histoire de Friendship de Bubu"
+}

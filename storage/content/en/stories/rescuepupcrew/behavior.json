@@ -1,0 +1,104 @@
+{
+  "id": "rescue_pup_crew_behavior_story",
+  "character": "Rescue Pup Crew",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friends! I'm part of the Rescue Pup Crew, and today we're going on an exciting adventure all about good behavior. Are you ready to learn and have some fun? Great! We're going to talk about how we can all be heroes by showing good behavior, like being kind, following rules, and helping others. It's going to be so much fun, and I can't wait to start this journey with you!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about what good behavior means. Good behavior is when we do things that make everyone feel happy and safe. For example, sharing toys with friends is a wonderful way to show kindness. It makes playtime fun for everyone. Following rules, like not running indoors, helps keep us and others safe. When we all behave well, it makes our world a better place to be!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about sharing toys? Let's think about why it's so important. When we share, we're showing that we care about others' feelings. It also means everyone gets a turn to enjoy the fun. Imagine if everyone kept all the toys to themselves. That wouldn't be as fun, right? So, sharing is a big part of being a good friend and having a great time together."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Now let's try something fun together! Imagine you have a toy car and a friend wants to play with it too. What could you do? That's right! You can take turns or play with it together. Wonderful! Taking turns is a great way to show good behavior. It shows you're thinking about your friend, and it makes playing so much more fun for both of you."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue by talking about following rules. Rules are like little helpers that keep us safe and happy. For example, when we wait for our turn to speak, everyone gets a chance to be listened to. And when we walk instead of run indoors, we help prevent accidents. Following rules shows that we respect each other and care about everyone's safety."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember the rule about not running indoors? Let's think about why that's important. Running inside can be dangerous because we might bump into things or people. Walking helps us stay safe and keeps others safe too. It's a simple rule, but it makes a big difference. So, next time you feel like running, remember this rule and choose to walk instead."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing amazing learning about good behavior! Now let's talk about helping others. Helping can be as simple as holding the door open for someone or picking up something that fell. It shows kindness and makes others feel happy. When we help, we become heroes in our own special way. So, next time you see someone who needs help, remember, you can be their hero!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about being polite. Saying 'please' and 'thank you' are magic words that make everyone feel good. When we use these words, it shows respect and appreciation for others. It's a small action that has a big impact. Next time you ask for something, remember to say 'please,' and when you receive it, don't forget to say 'thank you.' These words can make someone's day brighter!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about being polite? Let's practice together! If you want a snack, you can say, 'May I have a snack, please?' And when you get it, say, 'Thank you!' Let's try that together. Great job! Using polite words helps us communicate kindly and shows that we care about others' feelings."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Now, let's think about how we can show good behavior every day. It's like being a superhero! We can be polite, share, and follow rules at home, at school, or even at the playground. Every time you do these things, you're making the world a better place. Remember, even small acts of good behavior can make a big difference. You are a hero in your own special way!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's talk about listening. Listening is a very important part of good behavior. When we listen, we learn new things and show others that we care about what they have to say. For example, when a teacher is talking, we listen carefully to understand and learn. Listening helps us make friends and solve problems. It's an amazing skill to practice every day!"
+    },
+    {
+      "id": "question_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you listened really well? Maybe it was when someone was telling a story, or when you were learning something new. How did it feel to listen carefully? Listening can be fun, and it shows respect for others. It's like opening a door to new adventures and ideas. Would you like to try practicing listening more often?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Listening is so important, isn't it? Now, let's think about how we can practice it. We can start by focusing on the person speaking and keeping our eyes on them. Sometimes it's helpful to nod and smile to show we're paying attention. These small actions can make a big difference in how well we listen and understand. Let's try being great listeners today!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's wrap up our adventure about good behavior. We've learned so much about being kind, sharing, following rules, helping others, being polite, and listening. All these things help us be the best we can be. Remember, practicing good behavior is like planting seeds of happiness and kindness everywhere we go. You are amazing, and I'm so proud of you!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining the Rescue Pup Crew on this fun adventure today! Remember, every time you show good behavior, you're being a hero. Keep practicing what we've learned, and you'll make the world a happier place. I'm so glad we got to spend this time together. Until next time, keep being awesome and remember, you can make a difference every day. Goodbye for now, little heroes!"
+    }
+  ],
+  "title": "Rescue Pup Crew's Behavior Story"
+}

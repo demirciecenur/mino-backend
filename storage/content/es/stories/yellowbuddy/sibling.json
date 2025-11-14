@@ -1,0 +1,104 @@
+{
+  "id": "yellow buddy_sibling_story",
+  "character": "Yellow Buddy",
+  "topic": "sibling",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguito! Soy Yellow Buddy y hoy vamos a hablar sobre algo muy especial: los hermanos. ¿Tienes un hermano o hermana? ¡Qué divertido! Los hermanos son como amigos que siempre están contigo. Vamos a explorar cómo es jugar y compartir con ellos. ¡Prepárate para una aventura llena de risas y amor!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de lo divertido que es jugar con tu hermano. Cuando juegas con él, puedes inventar juegos nuevos y compartir tus juguetes. ¿Sabías que jugar juntos fortalece su amistad? Es como cuando construyen una torre de bloques juntos, cada pieza que ponen es un recuerdo divertido. ¿Y sabes qué es lo mejor? ¡Siempre hay alguien con quien jugar!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Compartir es una parte importante de tener un hermano. Cuando compartes tus juguetes, aprendes a ser generoso. Es como cuando compartes un delicioso pastel, ambos están felices y satisfechos. ¿Quieres intentar compartir algo hoy? Tal vez puedas prestar tu juguete favorito por un ratito. ¡Verás qué bien se siente!"
+    },
+    {
+      "id": "scene_3",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden cuando hablamos de compartir, también es importante cuidar lo que compartimos. Imagina que tienes un juguete especial y lo prestas a tu hermano. Si lo cuida bien, ambos pueden disfrutarlo por mucho tiempo. Es como tener un tesoro compartido. ¿No es maravilloso poder confiar en tu hermano así?"
+    },
+    {
+      "id": "scene_4",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora, hablemos de resolver problemas juntos. A veces, pueden tener pequeñas discusiones. Eso es normal. Lo importante es encontrar una solución juntos. Es como armar un rompecabezas, cada pieza es una idea para resolverlo. ¡Siempre puedes encontrar una forma de hacer las paces!"
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Los hermanos también se cuidan mutuamente. Es como ser los guardianes de un castillo. Si uno necesita ayuda, el otro está allí para ofrecer su mano. ¿Alguna vez has ayudado a tu hermano cuando lo necesitaba? Tal vez cuando se cayó o no podía alcanzar algo. ¡Es un gran sentimiento saber que puedes contar con él!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a intentar algo juntos. Cierra los ojos y respira profundamente. Imagina que estás abrazando a tu hermano. Siente el amor y la alegría de tenerlo cerca. Ahora, abre los ojos y sonríe. ¡Qué bien se siente, verdad? Puedes hacer esto cada vez que quieras sentirte más cerca de él."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos que también es importante tener tiempo para uno mismo. Aunque es genial estar con tu hermano, a veces necesitas un momento solo. Puedes leer un libro o dibujar. Es como cargar tus baterías para luego jugar más. Así, cuando vuelvas a estar con él, estarás lleno de energía y listo para nuevas aventuras."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme sobre algo divertido que hiciste con tu hermano? Tal vez un juego especial o una aventura en el parque. ¡Me encantaría escucharlo! Compartir historias fortalece el amor entre hermanos. ¿Qué tal si piensas en tu historia favorita para contarle a alguien más?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¡Qué historias tan maravillosas! Ahora hablemos de cómo hacer que cada día con tu hermano sea especial. Tal vez puedan inventar un saludo secreto o un juego que solo ustedes conocen. Es como tener un pequeño mundo solo para ustedes dos. ¡Qué emocionante es tener un mejor amigo en casa!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas cuando hablamos de hacer las paces? Es importante saber pedir perdón. Si alguna vez te peleas con tu hermano, un simple \"lo siento\" puede hacer maravillas. Es como una varita mágica que arregla los corazones. Siempre es bueno terminar el día con un abrazo y una sonrisa."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Los hermanos también aprenden juntos. Tal vez uno de ustedes sabe algo que el otro no. Enseñarse mutuamente es muy divertido. Imagina que uno sabe andar en bicicleta y el otro no. ¡Qué aventura aprender juntos! Es como descubrir un nuevo mundo lleno de sorpresas."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora, recuerda que siempre puedes hablar con tu hermano sobre tus sentimientos. Si estás feliz, triste o enojado, él está ahí para escucharte. Es como tener un diario que te responde. ¡Qué maravilloso es tener a alguien con quien compartir todo!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Finalmente, recordemos que cada día es una oportunidad para crear recuerdos juntos. Desde el desayuno hasta la hora de dormir, cada momento puede ser especial. Tal vez puedan inventar una canción para cantar juntos antes de dormir. ¡Qué dulce forma de terminar el día!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bueno, amiguito, ha sido un placer hablar contigo sobre los hermanos. Espero que hayas disfrutado tanto como yo. Recuerda que tener un hermano es un regalo especial. Cuídalo y disfruta cada momento juntos. ¡Hasta la próxima aventura con Yellow Buddy! ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Sibling de Yellow Buddy"
+}

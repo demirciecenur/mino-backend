@@ -1,0 +1,98 @@
+{
+  "id": "rescue pup crew_transitions_story",
+  "character": "Rescue Pup Crew",
+  "topic": "transitions",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, les petits amis! Je suis le Rescue Pup Crew, et aujourd'hui, nous allons explorer quelque chose d'incroyable: les transitions! Êtes-vous prêts? Les transitions, c'est un peu comme quand on change de jeu ou qu'on essaie quelque chose de nouveau. C'est excitant et parfois un peu effrayant, mais ensemble, nous le ferons! Je suis tellement curieux de savoir ce que vous pensez des changements!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions sont comme des aventures. Parfois, on doit passer d'une activité à une autre, comme ranger ses jouets pour aller dîner. Cela peut être un grand changement dans notre journée! Mais ne vous inquiétez pas, les transitions peuvent être amusantes. Par exemple, vous pouvez chanter une chanson pendant que vous rangez vos jouets. Cela rend la tâche plus agréable et le temps passe plus vite!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment on peut rendre les transitions plus faciles. Une bonne idée est de créer une routine. Cela signifie faire les mêmes choses dans le même ordre chaque jour. Par exemple, après le petit-déjeuner, on se brosse les dents, puis on s'habille. Cela aide à savoir ce qui vient ensuite, et ça rend le changement moins surprenant. Vous pouvez essayer chez vous!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super travail, les amis! Vous savez, les transitions sont aussi l'occasion de découvrir de nouvelles choses. Par exemple, quand on passe de la maternelle à l'école primaire, on apprend de nouvelles matières et on se fait de nouveaux amis. C'est un peu comme partir à l'aventure dans un monde inconnu. Vous êtes courageux et pouvez y arriver!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "N'oublions pas que les transitions ne se font pas toujours seules. Parfois, on a besoin d'aide. Par exemple, si vous changez de classe, vous pouvez demander à un adulte de vous expliquer ce qui va se passer. Ils peuvent vous rassurer et vous donner des conseils. C'est toujours bien d'avoir quelqu'un à qui parler quand on vit un changement."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons ensemble une petite transition. Imaginez que nous sommes tous en train de jouer, et maintenant, nous devons nous préparer à aller se coucher. Que devons-nous faire d'abord? Peut-être ranger nos jouets, puis mettre notre pyjama, et enfin, brosser nos dents. C'est une routine qui aide à rendre la transition vers le sommeil plus facile et agréable."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, les transitions peuvent être surprenantes! Comme quand il pleut et qu'on doit jouer à l'intérieur au lieu d'aller au parc. Mais c'est aussi une chance de découvrir de nouveaux jeux à l'intérieur. Vous pouvez construire un fort avec des coussins ou inventer des histoires amusantes. Avec un peu d'imagination, chaque transition peut devenir une nouvelle aventure!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail incroyable en apprenant à gérer les transitions! Rappelez-vous, chaque nouveau départ est une opportunité d'apprendre quelque chose de nouveau. Vous êtes comme des explorateurs qui découvrent de nouveaux mondes. Continuez à être curieux et courageux, et vous verrez que les changements peuvent être amusants et enrichissants!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, les amis, avez-vous déjà vécu une grande transition? Peut-être que vous avez déménagé dans une nouvelle maison ou accueilli un nouveau membre dans votre famille? Comment cela s'est-il passé pour vous? Parlez-en avec vos amis ou votre famille. Partager vos expériences peut vous aider à comprendre vos sentiments et à vous sentir mieux."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Revenons à notre aventure! Les transitions peuvent aussi être petites, comme changer de jeu ou de livre. Ces petits changements nous aident à grandir et à découvrir ce que nous aimons vraiment. Par exemple, essayer un nouveau légume au dîner peut sembler simple, mais c'est une transition vers une alimentation plus variée et saine!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre astuce pour bien gérer les transitions est de rester positif. Parfois, nous pouvons être un peu inquiets quand quelque chose change. Mais si nous pensons aux bonnes choses que ce changement peut apporter, cela devient plus facile. Par exemple, se dire: 'Je vais rencontrer de nouveaux amis' peut rendre l'idée de commencer une nouvelle école plus excitante."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, vous êtes formidables! Vous apprenez à gérer les transitions comme des champions. Chaque pas que vous faites vous rend plus fort et plus confiant. Continuez à avancer avec courage et à essayer de nouvelles choses. Vous êtes capables de tout accomplir avec un peu de détermination et beaucoup de bonne humeur!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, réfléchissons à une dernière chose. Les transitions peuvent aussi être l'occasion de faire une pause et de respirer. Quand tout change autour de nous, prendre quelques grandes respirations peut nous aider à nous sentir plus calmes. Essayons ensemble: inspirez profondément, et expirez lentement. Cela nous aide à nous sentir prêts à affronter n'importe quel changement!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était une aventure incroyable, n'est-ce pas? Merci d'avoir exploré les transitions avec moi aujourd'hui. N'oubliez pas, chaque changement est une nouvelle chance de grandir et d'apprendre. Vous êtes tous des héros dans votre propre histoire. À la prochaine, les petits amis, et souvenez-vous: vous pouvez tout accomplir avec courage et sourire!"
+    }
+  ],
+  "title": "Histoire de Transitions de Rescue Pup Crew"
+}

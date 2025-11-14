@@ -1,0 +1,104 @@
+{
+  "id": "super_metal_hero_bedtime_story",
+  "character": "Super Metal Hero",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Super Metal Hero, prêt pour une aventure incroyable sur le thème du coucher. Ensemble, nous allons découvrir comment rendre l'heure du dodo amusante et relaxante. Êtes-vous prêt à plonger dans ce voyage nocturne avec moi ? N'oubliez pas que même les héros ont besoin de repos pour recharger leurs batteries. Alors, mettons nos casques et explorons les merveilles de la routine du coucher !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par parler de ce que signifie l'heure du coucher. C'est un moment spécial où notre corps se prépare à se reposer et à rêver. Cela aide notre cerveau à grandir et à devenir plus fort, tout comme moi avec mon armure ! Vous savez, avoir une routine peut rendre ce moment encore plus magique. Par exemple, se brosser les dents et mettre son pyjama sont des étapes importantes. Maintenant, découvrons comment ces étapes peuvent être amusantes !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de l'importance de se brosser les dents avant de se coucher. Cela garde vos dents propres et brillantes, comme le métal de mon armure ! Imaginez que chaque brosse est comme un petit héros qui combat les méchants microbes. Prenez votre brosse à dents et ensemble, nous ferons ce geste héroïque. Vous verrez, c'est facile et amusant, et vos dents seront prêtes pour de beaux rêves."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super travail sur le brossage des dents ! Vous êtes vraiment un petit héros en formation. Maintenant, mettons notre pyjama préféré, comme enfiler une super combinaison. Choisissez celui qui vous fait sentir confortable et prêt pour l'aventure des rêves. Vous voyez, chaque petit geste nous rapproche de l'univers des rêves. Bravo pour votre enthousiasme !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ensuite, parlons de la lecture d'une histoire avant de dormir. Les histoires nous transportent dans des mondes magiques, pleins de héros et de découvertes. Imaginez que chaque page est une nouvelle aventure, comme voler à travers les étoiles. Vous pouvez choisir votre livre préféré et le lire avec quelqu'un que vous aimez. Ces moments partagés rendent l'heure du coucher encore plus spéciale. Prêt à explorer un nouveau conte ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Après une belle histoire, prenons un moment pour respirer calmement. Imaginez que vous êtes un super héros en train de recharger vos pouvoirs. Inspirons profondément par le nez, puis expirons lentement par la bouche. Faites-le trois fois avec moi. Ces respirations nous aident à nous détendre et à nous préparer pour un sommeil réparateur. Vous sentez-vous déjà plus calme ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez fait un excellent travail en respirant profondément ! Maintenant, parlons de câlins et de bisous. Donner un câlin à votre doudou ou à quelqu'un que vous aimez peut être réconfortant. Ces gestes chaleureux remplissent notre cœur de bonheur avant de dormir. N'oubliez pas, même un super héros a besoin d'amour et de tendresse. Alors, allez-y, distribuez ces câlins magiques !"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après tous ces préparatifs, il est temps d'éteindre la lumière. Imaginez que vous plongez dans un monde étoilé, prêt à explorer vos rêves. La nuit est le moment où les étoiles brillent le plus fort, tout comme vous après une bonne nuit de sommeil. Vous pouvez dire bonne nuit à tout ce qui vous entoure, comme un petit rituel magique. Prêt à fermer les yeux et à rêver ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Est-ce que vous avez un rituel spécial pour l'heure du coucher ? Peut-être une chanson que vous aimez écouter ou un câlin particulier ? Ces petites habitudes rendent chaque soir unique et mémorable. N'hésitez pas à partager avec moi, je suis curieux de savoir ce qui rend votre coucher spécial. Êtes-vous prêt à découvrir de nouvelles idées ensemble ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Merci d'avoir partagé vos idées avec moi ! Chaque détail rend votre routine du coucher encore plus magique. Et qui sait, peut-être que vos idées inspireront d'autres petits héros. Vous êtes un véritable pionnier du coucher ! Continuons à explorer ensemble, car chaque nuit est une nouvelle aventure."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de la température idéale pour dormir. Avoir une chambre ni trop chaude ni trop froide aide à mieux dormir, tout comme avoir la bonne température pour mon armure ! Vous pouvez ajuster la couverture pour vous sentir juste bien. Imaginez que vous êtes dans un cocon douillet, prêt à voyager dans vos rêves. C'est tellement confortable, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Rappelez-vous, un bon sommeil commence par une bonne préparation. Rangez vos jouets pour qu'ils soient prêts à jouer demain. Un espace bien rangé vous aide à vous détendre et à vous concentrer sur le sommeil. Comme moi, quand je prépare mon équipement pour ma prochaine mission. Vous verrez, c'est facile et cela rend le réveil encore plus agréable."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez fait un excellent travail en préparant votre chambre pour la nuit ! Vous êtes vraiment un super héros du coucher. Chaque étape que vous avez accomplie vous rapproche des rêves les plus fantastiques. N'oubliez pas, chaque soir est une nouvelle chance de rêver grand. Continuez comme ça, vous êtes incroyable !"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà rêvé de voler comme un super héros ? Les rêves sont un endroit magique où tout est possible. Vous pouvez explorer des mondes merveilleux et rencontrer des personnages étonnants. Qu'aimeriez-vous découvrir ce soir dans vos rêves ? Pensez-y avant de fermer les yeux, et laissez votre imagination vous emmener. Prêt à partir à l'aventure ?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci de m'avoir accompagné dans cette aventure du coucher. Vous avez appris tant de choses et êtes devenu un expert du dodo ! Je suis fier de vous et de toutes les belles choses que vous avez faites ce soir. Maintenant, il est temps de fermer les yeux et de laisser les rêves vous guider. Bonne nuit, petit héros, et à bientôt pour de nouvelles aventures !"
+    }
+  ],
+  "title": "Histoire de Bedtime de Super Metal Hero"
+}

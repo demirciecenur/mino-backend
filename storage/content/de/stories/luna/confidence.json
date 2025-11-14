@@ -1,0 +1,98 @@
+{
+  "id": "luna_confidence_story",
+  "character": "Luna",
+  "topic": "confidence",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Luna. Heute gehen wir auf eine magische Reise, um mehr über Selbstvertrauen zu erfahren. Bist du bereit, mit mir zu träumen? Es wird spannend und voller Wunder sein. Lass uns gemeinsam den Sternenhimmel erkunden und lernen, wie wir mutig und stark sein können. Ich freue mich schon darauf, mit dir diesen Weg zu gehen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Selbstvertrauen ist wie ein magischer Stern, der uns hilft, an uns selbst zu glauben. Es gibt uns den Mut, neue Dinge auszuprobieren, so wie du vielleicht das erste Mal auf einem Fahrrad gefahren bist. Erinnerst du dich, wie stolz du warst, als du es geschafft hast? Das Gefühl, etwas geschafft zu haben, macht uns stark und glücklich. Selbstvertrauen wächst, je mehr wir üben und uns selbst vertrauen."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns darüber sprechen, wie wir unser Selbstvertrauen stärken können. Eine Möglichkeit ist, kleine Aufgaben zu übernehmen, wie das Aufräumen deines Zimmers. Wenn du sie erledigst, fühlst du dich stolz und mutig. Auch das Üben von neuen Fähigkeiten, wie das Malen eines Bildes, kann helfen. Jeder Pinselstrich ist ein Schritt zu mehr Selbstvertrauen. Probier es aus und sieh, wie du wächst!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du machst das so gut! Selbstvertrauen bedeutet auch, keine Angst vor Fehlern zu haben. Jeder Fehler ist eine Chance, etwas Neues zu lernen. Denk daran, dass sogar die Sterne manchmal funkeln und manchmal nicht. Aber sie leuchten immer wieder. Du kannst das auch! Lass uns zusammen tief einatmen und uns sagen: 'Ich kann es schaffen!'"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Aufräumen gesprochen haben? Das ist ein tolles Beispiel für kleine Schritte, die großes Selbstvertrauen aufbauen. Wenn du das nächste Mal deine Spielsachen wegräumst, denk daran, dass du etwas Wichtiges tust. Es zeigt, dass du Verantwortung übernehmen kannst. Und das macht dich stark und selbstbewusst. Du kannst stolz auf dich sein!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt eine kleine Übung machen. Stell dir vor, du bist ein großer, leuchtender Stern. Schließe deine Augen und zähle langsam bis fünf. Eins, zwei, drei, vier, fünf. Jetzt öffne deine Augen und fühl dich stark und strahlend. Diese Übung hilft dir, dich auf deine innere Stärke zu konzentrieren. Du bist ein wunderbarer Stern!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal etwas Neues ausprobiert, das dir zuerst ein wenig Angst gemacht hat? Vielleicht war es ein neues Spiel oder eine neue Sportart. Erinnerst du dich, wie es war, als du es geschafft hast? Wie hast du dich danach gefühlt? Es ist wichtig, diese Momente zu feiern, denn sie zeigen, wie mutig du bist!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, da du über deine mutigen Momente nachgedacht hast, lass uns weiter träumen. Stell dir vor, du bist ein Abenteurer, der neue Welten entdeckt. Jeder Schritt auf deinem Weg ist ein Zeichen deines Selbstvertrauens. Du kannst alles erreichen, was du dir vornimmst. Glaub an dich, und die Welt öffnet sich."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich erstaunlich! Erinnere dich daran, dass Selbstvertrauen wie ein Samen ist, der wächst, wenn wir ihm Liebe und Pflege schenken. Jeder Tag, an dem du etwas Neues lernst oder versuchst, füttert diesen Samen. Du kannst es schaffen, und ich bin so stolz auf dich! Lass uns zusammen noch einen Schritt machen und an unsere Träume glauben."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns über Freundschaft sprechen. Gute Freunde helfen uns, unser Selbstvertrauen zu stärken. Wenn du mit deinen Freunden spielst und lachst, fühlst du dich stark und glücklich. Sie erinnern dich daran, wie besonders du bist. Und wenn du deinen Freunden hilfst, stärkst du nicht nur ihr Selbstvertrauen, sondern auch deins. Gemeinsam seid ihr ein tolles Team!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns eine kleine Aufgabe machen, um unser Selbstvertrauen zu stärken. Überlege dir eine Sache, die du heute tun möchtest, um jemandem zu helfen. Vielleicht kannst du einem Freund ein Bild malen oder Mama und Papa im Haus helfen. Diese kleinen Taten zeigen, wie stark und mutig du bist. Du kannst es schaffen!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Welches Abenteuer möchtest du als nächstes erleben? Vielleicht ein neues Spiel lernen oder ein neues Buch lesen? Stell dir vor, wie viel Spaß es macht, etwas Neues zu entdecken. Hast du schon eine Idee? Denk daran, dass du alles schaffen kannst, was du dir vornimmst!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, wo du über dein nächstes Abenteuer nachgedacht hast, lass uns daran erinnern, wie wichtig es ist, an uns selbst zu glauben. Jeder Tag bringt neue Möglichkeiten, unser Selbstvertrauen zu stärken. Du bist ein leuchtender Stern, der immer weiter wächst. Glaub an dich und deine Träume!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, diese Reise mit dir zu machen. Du hast so viel gelernt über Selbstvertrauen und Mut. Ich hoffe, du fühlst dich stark und bereit, deine Träume zu verfolgen. Denke daran, dass du ein wunderbarer Stern am Himmel bist. Bis zum nächsten Mal, kleiner Freund! Ich freue mich darauf, wieder mit dir zu träumen."
+    }
+  ],
+  "title": "Lunas Confidence Geschichte"
+}

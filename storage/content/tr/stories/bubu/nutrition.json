@@ -1,0 +1,104 @@
+{
+  "id": "bubu_nutrition_story",
+  "character": "Bubu",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Bubu. Bugün birlikte beslenme hakkında harika bir yolculuğa çıkacağız. Beslenme, büyümemiz ve güçlü olmamız için çok önemlidir. Hazır mısın? Seni çok merak ediyorum. Haydi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme deyince aklımıza yemekler gelir, değil mi? Her gün yediğimiz gıdalar vücudumuza enerji verir. Enerji sayesinde oyun oynar, koşar ve zıplarız. Farklı yiyecekler bize farklı vitaminler ve mineraller sağlar. Bu da sağlıklı ve mutlu olmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Sebzeler ve meyveler, vitamin ve mineral bakımından zengindir. Örneğin, havuç gözlerimiz için çok faydalıdır. Elma ise sağlıklı bir atıştırmalık olarak harikadır. Her gün farklı renklerde sebze ve meyve yemeye çalışmalıyız. Böylece vücudumuzun ihtiyacı olan her şeyi alabiliriz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım. Gözlerini kapat ve en sevdiğin meyveyi düşün. Onun rengi ne? Tadı nasıl? Harika! Şimdi bu meyveyi yemiş gibi yap ve nasıl hissettiğini düşün. Bu harika bir oyun, değil mi? Sen de deneyebilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda meyvelerden bahsetmiştik. Şimdi proteinlerden konuşalım. Proteinler, kaslarımızın güçlü olmasını sağlar. Yumurta, süt ve et gibi yiyeceklerde bulunur. Kaslarımızı güçlendirmek için her gün protein almamız önemlidir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Tahıllar da beslenmemizin önemli bir parçasıdır. Ekmek, makarna ve pirinç gibi yiyecekler tahıllardan yapılır. Bu yiyecekler bize enerji verir ve uzun süre tok kalmamızı sağlar. Her gün çeşitli tahıllar tüketmeye özen göstermeliyiz. Böylece daha enerjik oluruz."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi biraz hareket edelim. Ayağa kalk ve kollarını yukarı kaldır. Derin bir nefes al ve yavaşça ver. İşte bu kadar basit! Bu hareketler kan dolaşımımızı hızlandırır ve kendimizi daha iyi hissetmemizi sağlar. Harika iş çıkardın!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki hareketlerimizi hatırlıyor musun? Şimdi de suyun öneminden bahsedelim. Su, vücudumuzun en çok ihtiyaç duyduğu şeylerden biridir. Her gün bol bol su içmeliyiz. Su, vücudumuzu temizler ve enerjik hissetmemizi sağlar."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Su içmeyi seviyor musun? Hangi içecekleri daha çok tercih ediyorsun? Su içmenin ne kadar önemli olduğunu biliyor musun? Belki de her gün su içerek kendimizi daha iyi hissedebiliriz. Sen ne düşünüyorsun?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sorularımız hakkında düşündün mü? Şimdi de yağlardan bahsedelim. Zeytinyağı ve fındık gibi yiyeceklerde sağlıklı yağlar bulunur. Bu yağlar, cildimizin parlak ve sağlıklı kalmasına yardımcı olur. Ama dikkatli olmalıyız, fazla yağ tüketmek iyi değildir."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Tatlılar ve şekerler herkesin sevdiği yiyeceklerdir. Ancak bunları az miktarda tüketmeliyiz. Fazla şeker, dişlerimize zarar verebilir. Tatlı yerine meyve yemek daha sağlıklıdır. Böylece tatlı isteğimizi de sağlıklı bir şekilde karşılamış oluruz."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tatlılar yerine meyve yemeyi denemek ister misin? Meyveler hem tatlı hem de sağlıklıdır. Bir dilim elma veya birkaç üzüm harika bir atıştırmalık olabilir. Sağlıklı beslenmek için harika bir adım atmış olursun!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda tatlılardan bahsetmiştik. Şimdi de düzenli yemek yemenin önemine değinelim. Düzenli yemek yemek, vücudumuzun ihtiyacı olan enerjiyi almasını sağlar. Kahvaltı, öğle ve akşam yemeklerini atlamamalıyız. Ara öğünlerde ise sağlıklı atıştırmalıklar tercih edebiliriz."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, beslenme alışkanlıklarımız sağlığımızı doğrudan etkiler. Sağlıklı bir yaşam için dengeli beslenmek çok önemlidir. Sen de sağlıklı beslenmek için neler yapabilirsin? Belki de en sevdiğin sebzeyi daha sık yemeğe başlayabilirsin. Düşüncelerini duymak için sabırsızlanıyorum."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Beslenme yolculuğumuzun sonuna geldik. Umarım bu bilgiler sana faydalı olur. Sağlıklı beslenmek, büyümen ve mutlu olman için çok önemli. Kendine iyi bak ve öğrendiklerini unutma, tamam mı? Bir sonraki buluşmamıza kadar hoşça kal!"
+    }
+  ],
+  "title": "Bubu'ın Nutrition Hikayesi"
+}

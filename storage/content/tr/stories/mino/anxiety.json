@@ -1,0 +1,98 @@
+{
+  "id": "mino_anxiety_story",
+  "character": "Mino",
+  "topic": "anxiety",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mino, uzayın renkli ve eğlenceli köşelerinden geldim. Bugün seninle birlikte anxiety yani kaygı hakkında konuşacağız. Bu konu bazen karışık gelebilir ama birlikte keşfederek her şeyi daha iyi anlayacağız. Hazır mısın? Seni çok merak ediyorum ve bu yolculukta yanında olmaktan çok mutluyum!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Anxiety, bazen kendimizi endişeli veya gergin hissettiğimizde ortaya çıkar. Tıpkı uzayda bir fırtına gibi, ama merak etme, bu fırtınayı birlikte sakinleştirebiliriz. Herkes zaman zaman endişelenir, bu çok normal bir duygudur. Sen de böyle hissettiğinde yalnız olmadığını bilmelisin. Şimdi, bu duygunun neden oluştuğunu ve nasıl daha iyi hissedebileceğimizi keşfedelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bazen, bir şeyler hakkında endişeleniriz çünkü onları kontrol edemeyiz. Mesela, uzay gemimizin nereye gideceğini bilmemek gibi. Ama endişelenmek yerine, nefes alarak kendimizi sakinleştirebiliriz. Şimdi birlikte derin bir nefes alalım. Burnumuzdan yavaşça nefes alıp, ağzımızdan verelim. Bu, beynimize her şeyin yolunda olduğunu hatırlatır."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Nefes almak çok basit ama çok etkili bir yöntemdir. Sen bunu çok iyi yaptın! Unutma, her zaman bu yöntemi kullanabilirsin. Şimdi, başka bir rahatlama tekniği öğrenelim. Kendimize güvende hissetmek için neler yapabiliriz, bir düşünelim."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir güvenlik alanı oluşturmak çok önemlidir. Tıpkı bir uzay kapsülü gibi, kendimizi rahat hissettiğimiz bir yerimiz olmalı. Bu, odandaki en sevdiğin köşe olabilir ya da en sevdiğin battaniyenin altı. Orada olmak, kendini iyi hissetmene yardımcı olabilir. Şimdi, senin güvenli alanın neresi, bir düşün bakalım."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir başka yöntem de, sevdiğin bir şeyi düşünmektir. Mesela, en sevdiğin oyuncağını veya mutlu bir anını hatırlamak. Bu düşünceler, endişeni hafifletir ve seni mutlu eder. Şimdi, gözlerini kapat ve en sevdiğin anı düşün. Bu anının sana nasıl hissettirdiğini hisset."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Harika! Bunu yapmak, tıpkı bir uzay yolculuğu gibi, bizi başka bir yere taşır. Şimdi, kendimizi nasıl daha iyi hissedeceğimizi öğrendik. Ayrıca, endişelendiğimizde bunu paylaşmanın da önemli olduğunu unutma. Ailenle veya öğretmeninle konuşabilirsin. Onlar seni her zaman dinleyecektir."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi, birlikte düşündüğümüz bu yöntemleri denemek ister misin? Hangi yöntemin sana daha iyi geldiğini merak ediyorum. Nefes almak mı, güvenli alan mı, yoksa mutlu bir anı düşünmek mi? Belki de hepsi! Senin favorin hangisi, söyleyebilir misin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Seçimin ne olursa olsun, hepsi harika yöntemler. Unutma, her zaman bu yöntemleri kullanabilir ve kendini daha iyi hissedebilirsin. Şimdi, bir sonraki adımda, kaygı hissettiğimizde neler yapabileceğimizi gözden geçireceğiz. Tüm bu bilgileri nasıl kullanabiliriz, bir bakalım."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kaygı hissettiğimizde, yapabileceğimiz en iyi şeylerden biri, dikkat dağıtıcı bir şey bulmaktır. Mesela, bir resim yapmak, bir hikaye okumak ya da bir şarkı söylemek. Bunlar, zihnimizi meşgul eder ve endişemizi azaltır. Şimdi, senin en sevdiğin dikkat dağıtıcı şey nedir, düşün."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dikkat dağıtıcı şeyler bulmak, tıpkı yeni bir gezegen keşfetmek gibidir. Her zaman yeni bir şeyler öğrenebiliriz. Bu, kendimizi daha iyi hissetmemize yardımcı olur. Şimdi, bunları denemek için sabırsızlanıyorum. Seninle birlikte bu yolculuğa çıkmak çok eğlenceliydi!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Seninle birlikte bu macerayı yaşamak harikaydı! Unutma, sen çok güçlüsün ve her zaman bu yöntemlerle kaygını yenebilirsin. Her zaman yanında olacağım ve birlikte daha fazla keşif yapacağız. Sen bunu yapabilirsin, buna inanıyorum!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir sonraki maceramızda, belki de başka konuları keşfederiz. Seninle birlikte daha fazla şey öğrenmeyi çok isterim. Kaygı hakkında öğrendiğimiz bu güzel bilgileri hatırlayıp, her zaman kullanabiliriz. Şimdi, birlikte başka neler yapabileceğimizi düşünelim."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün harika bir yolculuk yaptık! Seninle birlikte olmak beni çok mutlu etti. Unutma, her zaman burada olacağım ve seninle daha fazla maceraya çıkmak için sabırsızlanıyorum. Kendine iyi bak ve bir dahaki sefere görüşmek üzere! Hoşça kal!"
+    }
+  ],
+  "title": "Mino'ın Anxiety Hikayesi"
+}

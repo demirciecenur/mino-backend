@@ -1,0 +1,104 @@
+{
+  "id": "sunny_regulación_emocional_manejo_de_emociones_calmarse_autorregulación_story",
+  "character": "Sunny",
+  "topic": "regulación emocional, manejo de emociones, calmarse, autorregulación",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Sunny y hoy vamos a descubrir algo muy especial. Vamos a aprender sobre cómo manejar nuestras emociones y calmarnos cuando lo necesitamos. Es como tener un superpoder especial, ¿no te parece emocionante? Estoy muy feliz de estar aquí contigo para explorar este tema tan importante. ¿Estás listo para comenzar esta aventura? ¡Vamos allá!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, podemos sentirnos un poco molestos o tristes, y eso está bien. Lo importante es saber cómo calmarnos cuando lo necesitamos. Imagina que tienes un botón mágico que puedes presionar para sentirte mejor. Este botón se llama autorregulación y todos podemos aprender a usarlo. Es como cuando aprendes a montar en bicicleta, al principio es difícil, pero con práctica, ¡te vuelves un experto!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, voy a enseñarte un truco para calmarte cuando te sientas agitado. Vamos a respirar profundamente juntos. Inhala por la nariz contando hasta tres, uno, dos, tres, y luego exhala suavemente por la boca. Hacer esto varias veces puede ayudarte a sentirte más tranquilo. ¿Por qué no lo intentas conmigo ahora? ¡Respiremos juntos y sintamos cómo nos calmamos!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial, lo estás haciendo muy bien! Respirar profundamente es solo una de las formas de calmarse. También puedes intentar contar hasta cinco muy despacio. Uno, dos, tres, cuatro, cinco. Esto le da a tu mente un pequeño descanso y te ayuda a pensar con claridad. ¡Tú puedes hacerlo, sigue practicando!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos aprendido a respirar y contar, hablemos de cómo podemos usar estos trucos en situaciones cotidianas. Por ejemplo, si estás jugando y algo no sale como esperabas, puedes detenerte y respirar profundamente. O si estás esperando tu turno para un juego, contar lentamente puede ayudarte a tener paciencia. ¡Es como tener un pequeño kit de herramientas para tus emociones!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "¿Sabías que también puedes imaginar cosas bonitas para calmarte? Cierra los ojos e imagina un lugar que te haga feliz, como un campo lleno de flores o una playa soleada. Sentirás cómo tu corazón se calma y una sonrisa aparece en tu cara. La imaginación es poderosa y puede ser tu aliada para manejar tus emociones. ¡Vamos a intentarlo juntos!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Maravilloso! Imaginar cosas bonitas es una forma mágica de sentirnos bien. Recuerda que siempre puedes usar estos trucos cuando lo necesites. Practicarlos todos los días te hará sentir más seguro y feliz. Estoy muy orgulloso de ti por aprender a manejar tus emociones. ¡Eres increíble!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora me gustaría saber, ¿cuál de estos trucos te gustaría intentar primero? ¿Prefieres respirar profundamente, contar lentamente o imaginar un lugar bonito? ¿O tal vez te gustaría inventar tu propio truco especial? Me encantaría escuchar tus ideas, porque todos somos diferentes y lo que funciona para uno puede ser distinto para otro. ¿Qué opinas?"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Es genial que estés pensando en cómo manejar tus emociones. Tal vez quieras compartir estos trucos con un amigo o un familiar. ¡Podrían practicar juntos y convertirse en expertos en autorregulación! Además, compartir cosas que aprendemos puede ser muy divertido y útil. ¿Te gustaría intentarlo?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hemos hablado mucho sobre emociones y cómo calmarnos, pero hay algo más que quiero compartir. A veces, hablar con alguien de confianza, como un papá, una mamá o un maestro, puede ayudarte a sentirte mejor. Ellos pueden darte consejos y escuchar lo que sientes. Nunca dudes en pedir ayuda cuando lo necesites. ¡Es muy importante!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hagamos un pequeño ejercicio juntos. Imagina que eres un árbol. Ponte de pie con los pies firmes en el suelo, como si fueran raíces. Levanta los brazos como si fueran ramas y siente el viento suave alrededor. Este ejercicio te ayudará a sentirte fuerte y en calma. Es una forma divertida de conectarte con tus emociones. ¡Inténtalo!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Ser un árbol fuerte y tranquilo es una gran manera de sentir la calma en tu cuerpo. Recuerda que siempre puedes usar tu imaginación para encontrar nuevas formas de relajarte. Eres un explorador de emociones y cada día puedes aprender algo nuevo. ¡Sigue adelante!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría descubrir más sobre tus emociones? Hay tantas cosas que podemos aprender juntos. ¿Qué emoción sientes ahora? ¿Felicidad, curiosidad, tranquilidad? Es importante reconocer lo que sentimos. Cada emoción es especial y nos enseña algo nuevo. ¿Qué piensas sobre esto?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Es maravilloso que estés explorando tus emociones. Recuerda que no estás solo en este viaje. Siempre puedes hablar conmigo o con alguien de confianza sobre lo que sientes. Juntos, podemos encontrar maneras de sentirnos mejor y disfrutar más de cada día. ¿Te gustaría seguir aprendiendo conmigo?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un día increíble aprendiendo sobre regulación emocional y cómo calmarnos. Estoy muy feliz de haber compartido este tiempo contigo. Recuerda que siempre puedes usar estos trucos para sentirte mejor. Eres un niño maravilloso y estoy muy orgulloso de ti. Espero que nos veamos pronto para seguir explorando juntos. ¡Adiós, pequeño amigo!"
+    }
+  ],
+  "title": "Historia de Emotional Regulation de Sunny"
+}

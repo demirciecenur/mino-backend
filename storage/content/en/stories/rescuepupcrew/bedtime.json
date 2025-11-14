@@ -1,0 +1,98 @@
+{
+  "id": "rescue_pup_crew_bedtime_story",
+  "title": "Rescue Pup Crew's Bedtime Story",
+  "character": "Rescue Pup Crew",
+  "topic": "bedtime",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm part of the Rescue Pup Crew, and tonight we're going to explore the wonderful world of bedtime. Are you ready to join us on this calming adventure? Bedtime is such an exciting time because it helps us rest and dream big dreams. We’ll learn about how to get ready for sleep and why it’s important. So, grab your favorite stuffed toy, and let’s get started on this journey!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about the first step in our bedtime routine: tidying up our toys. When we put our toys away, it helps us feel more relaxed and ready for bed. Imagine how happy your toys are when they are neatly placed back in their spots. It’s like giving them a little home to sleep in too! Can you help me count the toys as you put them away? One, two, three... great job!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Next, let’s think about brushing our teeth. Brushing your teeth keeps them shiny and healthy, just like a superhero’s smile! We brush in little circles, making sure to reach every tooth. It’s like a little dance for your toothbrush! Can you move your toothbrush in big happy circles? Remember, a clean mouth helps keep the bedtime monsters away. Let's brush together for two minutes to keep those teeth sparkling!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful job on brushing! Now let's slip into our cozy pajamas. Pajamas are like a warm hug that helps us feel comfy and ready for sleep. Do you have a favorite pair of pajamas? Maybe they have fun patterns or your favorite character on them. Putting on pajamas is like telling our bodies it’s time to relax. You’re doing so well getting ready for bed!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "After we're all dressed in our pajamas, it's time for a bedtime story. Stories are magical because they can take us on adventures without leaving our beds. Do you have a favorite story you like to hear? Listening to a story helps our minds calm down and get ready for sleep. Imagine all the amazing dreams you’ll have after hearing a wonderful tale. Let’s get comfortable and enjoy this special time together."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about turning off the lights. When the lights go out, it helps signal our bodies that it’s time to rest. If you have a nightlight, it can be like a little star shining just for you. Darkness can be cozy, like a soft blanket wrapping around us. Can you reach over and turn off the light? Great! Now the room is perfect for sleeping."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing great! Now it’s time for some deep breathing to help us relax. Breathing deeply is like giving our bodies a big hug from the inside. Let’s take a deep breath in through our noses and slowly blow it out through our mouths. Can you do that with me? One big breath in, and slowly out. Doesn’t that feel nice? Let's do it a couple more times to help our bodies feel calm."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you know why it's important to go to bed at the same time every night? It helps our bodies know when to feel sleepy and when to wake up ready for a new day. Just like how the sun rises and sets, having a bedtime routine helps our days feel balanced. What time do you go to bed? Having a routine makes bedtime feel special and exciting!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's remember all the wonderful things we've done to get ready for bed. We tidied our toys, brushed our teeth, put on pajamas, and read a bedtime story. Each of these steps helps us feel ready for a good night’s sleep. Isn’t it amazing how these little things can make such a big difference? You’re a bedtime champion!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Before we drift off to sleep, let’s think of something happy from today. Maybe it was playing with a friend or having a yummy snack. Thinking happy thoughts helps us have happy dreams. Can you picture a big, bright balloon floating in the sky? Imagine holding onto it and feeling light and joyful. What happy thought will you take to bed tonight?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’ve done an amazing job getting ready for bed! Remember, every night is a new adventure in dreamland. You’re brave, strong, and ready for a night full of sweet dreams. Just like a hero needs rest, you do too. So close your eyes and let your dreams take you on a magical journey. Sleep tight, little hero!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now let's listen to the quiet sounds of the night. Maybe you can hear a gentle breeze or a soft lullaby. Nature has its way of singing us to sleep. Can you hear anything special in your room? Listening closely helps us feel calm and ready for sleep. It’s like a lullaby just for you!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we lie in bed, let’s imagine we’re floating on a fluffy cloud. The cloud is soft and cozy, carrying us gently across the sky. Can you feel the cloud rocking you into a deep sleep? It’s like being wrapped in a warm blanket of dreams. Let’s enjoy this peaceful feeling as we drift off to sleep."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our bedtime adventure has come to an end, but the dreams are just beginning. Thank you for joining me, part of the Rescue Pup Crew, on this calming journey. Remember, every night is a chance to dream big and rest well. I’ll see you again for another adventure soon. Sleep well, little friend, and have the sweetest dreams. Goodnight!"
+    }
+  ]
+}

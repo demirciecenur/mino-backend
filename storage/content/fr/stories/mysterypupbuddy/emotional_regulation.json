@@ -1,0 +1,104 @@
+{
+  "id": "mystery pup buddy_régulation émotionnelle, gestion des émotions, se calmer, autorégulation_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les petits amis! Je suis Mystery Pup Buddy, et aujourd'hui, nous allons explorer un monde fascinant: la régulation émotionnelle. C'est comme une grande aventure où nous apprendrons à gérer nos émotions et à nous calmer quand nous en avons besoin. Êtes-vous prêts pour ce voyage incroyable? Imaginez que nous avons une boîte à outils magique pour nos émotions! J'ai hâte de découvrir tout cela avec vous. Allons-y ensemble!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de ce que sont les émotions. Les émotions sont comme des couleurs dans notre cœur. Parfois, nous nous sentons joyeux comme un soleil brillant. D'autres fois, nous sommes tristes, comme un nuage gris. Et parfois, nous sommes en colère, comme un volcan prêt à éclater. Mais ne vous inquiétez pas, tout le monde ressent des émotions, et c'est normal. Ensemble, nous allons apprendre comment les comprendre et les gérer."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour commencer, parlons de la façon dont nous pouvons nous calmer. Quand vous vous sentez en colère ou triste, une bonne méthode est de respirer profondément. Prenons une grande inspiration ensemble, et soufflons doucement. Vous voyez, c'est apaisant, n'est-ce pas? Vous pouvez aussi compter jusqu'à cinq lentement. Un, deux, trois, quatre, cinq. Cela nous aide à nous concentrer et à nous sentir mieux."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "C'est super! Vous avez fait un excellent travail en respirant profondément et en comptant. Vous pouvez essayer ces techniques à tout moment. Imaginez que vous êtes un super-héros avec le pouvoir de calmer votre cœur. C'est magique! Vous pouvez le faire chaque fois que vous en avez besoin. Vous êtes incroyables!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons avec une autre astuce pour gérer nos émotions. Parfois, parler de ce que l'on ressent peut vraiment aider. Si vous êtes triste ou frustré, dites-le à un adulte de confiance. Ils peuvent vous écouter et vous aider à comprendre vos sentiments. C'est comme avoir un détective émotionnel à vos côtés! Ne gardez pas vos émotions enfermées, partagez-les!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre façon de se calmer est de penser à quelque chose qui vous rend heureux. Imaginez votre endroit préféré, peut-être un parc ou la plage. Fermez les yeux et imaginez-vous là-bas. Entendez-vous les oiseaux chanter ou les vagues de la mer? Cela peut vous aider à vous sentir plus calme et heureux. Essayez-le la prochaine fois que vous vous sentez bouleversé."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous voyez, vous êtes déjà en train de devenir un expert en gestion des émotions! Rappelez-vous, c'est normal de ressentir des choses différentes. L'important est de savoir comment les gérer. Vous avez appris à respirer, à compter, à parler, et à imaginer des choses heureuses. Vous pouvez le faire, je crois en vous!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de ce que nous pouvons faire quand nous avons trop d'énergie. Peut-être que vous sentez que vous avez besoin de courir ou de sauter. C'est le bon moment pour faire de l'exercice! Vous pouvez danser sur votre chanson préférée ou sauter comme une grenouille. L'exercice est un excellent moyen de libérer de l'énergie et de se sentir bien."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Après avoir bougé, vous vous sentirez probablement plus calme et heureux. Vous pouvez même inviter un ami ou un parent à se joindre à vous. C'est toujours plus amusant de bouger ensemble. Et rappelez-vous, l'important est de s'amuser et de se sentir bien dans son corps. Alors, êtes-vous prêts à bouger avec moi? Allons-y!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà ressenti une émotion si forte que vous ne saviez pas quoi faire? Peut-être que vous avez été très en colère ou très excité. Qu'avez-vous fait pour vous calmer? Pensez-vous que les astuces que nous avons apprises aujourd'hui pourraient vous aider la prochaine fois? J'aimerais entendre vos histoires et vos idées. Partagez-les avec moi!"
+    },
+    {
+      "id": "scene_10",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "C'est formidable d'entendre vos histoires et vos idées. Chaque fois que nous partageons, nous apprenons quelque chose de nouveau. Vous êtes tous très intelligents et courageux. N'oubliez pas, nous avons tous des émotions et c'est normal. Ce qui compte, c'est comment nous choisissons de les gérer. Vous faites un excellent travail!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, il est important de prendre soin de soi. Dormir suffisamment, manger sainement, et jouer sont des moyens de rester en forme et heureux. Quand nous prenons soin de notre corps, nous aidons aussi notre esprit à se sentir bien. Alors, faisons de notre mieux pour être en bonne santé et heureux chaque jour. Vous pouvez le faire!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Avant de terminer notre aventure, faisons un petit exercice ensemble. Mettons nos mains sur notre cœur. Sentons-le battre doucement. C'est comme une petite musique qui nous calme. Prenons trois grandes respirations ensemble. Inspirez... et expirez. Encore une fois, inspirez... et expirez. Une dernière fois, inspirez... et expirez. Vous vous sentez mieux? Moi, oui!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez été formidables aujourd'hui! Vous avez appris tant de choses sur la régulation émotionnelle. Vous êtes maintenant prêts à affronter vos émotions avec courage et sagesse. Rappelez-vous, vous n'êtes jamais seuls. Vous avez toujours vos amis, votre famille, et moi, Mystery Pup Buddy, pour vous aider. Continuez à explorer et à apprendre!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Il est temps de dire au revoir, mes chers amis. J'ai adoré passer ce moment avec vous. N'oubliez pas de pratiquer ce que nous avons appris aujourd'hui. Vous êtes tous des petits champions de la gestion des émotions! Je suis fier de vous. À très bientôt pour une nouvelle aventure ensemble. Prenez soin de vous et restez heureux!"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Mystery Pup Buddy"
+}

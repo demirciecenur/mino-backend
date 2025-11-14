@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_behavior_story",
+  "character": "Spider Fighter",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Spider Fighter. Bugün birlikte davranışlar hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Şimdi, iyi davranışların neden önemli olduğunu ve nasıl harika bir şehir kahramanı olabileceğimizi konuşacağız. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "İyi davranışlar, tıpkı ağlarım gibi güçlüdür. Mesela, oyuncaklarını toplamak ya da dişlerini fırçalamak gibi basit davranışlar bile etrafımızdaki dünyayı daha iyi bir yer haline getirir. Bu davranışlar, hem seni hem de çevrendekileri mutlu eder. Unutma, küçük bir iyilik bile büyük bir fark yaratabilir. Şimdi, iyi davranışların nasıl güçlendiğini keşfedelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Davranışlarımızı geliştirmek için her gün pratik yapmamız gerekir. Örneğin, her sabah uyandığında yatağını toplamak harika bir başlangıç olabilir. Bu, günün geri kalanında daha düzenli ve odaklı olmana yardımcı olur. Ayrıca, etrafındakilerin de seni örnek almalarını sağlar. Hadi, bir sonraki adımda başka neler yapabileceğimize bakalım."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Şimdi, bir sonraki maceramızda birlikte çalışmayı deneyelim. Düşünsene, bir arkadaşınla oyun oynarken sıra beklemek ya da paylaşmak ne kadar önemli. Bu davranışlar, arkadaşlarınla daha iyi anlaşmanı sağlar ve daha çok eğlenirsiniz. Sen de bunu denemek ister misin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda paylaşmanın öneminden bahsetmiştik. Şimdi, bu davranışları nasıl daha da geliştirebileceğimizi düşünelim. Mesela, bir arkadaşına yardım etmek ya da ona bir iyilik yapmak, arkadaşlığınızı güçlendirir. Bu tür davranışlar, etrafında sevgi dolu bir çevre oluşturur. Hadi, bu konuda başka neler yapabileceğimizi keşfedelim."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Davranışlarımızı geliştirmenin bir diğer yolu da empati kurmaktır. Empati, başkalarının duygularını anlamak ve onlara saygı duymak demektir. Mesela, bir arkadaşın üzgün olduğunda onu neşelendirmek için ne yapabilirsin? Bu tür davranışlar, arkadaşlık bağlarını güçlendirir ve seni harika bir şehir kahramanı yapar. Şimdi, empati kurmanın başka yollarını düşünelim."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Empati kurmak, tıpkı ağlarım gibi güçlü bir bağ oluşturur. Birine yardım etmek ya da onu dinlemek, harika bir başlangıçtır. Bu davranışlar, etrafındaki insanlarla daha iyi anlaşmanı sağlar. Ayrıca, senin de kendini iyi hissetmeni sağlar. Hadi, empati kurmanın başka yollarını birlikte keşfedelim."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede empati kurmanın önemini konuştuk. Şimdi, empatiyi nasıl günlük hayatımıza entegre edebiliriz, bunu düşünelim. Mesela, bir arkadaşın sana bir şey anlattığında dikkatlice dinlemek ve ona destek olmak, empati kurmanın harika bir yoludur. Bu tür davranışlar, seni daha iyi bir arkadaş yapar. Şimdi, empatiyi daha da nasıl geliştirebileceğimize bakalım."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Empati kurmanın bir diğer yolu da başkalarının yerine kendini koymaktır. Mesela, bir arkadaşın üzgün olduğunda sen olsan nasıl hissederdin? Bu şekilde düşünmek, empati yeteneğini geliştirir ve daha iyi bir dost olmanı sağlar. Hadi, empati kurmanın başka yollarını keşfetmeye devam edelim."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsun! Empati kurmayı öğrendikçe, etrafındaki insanlar da sana daha çok güvenecek. Bu, arkadaşlık bağlarını güçlendirir ve seni harika bir kahraman yapar. Şimdi, empati kurmanın başka yollarını birlikte keşfetmeye devam edelim. Unutma, sen harika bir iş çıkarıyorsun!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki bölümde empati kurmanın öneminden bahsettik. Şimdi, empati kurmanın başka bir yolunu düşünelim. Mesela, bir arkadaşının yanlış bir şey yaptığını gördüğünde ona kızmak yerine, neden böyle davrandığını anlamaya çalışabilirsin. Bu tür bir yaklaşım, arkadaşınla aranızdaki bağı güçlendirir. Hadi, empati kurmanın daha fazla yolunu keşfetmeye devam edelim."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Empati kurmanın bir diğer yolu da başkalarının duygularını anlamaya çalışmaktır. Mesela, bir arkadaşın sana bir şey anlattığında onu dikkatlice dinlemek ve ona destek olmak, harika bir empati örneğidir. Bu tür davranışlar, seni daha iyi bir arkadaş yapar ve etrafındaki insanlar sana daha çok güvenir. Hadi, empati kurmanın başka yollarını keşfetmeye devam edelim."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sen de empati kurmanın başka yollarını biliyor musun? Mesela, bir arkadaşın üzgün olduğunda nasıl davranıyorsun? Onu neşelendirmek için neler yapabilirsin? Bu sorular üzerinde düşünmek, empati yeteneğini geliştirir. Hadi, birlikte empati kurmanın başka yollarını keşfedelim."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Empati kurmanın birçok yolu olduğunu gördük. Şimdi, öğrendiklerimizi günlük hayatımızda nasıl uygulayabileceğimizi düşünelim. Mesela, her gün birine küçük bir iyilik yapmak harika bir başlangıç olabilir. Bu tür davranışlar, etrafındaki dünyayı daha güzel bir yer haline getirir. Hadi, öğrendiklerimizi uygulamaya devam edelim."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık! Davranışlarımızı geliştirmenin ve empati kurmanın önemini öğrendik. Unutma, sen harika bir şehir kahramanısın ve etrafındaki dünyayı daha iyi bir yer haline getirebilirsin. Şimdi, öğrendiklerini uygulama zamanı. Bir sonraki maceramızda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Spider Fighter'ın Behavior Hikayesi"
+}

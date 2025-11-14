@@ -1,0 +1,98 @@
+{
+  "id": "mino_creativity_story",
+  "character": "Mino",
+  "topic": "creativity",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Mino, your friendly space explorer. Today, we're off on an exciting adventure all about creativity. Are you ready to use your imagination and explore new ideas with me? Creativity is like a magical power that helps us make new things. It's what lets us paint colorful pictures, build tall towers, and even make up fun stories. So, let's get ready to blast off into a world full of creative fun!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember how we talked about creativity being like magic? Well, it's true! Creativity helps us think of new ways to solve problems, just like when you figure out how to share toys with friends. It's also what makes us dream up fun games to play. Can you think of a time when you used creativity to make something new? Maybe you built a castle with blocks or drew a picture of your favorite animal. Creativity is everywhere, and it makes everything more exciting!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's learn how creativity can be like a treasure chest full of ideas. First, close your eyes and picture your favorite place. Is it a sunny beach or a magical forest? This is where your imagination lives. Imagine all the things you could create there, like sandcastles or treehouses. When we use our imagination, we can turn ordinary things into extraordinary adventures. So, next time you're playing, try to see the world like a treasure map full of creative possibilities!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job imagining your special place! Now let's try something fun together. Think of an animal, any animal you like. Got it? Now, let's pretend to be that animal. How would it move? Would it hop like a bunny or roar like a lion? You can use your body to show how creative you are. Creativity isn't just about drawing or building; it's also about playing and pretending. You're doing amazing, and your imagination is really powerful!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our journey by thinking about colors. Colors are a big part of creativity. Imagine a rainbow with all its beautiful colors. Each color can make us feel different things, like happy or calm. When you draw or paint, you can choose colors to show how you feel. Maybe today you feel like using bright yellow for sunshine or cool blue for the ocean. Remember, there are no wrong colors in your creative world. Every color is special!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's explore how creativity helps us tell stories. Have you ever made up a story with your toys? Maybe your teddy bear went on a space adventure or your doll had a tea party. Stories can take us anywhere we want to go. When you tell a story, you can use your words to paint pictures in other people's minds. It's like sharing your imagination with someone else. So next time you play, try telling a story about your toys and see where your imagination takes you!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you know what else is fun? Asking questions! Questions are a big part of being creative. They help us learn new things and come up with new ideas. What if a tree could talk? What would it say? Or what if your favorite toy could fly? Where would it go? Asking 'what if' questions is a great way to start being creative. So, what questions do you have today? Let's think of some fun ones together!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, we'll talk about how we can use creativity in music. Have you ever made up a song? Maybe you sang about your day or made up a silly tune. Music is a wonderful way to express yourself. You can clap your hands, tap your feet, or even hum a happy melody. Each sound you make is like a piece of a creative puzzle. So, let's try making some music together. Clap your hands to the beat and feel the rhythm of your creativity!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful job making music! You see, being creative is all about having fun and trying new things. Sometimes it might be a little tricky, but that's okay. Every time you try, you learn something new. So, if you ever feel stuck, just take a deep breath and try again. Remember, your creativity is like a superpower that grows stronger every time you use it. Keep going, because you're doing fantastic!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's think about how creativity helps us solve problems. Imagine you're building a tower with blocks, but it keeps falling down. What could you do differently? Maybe try a wider base, or use different blocks. Creativity helps us think of new ways to solve problems, just like that. It's like having a toolkit full of ideas. So next time you face a challenge, remember to use your creative thinking to find a solution. You're a problem-solving superstar!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's take a moment to relax and think about all the creative things we've done today. We've imagined places, pretended to be animals, used colors, told stories, made music, and solved problems. Creativity is all around us, and it's something we can use every day. Take a deep breath in, and let it out slowly. Feel how calm and happy creativity makes you. You're doing so well, and I'm so proud of you!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Before we finish our adventure, let's think of one more question. What is something new you'd like to create? Maybe it's a new game to play, or a picture to draw. What will you need to get started? Asking questions like these can help you plan your creative projects. So, what's your next creative idea? I'm excited to hear all about it!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we come to the end of our journey, remember that creativity is something you can share with others. When you create something, you can show it to your family and friends. Maybe they will want to join in and create with you. Creativity is like a big party where everyone is invited. So, share your ideas and see what amazing things you can make together. You're a creative superstar, and the world is your canvas!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time for us to say goodbye, but remember, our creative adventure never really ends. Every day is a new chance to use your creativity and imagination. I'm so happy we got to explore together, and I can't wait to see what you'll create next. Keep dreaming big, and always remember that your creativity is a wonderful gift. Until next time, keep exploring and having fun! Goodbye, my creative friend!"
+    }
+  ],
+  "title": "Mino's Creativity Story"
+}

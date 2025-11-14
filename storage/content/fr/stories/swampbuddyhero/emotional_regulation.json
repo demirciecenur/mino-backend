@@ -1,0 +1,104 @@
+{
+  "id": "swamp_buddy_hero_régulation_émotionnelle_gestion_des_émotions_se_calmer_autorégulation_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Swamp Buddy Hero, ton compagnon de marais préféré. Aujourd'hui, nous allons explorer quelque chose de très spécial : la régulation émotionnelle. Cela signifie apprendre à comprendre et à gérer nos émotions. Es-tu prêt pour cette aventure? Je suis tellement curieux de savoir comment tu te sens aujourd'hui!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les émotions, c'est un peu comme des couleurs dans un tableau. Parfois, on se sent joyeux, comme un soleil jaune brillant. D'autres fois, on peut se sentir un peu triste, comme un ciel gris. Mais ne t'inquiète pas, toutes les émotions sont normales et nous allons apprendre à les gérer ensemble. Alors, commençons par parler de ce que c'est de se sentir heureux. Quand tu es heureux, tu te sens léger et plein d'énergie, n'est-ce pas?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de ce que nous pouvons faire quand nous nous sentons un peu en colère ou frustré. Une bonne technique est de prendre une grande inspiration, puis de souffler doucement comme si tu soufflais sur une bougie. Faisons-le ensemble! Inspire profondément, puis souffle lentement. C'est un moyen simple de se calmer. Tu vois, ça aide à sentir mieux, et ça fait du bien!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super travail! Tu as déjà fait un excellent pas vers la gestion de tes émotions. Parfois, quand je suis dans le marais, je fais une petite promenade pour me calmer. Cela m'aide à penser à autre chose et à retrouver mon calme. Tu pourrais essayer ça aussi, peut-être en marchant dans ton jardin ou en jouant avec tes jouets préférés. Tu es capable de le faire, je le sais!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi, les émotions peuvent être comme des vagues dans l'eau. Elles montent et descendent, mais elles finissent toujours par se calmer. Quand tu te sens triste, tu peux parler à quelqu'un que tu aimes, comme un parent ou un ami. Parler de tes sentiments peut les rendre plus faciles à gérer. Maintenant, imaginons ensemble une vague qui monte et redescend doucement. C'est apaisant, n'est-ce pas?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons un autre exercice amusant. Ferme doucement les yeux et imagine que tu es un arbre dans le vent. Tes branches bougent doucement, mais tes racines sont solides dans le sol. Cela signifie que même si tu te sens agité, tu es toujours fort et stable. Ouvre maintenant les yeux! Sentais-tu la force de l'arbre en toi? C'est une belle façon de se sentir plus calme!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, tu deviens un expert en régulation émotionnelle! N'oublie pas que chaque émotion est une partie de toi et qu'il est normal de les ressentir toutes. La prochaine fois que tu te sens un peu dépassé, souviens-toi de ces exercices amusants. Tu peux toujours revenir ici pour les refaire avec moi. Continue comme ça, tu es incroyable!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dis-moi, as-tu déjà ressenti une émotion très forte, comme être très heureux ou très triste? Comment as-tu fait pour te sentir mieux? Peut-être as-tu parlé à quelqu'un ou as-tu joué à un jeu que tu aimes. Partage avec moi, je suis curieux de savoir ce qui t'aide à te sentir bien!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Revenons à notre voyage émotionnel. Parfois, prendre un moment pour s'asseoir tranquillement peut aider à comprendre ce que nous ressentons. Tu peux aussi dessiner tes émotions avec des crayons de couleur. Par exemple, tu pourrais dessiner un grand soleil pour la joie ou une pluie douce pour la tristesse. Cela aide à exprimer ce que tu ressens à l'intérieur. Tu aimerais essayer de dessiner ce que tu ressens maintenant?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant de l'importance de la patience. Parfois, les émotions prennent un peu de temps pour se calmer, et c'est tout à fait normal. En attendant, tu peux faire quelque chose que tu aimes, comme lire un livre ou écouter de la musique douce. Cela peut t'aider à attendre que les émotions passent. Souviens-toi, la patience est une force, et tu l'as en toi!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail fantastique en apprenant à gérer tes émotions! Chaque jour, tu deviens plus fort et plus sage. N'oublie pas que je suis toujours là pour t'aider à chaque étape du chemin. Continue à pratiquer ces exercices, et tu verras à quel point tu peux être calme et heureux. Tu es vraiment un héros, tout comme moi!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Alors, que penses-tu de notre aventure sur les émotions? As-tu un exercice préféré que tu aimerais refaire? Peut-être que tu as découvert quelque chose de nouveau sur toi-même. Partager ces moments ensemble est vraiment spécial pour moi. J'aimerais savoir ce que tu as aimé le plus!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "En parlant des émotions, il est aussi important de célébrer les moments où tu te sens bien. Quand tu te sens heureux, partage ce bonheur avec les autres. Un sourire ou un câlin peut faire une grande différence. C'est comme répandre un peu de soleil autour de toi. Maintenant, peux-tu penser à une personne spéciale à qui tu pourrais donner un sourire aujourd'hui?"
+    },
+    {
+      "id": "scene_13",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "J'aimerais entendre tes pensées. Quelle est ta couleur préférée pour dessiner tes émotions? Peut-être que tu aimes le bleu pour la paix ou le rouge pour l'énergie. Chacune de ces couleurs peut nous aider à exprimer ce que nous ressentons. Partage avec moi, je suis tout ouïe!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce voyage émotionnel avec moi, petit ami. Tu as appris tellement de choses sur toi-même, et je suis fier de toi. N'oublie pas que je suis toujours ici pour t'aider à explorer tes émotions. À bientôt pour une nouvelle aventure! Prends soin de toi et souviens-toi de sourire!"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Swamp Buddy Hero"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_temps_d'écran_sécurité_numérique_utilisation_de_la_technologie_habitudes_saines_d'écran_story",
+  "character": "Bubble Buddy",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Bubble Buddy, ton copain en bulles. Aujourd'hui, nous allons explorer ensemble le monde du temps d'écran et de la sécurité numérique. C'est comme une aventure sous-marine, sauf que nous allons plonger dans l'océan des écrans! Es-tu prêt à découvrir comment utiliser la technologie en toute sécurité? Je suis sûr que tu vas adorer ce voyage amusant et éducatif!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, commençons par comprendre ce qu'est le temps d'écran. Le temps d'écran, c'est le temps que l'on passe devant les écrans, comme la télévision, les tablettes ou les téléphones. Il est important de ne pas passer trop de temps devant ces écrans. Pourquoi, tu demandes? Parce que nos yeux et notre cerveau ont besoin de faire d'autres choses aussi, comme jouer dehors ou lire des livres. Passer trop de temps devant un écran peut nous rendre fatigués et grognons."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de la sécurité numérique. C'est comme avoir une ceinture de sécurité quand tu es dans une voiture. La sécurité numérique te protège lorsque tu utilises des appareils électroniques. Par exemple, ne pas partager tes informations personnelles comme ton nom ou ton adresse sur Internet. C'est important pour rester en sécurité et pour que tes parents soient tranquilles. Tu vois, être prudent en ligne, c'est facile et amusant!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Tu fais du bon travail en apprenant tout cela. Maintenant, parlons de l'utilisation de la technologie. La technologie peut être très amusante et éducative, mais il est important de l'utiliser de manière équilibrée. Cela signifie choisir quand jouer avec une tablette et quand jouer au ballon dehors. Tu peux demander à tes parents de t'aider à trouver un bon équilibre. N'est-ce pas excitant d'apprendre à utiliser la technologie de manière saine?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi, il n'y a pas que les écrans dans la vie! Il y a tellement de choses amusantes à faire. Comme construire des châteaux de sable ou dessiner des arcs-en-ciel. Ces activités aident ton corps et ton esprit à rester en forme et heureux. Alors, la prochaine fois que tu veux regarder un écran, pense à toutes les autres aventures que tu pourrais vivre. C'est comme choisir entre plusieurs trésors!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Tu sais, il est aussi important de prendre des pauses régulières lorsque tu utilises un écran. Cela signifie que toutes les 20 minutes environ, tu devrais te lever et bouger un peu. Tu peux sauter comme une grenouille ou danser comme une étoile de mer! Ces petites pauses aident à garder tes yeux et ton corps en bonne santé. Et devine quoi? C'est aussi très amusant!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Génial! Tu es un vrai champion de la sécurité numérique. Continuons avec quelques habitudes saines d'écran. Comme ne pas utiliser d'écran juste avant de dormir. Cela aide ton cerveau à se détendre et à bien se préparer pour le sommeil. Imagine que ton lit est comme un coquillage doux et confortable où tu peux te reposer après une journée d'aventures. Prêt à prendre de bonnes habitudes?"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Alors, quel est ton moment préféré pour utiliser un écran? Est-ce le matin pour regarder des dessins animés ou l'après-midi pour jouer à des jeux éducatifs? Chaque moment a ses propres plaisirs, et il est important de choisir le bon moment. As-tu déjà pensé à ce que tu pourrais faire d'autre à la place? Peut-être construire une tour avec des blocs ou jouer à cache-cache?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "N'oublie pas, la technologie peut être un excellent outil pour apprendre de nouvelles choses. Par exemple, tu peux découvrir des animaux marins incroyables ou écouter des histoires passionnantes. Mais il est tout aussi important de discuter avec tes amis et ta famille. Les conversations en face à face sont comme des bulles de bonheur qui remplissent notre cœur. Alors, n'hésite pas à partager tes découvertes avec eux!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Et toi, as-tu déjà montré à ta famille ce que tu as appris en ligne? C'est une excellente façon de passer du temps ensemble. Tu peux leur montrer une vidéo amusante ou leur parler d'un jeu éducatif que tu aimes. Partager, c'est aussi apprendre à mieux se connaître. C'est comme faire une grande fête avec des bulles de joie!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant de la façon dont tu peux t'assurer que tes appareils sont utilisés en toute sécurité. Demande toujours à un adulte de t'aider à configurer des applications ou des jeux. Ils sauront quels jeux sont adaptés à ton âge. De plus, ils peuvent te montrer comment utiliser des outils de sécurité pour protéger tes informations. C'est comme avoir un grand bouclier protecteur!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, tu es vraiment sur la bonne voie pour devenir un expert en sécurité numérique! Continue à poser des questions et à apprendre. Plus tu en sauras, mieux tu pourras utiliser la technologie de manière intelligente et prudente. N'oublie pas que chaque petit pas compte et que tu es déjà impressionnant. Tu es une étoile brillante dans l'univers numérique!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu déjà essayé de créer quelque chose de nouveau en utilisant la technologie? Peut-être un dessin sur une tablette ou une petite chanson? C'est une excellente façon d'utiliser les écrans de manière créative. Que voudrais-tu créer ensuite? Un bateau en papier ou une danse rigolote? Les possibilités sont infinies et pleines de surprises!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "En résumé, le temps d'écran peut être amusant et éducatif si on l'utilise de manière équilibrée. Souviens-toi de prendre des pauses, de partager avec ta famille et de toujours être prudent en ligne. La technologie est un outil merveilleux qui peut nous aider à apprendre et à explorer le monde. Mais n'oublie jamais que les meilleures aventures se trouvent aussi en dehors des écrans. Profite de chaque moment!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Et voilà, notre aventure numérique touche à sa fin! J'espère que tu as appris beaucoup de choses aujourd'hui. N'oublie pas de partager tes nouvelles connaissances avec tes amis et ta famille. Je suis tellement fier de toi et de tout ce que tu as accompli. Merci d'avoir exploré avec moi, Bubble Buddy. À bientôt pour de nouvelles aventures, petit explorateur!"
+    }
+  ],
+  "title": "Histoire de Screen Time de Bubble Buddy"
+}

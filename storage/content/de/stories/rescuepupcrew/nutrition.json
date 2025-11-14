@@ -1,0 +1,104 @@
+{
+  "id": "rescue_pup_crew_Ernährung_gesundes_Essen_Essgewohnheiten_gesunde_Lebensmittel_story",
+  "character": "Rescue Pup Crew",
+  "topic": "Ernährung, gesundes Essen, Essgewohnheiten, gesunde Lebensmittel",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo kleiner Freund! Ich bin Rescue Pup Crew und heute gehen wir auf eine spannende Reise über Ernährung und gesundes Essen. Wir werden lernen, warum es wichtig ist, gut zu essen und welche Lebensmittel uns stark und gesund machen. Bist du bereit? Ich bin so gespannt, was du alles schon weißt. Lass uns gemeinsam etwas Neues entdecken!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über gesunde Lebensmittel gesprochen haben? Gesunde Lebensmittel sind wie ein Superkraft für unseren Körper. Sie geben uns Energie, um den ganzen Tag zu spielen und zu lernen. Gemüse, Obst, Vollkornprodukte und Milchprodukte sind einige Beispiele. Wusstest du, dass Karotten gut für deine Augen sind? Lass uns mehr darüber erfahren!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns darüber sprechen, warum es wichtig ist, verschiedene Lebensmittel zu essen. Jedes Lebensmittel gibt uns etwas Besonderes, wie Vitamine und Mineralien. Wenn wir eine bunte Mischung essen, helfen wir unserem Körper, stark und gesund zu bleiben. Denk daran, wie ein Regenbogen auf deinem Teller aussieht! Kannst du ein paar bunte Lebensmittel nennen?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du kannst das! Lass uns zusammen überlegen, wie wir jeden Tag gesunde Entscheidungen treffen können. Vielleicht können wir morgen ein neues Gemüse probieren. Oder wir tauschen den Saft gegen Wasser. Kleine Schritte machen einen großen Unterschied. Glaub an dich, du kannst das schaffen!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über gesunde Lebensmittel gesprochen haben, lass uns über Essgewohnheiten sprechen. Regelmäßige Mahlzeiten sind wichtig, weil sie unserem Körper helfen, den ganzen Tag über Energie zu haben. Frühstück ist besonders wichtig, weil es uns nach dem Schlafen einen guten Start in den Tag gibt. Was isst du gerne zum Frühstück?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Es ist wichtig, langsam zu essen und jeden Bissen zu genießen. Wenn wir zu schnell essen, merkt unser Bauch nicht, dass er satt ist. Nimm dir Zeit und kaue gut, das hilft deiner Verdauung. Lass uns zusammen 5 Sekunden zählen, während wir kauen. Eins, zwei, drei, vier, fünf. Gut gemacht!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wunderbar! Jetzt lass uns über Snacks sprechen. Gesunde Snacks können uns zwischen den Mahlzeiten Energie geben. Ein Apfel oder eine Handvoll Nüsse sind tolle Optionen. Sie sind lecker und geben uns Kraft. Versuch doch mal, morgen einen gesunden Snack zu wählen. Du kannst das!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal darüber nachgedacht, woher unser Essen kommt? Obst und Gemüse wachsen auf Bauernhöfen und in Gärten. Milch kommt von Kühen, und Brot wird aus Getreide gemacht. Ist das nicht spannend? Hast du schon einmal gesehen, wie etwas wächst? Lass uns darüber sprechen!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über das Wachsen von Lebensmitteln gesprochen haben? Pflanzen brauchen Sonne, Wasser und gute Erde, um zu wachsen. Genau wie Pflanzen brauchen wir auch die richtigen Dinge, um zu wachsen. Deswegen ist gesunde Ernährung so wichtig. Es hilft uns, groß und stark zu werden. Was möchtest du später einmal werden?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Um stark und gesund zu bleiben, sollten wir auch genug Wasser trinken. Wasser hilft uns, hydratisiert zu bleiben und gibt unserem Körper die Flüssigkeit, die er braucht. Versuche, jeden Tag genug Wasser zu trinken. Vielleicht kannst du es mit einem lustigen Trinkspiel versuchen. Lass uns zusammen drei große Schlucke nehmen. Eins, zwei, drei!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich toll! Denk daran, dass du jeden Tag gesunde Entscheidungen treffen kannst. Vielleicht kannst du deine Familie bitten, zusammen gesunde Mahlzeiten zu planen. Das macht Spaß und ist eine tolle Möglichkeit, Neues auszuprobieren. Du bist ein echter Essensheld!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Lass uns daran denken, wie wichtig es ist, gemeinsam zu essen. Familienmahlzeiten sind eine wunderbare Gelegenheit, Geschichten zu teilen und zusammen zu lachen. Es macht das Essen besonders und hilft uns, langsamer zu essen. Was ist deine Lieblingsgeschichte beim Abendessen?"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal darüber nachgedacht, wie du dein Essen zubereiten kannst? Kochen kann ein Abenteuer sein, bei dem wir neue Dinge lernen. Vielleicht kannst du deiner Familie beim Kochen helfen. Was möchtest du als nächstes lernen zu machen?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Denke daran, dass gesunde Ernährung uns hilft, uns wohl zu fühlen und voller Energie zu sein. Es ist eine Reise, und jeden Tag können wir etwas Neues lernen. Du bist auf dem richtigen Weg, ein Ernährungsexperte zu werden. Ich bin so stolz auf dich!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Ernährung und gesundes Essen zu sprechen. Du hast so viel gelernt und ich bin sicher, dass du tolle Entscheidungen treffen wirst. Ich hoffe, du hattest Spaß und bist bereit, deine neuen Kenntnisse zu nutzen. Bis zum nächsten Mal, kleiner Freund! Tschüss!"
+    }
+  ],
+  "title": "Rescue Pup Crews Nutrition Geschichte"
+}

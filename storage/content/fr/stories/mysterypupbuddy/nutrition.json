@@ -1,0 +1,104 @@
+{
+  "id": "mystery_pup_buddy_nutrition_alimentation_saine_habitudes_alimentaires_aliments_sains_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "nutrition, alimentation saine, habitudes alimentaires, aliments sains",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis Mystery Pup Buddy, le chiot détective. Aujourd'hui, nous allons explorer le monde incroyable de la nutrition et des aliments sains. Êtes-vous prêts pour une aventure délicieuse et amusante? J'adore découvrir de nouvelles choses, surtout quand il s'agit de bien manger. Alors, prenons nos loupes et commençons notre enquête sur les aliments bons pour la santé!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La première chose à savoir, c'est que la nourriture est comme le carburant pour notre corps. Imaginez une voiture qui a besoin d'essence pour avancer. Eh bien, notre corps a besoin de nourriture pour jouer, courir, et grandir fort comme un super-héros! Les fruits et légumes sont comme les super-aliments qui nous donnent plein d'énergie. Quels sont vos fruits préférés? Moi, j'adore les pommes croquantes et les carottes sucrées!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des habitudes alimentaires. C'est important de manger à des heures régulières, comme prendre un bon petit-déjeuner le matin. Le petit-déjeuner nous aide à bien commencer la journée, un peu comme un détective qui se prépare pour une grande enquête. Ne pas sauter le petit-déjeuner, c'est comme oublier sa loupe pour résoudre un mystère. Alors, quels aliments aimez-vous manger le matin?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Maintenant, parlons de l'eau. Boire de l'eau, c'est essentiel pour rester hydraté et alerte, comme un bon détective. Imaginez que votre corps est une plante; il a besoin d'eau pour rester en bonne santé. Alors, n'oubliez pas de boire de l'eau pendant la journée. Vous pouvez même compter vos verres d'eau, comme un jeu de détective! Un, deux, trois... C'est parti!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant des couleurs dans nos assiettes. Plus il y a de couleurs, mieux c'est pour notre corps. Les légumes verts comme les épinards, les légumes rouges comme les tomates, et les fruits orange comme les oranges sont tous importants. Chaque couleur apporte quelque chose de spécial pour nous aider à rester en bonne santé. C'est comme un arc-en-ciel de bienfaits dans notre assiette! Alors, quelles couleurs voyez-vous dans vos repas?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Il est aussi important de goûter de nouveaux aliments. Parfois, un aliment peut sembler étrange, mais il pourrait devenir votre préféré! Essayez de goûter un nouvel aliment chaque semaine, comme un explorateur culinaire. Cela peut être amusant et excitant, comme découvrir un nouveau mystère. Alors, quel nouvel aliment aimeriez-vous essayer cette semaine?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Génial! N'oublions pas les protéines, elles nous aident à construire des muscles forts. Les œufs, le poulet, et les haricots sont de bonnes sources de protéines. C'est comme construire une maison avec des briques solides. Plus on mange de protéines, plus on devient fort et énergique. Vous êtes tous des bâtisseurs de force incroyable!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Passons maintenant aux glucides, ils nous donnent l'énergie pour courir et sauter. Les pâtes, le riz, et le pain complet sont des glucides qui nous aident à rester actifs. Imaginez avoir une batterie pleine pour jouer toute la journée. C'est exactement ce que les glucides font pour nous! Alors, quels sont vos glucides préférés?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà pensé à la façon dont les aliments nous aident à rester en bonne santé? Chaque aliment a un rôle spécial, un peu comme les membres d'une équipe. Les fruits, légumes, protéines, et glucides travaillent ensemble pour nous garder forts et en bonne santé. Quel est votre aliment préféré dans votre équipe de super aliments?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "N'oublions pas les bonnes graisses, comme celles que l'on trouve dans les avocats et les noix. Elles sont importantes pour notre cerveau et notre cœur. C'est comme avoir une huile spéciale pour que notre corps fonctionne bien. Les bonnes graisses nous aident à penser clairement et à être heureux. Alors, avez-vous déjà essayé un avocat ou des noix?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Rappelez-vous de manger lentement et de bien mâcher vos aliments. Cela aide votre estomac à bien digérer et vous permet de profiter de chaque bouchée. Manger lentement, c'est comme lire un livre passionnant, une page à la fois. Cela rend le repas plus agréable et vous aide à sentir quand vous êtes rassasié. Alors, essayez de prendre votre temps lors de votre prochain repas!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail fantastique en apprenant tout cela! N'oubliez pas que manger sainement est une aventure amusante et pleine de découvertes. Vous êtes tous des détectives de la nutrition extraordinaires. Continuez à explorer et à découvrir de nouveaux aliments. Vous pouvez le faire, et je suis fier de vous!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Et maintenant, parlons d'un sujet important: éviter de manger trop de sucreries. Les bonbons et les gâteaux sont délicieux, mais il ne faut pas en abuser. C'est comme manger trop de friandises et oublier de manger des aliments sains. Il est important d'équilibrer ce que nous mangeons pour rester en bonne santé. Alors, comment pouvez-vous faire pour avoir un bon équilibre?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous une idée de comment choisir des collations saines? Les fruits, les légumes coupés, et les yaourts sont d'excellentes options. Ils sont non seulement délicieux, mais aussi bons pour notre corps. Alors, quelle est votre collation saine préférée? J'aimerais savoir ce que vous aimez!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir exploré le monde de la nutrition avec moi aujourd'hui! Vous avez été de fantastiques détectives de la santé. N'oubliez pas de continuer à manger sainement et à découvrir de nouveaux aliments. Je suis fier de vous et j'ai hâte de résoudre d'autres mystères avec vous. À bientôt, mes petits amis, et gardez votre loupe prête pour notre prochaine aventure!"
+    }
+  ],
+  "title": "Histoire de Nutrition de Mystery Pup Buddy"
+}

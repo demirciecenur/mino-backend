@@ -1,0 +1,98 @@
+{
+  "id": "sunny_Ernährung, gesundes Essen, Essgewohnheiten, gesunde Lebensmittel_story",
+  "character": "Sunny",
+  "topic": "Ernährung, gesundes Essen, Essgewohnheiten, gesunde Lebensmittel",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Sunny, und heute gehen wir auf eine spannende Reise über gesunde Ernährung. Bist du bereit? Wir werden lernen, warum es wichtig ist, gesundes Essen zu essen. Und wir werden viele lustige Sachen über Essgewohnheiten entdecken. Lass uns zusammen viel Spaß haben!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Gesunde Ernährung bedeutet, dass wir viele verschiedene und bunte Lebensmittel essen. Hast du schon einmal einen Regenbogen gesehen? So bunt wie ein Regenbogen sollte auch unser Essen sein! Obst und Gemüse sind wie die Farben des Regenbogens auf unserem Teller. Sie helfen uns, groß und stark zu werden. Ist das nicht aufregend?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über eine wichtige Mahlzeit sprechen: das Frühstück. Ein gutes Frühstück gibt uns Energie für den ganzen Tag. Hast du heute Morgen schon etwas Leckeres gegessen? Vielleicht ein leckeres Müsli oder ein fruchtiger Joghurt? Diese Lebensmittel helfen dir, im Kindergarten oder in der Schule aufmerksam zu sein!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lass uns zusammen überlegen, was wir heute essen könnten. Stell dir vor, wir machen einen leckeren Salat. Wir könnten rote Tomaten, grüne Gurken und gelbe Paprika hineintun. Klingt das nicht lecker? Du kannst auch helfen, alles zu mischen. Toll gemacht, du bist ein großartiger Küchenhelfer!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, woher unser Essen kommt? Viele Lebensmittel wachsen auf Feldern oder in Gärten. Vielleicht hast du schon einmal gesehen, wie Gemüse im Garten wächst. Es braucht Sonne, Wasser und viel Liebe, um groß zu werden. Und wenn es reif ist, können wir es ernten. Das ist ein bisschen wie Magie, findest du nicht?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt über Wasser sprechen. Wasser ist super wichtig für unseren Körper. Es hilft uns, gesund zu bleiben und gibt uns Energie. Wie viele Gläser Wasser hast du heute schon getrunken? Versuche, jeden Tag genug Wasser zu trinken. Dein Körper wird es dir danken!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt machen wir ein kleines Spiel. Lass uns alle gesunden Lebensmittel aufzählen, die wir heute schon gegessen haben. Vielleicht hattest du einen Apfel oder eine Banane? Oder vielleicht Karotten? Du machst das großartig! Jedes gesunde Lebensmittel, das du isst, gibt deinem Körper wichtige Nährstoffe."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, dass es auch wichtig ist, regelmäßig zu essen? Das bedeutet, dass wir unsere Mahlzeiten nicht auslassen sollten. Frühstück, Mittagessen und Abendessen sind wie kleine Energiepakete für unseren Tag. Und zwischendurch können wir gesunde Snacks wie Nüsse oder Joghurt essen. Das hält uns fit und fröhlich!"
+    },
+    {
+      "id": "question_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Warum denkst du, ist es wichtig, verschiedene Lebensmittel zu essen? Denk mal nach. Ja, es gibt uns verschiedene Vitamine und Mineralien! Das hilft uns, stark und gesund zu bleiben. Was ist dein Lieblingsobst oder -gemüse? Ich bin gespannt, was du sagst!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt sprechen wir über ein leckeres Abendessen. Stell dir vor, wir kochen eine Gemüsesuppe. Wir schneiden Karotten, Kartoffeln und Brokkoli klein. Dann kochen wir alles zusammen. Der Duft ist einfach herrlich! Eine warme Suppe ist gesund und macht uns schön satt. Hast du schon einmal eine Suppe gekocht?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wir sollten auch an unsere Zähne denken. Gesunde Zähne brauchen gesunde Lebensmittel. Zu viel Zucker kann unseren Zähnen schaden. Daher ist es wichtig, Obst und Gemüse zu essen. Und vergiss nicht, zweimal am Tag deine Zähne zu putzen. Das hält sie stark und gesund!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lass uns gemeinsam etwas Neues ausprobieren. Vielleicht ein neues Obst oder Gemüse, das du noch nie probiert hast? Manchmal kann es Spaß machen, neue Lebensmittel zu entdecken. Vielleicht findest du etwas, das du wirklich magst. Du kannst das schaffen, ich glaube an dich!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an unseren Regenbogen? Versuche, jeden Tag bunte Lebensmittel zu essen. Das macht nicht nur Spaß, sondern ist auch gut für dich. Jedes Lebensmittel hat etwas Besonderes für deinen Körper. Rot, grün, gelb – jede Farbe hat eine geheime Kraft. Ist das nicht faszinierend?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war großartig, mit dir über gesunde Ernährung zu sprechen! Ich hoffe, du hast viel gelernt und Spaß gehabt. Vergiss nicht, jeden Tag bunte und gesunde Lebensmittel zu essen. So bleibst du stark und fröhlich. Danke, dass du heute dabei warst. Bis zum nächsten Mal, mein kleiner Freund!"
+    }
+  ],
+  "title": "Sunnys Nutrition Geschichte"
+}

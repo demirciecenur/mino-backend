@@ -1,0 +1,98 @@
+{
+  "id": "shell_heroes_crew_bedtime_story",
+  "character": "Shell Heroes Crew",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola pequeños amigos! Somos el Shell Heroes Crew y estamos emocionados de estar aquí con ustedes. Hoy vamos a embarcarnos en una aventura especial sobre la hora de dormir. ¿Están listos para aprender y divertirnos juntos? La hora de dormir es un momento mágico del día donde nos relajamos y soñamos con grandes aventuras. Así que, prepárense para descubrir lo que hace que la hora de dormir sea tan especial."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos que la hora de dormir es importante, hablemos de las rutinas. Las rutinas antes de dormir nos ayudan a prepararnos para un buen sueño. Puede ser algo tan simple como leer un cuento o tomar un baño calentito. Estas actividades nos dicen a nuestro cuerpo que es hora de relajarse. ¿Tienen alguna rutina especial antes de dormir que les guste mucho?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Una de las cosas más importantes que podemos hacer antes de dormir es cepillarnos los dientes. ¡Es como darle una limpieza a nuestros dientes después de un día largo de aventuras! Al cepillarnos, nos aseguramos de que nuestros dientes estén sanos y fuertes. ¿Sabían que podemos cantar una canción mientras nos cepillamos para asegurarnos de hacerlo bien? ¡Intentémoslo la próxima vez!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ahora es el momento de practicar nuestra respiración calmada! Vamos a inhalar profundamente por la nariz contando hasta tres. Uno, dos, tres... ¡y exhalamos! Esto nos ayuda a sentirnos tranquilos y listos para dormir. ¿No es genial cómo algo tan simple puede hacernos sentir tan bien? Ustedes lo están haciendo increíble, sigamos así."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos lo que aprendimos sobre las rutinas. Las rutinas nos ayudan a sentirnos seguros y preparados para descansar. Cada noche, podemos hacer las mismas cosas que nos ayudan a relajarnos. Tal vez les guste escuchar una canción suave o mirar las estrellas desde la ventana. Todo esto nos ayuda a sentirnos listos para soñar."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "¿Saben lo importante que es tener un lugar cómodo para dormir? Nuestra cama debe ser un lugar donde nos sintamos seguros y felices. Podemos tener una manta suave y un peluche favorito a nuestro lado. Asegurémonos de que nuestro cuarto esté oscuro y tranquilo. Así, nuestro cerebro sabe que es hora de descansar."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a imaginar juntos un lugar feliz! Cerramos los ojos e imaginamos un lugar donde nos sentimos muy contentos. Puede ser una playa soleada o un bosque mágico. Este lugar nos ayuda a relajarnos y tener sueños bonitos. ¡Qué maravilloso es usar nuestra imaginación para sentirnos bien antes de dormir!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos cómo crear un ambiente perfecto para dormir, hablemos de los sueños. Los sueños son como pequeñas películas que vemos mientras dormimos. A veces soñamos con volar o con nuestros personajes favoritos. ¿Alguna vez han tenido un sueño divertido que quieran compartir? Los sueños son una parte mágica de dormir."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Qué les gustaría soñar esta noche? Podemos elegir cualquier cosa que nos haga felices. Tal vez un castillo lleno de dulces o un viaje en un cohete al espacio. Soñar es una manera maravillosa de explorar lugares nuevos. ¿Están emocionados por lo que podrían soñar esta noche?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Recuerden que cada noche es una nueva oportunidad para soñar algo diferente! Podemos contarle a alguien sobre nuestros sueños al día siguiente. A veces, compartir nuestros sueños los hace aún más especiales. ¿A quién les gustaría contarle sobre sus sueños mañana?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Mientras nos preparamos para dormir, pensemos en todas las cosas buenas que hicimos hoy. Tal vez ayudamos a alguien o aprendimos algo nuevo. Recordar estos momentos nos hace sentir felices y agradecidos. ¿Qué cosas buenas hicieron hoy que los hacen sonreír? Es una buena manera de terminar el día."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Increíble! Ahora estamos listos para una buena noche de sueño. Recuerden que cada noche es una nueva aventura. Dormir bien nos ayuda a estar llenos de energía para el día siguiente. ¡Ustedes pueden hacerlo! Mañana será otro día lleno de diversión y aprendizaje."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Antes de cerrar los ojos, pensemos en algo que esperamos hacer mañana. Tal vez jugar con amigos o aprender algo nuevo. Tener algo que esperar nos hace sentir emocionados. ¿Qué esperan hacer ustedes mañana? Es una buena manera de terminar el día con una sonrisa."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido maravilloso compartir este tiempo con ustedes, pequeños héroes. Recuerden, cada noche es una oportunidad para descansar y soñar. Nos veremos pronto para más aventuras con el Shell Heroes Crew. ¡Dulces sueños y hasta la próxima! Que tengan una noche tranquila y llena de paz."
+    }
+  ],
+  "title": "Historia de Bedtime de Shell Heroes Crew"
+}

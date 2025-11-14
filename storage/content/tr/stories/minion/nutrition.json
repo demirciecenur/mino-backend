@@ -1,0 +1,104 @@
+{
+  "id": "yellow_buddy_nutrition_story",
+  "character": "Yellow Buddy",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Yellow Buddy. Bugün birlikte beslenme dünyasına harika bir yolculuk yapacağız. Beslenme nedir biliyor musun? Beslenme, vücudumuzun güçlü ve sağlıklı kalması için ihtiyacı olan yiyecekleri yememiz demektir. Şimdi bu eğlenceli maceraya atılmaya hazır mısın? Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "İlk olarak, sağlıklı yiyeceklerin neler olduğunu keşfedelim. Meyveler, sebzeler, süt ürünleri ve tahıllar vücudumuz için çok faydalıdır. Örneğin, elmalar ve muzlar bizi enerjik yapar. Havuçlar gözlerimize iyi gelir. Peki, sen en çok hangi meyveyi seversin? Meyveler gerçekten çok lezzetli ve sağlıklıdır!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, yiyecek gruplarını daha iyi anlayalım. Meyveler ve sebzeler renkli ve lezzetli yiyeceklerdir. Tahıllar, ekmek ve makarna gibi yiyecekleri içerir. Süt ürünleri ise süt, yoğurt ve peynir gibi şeylerden oluşur. Bu yiyecekler kemiklerimizi ve dişlerimizi güçlendirir. Her gün bu yiyeceklerden yeterince yediğimizden emin olmalıyız!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi şimdi birlikte bir oyun oynayalım. Ben bir meyve söyleyeceğim, sen de onun ne olduğunu tahmin etmeye çalış. Hazır mısın? Kırmızı ve yuvarlak, elma! Harika, bildin! Şimdi başka bir tane deneyelim, turuncu ve uzun, havuç! Çok iyi gidiyorsun, devam et!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki oyunumuzda çok eğlendik değil mi? Şimdi, vücudumuzun suya da ihtiyacı olduğunu hatırlayalım. Su içmek, sağlıklı kalmamıza yardımcı olur. Gün boyunca yeterince su içtiğimizden emin olmalıyız. Su içmek, tıpkı dişlerimizi fırçalamak gibi her gün yapmamız gereken bir şeydir. Sen de su içmeyi unutmamalısın!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, su içmenin ne kadar önemli olduğunu konuştuk. Şimdi, beslenme piramidini tanıyalım. Bu piramit, hangi yiyeceklerden ne kadar yememiz gerektiğini gösterir. En altta tahıllar, sonra sebzeler ve meyveler var. En üstte ise tatlılar ve yağlar yer alır. Piramidin tepesindeki yiyecekleri az yemeliyiz. Hadi, birlikte piramidi hayal edelim!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Beslenme piramidini daha iyi anlamak için biraz daha konuşalım. Piramidin tabanında yer alan tahıllar, bize enerji verir. Sebzeler ve meyveler ise vitamin ve mineraller sağlar. Süt ürünleri ve et, protein içerir ve bizi güçlü yapar. Tatlılar ve yağlar ise sadece az miktarda tüketilmelidir. Her gün bu yiyeceklerden dengeli bir şekilde yemeliyiz."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, sağlıklı bir tabak hazırlamak için neler yapabiliriz onu düşünelim. Önce biraz salata yapalım. Salatamızda marul, domates ve salatalık olsun. Yanına da biraz tavuk ekleyelim. Ardından, bir dilim tam buğday ekmeği alalım. İşte, sağlıklı bir tabak hazır! Sen de böyle bir tabak hazırlamak ister misin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sağlıklı yemekleri birlikte hazırlamak eğlenceliydi, değil mi? Peki, sen en çok hangi yiyeceği seversin? Meyveler mi, yoksa sebzeler mi? Belki de süt ürünlerini daha çok seviyorsundur. Hangi yiyeceği seçersen seç, önemli olan dengeli ve sağlıklı beslenmektir. Senin favorin hangisi?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme hakkında konuşmaya devam edelim. Biliyor musun, kahvaltı günün en önemli öğünüdür. Kahvaltı, bize güne enerjik başlamamız için güç verir. Yumurta, süt ve ekmek gibi yiyeceklerle yapılan bir kahvaltı harika olur. Kahvaltıyı atlamamak çok önemlidir. Sen de her gün kahvaltı yapıyor musun?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kahvaltının önemini konuştuktan sonra, şimdi öğle ve akşam yemeklerine geçelim. Öğle yemeğinde sebzeler ve protein içeren yiyecekler tercih edebiliriz. Akşam yemeği ise hafif olmalıdır. Yemek saatlerinde düzenli olmak da çok önemlidir. Böylece vücudumuz her zaman enerjik kalır. Yemek saatlerine dikkat ediyor musun?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, birlikte bir nefes egzersizi yapalım. Derin bir nefes al ve yavaşça ver. Bir, iki, üç, dört, beş! Harika, şimdi daha rahatlamış hissetmelisin. Bu tür egzersizler, yemeklerden sonra da rahatlamamıza yardımcı olabilir. Sen de denemek ister misin? Hadi bir kez daha deneyelim!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Egzersizlerimizi yaptık ve şimdi beslenme hakkında öğrendiklerimizi tekrar edelim. Sağlıklı beslenmek, vücudumuzun ihtiyacı olan enerjiyi almasını sağlar. Meyveler, sebzeler ve tahıllar bu konuda bize yardımcı olur. Su içmeyi ve düzenli yemek yemeyi de unutmamalıyız. Beslenme hakkında daha fazla şey öğrenmek ister misin?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bugün öğrendiklerimizi düşündüğümüzde, beslenmenin ne kadar önemli olduğunu gördük. Peki, sen sağlıklı beslenme hakkında başka neler biliyorsun? Belki de en sevdiğin sağlıklı atıştırmalık nedir? Bizimle paylaşmak ister misin? Sağlıklı beslenme konusunda her zaman yeni şeyler öğrenebiliriz. Senin fikirlerin neler?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir beslenme yolculuğu yaptık. Sağlıklı yiyeceklerin önemini ve su içmenin faydalarını öğrendik. Her zaman dengeli beslenmeye dikkat etmeliyiz. Şimdi, öğrendiklerini ailenle ve arkadaşlarınla paylaşabilirsin. Bir sonraki maceramızda görüşmek üzere! Hoşça kal!"
+    }
+  ],
+  "title": "Yellow Buddy'ın Nutrition Hikayesi"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "super_metal_hero_imagination_story",
+  "character": "Super Metal Hero",
+  "topic": "imagination",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Super Metal Hero. Bugün imagination, yani hayal gücümüzün sihirli dünyasında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Hayal gücünle neler yapabileceğini keşfetmeye ne dersin? Bu yolculukta birlikte pek çok şey öğreneceğiz ve eğleneceğiz!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücü, zihnimizde yeni şeyler yaratmamıza olanak tanır. Mesela, bir kutu ve birkaç parça kumaşla bir kale inşa edebiliriz. Hiç düşündün mü, oyuncaklarınla bir uzay macerasına çıkabilirsin. Her şey senin hayal gücüne bağlı! Hayal gücü, sadece oyunlar için değil, aynı zamanda yeni fikirler geliştirmek için de önemlidir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi hayal gücümüzü nasıl kullanabileceğimizi öğrenelim. Öncelikle gözlerini kapat ve derin bir nefes al. Kendini bir deniz korsanı olarak hayal et; geminin direğinde rüzgarı hissedebiliyorsun. Etrafında mavi deniz ve uçsuz bucaksız bir gökyüzü var. İşte bu, hayal gücünün seni götürebileceği yerlerden sadece biri. Denemek ister misin?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi seninle birlikte hayal gücümüzü kullanarak bir hikaye oluşturalım. Birlikte bir ormanda yürüdüğümüzü hayal edelim. Ağaçların arasında saklanan sevimli hayvanlar var. Belki de bir tavşanla karşılaşıyoruz! Sen de kendine bir macera yaratabilir misin? Hadi birlikte deneyelim!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki maceramızda ormanda yürümüştük. Şimdi de hayal gücümüzle bir uzay yolculuğuna çıkalım. Kendi uzay gemimizin kaptanı olalım ve yıldızların arasında süzülelim. Uzayda kimlerle tanışabiliriz, bir düşün. Belki de başka gezegenlerde yaşayan dost canlısı uzaylılarla tanışırız. Hayal gücünle yeni dünyalar keşfetmek ne kadar eğlenceli!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi biraz nefes alalım ve sakinleşelim. Üç derin nefes alalım ve her nefeste hayal gücümüzü daha da canlandıralım. Birinci nefeste, güzel bir çiçek bahçesinde olduğumuzu hayal edelim. İkinci nefeste, gökyüzünde uçan bir kuş olalım. Üçüncü nefeste ise, en sevdiğimiz oyuncağımızla oynayalım. Hayal gücümüzü bu şekilde canlandırmak ne kadar güzel, değil mi?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi biraz yaratıcılığımızı kullanarak bir resim yapalım. Hayal ettiğimiz uzay yolculuğunu ya da ormandaki maceramızı çizebiliriz. Renkleri karıştırarak kendi dünyamızı yaratabiliriz. Her çizgi ve her renk, hayal gücümüzün bir parçası. Şimdi sen de kağıdını al ve hayal gücünü resmetmeye başla. Senin resmin nasıl olacak, çok merak ediyorum!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede resim yapmayı denemiştik. Şimdi de bir hikaye oluşturabiliriz. Baş kahramanımız kim olsun? Belki senin en sevdiğin oyuncak olabilir. Hikayemizde neler olacak, hangi maceralara atılacak? Hayal gücünle bir dünya yarat ve bu dünyada neler yaşanacağını sen belirle. Her detay, her karakter senin hayal gücünün bir parçası."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin en sevdiğin hayal gücü macerası nedir? Belki bir süper kahraman olmayı hayal ediyorsun. Yoksa sihirli bir ormanda mı yaşamak istersin? Şimdi düşün ve bana hayal gücünün en sevdiğin kısmını anlat. Hangi maceralara atılmak istersin? Cevabını çok merak ediyorum!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücünün ne kadar güçlü olduğunu gördük. Şimdi bu gücü kullanarak başka neler yapabileceğimizi düşünelim. Belki bir müzik enstrümanı çalmayı hayal edebilirsin. Ya da bir bilim insanı olup keşifler yapmayı. Hayal gücünle yapabileceklerinin sınırı yok! Her gün biraz daha hayal kurarak dünyanı genişletebilirsin."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnede hayal gücümüzle neler yapabileceğimizi konuştuk. Şimdi, hayal gücümüzü kullanarak bir oyun oynayalım. Sen bir dedektif ol ve kaybolan bir hazineyi bul. İpuçlarını takip et ve hayal gücünle bu macerayı tamamla. Her adımda yeni bir ipucu bul ve maceranı daha da heyecanlı hale getir. Bu şekilde oyunlar oynayarak hayal gücünü geliştirebilirsin."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkardın! Şimdi biraz daha ileriye gidelim ve hayal gücümüzü paylaşalım. Ailenle ya da arkadaşlarınla hayal ettiğin dünyaları anlatabilirsin. Onların da hayal gücünü kullanarak senin hikayene katkıda bulunmalarını sağla. Böylece hep birlikte daha büyük ve eğlenceli bir dünya yaratabilirsiniz. Unutma, hayal gücü paylaştıkça büyür ve güzelleşir!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede hayal gücümüzü paylaşmaktan bahsettik. Şimdi hayal gücümüzle bir dans yaratabiliriz. Her hareket bir hikaye anlatabilir. Mesela, bir kelebek gibi kanat çırpabilir ya da bir aslan gibi kükreyebilirsin. Hayal gücünü dansla birleştir ve kendi dansını yarat. Bu, yaratıcılığını ve hayal gücünü geliştirmek için harika bir yol!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence hayal gücü olmadan dünya nasıl olurdu? Belki de hiç yeni oyunlar keşfedemezdik. Ya da yeni hikayeler anlatamazdık. Senin fikrin ne, hayal gücü olmadan dünya nasıl görünürdü? Düşüncelerini benimle paylaşmak ister misin? Hayal gücünün önemini birlikte keşfetmek harika bir deneyim!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün seninle harika bir yolculuk yaptık. Hayal gücünün ne kadar güçlü ve eğlenceli olduğunu gördük. Unutma, hayal gücün seni her yere götürebilir ve her şeyi yapabilmeni sağlayabilir. Benimle bu macerada olduğun için çok mutluyum. Bir dahaki sefere yine birlikte hayal kurmak için sabırsızlanıyorum. Kendine iyi bak ve hayal kurmaya devam et!"
+    }
+  ],
+  "title": "Super Metal Hero'ın Imagination Hikayesi"
+}

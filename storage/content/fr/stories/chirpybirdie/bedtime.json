@@ -1,0 +1,104 @@
+{
+  "id": "chirpy birdie_bedtime_story",
+  "character": "Chirpy Birdie",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Salut petit ami ! Je suis Chirpy Birdie, et aujourd'hui, nous allons découvrir l'heure du coucher. Es-tu prêt à explorer avec moi ? Nous allons apprendre comment rendre l'heure du coucher amusante et relaxante. J'aime tellement le moment où on se prépare à dormir. C'est un moment de calme et de confort. Alors, commençons notre aventure ensemble !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant que nous sommes prêts, parlons de ce que nous faisons avant de dormir. Il est important de se détendre pour avoir de beaux rêves. As-tu une routine du coucher ? Peut-être aimes-tu lire un livre ou écouter une histoire. Ces petites activités aident notre corps à comprendre qu'il est temps de se reposer. Et toi, qu'aimes-tu faire avant de dormir ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une chose importante à faire avant de se coucher est de se brosser les dents. C'est comme donner un grand sourire à nos dents avant de dire bonne nuit. Prends ton dentifrice préféré et une brosse à dents douce. Fais des mouvements doux et circulaires. Cela aide à garder tes dents propres et saines. Tu vois, c'est facile et amusant !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo ! Tu es vraiment doué pour te brosser les dents. Maintenant, continuons avec un autre exercice relaxant. Prenons trois grandes respirations ensemble. Inspire profondément par le nez... et expire lentement par la bouche. Sens-tu comme cela te calme ? C'est une belle façon de se préparer à dormir. Tu peux le refaire chaque soir !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après avoir respiré calmement, tu pourrais aimer choisir ton pyjama préféré. Les pyjamas sont comme des câlins doux pour notre corps. Ils nous gardent confortables et prêts pour le sommeil. As-tu un pyjama avec tes personnages préférés ? C'est si amusant de se sentir bien dans son pyjama. Maintenant, tu es presque prêt à te glisser sous les couvertures."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Avant de te coucher, il est aussi important de ranger tes jouets. C'est comme leur dire bonne nuit à eux aussi. Tu peux les mettre dans leur boîte ou sur l'étagère. Cela rend la chambre plus ordonnée et agréable. Et puis, le matin, ils seront là pour jouer à nouveau. Ranger peut être amusant si on le fait en chantant une petite chanson !"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastique ! Tu as fait un excellent travail en rangeant tes jouets. Maintenant, il est temps de se glisser dans le lit. Imagine que ton lit est un nuage doux et moelleux. Tu peux fermer les yeux et sentir le confort t'entourer. C'est un moment parfait pour penser à toutes les belles choses de la journée. Je suis sûr que tu as fait de ton mieux aujourd'hui !"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons un peu des rêves. Les rêves sont comme des petites aventures que nous vivons pendant notre sommeil. Ils peuvent être remplis de magie et de couleurs. Peut-être rêves-tu de voler dans le ciel comme moi, Chirpy Birdie ! Ou peut-être rêves-tu de rencontrer des animaux merveilleux. Les rêves sont un moyen de voyager dans notre imagination."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est le rêve le plus merveilleux que tu as eu ? Peut-être un rêve où tu volais haut dans le ciel ? Ou un rêve où tu étais un super-héros ? Les rêves nous permettent de faire des choses incroyables. J'aimerais beaucoup savoir ce qui te fait sourire dans tes rêves. As-tu un rêve préféré que tu veux partager ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est génial de partager nos rêves, n'est-ce pas ? Maintenant, parlons de comment nous pouvons nous préparer à avoir de beaux rêves. Une bonne nuit de sommeil commence par un esprit calme. Pense à quelque chose qui te rend heureux, comme une promenade au parc ou un câlin avec un ami. Ces pensées heureuses peuvent t'aider à dormir paisiblement."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Avant de fermer les yeux, essayons un autre exercice de relaxation. Allonge-toi confortablement et imagine que tu es une étoile brillante dans le ciel. Brille doucement et laisse la lumière te réchauffer. Sens comme tout ton corps devient léger et détendu. C'est une belle façon de dire bonne nuit à la journée. Tu es prêt pour des rêves doux et paisibles."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as si bien fait aujourd'hui ! Chaque moment de ta routine du coucher t'a aidé à te détendre. Tu es maintenant prêt à dormir comme une étoile dans la nuit. Te sens-tu prêt à fermer les yeux et à rêver ? Souviens-toi, chaque nuit est une nouvelle aventure qui t'attend. Je suis sûr que tu feras de beaux rêves."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, alors que tu es tout détendu, pense aux sons doux qui t'entourent. Peut-être entends-tu le vent dans les arbres ou le doux tic-tac d'une horloge. Ces sons peuvent être apaisants et t'aider à t'endormir. Écoute attentivement et laisse ces sons t'envelopper dans un cocon de calme. C'est comme une berceuse douce pour tes oreilles."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "N'est-ce pas merveilleux de se sentir si calme avant de dormir ? Maintenant, pense à quelque chose qui te fait sourire. Peut-être un souvenir heureux de la journée, comme jouer avec un ami ou dessiner un beau dessin. Ces pensées heureuses sont comme un câlin pour ton cœur. Elles te gardent en sécurité et heureux pendant que tu dors."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Il est temps pour moi de dire bonne nuit, mon petit ami. Je suis si heureux d'avoir partagé ce moment avec toi. N'oublie pas que chaque nuit est une nouvelle aventure. Je te souhaite de doux rêves remplis de joie et de magie. Fais de beaux rêves, et à bientôt pour une autre aventure avec moi, Chirpy Birdie. Bonne nuit et dors bien !"
+    }
+  ],
+  "title": "Histoire de Bedtime de Chirpy Birdie"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "mino_feeling_sad_story",
+  "character": "Mino",
+  "topic": "feeling sad",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mino, senin dost canlısı uzay arkadaşın. Bugün birlikte üzgün hissetmek hakkında harika bir yolculuğa çıkacağız. Üzgün hissetmenin ne demek olduğunu ve bu duyguyla nasıl başa çıkabileceğimizi keşfedeceğiz. Hazır mısın? Seni çok merak ediyorum, hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda üzgün hissetmekten bahsetmiştik. Üzgün hissetmek, bazen kalbimizin biraz ağırlaştığı bir duygudur. Bu his, bazen oyuncaklarımızı kaybettiğimizde veya arkadaşlarımızla anlaşamadığımızda ortaya çıkabilir. Hepimiz bazen üzgün hissederiz ve bu tamamen normaldir. Şimdi, üzgün hissettiğimizde neler yapabileceğimizi öğrenelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Üzgün hissettiğinde derin bir nefes almak çok faydalı olabilir. Derin nefes almak, kalbimizi ve zihnimizi sakinleştirir. Şimdi birlikte üç derin nefes alalım. Hazır mısın? Bir, iki, üç... Harika! Nefes alıp vermek, bizi daha iyi hissettirebilir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Üzgün hissettiğimizde bir başka harika şey de, duygularımızı birine anlatmaktır. Annen, baban veya sevdiğin bir arkadaşınla konuşabilirsin. Onlar seni dinleyecek ve seni daha iyi hissettirebilirler. Kendini ifade etmek, kalbimizin hafiflemesine yardımcı olur. Bu yüzden duygularını paylaşmaktan çekinme, olur mu?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede nefes almanın ve duygularımızı paylaşmanın önemini öğrenmiştik. Şimdi, üzgün hissettiğimizde yapabileceğimiz başka şeylere bakalım. Sevdiğin bir şarkıyı dinlemek veya resim yapmak, seni mutlu edebilir. Hatta bir hikaye okuyarak veya yeni bir şey öğrenerek de kendini daha iyi hissedebilirsin. Bunlar, üzgün hissettiğinde denemek isteyebileceğin güzel aktiviteler."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda eğlenceli aktivitelerden bahsetmiştik. Şimdi, birlikte bir resim yapmaya ne dersin? Hayal gücünü kullanarak sevdiğin şeyleri çizebilirsin. Çizim yapmak, duygularımızı ifade etmenin harika bir yoludur. Denemek ister misin? Hadi başlayalım!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Biraz önce birlikte resim yapmayı denemiştik. Şimdi, üzgün hissettiğimizde ne yapabileceğimizi bir kez daha hatırlayalım. Arkadaşlarınla oyun oynamak veya dışarıda koşup oynamak da seni mutlu edebilir. Hareket etmek ve enerjimizi atmak, duygularımızı düzenlememize yardımcı olur. Unutma, dışarıda olmak ve hareket etmek seni her zaman daha iyi hissettirebilir."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir önceki konuşmamızda hareket etmenin önemini öğrenmiştik. Şimdi, bir başka harika yöntemden bahsedelim: şükran duygusu. Şükran, sahip olduğumuz güzel şeylere minnettar olmaktır. Şimdi birlikte, sahip olduğumuz üç güzel şeyi düşünelim. Belki oyuncakların, arkadaşların veya güneşli bir gün olabilir. Hadi sayalım, bir, iki, üç... Harika!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bir önceki sahnede şükran duymaktan bahsetmiştik. Peki, senin mutlu olduğun şeyler nelerdir? Belki en sevdiğin oyuncak, en sevdiğin yemek veya en sevdiğin arkadaşın olabilir. Düşün ve bana söyle, neler seni mutlu ediyor? Seni dinliyorum, hadi paylaş!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sorumda seni mutlu eden şeyleri düşünmeni istemiştim. Şimdi, kendimizi daha iyi hissetmek için başka ne yapabileceğimizi keşfedelim. Bazen bir hikaye dinlemek veya okumak da bizi mutlu edebilir. Hikayeler, bizi farklı dünyalara götürür ve hayal gücümüzü geliştirir. Sen de sevdiğin bir hikayeyi benimle paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir önceki konuşmamızda hikayelerin gücünden bahsetmiştik. Şimdi, başka bir yöntem daha var: kendimize iyi bakmak. Sağlıklı yiyecekler yemek ve yeterince uyumak, bizi daha mutlu ve enerjik yapar. Vücudumuza iyi baktığımızda, duygularımızı daha iyi yönetebiliriz. Bu yüzden, sağlıklı alışkanlıklar edinmek çok önemlidir."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnede sağlıklı alışkanlıklardan bahsetmiştik. Şimdi, birlikte biraz hareket etmeye ne dersin? Hadi birlikte yerimizde zıplayalım. Bir, iki, üç... Zıplamak çok eğlenceli, değil mi? Hareket etmek, bizi her zaman daha canlı hissettirir. Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bir önceki sahnede zıplamayı denemiştik. Seninle gurur duyuyorum! Unutma, üzgün hissettiğinde yalnız değilsin ve birçok yol var. Duygularını paylaşmak, nefes almak ve hareket etmek seni daha iyi hissettirebilir. Sen bunu yapabilirsin, ben sana inanıyorum!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte üzgün hissetmek hakkında çok şey öğrendik. Seninle bu yolculuğa çıktığım için çok mutluyum. Unutma, her zaman duygularını paylaşabilir ve kendini daha iyi hissetmek için adımlar atabilirsin. İyi ki varsın! Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Mino'ın Feeling Sad Hikayesi"
+}

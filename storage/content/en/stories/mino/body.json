@@ -1,0 +1,104 @@
+{
+  "id": "mino_body_story",
+  "character": "Mino",
+  "topic": "body",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little explorers! I'm Mino, your space buddy, and today we're going to have a fun adventure learning all about our amazing bodies. Are you ready to join me on this journey? Our bodies are like magical spaceships that help us do everything we love, from playing to jumping and even giving hugs. Isn't that exciting? Let's get started and discover how our bodies work together like a team!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Did you know that our bodies have lots of parts that help us move and play? Our arms and legs are like super strong rockets that let us run around and reach for the stars. When we clap our hands, it's like making music with our own body instruments. And our feet help us dance and jump high, just like bouncing on a trampoline. Isn't it amazing how every part has a special job?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's take a closer look at our hands. Our fingers are like tiny explorers, helping us pick up toys and draw colorful pictures. Can you wiggle your fingers like little worms in the dirt? Great! Our thumbs are super special because they help us hold things tight, like when we hold a spoon to eat yummy food. Let's give our thumbs a big thumbs-up for all the great work they do!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Now, let's talk about our amazing legs. They are like powerful engines that help us run fast and jump high. Can you pretend to be a rocket and blast off into space by jumping up? Wow, you're flying high! Our knees help us bend and move smoothly, just like a robot. Let's give them a gentle pat and say, 'Thank you, knees!' for being so bendy and strong."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Our tummy is another important part of our body. It's like a little factory that turns food into energy so we can play and have fun. When we eat our meals, our tummy works hard to keep us strong and healthy. Let's give our tummies a gentle rub and say, 'Thank you, tummy,' for being such a great helper. Remember, eating fruits and veggies is like giving our tummy super fuel!"
+    },
+    {
+      "id": "scene_5",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Now, let's take a deep breath together. Breathing is how we fill our bodies with air, just like blowing up a balloon. Can you breathe in slowly through your nose and then blow out like you're blowing bubbles? Great job! Our lungs are like big balloons inside our chest, and they help us breathe in fresh air. Let's give them a round of applause for all their hard work!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Our hearts are like tiny drums that keep beating to a special rhythm. They pump blood all around our bodies, giving us energy to play and learn. Can you feel your heartbeat by placing your hand on your chest? It's like a little drum playing a happy song just for you. Our hearts love it when we move and play, so let's keep them happy by dancing and jumping around!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's talk about our eyes. They're like tiny cameras that help us see the world around us. We can see colors, shapes, and even our friends' smiling faces. Can you blink your eyes like a butterfly flapping its wings? Wonderful! Our eyes work best when we take care of them by not staring at screens for too long. Let's give our eyes a gentle blink and say, 'Thank you, eyes,' for showing us so many amazing things!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Our ears are like magical receivers that help us hear sounds and music. They catch the sounds of birds chirping, the wind blowing, and our friends laughing. Can you cup your hands around your ears and listen carefully? Great listening! Our ears love it when we keep the volume down to protect them from loud noises. Let's give our ears a gentle wiggle and say, 'Thank you, ears,' for helping us hear all the fun sounds!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, let's think about our noses. They're like tiny detectives that help us smell yummy foods and beautiful flowers. Can you take a deep sniff and imagine your favorite smell? Maybe it's cookies baking or fresh flowers. How does it make you feel when you smell something nice? Our noses love it when we breathe in fresh air. Let's thank our noses for helping us discover all the wonderful scents around us."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Our skin is like a cozy blanket that covers and protects our whole body. It helps us feel warm hugs and cool breezes. When we touch something soft, like a teddy bear, our skin tells our brain what it feels like. Isn't that amazing? Our skin loves it when we keep it clean and safe by washing our hands and wearing sunscreen. Let's give our skin a gentle hug and say, 'Thank you, skin,' for keeping us safe and comfy!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Our brains are like super computers that help us think, learn, and remember. They work hard to help us solve puzzles and play games. Can you tap your head gently and say, 'Hello, brain!'? Our brains love it when we take time to rest and sleep, just like recharging a battery. Let's thank our brains for all the amazing things they help us do every day."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Our bodies are full of surprises, and every part is important. From our strong bones that help us stand tall to our muscles that help us move and play, everything works together like a big team. Can you give yourself a big hug and say, 'Thank you, body,' for being so wonderful? Remember, taking care of our bodies helps us stay healthy and happy. You can do it!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What is your favorite thing about your body? Is it how fast you can run, how high you can jump, or maybe how you can make music with your hands? Our bodies are so special because they help us do all the things we love. Let's celebrate our bodies by giving them a little dance. How does it make you feel when you think about all the amazing things your body can do?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Wow, what an incredible journey we've had today learning about our amazing bodies! Remember, your body is your best friend, and taking care of it helps you do all the things you love. Thank you for joining me on this adventure. Keep exploring and taking care of your wonderful body every day. Until next time, keep smiling and stay curious, little explorers. Goodbye for now!"
+    }
+  ],
+  "title": "Mino's Body Story"
+}

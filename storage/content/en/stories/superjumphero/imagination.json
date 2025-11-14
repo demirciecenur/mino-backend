@@ -1,0 +1,104 @@
+{
+  "id": "super_jump_hero_imagination_story",
+  "character": "Super Jump Hero",
+  "topic": "imagination",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friends! I'm Super Jump Hero, ready to bounce into a world of imagination with you today. We're going to explore the amazing power of our minds to create and dream. Are you excited? I sure am! Let's put on our thinking caps and jump into an adventure full of fun and creativity. Are you ready to imagine with me?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Imagination is like having a magic key to a world where anything is possible. Have you ever pretended that your living room was a jungle, or that your bed was a pirate ship? That's your imagination at work! It helps us create new worlds and stories in our minds. Just like when you play dress-up and become a superhero or a princess. Isn't it amazing how we can be anything we want with just a little imagination?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's think about how we can use our imagination every day. Imagine you're a brave explorer, and your backyard is a mysterious land full of hidden treasures. Or perhaps you're a chef creating the most delicious meal using mud pies and leaves. Using our imagination makes every day an adventure. It helps us solve problems and makes playtime even more fun. Can you think of a time when you used your imagination today?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job using your imagination! Now, let's pretend we're on a magical island filled with friendly dragons. Can you see them flying around? They're colorful and gentle, and they love to play games. Let's flap our arms like dragon wings and fly high in the sky! Wonderful! Look at how high we're soaring! You can do it! Imagination can take us anywhere we want to go."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about using imagination to make playtime fun? Let's continue our adventure by imagining we're deep-sea divers. The ocean is full of colorful fish and hidden treasures. Can you see the shiny pearls and sparkling jewels? Imagine you're swimming with dolphins and exploring coral reefs. Isn't it amazing how our minds can create such vibrant pictures? Let's dive deeper and discover even more wonders!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's use our imagination to solve a little puzzle. Imagine you're in a magical garden with flowers that sing when they bloom. Each flower has a different song. How would you make them sing? Maybe a gentle breeze or a sprinkle of rain? Think about how you would make this garden come alive with music. Our imagination helps us find creative solutions to make things happen. What song do you hear in your magical garden?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful job with your imagination! Let's imagine we're astronauts on a space mission now. We're floating among the stars, and there's a friendly alien waving at us. Can you wave back? Great! The alien has invited us to a space party with dancing stars and moon cakes. Let's float around and dance with the stars. Your imagination is amazing, and it can take us to the moon and beyond!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's imagine we're in a land made entirely of candy. The trees have chocolate leaves, and the rivers flow with sweet lemonade. Can you taste the candy apples? Yum! Imagination lets us experience things that are not real, but feel so real in our minds. It's like having a secret world that we can visit anytime we want. What kind of candy would you find in your candy land?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Imagine if you could talk to animals. What would you say to a friendly lion or a wise old owl? Would you ask them about their adventures or tell them about yours? Talking to animals in our imagination can teach us about kindness and understanding. What animal would you like to have a chat with today?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "That's a great choice! Remember, our imagination lets us explore and learn new things all the time. Whether it's talking to animals or flying with dragons, the possibilities are endless. Each day is a new adventure waiting to happen. What new adventure will you imagine tomorrow?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's imagine we're artists with a giant blank canvas. We can paint anything we want. Perhaps a rainbow over a magical castle, or a field of sunflowers that sing in the breeze. Imagination is like having a magical paintbrush that brings our dreams to life. What would you paint on your canvas today?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastic ideas! Now, let's imagine we're superheroes with amazing powers. Maybe you can fly or become invisible! What would your superhero name be? Let's put on our capes and save the day, using our imagination to help others and make the world a better place. Remember, you have the power to create and imagine anything!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's take a moment to relax and imagine a peaceful place. Maybe it's a quiet forest with tall trees and chirping birds. Or perhaps a cozy room with a soft blanket and a storybook. Let's take a deep breath in and imagine we're there. Ahh, isn't that calming? Imagination can also help us feel peaceful and happy. Let's take another deep breath together."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What other peaceful places can you imagine? Maybe a sunny beach with gentle waves, or a garden full of colorful butterflies. Our imaginations can take us to these places whenever we need a moment of calm. Isn't that wonderful? What peaceful place will you imagine next time you need to relax?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for using your imagination with me today! We've traveled to magical lands, met friendly creatures, and even became superheroes. Remember, your imagination is a powerful tool that you can use every day. I'm so proud of you for being such a creative adventurer. Until next time, keep dreaming and imagining new adventures. Goodbye, little friends!"
+    }
+  ],
+  "title": "Super Jump Hero's Imagination Story"
+}

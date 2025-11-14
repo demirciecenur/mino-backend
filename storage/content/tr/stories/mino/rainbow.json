@@ -1,0 +1,104 @@
+{
+  "id": "mino_rainbow_story",
+  "character": "Mino",
+  "topic": "rainbow",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostlarım! Ben Mino, uzayın derinliklerinden gelen renkli bir dost. Bugün sizinle gökkuşağının harika dünyasında bir yolculuğa çıkacağız. Gökkuşağı, yağmurun ardından gökyüzünde beliren renkli bir köprüdür. Hazır mısınız? Renklerin büyülü dünyasında maceraya atılmak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Gökkuşağı, güneş ışınlarının yağmur damlacıklarından geçerek farklı renklere ayrılmasıyla oluşur. Peki, bu renkleri biliyor musunuz? Kırmızı, turuncu, sarı, yeşil, mavi, lacivert ve mor renkleri gökkuşağını süsler. Her bir renk, doğanın bize sunduğu birer hediye gibidir. Şimdi birlikte bu renkleri daha yakından tanıyalım."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kırmızı, gökkuşağının en sıcak rengidir ve bize cesareti hatırlatır. Turuncu ise enerjik ve neşeli bir renktir. Sarı, tıpkı güneş gibi ışıl ışıl parlayan bir renktir ve mutluluğu simgeler. Yeşil, doğanın rengidir ve huzur verir. Mavi, denizlerin ve gökyüzünün rengidir, sakinleştirici bir etkisi vardır. Lacivert ve mor ise gizemli ve derin renklerdir. Her bir renk, farklı duygular uyandırır."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bu renkleri hayal edelim. Gözlerinizi kapatın ve gökkuşağının altından geçtiğinizi düşünün. Kırmızıdan mora kadar her renk, sizi farklı bir maceraya davet ediyor. Sen de bu renkleri hayatında nasıl kullanabileceğini düşünebilirsin. Belki de odanı bu renklerle süslemek istersin. Hayal gücünü kullanarak harikalar yaratabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda renklerin ne kadar büyüleyici olduğunu öğrendik. Şimdi, gökkuşağının nasıl oluştuğunu daha detaylı inceleyelim. Güneş ışığı, beyaz gibi görünse de aslında birçok renkten oluşur. Yağmur damlaları, bu ışığı kırarak renklerine ayırır. Bu yüzden gökkuşağı genellikle yağmurdan sonra çıkar."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi bir deney yapalım! Bir bardak su ve bir ayna alın. Aynayı suyun içine yerleştirin ve güneş ışığını aynaya yansıtın. Duvara yansıyan ışıkta küçük bir gökkuşağı görebilirsiniz. Bu, ışığın nasıl renklerine ayrıldığını gösterir. Denemek eğlenceli değil mi? Bilim ve doğa harika bir ikilidir!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bu deneyde gördüğünüz gibi, gökkuşağı oluşturmak çok da zor değil. Sen de evde bu deneyleri yaparak renklerin dünyasını keşfedebilirsin. Gökkuşağı gibi doğanın sunduğu güzellikleri keşfetmek çok heyecan verici. Her renk, yeni bir keşif demek. Sen de bu keşiflere katılmak ister misin?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hatırlıyor musunuz, gökkuşağının renkleri sırasıyla kırmızı, turuncu, sarı, yeşil, mavi, lacivert ve mor. Bu sıralamayı hatırlamak için 'Kırmızı, Turuncu, Sarı, Yeşil, Mavi, Lacivert, Mor' diye tekrar edebiliriz. Hadi birlikte deneyelim! Renkleri bu şekilde sıralamak, gökkuşağını daha kolay hatırlamamıza yardımcı olur."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, senin en sevdiğin renk hangisi? Gökkuşağındaki renklerden birini seçebilirsin. Belki kırmızının cesaretini, belki de mavinin huzurunu seversin. Hangi renk seni daha çok etkiliyor? Cevabını çok merak ediyorum!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Gökkuşağı, sadece bir doğa olayı değil, aynı zamanda birçok kültürde umut ve barış sembolüdür. İnsanlar, gökkuşağını gördüklerinde mutlu hissederler. Çünkü bu renkli köprü, kötü hava koşullarının ardından gelen güzelliği temsil eder. Gökkuşağı, bize her zaman umut etmeyi ve sabırlı olmayı öğretir."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Gökkuşağını çizmek ister misin? Bir kağıt ve renkli kalemler alarak başlayabilirsin. Her bir rengi dikkatlice yerleştir ve kendi gökkuşağını yarat. Çizim yaparken, her rengin ne ifade ettiğini düşünebilirsin. Bu, seni hem eğlendirecek hem de renkleri daha iyi anlamanı sağlayacak."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika işler çıkardın! Renklerle oynamak ve onları keşfetmek çok eğlenceli değil mi? Senin de kendi gökkuşağını yaratman beni çok mutlu etti. Bu tür aktivitelerle yaratıcılığını geliştirebilirsin. Sen harikasın, bunu unutma!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda gökkuşağının nasıl çizileceğini öğrendik. Şimdi, gökkuşağını doğada nasıl görebileceğimizi konuşalım. Yağmurdan sonra dışarı çıkıp gökyüzüne bakarsanız, belki bir gökkuşağıyla karşılaşabilirsiniz. Gökkuşağını görmek, doğanın bize sunduğu en güzel sürprizlerden biridir."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Eğer bir gökkuşağının altından geçebilseydin, nereye gitmek isterdin? Belki de macera dolu bir ormana ya da sihirli bir krallığa. Hayal gücün seni nereye götürüyor? Cevabını çok merak ediyorum, küçük kaşif!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte gökkuşağının renkli dünyasında harika bir yolculuk yaptık. Renklerin büyüsü ve doğanın güzelliği bizi gerçekten etkiledi. Seninle bu macerayı paylaşmak çok keyifliydi. Bir dahaki buluşmamızda başka bir maceraya atılmak üzere, hoşça kal! Renklerin her zaman seninle olsun!"
+    }
+  ],
+  "title": "Mino'ın Rainbow Hikayesi"
+}

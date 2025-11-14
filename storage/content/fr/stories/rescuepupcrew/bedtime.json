@@ -1,0 +1,104 @@
+{
+  "id": "rescue_pup_crew_bedtime_story",
+  "character": "Rescue Pup Crew",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis le Rescue Pup Crew. Aujourd'hui, nous allons vivre une aventure incroyable sur le thème de l'heure du coucher. Es-tu prêt ? Je suis tellement curieux d'en savoir plus sur toi. L'heure du coucher est un moment spécial pour se détendre et se préparer à une bonne nuit de sommeil. Ensemble, nous allons explorer comment rendre ce moment amusant et relaxant. Allons-y !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'heure du coucher commence par une routine. Sais-tu ce qu'est une routine ? C'est une série d'activités que nous faisons chaque soir avant d'aller au lit. Par exemple, nous pouvons commencer par ranger nos jouets. Cela aide à garder notre chambre bien rangée et prête pour le lendemain. Ensuite, nous pouvons mettre notre pyjama préféré pour être à l'aise et confortable."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons du brossage des dents. C'est une étape importante avant d'aller dormir. Prendre soin de nos dents les garde fortes et en bonne santé. Tu peux utiliser une brosse à dents amusante et un dentifrice au goût que tu aimes. N'oublie pas de brosser pendant deux minutes, c'est le temps parfait pour que tes dents soient bien propres."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Maintenant que tes dents sont toutes propres, c'est le moment de se détendre un peu. Nous pouvons lire une histoire ensemble. Choisis une histoire que tu aimes, quelque chose qui te fait sourire. La lecture avant le coucher aide notre esprit à se calmer et à se préparer pour le sommeil. C'est aussi un moment spécial à partager avec papa ou maman."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après la lecture, il est temps de faire quelques exercices de relaxation. Commençons par prendre trois grandes respirations. Inspire profondément, puis expire lentement. Cela aide notre corps à se détendre et à se sentir calme. Tu peux aussi imaginer un endroit paisible comme une plage ou une forêt. Cela rend l'endormissement plus facile et agréable."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre activité relaxante est d'écouter de la musique douce. As-tu une chanson préférée pour t'endormir ? La musique calme peut nous aider à nous sentir en sécurité et apaisés. Choisis une mélodie douce qui te fait te sentir bien. Ferme les yeux et laisse la musique te bercer doucement vers le sommeil."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "N'oublions pas de dire bonne nuit à nos peluches ! Elles adorent recevoir un câlin avant de dormir. Choisis ton doudou préféré et serre-le fort. Cela te donnera une sensation de chaleur et de confort. Tu peux aussi lui raconter un petit secret ou lui souhaiter de beaux rêves. C'est une belle façon de terminer la journée."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de l'importance d'un bon sommeil. Dormir bien nous aide à grandir et à être en bonne santé. Cela nous donne aussi beaucoup d'énergie pour jouer et apprendre le lendemain. As-tu remarqué comment tu te sens après une bonne nuit de sommeil ? C'est comme avoir une super-puissance pour affronter la journée !"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dis-moi, as-tu un rêve préféré que tu aimes faire la nuit ? Peut-être que tu rêves de voler comme un oiseau ou de nager avec les poissons. Les rêves sont comme des aventures que nous vivons pendant que nous dormons. C'est amusant de penser à ce que nous pourrions rêver ce soir. Que dirais-tu de partager ton rêve préféré avec moi ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est merveilleux d'entendre parler de tes rêves ! Tu sais, chaque rêve est unique et spécial, tout comme toi. Les rêves nous aident à imaginer et à explorer des mondes fantastiques. Parfois, ils peuvent même nous donner des idées pour jouer le lendemain. Continue de rêver et de laisser ton imagination s'envoler."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Avant de nous endormir, pensons à quelque chose de positif qui s'est passé aujourd'hui. Peut-être as-tu joué avec un ami ou appris quelque chose de nouveau. Ces pensées heureuses nous aident à nous sentir bien avant de dormir. C'est comme un petit trésor que nous gardons dans notre cœur pour la nuit. Qu'est-ce qui t'a rendu heureux aujourd'hui ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as fait un excellent travail en te préparant pour le coucher. Chaque étape que tu as suivie t'aide à te sentir prêt pour une bonne nuit de sommeil. Tu es un vrai champion de l'heure du coucher ! Continue de pratiquer ta routine chaque soir et tu verras combien c'est agréable de bien dormir. Tu peux être fier de toi !"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, il est temps de se glisser dans le lit. Assure-toi que ton oreiller est bien moelleux et que ta couverture est bien en place. Ferme les yeux et imagine un nuage doux qui te berce doucement. Laisse-toi emporter par ce nuage vers le pays des rêves. Tu es en sécurité et prêt pour une nuit paisible."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Es-tu prêt à t'endormir maintenant ? As-tu tout ce dont tu as besoin pour passer une bonne nuit ? Si tu as besoin d'un dernier câlin ou d'une chanson douce, c'est le moment parfait pour demander. Nous voulons que tu te sentes complètement à l'aise avant de fermer les yeux. Que dirais-tu d'une dernière pensée joyeuse avant de dormir ?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était un plaisir de passer ce moment de coucher avec toi. J'espère que tu te sens détendu et prêt à avoir de beaux rêves. N'oublie pas que chaque nuit est une nouvelle aventure dans le monde des rêves. Je te souhaite une nuit douce et paisible. Fais de beaux rêves, petit ami, et à très bientôt pour une nouvelle aventure avec le Rescue Pup Crew. Bonne nuit !"
+    }
+  ],
+  "title": "Histoire de Bedtime de Rescue Pup Crew"
+}

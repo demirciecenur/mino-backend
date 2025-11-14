@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_friendship_story",
+  "character": "Spider Fighter",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Spider Fighter, y hoy vamos a vivir una aventura increíble sobre la amistad. ¿Estás listo para aprender y divertirnos juntos? La amistad es como una telaraña mágica que nos conecta con los demás. A lo largo de este viaje, descubriremos cómo hacer amigos y mantenerlos cerca. ¡Estoy tan emocionado de comenzar esta aventura contigo!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de lo que significa ser un buen amigo. Un buen amigo es alguien que te escucha cuando hablas y comparte sus juguetes. Imagina que tienes un juguete favorito y lo compartes con un amigo. Eso hace que ambos se sientan felices y especiales. También es importante ser amable y decir palabras bonitas como 'por favor' y 'gracias'. ¿Puedes pensar en un momento en que fuiste un buen amigo?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Recuerda cuando hablamos de compartir juguetes. Vamos a practicar cómo hacerlo. Si tienes un juguete cerca, imagina que estás compartiéndolo conmigo. Ahora, di 'aquí tienes, amigo'. ¡Eso fue genial! Compartir es una forma maravillosa de mostrar amistad. También puedes pedirle a tu amigo que juegue juntos, como construir una torre de bloques. ¡Jugar juntos hace que las aventuras sean más emocionantes!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora que sabes cómo compartir, hablemos de jugar juntos. Jugar es una excelente manera de conocer mejor a tus amigos. Puedes jugar a ser superhéroes como yo, Spider Fighter, y salvar la ciudad juntos. O quizás prefieras jugar a las escondidas en el parque. Cualquier juego que elijas, asegúrate de que todos se diviertan. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¿Recuerdas cuando mencionamos las palabras bonitas? Decir 'lo siento' cuando cometemos un error es también muy importante. A veces, incluso los superhéroes como yo cometen errores, pero lo importante es aprender de ellos. Si accidentalmente empujas a un amigo, decir 'lo siento' puede hacer que se sienta mejor. Así, tu amigo sabrá que te importa. ¿Puedes pensar en una vez que dijiste 'lo siento'?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, practiquemos decir 'lo siento'. Imagina que accidentalmente le pisaste el pie a un amigo. Puedes decir, 'Lo siento, no fue mi intención'. ¿Ves cómo esas palabras pueden hacer que alguien se sienta mejor? Ahora, intentémoslo juntos. ¡Lo hiciste muy bien! Recordar pedir disculpas es un superpoder en la amistad. ¡Sigue practicando y serás un experto!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Maravilloso! Ahora que sabes cómo compartir y pedir disculpas, hablemos de escuchar. Escuchar a tus amigos es como escuchar los sonidos de la ciudad, como un verdadero Spider Fighter. Cuando un amigo te cuenta algo, presta atención y mírale a los ojos. Esto le muestra que te importa lo que está diciendo. ¡Tú puedes ser un gran oyente!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, escuchar significa esperar tu turno para hablar. Imagina que estás en un juego de preguntas y respuestas. Primero, escucha atentamente lo que dice tu amigo. Luego, cuando termine, puedes compartir tus pensamientos. Esto hace que la conversación sea divertida y todos se sientan valorados. ¿Recuerdas una vez que escuchaste con atención a un amigo?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Practiquemos ser buenos oyentes. Imagina que un amigo te está contando sobre su día. Míralo a los ojos y asiente con la cabeza para mostrar que estás escuchando. Cuando termine, puedes preguntarle algo como '¿Cómo te sentiste?' Esto muestra que te importa su historia. ¡Eres un oyente increíble!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Impresionante! Ahora que sabes cómo ser un buen amigo, practiquemos ser valientes. A veces, hacer nuevos amigos puede dar un poco de miedo, como enfrentar a un villano. Pero recuerda, ser valiente significa intentarlo incluso cuando te sientes nervioso. Puedes empezar diciendo 'hola' o invitando a alguien a jugar. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Cuando haces nuevos amigos, es como añadir nuevos hilos a tu telaraña de amistad. Cada hilo hace que la telaraña sea más fuerte y especial. Puedes encontrar nuevos amigos en el parque, en la escuela, o incluso en tu vecindario. Solo necesitas una sonrisa y unas palabras amables para comenzar una gran amistad. ¿Te gustaría intentar hacer un nuevo amigo hoy?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar cómo saludar a un nuevo amigo. Imagina que ves a alguien nuevo en el parque. Puedes decir, 'Hola, me llamo [tu nombre]. ¿Te gustaría jugar conmigo?' Practiquemos juntos. ¡Perfecto! Hacer nuevos amigos es una aventura emocionante. ¡Eres valiente y amable!"
+    },
+    {
+      "id": "question_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabías que cada amigo es único y especial? Algunos amigos pueden gustarles los juegos de aventuras, mientras que otros prefieren los juegos tranquilos. ¿Te gustaría compartir qué tipo de juegos te gustan más? ¡Estoy seguro de que tienes muchas ideas geniales para compartir con tus amigos!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué ideas tan maravillosas tienes! Es importante recordar que cada amigo puede tener diferentes gustos y eso es lo que hace que la amistad sea tan emocionante. Puedes aprender nuevas cosas de cada amigo, como nuevos juegos o historias. ¿Te gustaría explorar más juegos con tus amigos?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido una aventura increíble aprender sobre la amistad contigo. Recuerda, ser un buen amigo significa compartir, escuchar, y ser valiente. Cada pequeño gesto cuenta y hace que la telaraña de la amistad sea más fuerte. Estoy muy orgulloso de ti y de lo que has aprendido hoy. ¡Espero que tengas muchas aventuras divertidas con tus amigos! Hasta la próxima, pequeño héroe."
+    }
+  ],
+  "title": "Historia de Friendship de Spider Fighter"
+}

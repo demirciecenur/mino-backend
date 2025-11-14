@@ -1,0 +1,98 @@
+{
+  "id": "rescue_pup_crew_confidence_story",
+  "character": "Rescue Pup Crew",
+  "topic": "confidence",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy el Equipo de Rescate de los Cachorros, y hoy vamos a embarcarnos en una increíble aventura sobre la confianza. ¿Estás listo? Estoy tan emocionado de conocer más sobre ti y de aprender juntos. Aprenderemos cómo sentirnos seguros y valientes en todo lo que hacemos. ¡Esto será muy divertido! Así que, ¡vamos a comenzar!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confianza es como una capa mágica que nos ayuda a sentirnos seguros cuando intentamos algo nuevo. ¿Alguna vez has sentido mariposas en el estómago antes de hacer algo por primera vez? Eso es normal, pero con confianza, esas mariposas se convierten en energía para hacerlo bien. La confianza nos ayuda a decir '¡Puedo hacerlo!' incluso cuando algo parece difícil. Es como cuando aprendiste a andar en bicicleta, al principio parecía complicado, pero con práctica y confianza, lo lograste. Ahora, vamos a descubrir cómo podemos aumentar nuestra confianza cada día."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para construir confianza, podemos empezar por hacer cosas pequeñas. Como, por ejemplo, ¿te acuerdas de la primera vez que ataste tus zapatos? Al principio podía ser complicado, pero al practicar, te hiciste mejor en ello. Cada vez que logras algo, tu confianza crece un poquito más. Ahora vamos a intentar un ejercicio juntos: pensemos en algo que nos gustaría aprender. Tal vez sea dibujar un bonito sol o contar hasta diez en otro idioma. Lo importante es intentarlo y no rendirse."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Ahora que has pensado en algo para aprender, recuerda que cada pequeño paso cuenta. Si estás aprendiendo a dibujar, empieza con líneas simples y luego intenta algo más complejo. Si estás aprendiendo a contar, comienza con cinco y luego intenta llegar a diez. ¡Tú puedes hacerlo! Recuerda que cada intento te hace más fuerte y confiado. ¡Estoy aquí para apoyarte en cada paso del camino!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos practicado un poco, hablemos de cómo la confianza se siente en nuestro cuerpo. Cuando estamos seguros, sentimos una sensación cálida y feliz en el corazón. Nuestro pecho se siente más grande, como si estuviéramos listos para conquistar el mundo. La confianza nos permite sonreír más y compartir nuestra alegría con los demás. Es como cuando compartes un juguete con un amigo y ambos se sienten felices. La confianza es algo que puedes llevar contigo a todas partes."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a intentar un ejercicio para sentirnos más seguros ahora mismo. Primero, vamos a respirar profundamente juntos, ¿listo? Inhala por la nariz contando hasta tres: uno, dos, tres. Ahora exhala por la boca contando hasta tres: uno, dos, tres. ¡Muy bien! ¿Lo sientes? Esa calma te ayuda a estar más seguro y relajado. Practicar la respiración profunda es un truco mágico para aumentar la confianza en cualquier momento."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas algún momento en que te sentiste realmente valiente? Tal vez fue cuando probaste un nuevo juego en el parque o cuando dijiste '¡Hola!' a un nuevo amigo. ¿Cómo te hizo sentir? Pensar en esos momentos puede ayudarte a recordar lo valiente que eres. ¿Te gustaría contarme sobre un momento así? Estoy seguro de que tienes muchas historias valientes que compartir."
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Gracias por compartir tu historia valiente! Ahora que hemos hablado sobre confianza y valentía, vamos a hablar sobre cómo ayudar a otros a sentirse confiados también. Cuando vemos a un amigo que se siente inseguro, podemos ofrecerle una sonrisa o animarlo, diciendo '¡Tú puedes hacerlo!' Es como compartir un poco de nuestra capa mágica de confianza con ellos. ¿No es grandioso poder ayudar a los demás a sentirse valientes también?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora que hemos aprendido tanto sobre la confianza, recuerda que siempre puedes volver a practicar estos ejercicios. Ya sea respirando profundamente, recordando tus momentos valientes, o ayudando a un amigo, hay muchas maneras de fortalecer tu confianza. ¡Estoy tan orgulloso de lo que has logrado hoy! Eres un verdadero héroe, lleno de valentía y amabilidad."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confianza es algo que crece con nosotros, así como nuestras habilidades y talentos. Cada día es una nueva oportunidad para aprender algo nuevo y sentirnos más seguros. Cuando te enfrentas a un desafío, recuerda que tienes la capacidad de superarlo. Ya sea aprendiendo a nadar o contando hasta cien, cada paso que das te hace más fuerte. ¡Sigue intentándolo, y verás lo lejos que puedes llegar!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a hacer un pequeño juego para terminar nuestro tiempo juntos. Piensa en algo que te gustaría lograr mañana. Puede ser algo pequeño, como ayudar a poner la mesa, o algo grande, como aprender una nueva canción. Ahora, cierra los ojos y visualízate haciéndolo con éxito. ¿Lo ves? ¡Eso es confianza! Abre los ojos y recuerda esa imagen cuando lo intentes mañana. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Hay algo que te gustaría aprender más sobre la confianza? Tal vez quieras saber cómo los superhéroes se sienten seguros o cómo los animales muestran su valentía. ¿Tienes alguna pregunta sobre lo que hemos aprendido hoy? Estoy aquí para ayudarte y responder cualquier cosa que te haga sentir curioso. ¡Preguntar es una gran manera de aprender más y sentirte más seguro!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué preguntas tan interesantes tienes! Recuerda que cada vez que preguntas algo, estás mostrando valentía y curiosidad. Puedes seguir aprendiendo sobre confianza observando cómo actúan tus héroes favoritos o cómo enfrentan los desafíos. Cada pregunta que haces es un paso hacia ser más sabio y seguro. ¡Nunca dejes de preguntar y aprender!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un verdadero placer pasar este tiempo contigo, aprendiendo sobre la confianza. Espero que te sientas más fuerte y valiente después de nuestra aventura juntos. Recuerda que siempre puedes contar conmigo y con tu propia capa mágica de confianza. ¡Hasta la próxima, pequeño héroe! Sigue brillando y mostrando al mundo lo increíble que eres. ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Confidence de Rescue Pup Crew"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "clever_mouse_jerry_bedtime_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, mein kleiner Freund! Ich bin der schlaue Maus Jerry. Heute gehen wir auf eine spannende Reise in die Welt des Schlafengehens. Bist du bereit? Ich bin so neugierig auf dich. Gemeinsam werden wir herausfinden, wie man sich auf eine ruhige Nacht vorbereitet."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Am Abend, wenn die Sonne untergeht, ist es Zeit, sich auf das Schlafengehen vorzubereiten. Es ist wichtig, einen ruhigen Ort zu finden, wo man sich entspannen kann. Vielleicht hast du ein Lieblingskuscheltier, das dir hilft, dich wohlzufühlen. Wenn du dich wohl fühlst, kannst du besser einschlafen. Jetzt lass uns darüber sprechen, was wir vor dem Schlafengehen tun können."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bevor wir ins Bett gehen, müssen wir uns die Zähne putzen. Das ist sehr wichtig, um unsere Zähne gesund und stark zu halten. Stell dir vor, du bist ein kleiner Held, der alle bösen Bakterien besiegt! Nimm deine Zahnbürste und lass uns gemeinsam zählen: Eins, zwei, drei, vier, fünf. Fantastisch gemacht!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt, da wir unsere Zähne geputzt haben, ist es Zeit, ins Bett zu gehen. Du bist so tapfer, und ich bin stolz auf dich! Möchtest du eine Geschichte hören? Geschichten helfen uns, uns zu entspannen und uns auf das Träumen vorzubereiten. Lass uns eine kleine Geschichte über einen mutigen kleinen Maus hören."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Es war einmal eine kleine Maus namens Jerry, die in einem gemütlichen Haus lebte. Jerry liebte es, Abenteuer zu erleben und neue Freunde zu finden. Eines Abends beschloss Jerry, einen Spaziergang durch den Garten zu machen. Dort traf er auf einen freundlichen Frosch, der ihm von einem geheimen Teich erzählte. Jerry war neugierig und wollte mehr erfahren."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Der freundliche Frosch führte Jerry zu dem geheimen Teich, der von wunderschönen Blumen umgeben war. Jerry war begeistert von den leuchtenden Farben und dem sanften Plätschern des Wassers. Der Frosch erzählte Jerry, dass dieser Teich ein besonderer Ort zum Entspannen sei. Jerry fühlte sich so entspannt, dass er fast einschlief! Jetzt lass uns überlegen, wie wir uns vor dem Schlafengehen entspannen können."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Eine gute Möglichkeit, sich zu entspannen, ist das Einatmen und Ausatmen. Lass uns zusammen drei tiefe Atemzüge machen. Atme tief ein... und langsam aus. Noch einmal: tief einatmen... und ausatmen. Ein letztes Mal: einatmen... und ausatmen. Fühlst du, wie ruhig du jetzt bist? Das hilft dir, friedlich einzuschlafen."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Jetzt, da du so ruhig bist, kannst du dir ein schönes Traumland vorstellen. Vielleicht gibt es dort viele bunte Blumen oder lustige Tiere, die mit dir spielen wollen. In deinem Traumland kannst du alles sein, was du möchtest. Du bist der Held deiner eigenen Geschichte!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Weißt du, warum es wichtig ist, genug Schlaf zu bekommen? Schlaf hilft deinem Körper, sich zu erholen und neue Energie zu tanken. Wenn du gut schläfst, bist du am nächsten Tag bereit, neue Abenteuer zu erleben. Was machst du gerne nach dem Aufwachen? Hast du ein Lieblingsfrühstück?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Wenn der Morgen kommt, ist es Zeit, aufzustehen und den neuen Tag zu begrüßen. Es ist schön, sich nach einer erholsamen Nacht frisch und munter zu fühlen. Vielleicht gibt es ein leckeres Frühstück, das auf dich wartet. Ein gutes Frühstück gibt dir die Energie, die du für den Tag brauchst. Jetzt lass uns noch einmal überlegen, wie wir uns auf das Schlafengehen vorbereiten können."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bevor du ins Bett gehst, kannst du dein Zimmer aufräumen. Es macht Spaß, alle Spielsachen an ihren Platz zu bringen. Du kannst sie wie kleine Soldaten in eine Reihe stellen. Wenn alles ordentlich ist, fühlt sich dein Zimmer gemütlicher an. Und ein ordentliches Zimmer hilft dir, besser zu schlafen."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein richtiger Aufräumprofi! Jetzt, da alles ordentlich ist, kannst du dich in dein gemütliches Bett kuscheln. Denk daran, wie Jerry in seinem kleinen Mausloch schlummert. Du bist bereit für eine gute Nacht voller schöner Träume. Schlaf gut und träume süß!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was war dein Lieblingsteil unserer Geschichte heute Abend? Hast du eine Lieblingsfigur oder einen Lieblingsort? Geschichten helfen uns, neue Welten zu entdecken und unsere Fantasie zu nutzen. Welche Abenteuer möchtest du morgen erleben? Es gibt so viele Möglichkeiten!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da du bereit für das Bett bist, erinnere dich daran, wie wichtig es ist, jede Nacht gut zu schlafen. Schlaf ist wie ein Zaubertrank, der dir Kraft und Energie gibt. Morgen ist ein neuer Tag voller Abenteuer und Spaß. Ich hoffe, du hattest eine wunderbare Zeit mit mir. Schlaf gut und träume schön!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, diesen Abend mit dir zu verbringen. Ich hoffe, du hast viel gelernt und viel Spaß gehabt. Jetzt ist es Zeit, deine Augen zu schließen und von all den Abenteuern zu träumen, die dich erwarten. Gute Nacht, mein kleiner Freund. Bis zum nächsten Mal!"
+    }
+  ],
+  "title": "Clever Mouse Jerrys Bedtime Geschichte"
+}

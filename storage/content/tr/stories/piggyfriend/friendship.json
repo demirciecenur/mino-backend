@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_friendship_story",
+  "character": "Piggy Friend",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Piggy Friend ve bugün seninle birlikte harika bir arkadaşlık yolculuğuna çıkacağız. Arkadaşlık, hayatımızı renklendiren ve bizi mutlu eden en güzel şeylerden biridir. Senin de en iyi arkadaşın kim? Belki birlikte oyunlar oynadığınız ya da gizli sırlar paylaştığınız biri vardır. Hazırsan, bu yolculuğa başlamak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, birlikte vakit geçirmek ve birbirimize destek olmak demektir. Düşünsene, en sevdiğin oyuncağınla oynamak ne kadar eğlenceliyse, bir arkadaşla oynamak da o kadar keyiflidir. Birlikte gülmek, paylaşmak ve yeni şeyler öğrenmek çok güzeldir. Arkadaşlarımızla geçirdiğimiz zamanlar, bizim için unutulmaz anılar oluşturur. Sen de arkadaşlarınla hangi oyunları oynamayı seviyorsun?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaş edinmek için önce kendimizi tanıtmamız gerekir. Yeni birisiyle tanıştığında, adını söylemek ve ona gülümsemek harika bir başlangıçtır. Ayrıca, ona ilgi gösterip sevdiği şeyleri sormak da önemlidir. Örneğin, 'Merhaba, ben Piggy Friend. Senin en sevdiğin oyun nedir?' diyebilirsin. Bu şekilde, karşındaki kişiyle ortak bir nokta bulabilir ve arkadaşlığın ilk adımını atabilirsin."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir arkadaşlık oyunu oynayalım mı? İstersen sevdiğin bir oyuncağını al ve onunla konuşarak bir arkadaşlık hikayesi oluştur. Oyuncağınla birlikte bir maceraya çıkabilir ya da bir parti düzenleyebilirsin. Hayal gücünü kullanarak harika arkadaşlık hikayeleri yaratabilirsin. Unutma, her zaman yeni bir şeyler denemek eğlencelidir!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık sadece oyunlar oynamaktan ibaret değildir, aynı zamanda birbirimize yardım etmeyi de içerir. Mesela bir arkadaşın üzgün olduğunda, ona destek olmak çok önemlidir. Ona neden üzgün olduğunu sorup, onunla konuşarak rahatlamasına yardımcı olabilirsin. Bazen sadece yanında olmak bile, arkadaşını mutlu etmeye yeter. İşte bu yüzden arkadaşlık, çok değerli bir şeydir."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Arkadaşlarınla en son ne zaman oyun oynadın? Oyun oynarken en çok hangi anı sevdin? Belki de en sevdiğin oyunun ne olduğunu bilmiyorum. Bana biraz anlatır mısın? Belki birlikte yeni oyunlar keşfedebiliriz!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda, arkadaşlık oyunlarından bahsetmiştik. Unutma, oyunlar sadece eğlenmek için değil, aynı zamanda öğrenmek içindir. Oyun oynarken paylaşmayı, sırayla oynamayı ve takım olmayı öğreniriz. Bu beceriler, arkadaşlarınla daha iyi anlaşmanı sağlar. Peki, sen oyun oynarken en çok neyi öğreniyorsun?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlarımızla zaman geçirmek, birbirimizi daha iyi tanımamıza yardımcı olur. Birlikte yeni şeyler keşfetmek, eğlenceli etkinliklere katılmak ve hatta bazen sadece sessizce oturmak bile arkadaşlık bağlarımızı güçlendirir. Sen en çok hangi etkinlikleri yapmaktan hoşlanıyorsun? Belki birlikte keşfetmek istediğin başka şeyler de vardır."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, yeni bir arkadaş edindiğimizde neler yapabileceğimizi düşünelim. İlk olarak, ona güven göstermeliyiz. Güven, arkadaşlığın temel taşlarından biridir. Ayrıca, birbirimizin sınırlarına saygı göstermek de çok önemlidir. Örneğin, bir arkadaşın bir oyunu oynamak istemediğinde, onun kararına saygı göstermeliyiz. Bu şekilde, sağlıklı ve güçlü bir arkadaşlık kurabiliriz."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir nefes egzersizi yapalım mı? Üç derin nefes alıp verelim. Hazır mısın? Derin bir nefes al ve yavaşça ver. Bir daha, derin nefes al ve ver. Son kez, derin nefes al ve ver. Bu egzersiz, kendimizi rahatlatmak ve yeni arkadaşlıklar kurarken sakin kalmak için çok iyi bir yol."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede nefes egzersizi yapmıştık. Şimdi bu sakinlikle arkadaşlıklarımızı nasıl geliştirebileceğimizi düşünelim. Arkadaşlarımızla birlikte zaman geçirirken, onlara karşı nazik ve anlayışlı olmalıyız. Herkesin farklı olduğunu ve farklı şeylerden hoşlandığını unutmamalıyız. Bu farklılıklar, arkadaşlıklarımızı daha da özel kılar."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Arkadaşlarınla hangi oyunları oynamayı seviyorsun? Belki de en sevdiğin oyunları bana anlatmak istersin. Oyun oynarken en çok neyi sevdiğini merak ediyorum. Belki birlikte yeni oyunlar bile keşfedebiliriz. Ne dersin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Arkadaşlık, bazen küçük sürprizlerle daha da güzelleşir. Mesela, arkadaşına küçük bir hediye vermek ya da onun için bir resim yapmak çok hoş bir jest olabilir. Böylece, ona ne kadar değer verdiğini gösterebilirsin. Sen de arkadaşlarına hoş sürprizler yapmayı sever misin?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlarımızla iletişim kurmak, onların duygularını anlamak için önemlidir. Bazen arkadaşlarımız üzgün olabilir ve onlara nasıl yardım edebileceğimizi bilmek isteriz. İşte burada dinlemek devreye girer. Onları dinlemek, duygularını anlamamıza ve onlara nasıl destek olabileceğimizi keşfetmemize yardımcı olur. Senin de bir arkadaşını dinleyip ona yardımcı olduğun bir an var mı?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün arkadaşlık üzerine harika bir yolculuk yaptık. Arkadaşlarımızla nasıl iletişim kurabileceğimizi, onlara nasıl destek olabileceğimizi ve birlikte nasıl eğlenebileceğimizi öğrendik. Umarım bu bilgiler, senin için de faydalı olmuştur. Unutma, arkadaşlık hayatımızı güzelleştiren en önemli bağlardan biridir. Şimdi elveda deme zamanı, ama merak etme, yakında tekrar görüşeceğiz! Hoşça kal!"
+    }
+  ],
+  "title": "Piggy Friend'ın Friendship Hikayesi"
+}

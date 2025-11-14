@@ -1,0 +1,98 @@
+{
+  "id": "frost_friend_sid_imagination_story",
+  "character": "Frost Friend Sid",
+  "topic": "imagination",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Frost Friend Sid. Today we're going on an amazing journey about imagination. Are you ready? I'm so curious about you. Imagination is like a magic wand that lets us create anything we can dream of. Let's explore this magical world together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Imagination is a special power we all have. It allows us to turn ordinary days into extraordinary adventures. Imagine a simple cardboard box. With a little imagination, it can become a pirate ship sailing the seven seas! Isn't that exciting? And the best part is, you can be anyone you want to be in this world of imagination."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let’s try a little exercise together. Close your eyes and imagine you are a superhero. What kind of powers do you have? Can you fly or maybe talk to animals? Remember, there are no limits in your imagination. You can do anything and go anywhere!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job, everyone! You are all amazing superheroes. Did you have fun imagining your special powers? You see, with imagination, the sky is the limit. Let's keep using this wonderful power in our everyday adventures."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about turning a box into a pirate ship? Now, let's imagine we're pirates on a treasure hunt. What kind of treasure are we looking for? Maybe it’s a giant chocolate coin or a rainbow-colored gem. Let’s use our imagination to set sail on this exciting adventure!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's pretend we’re sailing across the ocean. Can you feel the wind in your hair? Maybe you can hear the seagulls calling. And look! There’s a dolphin jumping out of the water to say hello. Imagination helps us create these wonderful scenes in our minds."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's imagine we've found the treasure. What does it look like? Is it shiny and sparkly or maybe it’s a box full of toys? This is the magic of imagination, where anything is possible and every story is an adventure waiting to happen."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What was your favorite part of our treasure hunt adventure? Was it sailing with the dolphins or finding the treasure? It’s always fun to think about what we enjoyed the most. And remember, you can always go on another adventure anytime you want, just by using your imagination."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Let’s think about some other things we can imagine. How about a trip to outer space? We could fly in a rocket ship and visit the stars. Or maybe we can imagine being a jungle explorer, discovering new animals. There are so many possibilities!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Imagination is like a paintbrush that colors our world. It makes everything more fun and exciting. Even when we're brushing our teeth or picking up toys, we can imagine we're brave knights or magical fairies. Everything becomes an adventure!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let’s try imagining one more thing together. Close your eyes and imagine a beautiful garden. What kinds of flowers do you see? Maybe there are butterflies and friendly bees. Imagination can make our world more colorful and full of life."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! Your garden sounds beautiful. Isn’t it amazing how our minds can create such lovely places? Remember, you can visit your garden anytime you want. Just close your eyes and use your imagination."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What other adventures would you like to imagine? Maybe a journey to a castle or a swim with mermaids? There are so many stories waiting for you to imagine them. What will you dream up next?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our time together is almost over, but remember, your imagination is always with you. You can use it anytime to go on new adventures. Thank you for joining me today. I can’t wait to hear about all the wonderful things you will imagine. Goodbye for now, little adventurer!"
+    }
+  ],
+  "title": "Frost Friend Sid's Imagination Story"
+}

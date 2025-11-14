@@ -1,0 +1,104 @@
+{
+  "id": "mino_health_story",
+  "character": "Mino",
+  "topic": "health",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük astronotlar! Ben Mino, uzaydan gelen dost canlısı arkadaşınız. Bugün birlikte sağlık hakkında büyülü bir yolculuğa çıkacağız. Hazır mısınız? Sağlıklı olmak için neler yapabileceğimizi keşfetmek çok eğlenceli olacak. Haydi, birlikte bu maceraya başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Biliyor musunuz, sağlık demek, vücudumuzun güçlü ve mutlu olması demek! Sağlıklı olduğumuzda oyun oynamak, koşmak ve zıplamak çok daha kolay olur. Vücudumuzun enerji dolu olması için ona iyi bakmalıyız. Mesela, sağlıklı yiyecekler yemek çok önemli. Hadi, biraz sağlıklı yiyeceklerden bahsedelim!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Renkli sebzeler ve meyveler vücudumuza enerji verir. Mesela, bir elma yediğimizde vücudumuz güçlü olur. Sebzeler ve meyveler de tıpkı bir gökkuşağı gibi farklı renklerde olabilir. Siz de en sevdiğiniz meyve ve sebzeleri düşünün! Onlar sayesinde gün boyu enerjik kalabiliriz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkarıyorsunuz! Şimdi birlikte bir oyun oynayalım. Gözlerinizi kapatın ve en sevdiğiniz meyve veya sebzeyi hayal edin. Onun rengi ve tadı nasıl? Şimdi hep birlikte derin bir nefes alalım ve nefesimizi verirken bu güzel yiyeceği düşünelim. İşte bu kadar basit!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda sağlıklı yiyeceklerden bahsetmiştik. Şimdi suyun önemine bakalım. Su içmek, vücudumuzun susuz kalmaması için çok önemlidir. Her gün yeterince su içmek, vücudumuzu tazeler ve enerjik kalmamıza yardımcı olur. Siz de bugün kaç bardak su içtiniz?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Acaba siz en çok hangi içeceği seviyorsunuz? Su mu, meyve suyu mu yoksa süt mü? Su içmek vücudumuzun sağlıklı kalmasına nasıl yardımcı olur, hiç düşündünüz mü? Haydi, birlikte düşünelim. Su içmek kadar eğlenceli başka neler yapabiliriz?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi biraz hareket edelim! Egzersiz yapmak, vücudumuzu güçlü ve sağlıklı tutar. Mesela, yerimizde zıplamak veya dans etmek harika bir egzersizdir. Hadi, ayağa kalkın ve benimle birlikte dans edin. Dans ederken vücudumuzun nasıl hareket ettiğini hissedin!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Biraz önce dans ettik ve çok eğlendik! Şimdi, dinlenmenin önemine geçelim. Vücudumuzun büyümesi ve güçlenmesi için uyku çok önemlidir. Uyuduğumuzda vücudumuz dinlenir ve ertesi güne hazırlanır. Geceleri güzel bir uyku çekmek, gün içinde enerjik olmamızı sağlar."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Siz de uyumadan önce neler yapıyorsunuz? Belki bir masal dinliyorsunuz ya da oyuncaklarınızı topluyorsunuzdur. Uyumadan önce sakinleşmek, güzel rüyalar görmemize yardımcı olur. Hadi, birlikte üç derin nefes alalım ve hayal gücümüzü kullanarak en güzel rüyaları düşünelim."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Sağlık yolculuğumuzda şimdi hijyen konusuna geçelim. Ellerimizi yıkamak, mikroplardan korunmamız için çok önemlidir. Ellerimizi sabunla yıkadığımızda mikroplar uzaklaşır ve biz de sağlıklı kalırız. Siz de ellerinizi nasıl yıkadığınızı hatırlıyor musunuz?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ellerimizi yıkarken suyun sıcaklığına dikkat edelim ve sabunu iyice köpürtelim. En az yirmi saniye boyunca ellerimizi ovalayarak yıkamalıyız. Mesela, 'İyi ki doğdun' şarkısını söyleyerek ellerimizi yıkamak çok eğlenceli olabilir. Bu şekilde mikroplardan kolayca kurtulabiliriz."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi bir oyun oynayalım: Ellerimizi yıkarken hangi şarkıyı söylemek isterdiniz? Belki en sevdiğiniz çizgi film müziği ya da eğlenceli bir çocuk şarkısı. Bu, ellerimizi yıkamayı daha da keyifli hale getirebilir. Siz de deneyin ve hangisinin daha eğlenceli olduğunu görün!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda hijyenin öneminden bahsetmiştik. Şimdi, diş sağlığımıza odaklanalım. Dişlerimizi fırçalamak, sağlıklı bir ağız için gereklidir. Sabah ve akşam dişlerimizi fırçalamak, dişlerimizin beyaz ve güçlü kalmasına yardımcı olur."
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Dişlerimizi fırçalarken dairesel hareketlerle fırçalamalıyız. Diş macununu az miktarda kullanarak dişlerimizi nazikçe temizleyelim. En az iki dakika boyunca dişlerimizi fırçalamak, ağız sağlığımızı korur. Hadi, diş fırçalama zamanı geldiğinde bunları hatırlayalım."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün sağlık hakkında harika bir yolculuk yaptık. Sağlıklı yiyeceklerden su içmeye, egzersizden uykuya kadar birçok şey öğrendik. Unutmayın, sağlıklı alışkanlıklar, güçlü ve mutlu olmamızı sağlar. Bir dahaki sefere başka bir macerada görüşmek üzere! Hoşça kalın, küçük dostlarım!"
+    }
+  ],
+  "title": "Mino'ın Health Hikayesi"
+}

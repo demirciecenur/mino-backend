@@ -1,0 +1,104 @@
+{
+  "id": "mystery_pup_buddy_sibling_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "sibling",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Mystery Pup Buddy, y hoy vamos a descubrir cosas maravillosas sobre los hermanos. ¿Estás listo para una aventura divertida? Los hermanos son como los mejores amigos que siempre están ahí para jugar y compartir. A veces, pueden ser traviesos, pero siempre es divertido estar juntos. Estoy muy emocionado de explorar este tema contigo. ¡Vamos a comenzar!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en qué es lo que hace a los hermanos tan especiales. Los hermanos pueden ser como compañeros de equipo. Juegan juntos en el parque, comparten sus juguetes, y a veces incluso inventan juegos nuevos. Cuando uno de los hermanos está triste, el otro puede hacerle reír. Es como tener un amigo que siempre está cerca para ayudar y divertir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a aprender cómo podemos ser buenos hermanos. Primero, es importante compartir, como compartir tus galletas favoritas. También, escuchar a tu hermano cuando quiere contarte algo es una gran manera de mostrar amor. Y no olvidemos ser amables, como cuando ayudas a tu hermano a recoger sus juguetes. Así es como se construyen grandes relaciones entre hermanos."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ahora, practiquemos juntos! Imagínate que tu hermano necesita ayuda para encontrar su juguete favorito. ¿Podrías ayudarle a buscarlo? Recuerda que ayudar es una manera de mostrar cuánto te importa. ¡Tú puedes hacerlo! Ayudar a los demás también nos hace sentir bien a nosotros mismos. ¡Qué maravilloso es ser un buen hermano!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos lo divertido que es jugar juntos. ¿Te acuerdas de la última vez que jugaste a las escondidas con tu hermano? Es un juego donde uno se esconde y el otro lo busca. Es emocionante y nos hace reír mucho. Cuando jugamos juntos, creamos recuerdos felices que durarán para siempre. ¡Jugar nos une más!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos de cómo resolver problemas entre hermanos. A veces, pueden pelear por un juguete o un turno en un juego. Es importante hablar y escuchar. Puedes decir, '¿Podemos compartir?' o '¿Te gustaría jugar después de mí?'. Resolver problemas juntos fortalece la relación y nos enseña a ser justos."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a intentarlo juntos! Imagina que tú y tu hermano quieren el mismo juguete. Puedes decir, '¿Jugamos juntos?'. Compartir significa que ambos pueden disfrutar. ¡Qué gran idea es compartir! Practicar esto nos hace sentir bien y nos ayuda a entendernos mejor. ¡Tú puedes ser un gran hermano!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en actividades divertidas que podemos hacer juntos. ¿Te gusta dibujar o construir con bloques? Estas son actividades que puedes compartir con tu hermano. Hacer cosas juntos nos permite aprender y crecer. Además, es una forma divertida de pasar el tiempo y crear cosas nuevas."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Cuál es tu actividad favorita para hacer con tu hermano? ¿Te gusta correr en el parque o leer cuentos juntos? Cada actividad nos enseña algo nuevo y nos acerca más. ¡Qué emocionante es descubrir lo que más disfrutas! Cuéntame, ¿qué te gustaría hacer la próxima vez con tu hermano?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Después de hablar sobre actividades, pensemos en cómo podemos mostrar amor a nuestros hermanos. Un abrazo o una sonrisa pueden hacer que su día sea mejor. También podemos decirles cuánto los queremos. Mostrar amor nos hace sentir bien y fortalece nuestra relación. ¡Es maravilloso ser cariñoso!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Intentemos dar amor! La próxima vez que veas a tu hermano, podrías darle un gran abrazo. O tal vez podrías decirle algo bonito como 'Eres mi mejor amigo'. Estos pequeños gestos significan mucho. ¡Tú puedes hacerlo! Mostrar amor hace que todos se sientan felices y apreciados."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, recordemos que, aunque los hermanos a veces discuten, siempre se quieren. Es normal tener diferencias, pero lo importante es resolverlas con amor. Podemos aprender a decir 'Lo siento' y a perdonar. Esto nos enseña a ser amables y a cuidar nuestra relación. ¡Qué bonito es reconciliarse!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas una vez que te peleaste con tu hermano y luego se reconciliaron? ¿Cómo te sentiste después de hacer las paces? A veces, decir 'Lo siento' es difícil, pero es muy valiente. ¿Te gustaría intentar ser el primero en disculparte la próxima vez? ¡Es un gran paso para ser un buen hermano!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Finalmente, pensemos en por qué los hermanos son tan importantes. Son nuestros compañeros de vida, con quienes compartimos muchas aventuras. Crecer juntos significa aprender y apoyarse mutuamente. Es un vínculo que dura para siempre. ¡Qué suerte tener un hermano que te acompaña en el camino!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un viaje increíble aprender sobre los hermanos contigo. Espero que hayas descubierto nuevas maneras de ser un gran hermano. Recuerda siempre mostrar amor y ser amable. Gracias por acompañarme en esta aventura. ¡Hasta la próxima, pequeño amigo! ¡Nos vemos pronto!"
+    }
+  ],
+  "title": "Historia de Sibling de Mystery Pup Buddy"
+}

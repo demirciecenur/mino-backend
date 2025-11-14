@@ -1,0 +1,98 @@
+{
+  "id": "tiko_nutrición_alimentación_saludable_hábitos_alimentarios_alimentos_saludables_story",
+  "character": "Tiko",
+  "topic": "nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Tiko, y hoy vamos a embarcarnos en una aventura emocionante sobre la nutrición y los alimentos saludables. ¿Están listos para descubrir cosas increíbles sobre lo que comemos? ¡Estoy seguro de que juntos aprenderemos mucho y nos divertiremos un montón! Comencemos nuestra aventura para conocer más sobre cómo los alimentos nos ayudan a crecer fuertes y sanos. ¡Vamos a explorar el mágico mundo de la comida saludable!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Primero, hablemos de qué es la nutrición. La nutrición es como darle a nuestro cuerpo el combustible necesario para jugar, correr y aprender. Es como cuando un coche necesita gasolina para funcionar. Los alimentos que comemos son nuestra gasolina, y necesitamos elegir los mejores para sentirnos bien. Comer frutas, verduras y granos es como darle a nuestro cuerpo una súper energía. ¡Qué emocionante es saber que podemos ser más fuertes con cada bocado!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, aprendamos sobre algunos alimentos que son muy buenos para nosotros. Las frutas como las manzanas y las bananas son deliciosas y llenas de vitaminas. Las verduras como las zanahorias y el brócoli nos ayudan a tener ojos y huesos fuertes. Los granos como el arroz y el pan integral nos dan mucha energía para jugar todo el día. ¿Sabían que la leche y el yogur también son importantes para tener huesos fuertes? ¡Qué genial es aprender sobre todos estos alimentos saludables!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ahora que sabemos qué alimentos son buenos, ¡vamos a hacer un juego! ¿Pueden contar cuántos colores diferentes tienen sus frutas y verduras en casa? Los colores en nuestros alimentos son como un arcoíris de salud. Cuantos más colores comamos, más vitaminas y minerales obtenemos. Así que cuando vean un plato lleno de colores, ¡sabrán que están comiendo muy bien! ¡Vamos, cuenten los colores y celebremos lo saludable que estamos siendo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos que comer sano también significa tener buenos hábitos alimentarios. Eso quiere decir que debemos comer a las horas adecuadas y no saltarnos ninguna comida. El desayuno es muy importante porque nos da energía para empezar el día. También debemos beber mucha agua para mantenernos hidratados. Comer despacio y disfrutar cada bocado es parte de tener buenos hábitos. ¡Vamos a practicar estos hábitos todos los días para sentirnos mejor!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que hablamos de los hábitos, pensemos en cómo podemos incluirlos en nuestro día. ¿Cómo podemos asegurarnos de comer frutas y verduras todos los días? Tal vez podríamos ayudar a mamá o papá a elegir las frutas en el supermercado. O podríamos preparar juntos una ensalada colorida. Involucrarse en la preparación de las comidas puede ser muy divertido y nos enseña mucho. ¡Qué gran idea es ser parte de nuestra propia alimentación saludable!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Otra cosa importante es saber cuándo hemos comido lo suficiente. A veces, cuando la comida es deliciosa, queremos seguir comiendo y comiendo. Pero nuestro cuerpo nos dice cuándo está lleno, y debemos escucharlo. Comer despacio nos ayuda a sentir cuándo estamos satisfechos. Recuerden, no hay prisa para terminar el plato. ¡Disfruten cada sabor y textura, y escuchen a su pancita cuando diga que ya es suficiente!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¿Sabían que cocinar juntos puede ser una aventura emocionante? Podemos aprender a cortar frutas con la ayuda de un adulto, o mezclar ingredientes para hacer un batido de frutas. Cocinar nos permite explorar nuevos sabores y texturas. Además, es una oportunidad para ser creativos y probar cosas nuevas. ¡Imaginemos que somos chefs en un restaurante mágico lleno de salud! Estoy seguro de que juntos podemos crear platos deliciosos y saludables."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Qué piensan ustedes sobre la comida saludable? ¿Tienen algún alimento favorito que les haga sentir fuertes y felices? Tal vez sea una fruta jugosa o una verdura crujiente. Me encantaría saber cuál es su comida favorita y por qué. Compartir nuestros gustos nos ayuda a aprender unos de otros. ¡Cuéntenme, amiguitos! Estoy muy curioso por saber sus respuestas."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en cómo la comida saludable nos ayuda en nuestras actividades diarias. Cuando comemos bien, tenemos energía para correr, saltar y jugar con nuestros amigos. También nos ayuda a concentrarnos mejor cuando aprendemos cosas nuevas, como dibujar o contar. Comer bien es como darle superpoderes a nuestro cuerpo. ¡Qué emocionante es saber que podemos ser más fuertes y más inteligentes con cada comida saludable!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hablemos de cómo podemos hacer que la hora de comer sea divertida. Podemos inventar historias sobre los alimentos en nuestro plato, como imaginar que las zanahorias son pequeños cohetes. O podríamos hacer formas divertidas con nuestras frutas, como una cara sonriente con rodajas de kiwi. Convertir la comida en un juego puede hacer que comer saludable sea aún más divertido. ¡Usen su imaginación y diviértanse en cada comida!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Finalmente, recordemos que es importante ser agradecidos por los alimentos que tenemos. Hay muchas personas que trabajan duro para que podamos disfrutar de nuestra comida. Desde los agricultores que cultivan las frutas y verduras, hasta los cocineros que preparan deliciosos platos. Agradecer por cada comida nos hace apreciar más lo que comemos. Así que, ¡demos las gracias antes de cada comida y disfrutemos de cada bocado!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ya hemos aprendido mucho sobre la alimentación saludable, amiguitos! Ahora, ustedes son pequeños expertos en nutrición. Recuerden compartir lo que aprendieron hoy con sus amigos y familiares. Juntos podemos hacer que todos a nuestro alrededor coman más sano y se sientan mejor. ¡Estoy muy orgulloso de ustedes por ser tan curiosos y valientes! Sigamos explorando y aprendiendo cada día más sobre cómo cuidar de nuestro cuerpo."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es hora de despedirnos, pero no dejen de experimentar con la comida saludable. Recuerden, cada bocado cuenta y nos ayuda a ser más fuertes y felices. Espero que esta aventura sobre la nutrición les haya gustado tanto como a mí. ¡Nos veremos pronto para más exploraciones y aventuras! Hasta entonces, sigan comiendo sano y cuidando de su cuerpo. ¡Adiós, amiguitos!"
+    }
+  ],
+  "title": "Historia de Nutrition de Tiko"
+}

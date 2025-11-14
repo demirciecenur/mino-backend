@@ -1,0 +1,98 @@
+{
+  "id": "spider_fighter_Bildschirmzeit_digitale_Sicherheit_Technologienutzung_gesunde_Bildschirmgewohnheiten_story",
+  "character": "Spider Fighter",
+  "topic": "Bildschirmzeit, digitale Sicherheit, Technologienutzung, gesunde Bildschirmgewohnheiten",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Spider Fighter, dein mutiger Held. Heute machen wir eine spannende Reise, um über Bildschirmzeit und digitale Sicherheit zu sprechen. Bist du bereit, mit mir zu lernen? Es wird ein Abenteuer voller Spaß und Wissen. Lass uns gemeinsam loslegen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, was Bildschirmzeit ist? Es ist die Zeit, die wir vor einem Bildschirm verbringen, wie beim Fernsehen oder Spielen auf dem Tablet. Aber weißt du, dass zu viel Bildschirmzeit nicht gut für uns ist? Es ist wichtig, auch draußen zu spielen, damit wir fit und gesund bleiben. Jetzt, lass uns darüber sprechen, wie wir die Bildschirmzeit gut nutzen können."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Eine gute Regel ist, nicht mehr als eine Stunde am Tag vor dem Bildschirm zu verbringen. Stattdessen können wir viele andere spannende Dinge tun. Zum Beispiel können wir malen, ein Buch lesen oder draußen spielen. All diese Aktivitäten machen genauso viel Spaß und sind gut für unser Gehirn. Denk daran, eine Balance zu finden!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du machst das super! Jetzt, lass uns über digitale Sicherheit sprechen. Das bedeutet, dass wir sicherstellen, dass wir sichere Apps und Websites benutzen. Es ist wichtig, immer einen Erwachsenen um Erlaubnis zu fragen, bevor wir etwas Neues ausprobieren. So bleiben wir sicher und können die digitalen Welten genießen!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an unsere Themen über gesunde Gewohnheiten? Genau wie beim Zähneputzen müssen wir auch beim Bildschirmgebrauch gute Gewohnheiten entwickeln. Das bedeutet, dass wir Pausen machen und unsere Augen ausruhen. Vielleicht können wir alle 20 Minuten eine kleine Pause einlegen und uns strecken. Das tut gut, stimmt’s?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt ein kleines Spiel spielen! Zähle mit mir bis fünf, während wir tief durchatmen. Eins, zwei, drei, vier, fünf. Diese Übung hilft uns, ruhig und konzentriert zu bleiben. Und weißt du was? Diese Techniken helfen uns auch, wenn wir vor einem Bildschirm sind. Du kannst das jederzeit ausprobieren!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastisch! Du bist ein echter Bildschirmheld! Jetzt, lass uns über die Nutzung von Technologie sprechen. Technologie kann uns helfen, neue Dinge zu lernen und mit Freunden zu sprechen. Aber vergiss nicht, dass es auch wichtig ist, Zeit ohne Technologie zu verbringen. So können wir kreativ und aktiv bleiben!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Denk daran, dass es viele Dinge gibt, die wir ohne Bildschirme tun können. Wir können im Garten spielen, ein Puzzle machen oder mit Freunden basteln. All diese Aktivitäten helfen uns, neue Fähigkeiten zu lernen und Spaß zu haben. Was ist deine Lieblingsaktivität ohne Bildschirm?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kannst du dich daran erinnern, wann du das letzte Mal draußen gespielt hast? Wie hat sich das angefühlt? Es macht doch Spaß, oder? Draußen zu spielen ist eine tolle Möglichkeit, sich zu bewegen und frische Luft zu schnappen. Vielleicht können wir heute noch ein bisschen draußen spielen, was meinst du?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich an unsere Übungen, um die Augen auszuruhen? Es ist wichtig, sie regelmäßig zu machen, besonders wenn wir viel auf Bildschirme schauen. Lass uns zusammen die Augen schließen und bis fünf zählen. Eins, zwei, drei, vier, fünf. Fühlt sich das nicht gut an?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Nun, lass uns über die Bedeutung von Pausen sprechen. Wenn wir lange auf Bildschirme schauen, können unsere Augen müde werden. Deshalb ist es wichtig, regelmäßig Pausen zu machen. Vielleicht können wir alle 30 Minuten eine Pause einlegen und etwas anderes machen. Das hilft uns, frisch und bereit zu bleiben!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wirklich toll! Weiter so! Jetzt wissen wir, wie wichtig es ist, unsere Bildschirmzeit zu kontrollieren und sicher zu bleiben. Lass uns daran denken, immer neugierig zu bleiben und unsere digitalen Abenteuer mit Vorsicht zu genießen. Du bist ein wahrer Held!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns noch einmal zusammenfassen, was wir gelernt haben. Wir haben über gesunde Bildschirmgewohnheiten, digitale Sicherheit und die Bedeutung von Pausen gesprochen. All diese Dinge helfen uns, stark und gesund zu bleiben. Es ist wichtig, diese Gewohnheiten jeden Tag zu üben. Bist du bereit, ein Bildschirmheld zu sein?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir zu sprechen! Du hast so viel gelernt und bist jetzt ein echter Bildschirmheld. Denk daran, immer sicher zu sein und Spaß zu haben. Ich freue mich darauf, bald wieder mit dir zu sprechen! Auf Wiedersehen, kleiner Freund, und bis zum nächsten Abenteuer!"
+    }
+  ],
+  "title": "Spider Fighters Screen Time Geschichte"
+}

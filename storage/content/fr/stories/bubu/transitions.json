@@ -1,0 +1,104 @@
+{
+  "id": "bubu_transitions_story",
+  "character": "Bubu",
+  "topic": "transitions",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Bubu, et aujourd'hui, nous allons explorer un sujet passionnant: les transitions. Les transitions, ce sont les changements qui se produisent dans nos vies. Comme quand tu passes de jouer avec tes jouets à te préparer pour le dîner. Es-tu prêt pour cette aventure ensemble? Je suis vraiment curieux de savoir ce que tu en penses."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons un peu des transitions. Une transition, c'est comme quand le jour devient nuit. C'est un moment où quelque chose change. Parfois, les transitions peuvent être un peu déroutantes, mais elles sont aussi très spéciales. Par exemple, quand tu commences une nouvelle activité, c'est une transition. Cela te permet d'apprendre et de découvrir de nouvelles choses. N'est-ce pas merveilleux?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, imagine que tu changes de chaussures. Tu enlèves tes chaussures de jeu pour mettre des pantoufles. C'est une transition simple mais importante. Elle te prépare à être à l'aise à la maison. Les transitions nous aident à nous adapter à de nouvelles situations. Cela peut être amusant de penser à toutes les petites transitions de ta journée. Peux-tu en nommer quelques-unes?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es vraiment doué pour comprendre les transitions! Maintenant, essayons quelque chose ensemble. Prenons trois grandes respirations calmes. Inspire lentement... et expire doucement. C'est une belle transition pour se détendre, n'est-ce pas? Respire encore une fois. Bravo! Tu vois, même respirer peut être une transition vers le calme."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons notre exploration des transitions. Rappelle-toi quand tu as appris à marcher. Au début, c'était difficile, mais avec le temps, c'est devenu naturel. C'était une grande transition dans ta vie. Maintenant, tu marches et cours sans y penser. Chaque nouvelle compétence est une transition qui te rend plus fort et plus confiant."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons des transitions à l'école. Comme lorsque tu passes du temps de jeu à l'heure des histoires. Cela demande un changement de concentration. C'est important de savoir s'adapter à ces moments. Cela te permet de profiter pleinement de chaque activité. Peux-tu penser à d'autres transitions à l'école que tu vis chaque jour?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail extraordinaire en pensant aux transitions! Maintenant, essayons un petit exercice. Comptons jusqu'à cinq ensemble, très lentement. Un... deux... trois... quatre... cinq. Chaque chiffre est comme une mini-transition. C'est amusant de voir comment les petites étapes mènent à de grandes choses. Tu es vraiment génial!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, les transitions peuvent être un peu tristes, comme dire au revoir à un ami. Mais elles peuvent aussi être pleines de nouvelles opportunités. Comme rencontrer de nouveaux amis ou découvrir de nouveaux jeux. C'est normal de ressentir de la tristesse, mais n'oublie pas, chaque fin est un début. Les transitions t'aident à grandir et à apprendre."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "As-tu déjà ressenti de la tristesse lors d'une transition? Comme quand une fête se termine? C'est tout à fait normal. Mais pense aux souvenirs que tu as créés et aux nouvelles aventures qui t'attendent. Chaque transition est comme une porte qui s'ouvre vers quelque chose de nouveau et d'excitant. Et tu es courageux de les affronter!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, pensons aux transitions dans la nature. Comme quand les feuilles changent de couleur en automne. C'est une transition magnifique et naturelle. Cela montre que les changements peuvent être beaux et inspirants. Regarde autour de toi et vois combien de transitions se produisent chaque jour. C'est incroyable, n'est-ce pas?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons de créer une transition ensemble. Imagine que tu es un papillon. Ferme les yeux et pense à voler d'une fleur à l'autre. C'est une transition douce et joyeuse. Maintenant, ouvre les yeux et sens-toi léger comme un papillon. C'est une belle façon de se sentir libre et heureux, tu ne trouves pas?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es vraiment fantastique à imaginer des transitions! Chaque jour est plein de moments de transition. Comme se réveiller le matin ou se préparer pour aller au lit. Ces moments te guident à travers ta journée. Tu les affrontes avec courage et curiosité. Continue comme ça, tu es incroyable!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quels types de transitions aimes-tu le plus? Peut-être que tu adores passer du temps de jeu à l'heure du goûter. Ou peut-être que tu préfères le moment où tu te blottis avec un livre. Quoi que ce soit, chaque transition est unique et spéciale. J'aimerais beaucoup savoir ce que tu penses. Veux-tu partager avec moi?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions sont partout, et elles font partie de la vie. Elles nous aident à grandir et à découvrir de nouvelles choses. Même si elles peuvent être difficiles parfois, elles nous rendent plus forts. Souviens-toi que tu n'es jamais seul dans ces moments. Je suis là pour t'accompagner, et ensemble, nous pouvons tout surmonter."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était merveilleux de parler des transitions avec toi aujourd'hui. J'espère que tu as apprécié notre voyage ensemble. N'oublie pas que chaque jour est une nouvelle aventure pleine de transitions. Merci d'avoir partagé ce moment avec moi. À très bientôt, petit ami! Prends soin de toi et reste curieux!"
+    }
+  ],
+  "title": "Histoire de Transitions de Bubu"
+}

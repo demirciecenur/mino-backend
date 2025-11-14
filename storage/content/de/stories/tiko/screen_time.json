@@ -1,0 +1,104 @@
+{
+  "id": "tiko_Bildschirmzeit, digitale Sicherheit, Technologienutzung, gesunde Bildschirmgewohnheiten_story",
+  "character": "Tiko",
+  "topic": "Bildschirmzeit, digitale Sicherheit, Technologienutzung, gesunde Bildschirmgewohnheiten",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Tiko und heute gehen wir auf ein spannendes Abenteuer. Wir werden darüber sprechen, wie wir Bildschirme sicher und gesund nutzen können. Bildschirme sind überall, zum Beispiel auf Tablets, Fernsehern und Handys. Bist du bereit, mehr darüber zu erfahren? Ich bin schon ganz neugierig, was wir alles entdecken werden!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bildschirme können sehr spannend sein, nicht wahr? Man kann damit viele lustige Dinge machen, wie Spiele spielen oder Videos schauen. Aber wusstest du, dass es wichtig ist, nicht zu viel Zeit vor dem Bildschirm zu verbringen? Zu viel Bildschirmzeit kann uns müde machen und unsere Augen belasten. Deshalb ist es gut, Pausen zu machen und auch andere Dinge zu tun, wie draußen zu spielen. Jetzt lass uns mehr darüber erfahren, wie wir Bildschirme sicher benutzen können."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Digitale Sicherheit ist sehr wichtig, wenn wir Bildschirme nutzen. Das bedeutet, dass wir darauf achten müssen, welche Informationen wir teilen. Zum Beispiel sollten wir unseren Namen oder unsere Adresse nicht einfach so im Internet preisgeben. Es ist auch wichtig, starke Passwörter zu verwenden, die niemand erraten kann. Wenn wir uns unsicher fühlen, sollten wir immer einen Erwachsenen um Hilfe bitten. Jetzt lass uns herausfinden, wie wir gesunde Bildschirmgewohnheiten entwickeln können."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Nun, gesunde Bildschirmgewohnheiten zu entwickeln, ist gar nicht so schwer. Es hilft, eine feste Zeit für die Bildschirmnutzung zu haben, zum Beispiel nach dem Mittagessen oder vor dem Schlafengehen. Wir können auch einen Timer stellen, um sicherzustellen, dass wir nicht zu lange vor dem Bildschirm sitzen. Und vergiss nicht, zwischendurch aufzustehen und dich zu bewegen. So bleiben wir fit und fröhlich!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an das letzte Mal, als wir über digitale Sicherheit gesprochen haben? Es ist auch wichtig, darauf zu achten, welche Apps und Spiele wir verwenden. Nicht alle Apps sind für Kinder geeignet, deshalb sollten wir immer einen Erwachsenen fragen, bevor wir etwas Neues herunterladen. Wir können auch gemeinsam mit unseren Eltern Apps entdecken, die Spaß machen und lehrreich sind. Jetzt lass uns überlegen, wie wir gemeinsam gesunde Bildschirmgewohnheiten üben können."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Eine tolle Übung ist es, nach dem Bildschirmzeit eine kleine Dehnung zu machen. Lass uns zusammen die Arme hochstrecken und tief einatmen. Dann lassen wir die Arme langsam wieder sinken und atmen aus. Das fühlt sich gut an, oder? Solche kleinen Übungen helfen, unser Wohlbefinden zu steigern und den Kopf frei zu bekommen. Weiter geht's mit spannenden Tipps!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Toll gemacht! Eine weitere Idee ist, nach der Bildschirmzeit etwas Kreatives zu tun, wie zu malen oder zu basteln. Das macht nicht nur Spaß, sondern fördert auch unsere Fantasie. Wenn wir unsere Kreativität nutzen, fühlen wir uns oft glücklicher und entspannter. Und wer weiß, vielleicht entdecken wir dabei ein neues Hobby! Jetzt lass uns darüber sprechen, wie wir mit unseren Freunden sicher online spielen können."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Online-Spiele mit Freunden können richtig spannend sein! Aber es ist wichtig, sicher zu bleiben. Wir sollten nur mit Freunden spielen, die wir auch im echten Leben kennen. Und wir sollten niemals persönliche Informationen in den Spielen teilen. Wenn wir unsicher sind, können wir immer einen Erwachsenen um Rat fragen. Lass uns gemeinsam überlegen, wie wir diese Tipps in die Tat umsetzen können."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ein weiterer wichtiger Punkt ist, dass wir immer höflich und respektvoll im Internet sein sollten. So wie wir im echten Leben nett zueinander sind, sollten wir das auch online sein. Wenn wir freundlich sind, machen wir das Internet zu einem schöneren Ort für alle. Und wenn wir jemals etwas sehen, das uns nicht gefällt, ist es wichtig, mit einem Erwachsenen darüber zu sprechen. Jetzt lass uns eine kleine Pause machen und die Augen ausruhen."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das fantastisch! Lass uns jetzt gemeinsam die Augen schließen und bis fünf zählen. Eins, zwei, drei, vier, fünf. Öffne deine Augen langsam wieder. Das tut gut, nicht wahr? Solche kleinen Pausen helfen unseren Augen, sich zu erholen. Weiter geht's mit unserem Abenteuer über gesunde Bildschirmgewohnheiten!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir wissen, wie wichtig Pausen sind, können wir auch darüber sprechen, wie wir unsere Bildschirmzeit sinnvoll nutzen. Es gibt viele tolle Apps, die uns beim Lernen helfen können, wie Apps zum Sprachenlernen oder Mathematikspielen. Mit solchen Apps macht Lernen richtig Spaß! Lass uns darüber sprechen, wie wir diese Apps entdecken können."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Zusammen mit unseren Eltern können wir nach Apps suchen, die sowohl lehrreich als auch unterhaltsam sind. Es gibt viele Apps, die uns helfen, neue Dinge zu lernen und unsere Fähigkeiten zu verbessern. Wir sollten immer darauf achten, dass die Apps für unser Alter geeignet sind. Und das Beste ist, dass wir dabei auch noch Spaß haben können! Jetzt kommen wir zu einer spannenden Frage."
+    },
+    {
+      "id": "question_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Weißt du, wie lange du normalerweise am Tag vor dem Bildschirm verbringst? Es ist spannend, das herauszufinden! Vielleicht kannst du gemeinsam mit deinen Eltern einen Plan erstellen, um deine Bildschirmzeit zu überwachen. So kannst du sicherstellen, dass du genug Zeit für andere Aktivitäten hast. Was denkst du, wie könnte dein Plan aussehen?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel über Bildschirme gelernt haben, können wir all diese tollen Tipps in unser tägliches Leben integrieren. Denk daran, Pausen zu machen, sicher zu bleiben und deine Zeit sinnvoll zu nutzen. Es ist wichtig, ein Gleichgewicht zwischen Bildschirmzeit und anderen Aktivitäten zu finden. So bleiben wir gesund und fröhlich! Lass uns das Abenteuer mit einem Lächeln abschließen."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Das war ein tolles Abenteuer, nicht wahr? Ich hoffe, du hattest genauso viel Spaß wie ich. Jetzt kannst du all das Gelernte mit deinen Freunden und deiner Familie teilen. Danke, dass du heute mit mir auf diese Reise gegangen bist. Ich freue mich schon auf unser nächstes Abenteuer! Bis bald, kleiner Freund!"
+    }
+  ],
+  "title": "Tikos Screen Time Geschichte"
+}

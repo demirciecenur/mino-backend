@@ -1,0 +1,98 @@
+{
+  "id": "bubble_buddy_screen_time_story",
+  "character": "Bubble Buddy",
+  "topic": "screen_time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friends! I'm Bubble Buddy, and today we're going on an exciting underwater adventure all about screen time. Are you ready to dive into fun and learn something new? We'll explore why screen time is like a treasure chest that needs to be opened carefully. Let's make sure we have lots of fun while discovering how to use our screens wisely. Grab your goggles, and let's swim into the ocean of knowledge together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Screen time is when we use our tablets, phones, or watch TV. It's like visiting a magical world full of games and videos. But just like how we can't eat only candy, we can't have too much screen time. It's important to balance our day with other activities, like playing outside or drawing. What are some things you like to do besides using screens?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about balancing screen time? Now, let's learn why it's important. Too much screen time can make our eyes tired, just like when we swim for too long. It's also good to have time to play with our toys or read a fun book. By mixing our activities, we keep our minds and bodies happy and healthy. Can you think of a fun activity you can do today?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking of fun activities! Now, let's play a little game. Let's count to five together while we take slow, deep breaths. One, breathe in... two, breathe out... three, breathe in... four, breathe out... and five! Wonderful! Taking breaks like this helps us feel refreshed and ready for new adventures. Would you like to try this when you take a break from screen time?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we know why breaks are important, let's think about how we can use our screen time wisely. We can choose educational games that teach us new things or watch shows that make us laugh. It's like picking the best seashells on the beach! We can also set a timer to remind us when it's time to switch to a different activity. What kind of games do you like to play?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "When we're having fun with screens, it's easy to lose track of time. That's why setting a timer can be super helpful. It's like having a friendly reminder that it's time to explore a new activity. We can use a kitchen timer or ask a grown-up to help us. This way, we make sure we have time for everything we love, like playing outside or building with blocks."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning about screen time! Let's make it even more fun by creating a daily treasure map. On this map, we can draw all the activities we want to do, like screen time, playing, and reading. Each time we complete an activity, we can add a sticker or color in a spot. Doesn't that sound exciting? Let's make our days full of adventure!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about making a treasure map? Now, let's think about what treasures we can find outside of screens. We can discover new bugs in the garden or make a fort with blankets. There are so many adventures waiting for us! Even helping with little chores can be a fun treasure hunt. What treasure will you find today?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you know why it's important to have less screen time before bed? Well, screens can make it harder for us to fall asleep, just like how too much excitement can keep us awake. If we put away our screens before bedtime, it helps us sleep better and have sweet dreams. What do you like to do before going to bed? Maybe reading a story or cuddling with a favorite toy?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "That's wonderful! Bedtime routines are like a gentle wave that helps us drift off to sleep. Now, let's think about our favorite bedtime stories. They can take us to magical places and fill our dreams with wonder. Reading or listening to a story helps us relax and feel cozy. What story do you want to hear tonight?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "It's almost time to wrap up our adventure, but before we go, let's talk about how we can share what we've learned. We can tell our family and friends about the fun ways to balance screen time. Sharing is like spreading sunshine, making everyone feel bright and happy. Maybe you can even teach them how to make a treasure map of activities!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You've learned so much today, and I'm so proud of you! Remember, balancing screen time is like creating a beautiful day full of different activities. Each thing we do adds a splash of color to our day. Keep exploring, learning, and having fun. You've got this, and I know you'll make every day an exciting adventure!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Before we say goodbye, I'm curious, what was your favorite part of our adventure today? Was it learning about the treasure map, or maybe the fun breathing game? I love hearing about what you enjoy because it makes our adventures even more special. Remember, every time we learn something new, it's like finding a shiny pearl under the sea!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this wonderful journey, little adventurers! You've done a fantastic job exploring the world of screen time with me. Remember to balance your day with lots of fun activities and share your adventures with your friends. Until next time, keep smiling and discovering new wonders. Goodbye for now, and see you on our next big adventure!"
+    }
+  ],
+  "title": "Bubble Buddy's Screen Time Story"
+}

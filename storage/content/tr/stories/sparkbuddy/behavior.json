@@ -1,0 +1,104 @@
+{
+  "id": "spark_buddy_behavior_story",
+  "character": "Spark Buddy",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Spark Buddy. Bugün birlikte davranışlar hakkında harika bir yolculuğa çıkacağız. İyi davranışlar neler, nasıl daha iyi olabiliriz, bunları keşfedeceğiz. Hazır mısın? Seni çok merak ediyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Davranışlar, her gün yaptığımız seçimlerdir. Mesela, oyuncaklarını topladığında veya arkadaşına yardım ettiğinde iyi bir davranış sergilemiş olursun. İyi davranışlar, çevremizdeki insanları mutlu eder ve bizi de mutlu hissettirir. Her gün, iyi davranışlar sergileyerek arkadaşlarımızla ve ailemizle daha iyi anlaşabiliriz. Şimdi, iyi davranışların ne kadar önemli olduğunu anlamak için birkaç örnek inceleyelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "İyi davranışların en önemli parçalarından biri kurallara uymaktır. Kurallar, hepimizin güvende ve mutlu olmasını sağlar. Örneğin, oyun alanında sıraya girmek, başkalarının da eğlenmesine olanak tanır. Yemek yerken ellerimizi yıkamak ise sağlıklı kalmamıza yardımcı olur. Kurallara uymak, hem kendimizi hem de çevremizdekileri korur."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika işler yapıyorsun! Şimdi birlikte, birkaç derin nefes alalım ve sakinleşelim. Derin nefes almak, sakin kalmamıza ve daha iyi düşünmemize yardımcı olur. Birlikte üç derin nefes alalım: Bir, iki, üç! Çok iyi! Şimdi, bu sakinlikle daha fazla iyi davranış örneğine bakalım."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hatırlıyor musun, bir önceki konuşmamızda kurallardan bahsetmiştik. Şimdi iyi davranışların başka bir yönünü keşfedelim: Nazik olmak. Nazik olmak, başkalarına karşı saygılı ve düşünceli davranmaktır. Bir arkadaşına teşekkür etmek veya biri üzgün olduğunda ona destek olmak gibi. Nazik davranışlar, herkesin kendini iyi hissetmesini sağlar."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Nazik olmanın bir başka yolu da paylaşmaktır. Paylaşmak, sahip olduğumuz şeyleri başkalarıyla bölüşmek demektir. Mesela, en sevdiğin oyuncağını bir arkadaşınla paylaşmak, ona ne kadar değer verdiğini gösterir. Paylaşmak, arkadaşlıkları güçlendirir ve bizi mutlu eder. Şimdi, sen de paylaşmak istediğin bir şeyi düşün."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Paylaşmak istediğin şeyleri düşündüğün için tebrikler. Şimdi birlikte, küçük bir oyun oynayalım. Herkesin mutlu olduğu bir anı hatırlamaya çalış. Bu anı, senin iyi bir davranış sergilediğin bir an olabilir. O anı düşündüğünde nasıl hissettiğini hatırla. Çok güzel, değil mi?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda nazik ve paylaşımcı olmanın önemini konuştuk. Şimdi, sabırlı olmanın ne kadar değerli olduğunu öğrenelim. Sabırlı olmak, sıramızın gelmesini beklemek veya bir şeyin gerçekleşmesini beklemek demektir. Sabırlı olduğumuzda daha iyi kararlar alabiliriz ve çevremizdekilerle daha iyi anlaşabiliriz. Sabır, her zaman işe yarar!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Sen sabırlı olmayı nasıl başarıyorsun? Belki bir oyunun sırasını beklerken sabırlı oluyorsun ya da annen yemek hazırlarken sabırla bekliyorsun. Haydi, düşüncelerini benimle paylaş!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Harika cevaplar verdin! Sabırlı olmak her zaman kolay değildir ama sen bunu çok iyi yapıyorsun. Sabırlı olmayı öğrenmek, büyümenin önemli bir parçasıdır. Şimdi, sabrın başka bir yönünü keşfedelim: Kendimize zaman tanımak. Yeni bir şey öğrenirken, kendimize hatalar yapma ve öğrenme fırsatı vermeliyiz."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bazen bir şeyleri hemen öğrenemeyebiliriz ve bu çok normal. Yeni bir şey öğrenirken, kendimize zaman tanımak çok önemlidir. Mesela, bisiklet sürmeyi öğrendiğinde ilk başta düşebilirsin ama tekrar denediğinde daha iyi olursun. Her denemede daha iyi olursun ve sonunda başardığında çok mutlu hissedersin. İşte bu yüzden, kendine zaman tanımak ve sabırlı olmak çok önemlidir."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, birlikte bir mini egzersiz yapalım. İki elini kalbine koy ve üç kez derin nefes al. Bir, iki, üç! Harika! Bu egzersiz, kendimizi sakinleştirmemize ve daha sabırlı olmamıza yardımcı olur. Sakin bir zihinle, daha iyi kararlar alabiliriz ve daha iyi davranışlar sergileyebiliriz."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen harika bir iş çıkarıyorsun! İyi davranışları öğrenmek ve uygulamak, seni ve çevrendekileri mutlu eder. Her gün bu davranışları hatırlamak ve geliştirmek için kendine zaman tanı. Sen bunu yapabilirsin! Şimdi, öğrendiklerimizi bir kez daha gözden geçirelim."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bugün iyi davranışlar, kurallara uymak, nazik olmak, paylaşmak ve sabırlı olmak hakkında konuştuk. Tüm bu davranışlar, seni harika bir arkadaş ve aile bireyi yapar. Her gün bu davranışları uygulayarak, kendini ve çevrendekileri mutlu edebilirsin. Şimdi, bu öğrendiklerini hayatında uygulamaya hazır mısın?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bu harika yolculukta bana katıldığın için çok teşekkür ederim! Seninle bu konuları konuşmak çok keyifliydi. Unutma, her gün iyi davranışlar sergileyerek dünyayı daha güzel bir yer yapabilirsin. Seni tekrar görmek için sabırsızlanıyorum! Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Spark Buddy'ın Behavior Hikayesi"
+}

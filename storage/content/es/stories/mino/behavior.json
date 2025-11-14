@@ -1,0 +1,104 @@
+{
+  "id": "mino_behavior_story",
+  "character": "Mino",
+  "topic": "behavior",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Mino, y hoy vamos a embarcarnos en una aventura espacial sobre el comportamiento. ¿Estás listo para aprender y divertirnos juntos? Vamos a descubrir cómo podemos ser buenos amigos y seguir las reglas mientras exploramos el universo. ¡Estoy tan emocionado de que estés aquí conmigo en este viaje tan especial! Prepárate para descubrir cosas asombrosas sobre cómo podemos comportarnos de manera genial."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos listos, hablemos sobre qué significa tener un buen comportamiento. Tener buen comportamiento significa ser amable con los demás y seguir las reglas. Por ejemplo, cuando compartes tus juguetes con tus amigos, estás mostrando un gran comportamiento. También significa escuchar a tus padres y ayudar en casa, como al recoger tus juguetes después de jugar. ¿No es genial poder hacer cosas que hacen sentir bien a todos?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Imagina que estás en una nave espacial y tienes una misión especial: seguir las reglas del espacio. Las reglas son importantes porque nos ayudan a mantenernos seguros y felices. Una regla podría ser no correr dentro de la nave, porque podríamos tropezar y caer. Otra regla es escuchar atentamente cuando alguien está hablando, así todos pueden compartir sus ideas. ¿Puedes pensar en una regla que te gustaría seguir en tu misión espacial?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a practicar juntos! Imagina que estás en la nave espacial y ves a un amigo que necesita ayuda para recoger sus juguetes. ¿Qué harías? ¡Exacto, le ayudarías! Ayudar a los demás es una forma maravillosa de mostrar buen comportamiento. Cuando ayudas a tus amigos, haces que el lugar sea más feliz y todos se sienten mejor. ¡Tú puedes ser un gran ayudante espacial!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablamos sobre compartir. Compartir es una parte importante del buen comportamiento. Cuando compartes, estás mostrando que te importa cómo se sienten los demás. Por ejemplo, si tienes un delicioso pastel y lo compartes con tu hermano, ambos pueden disfrutarlo y ser felices. También puedes compartir tus colores o libros. ¡Compartir hace que todos se sientan especiales!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, pensemos en cómo podemos manejar nuestras emociones. A veces, podemos sentirnos enojados o tristes, y eso está bien. Lo importante es cómo manejamos esos sentimientos. Puedes intentar tomar tres respiraciones profundas cuando estés molesto. Inhala contando hasta tres, y luego exhala contando hasta tres. Esto te ayudará a sentirte más tranquilo y a tomar buenas decisiones."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Hagamos un ejercicio divertido! Vamos a contar hasta cinco juntos mientras respiramos profundamente. ¿Estás listo? Inhala, uno, dos, tres, cuatro, cinco. Ahora exhala, uno, dos, tres, cuatro, cinco. ¡Lo hiciste genial! Practicar esto cada vez que te sientas un poco molesto puede ayudarte a sentirte mejor y a mantener un buen comportamiento."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablemos sobre escuchar. Escuchar es una habilidad muy importante. Cuando escuchas, muestras respeto por los demás. Por ejemplo, si tu maestro está hablando, es importante prestar atención para aprender cosas nuevas. También puedes escuchar a tus amigos cuando cuentan historias. Escuchar bien ayuda a todos a sentirse valorados y comprendidos."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas un momento en que escuchaste atentamente a alguien? ¿Cómo te hizo sentir? Escuchar atentamente puede hacer que las personas se sientan especiales y felices. ¿Te gustaría intentar escuchar más la próxima vez que alguien hable contigo? Es una manera maravillosa de mostrar buen comportamiento y hacer amigos."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, recordemos la importancia de decir 'por favor' y 'gracias'. Estas palabras mágicas muestran cortesía y aprecio. Por ejemplo, cuando pides un vaso de agua, decir 'por favor' hace que la otra persona se sienta respetada. Y cuando alguien te ayuda, decir 'gracias' les hace saber que valoras su ayuda. ¡Es increíble cómo estas pequeñas palabras pueden hacer una gran diferencia!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar juntos. Imagina que estás pidiendo un juguete a un amigo. ¿Qué dirías? ¡Sí, dirías 'por favor'! Y si él te lo presta, ¿qué dirías después? ¡Correcto, 'gracias'! Practicar estas palabras todos los días hace que todos se sientan bien y crea un ambiente amigable."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Ahora, hablemos sobre ser pacientes. A veces, queremos que las cosas sucedan de inmediato, pero esperar nuestro turno es una parte importante del buen comportamiento. Por ejemplo, si estás en la fila para el tobogán, esperar pacientemente tu turno muestra respeto por los demás. ¡Ser paciente es una habilidad poderosa que puedes aprender!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Te gustaría intentar ser más paciente? La próxima vez que tengas que esperar, intenta contar hasta diez en tu mente. Esto te ayudará a mantener la calma y a sentirte más tranquilo mientras esperas. ¡Seguro que puedes hacerlo, eres todo un experto en comportamiento espacial!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas una vez en que tuviste que esperar pacientemente? ¿Cómo te sentiste después? Esperar puede ser difícil, pero es una parte importante de aprender a comportarse bien. ¿Te gustaría compartir una experiencia donde mostraste paciencia? ¡Estoy seguro de que lo hiciste genial!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "¡Qué increíble aventura hemos tenido hoy aprendiendo sobre el comportamiento! Estoy muy orgulloso de ti por explorar conmigo y aprender tantas cosas nuevas. Recuerda siempre ser amable, escuchar, compartir y tener paciencia. Estos son los ingredientes mágicos para un gran comportamiento. Espero que uses lo que aprendiste hoy en tu vida diaria. ¡Hasta la próxima, pequeño explorador espacial! ¡Nos vemos pronto!"
+    }
+  ],
+  "title": "Historia de Behavior de Mino"
+}

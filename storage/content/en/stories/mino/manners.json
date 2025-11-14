@@ -1,0 +1,104 @@
+{
+  "id": "mino_manners_story",
+  "character": "Mino",
+  "topic": "manners",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little space explorers! I'm Mino, your friendly guide from the stars. Today, we're setting off on a colorful adventure through the galaxy of manners. Are you ready to learn about being polite and kind? We'll discover how using kind words can make our world a happier place. Let's buckle up and get ready to explore together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's imagine we're on a spaceship zooming through the stars. Just like astronauts follow special rules, we have manners to follow too. Manners are like magic words that make everyone feel good. Saying 'please' and 'thank you' can make people's hearts smile. It's like giving a little gift every time you speak kindly!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about saying 'please' and 'thank you'? Well, there are other magical words like 'excuse me' and 'sorry'. Imagine bumping into a space friend, saying 'excuse me' shows you're polite. If you accidentally step on a moon rock, saying 'sorry' is like a little hug. These words help us show respect and care for others."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning those magic words! Now let's try using them together. Imagine we're having a tea party with our space friends. When you ask for more star-shaped cookies, you say, 'Please may I have some more?' And when you get them, you say, 'Thank you!' See how easy it is to be polite and kind? You can do it!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about sharing. Sharing is like letting your friends borrow your favorite moon toy. It shows you care about them and want them to be happy too. When you share your toys, everyone has fun together. It's like spreading joy across the universe! Remember, sharing is another superpower of good manners."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice sharing! Imagine you have a big box of colorful crayons. When a friend asks to use the blue crayon, you can say, 'Sure, here you go!' Sharing means taking turns and making sure everyone gets a chance. It feels nice to know you're making your friend happy with your kindness."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing amazing! Remember, when we share, we also get to enjoy what others share with us. It's like a big circle of happiness! Let's try it with a fun activity. Imagine we're building a spaceship with blocks. When we share the blocks, our spaceship becomes bigger and better. Teamwork makes everything more fun!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about listening. Listening is like opening your ears wide to catch every word. When someone is talking, we give them our full attention, like watching a shooting star. We don't interrupt or talk over them. This shows we respect their words and makes them feel valued. Listening is a big part of good manners too!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice listening skills! Imagine you're at a story time. When the storyteller speaks, we sit quietly, just like astronauts waiting for a countdown. We listen to every word, and when it's our turn, we can ask questions. This way, everyone gets a chance to share their thoughts. Listening helps us learn new things every day!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're becoming a listening superstar! Let's play a listening game. I'll say a word, and you repeat it back to me. Ready? 'Star', 'Moon', 'Rocket'. Great job! See how fun listening can be? It helps us understand and connect with others. Keep up the great work, little explorer!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about sharing and listening? Now, let's explore being respectful. Being respectful is like giving others a warm hug with our actions. We use kind words and gentle hands. Respect means treating others the way we want to be treated. It's like creating a galaxy of kindness around us!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice respect in our daily lives. Imagine we're on a space mission with friends. We take turns speaking and listening. We don't push or grab, but wait patiently. This way, everyone feels safe and happy. Respect makes our world a better place for all space explorers. Let's spread respect like stardust!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing fantastic! Keep spreading respect and kindness wherever you go. Remember, even small actions can make a big difference. Like holding the door open or helping a friend in need. These acts of respect shine bright like stars. You're a wonderful space explorer with a heart full of manners!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, let's think about all the manners we've learned. Can you remember a time when you used your manners? Maybe when you said 'please' or shared a toy? How did it make you feel? Using good manners makes our world a happier place. Would you like to share your story with me?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our adventure through the galaxy of manners is coming to an end. But remember, you can use these manners every day. Keep saying 'please', 'thank you', and sharing smiles with everyone. You're a true hero of kindness! Until our next space adventure, keep shining bright like a star. Goodbye, little explorer!"
+    }
+  ],
+  "title": "Mino's Manners Story"
+}

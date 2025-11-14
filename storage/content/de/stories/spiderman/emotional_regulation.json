@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_Emotionsregulation_Gefühle_managen_sich_beruhigen_Selbstregulation_story",
+  "character": "Spider Fighter",
+  "topic": "Emotionsregulation, Gefühle managen, sich beruhigen, Selbstregulation",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Spider Fighter, dein tapferer Held aus der Stadt. Heute gehen wir auf ein spannendes Abenteuer, um zu lernen, wie wir unsere Gefühle besser verstehen können. Weißt du, manchmal fühlen wir uns glücklich, manchmal traurig, und das ist völlig in Ordnung. Gemeinsam werden wir herausfinden, wie wir mit all diesen Gefühlen umgehen können. Bist du bereit für diese aufregende Reise?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir bereit sind, lass uns über Gefühle sprechen. Gefühle sind wie kleine Freunde, die uns zeigen, wie wir uns in bestimmten Momenten fühlen. Manchmal sind sie stark wie ein großes Abenteuer, und manchmal ganz leise wie ein Flüstern. Wenn wir lernen, unsere Gefühle zu erkennen, können wir besser verstehen, was wir brauchen. Es ist wie eine Superkraft, die uns hilft, stark und mutig zu sein."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Stell dir vor, du bist ein Superheld wie ich. Superhelden haben auch Gefühle, und sie lernen, diese zu kontrollieren. Wenn du dich wütend fühlst, atme tief ein und zähle bis fünf. Eins, zwei, drei, vier, fünf. Jetzt atme langsam aus. Das hilft, die Wut zu beruhigen und macht dich wieder stark und ruhig. Lass uns das zusammen versuchen!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Du hast das wirklich toll hinbekommen. Gefühle zu regulieren ist nicht immer einfach, aber du hast es geschafft. Du bist ein echter Held! Wenn du das nächste Mal ein Gefühl hast, das dich überwältigt, erinnere dich an diese Übung. Du kannst es immer wieder üben, und jedes Mal wirst du besser darin."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über starke Gefühle gesprochen haben? Jetzt wollen wir sehen, wie wir mit Traurigkeit umgehen können. Manchmal fühlen wir uns traurig, wenn Dinge nicht so laufen, wie wir es uns wünschen. Das ist völlig normal. Wenn du traurig bist, kannst du mit jemandem sprechen, dem du vertraust. Oder du kannst ein Bild malen, um deine Gefühle auszudrücken."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's versuchen, unsere Traurigkeit mit einer kleinen Übung zu beruhigen. Stell dir vor, du hast einen Zauberstab, der Freude bringt. Schließe deine Augen und denke an etwas, das dich glücklich macht. Vielleicht ein Spielzeug oder ein lustiger Tag im Park. Wenn du daran denkst, spürst du, wie die Traurigkeit kleiner wird. Du kannst es immer wieder versuchen, wenn du dich traurig fühlst."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wunderbar! Du hast eine besondere Fähigkeit, deine Gefühle zu verstehen und zu verändern. Das ist eine echte Superkraft! Jedes Mal, wenn du eine Übung machst, wirst du stärker und mutiger. Du kannst stolz auf dich sein. Ich bin stolz auf dich!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nun, lass uns über Freude sprechen. Freude ist ein wunderbares Gefühl, das uns zum Lächeln bringt. Es ist wie ein Sonnenstrahl an einem Regentag. Wenn wir glücklich sind, fühlen sich unsere Herzen leicht und frei an. Es ist wichtig, diese schönen Momente zu genießen und zu teilen."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kannst du dich an einen Moment erinnern, in dem du wirklich glücklich warst? Vielleicht, als du mit einem Freund gespielt hast oder ein Eis gegessen hast? Was macht dich glücklich? Denk daran, diese Momente sind wie kleine Schätze, die wir in unserem Herzen aufbewahren können. Lass uns darüber sprechen!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an die Freude, die wir gerade besprochen haben? Jetzt wollen wir sehen, wie wir diese Freude mit anderen teilen können. Wenn du jemanden siehst, der traurig ist, kannst du ihm ein Lächeln schenken oder ihm helfen. Ein kleiner Akt der Freundlichkeit kann viel bewirken und Freude verbreiten."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Versuchen wir, Freude zu verbreiten, indem wir ein Lächeln üben. Lächeln ist ansteckend und macht uns alle glücklich. Stell dich vor einen Spiegel und lächle. Siehst du, wie sich dein Gesicht verändert? Dieses Lächeln kannst du mit anderen teilen und ihren Tag heller machen."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du hast ein wunderschönes Lächeln! Du bringst Licht in die Welt, indem du deine Freude teilst. Das ist eine wunderbare Fähigkeit, die du hast. Jedes Mal, wenn du jemanden zum Lächeln bringst, machst du die Welt ein bisschen besser. Weiter so!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel über Gefühle gelernt haben, lass uns darüber nachdenken, wie wir unsere Superkräfte weiterentwickeln können. Gefühle sind ein wichtiger Teil unseres Lebens, und wir können lernen, sie zu verstehen und zu managen. Es ist wie das Lernen, ein Superheld zu sein. Mit jeder Übung werden wir besser und stärker."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Weißt du, manchmal brauchen sogar Superhelden Hilfe. Es ist wichtig, Freunde zu haben, die uns unterstützen. Wenn du dich jemals überfordert fühlst, erinnere dich daran, dass du nicht allein bist. Es gibt immer jemanden, der dir helfen kann. Gemeinsam sind wir stark!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war wundervoll, dieses Abenteuer mit dir zu teilen. Du hast so viel über Gefühle und Selbstregulation gelernt. Ich bin stolz auf dich, kleiner Held! Vergiss nicht, dass du immer deine Superkräfte einsetzen kannst, um deine Gefühle zu managen. Bis zum nächsten Mal, mein tapferer Freund! Bleib stark und fröhlich!"
+    }
+  ],
+  "title": "Spider Fighters Emotional Regulation Geschichte"
+}

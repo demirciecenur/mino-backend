@@ -1,0 +1,104 @@
+{
+  "id": "luna_regulación_emocional_manejo_de_emociones_calmarse_autorregulación_story",
+  "character": "Luna",
+  "topic": "regulación emocional, manejo de emociones, calmarse, autorregulación",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Luna, y hoy vamos a emprender un viaje mágico para aprender sobre la regulación emocional. ¿Alguna vez has sentido muchas emociones al mismo tiempo? A veces podemos sentirnos felices, tristes o incluso enfadados. Hoy, descubriremos cómo podemos calmar nuestras emociones y sentirnos mejor. ¿Estás listo para esta aventura mágica? ¡Vamos a explorar juntos este maravilloso mundo de emociones!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de lo que es la regulación emocional. La regulación emocional es como un gran abrazo que nos damos a nosotros mismos cuando sentimos muchas cosas a la vez. Imagina que tus emociones son como nubes en el cielo. A veces, hay muchas nubes, y a veces el cielo está despejado. Aprender a manejar nuestras emociones nos ayuda a tener un cielo más tranquilo. ¿Te gustaría aprender cómo hacerlo? Es como un juego mágico que podemos jugar juntos."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Primero, vamos a aprender a respirar profundamente. Cuando te sientas abrumado, cierra los ojos e imagina que estás soplando una gran burbuja. Inhala profundamente por la nariz y luego sopla suavemente por la boca. ¿Puedes sentir cómo las burbujas se elevan suavemente en el aire? Esto ayuda a que nuestras emociones se calmen y nuestro corazón se sienta más ligero. Vamos a practicar juntos: uno, dos, tres, ¡inhala! Ahora, sopla suavemente. ¡Muy bien!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Excelente trabajo! Ahora que sabemos cómo respirar para calmarnos, podemos usarlo cada vez que nos sintamos un poco agitados. ¿No es maravilloso tener una herramienta mágica como esta? Con cada respiración, estamos aprendiendo a manejar nuestras emociones. Así que la próxima vez que sientas que las nubes de emociones están llenando tu cielo, recuerda soplar tus burbujas mágicas. Estoy segura de que puedes hacerlo muy bien. ¡Eres increíble!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos aprendido a respirar, vamos a hablar de cómo podemos usar nuestras manos para calmarnos. Imagina que tienes una varita mágica en tus manos. Cuando te sientes enojado o triste, puedes frotar tus manos juntas como si estuvieras creando magia. Este movimiento ayuda a que tu cuerpo se sienta más tranquilo. ¿Te gustaría intentarlo? Frotemos nuestras manos juntas y sintamos cómo la magia nos calma poco a poco. ¡Es como un hechizo calmante!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Otra forma de manejar nuestras emociones es a través de los colores. Cierra los ojos por un momento e imagina un color que te haga sentir feliz. Puede ser el amarillo brillante del sol o el azul tranquilo del mar. Ahora, imagina que estás envuelto en ese color. ¿Sientes cómo te abraza y te calma? Puedes cambiar de color cada vez que lo necesites. Los colores pueden ser como un abrazo de la naturaleza que nos ayuda a sentirnos mejor."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Recuerda que no importa cómo te sientas, siempre puedes encontrar una manera de calmarte. Al usar tus respiraciones mágicas, tus manos y tus colores, estás creando un mundo de paz dentro de ti. No olvides que puedes practicar estos trucos mágicos en cualquier momento. Cuando te sientas listo, compártelos con tus amigos y ayúdales a encontrar su propia calma. ¡Eres un verdadero experto en emociones!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de la música. La música tiene un poder especial para calmar nuestras emociones. ¿Tienes una canción favorita que te haga sentir feliz? Cantar o escuchar música suave puede ser como una caricia para nuestro corazón. La próxima vez que te sientas inquieto, pon tu canción favorita y deja que la música te envuelva en su suave melodía. La música puede ser tu amiga mágica que siempre está ahí para ayudarte."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría compartir cuál es tu canción favorita? Me encantaría saber qué música te hace feliz. Tal vez podamos cantar juntos la próxima vez. Recuerda que la música no solo nos calma, sino que también nos hace sonreír y bailar. ¿No te parece mágico cómo una canción puede cambiar todo nuestro día? Estoy segura de que tienes un montón de canciones mágicas en tu corazón. ¿Cuál es tu favorita?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Sigamos nuestro viaje mágico hablando de los cuentos. Los cuentos nos transportan a mundos lejanos y nos ayudan a soñar. Cuando sientas que tus emociones están desordenadas, puedes abrir un libro y dejar que las palabras te lleven a un lugar tranquilo. Leer un cuento antes de dormir puede ayudarte a relajarte y a tener sueños dulces. Los cuentos son como un abrazo cálido antes de cerrar los ojos. ¿No es maravilloso cómo las historias nos cuidan?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de cómo podemos usar nuestra imaginación para calmarnos. Imagina que estás en un bosque mágico lleno de árboles altos y flores de colores. Puedes sentir la suave brisa en tu cara y escuchar el canto de los pájaros. Cierra los ojos e imagina que estás allí. ¿Puedes sentir cómo tu corazón se calma? Usar tu imaginación es como tener un lugar secreto donde siempre puedes ir cuando necesites paz. ¡Es un lugar solo para ti!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo has hecho! Recuerda que siempre puedes usar tu imaginación para encontrar un lugar de calma y felicidad. Todos tenemos un bosque mágico dentro de nosotros donde podemos ir cuando lo necesitemos. Cada vez que practiques estos trucos mágicos, estarás cuidando de tus emociones. ¡Eres un verdadero aventurero de las emociones! Estoy muy orgullosa de ti por ser tan valiente y curioso."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas todas las formas mágicas que hemos aprendido para calmarnos? Respirar profundamente, usar nuestras manos, imaginar colores, escuchar música, leer cuentos e imaginar lugares mágicos. Todos estos son tus trucos especiales para manejar tus emociones. ¿Cuál es tu favorito hasta ahora? Tal vez puedas compartirlo con alguien y mostrarle cómo encontrar su propia calma. ¡Estoy segura de que les encantaría aprender de ti!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme cuál de estos trucos mágicos te gustaría probar primero? Estoy tan emocionada de saber cuál es tu elección. Cada uno de estos trucos es especial, y puedes usarlos cuando lo necesites. ¿No es genial tener tantas opciones para sentirnos mejor? Estoy aquí para ayudarte a descubrir más formas de cuidar tus emociones. ¿Cuál será tu primer paso en esta aventura mágica?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido maravilloso compartir este viaje mágico contigo. Recuerda siempre que tienes el poder de calmar tus emociones y encontrar tu paz interior. Con cada respiración, cada canción y cada cuento, estás creando un mundo de tranquilidad. Estoy tan orgullosa de ti por ser valiente y curioso. Espero que sigas explorando y encontrando nuevas formas de cuidar de ti mismo. ¡Hasta la próxima, pequeño aventurero! ¡Nos vemos pronto!"
+    }
+  ],
+  "title": "Historia de Emotional Regulation de Luna"
+}

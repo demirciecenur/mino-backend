@@ -1,0 +1,98 @@
+{
+  "id": "boots_knight_pal_régulation_émotionnelle_gestion_des_émotions_se_calmer_autorégulation_story",
+  "character": "Boots Knight Pal",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Boots Knight Pal, et aujourd'hui, nous allons partir dans une aventure incroyable sur la régulation émotionnelle. Sais-tu ce que c'est? C'est comme apprendre à être calme et heureux même quand on est un peu fâché ou triste. Ensemble, nous allons découvrir des astuces pour gérer nos émotions. Es-tu prêt pour cette aventure? Allons-y!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La régulation émotionnelle, c'est un peu comme devenir un chevalier courageux qui sait comment se calmer dans toutes les situations. Parfois, on peut se sentir très en colère, comme un volcan qui veut exploser. Mais un vrai chevalier apprend à respirer profondément et à se détendre. Imagine que tu es un arbre avec des racines solides. Tu peux rester calme même quand le vent souffle fort. N'est-ce pas incroyable?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons d'une technique spéciale pour rester calme. Cela s'appelle la respiration profonde. Quand tu sens que tu deviens nerveux, inspire lentement par le nez comme si tu sentais une belle fleur. Puis, expire doucement par la bouche comme si tu soufflais sur une plume. Faisons-le ensemble, veux-tu? Inspire, expire... Ça fait du bien, n'est-ce pas?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo! Tu as très bien respiré! Chaque fois que tu te sens agité, souviens-toi de cette technique. Les chevaliers courageux savent comment utiliser leur souffle pour rester sereins. C'est comme avoir une baguette magique qui te rend calme. Pratique cela chaque jour et tu deviendras un expert! Tu peux le faire, je crois en toi!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de la gestion des émotions. C'est comme ranger ses jouets après avoir joué. Quand tu es triste ou en colère, tu peux essayer de comprendre pourquoi. Peut-être que tu es fatigué ou que quelque chose te dérange. Parler à un adulte peut t'aider à te sentir mieux. Ils peuvent t'aider à ranger tes émotions comme on range ses jouets. Tu n'es jamais seul dans cette aventure."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre façon de se calmer est de penser à un endroit spécial où tu te sens heureux. Ferme les yeux et imagine un endroit magique, comme un jardin plein de fleurs ou une plage avec du sable doux. Quand tu y penses, tu te sens tout de suite plus calme, n'est-ce pas? C'est un peu comme être transporté dans un monde enchanté."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail formidable! Se calmer et gérer ses émotions, c'est un peu comme apprendre à danser. Au début, c'est difficile, mais avec de la pratique, ça devient plus facile. Chaque jour, tu deviens plus fort et plus courageux. Continue d'essayer, et souviens-toi que je suis toujours là pour t'aider. Ensemble, nous pouvons tout accomplir!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dis-moi, as-tu déjà essayé de compter jusqu'à dix quand tu es en colère? C'est une astuce magique pour se calmer. Comptons ensemble maintenant: un, deux, trois... jusqu'à dix. Sens-tu la différence? Ça aide à calmer le cœur, n'est-ce pas? Tu peux essayer cela la prochaine fois que tu te sens bouleversé. Que penses-tu de cette idée?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, jouer à un jeu calme peut aussi aider à gérer ses émotions. As-tu un jeu préféré qui te rend heureux? Peut-être un puzzle ou dessiner un beau dessin. Ces activités peuvent t'aider à te concentrer et à oublier ce qui te dérange. C'est comme trouver un petit coin de bonheur dans ton cœur. Jouer, c'est important pour se sentir bien!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons un exercice ensemble. Imagine que tu es une étoile brillante dans le ciel. Brille fort et éclaire tout autour de toi. Quand tu te sens triste, pense à cette lumière. Elle est toujours là pour toi, même quand il fait sombre. Tu es une étoile et tu peux illuminer ton monde avec ta lumière. N'oublie jamais ça!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu vois, tu es déjà un expert en régulation émotionnelle! Chaque petit pas que tu fais est important. Comme un chevalier, tu apprends à être fort et serein. Continue de pratiquer ces astuces chaque jour, et tu verras combien tu te sens mieux. Je suis fier de toi et de tout ce que tu as appris aujourd'hui. Tu es incroyable!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, rappelons-nous de tout ce que nous avons appris. Nous avons découvert comment respirer profondément, comment penser à un endroit spécial et comment s'amuser pour gérer nos émotions. Chaque technique est comme un outil magique dans ta boîte à outils de chevalier. Utilise-les chaque fois que tu en as besoin. Tu es prêt pour toute aventure maintenant!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu une technique préférée que tu aimerais essayer plus souvent? Peut-être la respiration profonde ou compter jusqu'à dix? Ces astuces peuvent être utilisées à tout moment, où que tu sois. Tu peux même les partager avec tes amis et ta famille. Que dirais-tu de les essayer ensemble la prochaine fois que tu en auras besoin?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'est déjà la fin de notre aventure, mon petit ami! Merci d'avoir été si courageux et d'avoir appris avec moi. Souviens-toi, tu as en toi la force d'un chevalier pour gérer tes émotions. Continue d'être brillant et courageux chaque jour. J'ai hâte de te retrouver pour une nouvelle aventure. À très bientôt et prends soin de toi!"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Boots Knight Pal"
+}

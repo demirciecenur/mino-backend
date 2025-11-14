@@ -1,0 +1,104 @@
+{
+  "id": "mino_Bildschirmzeit, digitale Sicherheit, Technologienutzung, gesunde Bildschirmgewohnheiten_story",
+  "character": "Mino",
+  "topic": "Bildschirmzeit, digitale Sicherheit, Technologienutzung, gesunde Bildschirmgewohnheiten",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Mino, dein Weltraumabenteurer. Heute werden wir eine spannende Reise machen, um mehr über Bildschirmzeit und digitale Sicherheit zu erfahren. Bist du bereit, mit mir auf Entdeckungsreise zu gehen? Wir werden herausfinden, wie Technologie uns helfen kann und wie wir sie sicher nutzen können. Es ist so aufregend, all die Dinge zu lernen, die wir tun können, um gesund und glücklich zu bleiben!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bildschirmzeit bedeutet die Zeit, die wir vor Fernsehern, Computern oder Tablets verbringen. Wusstest du, dass es wichtig ist, nicht zu viel Zeit vor Bildschirmen zu verbringen? Wenn wir zu lange sitzen, können unsere Augen müde werden, und wir fühlen uns vielleicht auch ein bisschen schlapp. Deshalb ist es gut, Pausen zu machen und zwischendurch zu spielen oder nach draußen zu gehen. Jetzt weißt du, warum es wichtig ist, die Bildschirmzeit zu begrenzen!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber sprechen, wie wir die Bildschirmzeit sicher und gesund gestalten können. Eine gute Idee ist, einen Timer zu benutzen, um zu wissen, wann es Zeit ist, eine Pause zu machen. Vielleicht kannst du einen lustigen Wecker verwenden, der klingelt, wenn es Zeit ist, aufzustehen und sich zu bewegen. Und wusstest du, dass es auch hilft, einen festen Platz für das Tablet oder den Fernseher zu haben? So bleibt dein Raum ordentlich und du weißt immer, wo du das Gerät findest."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super, dass du bis hierher mitgemacht hast! Lass uns zusammen zählen. Eins, zwei, drei, vier, fünf! Fünf Minuten Bewegung können dir helfen, dich besser zu fühlen, nachdem du am Bildschirm gesessen hast. Es ist toll, wenn wir uns bewegen, denn das macht uns stark und gesund. Du kannst zum Beispiel hüpfen, tanzen oder ein lustiges Lied singen. Mach weiter so, du machst das großartig!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir wissen, wie wichtig Pausen sind, lass uns über digitale Sicherheit sprechen. Das bedeutet, dass wir darauf achten, was wir im Internet sehen und teilen. Es ist wichtig, keine persönlichen Informationen wie deine Adresse oder Telefonnummer preiszugeben. Wenn du dir nicht sicher bist, kannst du immer einen Erwachsenen fragen. So bleibst du sicher und kannst das Internet mit Freude nutzen!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ein weiterer wichtiger Punkt ist, nur altersgerechte Apps und Spiele zu nutzen. Es gibt so viele tolle Spiele, die speziell für Kinder gemacht sind. Diese helfen dir, Neues zu lernen und Spaß zu haben, ohne dass du dich sorgen musst. Wenn du dir nicht sicher bist, ob ein Spiel für dich geeignet ist, kannst du immer einen Erwachsenen fragen. So kannst du sicher sein, dass du nur Spiele spielst, die gut für dich sind!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal überlegt, warum es so viele verschiedene Apps gibt? Apps können uns helfen, Dinge zu lernen, zu spielen und sogar Musik zu machen. Welche Art von Apps magst du am liebsten? Vielleicht hast du eine Lieblingsapp, die du gerne benutzt. Denk mal darüber nach und erzähl es einem Freund oder einem Erwachsenen. Es ist immer schön, seine Gedanken zu teilen!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich daran, wie wichtig es ist, Pausen zu machen? Lass uns jetzt über eine weitere gesunde Gewohnheit sprechen: die richtige Körperhaltung. Wenn wir am Bildschirm sitzen, sollten wir darauf achten, dass unser Rücken gerade ist. So vermeiden wir, dass wir uns unwohl fühlen. Vielleicht kannst du auch einen bequemen Stuhl benutzen, der dir hilft, aufrecht zu sitzen. So kannst du gesund bleiben, während du deine Lieblingsspiele spielst!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das so toll! Lass uns jetzt gemeinsam tief einatmen. Eins, zwei, drei! Und ausatmen. Atmen hilft uns, uns zu entspannen und uns besser zu fühlen, besonders wenn wir lange gesessen haben. Es ist immer gut, eine Pause zu machen und tief durchzuatmen. Du bist wirklich ein toller Abenteurer, der all diese wichtigen Dinge lernt!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Denke daran, dass es auch wichtig ist, Zeit mit Freunden und Familie zu verbringen. Das macht Spaß und hilft uns, neue Dinge zu lernen. Vielleicht könnt ihr zusammen ein Spiel spielen oder ein Buch lesen. Wenn du das nächste Mal Bildschirmzeit hast, kannst du vorher überlegen, was du danach machen möchtest. So hast du immer etwas, worauf du dich freuen kannst!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo du all diese tollen Tipps kennst, kannst du sie in deinem Alltag ausprobieren. Vielleicht kannst du einen Plan machen, wann du Bildschirmzeit hast und wann du Pausen machst. Das hilft dir, alles im Gleichgewicht zu halten. Und vergiss nicht, dass es immer gut ist, mit einem Erwachsenen darüber zu sprechen, was du online machst. So kannst du sicherstellen, dass du immer sicher und glücklich bist!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkst du, ist das Beste daran, gesunde Bildschirmgewohnheiten zu haben? Vielleicht ist es, dass du mehr Zeit hast, um draußen zu spielen oder neue Dinge zu lernen. Oder vielleicht fühlst du dich einfach besser, wenn du Pausen machst. Überlege dir, was dir am meisten gefällt und erzähle es einem Freund. Es ist immer spannend zu hören, was andere denken!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel gelernt haben, ist es Zeit, das Gelernte anzuwenden. Du kannst beginnen, diese gesunden Gewohnheiten in dein tägliches Leben zu integrieren. Vielleicht möchtest du einen Erwachsenen um Hilfe bitten, um einen Plan zu erstellen. So kannst du sicherstellen, dass du immer genug Zeit zum Spielen, Lernen und Entspannen hast. Du bist wirklich ein toller Abenteurer, der bereit ist, die Welt zu entdecken!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du hast so viel gelernt und so gut mitgemacht, das ist fantastisch! Ich bin so stolz auf dich. Denk daran, dass du mit diesen Tipps immer sicher und glücklich bleiben kannst. Du bist ein großartiger Entdecker, der bereit ist, die Welt des Internets sicher zu erkunden. Weiter so, du kannst alles schaffen, was du dir vornimmst!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir diese Reise zu machen. Jetzt weißt du, wie wichtig es ist, gesunde Bildschirmgewohnheiten zu haben. Ich hoffe, du hattest genauso viel Spaß wie ich! Ich freue mich schon darauf, bald wieder mit dir auf Abenteuer zu gehen. Bis zum nächsten Mal, kleiner Freund! Bleib neugierig und sicher!"
+    }
+  ],
+  "title": "Minos Screen Time Geschichte"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "mystery_pup_buddy_behavior_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "behavior",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Mystery Pup Buddy. Heute gehen wir auf eine spannende Reise, um über Verhalten zu sprechen. Bist du bereit? Ich bin so neugierig auf dich. Lass uns Spaß haben und etwas Neues lernen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Verhalten ist, wie wir uns verhalten, wenn wir mit anderen zusammen sind. Es ist wichtig, freundlich und respektvoll zu sein. Zum Beispiel, wenn wir unsere Spielsachen teilen, zeigen wir gutes Verhalten. Wenn wir bitte und danke sagen, zeigen wir, dass wir höflich sind. Kannst du an eine Zeit denken, als du nett warst?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über Regeln sprechen. Regeln helfen uns, sicher und glücklich zu sein. Zu Hause könnte eine Regel sein, dass wir vor dem Essen unsere Hände waschen. In der Schule könnte es eine Regel geben, dass wir auf den Lehrer hören. Regeln sind wie ein unsichtbarer Freund, der uns hilft, das Richtige zu tun."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du machst das toll! Lass uns zusammen zählen, wie viele Regeln wir kennen. Eins, zwei, drei! Regeln sind überall, und sie machen das Leben einfacher. Du bist ein echter Regel-Entdecker!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Teilen gesprochen haben? Teilen ist ein Akt der Freundlichkeit. Wenn du dein Spielzeug mit einem Freund teilst, machst du ihn glücklich. Es ist schön, anderen eine Freude zu machen. Teilen zeigt, dass du ein guter Freund bist."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt über Zuhören sprechen. Zuhören ist eine wichtige Fähigkeit. Wenn jemand spricht, schauen wir ihm in die Augen, um zu zeigen, dass wir aufmerksam sind. Wenn du gut zuhörst, kannst du neue Dinge lernen und tolle Geschichten hören. Probier es aus, wenn jemand mit dir spricht!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das fantastisch! Jetzt lass uns eine kurze Pause machen und tief durchatmen. Einatmen... und ausatmen... Das beruhigt uns und hilft uns, besser zuzuhören. Du bist ein super Zuhörer!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, dass Lächeln auch ein Teil von gutem Verhalten ist? Ein Lächeln kann jemanden den Tag verschönern. Wenn wir lächeln, zeigen wir, dass wir freundlich sind. Lachen ist sogar noch besser, weil es ansteckend ist. Lass uns zusammen lachen, haha!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Nun, lass uns über das Aufräumen sprechen. Wenn wir mit dem Spielen fertig sind, räumen wir unsere Spielsachen auf. Das hält unser Zuhause sauber und ordentlich. Wenn wir zusammenarbeiten, geht es schneller. Aufräumen macht Spaß, wenn wir es zu einem Spiel machen!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du eine Lieblingsregel zu Hause oder in der Schule? Vielleicht magst du es, wenn alle zusammen essen oder wenn es Zeit zum Spielen gibt. Regeln können auch helfen, dass der Tag besser läuft. Welche Regel findest du am wichtigsten?"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Das sind tolle Gedanken! Jetzt, wo wir über Regeln und Verhalten gesprochen haben, können wir sie überall um uns herum sehen. Weißt du, dass Tiere auch Regeln haben? Hunde wie ich müssen lernen zu sitzen und zu bleiben. Das hilft uns, sicher zu sein."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein großartiger Zuhörer und ein noch besserer Freund! Wenn wir freundlich sind und die Regeln befolgen, machen wir die Welt zu einem besseren Ort. Du kannst das jeden Tag üben. Ich bin so stolz auf dich!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel gelernt haben, können wir anderen helfen, auch gutes Verhalten zu zeigen. Wenn wir sehen, dass jemand Hilfe braucht, können wir unsere Hand ausstrecken. Zusammen können wir eine tolle Gemeinschaft aufbauen. Du hast die Kraft, einen Unterschied zu machen!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Danke, dass du mit mir auf diese Reise gekommen bist! Es war so viel Spaß, über Verhalten zu lernen. Ich hoffe, du hattest genauso viel Spaß wie ich. Bis zum nächsten Mal, kleiner Freund! Bleib freundlich und neugierig!"
+    }
+  ],
+  "title": "Mystery Pup Buddys Behavior Geschichte"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_bedtime_story",
+  "character": "Bubble Buddy",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Bubble Buddy, y hoy vamos a descubrir la maravillosa hora de dormir. ¿Estás listo para una aventura submarina antes de ir a la cama? Me encanta la hora de dormir porque es un momento para relajarse y soñar con cosas increíbles. Vamos a aprender cómo prepararnos para una noche de sueño mágico. ¡Será tan divertido! Ahora, acompáñame mientras comenzamos nuestra aventura."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La hora de dormir es muy importante porque nos ayuda a descansar y a estar llenos de energía al día siguiente. Cuando dormimos bien, podemos jugar, aprender y crecer mejor. ¿Sabías que los peces también necesitan dormir? Ellos se acurrucan en sus cuevas submarinas y se relajan. Así que, como los peces, necesitamos nuestras propias rutinas para dormir bien. Ahora, vamos a ver qué podemos hacer antes de acostarnos."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Una de las primeras cosas que hacemos antes de dormir es ponernos nuestro pijama favorito. El pijama es como un traje especial que nos dice que es hora de descansar. ¿Tienes un pijama que te gusta mucho? A mí me encanta mi pijama de burbujas porque es muy cómodo. Cambiarnos de ropa nos ayuda a prepararnos mentalmente para la hora de dormir. Ahora que estamos cómodos, sigamos con la siguiente parte de nuestra rutina."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora que tenemos nuestro pijama puesto, vamos a cepillarnos los dientes. Cepillarse los dientes es muy importante porque mantiene nuestra sonrisa brillante y saludable. ¿Sabes cómo hacerlo? Primero, ponemos un poco de pasta de dientes en nuestro cepillo. Luego, cepillamos suavemente, arriba y abajo, por unos dos minutos. ¡Tú puedes hacerlo! Y recuerda, los dientes limpios nos ayudan a dormir mejor."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que nuestros dientes están limpios y brillantes, es hora de una actividad tranquila. Leer un cuento es una excelente manera de relajarse antes de dormir. ¿Tienes un cuento favorito? A mí me encantan las historias de aventuras submarinas. Leer nos ayuda a calmar nuestra mente y prepararnos para los sueños. Así que elige un libro y disfrutemos de una historia juntos. ¿No es maravilloso?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Después de leer, podemos hacer un ejercicio de respiración para relajarnos aún más. Vamos a respirar profundamente juntos. Inhala por la nariz contando hasta tres, y luego exhala suavemente por la boca contando hasta cinco. Esto nos ayuda a sentirnos tranquilos y listos para dormir. Puedes imaginar que estás flotando en una burbuja suave y acogedora. ¿No es relajante?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Muy bien! Ahora que estamos tranquilos, podemos pensar en algo bonito antes de cerrar los ojos. Puedes imaginar un lugar feliz, como una playa soleada o un jardín lleno de flores. Pensar en cosas bonitas nos ayuda a tener sueños felices. Recuerda, los sueños son como aventuras que tenemos mientras dormimos. ¡Tú puedes soñar con lo que quieras!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas cuando hablamos de los peces durmiendo en sus cuevas? Ellos también sueñan con aventuras submarinas. Así que, al cerrar los ojos, imagina que estás nadando con ellos en un océano de sueños. Puedes ver peces de colores y arrecifes de coral brillantes. Este es un momento para disfrutar de tu imaginación. ¡Qué emocionante puede ser!"
+    },
+    {
+      "id": "scene_8",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Ahora que estamos listos para dormir, podemos escuchar los sonidos suaves a nuestro alrededor. Tal vez puedas oír el viento afuera o el canto de los grillos. Estos sonidos nos ayudan a relajarnos y dormir mejor. Escuchar con atención nos enseña a apreciar el mundo que nos rodea. Así que cierra los ojos y escucha atentamente. ¿Qué sonidos puedes oír?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Tienes alguna canción de cuna favorita que te guste escuchar antes de dormir? Las canciones de cuna son como melodías mágicas que nos envuelven en tranquilidad. Me encanta escuchar el suave sonido de las olas del mar como una canción de cuna. ¿Te gustaría cantar una conmigo? Las canciones nos ayudan a sentirnos seguros y felices antes de dormir. ¿Cuál es tu canción especial?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Mientras escuchamos nuestra canción de cuna, podemos pensar en todas las cosas buenas que hicimos hoy. Tal vez jugaste con tus amigos o aprendiste algo nuevo en la escuela. Recordar momentos felices nos ayuda a sentirnos agradecidos y contentos. Ahora es el momento perfecto para sonreír y sentirnos bien. ¿Qué es lo que más te gustó de hoy?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos tranquilos y felices, es hora de cerrar los ojos y dejar que los sueños nos lleven a lugares mágicos. Recuerda, cada noche es una nueva oportunidad para soñar algo maravilloso. Dormir bien nos prepara para un día lleno de aventuras. Así que, cierra los ojos, relájate, y deja que los sueños comiencen. ¡Buenas noches!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Antes de que nos despidamos, recordemos nuestra rutina de dormir: ponerse el pijama, cepillarse los dientes, leer un cuento, respirar profundamente, y escuchar una canción de cuna. Estas actividades nos ayudan a prepararnos para una buena noche de sueño. La rutina es como una guía que nos lleva al mundo de los sueños. ¡Tú puedes hacerlo cada noche!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Has hecho un trabajo maravilloso siguiendo todos los pasos para una buena noche de sueño! Recuerda que dormir bien es la clave para un día lleno de energía y diversión. Estoy muy orgulloso de ti por aprender sobre la importancia de la hora de dormir. ¡Sigue así! Siempre estaré aquí para acompañarte en tus aventuras submarinas. ¡Hasta la próxima!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ahora es hora de decir adiós, pero recuerda que siempre puedes contar conmigo para ayudarte a dormir bien. Me encantó compartir esta aventura contigo. Espero que tengas los sueños más dulces y mágicos. ¡Gracias por acompañarme hoy! Espero verte pronto para más aventuras submarinas. ¡Buenas noches, pequeño amigo!"
+    }
+  ],
+  "title": "Historia de Bedtime de Bubble Buddy"
+}

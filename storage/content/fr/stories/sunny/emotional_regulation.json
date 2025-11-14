@@ -1,0 +1,98 @@
+{
+  "id": "sunny_régulation_émotionnelle_gestion_des_émotions_se_calmer_autorégulation_story",
+  "character": "Sunny",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Sunny, et aujourd'hui, nous allons explorer un monde merveilleux où nous apprenons à comprendre nos émotions. Parfois, nous ressentons de la joie, parfois de la tristesse, et parfois même de la colère. C'est tout à fait normal ! Ensemble, nous allons découvrir comment faire pour se sentir mieux quand les choses deviennent un peu difficiles. Es-tu prêt pour cette aventure passionnante ? Je suis tellement curieux d'apprendre avec toi !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par parler de ce que sont les émotions. Les émotions, ce sont tous ces sentiments que nous ressentons à l'intérieur de nous, comme être content, fâché ou même un peu effrayé. C'est comme un arc-en-ciel de sensations ! Parfois, on se sent comme un ballon rempli de bonheur, et d'autres fois, on se sent comme un nuage gris. Mais ne t'inquiète pas, c'est tout à fait normal ! Les émotions nous aident à comprendre le monde autour de nous."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de ce que nous pouvons faire quand une émotion devient trop forte. Par exemple, si tu es très en colère, tu peux essayer de prendre trois grandes respirations. Inspire profondément par le nez et souffle lentement par la bouche. Comme ça, tu verras que ça aide à calmer la tempête à l'intérieur. C'est un peu comme faire une pause pour se sentir mieux. Tu veux essayer ensemble ?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Prenons une grande inspiration ensemble. Prêt ? Inspire profondément... et expire doucement. Encore une fois, inspire... et expire. Bravo ! Tu vois, se calmer, c'est comme donner un câlin à ton cœur. C'est quelque chose que tu peux faire à tout moment, n'importe où. Je suis tellement fier de toi d'avoir essayé !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons notre exploration des émotions. Sais-tu que les émotions peuvent aussi être partagées ? Par exemple, quand tu es heureux, tu peux le montrer avec un grand sourire, et cela peut rendre quelqu'un d'autre heureux aussi. C'est magique, n'est-ce pas ? Et quand tu es triste, parler à quelqu'un peut t'aider à te sentir mieux. Les amis et la famille sont là pour t'écouter et te soutenir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant de la manière de reconnaître nos émotions. Pour cela, nous pouvons prêter attention à notre corps. Par exemple, si ton cœur bat très vite, cela peut vouloir dire que tu es excité ou nerveux. Si tu as envie de pleurer, cela peut être parce que tu es triste. Écouter ton corps peut t'aider à comprendre ce que tu ressens. C'est comme lire un livre de toi-même !"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail incroyable en apprenant à propos de tes émotions ! Rappelle-toi, il n'y a pas de bonnes ou de mauvaises émotions. Elles sont toutes importantes et elles ont toutes quelque chose à te dire. Lorsque tu prends le temps de les écouter, tu deviens comme un super détective des émotions ! Continue d'explorer et de découvrir ce que tu ressens à l'intérieur. Tu peux le faire !"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu déjà ressenti une émotion très forte, comme être vraiment, vraiment content ou vraiment, vraiment fâché ? Que fais-tu dans ces moments-là ? Peut-être que tu sautes de joie, ou peut-être que tu t'assois pour te calmer. C'est fascinant de voir comment chacun de nous réagit différemment. J'aimerais beaucoup entendre ce que tu fais pour gérer tes émotions. Peux-tu me le dire ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Passons à une petite activité amusante. Imaginons que nous sommes des arbres dans une forêt. Quand le vent souffle fort, les branches bougent dans tous les sens, mais les racines restent bien ancrées dans le sol. Nous pouvons être comme ces arbres, forts et calmes, même quand les émotions nous secouent. Ferme les yeux et imagine que tu es cet arbre. Sens-tu tes racines solides ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre manière de gérer nos émotions est de penser à quelque chose qui nous rend heureux. Cela peut être un souvenir, un jouet ou même une personne que tu aimes beaucoup. Ferme les yeux et pense à ce qui te fait sourire. Tu verras, cela peut transformer une journée grise en journée ensoleillée. C'est comme avoir une petite boîte de bonheur dans ton esprit, prête à être ouverte à tout moment."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais du très bon travail en apprenant à gérer tes émotions ! Chaque fois que tu pratiques ces petits exercices, tu deviens de plus en plus fort. C'est comme construire un château fort autour de ton cœur. Continue de pratiquer, et tu verras à quel point tu te sens mieux avec le temps. Je suis tellement fier de toi !"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelle-toi, petit ami, que tu n'es jamais seul. Quand les émotions deviennent trop grandes, parler à quelqu'un peut vraiment t'aider. Tes parents, tes amis ou même un enseignant peuvent être là pour t'écouter. C'est comme avoir une équipe de soutien prête à t'aider à tout moment. Ensemble, vous pouvez trouver des solutions et te faire sentir mieux."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu un endroit spécial où tu aimes aller quand tu as besoin de te calmer ? Peut-être que c'est ta chambre, ou un coin tranquille dans le jardin. Ces endroits peuvent être magiques pour se sentir en sécurité et calme. J'aimerais beaucoup savoir où est ton endroit spécial. Peux-tu me le raconter ?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Nous avons passé un moment merveilleux à explorer le monde des émotions ensemble. Rappelle-toi, comprendre et gérer tes émotions est une super compétence que tu peux utiliser chaque jour. Avec un peu de pratique, tu seras toujours prêt à affronter ce que la journée te réserve. Merci d'avoir partagé ce temps avec moi, petit ami. À bientôt pour une nouvelle aventure !"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Sunny"
+}

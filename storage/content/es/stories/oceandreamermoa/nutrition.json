@@ -1,0 +1,104 @@
+{
+  "id": "ocean_dreamer_moa_nutrición_alimentación_saludable_hábitos_alimentarios_alimentos_saludables_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Moa, la Soñadora del Océano. Hoy vamos a embarcarnos en una aventura increíble sobre la nutrición y cómo comer alimentos saludables puede hacernos fuertes y felices. ¿Están listos para explorar juntos? Vamos a descubrir cómo algunos alimentos nos ayudan a crecer y a tener energía para jugar todo el día. Estoy tan emocionada de compartir este viaje con ustedes."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, imaginen que nuestra aventura comienza en un hermoso mercado lleno de frutas y verduras de todos los colores. Las frutas son como pequeños tesoros llenos de vitaminas que nos ayudan a sentirnos bien. Las manzanas rojas, los plátanos amarillos y las naranjas jugosas son algunos de mis favoritos. Comer frutas es importante porque nos dan energía para correr, saltar, y jugar. ¿Cuál es tu fruta favorita?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Recuerden, además de las frutas, las verduras son muy importantes. Los vegetales como las zanahorias, los brócolis y las espinacas están llenos de cosas buenas que nos ayudan a tener una vista aguda y huesos fuertes. Comer una variedad de colores en nuestras comidas es como pintar un arcoíris en nuestro plato. ¿Pueden imaginar un arcoíris de verduras? ¡Qué divertido!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Maravilloso! Ahora, vamos a hacer juntos una pequeña actividad. Vamos a contar hasta cinco mientras respiramos profundamente. Uno, dos, tres, cuatro, cinco. Respirar así nos ayuda a sentirnos tranquilos y listos para aprender sobre más alimentos saludables. ¡Lo hicieron genial! Ahora, continuemos con nuestra aventura."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden cuando hablamos de frutas y verduras, ahora vamos a hablar de los granos. Los granos como el arroz, la avena y el pan integral nos dan energía para todo el día. Imaginen que son como el combustible que necesita un barco para navegar por el océano. Sin ellos, nos sentiríamos cansados y sin fuerzas para jugar. ¿Les gusta el pan integral?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos ahora de las proteínas, que son como los bloques de construcción de nuestro cuerpo. Las encontramos en alimentos como el pollo, los huevos y los frijoles. Estos alimentos nos ayudan a crecer y a mantenernos fuertes. Es como si cada vez que comemos proteínas, nuestro cuerpo se hiciera más fuerte para enfrentar cualquier aventura. ¡Vamos a ser fuertes como un barco!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Increíble! Ya estamos aprendiendo mucho sobre cómo los alimentos nos ayudan. Ahora, vamos a imaginar que estamos en una isla desierta y tenemos que encontrar agua para beber. El agua es muy importante porque nos mantiene hidratados y frescos. Beber suficiente agua todos los días nos ayuda a sentirnos bien. ¡Vamos a levantar nuestras manos como si estuviéramos tomando agua fresca de un coco!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que conocemos la importancia del agua, recordemos que también hay alimentos que debemos comer con moderación. Los dulces y las golosinas son deliciosos, pero no debemos comerlos todos los días. Son como un tesoro especial que disfrutamos de vez en cuando. Comerlos con moderación nos ayuda a mantenernos saludables y con energía. ¡Es como encontrar un tesoro en el mar!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hagamos un pequeño ejercicio juntos. Vamos a pensar en una comida saludable que podríamos preparar con nuestras familias. Podría ser una ensalada de frutas o un sándwich de verduras. Imaginen cómo se vería, qué ingredientes usaríamos y cómo sabría. Cocinar juntos es una forma divertida de aprender sobre los alimentos y disfrutar de tiempo con la familia. ¿Qué les gustaría preparar?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora, tengo una pregunta para ustedes. ¿Por qué creen que es importante comer una variedad de alimentos? Piensen en cómo cada alimento nos da diferentes cosas que nuestro cuerpo necesita. Como un rompecabezas, cada pieza es importante para completar la imagen. ¿Pueden pensar en otras razones por las que comer alimentos variados es bueno para nosotros?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¡Qué respuestas tan geniales! Comer una variedad de alimentos nos ayuda a sentirnos bien y a tener energía para nuestras aventuras diarias. Además, nos permite descubrir nuevos sabores y disfrutar de diferentes comidas. Es como viajar a diferentes lugares a través de lo que comemos. Cada comida es una nueva oportunidad para aprender y crecer. ¡Qué emocionante es descubrir esto juntos!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo están haciendo muy bien! Ahora, vamos a movernos un poco. Vamos a estirar nuestros brazos como si fuéramos olas del mar. Este movimiento nos ayuda a sentirnos activos y felices. Hacer ejercicio también es parte de mantener un estilo de vida saludable. ¡Vamos a movernos como el océano, fuerte y libre!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Mientras nos movemos, recordemos que comer bien y hacer ejercicio son dos cosas que van de la mano. Juntos, nos ayudan a estar saludables y llenos de energía. Es como si nuestro cuerpo fuera un barco y necesita tanto buenos alimentos como movimiento para navegar por el mar de la vida. ¡Qué gran equipo somos!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Antes de terminar, quiero recordarles que cada día es una nueva oportunidad para elegir alimentos saludables. Como pequeños exploradores, podemos descubrir nuevos sabores y aprender a cuidar nuestro cuerpo. Cada elección saludable nos acerca un paso más a ser fuertes y felices. ¡Ustedes son increíbles y pueden lograrlo!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Y así concluye nuestra aventura de hoy. ¡Fue maravilloso explorar el mundo de la nutrición y los alimentos saludables con ustedes! Recuerden siempre elegir alimentos que les hagan sentir bien y les den energía para jugar y aprender. Estoy tan orgullosa de ustedes por ser tan curiosos y valientes. Hasta la próxima, pequeños soñadores del océano. ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Nutrition de Ocean Dreamer Moa"
+}

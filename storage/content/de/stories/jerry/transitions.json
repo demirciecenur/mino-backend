@@ -1,0 +1,104 @@
+{
+  "id": "clever_mouse_jerry_transitions_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "transitions",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Clever Mouse Jerry und heute gehen wir auf eine spannende Reise über Übergänge. Ein Übergang ist, wenn sich etwas verändert, wie wenn du von der Kita nach Hause gehst. Bist du bereit, mehr darüber zu erfahren? Ich bin so neugierig auf dich und deine Abenteuer!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Übergänge passieren täglich. Stell dir vor, du spielst gerade mit deinen Bauklötzen und es ist Zeit, Abendbrot zu essen. Das ist ein Übergang! Manchmal fühlt es sich ein bisschen komisch an, weil du etwas verlassen musst, das Spaß macht. Aber weißt du was? Es ist auch eine Chance, etwas Neues zu erleben, wie leckeres Essen! Erinnerst du dich an das letzte Mal, als du etwas Neues ausprobiert hast?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns lernen, wie wir mit Übergängen leichter umgehen können. Eine Möglichkeit ist, tief einzuatmen. Probieren wir es aus: Atme tief ein, als würdest du an einer Blume riechen, und dann langsam aus. Das hilft deinem Körper, sich zu entspannen und bereit für das Neue zu sein. Großartig gemacht! So kannst du dich immer beruhigen, wenn ein Übergang bevorsteht."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns gemeinsam über eine neue Routine nachdenken. Stell dir vor, du wachst morgens auf. Was machst du als Erstes? Vielleicht streckst du dich und sagst: \"Guten Morgen, Welt!\" Das ist ein Übergang vom Schlafen zum Wachsein. Du machst das jeden Tag, und das ist wunderbar. Du bist ein echter Übergangsprofi!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über neue Abenteuer gesprochen haben? Manchmal bedeutet ein Übergang, etwas ganz Neues zu versuchen, wie in einen Park zu gehen, den du noch nie besucht hast. Das kann aufregend sein! Du kannst neue Freunde treffen oder ein neues Spiel entdecken. Übergänge sind wie kleine Abenteuer, die jeden Tag passieren. Jetzt lass uns über ein weiteres Abenteuer nachdenken!"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal einen Übergang erlebt, der dir besonders viel Spaß gemacht hat? Vielleicht als du zum ersten Mal ein neues Spielzeug bekommen hast? Oder als du das erste Mal auf einem großen Spielplatz warst? Ich bin gespannt auf deine Geschichten! Übergänge können so aufregend sein, wenn wir sie mit offenen Armen empfangen."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns über die Schule sprechen. Ein großer Übergang ist, wenn du in die Schule kommst. Du triffst neue Freunde, lernst neue Dinge und hast vielleicht sogar einen neuen Lehrer. Das kann am Anfang ein bisschen überwältigend sein, aber es ist auch eine Zeit, in der du viel Neues lernen kannst. Du bist nicht allein, viele Kinder machen das durch, und du wirst es großartig machen!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns darüber nachdenken, wie wir Übergänge mit Spaß füllen können. Vielleicht kannst du ein Lied singen oder ein lustiges Spiel spielen, während du von einer Aktivität zur nächsten wechselst. Das macht den Übergang viel angenehmer und du kannst dabei sogar lachen. Hast du ein Lieblingslied, das du singen könntest? Lieder und Spiele machen alles viel fröhlicher!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das alles so toll! Jeder Übergang ist eine Gelegenheit, etwas Neues zu lernen oder zu entdecken. Denk daran, dass du stark und mutig bist, genau wie ich, Clever Mouse Jerry. Du kannst alles schaffen, was du dir vornimmst. Glaub an dich selbst und mach weiter so, du kleiner Abenteurer!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an das letzte Mal, als du einen Übergang gemacht hast, der schwierig war? Vielleicht als du auf einen neuen Spielplatz gegangen bist und dich ein bisschen unsicher gefühlt hast. Aber dann hast du es versucht und es hat Spaß gemacht. Das zeigt, wie mutig du bist. Jeder Übergang kann eine neue Chance sein, Spaß zu haben und etwas Neues zu entdecken."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was ist dein Lieblingsübergang des Tages? Vielleicht das Aufwachen am Morgen oder das Zubettgehen am Abend? Oder vielleicht das Spielen im Park nach der Schule? Ich bin gespannt, was dir am meisten gefällt. Übergänge sind überall, und sie machen das Leben bunt und spannend. Was denkst du darüber?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du lernst so viel über Übergänge, das ist fantastisch! Jeder Übergang, den du meisterst, macht dich stärker und klüger. Du kannst stolz auf dich sein, denn du machst das großartig. Weiter so, kleiner Abenteurer, die Welt ist voller wundervoller Übergänge, die nur darauf warten, entdeckt zu werden!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns über den Übergang zur Schlafenszeit sprechen. Das ist ein ganz besonderer Moment, wenn der Tag in die Nacht übergeht. Du kannst dabei ein schönes Buch lesen oder eine Gute-Nacht-Geschichte hören. Es ist die perfekte Zeit, um sich zu entspannen und sich auf süße Träume vorzubereiten. Schlafenszeit ist ein Übergang, der uns hilft, für den nächsten Tag bereit zu sein."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, da wir so viel über Übergänge wissen, können wir sie mit Freude und Neugierde begrüßen. Jeder Übergang ist eine Möglichkeit, etwas Neues zu entdecken und zu lernen. Vielleicht kannst du heute einen Übergang mit einem Lächeln ausprobieren und sehen, wie viel Spaß es macht. Was denkst du, bist du bereit für dein nächstes Abenteuer?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Übergänge zu sprechen! Du bist wirklich klug und mutig, und ich bin sicher, dass du jeden Übergang mit Leichtigkeit meistern wirst. Danke, dass du heute mit mir auf diese Reise gegangen bist. Bis zum nächsten Mal, kleiner Freund! Tschüss und denk daran, dass jeder Übergang ein neues Abenteuer ist!"
+    }
+  ],
+  "title": "Clever Mouse Jerrys Transitions Geschichte"
+}

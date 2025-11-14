@@ -1,0 +1,104 @@
+{
+  "id": "mino_confidence_story",
+  "character": "Mino",
+  "topic": "confidence",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit explorateur ! Je suis Mino, ton ami de l'espace. Aujourd'hui, nous allons partir dans une aventure extraordinaire pour découvrir la confiance en soi ! Es-tu prêt à voyager avec moi ? Ensemble, nous allons apprendre comment être courageux et fier de nous. Je suis tellement curieux de savoir ce que tu penses. Alors, attache ta ceinture, et c'est parti !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance en soi, c'est croire en ses capacités, comme lorsque tu apprends à faire du vélo sans petites roues. Tu te souviens de ce sentiment de fierté quand tu réussis quelque chose de nouveau ? C'est ça, avoir confiance en soi. Chaque fois que tu essaies quelque chose de difficile et que tu y arrives, ta confiance grandit. N'oublie jamais que tu es capable de grandes choses, même si c'est parfois un peu effrayant au début. Maintenant, parlons de comment on peut renforcer cette confiance."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour renforcer ta confiance, commence par te fixer de petits objectifs, comme ranger tes jouets tout seul. Chaque fois que tu réussis un petit défi, tu te sens plus fort et plus sûr de toi. Tu peux aussi te rappeler des moments où tu as réussi quelque chose de difficile. Cela te donnera du courage pour essayer de nouvelles choses. Et si tu fais une erreur, ce n'est pas grave ! C'est en faisant des erreurs qu'on apprend et qu'on devient plus fort."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo ! Tu fais déjà de super progrès. Sais-tu que même les astronautes ont dû apprendre à être confiants avant de voler dans l'espace ? Tout le monde commence quelque part. Tu es sur la bonne voie, et chaque petit pas compte. Alors, lève la main bien haut et dis avec moi : 'Je suis capable !' Tu vois, chaque fois que tu te dis cela, tu deviens un peu plus courageux. Continuons notre aventure avec encore plus de confiance."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Penses-tu à un moment où tu t'es senti très fier de toi ? Peut-être quand tu as appris à nager ou quand tu as réussi à dessiner un joli dessin. Ces souvenirs sont comme des étoiles brillantes dans le ciel de ta confiance. Garde-les précieusement et pense-y quand tu as besoin de courage. Chaque étoile représente un moment où tu as brillé. Maintenant, plongeons dans notre prochain défi avec toute cette lumière."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Commençons par un petit exercice : respire profondément avec moi. Inspire, un, deux, trois... et expire, un, deux, trois. Ça fait du bien, n'est-ce pas ? Quand tu te sens nerveux, respirer calmement peut t'aider à te recentrer et à te sentir plus fort. C'est comme remettre de l'ordre dans ta fusée avant de décoller. Prends le temps de le faire et tu verras, ça t'aidera à affronter de nouveaux défis avec sérénité."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, y a-t-il quelque chose que tu aimerais essayer, mais qui te semble un peu effrayant ? Peut-être grimper plus haut sur le toboggan ou essayer un nouveau jeu ? N'aie pas peur de partager tes pensées. Parler de ce qui te fait peur est le premier pas pour surmonter cet obstacle. Je suis ici pour t'écouter et t'encourager. Alors, dis-moi, qu'est-ce qui te ferait plaisir d'essayer ?"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est super de t'entendre parler de tes rêves et de tes envies ! Savais-tu que même les petites choses peuvent sembler grandes au début ? Mais avec un peu de pratique et beaucoup de courage, tu pourras tout accomplir. Imagine que chaque défi est une planète à explorer, pleine de surprises et d'apprentissages. Alors, es-tu prêt à te lancer à la découverte de cette nouvelle planète ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Quand on se prépare à explorer une nouvelle planète, il est important de se rappeler qu'on n'est jamais seul. Ta famille et tes amis sont là pour te soutenir et t'encourager. Ils sont comme des étoiles qui brillent autour de toi, prêtes à illuminer ton chemin. N'hésite pas à demander de l'aide ou des conseils. Ensemble, vous pouvez accomplir de grandes choses. Et chaque fois que tu réussis, ta confiance grandit encore plus."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons un autre exercice amusant. Imagine que tu es un super-héros avec une cape magique. Cette cape te donne le pouvoir de te sentir fort et courageux. Mets ta cape imaginaire et tiens-toi bien droit. Dis avec moi : 'Je suis un super-héros !' Tu vois, ce simple geste te donne de la force. Utilise-le chaque fois que tu as besoin d'un peu plus de confiance. C'est magique, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais des progrès incroyables ! Chaque petit pas que tu fais est une victoire. N'oublie pas de célébrer chaque succès, même le plus petit. Comme lorsque tu as fini ton assiette ou quand tu as rangé ta chambre. Ces petites victoires te préparent pour de plus grandes aventures. Alors, lève la main et célèbre avec moi : 'Hourra pour moi !' Tu vois, tu es déjà un champion !"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, même les super-héros ont besoin de faire une pause et de se reposer. C'est important de prendre soin de soi pour garder son énergie. Alors, n'oublie pas de bien dormir et de manger des aliments sains. Cela te donne la force de continuer à explorer et à apprendre. Et quand tu te réveilles le matin, n'hésite pas à sourire et à dire : 'Aujourd'hui, je vais accomplir de grandes choses !'"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu remarqué comme tu te sens bien quand tu réussis quelque chose ? Que ce soit un puzzle ou un dessin, ces petits succès te montrent que tu es capable de tout. Qu'est-ce que tu aimerais accomplir aujourd'hui ? Peut-être construire une tour de blocs ou apprendre une nouvelle chanson ? Dis-moi, je suis curieux de connaître tes projets. Ensemble, nous pouvons les réaliser !"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est formidable d'entendre tes idées ! Chaque jour est une nouvelle chance d'apprendre et de grandir. Rappelle-toi, même si quelque chose semble difficile, avec de la patience et de la pratique, tu peux y arriver. Comme les astronautes qui s'entraînent pendant des années pour aller dans l'espace, toi aussi tu peux atteindre les étoiles. Alors, prêt pour ta prochaine mission ?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Il est temps de dire au revoir, mais n'oublie jamais notre aventure sur la confiance en soi. Chaque jour est une nouvelle opportunité de briller et de montrer à quel point tu es extraordinaire. Je suis si fier de toi et de tout ce que tu as accompli aujourd'hui. Continue à croire en toi et à explorer le monde avec courage. À bientôt, petit aventurier, et souviens-toi : tu es capable de tout !"
+    }
+  ],
+  "title": "Histoire de Confidence de Mino"
+}

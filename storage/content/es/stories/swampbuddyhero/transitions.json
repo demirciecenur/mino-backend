@@ -1,0 +1,104 @@
+{
+  "id": "swamp_buddy_hero_transitions_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "transitions",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Swamp Buddy Hero. Hoy vamos a hablar sobre algo muy especial: ¡las transiciones! Las transiciones son cambios que ocurren en nuestra vida, como cuando pasamos de jugar a la hora de la cena. ¿Estás listo para esta aventura? Me encanta que estés aquí conmigo. ¡Va a ser muy divertido!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en cómo nos sentimos cuando algo cambia. A veces, los cambios pueden ser un poco difíciles, ¿verdad? Como cuando tienes que dejar de jugar para ir a dormir. Pero también pueden ser emocionantes, como cuando vas al parque a jugar. ¿Te sientes emocionado o un poco nervioso con los cambios? Es normal sentir un poco de ambas cosas."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Veamos cómo podemos hacer que las transiciones sean más fáciles. Una forma es tener una rutina, como lavarse los dientes antes de dormir. Las rutinas nos ayudan a saber qué esperar. También podemos contar hasta cinco cuando necesitamos cambiar de actividad. Vamos a intentarlo juntos: uno, dos, tres, cuatro, cinco. ¡Muy bien!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora, pensemos en un cambio divertido, como ir a una fiesta de cumpleaños. ¿No es emocionante? Hay pastel, globos y muchos amigos. A veces, al principio podemos sentirnos un poco tímidos, pero luego lo pasamos genial. ¡Tú puedes hacer que los cambios sean divertidos también!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablamos de las rutinas. Tener pequeños pasos que sigamos cada día puede hacernos sentir más seguros. Como cuando te pones los zapatos antes de salir a jugar. ¿Verdad que es más fácil saber qué hacer después cuando tienes una rutina? Así es como los cambios se vuelven menos complicados."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que sabemos sobre rutinas, ¿por qué no hablamos de cómo podemos ayudar a otros con sus cambios? Tal vez tu hermano pequeño necesita ayuda para guardar sus juguetes. ¿Podrías mostrarle cómo hacerlo? Ayudar a otros también nos hace sentir bien con los cambios. ¡Qué maravilloso ayudante eres!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas la última vez que tuviste que adaptarte a algo nuevo? Tal vez fue el primer día en una nueva escuela o aprender a andar en bicicleta. ¿Cómo te sentiste? Es importante recordar que todos pasamos por momentos de cambio. ¿Puedes pensar en un cambio que te hizo feliz?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para hacer los cambios más fáciles, podemos usar nuestra imaginación. Imagina que eres un superhéroe que puede manejar cualquier cambio. ¿Qué harías? Tal vez usarías un cinturón de herramientas mágicas para ayudarte. Usa tu imaginación para encontrar maneras divertidas de enfrentar los cambios. ¡Tú eres tu propio héroe!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres increíble! Ahora, pensemos en cómo podemos relajarnos cuando los cambios nos hacen sentir incómodos. Podemos respirar profundamente, como cuando inflamos un gran globo. Vamos a intentarlo juntos: inhala... y exhala. ¡Eso es! Ahora nos sentimos más tranquilos y listos para lo que venga."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que conocemos algunos trucos para las transiciones, pensemos en lo que podemos hacer cuando sentimos que un cambio es difícil. Hablar con un adulto de confianza siempre ayuda. Ellos pueden darnos consejos y hacernos sentir mejor. No estás solo, siempre hay alguien que puede ayudarte."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas cuando hablamos de usar la imaginación? A veces, imaginar que estamos en un lugar feliz puede ayudarnos. ¿Cuál es tu lugar feliz? Tal vez sea un bosque mágico o una playa soleada. Cierra los ojos y piensa en ese lugar. ¿Te sientes mejor? ¡Qué lugar tan maravilloso has imaginado!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme sobre un cambio que estás esperando? Tal vez sea una visita al zoológico o un día de juegos nuevo. ¿Qué esperas que sea lo más divertido? Compartir nuestras expectativas también nos ayuda a sentirnos emocionados sobre lo que viene. ¿Qué es lo que más te emociona?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos sobre cómo prepararnos para los cambios. Podemos hacer una lista de las cosas que necesitamos, como llevar una botella de agua o un sombrero para el sol. Tener un plan nos hace sentir listos. ¿Quieres hacer una pequeña lista con tus cosas favoritas para llevar a una aventura?"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial pensando en los cambios! Recuerda que cada cambio es una oportunidad para aprender algo nuevo. Como cuando aprendes a hacer una nueva manualidad o a jugar un juego diferente. Cada día es una nueva aventura, y tú eres el aventurero más valiente que conozco."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido maravilloso hablar contigo sobre las transiciones. Recuerda que siempre puedes ser valiente y enfrentar cualquier cambio que venga. Estoy muy orgulloso de ti. Espero que te hayas divertido y aprendido algo nuevo. ¡Hasta la próxima, pequeño aventurero! ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Transitions de Swamp Buddy Hero"
+}

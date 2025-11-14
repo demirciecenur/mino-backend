@@ -1,0 +1,104 @@
+{
+  "id": "swamp_buddy_hero_sibling_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "sibling",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Swamp Buddy Hero. Bugün kardeşlik hakkında harika bir yolculuğa çıkacağız. Kardeşlerinle nasıl daha iyi anlaşabileceğini keşfetmeye hazır mısın? Seni çok merak ediyorum. Kardeşlerimizle paylaşmayı ve birlikte oynamayı öğrenmek çok eğlenceli olabilir. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşler bazen en iyi arkadaşlarımız olabilir. Onlarla vakit geçirmek, oyunlar oynamak çok keyiflidir. Ama bazen anlaşmazlıklar da yaşayabiliriz, değil mi? Önemli olan, bu anlarda anlayışlı ve sabırlı olabilmek. Kardeş sevgisi, en güçlü bağlardan biridir ve bu bağı güçlendirebiliriz."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşinle paylaşmak neden önemlidir, biliyor musun? Paylaşmak, karşımızdakine değer verdiğimizi gösterir. Birlikte oyun oynarken oyuncaklarımızı paylaşmak, hem oyunun daha keyifli geçmesini sağlar hem de kardeşinle daha iyi anlaşmanıza yardımcı olur. Şimdi oyuncaklarını düşün, hangilerini paylaşabilirsin? Paylaşmak, sevginin en güzel göstergesidir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi birlikte bir oyun oynayalım! Seninle bir paylaşım oyunu oynayacağız. Oyuncaklarından birini seç ve kardeşinle bu oyuncağı nasıl paylaşabileceğini düşün. Bu oyunu oynarken ikiniz de çok eğleneceksiniz. Paylaşmanın ne kadar güzel bir şey olduğunu göreceksin. Harika işler başarıyorsun!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda paylaşmanın öneminden bahsetmiştik. Şimdi de birlikte oyun oynamanın güzelliklerine bakalım. Kardeşinle oynadığın oyunlar, aranızdaki bağı güçlendirir. Birlikte yeni oyunlar keşfetmek, maceraya atılmak çok eğlenceli olabilir. Hatırlıyor musun, en son hangi oyunu oynamıştınız?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Birlikte oyun oynamak için neler yapabiliriz? Öncelikle herkesin sevebileceği bir oyun seçebiliriz. Sonra da sırayla liderlik yaparak oyunu daha eğlenceli hale getirebiliriz. Herkesin fikrini dinlemek ve saygı göstermek önemlidir. Böylece herkes oyundan keyif alır ve kardeşliğiniz güçlenir. Hadi, şimdi bir oyun seçin ve başlayın!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kardeşinle birlikte bir oyun bulabildiniz mi? Harika! Şimdi birlikte oynayın ve eğlenin. Unutmayın, önemli olan birlikte vakit geçirmek ve birbirinizi daha iyi anlamak. Kardeşinle oynarken birbirinize sevgi gösterin. Sen bunu çok iyi yapıyorsun, devam et!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle en sevdiğin oyun nedir? Belki saklambaç, belki de yapboz yapmaktır. Ya da belki de birlikte hikayeler uydurmayı seviyorsunuzdur. Hangi oyunu oynarken en çok eğleniyorsunuz? Bu oyunları daha sık oynamak ister misin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sorumuzda kardeşinle en sevdiğin oyunu konuşmuştuk. Şimdi, birlikte nasıl daha iyi anlaşabileceğinize bakalım. Anlaşmazlıklar yaşadığınızda, sakin kalmak ve dinlemek çok önemlidir. Kardeşinle konuşurken ona saygı göstermek, birbirinizi daha iyi anlamanıza yardımcı olur. Böylece daha güçlü bir kardeşlik bağı kurabilirsiniz."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşinle anlaşmazlık yaşadığında ne yapmalısın? İlk olarak derin bir nefes al ve sakinleş. Sonra, sorun hakkında konuşun ve birbirinizi dinleyin. Herkesin fikrine saygı gösterin ve bir çözüm bulmaya çalışın. Bu şekilde sorunlarınızı daha kolay çözebilirsiniz. Hadi, şimdi derin bir nefes alalım ve rahatlayalım."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kardeşinle sorunları konuşarak çözmek harika bir yetenektir. Bu, kardeşlik bağınızı güçlendirir ve size daha çok sevgi getirir. Senin bunu başarabileceğine inanıyorum! Her zaman sakin kalmayı ve dinlemeyi unutma. Sen harikasın ve bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle en son ne zaman bir anlaşmazlık yaşadın? Nasıl çözdünüz? Birbirinizi dinlediniz mi? Bu tür durumlarda ne yapmanın en iyi yol olduğunu düşünüyorsun? Bu deneyimlerden neler öğrendin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda sorunları nasıl çözeceğimizi konuşmuştuk. Şimdi de kardeş sevgisinin ne kadar özel olduğuna bakalım. Kardeşlerimiz, hayatımız boyunca yanımızda olan en değerli arkadaşlarımızdır. Onlarla anılar biriktirmek, birlikte büyümek çok özeldir. Kardeş sevgisi, hayat boyu süren bir bağdır ve bu bağı güçlendirmek bizim elimizde."
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeş sevgisini güçlendirmek için neler yapabiliriz? Onlara değer verdiğimizi göstermek için küçük sürprizler hazırlayabiliriz. Birlikte vakit geçirmek ve yeni şeyler keşfetmek bu bağı güçlendirir. Onlara güler yüzlü olmak ve sevgi dolu sözler söylemek de önemlidir. Unutma, sevgi göstermek her zaman karşılığını bulur. Şimdi, kardeşine bir sevgi mesajı gönder."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün kardeşlik hakkında çok şey öğrendik. Kardeşinle paylaşmak, birlikte oynamak ve sorunları çözmek ne kadar önemli, değil mi? Kardeş sevgisi, hayatımız boyunca yanımızda olacak en değerli bağlardan biridir. Seninle bu yolculuğa çıkmak çok güzeldi. Bir sonraki maceramızda görüşmek üzere, küçük dostum!"
+    }
+  ],
+  "title": "Swamp Buddy Hero'ın Sibling Hikayesi"
+}

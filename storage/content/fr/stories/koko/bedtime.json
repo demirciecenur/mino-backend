@@ -1,0 +1,104 @@
+{
+  "id": "koko_bedtime_story",
+  "character": "Koko",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Koko, et aujourd'hui, nous allons explorer le monde magique du coucher. Es-tu prêt pour cette aventure relaxante? Le coucher est un moment spécial pour se reposer et rêver. Ensemble, nous allons découvrir comment rendre ce moment agréable et paisible. Prépare-toi à te détendre et à écouter des histoires fascinantes avant de dormir."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le coucher commence souvent par une routine. Une routine, c'est comme un petit rituel que tu fais chaque soir pour te préparer à dormir. Par exemple, tu pourrais commencer par ranger tes jouets. Cela permet de garder ta chambre en ordre et te prépare mentalement au sommeil. Ensuite, tu peux mettre ton pyjama préféré, comme un super-héros se prépare pour sa mission nocturne."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de l'importance de se brosser les dents. C'est une étape essentielle avant d'aller au lit. Cela aide à garder tes dents fortes et saines. Imagine que chaque brossage est comme une protection pour tes dents, un peu comme une armure. N'oublie pas d'utiliser une petite quantité de dentifrice et de brosser doucement pendant deux minutes!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un excellent travail en suivant ta routine! Après avoir brossé tes dents, viens le moment de lire une histoire. Les histoires avant de dormir sont comme des petites aventures qui t'emmènent dans des mondes merveilleux. Choisis ton livre préféré et installe-toi confortablement. Tu verras, les histoires peuvent t'aider à te détendre et à t'endormir paisiblement."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après l'histoire, il est temps d'éteindre les lumières. Cela aide ton corps à comprendre qu'il est l'heure de dormir. Une veilleuse douce peut être allumée si tu préfères. Elle crée une ambiance rassurante et confortable dans ta chambre. Ferme doucement tes yeux et imagine un monde calme et paisible."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Prenons maintenant un moment pour respirer profondément. Inspire lentement par le nez, puis expire doucement par la bouche. Fais-le trois fois. La respiration profonde aide ton corps à se détendre et à se préparer au sommeil. C'est comme un petit câlin que tu te fais à toi-même."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo! Tu es presque prêt à t'endormir. N'oublie pas de penser à quelque chose de joyeux avant de fermer les yeux. Cela peut être une belle journée à venir ou un souvenir heureux. Les pensées positives aident à faire de beaux rêves. Tu es courageux et fort, et tu peux affronter la nuit avec confiance."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi, chaque soir, tu deviens un petit héros du sommeil. Le sommeil est important pour te sentir en forme et énergique le lendemain. Comme un super-héros, tu as besoin de bien dormir pour être prêt pour toutes les aventures de demain. Le sommeil te donne la force dont tu as besoin pour grandir et apprendre."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Est-ce que tu te souviens de la dernière fois que tu as fait un rêve merveilleux? Les rêves sont comme des petites histoires qui se passent dans ta tête pendant que tu dors. Quels sont tes rêves préférés? Peut-être que tu as rêvé de voler comme un oiseau ou de rencontrer un dragon amical. Raconte-moi tes rêves! Je suis curieux de savoir quelles aventures tu as vécues."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est fantastique d'entendre parler de tes rêves! Rêver est une partie magique du sommeil. Parfois, les rêves peuvent être étranges, mais ils sont toujours une aventure. Et même si tu fais un rêve un peu effrayant, n'oublie pas que tu es en sécurité dans ton lit. Tu peux toujours te réveiller et trouver tes parents près de toi."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, revenons à notre routine de coucher. Après avoir partagé tes rêves, tu peux te blottir sous tes couvertures. Les couvertures te gardent au chaud et confortable, comme un cocon protecteur. Ferme doucement tes yeux et laisse ton esprit dériver vers des mondes paisibles. Tu es prêt pour une nuit paisible et réparatrice."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as fait un travail incroyable en suivant ta routine! Chaque étape que tu as suivie t'a rapproché du sommeil. Tu es courageux et fort, et tu as le pouvoir d'avoir une bonne nuit de sommeil. Rappelle-toi, chaque nuit est une nouvelle aventure vers un sommeil paisible. Tu es prêt à te reposer et à rêver."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Qu'est-ce que tu aimerais faire demain après une bonne nuit de sommeil? Peut-être jouer avec tes amis, dessiner un beau dessin ou apprendre quelque chose de nouveau? Pense à toutes les choses amusantes que tu pourras faire. Le sommeil te donne l'énergie pour profiter de chaque moment. Quelle aventure t'attend demain, petit héros?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est merveilleux d'avoir tant de projets pour demain! Chaque jour est une nouvelle chance d'apprendre et de s'amuser. Le sommeil te prépare à toutes ces aventures. Alors, prends bien soin de toi cette nuit en dormant profondément. Tu te réveilleras plein d'énergie et prêt à explorer le monde."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Maintenant, il est temps de te dire bonne nuit. Souviens-toi, tu es un petit héros du sommeil, et chaque nuit est une aventure. Je suis fier de toi et de tout ce que tu as accompli aujourd'hui. Dors bien et fais de beaux rêves. À bientôt, petit ami, et que la nuit te soit douce et paisible!"
+    }
+  ],
+  "title": "Histoire de Bedtime de Koko"
+}

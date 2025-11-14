@@ -1,0 +1,104 @@
+{
+  "id": "mystery_pup_buddy_behavior_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Mystery Pup Buddy, your friendly furry detective. Today, we're going on an amazing journey to learn about good behavior. Are you ready to explore with me? Good behavior is like a magic key that opens the door to fun and friendship. Let's wag our tails and get started on this exciting adventure together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, do you remember the last time you did something kind? Like when you shared your toys with a friend? That's good behavior in action! Good behavior means doing things that make others happy and keep everyone safe. Imagine if everyone shared and played nicely, wouldn't the world be a happier place? Let's keep thinking about how we can be good friends to others."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn how to show good behavior every day. One way is to listen carefully when someone is talking, just like when you hear your favorite story. Another way is to clean up after playing, like putting your toys back in their box. When you do these things, you're showing respect and kindness. Let's practice together next time you play!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing great! Let's take a moment to think about how we can be even better. Imagine you're a superhero with the power to make everyone smile. Can you think of something kind you can do today? Maybe help a friend or say 'thank you'? You're a superstar, and I know you can do it!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about being kind? Let's think of more ways to be awesome friends. How about taking turns when playing games? Or maybe using gentle hands when petting a soft puppy like me? These are all ways to show good behavior, and they make everyone feel happy and safe. Let's try these ideas today!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's imagine a game where we practice good behavior. Pretend your room is a jungle, and you're the brave explorer. To keep the jungle tidy, you need to pick up toys and put them away. And when you see a friend, you greet them with a big smile. It's fun to be kind and organized, just like a real explorer!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job! Let's keep going with our good behavior adventure. Think about how happy your friends and family will be when they see you being so kind and helpful. It's like spreading sunshine wherever you go. Keep shining bright, and let's see what other good things we can do!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about using our words. When we feel upset, it's important to use kind words to explain how we feel. Instead of shouting, we can say, 'I feel sad because...' This helps others understand us better. Remember, our words are powerful tools for sharing feelings and solving problems!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's pretend we're in a library. Libraries are places where we use quiet voices and share books. When we whisper, we show respect for others who are reading. Can you practice your quiet voice with me? Whisper 'hello' and see how soft you can be. Great job being respectful and quiet!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're learning so much about good behavior. Now, let's think about being brave. Sometimes trying new things can be a little scary, but being brave means giving it a try anyway. Just like when I solve mysteries, I feel a little scared, but I do it because it's important. You can be brave too!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's take a moment to breathe together. Breathing helps us feel calm and ready to use good behavior. Take a deep breath in, hold it, and then let it out slowly. Doesn't that feel nice? Breathing is like a magic trick to help us feel better when we're upset. Remember this trick whenever you need it!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's play a little game. Imagine you're a detective, just like me, looking for clues of kindness. When you see someone being kind, give them a big smile. If you see someone sharing, say 'great job!' This way, we're spreading good behavior everywhere, just like magic!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you showed good behavior? Maybe when you helped a friend or listened to your teacher? How did it make you feel? It's fun to remember these moments because they remind us how great it is to be kind. Do you think you can do it again today?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Great thinking! Now, let's remember that good behavior is like planting seeds. When we do nice things, we're planting seeds of happiness. And just like plants, these seeds grow into big, beautiful things. Imagine a garden full of smiles and kindness. Isn't that a wonderful place to be?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this adventure about good behavior. You've learned so much, and I'm so proud of you! Remember to keep being kind, sharing with others, and using your words to express feelings. You're a superstar detective of kindness! Until next time, keep wagging your tail and spreading joy. Goodbye for now, my friend!"
+    }
+  ],
+  "title": "Mystery Pup Buddy's Behavior Story"
+}

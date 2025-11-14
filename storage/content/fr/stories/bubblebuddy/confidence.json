@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_confidence_story",
+  "character": "Bubble Buddy",
+  "topic": "confidence",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Bubble Buddy, ton copain sous-marin. Aujourd'hui, nous allons explorer un sujet incroyable : la confiance! Es-tu prêt à plonger dans cette aventure avec moi? Ensemble, nous allons découvrir comment se sentir fort et confiant. Je suis tellement curieux de savoir ce que tu penses! Alors, mets ton sourire, et partons à l'aventure!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de ce qu'est la confiance. La confiance, c'est quand tu crois en toi-même, comme quand tu sais que tu peux faire quelque chose de nouveau. Par exemple, imagines-tu te brosser les dents tout seul? Avec un peu de pratique, tu es devenu super bon à ça! C'est ça, la confiance. C'est comme avoir un petit soleil dans le cœur qui te dit que tu es capable. Sens-tu ce petit soleil en toi?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de ce que tu peux faire pour renforcer ta confiance. Chaque fois que tu essaies quelque chose de nouveau, comme apprendre à faire du vélo, c'est une chance de devenir plus confiant. Tu te souviens de la première fois que tu as essayé de pédaler? C'était peut-être un peu difficile, mais tu as réussi avec de la pratique! Alors, la prochaine fois que tu essaies quelque chose de nouveau, souviens-toi de te dire 'Je peux le faire!'"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, tu fais un excellent travail! Maintenant, faisons un petit exercice pour nous sentir encore plus confiants. Comptons ensemble jusqu'à cinq et disons 'Je suis fort!' à chaque nombre. Un, je suis fort! Deux, je suis fort! Trois, je suis fort! Quatre, je suis fort! Cinq, je suis fort! Sens-tu à quel point c'est amusant et puissant de dire ça à voix haute?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons notre aventure de la confiance. Rappelle-toi que tout le monde fait des erreurs parfois, et c'est tout à fait normal. Même les grands explorateurs de l'océan comme moi apprennent de leurs erreurs. Quand tu fais une erreur, c'est une chance d'apprendre quelque chose de nouveau. Alors, la prochaine fois que quelque chose ne se passe pas comme prévu, dis-toi que c'est une étape vers le succès!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, voyons comment la confiance peut t'aider à essayer de nouvelles choses. Imagine que tu veux essayer un nouveau jeu au parc. C'est normal d'être un peu nerveux au début. Mais rappelle-toi, tu as déjà fait des choses difficiles avant, comme apprendre à lire ton premier livre. Tu as réussi parce que tu as cru en toi. Alors, pourquoi ne pas essayer ce nouveau jeu avec la même confiance?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Maintenant, parlons de la façon de partager la confiance avec tes amis. Quand tu vois un ami qui essaie quelque chose de nouveau, tu peux l'encourager en disant 'Tu peux le faire!' Cela lui donnera du courage, tout comme cela t'en donne. C'est comme partager un peu de lumière de ton petit soleil intérieur. Ensemble, vous pouvez réaliser de grandes choses!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Passons à notre prochaine étape de l'aventure. Te souviens-tu d'un moment où tu étais vraiment fier de toi? Peut-être que c'était quand tu as dessiné un beau dessin ou quand tu as aidé à préparer le dîner. Ces moments sont spéciaux parce qu'ils te montrent ce dont tu es capable. Garde ces souvenirs dans ton cœur pour te rappeler ta force et ta confiance."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, j'ai une question pour toi. Quelle est une chose que tu aimerais essayer mais que tu n'as pas encore osé? Peut-être que c'est apprendre à nager ou à jouer d'un instrument de musique. Penses-tu que tu pourrais essayer une petite étape vers cet objectif aujourd'hui? Souviens-toi, chaque petit pas te rapproche de la confiance en toi!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est génial de te voir réfléchir à de nouvelles aventures! Parlons de la façon dont tu peux te préparer pour réussir. Parfois, se préparer signifie pratiquer et apprendre un peu chaque jour. Comme quand tu as appris à attacher tes lacets, tu t'es entraîné encore et encore. Avec chaque pratique, tu deviens plus confiant. N'oublie pas que chaque petit effort compte!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre façon de construire la confiance est de respirer profondément quand tu te sens nerveux. Faisons ensemble un exercice de respiration. Inspire lentement par le nez... et expire doucement par la bouche. Faisons-le encore deux fois. Inspire... et expire. Encore une fois, inspire... et expire. Ressens-tu comment cela calme ton esprit et renforce ton courage?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail fantastique! Rappelle-toi que la confiance en soi te permet de voir le monde comme un endroit plein de possibilités. C'est comme avoir des lunettes spéciales qui te montrent tout ce que tu peux accomplir. Alors, la prochaine fois que tu vois un défi, mets ces lunettes de confiance et dis-toi 'Je suis prêt!'"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tu as déjà appris beaucoup aujourd'hui! Parlons de la façon de continuer à renforcer ta confiance chaque jour. Pense à quelque chose que tu aimerais améliorer, comme dessiner ou chanter. En pratiquant régulièrement, tu verras à quel point tu progresses. Et chaque petit progrès te rendra encore plus confiant. C'est comme une aventure qui ne finit jamais!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avant de terminer, j'aimerais te poser une dernière question. Quelle est la chose qui te rend le plus fier de toi-même? Est-ce ton sourire, ta gentillesse, ou ta capacité à essayer de nouvelles choses? Garde cette pensée précieuse avec toi. Elle te rappellera toujours combien tu es spécial et confiant."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure avec moi, petit ami. Rappelle-toi, la confiance est comme une bulle magique qui te protège et te pousse à avancer. Tu es incroyable, et j'ai hâte de te revoir pour d'autres aventures. En attendant, continue de croire en toi et de briller comme le soleil. À bientôt, et garde toujours le sourire!"
+    }
+  ],
+  "title": "Histoire de Confidence de Bubble Buddy"
+}

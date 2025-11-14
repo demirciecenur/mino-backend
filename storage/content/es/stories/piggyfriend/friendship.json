@@ -1,0 +1,98 @@
+{
+  "id": "piggy_friend_friendship_story",
+  "character": "Piggy Friend",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy tu amigo Piggy y hoy vamos a descubrir el maravilloso mundo de la amistad. La amistad es como un tesoro que nos hace sentir felices y acompañados. ¿Estás listo para explorar juntos? Estoy muy emocionado de conocer tus ideas sobre la amistad. ¡Vamos a empezar esta aventura juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad es como tener un compañero especial con quien jugar y compartir. Cuando tienes un amigo, nunca te sientes solo, porque siempre hay alguien que te escucha. Los amigos son como los rayos de sol en un día nublado, hacen que todo se sienta mejor. ¿Tienes un amigo especial con quien te encanta jugar? ¡Es genial tener personas especiales en nuestras vidas!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para ser un buen amigo, es importante escuchar y compartir. Cuando jugamos juntos, podemos aprender a esperar nuestro turno y a compartir nuestros juguetes. ¿Te gustaría intentar compartir tu juguete favorito con un amigo? Recuerda que ser amable y generoso hace que todos se sientan felices. ¡Intenta dar un gran abrazo a tu amigo la próxima vez que lo veas!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ahora vamos a practicar un poco! ¿Te gustaría contar hasta cinco conmigo? Uno, dos, tres, cuatro, cinco. ¡Excelente! Practicar cosas juntos es una gran manera de fortalecer la amistad. Cada vez que hacemos cosas juntos, construimos recuerdos felices. ¡Sigue así, lo estás haciendo muy bien!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda que los amigos también pueden ser diferentes a nosotros. Tal vez a tu amigo le gusta un juego diferente al que a ti te gusta. Eso está bien, porque podemos aprender cosas nuevas de nuestros amigos. ¿Te gustaría intentar jugar a algo nuevo con tu amigo la próxima vez? Descubrir cosas nuevas juntos puede ser muy divertido."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que ya sabemos un poco más sobre ser buenos amigos, ¿qué tal si recordamos un momento divertido que hayas tenido con un amigo? Tal vez fue un día en el parque o una tarde jugando con bloques. ¡Qué divertido es recordar esos momentos! Los recuerdos felices son como pequeñas joyas que guardamos en el corazón."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez has hecho un nuevo amigo? ¿Cómo te sentiste cuando conociste a alguien nuevo? A veces puede ser un poco nervioso, pero también es emocionante. ¿Qué tal si la próxima vez que conozcas a alguien nuevo le dices tu nombre y le preguntas el suyo? ¡Es una gran manera de comenzar una nueva amistad!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hacer amigos a veces puede ser tan simple como sonreír y decir 'hola'. Una sonrisa puede iluminar el día de alguien y mostrar que eres amigable. ¿Te gustaría practicar sonreír ahora mismo? ¡Sonríe grande! Las sonrisas son contagiosas y pueden hacer que todos se sientan bienvenidos."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora que sabemos lo importante que es sonreír, también podemos aprender a decir 'gracias'. Cuando un amigo comparte algo contigo, decir 'gracias' muestra que aprecias su amabilidad. Vamos a practicar juntos: '¡Gracias por ser mi amigo!'. ¡Muy bien! Practicar estas palabras mágicas nos ayuda a ser mejores amigos."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a hacer un ejercicio divertido! Vamos a imaginar que estamos en una fiesta de amigos. ¿Qué juegos jugaríamos? Tal vez un juego de buscar tesoros o un juego de pintar. Lo importante es que todos se diviertan y se sientan incluidos. ¡Tú puedes ser el líder de la diversión!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, los amigos también pueden tener diferencias. Quizás no están de acuerdo en qué juego jugar o qué libro leer. Pero eso es parte de la amistad, aprender a resolver problemas juntos. ¿Te gustaría intentar encontrar una solución con tu amigo la próxima vez? ¡Trabajar juntos es una gran manera de fortalecer la amistad!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora, hablemos de cómo podemos ser amigos de todos los seres vivos. ¿Tienes una mascota o una planta que cuidas? Cuidar de otros seres nos enseña a ser responsables y amables. ¡Qué maravilloso es tener amigos de todas las formas y tamaños!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabías que también puedes ser tu propio amigo? Eso significa que te cuidas bien y te dices cosas bonitas. ¿Qué cosas bonitas te gustaría decirte hoy? Tal vez algo como '¡Eres muy valiente!' o '¡Hiciste un gran trabajo hoy!'. Ser amable contigo mismo es tan importante como ser amable con los demás."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido muy divertido hablar sobre la amistad contigo. Espero que hayas aprendido mucho y que estés listo para ser un gran amigo. Recuerda siempre sonreír, compartir y ser amable. ¡Estoy muy orgulloso de ti! Hasta la próxima vez, pequeño amigo. ¡Adiós y sigue siendo increíble!"
+    }
+  ],
+  "title": "Historia de Friendship de Piggy Friend"
+}

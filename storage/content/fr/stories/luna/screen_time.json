@@ -1,0 +1,104 @@
+{
+  "id": "luna_temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran_story",
+  "character": "Luna",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Luna, et aujourd'hui, nous allons explorer un monde magique où nous apprendrons comment utiliser les écrans de manière amusante et sécurisée. Imaginez marcher dans un village magique, où chaque écran est une fenêtre vers un autre monde. Êtes-vous prêts à partir à l'aventure avec moi? Je suis tellement curieuse de savoir comment vous utilisez vos écrans à la maison. Ensemble, nous allons découvrir des astuces pour les utiliser de manière saine et joyeuse!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dans notre village magique, les écrans peuvent être comme des étoiles dans le ciel, brillants et pleins de surprises. Mais saviez-vous qu'il est important de ne pas passer trop de temps devant eux? Trop d'heures devant un écran peuvent rendre nos yeux fatigués, comme après une longue journée de jeu. Nous devons donc apprendre à équilibrer notre temps, un peu comme on équilibre un château de sable. Vous voyez, c'est amusant de jouer avec des écrans, mais c'est aussi amusant de courir dehors et de sentir le vent dans nos cheveux."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de la sécurité numérique, un peu comme un bouclier magique qui nous protège. Quand nous utilisons des écrans, il est important de ne pas partager trop d'informations, tout comme un secret que l'on garde précieusement. Imaginez que votre nom et votre adresse sont comme des trésors cachés, que nous devons garder en sécurité. Il est aussi important de demander l'aide d'un adulte avant de télécharger quelque chose de nouveau. Pensez-y comme demander la permission avant d'entrer dans une nouvelle maison."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Allons-y, les amis! Ensemble, comptons jusqu'à cinq pour nous rappeler combien il est bon de faire une pause. Un, deux, trois, quatre, cinq! C'est comme faire une pause magique pour nos yeux et notre esprit. Pendant cette pause, nous pouvons faire quelque chose de différent, comme dessiner un beau dessin ou construire une tour de blocs. Vous voyez, il est important de varier nos activités, tout comme on change de jeu pour rendre la journée plus excitante!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous quand nous avons parlé des pauses? Eh bien, ces pauses sont comme des petits moments pour recharger nos batteries. Imaginez que vous êtes un super-héros et que vous avez besoin de toute votre énergie pour la prochaine aventure. En prenant des pauses, nous nous assurons de rester forts et prêts pour de nouvelles découvertes. Et en plus, cela nous laisse du temps pour faire des câlins à nos peluches préférées!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de l'utilisation de la technologie de manière créative. Savez-vous que vous pouvez utiliser les écrans pour apprendre de nouvelles choses, comme dessiner des étoiles ou découvrir des animaux incroyables? C'est comme avoir une boîte à outils magique qui nous aide à explorer le monde. Mais rappelez-vous, il est important de toujours demander l'aide d'un adulte avant de commencer quelque chose de nouveau. Ensemble, nous pouvons découvrir tant de choses merveilleuses!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, les petits explorateurs! Vous faites un travail incroyable en apprenant à utiliser les écrans de manière saine. Imaginez que chaque fois que vous prenez une pause, vous devenez de plus en plus fort. Vous êtes comme des héros avec des capes invisibles, prêts à conquérir le monde. N'oubliez pas de toujours garder le sourire et de profiter de chaque moment passé loin des écrans."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Revenons à notre village magique, où chaque écran est une fenêtre vers l'apprentissage et le jeu. Mais n'oubliez pas, il est essentiel de ne pas rester trop longtemps devant eux. Pensez à toutes les aventures que vous pouvez vivre en dehors, comme courir dans le jardin ou sauter dans les flaques d'eau après la pluie. Les écrans peuvent être amusants, mais il y a tant de choses à découvrir dans le monde réel aussi!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vous savez, mes amis, il est important de créer des habitudes saines avec les écrans, un peu comme on brosse nos dents tous les jours. Cela nous aide à rester en bonne santé et heureux. Par exemple, vous pouvez décider de ne pas utiliser les écrans juste avant de dormir pour que vos rêves soient aussi doux que des nuages. Pensez-y comme une routine magique qui vous aide à vous sentir bien chaque jour."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà pensé à combien de temps vous passez devant les écrans chaque jour? Peut-être que vous pouvez essayer de le mesurer, comme on mesure la hauteur d'une tour que l'on construit. Quels autres jeux ou activités aimez-vous faire quand vous n'êtes pas devant un écran? J'aimerais tellement entendre vos idées et peut-être même les essayer moi-même!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "C'est merveilleux d'entendre vos idées, mes petits amis! Chaque activité que vous faites loin des écrans est comme un nouveau chapitre d'une histoire magique. Jouer avec des amis, lire un livre ou même chanter une chanson sont d'excellents moyens de profiter de la journée. Rappelez-vous, chaque moment passé loin des écrans est une nouvelle aventure qui vous attend!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de la façon dont nous pouvons utiliser la technologie pour rester en contact avec nos proches, comme envoyer un message magique à grand-mère. Les écrans peuvent nous aider à partager des sourires et des câlins virtuels, mais il est important de ne pas oublier les câlins réels. Pensez à combien c'est spécial de voir un sourire en vrai, tout comme un trésor caché dans le jardin."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes tous si incroyables pour apprendre ces nouvelles astuces! Rappelez-vous, il est important de toujours demander l'aide d'un adulte si vous avez des questions sur la technologie. Ensemble, vous pouvez découvrir des moyens sûrs et amusants d'utiliser les écrans. Continuez avec votre curiosité et votre joie, et chaque jour sera une nouvelle aventure magique!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ensemble, nous avons appris tant de choses sur l'utilisation des écrans de manière saine et sécurisée. Imaginez que chaque leçon est comme une étoile brillante dans le ciel, chacune ajoutant un peu plus de lumière à notre voyage. Maintenant, nous savons comment équilibrer notre temps et rester en sécurité en ligne. Continuez à explorer et à découvrir, et souvenez-vous que vous avez toujours un ami en moi!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir exploré ce monde magique avec moi aujourd'hui, mes chers amis! Je suis si heureuse d'avoir partagé ces moments avec vous. N'oubliez pas de garder vos habitudes d'écran saines et de profiter de chaque instant. Je suis sûre que vous allez continuer à briller comme des étoiles. À bientôt pour une nouvelle aventure, et n'oubliez pas de sourire chaque jour!"
+    }
+  ],
+  "title": "Histoire de Screen Time de Luna"
+}

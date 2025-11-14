@@ -1,0 +1,104 @@
+{
+  "id": "mino_bedtime_story",
+  "character": "Mino",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Mino, und heute machen wir eine fantastische Reise in das Land der Träume. Bist du bereit? Wir werden über Schlafenszeit sprechen, ein ganz besonderes Abenteuer. Schlafen ist wie eine Reise in ein zauberhaftes Traumland, wo du dich ausruhen und neue Energie tanken kannst. Lass uns gemeinsam herausfinden, wie du dich am besten auf das Schlafengehen vorbereitest!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über das Traumland gesprochen haben? Schlafenszeit beginnt mit einem gemütlichen Ritual, das dir hilft, dich zu entspannen. Vielleicht startest du mit einem warmen Bad, das wie ein warmer Kuschelplatz ist. Danach kannst du deinen Schlafanzug anziehen, der sich anfühlt wie eine weiche Wolke. Diese kleinen Schritte helfen deinem Körper, sich auf das Schlafen vorzubereiten."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt, da du deinen Schlafanzug anhast, ist es Zeit, deine Zähne zu putzen. Das ist sehr wichtig, denn es hält deine Zähne sauber und gesund, wie kleine Sterne, die funkeln. Stell dir vor, deine Zahnbürste ist eine Rakete, die all die bösen Zuckerbakterien wegschießt. Zwei Minuten Bürsten sind genau richtig, um deine Zähne blitzeblank zu machen. Du kannst dabei ein Lied summen, das macht es noch mehr Spaß!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar! Jetzt, wo deine Zähne sauber sind, ist es Zeit für eine Geschichte. Geschichten sind wie kleine Abenteuer, die dich in ferne Welten entführen. Sie helfen dir, dich zu entspannen und auf das Schlafen vorzubereiten. Vielleicht kannst du dir eine Geschichte über einen mutigen Astronauten anhören, der die Sterne besucht. Geschichten lassen deine Fantasie fliegen und machen das Einschlafen leichter."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo du eine schöne Geschichte gehört hast, ist es Zeit, das Licht zu dimmen. Dunkelheit hilft deinem Körper zu verstehen, dass es Zeit zum Schlafen ist. Vielleicht hast du ein kleines Nachtlicht, das wie ein Mond leuchtet und dir hilft, dich sicher zu fühlen. Das Licht ist sanft und beruhigend, perfekt um in den Schlaf zu gleiten. Nun lass uns gemeinsam ein paar tiefe Atemzüge machen, um uns zu entspannen."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Atmen ist eine tolle Möglichkeit, um sich zu beruhigen. Lass uns zusammen drei tiefe Atemzüge machen. Atme tief durch die Nase ein, als würdest du den Duft von frischen Blumen einatmen. Halte den Atem kurz an und atme dann langsam durch den Mund aus, als würdest du eine Kerze auspusten. Fühlst du, wie dein Körper sich entspannt und schwer wird? Das ist ein gutes Zeichen, dass du bereit bist, ins Traumland zu reisen."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Du machst das großartig! Jetzt, da du entspannt bist, kannst du dir vorstellen, dass dein Bett ein Raumschiff ist. Dein Kopf liegt auf einem weichen Kissen, das dich sanft in den Schlaf wiegt. Die Decke ist wie ein kuscheliger Umhang, der dich warm hält. Stell dir vor, du fliegst durch den Nachthimmel, vorbei an funkelnden Sternen und leuchtenden Planeten. Deine Augen werden müde, und du fühlst dich bereit, die Augen zu schließen."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist auf dem besten Weg ins Traumland! Wenn du die Augen schließt, kannst du dir all die wunderbaren Dinge vorstellen, die du im Traumland erleben wirst. Vielleicht triffst du einen sprechenden Mond oder spielst mit freundlichen Sternen. Träume sind wie magische Geschichten, die nur für dich gemacht sind. Du kannst alles sein, was du möchtest, und überall hingehen. Jetzt ist es Zeit, diesen Traum zu beginnen."
+    },
+    {
+      "id": "question_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal von einem Traumland geträumt? Was hast du dort gesehen? Vielleicht waren da bunte Schmetterlinge oder fliegende Einhörner. Träumen ist eine wunderbare Art, neue Abenteuer zu erleben, ohne das Bett zu verlassen. Welche Abenteuer möchtest du heute Nacht erleben? Lass deine Fantasie frei und träume groß!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über Träume gesprochen haben? Sie sind wie kleine Filme in deinem Kopf, die dir spannende Geschichten erzählen. Manchmal träumst du von Dingen, die du erlebt hast, und manchmal von Dingen, die du dir wünschst. Träume sind geheimnisvoll und wundervoll zugleich. Wenn du aufwachst, kannst du sie mit deinen Freunden oder deiner Familie teilen. Das macht Träume noch spannender!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du morgens aufwachst, ist es wichtig, dich zu strecken und zu gähnen. Dein Körper hat die ganze Nacht geruht und ist jetzt bereit für einen neuen Tag. Strecken hilft dir, wach zu werden und dich gut zu fühlen. Stell dir vor, du bist eine Blume, die sich zur Sonne streckt. Gähnen ist wie ein großes Lächeln, das dein Gesicht weckt. Guten Morgen, neuer Tag!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du hast so gut geschlafen! Jetzt ist es Zeit, aufzustehen und den Tag zu beginnen. Jede Nacht, wenn du gut schläfst, sammelst du Energie für all die Abenteuer, die auf dich warten. Es ist, als ob du deinen inneren Akku auflädst. Mit neuer Energie kannst du spielen, lernen und Spaß haben. Du bist bereit für alles, was der Tag bringt!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über Schlafen und Träumen gesprochen haben, kannst du deinen eigenen Schlafritualen folgen. Rituale helfen deinem Körper zu wissen, wann es Zeit ist, sich zu entspannen und zu schlafen. Du kannst dein eigenes Ritual gestalten, das dir am besten gefällt. Vielleicht magst du ein Gute-Nacht-Lied singen oder ein Kuscheltier umarmen. Was auch immer du wählst, es sollte dir helfen, dich wohl und sicher zu fühlen."
+    },
+    {
+      "id": "question_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du ein Lieblingsritual vor dem Schlafengehen? Vielleicht magst du es, ein Buch zu lesen oder ein schönes Lied zu hören. Rituale sind wie kleine Anker, die dir helfen, ruhig und entspannt zu sein. Welches Ritual möchtest du heute Abend ausprobieren? Lass uns neue Ideen sammeln und ausprobieren!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt sind wir am Ende unserer Reise angekommen. Du bist bereit für eine gute Nacht und süße Träume. Schlafen ist wichtig und hilft dir, stark und gesund zu bleiben. Ich hoffe, du hattest Spaß auf unserer Reise ins Traumland. Ich freue mich darauf, bald wieder mit dir zu sprechen. Schlaf gut und träume schön, kleiner Freund!"
+    }
+  ],
+  "title": "Minos Bedtime Geschichte"
+}

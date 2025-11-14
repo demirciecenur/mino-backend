@@ -1,0 +1,98 @@
+{
+  "id": "swamp_buddy_hero_transitions_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "transitions",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Salut, petit aventurier! Je suis Swamp Buddy Hero, ton ami du marais. Aujourd'hui, nous allons parler de quelque chose de très spécial : les transitions. Tu sais, c'est comme quand on change d'activité ou de lieu. Es-tu prêt à explorer ce sujet avec moi? Je suis tellement heureux que tu sois ici!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions peuvent être comme une grande aventure. Par exemple, passer de jouer à l'extérieur à rentrer à la maison pour le dîner. C'est un peu comme traverser un pont entre deux mondes amusants. Parfois, cela peut sembler difficile, mais avec un peu de pratique, cela devient plus facile. Te souviens-tu d'une fois où tu as dû changer d'activité?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lorsque tu te prépares pour une transition, il est important de prendre une grande inspiration. Cela t'aide à te calmer et à te concentrer sur ce qui vient ensuite. Tu peux aussi compter jusqu'à cinq pour te donner le temps de t'adapter. Allons-y, essayons ensemble: un, deux, trois, quatre, cinq. Bravo, tu as très bien réussi!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, parlons des routines, comme se préparer le matin. C'est une transition que tu fais tous les jours. Par exemple, tu te lèves, tu te brosses les dents, puis tu t'habilles. Chaque étape est une petite transition vers la suivante. C'est super de savoir comment faire tout cela tout seul!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Certaines transitions sont plus grandes, comme déménager dans une nouvelle maison. Cela peut sembler un peu effrayant au début, mais pense à toutes les nouvelles aventures que tu pourras vivre. Tu auras peut-être une nouvelle chambre à décorer! Quel genre de décoration aimerais-tu avoir?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour t'aider à te sentir mieux dans une nouvelle situation, tu peux imaginer que tu es un grand explorateur. Les explorateurs sont toujours prêts pour de nouvelles aventures! Ils observent attentivement, écoutent bien et sont toujours curieux. Alors, pourquoi ne pas essayer d'être un explorateur la prochaine fois que tu fais une transition?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Penses-tu que tu pourrais être un explorateur lors de ta prochaine transition? Quelles nouvelles choses aimerais-tu découvrir? Peut-être un nouveau jeu ou une nouvelle histoire? N'oublie pas, chaque jour est une nouvelle aventure à découvrir!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi, même les petits changements, comme mettre ses chaussures pour aller à l'école, sont des transitions. Ce sont des étapes importantes qui t'aident à grandir et à apprendre. Chaque fois que tu fais une transition, c'est une chance de devenir encore plus fort et plus intelligent. Continue comme ça, tu fais un travail formidable!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Les transitions peuvent aussi être amusantes. Par exemple, transformer le rangement de tes jouets en un jeu. Tu peux imaginer que tu es un super-héros qui sauve la journée en remettant tout en ordre. N'est-ce pas une façon amusante de faire la transition du jeu au rangement?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lorsque tu te sens un peu inquiet à propos d'une transition, essaie de parler à un adulte. Ils peuvent t'aider à comprendre ce qui se passe et te donner des conseils. Parfois, partager tes sentiments peut vraiment t'aider à te sentir mieux. N'oublie pas, il n'y a pas de honte à demander de l'aide!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, les transitions peuvent être comme un puzzle. Chaque pièce est une nouvelle étape vers quelque chose de plus grand. Quand tu réussis à mettre toutes les pièces ensemble, tu as une belle image, tout comme une journée pleine de nouvelles expériences. Es-tu prêt à assembler ton puzzle aujourd'hui?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Souviens-toi de la dernière fois où tu as dû attendre ton tour pour jouer? C'était une transition aussi! Tu as attendu patiemment et quand c'était ton tour, tu t'es tellement amusé. C'est un excellent exemple de comment gérer les transitions avec succès. Bravo à toi!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu une transition préférée que tu fais tous les jours? Peut-être quand tu te prépares pour une histoire du soir? Ou quand tu aides à préparer le dîner? Chaque transition est spéciale à sa manière. Que dirais-tu de partager ton moment préféré la prochaine fois?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Nous avons parlé de tant de transitions aujourd'hui. Je suis si fier de toi et de tout ce que tu as appris. Rappelle-toi, les transitions sont comme des aventures, et tu es un super explorateur. Merci d'avoir passé ce temps avec moi. À bientôt, petit aventurier!"
+    }
+  ],
+  "title": "Histoire de Transitions de Swamp Buddy Hero"
+}

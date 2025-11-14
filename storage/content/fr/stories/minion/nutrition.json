@@ -1,0 +1,104 @@
+{
+  "id": "yellow buddy_nutrition, alimentation saine, habitudes alimentaires, aliments sains_story",
+  "character": "Yellow Buddy",
+  "topic": "nutrition, alimentation saine, habitudes alimentaires, aliments sains",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis ! Je suis Yellow Buddy, votre compagnon joyeux pour aujourd'hui. Aujourd'hui, nous allons explorer le monde merveilleux de la nutrition. Ça veut dire apprendre à manger des aliments qui nous rendent forts et heureux. Êtes-vous prêts à découvrir ce que c'est que bien manger ? Je suis tellement curieux de connaître vos plats préférés !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La nutrition, c'est comme donner à notre corps de l'énergie pour jouer et grandir. Imaginez que votre corps est une voiture et la nourriture est le carburant. Sans le bon carburant, la voiture ne peut pas aller très loin ! Alors, quels aliments sont bons pour notre corps ? Parlons de fruits et légumes, qui sont comme des super-héros pour notre santé !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Les fruits comme les pommes et les bananes sont pleins de vitamines. Les légumes comme les carottes et les brocolis nous aident à avoir des os solides. Pensez à eux comme des amis qui aident notre corps à rester en bonne santé. Et savez-vous quoi ? Les couleurs des fruits et légumes sont aussi amusantes que leurs bienfaits !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons de compter ensemble ! Combien de couleurs de fruits et légumes pouvez-vous nommer ? Rouge, vert, jaune, orange... C'est amusant, n'est-ce pas ? Chaque couleur a ses propres pouvoirs magiques pour notre corps. Bravo, vous êtes des experts en couleurs maintenant !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des protéines, comme le poulet, les œufs et les haricots. Les protéines sont comme les briques qui construisent notre corps. Elles aident à réparer nos muscles après avoir joué toute la journée. Imaginez que vous êtes un petit constructeur qui garde son corps fort et en forme !"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Il est aussi important de boire beaucoup d'eau. L'eau est comme un ruisseau qui nettoie notre corps. Elle nous aide à rester hydratés et pleins d'énergie pour la prochaine aventure. Alors, n'oubliez pas de boire de l'eau tout au long de la journée. C'est aussi important que manger des aliments sains !"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes tous incroyables ! Maintenant, imaginez que chaque fois que vous mangez, vous donnez à votre corps une fête de vitamines et de minéraux. C'est comme si chaque bouchée était une danse de joie pour votre santé. Continuez à être des petits champions de la nutrition !"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons des habitudes alimentaires. Manger à heures régulières aide notre corps à savoir quand il est temps de faire le plein d'énergie. C'est comme une horloge qui nous dit quand il est temps de jouer ou de se reposer. Avez-vous des moments préférés pour manger ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quels sont vos fruits préférés ? Aimez-vous les pommes croquantes ou les bananes sucrées ? Peut-être préférez-vous un jus d'orange frais le matin ? Dites-moi tout, j'adore découvrir de nouvelles choses !"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant que nous savons tout sur les fruits, les légumes et les bonnes habitudes, parlons des plaisirs gourmands. Il est aussi important de se faire plaisir de temps en temps. Mais souvenez-vous, c'est bien de manger des friandises avec modération. Un petit gâteau de temps en temps, c'est parfait !"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand vous choisissez vos aliments, pensez à faire un arc-en-ciel dans votre assiette. Plus il y a de couleurs, mieux c'est pour votre santé. Essayez de choisir des aliments de chaque couleur chaque jour. C'est comme une chasse au trésor de bonne santé !"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes fantastiques ! Chaque choix que vous faites pour votre santé est un pas de géant vers un avenir brillant. Continuez à explorer et à découvrir de nouvelles saveurs et de nouveaux aliments. Vous êtes de vrais aventuriers de la nutrition !"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous que manger sainement nous aide à bien grandir et à avoir de l'énergie pour jouer. C'est comme donner à notre corps un câlin chaleureux chaque jour. Alors, continuez à faire des choix sains et à prendre soin de vous. Je suis tellement fier de vous !"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous des questions sur la nutrition ? Quel est l'aliment que vous aimeriez essayer la prochaine fois ? Je suis là pour vous écouter et apprendre avec vous. Partagez vos idées, je suis tout ouïe !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, mes petits amis ! Souvenez-vous que bien manger, c'est s'amuser et prendre soin de soi. J'espère que vous continuerez à explorer de nouvelles saveurs et à rester curieux. À bientôt pour de nouvelles aventures avec Yellow Buddy ! Au revoir et gardez votre sourire éclatant !"
+    }
+  ],
+  "title": "Histoire de Nutrition de Yellow Buddy"
+}

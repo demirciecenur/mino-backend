@@ -1,0 +1,98 @@
+{
+  "id": "koko_behavior_attention_story",
+  "character": "Koko",
+  "topic": "behavior_attention",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little heroes! I'm Koko, your friendly protector, here to guide you on an exciting adventure about paying attention and calming down. Just like a superhero needs to focus to save the day, you can learn to be calm and attentive too! Are you ready to explore how we can use our superpowers to be the best we can be? Let's dive into this amazing journey together and discover the secrets of being calm and focused. I promise it will be fun and full of surprises!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about what it means to pay attention. Paying attention is like using your superhero eyes and ears to see and hear everything around you. It helps you learn new things and have fun with your friends. Just like when you're playing with your toys, you need to focus so you can build the tallest tower or draw the best picture. Paying attention helps you do your best in everything you try. It's a superpower you can practice every day!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about using our superhero senses? Let's learn how to practice this with a fun activity. Imagine you have a magic bubble around you. This bubble helps you focus on what you're doing. Can you pretend to blow a big bubble with me? Let's take a deep breath in, hold it for a moment, and blow out slowly, imagining a big, shiny bubble forming around us. Great job! This helps us concentrate and feel calm."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're doing an amazing job at creating your magic bubble. This bubble can help you anytime you need to focus or calm down. Remember, even superheroes need a moment to breathe and think. Whenever you feel wiggly or distracted, just take a deep breath and imagine your bubble. You can do it! You're becoming a focus champion, and I'm so proud of you."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our journey by learning about routines. Routines are like superhero plans that help us know what to do next. They make our day smoother and more fun. For example, in the morning, you might brush your teeth, get dressed, and have breakfast. These are steps that help you start your day right. Routines give us a sense of control and help us feel prepared for our adventures."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's create a simple routine together. Think about what you do before bedtime. Maybe you like to read a story, brush your teeth, and then snuggle into bed. Let's pretend we're getting ready for bed. First, we brush our teeth, making sure they're squeaky clean. Then, we pick a favorite book to read. Finally, we snuggle under our blankets and close our eyes, ready for a good night's sleep. Routines help us feel safe and ready for tomorrow's adventures."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I have a question for you. What is your favorite part of your daily routine? Is it playing with your toys, having a snack, or maybe reading a bedtime story? Think about what makes you happiest and why. I'd love to hear about the special things you do every day that make you smile. Remember, your routines are unique and special, just like you!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "While you're thinking about your favorite routine, let's talk about why routines are important. They help us know what to expect and make us feel comfortable. Just like superheroes have plans to save the day, routines help us know what to do next. They make sure we have time for fun and learning. So, what's your favorite part of your routine? I can't wait to hear!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's explore how to calm down when we feel upset. Everyone feels upset sometimes, even superheroes. But we have special ways to help us calm down. One way is to take deep breaths, just like we did with our magic bubble. Another way is to count to five slowly. Let's try it together: one, two, three, four, five. See? Doesn't that feel better already?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job! You're learning to use your calming superpowers. Remember, it's okay to feel upset, but you have the power to calm yourself down. Whenever you need a moment to feel better, just take a deep breath or count to five. You're a superhero in training, and I'm so proud of how you're learning these amazing skills. Keep it up, little hero!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue by talking about how to make good choices. Good choices are like superhero decisions that help us and others. For example, sharing your toys with a friend is a good choice because it makes you both happy. Listening to your parents or teachers is another good choice because it helps you learn and stay safe. Making good choices is a big part of being a superhero."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's practice making a good choice together. Imagine you're playing with a toy, and your friend wants to play too. What could you do? You could share the toy and play together, taking turns. This is a great choice because it shows kindness and helps you both have fun. Making good choices helps us make friends and have fun adventures together."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning how to make good choices. Remember, every day gives you a chance to practice these skills. Sharing, listening, and helping others are all superhero choices. You're a wonderful hero in training, and I'm so proud of you. Keep practicing, and you'll keep getting better and better. You can do it!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "We've had such an exciting adventure today, learning about paying attention, calming down, and making good choices. Remember, you have all the superpowers you need to be the best you can be. Keep practicing your focus, your routines, and your good choices every day. I'm so proud of all the amazing things you're learning. Until next time, little hero, keep shining bright and being the wonderful person you are. Goodbye for now!"
+    }
+  ],
+  "title": "Koko's Behavior & Attention Story"
+}

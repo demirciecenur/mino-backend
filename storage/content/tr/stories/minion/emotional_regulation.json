@@ -1,0 +1,98 @@
+{
+  "id": "yellow_buddy_emotional_regulation_story",
+  "character": "Yellow Buddy",
+  "topic": "emotional_regulation",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Yellow Buddy. Bugün birlikte duygusal düzenleme hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Duygularımızı nasıl daha iyi anlayabileceğimizi keşfedeceğiz. Eğlenceli bir gün olacak!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımız bazen dalgalar gibi gelir, değil mi? Mutluluk, üzüntü, heyecan... Hepsi kalbimizde bir dans yapar. Ama merak etme, bu duyguların hepsi bizim bir parçamız. Onları anlamak için birlikte çalışacağız. Duygularımızı tanımak, onları kontrol etmenin ilk adımıdır."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi duygularımızı nasıl düzenleyebileceğimizi öğrenelim. Mesela, çok kızgın olduğunda derin nefes almak iyi bir fikir olabilir. Derin bir nefes al, ve sonra yavaşça ver. Bu, sakinleşmene yardımcı olabilir. Aynı zamanda, duygularını bir resimle anlatabilirsin. Resim yapmak, duygularımızı ifade etmenin harika bir yoludur."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harikasın! Şimdi birlikte bir oyun oynayalım. Duygularımızı tanımak için yüz ifadelerimizi kullanacağız. Mutlu bir surat nasıl olur? Hadi, birlikte deneyelim! Şimdi üzgün bir surat yapalım. Çok güzel! Duygularımızı ifade etmek eğlenceli, değil mi?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki oyunumuz çok eğlenceliydi! Şimdi duygularımızı daha iyi anlamak için bir hikaye dinleyelim. Küçük bir örnek vereyim: Bir gün, oyuncak ayın kaybolduğunda nasıl hissetmiştin? Belki üzgün ya da kızgın olmuşsundur. Ama sonra onu bulduğunda tekrar mutlu oldun. İşte bu, duygularımızın nasıl değişebileceğini gösterir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte sakinleşme egzersizleri yapalım. Ellerinizi kalbinizin üzerine koyun ve derin bir nefes alın. Nefesinizi yavaşça verin. Bu, kalbinizi ve zihninizi sakinleştirir. Bunu her gün birkaç kez yapmak çok faydalıdır. Duygularınızı daha iyi kontrol etmenize yardımcı olacaktır."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen harikasın! Duygularını kontrol etmek için çok iyi bir iş çıkarıyorsun. Şimdi bir sonraki adımda, hissettiğin duyguları birine anlatmayı dene. Annen, baban ya da bir arkadaşın olabilir. Duygularını paylaşmak, onları daha iyi anlamana yardımcı olur. Ve unutma, sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, şimdi sana bir soru: Duygularını nasıl ifade edersin? Mesela, çok mutlu olduğunda ne yaparsın? Dans eder misin, zıplar mısın? Belki de şarkı söylersin. Hadi, senin duygularını nasıl ifade ettiğini merak ediyorum!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Çok güzel cevaplar verdin! Duygularımızı ifade etmenin birçok yolu var, değil mi? Şimdi seninle bir başka eğlenceli aktivite yapalım. Birlikte hayali bir balon şişirelim. Derin bir nefes al ve balonu şişir. Sonra yavaşça havayı bırak. Bu, seni rahatlatacak!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Duygularımızı düzenlemek için bir başka yöntem de günlük tutmak. Günlük tutmak, hissettiklerini yazıya dökmene yardımcı olur. Her gün neler hissettiğini yazabilirsin. Bu, duygularını daha iyi anlamana yardımcı olur. Ayrıca, yazdıklarına geri dönüp bakmak da çok eğlenceli olabilir."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda günlük tutmanın öneminden bahsetmiştik. Şimdi, duygusal düzenlemenin başka bir yönüne bakalım. Duygularımızı düzenlemek, sadece onları kontrol etmek değil, aynı zamanda onları kabul etmek anlamına da gelir. Üzgün olduğunda, bu duyguyu kabul et ve kendine zaman tanı. Bu, kendine karşı nazik olmanın bir yoludur."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen harika bir arkadaşsın! Duygularını kabul etmek ve onlarla barışık olmak çok önemli. Şimdi birlikte bir hayal kuralım. Gözlerini kapat ve en sevdiğin yeri düşün. Orada nasıl hissediyorsun? Bu güzel hisleri yanında tut. Onlar senin enerjini yükseltecek!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi bir soru daha: En sevdiğin duygu hangisi? Belki mutluluk, belki de heyecan. Peki, bu duyguyu yaşadığında neler yaparsın? Hadi, bana anlat! Senin duygularını öğrenmek beni çok mutlu ediyor."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte çok şey öğrendik, değil mi? Duygularımızı tanıdık, onları nasıl ifade edeceğimizi ve düzenleyeceğimizi keşfettik. Seninle bu macerayı paylaşmak harikaydı! Unutma, duyguların senin bir parçan ve onları anlamak çok değerli. Şimdi vedalaşıyoruz, ama yakında tekrar görüşeceğiz. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Yellow Buddy'ın Emotional Regulation Hikayesi"
+}

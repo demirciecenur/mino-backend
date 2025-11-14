@@ -1,0 +1,104 @@
+{
+  "id": "yellow_buddy_imagination_story",
+  "character": "Yellow Buddy",
+  "topic": "imagination",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Yellow Buddy. Bugün birlikte hayal gücü dünyasına harika bir yolculuk yapacağız. Hazır mısın? Seni çok merak ediyorum. Hayal gücüyle neler yapabileceğimizi keşfetmek için sabırsızlanıyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücü, zihnimizdeki en renkli ve eğlenceli yerdir. Düşünsene, bir an uzayda uçan bir astronot olabiliriz. Sonra bir bakmışsın, ormanda kaybolmuş bir kaşif olmuşuz. Hayal gücü sayesinde her gün farklı bir macera yaşayabiliriz. Sen de hayal etmeyi sever misin?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi hayal gücümüzü kullanarak bir hikaye oluşturacağız. İlk olarak, bir karakter düşünelim. Belki bir korsan ya da cesur bir şövalye olabilir. Sonra, bu karakterin maceralarını hayal edelim. Onları denizde yelken açarken ya da kaleler fethederken görebiliriz. Hayal gücüyle her şey mümkün!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir başlangıç yaptık! Şimdi birlikte hayal gücümüzü biraz daha genişletelim. Belki de bir ejderhayla arkadaş olabiliriz. Ejderhanın sırtında gökyüzünde uçarken neler göreceğimizi hayal edelim. Senin hayal gücünle neler yaratabileceğini görmek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçen konuşmamızda ejderhalardan bahsetmiştik. Şimdi sırada ne var, biliyor musun? Bir uzay macerası! Hayal et, bir uzay gemisindesin ve yıldızlar arasında yolculuk yapıyorsun. Belki bir gezegene iniş yapar ve orada yaşayan dost canlısı uzaylılarla tanışırsın. Hayal gücüyle her şey mümkün!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi biraz derin nefes alalım ve hayal gücümüzü daha da derinleştirelim. Gözlerini kapat ve en sevdiğin yeri düşün. Orada neler var? Belki bir şelale ya da rengarenk çiçekler? Hayal gücü sayesinde istediğimiz her yere gidebiliriz. Hadi birlikte keşfedelim!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkarıyorsun! Şimdi birlikte bir rüya dünyası oluşturalım. Orada uçan balonlar ve dans eden ayılar olabilir. Her şey senin hayal gücüne bağlı. Unutma, hayal gücüyle sınırları aşabiliriz. Devam edelim mi?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda rüya dünyasından bahsetmiştik. Şimdi, o dünyada bir macera yaşadığını hayal et. Belki de bir hazine haritası buldun ve şimdi o hazineyi arıyorsun. Yolculuğun sırasında birçok yeni arkadaşla tanışıyorsun. Hayal gücü sayesinde her gün yeni bir macera!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, hazine avında tanıştığın arkadaşları? Şimdi onlarla bir oyun oynayalım. Onlar hangi oyunları oynamayı sever? Belki ip atlama ya da saklambaç? Hayal gücüyle oyunlar daha da eğlenceli hale gelebilir. Sen hangi oyunu oynamayı seversin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Oyunlar, hayal gücümüzü geliştirmek için harika bir yoldur. Şimdi birlikte bir oyun kuralım. Belki bir kukla tiyatrosu yapabiliriz. Kuklaların neler söyleyeceğini hayal edelim. Harika bir iş çıkarıyorsun, devam edelim mi?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hayal gücünle oluşturduğun bir hikaye var mı? Belki bir kahramanlık hikayesi ya da komik bir olay? Anlatmak ister misin? Seni dinlemek için sabırsızlanıyorum. Hayal gücü, paylaşınca daha da güzeldir, değil mi?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda hikayelerden bahsetmiştik. Şimdi, hayal gücümüzle bir dans oluşturalım. Her hareket bir hikaye anlatabilir. Belki bir kelebek gibi uçabiliriz. Ya da bir aslan gibi kükreyebiliriz. Hayal gücüyle dans etmek çok eğlenceli!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi biraz sessiz olalım ve dinleyelim. Çevrende hangi sesler var? Belki kuş cıvıltıları ya da rüzgarın sesi? Bu seslerle bir hikaye oluşturabiliriz. Hayal gücüyle sesler, büyülü bir dünyaya dönüşebilir. Hadi birlikte dinleyelim!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, seslerle hikayeler oluşturmuştuk. Şimdi, bu hikayeleri resme dökelim. Bir kağıt ve kalem al ve hayal ettiğin dünyayı çiz. Belki bir denizaltı ya da bir uzay gemisi çizebilirsin. Hayal gücüyle çizmek çok eğlenceli!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık. Hayal gücümüzle neler yapabileceğimizi gördük. Unutma, hayal gücü her zaman seninle. Ne zaman istersen yeni bir maceraya başlayabilirsin. Bir sonraki buluşmamızda görüşmek üzere, küçük dostum! Hoşça kal!"
+    }
+  ],
+  "title": "Yellow Buddy'ın Imagination Hikayesi"
+}

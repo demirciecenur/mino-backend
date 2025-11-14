@@ -1,0 +1,98 @@
+{
+  "id": "spider_fighter_sibling_story",
+  "character": "Spider Fighter",
+  "topic": "sibling",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin der Spider Fighter, und heute werden wir ein spannendes Abenteuer erleben. Wir sprechen über Geschwister, und wie man zusammen spielt und teilt. Hast du Geschwister? Ich bin so gespannt, mehr darüber zu erfahren. Gemeinsam werden wir herausfinden, wie man ein großartiger Bruder oder eine tolle Schwester sein kann."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister sind wie beste Freunde, die immer bei dir sind. Manchmal können sie dir helfen, wenn du etwas nicht alleine schaffst. Zum Beispiel, wenn du ein großes Puzzle hast, könnt ihr es gemeinsam lösen. Es macht viel mehr Spaß, Dinge zusammen zu machen, findest du nicht? Und wenn du traurig bist, kann dein Bruder oder deine Schwester dich trösten."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Weißt du, teilen ist eine sehr wichtige Sache, wenn man Geschwister hat. Wenn du dein Lieblingsspielzeug teilst, könnt ihr beide damit spielen und doppelt so viel Spaß haben. Stell dir vor, du hast einen großen Spielzeugturm. Wenn ihr zusammenarbeitet, wird der Turm noch höher. Teilen zeigt, dass du ein freundlicher und großzügiger Bruder oder eine liebe Schwester bist."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns etwas Lustiges machen! Stell dir vor, du bist ein Superheld wie ich, der Spider Fighter. Du kannst deinem Geschwisterchen helfen, indem du seine Spielzeuge aufräumst. Gemeinsam könnt ihr das Zimmer blitzschnell sauber machen! Ist das nicht toll? Ihr seid ein tolles Team!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Teilen gesprochen haben? Es ist auch wichtig, auf die Gefühle deines Geschwisters zu achten. Wenn dein Bruder oder deine Schwester traurig ist, kannst du sie fragen, was los ist. Vielleicht kannst du helfen, sie aufzumuntern. Ein einfaches Lächeln oder eine Umarmung kann viel bewirken."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt ein kleines Spiel spielen. Stell dir vor, du hast einen magischen Hut, der Wünsche erfüllt. Was würdest du dir für dein Geschwisterchen wünschen? Vielleicht einen lustigen Tag im Park oder ein neues Buch zum Vorlesen. Es ist wichtig, dass wir auch an andere denken und ihnen Freude bereiten wollen."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wusstest du, dass Lachen die beste Medizin ist? Wenn du und dein Geschwisterchen zusammen lachen, fühlt ihr euch beide gleich viel besser. Vielleicht könnt ihr ein lustiges Spiel spielen oder gemeinsam einen Witz erzählen. Lachen verbindet und macht jeden Tag zu etwas Besonderem."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Manchmal streiten sich Geschwister auch. Das ist ganz normal. Wichtig ist, dass man sich wieder verträgt. Du kannst deinem Bruder oder deiner Schwester sagen, dass es dir leid tut. Danach fühlt ihr euch beide besser und könnt weiterspielen. Es ist stark, wenn man Fehler zugibt und sich entschuldigt."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was macht dir am meisten Spaß mit deinem Geschwisterchen? Vielleicht das gemeinsame Spielen im Garten oder das Bauen von Lego-Türmen. Denk mal kurz nach: Was ist eure liebste Aktivität zusammen? Es ist schön, solche Momente zu teilen und gemeinsam Erinnerungen zu schaffen."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über all diese tollen Dinge gesprochen haben, lass uns überlegen, wie man ein richtig guter Bruder oder eine tolle Schwester sein kann. Es beginnt mit Zuhören und Verständnis. Dann kommt die Hilfe, wenn sie gebraucht wird. Und natürlich viel Lachen und Spaß zusammen!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Eine kleine Aufgabe für dich: Versuche heute, deinem Geschwisterchen eine Freude zu machen. Vielleicht ein kleines Bild malen oder ein lustiges Lied singen. Es sind die kleinen Dinge, die den Unterschied machen. Und denk daran, dass du immer ein Superheld sein kannst!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das toll! Gemeinsam mit deinem Bruder oder deiner Schwester kannst du viel erreichen. Ihr könnt zusammen spielen, lachen und Abenteuer erleben. Ihr seid ein unschlagbares Team! Weiter so, kleiner Held!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich an das Spiel mit dem magischen Hut? Vielleicht kannst du heute Abend eine Geschichte erfinden. Eine Geschichte, in der du dein Geschwisterchen auf ein Abenteuer mitnimmst. Geschichten verbinden und machen die Welt ein bisschen magischer."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es Zeit, sich zu verabschieden. Aber keine Sorge, wir sehen uns bald wieder. Denk daran, dass du ein toller Bruder oder eine wunderbare Schwester bist. Ich bin stolz auf dich! Bis zum nächsten Abenteuer, kleiner Held!"
+    }
+  ],
+  "title": "Spider Fighters Sibling Geschichte"
+}

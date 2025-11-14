@@ -1,0 +1,98 @@
+{
+  "id": "spark buddy_friendship_story",
+  "character": "Spark Buddy",
+  "topic": "friendship",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo kleiner Freund! Ich bin Spark Buddy. Heute gehen wir auf eine aufregende Reise über Freundschaft. Bist du bereit? Ich bin so neugierig auf dich! Wir werden gemeinsam viele lustige Dinge erleben und lernen, wie man ein guter Freund ist. Lass uns beginnen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft bedeutet, jemanden zu haben, der für dich da ist. Freunde spielen zusammen, lachen und helfen sich gegenseitig. Denk mal an deinen besten Freund oder deine beste Freundin. Was macht ihr gerne zusammen? Vielleicht baut ihr tolle Türme aus Bauklötzen oder malt bunte Bilder. Freundschaft ist wie ein Regenbogen, voller Farben und Freude!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ein guter Freund zu sein, bedeutet auch, aufmerksam zuzuhören. Wenn dein Freund etwas erzählt, hörst du ihm zu und fragst nach. Das zeigt, dass du dich interessierst. Zum Beispiel, wenn dein Freund von seinem neuen Spielzeug erzählt, kannst du fragen: 'Wie funktioniert es?' oder 'Was gefällt dir daran?'. So fühlt sich dein Freund gehört und verstanden."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lass uns zusammen üben, aufmerksam zuzuhören! Stell dir vor, ich erzähle dir von einem lustigen Abenteuer. Hör gut zu und überlege, was du fragen könntest. Bist du bereit? Super! Du kannst das! Aufmerksam zuhören ist eine wichtige Fähigkeit und macht dich zu einem tollen Freund."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über das Zuhören gesprochen haben, lass uns über das Teilen sprechen. Teilen ist ein wichtiger Teil der Freundschaft. Wenn du dein Spielzeug teilst, zeigst du, dass du großzügig bist. Hast du schon einmal dein Lieblingsspielzeug mit einem Freund geteilt? Es fühlt sich gut an, oder? Gemeinsam spielen macht noch mehr Spaß!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Um das Teilen zu üben, kannst du mit deinen Spielsachen beginnen. Nimm ein Spielzeug und überlege, wie du es mit jemandem teilen könntest. Vielleicht könnt ihr abwechselnd spielen oder gemeinsam etwas bauen. Teilen bedeutet, dass alle Spaß haben und es keinen Streit gibt. Das ist der Zauber der Freundschaft!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du lernst so schnell! Jetzt lass uns über das Helfen sprechen. Ein guter Freund hilft, wenn jemand Unterstützung braucht. Wenn dein Freund traurig ist, kannst du ihm eine Umarmung geben oder ihn trösten. Hilfst du manchmal deinen Freunden? Wunderbar! Helfen zeigt, dass du dich kümmerst."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an einen Moment, in dem dir jemand geholfen hat? Vielleicht hat dir ein Freund beim Aufräumen deiner Spielsachen geholfen. Das ist ein schönes Gefühl, nicht wahr? Helfen macht die Welt ein bisschen heller und zeigt, dass wir alle zusammengehören. Freundschaft ist wie ein großes Team, in dem jeder wichtig ist."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkst du, macht einen guten Freund aus? Ist es das Lachen, das Teilen oder das Helfen? Jeder von uns hat etwas Besonderes, das er in eine Freundschaft einbringen kann. Was ist deine besondere Fähigkeit? Vielleicht bist du ein toller Geschichtenerzähler oder kannst gut trösten. Ich bin gespannt auf deine Gedanken!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Du hast tolle Ideen! Jeder hat seine eigene Art, ein guter Freund zu sein. Jetzt lass uns über das Spielen sprechen. Spielen ist eine wunderbare Möglichkeit, Freundschaften zu stärken. Ob es ein Brettspiel oder ein Fangspiel ist, das Spielen bringt uns zusammen. Was spielst du am liebsten mit deinen Freunden?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du mit deinen Freunden spielst, denk daran, fair zu sein und alle einzubeziehen. Jeder sollte eine Chance bekommen, mitzumachen. Vielleicht kannst du beim nächsten Mal ein neues Spiel vorschlagen, das alle gemeinsam spielen können. So fühlt sich jeder willkommen und die Freundschaft wächst."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wirklich gut! Freundschaften sind wie kleine Pflanzen, die wachsen, wenn wir uns um sie kümmern. Jetzt lass uns zusammen drei tiefe Atemzüge nehmen, um uns zu entspannen. Eins, zwei, drei... Das fühlt sich gut an, oder? Entspannt können wir uns besser auf unsere Freunde konzentrieren."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Manchmal kann es auch Missverständnisse in Freundschaften geben. Das ist normal. Wichtig ist, darüber zu sprechen und Lösungen zu finden. Wenn du dich mit einem Freund gestritten hast, kannst du sagen: 'Es tut mir leid' oder 'Lass uns darüber reden'. So könnt ihr Missverständnisse aus dem Weg räumen und die Freundschaft stärken."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt haben wir so viel über Freundschaft gelernt! Du bist ein großartiger Freund, und ich bin stolz auf dich. Danke, dass du heute mit mir auf diese Reise gegangen bist. Ich hoffe, du hattest genauso viel Spaß wie ich! Bis zum nächsten Mal, kleiner Freund. Tschüss und denk daran, immer freundlich zu sein!"
+    }
+  ],
+  "title": "Spark Buddys Friendship Geschichte"
+}

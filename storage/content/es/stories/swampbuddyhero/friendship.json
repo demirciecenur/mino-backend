@@ -1,0 +1,104 @@
+{
+  "id": "swamp_buddy_hero_friendship_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy tu Swamp Buddy Hero y estoy encantado de verte hoy. Vamos a embarcarnos en una aventura maravillosa sobre la amistad. ¿Estás listo para aprender y divertirnos juntos? La amistad es como una planta que crece con amor y cuidado. ¡Estoy tan emocionado de compartir este viaje contigo!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos sobre qué es la amistad. La amistad es cuando tienes alguien con quien jugar y compartir tus juguetes. Es importante ser amable y escuchar a tus amigos. ¿Recuerdas cuando compartiste tus colores con tu amigo en la escuela? Eso es un ejemplo de ser un buen amigo. ¡Qué maravilloso es tener amigos que te hacen sonreír!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a aprender cómo hacer nuevos amigos. Primero, puedes saludar con una gran sonrisa y decir '¡Hola!'. Luego, pregunta su nombre y cuéntales algo sobre ti, como tu juguete favorito. También puedes invitarlos a jugar contigo, como construir una torre de bloques. Recuerda siempre ser amable y compartir. ¡Así es como comienzan las mejores amistades!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ahora vamos a practicar juntos! Imagina que estás en el parque y ves a un niño nuevo. ¿Qué dirías para comenzar una amistad? Puedes decir: '¡Hola! Me llamo [tu nombre]. ¿Quieres jugar conmigo?' ¡Eso es! Practica esto con tus peluches o con tu familia. Cuanto más practiques, más fácil será hacer amigos."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablamos de compartir tus colores. Compartir es una parte importante de ser un buen amigo. Cuando compartes, haces que los demás se sientan felices y valorados. Piensa en una vez que alguien compartió algo contigo. ¿No te hizo sentir especial? Compartir es un superpoder que todos podemos tener."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer un pequeño ejercicio de amistad. Cierra los ojos y piensa en tu mejor amigo. ¿Por qué te gusta estar con ellos? Ahora, abre los ojos y dibuja una imagen de ustedes dos jugando juntos. Luego, muéstrasela a tu amigo y cuéntale por qué es especial para ti. ¡Esto hará que se sientan muy felices!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablamos de saludar y compartir, pero también es importante escuchar. Escuchar a tus amigos muestra que te importan sus sentimientos. La próxima vez que hables con un amigo, míralo a los ojos y escucha atentamente lo que dice. Esto hará que se sientan importantes y queridos. ¡Así se fortalecen las amistades!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a hacer un juego de escuchar! Pide a alguien que te cuente una historia corta. Luego, repite la historia con tus propias palabras. Esto te ayudará a practicar cómo escuchar mejor. ¡Lo estás haciendo genial! Recuerda, escuchar es tan importante como hablar en una amistad."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, los amigos pueden tener desacuerdos. Eso está bien y es normal. Lo importante es hablar sobre cómo te sientes y tratar de entender el punto de vista del otro. Puedes decir: 'Me siento triste porque...' y luego escuchar lo que tu amigo tiene que decir. Resolver problemas juntos fortalece la amistad."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar cómo resolver un problema. Imagina que tú y tu amigo quieren jugar con el mismo juguete. Puedes tomar turnos y decidir quién juega primero. Luego, cambia y deja que tu amigo juegue también. ¡Así todos están contentos y la amistad se mantiene fuerte!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez has tenido que resolver un problema con un amigo? ¿Cómo lo hiciste? Resolver problemas juntos es una habilidad importante. Cuéntale a un adulto sobre una vez que lo hiciste. Ellos pueden darte más ideas sobre cómo ser un buen amigo. ¿Te gustaría intentarlo?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, recordemos lo que hemos aprendido sobre la amistad. Ser amable, compartir, escuchar y resolver problemas son claves para ser un buen amigo. Cada vez que practicas estas habilidades, te vuelves mejor en hacer amigos. ¡Qué increíble es tener amigos que se preocupan por ti!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas el ejercicio de dibujar a tu amigo? Puedes hacerlo cada vez que quieras recordar lo especiales que son tus amigos para ti. También puedes hacer una lista de las cosas que te gustan de ellos y compartirla. ¡Es una manera divertida de mostrar amor y aprecio!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Las amistades son como un tesoro que debemos cuidar. Cuando cuidas de tus amigos, ellos también cuidarán de ti. Piensa en una cosa que puedas hacer hoy para ser un mejor amigo. Tal vez puedes llamar a un amigo y preguntarle cómo está. ¡Pequeños gestos hacen una gran diferencia!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "¡Ha sido tan divertido aprender sobre la amistad contigo! Recuerda siempre ser amable, compartir, y escuchar a tus amigos. Estoy tan orgulloso de ti por querer ser un buen amigo. ¡Hasta la próxima vez, pequeño amigo! Sigue haciendo del mundo un lugar más amigable. ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Friendship de Swamp Buddy Hero"
+}

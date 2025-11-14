@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_transitions_story",
+  "character": "Piggy Friend",
+  "topic": "transitions",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friends! I'm Piggy Friend, and today we are going to explore something very exciting. We're talking about transitions, which are changes that happen in our lives. Are you ready to learn and have fun with me? Transitions can be big or small, like starting a new school or just changing from playtime to bedtime. Let's see how we can make these changes fun and easy!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let’s think about a time when you had to change from one activity to another. Maybe you were playing with your toys and then it was time for dinner. How did that make you feel? Sometimes, it can be a little tricky to stop doing something we love. But did you know that transitions can also be exciting? They give us a chance to try something new!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let’s learn a fun way to make transitions easier. One thing you can do is count to five slowly before changing activities. Let’s try it together! One... two... three... four... five. Great job! This gives your mind a little time to get ready for the next fun thing. Isn’t that a neat trick?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing wonderful! Another way to help with transitions is to think about what you are looking forward to in the new activity. Like when you stop playing to go have a yummy snack, imagine your favorite treat. Doesn’t that sound delicious? This helps you feel happy about the change. You can do it!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we counted to five? That was a great start! Now let's talk about how we can practice transitions every day. We can make a little game out of it. Every time you have to change activities, try to find something fun about the next thing you will do. It’s like finding a hidden treasure in every transition!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Think about a time when you had to stop playing at the park and go home. What was something fun you could look forward to at home? Maybe reading a story or having a cozy bath? There’s always something nice waiting for us. This makes every transition feel like a new adventure!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a transition you have every day? Maybe it’s getting ready for bed or waking up in the morning. What do you do to make these transitions easier? Do you have a favorite song or a little dance you like to do? I’d love to hear about it!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our transition journey by imagining we are explorers. Every time we change activities, we are discovering something new. Isn’t that exciting? Like when you finish breakfast and start getting ready for school, you’re preparing for a day full of learning and fun. Each transition is like a new chapter in your story!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let’s practice another transition tool. How about taking three deep breaths before starting something new? Let’s try it together. Breathe in... and out... One more time... in... and out. Wonderful! Doesn’t that feel calming? Breathing helps our body and mind get ready for what’s next."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing such a great job! Remember, it’s okay if transitions feel hard sometimes. It’s normal to need a little extra time or help. You’re learning and growing every day, and that’s something to be proud of. Keep practicing and soon transitions will feel like a breeze!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let’s think about how we can help others with transitions too. Maybe you have a friend or a sibling who finds changes tricky. You can share your counting or breathing tips with them. Helping each other makes transitions even more fun and friendly. Isn’t sharing such a kind thing to do?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Did you know that even grown-ups have to deal with transitions? They might change jobs or move to a new house. Everyone has transitions, no matter how big or small. So when you practice handling transitions, you’re learning skills that will help you your whole life. Isn’t that amazing?"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What’s your favorite way to make a transition fun? Do you like to sing a silly song or do a little dance? Or maybe you have a special toy that helps you feel brave? I’d love to know what makes transitions easier and more enjoyable for you!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we near the end of our journey, let’s remember all the ways we’ve learned to make transitions fun. Counting, breathing, and thinking about the next exciting thing are all wonderful tools. You can mix and match them to find what works best for you. Transitions are just little steps in our big adventure!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for sharing this adventure about transitions with me, little friends! I hope you feel ready to welcome changes with a big smile. Remember, every transition is a chance to grow and learn something new. Keep practicing and have lots of fun! Goodbye for now, and see you next time!"
+    }
+  ],
+  "title": "Piggy Friend's Transitions Story"
+}

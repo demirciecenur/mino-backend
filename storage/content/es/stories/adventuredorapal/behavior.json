@@ -1,0 +1,104 @@
+{
+  "id": "adventure_dora_pal_behavior_story",
+  "character": "Adventure Dora Pal",
+  "topic": "behavior",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Adventure Dora Pal. Hoy vamos a embarcarnos en un emocionante viaje sobre el comportamiento. ¿Estás listo para aprender conmigo? Estoy muy emocionada de explorar cómo podemos ser los mejores amigos y compañeros. A lo largo de nuestra aventura, descubriremos maneras divertidas de mostrar buen comportamiento. ¡Vamos a comenzar esta increíble aventura juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "El comportamiento es cómo actuamos y respondemos en diferentes situaciones. Imagina que estás jugando con tus amigos. Ser amable y compartir tus juguetes es un gran ejemplo de buen comportamiento. Cuando mostramos respeto, hacemos que todos se sientan felices y queridos. ¿Te gustaría aprender más sobre cómo podemos ser buenos amigos? ¡Estoy segura de que juntos lo podemos lograr!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos sobre seguir reglas. Las reglas nos ayudan a mantenernos seguros y a divertirnos juntos. Por ejemplo, cuando jugamos en el parque, esperamos nuestro turno en el columpio. Esto asegura que todos tengan la oportunidad de divertirse. ¿Recuerdas alguna regla que sigas en casa o en la escuela? ¡Es genial aprender a seguirlas!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora, vamos a practicar juntos. Imagina que estás en casa y es hora de guardar tus juguetes. ¿Puedes recogerlos y colocarlos en su lugar? Esto no solo mantiene tu espacio limpio, sino que también muestra responsabilidad. ¡Tú puedes hacerlo! Vamos a contar juntos mientras guardas: uno, dos, tres. ¡Bien hecho!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablamos de cómo compartir es importante. Compartir es una forma de mostrar que nos importa alguien más. Cuando compartimos, hacemos que los demás se sientan felices y valorados. ¿Alguna vez has compartido algo especial con un amigo o familiar? ¡Es una gran manera de hacer nuevos amigos y fortalecer las amistades!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, pensemos en cómo podemos ser buenos oyentes. Escuchar con atención a los demás es una parte importante de ser un buen amigo. Cuando alguien habla, miramos a sus ojos y escuchamos sus palabras. Esto muestra que nos importa lo que dicen. ¿Te gustaría practicar escuchando atentamente a alguien que te importa?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estás haciendo un trabajo maravilloso! Escuchar es una habilidad que podemos mejorar cada día. Cuando escuchamos, aprendemos nuevas cosas y entendemos mejor a las personas. ¡Qué emocionante es descubrir el mundo a través de las historias de los demás! Sigue practicando y verás lo lejos que puedes llegar."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora, tengo una pregunta para ti. ¿Qué hace que un día sea especial para ti? ¿Es cuando juegas amablemente con tus amigos o ayudas a alguien en casa? Piensa en un momento en que te sentiste muy feliz por algo que hiciste. Me encantaría escuchar tus historias. ¿Te gustaría compartirlas conmigo?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Es maravilloso escuchar sobre tus experiencias. Cada vez que eliges comportarte bien, estás creando un mundo más feliz para ti y para quienes te rodean. Las pequeñas acciones pueden tener un gran impacto. Desde dar un abrazo hasta decir gracias, cada gesto cuenta. ¡Sigamos creando momentos especiales cada día!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos sobre la paciencia. A veces, esperar nuestro turno puede ser difícil, pero es muy importante. La paciencia nos enseña a ser considerados y a valorar el tiempo de los demás. ¿Alguna vez has tenido que esperar por algo que querías mucho? Practicar la paciencia nos hace más fuertes y comprensivos."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Practicar la paciencia puede ser un desafío, pero cada vez que lo haces, te vuelves más fuerte. Recuerda que todos tenemos momentos en los que debemos esperar. Y cada espera tiene su recompensa. ¡Puedes hacerlo! Sigue adelante y verás lo que puedes lograr con paciencia."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quisiera saber, ¿qué te hace sentir feliz al final del día? ¿Es cuando ayudas a alguien o cuando aprendes algo nuevo? Estas pequeñas cosas hacen que nuestros días sean especiales. Me encantaría escuchar más sobre lo que te hace feliz. ¿Quieres contármelo?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Gracias por compartir tus pensamientos conmigo. Es increíble saber cómo cada uno de nosotros puede hacer que nuestros días sean mejores. Cuando elegimos mostrar buen comportamiento, estamos eligiendo ser amables y considerados. Esto nos ayuda a crecer felices y a crear un entorno positivo. ¡Sigamos aprendiendo juntos!"
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para terminar, recordemos la importancia de decir 'por favor' y 'gracias'. Estas palabras mágicas muestran respeto y aprecio. Usarlas hace que las personas se sientan valoradas y queridas. ¿Puedes pensar en una situación donde podrías usar estas palabras mágicas hoy? Practiquemos juntos diciendo 'gracias' a alguien especial."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "¡Qué increíble aventura hemos tenido hoy! Hemos aprendido mucho sobre el comportamiento y cómo podemos ser mejores amigos y compañeros. Gracias por unirte a mí en esta divertida exploración. Estoy muy orgullosa de ti por todo lo que has aprendido. Espero que sigas practicando cada día. ¡Hasta la próxima, pequeño aventurero!"
+    }
+  ],
+  "title": "Historia de Behavior de Adventure Dora Pal"
+}

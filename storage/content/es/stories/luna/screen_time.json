@@ -1,0 +1,98 @@
+{
+  "id": "luna_tiempo_de_pantalla_seguridad_digital_uso_de_tecnología_hábitos_saludables_de_pantalla_story",
+  "character": "Luna",
+  "topic": "tiempo de pantalla, seguridad digital, uso de tecnología, hábitos saludables de pantalla",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Luna, y hoy vamos a explorar un mundo mágico lleno de estrellas y sueños. Vamos a aprender sobre el tiempo de pantalla y cómo usar la tecnología de manera segura y saludable. ¿Estás listo para esta aventura? Me encanta cuando podemos aprender cosas nuevas juntos. ¡Será muy divertido y mágico!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos listos, hablemos sobre qué es el tiempo de pantalla. El tiempo de pantalla es el tiempo que pasamos usando dispositivos como tabletas o viendo televisión. Es importante no pasar demasiado tiempo frente a las pantallas porque necesitamos tiempo para jugar y movernos. Cuando jugamos al aire libre, nuestros cuerpos se sienten más fuertes y felices. Así que, es bueno encontrar un equilibrio entre el tiempo de pantalla y otras actividades."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, pensemos en cómo podemos usar la tecnología de manera segura. Siempre es bueno pedir permiso a un adulto antes de usar un dispositivo. También es importante jugar solo con aplicaciones y juegos que sean apropiados para nuestra edad. Los adultos pueden ayudarnos a encontrar juegos que sean tanto divertidos como seguros. Así, podemos disfrutar de nuestras aventuras digitales sin preocupaciones. ¿No es genial tener un adulto que nos cuida?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a practicar juntos! Imaginemos que estamos en una aventura mágica y tenemos que contar hasta cinco antes de empezar a usar una pantalla. Uno, dos, tres, cuatro, cinco. ¡Muy bien! Esto nos ayuda a recordar que debemos pensar antes de usar la tecnología. Siempre podemos tomarnos un momento para decidir si es un buen momento para usar una pantalla. ¡Eres increíblemente inteligente!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos también que es importante tomar descansos mientras usamos la tecnología. Después de ver un poco de televisión o jugar un juego, podemos hacer algo diferente como dibujar o jugar afuera. Esto ayuda a que nuestros ojos descansen y nuestra mente se refresque. Además, es una oportunidad maravillosa para descubrir cosas nuevas en el mundo real. ¿Qué te gustaría hacer después de usar una pantalla?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos ahora de cómo podemos mantenernos seguros en línea. Nunca debemos compartir información personal como nuestro nombre completo o dirección en internet. Es como un secreto mágico que debemos guardar para nosotros mismos y nuestros adultos de confianza. También, si vemos algo que nos hace sentir incómodos, debemos contárselo a un adulto. Ellos siempre están ahí para ayudarnos y mantenernos seguros."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Tú puedes hacerlo! Es muy importante ser un superhéroe de la seguridad digital. Podemos practicar juntos diciendo \"No compartiré mis secretos mágicos en línea\". ¡Genial! Eres un verdadero protector de la seguridad digital. Al cuidarnos a nosotros mismos y a nuestros amigos, hacemos del mundo digital un lugar más seguro para todos. ¡Sigue así!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, podemos sentir que queremos pasar mucho tiempo frente a la pantalla. Pero es importante recordar que hay muchas otras cosas divertidas que podemos hacer. Podemos construir castillos de bloques, leer cuentos mágicos, o incluso inventar nuestras propias historias. Todas estas actividades nos ayudan a crecer y aprender de maneras diferentes. ¿Cuál es tu actividad favorita fuera de la pantalla?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme cuál es tu juego o actividad favorita cuando no estás usando una pantalla? Me encantaría saberlo. Tal vez te guste jugar a las escondidas o hacer dibujos coloridos. Cada actividad tiene su propia magia especial. ¡Cuéntame más sobre lo que disfrutas hacer!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Eso suena maravilloso! Me encanta escuchar sobre tus aventuras y juegos favoritos. Cada uno de nosotros tiene cosas especiales que nos hacen felices. Ahora que hemos hablado sobre todas estas cosas mágicas, pensemos en cómo podemos equilibrar nuestro tiempo todos los días. Un poco de pantalla, un poco de juego, y siempre un montón de diversión."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Podemos crear un plan mágico para nuestro tiempo de pantalla. Tal vez podríamos usar un reloj de arena o una alarma para saber cuándo es hora de detenernos. Esto nos ayuda a recordar que hay un momento para todo. Así, podemos disfrutar de la tecnología al mismo tiempo que hacemos otras cosas divertidas. ¡Es un plan brillante!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Tú eres muy inteligente y capaz de seguir este plan! Recuerda que siempre puedes pedir ayuda a un adulto si no estás seguro. Ellos están ahí para apoyarte y asegurarse de que te diviertas mientras aprendes. ¡Confío en ti! Sé que lo harás muy bien. Juntos, podemos hacer que cada día sea una aventura mágica."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos aprendido tanto sobre el tiempo de pantalla, la seguridad digital y los hábitos saludables, podemos compartirlo con nuestros amigos. Podemos enseñarles lo que sabemos para que ellos también puedan disfrutar de la tecnología de manera segura. Compartir lo que sabemos es como dar un pequeño regalo a nuestros amigos. ¿No es maravilloso aprender juntos?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer compartir este tiempo contigo, pequeño explorador. Juntos hemos descubierto muchas cosas sobre el uso saludable de la tecnología. Recuerda siempre ser seguro, equilibrado y disfrutar de cada momento. Espero que sigas explorando y aprendiendo nuevas cosas cada día. ¡Hasta pronto, querido amigo! Nos veremos en nuestra próxima aventura mágica."
+    }
+  ],
+  "title": "Historia de Screen Time de Luna"
+}

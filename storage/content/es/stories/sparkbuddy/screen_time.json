@@ -1,0 +1,98 @@
+{
+  "id": "spark_buddy_tiempo_de_pantalla_seguridad_digital_uso_de_tecnología_hábitos_saludables_de_pantalla_story",
+  "character": "Spark Buddy",
+  "topic": "tiempo de pantalla, seguridad digital, uso de tecnología, hábitos saludables de pantalla",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguito! Soy Spark Buddy, y estoy muy emocionado de hablar contigo hoy. Vamos a aprender sobre el tiempo de pantalla, cómo usar la tecnología de manera segura y formar hábitos saludables. ¿Estás listo para esta increíble aventura? Juntos, descubriremos cosas divertidas e importantes que te ayudarán a jugar y aprender de manera segura. ¡Empecemos, será muy divertido!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "El tiempo de pantalla es el tiempo que pasamos usando dispositivos como tabletas, teléfonos o computadoras. Estos dispositivos pueden ser muy divertidos, pero también es importante no usarlos demasiado. Cuando jugamos al aire libre o leemos un libro, también estamos aprendiendo y divirtiéndonos. ¿Sabías que el tiempo de pantalla debe ser limitado para que tengas tiempo para otras actividades? Así, tu día está lleno de cosas maravillosas y variadas."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de la seguridad digital. Esto significa estar seguro cuando usas internet y aplicaciones. Es importante no compartir información personal, como tu nombre completo o dónde vives. Siempre debes pedir ayuda a un adulto si no estás seguro de algo en línea. Recuerda, la seguridad es lo primero, y siempre es mejor estar con un adulto cuando usas la tecnología."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial aprendiendo sobre seguridad digital! Ahora, pensemos en hábitos saludables para usar la pantalla. Es bueno tomar descansos mientras usas un dispositivo. Por ejemplo, después de 20 minutos, puedes levantarte y estirar un poco. Esto ayuda a que tus ojos y tu mente descansen. ¡Vamos a intentarlo juntos! ¿Puedes levantarte y estirarte un poco ahora?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda lo que hablamos sobre tomar descansos. También es importante tener reglas sobre cuándo usar los dispositivos. Por ejemplo, tal vez solo uses la tableta después de hacer tu tarea o antes de la cena. Tener horarios ayuda a que no uses demasiado tiempo la pantalla. Así, siempre tendrás tiempo para jugar, aprender y descansar. ¡Qué buena idea!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de cómo elegir buenos programas y juegos. Los programas educativos y los juegos que te enseñan cosas nuevas son una gran opción. Pregunta a un adulto si no estás seguro de qué elegir. A veces, los programas también pueden enseñarte sobre letras, números o animales. ¡Aprender puede ser tan divertido como jugar!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas cuando hablamos de la seguridad en línea? Es como cuando miramos a ambos lados antes de cruzar la calle. Siempre debemos estar atentos y cuidadosos. ¿Y qué tal si jugamos a un juego donde adivinamos qué es seguro y qué no lo es? ¡Será como ser un detective digital!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estás aprendiendo mucho! Ahora, pensemos en cómo podemos hacer que el tiempo de pantalla sea más divertido y seguro. ¿Qué tal si lo compartes con tu familia? Puedes mostrarles un juego divertido o ver un programa juntos. Compartir el tiempo de pantalla hace que sea una experiencia más divertida y segura para todos. ¡Genial!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme qué te gusta hacer en tu tiempo de pantalla? ¿Prefieres ver dibujos animados o jugar juegos? Es interesante saber cómo todos usamos la tecnología de manera diferente. ¿Hay algo nuevo que quieras probar, como un juego educativo? ¡Estoy curioso por saber!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos hablado sobre seguridad y hábitos, pensemos en cómo podemos usar nuestro tiempo de pantalla para aprender. Hay aplicaciones que te enseñan a contar o a leer. También puedes aprender sobre animales o el espacio. ¡La tecnología puede llevarte a lugares increíbles! ¿No es maravilloso?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Recuerda siempre preguntar a un adulto antes de descargar algo nuevo. Ellos pueden ayudarte a decidir si es seguro y adecuado para ti. Juntos, pueden explorar nuevas aplicaciones y descubrir cosas interesantes. Es como tener un guía de confianza a tu lado. ¡Qué gran equipo hacen!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo de maravilla! Has aprendido mucho sobre cómo usar la tecnología de manera segura y saludable. Ahora sabes sobre el tiempo de pantalla y por qué es importante equilibrarlo con otras actividades. ¡Eres un experto en seguridad digital! Estoy muy orgulloso de ti."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas todas las cosas divertidas que puedes hacer sin una pantalla? Como jugar en el parque, pintar o hacer manualidades. Estos son momentos especiales que también hacen que tu día sea emocionante. ¿Cuál es tu actividad favorita sin pantalla? ¡Me encantaría saberlo!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido increíble hablar contigo sobre el tiempo de pantalla y la seguridad digital. Espero que hayas aprendido mucho y te hayas divertido. Recuerda siempre ser cuidadoso y disfrutar de todo tipo de actividades. ¡Nos vemos pronto para más aventuras! Cuídate mucho y sigue siendo tan curioso. ¡Adiós, amiguito!"
+    }
+  ],
+  "title": "Historia de Screen Time de Spark Buddy"
+}

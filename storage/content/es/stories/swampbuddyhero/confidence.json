@@ -1,0 +1,104 @@
+{
+  "id": "swamp_buddy_hero_confidence_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "confidence",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy tu Swamp Buddy Hero. Hoy vamos a emprender un viaje increíble sobre la confianza. ¿Estás listo para una aventura llena de diversión? Estoy muy curioso por saber más sobre ti. Vamos a descubrir juntos cómo ser más valientes y seguros. ¡Será emocionante!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confianza es como un superpoder que todos tenemos dentro. Nos ayuda a sentirnos fuertes y capaces de hacer cosas nuevas. Por ejemplo, cuando aprendes a montar en bicicleta, necesitas creer en ti mismo. ¿Alguna vez has sentido ese cosquilleo en el estómago al intentar algo nuevo? Eso es la confianza despertando. ¡Vamos a aprender más sobre cómo usarla!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para sentirnos seguros, a veces necesitamos practicar. Piensa en cuando aprendiste a atar tus zapatos. Al principio puede parecer difícil, pero con práctica se vuelve más fácil. Así es como crece la confianza. Cuanto más lo intentas, más fuerte se vuelve tu superpoder. ¿Por qué no intentamos juntos algo nuevo hoy?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Ahora vamos a imaginar que somos valientes exploradores en el bosque. Cierra los ojos un momento y piensa en algo que quieras intentar. Puede ser tan simple como saludar a un nuevo amigo. Recuerda, siempre puedes hacerlo. ¡Tú puedes, eres increíble!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora recuerda la vez que hiciste algo que te daba un poco de miedo. Tal vez fue subirte a un columpio alto o hablar en clase. ¿Recuerdas cómo te sentiste cuando lo lograste? Esa es la sensación de éxito. Te llena de alegría y te hace sentir en la cima del mundo. ¡Eso es confianza en acción!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Practiquemos juntos un ejercicio de confianza. Vamos a respirar profundamente tres veces. Inhala por la nariz, sostén un momento, y exhala por la boca. Uno, dos, tres. Esto nos ayuda a calmarnos y a sentirnos más seguros. ¿Te sientes más tranquilo ahora?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora que estamos tranquilos, pensemos en algo que queramos mejorar. Puede ser aprender a dibujar o a contar hasta diez en otro idioma. Cada pequeño paso que das te hace más fuerte y confiado. ¡Vamos, tú puedes lograrlo!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, la confianza también significa pedir ayuda cuando la necesitas. Como cuando no puedes alcanzar un juguete en lo alto de una estantería. Pedir ayuda está bien y muestra que eres valiente. Todos necesitamos un poco de ayuda de vez en cuando. ¡Es parte de ser un buen amigo!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabías que incluso los superhéroes como yo a veces sienten miedo? Pero lo que importa es que intentamos de todos modos. ¿Puedes pensar en un momento en que fuiste valiente? ¿Cómo te sentiste después? ¡Me encantaría escuchar tu historia!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Gracias por compartir tu historia. Es inspirador saber lo valiente que eres. Ahora que hemos hablado sobre la confianza, piensa en cómo puedes usarla todos los días. Tal vez puedas ayudar a un amigo que se siente tímido o probar algo nuevo en el parque. ¿No sería genial?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda, la confianza es como una semilla que crece poco a poco. Cada vez que haces algo que te da un poco de miedo, esa semilla se hace más grande. Y pronto, tendrás un árbol gigante de confianza. ¡Eso suena maravilloso, ¿verdad?!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, pensemos en una forma divertida de practicar la confianza. ¿Qué tal si hacemos una pequeña danza de la confianza? Puedes mover los brazos como si fueran alas de un gran pájaro. ¡Muévete como quieras! La confianza también es sentirse bien siendo uno mismo."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Mira cómo te mueves! Eres increíblemente valiente. Cada paso que das te acerca a ser más seguro. Recuerda que no importa cuán pequeño sea el paso, siempre es importante. ¡Sigue así, lo estás haciendo genial!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hemos aprendido mucho sobre la confianza hoy. Sabemos que es importante intentarlo, practicar y pedir ayuda cuando la necesitamos. Cada uno de nosotros tiene un héroe valiente dentro. Solo necesitamos dejarlo brillar. ¡Nunca olvides lo especial que eres!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un gran día de aventuras contigo. Espero que te sientas más seguro y feliz. Recuerda que siempre puedes contar conmigo, tu Swamp Buddy Hero. ¡Hasta la próxima, pequeño valiente! ¡Sigue brillando y siendo increíble!"
+    }
+  ],
+  "title": "Historia de Confidence de Swamp Buddy Hero"
+}

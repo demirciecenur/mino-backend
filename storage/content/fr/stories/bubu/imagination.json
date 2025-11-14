@@ -1,0 +1,98 @@
+{
+  "id": "bubu_imagination_story",
+  "character": "Bubu",
+  "topic": "imagination",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Bubu. Aujourd'hui, nous allons partir pour un voyage incroyable dans le monde de l'imagination. Es-tu prêt ? Je suis si curieux de découvrir tout ce que ton imagination peut créer. C'est comme un grand livre rempli d'histoires magiques que nous allons explorer ensemble. Je suis sûr que nous allons nous amuser beaucoup !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est quelque chose de vraiment spécial. C'est comme avoir une baguette magique dans ta tête qui peut transformer n'importe quoi en une aventure fantastique. Par exemple, une simple boîte en carton peut devenir un château ou un vaisseau spatial. As-tu déjà imaginé être un pirate sur un bateau ou un astronaute dans l'espace ? C'est tellement amusant de penser à tout ce que l'on peut être !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons quelque chose ensemble. Ferme les yeux et imagine que tu es sur une plage. Sens-tu le sable chaud sous tes pieds ? Écoute le bruit des vagues qui viennent s'échouer doucement. Imagine le soleil qui brille et les oiseaux qui chantent au loin. C'est incroyable tout ce que notre esprit peut créer, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail formidable avec ton imagination ! N'est-ce pas merveilleux de pouvoir voyager sans même bouger ? Continue à rêver et à explorer. Tu peux être n'importe qui et aller n'importe où. Rappelle-toi, ton imagination n'a pas de limites. C'est comme une grande aventure qui ne finit jamais."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, imaginer peut aussi nous aider à comprendre nos émotions. As-tu déjà ressenti de la tristesse et imaginé un endroit heureux pour te sentir mieux ? C'est comme créer un refuge doux et apaisant dans notre esprit. Tu peux imaginer une forêt enchantée ou un nuage doux où tu te sens en sécurité et heureux. C'est une belle façon de se réconforter."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quelle est la dernière chose merveilleuse que tu as imaginée ? Était-ce un dragon qui vole dans le ciel ou peut-être un gâteau géant que tu pouvais manger ? J'aimerais beaucoup savoir ce que ton imagination a créé. Il y a tellement de possibilités et chaque idée est unique et spéciale. Que penses-tu imaginer la prochaine fois ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons maintenant un petit exercice d'imagination. Imagine que nous sommes tous deux des explorateurs dans une jungle mystérieuse. Que vois-tu autour de toi ? Peut-être des arbres géants ou des animaux curieux. Écoute les bruits de la jungle, comme les chants des oiseaux et le souffle du vent à travers les feuilles. Cet endroit est rempli de merveilles à découvrir."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "C'est fantastique ! Tu es un excellent explorateur. N'oublie jamais que ton imagination est un outil puissant. Elle peut te transporter dans des mondes que personne d'autre ne peut voir. Continue à l'utiliser tous les jours, que ce soit pour jouer, apprendre ou simplement rêver. Tu es capable de tant de belles choses avec ton esprit créatif."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est aussi un moyen de créer des histoires. As-tu déjà inventé une histoire avec tes jouets ? Peut-être que tes peluches ont vécu une aventure incroyable ensemble. Les histoires que nous créons sont comme des trésors précieux. Elles nous permettent de partager nos rêves et nos idées avec les autres. C'est une belle façon de se connecter avec le monde."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelle-toi de notre voyage sur la plage et dans la jungle. Ces aventures ne sont que le début de tout ce que nous pouvons imaginer. La prochaine fois que tu joues, essaie de créer un nouveau monde avec tes propres règles. Peut-être un royaume sous-marin ou une ville dans les nuages. Quelles aventures aimerais-tu vivre ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Je suis curieux d'entendre tes idées. Qu'est-ce qui te fait sourire quand tu imagines ? Peut-être un animal magique ou un endroit secret que toi seul connais. Chaque pensée que tu as est précieuse et unique. Partager ces idées peut être amusant et inspirant. J'aimerais beaucoup en savoir plus sur ce que tu as imaginé."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Prenons un moment pour respirer ensemble et réfléchir. Inspire profondément, puis expire lentement. Imagine que chaque souffle te remplit de nouvelles idées. C'est comme une danse douce qui te permet de te détendre et de rêver. En prenant le temps de respirer, nous ouvrons notre esprit à encore plus de possibilités."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as fait un travail incroyable aujourd'hui en utilisant ton imagination. Tu as exploré, rêvé et partagé tes idées avec moi. Continue à nourrir cette belle partie de toi. Chaque jour est une nouvelle chance de créer quelque chose de magique. Souviens-toi que tu es capable de tout avec un peu d'imagination."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce moment avec moi, petit ami. J'ai adoré explorer le monde de l'imagination à tes côtés. N'oublie jamais que ta créativité est une force incroyable. Je suis toujours là pour t'aider à explorer davantage. À bientôt pour de nouvelles aventures !"
+    }
+  ],
+  "title": "Histoire de Imagination de Bubu"
+}

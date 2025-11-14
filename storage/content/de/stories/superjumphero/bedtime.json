@@ -1,0 +1,104 @@
+{
+  "id": "super_jump_hero_bedtime_story",
+  "character": "Super Jump Hero",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Super Jump Hero, und heute gehen wir auf ein wunderbares Abenteuer, um das Thema Schlafenszeit zu entdecken. Bist du bereit für eine spannende Reise? Wir werden gemeinsam über Abendrituale sprechen, die dir helfen, dich auf einen erholsamen Schlaf vorzubereiten. Ich bin so neugierig auf dich und deine Abendgewohnheiten. Lass uns gemeinsam herausfinden, wie wir die Schlafenszeit zu einem schönen Erlebnis machen können!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wichtig es ist, sich vor dem Schlafengehen zu entspannen? Heute werden wir darüber sprechen, wie man sich gut auf das Bett vorbereitet. Zuerst ist es wichtig, einen festen Ablauf zu haben, damit dein Körper weiß, dass es bald Zeit ist, ins Bett zu gehen. Ein schönes Ritual könnte sein, ein Buch zu lesen oder leise Musik zu hören. So kannst du dich langsam beruhigen und auf die Nacht vorbereiten."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns darüber sprechen, wie wir uns bettfertig machen. Es ist wichtig, dass wir unsere Zähne putzen, bevor wir ins Bett gehen. Stell dir vor, du bist ein Superheld und deine Zahnbürste ist dein Zauberstab, der alle Bakterien vertreibt! Zähle bis zehn, während du jeden Zahn putzt, damit sie schön sauber werden. Danach kannst du dein Gesicht waschen, um dich frisch zu fühlen. Ist das nicht eine tolle Art, den Tag zu beenden?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Du bist wirklich ein Superheld, wenn es darum geht, dich auf die Schlafenszeit vorzubereiten. Jetzt, wo wir sauber und frisch sind, können wir unser gemütliches Bett aufsuchen. Denk daran, dass dein Bett ein magischer Ort ist, wo du von tollen Abenteuern träumen kannst. Es ist der perfekte Ort, um sich zu entspannen und neue Energie zu tanken. Bist du bereit, in die Traumwelt einzutauchen?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über Rituale gesprochen haben, lass uns überlegen, wie wir unseren Körper entspannen können. Tiefes Atmen kann Wunder wirken! Lass uns zusammen drei tiefe Atemzüge nehmen. Einatmen durch die Nase und langsam ausatmen durch den Mund. Fühlst du, wie sich dein Körper entspannt? Das ist eine tolle Übung, die du jeden Abend machen kannst, um dich auf den Schlaf vorzubereiten."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns nun darüber nachdenken, wie wir unseren Geist beruhigen können. Eine Möglichkeit, dies zu tun, ist, sich eine schöne Geschichte auszudenken. Vielleicht kannst du dir vorstellen, dass du ein Held in deinem eigenen Abenteuer bist! Du kannst dir ausmalen, wie du durch magische Wälder wanderst und neue Freunde triffst. Solche Gedanken helfen dir, dich glücklich und entspannt zu fühlen, bevor du einschläfst."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das fantastisch! Erinnerst du dich an die schönen Geschichten, die du dir ausgedacht hast? Diese Geschichten sind wie kleine Schätze, die dich in den Schlaf begleiten. Wenn du dich auf positive Gedanken konzentrierst, kannst du sicher sein, dass du von wundervollen Dingen träumst. Du bist wirklich ein Meister darin, deine Schlafenszeit zu einem magischen Erlebnis zu machen!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal darüber nachgedacht, wie wichtig ein Kuscheltier sein kann? Hast du eines, das du besonders magst? Kuscheltiere können uns ein Gefühl von Geborgenheit und Sicherheit geben. Sie sind wie kleine Freunde, die uns durch die Nacht begleiten. Hast du ein Lieblingskuscheltier, das du immer mit ins Bett nimmst?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über Kuscheltiere gesprochen haben, lass uns darüber nachdenken, wie wir unsere Umgebung vorbereiten können. Ein abgedunkeltes Zimmer hilft uns, besser zu schlafen. Vielleicht magst du ein kleines Nachtlicht, das dir ein Gefühl von Sicherheit gibt. Auch leise, beruhigende Geräusche können helfen, sich zu entspannen. All diese kleinen Dinge tragen dazu bei, dass du dich wohlfühlst und gut schlafen kannst."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns nun über die Bedeutung des Gutenachtkusses sprechen. Ein Kuss von Mama oder Papa kann ein wunderschöner Abschluss des Tages sein. Es zeigt dir, dass du geliebt wirst und sicher bist. Vielleicht kannst du auch ein kleines Ritual daraus machen, indem du deinen Eltern einen Kuss gibst und ihnen eine gute Nacht wünschst. Solche liebevollen Gesten machen die Schlafenszeit noch schöner."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich ein Schlafenszeit-Superheld! Du hast so viele tolle Dinge gelernt, um dich auf die Nacht vorzubereiten. Jetzt ist es an der Zeit, all diese Tipps in die Tat umzusetzen. Du kannst stolz auf dich sein, denn du machst das großartig! Ich bin sicher, dass du wunderbar schlafen wirst und von den schönsten Abenteuern träumen wirst."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kannst du dich erinnern, wann du das letzte Mal einen besonders schönen Traum hattest? Vielleicht war es ein Traum von einem Abenteuer oder einem lustigen Spiel mit deinen Freunden. Träume sind wie kleine Filme, die uns in andere Welten entführen. Was war dein schönster Traum, den du je hattest?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über Träume gesprochen haben, lass uns überlegen, wie wir uns auf den nächsten Tag freuen können. Es ist schön, sich vor dem Schlafengehen auf etwas zu freuen, das am nächsten Tag passiert. Vielleicht ein Besuch bei einem Freund oder ein besonderes Spiel, das du spielen möchtest. Solche Gedanken helfen uns, mit einem Lächeln einzuschlafen und voller Vorfreude aufzuwachen."
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bevor wir uns verabschieden, lass uns noch einmal tief durchatmen. Atme tief ein durch die Nase und langsam aus durch den Mund. Fühlst du, wie sich dein Körper entspannt und bereit für den Schlaf ist? Diese Atemübung kannst du immer machen, wenn du dich beruhigen möchtest. Es war eine wunderbare Reise, die wir zusammen gemacht haben, um die Schlafenszeit zu erkunden."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Nun, mein kleiner Freund, es ist Zeit für mich zu gehen. Ich hoffe, du hast viel Spaß gehabt und einiges gelernt über die Schlafenszeit. Denk daran, dass du ein Superheld bist, der jede Nacht in die Traumwelt reisen kann. Ich wünsche dir die schönsten Träume und eine ruhige Nacht. Bis bald und gute Nacht!"
+    }
+  ],
+  "title": "Super Jump Heros Bedtime Geschichte"
+}

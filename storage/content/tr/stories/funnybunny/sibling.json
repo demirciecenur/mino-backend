@@ -1,0 +1,104 @@
+{
+  "id": "funny_bunny_sibling_story",
+  "character": "Funny Bunny",
+  "topic": "sibling",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Funny Bunny. Bugün birlikte kardeşlik hakkında harika bir yolculuğa çıkacağız. Kardeşlerinle birlikte zaman geçirmenin ne kadar eğlenceli olduğunu keşfedeceğiz. Hazır mısın? Seni çok merak ediyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşler bazen en iyi arkadaşlarımız olabilir, değil mi? Onlarla birlikte oyun oynamak, yeni şeyler keşfetmek çok eğlencelidir. Kardeşinle beraber oynadığınız bir oyunu hatırlıyor musun? İşte bu, kardeşlerinle olan bağını güçlendirir. Kardeşlik, paylaşmak ve birbirini anlamak demektir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi kardeşinle nasıl daha iyi anlaşabileceğini konuşalım. Öncelikle, onunla konuşurken dikkatlice dinlemek çok önemlidir. Birlikte oynarken sırayla oynamayı denemelisin. Bu, birbirinize olan sevginizi göstermek için harika bir yoldur. Ayrıca, kardeşine yardım etmeyi unutma. Küçük şeylerle bile olsa, bu onu mutlu eder."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kardeşinle güzel anılar biriktirmek çok önemlidir. Beraber resim yapmak, hikayeler uydurmak ya da oyuncaklarınızı paylaşmak gibi. Bunları yaparken eğlenmek için birçok fırsat bulabilirsin. Harika bir iş çıkarıyorsun! Devam et, sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşler arasında bazen küçük tartışmalar olabilir. Ama merak etme, bu çok normaldir. Önemli olan, bu tartışmaları nasıl çözdüğündür. Birlikte konuşup sorunları çözmek, kardeşliğinizi daha da güçlendirir. Kardeşinle nasıl barıştığını hatırlıyor musun?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hadi şimdi bir düşünelim, kardeşinle en son ne zaman güzel bir anı yaşadın? Belki birlikte bir parkta oynadınız ya da bir hikaye kitabı okudunuz. Bunlar, kardeşlerinle olan bağını güçlendiren anılardır. Onları hatırlamak seni mutlu eder. Sen de böyle anılar biriktirmeye devam et!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle en sevdiğin oyun nedir? Belki saklambaç ya da lego oynamak. Hangisi olursa olsun, önemli olan birlikte eğlenmenizdir. Şimdi bir düşün, hangi oyunu oynamak istersin? Cevabını duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerle zaman geçirmek, birbirinizin yanında olduğunuzu hissettirir. Onlarla güldüğün, oyun oynadığın her an çok kıymetlidir. Kardeşinle paylaştığın bir anıyı hatırladığında, bu seni mutlu eder. Unutma, kardeşlerimiz bizim en değerli hazinelerimizdir. Onlara iyi davranmak her zaman önemlidir."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Birlikte bir şeyler yapmanın ne kadar eğlenceli olduğunu gördün mü? Şimdi sen de kardeşinle yeni bir oyun keşfetmek ister misin? Belki yeni bir hikaye uydurabilir ya da birlikte bir resim çizebilirsiniz. Hadi, seninle neler yapabileceğinizi düşünelim. Çok eğlenceli olacak, eminim!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Gelin şimdi hep birlikte nefes alıp verelim. Derin bir nefes al ve yavaşça bırak. Bu, seni sakinleştirir ve mutlu hissettirir. Kardeşinle birlikte bu egzersizi yapmayı deneyebilirsin. Birlikte nefes alıp vermek, aranızdaki bağı güçlendirir. Hadi, şimdi dene!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Kardeşinle birlikte zaman geçirmek çok özel bir şeydir. Onunla bir şeyler paylaşmak, birlikte gülmek ve eğlenmek seni mutlu eder. Unutma, sen harika bir kardeşsin. Bunu sakın unutma ve her zaman kardeşine iyi davran!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlik, bazen küçük şeyleri bile paylaşmak demektir. Sevdiğin bir oyuncağı ya da tatlı bir atıştırmalığı paylaşmak, kardeşinle olan bağını güçlendirir. Kardeşinle paylaşmayı sevdiğin bir şey var mı? Bu küçük şeyler, büyük mutluluklar getirir. Haydi, birlikte paylaşmayı deneyelim!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle en sevdiğin anıyı benimle paylaşmak ister misin? Belki birlikte bir doğum günü kutladınız ya da bir oyunu kazandınız. Bu anılar, kardeşinle olan bağını daha da güçlendirir. Seni dinlemek için buradayım. Ne zaman istersen paylaşabilirsin!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Kardeşinle olan bu güzel anıları hatırlamak çok keyifli, değil mi? Şimdi, bir sonraki maceranızı düşünelim. Belki yeni bir oyun keşfedeceksiniz ya da birlikte bir hikaye yazacaksınız. Kardeşinle yapabileceğin harika şeyler var. Hadi, biraz hayal kuralım!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün kardeşlik hakkında çok güzel şeyler öğrendik. Kardeşinle olan bağını güçlendirmek için yapabileceğin birçok şey var. Unutma, kardeşin senin en iyi arkadaşın olabilir. Onunla geçirdiğin her an çok değerlidir. Şimdi veda etme zamanı geldi. Bir dahaki sefere görüşmek üzere, küçük dostum!"
+    }
+  ],
+  "title": "Funny Bunny'ın Sibling Hikayesi"
+}

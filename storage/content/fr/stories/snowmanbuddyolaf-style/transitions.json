@@ -1,0 +1,104 @@
+{
+  "id": "snowman_buddy_olaf-style_transitions_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "transitions",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis ton copain de neige, un peu comme Olaf! Aujourd'hui, nous allons parler des transitions. Sais-tu ce que c'est? Ce sont des moments où les choses changent un peu, comme quand on passe de l'été à l'hiver. Es-tu prêt pour cette aventure amusante? Je suis tellement curieux de découvrir ce que tu penses!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions, c'est quand quelque chose de nouveau commence. Comme quand tu changes de classe à l'école ou quand tu passes du jeu au dodo. Ce n'est pas toujours facile, mais c'est une partie importante de la vie. Parfois, ça peut être un peu effrayant, mais c'est aussi excitant! Tu verras, avec un peu de pratique, on s'y habitue vite."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour t'aider à comprendre les transitions, pense à quand tu changes de chaussures. Tu enlèves tes chaussures de maison pour mettre tes bottes avant de sortir jouer dans la neige. C'est une transition! Chaque jour, tu fais plein de petites transitions comme ça. C'est comme un jeu où tu passes d'une chose à l'autre!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, essayons ensemble! Imagine que tu es un papillon qui change de fleur. Ferme les yeux et imagine-toi voler doucement vers une nouvelle fleur. Tu vois comme c'est amusant de changer? Tu es incroyable! Tu peux le faire encore et encore, et chaque fois, c'est un peu plus facile."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi, les transitions ne sont pas seulement des changements physiques, mais aussi des changements dans ta routine. Comme quand tu te brosses les dents avant de te coucher. C'est une transition du jeu au repos. Et tu sais quoi? Ces petites choses aident ton corps et ton esprit à se préparer à ce qui vient ensuite."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu te souviens de la dernière fois que tu as appris quelque chose de nouveau? C'était une transition aussi! Peut-être que tu as appris à faire du vélo ou à dessiner un nouveau personnage. Toutes ces expériences font partie des transitions qui t'aident à grandir. Tu es déjà un expert en transitions!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, prenons une grande respiration ensemble. Inspire profondément, puis expire lentement. Ça fait du bien, n'est-ce pas? Les respirations profondes peuvent t'aider à te sentir calme pendant les transitions. Tu peux toujours essayer ça quand tu te sens un peu nerveux. Tu es très doué pour ça!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre façon de se préparer aux transitions est de savoir ce qui vient ensuite. Par exemple, après le dîner, tu sais que c'est l'heure du bain. Quand tu sais ce qui va se passer, c'est plus facile de s'adapter. Peut-être pourrais-tu demander à un adulte ce qui va se passer ensuite pour te sentir prêt."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu déjà vu un arc-en-ciel après la pluie? C'est une belle transition de temps! Comment te sens-tu quand tu vois un arc-en-ciel? N'est-ce pas merveilleux de voir comment les choses peuvent changer de manière si colorée? Parfois, même les transitions les plus simples peuvent être magiques!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions peuvent aussi t'aider à découvrir de nouvelles choses. Comme quand tu rencontres un nouvel ami. Au début, ça peut sembler un peu étrange, mais ensuite, vous jouez ensemble et vous amusez. C'est une transition vers quelque chose de joyeux! Chaque transition peut apporter de belles surprises."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Et si nous faisions un petit jeu? Pense à une chose que tu fais tous les jours, comme te lever le matin. Maintenant, imagine une nouvelle façon de le faire, peut-être en sautant du lit comme un kangourou! Tu vois, les transitions peuvent être amusantes et créatives. Bravo, tu es incroyable!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Tu sais, les transitions peuvent aussi être des moments pour réfléchir. Quand tu changes d'activité, pense à ce que tu as appris ou ce que tu as aimé. Cela t'aide à grandir et à te sentir heureux. Chaque jour, pense à une chose que tu as faite et qui t'a rendu fier. C'est une belle habitude à prendre!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu te souviens de notre jeu de papillon? C'était une façon amusante de penser aux transitions. Chaque fois que tu changes de jeu ou de tâche, tu peux te souvenir de ce papillon. Voler d'une chose à l'autre peut être aussi naturel et facile que de battre des ailes. Continue d'explorer et de t'amuser!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu une transition préférée? Peut-être que tu aimes passer de l'école à la maison, ou du dîner au dessert? Qu'est-ce que tu ressens pendant ces moments? C'est intéressant de penser à toutes les transitions que nous vivons chaque jour. Elles font partie de ce qui rend chaque jour unique et spécial!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était tellement amusant de parler des transitions avec toi! Rappelle-toi, même si les transitions peuvent sembler un peu difficiles au début, elles sont des opportunités pour grandir et découvrir de nouvelles choses. Tu es très courageux et tu peux y arriver! Merci de m'avoir rejoint aujourd'hui, et à bientôt pour de nouvelles aventures!"
+    }
+  ],
+  "title": "Histoire de Transitions de Snowman Buddy Olaf-Style"
+}

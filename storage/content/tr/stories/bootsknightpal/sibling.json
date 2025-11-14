@@ -1,0 +1,98 @@
+{
+  "id": "boots_knight_pal_sibling_story",
+  "character": "Boots Knight Pal",
+  "topic": "sibling",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Boots Knight Pal. Bugün birlikte kardeşlik dünyasında harika bir maceraya çıkacağız. Kardeşlerinle olan ilişkilerini nasıl daha eğlenceli hale getirebileceğimizi keşfedeceğiz. Hazır mısın? Seni çok merak ediyorum."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşler, hayatımızda her zaman yanımızda olan özel insanlardır. Onlarla oyunlar oynar, sırlarımızı paylaşır ve bazen de küçük tartışmalar yaşarız. Ama unutma, kardeşlerinle olan bağın çok değerlidir. Çünkü onlar senin en yakın arkadaşların olabilir. Şimdi, onlarla nasıl daha iyi anlaşabileceğimizi konuşalım."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşlerinle iyi anlaşmak için onlara karşı nazik ve saygılı olmalısın. Örneğin, oyuncaklarını paylaşmak ve sırayla oynamak büyük bir fark yaratabilir. Bu, hem eğlenceli vakit geçirmenizi sağlar hem de aranızdaki bağı güçlendirir. Ayrıca, onlarla empati kurarak duygularını anlamaya çalışmalısın. Bu şekilde, birbirinizi daha iyi anlayabilirsiniz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım! Kardeşinle otur ve sırayla en sevdiğiniz oyuncakları gösterin. Bu oyun, hem birbirinizi daha iyi tanımanıza hem de eğlenmenize yardımcı olur. Harika bir fikir, değil mi? Hadi, bunu denemekten çekinme!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki oyunda ne kadar eğlendiğinizi tahmin edebiliyorum! Kardeşler arasında paylaşım sadece oyuncaklarla sınırlı değil. Duygularınızı ve düşüncelerinizi de paylaşabilirsiniz. Mesela, günün nasıl geçtiğini ya da en sevdiğiniz anı anlatabilirsiniz. Bu şekilde, birbirinizi daha iyi anlamanız kolaylaşır."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşinle iyi zaman geçirmek için birlikte yeni şeyler öğrenebilirsiniz. Örneğin, birlikte bir resim yapabilir ya da yeni bir hikaye kitabı okuyabilirsiniz. Bu aktiviteler, hem eğitici hem de eğlencelidir. Ayrıca, birlikte geçirdiğiniz zamanın kalitesini artırır. Unutma, birlikte öğrenmek çok keyifli olabilir!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Kardeşinle en çok hangi oyunları oynamaktan hoşlanıyorsun? Belki saklambaç ya da legolarla oynamak olabilir. Düşün ve bana söyle! Merakla cevabını bekliyorum."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Harika bir oyun seçtin! Kardeşinle oynadığın bu oyunlar, aranızdaki bağı güçlendirir. Her oyun, size yeni bir şey öğretir ve birlikte eğlenmenizi sağlar. Oyun oynarken paylaşmayı ve sırayla oynamayı unutma. Bu, hem senin hem de kardeşinin daha fazla eğlenmesine yardımcı olur."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kardeşlerinle olan ilişkini daha da güçlendirmek için küçük sürprizler yapabilirsin. Mesela, ona sevdiği bir resmi çizebilir ya da en sevdiği hikayeyi okuyabilirsin. Bu tür jestler, ona ne kadar değer verdiğini gösterir. Hadi, bu fikri denemek ister misin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlik ilişkisi bazen zorlayıcı olabilir, ama bu ilişkideki sevgi her zaman galip gelir. Küçük anlaşmazlıklar yaşadığınızda, unutmamalısın ki bu normaldir. Önemli olan, bu tür durumlarda nasıl davrandığındır. Birbirinizle konuşarak sorunları çözebilirsiniz. Böylece, aranızdaki sevgi ve dostluk daha da güçlenir."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşlerinle daha iyi anlaşmak için her gün biraz zaman ayırabilirsin. Birlikte bir şeyler yapmak, aranızdaki bağı güçlendirecektir. Mesela, birlikte bir bulmaca çözebilir ya da yemek yapmaya yardım edebilirsin. Bu tür aktiviteler, hem eğlenceli hem de öğreticidir. Ayrıca, birbirinizi daha iyi tanımanıza yardımcı olur."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle birlikte en son ne zaman güzel bir anı paylaştınız? Belki birlikte bir çizgi film izlediniz ya da parkta oynadınız. Bu tür anılar, kardeşlik bağınızı güçlendirir. Düşün ve bana o güzel anıyı anlat. Merakla dinliyorum!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ne kadar güzel bir anı! Kardeşlerle paylaşılan anılar, hayatımız boyunca yanımızda taşıyacağımız değerli hazine gibidir. Bu anılar, her zaman gülümsememize ve mutlu olmamıza yardımcı olur. Unutma, her gün yeni bir anı yaratma fırsatın var. Bu yüzden, kardeşinle geçirdiğin her anın tadını çıkar."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün seninle kardeşlik üzerine harika bir yolculuk yaptık. Umarım öğrendiklerin, kardeşinle olan ilişkini daha da güçlendirir. Unutma, kardeşlerinle olan bağın çok özel ve değerlidir. Onlarla her anın tadını çıkar ve onlara sevgiyle yaklaş. Şimdi, hoşça kal ve bir sonraki macerada görüşmek üzere!"
+    }
+  ],
+  "title": "Boots Knight Pal'ın Sibling Hikayesi"
+}

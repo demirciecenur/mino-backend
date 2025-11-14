@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_nutrition_story",
+  "character": "Bubble Buddy",
+  "topic": "nutrition",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little ocean explorers! I'm Bubble Buddy, your bubbly pal from under the sea. Today, we're going to dive into the world of nutrition! Imagine all the yummy and healthy foods we can discover together. Are you excited to learn how these foods help us grow big and strong? Let's get ready for an underwater adventure full of fun and learning!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's start by talking about what nutrition means. Nutrition is all about the food we eat and how it helps our bodies. Just like how a car needs fuel to go, our bodies need food to have energy! Did you know that different foods do different things for us? Some make our muscles strong, while others help our brains think better. Isn't that amazing?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's think about some foods that we eat every day. Fruits and vegetables are like the colorful gems of the food world. They are packed with vitamins that keep us healthy. Have you ever tried a crunchy carrot or a juicy apple? These foods give us the power to run, jump, and play all day long. Remember, eating a rainbow of colors is a fun way to get all the good stuff we need."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about fruits and veggies! Now, let's talk about grains like bread, rice, and pasta. These foods are like the energy boosters for our bodies. When you eat a bowl of cereal, it's like giving your body a big hug of energy! So, the next time you have breakfast, think about how you're fueling up for a day full of adventures."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about energy? Proteins are another important part of our meals. Foods like chicken, beans, and eggs help build strong muscles. It's like giving your body building blocks to grow! When you play tag or swim in the pool, proteins help you move faster and stronger. Isn't it cool how food helps us do all these amazing things?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's not forget about dairy foods like milk, cheese, and yogurt. They are super important for our bones. Imagine your bones are like the frame of a house, keeping everything in place. Dairy foods give them the strength they need to hold you up! So, when you drink a glass of milk, you're helping your bones become as strong as a superhero's!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're doing an amazing job learning about nutrition. Now, let's count to three and take a deep breath together. One, two, three, breathe in... and out. Great! Breathing helps us relax and get ready for more fun learning. Are you ready to discover more about healthy eating?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's talk about fats and oils. They're like the helpers that keep everything running smoothly. Foods like avocados and nuts have healthy fats that are good for our hearts. But remember, too much of anything isn't good, so we enjoy them in small amounts. It's all about balance, just like when you balance on one foot. Can you try balancing now?"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "You did great with balancing! Now let's think about snacks. Healthy snacks like a banana or a handful of almonds are like little energy packets. They keep us going between meals. Imagine you're on a treasure hunt, and these snacks are the treasures that keep you energized. Can you think of your favorite healthy snack?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue with water, our body's best friend. Water keeps us hydrated and helps everything inside us work well. It's like the ocean that keeps all the sea creatures happy and healthy. When you drink water, it's like giving your body a refreshing splash! How about we take a sip of water together now?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's put everything we've learned together. A balanced meal has a little bit of everything: fruits, veggies, grains, proteins, dairy, and healthy fats. It's like a colorful puzzle where each piece fits perfectly. When we eat balanced meals, our bodies feel happy and full of energy. Isn't it wonderful how food can do so much for us?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a fantastic job learning about nutrition! Let's give ourselves a big round of applause. Clap your hands, just like you're clapping for your favorite show! Remember, every time you choose a healthy meal, you're making your body stronger and happier. Keep up the great work, little adventurer!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I have a question for you. Can you think of a new food you'd like to try? Maybe a fruit or vegetable you've never tasted before? Trying new foods is like going on a taste adventure. It's exciting and fun! What new food will you discover on your next adventure?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we finish our journey today, remember that eating healthy is a wonderful way to take care of ourselves. Just like how we care for our toys and keep them clean, we take care of our bodies by eating good food. Every meal is a chance to make our bodies happy and full of energy. Are you ready to make healthy choices every day?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this fun adventure about nutrition, little friend! Remember, every time you eat, you're giving your body the power it needs to play, learn, and explore. Keep being curious and trying new things. Until next time, keep shining bright and stay bubbly! Bye-bye, ocean explorer!"
+    }
+  ],
+  "title": "Bubble Buddy's Nutrition Story"
+}

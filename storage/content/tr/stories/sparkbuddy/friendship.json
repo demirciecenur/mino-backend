@@ -1,0 +1,104 @@
+{
+  "id": "spark_buddy_friendship_story",
+  "character": "Spark Buddy",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostlarım! Ben Spark Buddy, her zaman enerjik ve neşeliyim. Bugün sizlerle arkadaşlık dünyasında harika bir yolculuğa çıkacağız. Arkadaş edinmek ve onlarla güzel vakit geçirmek ne kadar keyiflidir, değil mi? Peki, siz de böyle bir macera için hazır mısınız? Hadi, hep birlikte bu eğlenceli yolculuğa başlayalım ve arkadaşlığın ne kadar değerli olduğunu keşfedelim!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda arkadaşlığın ne kadar güzel olduğunu söylemiştim. Şimdi, arkadaşlığın ne anlama geldiğini biraz daha açalım. Arkadaşlık, birlikte oyunlar oynayıp güldüğümüz, bazen de dertlerimizi paylaştığımız özel bir bağdır. Düşünsene, en sevdiğin oyuncaklarınla oynarken yanında bir arkadaşın olması ne kadar eğlenceli olurdu! Arkadaşlar, birlikte vakit geçirirken birbirimize destek olur ve daha mutlu oluruz. Şimdi, arkadaş edinmenin yollarını öğrenmeye başlayalım."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaş edinmenin en güzel yollarından biri, gülümsemektir. Gülümsemek, karşımızdaki kişiye sıcak bir selam göndermenin harika bir yoludur. Ayrıca, 'Merhaba' demek de harika bir başlangıçtır. Unutma, her zaman nazik olmalı ve karşındakine saygı göstermelisin. Birlikte oyun oynamayı teklif etmek de arkadaş edinmenin harika bir yoludur. Şimdi, bu yöntemleri kullanarak nasıl arkadaş edinebileceğimizi hayal edelim."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika işler çıkarıyorsunuz! Şimdi, hep birlikte bir arkadaşlık oyunu oynayalım. Oyunun adı 'Paylaş ve Öğren'. Bir oyuncak veya bir hikaye paylaşarak başlayabiliriz. Bu oyunda, her birimiz bir hikaye veya oyuncak hakkında konuşacağız ve diğerleri de dinleyecek. Böylece, birbirimizi daha iyi tanıyacak ve aramızdaki bağı güçlendireceğiz. Hadi, şimdi bu oyunu oynayarak arkadaşlık bağlarımızı güçlendirelim!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki oyunumuzda paylaşmanın önemini öğrendik. Şimdi, başka bir önemli arkadaşlık kuralına odaklanalım: Dinlemek. İyi bir arkadaş, karşısındaki kişiyi dikkatle dinler ve onu anlar. Arkadaşımızın anlattıklarına kulak vermek, ona değer verdiğimizi gösterir. Dinlemek, sadece konuşulanları duymak değil, aynı zamanda onları anlamaya çalışmaktır. Şimdi, dinlemenin arkadaşlıkta ne kadar önemli olduğunu hatırlayalım."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi bir soru sormak istiyorum. Sizce iyi bir arkadaş nasıl olmalı? Düşünceli mi, yardımsever mi yoksa eğlenceli mi? Belki de hepsi birden! İyi bir arkadaş olmanın birçok yolu vardır ve her biri çok değerlidir. Senin en iyi arkadaşın nasıl biri? Benimle paylaşmak ister misin? Seni dinlemek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık hakkında ne kadar çok şey öğrendik, değil mi? Şimdi, arkadaşlıkta güvenin önemine değinelim. Güven, bir arkadaşlık ilişkisinde en temel unsurlardan biridir. Birbirimize güvendiğimizde, daha rahat ve mutlu oluruz. Güven, karşılıklı saygı ve dürüstlükle gelişir. Arkadaşımıza verdiğimiz sözleri tutmak, güveni artırır. Şimdi, güvenin arkadaşlıkta nasıl bir rol oynadığını düşünelim."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Güvenin önemini anladığımıza göre, şimdi bunu nasıl geliştireceğimizi konuşalım. Öncelikle, verdiğimiz sözleri tutmak çok önemlidir. Eğer bir arkadaşımıza bir şey yapacağımıza söz verdiysek, bunu yapmalıyız. Ayrıca, sırları saklamak da güveni artırır. Bir arkadaşımız bize bir sırrını söylediğinde, bunu başkalarıyla paylaşmamalıyız. Şimdi, güveni nasıl geliştirebileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi, güven ve arkadaşlık hakkında öğrendiklerimizi pekiştirelim. Güven, arkadaşlık ilişkilerimizi daha sağlam hale getirir. Arkadaşlarımıza güvendiğimizde, onlarla daha rahat ve mutlu vakit geçiririz. Bu yüzden, her zaman birbirimize karşı dürüst ve saygılı olmalıyız. Unutma, güven dolu bir arkadaşlık, güçlü bir bağ oluşturur. Şimdi, öğrendiklerimizi uygulamaya koymaya hazır mısınız?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda güvenin öneminden bahsettik. Şimdi, arkadaşlıkta paylaşmanın ne kadar özel olduğunu konuşalım. Paylaşmak, arkadaşlık bağlarımızı güçlendirir ve birbirimize olan sevgimizi gösterir. Bir oyuncak ya da bir hikaye paylaşmak, arkadaşlarımızla daha yakın olmamızı sağlar. Paylaşmanın verdiği mutluluğu hepimiz biliriz, değil mi? Şimdi, paylaşmanın arkadaşlıkta nasıl bir rol oynadığını düşünelim."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Paylaşmanın önemini anladığımıza göre, şimdi bunu uygulamaya koyabiliriz. Bir arkadaşımızla bir şeyler paylaşmak, onunla aramızdaki bağı güçlendirir. Peki, en son ne zaman bir arkadaşınla bir şeyler paylaştın? Belki bir oyuncak, belki de bir hikaye. Paylaşmak, her zaman arkadaşlık ilişkilerimizi daha da güzelleştirir. Şimdi, paylaşmanın nasıl bir duygu olduğunu hatırlayalım."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi size bir soru daha sormak istiyorum. En sevdiğiniz arkadaşınızla en çok neyi paylaşmayı seversiniz? Belki bir oyuncak, belki de bir macera. Paylaşmak, arkadaşlığın en güzel yanlarından biridir. Siz de paylaşmanın getirdiği mutluluğu hissetmek ister misiniz? Hadi, sizin hikayelerinizi dinlemek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık hakkında ne kadar çok şey öğrendik! Şimdi, arkadaşlıkta eğlencenin önemine bakalım. Birlikte güldüğümüz, oyunlar oynadığımız anlar, arkadaşlarımızla geçirdiğimiz en özel zamanlardır. Eğlenceli vakit geçirmek, arkadaşlık bağlarımızı güçlendirir ve daha mutlu olmamızı sağlar. Bu yüzden, her zaman arkadaşlarımızla eğlenceli aktiviteler yapmalıyız. Şimdi, arkadaşlarımızla nasıl eğlenceli vakit geçirebileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Eğlenceli vakit geçirmek için birçok yol var! Birlikte oyunlar oynayabilir, şarkılar söyleyebilir ya da dans edebiliriz. Eğlence, arkadaşlık bağlarımızı güçlendirir ve bize mutluluk verir. Bu yüzden, her zaman arkadaşlarımızla eğlenceli aktiviteler yapmalıyız. Unutma, eğlenmek ve gülmek, arkadaşlık ilişkilerimizi daha da güzelleştirir. Şimdi, arkadaşlarımızla nasıl daha fazla eğlenebileceğimizi hayal edelim."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün arkadaşlık hakkında çok şey öğrendik, değil mi? Güven, paylaşmak ve eğlence, hepsi arkadaşlık ilişkilerimizi güçlendirir. Unutma, iyi bir arkadaş olmak için her zaman nazik, dürüst ve saygılı olmalıyız. Arkadaşlarımızla geçirdiğimiz her an çok kıymetli. Şimdi, öğrendiklerimizi arkadaşlarımızla paylaşmaya ne dersiniz? Hepinize harika arkadaşlıklar diliyorum! Görüşmek üzere, küçük dostlarım!"
+    }
+  ],
+  "title": "Spark Buddy'ın Friendship Hikayesi"
+}

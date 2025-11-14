@@ -1,0 +1,98 @@
+{
+  "id": "shell_heroes_crew_confidence_story",
+  "character": "Shell Heroes Crew",
+  "topic": "confidence",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy el Equipo de Héroes de la Concha. Hoy vamos a embarcarnos en una increíble aventura sobre la confianza. ¿Estás listo? Estoy tan emocionado de estar aquí contigo. Vamos a descubrir cómo ser valientes y seguros, ¡como verdaderos héroes!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confianza es como tener un superpoder. Nos ayuda a intentar cosas nuevas, como aprender a andar en bicicleta o cantar una canción. Cuando tienes confianza, te sientes fuerte y capaz. ¿Recuerdas la última vez que hiciste algo por primera vez? Esa sensación de logro es parte de la confianza. Ahora, vamos a aprender más sobre cómo construir esa confianza."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para construir confianza, es importante empezar con pequeños pasos. Imagina que estás aprendiendo a nadar. Primero, metes los pies en el agua. Luego, poco a poco, te vas acostumbrando al agua. Cada pequeño paso te hace sentir más seguro. ¿Ves cómo funciona? Ahora, intenta pensar en algo que te gustaría mejorar."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Tú puedes lograrlo! Recuerda que cada intento te hace más fuerte. Como cuando practicas dibujar un sol. Al principio, puede que no salga perfecto, pero cada dibujo te acerca más a tu meta. No te rindas, sigue intentándolo. Cada esfuerzo cuenta y es un paso hacia adelante."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, recordemos que todos podemos cometer errores, y eso está bien. Los errores nos enseñan y nos ayudan a crecer. Imagina que estás construyendo una torre de bloques. Si se cae, puedes volver a intentarlo y hacerla más fuerte. Así es como la confianza crece, aprendiendo de cada intento."
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué maravilloso es aprender juntos! La confianza también se fortalece cuando compartimos nuestras experiencias. Como cuando cuentas una historia divertida a un amigo. Compartir nos hace sentir valientes y nos ayuda a entender que no estamos solos. Sigue compartiendo tus experiencias, ¡es un buen camino para crecer!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer un pequeño ejercicio para sentirnos más seguros. Cierra los ojos y respira profundamente. Inhala por la nariz y exhala por la boca. Vamos a contar hasta tres mientras respiramos. Uno, dos, tres. Ahora abre los ojos. ¿No te sientes más tranquilo? Este es un gran truco para aumentar tu confianza."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confianza también viene de saber que podemos pedir ayuda cuando la necesitamos. Como cuando necesitas que alguien te dé un empujoncito en el columpio. Pedir ayuda es una señal de valentía y sabiduría. No tengas miedo de preguntar o pedir apoyo. Juntos, podemos hacer cosas increíbles."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estás haciendo un trabajo fantástico! Recuerda que cada día es una nueva oportunidad para crecer. Cada pequeño logro, como atarte los zapatos, suma a tu confianza. Celebra cada paso que das, por pequeño que sea. ¡Eres un héroe valiente y fuerte!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, piensa en algo que te gustaría intentar mañana. Puede ser cualquier cosa, como leer un libro nuevo o aprender una palabra en otro idioma. Planificar y prepararte te da confianza para enfrentar nuevos desafíos. ¿Te gustaría intentarlo?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas una vez que te sentiste muy orgulloso de ti mismo? Tal vez fue cuando ayudaste a alguien o terminaste un dibujo. Esa sensación es la confianza creciendo dentro de ti. ¿Puedes pensar en otro momento así? Me encantaría escuchar sobre tus logros."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Cada día trae nuevas aventuras y oportunidades para aprender. Como cuando descubres un insecto en el jardín o haces una nueva amistad. Estas experiencias nos enseñan y nos ayudan a crecer. Recuerda que siempre puedes contar con tu valentía para enfrentar lo que venga."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres un héroe increíble! La confianza es algo que se construye día a día. Sigue practicando, aprendiendo y explorando. Nunca dejes de creer en ti mismo. ¡Tienes un gran potencial y estoy muy orgulloso de ti!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer compartir este tiempo contigo, pequeño héroe. Recuerda siempre que la confianza está dentro de ti. No importa el desafío, tú puedes enfrentarlo con valentía. ¡Hasta la próxima aventura! Espero verte pronto para más emocionantes historias. ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Confidence de Shell Heroes Crew"
+}

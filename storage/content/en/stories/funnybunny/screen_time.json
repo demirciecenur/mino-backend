@@ -1,0 +1,98 @@
+{
+  "id": "funny_bunny_screen_time_story",
+  "character": "Funny Bunny",
+  "topic": "screen_time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello there, little friend! I'm Funny Bunny, and today we're going to hop into a fun adventure about screen time. Are you ready to have some fun? I bet you are! We'll talk about all the cool things you can do away from screens and why taking breaks is super important. So, let's get those bunny ears ready and start our adventure!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about screens like our TVs, tablets, or phones. They can be really fun, right? You can watch your favorite cartoons or play games. But, did you know that too much screen time can make your eyes tired? Just like we need to rest after playing outside, our eyes need a break too. So, it's important to balance screen time with other activities."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Here's a fun idea! After using a screen for a while, let's try doing something different. Maybe we can draw a picture, build a block tower, or even go on a little adventure outside. These activities help our brains grow big and strong, just like eating healthy carrots! Remember, doing different things keeps us happy and healthy."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job! You're doing amazing by thinking about all these fun activities. Did you know that playing with toys or reading a book can be just as exciting as screen time? Plus, it gives your eyes a chance to rest. Keep up the good work, and let's keep exploring!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about resting our eyes? Well, let's try something together. Let's close our eyes for a moment and imagine we're in a magical forest with tall trees and friendly animals. Can you see the colorful birds and hear the gentle breeze? This is a great way to relax and take a break from screens."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What do you like to do when you're not using screens? Maybe you enjoy playing with your toys or going on adventures outside. There are so many exciting things to discover! I'd love to hear about your favorite activities. Do you like to draw, build, or play games with friends?"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "That's wonderful! It's great to have so many fun things to do. Imagine all the stories and adventures we can create with our imagination. Like pretending to be superheroes or building a castle from blocks. Remember, our imagination is just as powerful as any screen!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's try something fun! How about a quick dance party? Dancing is a fantastic way to move our bodies and have fun. You can wiggle, hop, and twirl just like me, Funny Bunny! Let's count to three and start dancing. One, two, three—let's dance!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wow, you're a fantastic dancer! See how much fun we can have without screens? Dancing, drawing, and playing are all great ways to keep busy and happy. You can do it! Keep exploring and trying new things every day. You're doing such a great job!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's take a moment to think about our day. Did you try anything new today? Maybe you built a new tower or discovered a new game to play. It's wonderful to mix it up and try different activities. This way, every day is a new adventure, just like in a storybook!"
+    },
+    {
+      "id": "scene_10",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Listening to our bodies is important too. Sometimes we might feel a little tired or need a break. That's okay! We can take a deep breath, close our eyes, and relax for a bit. Let's try it together. Breathe in slowly... and breathe out. Doesn't that feel nice?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "You're doing such a great job at balancing your activities. Remember, screens are fun, but so are all the other things we can do. Like playing outside, reading a book, or even just relaxing and daydreaming. Every activity helps us grow and learn new things."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Keep up the fantastic work! You're like a little explorer, discovering new adventures every day. I'm so proud of you for thinking about all these fun activities. Let's keep having fun and learning together. You're doing amazing!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Well, my little friend, our adventure about screen time is coming to an end. Remember all the fun things we talked about today. Keep exploring, playing, and trying new things. I'm so happy we got to spend this time together. Until next time, keep hopping into new adventures!"
+    }
+  ],
+  "title": "Funny Bunny's Screen Time Story"
+}

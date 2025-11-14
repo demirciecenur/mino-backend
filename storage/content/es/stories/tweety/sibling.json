@@ -1,0 +1,104 @@
+{
+  "id": "chirpy_birdie_sibling_story",
+  "character": "Chirpy Birdie",
+  "topic": "sibling",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguito! Soy Chirpy Birdie, y hoy vamos a hablar sobre algo muy especial: los hermanos. ¿Tienes un hermano o hermana? ¡Qué emocionante! Los hermanos son como nuestros mejores amigos en casa. Vamos a descubrir juntos lo divertido que es tener un hermano o hermana. ¿Estás listo para esta aventura? ¡Vamos allá!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tener un hermano o hermana es como tener un compañero de juegos todo el tiempo. ¿Recuerdas la última vez que jugaste con tu hermano? Jugar juntos puede ser muy divertido, como cuando construimos castillos de bloques o hacemos carreras con nuestros coches de juguete. Los hermanos pueden ayudarse mutuamente a aprender cosas nuevas. ¡Es como tener un equipo de superhéroes en casa! Ahora, vamos a descubrir más sobre cómo podemos ser buenos hermanos."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para ser un buen hermano, es importante compartir. ¿Sabes cómo se siente cuando compartes tu juguete favorito? Al principio puede ser difícil, pero luego se siente muy bien ver a tu hermano sonreír. Compartir nos hace felices a todos. También es importante escuchar a nuestro hermano cuando quiere contarnos algo. Escuchar con atención muestra que nos importa lo que dice. ¿Te gustaría intentarlo la próxima vez?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a practicar juntos! Imagina que tienes un juguete nuevo y tu hermano quiere jugar. ¿Qué harías? ¡Exactamente! Compartirlo es una gran idea. Ahora imagina que tu hermano quiere contarte algo. ¿Cómo puedes mostrarle que estás escuchando? Puedes mirar a sus ojos y sonreír. ¡Muy bien! Practicar estas cosas nos ayuda a ser mejores hermanos. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que ya sabemos cómo compartir y escuchar, hablemos de jugar juntos. Jugar es una forma maravillosa de pasar tiempo con tu hermano. Puedes inventar juegos nuevos, como una búsqueda del tesoro en casa. ¿Alguna vez has jugado a ser un pirata en busca de un tesoro? ¡Es muy divertido! Jugar juntos fortalece la amistad entre hermanos. ¿Qué juegos te gusta jugar con tu hermano?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "A veces, los hermanos pueden pelear, y eso está bien. Es normal tener diferencias, pero lo importante es aprender a resolverlas. Cuando te sientas molesto, intenta respirar profundamente tres veces. ¿Puedes intentarlo ahora? Inhala... y exhala. ¡Muy bien! Luego, habla con tu hermano sobre cómo te sientes. Esto ayuda a entenderse mejor y a solucionar el problema juntos. ¡Inténtalo la próxima vez!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Resolver problemas juntos es una habilidad importante. Recuerda que siempre puedes pedir ayuda a un adulto si lo necesitas. Los adultos son como nuestros guías en estas situaciones. Siempre están dispuestos a ayudarnos a encontrar una solución. Así que, si algo te preocupa, no dudes en hablar con mamá, papá o un maestro. ¡Ellos están ahí para ayudarte!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de algo muy especial: el cariño entre hermanos. Dar un abrazo o decir 'te quiero' puede hacer que tu hermano se sienta muy feliz. ¿Cuándo fue la última vez que abrazaste a tu hermano? Los abrazos son como una forma mágica de mostrar amor. También puedes hacer dibujos para tu hermano o hermana. ¡Es una sorpresa encantadora! ¿Qué otras formas se te ocurren para mostrar cariño?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabías que a veces los pequeños gestos son los que más importan? Como cuando ayudas a tu hermano a recoger los juguetes. ¿Te gustaría intentar eso? O quizás podrías ayudar a tu hermana a elegir qué ropa ponerse. ¿Qué otras cosas pequeñas crees que podrías hacer para ayudar a tu hermano? Piensa en algo que te gustaría intentar hoy. ¡Estoy seguro de que lo harás genial!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda que ser un buen hermano es un regalo maravilloso. Los hermanos están ahí para apoyarse mutuamente en todo momento. Como cuando necesitas ayuda con la tarea o cuando quieres compañía para jugar. Tener un hermano es como tener un amigo especial que siempre está contigo. Así que, cada día es una nueva oportunidad para ser un gran hermano. ¡Vamos a seguir practicando!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres un hermano increíble! Cada pequeño gesto de amabilidad y cariño cuenta mucho. Piensa en cómo te sientes cuando tu hermano te ayuda o te hace sonreír. Es una sensación muy bonita, ¿verdad? Tú también puedes hacer sentir así a tu hermano. Practicar ser un buen hermano te hará sentir muy feliz y orgulloso. ¡Sigue así!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos hablado tanto sobre los hermanos, ¿te gustaría contarme sobre tu hermano o hermana? ¿Qué les gusta hacer juntos? Tal vez les encanta pintar o jugar al aire libre. Compartir momentos especiales crea recuerdos que duran para siempre. Cuéntame, ¿cuál fue tu momento favorito con tu hermano esta semana? Me encantaría saberlo."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Sabes? Me encanta escuchar historias sobre hermanos. Cada hermano es único y especial a su manera. Algunas veces, los hermanos mayores cuidan de los más pequeños. Y otras veces, los más pequeños traen mucha alegría y risas. ¿Cómo es tu relación con tu hermano? Recuerda que cada día es una nueva oportunidad para crear momentos especiales juntos."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vamos a recordar todo lo que hemos aprendido hoy. Ser un buen hermano significa compartir, escuchar, jugar juntos y resolver problemas. También significa mostrar cariño y ayudar en lo que podamos. ¡Es como tener un superpoder de amor! Espero que estas ideas te ayuden a disfrutar aún más de tu relación con tu hermano. ¡Sigue practicando!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "¡Ha sido un placer hablar contigo sobre los hermanos! Espero que hayas disfrutado y aprendido mucho. Recuerda que siempre puedes volver a escuchar esta historia cuando quieras. Ahora es tu turno de ser el mejor hermano que puedas ser. ¡Estoy seguro de que lo harás genial! Nos vemos pronto, amiguito. ¡Adiós y hasta la próxima!"
+    }
+  ],
+  "title": "Historia de Sibling de Chirpy Birdie"
+}

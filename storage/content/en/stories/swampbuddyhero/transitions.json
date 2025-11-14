@@ -1,0 +1,98 @@
+{
+  "id": "swamp_buddy_hero_transitions_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "transitions",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little adventurers! I'm Swamp Buddy Hero, and today we're going to explore something super important and fun—transitions! Transitions are like little changes or new things we get to try. Imagine opening a new book or tasting a new fruit. Are you ready to join me on this exciting journey? I can't wait to hear what you think about transitions!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about what a transition is. It's like when you finish playing with your toys and it's time to have a snack. Or maybe when you go from playing outside to coming inside for a nap. These are all transitions! They help us move from one thing to another and can be very exciting. Sometimes they might feel a bit funny, but that's okay!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about playing with toys and then having a snack? That's a transition! Let's practice how we can do this smoothly. First, we can take a deep breath. Let's do it together—breathe in, and out. Great job! Breathing helps us feel calm and ready for the next fun thing. We can also sing a little song or count to five. Let's try counting to five together now!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You did it! Isn't it fun to count and breathe together? See how these little steps make transitions easier? You're doing wonderfully! Sometimes, we might feel a bit sad or worried about changes. That's perfectly okay, too. Remember, every new thing is a chance to learn and grow. You're so brave for trying new things!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about another kind of transition, like going from being awake to bedtime. Have you ever noticed how we do certain things before we sleep? We might brush our teeth, put on pajamas, and read a story. These steps help tell our bodies it's time to rest. Transitions like these make us feel cozy and ready for dreams!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's pretend we're getting ready for bed. First, we can put on our pajamas. Next, we brush our teeth, making sure they're all clean and shiny. After that, we can pick out our favorite bedtime story. Let's imagine we're doing these steps together. Doesn't it feel nice to have a bedtime routine? It makes transitions smoother and more fun!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever had a day where you did something new like starting a new class or meeting a new friend? How did that feel? Sometimes new things can be a little scary, but they can also be exciting adventures! What new things have you tried recently? I'm curious to hear about your experiences!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's think about how we can make new friends, which is another kind of transition. Meeting someone new is like opening a treasure chest full of surprises. We can start by saying hello and sharing something we like, like our favorite game or snack. This helps us feel connected and happy. Making friends is a wonderful transition to experience!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Isn't it amazing how brave you are when you try new things? You're like a superhero on a mission! Remember, every time you transition to something new, you're learning and growing. It's okay to feel unsure sometimes, but with each step, you're doing great. Keep up the fantastic work, little hero!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's pretend we're going through another transition, like going from playing at the park to getting ready for dinner. First, we say goodbye to our friends at the park. Then, we walk home or ride in the car. Once we're home, we wash our hands and help set the table. Isn't it fun to be part of the dinner preparation? You can even help choose what to eat!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember how we talked about breathing and counting to help with transitions? Let's add another tool to our toolbox—imagination! When we're moving from one thing to another, we can pretend we're on a magical adventure. Maybe we're explorers finding new lands or astronauts visiting a new planet. Imagination makes transitions even more exciting!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What kind of magical adventure would you like to go on during a transition? Do you want to be a pirate or a fairy? Maybe a brave knight or a wise wizard? Imagining these adventures can make any transition feel like a grand journey. What adventures do you dream about? I'd love to hear your ideas!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wow, your imagination is amazing! Remember, you can use it anytime you're facing a transition. It's a powerful tool that helps you feel brave and excited. You're doing such a great job exploring transitions with me today. Keep using your imagination and your brave heart to make every change an adventure!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "We've had such a fun time learning about transitions together! Remember, every change is a chance to learn something new and exciting. Whether it's getting ready for bed, meeting new friends, or exploring adventures in your imagination, you're doing amazing. Thank you for joining me, Swamp Buddy Hero, on this journey. Until next time, keep being the brave and wonderful hero you are!"
+    }
+  ],
+  "title": "Swamp Buddy Hero's Transitions Story"
+}

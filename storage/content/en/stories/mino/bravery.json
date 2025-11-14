@@ -1,0 +1,104 @@
+{
+  "id": "mino_bravery_story",
+  "character": "Mino",
+  "topic": "bravery",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Mino, your space adventure buddy. Today, we're going on an amazing journey to discover what bravery means. Are you ready to learn about being brave? It's going to be so much fun! Bravery is like being a hero, just like the ones we see in stories. Let's explore this exciting topic together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bravery is all about facing our fears and trying new things, even when they seem a little scary. Imagine being an astronaut exploring new planets, that's brave! Sometimes, bravery is as simple as trying a new food or saying hello to a new friend. It means being strong and confident, just like superheroes. Can you think of a time when you were really brave?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn a little more about how we can be brave. One way is by taking deep breaths when we feel scared. Let's try it together: breathe in slowly, and then breathe out. Doesn't that feel calming? Being brave also means asking for help when we need it. Remember, it's okay to feel scared sometimes, but with bravery, we can do amazing things!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Now, let's think about a brave thing we can try today. Maybe you can try picking up your toys all by yourself. Or perhaps you can brush your teeth without any help. You see, bravery can be found in the little things we do every day. You're already doing great just by thinking about it! You're a little hero in the making."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about taking deep breaths? That's a great way to be brave. Imagine you're about to explore a new part of the playground. It might seem big and new, but with a deep breath and a smile, you can do it. Bravery helps us discover new things and make new friends. Isn't that exciting?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now let's think of a brave story we can share. Maybe you helped a friend who fell down, or you tried a new game. Stories of bravery can be about big adventures or small moments. Each time we are brave, we learn something new about the world and ourselves. Can you share your brave story with me?"
+    },
+    {
+      "id": "scene_6",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Wow, that sounds like a wonderful story! Listening to your brave adventures makes me so happy. Every time you do something brave, you're like a star shining bright in the sky. Just like how stars light up the night, your bravery lights up your world. Keep being brave, little friend!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's imagine we're astronauts landing on a new planet. It might be a little scary at first, but with bravery, we can explore it together. We can count the stars around us, one, two, three, and find new friends in the universe. Bravery helps us explore and discover. Isn't that a fun way to think about it?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You see, being brave is something we all can do. Whether it's trying a new sport or speaking up in class, every brave act makes us stronger. Remember, you're never alone in your brave adventures. I'm here cheering you on, and so are your family and friends. Keep reaching for the stars!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's think about someone you know who's brave. It could be a family member, a teacher, or even a character from a book. What makes them brave? Is it the way they help others or the way they try new things? We can learn so much from the brave people around us."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's do a little exercise together. Imagine you're a brave lion. Stand tall, take a deep breath, and give a big, brave roar! Roar! Doesn't that feel powerful? Being brave is about believing in yourself and knowing you can do great things. You're as brave as a lion!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you felt like a brave lion? Maybe it was when you climbed a tall slide or spoke in front of your class. How did it make you feel? Bravery can make us feel proud and happy. I'm so curious to hear about your brave moments!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hearing about your brave moments makes my heart so happy. Each time you share, you're inspiring others to be brave too. Just like how the sun rises every day, you can shine with bravery in all you do. Keep sharing your stories with your friends and family. You're a true hero!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Remember, bravery is a journey, and you're doing amazing! Every small step you take is a big leap towards being even braver. Keep practicing your deep breaths and trying new things. You're learning and growing every day, and that's something to be very proud of. Keep it up!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time to say goodbye for now, but our brave adventures will continue. Remember, I'm always here cheering you on from the stars. Keep being the brave explorer you are, and never stop shining. Until next time, little hero, keep reaching for the stars! Goodbye, my friend!"
+    }
+  ],
+  "title": "Mino's Bravery Story"
+}

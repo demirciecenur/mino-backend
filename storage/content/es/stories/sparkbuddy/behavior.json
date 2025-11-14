@@ -1,0 +1,104 @@
+{
+  "id": "spark buddy_behavior_story",
+  "character": "Spark Buddy",
+  "topic": "behavior",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Spark Buddy, y estoy muy emocionado de estar aquí con ustedes hoy. Vamos a hablar sobre algo muy importante: ¡el buen comportamiento! ¿Están listos para aprender y divertirnos juntos? ¡Sé que pueden hacerlo genial! Vamos a comenzar este maravilloso viaje juntos."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "El comportamiento es cómo actuamos y nos comportamos con los demás. Es muy importante ser amables y respetuosos. Por ejemplo, cuando compartimos nuestros juguetes, estamos mostrando buen comportamiento. También, decir 'por favor' y 'gracias' es una forma de ser cortés. ¡Qué maravilloso es hacer que los demás se sientan bien!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, pensemos en cómo seguimos las reglas en casa y en la escuela. Las reglas nos ayudan a estar seguros y a llevarnos bien con los demás. Por ejemplo, en casa, podríamos tener la regla de recoger nuestros juguetes después de jugar. En la escuela, escuchamos a la maestra cuando está hablando. ¡Siguiendo las reglas, todos podemos divertirnos más!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a practicar juntos! Piensa en una regla que sigues todos los días. ¿La tienes en mente? ¡Genial! Ahora, imagina que la estás siguiendo y cómo eso hace que todos a tu alrededor se sientan felices. ¡Lo estás haciendo muy bien! Recuerda, seguir las reglas es una gran manera de mostrar buen comportamiento."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos lo valioso que es ser amable con nuestros amigos. Cuando jugamos juntos, es importante compartir y turnarnos. Si un amigo está triste, podemos preguntar si está bien o si necesita ayuda. Ser un buen amigo es parte de tener un buen comportamiento. ¡Qué bien se siente hacer sonreír a alguien!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos de cómo podemos manejar nuestros sentimientos. A veces, podemos sentirnos enojados o tristes, y eso está bien. Pero es importante saber cómo calmarnos. Podemos contar hasta cinco o tomar respiraciones profundas. Esto nos ayuda a pensar antes de actuar. ¡Intentemos juntos, inhale y exhale!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas la última vez que te sentiste enojado? ¿Qué hiciste para sentirte mejor? Tal vez hablaste con un adulto o tomaste un descanso. Estas son maneras maravillosas de manejar tus sentimientos. ¡Estoy muy orgulloso de ti por encontrar formas de calmarte!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo increíble! Ahora, pensemos en cómo podemos ayudar a los demás a sentirse bien. Podemos decirles cosas bonitas o ayudarlos cuando lo necesiten. Por ejemplo, si ves a alguien que necesita ayuda con su mochila, puedes ofrecer tu ayuda. ¡Eres un gran amigo y un ejemplo de buen comportamiento!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, puede ser difícil seguir las reglas, pero recuerda que siempre puedes pedir ayuda. Los adultos están aquí para guiarte y apoyarte. Si no entiendes una regla, puedes preguntar. ¡Preguntar es una gran manera de aprender más! Así, estarás listo para ser el mejor que puedas ser."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, juguemos un pequeño juego. Voy a decir una acción, y tú me dirás si es un buen comportamiento o no. ¿Listo? Compartir tus juguetes, ¿es buen comportamiento? ¡Sí, lo es! ¿Y empujar a alguien? No, eso no es bueno. ¡Lo estás haciendo muy bien, sigamos practicando!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Qué te parece más fácil, seguir las reglas en casa o en la escuela? Tal vez en casa, porque conoces bien las reglas. O quizás en la escuela, porque te gusta aprender con tus amigos. ¡Cuéntame, estoy curioso por saber! Recuerda, cada lugar tiene sus propias reglas importantes."
+    },
+    {
+      "id": "scene_11",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Ahora cuéntame, ¿cómo te sientes cuando haces algo bueno por los demás? Seguro que te sientes feliz y orgulloso, ¿verdad? Hacer cosas buenas nos hace sentir bien por dentro. ¡Qué maravilloso es poder ayudar a los demás y sentirnos bien al mismo tiempo!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Los días pueden ser más alegres cuando todos mostramos buen comportamiento. Cuando todos trabajamos juntos, podemos lograr cosas increíbles. Imagina un día en el parque donde todos comparten y se divierten juntos. ¡Eso es lo que hace el buen comportamiento, crea momentos felices!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estoy tan orgulloso de ti por aprender sobre el buen comportamiento! Recuerda que cada día es una nueva oportunidad para ser amable y seguir las reglas. Tú puedes hacer la diferencia en el mundo con tus acciones. ¡Sigue brillando, pequeño amigo!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "¡Hemos llegado al final de nuestro tiempo juntos! Gracias por aprender y divertirte conmigo, Spark Buddy. Espero que sigas practicando el buen comportamiento todos los días. Recuerda, siempre estoy aquí para animarte. ¡Hasta la próxima, amiguito!"
+    }
+  ],
+  "title": "Historia de Behavior de Spark Buddy"
+}

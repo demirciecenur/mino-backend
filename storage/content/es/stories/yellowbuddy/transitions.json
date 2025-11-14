@@ -1,0 +1,104 @@
+{
+  "id": "yellow_buddy_transitions_story",
+  "character": "Yellow Buddy",
+  "topic": "transitions",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguito! Soy Yellow Buddy, y hoy vamos a descubrir algo muy divertido sobre las transiciones. Las transiciones son esos momentos en que cambiamos de una cosa a otra, como cuando terminas de jugar y es hora de cenar. ¿Te ha pasado? ¡Es algo que hacemos todos los días! Estoy muy emocionado de compartir este viaje contigo. ¡Vamos a divertirnos mucho juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en una transición que todos conocemos: ¡despertarse por la mañana! Cuando abres los ojos, el mundo parece nuevo y lleno de posibilidades. Primero, puedes estirarte como un gato perezoso, ¿te gusta hacerlo? Después, te levantas de la cama y empiezas tu día lleno de energía. Despertarse es una transición que nos prepara para todas las aventuras que nos esperan. ¡Es como un nuevo comienzo cada día!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos de otra transición importante: cambiar de una actividad a otra. A veces estás jugando con tus bloques y de repente es hora de recogerlos para almorzar. ¿Cómo lo haces? Primero, puedes contar tus bloques mientras los guardas, uno, dos, tres, ¡qué divertido! Cambiar de actividad puede ser fácil si lo haces con calma. Y recuerda, siempre puedes volver a jugar después de comer. ¡Todo tiene su momento!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "A veces, las transiciones pueden ser un poco difíciles, pero ¡tú puedes hacerlo! Imagina que estás en el parque y es hora de ir a casa. Puede que quieras quedarte un poco más, pero si piensas en lo que vas a hacer después, ¡será más fácil! Tal vez te espera un cuento antes de dormir o un delicioso helado. Siempre hay algo bueno al final de cada transición. ¡Tú eres un campeón en esto!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, recordemos cómo las transiciones también suceden cuando aprendemos cosas nuevas. Imagina que estás en la escuela y aprendes una canción nueva. Al principio puede parecer difícil, pero cuando lo intentas varias veces, ¡se vuelve más fácil! Aprender es una transición que nos hace más listos y curiosos. Cada vez que aprendes algo nuevo, tu cerebro hace una pequeña fiesta. ¡Es maravilloso!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "También hay transiciones cuando nos preparamos para dormir. ¿Sabes cómo? Primero, nos lavamos los dientes, luego nos ponemos el pijama, y después escuchamos una historia antes de dormir. Este tipo de transición nos ayuda a relajarnos y a prepararnos para un buen descanso. Dormir bien es importante porque nos da energía para el día siguiente. ¿A ti te gusta escuchar cuentos antes de dormir?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hablar sobre cómo podemos hacer que las transiciones sean más divertidas. Una manera es convertirlas en un juego. Por ejemplo, cuando es hora de recoger los juguetes, puedes imaginar que eres un superhéroe que salva el día. O cuando es hora de vestirse, puedes hacer una carrera contra el reloj. Hacer de las transiciones un juego puede hacer que todo sea más emocionante. ¿Te gustaría intentarlo?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Las transiciones también pueden enseñarnos a ser pacientes y a esperar nuestro turno. Como cuando estás en la fila para subir al tobogán. Esperar puede ser difícil, pero cuando finalmente llega tu turno, ¡vale la pena! Aprender a esperar es una habilidad importante. Te ayuda a ser más paciente y a disfrutar más de las cosas. ¡Eres un experto en esto!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda que las transiciones están en todas partes, incluso cuando viajamos. Cuando subes al auto para ir a visitar a la abuela, estás haciendo una transición. El viaje puede ser una aventura por sí mismo. Puedes mirar por la ventana y buscar formas en las nubes o contar los coches rojos que ves. Viajar es una transición que nos lleva a lugares nuevos y emocionantes. ¡Es como una pequeña aventura cada vez!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te has dado cuenta de que las transiciones también ocurren en la naturaleza? Como cuando el día se convierte en noche y el cielo se llena de estrellas. ¿No es mágico? O cuando las hojas cambian de color en otoño. La naturaleza nos muestra que los cambios son algo natural y bonito. ¿Cuál es tu transición favorita en la naturaleza? ¡Me encantaría saberlo!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora pensemos en cómo las transiciones nos ayudan a crecer. Cada vez que aprendes algo nuevo o te enfrentas a un cambio, te vuelves un poco más fuerte. Como cuando aprendes a andar en bicicleta sin rueditas. Al principio, puede parecer difícil, pero con práctica, ¡lo logras! Las transiciones son como escalones que nos llevan a ser más grandes y valientes. ¡Tú eres increíble!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Y no olvidemos que las transiciones también pueden ser una oportunidad para hacer nuevos amigos. Como cuando cambias de clase o empiezas una nueva actividad. Al principio, puede ser intimidante, pero pronto te das cuenta de que hay muchas personas amables a tu alrededor. Hacer amigos nuevos es una transición que nos llena de alegría y nos hace sentir acompañados. ¡Es genial conocer a nuevos amigos!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para hacer las transiciones más fáciles, podemos usar nuestra imaginación. Imagina que cada cambio es como un puente que te lleva a un lugar mágico. Puedes cerrar los ojos y pensar en un lugar especial que te haga sentir feliz y tranquilo. La imaginación es una herramienta poderosa que puede ayudarte a enfrentar cualquier transición con una sonrisa. ¡Inténtalo la próxima vez!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres un campeón de las transiciones! Recuerda que cada cambio trae consigo nuevas oportunidades y aprendizajes. Aunque a veces pueda ser un poco difícil, siempre hay algo bueno al otro lado. Con cada transición, te vuelves más fuerte y más sabio. ¡Sigue adelante, pequeño aventurero! Estoy muy orgulloso de ti y de todo lo que has logrado."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un viaje increíble aprender sobre las transiciones contigo. Espero que ahora las veas de una manera divertida y emocionante. Recuerda que siempre puedes contar conmigo, Yellow Buddy, para acompañarte en tus aventuras. ¡Gracias por compartir este tiempo conmigo! Ahora es hora de decir adiós, pero no te preocupes, nos veremos pronto para más aventuras. ¡Hasta luego, amiguito!"
+    }
+  ],
+  "title": "Historia de Transitions de Yellow Buddy"
+}

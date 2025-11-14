@@ -1,0 +1,104 @@
+{
+  "id": "swamp_buddy_hero_behavior_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm your Swamp Buddy Hero. Today, we're going on an exciting adventure to learn about something very important - behavior! Are you ready to have some fun and discover all about being kind and helpful? I can't wait to start this journey with you. Let's jump right in and explore together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, behavior is all about how we act and the choices we make. For example, when you share your toys with a friend, that's good behavior. It makes everyone happy and keeps the fun going. Good behavior is like a big, warm hug that makes everyone feel loved and safe. Can you think of a time when you did something kind for someone else?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about sharing? Well, following rules is also a big part of good behavior. Rules help keep us safe and make sure everyone gets a turn to play. Like when we wait our turn on the slide at the playground. It's important to listen and follow directions so everyone can have fun together. Let's try to remember that next time we're playing!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing great so far! Now let's try a little exercise together. Close your eyes and take a deep breath in, then let it out slowly. Let's do it three times. Breathing helps us stay calm and make good choices. Wonderful! You can use this trick whenever you feel upset or need a moment to think. Keep practicing, and you'll become a breathing expert!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about listening. Listening is a superpower that helps us learn and understand each other. When someone is speaking, we should look at them and show we care by nodding our heads. This shows respect and makes the person feel important. Listening carefully also helps us learn new things every day. Isn't that amazing?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Next, let’s think about saying 'please' and 'thank you.' These magic words make everyone smile. When you ask for something with 'please,' it shows you're polite and kind. Saying 'thank you' is a way to show you appreciate what someone has done for you. Let's practice together. Can you say 'please' and 'thank you' with me? Great job!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're really getting the hang of this! Encouraging others is also part of good behavior. You can cheer on your friends by saying, 'You can do it!' or 'Great job!' This makes them feel happy and confident. Let's try cheering together. Ready? One, two, three - 'You can do it!' See how fun and powerful that feels?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about being honest. Being honest means telling the truth, even when it's hard. When we tell the truth, people trust us and feel safe around us. Imagine if you broke a toy by accident. It's better to tell the truth and say, 'I'm sorry, it was an accident,' than to hide it. Honesty is very important for making strong friendships."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's think about being helpful. Helping others makes them feel good and makes us feel like heroes! You can help by cleaning up your toys or setting the table for dinner. When you see someone who needs help, ask them, 'Can I help you with that?' Being helpful shows you care about others. Let's all try to be helpful heroes every day!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing fantastic! Remember, everyone makes mistakes, and that's okay. What's important is that we learn from them and try to do better next time. If you ever feel upset about a mistake, just take a deep breath and think about how you can improve. You are capable of amazing things, and I believe in you!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you did something nice for someone else? Maybe you shared your toys or helped clean up. How did it make you feel? I bet it felt really good to see them smile. Sharing your story can help us all learn new ways to be kind. I'd love to hear about your good deeds!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about being honest and helpful? Well, being patient is another key part of good behavior. Sometimes, we have to wait for our turn or for something special to happen. Patience means staying calm and cheerful while we wait. It's like waiting for a delicious cake to bake. The wait makes it even sweeter!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice patience together! Imagine we're waiting in line for a fun ride. We can play a game or sing a song to pass the time. Can you think of a song to sing while we wait? Singing or counting can make waiting feel faster. Being patient shows we're kind and respectful to others."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're truly a wonderful listener and a great learner! Keep practicing these good behaviors, and you'll become a behavior superstar. Remember, every day is a new chance to be kind, patient, and helpful. I'm so proud of you for trying your best and being a great friend. Keep shining bright like the star you are!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this amazing adventure about behavior. We learned so much together, and I hope you had as much fun as I did. Remember to always be kind, share, and listen. You're a fantastic friend, and I can't wait to see all the wonderful things you'll do. Goodbye for now, and see you next time!"
+    }
+  ],
+  "title": "Swamp Buddy Hero's Behavior Story"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "bubu_imagination_story",
+  "character": "Bubu",
+  "topic": "imagination",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friend! I'm Bubu, and today we're going on a magical journey through imagination. Are you excited? I know I am! Imagination is like having a superpower in your mind, where you can create anything you dream of. We're going to explore how imagination can take us to faraway lands and create amazing stories. Are you ready to start this adventure with me?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Imagination is a wonderful thing that lets us think about things that aren't really here. It's like when you pretend a cardboard box is a spaceship. You can travel to the moon or even to a land made entirely of candy! Isn't that fun? With imagination, you can be anyone you want to be, like a brave knight or a friendly dragon. Let's think about what you would like to imagine today."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's use our imagination to create a magical garden. Close your eyes and think of the most beautiful flowers you can. What colors do they have? Maybe they sparkle like stars or change colors in the sunlight. Imagine tiny fairies flying around, sprinkling magic dust everywhere. Can you see them in your garden? It's amazing what we can create just by thinking about it!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing great with your imagination! Let's add some friendly animals to our garden. How about a talking squirrel or a dancing rabbit? What would they say or do? Maybe they invite you to a tea party under a giant mushroom. Your imagination is so powerful, and it makes everything more fun and exciting. Keep going, you're doing wonderful!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we imagined that magical garden? Now, let's think about how we can use imagination in real life. When you play with your toys, you can imagine they are characters in a story. Maybe your teddy bear is a superhero saving the day, or your blocks are a castle for a tiny king. Imagination makes playtime more fun and helps us learn new things."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try something together. Imagine we're on a pirate ship sailing the seven seas. What do you see around us? Maybe there are dolphins jumping beside the ship or a treasure map leading to hidden gold. Can you feel the wind in your hair as we sail? Using your imagination, you can go on any adventure you want, anytime!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're such an amazing adventurer! Let's give ourselves a round of applause for all the creative ideas we've thought of. Imagination is like a special friend that helps us dream big and have fun. Whenever you're feeling a little bored, just remember you can imagine something new and exciting. You're doing such a great job!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's think about how imagination helps us with feelings too. If you're ever feeling sad, you can imagine a happy place where the sun is always shining. Maybe it's a beach with soft sand or a cozy room filled with your favorite toys. Imagining happy places can help us feel better and remind us of our happiest moments."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you used your imagination to make yourself feel better? Maybe you imagined being a superhero when you were scared, or you thought of funny animals to make you laugh. Imagination is always there to help us, just like a comforting hug. What do you like to imagine when you need a smile?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's remember how imagination helps us learn too. When you read a story, you imagine the characters and places in your mind. This makes the story come to life and helps you understand it better. Next time you read a book, try to imagine what the characters are like and what their world looks like. It makes reading even more fun!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's play a little game with our imagination. Imagine you're a chef making a giant pizza. What toppings would you put on it? Maybe gummy bears, marshmallows, or even chocolate! It's your pizza, so you can make it as silly or delicious as you want. Imagination lets us create things that are unique and special, just like you!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wow, what a creative chef you are! Your imagination is so bright and colorful. Remember, you can use it anytime to create new worlds and stories. Whether you're playing, reading, or just sitting quietly, your imagination is always there to make things more exciting. Keep imagining and dreaming big, because you're amazing!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about sharing our imagination with friends. When you play with others, you can combine your ideas to create even bigger adventures. Maybe you and a friend can be explorers finding hidden treasures or astronauts discovering new planets. Sharing imagination makes playtime more fun and helps us make wonderful memories together."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Have you ever shared an imaginative story with a friend or family member? It's like telling them a secret world that you both can enjoy. Next time you play, try inviting someone to join your imaginative adventures. Together, you can create amazing stories and have lots of fun. Your imagination can bring joy to everyone around you!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our imagination journey is coming to an end, but remember, you can always use your imagination whenever you want. It's a special part of you that makes life more magical and fun. Thank you for sharing your imaginative adventures with me today. I hope you had as much fun as I did! Keep dreaming, imagining, and creating wonderful stories. Goodbye, little friend, until next time!"
+    }
+  ],
+  "title": "Bubu's Imagination Story"
+}

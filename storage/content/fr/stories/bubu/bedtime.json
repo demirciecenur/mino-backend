@@ -1,0 +1,98 @@
+{
+  "id": "bubu_bedtime_story",
+  "character": "Bubu",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis Bubu, et ce soir, nous allons découvrir ensemble le monde merveilleux de l'heure du coucher. Êtes-vous prêts pour cette aventure douce et réconfortante? J'ai hâte d'apprendre à vous connaître et de partager des moments magiques avec vous. Ensemble, nous allons explorer comment rendre l'heure du coucher amusante et relaxante. Alors, installez-vous confortablement et préparons-nous à commencer notre voyage."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'heure du coucher est un moment spécial où nous nous préparons à nous reposer après une journée bien remplie. C'est l'occasion de se détendre et de se sentir en sécurité dans notre lit douillet. Vous savez, comme quand on enfile son pyjama préféré et qu'on se blottit sous les couvertures. Cela nous aide à nous sentir bien et prêts à dormir. Maintenant que nous savons ce qu'est l'heure du coucher, passons à la prochaine étape pour la rendre encore plus agréable."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Avant de se coucher, il est important de suivre une routine apaisante. Une routine, c'est comme une petite danse que nous faisons chaque soir pour nous préparer à dormir. Cela peut commencer par ranger nos jouets, puis aller se laver les dents. Brosser nos dents est très important pour garder un sourire éclatant! Ensuite, on peut mettre notre pyjama et choisir une histoire à lire. Ces petites habitudes nous aident à nous sentir calmes et prêts pour le sommeil."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons ensemble de prendre quelques respirations profondes pour nous détendre. Inspirez doucement par le nez et imaginez que vous gonflez un ballon dans votre ventre. Puis, expirez lentement par la bouche, comme si vous souffliez doucement sur une bougie. Répétons cela trois fois. Vous pouvez le faire, c'est très apaisant! Bravo, vous avez réussi! Ces respirations nous aident à nous calmer et à nous préparer pour une bonne nuit de sommeil."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après avoir bien respiré, c'est le moment idéal pour écouter une histoire ou une chanson douce. Les histoires nous transportent dans des mondes magiques où tout est possible. Peut-être pouvez-vous choisir votre livre préféré et le lire avec un adulte? C'est une belle façon de passer du temps ensemble avant de dormir. Les chansons douces, quant à elles, nous aident à nous détendre encore plus. Maintenant que nous avons parlé de cela, voyons ce que nous pouvons faire d'autre pour rendre l'heure du coucher spéciale."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "La chambre doit être un endroit calme et confortable pour dormir. Assurez-vous que votre lit est bien fait et que votre doudou préféré est à portée de main. Vous pouvez aussi tamiser les lumières pour créer une ambiance douce et reposante. Peut-être voulez-vous aussi écouter un peu de musique douce? Toutes ces petites choses aident à créer un environnement parfait pour s'endormir. Maintenant que tout est prêt, parlons de ce que l'on peut rêver."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Les rêves sont comme des aventures magiques qui se passent dans notre tête pendant que nous dormons. Vous pouvez rêver de voler dans le ciel, de nager avec les poissons ou de courir dans un champ de fleurs. Imaginez toutes les belles choses que vous pourriez voir et faire dans vos rêves. Vous avez une imagination incroyable, et vos rêves peuvent être aussi merveilleux que vous le souhaitez. Maintenant, préparons-nous à plonger dans le monde des rêves!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous un rituel préféré avant de vous coucher? Peut-être aimez-vous écouter une histoire ou chanter une chanson? Ou peut-être préférez-vous câliner votre peluche préférée? Chaque enfant a sa propre façon de se détendre avant de dormir. Je suis curieux de savoir ce que vous aimez faire le plus. N'hésitez pas à partager vos petites habitudes avec moi. Maintenant, voyons comment nous pouvons rendre l'heure du coucher encore plus amusante."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "C'est amusant de créer un jeu autour de l'heure du coucher. Par exemple, nous pouvons imaginer que nous sommes des astronautes qui se préparent pour une mission spatiale de rêve. Chaque étape de notre routine devient une partie de notre préparation pour le décollage vers le pays des rêves. Mettre notre pyjama devient comme enfiler notre combinaison spatiale. Cela rend chaque moment avant le coucher plus excitant et amusant. Maintenant que nous avons parlé de ça, pensons à d'autres façons de rendre le coucher spécial."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Parfois, nous pouvons avoir du mal à nous endormir, et c'est tout à fait normal. Dans ces moments-là, il est utile de penser à des choses qui nous rendent heureux. Peut-être un souvenir d'une journée passée à jouer dans le parc ou un rire partagé avec un ami. Ces pensées joyeuses nous aident à nous sentir bien et à nous endormir paisiblement. Alors, la prochaine fois que vous avez du mal à vous endormir, essayez de penser à quelque chose qui vous fait sourire."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre astuce pour bien dormir est de faire un câlin à votre doudou préféré. Les câlins nous font sentir aimés et en sécurité. Vous pouvez aussi demander à un adulte de vous donner un câlin avant de dormir. Cela vous aidera à vous sentir entouré de chaleur et d'amour. Ces petits gestes font une grande différence pour passer une bonne nuit. Maintenant, parlons de comment vous pouvez vous réveiller en douceur le matin."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Le matin, se réveiller doucement est tout aussi important que de bien dormir. Vous pouvez commencer par ouvrir doucement les yeux et laisser la lumière entrer doucement dans votre chambre. Étirez-vous comme un chat qui se réveille après une sieste. Prenez le temps de bien respirer et de vous sentir prêt pour une nouvelle journée. Vous êtes prêt à vivre de nouvelles aventures! Maintenant, nous avons appris beaucoup de choses sur le coucher, terminons notre histoire avec un petit résumé."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nous avons découvert ensemble comment rendre l'heure du coucher douce et agréable. Avec des routines apaisantes, des histoires, des câlins et des rêves magiques, nous nous préparons pour une bonne nuit de sommeil. Chaque enfant a sa propre façon de se détendre avant de dormir, et c'est ce qui rend chaque coucher unique et spécial. J'espère que vous avez aimé notre petite aventure sur le sommeil. Maintenant, il est temps de passer à notre conclusion."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce moment avec moi, mes petits amis. J'ai adoré explorer l'heure du coucher avec vous et découvrir toutes ces belles façons de se préparer à dormir. Rappelez-vous, chaque nuit est une nouvelle aventure pleine de rêves merveilleux. Je suis toujours là si vous avez besoin de moi pour vous guider vers des nuits paisibles. Dormez bien, et à très bientôt pour une nouvelle histoire! Bonne nuit et beaux rêves!"
+    }
+  ],
+  "title": "Histoire de Bedtime de Bubu"
+}

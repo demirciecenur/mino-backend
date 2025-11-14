@@ -1,0 +1,98 @@
+{
+  "id": "swamp_buddy_hero_friendship_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Swamp Buddy Hero. Bugün birlikte arkadaşlık hakkında harika bir yolculuğa çıkacağız. Arkadaşlık, birbirimize nasıl destek olduğumuzu ve birlikte eğlendiğimizi anlatır. Hazır mısın? Seni çok merak ediyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, birbirimize güvendiğimiz ve birlikte zaman geçirdiğimiz özel bir bağdır. Bir arkadaşla oyun oynarken, birbirimize yardımcı olur ve eğlenceli anlar paylaşırız. Örneğin, bir arkadaşınla parkta salıncakta sallanmak ne kadar keyifli olur, değil mi? Arkadaşlar, üzüldüğümüzde bizi neşelendiren kişilerdir. Onlarla birlikte olmak, kalbimizi ısıtır ve bizi mutlu eder."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaş edinmek için neler yapabileceğimizi biliyor musun? İlk olarak, gülümsemek harika bir başlangıçtır. Gülümsemek, karşımızdaki kişiye 'Ben seninle tanışmak istiyorum' demenin bir yoludur. Ayrıca, oyun oynamak için bir arkadaşına katılmayı teklif edebilirsin. Bu, birlikte eğlenceli vakit geçirmenin kapısını açar. Unutma, arkadaşlık karşılıklı sevgi ve saygı gerektirir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte arkadaşlarımızla nasıl iyi vakit geçirebileceğimizi düşünelim. Mesela, birlikte bir hikaye uydurabilir veya resim çizebiliriz. Ya da belki bir oyun kurabiliriz, ne dersin? Oyun oynarken, sıra almayı ve paylaşmayı öğreniriz. Bu, arkadaşlarımızla daha iyi anlaşmamıza yardımcı olur. Harika bir iş çıkardığını söyleyebilirim!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda oyun oynamaktan bahsetmiştik. Şimdi, arkadaşlarımızla nasıl iletişim kuracağımızı düşünelim. İyi bir arkadaş, dinlemeyi bilir ve karşındakinin duygularını anlamaya çalışır. Mesela, bir arkadaşın üzgün olduğunda, ona sarılmak ve 'Her şey yoluna girecek' demek çok güzel bir destek olur. Arkadaşlarımızın yanında olmak, onların mutlu olmasına yardımcı olur."
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Arkadaşlarımızla eğlenmek için başka neler yapabiliriz? Birlikte dans edebilir, şarkılar söyleyebiliriz. Ya da belki birlikte bir lego kulesi inşa edebiliriz. Bu tür aktiviteler, arkadaşlarımızla bağlarımızı güçlendirir. Her zaman yeni şeyler deneyebiliriz, bu da arkadaşlığımızı daha da özel kılar. Sen harika bir arkadaşsın!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence bir arkadaş nasıl olmalı? Belki nazik, belki de komik? Senin için arkadaşlık ne ifade ediyor? Düşüncelerini duymak isterim. Haydi, bana anlat!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir arkadaşınla tartıştığında ne yapmalısın, hiç düşündün mü? Bazen anlaşmazlıklar yaşayabiliriz ve bu çok normaldir. Önemli olan, sorunu konuşarak çözmeye çalışmaktır. Birbirimizi anlamaya çalışmak, arkadaşlığımızı daha da güçlendirir. Her zaman dürüst ve nazik olmalıyız, bu da arkadaşlığı sağlam kılar."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda tartışmalardan bahsetmiştik. Şimdi, bir arkadaşına nasıl yardım edebileceğimizi düşünelim. Yardım etmek, bazen küçük bir şey olabilir, örneğin bir oyuncağı paylaşmak gibi. Ya da bir arkadaşımız zor bir şeyle karşılaştığında, onu cesaretlendirmek harika bir destek olur. Yardım etmek, arkadaşlığımızı daha da güçlendirir."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Birlikte güzel anılar biriktirmek için neler yapabiliriz? Mesela, doğum günü partileri düzenleyebilir veya pikniğe gidebiliriz. Bu tür etkinlikler, arkadaşlarımızla unutulmaz anlar yaşamamıza olanak tanır. Fotoğraflar çekebilir ve bu anıları saklayabiliriz. Böylece, yıllar sonra bu güzel günleri hatırlayabiliriz. Arkadaşlarımızla anılar biriktirmek çok değerli!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, birlikte derin bir nefes alalım ve birkaç saniye için gözlerimizi kapatalım. Arkadaşlarımızla geçirdiğimiz en güzel anı hatırlayalım. Bu anılar, kalbimizi ısıtır ve bize mutluluk verir. Unutma, sen harika bir arkadaşsın ve birlikte geçirdiğimiz zamanlar çok değerli. Hadi, nefes alıp verelim ve bu güzel anıyı kalbimizde saklayalım."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin en sevdiğin arkadaşın kim? Onunla neler yapmayı seviyorsun? Belki birlikte oyun oynamak, belki de hikayeler anlatmak. Anlatmak ister misin? Ben de seni dinlemek için buradayım."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlarımızla iletişim kurmak, onları daha iyi anlamamıza yardımcı olur. İletişim kurarken nazik ve anlayışlı olmak çok önemlidir. Mesela, bir arkadaşımızın fikrini dinlemek ve ona saygı göstermek, arkadaşlığımızı güçlendirir. Bu sayede, daha sağlıklı ve mutlu bir ilişki kurabiliriz. İletişim, arkadaşlığın anahtarıdır."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün arkadaşlık hakkında harika şeyler öğrendik. Seninle bu yolculuğa çıkmak çok eğlenceliydi. Unutma, arkadaşlık sevgi ve saygı üzerine kuruludur. Her zaman iyi bir arkadaş olmaya çalış ve yeni arkadaşlar edinmekten çekinme. Bir sonraki buluşmamızda görüşmek üzere, sevgili dostum!"
+    }
+  ],
+  "title": "Swamp Buddy Hero'ın Friendship Hikayesi"
+}

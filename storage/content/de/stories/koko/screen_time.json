@@ -1,0 +1,104 @@
+{
+  "id": "koko_Bildschirmzeit, digitale Sicherheit, Technologienutzung, gesunde Bildschirmgewohnheiten_story",
+  "character": "Koko",
+  "topic": "Bildschirmzeit, digitale Sicherheit, Technologienutzung, gesunde Bildschirmgewohnheiten",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Koko, dein Beschützer der digitalen Welt. Heute gehen wir auf eine spannende Reise über Bildschirmzeit, digitale Sicherheit und gesunde Gewohnheiten. Bist du bereit, mehr zu erfahren? Gemeinsam werden wir entdecken, wie du sicher und gesund mit Technologie umgehen kannst. Ich bin so neugierig, was du alles schon weißt!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über Abenteuer gesprochen haben? Nun, die digitale Welt ist wie ein großes Abenteuerland! Bildschirme können lustige Spiele und interessante Geschichten zeigen. Aber wir müssen aufpassen, nicht zu lange zu spielen. Warum? Weil unsere Augen auch Pausen brauchen, genauso wie unsere Beine nach dem Rennen."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber sprechen, wie wir unsere Bildschirmzeit gesund gestalten können. Wusstest du, dass es wichtig ist, nach einer Stunde Spielzeit eine Pause zu machen? In dieser Zeit können wir unsere Augen entspannen, indem wir aus dem Fenster schauen oder etwas malen. So bleiben unsere Augen stark und gesund!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Jetzt lass uns über digitale Sicherheit sprechen. Hast du schon einmal gehört, dass wir im Internet wie Detektive sein müssen? Wir sollten immer darauf achten, keine persönlichen Informationen zu teilen. Das ist wie ein Geheimnis, das wir sicher bewahren!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Denke daran, dass wir uns auch in der digitalen Welt gut benehmen. Das bedeutet, freundlich zu anderen zu sein, genauso wie im echten Leben. Wenn wir jemanden online treffen, sollten wir höflich sein und nette Worte verwenden. Das macht die digitale Welt zu einem besseren Ort für alle!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns über gesunde Bildschirmgewohnheiten nachdenken. Wusstest du, dass es wichtig ist, einen festen Platz zum Spielen zu haben? Ein bequemer Stuhl und ein Tisch sind perfekt. So sitzen wir richtig und unser Rücken bleibt stark und gesund. Probier es mal aus!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich ein großartiger Zuhörer! Jetzt lass uns gemeinsam zählen, wie oft wir heute schon Pausen gemacht haben. Eins, zwei, drei – super gemacht! Pausen helfen uns, unsere Energie zu behalten und immer bereit für neue Abenteuer zu sein. Du machst das toll!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal darüber nachgedacht, wie viele interessante Dinge du ohne Bildschirm entdecken kannst? Was würdest du am liebsten draußen machen? Vielleicht einen Baum besteigen oder ein neues Spiel erfinden? Ich bin gespannt auf deine Ideen!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns daran denken, dass wir immer jemanden fragen können, wenn wir uns unsicher fühlen. Eltern, Lehrer oder erwachsene Freunde können uns helfen, die richtige Entscheidung zu treffen. Sie sind wie unsere digitalen Superhelden, die uns beschützen!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wusstest du, dass es wichtig ist, die Helligkeit des Bildschirms zu regulieren? Ein zu heller Bildschirm kann unsere Augen ermüden. Am besten ist es, die Helligkeit so einzustellen, dass es angenehm für unsere Augen ist. Probier es mit einem Erwachsenen zusammen aus!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein fantastischer Lerner! Jetzt weißt du, wie du sicher und gesund mit Bildschirmen umgehen kannst. Erinnerst du dich an die Pausen und die richtige Sitzhaltung? Wunderbar! Diese kleinen Schritte machen einen großen Unterschied."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da du ein Experte bist, kannst du auch anderen Kindern helfen, gesunde Bildschirmgewohnheiten zu lernen. Vielleicht kannst du ihnen zeigen, wie man die Helligkeit einstellt oder warum Pausen wichtig sind. Deine Freunde werden beeindruckt sein!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du noch Fragen zu allem, was wir heute gelernt haben? Gibt es etwas, das du noch genauer wissen möchtest? Frag ruhig, denn ich bin hier, um dir zu helfen. Deine Neugier macht dich zu einem echten Entdecker!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Denke daran, dass du mit jedem Tag stärker und klüger wirst. Die digitale Welt ist ein aufregender Ort, und mit den richtigen Gewohnheiten kannst du sie sicher und gesund erkunden. Ich bin sehr stolz auf das, was du heute gelernt hast!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war ein wunderbares Abenteuer mit dir, kleiner Held! Jetzt weißt du, wie du sicher und gesund mit Bildschirmen umgehen kannst. Lass uns bald wieder auf Entdeckungsreise gehen. Tschüss und bis zum nächsten Mal, mein tapferer Freund!"
+    }
+  ],
+  "title": "Kokos Screen Time Geschichte"
+}

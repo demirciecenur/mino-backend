@@ -1,0 +1,104 @@
+{
+  "id": "spark_buddy_bedtime_story",
+  "character": "Spark Buddy",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mon petit ami! Je suis Spark Buddy, et aujourd'hui, nous allons explorer le monde merveilleux du coucher. Es-tu prêt pour une aventure douce et relaxante? Je suis tellement heureux de te voir ici avec moi. Nous allons apprendre comment bien se préparer pour le sommeil. C'est parti pour une nuit pleine de rêves doux!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le coucher, c'est un moment spécial pour se détendre après une journée bien remplie. Savais-tu que suivre une routine peut t'aider à t'endormir plus facilement? Par exemple, prendre un bain chaud est relaxant et prépare ton corps au sommeil. Ensuite, mettre ton pyjama préféré te fait sentir confortable et prêt pour le lit. N'oublie pas de dire bonne nuit à tes jouets avant de te coucher!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de la brosse à dents magique! Se brosser les dents avant de dormir est une étape importante. Cela rend tes dents toutes propres et brillantes, comme une étoile dans le ciel. Imagine que ta brosse à dents est une baguette magique qui chasse tous les petits monstres de sucre. Frotte doucement chaque dent, de haut en bas, et n'oublie pas la langue!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super travail! Tes dents sont maintenant toutes propres! Maintenant, on va lire une histoire ensemble. Les histoires sont comme des petits voyages dans notre imagination avant de dormir. Choisis ton livre préféré et installons-nous confortablement. C'est un moment parfait pour se détendre et laisser notre esprit s'envoler vers des mondes magiques."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après avoir lu une belle histoire, il est temps de se calmer encore plus. Savais-tu que respirer profondément peut t'aider à te détendre? Inspirons ensemble en comptant jusqu'à trois... Un, deux, trois... et maintenant, expirons doucement. C'est comme souffler une bougie d'anniversaire! Sentons comment notre corps devient tout léger et prêt à dormir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "La chambre est-elle prête pour une bonne nuit de sommeil? Assure-toi que la lumière est douce et tamisée. Peut-être as-tu une veilleuse qui te tient compagnie pendant la nuit. Avoir son doudou préféré à côté peut aussi être très rassurant. Ajuste tes couvertures pour être bien au chaud. Tout est parfait pour une nuit de doux rêves!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, tu as fait tout ce qu'il fallait pour te préparer à dormir! Maintenant, ferme doucement tes yeux et pense à quelque chose qui te rend heureux. Peut-être un moment amusant que tu as passé aujourd'hui ou un endroit magique que tu aimerais visiter en rêve. Tes rêves seront remplis de couleurs et de rires."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tu sais, les rêves sont comme de petites aventures que nous vivons pendant que nous dormons. Ils peuvent nous emmener dans des forêts enchantées ou sur des plages ensoleillées. Tu peux même voler avec les étoiles! Chaque rêve est unique et spécial, tout comme toi. Alors, laisse-toi emporter par ces aventures féeriques."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Si jamais tu te réveilles au milieu de la nuit, n'oublie pas que tu es en sécurité et que ton lit est un endroit douillet. Repose-toi un moment, respire profondément, et retourne dans tes rêves. Parfois, imaginer des nuages doux ou des papillons colorés peut t'aider à te rendormir. Tu es capable de tout!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "La nuit est un moment pour se reposer et se ressourcer. Demain sera une nouvelle journée pleine de découvertes et de jeux. Tu te réveilleras plein d'énergie, prêt pour de nouvelles aventures. Tu es un vrai champion du sommeil! Continue comme ça, tu fais un travail incroyable."
+    },
+    {
+      "id": "question_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, quelle est ta partie préférée de la routine du coucher? Est-ce le moment de lire une histoire ou peut-être de câliner ton doudou? J'aimerais beaucoup savoir ce que tu préfères! Chaque enfant a sa propre routine spéciale qui le rend heureux. Partager tes idées peut être amusant!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Merci d'avoir partagé! Chaque petit détail rend le coucher encore plus magique. Peut-être aimerais-tu essayer une nouvelle histoire demain ou inventer un conte ensemble. Les possibilités sont infinies et pleines de fantaisie. Tu es une source d'inspiration pour créer des moments inoubliables."
+    },
+    {
+      "id": "scene_12",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Écoute, les étoiles dans le ciel brillent juste pour toi. Elles te souhaitent une bonne nuit et de beaux rêves. Imagine qu'elles te racontent des histoires de galaxies lointaines. Ferme les yeux et écoute leur douce mélodie. C'est un moment parfait pour se sentir calme et aimé."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tu as fait un travail formidable pour te préparer à dormir ce soir. Chaque étape de ta routine t'a aidé à te sentir paisible et prêt pour une bonne nuit de sommeil. Demain, nous pourrons explorer encore plus de façons de rendre le coucher spécial. N'oublie pas que tu es fantastique, et que tu rêves de belles choses."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'est l'heure de dire au revoir, petit ami. Merci d'avoir passé ce moment avec moi, Spark Buddy. Je serai toujours là pour t'aider à rendre ton coucher extraordinaire. Passe une nuit merveilleuse et souviens-toi que tu es aimé. À demain pour de nouvelles aventures!"
+    }
+  ],
+  "title": "Histoire de Bedtime de Spark Buddy"
+}

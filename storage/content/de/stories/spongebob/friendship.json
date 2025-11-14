@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_friendship_story",
+  "character": "Bubble Buddy",
+  "topic": "friendship",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Bubble Buddy und heute gehen wir auf ein spannendes Abenteuer über Freundschaft. Bist du bereit? Ich bin so neugierig, was wir alles entdecken werden. Zusammen werden wir viele lustige Dinge über Freunde und das Spielen lernen. Ich freue mich schon sehr darauf, mit dir zu plaudern und zu spielen. Lass uns anfangen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft ist etwas ganz Besonderes. Es bedeutet, jemanden zu haben, mit dem man spielen und lachen kann. Freunde helfen sich gegenseitig und haben immer Spaß zusammen. Weißt du, wenn man zusammen spielt, werden sogar die einfachsten Dinge aufregend. Lass uns darüber sprechen, wie man Freundschaften schließen kann."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Um Freunde zu finden, kannst du zuerst freundlich lächeln. Ein Lächeln zeigt, dass du bereit bist, neue Freunde zu finden. Wenn du jemanden siehst, der alleine spielt, kannst du fragen: 'Möchtest du mit mir spielen?' Es ist immer schön, jemandem Gesellschaft zu leisten. Du wirst sehen, dass viele Kinder gerne neue Freunde finden möchten."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns gemeinsam üben! Stell dir vor, du bist auf dem Spielplatz. Siehst du ein Kind, das alleine ist? Gehe hin und sage: 'Hallo, ich bin [dein Name]. Möchtest du zusammen spielen?' Großartig! Du hast den ersten Schritt gemacht, um einen neuen Freund zu finden. Du kannst es immer wieder versuchen, und wer weiß, welche tollen Freunde du finden wirst."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft bedeutet auch, freundlich zu sein und zu teilen. Wenn du ein Spielzeug hast, das dein Freund mag, ist es schön, es zu teilen. Teilen macht das Spielen noch lustiger und zeigt, dass du ein guter Freund bist. Und wenn dein Freund etwas mit dir teilt, ist das ein Zeichen, dass er dich mag. So werden Freundschaften immer stärker."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Erinnerst du dich, wie wichtig es ist, zuzuhören? Wenn dein Freund etwas erzählt, hör ihm genau zu. So zeigst du, dass du interessiert bist und ihm wichtig bist. Du kannst auch Fragen stellen, um mehr zu erfahren. Zum Beispiel: 'Was ist dein Lieblingsspiel?' oder 'Welches Tier magst du am liebsten?' Das macht das Gespräch spannend."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns eine kleine Übung machen. Stell dir vor, dein Freund erzählt dir von seinem Lieblingstier. Du hörst aufmerksam zu und nickst. Dann sagst du: 'Wow, das klingt toll! Ich mag Tiere auch sehr gern.' Das zeigt deinem Freund, dass du interessiert bist und macht das Gespräch noch schöner. Super gemacht!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal einen Freund getröstet, wenn er traurig war? Wie hast du ihm geholfen? Manchmal reicht es, einfach da zu sein und zuzuhören. Ein freundliches Wort oder eine Umarmung kann viel bewirken. Was denkst du, wie fühlt sich dein Freund, wenn du ihm hilfst? Es ist schön, füreinander da zu sein."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Wenn man zusammen spielt, kann man viele neue Dinge lernen. Zum Beispiel, wie man ein Spiel fair spielt oder wie man Geduld hat, wenn man warten muss. Diese Dinge machen das Spielen noch schöner und helfen uns, bessere Freunde zu werden. Es ist wichtig, dass alle Spaß haben und sich wohlfühlen. So bleibt die Freundschaft stark und fröhlich."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Manchmal gibt es Missverständnisse zwischen Freunden. Das ist ganz normal. Es ist wichtig, darüber zu sprechen und die Gefühle des anderen zu verstehen. Du kannst sagen: 'Ich habe das nicht so gemeint. Können wir darüber reden?' Das zeigt, dass du die Freundschaft schätzt und daran arbeiten möchtest. So könnt ihr Missverständnisse klären und wieder lachen."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns eine kleine Atemübung machen. Atme tief ein... und aus. Noch einmal: ein... und aus. Das hilft, ruhig zu bleiben, wenn man sich mit einem Freund unterhält. So kannst du klarer denken und besser zuhören. Tolle Arbeit! Du bist ein wunderbarer Freund."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du einen besten Freund? Was magst du am meisten an ihm? Vielleicht ist es sein Lachen oder die Art, wie er Geschichten erzählt. Es ist schön, besondere Dinge über unsere Freunde zu wissen. Was denkst du, mag dein Freund an dir? Vielleicht bist du besonders gut im Teilen oder hast immer tolle Ideen. Es ist toll, darüber nachzudenken!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel über Freundschaft gelernt haben, können wir all das anwenden. Denke daran, dass jeder Tag eine neue Chance ist, einen neuen Freund zu finden oder eine bestehende Freundschaft zu stärken. Mit einem Lächeln und einer freundlichen Einstellung kannst du die Welt um dich herum ein wenig heller machen. Und vergiss nicht, dass du ein toller Freund bist!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Wir haben heute viel über Freundschaft gesprochen. Weißt du noch, wie man ein guter Freund ist? Richtig, lächeln, zuhören und teilen. All das macht Freundschaften stark. Und wenn du mal traurig bist, erinnere dich daran, dass Freunde immer da sind, um dir zu helfen. Lass uns morgen wieder zusammen spielen und mehr über Freundschaft lernen."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, heute mit dir über Freundschaft zu sprechen. Ich hoffe, du hattest genauso viel Spaß wie ich. Denke daran, dass du jeden Tag ein bisschen mehr über Freundschaft lernen kannst. Ich freue mich schon, bald wieder von dir zu hören. Bis bald, kleiner Freund, und denk daran, immer fröhlich zu sein! Tschüss!"
+    }
+  ],
+  "title": "Bubble Buddys Friendship Geschichte"
+}

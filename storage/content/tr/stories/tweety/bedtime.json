@@ -1,0 +1,104 @@
+{
+  "id": "chirpy_birdie_bedtime_story",
+  "character": "Chirpy Birdie",
+  "topic": "bedtime",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Chirpy Birdie. Bugün birlikte uyku zamanı hakkında harika bir yolculuğa çıkacağız. Yatmadan önce neler yapabileceğimizi konuşacağız. Hazır mısın? Seni çok merak ediyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku zamanı geldiğinde, vücudumuzun dinlenmesi ve büyümesi için uykuya ihtiyacı vardır. Yatmadan önce rahatlamak ve sakinleşmek önemlidir. Rahatlamak için en sevdiğimiz oyuncakları yanımıza alabiliriz. Belki de bir uyku hikayesi dinlemek istersin? Bu, uykuya dalmanı kolaylaştırabilir ve seni tatlı rüyalara götürebilir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Uykuya hazırlanırken dişlerimizi fırçalamak önemlidir. Dişlerimizi fırçalamak, onları temiz ve sağlıklı tutar. Ayrıca, pijamalarımızı giyerek rahat bir uyku için hazır hale geliriz. Pijamalarımızı giydiğimizde kendimizi daha rahat ve sıcak hissederiz. Şimdi, sen de dişlerini fırçalamak ve pijamalarını giymek ister misin?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika, sen bunu yapabilirsin! Dişlerini fırçalarken, diş fırçanı sağa ve sola hareket ettir. Bu, dişlerindeki tüm kirleri temizler. Pijamalarını giydikten sonra kendini bir battaniyenin altında gibi güvende hissedeceksin. Harika iş çıkarıyorsun! Şimdi birlikte bir sonraki adıma geçelim."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Yatmadan önce su içmek de iyi bir fikirdir. Su içmek, vücudumuzun susuz kalmasını önler. Ayrıca, gece boyunca rahatça uyuyabilmemiz için önemlidir. Ancak çok fazla su içmezsek, gece tuvalete kalkmamız gerekmez. Şimdi, bir bardak su içmeyi unutma!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, yatağımızı hazırlama zamanı. Yastığımızı ve yorganımızı düzelterek rahat bir uyku ortamı yaratabiliriz. Yastığımızın yumuşak ve rahat olması, uykuya dalmamıza yardımcı olur. Yorganımız ise bizi sıcak tutar ve huzurlu bir uyku sağlar. Yatağını hazırladıysan, şimdi sıra başka bir eğlenceli etkinlikte!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, en sevdiğin uyku hikayesini seçebilirsin! Hikayeler, uykuya dalarken hayal gücümüzü harekete geçirir. Hikayelerle dolu bir uyku, rüyalarımızın daha renkli ve eğlenceli olmasına yardımcı olur. Senin en sevdiğin hikaye nedir? Birlikte dinleyelim mi?"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Uykuya dalmadan önce, hangi hikayeyi dinlemek istersin? Belki de bir prensesin maceralarını ya da cesur bir kahramanın hikayesini? Ya da belki de hayvanların dünyasında geçen bir hikaye? Hangi hikaye seni heyecanlandırır? Hadi düşün ve bana söyle!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Seçtiğin hikaye harika! Şimdi, gözlerini kapat ve hikayeyi dinlerken hayal et. Hikaye boyunca hayal dünyanda dolaş ve yeni maceralar keşfet. Her bir kelime seni daha derin bir uykuya taşısın. Şimdi, birlikte hikayelerle dolu bir uykuya dalalım."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uykuya dalmak için nefes egzersizleri yapmak da yardımcı olabilir. Derin bir nefes al ve yavaşça ver. Bu, bedenimizi ve zihnimizi rahatlatır. Üç kere derin nefes alıp vermek, uykuya geçişimizi kolaylaştırır. Hadi birlikte deneyelim, derin nefes al ve yavaşça ver."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Uykuya dalarken, bir uyku arkadaşı da yanımızda olabilir. Sevdiğin bir peluş oyuncak ya da battaniye, uykuya dalmana yardımcı olabilir. Kendini daha güvende hissetmeni sağlar. Uyku arkadaşınla birlikte uykuya dalmak, rüyalarının daha tatlı olmasına yardımcı olur. Senin uyku arkadaşın kim?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir seçim! Uyku arkadaşınla birlikte uykuya dalmak çok güzel bir duygu. Şimdi, gözlerini kapat ve rahat bir uyku için hazır ol. Seninle birlikte uykuya dalmak için sabırsızlanıyorum. Unutma, uyku zamanı dinlenmek ve yeni maceralara hazırlanmak demektir. İyi uykular!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku zamanı rutinleri, her gece aynı şekilde yapılırsa, uykuya geçişi kolaylaştırır. Bu rutinler, vücudumuzun uykuya hazırlandığını anlamasına yardımcı olur. Her gece aynı saatte yatmak, düzenli bir uyku alışkanlığı oluşturur. Bu da sabahları daha enerjik uyanmamızı sağlar. Rutinlerini oluşturmak için neler yapabileceğini düşündün mü?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Uyku zamanı rutinlerin neler olabilir? Diş fırçalama, pijama giyme, su içme gibi alışkanlıklar mı? Yoksa uyku öncesi hikaye dinlemek mi? Her gece aynı şeyleri yaparak, uykuya geçişin daha kolay olabilir. Senin uyku zamanı rutinlerin neler olacak, düşündün mü?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte uyku zamanı hakkında çok şey öğrendik. Seninle bu yolculuğa çıkmak çok keyifliydi. Unutma, her gece uykuya hazırlanmak, sağlıklı bir yaşam için önemlidir. Şimdi, güzel bir uyku çek ve tatlı rüyalar gör. İyi geceler, küçük dostum! Yarın yine görüşmek üzere!"
+    }
+  ],
+  "title": "Chirpy Birdie'ın Bedtime Hikayesi"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "bubu_Bildschirmzeit, digitale Sicherheit, Technologienutzung, gesunde Bildschirmgewohnheiten_story",
+  "character": "Bubu",
+  "topic": "Bildschirmzeit, digitale Sicherheit, Technologienutzung, gesunde Bildschirmgewohnheiten",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Bubu, und heute gehen wir auf eine spannende Reise, um über Bildschirmzeit, digitale Sicherheit und gesunde Gewohnheiten zu sprechen. Bist du bereit? Wir werden zusammen lernen, wie man sicher mit Technologie umgeht und dabei Spaß hat. Ich bin so neugierig, was du schon alles weißt! Lass uns gemeinsam neue Dinge entdecken."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Spielen draußen gesprochen haben? Heute geht es darum, wie wir sicher und gesund mit Bildschirmen umgehen können. Bildschirme sind überall um uns herum, wie bei Fernsehern, Tablets und Handys. Es ist wichtig, zu wissen, wie man sie richtig benutzt, damit unsere Augen nicht müde werden. Wir wollen auch sicherstellen, dass wir genug Zeit für andere lustige Aktivitäten haben."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber sprechen, wie lange wir Bildschirme benutzen sollten. Zu viel Bildschirmzeit kann unsere Augen belasten und uns müde machen. Es ist gut, Pausen zu machen und zwischendurch aufzustehen, um sich zu bewegen. Vielleicht kannst du ja ein bisschen tanzen oder hüpfen, wenn du eine Pause machst. So bleibt dein Körper fit und gesund!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns gemeinsam eine kleine Übung machen. Zähle mit mir bis fünf, während wir tief ein- und ausatmen. Eins, zwei, drei, vier, fünf. Gut gemacht! Diese Atempausen helfen uns, uns besser zu fühlen, wenn wir zu lange auf einen Bildschirm geschaut haben. Du machst das großartig!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nun, lass uns über digitale Sicherheit sprechen. Weißt du, was das bedeutet? Es geht darum, sicher im Internet zu sein, damit niemand deine persönlichen Informationen bekommt. Zum Beispiel sollten wir keine Bilder oder Namen online teilen, ohne Mama oder Papa zu fragen. Sicherheit ist genauso wichtig wie Spaß!"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal von einem Passwort gehört? Weißt du, warum es wichtig ist? Ein Passwort ist wie ein geheimer Schlüssel, der deine Informationen schützt. Hast du ein Lieblingswort, das du als geheimes Wort benutzen würdest, wenn du ein Passwort brauchst? Denk daran, es mit Mama oder Papa zu teilen, damit sie helfen können, es sicher zu halten."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns über gesunde Bildschirmgewohnheiten sprechen. Es ist gut, eine feste Zeit für Bildschirme zu haben, genauso wie wir feste Zeiten zum Essen oder Schlafen haben. Vielleicht kannst du eine Uhr benutzen, um zu wissen, wann es Zeit ist, den Bildschirm auszuschalten und etwas anderes zu spielen. Das hilft dir, einen guten Rhythmus zu finden!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das richtig gut mit dem Planen deiner Bildschirmzeit! Es ist wichtig, auch andere Dinge zu tun, wie draußen zu spielen oder ein Buch zu lesen. Das hält deinen Geist und Körper stark. Und weißt du was? Du kannst deine Freunde einladen, mit dir zu spielen. Gemeinsam macht es noch mehr Spaß!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über Sicherheit und Gewohnheiten gesprochen haben, lass uns überlegen, wie wir Technologie sinnvoll nutzen können. Zum Beispiel kannst du mit Mama oder Papa ein lustiges Lernspiel spielen. Es gibt viele Spiele, die dir helfen, neue Dinge zu lernen, während du Spaß hast. Technologie kann ein tolles Werkzeug sein, wenn wir sie klug nutzen!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich, als wir über das Teilen von Bildern gesprochen haben? Es ist wichtig, vorsichtig zu sein, was wir online teilen. Vielleicht möchtest du ein Bild von deinem Haustier zeigen. Aber wir sollten immer fragen, bevor wir etwas posten. So bleiben wir sicher und können trotzdem Spaß mit unseren Freunden haben."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was ist dein Lieblingsspiel auf dem Tablet oder Handy? Hast du ein Spiel, das du gerne mit Mama oder Papa spielst? Spiele können viel Spaß machen, besonders wenn wir sie zusammen spielen. Es ist auch eine gute Möglichkeit, neue Dinge zu lernen. Vielleicht kannst du mir von deinem Lieblingsspiel erzählen!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns noch einmal darüber sprechen, wie wichtig es ist, Pausen zu machen. Wenn wir eine Weile auf den Bildschirm geschaut haben, ist es gut, aufzustehen und sich zu strecken. Vielleicht kannst du auch ein kleines Lied singen oder ein Bild malen. Diese Pausen helfen dir, dich besser zu fühlen und mehr Energie zu haben."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig mit deinen Pausen! Es ist so wichtig, sich um unseren Körper und unseren Geist zu kümmern. Wenn wir gut auf uns achten, können wir noch mehr Spaß an unseren Spielen und Aktivitäten haben. Du bist ein echter Bildschirmzeit-Experte geworden!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel über gesunde Bildschirmgewohnheiten gelernt haben, können wir diese Tipps jeden Tag anwenden. Denke daran, immer Mama oder Papa um Hilfe zu bitten, wenn du dir unsicher bist. Sie sind da, um dir zu helfen, sicher und glücklich zu sein. Und vergiss nicht, Spaß zu haben, während du lernst!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Bildschirmzeit und Sicherheit zu sprechen. Du hast so viel gelernt, und ich bin sehr stolz auf dich. Jetzt kannst du deinen Tag mit vielen lustigen und sicheren Aktivitäten füllen. Ich freue mich darauf, bald wieder mit dir zu sprechen. Auf Wiedersehen, kleiner Freund, und bis zum nächsten Mal!"
+    }
+  ],
+  "title": "Bubus Screen Time Geschichte"
+}

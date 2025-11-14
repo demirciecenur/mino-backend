@@ -1,0 +1,98 @@
+{
+  "id": "frost_friend_sid_behavior_story",
+  "character": "Frost Friend Sid",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Frost Friend Sid. Bugün birlikte davranışlar hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Davranışlar, nasıl iyi bir arkadaş olunacağını ve kurallara uymanın neden önemli olduğunu öğrenmemize yardımcı olur. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda davranışların öneminden bahsettik. Şimdi, iyi davranışların neler olduğunu keşfedelim. İyi davranışlar, arkadaşlarımızla iyi geçinmemizi sağlar. Mesela, oyuncaklarımızı paylaşmak ve sıra beklemek gibi. Bu davranışlar, etrafımızdaki insanlarla daha mutlu olmamıza yardım eder."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Peki, iyi bir davranış nasıl olur? Bunun için çevremizdeki kurallara dikkat etmeliyiz. Kurallar, hepimizin güvende ve mutlu kalmasını sağlar. Örneğin, yemek yerken ellerimizi yıkamak ya da trafikte karşıdan karşıya geçerken dikkatli olmak gibi. Bu kurallar, hem kendimize hem de başkalarına saygı göstermemizi sağlar."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bazı iyi davranışları deneyelim mi? Örneğin, bir arkadaşımıza gülümseyebiliriz ya da ona yardım edebiliriz. Bu tür davranışlar bizi daha iyi hissettirir ve başkalarını mutlu eder. Haydi, bunu birlikte yapalım ve harika bir arkadaş olmanın tadını çıkaralım!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hatırlıyor musun, kuralların neden önemli olduğunu konuşmuştuk. Şimdi, kurallara uymanın günlük hayatımızı nasıl kolaylaştırdığına bakalım. Örneğin, okula zamanında gitmek ve öğretmenimizi dinlemek gibi. Bu davranışlar, öğrenmemizi ve yeni şeyler keşfetmemizi sağlar."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir sonraki adımda, kötü davranışların nelere yol açabileceğine bakalım. Kötü davranışlar, hem bizi hem de çevremizdekileri üzebilir. Mesela, arkadaşlarımıza kaba davranmak ya da kuralları çiğnemek gibi. Bunlar, ilişkilerimizi zorlaştırabilir ve kendimizi yalnız hissetmemize neden olabilir."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ama endişelenme, iyi davranışlar öğrenilebilir! Her gün küçük adımlarla başlayabiliriz. Mesela, sabah kalktığımızda yatağımızı toplamak ya da dişlerimizi fırçalamak gibi. Bu tür alışkanlıklar, hem sağlığımızı hem de mutluluğumuzu artırır. Sen de bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede iyi alışkanlıklar edinmekten bahsettik. Şimdi, bu alışkanlıkları nasıl sürdürebileceğimizi konuşalım. Bir alışkanlığı sürdürmek, onu her gün tekrar etmekle olur. Örneğin, her akşam yatmadan önce kitap okumak veya oyuncaklarımızı toplamak gibi. Bu şekilde, her gün biraz daha iyi olabiliriz."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Senin en sevdiğin iyi davranış nedir? Belki oyuncaklarını paylaşmak ya da bir arkadaşına yardım etmek olabilir. Bu tür davranışlar, seni ve çevrendekileri mutlu eder. Senin cevabını duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Harika bir cevap verdin! Şimdi, bu iyi davranışları daha da nasıl geliştirebileceğimizi düşünelim. Her gün yeni bir şey öğrenmek ve denemek, bizi daha iyi bir insan yapar. Örneğin, yeni bir arkadaş edinebilir ya da farklı bir etkinlik deneyebiliriz. Bu tür deneyimler, dünyayı daha renkli görmemizi sağlar."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda yeni şeyler denemenin öneminden bahsettik. Şimdi, bu deneyimlerin bize neler kattığına bakalım. Yeni şeyler denemek, cesaretimizi ve özgüvenimizi artırır. Ayrıca, farklı insanlarla tanışmamıza ve yeni arkadaşlıklar kurmamıza yardımcı olur. Bu da hayatı daha eğlenceli hale getirir!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte, günlük hayatımızda iyi davranışları nasıl uygulayabileceğimize odaklanalım. Örneğin, sabahları ailemize günaydın demek ya da akşamları onlara iyi geceler dilemek gibi. Bu tür basit davranışlar bile, sevdiklerimize ne kadar değer verdiğimizi gösterir. Sen de bu davranışları denemek ister misin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Unutma, iyi davranışlar her zaman takdir edilir. Birine yardım ettiğimizde ya da nazik davrandığımızda, insanlar bunu fark eder. Bu, hem kendimizi hem de başkalarını mutlu eder. Sen de bu tür davranışları hayatının bir parçası haline getirebilirsin. Hadi, birlikte harika işler başaralım!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika şeyler öğrendik, değil mi? Davranışların neden önemli olduğunu ve nasıl daha iyi biri olabileceğimizi keşfettik. Şimdi, öğrendiklerimizi uygulama zamanı. Seninle bu yolculuğu paylaşmak çok güzeldi. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Frost Friend Sid'ın Behavior Hikayesi"
+}

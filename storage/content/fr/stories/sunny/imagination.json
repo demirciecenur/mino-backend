@@ -1,0 +1,104 @@
+{
+  "id": "sunny_imagination_story",
+  "character": "Sunny",
+  "topic": "imagination",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis ! Je suis Sunny. Aujourd'hui, nous allons partir dans une aventure incroyable sur l'imagination. Êtes-vous prêts ? L'imagination est comme une porte magique qui nous emmène dans des endroits fascinants. Je suis tellement curieux de savoir où votre imagination va nous conduire aujourd'hui. Alors, mettons nos chapeaux d'explorateurs et commençons notre voyage !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est quelque chose de vraiment spécial. C'est comme un super pouvoir que tout le monde a. Quand tu imagines, tu peux créer des mondes entiers dans ta tête. Par exemple, tu peux imaginer que tu es un pirate à la recherche d'un trésor caché. Ou peut-être que tu es un astronaute volant dans l'espace. Avec l'imagination, tout est possible !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons d'utiliser notre imagination ensemble. Fermez les yeux et imaginez que nous sommes dans une forêt enchantée. Les arbres sont si hauts qu'ils touchent presque le ciel. Il y a des oiseaux colorés qui chantent des mélodies joyeuses. Et là-bas, il y a une rivière brillante qui coule doucement. L'imagination nous permet de voir tout cela sans quitter notre maison. N'est-ce pas merveilleux ?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super travail ! Vous êtes vraiment doués pour imaginer. Maintenant, que diriez-vous de créer une histoire ensemble ? Peut-être que dans notre forêt enchantée, il y a un gentil dragon qui aime jouer avec les enfants. Il peut cracher des bulles au lieu de feu. Vous voyez, en utilisant notre imagination, nous pouvons rendre les choses encore plus amusantes et fantastiques. Continuez comme ça !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous lorsque nous avons imaginé la forêt enchantée ? Maintenant, pensons à ce que nous pourrions faire là-bas. Peut-être que nous pourrions construire une cabane dans les arbres avec le dragon. Ou nous pourrions organiser un grand pique-nique avec tous les animaux de la forêt. L'imagination nous permet de créer toutes sortes d'activités amusantes. Que préférez-vous faire ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour rendre notre histoire encore plus intéressante, ajoutons un peu de magie. Imaginez que nous avons une baguette magique qui peut transformer les choses. Avec cette baguette, nous pouvons faire pousser des fleurs géantes ou faire apparaître des arcs-en-ciel. Quand nous utilisons notre imagination, nous pouvons ajouter des éléments magiques à nos histoires. C'est comme si nous étions de vrais magiciens !"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Avez-vous déjà imaginé être un super-héros ? Peut-être que vous avez un costume avec des couleurs vives et un masque mystérieux. Votre super pouvoir pourrait être de voler dans le ciel ou de parler aux animaux. L'imagination nous permet d'essayer différents rôles et d'explorer de nouvelles idées. Quels super pouvoirs aimeriez-vous avoir ?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "C'est fantastique ! Vous avez des idées extraordinaires. L'imagination est un outil puissant qui nous aide à penser de manière créative. Quand nous imaginons, nous apprenons à résoudre des problèmes et à inventer de nouvelles choses. Alors, continuez à imaginer et à explorer. Vous êtes de vrais petits génies !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, l'imagination peut aussi nous aider à nous détendre. Imaginez un endroit calme et paisible, comme une plage au coucher du soleil. Le sable est doux sous vos pieds et les vagues murmurent doucement. En utilisant votre imagination, vous pouvez créer un espace de tranquillité dans votre esprit. Cela peut être très apaisant, surtout après une journée bien remplie."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons d'imaginer ensemble une journée parfaite. Peut-être qu'elle commence par un délicieux petit déjeuner avec des crêpes et du jus d'orange. Ensuite, nous pourrions aller jouer dans le parc avec nos amis. L'après-midi, nous pourrions faire un dessin ou lire une histoire. Et le soir, nous pourrions regarder les étoiles et faire des vœux. L'imagination nous permet de rêver de journées merveilleuses."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Alors, qu'est-ce que vous aimez imaginer le plus ? Est-ce que ce sont des aventures dans les nuages ou des histoires de chevaliers et de princesses ? Peut-être que vous aimez imaginer des animaux qui parlent ou des robots qui dansent. L'imagination est un terrain de jeu infini où tout le monde peut s'amuser. Je serais ravi de savoir ce qui vous fait rêver !"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est aussi partager des histoires avec nos amis et notre famille. Quand nous racontons ce que nous avons imaginé, nous partageons un peu de notre monde intérieur. Cela peut inspirer les autres à imaginer à leur tour. Et ensemble, nous pouvons créer des histoires encore plus grandes et plus belles. L'imagination grandit quand elle est partagée."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons de créer une petite histoire ensemble. Imaginez un chat qui joue au football avec ses amis. Le ballon est fait de laine et les buts sont des paniers à linge. Chaque fois que le chat marque un but, il fait une danse amusante. En ajoutant des détails, notre histoire devient plus vivante. Que pensez-vous que le chat fera ensuite ?"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Votre imagination est vraiment incroyable ! Chaque idée que vous avez rend notre histoire plus spéciale. N'oubliez jamais que l'imagination est un trésor précieux que vous avez toujours avec vous. Elle vous aide à apprendre, à créer et à vous amuser. Continuez à rêver et à imaginer, car le monde a besoin de vos histoires uniques."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir voyagé avec moi dans le monde de l'imagination, mes chers amis. J'ai adoré entendre toutes vos idées merveilleuses. L'imagination est un cadeau incroyable que vous pouvez utiliser chaque jour. Je suis sûr que vous ferez des choses extraordinaires avec elle. À bientôt pour de nouvelles aventures !"
+    }
+  ],
+  "title": "Histoire de Imagination de Sunny"
+}

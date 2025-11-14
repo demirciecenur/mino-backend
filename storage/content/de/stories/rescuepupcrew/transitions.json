@@ -1,0 +1,104 @@
+{
+  "id": "rescue_pup_crew_transitions_story",
+  "character": "Rescue Pup Crew",
+  "topic": "transitions",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleine Freunde! Ich bin das Rettungshunde-Team. Heute begeben wir uns auf ein spannendes Abenteuer über Übergänge. Weißt du, was ein Übergang ist? Es ist, wenn sich etwas verändert, wie wenn du von einem Spiel zum Abendessen wechselst. Bist du bereit, mehr zu erfahren? Ich freue mich schon darauf, mit dir zu lernen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Übergänge passieren jeden Tag. Zum Beispiel, wenn du morgens aufwachst und dich für den Tag fertig machst. Oder wenn es Zeit ist, ins Bett zu gehen. Diese Veränderungen können aufregend sein, aber manchmal auch ein bisschen schwierig. Deshalb sind wir hier, um zu helfen und gemeinsam darüber zu sprechen. Können wir das schaffen? Ja, wir können!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber sprechen, wie du dich auf einen Übergang vorbereiten kannst. Eine Möglichkeit ist, vorher zu wissen, was passieren wird. Zum Beispiel, wenn du weißt, dass es bald Zeit ist, deine Spielsachen aufzuräumen, kannst du dich darauf einstellen. Es hilft auch, wenn du eine Routine hast, wie das Zähneputzen vor dem Schlafengehen. So weißt du immer, was als nächstes kommt. Und wenn du nicht sicher bist, kannst du immer fragen!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt probieren wir etwas Lustiges aus! Stell dir vor, du bist ein Superheld, der sich auf ein neues Abenteuer vorbereitet. Atme tief ein und aus, wie ein großer, mutiger Löwe. Fühlst du dich schon stärker? Wunderbar! Du bist bereit für alles, was kommt. Lass uns das nächste Abenteuer angehen!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über Routinen gesprochen haben? Routinen helfen uns, uns sicher zu fühlen. Wie wenn du jeden Abend deine Lieblingsgeschichte hörst. Diese kleinen Dinge machen den Tag vorhersehbar und angenehm. Und wenn sich etwas ändert, können wir immer einen neuen Plan machen. Jetzt lass uns überlegen, wie wir mit Veränderungen umgehen können."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn ein Übergang kommt, ist es gut, ruhig zu bleiben. Zähle langsam bis fünf, um dich zu beruhigen. Eins, zwei, drei, vier, fünf. Jetzt fühle, wie du dich entspannst. Es ist wichtig, sich daran zu erinnern, dass Veränderungen normal sind. Und wir können sie gemeinsam meistern!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Veränderungen sind wie neue Abenteuer, die darauf warten, entdeckt zu werden. Stell dir vor, du bist auf einer Schatzsuche. Jeder Übergang ist ein neuer Schatz, den du finden kannst. Glaub an dich selbst, denn du bist ein mutiger Entdecker!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns über Freunde sprechen. Freunde können helfen, Übergänge einfacher zu machen. Vielleicht kannst du mit einem Freund spielen, wenn du in eine neue Schule kommst. Oder ihr könnt zusammen lachen, wenn ihr beide etwas Neues probiert. Gemeinsam ist alles einfacher und macht mehr Spaß!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Weißt du, was dein nächstes Abenteuer sein könnte? Vielleicht ein neues Spiel oder eine spannende Geschichte? Was möchtest du als nächstes ausprobieren? Es gibt so viele Möglichkeiten und jedes ist ein kleines Abenteuer. Ich bin so neugierig, was du entdecken wirst!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du schon einmal etwas Neues ausprobiert, das dir zuerst ein bisschen Angst gemacht hat? Und wie hat es sich angefühlt, nachdem du es getan hast? Manchmal ist es aufregend, und manchmal lernen wir etwas Neues über uns selbst. Es ist immer gut, neue Dinge zu probieren!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Übergänge können auch Spaß machen, wenn wir sie zu etwas Besonderem machen. Zum Beispiel könntest du ein Lied singen, wenn du etwas Neues beginnst. Oder du könntest ein kleines Tänzchen machen, um dich zu motivieren. Diese kleinen Rituale können helfen, den Übergang angenehmer zu gestalten."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns eine kleine Übung machen. Stell dir vor, du bist ein Schmetterling, der von Blume zu Blume fliegt. Jeder Flug ist ein neuer Übergang. Flattere mit deinen Armen wie ein Schmetterling. Fühlst du die Freiheit und die Freude, Neues zu entdecken? Wunderbar!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein echter Meister der Übergänge! Egal, ob es darum geht, neue Dinge auszuprobieren oder sich auf Veränderungen einzustellen, du machst das toll. Denke daran, dass du immer Hilfe holen kannst, wenn du sie brauchst. Gemeinsam können wir alles schaffen!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Wenn du das nächste Mal einen Übergang erlebst, erinnere dich daran, wie mutig du bist. Jede Veränderung ist eine Gelegenheit, etwas Neues zu lernen. Du kannst stolz auf dich sein, dass du so gut mit Übergängen umgehst. Jetzt bist du bereit für dein nächstes Abenteuer!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Danke, dass du heute mit uns auf dieses Abenteuer gekommen bist! Du hast so viel gelernt und bist bereit, all die aufregenden Übergänge zu erleben, die kommen werden. Denk daran, dass du nie alleine bist, und wir sind immer hier, um dir zu helfen. Tschüss, bis zum nächsten Mal, kleiner Held!"
+    }
+  ],
+  "title": "Rescue Pup Crews Transitions Geschichte"
+}

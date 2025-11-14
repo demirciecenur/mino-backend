@@ -1,0 +1,104 @@
+{
+  "id": "boots_knight_pal_friendship_story",
+  "character": "Boots Knight Pal",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Boots Knight Pal. Bugün birlikte arkadaşlık hakkında harika bir yolculuğa çıkacağız. Arkadaşlık, birlikte oynadığımız, mutlu olduğumuz ve birbirimize yardım ettiğimiz harika bir şeydir. Hazır mısın? Seni çok merak ediyorum ve bu macerada seninle olmayı dört gözle bekliyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, iki kişinin birbirine güvendiği ve birlikte eğlendiği özel bir bağdır. Mesela, en sevdiğin oyuncakla oynarken bir arkadaşın yanındaysa, oyun daha da eğlenceli olur. Arkadaşlar, bazen üzgün olduğumuzda bizi neşelendirebilir. Onlarla konuşmak, gülmek ve yeni şeyler keşfetmek çok güzeldir. Peki, senin en sevdiğin arkadaşın kim?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaşlık kurmak için birkaç önemli şey vardır. İlk olarak, başkalarına saygı göstermek çok önemlidir. Örneğin, arkadaşının duygularını anlamaya çalışmak ve ona nazik davranmak gereklidir. Ayrıca, paylaşmak da arkadaşlıkta çok önemli bir rol oynar. Oyuncaklarını ya da hikayelerini paylaşmak, arkadaş edinmenin harika bir yoludur. Şimdi, bir arkadaş edinmek için başka neler yapabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Arkadaş edinmenin bir başka yolu da oyun oynamaktır. Oyunlar, yeni arkadaşlar edinmenin en eğlenceli yollarından biridir. Mesela saklambaç oynamak ya da bir resim yapmak gibi. Sen de yeni bir oyun yaratıp arkadaşlarınla paylaşabilirsin. Bu, hem eğlenceli hem de yaratıcı olmanı sağlayacaktır. Hadi, şimdi birlikte bir oyun düşünelim!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda oyunlardan bahsettik, değil mi? Şimdi, arkadaşlarımızla nasıl iyi vakit geçirebileceğimizi biraz daha keşfedelim. Birlikte yürüyüşe çıkmak ya da parkta oynamak gibi basit şeyler bile çok eğlenceli olabilir. Ayrıca, arkadaşlarımıza yardım etmek de önemlidir. Onların bir şeye ihtiyacı olduğunda yanlarında olmak, gerçek bir arkadaşın yapacağı bir şeydir. Peki, sen arkadaşlarına nasıl yardım edebilirsin?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bir arkadaşına yardım etmenin yollarını düşündün mü? Belki de oyuncaklarını toplamasına yardımcı olabilirsin. Ya da üzgün olduğunda ona sarılabilirsin. Arkadaşlarına nasıl yardım edebileceğini düşünmek güzel bir şeydir. Şimdi, senin aklına başka neler geliyor? Bir arkadaşına nasıl destek olabileceğini düşünmek ister misin?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlıkta önemli olan bir diğer şey de dürüst olmaktır. Dürüstlük, arkadaşlarınla olan ilişkini güçlendirir. Yalan söylemek yerine, her zaman doğruyu söylemek en iyisidir. Bu, arkadaşlar arasında güven oluşturur. Çünkü arkadaşlar, birbirlerine güvendiklerinde daha güçlü bir bağ kurarlar. Sen de arkadaşlarınla her zaman dürüst olmaya çalışabilirsin."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, birlikte biraz derin nefes alalım. Üç derin nefes alarak sakinleşelim ve arkadaşlarımızla nasıl daha iyi vakit geçirebileceğimizi düşünelim. Derin nefes almak, zihnimizi rahatlatır ve daha iyi düşünmemizi sağlar. Hazır mısın? Hadi birlikte üç kez derin nefes alalım. Nefes al, nefes ver. Çok güzel! Şimdi daha sakin hissediyor musun?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi, arkadaşlarımızla oynarken nasıl daha iyi vakit geçirebileceğimizi düşünelim. Mesela, onları oyunlarımıza davet edebiliriz. Onlarla birlikte yeni şeyler keşfetmek, hem eğlenceli hem de öğreticidir. Sen de yeni şeyler öğrenmek için arkadaşlarınla birlikte oyunlar oynayabilirsin. Unutma, birlikte oynamak her zaman daha eğlencelidir!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hatırlıyor musun, bir önceki konuşmamızda dürüstlükten bahsetmiştik. Şimdi, arkadaşlarımızla nasıl iletişim kurabileceğimizi konuşalım. İletişim, arkadaşlıkta çok önemli bir rol oynar. Duygularımızı ve düşüncelerimizi açıkça ifade etmek, arkadaşlarımızla daha iyi anlaşmamızı sağlar. Ayrıca, onların söylediklerini dikkatlice dinlemek de önemlidir. Böylece, herkes kendini değerli hisseder."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir arkadaşının sana bir şeyler anlattığını hayal et. Onu dikkatlice dinlemek, ona ne kadar değer verdiğini gösterir. Sen de dinlemeyi seviyor musun? Arkadaşlarınla konuşurken onları dinlemek, onlarla olan bağını güçlendirir. Şimdi, bu konuda neler yapabileceğimizi düşünelim. Belki de arkadaşlarını daha iyi dinlemek için bazı küçük adımlar atabilirsin."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Arkadaşlarını dinlerken neler hissediyorsun? Onların söylediklerini anlamaya çalışmak eğlenceli olabilir. Belki de bazen onlara sorular sorarak daha fazla şey öğrenebilirsin. Sen de arkadaşlarınla konuşurken onları dinlemeyi sever misin? Hadi, bu konuda biraz daha düşünelim."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık hakkında birçok şey öğrendik, değil mi? Şimdi, öğrendiklerimizi nasıl uygulayabileceğimizi düşünelim. Arkadaşlarımızla daha iyi vakit geçirmek için neler yapabiliriz? Onlara nazik davranmak, dürüst olmak ve onları dinlemek çok önemlidir. Bu yollarla, arkadaşlarımızla daha güçlü bir bağ kurabiliriz. Sen de bu yöntemleri denemek ister misin?"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Evet, harika! Arkadaşlık, hayatımızı daha güzel ve anlamlı kılar. Birlikte gülmek, oynamak ve yeni şeyler öğrenmek çok eğlencelidir. Sen de bu güzel dostlukları kurabilir ve sürdürebilirsin. Unutma, sen harika bir arkadaşsın ve bunu yapabilirsin. Şimdi, öğrendiklerini uygulamak için sabırsızlanıyor musun?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bu harika yolculuğun sonuna geldik. Bugün arkadaşlık hakkında birçok şey öğrendik. Arkadaşlarımızla nasıl daha iyi vakit geçirebileceğimizi ve onlarla nasıl güçlü bağlar kurabileceğimizi konuştuk. Seni tanımak çok güzeldi ve seninle bu macerayı paylaşmak benim için harikaydı. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Boots Knight Pal'ın Friendship Hikayesi"
+}

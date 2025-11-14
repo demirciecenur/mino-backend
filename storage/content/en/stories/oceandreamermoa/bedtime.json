@@ -1,0 +1,98 @@
+{
+  "id": "ocean_dreamer_moa_bedtime_story",
+  "title": "Ocean Dreamer Moa's Bedtime Story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "bedtime",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little adventurers! I'm Ocean Dreamer Moa, and tonight we're setting sail on a calming journey to bedtime. Are you ready to explore the gentle waves of sleep? I promise it will be filled with fun and relaxation. Just like the ocean, bedtime can be an exciting adventure. Let's dive into this peaceful night together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As the sun sets over the ocean, it paints the sky with beautiful colors. This is the perfect time to start winding down for bed. Just like the sea creatures that find their cozy spots to rest, we too need to prepare for a good night's sleep. Do you have a special bedtime routine? Let's talk about some relaxing things we can do before sleep."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "One important part of getting ready for bed is brushing your teeth. This helps keep your smile bright and healthy. Imagine you're a little fish, brushing your teeth with bubbles from the ocean. After brushing, it's time to put on your favorite pajamas. Wearing comfy clothes helps you feel snug and ready to drift off into dreamland."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job getting ready for bed! Now, let's find a cozy spot, just like a sea turtle finding a warm patch of sand. It's time to snuggle up with your favorite blanket or stuffed animal. This makes us feel safe and secure, just like being wrapped in a gentle wave. Are you feeling cozy now?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we're all cozy, let's take a moment to relax our bodies. Imagine you're floating on a gentle wave. Let's breathe in deeply like you're smelling the fresh ocean air, and then breathe out slowly, letting all your worries wash away. Breathing like this helps calm our minds and bodies, making it easier to fall asleep."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about the ocean waves? Let's pretend we're counting the waves as they softly crash on the shore. One, two, three... Can you count with me? Counting helps us focus and relax, just like the gentle rhythm of the sea. Isn't it fun to imagine the waves?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Sometimes, telling a bedtime story can help us drift off to sleep. Imagine a story about a brave little dolphin exploring the vast ocean. Each night, the dolphin discovers new wonders and makes new friends. Stories like these spark our imagination and make bedtime exciting."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite bedtime story? Maybe it's about a pirate, a princess, or a magical creature. Stories can take us to amazing places in our dreams. What's your favorite part about bedtime stories? I love how they can make us feel happy and calm."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about the peaceful sounds of the ocean. The gentle whoosh of the waves, the distant call of a seagull, and the soft rustle of palm trees. These sounds help us relax and feel like we're on a serene beach. Can you imagine hearing these soothing sounds in your dreams?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Before we close our eyes, let's remember to say goodnight to the people we love. Maybe it's your family, your pets, or even your favorite toys. Saying goodnight helps us feel connected and loved. It's like sending a cozy hug to everyone before we drift off to sleep."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing wonderfully, little dreamer! Remember, bedtime is a time to relax and recharge. Just like the ocean needs to rest after a busy day, we do too. You're all set for a peaceful night filled with sweet dreams. Are you ready to close your eyes and let the dreams begin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What do you hope to dream about tonight? Maybe you'll swim with dolphins or fly over the ocean on a magical cloud. Dreams are like adventures we take while we sleep. They're full of wonder and excitement. What adventure will you go on tonight?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now let's do one more deep breath together before we say goodnight. Breathe in slowly, and let the calmness fill you up, just like the ocean fills the shore. Breathe out gently, letting go of any leftover energy. Doesn't it feel good to be so relaxed?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time to say goodnight, little adventurers. Remember, bedtime is your special time to rest and dream. I hope you have the sweetest dreams of ocean adventures and magical journeys. Sleep tight, and I'll see you again for another adventure soon. Goodnight!"
+    }
+  ]
+}

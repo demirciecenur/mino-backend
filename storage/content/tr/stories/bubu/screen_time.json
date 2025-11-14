@@ -1,0 +1,104 @@
+{
+  "id": "bubu_screen_time_story",
+  "character": "Bubu",
+  "topic": "screen_time",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Bubu. Bugün birlikte ekran zamanı hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Ekranlar bazen çok eğlenceli olabilir ama dikkatli kullanmamız gerekiyor. Şimdi hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekranlar her yerde, değil mi? Televizyonlar, tabletler, telefonlar... Hepsi bizimle konuşmak ve eğlenmek istiyor. Ama çok fazla ekran zamanı bizi yorgun ve üzgün yapabilir. İşte bu yüzden ekranlarımızı dikkatli kullanmalıyız. Böylece hem eğlenebilir hem de sağlıklı kalabiliriz."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Peki ekran zamanı ne kadar olmalı? Uzmanlar diyor ki, iki yaşından küçük çocuklar ekranlardan uzak durmalı. Daha büyük çocuklar ise günde bir saatten fazla ekran başında olmamalı. Bu süreyi farklı etkinliklerle dengeleyebiliriz. Örneğin, kitap okumak veya dışarıda oynamak gibi."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi ekran başında geçirdiğimiz süreyi nasıl azaltabileceğimizi düşünelim. Belki de ekran yerine oyuncaklarımızla oynamak harika bir fikir olabilir. Ya da bir resim yapabiliriz. Ne dersin, sen de denemek ister misin? Unutma, her şey senin mutluluğun için!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekranları aşırı kullanmak gözlerimizi yorabilir. Uzun süre ekrana bakarsak gözlerimiz acıyabilir veya başımız ağrıyabilir. Bu yüzden ekran kullanırken arada bir mola vermek önemli. Hadi birlikte üç derin nefes alalım ve gözlerimizi dinlendirelim. Rahatladın mı?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda ekran zamanı hakkında konuştuk. Şimdi ekranlar dışında neler yapabileceğimizi düşünelim. Mesela, arkadaşlarımızla oyun oynamak çok eğlenceli olabilir. Ya da belki bir hikaye kitabı okuyabiliriz. Senin en sevdiğin oyun nedir?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bugün ekran başında ne kadar zaman geçirdin? Belki de bunu birlikte düşünmeliyiz. Senin için en eğlenceli aktivite hangisiydi? Ekrandan uzak kalmak bazen zor olabilir, değil mi? Ama birlikte konuşarak bunu daha eğlenceli hale getirebiliriz."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekranların bazı faydaları da var. Örneğin, yeni şeyler öğrenebiliriz. Ama bunları dengeli bir şekilde kullanmalıyız. Dışarı çıkıp temiz hava almak da çok önemli. Hadi şimdi pencereye gidip dışarıya bakalım. Gökyüzü bugün nasıl görünüyor?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede dışarıya bakmıştık. Şimdi dışarıda yapabileceğimiz şeyleri düşünelim. Belki de parka gitmek harika bir fikir olabilir. Arkadaşlarımızla yeni oyunlar keşfedebiliriz. Ya da belki bir bisiklet turu yapmak istersin. Bunlar ekranlardan uzak kalmak için harika yollar!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ekranlardan biraz uzaklaşmak, kendimizi daha iyi hissetmemize yardımcı olabilir. Hem böylece yeni şeyler keşfetmek için zamanımız olur. Senin de yeni bir şeyler keşfetmek için sabırsızlandığını biliyorum. Hadi birlikte yeni bir maceraya atılalım. Harika iş çıkarıyorsun!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Daha önce ekranların faydalarından bahsetmiştik. Şimdi ekran başında yapabileceğimiz eğlenceli ve öğretici aktiviteleri düşünelim. Mesela, eğitici oyunlar oynayabiliriz. Ya da belki bir çizim uygulaması ile yaratıcılığımızı konuşturabiliriz. Sen hangi uygulamaları seviyorsun?"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ekran başında en çok ne yapmayı seviyorsun? Belki bir çizgi film izlemek ya da bir oyun oynamak hoşuna gidiyordur. Bunları yaparken nelere dikkat ediyorsun? Ekranlar seni nasıl hissettiriyor? Ekran zamanı hakkında konuşmak istersen buradayım."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda ekran başında yapmayı sevdiğin şeylerden bahsettik. Şimdi ekran süremizi nasıl sınırlayabileceğimizi düşünelim. Belki bir zamanlayıcı kullanmak iyi bir fikir olabilir. Böylece ekran zamanımızı kontrol altında tutabiliriz. Ne dersin, denemek ister misin?"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ekran süresini sınırlamak bazen zor olabilir ama sen bunu başarabilirsin. Kendi sınırlarını belirlemek ve onlara uymak seni güçlü yapar. Her gün biraz daha az ekran süresiyle daha çok şey keşfedebilirsin. Seninle gurur duyuyorum. Devam et!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün ekran zamanı hakkında çok şey öğrendik. Seninle bu yolculuğa çıkmak harikaydı. Unutma, ekranlar eğlenceli ama dengeli kullanmak çok önemli. Her zaman buradayım ve seninle konuşmayı çok seviyorum. Bir dahaki sefere görüşmek üzere!"
+    }
+  ],
+  "title": "Bubu'ın Screen Time Hikayesi"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_behavior_story",
+  "character": "Spider Fighter",
+  "topic": "behavior",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Spider Fighter, y hoy vamos a embarcarnos en una increíble aventura sobre el comportamiento. ¿Estás listo para aprender y divertirte? Estoy muy emocionado de compartir contigo algunos secretos de cómo ser un héroe en la vida diaria. Juntos, exploraremos cómo seguir reglas y ser amables con los demás. ¡Vamos a empezar esta divertida aventura!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos listos, hablemos sobre el comportamiento. El comportamiento es cómo actuamos y nos comportamos con los demás cada día. Es importante porque nos ayuda a ser buenos amigos y compañeros. Por ejemplo, cuando decimos 'por favor' y 'gracias', mostramos respeto y amabilidad a los demás. ¿Te imaginas cómo sería el mundo si todos fueran amables y educados todo el tiempo?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Recuerda que seguir reglas es una parte importante del buen comportamiento. Las reglas nos mantienen seguros y felices. Como cuando jugamos en el parque, es importante esperar nuestro turno en el columpio. También, en casa, recoger nuestros juguetes después de jugar ayuda a mantener el lugar ordenado. ¿Puedes pensar en alguna regla que sigas todos los días? ¡Estoy seguro de que lo haces muy bien!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Es maravilloso ver cuánto ya sabes sobre el buen comportamiento! Ahora, vamos a practicar juntos. Imagina que estás en el supermercado con tus padres. ¿Qué harías si ves un juguete genial? Podrías preguntar educadamente si puedes verlo o esperar pacientemente hasta que te den permiso. ¡Eso muestra un comportamiento excelente! ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vamos a hablar sobre cómo ser un buen amigo. Ser un buen amigo significa compartir y escuchar. Cuando compartimos nuestros juguetes, hacemos que el juego sea más divertido para todos. Y cuando escuchamos a nuestros amigos, les mostramos que nos importan. ¿Alguna vez has compartido tu juguete favorito con alguien? ¡Eso es fantástico!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, pensemos en la importancia de pedir disculpas. A veces, podemos cometer errores, y eso está bien. Lo importante es decir 'lo siento' cuando lastimamos a alguien. Esto demuestra que nos importa cómo se sienten los demás. Por ejemplo, si accidentalmente empujas a alguien, decir 'lo siento' puede hacer una gran diferencia. ¿No crees que todos se sentirían mejor así?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres increíblemente valiente por querer aprender y mejorar cada día! Ahora, vamos a practicar una pequeña actividad juntos. Contemos hasta cinco mientras respiramos profundamente, ¿de acuerdo? Uno, dos, tres, cuatro, cinco. ¡Muy bien! Esto nos ayuda a calmarnos y pensar antes de actuar. Puedes hacerlo cada vez que te sientas molesto o nervioso."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Cuando practicamos el buen comportamiento, también aprendemos a ser responsables. Ser responsable significa cuidar nuestras cosas y cumplir nuestras promesas. Por ejemplo, si prometemos ayudar a poner la mesa, debemos hacerlo con una sonrisa. Esto demuestra que somos confiables y podemos hacer lo que decimos. ¿Te gusta ser responsable? ¡Claro que sí!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos sobre cómo expresar nuestras emociones de manera saludable. A veces, podemos sentirnos tristes o enojados, y eso es normal. Lo importante es encontrar maneras de expresar esos sentimientos sin lastimar a los demás. Podemos hablar con un adulto de confianza o dibujar lo que sentimos. ¿Te gustaría intentarlo la próxima vez que te sientas así?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez te has preguntado por qué es importante ser amable? Ser amable hace que todos se sientan felices y seguros. Cuando somos amables, es como si estuviéramos lanzando una telaraña de bondad que conecta a todos. ¿No te parece genial hacer que alguien sonría solo con un gesto amable? ¡Tú tienes ese poder!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Siguiendo con nuestra aventura, vamos a explorar cómo manejar situaciones difíciles. A veces, podemos sentirnos frustrados, pero respirar profundamente y contar hasta cinco puede ayudarnos a calmarnos. Recuerda que siempre puedes pedir ayuda a un adulto si la necesitas. Manejar nuestras emociones es una parte importante de ser un héroe todos los días. ¡Tú puedes lograrlo!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial hasta ahora! Vamos a imaginar que estamos en una misión especial. Nuestra misión es hacer que todos en la escuela se sientan incluidos y felices. Podemos saludar a un nuevo compañero o jugar con alguien que esté solo. ¡Qué gran manera de mostrar un comportamiento ejemplar! ¡Estoy seguro de que puedes hacerlo!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Finalmente, hablemos de la importancia de cuidar nuestro entorno. Ser un buen ciudadano significa no tirar basura y reciclar cuando sea posible. Esto también es parte de un buen comportamiento. Al cuidar nuestro planeta, todos podemos vivir en un lugar más limpio y feliz. ¿Te gustaría plantar un árbol o recoger basura en el parque con tu familia? ¡Sería una gran aventura!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda que cada pequeño acto de bondad cuenta. Al final del día, ser amable y seguir reglas nos hace sentir bien por dentro. Es como si tuviéramos un brillo especial que todos pueden ver. Todos somos héroes cuando mostramos buen comportamiento. ¿No es increíble pensar en eso? ¡Tú eres un héroe todos los días!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido una aventura maravillosa aprender sobre comportamiento contigo. Espero que te hayas divertido y aprendido algo nuevo hoy. Recuerda, siempre puedes ser un héroe con tus acciones y palabras. Estoy muy orgulloso de ti por ser tan valiente y amable. ¡Hasta la próxima, pequeño héroe! ¡Sigue brillando!"
+    }
+  ],
+  "title": "Historia de Behavior de Spider Fighter"
+}

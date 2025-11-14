@@ -1,0 +1,98 @@
+{
+  "id": "spark_buddy_screen_time_story",
+  "character": "Spark Buddy",
+  "topic": "screen_time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Spark Buddy, your cheerful and energetic buddy. Today, we’re going to explore the magical world of screen time together! Are you excited? I bet you are, because we’re going to have so much fun learning. Let’s get ready to zap into action!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Screen time is when we use our tablets, phones, or watch TV. It can be super fun, like a big adventure on a screen! But did you know it's important to balance our screen time with other activities? Just like how we balance on one foot or when we share our toys with friends. Let’s find out why together!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "When we spend too much time on screens, our eyes can get tired, just like when we play too long without a break. It's like needing a nap after running around. That's why taking breaks is super important. It helps us stay healthy and happy. Let's think of some fun breaks we can take from screens!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking about breaks! Maybe we can play outside, draw a picture, or even build a tower with blocks. Each of these activities helps our minds and bodies grow strong. You're doing amazing! Let’s count to five and then think of more fun things to do away from screens. One, two, three, four, five!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, remember when we talked about taking breaks? Let's imagine we’re like superheroes who need to recharge their superpowers. When we play with our toys or read a book, our powers get stronger. Isn’t that cool? Balancing screen time with other activities makes us super healthy. Let’s keep exploring!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Did you know that when we’re away from screens, we can learn new things? Like how to tie our shoelaces or how to ride a bike. These are special skills that make us feel proud. So, let’s make sure we have time for these amazing adventures too. Balancing is like having a superpower of our own!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You’re really getting the hang of this. Let’s keep our screen time balanced like a see-saw in the playground. Up and down, just right. You’re doing fantastic! Let’s wiggle our fingers like we’re typing and then rest them. That’s how we balance, with fun and rest!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about being superheroes? Well, superheroes also need to listen to their bodies. When our eyes feel tired, it's a sign to take a break. Just like when our tummy rumbles, it tells us we’re hungry. Let’s practice listening to what our bodies say. Can you hear it?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What’s your favorite thing to do when you’re not using screens? Is it playing with your toys or maybe drawing a picture? I’m so curious to know! There are so many wonderful activities to choose from. Let’s think of one new thing we can try today. Are you ready to share?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Wow, those are some fantastic ideas! Each time you try something new, it’s like discovering a hidden treasure. Imagine all the fun we can have! Let’s make a little plan for today. We’ll have some screen time, and then we’ll explore the world around us. What do you think?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let’s think of screen time like a yummy treat. It’s something we enjoy, but we don’t want to have too much. Just like we wouldn’t eat a whole cake, right? It’s all about finding the right balance. And you’re doing such a great job at it!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re a superstar at balancing screen time! Every time you take a break, you’re making space for new adventures. Maybe we can play a game or do a little dance. Let’s try a happy dance right now. Ready, set, go! You’re a wonderful dancer!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we wrap up our adventure today, remember that screen time can be fun and educational. But it’s also important to play and explore the world around us. It’s like having a magical key that opens many doors. You’re doing an amazing job finding the balance. Keep it up!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this exciting journey about screen time. You’ve learned so much and had so much fun! I’m so proud of you. Remember, I’m always here to help and cheer you on. Until next time, keep shining bright like a superstar! Bye-bye!"
+    }
+  ],
+  "title": "Spark Buddy's Screen Time Story"
+}

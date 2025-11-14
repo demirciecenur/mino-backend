@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_screen_time_story",
+  "character": "Spider Fighter",
+  "topic": "screen_time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello there, my brave little friend! I'm Spider Fighter, swinging in from the city to join you today. We're going on a fun adventure to learn about screen time! Are you ready to explore how we can use our screens wisely? I promise it'll be as exciting as a superhero mission! So, buckle up your imagination and let's dive into this amazing journey together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about our screens. Do you know what screen time is? It's the time we spend watching TV, playing games on a tablet, or even using a phone. Just like superheroes need to balance their time between saving the city and resting, we need to balance our screen time too! It's important because it helps us have time for other fun activities, like playing outside or reading books. Let's see how we can do that!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about balancing like superheroes? One great way to manage screen time is to set a timer. Just like how I set my web-slinger for quick missions! You can ask a grown-up to help you set a timer for your screen activities. When the timer rings, it's time to switch to another fun activity. This way, you'll have plenty of time to explore the world around you and become even stronger!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job on learning about timers! Now, let's think of some activities we can do when we're not using screens. How about playing with your toys or drawing a picture of your favorite superhero? You could even build a fort with pillows! These activities help us use our imagination and become more creative. Remember, every superhero needs creativity to solve problems and save the day!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've thought about some fun activities, let's talk about why it's important to take breaks from screens. Our eyes, just like my superhero senses, need a rest too! When we take breaks, our eyes can relax and we can feel more energetic. Plus, taking breaks helps us stay focused and ready for action when we return to our screens. It's just like recharging our superhero powers!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice taking a break together right now! First, let's stand up and stretch our arms high above our heads, like we're reaching for the stars! Now, take a deep breath in and slowly let it out. Great job! You see, taking breaks can be simple and fun. It helps us feel refreshed and ready for our next adventure, whether it's on or off the screen."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning about screen time! Let's make it even more fun by creating a screen time chart. You can draw pictures of the activities you want to do each day, like playing outside or reading a book. Then, you can decide how much screen time you'll have. This chart will help you balance your day, just like how I balance my superhero missions!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about setting a timer? It's also important to choose the right kind of screen activities. Just like I choose the best gadgets for my missions, you can choose educational games or shows that help you learn new things. This way, your screen time becomes a fun learning adventure, and you can discover amazing things about the world!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I'm curious about you. What is your favorite screen activity? Is it watching a fun cartoon or playing a cool game? How do you feel after spending time on screens? Do you feel happy and excited, or maybe a little tired? It's important to notice how screen time makes us feel. This helps us understand when we might need a break. Let's think about it together!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Awesome! It's great to hear about your favorite activities. Now, let's imagine what other adventures we can have outside of screen time. Maybe you can pretend to be a superhero like me and save the day in your backyard! Or perhaps you can have a treasure hunt around your house. These adventures are just as exciting and help us move our bodies and use our imagination!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure by talking about friends. Playing with friends is a fantastic way to spend time away from screens. You can play games, build things, or even have a dance party! Being with friends helps us learn to share, take turns, and have fun together. It's like having a superhero team to help us on our adventures!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's think about how we can help our family with screen time too. You can remind them about the timer and the fun activities we talked about. Maybe you can even teach them a new game or show them how to draw a superhero! Helping others makes us feel good and brings us closer, just like how my superhero friends help each other."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're becoming a true screen time superhero! Let's celebrate by doing a superhero pose together. Stand tall, put your hands on your hips, and give a big smile! Remember, you have the power to make choices about your screen time. You can decide when to take a break and what fun activities to do next. You're doing great, and I'm so proud of you!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we wrap up our adventure, let's remember all the things we've learned. Screen time can be fun and educational, but it's important to balance it with other activities. Just like how I need to balance my superhero duties with rest, you can balance your screen time with play and learning. This way, you'll feel strong, happy, and ready for anything!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this exciting journey about screen time! You've learned so much and become a true superhero. Remember to use your powers to balance your day and make every moment count. Keep being brave, adventurous, and full of smiles! Until next time, my little hero, keep swinging towards your dreams. Goodbye, and see you soon!"
+    }
+  ],
+  "title": "Spider Fighter's Screen Time Story"
+}

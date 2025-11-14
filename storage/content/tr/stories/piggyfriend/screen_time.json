@@ -1,0 +1,98 @@
+{
+  "id": "piggy_friend_screen_time_story",
+  "character": "Piggy Friend",
+  "topic": "screen_time",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Piggy Friend. Bugün birlikte ekran zamanı hakkında harika bir yolculuğa çıkacağız. Ekranlar, televizyonlar, tabletler ve telefonlar hakkında konuşacağız. Hazır mısın? Seni çok merak ediyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekranlar çok eğlenceli olabilir, değil mi? Bazı zamanlar en sevdiğimiz çizgi filmleri izleriz ya da eğlenceli oyunlar oynarız. Ama ekranlar karşısında çok fazla zaman geçirmek sağlıklı değildir. Ekran başında çok vakit geçirirsek gözlerimiz yorulabilir. Ayrıca, ekranlar karşısında fazla zaman geçirmek uyku düzenimizi de bozabilir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Peki, ekran başında geçirdiğimiz zamanı nasıl sınırlayabiliriz? Öncelikle, bir zamanlayıcı kullanabiliriz. Örneğin, 30 dakika dolduğunda bir alarm kurabiliriz. Bu alarm bize ekran süremizin dolduğunu hatırlatır. Sonra başka oyunlar oynayabileceğimizi unutmayalım!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ekran süresini sınırlamak çok eğlenceli olabilir! Örneğin, ekran başında geçirdiğimiz süreden sonra dışarıda oyunlar oynayabiliriz. Arkadaşlarımızla saklambaç oynayabiliriz ya da parkta salıncakta sallanabiliriz. Bu aktiviteler bizi mutlu eder ve enerjimizi artırır. Harika, değil mi?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda ekran zamanı hakkında nasıl dikkatli olabileceğimizi konuştuk. Şimdi, ekran başında geçirdiğimiz zaman dilimlerini nasıl daha eğlenceli hale getirebileceğimizi düşünelim. Belki de ekran süresinden sonra bir resim yapabiliriz. Ya da sevdiğimiz bir hikaye kitabını okuyabiliriz."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "En sevdiğin ekran dışı aktivite nedir? Belki oyun hamuruyla şekiller yapmayı seviyorsun. Ya da belki oyuncak arabalarınla yarış yapmayı. Hangi aktivite seni en çok mutlu ediyor? Hadi, düşün ve bana söyle!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekran süresi dışında yapabileceğimiz çok şey var. Mesela, mutfakta annemize veya babamıza yardım edebiliriz. Kurabiye yapmak çok eğlenceli olabilir. Ayrıca, bahçede çiçeklerle ilgilenmek de harika bir aktivite. Bu aktiviteler hem eğlenceli hem de öğretici!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede ekran dışı aktivitelerden bahsettik. Şimdi, ekran başında geçirdiğimiz zamanı nasıl daha verimli kullanabileceğimizi düşünelim. Belki de eğitici videolar izleyebiliriz. Ya da yeni bir şeyler öğrenebileceğimiz belgeselleri izleyebiliriz."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresi boyunca ara vermek de önemlidir. Gözlerimizi dinlendirmek için kısa molalar verebiliriz. Belki bir süre gözlerimizi kapatıp derin nefes alabiliriz. Hadi birlikte üç derin nefes alalım. Bu bize iyi gelecektir."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harikasın! Gözlerini dinlendirdikten sonra kendini daha iyi hissedersin. Ekran süresi konusunda dikkatli davranmak sana sağlık ve mutluluk getirir. Senin bunu yapabileceğini biliyorum! Hadi, ekran süremizi dikkatle yönetelim."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekran süresini dikkatle yönetmek, sağlığımız için önemlidir. Ama unutmamalıyız ki eğlence de önemlidir. Ekran süremizi bitirdikten sonra arkadaşlarımızla oyunlar oynamak keyifli olur. Ya da ailemizle bir yürüyüşe çıkabiliriz. Bu aktiviteler bizi mutlu eder."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda ekran süresi sonrası aktivitelerden bahsettik. Peki, ekran süresini kontrol etmek neden önemlidir, biliyor musun? Çünkü bu, sağlıklı bir yaşam için gereklidir. Aynı zamanda, daha fazla eğlence için de fırsat yaratır."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, ekran süresinin ne kadar önemli olduğundan bahsettik. Ekran süresi boyunca yapabileceğimiz eğlenceli şeyler de var. Örneğin, ailemizle birlikte oyunlar oynayabiliriz. Ya da sevdiğimiz bir filmi izleyebiliriz. Ama her zaman dikkatli olmalıyız."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün ekran zamanı hakkında çok şey öğrendik. Ekran süremizi dikkatle yönetmenin ne kadar önemli olduğunu konuştuk. Şimdi bu bilgileri uygulayabiliriz, değil mi? Seninle bu yolculuğu yapmak çok keyifliydi. Bir sonraki buluşmamızda görüşmek üzere!"
+    }
+  ],
+  "title": "Piggy Friend'ın Screen Time Hikayesi"
+}

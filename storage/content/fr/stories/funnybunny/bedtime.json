@@ -1,0 +1,98 @@
+{
+  "id": "funny_bunny_bedtime_story",
+  "character": "Funny Bunny",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Salut, petit ami! Je suis Funny Bunny, et ce soir, nous allons parler du moment préféré de la journée: l'heure du coucher! Es-tu prêt pour une aventure amusante avant de dormir? Ensemble, nous allons découvrir comment rendre l'heure du coucher douce et agréable. J'ai hâte de partager des astuces et des petites histoires avec toi. Alors, installe-toi confortablement et écoute bien. Commençons notre voyage vers le pays des rêves!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'heure du coucher, c'est un moment spécial où on se prépare à se reposer après une journée bien remplie. Tu sais, comme quand tu as joué toute la journée et que tu es fatigué? C'est important de se détendre pour bien dormir. Dormir, ça aide ton corps à grandir et à être en forme pour jouer encore plus demain. Maintenant, parlons de ce que l'on peut faire pour rendre ce moment encore plus agréable."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une des premières choses à faire avant de se coucher, c'est de se laver les dents. Tu sais pourquoi? Parce que cela garde tes dents propres et fortes, comme celles d'un super héros! Prends ta brosse à dents, mets un peu de dentifrice, et brosse doucement pendant deux minutes. Imagine que tu fais briller tes dents comme des étoiles. Et n'oublie pas de rincer ta bouche avec de l'eau claire. Bravo, tes dents sont prêtes pour la nuit!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant que tes dents sont toutes propres, c'est le moment de choisir un joli pyjama. Aimes-tu les pyjamas avec des petits animaux ou des super héros? Mets-le et sens comme il est doux et confortable. C'est un peu comme être enveloppé dans un câlin tout chaud. Tu es prêt pour te glisser dans ton lit douillet. Super, tu fais ça très bien! Continuons avec notre routine du coucher."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Avant de s'endormir, c'est agréable de lire une histoire. Quel est ton livre préféré? Les histoires nous emmènent dans des mondes magiques, pleins d'aventures et de découvertes. Choisis une histoire qui te fait sourire, et lis-la avec quelqu'un que tu aimes. C'est un moment spécial qui aide ton esprit à se détendre. Maintenant, passons à un autre moment relaxant avant de dormir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Respirer calmement aide à se détendre. On va essayer ensemble, tu veux bien? Inspire doucement par le nez en comptant jusqu'à trois: un, deux, trois. Maintenant, expire lentement par la bouche en comptant à nouveau: un, deux, trois. Fais-le encore deux fois. Ça fait du bien, n'est-ce pas? Tu vois, c'est comme souffler sur une fleur pour la faire danser. On se sent tout calme et prêt à dormir."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un excellent travail pour te préparer à dormir! Maintenant, tu peux penser à quelque chose de joyeux avant de fermer les yeux. Imagine un endroit que tu aimes, comme un parc ou la plage. Visualise les couleurs, les sons, et les odeurs qui te rendent heureux. C'est comme un petit rêve avant le grand sommeil. Tu es presque prêt à t'endormir paisiblement. Bien joué!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, on a besoin d'un câlin ou d'un doudou pour se sentir en sécurité avant de dormir. As-tu un doudou préféré qui t'accompagne dans tes rêves? Les câlins et les doudous sont comme des amis qui veillent sur toi pendant la nuit. Ils nous aident à nous sentir bien et à nous endormir en douceur. C'est comme avoir un petit compagnon de rêve avec toi. Maintenant, passons à une question pour toi!"
+    },
+    {
+      "id": "question_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dis-moi, as-tu déjà compté les moutons pour t'endormir? C'est une façon amusante de se relaxer. Imagine des moutons tout doux qui sautent par-dessus une barrière. Un mouton, deux moutons, trois moutons... jusqu'à ce que tu t'endormes paisiblement. As-tu une autre méthode pour t'endormir? J'aimerais bien savoir! Partage avec moi ton secret pour une bonne nuit de sommeil."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Merci de partager tes idées avec moi! Maintenant, parlons de la lumière dans ta chambre. Une lumière douce, comme une veilleuse, peut aider à créer une ambiance apaisante. Elle chasse les ombres et fait de ta chambre un endroit accueillant. C'est comme avoir une petite étoile rien que pour toi. Alors, es-tu prêt à éteindre les lumières et à laisser la veilleuse veiller sur toi?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, ferme doucement tes yeux et pense à toutes les belles choses de ta journée. Comme le sourire d'un ami, un jeu amusant, ou un câlin chaleureux. Ces souvenirs te feront sourire même en dormant. Chaque nuit est une nouvelle aventure de rêves. Alors, laisse ton esprit vagabonder dans le monde des rêves. Tu es prêt à vivre de belles aventures dans ton sommeil."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as fait un travail formidable en te préparant pour la nuit! Tu es maintenant un expert de l'heure du coucher. Chaque soir, tu peux suivre ces étapes pour bien dormir et te réveiller plein d'énergie. N'oublie pas que dormir, c'est comme recharger tes batteries pour une nouvelle journée d'aventures. Je suis fier de toi, petit ami! Tu es prêt pour les rêves les plus doux."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Avant de nous dire bonne nuit, souviens-toi que l'heure du coucher est un moment de calme et de douceur. C'est le temps de laisser tes pensées se reposer et de te préparer pour demain. Chaque nuit est une opportunité de rêver grand et de te reposer profondément. Demain est un nouveau jour plein de possibilités. Alors, fais de beaux rêves et dors bien!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, mon petit ami. J'espère que tu as appris des choses amusantes et utiles pour l'heure du coucher. N'oublie pas que je suis toujours là pour te guider vers le pays des rêves. Fais de beaux rêves et souviens-toi que chaque nuit est un nouveau voyage. Bonne nuit et à bientôt pour de nouvelles aventures avec Funny Bunny!"
+    }
+  ],
+  "title": "Histoire de Bedtime de Funny Bunny"
+}

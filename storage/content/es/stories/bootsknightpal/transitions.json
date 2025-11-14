@@ -1,0 +1,104 @@
+{
+  "id": "boots_knight_pal_transitions_story",
+  "character": "Boots Knight Pal",
+  "topic": "transitions",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Boots Knight Pal, y hoy vamos a embarcarnos en una aventura increíble sobre los cambios. ¿Estás listo? Los cambios son como nuevas aventuras que nos ayudan a crecer y aprender. A veces pueden ser un poco asustadores, pero juntos podemos enfrentarlos con valentía. Estoy muy emocionado de explorar este tema contigo. ¡Vamos a comenzar!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Los cambios están por todas partes, como cuando el día se convierte en noche o cuando las estaciones cambian de verano a otoño. Son una parte natural de la vida y nos ayudan a descubrir cosas nuevas. Por ejemplo, cuando comienzas un nuevo año escolar, puedes hacer nuevos amigos y aprender cosas nuevas. Aunque al principio pueda parecer diferente, pronto te darás cuenta de que los cambios pueden ser emocionantes. Ahora, hablemos de cómo podemos sentirnos valientes ante los cambios."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para sentirnos valientes, podemos pensar en todas las cosas buenas que vienen con el cambio. Por ejemplo, cuando aprendes a montar en bicicleta, al principio puede ser un poco difícil, pero luego puedes correr rápido y sentir el viento en tu cara. Imagina cómo se siente lograr algo nuevo. Es importante recordar que está bien pedir ayuda si algo parece difícil. Ahora, vamos a practicar una pequeña actividad para sentirnos más seguros."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ahora, vamos a respirar juntos para calmarnos. ¿Listo? Inhala profundamente contando hasta tres, y luego exhala contando hasta tres. Uno, dos, tres... ¡exhala! Esto nos ayuda a sentirnos tranquilos y preparados para cualquier cosa. Recuerda, puedes hacer esto cada vez que sientas que un cambio te pone nervioso. ¡Lo estás haciendo genial! Ahora, vamos a hablar sobre cómo los cambios pueden ser divertidos."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Los cambios también pueden ser muy divertidos, como cuando pruebas un nuevo sabor de helado o visitas un lugar nuevo. Cada cambio es una oportunidad para descubrir algo diferente. Piensa en cómo te sientes cuando encuentras un nuevo juego favorito. Eso es lo que hacen los cambios, nos traen sorpresas agradables. Ahora, hablemos de cómo podemos prepararnos para los cambios."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Prepararse para los cambios es como preparar tu mochila para un viaje. Primero, piensa en lo que necesitarás, como una sonrisa y una mente abierta. También es útil hablar con un adulto sobre cómo te sientes acerca del cambio. Ellos pueden darte consejos y apoyo. Recuerda que no estás solo; siempre hay alguien que te quiere ayudar. Ahora, hablemos sobre un cambio que todos hacemos cada día."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Un cambio que hacemos todos los días es cuando nos despertamos por la mañana. Pasamos de estar dormidos a estar despiertos y listos para un nuevo día. Aunque a veces quisiéramos quedarnos en la cama, levantarse nos da la oportunidad de vivir nuevas aventuras. Como cuando te preparas para ir al parque a jugar. Ahora, pensemos en cómo podemos hacer que estos cambios diarios sean más fáciles."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Para hacer que los cambios diarios sean más fáciles, podemos crear una rutina. Las rutinas nos ayudan a saber qué sigue y nos hacen sentir más seguros. Por ejemplo, después de cepillarte los dientes, sabes que es hora de ponerte los zapatos. ¡Eso es genial! Así, cada paso se siente más fácil y natural. Cuando sigues una rutina, estás preparado para cualquier cosa que venga después. ¡Lo estás haciendo increíblemente bien!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora vamos a pensar en cómo nos sentimos cuando algo cambia. A veces, los cambios pueden hacernos sentir emocionados, como cuando recibes un regalo sorpresa. Otras veces, pueden hacernos sentir un poco nerviosos, como cuando empiezas en una nueva clase. Es completamente normal sentir todas estas emociones. Sentir es una parte importante de ser humano. Ahora, veamos cómo podemos manejar estos sentimientos."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando te sientas nervioso por un cambio, intenta hablar sobre tus sentimientos. Puedes contarle a un amigo o a un adulto cómo te sientes. También puedes dibujar o escribir tus pensamientos. A veces, expresarlo en palabras o imágenes ayuda a que te sientas mejor. Recuerda, está bien sentirte así. ¡Eres valiente al enfrentar tus emociones! Ahora, hablemos sobre un momento en que los cambios pueden ser especiales."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Un momento especial de cambio es cuando celebramos nuestro cumpleaños. Cambiamos de un año a otro y nos hacemos un poco más grandes. Cada cumpleaños es una oportunidad para reflexionar sobre las cosas que hemos aprendido. También es un momento para hacer nuevos deseos y soñar con nuevas aventuras. Los cumpleaños son una forma maravillosa de ver lo lejos que hemos llegado. Ahora, pensemos en cómo podemos hacer que los cambios sean más fáciles para los demás."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Podemos ayudar a los demás con sus cambios siendo amables y comprensivos. Por ejemplo, si un amigo se muda a una nueva casa, podemos ofrecerle nuestra ayuda o mostrarle un lugar divertido. Ser un buen amigo es una forma excelente de hacer que los cambios sean más agradables. También podemos compartir nuestras experiencias y consejos. ¡Juntos, podemos hacer que cualquier cambio sea una aventura emocionante!"
+    },
+    {
+      "id": "question_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas un momento en que experimentaste un cambio? ¿Cómo te sentiste? Quizás fue comenzar una nueva actividad o conocer a alguien nuevo. Piensa en cómo te ayudó ese cambio a crecer y aprender algo nuevo. ¿Te gustaría compartirlo? Estoy seguro de que has tenido experiencias maravillosas. Ahora, vamos a hablar sobre cómo podemos abrazar los cambios con una sonrisa."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Abrazar los cambios con una sonrisa significa verlos como oportunidades para crecer. Como un caballero valiente que enfrenta cada desafío con confianza. Cuando sonríes ante un cambio, muestras que estás listo para lo que venga. Es como cuando un caballero se pone su armadura y monta su caballo hacia una nueva aventura. ¡Tú también puedes hacerlo! Ahora, llegamos al final de nuestra historia sobre los cambios."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer explorar los cambios contigo hoy. Recuerda que cada cambio es una oportunidad para aprender y crecer. Eres fuerte y valiente, y puedes afrontar cualquier cosa que venga. Nunca olvides que los cambios hacen la vida emocionante y llena de sorpresas. Gracias por acompañarme en esta aventura. ¡Hasta la próxima, pequeño aventurero!"
+    }
+  ],
+  "title": "Historia de Transitions de Boots Knight Pal"
+}

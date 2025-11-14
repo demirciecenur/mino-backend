@@ -1,0 +1,98 @@
+{
+  "id": "mystery_pup_buddy_imagination_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "imagination",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeños amigos! Soy Mystery Pup Buddy, un perro curioso que ama resolver misterios. Hoy vamos a embarcarnos en un viaje increíble sobre la imaginación. ¿Están listos para usar sus mentes creativas? Estoy tan emocionado de saber qué pueden imaginar. ¡Vamos a explorar juntos este mundo mágico de pensamientos y sueños!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La imaginación es como un superpoder que todos tenemos. Nos permite soñar despiertos y crear cosas nuevas en nuestras mentes. ¿Alguna vez has imaginado ser un astronauta en el espacio? O tal vez un pirata en busca de tesoros escondidos. Con la imaginación, podemos ser lo que queramos. ¡Es como tener una caja mágica llena de posibilidades!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos sobre cómo podemos usar nuestra imaginación para resolver misterios. ¿Sabías que cuando estás buscando un juguete perdido, estás usando tu imaginación para pensar dónde podría estar? Imaginemos que somos detectives. Podemos buscar pistas y pensar en lugares donde el juguete podría haberse escondido. ¡Es como jugar a ser un detective de verdad!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a intentar algo juntos! Cierra los ojos y respira profundamente tres veces. Ahora, imagina que estamos en un bosque mágico. ¿Puedes ver los árboles altos y escuchar a los pajaritos cantar? ¡Qué maravilloso es usar nuestra imaginación para viajar a lugares así! ¡Muy bien, lo estás haciendo genial!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden cuando hablamos de ser astronautas. Vamos a imaginar que estamos en una nave espacial. ¿Qué sonidos creen que escucharíamos? ¡Quizás el zumbido de los motores o el bip-bip de los botones! Imaginar estos sonidos nos ayuda a sentirnos como si realmente estuviéramos allí. ¡Qué divertido es jugar con nuestras ideas!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora pensemos en otro escenario. ¿Qué tal si imaginamos ser chefs en una cocina mágica? Podemos crear cualquier platillo que se nos ocurra. ¿Tal vez un pastel de arcoíris o una sopa que cambia de color? Usar la imaginación nos permite cocinar las recetas más locas y divertidas. ¡Qué delicioso suena!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Qué les gustaría ser si pudieran usar su imaginación para convertirse en cualquier cosa? ¿Un superhéroe, un mago, o tal vez un explorador en la jungla? ¡Cuéntame, me encantaría saber qué ideas tienes! La imaginación no tiene límites, y cada idea es maravillosa."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La imaginación también puede ayudarnos a resolver problemas. Por ejemplo, si tienes que limpiar tu habitación, puedes imaginar que eres un robot súper eficiente. ¡Zas, zas, todo limpio en un instante! Usar la imaginación puede hacer que las tareas aburridas sean mucho más divertidas. ¡Qué útil es nuestra mente creativa!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora vamos a hacer un pequeño juego. Piensen en un animal y luego imaginen que ustedes son ese animal. ¿Cómo se moverían? ¿Qué sonidos harían? Tal vez un elefante grande o un pajarito pequeño. Usar la imaginación para transformarnos en animales es una manera divertida de jugar. ¡Inténtenlo ahora!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo están haciendo! Ahora, vamos a imaginar un día en la playa. ¿Pueden sentir la arena bajo sus pies y el sol en su cara? Imaginen construir un castillo de arena gigante. ¡Wow, qué alto es! Usar la imaginación puede llevarnos a lugares maravillosos sin salir de casa. ¡Fabuloso trabajo!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos que la imaginación también es genial para contar historias. Podemos inventar cuentos sobre dragones valientes o princesas aventureras. Cada historia que creamos es única y especial. ¡Qué divertido es crear mundos y personajes desde nuestra mente! Cada uno de ustedes tiene un cuento increíble por contar."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdan el bosque mágico que imaginamos antes? Ahora pensemos en los animales que podríamos encontrar allí. Tal vez un ciervo amistoso o una ardilla juguetona. Podemos inventar historias sobre sus aventuras en el bosque. Usar la imaginación para contar historias es un gran ejercicio de creatividad. ¡Vamos a seguir imaginando!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Cuál fue su parte favorita de nuestro viaje de imaginación hoy? ¿Fue ser astronautas o quizás chefs mágicos? ¡Me encantaría saber qué disfrutaron más! Cada experiencia imaginativa es una aventura única. ¡Gracias por compartirla conmigo!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un día fantástico lleno de imaginación y aventuras. Gracias por acompañarme en este viaje mágico. Recuerden siempre que la imaginación es un regalo que podemos usar todos los días. ¡Hasta la próxima, pequeños detectives y soñadores! ¡Nos vemos en la próxima aventura!"
+    }
+  ],
+  "title": "Historia de Imagination de Mystery Pup Buddy"
+}

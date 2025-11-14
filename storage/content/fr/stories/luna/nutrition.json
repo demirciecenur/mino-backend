@@ -1,0 +1,104 @@
+{
+  "id": "luna_nutrition_alimentation_saine_habitudes_alimentaires_aliments_sains_story",
+  "character": "Luna",
+  "topic": "nutrition, alimentation saine, habitudes alimentaires, aliments sains",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mon petit ami ! Je suis Luna, et aujourd'hui, nous allons partir dans un voyage magique pour découvrir la nutrition. C'est un peu comme une aventure où nous découvrirons quels aliments sont bons pour nous. Es-tu prêt à explorer avec moi ? J'adore apprendre de nouvelles choses, surtout quand il s'agit de manger de façon saine. Je suis tellement contente que tu sois ici avec moi ! Ensemble, nous allons découvrir comment les aliments peuvent nous aider à grandir forts et heureux."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La nutrition, c'est un peu comme une potion magique qui nous aide à être en bonne santé. Quand nous mangeons des fruits et légumes, c'est comme donner à notre corps de petites étoiles d'énergie. As-tu déjà mangé une pomme croquante ou une carotte sucrée ? Ces aliments sont pleins de vitamines qui nous aident à jouer et à courir. Manger sainement nous rend plus forts, tout comme les héros dans les histoires que nous aimons. Alors, quels sont tes fruits préférés ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des habitudes alimentaires. Cela signifie manger à des moments réguliers et choisir des aliments sains. Par exemple, le matin, un bon petit-déjeuner nous donne l'énergie pour commencer la journée. Un bol de céréales avec du lait ou un morceau de pain complet est une excellente idée ! Et n'oublions pas de boire de l'eau, c'est très important pour rester hydraté. Tu aimes boire de l'eau ? C'est comme arroser une plante pour qu'elle grandisse bien."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Maintenant, faisons un petit exercice ensemble. Comptons jusqu'à cinq en prenant des respirations profondes. Prêt ? Un, deux, trois, quatre, cinq. Bravo ! C'est important de bouger et de respirer profondément chaque jour. Cela aide notre corps à se sentir bien. Tu peux essayer de faire cela chaque matin, comme un petit rituel magique pour commencer la journée. Tu es déjà sur la bonne voie vers une vie saine !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons notre aventure avec les aliments que nous mangeons au déjeuner. Un bon déjeuner nous donne de l'énergie pour l'après-midi. Imagine un arc-en-ciel dans ton assiette avec des légumes colorés comme des tomates rouges et des épinards verts. C'est un repas équilibré qui rend notre corps heureux. Quand nous mangeons des aliments variés, c'est comme découvrir de nouvelles saveurs chaque jour. As-tu déjà essayé de nouvelles choses à manger ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant des collations. Les collations peuvent être une partie amusante de notre journée, comme une pause magique. Choisir une pomme, une banane ou quelques noix est une excellente idée pour une collation saine. Cela nous donne de l'énergie sans trop de sucre. C'est comme donner un petit coup de pouce à notre corps pour continuer à jouer. Tu veux essayer de préparer une collation saine la prochaine fois ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo d'avoir écouté jusqu'ici ! Tu es vraiment génial. Maintenant, essayons de penser à nos dîners. Un bon dîner nous aide à bien dormir et à rêver de belles choses. Un plat avec du riz, des légumes et un peu de viande ou de poisson est parfait. C'est comme une belle histoire avant de s'endormir. Tu peux demander à un adulte de t'aider à préparer un dîner équilibré. Je suis sûre que tu feras de merveilleux choix !"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Et n'oublions pas l'importance de la variété ! Chaque aliment a sa propre magie, et manger de tout est une aventure en soi. Imagine découvrir de nouvelles saveurs chaque semaine, comme goûter un fruit exotique ou un légume que tu n'as jamais essayé. C'est comme partir en voyage sans quitter la maison. Tu pourrais même faire un petit carnet de voyage des aliments que tu découvres. Ça te plairait ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, je suis curieuse : as-tu déjà cuisiné avec un adulte ? C'est une belle façon d'apprendre sur les aliments tout en s'amusant. Préparer un repas est comme une danse où chaque aliment a son rôle. Tu pourrais essayer de faire une petite salade ou même des sandwiches amusants. Comment te sens-tu à l'idée d'essayer la cuisine ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Cuisiner peut être très amusant et c'est un excellent moyen de découvrir de nouvelles choses. Imagine créer une pizza avec plein de légumes colorés ou un smoothie aux fruits. C'est comme faire de l'art avec de la nourriture ! En plus, quand nous cuisinons, nous pouvons choisir des ingrédients sains qui nous aideront à grandir forts. Tu pourrais même inventer ton propre plat spécial. N'est-ce pas excitant ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de l'importance de manger ensemble en famille. Partager un repas, c'est comme une fête où tout le monde se réunit. Cela nous permet de parler de notre journée et de passer du bon temps. Quand nous mangeons ensemble, nous partageons aussi des sourires et des rires. C'est une belle habitude à garder, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es sur la bonne voie pour devenir un expert en alimentation saine ! Rappelle-toi que manger sainement nous aide à être heureux et en bonne santé. Chaque petit choix que tu fais compte, comme choisir une pomme au lieu d'un bonbon. Je suis tellement fière de toi et de tous tes efforts. Continue comme ça, tu es incroyable !"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Alors, quels sont tes moments préférés pour manger ? Peut-être que tu aimes les petits-déjeuners ensoleillés ou les dîners avec ta famille. Chaque repas est une nouvelle chance de découvrir quelque chose de délicieux et de sain. En mangeant bien, nous prenons soin de notre corps et nous nous sentons bien. C'est un peu comme un câlin pour notre ventre. As-tu envie de partager ton repas préféré ?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avant de terminer, j'aimerais savoir : quel est ton super aliment préféré ? C'est celui qui te donne plein d'énergie et de joie. Peut-être que c'est une orange juteuse ou un morceau de fromage savoureux. Chaque aliment a ses propres pouvoirs magiques pour nous aider. Quel aliment choisis-tu pour être ton super héros ?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce voyage magique avec moi ! J'ai adoré parler de nutrition et découvrir ensemble les secrets d'une alimentation saine. Rappelle-toi toujours que chaque petite bouchée compte pour notre santé et notre bonheur. Je suis si contente que tu sois devenu un petit explorateur de la nutrition. Prends soin de toi et continue d'apprendre et de grandir. Au revoir, petit ami ! À bientôt pour une nouvelle aventure !"
+    }
+  ],
+  "title": "Histoire de Nutrition de Luna"
+}

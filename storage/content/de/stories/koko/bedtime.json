@@ -1,0 +1,98 @@
+{
+  "id": "koko_bedtime_story",
+  "character": "Koko",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Koko, dein Beschützer der Nacht. Heute erzählen wir eine spannende Geschichte über die Schlafenszeit. Bist du bereit, mit mir auf eine gemütliche Reise zu gehen? Ich bin so neugierig auf dich und deine Abendrituale. Zusammen entdecken wir, wie wir uns auf eine gute Nacht vorbereiten können. Lass uns beginnen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über Schlafenszeit gesprochen haben? Schlafenszeit ist eine magische Zeit, in der wir uns ausruhen und neue Energie für den nächsten Tag tanken. Es ist wichtig, dass wir uns auf das Schlafengehen vorbereiten, damit wir gut schlafen können. Hast du schon einmal das sanfte Gefühl gespürt, wenn du in deinem kuscheligen Bett liegst? Es ist, als ob eine warme Decke uns umhüllt und uns beschützt."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ein wichtiger Teil der Schlafenszeit ist das Zähneputzen. Indem wir unsere Zähne putzen, halten wir sie gesund und stark, genau wie ein Superheld, der seine Ausrüstung pflegt. Nimm deine Zahnbürste und putze sanft in kleinen Kreisen. Stell dir vor, du malst ein Bild auf deine Zähne. So bleiben sie sauber und bereit für den nächsten Tag. Großartig gemacht!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns zusammen tief durchatmen. Atmen wir ein, als würden wir den Duft von frischen Blumen einatmen, und dann langsam ausatmen, als ob wir eine Kerze auspusten. Atmen hilft uns, ruhig und entspannt zu werden. Möchtest du es mit mir ausprobieren? Einatmen, zwei, drei, vier, und ausatmen, zwei, drei, vier. Wunderbar! Du machst das ganz toll."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an das Gefühl von Sicherheit, wenn du in deinem Bett liegst? Es ist, als ob du in einer sicheren Festung bist, die dich vor allem Bösen schützt. Dein Bett ist ein besonderer Ort, an dem du dich entspannen und träumen kannst. Hast du schon einmal von einem Abenteuer geträumt, das du erlebt hast? Träume sind wie kleine Geschichten, die uns auf Reisen mitnehmen."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt ist es Zeit, die Schlafanzüge anzuziehen. Schlafanzüge sind wie ein Superheldenanzug, der uns hilft, gut zu schlafen. Wähle deinen Lieblingsschlafanzug aus, der dich warm und gemütlich hält. Wenn du ihn anhast, fühlst du dich bereit für die Nacht, nicht wahr? Es ist, als ob du ein Teil eines geheimen Teams bist, das sich um eine gute Nachtruhe kümmert."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt, da wir uns vorbereitet haben, ist es Zeit für eine Gute-Nacht-Geschichte. Geschichten sind wie kleine Abenteuer, die uns helfen, in eine andere Welt zu reisen. Hast du eine Lieblingsgeschichte, die dir hilft, einzuschlafen? Geschichten können uns beruhigen und uns in eine Welt der Fantasie entführen. Du wirst sehen, wie schnell du in den Schlaf gleitest!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du jemals überlegt, warum es so wichtig ist, genug zu schlafen? Schlaf gibt uns Energie und Kraft für den nächsten Tag. Wenn wir gut schlafen, können wir besser spielen, lernen und Abenteuer erleben. Was denkst du, wie fühlst du dich, wenn du gut geschlafen hast? Ist es nicht toll, voller Energie aufzuwachen?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an die ruhigen Momente, bevor du einschläfst? Diese Momente sind besonders, weil sie uns helfen, den Tag loszulassen. Manchmal sind die Geräusche der Nacht wie ein sanftes Lied, das uns beruhigt. Hast du schon einmal den Wind gehört, der durch die Bäume rauscht? Es klingt, als würde die Natur uns eine Gute Nacht wünschen."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns ein kleines Ritual machen, bevor wir einschlafen. Wir können unsere Augen schließen und uns vorstellen, dass wir auf einer Wolke schweben. Die Wolke ist weich und flauschig, und sie trägt uns sanft durch den Himmel. Stell dir vor, wie die Sterne über dir funkeln und dich beschützen. Dieses Bild hilft dir, ruhig und glücklich einzuschlafen."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du hast heute so viel gelernt und erlebt. Es ist wunderbar, wie du dich auf die Schlafenszeit vorbereitet hast. Du bist wie ein kleiner Held, der sich um seine Ruhe kümmert. Jetzt ist es Zeit, die Augen zu schließen und sich auf die Träume zu freuen. Du kannst stolz auf dich sein, dass du dich so gut um dich selbst kümmerst."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was träumst du am liebsten? Träume sind wie geheime Abenteuer, die wir jede Nacht erleben. Vielleicht träumst du von fliegenden Einhörnern oder von einem Zauberwald. Was auch immer es ist, deine Träume sind einzigartig und besonders. Hast du schon einmal von einem Abenteuer geträumt, das du erlebt hast? Erzähl mir von deinem Lieblingstraum!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an die Geschichten, die wir heute erzählt haben? Jede Geschichte ist wie ein kleines Abenteuer, das uns hilft, die Nacht zu genießen. Wenn du schläfst, kannst du von all den Dingen träumen, die du dir wünschst. Schlaf gut, kleiner Held, und träume von den Abenteuern, die dich erwarten. Du bist bereit für die Nacht, und ich bin stolz auf dich!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt, da wir bereit für die Nacht sind, ist es Zeit, gute Nacht zu sagen. Ich hoffe, du hast viel über die Schlafenszeit gelernt und fühlst dich bereit, in die Traumwelt zu reisen. Schlaf gut und sei bereit für die Abenteuer von morgen. Ich freue mich darauf, dich bald wiederzusehen. Gute Nacht, kleiner Freund, und träume süß!"
+    }
+  ],
+  "title": "Kokos Bedtime Geschichte"
+}

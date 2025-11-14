@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_behavior_attention_story",
+  "character": "Piggy Friend",
+  "topic": "behavior_attention",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostlarım! Ben Piggy Friend, bugün hep birlikte harika bir yolculuğa çıkacağız. Dikkatimizi nasıl toplayabileceğimizi ve bunu yaparken nasıl eğlenebileceğimizi keşfedeceğiz. Hazır mısınız? Hep birlikte öğrenmek ve oynamak çok eğlenceli olacak. Şimdi başlayalım mı?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dikkat toplamak bazen zor olabilir, değil mi? Ama merak etmeyin, birlikte birkaç eğlenceli yol bulacağız. Dikkatimizi topladığımızda daha iyi oyunlar oynayabiliriz ve daha çok şey öğrenebiliriz. Mesela, bir hikaye okuduğumuzda hikayeyi daha iyi anlayabiliriz. Dikkatimizi toplamak, hem eğlenceli hem de faydalı!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi size dikkat toplamak için basit bir egzersiz göstereceğim. Derin bir nefes alın, burnunuzdan yavaşça nefes alın ve ağzınızdan verin. Bunu üç kez tekrarlayalım, hadi başlayalım! Nefes almak bizi sakinleştirir ve dikkatimizin toparlanmasına yardımcı olur. Bu egzersizi her zaman yapabilirsiniz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harikasınız! Derin nefes almak çok rahatlatıcı, değil mi? Şimdi birlikte bir oyun oynayalım. Gözlerinizi kapatın ve bir balonun içinde uçtuğunuzu hayal edin. Balonun rengi nedir? Bu hayali kurarken dikkatinizin nasıl toplandığını hissedebiliyor musunuz?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dikkatimizi toplamanın bir diğer yolu da basit rutinler oluşturmak. Sabahları kalktığınızda dişlerinizi fırçalamak gibi. Her sabah aynı saatte kalkmak ve dişleri fırçalamak, günün geri kalanında daha dikkatli olmamıza yardımcı olur. Siz de sabahları neler yapıyorsunuz?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sabah rutininiz nasıl? Dişlerinizi fırçalıyor musunuz yoksa kahvaltı mı yapıyorsunuz önce? Belki de önce uyanıp biraz esniyorsunuz. Hadi bana anlatın, sabahları neler yapıyorsunuz?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda rutinlerden bahsetmiştik. Rutinler, gününüzü düzenlemenize yardımcı olabilir. Mesela, her gün aynı saatte uyumak ve uyanmak, beynimizi dinlendirir ve dikkatimizin daha iyi olmasını sağlar. Siz de uyku saatinize dikkat ediyor musunuz?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi bir oyun daha oynayalım. Bu oyunun adı 'Dikkatli Dinleme'. Ben size birkaç kelime söyleyeceğim ve sizden bu kelimeleri tekrar etmenizi isteyeceğim. Hazır mısınız? İşte kelimeler: elma, kitap, oyuncak. Şimdi sıra sizde!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Çok güzel! Dikkatli dinlediğiniz için hepinizi tebrik ederim. Bu tür oyunlar, dikkatimizi toplamak için harika bir yol. Şimdi başka bir kelime dizisi denemek ister misiniz? Harika, hadi başlayalım!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki oyunumuzda dikkatimizi nasıl topladığımızı gördük. Şimdi biraz daha derinleşelim. Dikkat toplamak sadece oyunlar için değil, bir şeyler öğrenmek için de önemlidir. Mesela, yeni bir şarkı öğrenirken dikkatli olmak, şarkıyı daha hızlı öğrenmemize yardımcı olur."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Biraz önce öğrendiğimiz nefes alma tekniğini hatırlıyor musunuz? Şimdi bunu deneyelim. Derin nefes al, ver. Harika! Bu nefes egzersizini ne zaman yapacağımızı hatırlıyor muyuz? Evet, kendimizi huzursuz hissettiğimizde yapabiliriz."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi bir başka dikkat geliştirme tekniği olan 'Odağı Bul' oyununu oynayacağız. Bir nesne seçin ve ona dikkatlice bakın. Rengi, şekli, ve büyüklüğü hakkında düşünün. Bu egzersiz, dikkatinizi bir yere odaklamanıza yardımcı olacaktır."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harikasınız! Odağınızı bir nesneye yöneltmek, dikkatinizi geliştirmek için süper bir yol. Her gün bunu yaparak dikkatinizi daha da güçlendirebilirsiniz. Siz de her gün bir nesne seçip bu egzersizi yapmayı deneyin."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bugün öğrendiğimiz dikkat toplama tekniklerinden hangisini en çok beğendiniz? Nefes alma mı, dikkatli dinleme mi, yoksa odağı bulma mı? Hadi bana söyleyin, hangisini en çok sevdiniz?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir zaman geçirdik! Dikkat toplama konusunda öğrendiklerimizi günlük hayatımızda kullanabiliriz. Her gün bu teknikleri deneyerek daha da iyi olabilirsiniz. Bir dahaki sefere görüşmek üzere, hoşça kalın! Unutmayın, siz harikasınız!"
+    }
+  ],
+  "title": "Piggyfriend'ın Davranış ve Dikkat Hikayesi"
+}

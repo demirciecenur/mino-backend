@@ -1,0 +1,98 @@
+{
+  "id": "tiko_screen_time_story",
+  "character": "Tiko",
+  "topic": "screen_time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Tiko, and I'm so excited to go on an adventure with you today. We're going to explore something called screen time. Do you know what that is? It's when we spend time looking at screens like TVs, tablets, or phones. But there's so much more to discover about it! Are you ready to learn and have some fun together?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Screen time can be lots of fun because we get to watch our favorite shows and play games. But did you know that too much screen time can make us feel tired? Just like when we eat too many sweets, our bodies need a break from screens. It's important to balance our screen time with other activities. Let's think about some fun things we can do without screens, like playing outside or reading a book."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about how we can make screen time safe and healthy. It's a good idea to have a special place where we use screens, like a comfy chair or a cozy corner. Also, remember to keep the screen at a safe distance from your eyes to protect them. Taking breaks is important too! Every 20 minutes, we can look away from the screen and focus on something far away. This helps our eyes relax and stay strong."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about screen time! Now, let's try a fun little exercise together. Let's pretend we're trees swaying in the wind. Stand up and stretch your arms wide like branches. Can you feel the breeze? This helps our bodies stay active and gives our eyes a break from screens. You did amazing! Remember, moving around is just as important as screen time."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about different activities we can do without screens? Let's think of some more! How about drawing a picture, building with blocks, or even playing a fun game like hide and seek? These are all great ways to have fun and use our imaginations. Plus, they help us learn new things and make our brains super smart. What do you like to do when you're not using screens?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever wondered why it's so important to take breaks from screens? It's because our eyes and brains need time to rest and recharge, just like we do after a big day of playing. Taking breaks helps us feel refreshed and ready for more fun. Now, can you think of a time when you took a break from screens and did something else? What did you do?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn a little exercise called the '20-20-20' rule. It means every 20 minutes, we look at something 20 feet away for 20 seconds. This is a fun way to give our eyes a mini vacation. Imagine you're looking at a big, fluffy cloud or a colorful bird far away. Isn't that relaxing? Practicing this can keep our eyes healthy and happy."
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now that we've learned about the '20-20-20' rule, let's think about how we can remind ourselves to take those breaks. Maybe we can use a timer or ask a grown-up to help us remember. It's just like remembering to brush our teeth every day. These little habits can make a big difference. What do you think could help you remember to take screen breaks?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a wonderful job learning about screen time! Let's keep going. Remember, screens are just one way to have fun. We can also explore the world around us, like going on a nature walk or playing with friends. Every adventure helps us grow and learn new things. Keep up the great work, and let's continue to find balance in our day!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about how we can make screen time even more meaningful. We can choose educational shows or games that teach us new things, like counting or colors. These can be fun and help us learn at the same time. It's like having a teacher right in our living room! What kind of shows or games do you like that help you learn something new?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite time of day to use screens? Maybe in the morning after breakfast or in the evening before bedtime? It's important to have a routine that includes screen time, so it doesn't take over our day. Having a set time helps us enjoy screens and still have time for other activities. What does your screen time schedule look like?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's talk about making screen time a family activity. Watching a movie together or playing a game can be a fun way to spend time with our family. We can talk about what we see and learn new things together. It's like having a little adventure right at home! What family activities do you enjoy that include screens?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such an amazing job learning and thinking about screen time! Remember, it's all about balance and making sure we have time for everything we love. Keep being curious and trying new things. You're a superstar explorer, and I know you'll find the perfect balance for your screen time. Let's keep having fun and learning together!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time to wrap up our adventure about screen time. You've learned so much and shared great ideas! Remember, screens can be fun, but it's important to mix in other activities too. Keep exploring, playing, and learning every day. Thank you for joining me, Tiko, on this journey. I can't wait for our next adventure together. Goodbye for now, and see you soon!"
+    }
+  ],
+  "title": "Tiko's Screen Time Story"
+}

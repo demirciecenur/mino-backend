@@ -1,0 +1,98 @@
+{
+  "id": "frost friend sid_behavior_story",
+  "character": "Frost Friend Sid",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour petit ami ! Je suis Frost Friend Sid, et aujourd'hui, nous allons explorer le monde magique du bon comportement. Es-tu prêt pour une aventure amusante ? Ensemble, nous allons découvrir comment être gentils et respectueux les uns envers les autres. C'est comme être un super-héros, mais avec des mots doux et des gestes gentils. J'ai hâte de tout apprendre avec toi !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de ce qu'est le bon comportement. Tu sais, c'est comme quand tu partages tes jouets avec tes amis. Quand tu fais cela, tout le monde est heureux et se sent bien. Le bon comportement aide à rendre nos journées plus joyeuses et nos jeux plus amusants. Alors, comment pouvons-nous être gentils aujourd'hui ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Un moyen simple de montrer un bon comportement est d'utiliser des mots magiques comme 's'il te plaît' et 'merci'. As-tu déjà remarqué comment les gens sourient quand tu dis ces mots ? C'est parce qu'ils se sentent appréciés et respectés. Essaye de les utiliser chaque jour, et tu verras la magie opérer autour de toi."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Génial ! Tu fais déjà un excellent travail en écoutant. Maintenant, essayons ensemble de dire 'merci'. Prends une profonde inspiration, et allons-y : 'merci'. Super ! Tu es vraiment doué pour cela. Continue comme ça, et tu rendras beaucoup de gens heureux."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi, le bon comportement, c'est aussi suivre les règles. Comme attendre son tour sur le toboggan. Cela montre que tu respectes les autres et que tu es patient. Tout le monde aime jouer ensemble quand chacun respecte les règles. Alors, que dirais-tu d'essayer cela la prochaine fois que tu joues ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand tu sens que tu es en colère ou frustré, il est important de se calmer. Une bonne méthode est de prendre trois grandes respirations. Inspirons ensemble : une, deux, trois. Tu vois, c'est magique ! Cela aide à se sentir plus calme et prêt à être gentil à nouveau."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as fait un excellent travail en apprenant à te calmer ! C'est une compétence formidable à avoir. Continue d'utiliser cette technique chaque fois que tu en as besoin. Tu verras, cela rendra tes journées encore plus joyeuses et amusantes."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de comment aider les autres. Aider, c'est comme être un super-héros pour quelqu'un. Par exemple, tu peux aider à ramasser des jouets ou à mettre la table. Chaque petit geste compte et rend le monde meilleur. Que dirais-tu de devenir un super-héros de l'aide aujourd'hui ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu déjà aidé quelqu'un aujourd'hui ? Peut-être as-tu partagé un jouet ou aidé à ranger ta chambre. Comment cela t'a-t-il fait sentir ? Je parie que cela t'a rendu heureux et fier. N'est-ce pas incroyable comment aider peut apporter autant de joie ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, réfléchissons à comment être poli. Dire 'bonjour' ou 'au revoir' avec un sourire est un excellent début. Cela montre que tu respectes et apprécies les gens autour de toi. Pourquoi ne pas essayer cela la prochaine fois que tu vois quelqu'un ? Je suis sûr que cela fera leur journée !"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre chose importante est d'apprendre à écouter. Quand tu écoutes bien, tu montres que tu te soucies de ce que l'autre dit. Essayons ensemble : imagine que nous écoutons un oiseau chanter. Écoute attentivement, et tu découvriras tant de belles choses."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo ! Tu deviens un excellent auditeur. Continue à pratiquer, et tu seras un véritable expert en écoute. Cela te permettra de mieux comprendre les autres et de faire de nouveaux amis. Tu peux le faire, je crois en toi !"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nous avons parlé de beaucoup de choses aujourd'hui, n'est-ce pas ? Du partage à l'écoute, chaque petit geste de bon comportement est important. Maintenant, pense à une chose que tu veux essayer demain. Peut-être que tu pourrais partager un jouet ou dire 'merci' plus souvent. Chaque jour est une nouvelle opportunité d'être gentil."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, petit ami. J'ai adoré parler de tous ces comportements formidables avec toi. Rappelle-toi d'être toujours gentil et respectueux. Je suis sûr que tu feras un excellent travail. À bientôt pour une nouvelle aventure !"
+    }
+  ],
+  "title": "Histoire de Behavior de Frost Friend Sid"
+}

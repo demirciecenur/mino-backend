@@ -1,0 +1,104 @@
+{
+  "id": "clever_mouse_jerry_tiempo_de_pantalla_seguridad_digital_uso_de_tecnología_hábitos_saludables_de_pantalla_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "tiempo de pantalla, seguridad digital, uso de tecnología, hábitos saludables de pantalla",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguito! Soy el Ratón Listo Jerry, y hoy vamos a embarcarnos en una aventura increíble sobre cómo usar la tecnología de manera segura y divertida. Hablaremos sobre el tiempo de pantalla, la seguridad digital y cómo podemos tener hábitos saludables. ¿Estás listo para aprender y jugar conmigo? ¡Estoy tan emocionado de comenzar este viaje contigo! Vamos a descubrir juntos cómo podemos hacer que el tiempo frente a la pantalla sea seguro y agradable."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "El tiempo de pantalla es el tiempo que pasamos usando dispositivos como tabletas, computadoras o teléfonos. Es importante porque, aunque nos gusta jugar y aprender en ellos, necesitamos también tiempo para otras actividades como jugar afuera o leer un libro. ¿Sabías que jugar demasiado tiempo en una pantalla puede cansar tus ojos? Por eso, es bueno tomar descansos. De esta manera, tus ojos se mantendrán felices y saludables. Ahora que sabemos esto, vamos a aprender más sobre la seguridad digital."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "La seguridad digital es como un escudo mágico que nos protege cuando usamos internet. Siempre es importante pedir ayuda a un adulto cuando queremos explorar sitios nuevos. A veces, en internet, podemos encontrar cosas que no son para niños, y por eso es bueno tener a alguien a nuestro lado. ¿Sabes cómo asegurarte de que un sitio es seguro? Busca un candado pequeño en la barra de direcciones. ¡Es como una puerta mágica que nos dice que estamos en un lugar seguro!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Tú puedes hacerlo! Mantener la seguridad digital es como un juego de detectives. Siempre pregunta a mamá, papá o un adulto de confianza si tienes dudas. Recuerda, no debemos compartir información personal como nuestra dirección o número de teléfono en internet. ¡Es un secreto que debemos guardar! Ahora que eres un experto en seguridad digital, sigamos aprendiendo sobre cómo podemos tener hábitos de pantalla saludables."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tener hábitos saludables de pantalla significa equilibrar el tiempo que pasamos con nuestros dispositivos y otras actividades. Podemos hacer una lista de cosas divertidas para hacer, como dibujar, leer o jugar al aire libre. ¡Así, siempre tendremos algo emocionante que hacer! También es importante tener un horario para el tiempo de pantalla. ¿Qué te parece si después de cada hora de pantalla, hacemos una pequeña pausa para estirarnos? ¡Es un buen ejercicio para el cuerpo!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos sobre cómo podemos usar la tecnología de manera creativa y educativa. Hay muchos juegos y aplicaciones que nos enseñan cosas nuevas, como contar, leer o incluso aprender sobre animales. Es como tener una biblioteca mágica en nuestras manos. Pero recuerda, siempre es importante que un adulto te ayude a elegir las mejores aplicaciones para ti. ¡Así, aprenderemos mientras nos divertimos de manera segura!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Ahora que sabemos cómo usar la tecnología para aprender, podemos convertirnos en pequeños exploradores del conocimiento. Cada vez que aprendemos algo nuevo, es como encontrar un tesoro escondido. ¿No es emocionante? Recuerda siempre compartir lo que aprendes con tus amigos y familia. ¡Ellos estarán orgullosos de ti y de todo lo que sabes! Sigamos adelante y veamos cómo podemos mejorar aún más nuestros hábitos."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Es importante también cuidar nuestro cuerpo mientras usamos tecnología. A veces, podemos olvidarnos de movernos cuando estamos muy concentrados en un juego o un video. ¿Qué tal si hacemos una pausa para estirarnos juntos? Podemos levantar los brazos, mover los pies y girar la cabeza suavemente. ¡Así, nuestro cuerpo se sentirá genial y listo para seguir explorando! Ahora, hablemos sobre cómo la tecnología puede unirnos con amigos y familia."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "La tecnología también nos ayuda a mantenernos conectados con las personas que amamos. Podemos usarla para hablar con abuelos, tíos o amigos que viven lejos. Es como si estuviéramos todos juntos en una gran sala virtual. Pero recuerda, siempre es importante pedir permiso antes de hacer una videollamada. ¡Así, todos estarán preparados y felices de verte! Ahora que sabemos esto, hablemos sobre cómo podemos terminar nuestro día de manera relajante."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Antes de dormir, es una buena idea alejarnos de las pantallas. Podemos leer un libro o escuchar una historia contada por mamá o papá. Esto ayuda a que nuestros ojos descansen y nos prepara para una noche de sueño reparador. ¿Quieres probarlo hoy? ¡Verás lo bien que te sientes al día siguiente! Sigamos adelante y aprendamos algunas reglas para un buen descanso."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Una buena regla es apagar todos los dispositivos al menos una hora antes de ir a la cama. Así, nuestro cerebro sabe que es hora de relajarse. También es importante mantener los dispositivos fuera de la habitación cuando dormimos. ¡Así nos aseguramos de tener un sueño profundo y sin interrupciones! Mañana, cuando nos despertemos, podremos empezar un nuevo día lleno de aventuras y aprendizaje. Ahora, vamos a hacer un pequeño ejercicio juntos."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a respirar profundamente tres veces. Inhala por la nariz, sostén el aire un momento y exhala por la boca. ¿Listo? Inhala... Sostén... Exhala. ¡Muy bien! Esto nos ayuda a sentirnos tranquilos y listos para descansar. Puedes hacerlo cada vez que necesites un momento de calma. Ahora, ¿qué tal si hacemos una pregunta para pensar un poco más?"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez te has preguntado cómo sería la vida sin pantallas? Sería un poco diferente, ¿verdad? Podríamos pasar más tiempo jugando al aire libre o inventando juegos con nuestros amigos. ¿Qué actividades te gustaría hacer más si no tuvieras pantallas? ¡Cuéntame tus ideas! Estoy seguro de que son geniales y podemos encontrar un buen equilibrio entre tecnología y diversión sin pantallas."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos hablado de tantas cosas importantes, recuerda que el tiempo de pantalla puede ser divertido y educativo si lo usamos sabiamente. Siempre es bueno tener un equilibrio y disfrutar de todas las maravillas que el mundo tiene para ofrecernos. ¡Estoy tan orgulloso de ti por aprender conmigo hoy! Eres un experto en tecnología segura y saludable. ¡Sigue así!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Gracias por acompañarme en esta aventura, amiguito. Espero que te hayas divertido y aprendido mucho sobre cómo usar la tecnología de manera segura. Recuerda siempre pedir ayuda a un adulto y equilibrar tu tiempo de pantalla con otras actividades. ¡Hasta la próxima! Nos veremos pronto para más aventuras con el Ratón Listo Jerry. ¡Adiós, amigo!"
+    }
+  ],
+  "title": "Historia de Screen Time de Clever Mouse Jerry"
+}

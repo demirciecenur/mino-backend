@@ -1,0 +1,104 @@
+{
+  "id": "mino_nature_story",
+  "character": "Mino",
+  "topic": "nature",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little explorers! I'm Mino, your friendly space adventurer. Today, we're going on a wonderful journey to discover the amazing world of nature. Are you excited? Nature is all around us, and it's full of surprises and wonders. From the tiniest ants to the tallest trees, there's so much to learn and see. So, put on your adventure hats and let's dive into this fun exploration together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nature is like a big, colorful playground. It has flowers that bloom with bright colors and birds that sing beautiful songs. Have you ever heard the chirping of birds in the morning? It's like nature's own music to wake us up. Trees give us shade on sunny days and help clean the air we breathe. Isn't it amazing how they stand tall and strong, reaching for the sky?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about the animals that live in nature. Some animals, like squirrels, love to climb trees and gather nuts. Others, like fish, swim happily in rivers and oceans. Every animal has its own special home, called a habitat. Can you think of where a bird might live? That's right, in a nest high up in a tree! Each creature plays a special role in keeping nature balanced and healthy."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's imagine we're little seeds in a garden. First, we need rich soil to grow strong roots. Then, with a little sunshine and rain, we'll start to sprout and reach for the sky. Can you stretch your arms up high like a growing plant? Wonderful! Just like us, plants need food and water to grow. They make the world green and beautiful."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember the sound of rain tapping on windows? Rain is nature's way of giving plants a drink. It falls from clouds in the sky, which are like fluffy water carriers. When the rain stops, the sun comes out, and sometimes we see a magical rainbow. Have you ever counted the colors in a rainbow? It's a delightful surprise after a rainy day."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's explore the sky above us. During the day, we see the bright sun shining down, giving us warmth and light. At night, the sky turns dark and fills with twinkling stars. If you look closely, you might see the moon, too. It's like a big, glowing ball that changes shape every night. The sky is always full of wonders, just like nature."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Have you ever walked barefoot on soft grass? It feels tickly and cool under your feet. Grass is a part of nature that covers the ground like a green carpet. It gives a home to many tiny creatures, like ants and beetles. Next time you're outside, try lying on the grass and looking up at the clouds. You might see shapes and stories in them!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you know why trees have leaves? Leaves are like little food factories for trees. They take sunlight and turn it into energy to help the tree grow. Isn't that clever? Without leaves, trees wouldn't be able to make the food they need. Can you imagine what it would be like if we could make our own food just by standing in the sun?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about the ocean, a huge part of our natural world. Oceans are like giant swimming pools, home to fish, dolphins, and whales. The water is salty, and waves crash on the shore, making a soothing sound. Have you ever built a sandcastle at the beach? The ocean is full of life and mystery, and it connects to all the lands on Earth."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's learn about recycling, a way we can help nature. Recycling means taking old things and making them into something new. Like turning paper back into new paper or plastic bottles into new toys. When we recycle, we use fewer resources from nature, which keeps the Earth healthy. It's like giving nature a big hug!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's pretend we're little bees buzzing around a garden. Bees help flowers grow by carrying pollen from one flower to another. This helps plants make seeds, which grow into new plants. Can you buzz like a bee and pretend to fly from flower to flower? Great job! Bees are tiny, but they do big work for nature."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about the seasons. Each season has its own special things. Spring brings new flowers and baby animals. Summer is warm and sunny, perfect for playing outside. In fall, leaves change color and fall to the ground. Winter brings cold and sometimes snow. Each season is like a new adventure in nature's story."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite animal in nature? Maybe it's a playful dolphin or a colorful butterfly. Every animal is special and has its own way of living. Some animals are fast, like cheetahs, and some are slow, like turtles. What do you think it would be like to live like your favorite animal for a day?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's remember the sounds of nature, like the rustling leaves and chirping birds. These sounds make nature feel alive and full of energy. Next time you're outside, try closing your eyes and listening carefully. What do you hear? It's like nature is talking to us, telling us its secrets. Isn't that magical?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our adventure through nature is coming to an end, but remember, nature is always there waiting for you. Every time you step outside, you can find something new and exciting. Keep exploring, observing, and caring for our wonderful world. Thank you for joining me, Mino, on this amazing journey. Until next time, keep your eyes open and your heart full of wonder. Goodbye, little explorers!"
+    }
+  ],
+  "title": "Mino's Nature Story"
+}

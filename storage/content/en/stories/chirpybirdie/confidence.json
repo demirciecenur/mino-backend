@@ -1,0 +1,104 @@
+{
+  "id": "chirpy_birdie_confidence_story",
+  "character": "Chirpy Birdie",
+  "topic": "confidence",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friend! I'm Chirpy Birdie, and I'm so excited to see you today. We're going on a wonderful adventure to learn all about confidence. Are you ready to join me? Confidence is when you believe in yourself, like when you try something new and feel happy about it. Let's flap our wings together and have some fun!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about what confidence really means. It's like when you know you can do something, even if it seems a little bit tricky at first. Have you ever tried to tie your shoes or ride a bike? At first, it might seem hard, but with practice, you feel more sure of yourself. That's confidence growing inside you, just like a little seed turning into a strong tree."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn a little exercise to help us feel confident. When you feel unsure, take three deep breaths to calm down. Ready? Breathe in slowly through your nose, and let it out through your mouth. Let's do it together, one, two, three. Doesn't that feel nice and calming? Breathing helps you feel ready to take on new challenges."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job with the breathing! Now let's try something fun. Imagine you're a brave explorer, ready to discover new things. You can do anything when you believe in yourself, just like an explorer finding hidden treasures. Remember, you're doing amazing, and I'm so proud of you!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about tying your shoes? Let's imagine you're practicing it now. You can say to yourself, 'I can do this!' Even if it takes a few tries, each time you get a little better. Confidence is like a little cheerleader in your heart, saying, 'Go, you can do it!' Keep trying, and you'll succeed."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Here's a fun way to build confidence: try something new every day. Maybe it's drawing a picture or learning a new word. Each time you try, you're growing your confidence muscles. Just like exercising, the more you do it, the stronger you become. Let's be brave and try something new together!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're doing so well on our confidence journey. Remember, even if something seems a little scary at first, you have the courage inside you. Just like a little bird flying high in the sky, you can soar with confidence. Keep believing in yourself, and you'll reach new heights!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you remember a time when you felt really proud of yourself? Maybe it was when you helped a friend or finished a puzzle. How did that make you feel? It's important to remember those moments, because they show you how amazing you are. Would you like to share a proud moment with me?"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Wow, that sounds like a wonderful moment! Every time you do something you're proud of, your confidence grows a little more. It's like adding another feather to your wings, helping you fly higher. Remember, each small step is a big achievement on your confidence journey."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice another way to feel confident: stand tall like a superhero! Imagine a cape on your back, and hold your head up high. When you stand tall, you feel strong and ready for anything. Try it now, and feel the power of confidence flowing through you. You're a superstar!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such an amazing job! Remember, everyone feels unsure sometimes, and that's okay. What's important is to keep trying and believing in yourself. Just like a little bird learning to fly, each flap of your wings takes you closer to your dreams. Keep going, and you'll soar!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about how we can help others feel confident too. When you see a friend trying something new, you can cheer them on. Say, 'You can do it!' and give them a big smile. Helping others feel confident makes the world a brighter, happier place. Together, we can all shine!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever helped someone feel confident before? Maybe you shared your toys or helped them with a game. How did it make you feel? Helping others is a wonderful way to spread confidence and happiness. Would you like to share a time when you helped someone?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "That's such a kind thing to do! Every time you help someone, you make the world a little bit better. Your kindness and confidence are like a warm hug, spreading joy to everyone around you. Keep being the amazing, confident friend you are, and you'll make so many people happy."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this confidence adventure today! Remember, you're brave, strong, and can do anything you set your mind to. Keep practicing your confidence exercises, and don't forget to help others along the way. I'm so proud of you, and I can't wait to see you again soon. Goodbye, little friend, and keep shining bright!"
+    }
+  ],
+  "title": "Chirpy Birdie's Confidence Story"
+}

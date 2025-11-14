@@ -1,0 +1,110 @@
+{
+  "id": "chirpy_birdie_confidence_story",
+  "character": "Chirpy Birdie",
+  "topic": "confidence",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis Chirpy Birdie et aujourd'hui, nous allons découvrir la confiance en soi. Êtes-vous prêts pour cette belle aventure? La confiance, c'est un peu comme un super pouvoir qui nous aide à essayer de nouvelles choses. Vous savez, comme quand on apprend à faire du vélo ou à chanter une nouvelle chanson. Je suis tellement curieux d'apprendre avec vous!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance, c'est croire en soi-même, même quand les choses semblent difficiles. Par exemple, imaginez que vous avez un grand puzzle à résoudre. La confiance vous dit que vous pouvez le faire, pièce par pièce. Et même si vous faites une erreur, ce n'est pas grave! Chaque petite erreur est une chance d'apprendre et de grandir. Rappelez-vous, chaque fois que vous essayez, vous devenez plus fort!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment nous pouvons renforcer notre confiance. Une bonne façon est de se rappeler des moments où nous avons réussi quelque chose. Pensez à une fois où vous avez fait quelque chose de difficile, comme attacher vos lacets. Vous l'avez fait, n'est-ce pas? C'est un petit succès qui montre que vous pouvez réussir encore et encore. Nous allons essayer de nous souvenir de ces succès chaque jour."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Allons-y, mes amis, faisons un petit exercice ensemble! Fermez les yeux et pensez à quelque chose que vous avez réussi récemment. Peut-être que vous avez aidé à mettre la table ou que vous avez dessiné un joli dessin. Ressentez cette fierté dans votre cœur. Vous voyez, vous êtes déjà en train de renforcer votre confiance! Super, continuez comme ça!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de faire du vélo? La première fois, c'est un peu effrayant, mais avec chaque essai, vous devenez plus confiant. C'est pareil avec beaucoup de choses dans la vie. Chaque fois que vous essayez, vous apprenez un peu plus. Et même si vous tombez, vous pouvez toujours vous relever et réessayer. Vous êtes comme un petit héros courageux!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Un autre moyen de renforcer la confiance est d'encourager les autres. Quand vous dites à un ami 'Tu peux le faire!', cela vous aide aussi à croire en vous-même. C'est comme partager un grand sourire. Plus vous le faites, plus vous vous sentez bien. Alors, la prochaine fois que quelqu'un essaie quelque chose de nouveau, dites-lui qu'il peut y arriver. Vous verrez, c'est magique!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, respirons ensemble pour nous sentir encore plus confiants. Prenez une grande inspiration, puis soufflez doucement. Encore une fois, inspirez... et expirez. Chaque souffle vous remplit de courage et de calme. Vous pouvez le faire chaque fois que vous vous sentez un peu nerveux ou inquiet. C'est comme un câlin pour votre cœur!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance, c'est aussi savoir demander de l'aide quand on en a besoin. Parfois, les choses sont plus faciles quand on les fait ensemble. Imaginez que vous construisez un grand château de sable. Avec des amis, vous pouvez le faire plus grand et plus solide. Alors, n'hésitez pas à demander de l'aide à vos amis ou à votre famille. Ils seront ravis de vous aider!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous le moment où vous avez essayé quelque chose de nouveau, comme un nouveau jeu ou une nouvelle activité? C'était excitant, n'est-ce pas? Même si c'était un peu effrayant au début, vous avez pris une grande respiration et vous l'avez fait. C'est ça, la confiance, et vous l'avez déjà en vous. Chaque jour est une nouvelle chance de découvrir quelque chose de nouveau!"
+    },
+    {
+      "id": "question_1",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà essayé quelque chose de nouveau aujourd'hui? Peut-être une nouvelle couleur pour dessiner ou un nouveau jeu à explorer? Pensez à quel point c'était amusant de découvrir quelque chose d'inconnu. Comment vous êtes-vous senti après avoir essayé? C'était excitant, n'est-ce pas? Quelle merveilleuse journée pour être curieux et courageux!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance peut aussi être comme une petite graine que nous plantons dans notre cœur. Chaque fois que nous essayons quelque chose de nouveau, nous l'arrosons et elle grandit. Imaginez que cette graine devient un grand arbre fort. Elle vous protège et vous donne de l'ombre quand le soleil est trop fort. C'est votre arbre de confiance, et il grandit chaque jour avec vous!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons de trouver trois choses que vous aimez chez vous. Cela peut être votre sourire, votre gentillesse ou votre capacité à partager. Pensez-y et dites-les à voix haute. Vous voyez, vous avez tellement de belles qualités! Se rappeler de ces choses vous aide à vous sentir bien dans votre peau. Vous êtes vraiment merveilleux!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous savez, chaque fois que vous vous sentez un peu nerveux, vous pouvez penser à ces belles choses. C'est comme un petit trésor que vous portez avec vous. Vous pouvez le sortir chaque fois que vous en avez besoin pour vous sentir plus fort. Et n'oubliez jamais, vous êtes capable de faire des choses incroyables. Je crois en vous!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance, c'est aussi se souvenir que nous avons tous des talents uniques. Peut-être que vous êtes doué pour raconter des histoires ou pour danser. Chaque talent est spécial et fait partie de qui vous êtes. Partager vos talents avec les autres peut aussi renforcer votre confiance. Alors, n'ayez pas peur de montrer ce que vous savez faire!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Vous avez déjà partagé un de vos talents avec un ami? Peut-être que vous lui avez appris à dessiner un animal ou à chanter une chanson. Cela fait du bien, n'est-ce pas? Partager, c'est comme donner un petit morceau de bonheur. Et cela vous rend encore plus confiant dans ce que vous pouvez faire. Continuez à briller de votre propre lumière!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir exploré la confiance avec moi aujourd'hui, mes chers amis! N'oubliez pas que vous êtes capables de faire des choses merveilleuses chaque jour. La confiance est toujours avec vous, comme un ami fidèle. Je suis tellement fier de vous et je sais que vous pouvez accomplir de grandes choses. Au revoir, et à très bientôt pour une nouvelle aventure avec Chirpy Birdie!"
+    }
+  ],
+  "title": "Histoire de Confidence de Chirpy Birdie"
+}

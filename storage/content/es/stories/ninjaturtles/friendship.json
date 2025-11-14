@@ -1,0 +1,104 @@
+{
+  "id": "shell_heroes_crew_friendship_story",
+  "character": "Shell Heroes Crew",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Somos el Escuadrón de Héroes Tortuga, y hoy vamos a embarcarnos en una aventura increíble sobre la amistad. ¿Estás listo para aprender y divertirte con nosotros? La amistad es como un puente que nos conecta con los demás y nos hace sentir felices. Vamos a explorar cómo hacemos amigos y por qué es tan importante. Estoy muy emocionado de que estés aquí con nosotros. ¡Vamos a comenzar esta aventura juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad es como tener un compañero de equipo que siempre está a tu lado. ¿Sabías que los amigos son aquellos con quienes compartimos momentos especiales? Como cuando jugamos en el parque o compartimos un bocadillo. Los amigos nos ayudan cuando estamos tristes y celebran con nosotros cuando estamos felices. Tener amigos es como tener una gran familia que elegimos. Ahora, pensemos en cómo podemos ser buenos amigos para los demás."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para ser un buen amigo, es importante escuchar y compartir. ¿Alguna vez has compartido tus juguetes con un amigo? Eso es un gran gesto de amistad. También podemos ayudar a nuestros amigos cuando necesitan algo, como recoger sus lápices si se les caen. Escuchar cuando nos cuentan algo importante también es una forma de mostrar que nos importan. Ahora, recordemos que ser amable y respetuoso es clave para mantener una buena amistad."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Tú puedes ser un amigo increíble! ¿Te gustaría intentar hacer algo amable por alguien hoy? Podrías sonreír a un nuevo amigo en la escuela o invitar a alguien a jugar contigo. A veces, un simple 'gracias' o 'por favor' puede hacer que alguien se sienta especial. Vamos a contar hasta tres juntos y pensar en una cosa amable que podamos hacer. Uno, dos, tres... ¡Genial! Estoy seguro de que harás algo maravilloso."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos hablado sobre ser buenos amigos, pensemos en cómo hacer nuevos amigos. A veces, solo se necesita un 'hola' para comenzar una nueva amistad. ¿Alguna vez te has sentido un poco tímido para hablar con alguien nuevo? Eso es normal, pero recuerda que muchos otros niños también quieren hacer amigos. Puedes preguntar si quieren jugar contigo o compartir una historia divertida. ¡Hacer amigos puede ser una gran aventura!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar cómo presentarnos a un nuevo amigo. Puedes decir algo como 'Hola, me llamo [tu nombre], ¿quieres jugar conmigo?'. Practicar esto nos ayuda a sentirnos más seguros. También podemos preguntar cosas como '¿Cuál es tu juego favorito?' o '¿Te gusta dibujar?'. Así es como comenzamos a conocer a nuestros amigos mejor. Ahora, ¿quieres intentar decir algo amable a un amigo? ¡Vamos a intentarlo juntos!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo muy bien! Recuerda que cada pequeño acto de amabilidad cuenta. Tal vez puedas ayudar a un amigo a recoger sus cosas o compartir un lápiz. A veces, un simple abrazo puede hacer que alguien se sienta muy especial. ¿Te gustaría probar un abrazo virtual ahora mismo? ¡Abrazo grande! Estoy seguro de que tus amigos aprecian todo lo que haces por ellos. ¡Sigue así!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos que la amistad también significa resolver problemas juntos. A veces, los amigos pueden tener desacuerdos, y eso está bien. Lo importante es hablar y escuchar los sentimientos del otro. Por ejemplo, si no están de acuerdo en qué juego jugar, pueden turnarse. Así, todos tienen la oportunidad de elegir. Resolver problemas juntos fortalece la amistad y nos enseña a ser más comprensivos."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas la última vez que jugaste con un amigo y se divirtieron mucho? Quizás fue en el parque o en casa. Esos momentos son especiales porque los compartimos con personas que nos importan. Los amigos son como tesoros que nos hacen sentir felices y seguros. Ahora, piensa en un momento divertido que hayas tenido con un amigo. ¿Te hace sonreír recordarlo? ¡Eso es la magia de la amistad!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad también es sobre celebrar juntos. Cuando un amigo logra algo, como aprender a andar en bicicleta, ¡podemos celebrarlo con ellos! Podemos aplaudir o hacer un pequeño baile de celebración. Celebrar los logros de nuestros amigos nos hace sentir felices a todos. ¿Alguna vez has celebrado algo con un amigo? ¡Es divertido y muestra cuánto nos importa su felicidad!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora, tengo una pregunta para ti. ¿Qué es lo que más te gusta hacer con tus amigos? Tal vez sea jugar a las escondidas o construir con bloques. Cada uno de nosotros tiene cosas que nos encanta hacer juntos. Piensa en tu actividad favorita con un amigo. ¡Estoy seguro de que es algo muy especial! ¿Quieres compartirlo conmigo? Me encantaría saberlo."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Eso suena increíble! Estoy seguro de que tus amigos también disfrutan mucho hacer eso contigo. Las actividades favoritas nos ayudan a crear recuerdos especiales. Cada vez que hacemos algo divertido juntos, fortalecemos nuestra amistad. Ahora, pensemos en una nueva actividad que podríamos probar con un amigo. Quizás un juego nuevo o una aventura en el patio. ¡Las posibilidades son infinitas!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A medida que hacemos nuevos amigos, también aprendemos de ellos. Cada amigo tiene algo único que compartir, como un talento especial o una historia interesante. Podemos aprender a dibujar mejor o descubrir un nuevo juego. Los amigos nos enseñan cosas nuevas y nos ayudan a crecer. ¿Te gustaría aprender algo nuevo con un amigo? ¡Siempre es una gran oportunidad para crecer juntos!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Sigue adelante, pequeño héroe! La amistad es un viaje maravilloso lleno de risas y aprendizaje. Cada día es una nueva oportunidad para ser un buen amigo y hacer nuevos amigos. Recuerda siempre ser amable, compartir y escuchar. Estoy muy orgulloso de ti por querer ser un gran amigo. ¡Vamos a seguir haciendo del mundo un lugar más feliz con nuestras amistades!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer compartir esta aventura sobre la amistad contigo. Espero que hayas aprendido mucho y que estés listo para hacer nuevos amigos. Recuerda que siempre estamos aquí para apoyarte y celebrar contigo. ¡Gracias por ser parte del Escuadrón de Héroes Tortuga! Nos vemos pronto en nuestra próxima aventura. ¡Adiós, pequeño amigo, y sigue siendo un héroe de la amistad!"
+    }
+  ],
+  "title": "Historia de Friendship de Shell Heroes Crew"
+}

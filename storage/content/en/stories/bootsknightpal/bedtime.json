@@ -1,0 +1,104 @@
+{
+  "id": "boots_knight_pal_bedtime_story",
+  "title": "Boots Knight Pal's Bedtime Story",
+  "character": "Boots Knight Pal",
+  "topic": "bedtime",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little adventurer! I'm Boots Knight Pal, here to guide you through a magical bedtime journey. Are you ready to embark on an adventure filled with dreams and wonders? Tonight, we'll discover how to prepare for a restful sleep, just like a brave knight winding down after a day of heroic deeds. Together, we'll learn calming routines that help us relax our minds and bodies. So, grab your favorite stuffed animal, and let's begin our bedtime quest!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Before we dive into our bedtime routine, let's talk about why it's important. Just like a knight prepares for battle, we prepare for sleep to have a good night's rest. Sleep helps us grow strong and keeps our minds sharp for new adventures. When we follow a bedtime routine, it tells our bodies it's time to relax and unwind. So, let's find out how we can make bedtime a magical part of our day!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "One of the first things we can do is put on our cozy pajamas. Imagine they're your knightly armor, soft and snug, keeping you warm. After that, we can brush our teeth, making sure our smiles are as bright as a shining sword. Then, it's time to wash our faces, like a refreshing splash from a gentle stream. These steps help us feel clean and ready for sleep. Now, let's see what comes next in our bedtime adventure!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job so far! Now, let's pick a storybook or a lullaby. Stories are like magical doors to dreamland, taking us on journeys while we rest. Would you like to count stars or imagine a castle in the clouds? As we listen to a story, we let our imaginations soar, preparing our minds for a night full of dreams. You're doing wonderfully, little knight!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've chosen a story, let's find a comfortable spot in bed. Fluff your pillows, just like a knight would rest on a soft cloud after a long day. Hug your favorite toy tight, and feel the comfort it brings, like a trusty companion by your side. We're almost ready for sleep, but first, let's practice some gentle breathing to help us relax even more."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's take three deep breaths together. Breathe in through your nose, filling your chest with air, like a balloon floating up to the sky. Now, breathe out slowly through your mouth, letting all your worries drift away like leaves in the wind. Feel your body getting softer with each breath, ready to drift into a peaceful sleep. Wonderful job, brave knight!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing amazing! Now, let's imagine a peaceful place, like a meadow filled with flowers or a gentle sea with rolling waves. Picture yourself there, feeling the soft grass or the cool sand beneath you. This is your special place to visit whenever you want to feel calm and happy. Remember, you can always come back here whenever you need to relax."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we have our peaceful place in mind, let's think of something we're grateful for today. It could be a fun game you played or a delicious meal you enjoyed. Gratitude helps fill our hearts with warmth, making us feel happy and content. As you close your eyes, hold onto that happy thought, like a treasure chest full of joy. You're ready for a restful night's sleep."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Before we drift off, let's talk about the importance of a good night's sleep. Just like a knight needs rest to be strong for the next adventure, sleep helps us feel refreshed and ready to explore new things. It helps our bodies grow and our minds learn. So, every night when you follow your bedtime routine, you're preparing for another day of fun and discovery!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well, little adventurer! Remember, bedtime is a special time to relax and recharge. You've learned how to prepare for sleep with your cozy pajamas, a bedtime story, and gentle breathing. These are the keys to a good night's rest, helping you dream of magical places and exciting adventures. Keep up the great work, and you'll be ready for anything!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite bedtime story or song that helps you relax? Maybe it's a tale about brave knights or a lullaby that makes you feel cozy. Sharing our favorite bedtime routines can be fun and help us discover new ways to relax. I'd love to hear about what makes your bedtime special. Would you like to share it with me?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Wow, that sounds wonderful! It's amazing how stories and songs can make bedtime feel so magical. As you snuggle into bed tonight, remember all the things we talked about. Your cozy pajamas, your favorite story, and your peaceful place are all waiting for you. You're ready for a night full of sweet dreams and restful sleep. Keep dreaming big, little knight!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we come to the end of our bedtime adventure, remember that every night is a chance to relax and dream. With each step of your routine, you're creating a peaceful space for sleep. You've learned how to calm your body and mind, preparing for a night of wonderful dreams. You're a true bedtime hero, ready to conquer the night with courage and grace."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're ready for a great night's sleep, little adventurer! Remember, every time you follow your bedtime routine, you're taking care of yourself. It's like giving yourself a hug, telling your body and mind that it's time to rest. You're doing an incredible job, and I'm so proud of you. Keep up the great work, and you'll wake up feeling refreshed and ready for new adventures!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this bedtime journey, brave knight. You've learned so much about how to prepare for a restful sleep. As you close your eyes tonight, remember that you're loved and cherished. Sweet dreams await you, full of magic and wonder. Until our next adventure, sleep tight and dream big. Goodnight, little adventurer!"
+    }
+  ]
+}

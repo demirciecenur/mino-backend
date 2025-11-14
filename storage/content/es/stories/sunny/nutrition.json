@@ -1,0 +1,98 @@
+{
+  "id": "sunny_nutrición_alimentación_saludable_hábitos_alimentarios_alimentos_saludables_story",
+  "character": "Sunny",
+  "topic": "nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeños amigos! Soy Sunny y hoy vamos a embarcarnos en un viaje emocionante sobre la nutrición y los alimentos saludables. ¿Están listos para descubrir cosas maravillosas sobre lo que comemos cada día? ¡Estoy muy emocionado de aprender junto a ustedes! Comer bien es como darle a nuestro cuerpo un gran abrazo. Vamos a descubrir más juntos."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La nutrición es como un gran tesoro para nuestro cuerpo. Cuando comemos alimentos saludables, le damos a nuestro cuerpo la energía que necesita para correr, jugar y aprender. ¿Sabían que las frutas y verduras son como superhéroes que nos mantienen fuertes? ¡Sí! Nos ayudan a tener huesos fuertes y una gran sonrisa. Ahora, pensemos en algunos de nuestros alimentos favoritos que son muy saludables."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a hablar de cómo podemos tener hábitos alimentarios saludables. Esto significa que comemos muchas frutas, verduras, y bebemos mucha agua. También es importante comer despacio y disfrutar cada bocado. ¿Alguna vez han probado una manzana roja y crujiente? ¡Es deliciosa y muy buena para ustedes! Comer bien es como darle a nuestro cuerpo un gran abrazo."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora que sabemos lo importante que es comer bien, ¿por qué no intentamos elegir un snack saludable juntos? Tal vez unas rodajas de zanahoria o un plátano dulce. ¡Vamos a intentarlo! Recuerden que cada elección saludable que hacemos es un paso hacia un cuerpo feliz. ¡Ustedes pueden hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden cuando hablamos de los superhéroes que son las frutas y verduras. Ahora, pensemos en los cereales integrales, como el pan de trigo, que nos dan mucha energía. Es como cargar nuestras baterías para todo el día. Al comer un desayuno saludable, podemos concentrarnos mejor en la escuela y divertirnos más en el parque. ¡Qué increíble es eso!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos sobre la importancia de beber agua. El agua es como una lluvia refrescante para nuestro cuerpo. Nos mantiene hidratados y ayuda a que todo funcione bien. ¿Han probado a beber un vaso de agua después de jugar? ¡Es tan refrescante! Recuerden beber agua a lo largo del día para mantenerse siempre activos y felices."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Están haciendo un trabajo maravilloso aprendiendo sobre la nutrición! Ahora, pensemos en cómo podemos hacer que las comidas sean divertidas. Podemos usar nuestra imaginación y crear caras felices con rodajas de frutas en nuestros platos. ¡Qué divertido es comer así! Cada sonrisa que creamos es un recordatorio de lo importante que es disfrutar de nuestros alimentos."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabían que cada color de las frutas y verduras tiene algo especial que ofrecer a nuestro cuerpo? ¿Cuál es su color favorito? Tal vez el rojo de las fresas o el verde de los pepinos. Cada color nos ayuda de una manera diferente. ¡Cuéntame cuál es tu favorito y por qué te gusta tanto!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos explorado tanto sobre los alimentos saludables, recordemos lo importante que es compartir nuestras comidas con amigos y familia. Comer juntos es una forma de mostrar amor y cuidado. Cuando compartimos una comida saludable, también compartimos felicidad. ¡Qué hermoso es compartir momentos así!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Finalmente, hablemos de cómo podemos hacer elecciones saludables todos los días. Podemos comenzar eligiendo una fruta para el desayuno y un vegetal para la cena. También podemos tratar de probar algo nuevo cada semana. ¡Es una aventura deliciosa! Recuerden siempre preguntar a un adulto si no están seguros. ¡Ellos estarán felices de ayudarles!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo están haciendo genial! Cada paso que damos hacia una alimentación saludable es un paso hacia una vida más feliz. Recuerden que cada vez que eligen una manzana en lugar de un dulce, están cuidando de su cuerpo. ¡Sigan así, pequeños campeones!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Qué les parece si jugamos un juego? Piensen en un alimento saludable que les gustaría probar esta semana. ¿Lo tienen en mente? Ahora, cuéntenle a alguien en casa y vean si pueden probarlo juntos. ¡Será una aventura de sabor!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden que cada vez que prueban un nuevo alimento saludable, están descubriendo un nuevo sabor. Es como ser un explorador de alimentos. Cada bocado es una oportunidad de aprender algo nuevo. ¡Qué emocionante es eso!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Gracias por acompañarme en esta aventura sobre la nutrición y los alimentos saludables. Ha sido un placer aprender juntos. Recuerden siempre comer bien, beber agua, y divertirse. ¡Hasta la próxima, pequeños amigos! ¡Manténganse felices y saludables!"
+    }
+  ],
+  "title": "Historia de Nutrition de Sunny"
+}

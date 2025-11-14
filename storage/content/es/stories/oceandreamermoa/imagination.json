@@ -1,0 +1,104 @@
+{
+  "id": "ocean_dreamer_moa_imagination_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "imagination",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Moa, la Soñadora del Océano. Hoy vamos a emprender un increíble viaje sobre la imaginación. ¿Estás listo? Estoy tan emocionada de explorar contigo. La imaginación es como un océano lleno de aventuras. ¡Vamos a descubrirlo juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La imaginación es un poder mágico que todos tenemos. Es como cuando cierras los ojos y te imaginas volando en el cielo como un pájaro. Puedes crear mundos enteros en tu mente. ¿Te imaginas ser un pez nadando en el mar? ¡Con la imaginación, todo es posible! Es divertido porque puedes ser lo que quieras."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a usar nuestra imaginación juntos. Cierra tus ojos por un momento y respira profundo. Imagina que estamos en una isla mágica llena de colores brillantes. ¿Puedes ver los árboles altos y sentir la arena suave bajo tus pies? ¡Genial! La imaginación nos lleva a lugares maravillosos."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo increíble! La imaginación también nos ayuda a resolver problemas. Es como cuando construyes una torre alta con bloques. Si se cae, puedes imaginar una manera diferente de construirla. ¡Qué divertido es intentar cosas nuevas! Sigamos imaginando juntos."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¿Recuerdas cuando hablamos de volar en el cielo como un pájaro? Ahora imagina que eres un capitán de un barco navegando en el océano. ¿Qué aventuras vivirías en tu barco? Tal vez encuentres una isla secreta o descubras un tesoro escondido. ¡Qué emocionante es imaginar todo lo que podrías hacer!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer un pequeño ejercicio de imaginación. Imagina que tienes una varita mágica. Con ella, puedes hacer aparecer cualquier cosa que desees. ¿Qué harías aparecer primero? Tal vez un castillo de dulces o un parque lleno de globos. La imaginación nos permite crear sin límites."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Qué te gustaría ser cuando usas tu imaginación? ¿Un valiente explorador o tal vez un inventor de juguetes mágicos? La imaginación nos permite soñar y pensar en grande. ¿Te gustaría contarme qué estás imaginando ahora? Estoy segura de que es algo muy especial."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La imaginación también es genial para los juegos creativos. Como cuando juegas a ser un superhéroe que salva el día. Puedes imaginar que tienes poderes especiales, como volar o ser súper fuerte. ¿No es increíble lo que podemos hacer con nuestra imaginación? ¡Cada día es una nueva aventura!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a imaginar un día perfecto juntos. Piensa en el lugar más bonito que puedas imaginar. ¿Hay montañas, ríos, o tal vez un arcoíris gigante en el cielo? Imagina que estás allí, sintiendo el viento en tu cara. ¡Es tan relajante y maravilloso!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estás haciendo un gran trabajo! La imaginación es como un músculo que podemos ejercitar. Cuanto más la usamos, más fuerte se vuelve. Así que sigue imaginando y creando cosas nuevas. ¡Eres un verdadero soñador del océano como yo!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Imagina que podemos hablar con los animales del océano. ¿Qué crees que nos dirían los delfines o las tortugas? Tal vez nos contarían historias de sus viajes por el mar. La imaginación nos permite ver el mundo de formas nuevas y emocionantes. ¡Es como tener una llave mágica para la aventura!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora, piensa en algo que te haga sentir muy feliz. ¿Es un paseo por el parque o un abrazo de mamá o papá? La imaginación también nos ayuda a recordar esos momentos felices. Podemos guardarlos en nuestra mente y revivirlos cuando queramos. ¡Qué bonito es poder hacerlo!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría compartir alguna de tus ideas imaginativas conmigo? ¿Quizás una historia que inventaste o un lugar que creaste en tu mente? Me encantaría escuchar todo sobre ello. ¡Cada idea es única y especial, como tú!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora recuerda, la imaginación es un regalo que nos acompaña siempre. Nos ayuda a aprender, a jugar y a soñar. Así que nunca dejes de imaginar y de explorar. El mundo es un lugar lleno de maravillas listas para ser descubiertas. ¡Sigamos soñando juntos!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer imaginar contigo hoy. Recuerda que siempre puedes volver a este mundo de imaginación cuando quieras. Solo cierra tus ojos y deja que tu mente viaje a lugares mágicos. Gracias por acompañarme en esta aventura. ¡Hasta la próxima, pequeño soñador!"
+    }
+  ],
+  "title": "Historia de Imagination de Ocean Dreamer Moa"
+}

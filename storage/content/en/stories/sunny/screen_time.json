@@ -1,0 +1,104 @@
+{
+  "id": "sunny_screen_time_story",
+  "character": "Sunny",
+  "topic": "screen_time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Sunny, and today we're going to explore something super interesting called screen time. Are you ready for an amazing adventure? We'll learn all about the fun things we can do with screens and how to balance our time. It's going to be so much fun! Let's dive into our exciting journey together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let’s think about what screen time means. Screen time is the time we spend looking at screens like TVs, tablets, and computers. Sometimes, we play games or watch our favorite shows. It's like a magical window to stories and games! But just like magic, it's important to use it wisely. Let's find out how we can do that!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Did you know that spending too much time in front of screens can make us feel tired? That's why it's important to take breaks and do other activities too. We can play outside, read a book, or even draw a picture. These activities help us stay healthy and happy. Let's make sure we have a good balance!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job listening! Now, let's pretend we're going on a treasure hunt. Can you imagine finding a treasure chest full of fun activities? Maybe we find a ball to play with or a puzzle to solve. These treasures are just as exciting as screen time, don't you think? You can do it! Let's discover more treasures together."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about taking breaks? Let's think of some fun things we can do during our breaks. How about building a fort with blankets or playing a game of hide and seek? These activities are like a breath of fresh air and keep our minds and bodies active. Let's keep exploring more ideas!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let’s learn about setting a timer. Timers are like little reminders that help us know when it's time to stop screen time and start a new adventure. We can set a timer for 30 minutes, and when it rings, we know it's time for a new activity! It's like a gentle nudge to keep us moving and exploring."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Wasn’t that a cool idea? Setting a timer can make screen time more fun and organized. Now, let's pretend we are setting a timer together. Can you make a ticking sound like a clock? Tick-tock, tick-tock! And when the timer goes off, we can shout, 'Adventure time!' You're doing amazing!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let’s explore why screen time is so much fun. We can watch shows with our favorite characters or learn new things like counting and colors. It's like opening a book full of pictures and stories. But remember, too much screen time can make us feel sleepy and miss out on real-life adventures!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing a fantastic job learning about screen time! Let’s cheer for ourselves with a big hooray! Now, let’s think of screen time as a special treat. Just like eating a yummy cookie, we enjoy it even more when we have it in the right amount. You're becoming a screen time superstar!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let’s talk about screen-free zones. These are special places where we don't use screens. It could be the dining table where we enjoy meals with family or the bedroom where we have cozy bedtime stories. These zones help us focus on the present and enjoy the moments around us."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a screen-free zone in your home? Maybe it's your playroom where you build with blocks or your backyard where you play with your pet. How do these places make you feel? It's fun to think about all the special places we have to explore and enjoy without screens!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's imagine our day as a big, colorful puzzle. Each piece is an activity we do, like playing, eating, and yes, screen time too. When we put all the pieces together, we have a beautiful day full of fun and learning. Remember, every piece is important to make the whole picture complete!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're becoming an expert at balancing screen time! Let's take a moment to give ourselves a big hug for all the great things we've learned. Balancing our day is like riding a bike; it might wobble at first, but with practice, it becomes smooth and fun. Keep pedaling towards balance!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What new activity would you like to try today? Maybe a new game outside or a fun craft project? It's exciting to think about all the possibilities we have when we take a break from screens. Your imagination can take you anywhere, and I'm so curious to hear about your ideas!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Wow, we've learned so much about screen time today! Thank you for joining me on this adventure. Remember to keep exploring, playing, and balancing your time. I'll be here, eager to hear all about your new adventures and discoveries. Goodbye for now, little friend, and keep shining bright!"
+    }
+  ],
+  "title": "Sunny's Screen Time Story"
+}

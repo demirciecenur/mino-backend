@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_imagination_story",
+  "character": "Bubble Buddy",
+  "topic": "imagination",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Bubble Buddy, y estoy muy emocionado de que estemos juntos hoy. Vamos a embarcarnos en una aventura increíble sobre la imaginación. ¿Están listos para usar su pensamiento creativo y soñar despiertos? La imaginación es como una varita mágica que nos permite explorar mundos nuevos y divertidos. ¡Estoy tan curioso por saber cómo usan ustedes su imaginación!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La imaginación es una herramienta poderosa que todos tenemos. Nos permite transformar un simple día en una aventura emocionante. Por ejemplo, con imaginación, una caja de cartón puede convertirse en un cohete espacial. ¿No es maravilloso? Podemos viajar a la luna o explorar el fondo del mar sin salir de casa. ¿Alguna vez han imaginado ser un astronauta o un pirata?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a aprender cómo podemos usar nuestra imaginación todos los días. Primero, cierra los ojos e imagina un lugar especial. Puede ser un castillo mágico o una jungla misteriosa. Luego, trata de ver todos los detalles en tu mente, como los colores y los sonidos. ¿Pueden oír los pájaros cantando o ver las estrellas brillando? ¡Eso es imaginación en acción!"
+    },
+    {
+      "id": "scene_3",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "¡Vamos a jugar un juego divertido usando nuestra imaginación! Imaginen que estamos en una playa soleada. Sientan la arena entre los dedos de los pies y escuchen el sonido de las olas. Ahora, construyamos juntos un castillo de arena gigante. ¿Cómo se verá? ¿Tendrá torres altas o un puente levadizo? ¡Usen su imaginación para construir el castillo más impresionante!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La imaginación no solo es para jugar, también nos ayuda a resolver problemas. Por ejemplo, si pierdes un juguete, puedes usar la imaginación para recordar dónde lo viste por última vez. Además, cuando estamos aburridos, la imaginación nos ayuda a inventar juegos nuevos. ¡Es como tener un superpoder! ¿Pueden pensar en un momento en que usaron su imaginación para resolver algo?"
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ustedes son increíbles! La imaginación también nos ayuda a entender cómo se sienten los demás. Podemos imaginar cómo se siente un amigo cuando está triste o feliz. Esto nos ayuda a ser más amables y comprensivos. ¿No es genial que podamos ser mejores amigos usando nuestra imaginación? ¡Sigan practicando su imaginación todos los días!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a hacer un ejercicio juntos. Vamos a imaginar que somos animales. ¿Qué animal quieren ser hoy? ¿Un león valiente o un pájaro que vuela alto en el cielo? Imaginen cómo se moverían y qué sonidos harían. Traten de caminar como ellos y rugir o piar. ¡Es divertido ser creativo y usar nuestra imaginación para convertirnos en cualquier cosa!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Qué les parece si pensamos en algo juntos? ¿Cuál es su lugar imaginario favorito? ¿Es un bosque encantado o una ciudad en las nubes? ¿Y qué hacen cuando están allí? Me encantaría saber qué aventuras viven en su mundo de fantasía. ¡Cuéntenme, estoy muy curioso!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Eso suena increíble! Recuerden que la imaginación no tiene límites. Podemos crear cualquier cosa que queramos. Ahora, pensemos en cómo podemos invitar a nuestros amigos a jugar en nuestro mundo imaginario. ¿Qué juegos jugaríamos juntos? ¿Quizás una búsqueda del tesoro o un picnic en la luna?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, podemos usar nuestra imaginación para contar historias. Podemos inventar historias sobre dragones, princesas o robots en el espacio. ¿Alguna vez han inventado una historia? Es muy divertido y podemos compartirlas con nuestra familia o amigos. Contar historias nos permite compartir nuestra imaginación con los demás."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ustedes son unos grandes imaginadores! No olviden que la imaginación es como un músculo; cuanto más la usamos, más fuerte se vuelve. Así que sigan soñando y creando cosas nuevas cada día. ¡Estoy seguro de que tienen ideas maravillosas esperando ser descubiertas!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a imaginar un día perfecto. Cierren los ojos y piensen en qué harían. ¿Jugarían con sus juguetes favoritos o irían al parque? Imaginen los colores, los sonidos y los olores. ¿Pueden sentir el sol en su cara o el viento en su cabello? ¡Qué día tan fantástico sería!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La imaginación también nos ayuda a aprender cosas nuevas. Podemos imaginar cómo es vivir en otros lugares del mundo o cómo sería ser un científico. Esto nos ayuda a tener más curiosidad y a querer aprender más. ¿No es emocionante pensar en todas las cosas que podemos descubrir con nuestra imaginación?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez han imaginado ser un superhéroe? ¿Cuál sería su superpoder? ¿Les gustaría volar o ser súper fuertes? Imaginen cómo usarían sus poderes para ayudar a los demás. ¡Estoy seguro de que serían los mejores superhéroes del mundo!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido una aventura maravillosa explorar la imaginación juntos hoy. Recuerden que siempre pueden usar su imaginación para divertirse y aprender cosas nuevas. No importa dónde estén, siempre pueden soñar y crear. ¡Gracias por acompañarme en esta aventura! Espero verlos pronto para más exploraciones imaginativas. ¡Adiós, pequeños aventureros!"
+    }
+  ],
+  "title": "Historia de Imagination de Bubble Buddy"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "ocean_dreamer_moa_confidence_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "confidence",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis Ocean Dreamer Moa. Aujourd'hui, nous allons faire un voyage incroyable sur la confiance en soi. Êtes-vous prêts? Je suis si curieuse de découvrir ce que vous pouvez faire! Ensemble, nous allons explorer comment être courageux et forts, comme la mer."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance, c'est comme quand tu oses essayer quelque chose de nouveau. Par exemple, lorsque tu essaies de monter sur ton vélo sans les petites roues. Cela peut sembler un peu difficile au début, mais avec un peu de pratique, tu te sentiras plus à l'aise. C'est comme apprendre à nager, au début c'est effrayant, mais ensuite tu te sens comme un poisson dans l'eau! La confiance grandit chaque fois que tu fais quelque chose de courageux."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour construire ta confiance, tu peux commencer par des petites choses. Par exemple, pourquoi ne pas essayer de ranger tes jouets tout seul? Chaque fois que tu réussis, tu te sens plus fort et plus capable. Pense à quelque chose que tu veux essayer, peut-être dessiner un beau soleil? Essaye et vois à quel point tu te sentiras fier. Chaque petit pas que tu fais compte beaucoup."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Maintenant, prenons une grande inspiration ensemble. Respire profondément et souffle doucement. Tu vois, même respirer peut aider à se sentir plus confiant. Imagine que l'air que tu inspires est plein de courage et que lorsque tu souffles, tu libères toutes tes peurs. N'est-ce pas incroyable? Tu es déjà sur la bonne voie!"
+    },
+    {
+      "id": "scene_4",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelle-toi quand nous avons parlé d'essayer quelque chose de nouveau. As-tu pensé à quelque chose que tu aimerais essayer? Peut-être sauter à la corde ou chanter une nouvelle chanson? Chaque nouvelle chose que tu essaies est une chance de grandir et de devenir plus confiant. Imagine que tu es un explorateur, prêt à découvrir de nouvelles aventures!"
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, la confiance vient aussi de l'aide des autres. Comme quand tes amis t'encouragent ou que ta famille t'applaudit. Cela rend les nouvelles choses moins effrayantes et plus amusantes. Et toi, aimes-tu encourager tes amis? Dire des mots gentils peut aussi leur donner confiance. Ensemble, nous pouvons être une équipe forte, comme les vagues qui travaillent ensemble pour créer de grands océans."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons un petit exercice de confiance. Pense à quelque chose que tu as déjà réussi, comme attacher tes chaussures tout seul. Sens-tu cette fierté? Garde ce sentiment avec toi. Chaque fois que tu doutes, souviens-toi de ce moment. C'est comme avoir un trésor de confiance en soi que tu peux utiliser à tout moment."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail fantastique! Continue à essayer et à explorer. Chaque jour est une nouvelle chance de découvrir quelque chose de nouveau sur toi-même. N'oublie pas que même les petites réussites sont importantes. Tu es comme un capitaine de bateau, guidant ta propre aventure avec courage et confiance!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, dis-moi, qu'est-ce que tu aimerais faire demain pour te sentir encore plus confiant? Peut-être lire un nouveau livre ou apprendre une nouvelle danse? Quelle que soit ta réponse, je suis sûre que tu feras de ton mieux. Veux-tu partager tes idées avec moi? Je suis impatiente de t'écouter!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "C'est formidable d'entendre toutes ces idées! Chaque idée est une nouvelle aventure qui t'attend. Souviens-toi que la confiance en soi grandit avec chaque expérience. Même quand les choses semblent difficiles, tu as la force de l'océan en toi pour continuer à avancer. Ensemble, nous pouvons tout accomplir!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelle-toi, nous avons parlé de respirer profondément pour se sentir plus courageux. As-tu essayé cela aujourd'hui? Si tu veux, nous pouvons le refaire ensemble. C'est une façon simple mais puissante de renforcer ta confiance. Tu te sens prêt à essayer encore une fois?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo pour tous tes efforts! Chaque fois que tu essaies quelque chose de nouveau, tu deviens plus fort. La confiance, c'est comme une fleur qui pousse avec chaque rayon de soleil que tu lui donnes. Continue à nourrir ta confiance avec des actions courageuses. Tu es une vraie source d'inspiration!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de comment les erreurs font partie de l'apprentissage. Parfois, on peut tomber, mais c'est en se relevant qu'on devient plus fort. Chaque erreur est une chance d'apprendre et de grandir. C'est comme quand tu construis un château de sable, et qu'il s'effondre, tu peux toujours recommencer et améliorer. Les erreurs sont des amis qui nous aident à devenir plus confiants."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peux-tu penser à un moment où tu as appris de tes erreurs? Peut-être en essayant quelque chose de nouveau? C'est formidable de réfléchir à ces moments. Partager ces histoires peut nous aider à nous sentir plus proches et plus confiants ensemble. As-tu une histoire à partager avec moi?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce voyage avec moi, mes petits amis! Souvenez-vous, la confiance en soi est une aventure qui ne se termine jamais. Chaque jour est une nouvelle chance de grandir et de s'épanouir. Je suis si fière de vous et de tout ce que vous avez accompli aujourd'hui. À bientôt pour de nouvelles aventures ensemble!"
+    }
+  ],
+  "title": "Histoire de Confidence de Ocean Dreamer Moa"
+}

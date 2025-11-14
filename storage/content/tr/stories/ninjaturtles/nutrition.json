@@ -1,0 +1,104 @@
+{
+  "id": "shell_heroes_crew_nutrition_story",
+  "character": "Shell Heroes Crew",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Shell Heroes Crew. Bugün birlikte beslenme hakkında harika bir yolculuğa çıkacağız. Beslenme dediğimizde, vücudumuzun güçlü ve sağlıklı kalması için ihtiyacı olan yiyeceklerden bahsediyoruz. Hazır mısın? Seni çok merak ediyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme, her gün yediğimiz yiyeceklerin vücudumuza nasıl fayda sağladığını anlatır. Vücudumuzun enerjiye ihtiyacı var ve bu enerjiyi yiyeceklerden alırız. Tıpkı arabaların benzinle çalışması gibi, bizim de yiyeceklere ihtiyacımız var. Her gün yeterince sebze ve meyve yediğimizde, vücudumuz daha güçlü ve zinde olur. Şimdi, hangi yiyeceklerin bize daha fazla enerji verdiğini keşfedelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Sebzeler ve meyveler, vitamin ve minerallerle doludur. Bu vitaminler, bizi hastalıklardan korur ve sağlıklı kalmamıza yardımcı olur. Örneğin, havuçlar gözlerimiz için çok faydalıdır. Elmalar ise dişlerimizi temizlemeye yardımcı olur. Şimdi birlikte hangi meyve ve sebzelerin faydalı olduğunu düşünelim."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Sen de meyve ve sebzeleri seviyorsun, değil mi? Onlar çok lezzetli ve sağlıklı. Bir sonraki öğününde farklı renklerde meyve ve sebzeler yemeye çalış. Renkli yiyecekler, farklı vitamin ve mineraller içerir. Bu da vücudumuz için çok faydalıdır!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi proteinler hakkında konuşalım. Proteinler, kaslarımızı güçlü ve sağlıklı tutar. Tavuk, balık, yumurta ve fasulye gibi yiyecekler protein açısından zengindir. Bu yiyecekler, oyun oynarken ya da spor yaparken ihtiyacımız olan enerjiyi sağlar. Proteinlerin ne kadar önemli olduğunu unutmamalıyız."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Karbonhidratlar da enerji için çok önemlidir. Ekmek, makarna ve pirinç gibi yiyecekler karbonhidrat içerir. Bu yiyecekler bize gün boyu enerji verir. Ancak, fazla yememeye dikkat etmeliyiz. Her şeyden yeterince yersek, vücudumuz daha dengeli olur."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi birlikte düşünelim: Bugün hangi karbonhidratları yedin? Evet, ekmek ve makarna harika örnekler. Her gün dengeli bir şekilde bu yiyeceklerden yemeye çalış. Böylece enerjik ve mutlu olabilirsin!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi sağlıklı yağlardan bahsedelim. Avokado, zeytinyağı ve fındık gibi yiyecekler sağlıklı yağlar içerir. Bu yağlar, beynimizin iyi çalışmasına yardımcı olur. Ancak, yağları da ölçülü tüketmeliyiz. Dengeli bir beslenme için her şeyden biraz biraz yemeliyiz."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Su içmek de çok önemlidir. Vücudumuzun büyük bir kısmı sudan oluşur. Su, bizi serinletir ve vücudumuzun iyi çalışmasını sağlar. Her gün yeterince su içmeyi unutmamalıyız. Su içmek, sağlığımız için çok önemlidir."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir su molası verelim. Bir bardak su içmek için harika bir zaman! Su içmek, bizi daha enerjik ve mutlu yapar. Hadi, sen de dene! Su içmek, büyüyen vücudun için çok faydalı."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tatlı yiyecekler de bazen canımızın çektiği şeylerdir. Ancak, çok fazla tatlı yemek dişlerimize zarar verebilir. Şekerli gıdaları ölçülü tüketmeliyiz. Tatlı yerine meyve tercih edebiliriz, bu hem tatlı isteğimizi karşılar hem de sağlıklıdır. Tatlıların da ölçülü tüketilmesi gerektiğini unutmamalıyız."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin en sevdiğin meyve nedir? Elma mı, muz mu yoksa başka bir şey mi? Meyveler, tatlı ihtiyacımızı karşılamak için harika bir seçimdir. Haydi, en sevdiğin meyveyi düşün ve bir dahaki sefere tatlı yerine onu tercih et!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, yemek saatlerinin düzenli olmasının öneminden bahsedelim. Kahvaltı, öğle ve akşam yemeklerini düzenli olarak yediğimizde, vücudumuz daha iyi çalışır. Düzenli yemek yemek, gün boyu enerjik kalmamıza yardımcı olur. Bu yüzden, yemek saatlerine dikkat etmeyi unutmamalıyız."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda düzenli yemek saatlerinden bahsettik. Peki, sen yemek saatlerine dikkat ediyor musun? Her gün aynı saatlerde yemek yemeye çalışmak, sağlığımız için çok önemlidir. Bu alışkanlık, büyümemize ve gelişmemize yardımcı olur."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün beslenme hakkında çok şey öğrendik, değil mi? Besinlerin vücudumuz için ne kadar önemli olduğunu öğrendik. Her gün dengeli beslenmek, su içmek ve düzenli yemek yemek bizi daha sağlıklı yapar. Unutma, sen harikasın ve bunu başarabilirsin! Bir sonraki maceramızda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Shell Heroes Crew'ın Nutrition Hikayesi"
+}

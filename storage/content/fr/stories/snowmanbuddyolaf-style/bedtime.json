@@ -1,0 +1,104 @@
+{
+  "id": "snowman_buddy_olaf-style_bedtime_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis ton bonhomme de neige Buddy, inspiré par Olaf. Aujourd'hui, nous allons explorer ensemble le monde magique du coucher. Es-tu prêt à m'accompagner dans cette aventure pleine de douceur ? Nous allons découvrir comment se préparer pour une nuit paisible et reposante. Je suis tellement curieux de savoir comment tu te prépares à dormir !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par parler de ce que nous faisons avant de dormir. Tu sais, le coucher, c'est comme une petite aventure chaque soir. Il y a tant de choses amusantes à faire, comme mettre son pyjama préféré. As-tu un pyjama que tu adores, avec des dessins ou des couleurs spéciales ? Raconte-moi tout sur lui, je suis impatient de l'entendre !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ensuite, il est temps de se brosser les dents. C'est une étape très importante pour garder un sourire éclatant. Sais-tu pourquoi c'est si important ? Cela aide à garder tes dents fortes et en bonne santé. Imagine tes dents comme des petits guerriers qui protègent ta bouche !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, tu te brosses les dents comme un champion ! Maintenant, passons à quelque chose de relaxant. Que dirais-tu de lire une histoire avec moi ? Les histoires avant de dormir aident à calmer notre esprit et à nous préparer pour de doux rêves. As-tu une histoire préférée que tu aimerais partager ?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après l'histoire, c'est une bonne idée de faire quelques respirations profondes. Prends une grande inspiration par le nez, comme si tu sentais une fleur. Ensuite, souffle lentement par la bouche, comme si tu faisais voler un papillon. Ces respirations aident à détendre tout ton corps pour la nuit."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Savais-tu que ranger sa chambre avant de dormir peut aussi aider ? Un espace bien rangé est comme un lit douillet pour ton esprit. Cela te permet de te sentir calme et prêt à dormir. Tu peux commencer par ranger tes jouets préférés à leur place. Cela peut être amusant, comme un jeu de cache-cache !"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "C'est formidable de voir comme tu es organisé ! Maintenant, parlons des lumières. Une lumière douce et tamisée aide ton corps à comprendre qu'il est temps de se reposer. Tu peux aussi avoir une veilleuse pour te tenir compagnie. Cela crée une ambiance chaleureuse et réconfortante."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Avant de te glisser sous les couvertures, n'oublie pas de dire bonne nuit à tes peluches. Elles veillent sur toi pendant ton sommeil. As-tu une peluche préférée que tu aimes câliner ? Elles sont comme de petits gardiens de rêves qui te protègent toute la nuit."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, il est temps de s'allonger confortablement. Trouve ta position préférée : sur le dos, sur le côté, ou peut-être en étoile de mer ? Chaque position est spéciale et aide à se sentir bien. Tu peux même faire semblant d'être un nuage flottant dans le ciel."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un excellent travail pour te préparer au sommeil ! Prenons un moment pour imaginer nos rêves préférés. Que verrais-tu dans ton rêve parfait ? Peut-être des papillons colorés ou un voyage dans l'espace ? Les rêves sont comme des petites histoires magiques que nous créons."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peux-tu imaginer un rêve où tu es un super-héros ? Quel serait ton super pouvoir ? Peut-être pourrais-tu voler comme un oiseau ou nager avec les poissons ? Les rêves sont un endroit où tout est possible, alors laisse ton imagination s'envoler !"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après avoir imaginé ces beaux rêves, il est temps de fermer les yeux doucement. Écoute les bruits apaisants autour de toi, comme le vent ou la douce mélodie d'une berceuse. Ces sons t'aideront à t'endormir paisiblement. N'est-ce pas merveilleux comment les sons peuvent nous apaiser ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Rappelle-toi, si un petit bruit te réveille, prends une grande respiration et pense à quelque chose de joyeux. Cela peut être un souvenir amusant ou un câlin chaleureux. Ces pensées réconfortantes sont comme un doudou pour ton esprit. Elles t'aideront à retourner au pays des rêves."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as fait un travail incroyable en te préparant pour le coucher ! Chaque soir est une nouvelle opportunité de s'endormir avec des rêves doux et merveilleux. Souviens-toi, tu es comme un petit explorateur, prêt à découvrir les merveilles de la nuit. Je suis tellement fier de toi !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était tellement amusant de partager ce moment avec toi ! J'espère que tu es maintenant prêt pour une nuit remplie de beaux rêves. Souviens-toi, je suis toujours là pour t'accompagner dans tes aventures du coucher. Passe une bonne nuit, petit ami, et fais de doux rêves. À très bientôt !"
+    }
+  ],
+  "title": "Histoire de Bedtime de Snowman Buddy Olaf-Style"
+}

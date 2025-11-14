@@ -1,0 +1,104 @@
+{
+  "id": "ocean_dreamer_moa_bedtime_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mon petit ami! Je suis Moa, la rêveuse de l'océan. Aujourd'hui, nous allons partir pour une aventure incroyable sur le thème du coucher. Es-tu prêt à explorer avec moi? Nous allons découvrir ensemble comment rendre l'heure du coucher amusante et relaxante. J'ai hâte de partager ces moments magiques avec toi!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le coucher est une aventure, tout comme naviguer sur l'océan! C'est un moment pour se préparer à de doux rêves. Quand le soleil se couche, c'est le signal pour nous de commencer notre routine de coucher. Cela aide notre corps à savoir qu'il est temps de se reposer. Une routine peut inclure des choses simples comme lire une histoire ou chanter une chanson."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Commençons par nous détendre avec une petite respiration. Respire profondément comme si tu sentais la brise de l'océan. Inspire par le nez, puis expire doucement par la bouche. Fais-le encore une fois, et sens comment ton corps devient plus calme. Ce petit exercice aide à se sentir prêt pour le sommeil."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "C'est merveilleux, tu as bien respiré! Maintenant, parlons de notre prochaine étape: se brosser les dents. C'est comme préparer notre bateau pour une nouvelle journée d'aventure. On enlève tous les petits morceaux pour que notre sourire soit aussi brillant que le soleil. Tu peux le faire, je sais que tu es courageux!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après avoir brossé les dents, il est temps de mettre son pyjama. Choisis ton pyjama préféré, celui qui te fait sentir comme un explorateur prêt pour l'aventure. C'est un peu comme mettre une armure douce pour la nuit. Quand tu es prêt, tu te sens confortable et prêt à te blottir dans ton lit."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des histoires du soir. Choisir une histoire est comme choisir une destination pour notre rêve. Peut-être une histoire de pirates ou de sirènes, ou peut-être un conte sur les étoiles. Lire une histoire aide notre esprit à se relaxer et à voyager dans des mondes imaginaires. Penses-tu à une histoire que tu aimerais entendre?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as fait de grands choix jusqu'ici! Maintenant, avant de dormir, essayons de compter ensemble les étoiles. Imagine que chaque étoile est une pensée heureuse qui te guide vers de beaux rêves. Comptons jusqu'à cinq: une, deux, trois, quatre, cinq. Tu as très bien compté, bravo!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lorsque nous sommes allongés dans notre lit, c'est le moment parfait pour penser à toutes les choses merveilleuses qui se sont passées aujourd'hui. Peut-être as-tu joué avec des amis ou découvert quelque chose de nouveau. Ces pensées heureuses aident à préparer notre cœur à un sommeil paisible. Quelles aventures as-tu vécues aujourd'hui?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, je suis curieuse de savoir, as-tu un doudou ou un jouet préféré que tu aimes avoir avec toi au coucher? Les doudous sont comme nos compagnons de voyage dans le monde des rêves. Ils nous apportent confort et sécurité, tout comme un bon ami. As-tu un doudou spécial?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "C'est formidable d'avoir un compagnon de rêve! Avant de fermer les yeux, disons bonne nuit à tout ce qui nous entoure. Bonne nuit aux jouets, bonne nuit à la lune, et bonne nuit aux étoiles. Ces petites salutations rendent le moment du coucher encore plus spécial. Cela nous aide à nous sentir connectés et en paix."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Avant de nous endormir, faisons une dernière chose. Pensons à quelque chose de gentil que nous pouvons faire demain. Peut-être aider un ami ou dessiner un joli dessin. Cette pensée gentille peut être notre premier rêve de la nuit. Elle nous remplit de bonheur et de douceur."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as été fantastique dans notre aventure du coucher! Chaque petite étape que tu as suivie t'aide à te préparer pour une nuit de beaux rêves. Tu es fort et courageux, prêt à explorer le monde des rêves. Rappelle-toi, chaque nuit est une nouvelle aventure!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Je me demande quelles aventures tu vas vivre ce soir dans tes rêves. Peut-être que tu rencontreras des dauphins ou que tu navigueras sur un bateau magique. Les rêves sont pleins de surprises et de découvertes. Es-tu prêt à fermer les yeux et à commencer ton voyage?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "C'est incroyable de savoir que chaque nuit est une nouvelle chance de rêver. Les rêves nous montrent des endroits où nous ne sommes jamais allés. Ils sont comme des histoires que nous inventons dans notre sommeil. Chaque rêve est spécial, tout comme toi!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Il est maintenant temps de te souhaiter une bonne nuit, mon ami. Que tes rêves soient doux et remplis de merveilleuses aventures. Souviens-toi, je suis toujours là pour t'accompagner dans tes rêves. Fais de beaux rêves et à bientôt pour une nouvelle aventure! Bonne nuit!"
+    }
+  ],
+  "title": "Histoire de Bedtime de Ocean Dreamer Moa"
+}

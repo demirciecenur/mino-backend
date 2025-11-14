@@ -1,0 +1,104 @@
+{
+  "id": "mino_transitions_story",
+  "character": "Mino",
+  "topic": "transitions",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Mino, ton guide de l'espace. Aujourd'hui, nous allons explorer le monde des transitions. C'est comme un voyage magique où les choses changent et se transforment. Es-tu prêt à découvrir comment nous pouvons nous adapter aux nouvelles situations? Je suis tellement curieux de savoir ce que tu en penses!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions, c'est un peu comme lorsque la Lune se transforme de pleine à croissante. Tu sais, quand tu passes d'une activité à une autre, c'est une transition. Par exemple, quand tu finis de jouer et que tu dois te préparer pour le dîner. C'est parfois un peu difficile, mais c'est aussi excitant! Pourquoi ne pas imaginer que chaque nouvelle activité est une aventure spatiale?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour bien gérer les transitions, nous pouvons créer des routines. Une routine, c'est comme un plan que l'on suit chaque jour. Par exemple, avant de dormir, tu peux lire une histoire, puis te brosser les dents. Cela te prépare à un bon sommeil. Les routines rendent les transitions plus faciles et amusantes, comme une danse que l'on connaît bien. Veux-tu essayer de créer une routine amusante avec moi?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Maintenant, imaginons une routine pour se préparer à aller à l'école. D'abord, nous pouvons nous réveiller en douceur, puis prendre un bon petit déjeuner. Ensuite, nous mettons nos vêtements préférés, et hop, c'est parti pour une journée d'apprentissage! Tu vois, chaque étape est comme une petite mission spatiale. Bravo, tu es un excellent astronaute de la routine!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, les transitions peuvent être un peu difficiles, surtout quand on doit arrêter de faire quelque chose qu'on aime. Mais tu sais quoi? Nous pouvons rendre cela plus facile en pensant à la prochaine chose amusante que nous allons faire. Par exemple, après le bain, on peut lire une histoire ou jouer à un jeu calme. Cela aide à rendre la transition plus douce et agréable."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand tu sens que le changement est un peu trop rapide, tu peux essayer de respirer profondément. On inspire par le nez comme si on sentait une fleur, et on expire par la bouche comme si on soufflait sur une bougie. Faisons-le ensemble, prêt? Inspire... et expire... C'est apaisant, n'est-ce pas? Cela aide notre esprit à se préparer pour la prochaine aventure."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail incroyable! Chaque transition est une chance d'apprendre quelque chose de nouveau. Parfois, cela signifie essayer quelque chose pour la première fois, comme un nouveau jeu ou une nouvelle nourriture. N'oublie pas, les transitions sont comme des portes vers de nouvelles aventures passionnantes. Continue comme ça, tu es vraiment courageux!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu déjà ressenti que les transitions étaient difficiles? Peut-être que tu ne voulais pas arrêter de jouer pour ranger tes jouets? Ça arrive à tout le monde, même aux astronautes! Que fais-tu pour que cela devienne plus facile? J'aimerais beaucoup entendre tes idées, elles pourraient aider d'autres enfants aussi!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Quand on s'habitue à une nouvelle routine, cela devient comme un jeu. Par exemple, se préparer pour l'école peut d'abord sembler compliqué, mais avec le temps, c'est comme une danse que tu connais par cœur. Et puis, tu peux ajouter des petites surprises, comme chanter une chanson en te brossant les dents. C'est amusant et cela rend la routine encore plus agréable!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons de transformer une transition en jeu. Quand il est temps de ranger les jouets, imagine que tu es un superhéros qui remet tout en ordre pour sauver la planète! Chaque jouet que tu ranges est une mission accomplie. Tu verras, cela rend le rangement beaucoup plus amusant. Alors, es-tu prêt pour ta mission de superhéros?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as réussi ta mission! Chaque fois que tu réussis à faire une transition, c'est comme gagner une étoile. Tu deviens de plus en plus fort à chaque fois. Continue à t'adapter aux nouvelles situations, et bientôt, tu seras un expert des transitions. Bravo, petit astronaute, tu es vraiment formidable!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peux-tu imaginer d'autres moments de la journée où tu fais des transitions? Comme passer du jeu au dîner, ou de la lecture au coucher? Comment te sens-tu pendant ces transitions? J'aimerais vraiment savoir ce que tu en penses et comment tu les rends plus amusantes. Partage tes idées avec moi!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions font partie de la vie, et elles nous aident à grandir. Chaque fois que tu fais un changement, tu deviens un peu plus grand et plus sage. C'est comme planter une graine qui pousse et devient un bel arbre. Alors, n'hésite pas à essayer de nouvelles choses et à embrasser les transitions. Elles sont là pour t'aider à découvrir le monde!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "N'oublie pas que tu n'es jamais seul dans tes transitions. Tes parents, tes amis et moi sommes là pour t'aider. Ensemble, nous pouvons rendre chaque changement plus facile et plus amusant. Tu es un explorateur incroyable, et chaque jour est une nouvelle aventure. Continue comme ça, tu es fantastique!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir voyagé avec moi aujourd'hui, petit ami. Les transitions sont comme des étoiles qui nous guident vers de nouvelles aventures. J'espère que tu as appris comment les rendre amusantes et excitantes. À la prochaine fois pour une nouvelle exploration spatiale! Au revoir et continue à briller comme une étoile!"
+    }
+  ],
+  "title": "Histoire de Transitions de Mino"
+}

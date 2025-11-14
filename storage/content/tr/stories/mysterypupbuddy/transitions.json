@@ -1,0 +1,104 @@
+{
+  "id": "mystery_pup_buddy_transitions_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "transitions",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mystery Pup Buddy. Bugün birlikte geçişler ve değişiklikler hakkında harika bir yolculuğa çıkacağız. Geçişler, bir şeyden başka bir şeye geçmek demektir. Mesela, sabah uykudan uyanıp güne başlamak gibi. Hazır mısın? Seni çok merak ediyorum."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçişler bazen eğlenceli olabilir, değil mi? Mesela, oyun oynarken yeni bir oyuna geçmek gibi. Ama bazen de biraz zorlayıcı olabilir. Örneğin, bir odadan diğerine taşınmak gibi. Ama merak etme, yeni şeylere alışmak için hep birlikte öğrenebiliriz."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, geçişlerin nasıl daha kolay hale gelebileceğini düşünelim. Öncelikle, değişikliklere açık olmak önemlidir. Mesela, sabahları yeni bir kahvaltı denemek gibi. Ayrıca, değişiklikleri bir macera olarak görebiliriz. Unutma, her yeni şey yeni bir keşif demektir!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi birlikte bir oyun oynayalım! Şimdi gözlerini kapat ve üç derin nefes al. Her nefeste yeni bir macera düşündüğünü hayal et. Harika! Şimdi gözlerini aç ve yeni bir günün başlangıcına hazır ol. Bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda nefes alarak yeni bir güne hazırlandık. Şimdi, geçişleri daha eğlenceli hale getirmek için neler yapabileceğimizi düşünelim. Örneğin, sabahları kalkarken bir şarkı söylemek. Ya da akşamları yatarken bir hikaye okumak. Bu küçük alışkanlıklar geçişleri daha kolay hale getirebilir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Yeni bir duruma alışmak için rutinler oluşturmak da iyi bir fikir. Mesela, her akşam aynı saatte dişlerini fırçalamak gibi. Bu, vücudunun ve zihninin değişikliklere daha kolay uyum sağlamasına yardımcı olur. Böylece her yeni güne daha enerjik başlayabilirsin."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir rutin oluşturalım. Sabahları kalkarken yapacağın üç şeyi düşün. Mesela, yüzünü yıkamak, kahvaltı etmek ve oyuncaklarını toplamak. Bu basit adımlar seni güne hazırlayacak. Harika bir başlangıç yapman için seni teşvik ediyorum!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçişlerin bazen neden zorlayıcı olabileceğini hiç merak ettin mi? Çünkü her yeni şey, alışık olduğumuzdan farklı olabilir. Ama unutma, her yeni deneyim yeni bir öğrenme fırsatıdır. Ve biz her zaman yeni şeyleri öğrenmeye hazırız!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin için en zor geçiş neydi? Belki yeni bir okula başlamak ya da yeni bir eve taşınmak. Bu tür geçişler bazen korkutucu olabilir. Ama birlikte düşünelim, bu geçişi nasıl daha kolay hale getirebiliriz? Fikirlerini duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda geçişleri nasıl kolaylaştırabileceğimizi düşündük. Şimdi, bu değişiklikler sırasında duygularımızı nasıl yönetebileceğimizi konuşalım. Duygularımızı anlamak ve ifade etmek çok önemlidir. Mesela, üzgün olduğunda bunu söylemek gibi. Böylece, çevrendekiler sana daha iyi yardımcı olabilir."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Duygularını ifade etmek için bir yöntem bulmak harika olabilir. Mesela, bir resim çizmek ya da bir şarkı söylemek gibi. Bu, kendini daha iyi hissetmene yardımcı olacaktır. Ve unutma, her duygu değerlidir. Onları anlamak ve ifade etmek önemlidir."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi şimdi bir duygu günlüğü oluşturalım. Her gün nasıl hissettiğini yaz ya da çiz. Bu, duygularını daha iyi anlamana yardımcı olacaktır. Ve her yeni gün, yeni bir başlangıçtır. Bunu başardığın için çok gururluyum!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçişler ve değişiklikler her zaman hayatımızın bir parçası olacak. Ama artık bu değişikliklerle nasıl başa çıkabileceğimizi biliyoruz. Yeni şeylere açık olmak, rutinler oluşturmak ve duygularımızı ifade etmek. Bunlar, her geçişi daha kolay hale getirir."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Birlikte geçirdiğimiz bu zaman için çok mutluyum. Umarım öğrendiklerimizi günlük hayatında kullanabilirsin. Her yeni gün, yeni bir macera demektir. Ve biz bu maceralara birlikte atılacağız. Seninle her zaman yan yanayız!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Birlikte harika bir yolculuk yaptık, değil mi? Artık geçişlerle nasıl başa çıkabileceğimizi biliyoruz. Unutma, her yeni gün yeni bir başlangıçtır. Seni çok seviyorum ve birlikte daha birçok macera yaşayacağız. Şimdi, hoşça kal ve yeni maceralara hazır ol!"
+    }
+  ],
+  "title": "Mystery Pup Buddy'ın Transitions Hikayesi"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "spark_buddy_emotional_regulation_story",
+  "character": "Spark Buddy",
+  "topic": "emotional_regulation",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Spark Buddy, your cheerful and electric buddy. Today, we're going on an amazing adventure to learn about emotional regulation. It's all about understanding our feelings and how to manage them. Are you ready to zap into this journey with me? Let's spark some joy and learn together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Emotional regulation is a big phrase, but it simply means knowing how to handle our feelings. Sometimes we feel happy like a sunny day, and other times we might feel sad like a rainy cloud. It's normal to feel different emotions, and it's important to know how to express them. Can you think of a time when you felt really happy or really sad? Let's learn how to manage those feelings together!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "One way to help regulate our emotions is by taking deep breaths. Breathing slowly can help calm us down when we're upset. Let's try it together! Take a deep breath in, hold it for a moment, and then slowly breathe out. Doesn't that feel better? Remember to use this trick whenever you feel a little overwhelmed."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job on those deep breaths! Now let's think about what makes us happy. Maybe it's playing with a favorite toy or drawing a colorful picture. When we focus on happy things, it can help us feel better. Can you think of something that makes you smile? You're doing amazing!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about feeling like a rainy cloud? Sometimes, we need to express those feelings too. It's okay to feel sad, and talking about it can help us feel lighter. You can tell a grown-up or a friend how you're feeling. Sharing our feelings is like letting the sun peek through the clouds."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn another fun way to manage emotions called a 'calm down jar.' You can make one by filling a jar with water and adding some glitter. When you shake it, watch the glitter swirl and settle down slowly. It's like our emotions; sometimes they swirl around, but they always settle. Would you like to try making one?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I have a question for you! What do you do when you feel angry or upset? Do you stomp your feet or maybe take a break? It's okay to have different ways to express your emotions. Let's think of a few calm ways together. Can you share some ideas with me?"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "That's wonderful! Did you know that drawing or coloring can also help us feel better? When we put our feelings on paper, it can be like a magic spell to calm down. Next time you feel a bit grumpy, try drawing it out. What would you draw if you felt as bright as a lightning bolt?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's remember the power of a hug. A hug from someone we love can make us feel safe and warm inside, just like a cozy blanket. If you ever feel upset, a hug might be just what you need. Can you give yourself a big squeeze right now? Doesn't that feel nice?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about using our words to express emotions. Instead of yelling or crying, we can say, 'I'm feeling sad,' or 'I'm a bit mad.' This helps others understand how we feel and can help us find a solution. Let's practice saying it together: 'I feel...' and then fill in the blank. Good job!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing fantastic! Remember, it's okay to have big feelings, and we all have them. The key is to learn how to manage them so they don't manage us. You're like a superhero with the power to control your emotions. Keep practicing and you'll become even better at it!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Sometimes, a little time to relax can help when emotions are high. Find a quiet spot, maybe with a book or a favorite stuffed animal. Taking a break can give us time to think and calm down. Do you have a special place where you can relax? It's important to have a cozy corner just for you."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "We've learned so much today! Remember, emotions are like the weather; they change and that's okay. It's how we handle them that matters. Next time you're feeling all zappy inside, what will you try first? Will it be deep breaths, a hug, or maybe your calm down jar?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thanks for joining me on this spark-tastic journey about emotional regulation! You've learned some amazing ways to handle those big feelings. Remember, I'm always here to help guide you. Keep practicing and you'll become a pro at managing emotions. Until next time, keep shining bright like a spark of joy!"
+    }
+  ],
+  "title": "Spark Buddy's Emotional Regulation Story"
+}

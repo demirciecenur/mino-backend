@@ -1,0 +1,98 @@
+{
+  "id": "adventure_dora_pal_tiempo_de_pantalla_seguridad_digital_uso_de_tecnología_hábitos_saludables_de_pantalla_story",
+  "character": "Adventure Dora Pal",
+  "topic": "tiempo de pantalla, seguridad digital, uso de tecnología, hábitos saludables de pantalla",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Adventure Dora Pal. Hoy vamos a embarcarnos en una aventura emocionante sobre el tiempo de pantalla, la seguridad digital y el uso de la tecnología. ¿Están listos para aprender y divertirnos juntos? ¡Estoy tan emocionada de que estén aquí! Vamos a descubrir cómo usar la tecnología de manera segura y saludable. ¡Acompáñenme en esta aventura!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Primero, hablemos sobre el tiempo de pantalla. ¿Sabían que es importante no pasar demasiado tiempo frente a las pantallas? Cuando jugamos o miramos videos por mucho tiempo, nuestros ojos pueden cansarse. También es bueno hacer otras cosas, como jugar al aire libre o leer un libro. ¿Qué actividades les gusta hacer cuando no están usando la tecnología? ¡Es divertido encontrar un buen equilibrio!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a aprender sobre la seguridad digital. Es muy importante proteger nuestra información en línea. Nunca debemos compartir nuestra dirección o número de teléfono en internet. También es bueno usar contraseñas que sean difíciles de adivinar. Podemos pensar en una combinación de letras y números que solo nosotros sepamos. ¿Pueden pensar en una contraseña segura?"
+    },
+    {
+      "id": "scene_3",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Vamos a practicar juntos. Imaginen que están creando una contraseña. ¿Qué tal si usamos el nombre de su juguete favorito y un número especial? Por ejemplo, 'Osito123'. ¡Eso es una buena contraseña! Ahora, vamos a contar juntos hasta tres para recordar la importancia de las contraseñas seguras. ¡Uno, dos, tres! ¡Genial, lo hicieron muy bien!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos lo que aprendimos sobre el tiempo de pantalla. Es importante tomar descansos mientras usamos la tecnología. Podemos levantarnos, estirarnos o dar una vuelta por la casa. Esto ayuda a que nuestros cuerpos se sientan mejor y más saludables. ¿Quieren intentarlo ahora? ¡Pongámonos de pie y movámonos un poco!"
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Muy bien! Ahora que hemos aprendido a tomar descansos, vamos a hablar sobre el uso de la tecnología de manera creativa. Podemos usarla para dibujar, aprender cosas nuevas o incluso hacer música. ¿Alguna vez han hecho un dibujo en la computadora o tablet? ¡Es tan divertido! Usar la tecnología para crear es una forma maravillosa de aprender."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "También es importante saber cuándo es hora de apagar las pantallas. Podemos establecer un tiempo específico para dejar de usar la tecnología, como antes de cenar. Esto nos ayuda a tener una rutina saludable. Podemos usar ese tiempo para hablar con nuestra familia o jugar con nuestros juguetes. ¡Así, cada día será más divertido y equilibrado!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdan lo que aprendimos sobre las contraseñas seguras? Ahora vamos a repasar cómo mantenernos seguros en línea. Es importante que siempre le digamos a un adulto si vemos algo en internet que nos hace sentir incómodos. Los adultos pueden ayudarnos a estar seguros. ¿Pueden pensar en un adulto de confianza a quien le contarían si algo no está bien?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora que saben cómo mantenerse seguros, vamos a hablar sobre el tiempo de calidad sin pantallas. Podemos pasar tiempo con amigos, construir una torre con bloques o incluso hacer un picnic en el jardín. Estas actividades nos ayudan a sentirnos felices y saludables. ¿Qué actividad les gustaría hacer hoy sin usar pantallas?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¡Qué idea tan maravillosa! Pasar tiempo sin pantallas también nos ayuda a dormir mejor por la noche. Cuando no usamos pantallas antes de dormir, nuestros cerebros pueden descansar y prepararse para el día siguiente. Podemos leer un cuento o escuchar música suave para relajarnos. ¿Les gusta escuchar cuentos antes de dormir?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Cuál es su parte favorita de usar la tecnología? Puede ser aprender algo nuevo o jugar un juego divertido. Es importante recordar que la tecnología es una herramienta que podemos usar de manera positiva. ¿Tienen alguna idea sobre cómo usar la tecnología para hacer algo bueno hoy?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eso suena increíble! Usar la tecnología para aprender y crear es una de las mejores maneras de aprovechar el tiempo de pantalla. Sigamos explorando y descubriendo cosas nuevas juntos. Recuerden siempre ser curiosos y valientes en sus aventuras tecnológicas. ¡Pueden lograr cualquier cosa con una mente abierta y un corazón valiente!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A medida que terminamos nuestra aventura de hoy, recordemos lo importante que es usar la tecnología de manera segura y saludable. Podemos disfrutar del tiempo de pantalla mientras cuidamos de nuestros ojos y nuestro bienestar. Siempre hay tiempo para aprender algo nuevo o disfrutar de una actividad sin pantallas. ¡Así es como se logra un equilibrio perfecto!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Gracias por acompañarme en esta aventura sobre el tiempo de pantalla y la seguridad digital. Aprendimos mucho juntos y nos divertimos. Espero que sigan explorando y cuidando de ustedes mismos mientras usan la tecnología. ¡Hasta la próxima, amiguitos! ¡Nos vemos en la próxima aventura emocionante!"
+    }
+  ],
+  "title": "Historia de Screen Time de Adventure Dora Pal"
+}

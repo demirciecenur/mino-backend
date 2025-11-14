@@ -1,0 +1,104 @@
+{
+  "id": "blu_pup_imagination_story",
+  "character": "Blu Pup",
+  "topic": "imagination",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Blu Pup et aujourd'hui, nous allons explorer le monde magique de l'imagination. Es-tu prêt pour cette aventure? L'imagination, c'est comme avoir une baguette magique dans la tête. On peut créer des histoires incroyables et voyager dans des endroits fabuleux sans quitter notre maison. Ensemble, nous allons découvrir comment notre imagination peut nous faire vivre des aventures extraordinaires. Allons-y!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est un peu comme rêver les yeux ouverts. Par exemple, on peut imaginer qu'on est un pirate à la recherche d'un trésor caché. On pourrait aussi penser qu'on est un astronaute en train de flotter parmi les étoiles! C'est amusant, n'est-ce pas? Quand on utilise notre imagination, on peut être tout ce qu'on veut. Maintenant, imaginons ensemble que nous sommes des explorateurs dans une jungle mystérieuse!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour commencer notre aventure dans la jungle, fermons les yeux et imaginons les arbres géants autour de nous. Écoute les oiseaux chanter et le vent souffler doucement. Tu sens la chaleur du soleil sur ta peau? C'est comme si nous étions vraiment là! L'imagination nous aide à ressentir des choses incroyables. Ouvre les yeux maintenant, et dis-moi ce que tu as vu dans ta jungle imaginaire."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Superbe! Tu as une imagination incroyable! Maintenant, continuons notre voyage. Imagine un pont suspendu au-dessus d'une rivière pleine de poissons colorés. Tu peux sentir la brise fraîche et entendre l'eau qui coule. C'est passionnant, n'est-ce pas? Tu es un merveilleux explorateur! Continuons à découvrir ce monde fantastique ensemble."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Notre prochaine étape est une clairière où vivent des animaux amicaux. On pourrait rencontrer un éléphant qui adore jouer ou un singe qui se balance de branche en branche. L'imagination nous permet de créer des amis extraordinaires. Quels animaux vois-tu dans ta clairière? Peut-être un lion qui aime danser? Partage avec moi tes idées!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Wow, tes animaux imaginaires sont vraiment fantastiques! Maintenant, imaginons qu'on organise une fête avec eux. On pourrait avoir des ballons colorés et des gâteaux délicieux. Chacun pourrait montrer ses talents spéciaux, comme chanter ou jongler. C'est une fête pleine de joie et de rires! Qu'aimerais-tu faire à cette fête magique?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu déjà pensé à créer ta propre histoire? Avec l'imagination, tu peux inventer n'importe quelle aventure. Que dirais-tu d'une histoire où tu es un chevalier ou une princesse? Peut-être que tu pourrais être un inventeur génial qui construit des machines incroyables. Qu'est-ce que tu aimerais inventer dans ton histoire?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour créer une histoire, commence par imaginer un lieu spécial. Cela pourrait être un château dans les nuages ou une ville sous la mer. Ensuite, pense à tes personnages. Que font-ils? Quels sont leurs rêves? L'imagination te permet de donner vie à des idées incroyables. Prends un moment pour réfléchir à ton histoire et partage-la avec moi!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "C'est formidable d'entendre tes idées! L'imagination nous permet aussi de résoudre des problèmes. Par exemple, si on perd quelque chose, on peut imaginer toutes les cachettes possibles. Ou si on est triste, on peut penser à quelque chose de joyeux pour se sentir mieux. L'imagination est un outil puissant pour transformer notre monde. Que dirais-tu d'essayer ensemble?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo! Tu utilises ton imagination de manière fantastique! Maintenant, pensons à un nouveau jeu. Imaginons que nous sommes des détectives à la recherche d'indices mystérieux. Où pourrait se cacher le prochain indice? Peut-être sous un rocher ou dans un arbre creux? Utilisons notre imagination pour explorer et découvrir!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "En jouant aux détectives, nous apprenons à observer et à réfléchir. L'imagination nous aide à voir le monde différemment. Parfois, les choses ne sont pas ce qu'elles semblent être. Un simple carton peut devenir un bateau pirate ou un château fort! Qu'aimerais-tu transformer avec ton imagination aujourd'hui?"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Aimes-tu les aventures sous-marines? Imagine que nous sommes des plongeurs explorant une épave mystérieuse. Quels trésors pourrions-nous trouver? Peut-être des perles brillantes ou des coffres remplis de pièces d'or. L'océan est plein de surprises! Que vois-tu dans ton aventure sous-marine?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tes idées sont vraiment inspirantes! L'imagination nous permet de voyager sans bouger. On peut aller n'importe où, même dans l'espace! Imagine que tu es dans une fusée, prêt à découvrir de nouvelles planètes. Que penses-tu que tu trouverais là-bas? Peut-être des créatures étranges ou des paysages incroyables?"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es un explorateur formidable! Souviens-toi, l'imagination n'a pas de limites. Elle nous permet de rêver et de créer. Chaque jour est une nouvelle aventure à vivre. Continue à utiliser ton imagination pour rendre chaque moment spécial. Tu es incroyable!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir exploré le monde de l'imagination avec moi aujourd'hui. J'ai adoré entendre toutes tes idées fantastiques. Continue à rêver et à créer chaque jour. L'imagination est un trésor précieux que tu portes en toi. À bientôt pour de nouvelles aventures, petit ami! Au revoir!"
+    }
+  ],
+  "title": "Histoire de Imagination de Blu Pup"
+}

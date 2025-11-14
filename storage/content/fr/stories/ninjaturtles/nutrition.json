@@ -1,0 +1,104 @@
+{
+  "id": "shell_heroes_crew_nutrition_alimentation_saine_habitudes_alimentaires_aliments_sains_story",
+  "character": "Shell Heroes Crew",
+  "topic": "nutrition, alimentation saine, habitudes alimentaires, aliments sains",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Nous sommes le Shell Heroes Crew. Aujourd'hui, nous partons en aventure pour découvrir la nutrition et les habitudes alimentaires saines. Êtes-vous prêt à explorer avec nous? Nous allons apprendre à être forts et en bonne santé. Allons-y, ensemble!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La première chose à savoir est que manger des aliments sains nous aide à grandir. Les légumes comme les carottes et les brocolis sont pleins de vitamines. Ils nous donnent de l'énergie pour jouer et apprendre. Imaginez que vous êtes un super-héros, et les légumes sont votre carburant magique. N'est-ce pas génial de savoir que la nourriture peut être aussi puissante?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des fruits. Les fruits comme les pommes et les bananes sont sucrés et délicieux. Ils sont aussi très bons pour notre santé. Les fruits nous aident à rester en forme et à avoir une peau éclatante. Pensez à une pomme rouge brillante, elle est pleine de bonnes choses pour vous. Quel est votre fruit préféré?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail extraordinaire en apprenant sur la nutrition! N'oubliez pas de boire beaucoup d'eau aussi. L'eau est essentielle pour garder notre corps hydraté. Chaque fois que vous buvez de l'eau, vous aidez votre corps à rester fort. Vous êtes déjà sur la bonne voie pour être un super-héros de la santé!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Saviez-vous que les protéines sont comme les briques de construction de notre corps? Les aliments comme le poulet, le poisson et les haricots sont riches en protéines. Ils aident nos muscles à devenir forts et solides. Imaginez construire un château fort, les protéines sont les blocs qui le rendent résistant. Vous aussi, vous pouvez construire votre propre force!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "C'est important de manger une variété d'aliments pour être en bonne santé. Essayez d'avoir des couleurs différentes dans votre assiette. Cela signifie que vous obtenez différentes vitamines et minéraux. C'est comme peindre un tableau coloré avec des aliments. Plus il y a de couleurs, mieux c'est pour votre corps!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nous avons parlé des légumes, des fruits, de l'eau et des protéines. Maintenant, parlons des céréales comme le riz et le pain. Elles nous donnent de l'énergie pour courir et jouer toute la journée. Imaginez que vous êtes une voiture de course et les céréales sont votre essence. Elles vous aident à aller plus loin et plus vite!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes incroyable! Continuez à apprendre et à grandir. Rappelez-vous, manger sainement est une aventure amusante. Chaque bouchée vous rend plus fort et plus heureux. Vous êtes un vrai héros de la nutrition!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, réfléchissons un peu. Quel est votre repas préféré? Avez-vous une couleur préférée dans votre assiette? Pensez à ce que vous mangez et comment cela vous fait sentir. Est-ce que ça vous donne de l'énergie pour jouer et vous amuser? C'est important de choisir des aliments qui vous font vous sentir bien."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nous avons aussi parlé de l'importance de boire de l'eau. Rappelez-vous, l'eau est essentielle pour nous garder hydratés. Chaque verre d'eau que vous buvez aide votre corps. Imaginez que votre corps est un jardin, et l'eau est la pluie qui le nourrit. Vous pouvez vous sentir rafraîchi et plein d'énergie!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons ensemble de nommer quelques aliments sains. Pensez à des fruits, des légumes, des céréales et des protéines. C'est amusant de découvrir de nouveaux aliments et de les goûter. Vous pouvez demander à un adulte de vous aider à essayer quelque chose de nouveau. Qui sait, vous pourriez trouver un nouveau favori!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Avez-vous déjà essayé de cuisiner avec un adulte? C'est une excellente façon d'apprendre sur la nourriture. Vous pouvez mélanger, remuer et goûter. Cuisiner ensemble rend les repas encore plus amusants. Vous pourriez même devenir un chef cuisinier en herbe!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes sur la bonne voie pour être en bonne santé. Chaque petit pas compte. N'oubliez pas de faire de l'exercice et de vous amuser aussi. Vous êtes un super-héros de la nutrition et de la santé. Continuez comme ça, vous faites un travail formidable!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous des questions sur la nutrition? Pensez à ce que vous aimez manger. Y a-t-il quelque chose que vous aimeriez essayer? Parler de nourriture peut être vraiment intéressant. Partagez vos pensées avec vos amis et votre famille. Vous pourriez apprendre de nouvelles choses ensemble!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir exploré la nutrition avec nous aujourd'hui. Nous avons appris beaucoup de choses sur les aliments sains. Rappelez-vous de manger équilibré et de boire beaucoup d'eau. Vous êtes un héros de la santé! À bientôt pour une nouvelle aventure avec le Shell Heroes Crew. Au revoir, petit ami!"
+    }
+  ],
+  "title": "Histoire de Nutrition de Shell Heroes Crew"
+}

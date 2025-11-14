@@ -1,0 +1,98 @@
+{
+  "id": "mystery_pup_buddy_imagination_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "imagination",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis Mystery Pup Buddy, votre compagnon de jeu aujourd'hui. Nous allons explorer le monde incroyable de l'imagination. Êtes-vous prêts à vous amuser et à découvrir ensemble? L'imagination, c'est comme un grand terrain de jeu dans notre tête. Allons-y, je suis tellement curieux de savoir ce que nous allons découvrir ensemble!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est magique, vous savez? C'est comme un pinceau invisible qui peint des histoires et des aventures dans notre esprit. Par exemple, avez-vous déjà imaginé être un chevalier courageux ou une princesse dans un château? Avec l'imagination, tout est possible! Vous pouvez même voler comme un oiseau ou nager comme un poisson. Et vous, qu'aimez-vous imaginer?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment nous pouvons utiliser notre imagination chaque jour. Quand vous jouez avec vos jouets, vous pouvez leur donner des rôles et créer des histoires amusantes. Par exemple, votre ours en peluche peut être un capitaine de navire, et vos voitures peuvent être des fusées qui vont dans l'espace. Utiliser votre imagination rend chaque jour unique et spécial. Alors, comment allez-vous utiliser votre imagination aujourd'hui?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons ensemble! Fermez les yeux et imaginez que nous sommes dans une forêt enchantée. Écoutez le chant des oiseaux et sentez la brise douce. Peut-être qu'il y a des fées qui dansent autour de nous! Vous pouvez même imaginer un petit ruisseau qui murmure doucement. N'est-ce pas merveilleux? Vous voyez, avec un peu d'imagination, nous pouvons voyager n'importe où!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de l'imagination comme d'un terrain de jeu dans notre tête? Eh bien, ce terrain de jeu peut nous aider à résoudre des problèmes aussi. Par exemple, si vous ne savez pas comment construire une tour avec vos blocs, imaginez différentes façons de les empiler. L'imagination vous aide à voir les choses sous un nouvel angle. Quelle idée géniale, n'est-ce pas?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Imaginez maintenant que nous sommes des détectives à la recherche d'un trésor caché. Nous avons une carte mystérieuse qui nous guide à travers des énigmes amusantes. Chaque indice que nous trouvons nous rapproche du trésor. Vous pouvez imaginer que le trésor est un coffre rempli de chocolats ou de jouets. Quelle aventure excitante, n'est-ce pas?"
+    },
+    {
+      "id": "scene_6",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Alors, que pensez-vous que nous devrions faire ensuite dans notre aventure? Peut-être grimper une montagne ou explorer une grotte cachée? Imaginez les créatures amicales que nous pourrions rencontrer en chemin. Des lapins qui sautillent ou des oiseaux qui chantent pour nous. L'imagination nous aide à créer ces belles histoires. Partagez vos idées, je suis tout ouïe!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nous avons déjà découvert tant de choses avec notre imagination. Avez-vous remarqué comment elle nous permet de ressentir des émotions différentes? Parfois, nous pouvons imaginer être très courageux, comme un super-héros. D'autres fois, nous pouvons imaginer être très calmes, comme un chat qui dort au soleil. L'imagination nous aide à explorer nos sentiments en toute sécurité."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail incroyable en utilisant votre imagination! Continuons à explorer. Imaginez que nous sommes des explorateurs dans une jungle pleine de trésors cachés. Peut-être que nous découvrirons des plantes étranges ou des animaux que nous n'avons jamais vus. C'est comme avoir un film dans notre tête où nous sommes les héros. N'est-ce pas merveilleux?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà pensé à ce que vous aimeriez devenir quand vous serez grand? Peut-être un astronaute qui voyage dans l'espace ou un artiste qui peint de belles images? L'imagination vous aide à rêver grand et à explorer toutes les possibilités. Quels sont vos rêves? Je suis tellement curieux de les entendre!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La dernière fois, nous avons parlé de nos rêves pour l'avenir. L'imagination est un outil puissant pour nous aider à atteindre ces rêves. Elle nous permet de visualiser nos objectifs et de trouver des moyens créatifs de les réaliser. Par exemple, si vous rêvez de construire des robots, imaginez-les d'abord dans votre tête. Puis, commencez à créer petit à petit. Vous verrez, c'est magique!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "En parlant de robots, imaginez que nous avons un robot ami qui nous aide dans nos aventures. Il peut parler, danser et même chanter des chansons amusantes. Avec notre imagination, nous pouvons lui donner un nom et une personnalité. Peut-être qu'il aime les chapeaux rigolos ou qu'il adore les gâteaux au chocolat. Quelle belle histoire nous pouvons créer ensemble!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous voyez, l'imagination n'a pas de limites! Elle nous permet de voyager dans des mondes fantastiques et de vivre des aventures extraordinaires. Alors, continuons à rêver et à imaginer chaque jour. Chaque fois que vous utilisez votre imagination, vous devenez un peu plus créatif et courageux. Vous êtes merveilleux, continuez comme ça!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était une journée incroyable avec vous, mes petits amis! Nous avons exploré tant de choses grâce à notre imagination. Souvenez-vous, vous pouvez toujours revenir et imaginer de nouvelles aventures. Merci d'avoir partagé votre temps avec moi, Mystery Pup Buddy. Je suis impatient de nous retrouver pour une nouvelle aventure. À bientôt, et continuez à rêver grand!"
+    }
+  ],
+  "title": "Histoire de Imagination de Mystery Pup Buddy"
+}

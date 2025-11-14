@@ -1,0 +1,104 @@
+{
+  "id": "tiko_sibling_story",
+  "character": "Tiko",
+  "topic": "sibling",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostlarım! Ben Tiko, macera dolu ormanlardan gelen enerjik bir rehberim. Bugün sizinle kardeşler hakkında harika bir yolculuğa çıkacağız. Kardeşlerin ne kadar özel ve eğlenceli olabileceğini keşfetmeye hazır mısınız? İnanın bana, birlikte oynamak ve paylaşmak çok daha keyifli! Hadi başlayalım, sizi çok merak ediyorum!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşler, hayatımızdaki en yakın arkadaşlarımız olabilir. Onlarla birçok güzel anı paylaşırız, değil mi? Mesela, en sevdiğiniz oyuncakları birlikte oynadığınızda nasıl hissettiğinizi hatırlıyor musunuz? Kardeşinizle oynarken birbirinize nasıl yardım ettiğinizi düşünün. Bu yardımlaşma, aranızdaki bağı güçlendirir ve sizi daha mutlu yapar!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşlerle iyi geçinmek için neler yapabiliriz, hiç düşündünüz mü? Öncelikle, birbirimizi dinlemek çok önemli. Kardeşiniz size bir şey anlatırken dikkatlice dinleyerek ona değer verdiğinizi gösterebilirsiniz. Ayrıca, oyun oynarken sırayla oynamak da çok önemlidir. Bu, herkesin eğlenmesini sağlar ve paylaşmayı öğretir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım! Kardeşinizle birlikte bir hikaye uydurmaya ne dersiniz? Her biriniz sırayla bir cümle ekleyerek hikayeyi oluşturabilirsiniz. Bu, hem eğlenceli hem de yaratıcı bir etkinlik olacak. Unutmayın, herkesin fikri önemlidir ve hikayenize renk katar!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerle birlikte olmak, bazen zorluklar da getirebilir. Bazen anlaşmazlıklar yaşanabilir, ama bu çok normaldir. Önemli olan, bu durumlarda sabırlı olmak ve çözüm aramaktır. Mesela, oyuncakları paylaşmak istemediğinizde nasıl bir çözüm bulabilirsiniz? Belki sırayla oynamak ya da farklı oyunlar keşfetmek iyi bir fikir olabilir."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musunuz, bir önceki konuşmamızda sırayla oynamaktan bahsetmiştik. Bu sefer, birlikte nasıl yeni oyunlar yaratabileceğimize bakalım. Kardeşinizle bir hazine avı düzenlemek nasıl olur? Evdeki eşyaları kullanarak bir harita çizebilir ve birlikte keşfe çıkabilirsiniz. Bu, maceracı ruhunuzu canlandırır ve eğlenceli anılar biriktirmenizi sağlar."
+    },
+    {
+      "id": "scene_6",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Şimdi biraz düşünelim, kardeşinizle en son ne zaman güzel bir anı paylaştınız? Belki bir oyunda birlikte kazandınız ya da bir resim yaptınız. Bu tür anılar, kardeşliğin ne kadar değerli olduğunu gösterir. Birlikte vakit geçirmek ve gülmek, aranızdaki bağı güçlendirir. Siz de böyle anılarınızı daha sık yaşamak ister misiniz?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Birlikte oynarken, bazen tartışmalar olabilir. Böyle durumlarda, sakinleşmek için üç derin nefes almayı deneyebiliriz. Derin bir nefes alın, yavaşça verin ve rahatlayın. Bu, size ve kardeşinize sakinleşme fırsatı verir ve çözüm bulmayı kolaylaştırır. Unutmayın, her zaman anlaşmak zorunda değilsiniz, ama birbirinize saygı göstermek önemlidir."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinizle en çok hangi oyunları oynamayı seviyorsunuz? Belki saklambaç ya da legolarla oynamak hoşunuza gidiyordur. Herkesin sevdiği farklı oyunlar olabilir ve bu normaldir. Siz de favori oyununuzu kardeşinizle paylaşmak ister misiniz? Belki yeni bir oyun keşfetmenize de yardımcı olabilir!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Kardeşinizle oyun oynamak ve paylaşmak, sizi daha da yakınlaştırır. Birlikte yeni oyunlar keşfetmek ve eğlenmek için her zaman fırsatlar yaratabilirsiniz. Unutmayın, siz harika bir takımsınız! Her zaman birbirinize destek olun ve birlikte gülmeyi, eğlenmeyi unutmayın!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerle vakit geçirmenin bir diğer güzel yanı da birbirinizden öğrenebilmektir. Kardeşinizden yeni bir şey öğrenmek ya da ona bir şey öğretmek nasıl olurdu? Mesela, yeni bir şarkı ya da dans figürü öğrenebilirsiniz. Bu tür paylaşımlar, aranızdaki bağı güçlendirir ve birbirinizi daha iyi anlamanızı sağlar."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda yeni şeyler öğrenmekten bahsetmiştik. Peki ya birlikte bir şeyler yaratmak? Mesela, kardeşinizle birlikte bir resim yapabilir ya da bir kule inşa edebilirsiniz. Bu tür yaratıcı aktiviteler, hem eğlenceli hem de öğreticidir. Siz de böyle bir şey denemek ister misiniz?"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinizle birlikte hangi maceraları yaşamak istersiniz? Belki bir kamp kurmak ya da bir doğa yürüyüşüne çıkmak hoşunuza gider. Herkesin hayal ettiği farklı maceralar olabilir ve bu harikadır. Siz de hayalinizdeki macerayı kardeşinizle paylaşmak ister misiniz? Kim bilir, belki bir gün gerçek olur!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Macera dolu hayaller kurmak ve bunları kardeşinizle paylaşmak, sizi daha da yakınlaştırır. Her zaman birlikte yeni şeyler keşfetmeye ve eğlenmeye devam edin. Siz harika bir takımsınız ve birlikte her şeyi başarabilirsiniz! Unutmayın, kardeşlik her zaman destek ve sevgiyi içerir."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün kardeşlerle ilgili harika bir yolculuğa çıktık ve çok şey öğrendik. Kardeşlerimizle vakit geçirmek, onları sevmek ve onlarla paylaşmak ne kadar güzel, değil mi? Sizlerle bu macerayı paylaşmak benim için çok keyifliydi. Şimdi, bir sonraki maceramızda görüşmek üzere! Hoşça kalın, küçük dostlarım!"
+    }
+  ],
+  "title": "Tiko'ın Sibling Hikayesi"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "super_jump_hero_regulación_emocional_manejo_de_emociones_calmarse_autorregulación_story",
+  "character": "Super Jump Hero",
+  "topic": "regulación emocional, manejo de emociones, calmarse, autorregulación",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Super Jump Hero, y hoy vamos a emprender una gran aventura sobre cómo manejar nuestras emociones. ¿Estás listo para explorar el mundo de la regulación emocional conmigo? A veces, podemos sentirnos como si estuviéramos en una montaña rusa de sentimientos, y juntos aprenderemos a calmarnos y sentirnos mejor. ¡Estoy muy emocionado por comenzar esta aventura contigo!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "En nuestra aventura, primero vamos a hablar sobre cómo a veces podemos sentirnos enojados o tristes. Estos sentimientos son completamente normales y está bien sentirlos. Lo importante es cómo podemos calmarnos cuando estos sentimientos son muy fuertes. Como cuando jugamos y de repente nos sentimos frustrados, podemos aprender a respirar profundamente. ¿Te gustaría intentar respirar profundamente conmigo ahora?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para calmarnos, vamos a aprender a respirar de una manera especial. Primero, vamos a inhalar por la nariz contando hasta tres, y luego exhalar por la boca contando hasta cinco. Esto nos ayuda a sentirnos tranquilos y relajados. Vamos a intentarlo juntos: ¡inhala uno, dos, tres, y exhala uno, dos, tres, cuatro, cinco! ¡Genial! Practicar esto puede ayudarnos a sentirnos mejor cuando estamos molestos."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo fantástico! Ahora que sabemos cómo respirar para calmarnos, podemos usarlo cada vez que nos sintamos abrumados. Como cuando estamos jugando y algo no sale como esperábamos, podemos detenernos y respirar. ¡Esto nos da la oportunidad de pensar y sentirnos mejor! Recuerda, ¡tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos sobre cómo podemos expresar nuestras emociones de manera saludable. A veces, cuando estamos tristes o enojados, podemos hablar con alguien de confianza. Como mamá, papá o un amigo cercano. Compartir cómo nos sentimos puede ayudarnos a reducir el peso de esos sentimientos. ¿Recuerdas una vez en que hablaste con alguien y te sentiste mejor después?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar cómo podemos hablar sobre nuestros sentimientos. Si estás triste, puedes decir: 'Me siento triste porque no puedo encontrar mi juguete favorito'. Esto ayuda a los demás a entender cómo te sientes y cómo pueden ayudarte. Practiquemos juntos diciendo cómo nos sentimos: 'Me siento feliz cuando juego en el parque'. ¡Muy bien! Practicar esto puede hacer que seamos más conscientes de nuestras emociones."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Excelente trabajo! Al hablar sobre tus sentimientos, estás mostrando lo valiente que eres. Ahora, cada vez que sientas algo fuerte, recuerda que puedes respirar profundamente y hablar sobre ello. ¡Esto te hace un verdadero héroe de tus emociones! ¡Sigue así, pequeño amigo!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vamos a aprender otro truco para manejar nuestras emociones. A veces, cuando estamos enojados, podemos contar hasta diez. Esto nos da tiempo para calmarnos y pensar antes de reaccionar. Ahora, contemos juntos: uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez. ¡Muy bien! ¿Te sientes un poco más tranquilo ahora?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas un momento en que contar te ayudó a calmarte? Tal vez cuando estabas jugando y algo no salió bien. ¿Cómo te sentiste después de contar y respirar profundamente? Estoy muy interesado en saber cómo te ayudó. ¡Cuéntamelo!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos aprendido a respirar, hablar y contar, hablemos sobre cómo podemos hacer cosas divertidas para sentirnos mejor. Como dibujar o bailar, estas actividades pueden ayudarnos a liberar nuestras emociones. Puedes intentar colorear un dibujo cuando te sientas triste o bailar tu canción favorita si estás enojado. ¡Inténtalo y verás cómo cambia tu ánimo!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Probemos una pequeña actividad ahora. Imagina que tienes un pincel de colores en la mano y estás pintando un gran arcoíris en el cielo. Mientras pintas, piensa en todas las cosas que te hacen feliz. ¿Puedes ver el arcoíris en tu mente? ¡Qué bonito se ve! Este ejercicio puede ayudarte a sentirte más alegre y tranquilo."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Al imaginar cosas bonitas, estás usando tu imaginación para cambiar cómo te sientes. Esto es algo poderoso. Cada vez que te sientas un poco triste o enojado, recuerda que puedes crear un arcoíris en tu mente. ¡Eres increíble!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que hemos aprendido tantas cosas, me pregunto, ¿cuál fue tu parte favorita? ¿Fue respirar, contar, o tal vez pintar un arcoíris? Todas estas son formas maravillosas de manejar tus emociones. Estoy tan orgulloso de ti por aprender conmigo hoy."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido una gran aventura aprender sobre nuestras emociones contigo. Recuerda, siempre puedes usar estos trucos para sentirte mejor y calmarte. Estoy muy feliz de haber compartido este tiempo contigo, pequeño héroe. ¡Hasta la próxima aventura, sigue siendo tan valiente y asombroso como eres! ¡Adiós, amiguito!"
+    }
+  ],
+  "title": "Historia de Emotional Regulation de Super Jump Hero"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "shell_heroes_crew_confidence_story",
+  "character": "Shell Heroes Crew",
+  "topic": "confidence",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little adventurer! We're the Shell Heroes Crew, and today we're on a quest to learn all about confidence. Are you ready to join us? It's going to be an exciting journey where we'll discover how being brave and trying new things can make us feel amazing. Whether it's learning to ride a bike or making a new friend, confidence is our secret power. So, let's get our shells ready and dive into this adventure together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let’s start with what confidence really means. Imagine you're trying to build a big, tall tower with blocks. Confidence is like believing you can stack those blocks higher and higher without them falling. It's about knowing that even if the tower tumbles, you can always try again. Confidence helps us do things we haven't done before, like trying a new game or speaking up in class. It's like having a little cheerleader inside you, always saying, 'You can do it!'"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about stacking blocks? Let's think about how we can build our own confidence block by block. The first block is practice. Just like learning to tie your shoes, the more you practice, the better you get. The next block is asking for help. There's no shame in asking someone to show you how to do something. Lastly, celebrate your successes, no matter how small. Each time you try, you're adding another block to your confidence tower."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about building confidence! Now, let's try a little exercise to boost our confidence. Take a deep breath in through your nose, and slowly let it out through your mouth. Let's do that three times together. Breathing helps us feel calm and focused. When you feel calm, it's easier to be brave and try new things. Remember, every big hero started with small steps, just like you!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've practiced our breathing, let's talk about courage. Courage is like the superhero cape that helps us face challenges. When you feel scared, courage helps you say, 'I can try this!' Whether it's speaking in front of the class or trying to swim without floaties, courage gives you the strength to take that first step. And guess what? Every time you show courage, your confidence grows even more!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about courage being your superhero cape? Let's think of a time when you were really brave. Maybe it was trying a new food or saying hello to someone new. How did you feel afterward? Did you notice that little spark of confidence growing inside you? Every brave act, no matter how small, makes you stronger and more confident. You’re like a real-life superhero!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's learn about setting goals. Goals are like little targets you aim for. They help you focus and give you something to work towards. Start with something simple, like reading a new book or learning a new song. Break it down into small steps, and take one step at a time. Each step you complete is a victory, and each victory builds your confidence. Remember, every goal achieved is a new block in your confidence tower."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastic work setting your goals! Now, let's take another deep breath together. This time, imagine yourself achieving your goal. Feel the excitement and happiness as you reach it. Breathing and imagining success helps make your goals feel real and achievable. You're doing great, and every breath brings you closer to your dreams. Keep believing in yourself and your abilities!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about trying new things. Remember, every new experience is a chance to learn and grow. Whether it's painting a picture or playing a new sport, trying something new can be exciting and a little scary. But that's okay! It's normal to feel a little nervous. The important thing is to give it a try and have fun. Each time you try, your confidence blossoms like a beautiful flower."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Did you know that everyone, even grown-ups, feel nervous sometimes? It's true! But they keep trying new things because they know it's part of growing. Think about a time when you tried something new. How did it feel? Maybe it was a little scary at first, but then it got easier. Remember, every time you try, you're like a brave explorer discovering new lands. Keep exploring!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's talk about helping others and how it can build your confidence. When you help a friend, like sharing your toys or helping them with a puzzle, you feel good inside. Helping others shows kindness and makes you feel proud. It's like giving your confidence a big hug! So, next time you see someone who needs help, remember that by helping them, you're also helping yourself grow stronger."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing amazing! Let's take one last deep breath together. Breathe in slowly and let it out gently. Feel the calmness and strength inside you. Remember, confidence is like a muscle. The more you use it, the stronger it gets. You're already on your way to being a confidence champion. Keep practicing, keep trying, and keep believing in yourself. You're a true Shell Hero!"
+    },
+    {
+      "id": "question_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you felt really confident? Maybe it was when you learned to ride your bike or helped a friend. How did it feel? Confidence can make us feel like we can achieve anything. It's okay if you can't think of something right now. Just keep trying new things, and soon you'll have lots of confident moments to remember!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining us on this adventure about confidence! We hope you had fun and learned something new. Remember, confidence is your superpower, and you can use it every day. Whether you're trying something new or helping a friend, you have the courage and strength inside you. Keep shining, little hero, and until next time, keep being amazing. Goodbye, and see you soon!"
+    }
+  ],
+  "title": "Shell Heroes Crew's Confidence Story"
+}

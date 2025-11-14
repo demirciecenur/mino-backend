@@ -1,0 +1,98 @@
+{
+  "id": "bubble_buddy_emotional_regulation_story",
+  "character": "Bubble Buddy",
+  "topic": "emotional_regulation",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Bubble Buddy. Bugün birlikte duygularımızı nasıl daha iyi anlayabileceğimizi keşfedeceğiz. Hepimiz zaman zaman farklı duygular hissederiz, değil mi? Mutluluk, üzüntü, heyecan ve daha fazlası! Hazır mısın? O halde hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımız, tıpkı deniz altında yaşayan renkli balıklar gibidir; her biri farklı ve özeldir. Bazen mutlu bir balık gibi neşeyle yüzeriz, bazen de hüzünlü bir deniz yıldızı gibi durgun hissederiz. Duygularımızı anlamak, onları yönetmemize yardımcı olabilir. Duygularımızı tanımak, onları daha iyi kontrol etmemizi sağlar. Bu, daha mutlu ve huzurlu olmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Duygularımızı kontrol etmek için nefes alıp vermek harika bir başlangıçtır. Derin bir nefes alalım ve yavaşça verelim. Bunu yaparken, sanki deniz dalgalarının sesini dinliyormuşuz gibi hayal edelim. Bu, zihnimizi sakinleştirir ve daha iyi hissetmemize yardımcı olur. Sen de denemek ister misin? Haydi birlikte deneyelim!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Derin nefes almak, duygularımızı kontrol etmenin sadece bir yolu. Bazen oyun oynamak da iyi hissetmemizi sağlar. Sevdiğin oyuncaklarla oynamak, seni neşelendirir ve stresten uzaklaştırır. Hadi, şimdi en sevdiğin oyuncaklarla oynamayı dene ve nasıl hissettiğini gözlemle. Eminim harika hissedeceksin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda nefes almanın ve oyun oynamanın duygularımızı nasıl etkilediğini gördük. Şimdi, duygularımızı ifade etmenin başka yollarını keşfedelim. Resim çizmek, duygularımızı anlatmanın harika bir yoludur. Sevdiğin renklerle bir resim yap ve bu resimle ne hissettiğini anlat. Resimler, duygularımızı kelimeler olmadan da ifade etmemizi sağlar."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, duygularımızı ifade etmenin başka bir yolunu deneyelim: şarkı söylemek! Birlikte sevdiğimiz bir şarkıyı söyleyelim. Şarkı söylemek, enerjimizi dışa vurmanın ve duygularımızı paylaşmanın eğlenceli bir yoludur. Hangi şarkıyı söylemek istersin? Hadi, birlikte bir melodi tutturup neşeli bir an yaşayalım!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkardın! Şarkı söylemek gerçekten de keyifliydi, değil mi? Şimdi, kendimize bir mola verelim ve biraz dinlenelim. Dinlenmek, duygularımızı sakinleştirir ve bizi daha iyi hissettirir. Birkaç dakika gözlerimizi kapatıp, deniz dalgalarının sesini hayal edelim. Bu, zihnimizi rahatlatmanın harika bir yoludur."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Duygularımızı daha iyi anlamak için başka neler yapabiliriz, sence? Duygularımızı ifade etmenin farklı yolları hakkında ne düşünüyorsun? Hangi yöntem senin için en iyi çalışıyor? Bunu düşün ve benimle paylaşmak ister misin? Seni dinlemek için buradayım!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Şimdi, duygularımızı kontrol etmenin başka bir yoluna geçelim: hikaye anlatmak. Bir hikaye uydurmak ve anlatmak, duygularımızı paylaşmanın yaratıcı bir yoludur. Hikayemizde bir macera hayal edelim ve bu macerayla duygularımızı nasıl ifade edebileceğimizi düşünelim. Hikayeler, hayal gücümüzü kullanarak duygularımızı anlamamıza yardımcı olabilir."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir macera hikayesi başlatalım mı? Hayal et ki deniz altında yaşayan bir kahramansın. Bu kahraman, farklı duygularla karşılaşıyor. Bu duygularla nasıl başa çıkıyor? Hayal gücünü kullanarak bu hikayeyi tamamla. Hikaye anlatmak, duygularımızı daha iyi anlamamız için harika bir fırsattır."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hikaye anlatmak gerçekten eğlenceliydi! Şimdi, duygularımızı kontrol etmenin bir başka harika yolunu keşfedelim: arkadaşlarımızla konuşmak. Bazen duygularımızı paylaşmak, onları daha iyi anlamamıza yardımcı olur. Bir arkadaşınla ya da ailenle duyguların hakkında konuşmak, seni rahatlatabilir ve mutlu edebilir."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Duygularını paylaşmak seni güçlü kılar! Bu, kendimizi daha iyi anlamamız için önemli bir adımdır. Şimdi, bir sonraki adımda, duygularımızı daha iyi nasıl kontrol edebileceğimizi düşünelim. Bir hedef belirleyelim: Belki de her gün mutlu hissetmek için küçük bir şey yapabiliriz. Ne dersin? Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bugün öğrendiğimiz şeylerden hangisini en çok beğendin? Nefes almak mı, şarkı söylemek mi, yoksa hikaye anlatmak mı? Hangisi seni en çok mutlu etti? Bunları düşün ve benimle paylaşmak ister misin? Seninle konuşmak çok keyifli!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün duygularımızı nasıl daha iyi anlayabileceğimizi keşfettik. Seninle bu yolculuğa çıkmak çok keyifliydi! Unutma, duygularını kontrol etmek senin elinde ve sen harika bir iş çıkarıyorsun. Bir sonraki maceramızda görüşmek üzere. Kendine iyi bak ve hep mutlu kal!"
+    }
+  ],
+  "title": "Bubble Buddy'ın Emotional Regulation Hikayesi"
+}

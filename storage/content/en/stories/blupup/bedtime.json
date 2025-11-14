@@ -1,0 +1,98 @@
+{
+  "id": "blu_pup_bedtime_story",
+  "title": "Blu Pup's Bedtime Story",
+  "character": "Blu Pup",
+  "topic": "bedtime",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Blu Pup, and I'm so excited to be with you today. We're going on a magical journey about bedtime. Are you ready to explore the wonders of a peaceful night? Bedtime is such a special time to wind down and get ready for sweet dreams. Let's discover all the fun and cozy things we can do to prepare for a restful sleep. I'm so curious about all the ways you get ready for bed!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about why bedtime is important. Bedtime helps us rest our bodies and minds after a busy day of playing and learning. When we sleep, we grow stronger and smarter, just like superheroes! Isn't that amazing? It’s like a magic spell that fills us with energy for new adventures tomorrow. Do you feel excited about becoming a super sleeper?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about how important bedtime is? Well, part of getting ready is having a bedtime routine. A routine is like a list of fun activities we do every night to help us feel calm and cozy. It can include things like taking a warm bath, brushing our teeth, and reading a bedtime story. These activities help our bodies know it's time to relax. Let's think about what your bedtime routine might look like!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Now, let's imagine we're getting ready for bed together. First, we can take a warm bath. Imagine the water is like a big, fluffy cloud hugging you gently. Doesn't that sound nice? After the bath, it's time to brush our teeth. We brush up and down, round and round, to keep our smiles bright and shiny. You can do it! Let's count while we brush: one, two, three, four, five! Great job!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we're all clean and our teeth are sparkling, it's time to put on our pajamas. Pajamas are like a cozy hug that gets us ready for dreamland. Do you have a favorite pair of pajamas? Maybe they have your favorite cartoon character or are super soft. Once we're dressed, we can pick a bedtime story to read. Reading is a wonderful way to end the day. It takes us to magical places and fills our minds with happy thoughts."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Next, let's talk about how to make our room feel extra cozy for sleep. We can dim the lights and make sure our favorite stuffed animals are snuggled up with us. Does your teddy bear like to sleep on the pillow, or maybe at the foot of the bed? We can also play soft music or listen to calming sounds like gentle rain. These little things help us feel safe and ready to drift off to sleep."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about making our room cozy? Let's try a fun activity to help us relax even more. We can take three deep breaths together. Ready? Breathe in slowly through your nose, and out through your mouth. One... two... three... Feel how your body starts to feel calm and light. It's like a gentle breeze helping us float into dreamland. Wonderful! Now let's see what else we can do."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a special bedtime friend who helps you feel cozy at night? Maybe a teddy bear, a blanket, or even a special pillow? It's so nice to have a friend who keeps us company while we sleep. Do you like to tell your bedtime friend about your day before you close your eyes? Sharing our thoughts helps us feel happy and ready to rest. What do you like to tell your bedtime friend?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've talked about our bedtime friends, let's think about a bedtime story. Stories are like little adventures we can go on without leaving our beds. We can travel to faraway lands, meet friendly animals, and learn new things. Do you have a favorite bedtime story you like to hear? Maybe it's about a brave knight or a clever fox. Stories help our minds relax and drift into peaceful dreams."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking about your favorite story! Now, let's imagine we're in a story together. We can be explorers in a magical forest, looking for hidden treasures. Can you see the twinkling stars above and the friendly animals waving hello? This adventure makes us feel happy and calm. You're doing wonderfully! Let's continue our adventure and see where it takes us."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "As we continue our adventure, let's talk about something important: saying goodnight. Saying goodnight to our family and friends is like giving them a little gift of love. We can say, 'Goodnight, I love you!' and feel their warm hugs and kisses. It's a special way to end the day, knowing we're surrounded by love. Let's practice saying goodnight to everyone we care about. Can you think of someone special to say goodnight to?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've said goodnight, it's time to close our eyes and let our minds wander into dreamland. Dreaming is like a movie that plays in our sleep, where anything is possible. We might fly in the sky or swim with dolphins in the sea. What kind of dreams do you like to have? Dreaming helps us feel happy and refreshed when we wake up. Let's close our eyes and think about our favorite dreams."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "As we drift into dreamland, let's remember all the fun we had today. We learned about bedtime routines, brushed our teeth together, and imagined magical adventures. It's amazing how bedtime can be full of wonder and joy. Now, let's take one more deep breath together. In... and out... Feel how calm and cozy you are. You're ready for a restful night's sleep. Sweet dreams, little friend!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time to say goodbye for now, but I'll be here for more adventures another day. Remember, bedtime is a special time for resting and dreaming. You're a wonderful sleeper and I'm so proud of you. Have a night full of sweet dreams and happy thoughts. Goodnight, my friend, and I'll see you soon. Sleep tight and wake up ready for a brand new day of fun!"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "chirpy_birdie_behavior_story",
+  "character": "Chirpy Birdie",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Chirpy Birdie, and I'm so happy to see you today! We're going to have an exciting adventure talking about behavior. Do you know what behavior is? It's how we act and what we do every day. Are you ready to learn about being great at it? Let's flap our wings and fly into the story together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, remember when we talked about behavior? It's like when you share your toys or say 'please' and 'thank you.' Good behavior makes everyone happy and keeps things nice and fun. Imagine if everyone shouted all the time – it would be so noisy! That's why we have rules to help us. These rules make sure we all get along."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's talk about one important rule: listening. When someone is talking, we use our ears like big listening cups. This helps us understand what our friends are saying. It's also polite to wait our turn to speak, just like waiting in line for a yummy treat. When we listen carefully, we learn new things and make our friends feel special. Can you try being a great listener today?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job listening! Now, let's practice saying 'please' and 'thank you.' These words are like magic keys that open the doors to kindness. When you say 'please,' it shows you care and respect others. Saying 'thank you' makes people feel happy because you appreciate them. Let's say it together: 'Please,' 'Thank you.' Wonderful! You did it perfectly!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about sharing your toys? Sharing is another way to show good behavior. Imagine if you had a big box of crayons and everyone wanted to draw. Sharing them means everyone gets to have fun and create beautiful pictures together. When you share, you make friends and spread happiness. Isn't that amazing?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's think about being helpful. Helping others is a superpower you have! When you see someone who needs a hand, like picking up toys or finding a lost shoe, you can step in and help. It feels good to be kind and makes the world a better place. How about we try to help someone today? You'll be a little hero!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well! Now, let's talk about being clean and tidy. It's important to keep our spaces neat, like putting toys back in the box after playing. This helps us find what we need and keeps everything in order. Can you imagine a room full of toys everywhere? It would be tricky to walk around! Keeping things clean shows respect for our space and makes everything cozy."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about being brave. Sometimes, trying new things can be a little scary, like going to a new school or meeting new friends. But being brave means giving it a try, even if we're a little nervous. When we're brave, we discover new adventures and make wonderful memories. Have you tried something brave recently? I bet you did amazing!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you remember a time when you had to be patient? Maybe you waited for a turn on the swing or for cookies to bake. Being patient is a special skill that helps us stay calm and happy. Why do you think patience is important? It helps us enjoy the moment and makes waiting feel a little easier. Let's take a deep breath and practice patience together. One, two, three, breathe!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've learned so much, let's think about how we can use these good behaviors every day. Like brushing your teeth before bed or saying goodnight to everyone. These small actions show we care and create a happy routine. When we practice good behavior, it becomes a part of who we are. Isn’t it wonderful to spread joy and kindness each day?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing fantastic! Let's keep going by talking about being honest. Honesty means telling the truth, even when it's hard. When we're honest, people trust us and feel safe around us. Imagine if we told a fib; it might hurt someone's feelings. Being honest helps us build strong friendships. So let's try to always be truthful, okay?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's practice saying sorry. Sometimes we make mistakes, like accidentally bumping into someone. Saying sorry shows we care and want to make things right. It helps heal hurt feelings and makes friendships stronger. Saying sorry is like giving a warm hug to someone who needs it. Can you think of a time when you said sorry? It feels good to make things better."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever wondered why we need rules? Rules keep us safe and happy, like holding hands when crossing the street. They guide us to make good choices and play nicely with others. What rules do you have at home or school? Following rules is important because it helps everyone have fun and stay safe. Let's think of a rule we can follow today."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "We've learned so much about good behavior today! Remember, being kind, sharing, and listening are all part of it. We can practice these every day to make the world a brighter place. When we show good behavior, we make friends and feel happy inside. Let's promise to try our best and be the best we can be. Are you ready for more adventures with Chirpy Birdie?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time to say goodbye, little friend! I had so much fun learning about behavior with you today. Remember to be kind, brave, and honest each day. Thank you for joining me on this adventure! I can't wait to see you again for more fun stories and learning. Goodbye for now, and keep spreading those happy chirps!"
+    }
+  ],
+  "title": "Chirpy Birdie's Behavior Story"
+}

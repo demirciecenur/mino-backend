@@ -1,0 +1,98 @@
+{
+  "id": "rescue_pup_crew_nutrition_story",
+  "character": "Rescue Pup Crew",
+  "topic": "nutrition",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Rescue Pup Crew, and today we're going on an amazing journey about nutrition. Are you ready to learn all about the foods that help us grow big and strong? Eating the right foods is like giving our bodies superpowers, and I can't wait to explore this with you. We’ll discover what makes fruits and veggies so special and why they’re important for us. Let’s get started on this tasty adventure!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, do you know what nutrition is? Nutrition is how we get the good stuff from our food to help our bodies stay healthy and full of energy. Just like a car needs fuel to go, our bodies need the right foods to run and play. When we eat fruits, vegetables, grains, and proteins, we give our bodies the energy to jump, run, and have fun. Isn’t it amazing how food can do all that?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's talk about fruits! Fruits like apples, bananas, and strawberries are not only yummy, but they're full of vitamins. Vitamins are like tiny helpers inside our bodies. They help keep our eyes sharp and our skin soft. Eating a rainbow of fruits gives us different vitamins, so let's try to eat many colors every day. Can you think of some colorful fruits you like?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking about fruits! Next, let's look at vegetables. Vegetables like carrots, broccoli, and spinach are packed with nutrients. Nutrients help us grow strong and keep our tummies happy. Eating veggies every day is like giving our bodies a big hug from the inside. So remember, every time you munch on a vegetable, you're doing something wonderful for your body!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about fruits and veggies? Now let's talk about grains. Grains are foods like bread, rice, and pasta. They give us energy to play and learn all day long. Whole grains are extra special because they have lots of fiber. Fiber helps our tummies feel full and happy. So next time you eat a sandwich, remember you’re fueling up for a big day of fun!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's move on to proteins. Proteins are like the building blocks for our muscles. Foods like chicken, beans, and eggs are full of protein. They help us grow strong and repair our muscles after we play. Eating protein is like giving our muscles a big high-five! So, when you have a meal, try to include some protein to keep your body strong and healthy."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning about nutrition! Now, let’s talk about dairy. Dairy foods like milk, cheese, and yogurt are full of calcium. Calcium is super important because it helps our bones grow strong. Drinking a glass of milk or having some yogurt is like giving your bones a big, strong hug. Keep up the great work, and remember how important dairy can be!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you know why water is so important? Water helps keep every part of our body working well. It's like the oil that keeps a machine running smoothly. When we play and run, we sweat, and drinking water helps us stay hydrated. How much water do you think you should drink every day? Let’s make sure to drink enough water to stay healthy and happy!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's talk about something super fun – snacks! Snacks can be healthy too, like a crunchy apple or a handful of nuts. Healthy snacks give us energy between meals, so we can keep playing and learning. Remember, choosing the right snacks is like giving your body a little boost. What’s your favorite healthy snack to enjoy during the day?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn a little trick about portions. Portions are the right amounts of food to eat. It's like making sure you have the right pieces in a puzzle. When we eat the right portions, our bodies get just enough to stay strong and not too much. A good way to remember is to eat until you're satisfied, not until you're full. Can you try that next time you eat?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well learning about nutrition! Remember, it's important to try new foods. Trying new foods is like going on a tasty adventure. You never know what you might like until you give it a try. So, when you see a new fruit or vegetable, be brave and give it a taste. You might find a new favorite food!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about all those food groups? Now let's put it all together. Eating a balanced meal is like making a rainbow on your plate. You need a little bit of everything to keep your body happy and healthy. Next time you have a meal, look at your plate and see if you have fruits, veggies, grains, proteins, and dairy. Can you make a rainbow on your plate?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now that we know all about healthy foods, let's remember why it's important. Eating well helps us play longer, learn better, and feel great. It's like being a superhero with lots of energy and strength. So, whenever you eat, think about the good things you’re giving your body. Isn’t it wonderful how nutrition helps us be our best?"
+    },
+    {
+      "id": "scene_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Wow, we learned so much about nutrition today! You did an amazing job. Remember all the great things we talked about and keep trying new, healthy foods. You’re on your way to being a nutrition hero! Thanks for joining me on this adventure, and I can't wait to see you again soon. Goodbye, little friend, and keep being awesome!"
+    }
+  ],
+  "title": "Rescue Pup Crew's Nutrition Story"
+}

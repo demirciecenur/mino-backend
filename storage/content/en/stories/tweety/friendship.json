@@ -1,0 +1,104 @@
+{
+  "id": "chirpy birdie_friendship_story",
+  "character": "Chirpy Birdie",
+  "topic": "friendship",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Chirpy Birdie, and today we're going to have a chirpy chat about something super special - friendship! Are you ready to flap your wings into a world of fun and sharing? Friendship is like having a sunny day with a rainbow of smiles. Let's learn about how we can be great friends to everyone around us. I'm so excited to start this adventure with you!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let’s think about what friendship means. Friendship is when you have someone to play with, someone who cares about you, and someone who makes you laugh. It feels like a warm hug from the inside, doesn’t it? When we have friends, we can share our toys and our giggles. Isn’t it wonderful to have someone to splash in puddles with?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about sharing? Sharing is a big part of being a good friend. When you share, you show that you care about others. For example, if you have a yummy cookie, you can break it in half and give a piece to your friend. Sharing makes both you and your friend happy, and it’s a great way to show kindness!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's try something fun together! Imagine you have a big pile of colorful blocks. How about we build a tower together and see how high we can make it? You can add one block, and I'll add another. Great job! Look how tall it's getting! Teamwork makes everything more fun, and that’s the magic of friendship!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, when we play with friends, sometimes we might not agree. That’s okay! It’s important to listen to each other and find a way to play that everyone enjoys. Like if one friend wants to play tag and the other wants to draw, maybe you can take turns. Taking turns is another way to show you care. Isn’t that a lovely way to be?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever had a friend who was feeling a little sad? What did you do to help them feel better? Sometimes, just being there and listening can be the best thing. Or maybe you gave them a big smile or a hug. Those little things can make a big difference. What do you think?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about making new friends. Making new friends can be as easy as saying, \"Hello! My name is Chirpy Birdie, what's yours?\" It’s like planting a seed that can grow into a beautiful friendship tree. You can ask if they want to play with you or join in your games. Isn’t it exciting to meet someone new and discover the fun things you can do together?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let’s practice saying hello together! Imagine you’re meeting a new friend at the playground. You can smile and say, \"Hi there! I’m so happy to meet you!\" Let's practice it together: \"Hi there! I’m so happy to meet you!\" Great job! You’re doing wonderfully! Saying hello is the first step to making new friends."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You know, being a good friend also means being kind and helpful. Just like picking up your toys after playing, or helping a friend when they fall. It shows you care and can make someone feel really special. Isn’t it lovely to know that you can make someone’s day brighter with just a little kindness?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember the time when we talked about sharing and caring? Those are like magic words in friendship. When you share your toys or help a friend, it’s like sprinkling magic dust that makes everyone smile. And when your friends do the same for you, it feels like a big, warm hug. Isn’t that wonderful?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What’s something nice you can do for a friend today? Maybe you could draw a picture for them or tell them a funny joke. How about sharing your favorite toy? There are so many ways to show you care. What do you like to do for your friends?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let’s think about playing together. It’s fun to play pretend games, like being superheroes or explorers. When you play together, you can create amazing adventures and stories. Like building a fort with blankets or pretending to be pirates searching for treasure. Playing together makes everything more fun, don’t you think?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Did you remember to smile and say thank you today? Those are special words that show you appreciate your friends. Saying thank you is a simple way to show gratitude for the fun times you have together. It’s like giving a little gift of happiness to your friend. Have you tried saying thank you today?"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let’s have a little cheer for friendship! Clap your hands and say, \"Hooray for friends!\" Friends make life so much more colorful and fun. Every friend is unique and special, just like you. Isn’t it amazing to have friends to share all your adventures with?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Well, little friend, our chirpy chat about friendship has come to an end. Thank you for joining me on this lovely adventure. Remember, being a good friend is all about sharing, caring, and having fun together. I hope you make lots of new friends and have many happy days. Until next time, keep smiling and be the wonderful friend that you are! Goodbye!"
+    }
+  ],
+  "title": "Chirpy Birdie's Friendship Story"
+}

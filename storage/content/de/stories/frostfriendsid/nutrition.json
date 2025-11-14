@@ -1,0 +1,104 @@
+{
+  "id": "frost_friend_sid_Ernährung_gesundes_Essen_Essgewohnheiten_gesunde_Lebensmittel_story",
+  "character": "Frost Friend Sid",
+  "topic": "Ernährung, gesundes Essen, Essgewohnheiten, gesunde Lebensmittel",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, meine kleinen Freunde! Ich bin Frostfreund Sid, euer lustiger Begleiter für heute. Heute gehen wir auf eine spannende Reise über gesunde Ernährung und wie wichtig es ist, gute Essgewohnheiten zu haben. Seid ihr bereit, mit mir zu lernen und zu lachen? Ich bin so neugierig auf all die leckeren und gesunden Lebensmittel, die wir entdecken werden. Lasst uns gemeinsam herausfinden, wie wir stark und gesund bleiben können!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir uns bereit fühlen, lasst uns über eine bunte Welt voller Gemüse sprechen. Gemüse sind wie die Regenbögen auf unserem Teller, sie sind in so vielen Farben erhältlich! Wusstet ihr, dass Karotten helfen können, unsere Augen stark zu halten? Und Spinat, oh, der macht uns stark wie Popeye! Wenn wir jeden Tag ein bisschen Gemüse essen, helfen wir unserem Körper, groß und stark zu werden. Ist das nicht fantastisch?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt möchte ich euch ein Geheimnis verraten: Obst ist nicht nur lecker, sondern auch super gesund! Äpfel sind knackig und können uns helfen, unsere Zähne sauber zu halten. Bananen sind voller Energie und geben uns Kraft zum Spielen. Und Beeren, wow, die sind wie kleine Bonbons aus der Natur, vollgepackt mit Vitaminen. Versucht, jeden Tag ein Stück Obst zu essen, um stark und fröhlich zu bleiben!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lasst uns jetzt gemeinsam zählen, wie viele verschiedene Obstsorten wir kennen. Eins, zwei, drei, vier, fünf – großartig! Ihr seid wirklich gut darin! Wenn wir all diese verschiedenen Früchte essen, bekommt unser Körper alle Nährstoffe, die er braucht, um zu wachsen und zu spielen. Und das Beste daran ist, dass Obst so köstlich schmeckt. Ihr könnt es allein oder als Teil eines leckeren Obstsalats genießen."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert ihr euch, als wir über Gemüse gesprochen haben? Nun, genauso wichtig wie Gemüse und Obst ist es, genug Wasser zu trinken. Wasser ist wie ein magischer Trank für unseren Körper. Es hilft uns, uns gut zu fühlen und gibt uns Energie zum Spielen. Versucht, jeden Tag ein paar Gläser Wasser zu trinken, besonders wenn ihr viel herumrennt und spielt. Wasser ist unser bester Freund für einen gesunden Körper!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, wo wir über Wasser gesprochen haben, lasst uns über Milch und Joghurt reden. Diese sind voll mit Kalzium, das unsere Knochen stark macht. Habt ihr schon einmal einen Joghurt mit frischen Früchten probiert? Es ist wie ein kleiner Leckerbissen, der uns gesund hält. So wie wir uns jeden Tag die Zähne putzen, sollten wir auch darauf achten, genug Kalzium zu bekommen. Es macht uns stark und hilft uns beim Wachsen."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ein weiterer wichtiger Teil unserer Ernährung sind Vollkornprodukte. Sie geben uns die Energie, die wir brauchen, um den ganzen Tag zu spielen und zu lernen. Vollkornbrot, Haferflocken und brauner Reis sind tolle Beispiele. Diese Lebensmittel helfen uns, satt zu bleiben und stark zu sein. Probiert doch einmal, euer Frühstück mit Haferflocken zu beginnen. Es ist nicht nur gesund, sondern auch sehr lecker!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Habt ihr euch jemals gefragt, warum wir manchmal so hungrig sind? Das liegt daran, dass unser Körper Energie braucht, genau wie ein Auto Benzin! Was sind eure Lieblingssnacks, die euch Energie geben? Vielleicht ein paar Nüsse oder ein Apfel? Es ist wichtig, gesunde Snacks zu wählen, damit wir den ganzen Tag über fit und glücklich bleiben. Ich bin gespannt, was ihr am liebsten mögt!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastisch, dass ihr so tolle Ideen für gesunde Snacks habt! Jetzt lasst uns tief durchatmen und bis fünf zählen. Eins, zwei, drei, vier, fünf – großartig! Atmen hilft uns, ruhig und entspannt zu bleiben. Wenn wir uns um unseren Körper kümmern, fühlen wir uns gut und können all die lustigen Dinge tun, die wir lieben. Ihr macht das wirklich wunderbar!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert ihr euch, wie wichtig es ist, eine ausgewogene Ernährung zu haben? Das bedeutet, dass wir ein bisschen von allem essen sollten: Obst, Gemüse, Vollkornprodukte und gesunde Proteine wie Fisch und Hühnchen. Wenn wir das tun, bekommt unser Körper alles, was er braucht, um gesund und stark zu sein. Denkt daran, dass es Spaß macht, neue Lebensmittel auszuprobieren und neue Geschmäcker zu entdecken!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, da wir so viel über gesunde Ernährung wissen, lasst uns darüber nachdenken, wie wichtig es ist, regelmäßig zu essen. Es ist wie ein lustiger Rhythmus: Frühstück, Mittagessen, Abendessen und ein paar gesunde Snacks dazwischen. Wenn wir regelmäßig essen, bleibt unser Körper glücklich und voller Energie. Und vergesst nicht, dass das Essen mit der Familie oder Freunden noch mehr Spaß macht!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Manchmal ist es schwer, neue Lebensmittel zu probieren, nicht wahr? Aber keine Sorge, das ist ganz normal. Vielleicht könnt ihr ein neues Gemüse oder eine neue Frucht ausprobieren, wenn ihr das nächste Mal einkaufen geht. Ihr könnt es wie ein Abenteuer betrachten, etwas Neues zu entdecken. Und wer weiß, vielleicht wird es euer neuer Lieblingssnack!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Habt ihr schon einmal einen Regenbogenteller gemacht? Das bedeutet, so viele bunte Lebensmittel wie möglich auf euren Teller zu legen. Vielleicht eine rote Tomate, eine gelbe Paprika und ein paar grüne Erbsen? Was würdet ihr auf euren Regenbogenteller legen? Es macht Spaß, mit Farben zu spielen und dabei gesund zu essen. Lasst uns zusammen kreativ sein!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ihr habt so viele tolle Ideen für euren Regenbogenteller! Ich bin so stolz auf euch, dass ihr so viel über gesunde Ernährung gelernt habt. Denkt daran, dass es wichtig ist, Spaß am Essen zu haben und neue Dinge auszuprobieren. Ihr seid großartige Entdecker und könnt alles schaffen, was ihr euch vornehmt. Weiter so, ihr macht das fantastisch!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit euch über gesunde Ernährung zu sprechen. Ich hoffe, ihr habt genauso viel Spaß gehabt wie ich. Denkt daran, immer ein bisschen von allem zu essen und gesund zu bleiben. Ich freue mich darauf, bald wieder mit euch zu sprechen und noch mehr Abenteuer zu erleben. Auf Wiedersehen, meine kleinen Freunde! Bleibt gesund und fröhlich!"
+    }
+  ],
+  "title": "Frost Friend Sids Nutrition Geschichte"
+}

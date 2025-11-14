@@ -1,0 +1,98 @@
+{
+  "id": "snowman buddy olaf-style_screen_time_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "screen_time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm your Snowman Buddy, Olaf-style, and I'm so excited to talk to you today. We're going to have a delightful time exploring the magical world of screen time. Are you ready to discover all the wonderful things we can do both on and off screens? I can't wait to share some fun ideas with you. Let's go on this adventure together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's start by talking about screens. Screens are everywhere, like on TVs, tablets, and phones. They show us amazing pictures and stories. But guess what? Spending too much time with screens can make us miss out on other fun activities. It's important to balance our screen time with other things like playing outside. Don't you think playing in the sunshine is wonderful?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn how to balance our screen time. We can set a timer to help us remember when it's time to take a break. For example, we could play for 30 minutes, then spend some time doing something else. This way, we can enjoy screens and also have fun in different ways. It's like having the best of both worlds!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about balance! Now, let's try a little exercise together. Let's count to five slowly while we take deep breaths. One, two, three, four, five. Breathing helps us feel calm and ready for new adventures. You're doing wonderfully! Are you ready for more fun ideas?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about playing outside? Let's imagine playing in a park. We can run, jump, and even pretend to be superheroes. Playing outside is a fantastic way to use our energy and make new friends. And the best part is, we can do this after our screen time. Doesn't that sound like a great plan?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's think about some fun activities we can do without screens. How about drawing a picture or building a tower with blocks? These activities help us use our imagination and creativity. We can also read a book or play a board game with family. There are so many exciting things to explore!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I have a question for you. What is your favorite thing to do when you're not using screens? Is it playing with toys, or maybe dancing to music? I’d love to hear about it! Sharing our favorite activities can give us new ideas to try. What do you think?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure by talking about how screens can help us learn. We can watch educational videos that teach us about animals, planets, and even how to count. Isn't it amazing how much we can learn? But remember, it's still important to take breaks and do other things too. Balance is the key!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well learning about screen time! Let's give ourselves a big round of applause. Now, let's think about one new activity we want to try today. Maybe we can build a fort or create a dance routine. Whatever it is, I'm sure it will be fun. You can do it!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we counted to five together? Let's do it again, and this time, let's wiggle our fingers while we count. One, two, three, four, five. Wiggling is so much fun, and it helps us feel happy and energized. Now, are you ready for more adventures?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about how we can use screens to connect with friends and family. We can video call our grandparents or send a funny picture to a friend. It’s a wonderful way to share smiles and laughter. But remember, after connecting, it's great to spend time with those around us too. Balance makes everything better!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's create a fun schedule together. We can decide when we'll have screen time and when we'll do other activities. Maybe we can draw a colorful chart with pictures of the things we love to do. This will help us remember our plan and keep our days exciting. Let's give it a try!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Here's another question for you. How do you feel after spending time away from screens? Do you feel happy or full of energy? It's nice to notice how our bodies feel after different activities. Sharing our feelings helps us understand ourselves better. What do you think?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "We've had such a wonderful time together learning about screen time! Remember to enjoy both your screen adventures and all the amazing things you can do without screens. You're a superstar at finding balance, and I'm so proud of you. Until next time, keep smiling and exploring. Goodbye, my friend!"
+    }
+  ],
+  "title": "Snowman Buddy Olaf-Style's Screen Time Story"
+}

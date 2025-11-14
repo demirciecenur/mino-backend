@@ -1,0 +1,104 @@
+{
+  "id": "funny_bunny_bedtime_story",
+  "character": "Funny Bunny",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleine Freunde! Ich bin Funny Bunny, euer lustiger Hase für heute Abend. Heute gehen wir auf eine spannende Reise in die Welt der Schlafenszeit. Seid ihr bereit, mit mir zu kommen? Ich bin so neugierig, was wir alles entdecken werden. Lasst uns gemeinsam die besten Abendrituale kennenlernen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir uns auf unser Abenteuer begeben, lasst uns über das Zubettgehen sprechen. Wisst ihr, warum es wichtig ist, früh schlafen zu gehen? Es hilft uns, groß und stark zu werden! Wenn wir gut schlafen, können wir am nächsten Tag voller Energie spielen. Also, lasst uns unsere Schlafenszeit zu einem lustigen Teil des Tages machen!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ein wichtiger Teil der Schlafenszeit ist das Zähneputzen. Habt ihr eure Zähne heute schon geputzt? Es ist wie eine kleine Zahnbürstenparty in eurem Mund. Wenn wir unsere Zähne putzen, bleiben sie schön und gesund. Lasst uns zusammen eine Zahnbürste schnappen und zwei Minuten lang putzen. Das macht Spaß, nicht wahr?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Ihr habt eure Zähne wunderbar geputzt. Jetzt ist es Zeit, eure Lieblingspyjamas anzuziehen. Pyjamas sind wie kuschelige Freunde, die euch beim Schlafen begleiten. Habt ihr ein Lieblingsmuster oder eine Lieblingsfarbe? Sucht euch eure gemütlichsten Pyjamas aus und zieht sie an. Ihr seid fast bereit für das Bett!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nachdem wir unsere Pyjamas angezogen haben, ist es Zeit, eine Geschichte zu hören. Geschichten helfen uns, uns zu entspannen und in eine Traumwelt zu reisen. Vielleicht eine Geschichte über einen mutigen Ritter oder eine lustige Fee? Setzt euch bequem hin und lauscht der Geschichte. Es ist eine wunderbare Art, den Tag zu beenden."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Nun ist es Zeit, das Licht zu dimmen und eine kleine Entspannungsübung zu machen. Lasst uns drei tiefe Atemzüge nehmen. Atmet ein und spürt, wie die Luft euren Bauch füllt. Dann atmet langsam aus und lasst alle Anspannung los. Diese Übung hilft uns, ruhig und schläfrig zu werden. Fühlt ihr euch schon entspannter?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar! Ihr macht das ganz toll. Jetzt, wo wir entspannt sind, lasst uns über unsere Träume sprechen. Was möchtet ihr heute Nacht träumen? Vielleicht von einer Reise zum Mond oder einem Abenteuer im Dschungel? Eure Träume sind wie ein magisches Land, das nur euch gehört. Lasst eurer Fantasie freien Lauf!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Habt ihr euch jemals gefragt, wie der Mond aussieht, wenn ihr schlaft? Glaubt ihr, dass er uns im Schlaf zusieht? Der Mond scheint so groß und freundlich von oben. Vielleicht träumt er auch von uns, während wir schlafen. Was denkt ihr darüber? Es ist spannend, darüber nachzudenken, nicht wahr?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert ihr euch, wie wir über die Wichtigkeit des Schlafes gesprochen haben? Schlaf ist wie ein Zaubertrank, der uns hilft, uns zu erholen. Wenn wir schlafen, träumen wir nicht nur, sondern unser Körper wächst und erholt sich. Deshalb ist es so wichtig, genug Schlaf zu bekommen. Ihr seid alle kleine Schlafexperten!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns nun eine kleine Gute-Nacht-Melodie singen. Musik kann uns helfen, uns zu beruhigen und einzuschlafen. Kennt ihr ein Schlaflied, das ihr mögt? Vielleicht könnt ihr leise mitsingen oder summen. Die Melodie wird euch sanft in den Schlaf wiegen. Musik ist wie eine warme Decke für unsere Ohren."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ihr habt das wunderbar gemacht! Jetzt seid ihr bereit für eine erholsame Nacht. Denkt daran, dass jeder Schlafenszeit-Abend ein kleines Abenteuer ist. Ihr habt alle Schritte gemeistert, um euch auf den Schlaf vorzubereiten. Ihr seid wirklich toll! Ich bin so stolz auf euch."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lasst uns noch einmal zusammenfassen, was wir heute Abend gelernt haben. Wir haben über das Zähneputzen, das Anziehen der Pyjamas und das Erzählen von Geschichten gesprochen. Wir haben tief geatmet und über unsere Träume nachgedacht. Jeder Schritt hilft uns, gut zu schlafen und am nächsten Tag fröhlich aufzuwachen."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Denkt daran, dass ihr jeden Abend diese Rituale wiederholen könnt. Es ist wie ein kleiner Zauber, der euch hilft, gut zu schlafen. Ihr könnt sogar neue Rituale hinzufügen, wenn ihr möchtet. Vielleicht ein Kuscheltier umarmen oder ein neues Lied singen. Was immer euch glücklich macht, kann Teil eurer Schlafenszeit sein."
+    },
+    {
+      "id": "scene_13",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Jetzt, wo wir alles besprochen haben, könnt ihr mir von euren liebsten Schlafenszeit-Ritualen erzählen. Habt ihr ein besonderes Kuscheltier, das ihr mit ins Bett nehmt? Oder gibt es ein besonderes Lied, das ihr gerne hört? Ich freue mich darauf, von euren schönen Schlafenszeit-Gewohnheiten zu hören. Ihr habt so tolle Ideen!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, den Abend mit euch zu verbringen, meine kleinen Freunde. Ich hoffe, ihr habt viel Spaß gehabt und seid jetzt bereit für eine gute Nacht. Denkt daran, dass ich immer hier bin, um euch bei eurer Schlafenszeit zu begleiten. Schlaf schön und träumt süß! Bis zum nächsten Mal, wenn wir wieder auf ein lustiges Abenteuer gehen!"
+    }
+  ],
+  "title": "Funny Bunnys Bedtime Geschichte"
+}

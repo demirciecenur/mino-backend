@@ -1,0 +1,104 @@
+{
+  "id": "funny_bunny_Ernährung_gesundes_Essen_Essgewohnheiten_gesunde_Lebensmittel_story",
+  "character": "Funny Bunny",
+  "topic": "Ernährung, gesundes Essen, Essgewohnheiten, gesunde Lebensmittel",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, meine kleinen Freunde! Ich bin der lustige Hase, und heute machen wir eine spannende Reise in die Welt des gesunden Essens. Stell dir vor, dein Körper ist wie ein Auto, und das Essen ist der Treibstoff. Wenn wir gesund essen, haben wir viel Energie zum Spielen und Lernen. Seid ihr bereit, mit mir auf diese Abenteuerreise zu gehen? Ich bin so gespannt, was wir alles entdecken werden!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lasst uns über Obst und Gemüse sprechen, die wie Superhelden für unseren Körper sind. Möhren sind gut für die Augen, und Äpfel halten uns stark. Wenn wir diese Superhelden essen, helfen sie uns, groß und stark zu werden. Was ist euer Lieblingsobst oder -gemüse? Ich liebe Karotten, weil sie so knusprig sind!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt, meine kleinen Entdecker, lasst uns darüber sprechen, warum Wasser so wichtig ist. Wasser hilft uns, unser Gehirn wach zu halten und unseren Körper kühl. Wenn wir viel Wasser trinken, fühlen wir uns stark und bereit für Abenteuer. Vergesst nicht, jeden Tag genug Wasser zu trinken. Es ist wie ein erfrischendes Bad für unseren Körper von innen!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Ihr macht das super! Jetzt lasst uns über Frühstück sprechen. Ein gesundes Frühstück hilft uns, den Tag voller Energie zu beginnen. Haferflocken mit Früchten oder ein leckeres Vollkornbrot sind tolle Ideen. Habt ihr heute schon gefrühstückt? Was war es? Ihr seid echte Frühstücks-Helden!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert ihr euch, als wir über Superhelden gesprochen haben? Lasst uns jetzt über Proteine wie Eier und Bohnen sprechen. Diese helfen unseren Muskeln, stark zu werden. Wenn wir Proteine essen, können wir höher springen und schneller laufen. Habt ihr schon mal ein Ei geknackt? Das macht Spaß und ist lecker!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt ist es Zeit, über bunte Teller zu sprechen. Ein bunter Teller mit vielen Farben ist gesund und macht Spaß. Versucht, jeden Tag etwas Grünes, Rotes und Gelbes zu essen. Diese Farben kommen von verschiedenen Obst- und Gemüsesorten. Habt ihr heute schon einen bunten Teller gemacht? Das ist wie ein Regenbogen auf eurem Tisch!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ihr seid klasse! Jetzt lasst uns über gesunde Snacks sprechen. Anstelle von Süßigkeiten könnt ihr Nüsse oder Joghurt probieren. Diese geben euch Energie und sind gut für eure Zähne. Was ist euer Lieblingssnack? Ihr könnt auch selbstgemachte Müsliriegel probieren. Ihr seid die besten Snack-Entdecker!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lasst uns über Essgewohnheiten sprechen, die uns gesund halten. Das bedeutet, regelmäßig zu essen und nicht zu viele Süßigkeiten. Wenn wir gut essen, fühlen wir uns glücklich und munter. Wie oft esst ihr am Tag? Drei Hauptmahlzeiten und ein paar gesunde Snacks sind perfekt!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Wisst ihr, warum es wichtig ist, langsam zu essen? Wenn wir langsam essen, kann unser Bauch sagen, wann er voll ist. So essen wir genau die richtige Menge. Habt ihr schon mal versucht, langsam zu essen? Probiert es aus, und ihr werdet sehen, wie viel mehr ihr schmecken könnt."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt, lasst uns über das gemeinsame Essen sprechen. Zusammen mit der Familie zu essen macht Spaß und ist gesund. Wir können Geschichten erzählen und lachen. Es ist eine schöne Zeit, um zu teilen und zu lernen. Esst ihr oft mit eurer Familie zusammen? Das ist die beste Zeit des Tages!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ihr seid fantastische Zuhörer! Nun lasst uns über das Ausprobieren neuer Lebensmittel sprechen. Es gibt so viele leckere Dinge auf der Welt. Wenn ihr etwas Neues probiert, könnt ihr einen neuen Lieblingsgeschmack finden. Habt ihr schon mal etwas Neues probiert? Ihr seid so mutig!"
+    },
+    {
+      "id": "question_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Habt ihr eine Idee, wie wir gesundes Essen noch lustiger machen können? Vielleicht könnt ihr lustige Gesichter aus Obst und Gemüse machen. Oder ihr könnt ein Picknick im Wohnzimmer veranstalten. Wie macht ihr euer Essen zu einem Abenteuer? Erzählt mir eure tollen Ideen!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir so viel über gesundes Essen gelernt haben, lasst uns ein kleines Spiel spielen. Lasst uns versuchen, heute drei verschiedene Obst- oder Gemüsesorten zu essen. Das ist wie eine Schatzsuche für euren Bauch. Welche Sorten wollt ihr probieren? Ihr seid die besten Entdecker!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Denkt daran, dass gesundes Essen uns stark und glücklich macht. Wenn wir gut essen, können wir den ganzen Tag spielen und lachen. Was war euer Lieblingsmoment heute? Ich bin so stolz auf euch, dass ihr so viel gelernt habt!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, heute mit euch über gesundes Essen zu sprechen. Ihr seid einfach fantastisch, und ich hoffe, ihr habt viel Spaß beim Ausprobieren neuer Lebensmittel. Danke, dass ihr mit mir auf diese Reise gegangen seid. Ich freue mich schon auf unser nächstes Abenteuer. Bis bald, meine kleinen Freunde!"
+    }
+  ],
+  "title": "Funny Bunnys Nutrition Geschichte"
+}

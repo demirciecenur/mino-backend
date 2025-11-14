@@ -1,0 +1,104 @@
+{
+  "id": "tiko_sibling_story",
+  "character": "Tiko",
+  "topic": "sibling",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Tiko, y hoy vamos a explorar el maravilloso mundo de los hermanos. ¿Sabías que tener un hermano o una hermana puede ser como tener un compañero de aventuras para siempre? ¡Es verdad! Juntos podemos jugar, reír y aprender cosas nuevas cada día. Estoy muy emocionado de compartir esta aventura contigo. ¿Estás listo para comenzar? ¡Vamos a divertirnos juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tener un hermano es como tener un amigo especial en casa todo el tiempo. Puedes compartir tus juguetes y tus secretos con ellos. A veces, jugar con un hermano puede ser incluso más divertido que jugar solo. ¿Sabes por qué? Porque juntos pueden inventar historias y juegos nuevos. Además, siempre tendrás a alguien que te apoye y te anime. ¡Eso es lo bonito de tener un hermano!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a aprender algo importante. Cuando juegas con tu hermano, es esencial compartir y ser amable. Compartir significa que ambos pueden disfrutar de los mismos juguetes o juegos. Ser amable ayuda a que todos se sientan felices y queridos. Por ejemplo, puedes decirle a tu hermano cuánto te gusta jugar con él. ¿No es bonito hacer que se sienta especial?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a intentarlo juntos! Piensa en un juego que te gustaría compartir con tu hermano. Tal vez sea construir una torre de bloques o dibujar un gran dibujo. Ahora, imagina cómo se sentiría tu hermano si le invitas a jugar contigo. ¡Seguro que se pondrá muy contento! Recuerda, compartir es una forma maravillosa de mostrar amor. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablamos de ser amables. Es importante también escuchar a tu hermano. Escuchar significa prestar atención cuando él habla. Así puedes entender lo que siente o lo que le gustaría hacer. A veces, puede que quiera hacer algo diferente al principio, y eso está bien. Juntos, pueden encontrar una manera de que ambos se diviertan. ¡Esa es la magia de ser hermanos!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hablando de magia, ¿alguna vez te has preguntado cómo es que a veces los hermanos parecen saber lo que el otro piensa? ¡Es como si tuvieran un superpoder! Esto sucede porque pasan mucho tiempo juntos y se conocen muy bien. Esos momentos especiales crean un vínculo fuerte. ¿No es maravilloso tener un compañero así?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar una pequeña actividad. Piensa en algo que te gustaría hacer con tu hermano hoy. Puede ser leer un cuento juntos o salir a jugar al parque. Luego, dile a tu hermano lo que has pensado. Escucha su respuesta y juntos decidan qué quieren hacer. ¡Es una gran manera de pasar tiempo de calidad juntos!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estás haciendo un trabajo increíble! Recuerda que cada vez que juegas o hablas con tu hermano, estás fortaleciendo su relación. Cada risa y cada juego compartido es un ladrillo más en la gran torre de su amistad. ¡Sigue así y verás cómo su vínculo se vuelve más fuerte cada día!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, puede que no estén de acuerdo en todo, y eso está bien. Es normal que los hermanos tengan opiniones diferentes. Lo importante es hablar sobre ello y encontrar una solución juntos. Esto les enseña a ser comprensivos y a trabajar en equipo. ¡Así es como se resuelven los problemas de manera pacífica!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme sobre un momento divertido que hayas tenido con tu hermano? Me encantaría escuchar tus historias. Tal vez fue una vez que hicieron una carrera en el jardín o cuando se disfrazaron de superhéroes. ¡Cuéntame todo! Estoy seguro de que fue un momento lleno de risas y diversión."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de cómo podemos ayudar a nuestros hermanos. Ayudar puede ser cualquier cosa, desde recoger los juguetes juntos hasta dar un gran abrazo cuando se sienten tristes. Es una forma de mostrar cuánto te importa tu hermano. ¡Y lo mejor es que ayudar hace que ambos se sientan bien!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas la última vez que ayudaste a tu hermano? Tal vez le alcanzaste un juguete que no podía alcanzar, o le ayudaste a encontrar su muñeco favorito. Estos pequeños actos de bondad son muy importantes. ¡Hacen que cada día sea más especial juntos!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez has inventado un juego nuevo con tu hermano? ¡Eso suena muy divertido! Crear algo juntos puede ser una experiencia mágica. Me encantaría saber qué clase de juegos inventan juntos. ¡Seguro que tienen ideas increíbles!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos hablado de tantas cosas divertidas y especiales sobre los hermanos, es momento de recordar lo importante que es el amor fraternal. El amor entre hermanos es un tesoro que siempre llevas contigo. No importa dónde estén, siempre tendrán un lugar especial en su corazón el uno para el otro. ¡Eso es lo más bonito de todo!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un gran viaje hablando sobre lo especial que es tener un hermano. Espero que te hayas divertido tanto como yo. Recuerda siempre cuidar y amar a tu hermano, porque juntos pueden lograr cosas maravillosas. ¡Gracias por acompañarme en esta aventura! Hasta la próxima, amiguito. ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Sibling de Tiko"
+}

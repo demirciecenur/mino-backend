@@ -1,0 +1,98 @@
+{
+  "id": "koko_sibling_story",
+  "character": "Koko",
+  "topic": "sibling",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Salut, petit ami! Je suis Koko, et aujourd'hui, nous allons explorer le monde merveilleux des frères et sœurs. Avez-vous un frère ou une sœur? Ensemble, nous allons découvrir comment jouer, partager et s'entraider. Êtes-vous prêt pour cette aventure incroyable? Allons-y!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les frères et sœurs sont comme des amis spéciaux qui vivent avec nous. Ils peuvent être plus jeunes ou plus âgés, mais ils sont toujours là pour partager des moments amusants. Avez-vous déjà joué à cache-cache avec votre frère ou votre sœur? C'est un jeu merveilleux où l'on peut rire et s'amuser ensemble. Partager ces moments renforce notre lien et nous rend plus proches."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand on a un frère ou une sœur, il est important de partager. Par exemple, vous pouvez partager vos jouets ou vos livres préférés. Cela montre que vous vous souciez de l'autre et que vous voulez le rendre heureux. Partager, c'est aussi écouter et parler, comme quand on raconte des histoires avant de dormir. Alors, la prochaine fois, essayez de partager quelque chose de spécial!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous pouvez le faire! Partager et jouer ensemble rend tout plus amusant. Pensez à un moment où vous avez partagé quelque chose avec votre frère ou votre sœur. Comment vous êtes-vous senti? C'est une belle sensation, n'est-ce pas? Continuez à être gentil et généreux, et vous verrez combien cela peut être gratifiant."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous, chers amis, être un bon frère ou une bonne sœur, c'est aussi protéger et prendre soin les uns des autres. Parfois, cela signifie aider à ramasser les jouets ou à ranger la chambre. D'autres fois, cela peut être de donner un câlin quand quelqu'un est triste. Ces petits gestes montrent que vous êtes toujours là, comme un super-héros pour votre frère ou votre sœur."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Parlons d'un jeu amusant que vous pouvez jouer ensemble. Avez-vous déjà essayé de construire une forteresse avec des coussins? C'est un excellent moyen de travailler ensemble et de faire preuve de créativité. Vous pouvez même inviter votre frère ou votre sœur à imaginer des histoires incroyables à l'intérieur de votre forteresse. Qu'en pensez-vous? Voulez-vous essayer?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nous avons parlé de jouer et de partager. Maintenant, parlons de résoudre les problèmes ensemble. Parfois, vous pouvez vous disputer avec votre frère ou votre sœur, et c'est normal. Ce qui est important, c'est de savoir comment résoudre ces disputes. Peut-être en parlant calmement ou en trouvant un compromis. Cela montre que vous êtes mature et que vous vous souciez l'un de l'autre."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons un exercice de respiration ensemble. Prenez une grande inspiration, comme si vous sentiez une belle fleur. Puis expirez lentement, comme si vous souffliez sur une bougie. Cela aide à se calmer et à réfléchir avant de parler. Vous pouvez le faire chaque fois que vous vous sentez contrarié. Cela vous aidera à mieux communiquer avec votre frère ou votre sœur."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail formidable! Chaque jour, vous apprenez à être un meilleur frère ou une meilleure sœur. Continuez à vous encourager l'un l'autre, à partager et à vous amuser ensemble. Vous êtes tous les deux des super-héros à votre manière. N'oubliez jamais que vous avez toujours quelqu'un à vos côtés. Bravo, continuez comme ça!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, qu'aimez-vous le plus faire avec votre frère ou votre sœur? Peut-être aimez-vous dessiner ensemble ou faire des puzzles? Ou peut-être aimez-vous inventer des histoires fantastiques? Partagez vos moments préférés, car ils sont précieux. J'aimerais vraiment savoir ce que vous préférez!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, chaque frère et sœur est unique et spécial. Vous avez votre propre façon d'aimer et de jouer. Même si vous êtes différents, c'est ce qui rend votre relation si spéciale. Embrassez ces différences et apprenez les uns des autres. Ensemble, vous pouvez accomplir de grandes choses et créer des souvenirs inoubliables."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Maintenant, pensons à quelque chose de gentil que vous pouvez faire pour votre frère ou votre sœur aujourd'hui. Peut-être pourriez-vous leur faire un beau dessin ou les aider à ranger leurs jouets. Pensez à ce qui les rendrait heureux et surprenez-les avec votre gentillesse. Êtes-vous prêt à relever ce défi?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nous avons appris beaucoup de choses sur les frères et sœurs aujourd'hui, n'est-ce pas? Jouer, partager, résoudre des problèmes et être là l'un pour l'autre sont des parties essentielles de cette relation. Chaque petit geste compte et renforce votre lien. Continuez à être le frère ou la sœur formidable que vous êtes!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi. Vous êtes incroyable et j'espère que vous continuerez à être un super frère ou une super sœur. N'oubliez jamais que votre lien est précieux et mérite d'être chéri. À bientôt, petit héros! Prenez soin de vous et de votre famille."
+    }
+  ],
+  "title": "Histoire de Sibling de Koko"
+}

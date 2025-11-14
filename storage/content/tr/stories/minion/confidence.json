@@ -1,0 +1,104 @@
+{
+  "id": "yellow_buddy_confidence_story",
+  "character": "Yellow Buddy",
+  "topic": "confidence",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Yellow Buddy. Bugün birlikte özgüven hakkında harika bir yolculuğa çıkacağız. Özgüven, kendimize inanmamız ve zorluklarla başa çıkabilmemiz için çok önemlidir. Hazır mısın? Seni çok merak ediyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven, yapabileceğimize inanmak demektir. Örneğin, yeni bir şey denemek istediğinde, bu özgüveninle mümkündür. Tıpkı bisiklete binmeyi öğrenmek gibi, değil mi? İlk başta zor görünse de, denemeye devam ettikçe daha iyi olursun. İşte bu, özgüvenin gücüdür!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi özgüvenimizi arttırmak için neler yapabileceğimize bakalım. İlk olarak, olumlu düşünmek çok önemlidir. Kendine 'Bunu yapabilirim!' demek, sana güç verir. Ayrıca, denemekten korkmamalı ve hata yapmanın normal olduğunu bilmelisin. Hatalar, öğrenmenin bir parçasıdır."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir şeyler yapalım! Birlikte üç derin nefes alalım. Bu, sakinleşmemize ve kendimize güvenmemize yardımcı olur. Hazır mısın? Hadi birlikte nefes alalım: Bir, iki, üç... Harika! Kendini daha iyi hissettin mi?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven, arkadaşlarımızla oyun oynarken de çok işimize yarar. Mesela, bir oyunda lider olmak istediğinde, özgüvenin sayesinde bunu başarabilirsin. Arkadaşlarına liderlik etmek ve onları yönlendirmek konusunda kendine güvenmelisin. Unutma, herkes hata yapabilir ve bu çok normaldir!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda hatalardan bahsettik, değil mi? Hatalarımızdan ders alarak daha da güçleniriz. Mesela, bir resim çizerken yanlış bir çizgi çektiğinde, bundan korkmak yerine nasıl düzeltebileceğini düşünmelisin. Her yeni deneme, seni daha iyi yapar!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bir sonraki adımda, olumlu düşünmeye odaklanacağız. Olumlu düşünmek, kendimizi iyi hissetmemize yardımcı olur. Sabah uyandığında aynaya bakıp 'Bugün harika bir gün olacak!' demek, gününü daha güzel geçirmeni sağlar. Haydi, bunu deneyelim mi?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, özgüvenimizi arttırmak için günlük aktivitelerimize bakalım. Dişlerimizi fırçalamak gibi basit görevleri başarıyla tamamlamak, kendimize olan güvenimizi artırır. Her küçük başarı, büyük bir adım gibidir. Kendimize 'Bunu yapabilirim!' demek, önemli bir başlangıçtır."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Birlikte düşünelim, özgüvenli olduğun bir anı hatırlıyor musun? Belki bir resim yarışmasında kazandın ya da bir arkadaşına yardım ettin. Bu anı hatırlamak, kendine olan güvenini artırır. Senin için önemli olan bu anı paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Özgüvenli olmak, bazen yeni şeyler denemek anlamına gelir. Mesela, yeni bir oyun oynamak ya da farklı bir yemek denemek gibi. İlk başta biraz tedirgin olabilirsin ama denemekten korkma. Her deneme, seni daha güçlü yapar. Hadi, yeni bir şeyler keşfetmeye devam edelim!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Özgüvenimizi arttırmanın bir diğer yolu da kendimize hedefler koymaktır. Küçük hedeflerle başlayıp, büyük başarılara ulaşabiliriz. Mesela, her gün 10 dakika kitap okumak gibi bir hedef koyabilirsin. Bu hedefe ulaştığında, kendini çok daha güçlü hissedeceksin!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özgüvenimizi arttırmak için başka bir yöntem de, başkalarına yardım etmektir. Yardım ettiğimizde, kendimizi daha iyi hissederiz. Mesela, bir arkadaşının oyuncaklarını toplamasına yardım etmek gibi. Bu tür küçük yardımlar, özgüvenimizi artırır ve bizi daha mutlu yapar."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, sen başkalarına nasıl yardım ediyorsun? Belki bir arkadaşına ödevlerinde yardımcı oldun ya da birine gülümseyerek gününü güzelleştirdin. Bu tür yardımlar, hem seni hem de çevrendekileri mutlu eder. Senin de paylaşmak istediğin bir yardım anın var mı?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda başkalarına yardım etmenin ne kadar önemli olduğunu konuştuk. Şimdi, bu yardımların bize nasıl geri döndüğünü düşünelim. Yardım ettiğimizde, biz de yardım alırız. Bu, özgüvenimizi arttırır ve kendimizi daha iyi hissetmemizi sağlar."
+    },
+    {
+      "id": "scene_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte özgüvenin ne kadar önemli olduğunu öğrendik. Kendimize inandığımızda, her şeyi başarabiliriz. Unutma, her zaman kendine güven ve denemekten korkma. Yellow Buddy olarak, seninle bu yolculuğu yapmak çok keyifliydi. Bir sonraki maceramızda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Yellow Buddy'ın Confidence Hikayesi"
+}

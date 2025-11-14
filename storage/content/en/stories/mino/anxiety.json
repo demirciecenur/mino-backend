@@ -1,0 +1,104 @@
+{
+  "id": "mino_anxiety_story",
+  "character": "Mino",
+  "topic": "anxiety",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little space explorers! I'm Mino, your cosmic friend from the stars. Today, we're going to embark on a special journey through the universe of feelings. Have you ever felt a bit worried or anxious, like a butterfly flapping its wings inside your tummy? It's okay, everyone feels that way sometimes, even space adventurers like us. So, buckle up your seatbelts, and let's discover how we can calm those fluttery feelings together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Anxiety is like a tiny storm cloud that sometimes floats into our sunny skies. It might make us feel a little shaky, like when a rocket is about to launch. But guess what? Just like we can wait for a cloud to pass, we can also learn to calm our minds and feel better. Imagine your favorite place, maybe a cozy blanket fort or a bright, colorful meadow. Thinking about happy places can help those worry clouds drift away."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's learn a fun way to calm down using our breath. Breathing deeply is like sending calm signals to our hearts and minds. Let's try it together: breathe in slowly through your nose, filling your belly like a big, round balloon. Hold it for a moment, then let it out gently through your mouth, as if you're blowing out a candle. Let's do this three times. It's like a magic trick to help us feel peaceful and at ease."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job! You're doing wonderfully. Remember, you can use this breathing trick anytime you feel worried, like when you're about to try something new or meet new friends. It's like having a superpower you can use anytime, anywhere! You might even teach your friends and family how to do it too. Together, we can all become calm, brave space explorers."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Did you know that talking about your feelings can help them feel smaller? It's like sharing a big, heavy backpack with a friend, making it easier to carry. If you ever feel anxious, you can tell a grown-up you trust, like a parent or a teacher. They can listen and help you find ways to feel better. Sharing your feelings is a brave thing to do, and it helps the worry clouds float away even faster."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try something else that's fun and calming: counting! Counting can help us focus and feel more relaxed. Let's count the stars in the sky together, one by one. One... two... three... four... five. See how calm and focused we feel now? You can count anytime you feel anxious, whether it's counting toys, steps, or stars in your imagination."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're a star at this! Remember, there are many ways to help those anxious feelings. You can draw a picture, sing a song, or dance around like a shooting star. Each of these activities can help us feel happier and less worried. It's like having a toolkit full of fun and calming things to do whenever you need them."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's imagine we're on a peaceful planet where everything is calm and quiet. The gentle breeze is like a soft lullaby, and the stars twinkle brightly above. Close your eyes and picture yourself there, feeling safe and relaxed. This is your special place where worries can't reach you. Whenever you feel anxious, you can visit this peaceful planet in your mind."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever tried imagining a happy place before? What does it look like? Maybe it's full of colorful flowers or friendly animals. Everyone's happy place is different, and that's what makes it so special. Think about your happy place now. Can you hear the sounds? What do you see around you? Isn't it wonderful?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about sharing our feelings? It's important to know that you're never alone, even when you feel anxious. There are always people who care about you, ready to listen and help. Just like astronauts work together on their missions, we can rely on our family and friends to support us. It's okay to ask for help, and it's a big step toward feeling better."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice another calming technique: stretching! Stretching is like waking up our muscles and telling them it's time to relax. Stand up tall, reach your arms to the sky like you're trying to touch the stars, then slowly bend down and touch your toes. Stretching helps our bodies feel good and can make our worries feel smaller."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wow, you're doing amazing! Stretching, breathing, counting, and imagining happy places are all wonderful ways to feel calm. Keep practicing these techniques, and soon you'll be a master at managing those anxious feelings. Remember, every little step counts, and you're doing great!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we float through this journey of understanding anxiety, let's remember that it's okay to feel worried sometimes. Even the bravest space explorers feel anxious. The important thing is to know that you have the power to calm your mind and heart. With practice, you'll find it easier to navigate through those tricky feelings."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now, let's think about what we can do next time we feel anxious. Will you try breathing deeply, counting stars, or maybe talking to someone you trust? Each time you practice, you'll get better and better at finding peace. I'm so proud of you for learning all these new things!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this wonderful adventure through the universe of feelings, little explorers. You're brave, strong, and ready to face any challenge that comes your way. Remember, I'm always here in the stars, cheering you on. Keep smiling, keep exploring, and remember, you are never alone. Goodbye for now, until our next cosmic journey together!"
+    }
+  ],
+  "title": "Mino's Anxiety Story"
+}

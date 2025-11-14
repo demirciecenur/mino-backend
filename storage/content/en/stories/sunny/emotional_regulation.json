@@ -1,0 +1,104 @@
+{
+  "id": "sunny_emotional_regulation_story",
+  "character": "Sunny",
+  "topic": "emotional_regulation",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Sunny, and today we're going to have an exciting adventure learning about feelings. Feelings are like colors; they can be bright and cheerful or calm and quiet. Are you ready to explore this colorful world of emotions with me? We'll learn how to understand and manage our feelings, just like a superhero! Let's get started on our fun journey together."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about feelings. Sometimes, we feel happy, like when we see a rainbow or play with our favorite toy. Other times, we might feel sad, like when we lose something we love. All these feelings are okay and normal. They help us understand what we like and what we don't. Feelings are important because they tell us more about ourselves."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "To manage our feelings, we can use something called emotional regulation. It's like having a special toolbox in our minds. In this toolbox, we have different tools to help us calm down or cheer up. For example, taking deep breaths is a tool to help us feel better when we're upset. Let's try it together: breathe in slowly, and then breathe out. Great job!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You did an amazing job with the breathing exercise. Breathing helps us feel calm and relaxed, just like a gentle breeze. Another tool we can use is counting. When we feel angry or frustrated, counting to five can help us calm down. Let's count together: one, two, three, four, five. Fantastic! You are doing so well."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about feelings? Sometimes our feelings can be very big and strong. It's okay to feel that way, but it's important to find safe ways to express them. We can talk to a grown-up we trust, like a parent or teacher. Sharing our feelings with someone else can make them feel smaller and easier to handle."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's learn about another tool: using our imagination! When we're upset, we can imagine a peaceful place, like a beach or a garden. Close your eyes and picture it in your mind. Hear the waves, feel the sand, or smell the flowers. This can help us feel calm and happy again. Imagination is a powerful tool in our emotional toolbox."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job using your imagination! You have such a creative mind. Remember, you can visit your peaceful place anytime you need. It's always there to help you feel better. You are doing an amazing job learning how to manage your emotions. Keep practicing these tools, and they will become even more helpful."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you used a tool to help with your feelings? Maybe you took deep breaths or counted to five. How did it make you feel? It's important to know that all feelings are okay, and we have the power to manage them. Would you like to share your story with me?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Thank you for sharing! It's wonderful to hear how you're using your tools. Now, let's practice another tool: moving our bodies. Sometimes when we're feeling too much energy, like being excited or angry, moving can help. We can jump up and down or dance to our favorite song. Moving helps release that energy and makes us feel better."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try a little dance together! Stand up and wiggle your fingers, then your toes. Now, spin around in a circle! Feel the energy move through your body, and let it out. Dancing can be so much fun, and it's a great way to express how we feel. You're doing fantastic! Keep moving and grooving."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wow, you have some amazing dance moves! Remember, dancing is just one way to help with our feelings. There are so many tools to try. You're becoming an expert at understanding and managing your emotions. Keep practicing, and you'll get even better at it. I'm so proud of you!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite tool for managing your feelings? Maybe it's one we've talked about, or perhaps it's something new. Sharing our favorite ways to feel better can help others too. What do you think your friends might like to try? Let's talk about it and learn from each other!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "It's wonderful to hear all your ideas! Remember, everyone is different, and that's okay. What works for one person might be different for another. That's why having a whole toolbox of emotional regulation tools is so helpful. You can try different things and see what works best for you."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Let's remember some tools we've learned today: breathing, counting, using imagination, and dancing. Can you think of any other tools you might want to try? Maybe drawing or listening to music? It's all about finding what makes you feel good and helps you manage your feelings."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for spending this time with me, learning about feelings and emotional regulation. Remember, you have a special toolbox in your mind, full of tools to help you feel better. Keep practicing, and you'll become a master of your emotions. I'm so proud of you for being such a great learner and friend. Until next time, keep shining bright like the sun!"
+    }
+  ],
+  "title": "Sunny's Emotional Regulation Story"
+}

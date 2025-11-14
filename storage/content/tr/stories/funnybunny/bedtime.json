@@ -1,0 +1,98 @@
+{
+  "id": "funny_bunny_bedtime_story",
+  "character": "Funny Bunny",
+  "topic": "bedtime",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Funny Bunny. Bugün seninle uyku zamanı hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Geceyi rahat ve mutlu bir şekilde geçirebilmek için neler yapmamız gerektiğini öğreneceğiz. Seni çok merak ediyorum, bakalım senin uyku öncesi rutinlerin neler?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku zamanı geldiğinde hepimiz biraz sakinleşmek isteriz, değil mi? İşte, bunu yapmanın en iyi yollarından biri, sevdiğimiz bir hikaye okumaktır. Hikayeler, hayal gücümüzü çalıştırır ve bizi güzel rüyalara hazırlar. Senin en sevdiğin hikaye hangisi? Belki de bu gece yeni bir hikaye keşfedebiliriz!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Biliyor musun, uykuya hazırlanırken dişlerimizi fırçalamak da çok önemli. Dişlerimizi fırçalayarak hem sağlığımızı koruruz hem de taze bir nefesle yatağa gireriz. Şimdi hep birlikte dişlerimizi fırçalayalım mı? Diş macununu sık, fırçanı al ve yavaşça fırçalamaya başla. İşte bu kadar!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harikasın! Dişlerini fırçalamak çok eğlenceli değil mi? Şimdi sıra pijamalarımızı giymekte. Yumuşacık pijamalarımızı giydikten sonra kendimizi daha da rahat hissedeceğiz. Pijamalarını giymek seni de mutlu ediyor mu? Hadi bakalım, pijamalarımızı giyelim ve uyku için hazır olalım."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Pijamalarımızı giydik ve dişlerimizi fırçaladık. Şimdi biraz rahatlamaya ne dersin? Üç derin nefes alıp verelim. Derin bir nefes al, havayı içine çek ve sonra yavaşça bırak. Harika! Bu nefes egzersizleri bizi sakinleştirir ve uykuya hazırlar."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin en sevdiğin uyku öncesi şarkı hangisi? Belki birlikte söyleyebiliriz. Şarkı söylemek kalbimizi neşelendirir ve bizi daha mutlu eder. Şimdi seninle birlikte bir şarkı söyleyelim mi? Hadi bakalım, en sevdiğin şarkıyı düşün!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda şarkı söylemekten bahsetmiştik. Şarkılar gerçekten de harika, değil mi? Şimdi biraz daha rahatlamak için ışıkları biraz kısabiliriz. Loş bir ışık, uykuya dalmamızı kolaylaştırır. Sen de ışıkları biraz kısar mısın?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Işıkları kıstık ve şimdi yatağımıza uzanıyoruz. Yatağımızda biraz gerinmek ve vücudumuzu rahatlatmak çok iyi gelir. Ayak parmaklarımızdan başımıza kadar tüm vücudumuzu bir güzel esnetelim. İşte böyle, şimdi daha da rahatladık!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ne kadar da güzel gerindin! Şimdi gözlerimizi kapatıp hayal kurma zamanı. Hayal kurmak, uykuya dalarken bize yardımcı olur. Gözlerini kapat ve en sevdiğin yeri düşün. Orada neler yapıyorsun? Hayal gücünü kullanarak o yerde dolaşabilirsin."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal kurmak gerçekten de harika bir şey. Şimdi birlikte biraz daha derin nefes alalım. Derin bir nefes al, yavaşça bırak. Bu nefesler bizi daha huzurlu hissettirir. Sen de nefes alıp verirken kendini daha rahat hissediyor musun?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Uyumadan önce neler yapmayı seviyorsun? Belki bir oyuncakla oynamak ya da bir kitap okumak. Senin en sevdiğin uyku öncesi aktiviten nedir? Şimdi bana bundan bahseder misin? Merakla dinliyorum!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda senin en sevdiğin uyku öncesi aktiviteden bahsetmiştik. Şimdi birlikte biraz daha nefes alalım ve rahatlayalım. Derin bir nefes al, yavaşça bırak. Bu nefesler uykuya dalmamıza yardımcı olur. Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi yavaşça gözlerimizi kapatalım ve rahat bir uykuya dalalım. Göz kapaklarımız ağırlaşıyor ve vücudumuz dinlenmeye başlıyor. Yavaşça uykuya dalarken güzel rüyalar göreceğiz. Rüyalarımızda en sevdiğimiz yerleri ziyaret edebiliriz. Şimdi güzel bir uykuya dalmanın zamanı geldi."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "İşte böyle, küçük dostum. Birlikte harika bir uykuya hazırlık süreci geçirdik. Umarım bu gece en tatlı rüyalar seni bekliyordur. Ben Funny Bunny, her zaman seninle olmaktan mutluluk duyuyorum. İyi geceler ve tatlı rüyalar!"
+    }
+  ],
+  "title": "Funny Bunny'ın Bedtime Hikayesi"
+}

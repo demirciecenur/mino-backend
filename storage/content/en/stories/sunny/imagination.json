@@ -1,0 +1,104 @@
+{
+  "id": "sunny_imagination_story",
+  "character": "Sunny",
+  "topic": "imagination",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Sunny, and today we're going on an amazing journey about imagination. Are you ready to explore with me? Imagination is like a magic key that can open doors to wonderful adventures. Together, we'll discover how to use our minds to create amazing stories and worlds. I'm so curious about what we'll find. Let's get started on this exciting adventure!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Did you know that imagination is like having a superpower? It lets us dream up anything we want, like flying in the sky or swimming with dolphins. With imagination, you can be anything, like a brave knight or a clever scientist. Imagine you have a pencil that can draw anything you think of. What would you draw first? Let's explore and see what our minds can create!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's use our imagination to create a story. First, think of a character. It could be a friendly dragon or a talking teddy bear. Next, where does our story take place? Maybe in a magical forest or on a distant planet. Finally, what adventure will our character have? Will they find treasure or make a new friend? Let's put all these ideas together to make a fun story!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job! You came up with amazing characters and places. Now, let's imagine what happens next. Does our character meet a new friend or solve a tricky puzzle? Remember, with imagination, anything is possible! You can do it! Let's keep our story going and see where it leads us. I can't wait to hear what happens next!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about flying in the sky? Let's imagine we're birds soaring above the clouds. What do you see below? Maybe a sparkling river or a busy city. Imagine the wind gently blowing through your feathers. Doesn't it feel nice? Let's glide down and see what's going on below. Imagination lets us explore without leaving home!"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "If you could have any pet in the world, real or make-believe, what would it be? Maybe a tiny dinosaur or a fluffy unicorn? What would you name your pet, and what fun things would you do together? Imagining a special pet can be so much fun. Let's think about all the adventures you could have with your imaginary friend. Wouldn't that be exciting?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's imagine a day at the beach. Feel the warm sand under your toes and hear the waves crashing. What kind of sandcastle would you build? Maybe a tall tower or a cozy castle for crabs. Picture the seagulls flying above and the sun shining bright. Can you feel the salty breeze? Imagination lets us visit the beach anytime we want!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try a fun imagination exercise. Close your eyes and imagine you're in a candy land. Everything is made of sweets! The trees are lollipops, and the rivers are chocolate. What candy would you try first? Imagine the taste as you take a bite. It's so sweet and delicious! Let's explore this yummy world and see what other treats we can find."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing amazing! Let's keep our imaginations going. Imagine you're a superhero with special powers. What would your superhero name be? Maybe you can fly or turn invisible. Think about how you would help others with your powers. You can save the day in so many ways! Keep imagining, and remember, you have the power to create any story you want."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember the magical forest we talked about? Let's go there again in our minds. Imagine the tall trees and the colorful flowers. Can you hear the birds singing? What animals live in this forest? Maybe there's a wise owl or a playful squirrel. Imagine walking through the forest and discovering new things. It's like a treasure hunt for your mind!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Let's think about the fun things we can do with our imagination every day. Like when you're getting ready for bed, imagine your bed is a cozy spaceship taking you to dreamland. Or when brushing your teeth, pretend your toothbrush is a magic wand cleaning your sparkling teeth. Imagination makes everyday things more fun! What other activities can you make magical?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's imagine we're in a big, colorful balloon floating in the sky. What can you see from up there? Maybe a rainbow or a mountain with snow on top. Picture the balloon gently swaying in the wind. Can you feel the excitement of flying high? Let's take a deep breath and enjoy the view. Imagination can take us anywhere, even up in the sky!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's imagine you're a brave explorer in a jungle. What animals do you see? Maybe a friendly monkey or a roaring lion. Imagine the sounds of the jungle, like the rustling leaves and chirping birds. What treasures might you find hidden in the jungle? Perhaps a sparkling gem or a secret map. Imagination helps us discover new worlds full of surprises!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "If you could visit any place in your imagination, where would you go? Maybe a castle in the clouds or an underwater city? What would you do there, and who would you meet? Imagining new places is like going on an adventure without leaving home. Let's dream big and think of all the exciting places we can visit with our imagination!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this amazing journey of imagination. We've visited wonderful places and created exciting stories together. Remember, your imagination is always with you, ready to take you on new adventures. Keep dreaming, exploring, and imagining every day. I hope you had as much fun as I did. Goodbye for now, and see you next time!"
+    }
+  ],
+  "title": "Sunny's Imagination Story"
+}

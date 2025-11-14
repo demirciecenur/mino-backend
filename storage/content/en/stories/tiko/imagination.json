@@ -1,0 +1,104 @@
+{
+  "id": "tiko_imagination_story",
+  "character": "Tiko",
+  "topic": "imagination",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Tiko, and I'm so excited to go on an adventure with you today. We're going to explore the magical world of imagination. Have you ever imagined being a pirate or a fairy? It's going to be so much fun! Are you ready to use your imagination and create amazing stories together? Let's get started!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Imagination is like having a superpower that lets you create anything you want in your mind. It's like painting a picture, but you don't need paper or colors. You can imagine flying through the sky on a dragon or swimming underwater with dolphins. Isn't that amazing? With imagination, you can be anything and go anywhere. Let's see what else we can discover about imagination!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's learn how to use our imagination. Close your eyes for a moment and take a deep breath. Imagine you're in a beautiful garden full of colorful flowers. Can you see the butterflies fluttering around? Imagine the sweet smell of the flowers. This is how you can use your imagination to create wonderful places in your mind."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job imagining that garden! You did it! Now, let's try imagining something else together. How about a big, friendly dinosaur that loves to dance? Picture it moving its giant feet and swaying its tail. Can you imagine the music playing as it dances? That's the magic of imagination, where even dinosaurs can dance!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we imagined the garden and the dancing dinosaur? Imagination can also help us solve problems. For example, if your toy car is stuck, you can imagine it's a rocket ship blasting off to the moon. By thinking creatively, you can find new ways to play and have fun. Isn't that clever?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try another imagination exercise. Imagine you're in a forest filled with talking animals. What kind of animal would you like to meet? Maybe a wise old owl or a playful monkey? Think about what they might say and how they would sound. Using imagination, you can have conversations with all kinds of creatures!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You did an amazing job! Your imagination is so powerful. Now, let's pretend we're explorers in a jungle. Can you hear the rustling leaves and the birds singing? Imagine climbing a tall tree to see the view from the top. It's like being on a real adventure without ever leaving home!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Imagination isn't just for playing; it can help us learn new things too. Imagine you're a scientist discovering new planets in space. What do they look like? What creatures live there? By imagining, you can explore the universe and learn about the stars and planets. Isn't that exciting?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever wondered what it would be like to be a superhero? What powers would you have? Maybe you could fly or become invisible. Imagine how you would help people and make the world a better place. What do you think your superhero name would be?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now that we talked about superheroes, let's imagine being chefs in a magical kitchen. What would you cook if you could make anything? Maybe a giant cake that tastes like rainbows or cookies that sing when you eat them. Imagination can make cooking an exciting adventure too!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's take a moment to imagine a day at the beach. Feel the warm sand under your feet and hear the waves crashing. Picture yourself building a sandcastle as tall as a mountain. With your imagination, you can visit the beach anytime, even if you're not there right now."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's imagine what it would be like to be tiny, like a little ant. What would the world look like? Everything would be so big! Imagine climbing a blade of grass like it's a giant slide. Using imagination, you can see the world from a whole new perspective."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an incredible job using your imagination! Let's imagine a world where toys come to life at night. What do you think they do when we're asleep? Maybe they have parties or go on adventures. It's fun to think about all the possibilities imagination can bring."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite storybook? Imagine jumping into the story and becoming part of the adventure. What role would you play? Would you be the hero or maybe a helpful sidekick? Imagination lets you explore stories in a whole new way. What story would you like to explore?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Wow, we've had such an amazing journey with our imaginations today! Thank you for joining me on this adventure. Remember, your imagination is a wonderful tool you can use anytime. Whether you're playing, learning, or dreaming, it's always there to help you create magic. I can't wait to imagine more adventures with you next time. Goodbye, my little explorer!"
+    }
+  ],
+  "title": "Tiko's Imagination Story"
+}

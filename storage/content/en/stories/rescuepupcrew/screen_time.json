@@ -1,0 +1,98 @@
+{
+  "id": "rescue_pup_crew_screen_time_story",
+  "character": "Rescue Pup Crew",
+  "topic": "screen_time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friend! I'm part of the Rescue Pup Crew, and I'm so excited to see you today. We have a fun adventure ahead of us as we explore the world of screen time together. Are you ready to learn and play? We'll discover how screens can be both fun and helpful, and how to balance our playtime with them. Let's get started on this amazing journey!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about what screen time means. It's when we use devices like tablets, computers, or TVs to watch shows, play games, or even learn new things. Screens can be really exciting because they show us colorful pictures and fun stories. But it's important to remember not to spend too much time with them. Just like we need to eat healthy food, we need to have a healthy balance with screen time too!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about balance? It's like when you play outside and have fun running around, then come inside to rest. Screen time should be like that too—balanced! Try to enjoy your favorite shows or games, but also make time for other activities. You can play with toys, draw pictures, or read books. This way, you get to do lots of different things every day!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's try a fun activity together! Can you think of three things you love to do that don't involve screens? Maybe it's building with blocks, playing with your pet, or helping in the kitchen. That's wonderful! By doing different activities, you help your mind grow strong and your body stay healthy. You're doing great, little hero!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we know about balancing screen time, let's talk about why it's good for us. Spending less time on screens lets us use our imagination more. We can pretend to be superheroes or explorers on a big adventure. It also gives us time to play with friends and family, which is a lot of fun. Playing outside in the fresh air is great too. Doesn't that sound exciting?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember, it's okay to enjoy your favorite shows and games, but it's also important to listen to your body. If your eyes feel tired or if you feel sleepy, it might be a good time to take a break from the screen. You can stretch, move around, or even do a little dance. Taking breaks helps you feel refreshed and ready for more fun!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's do a quick exercise together. Stand up and reach up high like you're touching the sky. Now, shake your hands like you're waving at the clouds. Great job! Stretching and moving are wonderful ways to take a break from screens. You're doing so well, and I’m proud of you!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our journey by thinking about when is the best time for screen time. Maybe after you've finished your homework or chores, like picking up your toys or helping set the table. This way, you can enjoy your screen time as a reward for doing such a great job. It's like having dessert after eating your veggies!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's practice a fun breathing exercise. It's simple! Take a deep breath in through your nose, hold it for a moment, and then slowly breathe out through your mouth. Let's do it together three times. Breathing helps us feel calm and ready to focus on new activities. You're doing an amazing job!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You've learned so much today! Remember, balancing screen time with other activities helps you grow strong and smart. You're like a superhero with many powers—playing, learning, and being creative. Keep exploring and trying new things. You're fantastic, and I know you can do it!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, think about how you can share what you've learned with your family. You can tell them about balancing screen time and taking breaks. Maybe you can even do a fun activity together, like playing a game or going for a walk. Sharing your knowledge makes you a wonderful teacher too!"
+    },
+    {
+      "id": "question_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you remember some of the fun activities we talked about today that don't involve screens? How about building with blocks or drawing a picture? What are your favorites? It's great to have lots of choices for playtime. Would you like to try something new tomorrow?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "You're doing so well, and I'm so proud of you! Let's keep thinking about all the fun things we can do without screens. Maybe you can make a list with your family of activities to try each day. This way, you always have something exciting to look forward to. You're such a creative and brave explorer!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time to say goodbye for now, but remember, you're part of the Rescue Pup Crew, always ready for new adventures. Keep exploring, learning, and playing in all the wonderful ways we talked about. I'm so happy we got to spend this time together. Until next time, stay curious and keep having fun!"
+    }
+  ],
+  "title": "Rescue Pup Crew's Screen Time Story"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "swamp_buddy_hero_emotional_regulation_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "emotional_regulation",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba sevgili arkadaşım! Ben Swamp Buddy Hero, bataklıkların neşeli kahramanı. Bugün seninle duygularımızı nasıl düzenleyebileceğimizi konuşacağız. Duygular bazen çok güçlü olabilir ama endişelenme, birlikte bu yolculuğa çıkacağız. Hazır mısın? O zaman başlayalım ve bu heyecan verici maceranın tadını çıkaralım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımız tıpkı bir gökyüzü gibidir, bazen güneşli, bazen yağmurlu. Örneğin, oyuncakların kırıldığında üzülmen çok normaldir. Ama bu üzüntüyü nasıl yöneteceğimizi bilmek bizi daha mutlu yapar. Şimdi, bu duyguları anlamak için biraz daha derine inelim. Sen de bazen üzgün ya da kızgın hissediyor musun?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hadi duygularımızı yönetmek için birkaç basit adım öğrenelim. İlk olarak, derin bir nefes almak önemlidir. Derin nefes alarak, sakinleşebilir ve kendimizi daha iyi hissedebiliriz. Şimdi birlikte derin bir nefes alalım, burnumuzdan nefes alıp ağzımızdan verelim. Harika, şimdi daha sakin hissediyoruz, değil mi?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen bunu harika bir şekilde yapıyorsun! Duygularını tanımak ve onları yönetmek için harika bir başlangıç yaptın. Unutma, duygularımızı kontrol etmek bizi daha mutlu ve güçlü yapar. Şimdi, hangi duyguların seni en çok etkilediğini düşünelim. Bu konuda ne hissettiğini paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı anlamak için onları tanımamız gerekir. Mesela, mutlu olduğumuzda yüzümüz gülümser ve bu bizi daha enerjik yapar. Ama üzgün olduğumuzda, bazen yalnız hissetmek normaldir. Bu duyguları konuşarak ve paylaşarak daha iyi hissedebiliriz. Sen de duygularını paylaşmayı dener misin?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi bir oyunu deneyelim. Birlikte duygularımızı ifade eden yüz ifadeleri yapalım. Mesela, mutlu olduğumuzda nasıl göründüğümüzü düşünelim. Şimdi sen de mutlu bir yüz yapmayı dene! Harika, şimdi üzgün bir yüz yapalım. İşte bu şekilde duygularımızı anlıyor ve ifade ediyoruz."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Seninle bu yolculuğu yapmak çok keyifli! Duygularımızı anlamak ve ifade etmek bizi daha güçlü yapar. Unutma, her zaman duygularını paylaşabilirsin. Bu şekilde, kendini daha iyi hissedeceksin. Sen de duygularını paylaşmaya devam et, tamam mı?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda duygularımızı ifade etmenin öneminden bahsettik. Şimdi, duygularımızı yönlendirmenin başka bir yolunu keşfedelim. Mesela, üzgün olduğumuzda bir resim çizmek veya şarkı söylemek bizi rahatlatabilir. Sen de bu yöntemleri denemek ister misin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, sen hangi aktivitelerle duygularını ifade etmeyi seversin? Mesela resim yapmak mı, yoksa dans etmek mi daha eğlenceli? Duygularını ifade etmek için başka neler yapabilirsin, bir düşün bakalım. Belki de en sevdiğin oyuncaklarla oynamak seni mutlu ediyordur. Senin için hangisi en iyisi?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı ifade etmek, onları daha iyi anlamamıza yardımcı olur. Örneğin, kızgınken derin nefes almak ve düşünmek çok etkili olabilir. Bu, sakinleşmemize ve daha iyi hissetmemize yardımcı olur. Sen de bu yöntemi denemek ister misin? Hadi birlikte deneyelim ve nasıl hissettiğimizi görelim."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte sakinleşme egzersizleri yapalım. Üç derin nefes alalım ve her nefeste biraz daha rahatlayalım. Bir, iki, üç... Her nefeste daha sakin ve huzurlu hissediyoruz. Harika, şimdi kendimizi daha iyi hissediyoruz, değil mi?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bu egzersizi çok iyi yaptın! Duygularımızı kontrol edebilmek için bu tür egzersizler harika bir yol. Unutma, her zaman bu yöntemleri kullanabilirsin. Seninle gurur duyuyorum, çünkü duygularını yönetmek için harika bir adım attın. Devam et, harikasın!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede nefes egzersizleri yaparak nasıl sakinleşebileceğimizi gördük. Şimdi, duygularımızı ifade etmenin başka bir yolunu keşfedelim. Mesela bir hikaye yazmak veya bir oyun oynamak da duygularımızı ifade etmenin harika yollarıdır. Sen de bu yöntemleri denemek ister misin?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Duygularımızı ifade etmenin birçok yolu var. Herkes için farklı yöntemler işe yarayabilir. Senin için en iyi yöntemi bulmak için farklı şeyler denemelisin. Belki de en sevdiğin şarkıyı söylemek seni mutlu ediyordur. Sen hangi yöntemleri denemek istersin?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün duygularımızı nasıl tanıyıp yönlendirebileceğimizi öğrendik. Seninle bu yolculuğu yapmak çok keyifliydi! Unutma, duygularını her zaman ifade edebilirsin ve bu seni daha güçlü yapar. Şimdi vedalaşma zamanı, ama her zaman geri gelebilirsin. Hoşça kal ve kendine iyi bak, küçük dostum!"
+    }
+  ],
+  "title": "Swamp Buddy Hero'ın Emotional Regulation Hikayesi"
+}

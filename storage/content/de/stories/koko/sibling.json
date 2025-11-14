@@ -1,0 +1,110 @@
+{
+  "id": "koko_sibling_story",
+  "character": "Koko",
+  "topic": "sibling",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Koko, und heute gehen wir auf eine spannende Reise über Geschwister. Bist du bereit? Geschwister können so viel Spaß machen. Sie sind wie deine besten Freunde, die immer in deiner Nähe sind. Lass uns mehr darüber erfahren, wie schön es ist, einen Bruder oder eine Schwester zu haben."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister sind wie Superhelden-Teams. Sie helfen sich gegenseitig, wenn es schwer wird, und feiern zusammen, wenn sie etwas Tolles geschafft haben. Denk daran, als du mit deinem Bruder oder deiner Schwester gespielt hast und ihr zusammen ein tolles Spiel gebaut habt. Das ist Teamarbeit! Und es macht immer mehr Spaß, wenn man jemanden hat, der mit einem lacht."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns darüber sprechen, wie wichtig es ist, zu teilen. Wenn du dein Spielzeug teilst, machst du nicht nur deinen Bruder oder deine Schwester glücklich, sondern auch dich selbst. Es fühlt sich gut an, wenn alle zusammen spielen können, nicht wahr? Versuche, heute etwas zu teilen, und beobachte, wie viel Freude es bringen kann."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du kannst das schaffen. Manchmal kann es schwierig sein, zu teilen, besonders wenn es dein Lieblingsspielzeug ist. Aber denk daran, dass du jemandem helfen kannst, glücklich zu sein. Und das ist eine wirklich starke Sache, die man tun kann!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt erinnere dich an einen Moment, als du und dein Geschwisterchen zusammen gelacht habt. Vielleicht habt ihr einen lustigen Film gesehen oder euch gegenseitig Witze erzählt. Diese Momente sind besonders, weil sie euch näher zusammenbringen. Lachen ist eine wunderbare Art, sich mit jemandem zu verbinden."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt über das Zuhören sprechen. Wenn dein Bruder oder deine Schwester dir etwas erzählt, ist es wichtig, ihnen zuzuhören. So wissen sie, dass du sie verstehst und dass du für sie da bist. Versuche, ihnen in die Augen zu schauen und aufmerksam zu sein. Das zeigt, dass du sie respektierst."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Zuhören ist eine Superkraft, die jeder haben kann. Sie hilft dir, die Gefühle anderer zu verstehen und ihnen zu zeigen, dass sie wichtig sind. Weiter so, du schaffst das!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Denk daran, dass Geschwister manchmal auch streiten. Das ist ganz normal und passiert in jeder Familie. Wichtig ist, dass man sich wieder verträgt und sich entschuldigt, wenn man etwas falsch gemacht hat. So zeigt man, dass einem der andere wichtig ist."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du dich mit deinem Geschwisterchen gestritten hast, könnt ihr zusammen überlegen, wie ihr das Problem lösen könnt. Vielleicht könnt ihr euch entschuldigen und dann gemeinsam eine neue Aktivität planen. Das zeigt, dass ihr beide bereit seid, es besser zu machen."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Das ist genau richtig! Sich zu entschuldigen und Lösungen zu finden, zeigt Stärke und Mut. Du bist ein toller Geschwister und kannst immer wieder neu anfangen. Du machst das super!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns darüber sprechen, wie ihr zusammen Spaß haben könnt. Ihr könnt gemeinsam Spiele erfinden oder ein spannendes Abenteuer im Garten erleben. Es gibt so viele Möglichkeiten, zusammen eine schöne Zeit zu haben. Und am Ende des Tages habt ihr tolle Erinnerungen geschaffen, die euch immer begleiten werden."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was machst du am liebsten mit deinem Geschwisterchen? Gibt es ein Spiel, das ihr besonders gerne spielt? Oder habt ihr ein gemeinsames Hobby? Denk daran, wie viel Spaß ihr zusammen habt und wie schön es ist, jemanden zu haben, der immer an deiner Seite ist."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Teilen gesprochen haben? Es ist auch wichtig, Zeit miteinander zu teilen. Das bedeutet, dass ihr euch gegenseitig helft und unterstützt, egal was passiert. Zusammen könnt ihr alles schaffen und euch gegenseitig stark machen."
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt eine kleine Übung machen. Schließe deine Augen und atme dreimal tief ein und aus. Stell dir vor, du hältst die Hand deines Bruders oder deiner Schwester. Fühlst du die Wärme und die Liebe? Das ist die Kraft der Geschwisterliebe."
+    },
+    {
+      "id": "scene_14",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein wunderbarer Bruder oder eine wunderbare Schwester. Deine Geschwister sind glücklich, dich zu haben. Du bringst so viel Freude und Liebe in ihre Welt. Weiter so, du bist ein echter Held!"
+    },
+    {
+      "id": "closure_15",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war toll, mit dir über Geschwister zu sprechen. Denk daran, wie wichtig es ist, füreinander da zu sein und sich zu unterstützen. Ich bin stolz auf dich und du kannst stolz auf dich sein. Bis zum nächsten Mal, kleiner Held! Auf Wiedersehen!"
+    }
+  ],
+  "title": "Kokos Sibling Geschichte"
+}

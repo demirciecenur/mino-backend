@@ -1,0 +1,98 @@
+{
+  "id": "spark_buddy_nutrition_story",
+  "character": "Spark Buddy",
+  "topic": "nutrition",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Spark Buddy, your cheerful and energetic pal. Today, we're going on a bright and bouncy adventure all about nutrition. Are you ready to learn about yummy foods that give us energy and make us strong? I'm so excited to share this journey with you. Let's dive into the colorful world of fruits, veggies, and more!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Do you know what nutrition means? It's like a superpower that helps our bodies grow and stay healthy. Just like how I need electricity to keep my sparks going, our bodies need good food to keep us moving. Eating a variety of foods is like charging up a battery. Let's explore the kinds of foods that are like super fuel for us!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about fruits and vegetables. These are like colorful rainbows on your plate. Fruits like apples and bananas are sweet and give us lots of energy. Vegetables like carrots and broccoli are crunchy and help us stay strong. Eating them every day is like giving our bodies a big hug of health. Can you think of your favorite fruit or veggie?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great! I knew you had a favorite. Eating a rainbow of colors from fruits and veggies helps us in so many ways. They give us vitamins and minerals that make us feel good and help us play all day. Let's count together - one apple, two carrots, three juicy grapes. You're doing amazing!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about the energy from fruits? Now, let's learn about grains. Grains like rice, bread, and pasta are like fuel for a car. They give us energy to run, jump, and play. Whole grains are extra special because they have more nutrients. Eating them is like putting the best fuel in your engine!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's think about proteins next. Proteins are like building blocks for our body. Foods like chicken, fish, eggs, and beans are full of protein. They help our muscles grow strong and healthy. Imagine building a tower with blocks, that's what proteins do for our muscles!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing fantastic! Now let's play a little game. Can you pretend to be a strong superhero? Flex your muscles like you're super strong, just like how proteins help us. Wonderful! You have the power of proteins with you now."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next up, let's talk about dairy. Dairy foods like milk, cheese, and yogurt help keep our bones strong. They're like the scaffolding that holds up a tall building. Drinking milk is like giving your bones a cozy blanket of strength. Do you like drinking milk or eating yogurt?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Water is super important too! It's like the magic potion that keeps everything working smoothly in our bodies. Drinking plenty of water helps us stay hydrated and feel refreshed. It's like watering a plant to help it grow. So remember to drink water throughout the day!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, can you tell me what you love eating the most? Is it something sweet like strawberries or something savory like cheese? Sharing our favorite foods is so much fun. It's like sharing little pieces of happiness. I'm curious to know what makes your tummy smile!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Wow, that sounds delicious! Eating a variety of foods is like having a big party in your tummy. Each type of food brings something special to the table. Just like how different friends make a party more fun, different foods make our meals more exciting!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's not forget about treats. Sometimes, we enjoy a sweet treat like a cookie or a piece of chocolate. Treats are like little treasures that we enjoy in small amounts. It's important to balance them with the other nutritious foods we talked about. That way, our bodies stay happy and healthy!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a great job learning about nutrition! Remember, eating a variety of foods helps us grow strong and stay energetic. It's like mixing lots of colors to make a beautiful painting. You've got all the tools to make your meals colorful and fun!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "We've had such a wonderful time learning about nutrition together! Thank you for joining me on this tasty adventure. Remember to eat your fruits, veggies, grains, proteins, and dairy every day. Keep your body healthy and strong, just like a superhero! Until next time, keep sparking with energy and joy. Goodbye, little friend!"
+    }
+  ],
+  "title": "Spark Buddy's Nutrition Story"
+}

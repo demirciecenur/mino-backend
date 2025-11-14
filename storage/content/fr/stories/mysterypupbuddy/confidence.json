@@ -1,0 +1,104 @@
+{
+  "id": "mystery_pup_buddy_confidence_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "confidence",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis! Je suis Mystery Pup Buddy, le chien détective. Aujourd'hui, nous allons explorer le monde merveilleux de la confiance en soi. Êtes-vous prêts à partir à l'aventure avec moi? Ensemble, nous découvrirons comment devenir plus courageux et sûrs de nous. Je sens que ce sera amusant et plein de surprises!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance en soi, c'est comme avoir un super pouvoir! Cela signifie croire en soi-même, même quand les choses semblent difficiles. Par exemple, pensez à apprendre à faire du vélo. Au début, c'est un peu effrayant, mais avec de la pratique, vous devenez plus sûr de vous. C'est pareil pour tout dans la vie! Plus vous essayez, plus vous devenez confiant."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment vous pouvez renforcer votre confiance. Une façon est de se rappeler de vos réussites. Pensez à une fois où vous avez réussi quelque chose, comme finir un puzzle. N'est-ce pas génial? Rappelez-vous de ce sentiment de succès, car il peut vous aider à croire en vous pour essayer de nouvelles choses."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons ensemble un petit exercice de confiance. Fermez les yeux et imaginez que vous êtes un super-héros. Vous êtes fort et courageux! Dites-le avec moi: 'Je suis courageux, je peux le faire!' Vous voyez, chaque fois que vous vous sentez un peu inquiet, vous pouvez utiliser cette phrase magique."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de faire du vélo? Imaginez maintenant que c'est comme apprendre à bien ranger vos jouets. Au début, cela peut sembler ennuyeux ou difficile, mais plus vous le faites, plus vous devenez rapide et efficace. C'est ainsi que la confiance en soi grandit, petit à petit."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Avez-vous déjà essayé quelque chose de nouveau et senti un peu nerveux? Peut-être comme goûter un légume que vous n'avez jamais mangé avant. Mais ensuite, vous réalisez que ce n'est pas si mal, et vous êtes fier de vous-même. C'est ça, la confiance en soi! Chaque petite victoire vous rend plus fort."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour être encore plus confiants, essayons de respirer profondément ensemble. Prenons une grande inspiration par le nez, puis expirons lentement par la bouche. Vous sentez comme cela calme l'esprit? Faire cela avant de commencer quelque chose de nouveau peut vraiment aider à se sentir prêt et confiant."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous savez, même les plus grands aventuriers ont parfois peur. Mais ils continuent d'avancer parce qu'ils croient en eux-mêmes. Vous pouvez le faire aussi! La prochaine fois que vous vous sentez un peu hésitant, rappelez-vous que vous êtes un super détective courageux, comme moi!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà aidé quelqu'un d'autre à se sentir plus confiant? Peut-être en encourageant un ami à essayer un nouveau jeu? C'est formidable, car vous partagez votre force avec eux. Comment cela vous a-t-il fait sentir? N'est-ce pas merveilleux de savoir que vous pouvez aussi être une source de confiance pour les autres?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons notre voyage. Imaginez que vous êtes sur une scène, prêt à chanter votre chanson préférée. Les lumières sont allumées, et le public est là. Au début, cela peut sembler intimidant, mais lorsque vous commencez, vous sentez la joie de partager votre talent. C'est ça, la magie de la confiance en soi!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons de comment être patient avec soi-même. Comme planter une graine et la regarder pousser. Cela prend du temps, mais si vous continuez à l'arroser, elle deviendra une belle plante. De même, avec de la patience et de la pratique, vous pouvez devenir plus confiant chaque jour."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes déjà sur le bon chemin, et je suis si fier de vous! Chaque jour, vous faites des pas vers devenir une meilleure version de vous-même. Souvenez-vous, même les petites étapes comptent beaucoup. Continuez à croire en vous, et vous verrez que vous pouvez accomplir de grandes choses."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Qu'est-ce que vous aimeriez essayer ensuite? Peut-être un nouveau jeu ou un projet artistique? Pensez à ce qui vous rend excité et curieux. Se fixer de petits objectifs peut vous aider à avancer pas à pas. Alors, qu'est-ce qui vous tente aujourd'hui?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous que la confiance en soi, c'est aussi être gentil avec soi-même. Parfois, nous faisons des erreurs, et c'est parfaitement normal. Chaque erreur est une chance d'apprendre et de grandir. Alors, ne soyez pas trop dur avec vous-même. Soyez votre propre meilleur ami!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce temps avec moi, les amis! J'espère que vous avez appris quelque chose de nouveau sur la confiance en soi. N'oubliez pas que vous êtes incroyables et capables de tout accomplir. Je suis fier de vous, et j'ai hâte de notre prochaine aventure ensemble. À bientôt, mes détectives courageux!"
+    }
+  ],
+  "title": "Histoire de Confidence de Mystery Pup Buddy"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "adventure_dora_pal_bedtime_story",
+  "title": "Adventure Dora Pal'nin Uyku Zamanı Hikayesi",
+  "character": "Adventure Dora Pal",
+  "topic": "bedtime",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Adventure Dora Pal. Bugün birlikte uyku zamanı hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Uyku zamanı, bedenimizin ve zihnimizin dinlenmesi için çok önemli. Şimdi bu maceraya başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku zamanı geldiğinde, günün yorgunluğunu atmak için güzel bir fırsatımız olur. Hatırlıyor musun, geçen gün oyuncaklarını toplamıştık? İşte şimdi de uyumadan önce odanı düzenli hale getirmek, güzel bir uyku için harika bir adımdır. Her şey yerli yerinde olunca, zihnimiz de daha rahat olur. Hadi şimdi birlikte, oyuncakları yerlerine koymayı deneyelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Odandaki oyuncakları topladıktan sonra, sıra dişlerimizi fırçalamaya geliyor. Dişlerimizi fırçalamak, sadece temiz hissetmemizi sağlamakla kalmaz, aynı zamanda dişlerimizin sağlıklı kalmasına da yardımcı olur. Her gece dişlerimizi fırçalamak, güzel bir alışkanlık haline gelir. Hadi şimdi birlikte dişlerimizi fırçalamayı deneyelim. Sen de dişlerini fırçalamak ister misin?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Dişlerini fırçaladıktan sonra, pijamalarını giyme zamanı. Pijamalarımızı giymek, uykuya hazırlanmanın bir diğer önemli adımıdır. Pijamalarımız, rahat bir uyku için bizi hazırlar. Şimdi pijamalarını giy ve kendini rahat hissetmeye başla. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Pijamalarını giydin mi? Harika! Şimdi sıra yatağa gitmeye geldi. Yatağa gitmek, vücudumuza dinlenmesi gerektiğini hatırlatır. Yatağımızın yumuşaklığı ve sıcaklığı, uykuya dalmamıza yardımcı olur. Şimdi birlikte yatağa uzanalım ve rahatlayalım. Bunu yaparken, derin bir nefes alıp verelim. Nefes almak, vücudumuzu sakinleştirir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi derin nefes almayı öğrenelim. Burnundan yavaşça nefes al ve karnını doldur. Sonra nefesini yavaşça ver. Bu şekilde üç kez derin nefes alıp verelim. Nefes alırken bedenimizin nasıl rahatladığını hissedeceksin. Derin nefes almak, uykuya dalmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Harika! Şimdi biraz hayal kurma zamanı. Hayal kurmak, uykuya geçişimizi kolaylaştırır. En sevdiğin yeri düşün, belki bir kumsal ya da güzel bir orman. Orada neler görmek istersin? Hayal gücünle bu güzel yerlere gitmek, seni mutlu ve huzurlu hissettirecek."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "En sevdiğin hayal ne olurdu? Belki bir unicornla bulutların üzerinde uçmak istersin. Ya da sevdiğin bir arkadaşınla oyun oynamak. Senin hayalin nedir? Hayal kurmak, uykuya dalarken rahatlamamıza yardımcı olur, değil mi?"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hayalini düşündüğünde nasıl hissettin? Gözlerini kapatıp hayal kurmak, seni daha mutlu ve huzurlu hissettirdi mi? Hayal kurmak, uykuya dalmamıza yardımcı olan büyülü bir şeydir. Şimdi biraz daha hayal kurmaya devam edelim."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal kurarken, sevdiklerinle güzel anılar da düşünebilirsin. Ailenle geçirdiğin güzel bir günü hatırlamak seni mutlu eder. Bu tür düşünceler, uykuya dalarken rahatlamamıza yardımcı olur. Şimdi güzel anılarını düşün ve rahatla. Uykuya dalmak için güzel bir yol, değil mi?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Uykuya dalmadan önce, kendimize iyi geceler demek çok önemlidir. Belki yumuşak bir oyuncak ya da sevdiğin bir battaniye ile vedalaşabilirsin. Kendine 'İyi geceler' demek, uykuya geçişimizi kolaylaştırır. Şimdi birlikte, kendimize iyi geceler diyelim. İyi geceler, tatlı rüyalar!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Şimdi uykuya dalmak için tamamen hazırsın. Kendine güvendiğin için seni tebrik ediyorum. Uykuya dalarken yaptığın her şey, güzel bir dinlenme geçirmen için çok önemliydi. Sen bunu harika bir şekilde başardın!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uykuya dalmak, günün tüm yorgunluğunu atmamıza yardımcı olur. Sabah uyandığında kendini çok daha enerjik ve mutlu hissedeceksin. Uyku, büyümemiz ve sağlıklı kalmamız için çok önemlidir. Şimdi bu güzel uyku yolculuğuna çıkmaya hazırsın. Tatlı rüyalar!"
+    },
+    {
+      "id": "scene_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir uyku yolculuğu yaptık, değil mi? Seninle bu macerayı paylaşmak çok güzeldi. Artık uykuya dalma zamanın geldi. Güzel rüyalar gör ve sabah görüşürüz. İyi geceler, küçük dostum!"
+    }
+  ]
+}

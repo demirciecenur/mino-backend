@@ -1,0 +1,104 @@
+{
+  "id": "blu pup_behavior_story",
+  "character": "Blu Pup",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis ! Je suis Blu Pup. Aujourd'hui, nous allons explorer le monde du bon comportement. Êtes-vous prêts pour cette aventure ? Je suis tellement curieux d'en savoir plus sur vous. Ensemble, nous allons apprendre comment être gentils et respectueux. Cela va être amusant et enrichissant !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par parler de ce qu'est le comportement. Le comportement, c'est la façon dont nous agissons et réagissons chaque jour. Par exemple, dire 's'il vous plaît' et 'merci' montre un bon comportement. Cela rend les autres heureux et montre que nous les respectons. Être gentil et poli aide à créer un environnement joyeux autour de nous. Vous voyez comme c'est important ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des règles. Les règles nous aident à savoir ce qu'il faut faire pour être en sécurité et respectueux. Par exemple, attendre son tour pour parler est une règle importante. Cela montre que nous écoutons les autres et que nous les respectons. Respecter les règles rend tout le monde heureux et en sécurité. Alors, essayons de suivre les règles ensemble !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Voyons comment nous pouvons pratiquer le bon comportement. Quand nous jouons, partageons nos jouets avec nos amis. Cela montre que nous sommes généreux et attentionnés. Si quelqu'un a besoin d'aide, tendons-lui la main. Cela montre que nous sommes là pour eux. Vous pouvez le faire, je le sais !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de dire 's'il vous plaît' et 'merci' ? C'est une partie importante du bon comportement. Ces mots magiques montrent notre gratitude et notre politesse. Utilisons-les chaque fois que nous pouvons pour montrer notre respect. Cela rendra tout le monde autour de nous heureux. Vous êtes prêts à essayer ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons de l'importance d'écouter. Quand quelqu'un parle, nous devons écouter attentivement. Cela montre que nous respectons ce qu'ils disent. Écouter aide à comprendre les autres et à apprendre de nouvelles choses. Alors, la prochaine fois que quelqu'un parle, écoutons attentivement. Vous verrez combien cela peut être intéressant !"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Souvenez-vous du moment où nous avons partagé nos jouets ? C'était un excellent exemple de bon comportement. Partager montre que nous pensons aux autres et que nous voulons qu'ils soient heureux aussi. Cela crée des amitiés solides et joyeuses. Continuez à partager et vous verrez combien c'est gratifiant !"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, parlons de la patience. Parfois, nous devons attendre notre tour, et c'est normal. Être patient montre que nous sommes respectueux et compréhensifs. La patience rend les moments d'attente plus agréables pour tout le monde. Vous pouvez pratiquer la patience chaque jour, et c'est merveilleux !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vous souvenez-vous de l'importance de dire 'merci' ? Cela montre notre appréciation. Quand quelqu'un fait quelque chose de gentil pour nous, dire 'merci' rend les deux personnes heureuses. C'est un petit mot avec un grand impact. Essayons de dire 'merci' plus souvent. Vous verrez combien cela peut illuminer une journée !"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant de la gentillesse. Être gentil signifie dire des mots doux et faire des choses attentionnées. Par exemple, offrir un sourire à quelqu'un peut égayer sa journée. La gentillesse est contagieuse et rend le monde meilleur. Alors, soyons gentils chaque jour. Vous êtes prêts à être des ambassadeurs de la gentillesse ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, je me demande, quel est votre moment préféré pour montrer un bon comportement ? Est-ce quand vous aidez à la maison ? Ou peut-être quand vous jouez gentiment avec vos amis ? Chaque moment est une chance de montrer notre meilleur comportement. Alors, quel moment préférez-vous ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons avec l'importance de dire 'je suis désolé'. Parfois, nous faisons des erreurs, et c'est normal. Dire 'je suis désolé' montre que nous sommes responsables et que nous nous soucions des sentiments des autres. Cela aide à réparer les relations et à avancer. N'ayez pas peur de l'utiliser quand c'est nécessaire !"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Et maintenant, parlons de l'entraide. Aider les autres montre que nous sommes attentionnés et généreux. Que ce soit à la maison ou à l'école, il y a toujours des moyens d'aider. Peut-être pouvez-vous aider à ranger ou à expliquer quelque chose à un ami. L'entraide rend tout le monde plus heureux et plus proche. Vous pouvez le faire, je crois en vous !"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous de notre discussion sur l'écoute ? Écouter attentivement montre que nous valorisons ce que les autres disent. Cela nous aide à mieux comprendre et à apprendre. Alors, la prochaine fois que quelqu'un parle, soyons de bons auditeurs. C'est une compétence précieuse à avoir !"
+    },
+    {
+      "id": "scene_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce temps avec moi aujourd'hui. Nous avons appris beaucoup de choses sur le bon comportement. Je suis si fier de vous ! Continuez à être gentils, patients, et à respecter les règles. Vous êtes des étoiles brillantes ! À bientôt pour une nouvelle aventure avec Blu Pup. Au revoir mes amis !"
+    }
+  ],
+  "title": "Histoire de Behavior de Blu Pup"
+}

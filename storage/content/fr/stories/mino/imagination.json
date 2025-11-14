@@ -1,0 +1,98 @@
+{
+  "id": "mino_imagination_story",
+  "character": "Mino",
+  "topic": "imagination",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Salut, petit aventurier ! Je suis Mino, et aujourd'hui, nous allons explorer le monde merveilleux de l'imagination. Es-tu prêt pour une aventure fantastique ? L'imagination, c'est comme une fusée magique qui nous emmène partout où nous voulons aller. On peut devenir tout ce qu'on veut, comme un pirate, un astronaute ou même un dragon ! Alors, prends ta ceinture de sécurité d'imaginaire, et c'est parti pour une journée pleine de découvertes !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est un peu comme un jardin magique dans notre tête. Tu sais, chaque idée est comme une petite graine qui peut grandir en quelque chose d'incroyable. Par exemple, si tu penses à un éléphant qui vole, ton imagination peut te montrer comment il utilise ses oreilles comme des ailes ! Et toi, qu'est-ce que tu imaginerais aujourd'hui ? Peut-être un château en chocolat ou une forêt pleine de licornes ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons ensemble d'utiliser notre imagination. Ferme les yeux et pense à un endroit spécial où tu aimerais aller. Peut-être une plage ensoleillée avec des coquillages brillants ou une montagne enneigée avec des pingouins dansants. Imagine-toi là-bas, ressens le sable sous tes pieds ou la neige qui fond sur ta langue. Tu vois, l'imagination peut nous emmener dans des endroits incroyables sans même quitter notre maison !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Génial, tu as une imagination incroyable ! Maintenant, voyons ce que nous pouvons faire avec elle. Imagine que nous sommes des explorateurs de l'espace, voyageant d'une étoile à l'autre. Quelles créatures amusantes penses-tu que nous pourrions rencontrer ? Peut-être des martiens qui aiment danser ou des étoiles qui chantent des berceuses. N'oublie pas, tout est possible avec un peu d'imagination !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi de notre voyage spatial ? Eh bien, l'imagination peut aussi nous aider à résoudre des problèmes. Par exemple, si tu as perdu ton jouet préféré, tu peux imaginer être un détective à la recherche d'indices. Tu pourrais même inventer une chanson pour te donner du courage pendant ta mission. L'imagination rend chaque tâche plus amusante et excitante !"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, voyons comment l'imagination peut nous aider à créer des histoires. Prends un objet près de toi, comme un crayon. Imagine que ce crayon est une baguette magique qui peut transformer n'importe quoi. Que ferais-tu avec ? Peut-être créerais-tu un arc-en-ciel ou donnerais-tu vie à tes dessins. Avec l'imagination, même les objets simples peuvent devenir extraordinaires !"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu déjà rêvé d'être un super-héros ? Quels pouvoirs aimerais-tu avoir ? Peut-être voler dans le ciel ou parler aux animaux ? L'imagination te permet de devenir tout ce que tu veux, même un super-héros avec des pouvoirs incroyables. Alors, quel est ton super-pouvoir préféré ?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Revenons à notre aventure spatiale. Imagine que nous sommes arrivés sur une planète faite de glace. Que pourrais-tu construire avec toute cette glace ? Peut-être un palais glacé ou un toboggan géant pour glisser avec tes amis. L'imagination nous permet de créer des mondes entiers, simplement en y pensant. C'est comme avoir un livre magique dans notre tête !"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail incroyable avec ton imagination ! Continuons à explorer. Imagine un monde où les arbres sont en bonbons et les nuages en barbe à papa. Que ferais-tu dans ce monde sucré ? Peut-être organiserais-tu une fête d'anniversaire avec des amis imaginaires. N'oublie pas, tu as le pouvoir de créer des mondes merveilleux juste avec ton esprit !"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons un jeu d'imagination ensemble. Imagine que nous sommes des plongeurs sous-marins explorant le fond de l'océan. Que vois-tu autour de toi ? Peut-être des poissons arc-en-ciel ou des trésors cachés. Utilise ton imagination pour décrire ce que tu vois, et n'oublie pas d'y ajouter un peu de magie, comme des dauphins qui dansent. C'est amusant, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est aussi un moyen de partager des moments spéciaux avec les autres. Tu peux raconter tes histoires imaginaires à tes amis ou à ta famille. Peut-être que tu inventeras une histoire sur un chapeau magique qui peut te téléporter. Partager tes idées rend l'imagination encore plus magique, car elle se transforme et grandit avec l'aide des autres."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quelle est la chose la plus amusante que tu aies jamais imaginée ? Était-ce un animal drôle ou un endroit incroyable ? Partager tes histoires avec moi rend notre aventure encore plus excitante. Alors, dis-moi, qu'as-tu imaginé aujourd'hui ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est merveilleux d'entendre toutes tes idées ! Tu sais, même les plus grands inventeurs et artistes ont commencé avec une simple idée dans leur tête. Avec l'imagination, tu peux créer des choses incroyables et inspirer les autres. Alors, continue d'imaginer, car c'est là que la magie commence vraiment !"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure imaginaire avec moi aujourd'hui. J'espère que tu as aimé explorer et créer autant que moi. N'oublie jamais que ton imagination est un trésor précieux que tu peux utiliser chaque jour. À la prochaine, petit aventurier, et continue d'imaginer des choses merveilleuses. Au revoir et à bientôt pour une nouvelle aventure !"
+    }
+  ],
+  "title": "Histoire de Imagination de Mino"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "sunny_imagination_story",
+  "character": "Sunny",
+  "topic": "imagination",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük arkadaşım! Ben Sunny, senin neşeli dostun. Bugün hayal gücümüzle harika bir yolculuğa çıkacağız. Hayal gücü, aklımızda canlandırdığımız eğlenceli dünyalar ve hikayeler demek. Sen de hayal gücünü kullanarak neler yaratabileceğini merak ediyor musun? Hazırsan başlıyoruz!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücü, tıpkı bir sihirli değnek gibidir. Onunla her şeyi yapabiliriz, hatta uçmak bile mümkün! Bir ejderha ile arkadaş olmayı veya uzayda gezintiye çıkmayı hayal edebilirsin. Hayal gücünle hiçbir şey imkansız değildir. Ne düşünüyorsan, onu gerçekleştirebilirsin. Şimdi hayal gücümüzle neler yapabileceğimize bir bakalım."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hayal gücümüzü kullanarak bir oyun oynayalım. Gözlerini kapat ve bir orman hayal et. Ormanın içinde ne tür ağaçlar var? Kuşlar ne tür şarkılar söylüyor? Hayal et ki, bu ormanda bir keşif yapıyorsun ve yeni arkadaşlar ediniyorsun. Bu arkadaşlar ne tür hayvanlar olabilir? Onlarla neler yapabilirsin?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi birlikte hayal ettiğimiz ormanda yürüyelim. Belki bir ağaç ev buluruz ve orada kamp yaparız. Hayal gücünle bu ağaç evde nasıl bir gün geçirirdin? Şimdi sen de hayal et ve bana anlat. Eminim çok eğlenceli bir hikaye olacak!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücü sayesinde sadece oyunlar değil, harika hikayeler de oluşturabiliriz. Mesela bir günlüğüne bir kuş olup gökyüzünde uçmayı hayal edebilirsin. Bulutların arasında süzülmek nasıl bir duygu olurdu? Ya da bir denizaltında macera dolu bir yolculuğa çıkabilirsin. Hayal gücünle neler yapabileceğini düşünmek çok heyecan verici!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi hayal gücümüzle bir resim yapalım. Bir kağıt ve renkli kalemler al ve hayal ettiğin dünyayı çiz. Belki deniz altında bir şehir veya uzayda bir macera resmedersin. Çizim yaparken, bu dünyada neler olacağını da hayal et. Çizim bittiğinde, hikayeni benimle paylaş!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bu harika bir resim oldu! Senin hayal gücün gerçekten çok güçlü. Şimdi biraz da hayal gücünün sınırlarını zorlayalım. Mesela, bir günlüğüne bir süper kahraman olsaydın, hangi güçlere sahip olmak isterdin? Nasıl bir kostüm giyerdin? Hadi, bunu da hayal edelim!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücü, bizi farklı dünyalara götüren bir kapıdır. Bu kapıdan geçtiğimizde, her şey mümkün hale gelir. İster bir prenses ol, ister bir astronot, hayal gücünle her şey senin elinde. Her gün yeni maceralar yaratabilir ve bu dünyalarda keşif yapabilirsin. Unutma, hayal etmek her zaman çok eğlencelidir!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnede süper kahraman olmayı hayal etmiştik. Şimdi de bir bilim insanı olmayı hayal edelim. Hangi icadı yapardın? Belki bir zaman makinesi ya da konuşan bir robot yapabilirsin. Hayal gücünle dünyayı değiştirecek bir şeyler bulabilirsin. Ne dersin, bunu da düşünelim mi?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Sen hayal gücünü en çok ne zaman kullanıyorsun? Belki oyuncaklarınla oynarken ya da resim çizerken. Hayal gücünü kullanmak için en sevdiğin zaman hangisi? Düşün ve bana söyle, merakla bekliyorum!"
+    },
+    {
+      "id": "scene_10",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Harika cevaplar! Hayal gücünü kullanmayı sevmen çok güzel. Şimdi hayal gücümüzle bir müzik yapalım. Ellerimizi kullanarak ritimler yaratalım. Belki bir orkestra yönetiyormuş gibi hissedersin. Haydi, birlikte ritim tutalım ve müziğin büyüsünü hissedelim!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücümüzle yaptığımız müzik çok güzeldi! Şimdi, hayal gücüyle başka ne tür oyunlar oynayabileceğimizi düşünelim. Belki bir dedektif olup gizemli bir olayı çözmek istersin. Ya da bir yarış arabası sürücüsü olup büyük bir yarışa katılmak. Hayal gücünle her gün yeni bir macera yaratabilirsin!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Daha önce hayal gücümüzle bir orman gezisine çıkmıştık. Şimdi, hayal gücümüzle bir okyanus altı dünyasına dalalım. Hangi deniz canlılarıyla karşılaşabiliriz? Belki bir yunus ya da dev bir balina. Hayal gücünle bu su altı macerasını yarat ve neler görebileceğini düşün."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Senin hayal gücünle yarattığın dünyalar gerçekten çok özel. Her gün hayal gücünü kullanarak yeni şeyler öğrenebilirsin. Belki bir gün bu hayallerin gerçek olur ve sen de büyük bir kaşif olursun. Unutma, hayal gücün senin en büyük hazinendir. Devam et ve yeni maceralar yarat!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün hayal gücümüzle harika bir yolculuk yaptık. Seninle birlikte bu maceraları hayal etmek çok keyifliydi. Unutma, hayal gücünle her zaman yeni dünyalar keşfedebilirsin. Şimdi vedalaşma zamanı geldi ama yeni maceralar için her zaman buradayım. Hoşça kal, görüşmek üzere!"
+    }
+  ],
+  "title": "Sunny'ın Imagination Hikayesi"
+}

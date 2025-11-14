@@ -1,0 +1,104 @@
+{
+  "id": "blu_pup_sibling_story",
+  "character": "Blu Pup",
+  "topic": "sibling",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Blu Pup. Bugün birlikte kardeşlik hakkında harika bir yolculuğa çıkacağız. Kardeşlerimizle zaman geçirmek ne kadar eğlenceli değil mi? Onlarla oyunlar oynar, hikayeler paylaşırız. Hazır mısın? Seni çok merak ediyorum."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerimizle birlikte olmak, dünyanın en güzel şeylerinden biridir. Onlarla birlikte oynarken, aslında yeni şeyler öğreniyoruz. Mesela, sabırlı olmayı ve paylaşmayı öğreniyoruz. Kardeşlerinle en sevdiğin oyun nedir? Benim en sevdiğim oyun saklambaç!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşlerimizle oyun oynarken bazen anlaşmazlıklar yaşayabiliriz. Bu çok normal, çünkü herkesin farklı düşünceleri ve istekleri olabilir. Önemli olan, bu durumlarda nasıl davranacağımızı bilmektir. Kardeşimize saygı gösterip, onun ne düşündüğünü anlamaya çalışmalıyız. Böylece her iki taraf da mutlu olabilir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi, şimdi birlikte bir oyun düşünelim. Kardeşinle birlikte bir hikaye oluşturabilirsin. Hikayenin kahramanı siz olun! Böylece hem eğlenir hem de yaratıcılığınızı geliştirirsiniz. Ne dersin, denemek ister misin? Eminim harika bir hikaye olacak!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda hikaye oluşturmak ne kadar eğlenceliydi, değil mi? Şimdi, kardeşlerimizle işbirliği yapmanın öneminden bahsedelim. İşbirliği, birbirimize yardım etmeyi ve birlikte çalışmayı gerektirir. Mesela, oyuncakları toplarken birbirimize yardım edebiliriz. Bu da işleri daha hızlı yapmamızı sağlar."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşinle birlikte bir görevi tamamlamak çok eğlenceli olabilir. Mesela, birlikte bir kule yapabilirsiniz. Biriniz blokları yerleştirirken, diğeriniz onları dengeleyebilir. Bu tür aktiviteler, hem eğlenceli hem de öğreticidir. Birlikte çalışarak, harika şeyler başarabilirsiniz."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle en son ne zaman bir şeyler paylaştığını hatırlıyor musun? Belki bir oyuncak ya da bir kurabiye. Paylaşmak, kardeşler arasında sevgi ve bağlılığı artırır. Sen de paylaşmayı seven biri misin? Paylaşmak, bizi daha mutlu yapar!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerimizle birlikte vakit geçirirken, onların duygularını da anlamaya çalışmalıyız. Bazen üzgün olabilirler ve bizim desteğimize ihtiyaç duyabilirler. Onlara sarılmak veya güzel sözler söylemek, onları mutlu edebilir. Kardeşlerimizle olan bağımızı güçlendirmek için çaba göstermeliyiz."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kardeşinle bir sonraki oyununuzu planlamaya ne dersin? Belki bir parkta koşmak veya evde bir sanat projesi yapmak istersiniz. Seçenekler sonsuz! Önemli olan, birlikte zaman geçirip eğlenmek. Senin için en eğlenceli aktivite hangisi?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, birlikte nefes alıp vermeyi deneyelim. Derin bir nefes al, sonra yavaşça ver. Bunu birkaç kez tekrarla. Bu, sakinleşmemize ve daha iyi hissetmemize yardımcı olur. Kardeşinle bu egzersizi yaparak, birlikte rahatlayabilirsiniz."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerimizle olan ilişkilerimiz, hayatımız boyunca bize birçok şey öğretir. Sabırlı olmayı, paylaşmayı ve birlikte çalışmayı öğreniriz. Bu dersler, büyüdüğümüzde de bize yardımcı olur. Kardeşlerimizle geçirdiğimiz zamanlar, en değerli anılarımız arasında yer alır."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnede nefes egzersizi yaptık, değil mi? Şimdi, kardeşine teşekkür etmeyi dene. Onunla geçirdiğin tüm güzel anlar için teşekkür et. Bu, aranızdaki bağı daha da güçlendirecek. Teşekkür etmek, herkesin kalbini ısıtır."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kardeşinle birlikte keşif yapmaya hazır mısın? Dışarıda bir yürüyüş yapabilir veya evde yeni bir şeyler deneyebilirsiniz. Her gün yeni şeyler keşfetmek, bizi daha mutlu ve meraklı yapar. Keşfetmek, en güzel maceralardan biridir!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle en çok ne yapmaktan hoşlanıyorsun? Belki bir film izlemek veya bir kitap okumak. Onunla birlikteyken en mutlu hissettiğin anı düşün. Bu anıları hep hatırlamak güzel olmaz mı? Senin favorin hangisi?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte kardeşlik hakkında çok şey öğrendik. Kardeşlerimizle olan ilişkilerimiz, bizi daha mutlu ve güçlü yapar. Onlarla geçirdiğimiz her an, değerli ve özel. Bir sonraki buluşmamızda yine harika şeyler yapacağız. Şimdilik hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Blu Pup'ın Sibling Hikayesi"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "mino_sleep_story",
+  "character": "Mino",
+  "topic": "sleep",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little adventurers! I'm Mino, your friendly space explorer. Today, we're going on a magical journey all about sleep. Sleep is like a special adventure we take every night. Are you ready to explore the wonders of bedtime with me? It's going to be fun and relaxing, and we'll learn how to get ready for a good night's rest. Let's blast off into dreamland together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about why sleep is so important. Just like our favorite toys need batteries to keep going, our bodies need sleep to recharge. When we sleep, our muscles rest, and our brains get to dream and grow. It's like a superhero power that helps us feel strong and happy when we wake up. Imagine waking up refreshed and ready to play all day long!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about getting ready for bed? One important thing is having a bedtime routine. A routine is like a little plan we follow every night. It might include brushing our teeth, putting on cozy pajamas, and reading a bedtime story. These steps help our bodies know it's time to wind down and prepare for sleep. Let's try imagining our perfect bedtime routine together."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking about your bedtime routine! Now, let's practice a calming activity. How about we take three deep breaths together? Inhale slowly through your nose, and then exhale gently through your mouth. Breathing deeply helps us relax and feel peaceful. You can even imagine floating on a fluffy cloud as you breathe. Wonderful! You're doing amazing."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our journey by talking about bedtime stories. Stories are like little adventures we can take with our imagination. They help us relax and get ready for sleep. Do you have a favorite story you like to hear before bed? Maybe it's about brave knights or magical unicorns. Listening to a story is a wonderful way to end the day on a happy note."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now that we know about bedtime stories, let's learn about creating a cozy sleep environment. A comfortable bed with soft blankets and a favorite stuffed animal can make us feel safe and snug. It's like building a little nest where we can drift off to dreamland. Make sure the room is not too bright or noisy, so your dreams can take flight in peace."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing great! Let's think about another relaxing activity before bed. How about some gentle stretches? Stretching helps our muscles relax and prepares our bodies for sleep. You can reach up high like you're touching the stars and then bend down to touch your toes. Let's try it together! Stretching feels so good and helps us feel ready for a restful night."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about breathing? Let's try another calming exercise. Imagine you are a sleepy star floating in the night sky. Close your eyes and picture yourself gently swaying among the stars. As you breathe in, feel the gentle breeze of space, and as you breathe out, let all your worries float away. This helps us relax and prepare for a peaceful sleep."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you ever wonder what dreams are? Dreams are like little stories our brains tell us while we sleep. They can be about anything, like flying with dragons or having a picnic on the moon. What kind of dreams do you think you'll have tonight? Maybe you'll dream of exploring a new planet or meeting friendly aliens. Dreams are magical and full of surprises!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's talk about waking up in the morning. After a good night's sleep, we feel refreshed and ready for new adventures. It's like waking up to a brand-new day full of possibilities. When you wake up, you can stretch your arms like a big, happy star and say, 'Hello, world!' Starting the day with a smile makes everything brighter."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's review what we've learned about sleep. We talked about bedtime routines, calming activities, and creating a cozy sleep environment. Each of these helps us prepare for a restful night's sleep. Remember, sleep is important for our bodies and minds to stay healthy and strong. You're a sleep expert now, ready to share your knowledge with family and friends!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Have you ever counted stars in the night sky? Let's count together now to help us relax. Imagine you're lying on a soft cloud, looking up at the twinkling stars. Let's count to five slowly: one, two, three, four, five. Counting stars can be a peaceful way to prepare for sleep. You're doing such a great job, little star counter!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we come to the end of our journey, let's remember that sleep is a wonderful adventure we take every night. It's a time to rest, dream, and recharge for the day ahead. You've learned so much about how to prepare for a good night's sleep. Remember, you're never alone on this journey because I'm always here to help you explore."
+    },
+    {
+      "id": "scene_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time to say goodbye for now, little explorer. I hope you have sweet dreams filled with fun and adventure. Remember to follow your bedtime routine and try some calming activities before sleep. I'll be here, ready to explore more magical journeys with you next time. Until then, sleep tight and dream big! Goodbye, my little star friend!"
+    }
+  ],
+  "title": "Mino's Sleep Story"
+}

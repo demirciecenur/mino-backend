@@ -1,0 +1,98 @@
+{
+  "id": "rescue_pup_crew_transitions_story",
+  "character": "Rescue Pup Crew",
+  "topic": "transitions",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little heroes! I'm part of the Rescue Pup Crew, and today we're going on an exciting adventure about transitions! Transitions are changes that happen all around us, and they can be big or small. Are you ready to learn about how we can face these changes bravely? I’m so excited to have you join me on this journey. Let's wag our tails and get started!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, remember when we talked about changes? A transition is just a fancy word for a change. Like when you go from playing to cleaning up your toys, that's a transition! It might feel a little different at first, but don't worry, it's all part of growing up. Every day, we go through lots of these little changes. Can you think of a change you went through today?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let’s talk about how we can make these transitions easier. One way is by having a routine. A routine is like a schedule that tells us what comes next. For example, after you wake up, you might brush your teeth, have breakfast, and then get ready for school. Routines help us know what to expect, and that makes changes feel less surprising. Let's try to think of our own little routine!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking about your routine! Remember, every change is an opportunity to try something new. Sometimes, it might be a little scary, but that's okay. You have the courage to face any change, just like a brave rescue pup! Whenever you feel unsure, take a deep breath and remind yourself that you can handle it. You're doing wonderful!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue by imagining a day at the park. When you arrive, you might start by playing on the swings. Then, it's time to transition to the slide. This is a fun change, isn't it? After a while, it might be time to have a snack or play a different game. Each of these is a transition, and each one brings a new adventure. Can you feel the excitement of trying something new?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's practice a transition together. Imagine we're sitting quietly, and then it's time to jump up and dance! Let's count to three and make the transition together. One, two, three, jump! Feel the energy as we move from one activity to another. It's like switching from being a sleepy pup to a playful pup. Transitions can be fun when we make them exciting!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you had to leave a fun activity to do something else? Maybe you were playing and then it was time for dinner. How did that make you feel? It's okay to feel a little sad, but remember, there are always more fun things to come. What do you think you might do next time you have to make a big change?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about routines? Let's think about how they help us with bedtime. First, you might put on your pajamas, then brush your teeth, and finally read a story. Each step is a transition in your bedtime routine. Knowing what comes next makes it easier to move from playing to sleeping. It's like following a map to a dreamland!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning about transitions! Each time you face a change, you get a little bit stronger. Just like a hero who trains every day, you're becoming a pro at handling transitions. Remember, it's okay to ask for help if you need it. You have friends and family who are always there to support you. Keep up the great work!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let’s think about another transition: going to school. You leave home and say goodbye to your family, which might feel a little hard sometimes. But then you arrive at school, where you can learn new things and play with friends. This transition is like opening a door to a new adventure every day. How exciting is that?"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Did you know that even grown-ups have to handle transitions? They might change jobs or move to a new house. Just like you, they have to find ways to make these changes easier. It's all about being brave and trying new things. So, next time you see a grown-up, maybe you can ask them about a transition they've been through. It could be a fun story to hear!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "We've learned so much about transitions today. From routines to trying new activities, we've discovered that changes can be fun and exciting. It's important to remember that each transition helps us grow and learn. Just like a rescue pup, you're ready to face any change with courage. What a fantastic day it's been!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're a superstar at handling transitions! Remember, each change is a chance to learn something new. You're brave, you're smart, and you can do anything you set your mind to. Keep practicing, and soon, you'll be a transition expert. Whenever you need a little help, just think of the Rescue Pup Crew cheering you on. You’ve got this!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time to say goodbye, little hero. Remember, transitions are just a part of life's big adventure. You're never alone, and you have the Rescue Pup Crew by your side. Keep being brave and kind, and always ready for new adventures. Until next time, keep wagging your tail and smiling bright. Goodbye, and see you soon!"
+    }
+  ],
+  "title": "Rescue Pup Crew's Transitions Story"
+}

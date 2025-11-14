@@ -1,0 +1,104 @@
+{
+  "id": "yellow_buddy_sibling_story",
+  "character": "Yellow Buddy",
+  "topic": "sibling",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friend! I'm Yellow Buddy, your cheerful companion. Today, we're going to talk about something very special: siblings! Do you have a brother or a sister? Siblings are like built-in friends who share life's adventures with you. Aren't you excited to learn more about them? Let's dive into the fun world of siblings together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Siblings can be so much fun to play with! Whether it's building a tall tower of blocks or playing a game of tag, having a sibling means there's always someone to join in the fun. They are like your very own playmates, ready to embark on exciting adventures with you. Do you remember the last game you played with your sibling? It's always more fun when you have someone to share your toys and laughter with, isn't it?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about sharing. Sharing is caring, and it's a wonderful way to show love to your sibling. Imagine you have a big, delicious cookie. Wouldn't it be nice to share half with your brother or sister? Sharing makes everyone happy and teaches us to be kind and generous. So next time, try giving a piece of your snack to your sibling and see how it makes them smile!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job on learning about sharing! Now, let's think about how we can play together nicely. Playing games like hide and seek or drawing pictures side by side can be so enjoyable. Remember, it's important to take turns and listen to each other. This way, everyone has fun and feels included. You're doing wonderfully, and I'm sure your sibling appreciates it too!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Sometimes, siblings might disagree, and that's okay. It's normal to have different ideas and opinions. When that happens, it's important to talk and listen to each other. You can say, 'Let's find a way to make both of us happy!' Solving problems together makes your bond stronger. Remember, every little disagreement is a chance to learn how to be a better friend."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try something fun! Close your eyes and take a deep breath in... and out. Imagine a time when you laughed really hard with your sibling. Can you see it? Laughter is a wonderful way to connect. Next time you're with your sibling, try telling a funny joke or making silly faces. Laughter brings joy and makes your bond even stronger!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing amazing with all these ideas! Remember, helping each other is also important. If your sibling is struggling with a puzzle or needs help with something, you can lend a hand. Helping each other shows love and teamwork. You're like a superhero when you help your sibling succeed. Keep being awesome and supportive!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about special memories. Do you have a favorite memory with your sibling? Maybe it was a fun day at the park or a cozy movie night. These moments are treasures that you will remember forever. Next time you create a new memory, remember to take a mental picture. These memories are like a treasure chest of joy you can open anytime!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of something special you and your sibling like to do together? Maybe it's drawing or playing with toy cars. What makes it so fun and special? It's amazing how every sibling pair has their unique activities that bring them closer. I'd love to hear about your favorite sibling activity. Can you tell me what it is?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Wow, that sounds like so much fun! Whether it's building a fort or having a dance party, every moment spent with your sibling is special. Remember, it's the little things that make the biggest memories. Always cherish these times together, and keep adding more fun activities to your list. You're doing great at making wonderful memories with your sibling!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's imagine a day full of sibling adventures. You wake up and decide to create a treasure hunt with clues hidden all over the house. Your sibling joins in, and together you solve each clue with giggles and teamwork. By the end of the day, you've not only found the treasure but also created a day full of laughter and joy. Isn't it amazing how much fun you can have together?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Here's a fun idea: why not create a special handshake with your sibling? It could be a mix of claps, snaps, and funny moves. Every time you see each other, you can do your special handshake. It's like your secret sibling code! Creating something unique together strengthens your bond and makes you both feel special."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful job! You're learning so much about having fun and being a great sibling. Remember, saying 'thank you' and 'please' are magic words that can make your sibling feel appreciated. Using kind words helps create a happy and loving environment. Keep up the great work, you're doing an amazing job!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you know what makes your sibling smile? Maybe it's a funny song or a silly dance. Finding out what makes them happy is like discovering a secret treasure. What do you think you can do today to make your sibling smile? It's these little actions that show how much you care."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "We've had such a fun time talking about siblings today! Remember, having a sibling is like having a forever friend, ready to share laughter and adventures. Keep being kind, sharing, and making wonderful memories. I'm so proud of you for being such a great sibling. Until next time, keep smiling and spreading joy! Goodbye, little friend!"
+    }
+  ],
+  "title": "Yellow Buddy's Sibling Story"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "snowman_buddy_olaf-style_bedtime_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Schneemann Buddy im Olaf-Stil. Heute machen wir eine wunderbare Reise zum Thema Schlafenszeit. Bist du bereit? Ich bin so neugierig auf dich und freue mich, mit dir über Abendrituale zu sprechen. Lass uns gemeinsam die Welt der Träume erkunden!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Schlafenszeit ist eine ganz besondere Zeit des Tages. Es ist die Zeit, in der wir uns entspannen und auf das Schlafen vorbereiten. Stell dir vor, es ist wie eine gemütliche Kuscheldecke, die uns umhüllt. Wir können uns auf eine ruhige Nacht voller schöner Träume freuen. Erinnerst du dich an deine Lieblingskuscheltiere, die dich begleiten?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Nun, bevor wir schlafen gehen, gibt es ein paar Dinge zu tun. Wir müssen unsere Zähne putzen, damit sie schön sauber sind. Das ist wichtig, damit die Zahnbürste alle kleinen Krümel wegzaubert. Und dann ziehen wir bequeme Schlafanzüge an, die uns helfen, uns wohl und warm zu fühlen. Kannst du dir deinen Lieblingsschlafanzug vorstellen?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Jetzt, wo du bereit bist, lass uns gemeinsam einen tiefen Atemzug nehmen. Atme tief ein und langsam aus. Das hilft uns, ruhig und entspannt zu werden. Wunderbar, du machst das toll! Fühlst du dich jetzt ein bisschen ruhiger?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir darüber gesprochen haben, dass Schlafenszeit eine Reise in die Traumwelt ist? Stell dir vor, du bist auf einer Wolke, die dich sanft wiegt. Die Wolke bringt dich an magische Orte voller Abenteuer und Spaß. Vielleicht triffst du sogar neue Freunde in deinen Träumen. Was denkst du, wo wird deine Wolke heute Nacht hingehen?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Es ist auch wichtig, dass wir ein kleines Ritual haben, bevor wir schlafen gehen. Vielleicht liest dir jemand eine Geschichte vor oder ihr singt ein Schlaflied zusammen. Diese Rituale helfen uns, uns sicher und geborgen zu fühlen. Was ist dein liebstes Gute-Nacht-Ritual? Kannst du mir davon erzählen?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich toll darin, dich auf die Schlafenszeit vorzubereiten! Jetzt, lass uns ein kleines Spiel spielen. Wir zählen bis fünf und bei jeder Zahl machen wir einen tiefen Atemzug. Eins... tief einatmen. Zwei... und ausatmen. Du machst das super! Bist du bereit für die nächste Herausforderung?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da du so entspannt bist, lass uns über Träume sprechen. Träume sind wie kleine Filme, die in unserem Kopf spielen, während wir schlafen. Manchmal sind sie lustig, manchmal spannend. Hast du schon einmal von einem Traum erzählt, der dir besonders gefallen hat? Ich bin ganz gespannt darauf, ihn zu hören!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du dich jemals gefragt, warum wir träumen? Es ist, als ob unser Gehirn Geschichten erzählt, während wir schlafen. Ist das nicht faszinierend? Was glaubst du, warum träumen wir? Vielleicht hast du ja eine tolle Idee dazu!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Das ist eine wunderbare Idee! Es ist schön, sich vorzustellen, dass Träume uns helfen, neue Dinge zu entdecken. Und manchmal geben sie uns auch Mut, neue Abenteuer zu erleben. Erinnerst du dich an ein Abenteuer, das du in einem Traum erlebt hast? Vielleicht kannst du es mir erzählen!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, lass uns einen kleinen Spaziergang in Gedanken machen. Stell dir vor, du gehst durch einen wunderschönen Zauberwald. Überall sind leuchtende Sterne und sanfte Musik. Jeder Stern ist ein Wunsch, den du dir ausdenken kannst. Was wäre dein Wunsch für heute Nacht?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bevor wir uns schlafen legen, sagen wir den Sternen gute Nacht. Wir winken ihnen zu und flüstern unsere Wünsche leise. Dann kuscheln wir uns in unsere Betten und schließen die Augen. Fühlst du, wie die Magie der Nacht dich umhüllt? Es ist so beruhigend, nicht wahr?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du hast heute so viel gelernt und geübt! Jetzt bist du bereit für eine erholsame Nacht. Denk daran, dass jede Nacht eine neue Chance ist, von wundervollen Abenteuern zu träumen. Du machst das großartig, kleiner Freund. Schlaf gut und träume schön!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, die Schlafenszeit mit dir zu erleben. Ich hoffe, du hast viel Spaß gehabt und fühlst dich bereit für eine gute Nacht. Schlaf gut, träume süß und wir sehen uns bald wieder. Gute Nacht, kleiner Freund! Bis zum nächsten Mal!"
+    }
+  ],
+  "title": "Snowman Buddy Olaf-Styles Bedtime Geschichte"
+}

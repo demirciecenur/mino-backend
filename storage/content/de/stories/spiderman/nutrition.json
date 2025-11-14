@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_Ernährung_gesundes_Essen_Essgewohnheiten_gesunde_Lebensmittel_story",
+  "character": "Spider Fighter",
+  "topic": "Ernährung, gesundes Essen, Essgewohnheiten, gesunde Lebensmittel",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Spider Fighter, und heute begeben wir uns auf ein spannendes Abenteuer rund um Ernährung und gesundes Essen. Weißt du, wie wichtig es ist, jeden Tag gesunde Lebensmittel zu essen? Es hält uns stark und bereit für neue Abenteuer! Ich freue mich darauf, gemeinsam mit dir zu entdecken, welche tollen Essgewohnheiten wir lernen können. Bist du bereit, mit mir auf diese Reise zu gehen?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns zuerst über Obst und Gemüse sprechen. Wusstest du, dass sie voller Vitamine und Mineralien stecken, die uns helfen, stark und gesund zu bleiben? Stell dir vor, du isst einen knackigen Apfel oder eine saftige Karotte. Sie sind nicht nur lecker, sondern auch super für deinen Körper! Hast du ein Lieblingsobst oder -gemüse? Ich mag besonders die bunten Farben, die sie auf unseren Tellern zaubern!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt, da wir wissen, wie wichtig Obst und Gemüse sind, lass uns über das Frühstück sprechen. Ein gutes Frühstück gibt uns Energie für den ganzen Tag. Vielleicht magst du Haferflocken mit frischen Beeren oder ein Vollkornbrot mit etwas Honig? Diese Lebensmittel helfen uns, aufmerksam und stark zu bleiben. Erinnerst du dich, was du heute Morgen gefrühstückt hast? Lass uns gemeinsam überlegen, wie wir unser Frühstück noch gesünder machen können!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig, dass du so interessiert bist! Lass uns jetzt über das Mittagessen sprechen. Vielleicht hast du schon einmal von Dingen wie Vollkornnudeln oder braunem Reis gehört. Diese Lebensmittel geben uns viel Energie. Kombiniert mit Gemüse und etwas Eiweiß, wie zum Beispiel Hähnchen oder Bohnen, haben wir eine tolle Mahlzeit. Möchtest du mit mir zählen, wie viele verschiedene Farben wir auf unserem Teller haben können? Eins, zwei, drei – so viele gesunde Möglichkeiten!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über den Tag gesprochen haben, lass uns über Snacks nachdenken. Gesunde Snacks können uns helfen, zwischen den Mahlzeiten Energie zu bekommen. Ein paar Nüsse, etwas Joghurt oder ein Stück Obst sind super Snacks. Sie sind einfach mitzunehmen und machen uns stark. Was ist dein Lieblingssnack? Lass uns überlegen, wie wir kluge Snack-Entscheidungen treffen können!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns über das Abendessen sprechen, das ist genauso wichtig wie die anderen Mahlzeiten. Ein ausgewogenes Abendessen hilft uns, gut zu schlafen und am nächsten Tag voller Energie zu sein. Vielleicht magst du ein Rührei mit Gemüse oder eine Gemüsesuppe? Diese Mahlzeiten sind leicht und gesund. Kannst du dir vorstellen, wie gut du dich fühlen wirst, wenn du diese gesunden Entscheidungen triffst?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wirklich toll! Jetzt, wo wir so viel über gesunde Lebensmittel gelernt haben, lass uns über Trinkgewohnheiten sprechen. Wasser ist der beste Durstlöscher. Es hält uns hydratisiert und hilft unserem Körper, gut zu funktionieren. Wenn du mal etwas Abwechslung möchtest, kannst du Wasser mit ein paar Scheiben Zitrone oder Gurke probieren. Lass uns zusammen überlegen, wie viel Wasser wir heute schon getrunken haben!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt kommen wir zu einer lustigen Frage, die du dir stellen kannst: 'Was würde Spider Fighter essen?' Wenn du vor einer Auswahl stehst, stell dir vor, welche Lebensmittel dich stark wie einen Helden machen. Vielleicht wählst du dann das bunte Gemüse oder den frischen Joghurt. Diese Entscheidungen helfen dir, jeden Tag neue Abenteuer zu erleben. Lass uns gemeinsam überlegen, wie du beim nächsten Essen eine heldenhafte Wahl treffen kannst!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du dich jemals gefragt, warum wir so viele verschiedene Lebensmittel essen sollten? Jede Art von Essen gibt uns etwas Besonderes, das wir brauchen. Zum Beispiel helfen uns Milchprodukte, starke Knochen zu bekommen. Warum denkst du, ist es wichtig, viele verschiedene Lebensmittel zu essen? Lass uns zusammen darüber nachdenken!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über Snacks gesprochen haben? Es ist auch wichtig zu wissen, wann wir am besten essen sollten. Regelmäßige Mahlzeiten helfen uns, nicht zu hungrig zu werden. Wenn wir zu lange warten, fühlen wir uns vielleicht müde und schlapp. Kannst du dir vorstellen, wie ein Held sich fühlt, wenn er genug gegessen hat? Stark und bereit für jedes Abenteuer!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns gemeinsam eine kleine Übung machen. Stell dir vor, du bist ein Superheld, der seine Energie tankt. Atme tief ein und aus. Noch einmal: tief ein und aus. Fühlst du, wie gut sich das anfühlt? Diese Übung hilft uns, ruhig und stark zu bleiben. So können wir jeden Tag voller Energie angehen!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein echter Held, wenn es um gesunde Ernährung geht! Denk daran, dass jeder Tag eine neue Chance ist, kluge Entscheidungen zu treffen. Ob du Obst wählst, Wasser trinkst oder bunte Mahlzeiten isst – all das hilft dir, stark und gesund zu bleiben. Ich bin so stolz auf dich! Lass uns weiterhin tolle Essgewohnheiten pflegen."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, da wir so viel gelernt haben, wie wäre es, wenn du deinen Freunden oder deiner Familie erzählst, was du über gesunde Ernährung weißt? Vielleicht könnt ihr zusammen ein neues Rezept ausprobieren oder eine lustige Snack-Idee entwickeln. Es macht Spaß, gemeinsam gesund zu essen und neue Dinge zu entdecken. Glaubst du, du bist bereit, dein Wissen zu teilen?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkst du, ist das Beste an gesundem Essen? Vielleicht ist es der tolle Geschmack oder die Energie, die es dir gibt. Oder vielleicht ist es das gute Gefühl, das du hast, wenn du weißt, dass du deinem Körper etwas Gutes tust. Lass uns überlegen, was du an gesunder Ernährung am meisten magst!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, diesen Tag mit dir zu verbringen und über gesunde Ernährung zu sprechen. Du hast so viel gelernt und ich bin wirklich stolz auf dich. Denk daran, jeden Tag gesunde Entscheidungen zu treffen. Ich freue mich darauf, bald wieder mit dir neue Abenteuer zu erleben. Bis zum nächsten Mal, kleiner Held!"
+    }
+  ],
+  "title": "Spider Fighters Nutrition Geschichte"
+}

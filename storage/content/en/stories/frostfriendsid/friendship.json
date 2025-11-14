@@ -1,0 +1,104 @@
+{
+  "id": "frost_friend_sid_friendship_story",
+  "character": "Frost Friend Sid",
+  "topic": "friendship",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello there, little pals! I'm Frost Friend Sid, and I'm super excited to meet you today! We're going to have a frosty fun time learning all about friendship. Are you ready to dive into a world of smiles and giggles? I can't wait to share some silly stories and play some fun games with you. So grab your imaginary snow boots and let's get started on this chilly adventure together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what friendship means. Friendship is like having a warm, cozy blanket on a cold day. It makes you feel safe and happy. Friends are people who like to play with you, share their toys, and make you laugh. Do you have a friend who always makes you smile? Remember, friends come in all shapes and sizes, just like snowflakes!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn how to be a good friend! It starts with being kind and sharing. When you share your toys, like your favorite blocks or stuffed animals, it shows you care. Listening is important too! When your friend talks, make sure you hear them, just like when you listen to your favorite bedtime story. These little things can make a big difference in friendship."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about kindness and sharing! Now, let's try a fun exercise together. Imagine you're building a snowman with your friend. Each snowball you roll is made of kindness and laughter. Can you count how many snowballs you can make? One, two, three! Fantastic! Remember, every snowball is a moment of fun shared with a friend."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about listening? Let's pretend we're in a snowy forest, and your friend is telling you a secret about a magical ice castle. Listening carefully helps you hear all the exciting details! And when it's your turn to speak, your friend will listen to you too. It's like a friendly game of taking turns, just like when you play on the swings."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's learn about how to solve little problems with friends. Sometimes, friends might want the same toy at the same time. What do you do? You can take turns or find another fun toy to play with together. This way, everyone stays happy, just like when you both get a scoop of your favorite ice cream flavor."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning about friendship! Let's imagine we're on a snowy adventure with our friends. Each time we solve a problem together, we find a shiny treasure hidden in the snow. Can you see the treasures? They're sparkling like stars! You're becoming a friendship superstar!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now that we're solving problems like pros, let's think about how to make new friends. Sometimes, a simple 'hello' can start a wonderful friendship. Just like when you say 'hello' to a new snowflake that lands on your mitten. It's a small step that can lead to big adventures. Are you ready to try saying 'hello' to someone new?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever made a new friend at the playground or in your class? What did you do to start playing together? Maybe you asked if they wanted to join your game or share a snack. Making friends can be as easy as building a snow fort together. What game would you like to play with a new friend?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's remember the fun games we can play with friends. Tag is a fun game where you can run around like a snowflake in the wind. Or how about hide and seek, where you can pretend to be a sneaky snowman hiding behind a tree? Playing together makes every day feel like a sunny snow day!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's practice saying something nice to a friend. You could say, 'I like playing with you' or 'You make me smile.' These nice words are like little snowflakes that make your friend's heart feel warm. Can you think of something kind to say to your friend today? Remember, kind words make friendships grow strong!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wow, you're becoming a friendship expert! Let's imagine we're building a snow castle with our kind words. Each kind word is like a shiny ice block in our castle. Can you see how tall the castle is getting? You're doing such a wonderful job, and your friendship castle is sparkling bright!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now that we have our friendship castle, let's invite our friends to play inside. It's filled with laughter and joy, just like a playground made of snow and fun. Remember, sharing your castle with friends makes the game even more exciting. What games would you like to play in your friendship castle?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever built something fun with your friends, like a sandcastle or a block tower? What did you build together? Building things with friends is like creating a magical world where anything is possible. What would you like to build next time you play with your friends?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our frosty friendship adventure is coming to an end, but the fun doesn't have to stop! Remember all the things we've learned about being a good friend. Keep sharing, listening, and saying kind words. You're a fantastic friend, and I can't wait to play with you again soon. Until next time, keep smiling and spreading joy like snowflakes in the breeze. Goodbye, my little snow pals!"
+    }
+  ],
+  "title": "Frost Friend Sid's Friendship Story"
+}

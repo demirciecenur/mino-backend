@@ -1,0 +1,104 @@
+{
+  "id": "sunny_friendship_story",
+  "character": "Sunny",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Sunny. Aujourd'hui, nous allons découvrir l'amitié, une aventure pleine de joie et de rires. Êtes-vous prêt à explorer comment on se fait des amis ? Je suis sûr que vous allez adorer. Ensemble, nous allons apprendre des choses merveilleuses sur le fait de jouer et de partager."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est comme un grand soleil qui brille dans nos cœurs. Quand on a un ami, on se sent heureux et jamais seul. Les amis jouent ensemble, rient et partagent des secrets. Avez-vous déjà partagé un jouet ou un dessin avec un ami ? C'est très spécial, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour se faire des amis, il faut être gentil et dire bonjour avec un sourire. Un sourire, c'est comme donner un petit cadeau. Vous pouvez aussi demander : 'Veux-tu jouer avec moi ?' C'est une belle façon de commencer une amitié. Essayer, c'est déjà un grand pas vers de nouveaux amis."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, essayons ensemble ! Imaginez que vous voyez un nouvel ami dans le parc. Vous pouvez lui dire : 'Bonjour, je m'appelle [votre nom] !' C'est facile, n'est-ce pas ? Vous êtes déjà sur le chemin de l'amitié. Bravo !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les amis aiment aussi faire des choses ensemble. Comme construire un château de sable ou dessiner un grand arc-en-ciel. Avez-vous déjà construit quelque chose avec un ami ? C'est amusant de voir ce que l'on peut créer ensemble. Chaque moment passé ensemble est un souvenir précieux."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Il est important d'écouter ses amis. Quand un ami parle, nous devons prêter attention à ce qu'il dit. Cela montre que nous nous soucions de lui. Vous pouvez hocher la tête ou dire : 'Oui, je comprends.' Cela rend l'ami heureux de savoir que vous êtes là pour lui."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, les amis ne sont pas d'accord, et c'est normal. Il est important de parler calmement et de trouver une solution ensemble. Peut-être pouvez-vous partager ou prendre des tours. Cela montre que vous êtes un bon ami. Avez-vous déjà trouvé une solution avec un ami ?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Rappelez-vous, être un bon ami, c'est aussi dire 'Merci' et 'S'il te plaît'. Ces mots magiques rendent tout le monde heureux. Voulez-vous essayer de les dire avec moi ? 'Merci' et 'S'il te plaît'. Super, vous êtes vraiment un ami formidable !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jouer ensemble est une grande partie de l'amitié. Que ce soit au ballon, à cache-cache ou en faisant des puzzles, le jeu renforce les liens. Cela rend chaque jour plus joyeux. Quel est votre jeu préféré à partager avec un ami ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, prenons un moment pour respirer profondément. Inspirons par le nez, et expirons par la bouche. Cela nous aide à être calme et prêts pour jouer. C'est une bonne chose à faire avant de commencer à jouer avec des amis. Vous vous sentez prêt maintenant ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà aidé un ami ? Comme l'aider à ramasser ses jouets ou à trouver son doudou ? Aider un ami montre combien vous tenez à lui. Comment vous sentez-vous quand vous aidez quelqu'un ? N'est-ce pas merveilleux de rendre quelqu'un heureux ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les amis sont là aussi pour se soutenir dans les moments difficiles. Si votre ami est triste, vous pouvez lui faire un câlin ou lui dire que tout ira bien. Cela réchauffe le cœur et montre que vous êtes un vrai ami. Avez-vous déjà réconforté un ami ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "N'oubliez pas, chaque ami est unique. Certains aiment danser, d'autres préfèrent dessiner. C'est important de respecter les goûts de chacun. Vous pouvez découvrir de nouvelles choses en jouant avec différents amis. Être curieux et ouvert, c'est merveilleux !"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes déjà un expert en amitié ! Continuez à être gentil, à partager et à écouter. Chaque petit geste compte. Vous pouvez faire sourire quelqu'un chaque jour. N'est-ce pas incroyable d'être un si bon ami ?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure sur l'amitié avec moi. J'espère que vous avez appris beaucoup de choses sur comment être un bon ami. N'oubliez pas de sourire et de jouer avec vos amis. À très bientôt pour une nouvelle aventure !"
+    }
+  ],
+  "title": "Histoire de Friendship de Sunny"
+}

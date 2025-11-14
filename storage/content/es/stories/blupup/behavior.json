@@ -1,0 +1,104 @@
+{
+  "id": "blu_pup_behavior_story",
+  "character": "Blu Pup",
+  "topic": "behavior",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguito! Soy Blu Pup, y hoy vamos a hablar sobre algo muy importante: el comportamiento. ¿Sabías que el comportamiento es cómo actuamos y lo que hacemos cada día? ¡Es muy interesante! Vamos a descubrir juntos cómo podemos ser amables y seguir las reglas. Estoy muy emocionado de comenzar esta aventura contigo. ¿Estás listo para aprender y jugar?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos listos, hablemos de lo que significa tener un buen comportamiento. Tener un buen comportamiento significa ser amable con los demás y seguir las reglas. Por ejemplo, cuando estamos en casa, podemos ayudar a recoger nuestros juguetes después de jugar. También es importante escuchar a los adultos cuando nos hablan. ¿Puedes pensar en otras formas de mostrar buen comportamiento?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a aprender sobre cómo seguir reglas. Las reglas nos ayudan a mantenernos seguros y felices. Por ejemplo, cuando cruzamos la calle, debemos esperar a que el semáforo esté en verde. También debemos usar nuestro tono de voz suave cuando estamos dentro de casa. Recuerda, seguir las reglas también puede ser divertido. ¿Te gustaría practicar conmigo?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Maravilloso! Ahora, vamos a practicar juntos. Imagina que estamos en el parque, y hay una fila para el columpio. Esperar nuestro turno es una forma de buen comportamiento. Contemos juntos hasta cinco mientras esperamos: uno, dos, tres, cuatro, cinco. ¡Fantástico! Esperar pacientemente muestra que somos respetuosos con los demás."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos lo que aprendimos sobre el buen comportamiento. No solo es importante en casa, sino también en la escuela y en el parque. Cuando compartimos nuestros juguetes, hacemos que otros niños se sientan felices. Y cuando decimos 'por favor' y 'gracias', mostramos que somos educados. ¿No es genial cómo el buen comportamiento puede hacer que todos se sientan bien?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora hablemos de cómo podemos manejar nuestros sentimientos cuando estamos molestos. A veces, podemos sentirnos enojados o tristes, y eso está bien. Lo que importa es cómo manejamos esos sentimientos. Una forma es respirar profundamente tres veces. ¿Lo intentamos juntos? Inhala, exhala, uno. Inhala, exhala, dos. Inhala, exhala, tres. ¡Genial! Esto nos ayuda a calmarnos."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo muy bien! Recuerda que es importante hablar sobre cómo te sientes. Puedes decirle a un adulto si necesitas ayuda. Cuando compartimos nuestros sentimientos, es más fácil encontrar una solución. ¿Puedes pensar en un momento en que te sentiste enojado y cómo lo resolviste? Compartir nuestras experiencias nos ayuda a aprender unos de otros."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hemos aprendido mucho sobre el comportamiento y cómo podemos ser amables. Ahora, pensemos en cómo podemos ayudar a los demás también. Si vemos a alguien que necesita ayuda, como un amigo que no puede alcanzar algo, podemos ofrecer nuestra ayuda. Esto muestra que somos considerados y generosos. ¿Te gustaría ser un ayudante hoy?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar ser ayudantes. Imaginemos que estamos en la escuela y un amigo necesita un lápiz. Podemos ofrecerle uno de los nuestros. Esto es un gran ejemplo de cómo ser amable y compartir. También podemos ayudar a un adulto a poner la mesa en casa. ¡Hay tantas maneras de ser un buen amigo y ayudante!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabías que cuando ayudamos a los demás, también nos sentimos bien? ¿Puedes pensar en una vez que ayudaste a alguien y te sentiste feliz después? Compartir estas historias nos hace apreciar lo importante que es ser amable. ¿Te gustaría contarme una de tus historias de ayuda?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hemos hablado mucho sobre cómo comportarnos bien y ser amables. Ahora, pensemos en cómo podemos seguir aprendiendo más cada día. Podemos practicar recordando usar nuestras palabras mágicas como 'gracias' y 'por favor'. También podemos recordar ser cuidadosos con nuestros juguetes y libros. ¿No es emocionante saber que cada día es una nueva oportunidad para ser mejores?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estoy tan orgulloso de ti por aprender tanto hoy! Aprender sobre el comportamiento no solo nos ayuda a nosotros, sino también a los que nos rodean. Cada pequeño acto de bondad cuenta. Así que sigue practicando, y verás cuánta diferencia puedes hacer. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para terminar, recordemos algunas de las cosas que hemos aprendido hoy. Sabemos que seguir las reglas es importante, ser amable con los demás es esencial, y manejar nuestros sentimientos es necesario. Practicar estos aspectos cada día nos ayuda a ser personas maravillosas. ¿Qué te gustaría intentar mañana para mostrar buen comportamiento?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Recuerda, cada día es una nueva oportunidad para aprender y crecer. Podemos probar nuevas formas de ser amables y respetuosos. Tal vez mañana puedas ayudar a un amigo o compartir un juguete. ¡Estoy seguro de que harás un trabajo fantástico! ¿No es emocionante pensar en todas las cosas buenas que podemos hacer?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un día increíble aprendiendo sobre el comportamiento contigo. Gracias por unirte a mí en esta aventura. Espero que te hayas divertido y hayas aprendido mucho. Recuerda siempre ser amable y seguir las reglas. ¡Hasta la próxima, amiguito! ¡Nos vemos pronto!"
+    }
+  ],
+  "title": "Historia de Behavior de Blu Pup"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "swamp_buddy_hero_behavior_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Swamp Buddy Hero, bataklığın kahramanı! Bugün seninle davranışlar hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Çok heyecanlıyım, çünkü birlikte öğrenmek ve eğlenmek için sabırsızlanıyorum. Davranışlar, nasıl iyi bir arkadaş olabileceğimizi ve çevremizdeki insanlarla nasıl uyum içinde yaşayabileceğimizi gösterir. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda davranışlardan bahsettik, hatırlıyor musun? Davranışlar, günlük yaşamımızda çok önemli bir rol oynar. Mesela, arkadaşlarımızla oynarken nazik olmak ve paylaşmak, iyi bir davranıştır. İyi davranışlar, insanları mutlu eder ve onların da bize iyi davranmalarını sağlar. Sen de iyi davranışlar sergilediğinde kendini harika hissedersin, değil mi?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, iyi davranışları nasıl geliştirebileceğimiz hakkında konuşalım. İyi bir davranış sergilemek için ilk adım, başkalarının duygularını anlamaktır. Mesela, arkadaşın üzgünse ona nasıl yardımcı olabilirsin? Ona sarılabilir ya da onu neşelendirecek bir şeyler söyleyebilirsin. Başkalarının duygularını anlamak, empati kurmak demektir ve bu, iyi bir davranışın temelidir. Sen de empati kurarak harika bir arkadaş olabilirsin."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte empati kurmayı denemek ister misin? Hadi, gözlerini kapat ve bir arkadaşının nasıl hissettiğini düşün. Onun yerine koy kendini ve neye ihtiyacı olabilir diye düşün. İşte bu, empati kurmak! Harika bir iş çıkardın! Empati kurmak, arkadaşlarınla daha iyi anlaşmanı sağlar ve onları mutlu eder. Sen bunu yapabilirsin, biliyorum!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Empati kurmanın yanı sıra, kurallara uymak da iyi bir davranışın parçasıdır. Kurallar, güvenliğimizi ve mutluluğumuzu sağlar. Mesela, okulda sıraya girmek ya da evde oyuncakları toplamak gibi. Kurallara uymak, hem kendimize hem de başkalarına saygı göstermemizi sağlar. Sen de kurallara uyarak etrafındakilere örnek olabilirsin."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Peki, senin evinde hangi kurallar var? Oyuncaklarını toplamak ya da dişlerini fırçalamak gibi kurallar, hem eğlenceli hem de faydalıdır. Bu kurallara uymak, seni daha düzenli ve sorumlu biri yapar. Her gün aynı kurallara uyarak kendine bir rutin oluşturabilirsin. Rutinler, hayatımızı kolaylaştırır ve bizi mutlu eder."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda kurallardan bahsetmiştik. Şimdi, kurallara uymanın neden önemli olduğunu düşünelim. Kurallar, hem evde hem de dışarıda güvenliğimizi sağlar. Örneğin, yolda yürürken trafik kurallarına uymak, güvenli bir şekilde karşıdan karşıya geçmemizi sağlar. Sen de kurallara uyarak hem kendini hem de sevdiklerini koruyabilirsin."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Kurallara uymak neden önemli sence? Biraz düşün ve cevabını benimle paylaş. Ben de senin düşüncelerini merak ediyorum. Kurallara uyarak hem kendimize hem de başkalarına saygı göstermiş oluruz. Senin cevabını duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Birlikte düşünmek çok eğlenceliydi! Şimdi, iyi davranışların başka bir yönüne bakalım. Yardımsever olmak, iyi davranışların en güzel örneklerinden biridir. Mesela, bir arkadaşının düştüğünü gördüğünde ona yardım etmek, harika bir davranıştır. Yardımsever olmak, hem seni hem de yardım ettiğin kişiyi mutlu eder. Unutma, küçük bir yardım bile büyük mutluluklar getirebilir."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, bir yardımseverlik oyunu oynayalım. Bir sonraki oyun zamanında ya da evde, birine yardım edebilir misin? Mesela, annenin ya da babanın işlerini hafifletebilirsin. Küçük bir yardım bile, onların gününü güzelleştirebilir. Sen harikasın ve bunu yapabilirsin, inan bana! Yardım ederken, senin de yüzün gülümseyecek."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Yardımsever olmanın önemini konuştuğumuza göre, şimdi sıra sabırlı olmaya geldi. Sabırlı olmak, bazen zor olabilir ama çok iyi bir davranıştır. Mesela, bir oyuncağı paylaşırken sıranı beklemek sabırlı olmayı gerektirir. Sabırlı olmak, hem kendimize hem de başkalarına saygı göstermemizi sağlar. Sen de sabırlı olarak etrafındakilere örnek olabilirsin."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Sabırlı olmayı öğrenmek için bir oyun oynayalım. Bir sonraki sefer bir şey beklerken, üç derin nefes al ve yavaşça ver. Bu, seni sakinleştirir ve beklemek daha kolay hale gelir. Denemek ister misin? Hadi birlikte yapalım; derin bir nefes al, şimdi yavaşça ver. Harika, işte bu kadar kolay!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence sabırlı olmak neden önemlidir? Biraz düşün ve cevabını benimle paylaş. Sabırlı olmak, hem kendimizi hem de başkalarını mutlu eder. Beklemek zor olsa da, sonuçta değdiğini göreceksin. Senin düşüncelerini duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün seninle çok şey öğrendik ve harika vakit geçirdik! Davranışlar, empati kurmak, kurallara uymak, yardımsever olmak ve sabırlı olmak gibi konulara değindik. Bunlar, seni harika bir arkadaş ve iyi bir insan yapar. Unutma, sen çok özelsin ve her zaman en iyisini yapabilirsin. Bir dahaki sefere görüşmek üzere, küçük dostum! Hoşça kal!"
+    }
+  ],
+  "title": "Swamp Buddy Hero'ın Behavior Hikayesi"
+}

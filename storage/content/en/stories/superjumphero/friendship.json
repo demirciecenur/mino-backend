@@ -1,0 +1,104 @@
+{
+  "id": "super_jump_hero_friendship_story",
+  "character": "Super Jump Hero",
+  "topic": "friendship",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Super Jump Hero. Today we're going on an amazing journey about friendship. Are you ready? I'm so curious about you. Friendship is like a magical adventure where we meet new people and have lots of fun together. Let's jump into this wonderful world and discover what it means to be a great friend!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when you met someone new at the playground? Making friends is just like that! It's all about smiling, saying hello, and playing together. When you share your toys or help someone climb up the slide, you're showing friendship. Friends make us happy and help us when we feel sad. Let's think about how we can be good friends today!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "To be a good friend, we need to listen carefully. Listening means paying attention when your friend is talking. It shows that you care about what they have to say. Next time you're playing, try to look at your friend when they're speaking. This way, they'll know you're really listening. It's a wonderful way to show kindness!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job! Now let's practice sharing. Sharing is when we let others use our toys or join in our games. It's like when you let someone else play with your favorite ball. Sharing makes playtime more fun for everyone. Let's think of something we can share today. Remember, sharing is caring!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we know about listening and sharing, let's talk about helping. Helping a friend can be as simple as picking up a toy they dropped or helping them reach something high. When we help, we show that we care and want to make things better. Can you think of a time when you helped someone? Helping makes us feel good inside!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember how we talked about sharing? Let's think of another example where sharing can make a big difference. Imagine if you have a big box of crayons and your friend wants to color too. By sharing your crayons, you both get to create beautiful pictures together! Isn't that wonderful? Sharing really makes everything more fun!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing amazing! Let's try something fun now. How about we do a little friendship exercise? Let's count to three and think of one friend we want to play with. Ready? One, two, three! Did you think of someone special? That's great! Maybe you can ask them to play the next time you see them."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about taking turns. Taking turns means waiting patiently while others have their turn. Like when you're playing on the swing, and you let your friend have a go too. It's important because it makes everyone feel included. Next time you're playing, remember to take turns. It shows respect and makes playtime fair for everyone!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you know why friends sometimes get upset with each other? Sometimes it's because we forget to listen or share. But that's okay! We can always say sorry and try again. Have you ever had to say sorry to a friend? It's a brave thing to do, and it shows you care about making things right."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's remember all the ways we can be a good friend. We can listen carefully, share our toys, help out, and take turns. Each of these actions helps us build strong friendships. When we practice these, we become better friends and make everyone around us happy. Isn't that fantastic?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're getting so good at this! Let's try a fun game. Think of a time you were a good friend, and tell someone about it. It could be your mom, dad, or a sibling. Sharing your story helps you remember how to be a good friend. And it might give them ideas on how they can be a good friend too!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember the time we talked about helping? Let's think of a new way to help a friend. Maybe you can help someone build a block tower or find their lost toy. Helping shows kindness and makes you feel like a superhero! What do you think you could do to help someone today?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice saying kind words. Kind words make our friends feel happy and loved. You can say, 'Great job!' or 'I like playing with you!' These words brighten up someone's day. Next time you're with your friend, try saying something kind. It can be the start of a wonderful friendship."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever made a new friend by saying hello first? It's a brave thing to do! Sometimes, all it takes is a smile and a 'Hi!' to make someone feel welcome. Do you remember a time when someone said hello to you first? How did it make you feel? Let's try it next time we meet someone new!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this friendship adventure! We've learned so much about being good friends by listening, sharing, helping, and saying kind words. Remember, each day is a new chance to make friends and have fun together. I'm proud of you, little friend! Until next time, keep being the wonderful friend you are. Goodbye!"
+    }
+  ],
+  "title": "Super Jump Hero's Friendship Story"
+}

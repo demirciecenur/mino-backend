@@ -1,0 +1,98 @@
+{
+  "id": "snowman buddy olaf-style_nutrition, alimentation saine, habitudes alimentaires, aliments sains_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "nutrition, alimentation saine, habitudes alimentaires, aliments sains",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis ton copain bonhomme de neige, inspiré par Olaf ! Aujourd'hui, nous allons découvrir ensemble le monde merveilleux de la nutrition. Es-tu prêt pour cette aventure amusante ? Nous allons apprendre comment les aliments sains peuvent nous donner de l'énergie pour jouer et grandir. Je suis tellement curieux de savoir ce que tu aimes manger !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des fruits et légumes colorés. As-tu déjà remarqué combien ils sont beaux et joyeux ? Les pommes rouges, les bananes jaunes et les carottes oranges sont pleins de vitamines. Ces vitamines sont comme des petits assistants qui aident notre corps à rester fort. Manger une variété de couleurs, c'est comme peindre un tableau avec des aliments !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Savais-tu que boire de l'eau est aussi très important ? L'eau aide notre corps à fonctionner comme une machine bien huilée. C'est comme arroser une plante pour qu'elle grandisse. Alors, n'oublie pas de boire de l'eau tout au long de la journée. C'est une habitude saine à adopter, tout comme se brosser les dents !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Commençons par un petit jeu ! Comptons ensemble combien de fruits et légumes tu as mangés aujourd'hui. Un, deux, trois... c'est super ! Chaque fruit et légume est comme un trésor pour ton corps. Continue comme ça, tu fais un travail formidable !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi quand nous avons parlé des couleurs des aliments ? Eh bien, les aliments comme les grains entiers sont aussi importants. Le pain complet et le riz brun contiennent beaucoup de fibres. Les fibres aident notre ventre à se sentir plein et heureux. C'est un peu comme donner à notre corps un gros câlin douillet !"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sais-tu pourquoi il est important de prendre un bon petit déjeuner ? Le petit déjeuner nous donne de l'énergie pour commencer la journée. C'est comme faire le plein d'essence avant un long voyage ! Quel est ton petit déjeuner préféré ? Moi, j'adore les flocons d'avoine avec des fruits !"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des protéines ! Les protéines, c'est un peu comme les briques qui construisent notre maison. Les œufs, le poulet et le poisson sont de bonnes sources de protéines. Ils nous aident à avoir des muscles forts pour courir et sauter. Manger des protéines, c'est comme donner de la force à notre corps !"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail incroyable en apprenant tout cela ! Es-tu prêt pour un autre défi amusant ? La prochaine fois que tu manges, essaie de deviner quels nutriments sont dans ton assiette. C'est comme résoudre une énigme amusante ! Bravo, tu es un excellent détective de la nutrition !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi de l'importance de manger à différents moments de la journée. Le déjeuner et le dîner sont aussi importants que le petit déjeuner. Ils nous aident à recharger nos batteries pour continuer à jouer et apprendre. C'est un peu comme prendre plusieurs petites pauses pendant une longue journée de jeux !"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Aimes-tu cuisiner avec ta famille ? Cuisiner ensemble est un excellent moyen de découvrir de nouveaux aliments. C'est aussi très amusant de mélanger les ingrédients et de créer quelque chose de délicieux. Quel est ton plat préféré à préparer ? Peut-être une salade colorée ou une soupe chaude ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons des collations ! As-tu déjà goûté à une collation saine comme des bâtonnets de carottes ou des tranches de pomme ? Ces collations sont parfaites pour donner un coup de pouce d'énergie. Elles sont comme des petits cadeaux pour ton corps entre les repas. Choisis des collations qui te font sentir bien et plein d'énergie !"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais de grands progrès dans ton voyage de la nutrition ! Continue à essayer de nouveaux aliments et à explorer de nouvelles saveurs. Chaque bouchée est une nouvelle aventure pour tes papilles gustatives. Tu es un véritable explorateur culinaire !"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "N'oublie pas que de bonnes habitudes alimentaires commencent dès maintenant. Manger sainement te donne de l'énergie pour jouer, apprendre et grandir. C'est comme construire les fondations d'une maison solide. Plus tu manges sainement, plus tu te sentiras fort et heureux. Crois-moi, ton corps te remerciera !"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, petit ami ! J'espère que tu as appris beaucoup de choses sur la nutrition et les habitudes alimentaires saines. N'oublie pas de manger plein de couleurs et de boire de l'eau. Je suis si fier de toi et de tes efforts. À bientôt pour une nouvelle aventure, et prends soin de toi !"
+    }
+  ],
+  "title": "Histoire de Nutrition de Snowman Buddy Olaf-Style"
+}

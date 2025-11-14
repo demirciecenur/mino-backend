@@ -1,0 +1,98 @@
+{
+  "id": "yellow_buddy_sibling_story",
+  "character": "Yellow Buddy",
+  "topic": "sibling",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Yellow Buddy und heute gehen wir auf eine spannende Reise über Geschwister. Weißt du, Geschwister sind wie geheime Freunde, die immer bei dir sind! Bist du bereit, mehr darüber zu erfahren? Ich freue mich so sehr, mit dir zu sprechen und viele lustige Dinge zu entdecken. Lass uns gemeinsam lachen und lernen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister zu haben ist wie ein lustiges Abenteuer. Manchmal spielen sie mit dir Verstecken, und manchmal helfen sie dir, wenn du etwas nicht alleine schaffst. Hast du einen Bruder oder eine Schwester, mit dem du spielst? Es ist toll, jemanden zu haben, der immer da ist, um gemeinsam zu lachen und zu spielen. Geschwister können die besten Freunde sein, die man sich wünschen kann."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wusstest du, dass Geschwister auch die besten Lehrer sein können? Sie zeigen dir, wie man neue Spiele spielt und manchmal auch, wie man Dinge richtig macht. Wenn du etwas nicht verstehst, kannst du sie fragen, und sie helfen dir gerne. So lernst du jeden Tag etwas Neues. Es macht Spaß, gemeinsam zu entdecken und zu wachsen, findest du nicht?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns ein kleines Spiel spielen! Stell dir vor, du und dein Geschwisterchen seid auf einer Schatzsuche. Was würdet ihr zusammen finden? Vielleicht bunte Steine oder glänzende Muscheln? Es macht so viel Spaß, gemeinsam auf Entdeckungsreise zu gehen, oder? Du kannst auch zu Hause mit deinen Spielsachen eine Schatzsuche machen. Viel Spaß beim Suchen!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Teilen gesprochen haben? Geschwister sind großartige Partner, um das Teilen zu üben. Vielleicht teilst du dein Lieblingsspielzeug oder einen leckeren Keks. Wenn du teilst, machst du jemanden glücklich, und das bringt ein Lächeln auf beide Gesichter. Und weißt du was? Teilen macht das Spielen noch viel schöner!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns zusammen zählen! Stell dir vor, du hast fünf bunte Bälle. Lass uns zusammen zählen: eins, zwei, drei, vier, fünf! Super gemacht! Du kannst auch mit deinem Geschwisterchen zählen. Vielleicht habt ihr Bauklötze oder Kuscheltiere, die ihr zusammen zählen könnt. Es macht Spaß, gemeinsam zu lernen und zu zählen, nicht wahr?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Manchmal, wenn Geschwister streiten, ist es wichtig, sich wieder zu versöhnen. Hast du schon mal mit deinem Bruder oder deiner Schwester gestritten? Das passiert manchmal, und das ist okay. Wichtig ist, dass man danach wieder Freunde ist. Vielleicht kann man sich entschuldigen oder eine Umarmung geben. So fühlt sich jeder wieder wohl und glücklich."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns eine kleine Übung machen. Stell dir vor, du bist ein großer, starker Baum. Atme tief ein und dann langsam aus. Noch einmal: tief einatmen und ausatmen. Fühlst du dich ruhig und stark? Diese Übung kannst du auch mit deinem Geschwisterchen machen, wenn ihr mal Streit habt. Es hilft, wieder ruhig zu werden und sich besser zu fühlen."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister können auch die besten Partner für Abenteuer sein. Ob ihr im Garten spielt oder ein neues Spiel erfindet, zusammen macht alles mehr Spaß. Vielleicht habt ihr schon einmal eine Höhle aus Decken gebaut oder seid durch den Garten gehüpft wie kleine Hasen. Solche Abenteuer bleiben in Erinnerung und machen das Leben bunt und aufregend."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du jemals ein Geheimnis mit deinem Geschwisterchen geteilt? Geheimnisse sind wie kleine Schätze, die man nur mit besonderen Menschen teilt. Was war das lustigste Geheimnis, das ihr hattet? Vielleicht habt ihr eine Überraschungsfeier geplant oder ein geheimes Versteck gefunden. Teilen macht Spaß und verbindet euch noch mehr!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an die Schatzsuche, die wir gemacht haben? Manchmal können Geschwister auch helfen, wenn es schwierig wird. Vielleicht, wenn du traurig bist oder etwas nicht findest, sind sie da, um dir zu helfen. So fühlt man sich nie allein und weiß, dass jemand an seiner Seite ist. Gemeinsam seid ihr stark und könnt alles schaffen!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns überlegen, wie wir unseren Geschwistern eine Freude machen können. Vielleicht malst du ein Bild oder bastelst etwas Schönes. Es ist toll, jemandem eine Überraschung zu machen und zu sehen, wie glücklich er damit ist. Überleg mal, was deinem Bruder oder deiner Schwester gefallen könnte. Deine Kreativität kennt keine Grenzen!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister zu haben ist wirklich etwas Besonderes. Manchmal lachen sie mit dir, manchmal trösten sie dich. Sie sind immer da, um neue Dinge zu entdecken und gemeinsam zu wachsen. Hast du heute etwas Neues über Geschwister gelernt? Ich hoffe, du hattest genauso viel Spaß wie ich. Zusammen können wir die Welt entdecken, und das ist einfach großartig!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Geschwister zu sprechen. Ich hoffe, du hast viele tolle Ideen bekommen, wie du mit deinem Bruder oder deiner Schwester spielen kannst. Denke daran, dass Geschwister immer füreinander da sind. Ich freue mich schon auf unser nächstes Abenteuer zusammen. Bis dahin, auf Wiedersehen, kleiner Freund! Bleib fröhlich und neugierig!"
+    }
+  ],
+  "title": "Yellow Buddys Sibling Geschichte"
+}

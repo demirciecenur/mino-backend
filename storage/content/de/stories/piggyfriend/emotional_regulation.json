@@ -1,0 +1,98 @@
+{
+  "id": "piggy friend_Emotionsregulation, Gefühle managen, sich beruhigen, Selbstregulation_story",
+  "character": "Piggy Friend",
+  "topic": "Emotionsregulation, Gefühle managen, sich beruhigen, Selbstregulation",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, liebe Freunde! Ich bin Piggy Friend und heute sprechen wir über etwas ganz Besonderes: Emotionsregulation. Das bedeutet, wie wir unsere Gefühle gut managen können. Manchmal fühlen wir uns glücklich, manchmal traurig oder sogar wütend, und das ist okay. Heute lernen wir, wie wir uns beruhigen können, wenn wir uns aufregen. Seid ihr bereit für ein spannendes Abenteuer? Ich freue mich sehr darauf, mit euch zu lernen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert ihr euch, als wir über Gefühle gesprochen haben? Gefühle sind wie kleine Freunde, die uns sagen, wie es uns geht. Wenn wir glücklich sind, lächeln wir, und wenn wir traurig sind, weinen wir vielleicht. Aber manchmal wissen wir nicht, was wir mit unseren Gefühlen machen sollen. Heute zeige ich euch, wie wir unsere Gefühle verstehen und damit umgehen können. Es ist wie ein kleines Geheimnis, das wir gemeinsam entdecken!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns lernen, wie wir ruhig bleiben können, wenn wir uns aufregen! Zuerst atmen wir tief ein und zählen bis drei. Eins, zwei, drei. Dann atmen wir langsam aus und zählen wieder. Eins, zwei, drei. Das hilft uns, uns zu beruhigen und klarer zu denken. Ihr könnt das jederzeit ausprobieren, wenn ihr euch gestresst fühlt. Es ist wie Magie, die uns hilft, ruhig zu bleiben!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lasst uns gemeinsam zählen und atmen! Atmet tief ein... und aus. Sehr gut gemacht, Freunde! Ihr seid großartig im Beruhigen. Wenn wir das regelmäßig üben, werden wir immer besser darin. Denkt daran, dass es okay ist, sich manchmal aufgeregt oder wütend zu fühlen. Wichtig ist, dass wir wissen, wie wir damit umgehen können. Ihr seid alle kleine Emotionsexperten!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir wissen, wie man ruhig bleibt, lasst uns darüber sprechen, wie wir unsere Gefühle ausdrücken können. Manchmal hilft es, mit Mama, Papa oder einem Freund zu sprechen. Sie können uns helfen, unsere Gefühle zu verstehen. Oder wir können ein Bild malen, das zeigt, wie wir uns fühlen. Es gibt so viele Möglichkeiten, unsere Gefühle zu zeigen und zu teilen!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns ein kleines Spiel spielen! Denkt an etwas, das euch glücklich macht. Vielleicht ist es euer Lieblingsspielzeug oder ein Ausflug in den Park. Wenn ihr daran denkt, wie fühlt ihr euch? Fühlt ihr ein Lächeln auf eurem Gesicht? Das ist, weil glückliche Gedanken uns glücklich machen können. Wenn wir uns traurig fühlen, können wir versuchen, an glückliche Dinge zu denken. Das hilft uns, uns besser zu fühlen."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Habt ihr schon einmal versucht, an glückliche Dinge zu denken, wenn ihr traurig wart? Wie hat es euch geholfen? Es ist wichtig, dass wir wissen, dass wir unsere Gefühle beeinflussen können. Manchmal brauchen wir nur einen kleinen Gedanken, um uns besser zu fühlen. Was sind eure glücklichen Gedanken? Ich bin neugierig darauf, was euch glücklich macht!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir all diese tollen Dinge gelernt haben, lasst uns darüber nachdenken, wie wir anderen helfen können. Wenn wir sehen, dass ein Freund traurig ist, können wir ihn fragen, ob er reden möchte. Manchmal reicht es schon, einfach zuzuhören. Oder wir können gemeinsam ein Spiel spielen, um ihn aufzuheitern. Zusammen können wir uns gegenseitig helfen, unsere Gefühle zu managen."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnert ihr euch, wie wir tief geatmet haben, um uns zu beruhigen? Wir können das auch unseren Freunden zeigen! Wenn sie sehen, wie gut es funktioniert, möchten sie es vielleicht auch ausprobieren. So können wir alle zusammen lernen und uns gegenseitig unterstützen. Es ist schön, Freunde zu haben, die uns helfen, oder? Gemeinsam sind wir stark!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns noch einmal üben, wie wir ruhig bleiben können. Atmet tief ein... und aus. Sehr gut! Ihr macht das großartig. Denkt daran, dass ihr das jederzeit machen könnt, wenn ihr euch aufgeregt oder traurig fühlt. Es ist eine kleine Übung, die uns hilft, uns besser zu fühlen. Ihr seid alle wunderbare Emotionsexperten!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Habt ihr noch Fragen dazu, wie wir unsere Gefühle managen können? Vielleicht möchtet ihr wissen, was ihr tun könnt, wenn ihr euch wirklich sehr wütend fühlt. Oder wie ihr euch beruhigen könnt, wenn ihr nicht schlafen könnt. Es gibt viele Dinge, die wir ausprobieren können. Ich bin hier, um euch zu helfen, wenn ihr Fragen habt!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ihr habt heute so viel gelernt! Ich bin stolz auf euch. Denkt daran, dass es okay ist, alle möglichen Gefühle zu haben. Wichtig ist, dass wir wissen, wie wir damit umgehen können. Ihr könnt das schaffen, ich glaube an euch! Ihr seid alle kleine Helden, die ihre Gefühle gut managen können. Weiter so!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns noch einmal zusammenfassen, was wir gelernt haben. Wir haben gelernt, wie wichtig es ist, unsere Gefühle zu verstehen und zu managen. Wir wissen jetzt, wie wir ruhig bleiben können, wenn wir uns aufregen. Und wir haben gelernt, wie wir anderen helfen können, ihre Gefühle zu managen. Es war ein spannendes Abenteuer, und ich bin froh, dass ihr dabei wart!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Danke, dass ihr heute mit mir gelernt habt, liebe Freunde! Ich hoffe, ihr hattet genauso viel Spaß wie ich. Denkt daran, dass ihr immer mit euren Eltern oder Freunden sprechen könnt, wenn ihr Hilfe braucht. Ich freue mich schon auf unser nächstes Abenteuer zusammen. Bis bald, und passt gut auf euch auf! Tschüss!"
+    }
+  ],
+  "title": "Piggy Friends Emotional Regulation Geschichte"
+}

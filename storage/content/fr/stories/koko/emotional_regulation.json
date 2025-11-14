@@ -1,0 +1,98 @@
+{
+  "id": "koko_régulation_émotionnelle_gestion_des_émotions_se_calmer_autorégulation_story",
+  "character": "Koko",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis Koko, votre ami courageux et protecteur. Aujourd'hui, nous allons explorer ensemble comment gérer nos émotions et se calmer. C'est une aventure passionnante où nous allons apprendre à être forts et à nous sentir mieux. Êtes-vous prêts à découvrir ce voyage incroyable avec moi? J'ai hâte de commencer avec vous!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les émotions, c'est quelque chose que nous ressentons tous les jours. Parfois, nous nous sentons heureux, parfois nous sommes tristes ou en colère. C'est normal, et il est important de comprendre ces émotions. Comprendre nos émotions nous aide à mieux les gérer et à nous sentir bien. Alors, commençons par parler de ce que nous ressentons, et pourquoi c'est important de le faire."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand tu te sens énervé ou triste, il est bon de s'arrêter et de respirer profondément. Prendre trois grandes respirations peut aider ton corps à se calmer. Tu peux inspirer par le nez et expirer par la bouche, lentement. C'est comme une petite pause magique pour ton esprit et ton cœur. Tu veux essayer avec moi? Inspirons ensemble... et maintenant, expirons."
+    },
+    {
+      "id": "scene_3",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Maintenant que nous avons pris de grandes respirations, parlons de ce qui nous fait sourire. Penser à quelque chose de joyeux peut changer ce que nous ressentons à l'intérieur. Peut-être que c'est un jeu que tu aimes, ou un câlin de maman. Qu'est-ce qui te rend heureux? Imaginer ces moments peut t'aider à te sentir mieux et plus fort."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, nous avons besoin de bouger pour nous sentir mieux. Sauter, danser ou courir peut aider à relâcher les émotions fortes. Bouger ton corps est une excellente façon de gérer tes émotions. Cela te donne de l'énergie positive et te rend heureux. Alors, la prochaine fois que tu te sens agité, essaie de faire une danse rigolote!"
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail formidable en apprenant à gérer tes émotions! C'est un super pouvoir que chacun de nous peut avoir. Avec de la pratique, tu deviendras encore plus fort. Tu peux le faire, petit héros! N'oublie pas que chaque jour est une nouvelle chance de s'améliorer."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre astuce est de parler de tes sentiments à quelqu'un en qui tu as confiance. Parler de ce que tu ressens peut faire une grande différence. Cela aide à vider ton cœur et à te sentir plus léger. Choisis quelqu'un comme maman, papa, ou un enseignant. Ils sont là pour t'écouter et t'aider."
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu te souviens quand nous avons parlé de respirations profondes? C'est aussi important de les utiliser quand tu es très excité. Cela t'aide à rester calme et concentré. Alors, la prochaine fois que tu es super content, pense à prendre quelques respirations. Cela te permettra de profiter encore plus du moment!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des moments où nous avons besoin de se calmer avant de dormir. Avoir une routine apaisante le soir peut aider à bien dormir. Lire une histoire ou écouter de la musique douce peut être très relaxant. Tu pourrais aussi essayer de câliner ton doudou préféré. Tout cela aide ton corps à comprendre qu'il est temps de se reposer."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es vraiment incroyable! Chaque fois que tu travailles sur la gestion de tes émotions, tu deviens plus fort. Continue à pratiquer et à apprendre chaque jour. Rappelle-toi que tu es capable de grandes choses. Je suis tellement fier de toi!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu déjà essayé de faire une activité calme comme le dessin quand tu te sens agité? Dessiner ou colorier peut aider à se concentrer et à se détendre. Quelle est ta couleur préférée? Utiliser des couleurs que tu aimes peut rendre l'activité encore plus amusante. Veux-tu essayer de dessiner quelque chose qui te rend heureux?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelle-toi, c'est important de donner à ton corps et ton esprit le temps de se reposer. Quand tu es fatigué, il est plus difficile de gérer tes émotions. Alors, assure-toi de bien dormir et de manger des aliments sains. Cela te donnera l'énergie dont tu as besoin pour être le meilleur de toi-même."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nous avons appris beaucoup de choses aujourd'hui sur comment gérer nos émotions. Chaque petit pas que tu fais est important. Tu as maintenant des astuces que tu peux utiliser chaque jour. N'oublie pas que tu es capable de gérer tes émotions avec courage. Je suis là pour t'aider à chaque étape du chemin."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, mes petits amis. Vous êtes tous des héros incroyables, capables de grandes choses. Continuez à être courageux et à prendre soin de vos émotions. Je suis toujours là pour vous aider. À bientôt pour notre prochaine aventure!"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Koko"
+}

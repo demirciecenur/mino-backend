@@ -1,0 +1,104 @@
+{
+  "id": "mino_numbers_story",
+  "character": "Mino",
+  "topic": "numbers",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mino. Bugün birlikte sayılarla ilgili harika bir maceraya çıkacağız. Uzayda sayılarla dolu bir yolculuğa ne dersin? Hazır mısın? Seni çok merak ediyorum!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Sayılar her yerde, değil mi? Sabah uyandığında kaç tane oyuncak gördüğünü sayabilirsin. Ya da kahvaltıda kaç tane dilim ekmek yediğini! Sayılar, günlük hayatımızın bir parçası ve onları öğrenmek çok eğlenceli olabilir. Şimdi, ilk sayımız bir ile başlayalım. Bir, yalnızca bir tane şeyi ifade eder, mesela bir tane güzel gül!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir sayısını öğrendiğimize göre, şimdi iki sayısına geçelim. İki, çift olan şeyleri ifade eder. Mesela, iki tane ayakkabın var, değil mi? İki tane el, iki tane göz. Haydi, birlikte ikiye kadar sayalım: bir, iki!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Şimdi üç sayısına bakalım. Üç, birçok şey için kullanılır. Üç tane oyuncak ayın var mı? Peki ya üç tane renkli kalem? Üç sayısını öğrenmek çok eğlenceli, çünkü üçgen gibi şekiller de üç kenara sahiptir!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Üçten sonra dört geliyor. Dört, genellikle kare şeklinde şeylerle ilişkilendirilir. Dört köşeli bir masa ya da dört yapraklı bir yonca düşün. Şimdi birlikte dörde kadar sayalım: bir, iki, üç, dört! Dört sayısını öğrendikten sonra, etrafında dört olan şeyler bulmaya çalış!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi beş sayısına geçiyoruz. Beş, bir elin parmakları gibi. Her bir parmağını sayarak beşe ulaşabilirsin. Beş, aynı zamanda beşinci yaş gününün de sayısı olabilir. Şimdi beşe kadar sayalım: bir, iki, üç, dört, beş!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin kaç tane en sevdiğin oyuncak var? Beşten fazla mı? Düşün bakalım, belki de altı ya da yedi olabilir. Oyuncaklarını saymak için harika bir fırsat bu! Saymayı çok seveceksin, hadi başlayalım!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Altı sayısına geçelim. Altı, genellikle bir zarın üstündeki nokta sayısıyla ilişkilendirilir. Altı tane elma ya da altı tane balon hayal edebilirsin. Altıya kadar saymak çok kolay: bir, iki, üç, dört, beş, altı!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsun! Şimdi yedi sayısına bakalım. Yedi, haftanın günlerinin sayısıdır. Pazartesi, salı, çarşamba, perşembe, cuma, cumartesi ve pazar. Haftanın yedi günü boyunca neler yapabileceğini düşünmek çok eğlenceli!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Sekiz sayısı, birçok farklı şeyde karşımıza çıkar. Örneğin, bir sekizgenin sekiz kenarı vardır. Ayrıca, bir örümceğin sekiz bacağı olabilir. Sekize kadar saymak gerçekten kolay: bir, iki, üç, dört, beş, altı, yedi, sekiz!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Dokuz sayısı, neredeyse on sayısına ulaşmak demek. Dokuz tane renkli taş ya da dokuz tane yıldız hayal et. Dokuz sayısı, bir şeyin sonuna yaklaşmanın heyecanını taşır. Haydi birlikte dokuz sayısına kadar sayalım!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence on sayısına ulaşmak nasıl bir his? On parmağını düşün, iki elinle birlikte tam on tane parmak eder. On sayısına ulaşmak, sayma yolculuğunda büyük bir başarıdır! Sen de on sayısına kadar sayabilir misin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "On sayısına ulaştık ve bu büyük bir adım! On, birçok şeyin tamamlandığı bir sayıdır. Mesela, on tane kitap ya da on tane şeker hayal edebilirsin. On sayısı, sayma becerilerimizin zirvesi gibidir!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sayıları öğrenmek gerçekten harika bir macera oldu, değil mi? Şimdi öğrendiklerini kullanarak kendi sayma oyunlarını oluşturabilirsin. Oyuncaklarını, kalemlerini ya da ayakkabılarını sayarak pratik yap. Sen harikasın!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün sayılarla dolu harika bir yolculuk yaptık. Seninle bu macerayı paylaşmak çok güzeldi. Şimdi öğrendiklerini arkadaşlarınla paylaşmayı unutma. Bir sonraki maceramızda görüşmek üzere, hoşça kal! Seninle tekrar buluşmayı dört gözle bekliyorum!"
+    }
+  ],
+  "title": "Mino'ın Numbers Hikayesi"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "clever_mouse_jerry_screen_time_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "screen_time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Clever Mouse Jerry, and today we're going to have a fun adventure talking about screen time. Are you ready to learn and play with me? I promise it will be exciting, and we'll discover many interesting things together. We'll learn when it's good to watch screens and when it's even better to play outside. So let's get started and have some fun!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Screen time is when we use things like TVs, tablets, or phones to watch shows or play games. It's like when you watch your favorite cartoon or play a fun game. But did you know it's important to balance screen time with other activities? Just like you need to eat different foods to stay healthy, you need to do different activities to keep your mind and body happy. Watching screens can be fun, but playing outside or reading books can be just as exciting!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's think about some fun things we can do without screens. How about building a tower with blocks or drawing a picture of your favorite animal? These activities help us use our imagination and creativity. When we play with toys or color in a book, we can create our own stories and adventures. It's like being the hero in your own movie! So next time you think about watching a screen, remember there are many other fun things to do too."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking of activities to do without screens! You're doing amazing, and I'm so proud of you. Let's take a moment to try something together. How about we take three deep breaths to relax our minds? Breathe in... and out. Breathe in... and out. One more time. Doesn't that feel nice? Now your mind is ready for more fun and learning!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about balancing screen time with other activities? Let's think about when is a good time to use screens. Maybe after you've played outside or finished your homework. It's like having a special treat after eating your vegetables. Screens can be like a reward for doing other important things first. This way, you enjoy your screen time even more because you've earned it!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's practice counting together. Can you count with me up to five? One, two, three, four, five! Fantastic! Counting is a fun way to use our brains, and it doesn't need any screens. You can count your toys, count the steps you take, or even count the clouds in the sky. There are so many ways to play and learn without screens!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure by thinking about the kinds of things we can watch on screens. There are educational shows that teach us about animals, space, or even how to cook! These shows can be a great way to learn new things. But remember, it's important not to watch too much at once. Taking breaks helps us stay healthy and keeps our eyes and minds fresh."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a great job learning about screen time! It's wonderful to see how curious and smart you are. Let's imagine we're going on a treasure hunt. What would you bring with you? Maybe a map, a magnifying glass, or even a compass. These are tools that help us explore and discover, just like how learning about screen time helps us make good choices."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about counting? Let's count the fun things we did today. We learned about screen time, we practiced breathing, and we counted to five. That's three amazing things! Counting what we've done helps us see all the fun we've had without screens. It's like keeping track of our own little adventures."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a game you like to play that doesn't need a screen? Maybe it's a game of tag, hide and seek, or even a puzzle. These games are fun and help us move our bodies and think creatively. Playing games with friends or family is a great way to spend time together and make happy memories. What game would you like to play next?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's talk about using screens with friends or family. Watching a movie together or playing a game can be a fun way to share screen time. It's like having a little party where everyone can enjoy together. But remember, it's also important to talk and play without screens. That way, everyone can enjoy different kinds of fun and stay connected."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's imagine we're planning a day filled with different activities. First, we can play outside, then maybe watch a short show, and later, read a storybook. Mixing activities helps us enjoy each one more. It's like having different colors in a painting, each one making the picture more beautiful. Planning our day this way keeps it exciting and balanced."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing a fantastic job learning about how to balance screen time! It's important to remember that every day can be an adventure if we choose different activities. Just like how we can choose a new story to read or a new game to play. You're becoming a pro at making good choices, and that's something to be proud of!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we near the end of our journey today, let's think about one thing we'll try tomorrow without screens. Maybe a new game, a craft project, or even baking something yummy with a grown-up. These activities can be just as exciting as watching a screen. Trying new things helps us grow and learn, and who knows what fun you'll discover!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me, Clever Mouse Jerry, on this adventure about screen time. I hope you had fun and learned a lot about balancing your day. Remember, screens are just one part of the fun, and there are many other adventures waiting for you. Keep exploring, keep learning, and most importantly, keep having fun! Goodbye, and see you next time!"
+    }
+  ],
+  "title": "Clever Mouse Jerry's Screen Time Story"
+}

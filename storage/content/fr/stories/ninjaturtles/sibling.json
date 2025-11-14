@@ -1,0 +1,104 @@
+{
+  "id": "shell_heroes_crew_sibling_story",
+  "character": "Shell Heroes Crew",
+  "topic": "sibling",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour petit ami ! Nous sommes la Shell Heroes Crew. Aujourd'hui, nous allons vivre une aventure incroyable sur le thème des frères et sœurs. Êtes-vous prêt ? Nous sommes tellement curieux de découvrir vos histoires de famille. Préparez-vous à explorer le monde des relations fraternelles avec nous !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Avoir un frère ou une sœur, c'est comme avoir un super copain toujours prêt à jouer. Imaginez avoir quelqu'un avec qui partager vos jouets préférés ou inventer des jeux amusants. Les frères et sœurs peuvent aussi être là pour vous réconforter quand vous êtes triste. C'est un peu comme avoir un héros à vos côtés ! Vous pouvez apprendre beaucoup les uns des autres et grandir ensemble, tout en s'amusant."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons de comment nous pouvons bien jouer ensemble avec nos frères et sœurs. Quand on joue, il est important de partager et de prendre des tours. Cela rend le jeu plus amusant pour tout le monde. Pensez à un jeu que vous aimez et imaginez comment vous pouvez le rendre encore plus chouette en jouant avec votre frère ou votre sœur. Vous pouvez aussi inventer de nouvelles règles ensemble. Cela rend le jeu unique et spécial !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, essayons quelque chose de sympa. La prochaine fois que vous jouez avec votre frère ou votre sœur, demandez-lui quel jeu il aimerait jouer. C'est une belle façon de montrer que vous vous souciez de ce qu'il aime. Vous verrez, cela rendra le moment encore plus amusant pour vous deux. Vous pouvez essayer de compter jusqu'à cinq pour décider qui commence à jouer. C'est amusant et juste !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Quand on parle de partager, cela peut aussi signifier partager nos sentiments. Parfois, vous pouvez vous sentir triste ou frustré avec votre frère ou votre sœur, et c'est normal. Vous pouvez parler de ce que vous ressentez avec eux. Cela aide à rendre les choses meilleures et à renforcer votre relation. Rappelez-vous, les héros aussi parlent de leurs émotions pour rester forts ensemble !"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Il est temps de faire un petit exercice ensemble. Prenons trois grandes respirations calmes pour nous détendre. Inspirez profondément par le nez, puis expirez lentement par la bouche. Vous pouvez le faire avec votre frère ou votre sœur, et cela vous aidera à vous sentir plus calme et heureux. Essayez de le faire chaque fois que vous vous sentez un peu stressé ou énervé. Cela fonctionne vraiment bien !"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous quand nous avons parlé de jouer ensemble ? Eh bien, après avoir respiré profondément, vous pouvez essayer un nouveau jeu avec votre frère ou votre sœur. Peut-être que vous pouvez faire semblant d'être des super-héros qui sauvent la journée. C'est une excellente façon de renforcer votre amitié et de créer des souvenirs amusants. Et qui sait, vous pourriez même découvrir un nouveau jeu préféré ensemble !"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous savez, être un bon frère ou une bonne sœur, c'est aussi aider dans les petites tâches. Par exemple, ranger les jouets ensemble ou aider à mettre la table. Cela montre que vous vous souciez l'un de l'autre et que vous voulez rendre la vie plus facile pour tout le monde. C'est comme être une équipe de super-héros à la maison. Vous pouvez le faire, et c'est vraiment génial !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, les frères et sœurs peuvent se disputer, et c'est tout à fait normal. Mais ce qui est important, c'est de trouver des solutions ensemble. Vous pouvez essayer de parler calmement et de trouver un compromis qui fonctionne pour vous deux. C'est comme résoudre un puzzle ensemble, et cela vous rendra tous les deux plus forts. Les disputes ne durent jamais longtemps quand on travaille ensemble !"
+    },
+    {
+      "id": "question_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Qu'est-ce que vous préférez faire avec votre frère ou votre sœur ? Peut-être aimez-vous lire des histoires ensemble ou construire des tours de blocs. Chacun a ses propres jeux préférés, et c'est ce qui rend chaque relation unique. Pensez à votre activité préférée et pourquoi vous l'aimez tant. Est-ce que vous aimez parce que c'est amusant ou parce que ça vous rapproche ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "En parlant de vos activités préférées, pourquoi ne pas essayer quelque chose de nouveau ensemble ? Vous pourriez essayer de dessiner un grand tableau ou de faire un spectacle de marionnettes. Cela pourrait être une aventure passionnante et une chance de découvrir de nouveaux talents. Et qui sait, vous pourriez même créer votre propre spectacle pour la famille. C'est une excellente façon de partager et de s'amuser !"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "N'oubliez pas de dire à votre frère ou votre sœur combien vous l'appréciez. Un petit 'merci' ou 'je t'aime' peut rendre leur journée spéciale. Ces mots gentils montrent combien vous tenez à eux. C'est comme donner un petit cadeau de bonheur chaque jour. Alors, allez-y, faites-leur savoir combien ils sont importants pour vous !"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les frères et sœurs peuvent aussi être de grands partenaires d'apprentissage. Vous pouvez apprendre de nouvelles choses ensemble, comme de nouvelles chansons ou des danses amusantes. C'est une façon merveilleuse de passer du temps ensemble et de découvrir de nouvelles passions. Vous pourriez même devenir les meilleurs danseurs de la maison ! L'apprentissage est toujours plus amusant à deux."
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Terminons notre aventure avec un petit défi. Essayez de faire quelque chose de gentil pour votre frère ou votre sœur aujourd'hui. Cela peut être aussi simple que de partager un sourire ou de les aider à ranger leurs affaires. Les petits gestes comptent beaucoup et montrent combien vous vous souciez d'eux. Alors, êtes-vous prêts à relever ce défi de gentillesse ? Nous savons que vous pouvez le faire !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé du temps avec nous aujourd'hui pour parler des frères et sœurs. Nous espérons que vous avez appris beaucoup de nouvelles choses et que vous êtes prêts à créer encore plus de souvenirs avec votre famille. Rappelez-vous, chaque jour est une nouvelle aventure à partager avec vos frères et sœurs. À très bientôt pour une autre aventure avec la Shell Heroes Crew !"
+    }
+  ],
+  "title": "Histoire de Sibling de Shell Heroes Crew"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "mystery_pup_buddy_friendship_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "friendship",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello there, little friend! It's me, Mystery Pup Buddy, your pal in solving mysteries and making new friends. Today, we're going on a fun adventure all about friendship! Are you excited? I sure am! Friendship is like a magical treasure that we all can find. So, let's wag our tails, take a deep breath, and begin our journey together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what friendship means. Friendship is when two or more people have fun together and care about each other. It's like when you share your toys or laugh at silly jokes. Friends help each other out, like when you help your buddy pick up their toys. Isn't that just wonderful? Friendship is all about being kind and having fun together!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about sharing? Sharing is a big part of being a good friend. If you have a yummy cookie, you can share half with your friend. It's like magic, making two smiles instead of one! When you share, you show that you care. Let's practice sharing by pretending we have a big, yummy cookie. Can you imagine sharing it with a friend?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You did a great job imagining sharing that cookie! Wonderful! Now, let's think about playing together. Playing is a fun way to make friends. You can play games like tag, where everyone runs and giggles. Or maybe build a tower with blocks together. Playing helps us learn about each other and laugh a lot. Would you like to try playing a game with a friend today?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our friendship journey by talking about listening. Listening is when you pay attention to what your friend is saying. It's like when your friend tells you about their favorite toy, and you listen carefully. Listening shows that you care about your friend’s thoughts and feelings. Can you think of a time when you listened to a friend? Listening can make your friendship stronger!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let’s practice listening together. Imagine your friend is telling you a story about their day. You can nod your head and say, 'Wow!' or 'Really?' to show you’re listening. Let's pretend I'm telling you a story about finding a shiny pebble. Can you listen and then tell me what you think? Listening is like giving a big hug with your ears!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job listening! You're becoming a wonderful friend! Next, let's think about helping. Helping is when you do something nice for someone else. Like helping a friend tie their shoe or clean up after playing. Helping shows that you care and want to make things better for your friend. Can you think of a way you can help someone today? You're doing amazing!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about being kind? Kindness is like a warm blanket that makes everyone feel good. Being kind means using nice words and actions. Like saying 'please' and 'thank you', or giving a friend a hug when they're sad. Kindness makes friendships shine like the sun! Can you think of a kind thing you can do for a friend? Let's spread kindness everywhere!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now that we know about kindness, let's talk about saying sorry. Sometimes, we make mistakes, and that's okay! Saying sorry is when we tell a friend we didn't mean to upset them. It's like fixing a little bump in the road. Saying sorry helps friends feel better and keeps the friendship strong. Have you ever said sorry to a friend? It feels good to make things right!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue by talking about taking turns. Taking turns means everyone gets a chance to play or speak. It's like when you wait for your turn on the slide at the playground. Taking turns shows respect and makes sure everyone has fun. Can you think of a game where you take turns? Taking turns is a great way to play and be fair!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well learning about friendship! Now, let's imagine we're playing a game where we take turns. Maybe we're playing a board game, and each friend gets a turn to roll the dice. Isn't that fun? Taking turns helps everyone enjoy the game. You're becoming a super friend! Let's keep practicing taking turns in all our games!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a special friend you like to play with? How do you show them you're a good friend? Maybe you share your toys or help them when they're feeling down. It's so nice to have a friend who makes you smile. What do you like to do with your friends? Let's think about all the fun things we can do together!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's wrap up our adventure with a big friendship hug! Friendship is like a garden that grows with love and care. When we share, listen, help, and play, our friendship garden blooms with happiness. Remember, being a friend is about making others feel special. Can you think of a way to make a friend smile today? You're a fantastic friend!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Wow, what a wonderful journey we've had together! Thank you for joining me, Mystery Pup Buddy, on this friendship adventure. Remember, you can be a super friend every day by being kind and caring. I'm so proud of you! Now, let's wag our tails and say goodbye until next time. Keep being awesome, my friend!"
+    }
+  ],
+  "title": "Mystery Pup Buddy's Friendship Story"
+}

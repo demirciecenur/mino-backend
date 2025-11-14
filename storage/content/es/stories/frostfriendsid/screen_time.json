@@ -1,0 +1,98 @@
+{
+  "id": "frost_friend_sid_tiempo_de_pantalla_seguridad_digital_uso_de_tecnología_hábitos_saludables_de_pantalla_story",
+  "character": "Frost Friend Sid",
+  "topic": "tiempo de pantalla, seguridad digital, uso de tecnología, hábitos saludables de pantalla",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeños amigos! Soy Frost Friend Sid, y hoy vamos a emprender un viaje increíble. Vamos a hablar sobre el tiempo de pantalla, la seguridad digital, y cómo usar la tecnología de manera saludable. ¿Están listos para una gran aventura? Estoy muy emocionado de compartir estos consejos con ustedes. ¡Vamos a comenzar!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Primero, hablemos del tiempo de pantalla. ¿Saben qué es el tiempo de pantalla? Es el tiempo que pasamos usando dispositivos como tabletas, teléfonos o viendo televisión. Es divertido, pero también es importante no pasar demasiado tiempo frente a la pantalla. A veces, cuando pasamos mucho tiempo mirando pantallas, nos perdemos otras actividades divertidas, como jugar al aire libre. ¿No sería genial encontrar un equilibrio?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a aprender cómo podemos usar la tecnología de manera segura. La seguridad digital significa protegernos cuando usamos internet. Por ejemplo, no debemos compartir nuestra información personal, como direcciones o números de teléfono, con extraños en línea. También es importante pedirle a un adulto que nos ayude cuando queremos descargar una nueva aplicación. Así, nos mantenemos seguros mientras nos divertimos."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ustedes pueden hacerlo! Aprender a usar la tecnología de manera segura es como aprender a andar en bicicleta. Al principio puede parecer difícil, pero con práctica y ayuda, podemos hacerlo bien. Recuerden siempre preguntar si no están seguros de algo. ¡Juntos podemos ser expertos en seguridad digital!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablando de hábitos saludables, ¿sabían que es bueno tomar descansos de la pantalla? Cada cierto tiempo, podemos levantarnos, estirarnos, y mirar por la ventana. Esto ayuda a nuestros ojos y nuestra mente a relajarse. También podemos aprovechar ese tiempo para hacer algo activo, como saltar o bailar. ¡Moverse es tan importante como jugar con la tecnología!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer un ejercicio juntos. Cuando cuente hasta tres, vamos a respirar profundamente. Uno, dos, tres... ¡Inhalen! Ahora exhalen lentamente. Esto nos ayuda a sentirnos calmados y listos para seguir aprendiendo. Practicar respiración profunda es un gran hábito, especialmente cuando necesitamos un descanso de la tecnología."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez han sentido que es difícil dejar de usar un dispositivo? A veces, los juegos o videos son tan divertidos que no queremos parar. Pero, ¿saben qué? Siempre podemos volver a jugar después de hacer otras cosas. ¿Qué otras actividades les gusta hacer cuando no están usando tecnología? Tal vez dibujar o leer un libro. ¡Hay tantas opciones!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Recuerden cuando hablamos de tomar descansos. Ahora, ¿qué tal si pensamos en algunas actividades que podemos hacer durante esos descansos? Podríamos construir una torre con bloques, o quizás podríamos cuidar una planta. Estas actividades nos ayudan a usar nuestra imaginación y a divertirnos sin pantallas. ¿No suena eso emocionante?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Ustedes están haciendo un trabajo maravilloso aprendiendo sobre el uso saludable de la tecnología. Recuerden, es como tener una caja de herramientas llena de opciones. Podemos elegir cuándo usar cada herramienta para hacer nuestra vida más divertida y segura. ¡Confío en que pueden hacerlo!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, compartir lo que aprendemos con amigos o familia es muy útil. Podemos contarles sobre la importancia de la seguridad en línea y de tomar descansos. Además, compartir nuestros conocimientos nos hace sentir bien y ayuda a los demás a aprender también. ¿Con quién les gustaría compartir lo que hemos aprendido hoy?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a crear un plan. Piensen en un momento del día en el que podrían tomar un descanso de la pantalla. Podría ser después de la escuela o antes de cenar. Escriban o dibujen su plan para recordarlo. Tener un plan nos ayuda a mantenernos organizados y a recordar nuestros nuevos hábitos saludables."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden que usar la tecnología es como una aventura. Hay tanto que podemos descubrir y aprender. Pero también es importante saber cuándo es momento de descansar. Equilibrar el tiempo de pantalla con otras actividades es la clave para una vida feliz y saludable. ¡Vamos a ser aventureros inteligentes!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Qué les parece si hacemos un pequeño juego? Piensen en tres cosas que disfruten hacer sin usar tecnología. Ahora, cuéntenmelas. Tal vez les gusta pintar, jugar con sus juguetes o salir a caminar. ¡Es divertido recordar todas las cosas maravillosas que podemos hacer!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer compartir este tiempo con ustedes, pequeños aventureros. Espero que hayan aprendido mucho sobre el tiempo de pantalla, la seguridad digital, y cómo tener hábitos saludables. Recuerden, siempre es bueno preguntar si tienen dudas. ¡Estoy muy orgulloso de ustedes! Hasta la próxima, y recuerden seguir explorando y aprendiendo. ¡Adiós, amigos!"
+    }
+  ],
+  "title": "Historia de Screen Time de Frost Friend Sid"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "luna_friendship_story",
+  "character": "Luna",
+  "topic": "friendship",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Luna, und heute gehen wir gemeinsam auf eine wundervolle Reise über Freundschaft. Bist du bereit, mit mir in eine magische Welt voller Sterne und Träume einzutauchen? Freundschaft ist etwas ganz Besonderes, und ich kann es kaum erwarten, mehr darüber zu erzählen. Lass uns gemeinsam entdecken, wie schön es ist, Freunde zu haben. Ich bin so froh, dass du hier bist!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft bedeutet, jemanden zu haben, mit dem man lachen und spielen kann. Es ist, als ob man einen besonderen Stern am Himmel hat, der immer für einen leuchtet. Erinnerst du dich an das letzte Mal, als du mit einem Freund gespielt hast? Wie habt ihr euch gefühlt? Es ist so schön, jemanden zu haben, der einem zuhört und mit dem man Abenteuer erleben kann. Jetzt lass uns mehr darüber erfahren, wie man ein guter Freund sein kann."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Um ein guter Freund zu sein, sollten wir immer freundlich und hilfsbereit sein. Wenn dein Freund traurig ist, kannst du ihm ein Lächeln schenken oder ihm helfen, sich besser zu fühlen. Es ist wichtig, zuzuhören und zu verstehen, was der andere sagt. Möchtest du versuchen, jemandem zuzuhören und ihm zu helfen? Das ist eine wunderbare Art, Freundschaft zu zeigen. Lass uns gemeinsam überlegen, wie wir das tun können."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Jetzt lass uns überlegen, welche Spiele wir mit unseren Freunden spielen können. Vielleicht magst du Verstecken spielen oder ein lustiges Lied singen? Es gibt so viele Möglichkeiten, gemeinsam Spaß zu haben. Hast du ein Lieblingsspiel? Es macht so viel Freude, gemeinsam zu spielen und zu lachen. Du kannst es schaffen und dabei neue Freunde finden!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir darüber gesprochen haben, wie wichtig es ist, zuzuhören? Ein guter Freund zu sein bedeutet auch, ehrlich zu sein und die Wahrheit zu sagen. Wenn wir etwas nicht mögen, können wir es freundlich sagen. So verstehen unsere Freunde, was wir mögen und was nicht. Jetzt lass uns überlegen, wie wir ehrlich sein können, ohne jemanden zu verletzen. Das ist auch ein wichtiger Teil der Freundschaft."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns einen kleinen Atemzug machen und darüber nachdenken, wie wir unsere Freunde glücklich machen können. Atme tief ein und dann langsam aus. Das fühlt sich gut an, nicht wahr? Wenn wir ruhig sind, können wir besser nachdenken und Lösungen finden. Zum Beispiel, wie wir einen Freund trösten können, der traurig ist. Kleine Gesten wie eine Umarmung oder ein liebes Wort können viel bewirken."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich toll darin, über Freundschaft nachzudenken! Jetzt lass uns darüber sprechen, wie wir neue Freunde finden können. Manchmal kann es ein bisschen beängstigend sein, aber es ist auch aufregend. Stell dir vor, du siehst jemanden, der alleine spielt. Du könntest hingehen und fragen, ob er mit dir spielen möchte. Das ist eine wunderbare Art, neue Freunde zu gewinnen. Du kannst das schaffen!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft kann uns auch helfen, neue Dinge zu lernen. Wenn wir mit anderen Kindern spielen, entdecken wir neue Spiele und Ideen. Hast du schon mal etwas von einem Freund gelernt, das du noch nicht wusstest? Vielleicht ein neues Spiel oder ein lustiges Lied? Es ist so spannend, immer wieder etwas Neues zu erfahren. Jetzt lass uns darüber nachdenken, was wir alles von unseren Freunden lernen können."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Weißt du, was auch toll an Freundschaft ist? Dass wir gemeinsam Probleme lösen können. Wenn etwas nicht klappt, können wir zusammen überlegen, wie wir es besser machen. Erinnerst du dich an ein Problem, das du mit einem Freund gelöst hast? Es ist so schön, wenn wir gemeinsam stark sind und uns unterstützen. Jetzt lass uns überlegen, wie wir das nächste Mal ein Problem lösen können."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du jemals darüber nachgedacht, was Freundschaft für dich bedeutet? Was macht einen Freund zu einem guten Freund? Ist es das Lachen, das Teilen oder vielleicht das Zuhören? Überlege einmal, was dir am meisten an deinen Freunden gefällt. Es gibt so viele wundervolle Dinge, die Freundschaft ausmachen. Ich bin gespannt, was du denkst!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel über Freundschaft gesprochen haben, lass uns daran denken, wie wir unsere Freundschaften pflegen können. Es ist wichtig, die Zeit mit unseren Freunden zu genießen und ihnen zu zeigen, dass wir sie schätzen. Vielleicht kannst du deinem Freund heute ein Bild malen oder ihm eine Geschichte erzählen. Kleine Gesten der Freundlichkeit machen Freundschaften stark und glücklich. Lass uns das ausprobieren!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns nun eine kleine Übung machen. Stell dir vor, du bist ein Stern am Himmel und leuchtest für deine Freunde. Wie fühlt sich das an? Es ist schön, nicht wahr? Du kannst auch im echten Leben ein leuchtender Stern sein, indem du freundlich und hilfsbereit bist. Lass uns überlegen, wie wir das jeden Tag machen können. Du bist ein wunderbarer Freund!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist so gut darin, über Freundschaft nachzudenken und sie zu leben. Jetzt bist du bereit, all das Gelernte in die Tat umzusetzen. Geh hinaus und teile dein Lächeln mit deinen Freunden. Du wirst sehen, wie glücklich sie darüber sind. Gemeinsam könnt ihr so viele Abenteuer erleben und die Welt entdecken. Ich bin so stolz auf dich!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Freundschaft zu sprechen. Ich hoffe, du hast genauso viel Spaß gehabt wie ich. Jetzt, da wir so viel gelernt haben, kannst du deine Freundschaften noch mehr genießen. Ich freue mich schon auf das nächste Mal, wenn wir wieder zusammen sprechen. Bis dahin wünsche ich dir viele fröhliche Momente mit deinen Freunden. Tschüss, kleiner Freund!"
+    }
+  ],
+  "title": "Lunas Friendship Geschichte"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "mystery_pup_buddy_friendship_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Mystery Pup Buddy. Hoy vamos a embarcarnos en un viaje increíble sobre la amistad. ¿Estás listo? ¡Estoy tan emocionado de que estés aquí conmigo! Juntos, descubriremos lo especial que es tener amigos y cómo podemos ser buenos amigos también. ¡Vamos a comenzar esta aventura mágica!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad es algo maravilloso que nos hace sentir felices. Tener amigos significa que nunca estamos solos. Podemos jugar juntos, compartir risas y aprender cosas nuevas. ¿Sabías que los amigos son como un equipo? Trabajan juntos y se ayudan unos a otros. Ahora, pensemos en cómo podemos hacer nuevos amigos. ¿Tienes alguna idea?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para hacer amigos, primero debemos ser amables y sonreír. Una sonrisa puede iluminar el día de alguien. También podemos decir 'hola' y preguntar cómo están. Es importante escuchar atentamente cuando hablan. Así sabremos qué les gusta y cómo podemos jugar juntos. ¿Te gustaría practicar cómo saludar?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Ahora, vamos a practicar juntos. Imagínate que ves a un nuevo amigo en el parque. ¿Qué le dirías? Podrías decir 'Hola, ¿quieres jugar conmigo?'. ¡Perfecto! Así es como comienza una gran amistad. Recuerda que todos pueden ser amigos si somos amables y considerados. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos cómo saludar, hablemos sobre compartir. Compartir es una parte importante de la amistad. Por ejemplo, si tienes un juguete que te gusta, puedes invitar a tu amigo a jugar con él. ¡Eso hace que los juegos sean más divertidos! Al compartir, mostramos que nos importa el otro. ¿Te gustaría intentar compartir algo con un amigo?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando compartimos, todos pueden disfrutar. Si tienes un libro de cuentos, podrías leerlo con un amigo. O si tienes un bocadillo, podrías ofrecerle un poco. Recuerda preguntar primero, '¿Te gustaría compartir esto conmigo?'. Así ambos se sentirán felices y apreciados. ¡Qué bien se siente compartir!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estás haciendo un gran trabajo aprendiendo sobre la amistad! Ahora, hablemos sobre cómo resolver problemas con amigos. A veces, podemos no estar de acuerdo, y eso está bien. Lo importante es hablar sobre lo que sentimos y encontrar una solución juntos. ¿Te gustaría aprender cómo resolver problemas de manera amistosa?"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez has tenido un pequeño problema con un amigo? ¿Cómo lo resolviste? Tal vez hablaron sobre lo que les molestaba. O quizás encontraron una nueva manera de jugar. Resolver problemas juntos fortalece la amistad. ¿Puedes pensar en una forma de hacer las paces con un amigo?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablar sobre nuestros sentimientos es muy importante en la amistad. Podemos decir 'Me siento triste cuando...', o 'Me gusta cuando...'. Esto ayuda a nuestros amigos a entendernos mejor. Recuerda que un buen amigo siempre escucha y trata de ayudar. Ahora, pensemos en cómo podemos ser buenos oyentes."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ser un buen oyente significa prestar atención cuando alguien habla. Podemos mirar a los ojos y asentir con la cabeza. A veces, podemos repetir lo que dijo nuestro amigo para mostrar que entendemos. Por ejemplo, si un amigo dice que le gusta dibujar, podríamos responder '¡Qué bueno! También me gusta dibujar'. Esto hace que nuestros amigos se sientan importantes."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo muy bien! Ahora, vamos a practicar cómo ser buenos oyentes. Imagina que tu amigo te cuenta sobre su día. Puedes escuchar con atención y luego decir, '¡Eso suena divertido!'. Así demuestras que te importa lo que dice. ¡Tú puedes ser un gran amigo y oyente!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad también se trata de divertirse juntos. Podemos jugar a juegos, construir cosas o simplemente reírnos. Es importante encontrar cosas que ambos disfruten. Esto hace que cada momento juntos sea especial. ¿Qué te gusta hacer con tus amigos? Tal vez jugar a las escondidas o construir castillos de bloques."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas cuando hablamos de compartir y resolver problemas? Todos estos son pasos hacia una amistad más fuerte. Practicar estas habilidades hace que las amistades sean más divertidas y felices. Ahora, pensemos en un juego que podríamos jugar juntos. Tal vez un juego de imitación, donde uno hace un sonido y el otro lo repite. ¡Qué divertido!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Cuál es tu juego favorito para jugar con amigos? Tal vez te guste jugar a la pelota o hacer carreras. ¿Te gustaría compartir tu juego favorito conmigo? Jugar juntos nos une y crea recuerdos felices. ¡Es maravilloso tener amigos para disfrutar de estos momentos!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer aprender sobre la amistad contigo. Recuerda ser amable, compartir, escuchar y divertirte. Estos son los ingredientes mágicos de una gran amistad. Espero que te diviertas mucho haciendo nuevos amigos. ¡Gracias por acompañarme en esta aventura! Cuídate y hasta la próxima, pequeño amigo."
+    }
+  ],
+  "title": "Historia de Friendship de Mystery Pup Buddy"
+}

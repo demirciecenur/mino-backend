@@ -1,0 +1,104 @@
+{
+  "id": "tiko_confidence_story",
+  "character": "Tiko",
+  "topic": "confidence",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Tiko. Aujourd'hui, nous allons explorer le monde merveilleux de la confiance. Est-ce que tu es prêt ? Je suis tellement curieux d'apprendre avec toi. Ensemble, nous allons découvrir comment être courageux et sûr de soi chaque jour. Allons-y !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance, c'est comme un super pouvoir. Elle te permet de faire des choses que tu pensais impossibles, comme apprendre à faire du vélo ou parler devant la classe. Quand tu te sens confiant, tu te sens fort et prêt à tout affronter. Tu te souviens d'un moment où tu étais très fier de toi ? C'est ça, la confiance !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour être plus confiant, tu peux essayer des petites choses chaque jour. Par exemple, la prochaine fois que tu joues, essaie un nouveau jeu. Tu verras comme c'est amusant d'essayer de nouvelles choses. Chaque fois que tu réussis, ta confiance grandit un peu plus. Crois-moi, tu es déjà très courageux !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, essayons quelque chose ensemble. Ferme les yeux et imagine que tu es un grand lion courageux. Respire profondément une fois, deux fois, trois fois. Sens-tu la force du lion en toi ? Tu peux rugir comme un lion si tu veux. Bravo ! Tu es incroyable !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi, la confiance vient aussi en aidant les autres. Quand tu aides un ami à ranger ses jouets ou que tu partages ton goûter, tu te sens bien à l'intérieur. Et cela te rend encore plus confiant. As-tu déjà aidé quelqu'un aujourd'hui ? C'est un sentiment merveilleux, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parfois, pour être confiant, il faut aussi savoir se détendre. Si tu te sens un peu nerveux, essaie de compter jusqu'à cinq avec moi. Un, deux, trois, quatre, cinq. Bien joué ! Ça aide, n'est-ce pas ? C'est une façon simple de se calmer et de retrouver sa confiance."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "La prochaine fois que tu fais quelque chose de nouveau, rappelle-toi que tu es capable. Dis-toi : 'Je peux le faire !' Avec un peu de pratique, tout devient plus facile. Tu verras, tu réussiras de mieux en mieux. Crois en toi, car tu es vraiment formidable !"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons de courage, un grand ami de la confiance. Le courage, c'est quand tu fais quelque chose même si tu as un peu peur. Comme essayer un nouveau toboggan ou parler à quelqu'un de nouveau. Chaque petit acte de courage te rend plus confiant. Tu es déjà très courageux, tu sais ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, je suis curieux. Quelle est la chose la plus courageuse que tu aies jamais faite ? Peut-être que c'était de dire bonjour à un nouvel ami ou de montrer ton dessin à la classe. Peux-tu y penser ? C'est incroyable d'être courageux !"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Quand tu te sens un peu moins confiant, souviens-toi de tous les moments où tu as été courageux. Cela te rappellera à quel point tu es fort. Chaque petite réussite te rend plus fort et plus confiant. Et n'oublie pas, tu peux toujours demander de l'aide. C'est aussi une preuve de courage !"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons un petit exercice ensemble. Pense à une chose que tu aimerais faire, mais qui te semble un peu difficile. Peut-être que c'est apprendre à nager ou à dessiner un nouveau personnage. Imagine-toi en train de le faire avec succès. Ça donne confiance, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as tout ce qu'il faut pour réussir. Tu es intelligent, courageux et très spécial. Tu peux accomplir tant de choses merveilleuses ! N'oublie jamais que chaque jour est une nouvelle opportunité pour être confiant et essayer de nouvelles choses. Tu es un vrai héros !"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Penses-tu que tu pourrais essayer quelque chose de nouveau cette semaine ? Peut-être une nouvelle activité, ou parler à quelqu'un que tu ne connais pas encore ? Cela pourrait être amusant et te donner encore plus de confiance. Qu'est-ce que tu en penses ?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance, c'est aussi savoir que tu es aimé et apprécié. Tes amis et ta famille sont là pour te soutenir. Et moi aussi, je suis là pour t'encourager. Ensemble, nous pouvons accomplir tant de belles choses. Tu es déjà sur le bon chemin pour devenir encore plus confiant !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, petit ami. J'espère que tu te sens plus confiant et prêt à affronter le monde. N'oublie pas, tu es incroyable et tu peux tout accomplir. Je suis très fier de toi ! À bientôt pour une nouvelle aventure. Au revoir !"
+    }
+  ],
+  "title": "Histoire de Confidence de Tiko"
+}

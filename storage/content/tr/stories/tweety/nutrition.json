@@ -1,0 +1,104 @@
+{
+  "id": "chirpy_birdie_nutrition_story",
+  "character": "Chirpy Birdie",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Chirpy Birdie. Bugün birlikte beslenme hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Beslenme, vücudumuzu güçlü ve sağlıklı tutmak için çok önemli. Şimdi bu eğlenceli yolculuğa başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme, yediğimiz yiyeceklerle ilgilidir ve vücudumuzun ihtiyaç duyduğu enerjiyi sağlar. Örneğin, sabah kahvaltısında yediğimiz bir dilim ekmek bize enerji verir. Bu enerji sayesinde oyun oynayabilir, koşabilir ve zıplayabiliriz. Proteinler, kaslarımızı güçlü tutar ve yumurta gibi yiyeceklerde bulunur. Haydi, beslenme dünyasına daha derin bir yolculuk yapalım!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Beslenmenin bir parçası olan vitaminler, sağlıklı kalmamıza yardımcı olur. Örneğin, portakal gibi meyvelerde bulunan C vitamini, bağışıklık sistemimizi güçlendirir. Böylece hastalıklara karşı daha dirençli oluruz. Sebzeler de çok önemlidir çünkü farklı vitaminler ve mineraller içerirler. Şimdi birlikte hangi sebzeleri sevdiğimizi düşünelim."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sebzeler sağlıklı bir yaşam için olmazsa olmazlardandır. Havuçlar gözlerimizi koruyan beta-karoten içerir. Brokoli ise güçlü kemikler için kalsiyum kaynağıdır. Sen de bu sebzeleri denemek ister misin? Harika! Sebzeleri yediğimizde vücudumuz daha güçlü olur ve daha enerjik hissederiz."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Meyveler de beslenmemizin önemli bir parçasıdır. Elma, muz, çilek gibi meyveler tatlı ve lezzetlidir. Ayrıca meyveler, vücudumuzun ihtiyaç duyduğu farklı vitaminleri sağlar. Her gün birkaç çeşit meyve yemek çok faydalıdır. Meyveler, tatlı krizlerimizi de sağlıklı bir şekilde gidermemize yardımcı olur."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi proteinlere geçelim. Proteinler büyümemize ve kaslarımızı güçlendirmemize yardımcı olur. Et, balık, yumurta ve baklagiller protein kaynaklarıdır. Özellikle büyüme çağındaki çocuklar için protein almak çok önemlidir. Vücudumuzun güçlü kalması için her gün protein tüketmeliyiz."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnede proteinlerin öneminden bahsetmiştik. Şimdi, karbonhidratlara bakalım. Karbonhidratlar enerji kaynağımızdır. Ekmek, makarna ve pirinç gibi yiyecekler karbonhidrat içerir. Bu yiyecekler sayesinde enerjik kalırız ve gün boyu aktif olabiliriz. Senin favori karbonhidratın hangisi?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Yağlar da beslenmemizin bir parçasıdır, ancak dikkatli tüketilmelidir. Zeytinyağı gibi sağlıklı yağlar kalbimize iyi gelir. Çok fazla yağ tüketmek sağlığımızı olumsuz etkileyebilir. Bu yüzden dengeli bir şekilde tüketmeliyiz. Sağlıklı yağlar, vücudumuzun enerji depolarını da destekler."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum: Bugün hangi yiyecekleri yedin? Hatırlıyor musun? Sabah kahvaltısında ne yedin? Öğle yemeğinde hangi sebzeleri tercih ettin? Bu yiyecekler arasında en sevdiğin hangisiydi? Cevaplarını duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Süt ürünleri de beslenmemizde önemli bir yer tutar. Süt, yoğurt ve peynir gibi yiyecekler kalsiyum içerir. Kalsiyum, kemiklerimizi ve dişlerimizi güçlü tutar. Her gün süt ürünleri tüketmek sağlıklı büyümemize yardımcı olur. Şimdi birlikte bir bardak süt içmeye ne dersin?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Su içmek de çok önemlidir. Su, vücudumuzu nemli tutar ve toksinleri atmamıza yardımcı olur. Gün boyunca yeterince su içmek sağlıklı kalmamız için gereklidir. Her gün en az 6-8 bardak su içmeliyiz. Şimdi birlikte su içmeyi unutmayalım!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnede suyun öneminden bahsetmiştik. Şimdi, dengeli beslenmenin ne anlama geldiğine bakalım. Dengeli beslenme, tüm besin gruplarından yeterince almaktır. Böylece vücudumuzun ihtiyaç duyduğu tüm vitamin ve mineralleri sağlarız. Dengeli beslenmek bizi daha sağlıklı ve mutlu yapar."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Dengeli beslenmek için her gün farklı renklerde yiyecekler yemeliyiz. Kırmızı, yeşil, sarı ve turuncu renkli yiyecekler sağlıklı bir tabak oluşturur. Her renk farklı vitaminler içerir. Renkli bir tabak yemek, beslenmemizi daha eğlenceli hale getirir. Sen de renkli bir tabak hazırlamak ister misin?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir başka soru sormak istiyorum: Hangi renk yiyecekleri daha çok seversin? Kırmızı domatesler mi, yoksa yeşil brokoliler mi? Belki de sarı muzlar favorindir. Cevabını duymak için sabırsızlanıyorum. Renkli yiyecekler yemek çok eğlenceli, değil mi?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün beslenme hakkında çok şey öğrendik. Umarım bu bilgiler sana faydalı olmuştur. Unutma, dengeli beslenmek hem sağlıklı hem de eğlencelidir. Bir sonraki buluşmamızda daha fazla şey öğrenmek için sabırsızlanıyorum. Şimdilik hoşça kal, küçük dostum. Sağlıklı ve mutlu kal!"
+    }
+  ],
+  "title": "Chirpy Birdie'ın Nutrition Hikayesi"
+}

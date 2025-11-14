@@ -1,0 +1,104 @@
+{
+  "id": "boots_knight_pal_nutrition_story",
+  "character": "Boots Knight Pal",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Boots Knight Pal, cesur ve maceracı bir yol arkadaşıyım. Bugün seninle sağlıklı beslenmenin sihirli dünyasına adım atacağız. Hazır mısın? Harika bir yolculuk olacak, çünkü besinler vücudumuzun ihtiyacı olan enerji ve gücü sağlar. Şimdi başlayalım ve bu eğlenceli macerada birlikte keşfe çıkalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme, vücudumuzun sağlıklı ve güçlü kalması için çok önemlidir. Her gün yediğimiz gıdalar, bize enerji verir ve büyümemize yardımcı olur. Örneğin, kahvaltıda yediğimiz meyve ve yulaf, bizi okulda daha dikkatli ve enerjik tutar. Sağlıklı beslenmek, aynı zamanda oyun oynarken daha hızlı ve güçlü olmamızı sağlar. Peki, sen en sevdiğin sağlıklı yiyecekleri söylemek ister misin?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Sağlıklı bir beslenme planı oluşturmak için çeşitli gıdalar tüketmeliyiz. Her gün meyve, sebze, süt ürünleri, tahıllar ve protein içeren yiyecekler yemeliyiz. Örneğin, sabah kahvaltısında süt ve tahıl gevreği, öğlen yemeğinde sebzeli bir sandviç ve akşam yemeğinde tavuk veya balık harika seçimlerdir. Ayrıca, su içmek de çok önemlidir. Su, vücudumuzu nemli tutar ve tüm organlarımızın düzgün çalışmasına yardımcı olur."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte sağlıklı bir tabak hazırlamaya ne dersin? Haydi, bir tabak al ve içine biraz havuç dilimleri, birkaç üzüm ve bir parça peynir koy. Bu tür sağlıklı atıştırmalıklar seni okulda ve oyun oynarken enerjik tutar. Unutma, dengeli beslenmek her zaman önemlidir. Sen de böyle sağlıklı tabaklar hazırlayabilir misin? Harika bir iş çıkaracağına eminim!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda sağlıklı tabaklardan bahsetmiştik. Şimdi, farklı renklerdeki yiyeceklerle tanışalım. Kırmızı elma, yeşil ıspanak, sarı muz gibi farklı renklerdeki gıdalar, vücudumuza farklı vitaminler ve mineraller sağlar. Bu renkli yiyecekleri yemek, seni daha güçlü ve sağlıklı yapar. Haydi, sen de tabağında kaç farklı renk olduğunu say!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, her renkteki yiyecek farklı faydalar sağlar. Örneğin, turuncu havuçlar gözlerimiz için çok faydalıdır. Ispanak gibi yeşil sebzeler ise bizi güçlü yapar. Bu yüzden her gün tabağımızda farklı renklerde yiyecekler olmasına dikkat etmeliyiz. Sen de tabağında hangi renkleri görmek istersin?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, sağlıklı beslenmenin oyun oynarken nasıl faydalı olduğunu düşünelim. Enerjik ve güçlü olmak için vücudumuzun doğru besinlere ihtiyacı vardır. Koşarken, zıplarken ve oynarken daha uzun süre dayanabilmek için sağlıklı yiyecekler yemeliyiz. Örneğin, koşu yarışlarında daha hızlı olmak için muz gibi enerji verici gıdalar tüketebiliriz. Sen de bir sonraki oyunun için hangi yiyecekleri seçeceksin?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi, suyun öneminden bahsedelim. Su içmek, vücudumuzu nemli tutar ve daha iyi hissetmemizi sağlar. Oyun oynarken terleriz ve bu yüzden su içmek çok önemlidir. Her gün en az 6-8 bardak su içmeliyiz. Haydi, şimdi birlikte su içelim ve vücudumuzu tazeleyelim! Sen de su içmeyi unutma, tamam mı?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede suyun öneminden bahsettik. Şimdi, tatlı ve abur cuburların yerine ne yiyebileceğimizi konuşalım. Tatlılar ve şekerli yiyecekler yerine meyve gibi doğal tatlıları tercih edebiliriz. Örneğin, bir dilim elma veya bir avuç çilek, hem tatlı ihtiyacımızı karşılar hem de sağlıklıdır. Şimdi, senin en sevdiğin meyve nedir? Benimki muz!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Meyveler sadece lezzetli değil, aynı zamanda çok sağlıklıdır. Onlar, vücudumuzun ihtiyacı olan vitaminleri ve mineralleri içerir. Bu yüzden her gün bir veya iki porsiyon meyve yemeliyiz. Meyveler, tatlı isteğimizi de sağlıklı bir şekilde giderebilir. Sen de tatlı yerine hangi meyveyi tercih edersin?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, proteinlerin vücudumuz için neden önemli olduğunu öğrenelim. Proteinler, kaslarımızın güçlenmesine ve büyümesine yardımcı olur. Et, balık, yumurta ve fasulye gibi yiyecekler protein açısından zengindir. Bu yiyecekler, bizi daha güçlü ve enerjik yapar. Sen de güçlü olmak için hangi proteinli yiyecekleri seversin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika seçimler yapıyorsun! Şimdi, sağlıklı bir yaşam için düzenli beslenmenin önemini hatırlayalım. Her gün düzenli olarak yemek yemek, vücudumuzun ihtiyacı olan enerjiyi sağlar. Ayrıca, yemek saatlerine uyum sağlamak da önemlidir. Sabah kahvaltısının günün en önemli öğünü olduğunu unutma. Sen de kahvaltıda hangi yiyecekleri yemeyi seversin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Beslenme hakkında öğrendiklerimizi hatırlayalım. Sağlıklı bir tabak hazırlamak için hangi yiyecekleri seçerdin? Meyve, sebze, protein ve suyu unutma! Her gün bu besin gruplarından yeterince tüketmek, seni daha güçlü ve sağlıklı yapar. Şimdi, senin sağlıklı tabak önerilerin neler? Merakla dinliyorum!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda sağlıklı tabaklardan bahsetmiştik. Şimdi, sağlıklı beslenmenin hayatımızdaki rolünü düşünelim. Sağlıklı beslenmek, sadece fiziksel olarak değil, zihinsel olarak da bizi güçlendirir. Daha iyi hissederiz, daha iyi odaklanırız ve daha mutlu oluruz. Bu yüzden her gün dengeli beslenmeye özen göstermeliyiz. Senin de sağlıklı beslenmeyle ilgili başka soruların var mı?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte sağlıklı beslenmenin harika dünyasına yolculuk yaptık. Umarım öğrendiklerin seni de heyecanlandırmıştır. Unutma, sağlıklı beslenmek her zaman önemlidir ve sen bunu başarabilirsin! Şimdi, bu bilgileri ailenle paylaşmayı unutma. Bir sonraki maceramızda görüşmek üzere! Hoşça kal, cesur arkadaşım!"
+    }
+  ],
+  "title": "Boots Knight Pal'ın Nutrition Hikayesi"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "koko_behavior_story",
+  "character": "Koko",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Koko, et aujourd'hui, nous allons explorer le monde fascinant du comportement. Êtes-vous prêt pour une aventure incroyable ? Ensemble, nous allons découvrir comment être gentils et respectueux. Cela signifie écouter les autres, partager nos jouets, et toujours essayer de faire de notre mieux. Je suis tellement curieux d'apprendre comment vous vous comportez chaque jour. Allons-y, et souvenez-vous, chaque petit geste compte !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le comportement, c'est un peu comme une superpuissance que chacun de nous possède. Quand on se comporte bien, on rend tout le monde autour de nous heureux. Par exemple, dire 's'il vous plaît' et 'merci' montre que nous respectons les autres. C'est comme donner un sourire magique à quelqu'un. Pensez à comment vous vous sentez lorsque quelqu'un vous traite avec gentillesse. Maintenant, imaginez si tout le monde agissait ainsi. Ce serait un monde vraiment merveilleux, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des règles. Les règles sont là pour nous guider et nous protéger. Par exemple, marcher calmement dans la maison évite les accidents et garder nos jouets rangés aide tout le monde à les retrouver facilement. Pensez à une règle que vous suivez à la maison. Peut-être est-ce de se laver les mains avant de manger ou de se brosser les dents avant de dormir. Ces petites actions montrent que vous prenez soin de vous et des autres. C'est ainsi que nous devenons des héros du quotidien !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons ensemble une petite activité. Prenons trois grandes respirations pour nous calmer. Inspirez profondément par le nez... et expirez doucement par la bouche. Sens comment cela fait du bien ? C'est une technique que vous pouvez utiliser chaque fois que vous vous sentez un peu stressé ou énervé. Vous voyez, même les super-héros comme vous ont besoin de moments de calme. N'oubliez pas que vous pouvez le faire à tout moment. Vous êtes incroyable !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant que nous sommes calmes, parlons de l'importance d'écouter. Écouter attentivement, c'est montrer aux autres que vous vous souciez d'eux. Imaginez que votre ami vous raconte une histoire. Quand vous écoutez bien, vous pouvez poser des questions et en savoir plus. Cela rend les conversations plus intéressantes et amusantes. Vous pouvez essayer de le faire la prochaine fois que quelqu'un vous parle. Vous verrez, cela change tout !"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre partie importante du bon comportement est de partager. Partager, c'est montrer que nous sommes généreux et que nous pensons aux autres. Par exemple, si vous avez deux biscuits, vous pouvez en donner un à votre ami. Cela peut rendre votre ami très heureux et renforcer votre amitié. Pensez à quelque chose que vous pouvez partager aujourd'hui. Peut-être un jouet ou un livre. N'oubliez pas, partager, c'est aussi une manière de dire 'je t'aime'."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous quand nous avons parlé de dire 'merci' ? C'est une petite chose qui a un grand impact. Quand quelqu'un fait quelque chose de gentil pour vous, dire 'merci' montre que vous appréciez son geste. C'est comme donner un câlin avec vos mots. Essayez-le aujourd'hui, et voyez combien de sourires vous pouvez provoquer. Chaque 'merci' est un petit rayon de soleil dans la journée de quelqu'un."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, j'ai une question pour vous. Pouvez-vous penser à un moment où vous avez aidé quelqu'un ? Peut-être avez-vous aidé à ranger les jouets ou à préparer le dîner. Comment cela vous a-t-il fait sentir ? Aider les autres est une façon merveilleuse de montrer que nous nous soucions d'eux. Cela vous donne aussi un sentiment de fierté, n'est-ce pas ? Partagez votre histoire avec un adulte aujourd'hui !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Pensez à toutes les fois où vous avez suivi les règles et fait preuve de bon comportement. Cela montre que vous êtes responsable et que vous vous souciez des autres. Imaginez combien de belles choses vous pouvez accomplir en continuant à agir de cette manière. Vous pouvez inspirer vos amis à faire de même. Ensemble, vous pouvez créer un environnement où tout le monde se sent bien et en sécurité. Vous êtes un vrai leader !"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Parfois, nous faisons tous des erreurs, et c'est normal. L'important est d'apprendre de ces erreurs et de s'améliorer. Si vous avez fait quelque chose qui a blessé quelqu'un, vous pouvez toujours dire 'désolé'. Cela montre que vous êtes courageux et que vous êtes prêt à faire mieux. Souvenez-vous, chaque jour est une nouvelle chance de briller et de montrer votre bon comportement. Vous pouvez le faire !"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Regardons comment nous pouvons gérer nos émotions. Parfois, nous pouvons être très en colère ou tristes, et c'est normal. Une façon de se sentir mieux est de parler à quelqu'un de confiance, comme un parent ou un enseignant. Vous pouvez aussi dessiner vos sentiments ou écouter de la musique apaisante. Trouver des moyens sains de gérer vos émotions est une partie importante du bon comportement. Vous êtes plus fort que vous ne le pensez !"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Il est important de se rappeler que chaque jour est une nouvelle opportunité d'être la meilleure version de nous-mêmes. Pensez à une chose que vous pouvez faire aujourd'hui pour montrer votre bon comportement. Peut-être aider un ami ou dire quelque chose de gentil à quelqu'un. Ces petits gestes font une grande différence. Ensemble, nous pouvons créer un monde rempli de gentillesse et de respect. Vous êtes capable de grandes choses !"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous notre exercice de respiration ? C'est quelque chose que vous pouvez faire chaque fois que vous avez besoin de vous calmer. Essayez de le faire avec un ami ou un membre de votre famille. C'est une excellente façon de se détendre et de se sentir bien. Vous pouvez aussi apprendre à quelqu'un d'autre comment le faire. Partager ces techniques montre que vous vous souciez des autres. Vous êtes un vrai super-héros !"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avant de terminer, j'ai une dernière question pour vous. Qu'est-ce que vous aimez le plus dans le bon comportement ? Peut-être que vous aimez comment cela rend les autres heureux, ou comment cela vous fait vous sentir fier. Partagez vos pensées avec quelqu'un aujourd'hui. Cela peut être le début d'une grande conversation sur la gentillesse et le respect. Vous êtes une source d'inspiration pour ceux qui vous entourent !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce moment avec moi aujourd'hui. Vous avez fait un travail incroyable en apprenant sur le bon comportement. Chaque petite action compte et fait de vous un héros dans votre monde. Continuez à montrer de la gentillesse et du respect chaque jour. Je suis fier de vous et de tout ce que vous accomplissez. À la prochaine fois, petit héros !"
+    }
+  ],
+  "title": "Histoire de Behavior de Koko"
+}

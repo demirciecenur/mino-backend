@@ -1,0 +1,104 @@
+{
+  "id": "spark_buddy_confidence_story",
+  "character": "Spark Buddy",
+  "topic": "confidence",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Spark Buddy, tu compañero eléctrico y alegre. Hoy vamos a embarcarnos en una aventura increíble sobre la confianza. ¿Estás listo para descubrir lo valiente y capaz que eres? Juntos exploraremos cómo sentirnos seguros y felices. Estoy tan emocionado de comenzar este viaje contigo. ¡Vamos a divertirnos mucho!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confianza es como una chispa mágica que vive dentro de cada uno de nosotros. Nos ayuda a hacer cosas nuevas y emocionantes, como aprender a andar en bicicleta o hablar frente a la clase. Cuando creemos en nosotros mismos, podemos intentar cualquier cosa. ¿Alguna vez has sentido esa chispa cuando haces algo por primera vez? Hoy vamos a aprender cómo encender esa chispa cada día."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para comenzar, vamos a practicar algo que nos da confianza: ¡respirar profundamente! Inhala por la nariz contando hasta tres. Uno, dos, tres... y ahora exhala por la boca. Esto nos ayuda a sentirnos tranquilos y seguros. Quieres intentarlo una vez más conmigo? ¡Inhala y exhala! ¿No te sientes más calmado y listo para cualquier cosa?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Ahora que estamos calmados, podemos hacer cualquier cosa. ¿Alguna vez has querido dibujar un gran sol en el cielo? O tal vez construir una torre alta con tus bloques. Cuando intentas cosas nuevas, estás usando tu confianza. ¡Recuerda que cada pequeño paso cuenta! ¡Tú puedes hacerlo, lo sé!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, recordemos un momento en que te sentiste muy valiente. Quizás fue cuando te atreviste a saludar a un nuevo amigo. O cuando probaste una comida nueva y deliciosa. Esos momentos nos muestran lo fuertes que somos. ¿Puedes pensar en algún momento así? ¡Esos recuerdos son como tesoros que guardamos en nuestro corazón!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer un pequeño ejercicio para fortalecer nuestra confianza. Cierra los ojos por un momento y piensa en algo que te gustaría intentar. Puede ser algo pequeño, como aprender una nueva canción o algo grande, como subir una colina. Ahora, imagina que lo estás logrando. ¿Cómo te sientes? ¡Es emocionante, verdad?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Recuerda que cada vez que intentas algo nuevo, tu chispa de confianza se hace más brillante. Es como una luz que nunca se apaga. Aunque a veces pueda parecer difícil, siempre puedes volver a intentarlo. ¡Nunca te rindas! Estoy aquí para apoyarte y animarte."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, nuestros amigos también necesitan un poco de confianza. ¿Te gustaría ser un Spark Buddy para alguien más? Puedes decirles lo increíbles que son o ayudarlos cuando estén aprendiendo algo nuevo. Juntos, podemos hacer que todos se sientan felices y seguros. Compartir confianza es como compartir una sonrisa."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a practicar una actividad divertida para aumentar nuestra confianza. Vamos a contar hasta cinco en voz alta, pero cada número será un paso hacia adelante. ¿Listo? Uno, dos, tres, cuatro, cinco. ¡Mira hasta dónde has llegado! Cada paso es un logro, y cada logro nos hace más fuertes."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Has dado pasos grandes hoy. Recuerda que la confianza no es ser perfecto, sino ser valiente. Cada pequeño intento es importante, y cada error es una oportunidad para aprender. ¡Tú eres increíble, y estoy muy orgulloso de ti! Sigamos brillando juntos."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora, quiero saber algo. ¿Qué es lo que más te gusta hacer que te hace sentir seguro? ¿Es pintar, cantar, o tal vez jugar a construir cosas? Cuando haces lo que amas, tu confianza crece. ¡Cuéntame, quiero saber más sobre ti y lo que te hace feliz!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Cuando compartes lo que te hace feliz, también estás compartiendo tu chispa de confianza. Es como una luz que se extiende y hace que todos los demás se sientan bien. ¡Qué maravilloso es eso! Sigue haciendo lo que amas y verás cómo cada día te sientes más seguro. Tu chispa es única y especial."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer una última actividad juntos. Imagina que tienes una capa mágica de confianza. Ponla sobre tus hombros y siente cómo te envuelve con valentía. Ahora, con tu capa puesta, piensa en algo que quieras hacer mañana. ¡Con tu capa mágica, puedes lograrlo todo!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Con esa capa mágica, estás listo para cualquier cosa! Recuerda que siempre puedes regresar a este momento de confianza cuando lo necesites. Estoy aquí para recordarte que eres fuerte y valiente. ¡Tienes una chispa que nunca se apaga! Vamos a seguir brillando juntos, siempre."
+    },
+    {
+      "id": "closure_1",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido una aventura maravillosa contigo, pequeño amigo. Hemos aprendido tanto sobre la confianza y cómo encender nuestra chispa interior. Recuerda siempre que eres especial y que puedes lograr todo lo que te propongas. Estoy muy orgulloso de ti. ¡Hasta la próxima, y sigue brillando con tu chispa mágica!"
+    }
+  ],
+  "title": "Historia de Confidence de Spark Buddy"
+}

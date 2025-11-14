@@ -1,0 +1,104 @@
+{
+  "id": "piggy friend_tiempo de pantalla, seguridad digital, uso de tecnología, hábitos saludables de pantalla_story",
+  "character": "Piggy Friend",
+  "topic": "tiempo de pantalla, seguridad digital, uso de tecnología, hábitos saludables de pantalla",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy tu amiga Piggy Friend. Hoy vamos a aprender sobre algo muy interesante: el tiempo de pantalla y cómo usar la tecnología de manera segura y saludable. ¿Estás listo para esta aventura? ¡Estoy muy emocionada de compartir esto contigo! Vamos a divertirnos mucho mientras aprendemos."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos sobre el tiempo de pantalla. El tiempo de pantalla es el tiempo que pasamos usando dispositivos como tablets, teléfonos o televisores. Es importante que no pasemos demasiado tiempo frente a las pantallas porque necesitamos tiempo para jugar, aprender y descansar. ¿Sabías que jugar al aire libre es muy divertido y saludable? También nos ayuda a estar fuertes y felices. ¡Es como cuando jugamos a la pelota o cuando saltamos como conejitos!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Recordemos que la seguridad digital es muy importante. Cuando usamos la tecnología, debemos asegurarnos de estar siempre seguros. Por ejemplo, nunca debemos hablar con extraños en línea. Es como cuando no hablamos con extraños en el parque. Además, siempre debemos pedir permiso a un adulto antes de descargar algo nuevo. ¡Así nos mantenemos seguros y protegidos!"
+    },
+    {
+      "id": "scene_3",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Imagina que estamos construyendo un castillo de arena. Necesitamos tiempo, paciencia y cuidado para hacerlo bien, ¿verdad? Pues lo mismo ocurre con el uso de la tecnología. Necesitamos aprender a usarla de manera responsable y eso lleva tiempo. Por ejemplo, podemos aprender a usar aplicaciones educativas que nos enseñen cosas nuevas y emocionantes. ¡Es como tener una biblioteca en nuestras manos!"
+    },
+    {
+      "id": "scene_4",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial, amiguito! Estás haciendo un trabajo maravilloso aprendiendo sobre la tecnología. Ahora, vamos a hacer un pequeño ejercicio juntos. Tomemos una respiración profunda, como si estuviéramos oliendo una flor. ¡Eso es! Ahora exhalemos lentamente, como si estuviéramos soplando una vela. ¡Qué bien se siente, ¿verdad?! Esto nos ayuda a calmarnos y concentrarnos."
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablamos de jugar al aire libre. Es importante equilibrar el tiempo de pantalla con otras actividades. Podemos jugar con nuestros amigos, leer un libro o incluso ayudar a mamá y papá en la cocina. ¿Te gusta hacer galletas? ¡Es muy divertido! Así mantenemos nuestro cuerpo y mente activos y felices."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos de hábitos saludables de pantalla. Es importante usar la tecnología en lugares bien iluminados para no cansar nuestros ojos. También debemos tomar descansos regulares, como cada 20 minutos, para estirar nuestras piernas. Podemos hacer una pequeña caminata o saltar un poco. ¡Así recargamos energías para seguir aprendiendo!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez te has preguntado qué más podemos hacer para ser seguros en línea? Podemos usar contraseñas fuertes, que son como llaves secretas. ¿Tienes una llave secreta para tu cofre del tesoro? Las contraseñas nos ayudan a proteger nuestra información. ¿Qué otras ideas se te ocurren para estar seguros mientras usamos la tecnología?"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué ideas tan maravillosas tienes! Ahora que sabemos sobre las contraseñas, podemos compartir esta información con nuestros amigos y familiares. Es importante que todos sepan cómo mantenerse seguros en línea. Podemos hacer un juego de memoria con nuestras contraseñas, pero recordando no compartirlas con nadie. ¡Así todos estamos seguros y felices!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vamos a imaginar que la tecnología es como una caja de herramientas. Podemos usarla para aprender, jugar y comunicarnos con nuestros seres queridos. Pero igual que con las herramientas reales, necesitamos saber cómo usarlas correctamente. Si aprendemos a usar la tecnología de manera segura y responsable, podemos hacer cosas increíbles. ¡Es como ser pequeños inventores!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estás haciendo un trabajo fantástico aprendiendo todo esto! Ahora, vamos a hacer un pequeño juego. Contemos juntos hasta cinco mientras damos pequeños saltos. ¿Listo? Uno, dos, tres, cuatro, cinco. ¡Buen trabajo! Esto nos ayuda a recordar tomar descansos y movernos un poco cuando estamos usando la tecnología."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora pensemos en cómo podemos compartir lo que aprendimos con nuestra familia. Podemos contarles sobre los hábitos saludables de pantalla, como no usar dispositivos durante las comidas. ¿Te gusta comer con tu familia? Es un momento especial para hablar y compartir. ¡Así todos podemos disfrutar del tiempo juntos sin distracciones!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Imagina que cada vez que usamos la tecnología, estamos explorando un nuevo mundo. Podemos aprender sobre dinosaurios, el espacio o incluso cómo hacer una receta nueva. Pero siempre debemos recordar que explorar es más divertido cuando sabemos que estamos seguros. Así que, cada vez que uses la tecnología, piensa en todas las cosas maravillosas que puedes descubrir. ¡Es como ser un pequeño explorador del mundo digital!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora me pregunto, ¿qué te gustaría aprender con la tecnología? ¿Quizás sobre animales o tal vez sobre planetas? Hay tanto por descubrir. ¿Qué te parece si la próxima vez exploramos juntos un tema nuevo? Me encantaría saber qué te interesa. ¡Cuéntame tus ideas!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un día muy divertido aprendiendo sobre el tiempo de pantalla y la seguridad digital. Estoy muy orgullosa de ti por todo lo que has aprendido hoy. Recuerda siempre usar la tecnología de manera segura y equilibrada. ¡Gracias por acompañarme en esta aventura! Espero que tengas un día maravilloso y nos veamos pronto para más aventuras. ¡Adiós, amiguito!"
+    }
+  ],
+  "title": "Historia de Screen Time de Piggy Friend"
+}

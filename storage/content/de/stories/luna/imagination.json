@@ -1,0 +1,104 @@
+{
+  "id": "luna_imagination_story",
+  "character": "Luna",
+  "topic": "imagination",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Luna, und heute gehen wir auf eine fantastische Reise in die Welt der Vorstellungskraft. Stell dir vor, wir fliegen auf einem funkelnden Stern durch den Nachthimmel. Bist du bereit, mit mir zu träumen? Wir werden viele magische Abenteuer erleben. Lass uns gemeinsam die Wunder der Fantasie entdecken!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vorstellungskraft ist wie ein Zauberstab, den du jederzeit schwingen kannst. Mit ihr kannst du dir alles vorstellen, was du möchtest, wie ein Schloss aus Zuckerwatte oder ein sprechender Baum. Erinnerst du dich, als wir über den Nachthimmel gesprochen haben? So wie die Sterne leuchten, kann auch deine Vorstellungskraft hell erstrahlen. Lass uns gemeinsam diese magische Kraft erkunden!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du deine Augen schließt und tief einatmest, kannst du dir alles vorstellen. Stell dir vor, du bist ein mutiger Ritter oder eine furchtlose Prinzessin. Vielleicht reitest du auf einem Einhorn durch einen verzauberten Wald. Deine Fantasie kann dich überall hintragen, wohin du willst. Lass uns einmal tief durchatmen und sehen, wohin unsere Gedanken uns führen!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Du kannst alles sein, was du dir vorstellst. Vielleicht möchtest du ein Astronaut sein, der den Mond besucht, oder ein Entdecker, der neue Welten entdeckt. Mit deiner Fantasie kannst du die Welt um dich herum verändern. Jeder Tag ist ein neues Abenteuer, das darauf wartet, entdeckt zu werden. Du machst das fantastisch!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über die Kraft der Fantasie gesprochen haben, lass uns ein Spiel spielen. Stell dir vor, wir sind auf einer tropischen Insel voller bunter Papageien und Kokospalmen. Kannst du die Wellen hören, die an den Strand schlagen? Und die Sonne, die warm auf unsere Gesichter scheint? Das ist die Magie der Vorstellungskraft in Aktion!"
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an die Geschichten, die wir uns ausgedacht haben? Wie wäre es, wenn wir nun ein kleines Abenteuer erleben? Stell dir vor, wir sind Piraten auf der Suche nach einem verborgenen Schatz. Wir segeln mit unserem Schiff über das weite Meer, und der Wind bläst uns ins Gesicht. Kannst du schon den Schatz in der Ferne sehen?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Es ist wichtig, unsere Vorstellungskraft zu nutzen, um kreativ zu sein. Lass uns ein Bild malen, nur in unseren Gedanken. Male einen Regenbogen aus den lebhaftesten Farben, die du dir vorstellen kannst. Wie sieht dein Regenbogen aus? Hat er vielleicht sogar ein paar glitzernde Sterne? Male alles, was dir einfällt, und sieh, wie bunt deine Welt wird."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar! Du bist wirklich ein Meister der Fantasie. Mit deiner Vorstellungskraft kannst du auch anderen helfen, ihre Träume zu sehen. Vielleicht kannst du eine Geschichte erfinden, die du mit deinen Freunden teilst. Jeder kann seine eigene magische Welt schaffen, und du hast den Schlüssel dazu. Du machst das ganz toll!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns über die Träume sprechen, die wir nachts haben. Diese Träume sind wie kleine Abenteuer, die wir im Schlaf erleben. Erinnerst du dich an einen Traum, in dem du etwas Spannendes erlebt hast? Vielleicht bist du auf einem Drachen geflogen oder hast einen geheimnisvollen Wald erkundet. Träume sind ein weiterer Weg, wie unsere Fantasie uns Geschichten erzählt."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal einen besonderen Traum gehabt, den du gerne teilen möchtest? Vielleicht war es ein Traum von einem riesigen, kuscheligen Teddybären oder einem sprechenden Kätzchen. Was hat der Traum dir erzählt? Träume können so lustig und aufregend sein, nicht wahr? Ich würde gerne von deinem Traum hören!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns jetzt darüber nachdenken, wie wir unsere Fantasie in den Alltag einbringen können. Wenn du das nächste Mal spielst, stell dir vor, dass deine Spielzeuge lebendig werden. Vielleicht tanzen deine Puppen oder deine Bauklötze sprechen miteinander. Das macht das Spielen noch spannender und aufregender. Deine Fantasie kann jeden Tag zu etwas Besonderem machen."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Weißt du, was das Beste an der Vorstellungskraft ist? Sie gehört nur dir, und niemand kann sie dir wegnehmen. Du kannst sie überall hin mitnehmen, wohin du auch gehst. Ob du zu Hause bist oder draußen spielst, deine Fantasie ist immer bei dir. Ist das nicht wunderbar? Du bist ein echter Fantasie-Experte!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt, da wir so viel über Fantasie gelernt haben, lass uns ein kleines Abenteuer planen. Was möchtest du als nächstes erleben? Vielleicht eine Reise zu den Sternen oder ein Ausflug in ein Land voller Süßigkeiten? Mit deiner Fantasie sind die Möglichkeiten endlos. Du kannst alles sein und alles tun. Du bist unglaublich kreativ!"
+    },
+    {
+      "id": "scene_13",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Hör genau hin, was deine Fantasie dir noch erzählen möchte. Vielleicht flüstert sie dir eine neue Geschichte ins Ohr oder zeigt dir ein neues Bild. Was siehst du? Was hörst du? Deine Fantasie ist so voller Ideen und Farben. Lass uns gemeinsam lauschen und sehen, welche Wunder sie für uns bereithält."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir auf diese magische Reise zu gehen. Ich hoffe, du hattest genauso viel Spaß wie ich. Denk daran, deine Fantasie zu benutzen, wann immer du möchtest. Sie ist immer da, um dir neue Abenteuer zu schenken. Ich freue mich darauf, bald wieder mit dir zu träumen. Bis zum nächsten Mal, kleiner Fantasie-Abenteurer!"
+    }
+  ],
+  "title": "Lunas Imagination Geschichte"
+}

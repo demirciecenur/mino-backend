@@ -1,0 +1,98 @@
+{
+  "id": "elisa_the_ice_fairy_bedtime_story",
+  "character": "Elisa the Ice Fairy",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Elisa, el Hada del Hielo. Hoy vamos a embarcarnos en un viaje mágico sobre la hora de dormir. ¿Estás listo para explorar el mundo de los sueños conmigo? Estoy muy emocionada de compartir este momento especial contigo. Vamos a descubrir cómo la hora de dormir puede ser mágica y relajante. ¡Acompáñame en esta aventura!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La hora de dormir es un momento muy especial del día. Es cuando dejamos que nuestro cuerpo y mente descansen después de un día lleno de diversión y aprendizaje. Cuando nos preparamos para dormir, es como si estuviéramos preparando un viaje a un mundo mágico de sueños. ¿Sabías que dormir bien nos ayuda a tener energía para jugar al día siguiente? ¡Es verdad! Ahora vamos a aprender cómo hacer de la hora de dormir un momento mágico."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Primero, necesitamos asegurarnos de que nuestro espacio para dormir esté listo. ¿Tienes una cama cómoda y una almohada suave? Es importante que tu habitación esté tranquila y acogedora. Puedes elegir un peluche para que te acompañe en tus sueños. También es útil tener una luz suave para que te sientas seguro y tranquilo. Ahora, vamos a hacer que tu habitación sea un lugar perfecto para descansar."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Ahora que tu habitación está lista, es hora de prepararnos nosotros mismos. Vamos a lavarnos los dientes y ponernos el pijama. Es como ponernos un traje especial para dormir. Recuerda cepillar bien cada diente para que estén limpios y sanos. ¡Fantástico! Ahora estás listo para relajarte y disfrutar de una noche tranquila."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos listos, es el momento de relajarnos un poco más. Vamos a hacer un pequeño ejercicio de respiración juntos. Inhala profundamente por la nariz y exhala lentamente por la boca. ¿Lo sientes? Es como si el aire estuviera llenando tus pulmones de calma y tranquilidad. Vamos a hacerlo tres veces más para sentirnos aún más relajados. ¡Inhala, exhala! Muy bien, pequeño soñador."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te sientes más tranquilo ahora? La respiración profunda nos ayuda a relajarnos y prepararnos para dormir. ¿Te gustaría contar hasta cinco conmigo para asegurarnos de que estamos completamente relajados? Vamos a intentarlo juntos. Uno, dos, tres, cuatro, cinco. ¡Excelente! ¿Ves lo fácil que es preparar nuestro cuerpo para un buen descanso?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora vamos a imaginar un cuento antes de dormir. Cierra los ojos y piensa en un lugar mágico donde te gustaría ir en tus sueños. Puede ser un bosque encantado, un castillo de hielo, o incluso una nube suave en el cielo. Usa tu imaginación para crear un lugar especial solo para ti. Este lugar te ayudará a tener sueños dulces y felices. ¿Puedes verlo en tu mente?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué maravilloso lugar has imaginado! La imaginación es una herramienta poderosa que nos lleva a los lugares más increíbles. Ahora que tienes tu lugar mágico en mente, vamos a pensar en un pequeño deseo para la noche. Puede ser algo simple como tener un sueño feliz o despertar sintiéndote descansado. ¡Tú puedes hacerlo! Los deseos antes de dormir son como semillas mágicas que crecen mientras dormimos."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda que la hora de dormir es un momento para dejar ir las preocupaciones del día. Imagina que cada preocupación es como un copo de nieve que se derrite lentamente. Mientras te acuestas, deja que todas tus preocupaciones se desvanezcan. Así, cuando cierres los ojos, estarás listo para soñar con tranquilidad. Ahora, piensa en algo positivo que te haya pasado hoy. ¿Lo tienes? ¡Genial! Eso te ayudará a tener sueños felices."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas cuando hablamos de tener un peluche contigo? Es un buen momento para abrazar a tu peluche y sentir su suavidad. Los peluches son como amigos mágicos que nos acompañan en nuestros sueños. Ellos también nos ayudan a sentirnos seguros y protegidos mientras dormimos. ¿Tienes un peluche especial que te gusta abrazar? ¡Qué bonito! Ahora estás listo para cerrar los ojos y dejarte llevar por los sueños."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Antes de que nos despidamos, ¿hay algo más que te gustaría hacer antes de dormir? Tal vez una canción de cuna suave o un cuento más. A veces, escuchar una melodía suave nos ayuda a relajarnos aún más. ¿Te gustaría que cantemos una canción juntos? Si prefieres, puedes pensar en tu canción favorita y cantarla en tu mente. ¡Las canciones son perfectas para tener dulces sueños!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ya casi es hora de cerrar los ojos y dejar que el sueño nos envuelva. Recuerda que siempre es bueno pensar en algo feliz antes de dormir. Los sueños son como aventureros que nos llevan a lugares maravillosos mientras descansamos. Mañana será un nuevo día lleno de oportunidades para jugar y aprender. Ahora, cierra los ojos y deja que la magia del sueño te lleve. ¡Dulces sueños, pequeño aventurero!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Mientras te acuestas, piensa en el suave brillo de las estrellas en el cielo. Las estrellas son como pequeños faros que nos guían en la noche. Imagina que cada estrella es un sueño esperando ser descubierto. ¡Qué emocionante es saber que mañana habrá nuevas estrellas para explorar! Ahora, relájate y deja que las estrellas te guíen a un sueño tranquilo y reparador."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer compartir este momento mágico contigo. Recuerda que cada noche es una nueva oportunidad para soñar y descansar. Espero que nuestros consejos te ayuden a tener una hora de dormir tranquila y mágica. Siempre estaré aquí, como tu amiga del mundo de los sueños, para ayudarte a dormir en paz. ¡Buenas noches y dulces sueños, pequeño soñador! Hasta la próxima aventura."
+    }
+  ],
+  "title": "Historia de Bedtime de Elisa The Ice Fairy"
+}

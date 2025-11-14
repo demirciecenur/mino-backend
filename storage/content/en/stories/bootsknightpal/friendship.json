@@ -1,0 +1,104 @@
+{
+  "id": "boots_knight_pal_friendship_story",
+  "character": "Boots Knight Pal",
+  "topic": "friendship",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little adventurers! I'm Boots Knight Pal, your brave and loyal friend. Today, we are going on an exciting journey to discover the magic of friendship. Are you ready to explore with me? Friendship is like a treasure, full of joy and surprises. Together, we'll learn how to be the best friends we can be. Let's get started on this wonderful adventure!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what friendship means. Friendship is when two or more people care about each other and like to spend time together. It's like having a special buddy who you can play and share secrets with. Friends help each other and make each other smile. Isn't it wonderful to have someone who makes you happy? Remember, being a good friend means being kind and caring."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "One way to be a good friend is to listen when your friend is talking. Listening shows that you care about what they have to say. You can nod your head, look them in the eyes, and wait your turn to speak. This makes your friend feel important and loved. Can you think of a time when you listened to a friend? Great job if you have! Listening is an important part of friendship."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's practice being good listeners together. Imagine your friend is telling you about their favorite toy. You can show you're listening by smiling and saying, 'Wow, that sounds amazing!' Try it with me now. Ready? One, two, three... 'Wow, that sounds amazing!' You did it! See how easy and fun it is to be a good friend? Keep up the great work!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about listening? Now, let's learn about sharing. Sharing is when you let your friend use or play with something that belongs to you. It's a way to show that you care and want to make your friend happy. For example, you can share your crayons when coloring together. Sharing makes playtime more fun for everyone involved!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's think about how we can share with our friends. Imagine you have two yummy cookies. You can give one to your friend so you both can enjoy a tasty treat. Sharing makes you feel good inside because you're making someone else happy. Can you think of something you can share with a friend? It's a wonderful way to show kindness!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Now, let's try sharing together. Pretend you have a big box of colorful blocks. Imagine your friend wants to build a tower with you. You can say, 'Let's build it together!' Sharing your blocks means you both get to have fun. Are you ready to share your imaginary blocks? Fantastic! You're doing a great job learning about friendship."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, we'll talk about playing together. Playing is one of the best parts of having friends. When you play, you can create new games and have exciting adventures. Friends can play tag, pretend to be superheroes, or even explore a magical kingdom. Playing together helps you learn more about each other and strengthens your friendship."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's imagine we're playing a game of hide and seek. When it's your turn to hide, you have to find a good spot. When it's your turn to seek, you need to look for your friends quietly and carefully. Playing games like this teaches you patience and teamwork. Can you think of a game you like to play with your friends? Playing together is so much fun!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's play a mini game right now! Close your eyes and count to five with me. One, two, three, four, five. Now open your eyes! Did you find me? Great job! Playing little games like this helps you practice being a good friend. Keep playing and having fun with your friends every day."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we played hide and seek? Let's talk about another important part of friendship: saying sorry. Sometimes, we might accidentally hurt our friend's feelings. Saying sorry shows that we care and want to make things right. It's important to be honest and sincere when you apologize. This helps your friend feel better and keeps your friendship strong."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice saying sorry together. Imagine you accidentally knocked over your friend's tower of blocks. You can say, 'I'm sorry for knocking over your tower. Can I help you rebuild it?' Saying sorry and offering to help shows that you care. Can you think of a time when you said sorry to a friend? Apologizing is a brave and kind thing to do."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I'm curious. What do you like to do with your friends? Do you play games, tell stories, or maybe go on adventures? Thinking about fun times with friends can make you feel happy. Sharing these moments helps you understand what makes your friendship special. Would you like to share your favorite activity with me?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Thank you for sharing your favorite activities! It's wonderful to hear about all the fun things you do with your friends. Remember, friendship is about being kind, sharing, listening, and playing together. Every little thing you do to show you care makes a big difference. You're learning so much about being a great friend."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our adventure about friendship is coming to an end, but the journey never really stops. You can keep practicing everything we've learned today. Remember, I'm always here to cheer you on. Thank you for joining me, Boots Knight Pal, on this wonderful adventure. Until next time, keep being brave, kind, and the amazing friend you are. Goodbye, little adventurers!"
+    }
+  ],
+  "title": "Boots Knight Pal's Friendship Story"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "snowman_buddy_olaf-style_friendship_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis! Je suis votre copain Bonhomme de Neige Olaf-style. Aujourd'hui, nous allons explorer la magie de l'amitié ensemble. L'amitié, c'est quelque chose de très spécial. Êtes-vous prêts pour cette aventure joyeuse? Je suis tellement excité de partager ce moment avec vous!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est comme un joli jardin plein de fleurs colorées. Chaque ami est une fleur unique qui rend notre jardin encore plus beau. Quand on a des amis, on partage des rires, des jeux, et plein de beaux moments. Avez-vous déjà partagé un goûter avec un ami? C'est tellement amusant, n'est-ce pas?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour être un bon ami, il faut savoir écouter. Quand ton ami te parle, tu peux le regarder dans les yeux et sourire. Cela montre que tu es intéressé par ce qu'il dit. On peut aussi poser des questions pour mieux comprendre. Par exemple, 'Qu'est-ce que tu aimes faire?'"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, essayons de faire un petit exercice ensemble. Pense à un ami que tu aimes beaucoup. Imagine que tu lui dis bonjour avec un grand sourire. C'est super, tu as déjà fait le premier pas pour être un bon ami! Bravo, tu es incroyable!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de partager? Partager, c'est important dans l'amitié. On peut partager des jouets, des histoires, ou même des secrets rigolos. Quel est votre jouet préféré à partager? Moi, j'adore partager mes histoires drôles!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre chose importante est de jouer ensemble. Quand on joue, on apprend à se connaître et à s'entraider. Pense à un jeu que tu aimes jouer avec tes amis, comme cache-cache ou construire des châteaux en sable. Jouer, c'est aussi une belle façon de créer des souvenirs."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes de super amis! Continuez à être gentils et attentionnés. Quand on est un bon ami, on rend les autres heureux. Et quand les autres sont heureux, on se sent bien aussi. N'est-ce pas génial d'apporter du bonheur autour de vous?"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà fait quelque chose de gentil pour un ami aujourd'hui? Peut-être que vous avez aidé quelqu'un à ranger ses jouets ou que vous avez partagé votre goûter. Pensez à un moment où vous avez fait sourire un ami. Comment cela vous a-t-il fait sentir?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, l'amitié, c'est aussi être là quand ça ne va pas. Si un ami est triste, on peut lui faire un câlin ou lui dire des mots doux. Parfois, juste être là est suffisant pour montrer qu'on se soucie de lui. Avez-vous déjà consolé un ami?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, faisons un autre exercice. Prenez une profonde inspiration et imaginez que vous envoyez un bisou à votre meilleur ami. Vous pouvez le faire, c'est facile et amusant! Vous voyez, même à distance, on peut montrer qu'on tient à quelqu'un."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes merveilleux! Continuez à pratiquer toutes ces petites attentions. Chaque jour est une nouvelle occasion de montrer à vos amis combien vous les aimez. Et n'oubliez pas, vous avez le pouvoir de rendre le monde plus joyeux!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est votre souvenir préféré avec un ami? Peut-être une fête d'anniversaire ou un jour à la plage. Pensez à ce moment et comment vous vous êtes sentis heureux. Cela vous rend-il heureux de vous en souvenir?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est aussi apprendre à dire pardon quand on a fait une erreur. Tout le monde fait des erreurs, et c'est normal. Dire pardon montre que l'on se soucie de l'autre. Avez-vous déjà dit pardon à un ami? C'est un mot magique qui renforce l'amitié."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce moment avec moi. Souvenez-vous, chaque jour est une chance de faire de nouveaux amis et de rendre vos amis heureux. Continuez à être gentils et à partager vos sourires. Au revoir, mes chers amis, et à bientôt pour de nouvelles aventures!"
+    }
+  ],
+  "title": "Histoire de Friendship de Snowman Buddy Olaf-Style"
+}

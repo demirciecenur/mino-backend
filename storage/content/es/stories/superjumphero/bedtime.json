@@ -1,0 +1,98 @@
+{
+  "id": "super_jump_hero_bedtime_story",
+  "character": "Super Jump Hero",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy tu amigo Super Jump Hero. Hoy vamos a embarcarnos en una aventura maravillosa sobre la hora de dormir. Es muy importante para crecer fuerte y sano. ¿Estás listo para descubrir todo lo que podemos hacer antes de ir a la cama? Estoy muy emocionado de compartir estos secretos contigo. ¡Vamos a divertirnos mucho juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Antes de dormir, hay muchas cosas emocionantes que podemos hacer. Una de ellas es tomar un baño calentito. El agua tibia nos ayuda a relajarnos y a sentirnos frescos. También nos asegura que estamos limpios y listos para un buen descanso. ¿Te gusta cuando las burbujas hacen cosquillas en tus dedos? ¡Es como un pequeño juego justo antes de dormir!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora que estamos limpios, es hora de ponernos el pijama. Los pijamas son como nuestros super trajes para dormir. Nos mantienen calentitos y cómodos toda la noche. Puedes elegir tu pijama favorito, tal vez uno con dibujos de tus personajes preferidos. ¡Es como prepararse para una misión secreta de sueños! Recuerda abrochar todos los botones para que no se te escape la calidez."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Ahora que estamos vestidos para la aventura nocturna, vamos a cepillarnos los dientes. Es como darles brillo a nuestras sonrisas. Nos aseguramos de que estén limpios como un cristal brillante. ¿Sabías que cepillarse los dientes ayuda a que los monstruos de las caries no se acerquen? ¡Tú puedes hacerlo, eres un héroe del cepillo de dientes!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Después de cepillarnos los dientes, es hora de leer un cuento. Los cuentos antes de dormir son mágicos. Nos llevan a tierras lejanas y nos cuentan historias de valientes héroes. Puedes elegir un libro que te guste mucho. ¿Cuál es tu historia favorita? Escuchar una buena historia nos ayuda a relajarnos y a prepararnos para soñar."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora vamos a hacer un ejercicio de respiración. Es muy sencillo y nos ayuda a calmarnos. Vamos a respirar profundamente, como si estuviéramos oliendo una flor. Inhala por la nariz y exhala por la boca. ¿Sientes cómo tu cuerpo se relaja? Es como si estuviéramos flotando en una nube suave. Podemos contar hasta tres mientras inhalamos y hasta tres mientras exhalamos."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo fantástico! Ahora que estamos relajados, podemos pensar en cosas bonitas antes de dormir. Imagina que estás volando como Super Jump Hero sobre un campo lleno de flores. O tal vez estás nadando con delfines en un mar tranquilo. Pensar en cosas bonitas nos ayuda a tener sueños dulces. ¡Tú eres un campeón de los sueños!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Es importante que nuestra habitación esté lista para dormir. Podemos asegurarnos de que las luces estén apagadas o tenues. Un peluche favorito puede acompañarnos en la cama. También podemos escuchar una música suave o sonidos de la naturaleza. Todo esto hace que nuestra cama sea el lugar más acogedor del mundo. ¡Es como nuestro propio pequeño castillo de sueños!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora vamos a dar las buenas noches a todos en casa. Podemos decirle a mamá, papá, hermanos y hasta a nuestras mascotas. ¡Todos merecen un dulce sueño! Dar las buenas noches es una forma de mostrar amor y cuidado. Nos hace sentir conectados y felices. ¿A quién le darás las buenas noches hoy?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Muy bien! Ahora es momento de cerrar los ojos y dejar que los sueños nos lleven. Recuerda que tienes el corazón de un héroe valiente. Los sueños son aventuras que nos esperan cada noche. ¡Tú puedes ser todo lo que quieras en tus sueños! Así que, a dormir con una gran sonrisa sabiendo que mañana será otro día lleno de aventuras."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda que descansar bien nos da energía para jugar y aprender al día siguiente. Dormir es tan importante como comer o jugar. Nos ayuda a crecer fuertes y a mantenernos felices. Cuando dormimos bien, nos sentimos listos para cualquier cosa. Así que, ¡a descansar como un verdadero héroe!"
+    },
+    {
+      "id": "question_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora dime, ¿cuál es tu parte favorita de la rutina antes de dormir? ¿Te gusta más el baño, la lectura de cuentos, o tal vez cepillarte los dientes? ¡Cada parte es especial y nos prepara para una noche tranquila! Me encantaría saber qué disfrutas más. ¿Te gustaría contarme?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Qué maravilloso es escuchar todas las cosas que te gustan. Recuerda que cada noche es una nueva oportunidad para disfrutar de tu rutina de sueño. Puedes cambiarla un poquito si quieres probar algo nuevo. Lo importante es que te sientas feliz y listo para descansar. ¡Eres increíble por cuidar de ti mismo tan bien!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer compartir esta aventura contigo. Recuerda que siempre estaré aquí para ayudarte a tener dulces sueños. Descansa bien y sueña con cosas maravillosas. Mañana será un nuevo día lleno de sorpresas y diversión. ¡Hasta luego, pequeño héroe! Nos veremos pronto para más aventuras."
+    }
+  ],
+  "title": "Historia de Bedtime de Super Jump Hero"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "frost_friend_sid_screen_time_story",
+  "character": "Frost Friend Sid",
+  "topic": "screen_time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Frost Friend Sid, your chilly buddy who loves to have fun! Today, we're going to talk about something really interesting: screen time! Are you ready for a frosty adventure? I have some funny stories and cool tips to share with you. Let's dive into this snowy journey together and learn all about how we can enjoy screen time in a fun and healthy way!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, do you know what screen time is? It's all the time we spend looking at screens like TVs, tablets, or phones. Isn't it amazing how we can watch cartoons, play games, and even learn new things? But just like playing outside, we have to make sure we don't do too much of it. Too much screen time can make our eyes tired, and we might miss out on other fun activities!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's think about how we can balance our screen time. Imagine you have a big, yummy ice cream cone. If you eat it too fast, you'll get a brain freeze! Screen time is just like that. We need to enjoy it slowly and take breaks. Maybe after watching a cartoon, we can play a game or read a book. What do you think? Does that sound like a fun plan?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking about balancing your screen time! You're doing amazing! Now, let's practice taking a break together. How about we stand up and stretch our arms high like we're reaching for the stars? Stretching helps us feel refreshed and ready for more fun! Can you do it with me? Let's count to five while we stretch. One, two, three, four, five! Fantastic!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about taking breaks? It's also important to find other activities we enjoy. Do you like drawing, building with blocks, or maybe dancing to your favorite songs? These are all great ways to have fun without a screen. Plus, they help our brains grow big and strong, just like superheroes! What’s your favorite thing to do when you’re not using a screen?"
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wow, those are some awesome activities! You’re a superstar at finding fun things to do. Now, let's do a quick game. Close your eyes and imagine your favorite place to play. Is it a snowy mountain or a sunny beach? Now, take a deep breath in... and out. Doesn't that feel nice? You can always take a moment like this when you need a break from screens."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's think about how much screen time is just right. For our age, a little bit each day is perfect. Maybe one or two shows, or a fun game. Then, we can have plenty of time for other adventures! It’s like having a balanced meal with all the right foods. We need a little bit of everything to stay healthy and happy. What do you think about that?"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite show or game you like to play sometimes? It's fun to share what we enjoy! Maybe you like watching animals or playing a game where you build things. Sharing our favorites with friends can make screen time even more fun. What do you like to watch or play? I’d love to hear about it!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Those are some fantastic choices! I'm so glad you shared them with me. Now, remember how we talked about taking breaks? It's also fun to share screen time with family. Maybe you can watch a show together or play a game with mom or dad. That way, you can laugh and have fun together, making screen time even more special."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Let’s imagine what else we could do after screen time. How about building a snowman, even if it's just with pillows and blankets? Or maybe creating a castle with blocks? When we use our imagination, the possibilities are endless! And guess what? Playing like this helps our brains grow and keeps us active. Isn’t that cool?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's make a plan together. How about we decide when our screen time will be today? Maybe after lunch or before dinner? Planning helps us make sure we have time for everything we love. And it makes screen time feel like a special treat! Can you think of a good time for your screen time today?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful choice! You're doing a great job planning your day. Remember, having a little screen time is fun, but so is playing outside or reading a book. You’re amazing at balancing all these activities! Keep it up, and you’ll have the best day ever, filled with all sorts of adventures and fun!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Before we finish, I have a question for you. What’s one new thing you learned today about screen time? Maybe it's about taking breaks or planning your time. Sharing what we learn helps us remember and makes it more fun! I can't wait to hear what you have to say!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for spending time with me today, little friend! We’ve learned so much about screen time and had lots of fun along the way. Remember, balancing screen time with other activities is the key to a happy and healthy day. I’m so proud of you for being such a great listener and learner. Until next time, keep smiling and exploring new adventures. Goodbye for now!"
+    }
+  ],
+  "title": "Frost Friend Sid's Screen Time Story"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "spark_buddy_friendship_story",
+  "character": "Spark Buddy",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Spark Buddy, ton copain électrique et joyeux. Aujourd'hui, nous allons explorer le monde merveilleux de l'amitié. Es-tu prêt pour cette aventure amusante? L'amitié, c'est comme un grand câlin chaleureux, n'est-ce pas? Je suis tellement curieux de découvrir comment tu te fais des amis!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est quelque chose de très spécial. C'est comme avoir un compagnon de jeu avec qui partager des moments joyeux. As-tu déjà ressenti cette sensation de bonheur lorsque tu joues avec un ami? Les amis peuvent nous faire sourire, même les jours nuageux. Ils sont là pour partager des rires et des jeux amusants."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour être un bon ami, il est important de partager et d'écouter. Par exemple, lorsque tu joues avec tes jouets, tu peux inviter un ami à jouer avec toi. Partager, c'est comme offrir un morceau de gâteau à quelqu'un d'autre. Tu vois comme c'est gentil? Et écouter, c'est prêter attention à ce que ton ami dit. Cela montre que tu te soucies de lui."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu sais, tu es déjà un super ami! Chaque fois que tu souris ou que tu dis bonjour, tu montres que tu es amical. Continue comme ça! Tu peux aussi demander à tes amis ce qu'ils aiment faire. C'est une excellente façon de mieux les connaître et de passer du bon temps ensemble. Tu peux le faire, je crois en toi!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des jeux amusants que tu peux faire avec tes amis. Aimes-tu courir et jouer à cache-cache? C'est un jeu où tu peux te cacher et ton ami doit te trouver. Tu peux aussi jouer à construire des châteaux en blocs ensemble. Ces jeux aident à renforcer votre amitié. Les rires partagés rendent chaque moment encore plus spécial."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu te souviens quand nous avons parlé de partager? C'est aussi important de partager des idées. Peut-être que ton ami a une idée géniale pour un nouveau jeu. Tu pourrais découvrir quelque chose de nouveau et excitant ensemble. La prochaine fois que tu joues, demande à ton ami ce qu'il aimerait faire. C'est toujours amusant de découvrir de nouvelles choses ensemble!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les amis sont là pour s'aider les uns les autres. Si ton ami tombe et se blesse, tu peux lui offrir un câlin ou aller chercher un adulte pour l'aider. C'est ainsi que nous montrons que nous nous soucions. Et lorsque tu es triste, ton ami peut te faire sourire avec une blague ou un dessin. L'entraide rend l'amitié encore plus forte."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "L'écoute est une grande partie de l'amitié. Quand ton ami te raconte une histoire, écoute attentivement et montre que tu es intéressé. Tu peux hocher la tête ou dire \"Oh, c'est intéressant!\". Cela montre que tu respectes ce qu'il dit. Même si tu as beaucoup à dire, il est aussi important d'écouter."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est ton jeu préféré à jouer avec tes amis? Est-ce que tu aimes jouer au ballon ou dessiner ensemble? Peut-être as-tu un jeu secret que vous aimez partager. J'aimerais vraiment savoir ce que tu trouves le plus amusant. N'hésite pas à me le dire!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "N'oublie pas, tu es capable de construire de belles amitiés. Chaque sourire et chaque mot gentil que tu partages est comme une petite graine qui grandit. Continue d'être gentil et attentionné, et tu verras combien d'amis tu peux avoir. Tu es une étoile brillante, et je suis sûr que tes amis le voient aussi!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons de comment résoudre les petits désaccords. Parfois, nous ne sommes pas d'accord avec nos amis, et c'est normal. L'important est de parler calmement et de trouver une solution ensemble. Peut-être que tu peux proposer de jouer à un autre jeu ou de prendre un moment pour respirer. Cela montre que tu es un ami réfléchi."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu te souviens de la dernière fois que tu as fait un nouveau ami? Parfois, cela peut être un peu effrayant, mais aussi très excitant. Peut-être que tu as vu quelqu'un jouer seul et tu as décidé de l'inviter à jouer avec toi. C'est une belle façon de montrer que tu es amical et ouvert aux nouvelles amitiés."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les amis rendent chaque jour plus lumineux. Ils nous aident à découvrir de nouvelles choses et à grandir. Ensemble, vous pouvez apprendre à faire du vélo ou à lire un livre. Chaque moment passé avec un ami est un trésor. N'est-ce pas merveilleux d'avoir quelqu'un avec qui partager toutes ces aventures?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé du temps avec moi aujourd'hui pour parler de l'amitié. J'espère que tu as appris beaucoup de choses et que tu es prêt à être un super ami. N'oublie pas, chaque sourire et chaque mot gentil compte. À bientôt, petit ami! Je suis sûr que tu vas faire de merveilleuses rencontres. Au revoir!"
+    }
+  ],
+  "title": "Histoire de Friendship de Spark Buddy"
+}

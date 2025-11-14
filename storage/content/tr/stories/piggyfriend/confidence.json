@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_confidence_story",
+  "character": "Piggy Friend",
+  "topic": "confidence",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Piggy Friend. Bugün birlikte özgüven hakkında harika bir yolculuğa çıkacağız. Özgüven, kendimize inanmak ve cesurca yeni şeyler denemek demektir. Hazır mısın? Seni çok merak ediyorum. Bu yolculukta birlikte eğleneceğiz!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven, tıpkı bir balon gibi, içimizde büyüyen ve bizi daha da yukarılara taşıyan bir şeydir. Bir düşün, balonun nasıl havada süzüldüğünü. Biz de özgüvenle, kendimize inandığımızda, daha yükseklere çıkabiliriz. Mesela, yeni bir oyun oynamak istediğinde, önce biraz heyecanlanabilirsin. Ama denediğinde, başardığını görmek seni mutlu eder. İşte bu, özgüvenin gücüdür!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, özgüvenimizi nasıl artırabileceğimizi öğrenelim. İlk adım, kendimize güvenmek. Kendimize, 'Ben bunu yapabilirim!' demek önemlidir. İkinci adım, küçük adımlar atmaktır. Örneğin, oyuncaklarını toplamak gibi basit bir işten başlayabilirsin. Başardıkça, daha büyük şeyler denemek isteyeceksin. Unutma, her küçük başarı, büyük bir adım olabilir."
+    },
+    {
+      "id": "scene_3",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda, özgüvenimizi artırmanın yollarını öğrenmiştik. Şimdi birlikte bir oyun oynayalım. Gözlerini kapat ve kendini, en sevdiğin süper kahraman gibi güçlü hisset. Şimdi derin bir nefes al ve 'Ben güçlüyüm!' diye söyle. Harika, değil mi? Bunu istediğinde tekrarlayabilirsin. Bu, kendine inanmanı sağlayacak."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven, sadece yeni şeyler denemekle değil, aynı zamanda başkalarına yardım etmekle de güçlenir. Bir arkadaşına yardım ettiğinde, hem onun hem de senin özgüvenin artar. Mesela, bir arkadaşına oyuncaklarını toplarken yardım etmek gibi. Bu, ona destek olmanın yanı sıra, senin de kendine olan güvenini artırır. Yardım etmek, harika bir duygudur ve özgüvenimizi pekiştirir."
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, biraz cesaret gerektiren bir şey yapalım. Yeni bir şarkı öğrenmek ister misin? Birlikte denemek çok eğlenceli olacak. Başta zor gelebilir ama tekrar ettikçe daha iyi olacaksın. Şarkıyı öğrendiğinde, kendinle gurur duyacaksın. Haydi, başlayalım ve birlikte şarkı söyleyelim!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özgüvenimizi artırmanın bir diğer yolu da, yaptığımız işleri başkalarıyla paylaşmaktır. Bir resim yaptığında, onu ailenle veya arkadaşlarınla paylaşabilirsin. Onların tepkilerini görmek seni mutlu eder ve daha fazlasını yapmak istersin. Paylaşmak, özgüvenimizi artırmanın harika bir yoludur. Şimdi, en sevdiğin resmi düşün ve onu kiminle paylaşacağını hayal et."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence, özgüvenimizi artırmanın başka yolları neler olabilir? Belki de yeni bir oyun öğrenmek ya da bir hikaye yazmak isteyebilirsin. Senin aklına başka neler geliyor? Düşüncelerini benimle paylaşmak ister misin? Merakla bekliyorum!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda, özgüven hakkında neler düşündüğünü öğrenmiştim. Şimdi, özgüvenimizi nasıl koruyabileceğimizi konuşalım. Özgüvenimizi korumak için, her gün küçük hedefler koyabiliriz. Bu hedefler, dişlerimizi fırçalamak gibi basit şeyler olabilir. Başardıkça, kendimize olan güvenimiz de artar. Her gün kendimize, 'Bunu yapabilirim!' demek önemlidir."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Biraz cesaret gerektiren bir şey daha yapalım. Belki de en sevdiğin oyuncağınla yeni bir oyun uydurabilirsin. Bu, hayal gücünü kullanmak ve yeni şeyler denemek için harika bir fırsattır. Başta biraz zor gelebilir ama denedikçe daha iyi olacaksın. Unutma, her deneme, özgüvenini artırır. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özgüvenimizi artırmanın bir diğer yolu da, kendimizi sevmektir. Kendimize, 'Ben özelim ve değerliyim' demek çok önemlidir. Herkesin farklı yetenekleri ve özellikleri vardır. Senin de kendine özgü harika yeteneklerin var. Bunları keşfetmek ve geliştirmek, özgüvenini artırır. Şimdi, kendini ne kadar sevdiğini düşün ve bunu her gün kendine hatırlat."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda, kendimizi sevmekten bahsetmiştik. Şimdi, özgüvenimizi nasıl başkalarına da yansıtabileceğimizi konuşalım. Başkalarına güler yüzle yaklaşmak, onlara da özgüven verir. Bir arkadaşına gülümsemek veya ona güzel bir söz söylemek, hem onun hem de senin gününü güzelleştirir. Bu, karşılıklı olarak özgüvenimizi artırır. Haydi, bugün bir arkadaşına gülümse!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda, özgüvenimizi nasıl yansıtabileceğimizi öğrenmiştik. Şimdi, birlikte bir nefes egzersizi yapalım. Derin bir nefes al ve yavaşça ver. Bu, sakinleşmene ve kendine olan güvenini artırmana yardımcı olur. Kendini daha iyi hissedeceksin. Bu egzersizi istediğinde tekrarlayabilirsin. Haydi, birlikte deneyelim!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Özgüvenimizi artırmak için yapabileceğimiz son bir şey daha var. Kendimize her gün, 'Bugün harika bir gün olacak!' demek. Bu, güne pozitif başlamamızı sağlar ve kendimize olan güvenimizi artırır. Her sabah bu cümleyi söylemek, günün geri kalanını da güzelleştirir. Senin de bunu denemeni çok isterim. Unutma, sen harikasın!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte özgüven hakkında çok şey öğrendik. Seninle bu yolculuğa çıkmak çok eğlenceliydi. Unutma, kendine inanmak ve cesurca yeni şeyler denemek çok önemli. Sen her zaman harikasın ve bunu asla unutma. Bir sonraki buluşmamıza kadar kendine iyi bak. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Piggy Friend'ın Confidence Hikayesi"
+}

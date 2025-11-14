@@ -1,0 +1,98 @@
+{
+  "id": "clever_mouse_jerry_bedtime_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "bedtime",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Clever Mouse Jerry. Bugün birlikte uyku zamanı hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Uyku zamanı, dinlenmek ve ertesi gün için enerji toplamak için harika bir fırsat. Şimdi, birlikte bu güzel yolculuğa çıkalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku zamanı, günün sonuna geldiğimizde hepimizin ihtiyacı olan bir şeydir. Gün boyunca oyun oynadığımız, öğrendiğimiz ve keşfettiğimiz için birazcık yorulmuş olabiliriz. İşte bu yüzden, uyku zamanı dinlenmemiz ve rahatlamamız için harika bir fırsattır. Uyku, büyümemize ve sağlıklı kalmamıza yardımcı olur. Peki, uyku zamanı için neler yapmalıyız? Hadi birlikte keşfedelim!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Uyku zamanı için hazırlık yaparken, önce dişlerimizi fırçalamamız çok önemlidir. Dişlerimizi fırçalamak, dişlerimizin sağlıklı kalmasına ve güzel bir gülüşe sahip olmamıza yardımcı olur. Ayrıca, pijamalarımızı giymek de uykuya hazırlanmanın bir parçasıdır. Pijamalarımızı giydiğimizde kendimizi daha rahat ve uykuya hazır hissedebiliriz. Şimdi, bu adımları birlikte yapmaya ne dersin?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi dişlerimizi fırçaladık ve pijamalarımızı giydik. Çok güzel iş çıkardın! Şimdi, odanı toplamak ve oyuncaklarını yerlerine koymak iyi bir fikir olabilir. Böylece sabah uyandığında her şey yerli yerinde olur. Sen de bunu yapabilirsin, değil mi? Hadi birlikte yapalım!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Odanı toplamak, uyku zamanı için harika bir hazırlık adımıdır. Şimdi, bir sonraki adım olarak birazcık sakinleşmek için nefes egzersizleri yapabiliriz. Derin bir nefes alalım ve yavaşça verelim. Bu, rahatlamamıza ve uykuya dalmamıza yardımcı olur. Nefes alıp vermek, vücudumuzu sakinleştirir ve zihnimizi rahatlatır. Haydi, birlikte deneyelim!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Birlikte derin nefes alıp verirken, kendimizi daha sakin hissetmeye başladık değil mi? Şimdi, uyku öncesi bir hikaye okumak harika bir fikir olabilir. Hikayeler, hayal gücümüzü geliştirir ve bizi farklı dünyalara götürür. Senin en sevdiğin hikaye hangisi? Belki de bu gece o hikayeyi okuyabiliriz!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, uykuya dalmadan önce hangi hikayeyi okumak istersin? Birlikte bir hikaye seçmek ister misin? Belki de macera dolu bir hikaye ya da hayvanlarla ilgili bir anlatı olabilir. Hangi tür hikayeler seni heyecanlandırıyor? Cevabını merakla bekliyorum!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Seçtiğin hikaye harika bir seçim! Hikayeler, uyumadan önce zihnimizi dinlendirmenin en güzel yollarından biridir. Hikaye bittikten sonra, gözlerimizi kapatıp tatlı rüyalar görmeye başlayabiliriz. Uykuya dalarken, gün boyunca yaşadığımız güzel anıları düşünebiliriz. Uyandığımızda yeni bir güne enerjik bir başlangıç yapacağız!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Uykuya dalmak için bir başka güzel yol da, hafif bir müzik dinlemektir. Müzik, zihnimizi rahatlatır ve uykuya geçişimizi kolaylaştırır. Yumuşak melodiler, bizi huzurlu hissettirir ve tatlı rüyalar görmemizi sağlar. Şimdi, hafif bir müzik açarak uykuya hazırlanabiliriz. Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Müziğin ne kadar etkili olduğunu gördün mü? Uykuya dalmak için harika bir yöntem. Şimdi, yatağımıza yavaşça uzanalım ve gözlerimizi kapatalım. Tatlı rüyalar görmek için hazırız. Seninle bu uyku zamanı yolculuğuna çıkmak çok keyifliydi. Sen harikasın!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Uykuya dalarken, belki de en sevdiğin anıları düşünmek isteyebilirsin. Gün içinde yaşadığın güzel anlar, seni mutlu edebilir ve rüyalarında yer alabilir. Tatlı rüyalar görmek için en güzel anıları hatırlamak harikadır. Şimdi, gözlerimizi kapatalım ve hayal kuralım. Sen neler hayal ediyorsun?"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Uykuya dalmadan önce hayal kurmak harika değil mi? Peki, sen rüyalarında neler görmek istersin? Belki de bir uçan balonla gökyüzünde süzülmek ya da okyanusun derinliklerinde yüzmek isteyebilirsin. Hayal gücün seni nereye götürüyor? Cevabını merakla bekliyorum!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayaller, uyku zamanı yolculuğumuzun en keyifli kısmıdır. Rüyalarda her şey mümkün olabilir ve bu da onları çok özel kılar. Uyandığımızda, rüyalarımızı hatırlamak ve paylaşmak da çok eğlencelidir. Seninle bu uyku zamanı macerasını paylaşmak çok güzeldi. Şimdi, tatlı rüyalar zamanı!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün uyku zamanı hakkında harika bir yolculuk yaptık. Seninle birlikte olmak çok keyifliydi. Umarım tatlı rüyalar görürsün ve güzel bir uyku çekersin. Yarın yeni maceralar bizi bekliyor olacak. Şimdi, iyi geceler ve tatlı rüyalar! Tekrar görüşmek üzere!"
+    }
+  ],
+  "title": "Clever Mouse Jerry'ın Bedtime Hikayesi"
+}

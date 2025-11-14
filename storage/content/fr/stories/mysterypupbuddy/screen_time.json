@@ -1,0 +1,98 @@
+{
+  "id": "mystery_pup_buddy_temps_ecran_securite_numerique_utilisation_technologie_habitudes_saines_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis! Je suis Mystery Pup Buddy, et aujourd'hui, nous allons découvrir ensemble les secrets du temps d'écran. Êtes-vous prêts pour une aventure amusante et éducative? Nous allons apprendre comment utiliser la technologie de manière sûre et amusante. C'est comme résoudre un mystère, et je suis tellement excité de le faire avec vous! Alors, mettez vos casquettes de détective et commençons notre voyage!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Saviez-vous que les écrans peuvent nous montrer plein de choses intéressantes? Comme des dessins animés, des jeux, et même des histoires! Mais il est important de ne pas passer trop de temps devant eux. Pourquoi, vous demandez-vous? Eh bien, rester trop longtemps devant un écran peut fatiguer nos yeux et notre cerveau. C'est pourquoi nous devons trouver un bon équilibre entre jouer avec des écrans et faire d'autres activités amusantes. Ne vous inquiétez pas, je suis là pour vous aider à découvrir comment!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de sécurité numérique. C'est un grand mot qui signifie que nous devons être prudents quand nous utilisons des appareils comme des tablettes ou des téléphones. Par exemple, ne jamais parler à des inconnus en ligne, tout comme dans la vraie vie. Toujours demander à un adulte avant de télécharger un nouveau jeu ou une application. Et surtout, ne jamais partager de renseignements personnels comme votre nom ou votre adresse. C'est comme mettre une ceinture de sécurité quand on monte en voiture!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail formidable en apprenant tout ça! Maintenant, continuons avec quelques habitudes saines d'écran. Connaissez-vous le jeu de la chaise musicale? C'est un peu comme ça avec le temps d'écran. Nous jouons un peu, puis nous faisons une pause pour bouger, danser, ou jouer dehors. Cela aide notre corps à rester en bonne santé et notre esprit à rester vif. N'est-ce pas génial de pouvoir faire tant de choses amusantes?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous que lorsque nous jouons avec des écrans, il est important de choisir des jeux qui sont non seulement amusants, mais aussi éducatifs. Comme des puzzles qui nous aident à réfléchir ou des histoires qui nous transportent dans des mondes magiques. Demandez toujours à maman ou papa de vous aider à choisir les meilleures applications. Ils sont comme nos coéquipiers dans cette grande aventure numérique!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Avez-vous déjà essayé de créer une journée sans écran? C'est un peu comme une chasse au trésor pour trouver toutes les choses amusantes que nous pouvons faire sans technologie. Comme construire un fort avec des coussins, lire un livre d'images, ou même dessiner des aventures de Mystery Pup Buddy! Cela peut être très amusant et c'est un excellent moyen de passer du temps avec notre famille et nos amis."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons d'une règle spéciale que nous pouvons suivre : la règle du 20-20-20. Après 20 minutes devant un écran, regardez quelque chose à 20 pieds de distance pendant 20 secondes. Cela donne à nos yeux une pause et les aide à rester en bonne santé. C'est comme donner à nos yeux un mini-vacances! N'oubliez pas de toujours cligner des yeux souvent pour les garder humides et en forme."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lorsque vous utilisez un écran, assurez-vous d'être dans une pièce bien éclairée. Pourquoi? Parce que cela aide nos yeux à ne pas se fatiguer trop vite. Asseyez-vous confortablement et gardez l'écran à une distance raisonnable de votre visage. Pensez-y comme si vous faisiez une belle promenade, où tout doit être agréable et détendu. Cela rend l'expérience beaucoup plus agréable et sûre!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous voyez comme c'est facile et amusant d'avoir des habitudes saines d'écran? Vous êtes des champions du temps d'écran! N'oubliez pas de toujours écouter votre corps. S'il vous dit qu'il est temps de bouger ou de faire une pause, écoutez-le. C'est comme écouter une petite voix amie qui vous veut du bien. Vous pouvez le faire, je crois en vous!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, avez-vous des jeux ou des activités favorites que vous aimez faire sans écran? Peut-être jouer au ballon, faire du vélo, ou dessiner? Ces activités sont tout aussi importantes pour notre bien-être. Partager vos idées avec votre famille et vos amis peut être très amusant. Alors, qu'est-ce que vous préférez faire? Je suis curieux de savoir!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vous avez appris tellement de choses aujourd'hui sur le temps d'écran et la sécurité numérique. Rappelez-vous toujours que l'équilibre est la clé. Comme quand nous mangeons nos légumes pour rester forts, nous devons aussi équilibrer notre temps d'écran avec d'autres activités. C'est une partie importante de notre aventure de tous les jours. Vous êtes maintenant un expert en temps d'écran!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "N'oubliez pas que chaque jour est une nouvelle occasion d'apprendre et de s'amuser. Peut-être que demain, vous trouverez un nouveau jeu éducatif ou une nouvelle activité à essayer. C'est comme ouvrir un nouveau livre rempli de mystères à résoudre. Vous avez tous les outils pour faire de chaque jour une aventure incroyable!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Avant de terminer, souvenez-vous de toujours demander à un adulte de vous aider à choisir des jeux et des applications. Ils peuvent vous aider à trouver des options qui sont amusantes et éducatives. Pensez-y comme avoir un coéquipier de confiance dans votre équipe de détectives. Ensemble, vous pouvez explorer le monde numérique en toute sécurité et avec beaucoup de plaisir!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce temps avec moi, les amis! J'ai adoré explorer les mystères du temps d'écran avec vous. N'oubliez pas de partager tout ce que vous avez appris avec votre famille et vos amis. Et souvenez-vous, je suis toujours là pour vous aider à résoudre des mystères. À bientôt pour une nouvelle aventure passionnante avec Mystery Pup Buddy! Au revoir!"
+    }
+  ],
+  "title": "Histoire de Screen Time de Mystery Pup Buddy"
+}

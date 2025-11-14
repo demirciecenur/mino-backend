@@ -1,0 +1,104 @@
+{
+  "id": "shell_heroes_crew_friendship_story",
+  "character": "Shell Heroes Crew",
+  "topic": "friendship",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friend! I'm part of the Shell Heroes Crew, and today we're going on an amazing journey about friendship. Are you ready to discover the magic of making friends? Friendship is like a big, colorful adventure where you share, play, and laugh together. It's all about kindness, helping each other, and having fun. Let's dive right in and explore how we can be the best friends ever!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what friendship means. Friendship is when you have someone to play with and share your toys. It means having a buddy who makes you smile and feel happy. Think about the times when you laughed so hard with a friend that your tummy hurt. That's the magic of friendship! It's important to be kind and listen to your friends, just like they listen to you."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about sharing? Sharing is a big part of being a good friend. Imagine you have a big box of crayons. Sharing your crayons means everyone gets to draw and create beautiful pictures together. It's like a team where everyone gets to play. So next time you're with your friends, try sharing something you love. It can be a toy, a game, or even a story!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job! Now let's think about how we can be kind to our friends. Being kind is like giving a big, warm hug with your words and actions. You can say nice things like, 'You did a great job!' or 'I'm so happy to play with you.' It's important to show your friends you care. So, let's practice saying something kind to a friend today. You can do it!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure by talking about playing together. Playing is a wonderful way to make friends and have fun. Whether it's building a sandcastle, playing tag, or drawing, playing helps you connect. When you play, remember to include everyone and take turns. This way, everyone feels like they belong. Can you think of a game you'd like to play with your friends?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's imagine we're on a pirate ship, sailing across the ocean. Just like pirates work together to find treasure, friends work together to have fun. It’s important to listen to each other and share ideas. If you're building a fort, maybe one friend can gather pillows while another arranges them. Teamwork makes everything more exciting and successful. Let's try working together with our friends in our next playtime!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing fantastic! Remember, sometimes friends might feel sad or upset. Being a good friend means being there to help them feel better. You can give them a hug, listen to them, or even draw a picture to cheer them up. Showing you care can make a big difference. Let's promise to always be there for our friends, just like they're there for us."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about making new friends. Meeting new people can be exciting and a little scary, but it's a wonderful way to grow your circle of friends. You can start by saying, 'Hi, my name is... What's yours?' Ask if they'd like to play or join in a game. Remember, everyone loves to feel included. By inviting someone new, you're spreading the joy of friendship!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever had a friend who helped you when you needed it? Maybe they helped you pick up toys or shared their snack with you. How did that make you feel? Helping each other is a big part of friendship. Let's think about ways we can help our friends today. Can you think of something kind you can do for a friend?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our journey by talking about solving problems with friends. Sometimes, friends might disagree or want different things. That's okay because it's part of being friends. We can talk and listen to find a solution together. Maybe you can take turns choosing a game or decide together what to do next. Working through problems makes friendships stronger and more fun."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's imagine we're explorers in a big, magical forest. Just like explorers, friends discover new things together. You can learn from each other and try new activities. Maybe one friend knows how to play a new game or make a fun craft. Let's try something new with our friends today and see what amazing things we can discover together!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well on this friendship adventure! Another important part of friendship is saying 'thank you.' When a friend shares or helps you, thanking them shows you appreciate their kindness. It's like giving a little gift of words. Let's practice saying 'thank you' today. You'll see how it makes your friends smile and feel appreciated!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about remembering special moments with friends. Making memories together is like collecting treasures. You can remember a fun day at the park, a silly game, or a time you laughed together. These memories make your friendship even more special. Next time you're with your friends, try to create a new memory you can remember forever."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you remember a time when you had a lot of fun with your friends? Maybe it was a birthday party or a playdate at the playground. How did it make you feel? Thinking about happy times reminds us of how important friends are. Let's share our favorite memory with a friend and see if they remember it too!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Wow, you've learned so much about friendship today! Remember, being a good friend means sharing, being kind, and having fun together. It's about helping each other and making happy memories. You can be an amazing friend by doing these things every day. Thank you for joining me on this friendship adventure. Until next time, keep being the awesome friend you are!"
+    }
+  ],
+  "title": "Shell Heroes Crew's Friendship Story"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "frost friend sid_temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran_story",
+  "character": "Frost Friend Sid",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis ! Je suis Sid, votre copain givré. Aujourd'hui, nous allons découvrir quelque chose de très amusant et important sur les écrans. Vous savez, ces trucs lumineux que l'on regarde parfois, comme la télé ou la tablette. Êtes-vous prêts à partir avec moi dans cette aventure ? Je suis super excité de tout vous expliquer !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des écrans et de pourquoi ils sont si fascinants. Les écrans peuvent nous montrer des dessins animés, des jeux et même des histoires comme la mienne ! Mais saviez-vous qu'il est important de ne pas passer trop de temps devant ? Trop d'écrans peuvent fatiguer nos yeux et nous empêcher de jouer dehors. Alors, pourquoi ne pas découvrir comment les utiliser intelligemment ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour commencer, on peut décider combien de temps passer devant un écran chaque jour. Par exemple, on peut regarder un dessin animé le matin et jouer à un jeu le soir. Cela laisse du temps pour d'autres activités amusantes, comme dessiner ou courir dans le jardin. C'est important de diversifier nos activités pour rester en forme et heureux. Vous voyez, c'est facile de trouver le bon équilibre !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super, vous êtes sur la bonne voie ! Continuons avec quelques habitudes saines. Saviez-vous que faire des pauses régulières est très bon pour vous ? Par exemple, après avoir regardé un épisode de votre série préférée, vous pouvez faire une petite danse. Se lever et bouger aide notre corps à rester actif et plein d'énergie. Vous pouvez le faire, je crois en vous !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé des pauses ? Eh bien, il y a d'autres choses à penser aussi, comme la sécurité numérique. Cela signifie être prudent avec ce que nous regardons et avec qui nous parlons en ligne. Par exemple, il est toujours bon de demander à un adulte avant de cliquer sur quelque chose de nouveau. Cela nous aide à rester en sécurité tout en profitant de nos écrans."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre astuce est de créer un endroit spécial pour utiliser les écrans. Peut-être un coin confortable dans le salon, où vous pouvez vous asseoir avec maman ou papa. Cela rend l'utilisation des écrans plus agréable et sûre. On peut aussi régler la luminosité de l'écran pour ne pas fatiguer nos yeux. C'est comme mettre des lunettes de soleil pour nos écrans !"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, vous apprenez vite ! Continuons à parler de ce que l'on peut faire sans écran. Comment aimez-vous jouer au ballon ou construire des tours avec des blocs ? Ces activités sont géniales pour notre imagination et notre corps. C'est comme un jeu d'équilibre, avec un peu d'écran et beaucoup d'autres jeux amusants ! Vous êtes capables de trouver cet équilibre, j'en suis sûr !"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Est-ce que vous avez des jeux préférés que vous aimez jouer sans écran ? Peut-être que vous aimez dessiner ou jouer avec des amis ? Partager ces moments est tout aussi excitant que de regarder un film. Quels sont vos jeux préférés ? J'aimerais vraiment savoir !"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est formidable d'entendre toutes vos idées ! Vous savez, jouer avec des amis et partager des histoires peut être aussi amusant que n'importe quel jeu vidéo. Et en plus, cela nous aide à développer notre imagination. Alors, la prochaine fois que vous voyez un écran, pensez aussi à toutes les autres choses amusantes que vous pouvez faire. Vous êtes incroyables !"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de la sécurité numérique ? Un autre conseil est de ne jamais partager d'informations personnelles en ligne. Cela signifie ne pas dire notre nom complet ou notre adresse à des inconnus. C'est comme un jeu de cache-cache, mais avec nos informations. C'est important pour rester en sécurité et heureux."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons quelque chose d'amusant ensemble. Prenons une grande inspiration par le nez et soufflons lentement par la bouche. Encore une fois, inspirez et expirez. Cela aide à se détendre après avoir utilisé un écran. Vous pouvez même le faire avec vos parents pour partager un moment de calme. C'est une belle façon de terminer une session d'écran, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez vraiment bien fait aujourd'hui ! En apprenant à gérer notre temps d'écran, nous pouvons profiter de tout ce que la vie a à offrir. Vous pouvez être fiers de vous pour avoir écouté et appris ces conseils. Chaque petit pas nous rapproche d'une utilisation saine et amusante des écrans. Continuez comme ça, vous êtes formidables !"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Avant de nous quitter, souvenez-vous que les écrans sont comme des outils magiques. Ils peuvent nous montrer des choses incroyables, mais ils ne remplacent pas le plaisir de jouer dehors ou de lire un bon livre. Alors, utilisons-les avec sagesse et profitons de chaque moment. Je suis sûr que vous allez faire de grands choix !"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous des questions sur tout ce que nous avons appris aujourd'hui ? Peut-être avez-vous des idées sur comment passer moins de temps devant les écrans ? Partager vos pensées est un excellent moyen d'apprendre les uns des autres. Je suis curieux de savoir ce que vous en pensez. Qu'en dites-vous ?"
+    },
+    {
+      "id": "closure_0",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, mes petits amis ! J'ai adoré partager ces conseils sur les écrans et les habitudes saines. Rappelez-vous, un peu d'écran et beaucoup d'autres jeux, c'est la clé ! Prenez soin de vous et amusez-vous bien. Au revoir et à bientôt pour de nouvelles aventures !"
+    }
+  ],
+  "title": "Histoire de Screen Time de Frost Friend Sid"
+}

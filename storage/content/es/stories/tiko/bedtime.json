@@ -1,0 +1,98 @@
+{
+  "id": "tiko_bedtime_story",
+  "character": "Tiko",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Tiko, y hoy vamos a descubrir la magia de la hora de dormir. ¿Estás listo? Es un momento muy especial donde nos preparamos para soñar con mundos maravillosos. Vamos a aprender por qué es tan importante relajarnos antes de dormir. Estoy muy emocionado de que estés aquí conmigo en esta aventura."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La hora de dormir es como un viaje a un mundo de sueños. Cuando nos preparamos bien, podemos tener sueños increíbles. Imagina que cada noche es una nueva aventura. Podemos volar en un cohete o nadar en el océano. ¿No suena divertido? Por eso es importante tener una rutina que nos ayude a dormir bien."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Antes de dormir, es bueno hacer cosas que nos ayuden a sentirnos tranquilos. Podemos empezar apagando las luces brillantes y encendiendo una luz suave. Esto le dice a nuestro cuerpo que es hora de relajarse y prepararse para dormir. También podemos escuchar música suave o leer un cuento. Estas cosas nos ayudan a sentirnos calmados y listos para soñar."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ahora vamos a practicar juntos! Vamos a tomar tres respiraciones profundas. ¿Listo? Inhala por la nariz, uno, dos, tres... y exhala por la boca, uno, dos, tres. ¡Muy bien! Esto nos ayuda a sentirnos tranquilos y a decirle a nuestro cuerpo que es hora de descansar. ¡Lo estás haciendo genial!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Después de respirar, podemos pensar en cosas bonitas que nos hacen felices. Como un día en el parque jugando con amigos o un paseo en bicicleta. Pensar en cosas felices nos ayuda a tener sueños dulces. Así que cada noche, antes de cerrar los ojos, elige un pensamiento feliz para llevarte al mundo de los sueños."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Otra cosa importante es asegurarnos de que nuestro cuerpo está listo para dormir. Podemos ponernos nuestro pijama más cómodo y cepillarnos los dientes. ¿Recuerdas por qué es importante cepillarse los dientes? Así mantendremos nuestra sonrisa brillante y sana. ¡Y no olvidemos lavar nuestras manos y cara!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Bien hecho al prepararte para dormir! Ahora que estás en tu cama, puedes acurrucarte con tu peluche favorito. ¿Tienes un peluche que te gusta mucho? Abrazarlo te ayudará a sentirte seguro y feliz. Es como tener un amigo que te acompaña en tus sueños. ¡Qué maravilloso es eso!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos listos para dormir, podemos cerrar los ojos y dejar que nuestra imaginación vuele. Podemos imaginar que somos exploradores en un bosque encantado o que estamos navegando en un barco pirata. ¿Qué aventuras te gustaría soñar esta noche? El mundo de los sueños es tan grande como tu imaginación."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabías que dormir bien nos ayuda a crecer fuertes y felices? ¿Te gustaría saber más sobre cómo el sueño nos ayuda cada día? Dormir es como cargar una batería mágica que nos da energía para jugar y aprender al día siguiente. ¿No es increíble cómo el sueño puede hacer tantas cosas buenas por nosotros?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Cuando dormimos, nuestro cuerpo trabaja para mantenernos sanos. Es cuando crecemos más y nuestro cerebro guarda todos los recuerdos y aprendizajes del día. Por eso, dormir bien es como darle un gran regalo a nuestro cuerpo. Así que cada noche, al ir a la cama, estamos haciendo algo muy importante para nosotros mismos."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas la última vez que tuviste un sueño divertido? A veces, nuestros sueños pueden ser tan emocionantes como nuestras aventuras durante el día. Incluso podemos soñar con volar como un pájaro o encontrar un tesoro escondido. Los sueños son mágicos y nos permiten explorar sin límites. ¡Qué emocionante es eso!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabes lo importante que es dormir, ¿estás listo para soñar? Recuerda que cada noche es una nueva oportunidad para soñar con algo maravilloso. Así que cuando te acuestes, piensa en todas las cosas felices que hiciste hoy. Te ayudará a tener un sueño tranquilo y reparador. ¡Buenas noches, pequeño aventurero!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres increíble al aprender sobre la hora de dormir! Ahora, vamos a practicar una vez más. Cierra los ojos, respira profundamente y piensa en algo bonito. Puedes hacerlo, estoy seguro. Recuerda que cada vez que lo haces, te estás preparando para un sueño lleno de aventuras. ¡Estoy tan orgulloso de ti!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "¡Gracias por acompañarme en esta aventura sobre la hora de dormir! Espero que hayas aprendido mucho y que estés listo para soñar con cosas maravillosas. Recuerda, cada noche es una nueva aventura. ¡Nos vemos pronto para explorar más juntos! Buenas noches y dulces sueños, pequeño amigo. ¡Hasta la próxima!"
+    }
+  ],
+  "title": "Historia de Bedtime de Tiko"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "super_jump_hero_friendship_story",
+  "character": "Super Jump Hero",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Super Jump Hero. Bugün birlikte arkadaşlık hakkında harika bir yolculuğa çıkacağız. Arkadaşlık, birlikte oyunlar oynamak ve eğlenceli zamanlar geçirmektir. Bazen yeni arkadaşlar edinmek biraz zor olabilir ama endişelenme; birlikte bunu başaracağız. Hazır mısın? Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, birbirimize iyi davranmakla başlar. İyi bir arkadaş olmak için, arkadaşlarımızın duygularını anlamalı ve onların yanında olmalıyız. Örneğin, bir arkadaşımız üzgünse ona destek olabiliriz. Tıpkı oyuncaklarımızı paylaşmak gibi, duygularımızı da paylaşabiliriz. Birlikte olduğumuzda daha güçlü ve mutlu oluruz."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir arkadaş edinmek için ilk adım, gülümsemek ve merhaba demektir. Unutma, herkes birer arkadaş adayı olabilir. Yeni bir arkadaş edinmek için cesur olmalıyız. Onlara oyunlar oynamayı teklif edebiliriz. Mesela, saklambaç oynamak harika bir başlangıç olabilir!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi yeni arkadaşlar edinmek için bir adım daha atabiliriz. Birlikte oynarken, arkadaşlarımızın fikirlerini dinlemek çok önemlidir. Onlara 'Bu oyunu nasıl oynayalım?' diye sorabiliriz. Onların fikirlerini dinlemek, arkadaşlığımızı güçlendirir. Sen de bunu deneyebilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda, arkadaşların fikirlerini dinlemekten bahsetmiştik. Şimdi, birlikte bir hikaye oluşturalım. Hikayemizde, iki arkadaş bir maceraya atılıyor. Onlar birbirlerine güveniyor ve birlikte harika zaman geçiriyorlar. Bu, gerçek arkadaşlığın gücünü gösterir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaşlarımızla oynarken, bazen farklı fikirlerimiz olabilir. Bu durumda, sırayla oyunlar seçebiliriz. Mesela, önce senin seçtiğin oyunu oynarız, sonra da arkadaşının. Böylece herkes mutlu olur ve eğlence hiç bitmez."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Arkadaşlarınla oynamak gerçekten çok eğlenceli. Şimdi, birlikte bir oyun oynayalım mı? Beraber bir sayı sayma oyunu oynayabiliriz. Bir, iki, üç... Sen de saymaya katılmak ister misin?"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Arkadaşlarınla en sevdiğin oyun nedir? Düşün bakalım, belki de yeni bir oyun keşfetmişsindir. Belki de bir gün bana da anlatırsın. Şimdi, en sevdiğin oyunu hatırlıyor musun? Hadi, biraz düşünelim."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Harika! Oyun oynamak ve yeni arkadaşlar edinmek çok eğlenceli, değil mi? Bir önceki konuşmamızda, en sevdiğin oyunu düşündük. Şimdi, bu oyunları arkadaşlarınla nasıl oynayabileceğimizi hayal edelim. Bunun için biraz yaratıcı olabiliriz!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık sadece oyun oynamaktan ibaret değildir. Arkadaşlarımızla birlikte, yeni şeyler öğrenebiliriz. Mesela, yeni bir dil öğrenmek veya resim yapmak gibi. Bu tür aktiviteler, arkadaşlığımızı daha da güçlendirir. Senin de böyle aktiviteler yapmayı sevdiğini biliyorum."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaşlarımızla birlikteyken, bazen anlaşmazlıklar yaşayabiliriz. Böyle durumlarda, sakin kalmak ve konuşarak çözüm bulmak önemlidir. Mesela, bir oyunda kimin sırası olduğu konusunda anlaşmazlık olabilir. Bu durumda, sırayla oynamak iyi bir çözüm olabilir."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Unutma, iyi bir arkadaş olmak için empati kurmak çok önemlidir. Empati, başkalarının duygularını anlamak demektir. Arkadaşlarımızın nasıl hissettiğini düşünerek onlara yardımcı olabiliriz. Bu, arkadaşlığımızı daha da güçlendirir. Sen de empati kurmayı deneyebilirsin!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Arkadaşlarınla en son ne zaman birlikte bir şey yaptın? Belki de bir oyun oynadınız ya da bir resim yaptınız. Hatırlıyor musun? Bu anılar, arkadaşlığımızı özel kılar. Hadi biraz düşün ve bana anlat."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Anladım! Birlikte vakit geçirmek ne kadar da özel, değil mi? Arkadaşlık, bu tür güzel anılarla doludur. Şimdi, bir sonraki maceramızda neler yapabileceğimizi hayal edelim. Belki de yeni bir oyun keşfederiz!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün arkadaşlık hakkında çok şey öğrendik. Arkadaşlarımızla oynamak, paylaşmak ve empati kurmak ne kadar da önemli! Birlikte geçirdiğimiz bu harika zamanı hiç unutmayacağım. Şimdi, yeni maceralar için hazır ol. Bir sonraki görüşmemizde daha fazla eğlence bizi bekliyor. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Super Jump Hero'ın Friendship Hikayesi"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "bubu_régulation_émotionnelle_gestion_des_émotions_se_calmer_autorégulation_story",
+  "character": "Bubu",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Bubu. Aujourd'hui, nous allons explorer un sujet très spécial: comment gérer nos émotions. Parfois, nous nous sentons tristes ou en colère, et c'est tout à fait normal. Mais nous pouvons apprendre à nous calmer et à être plus heureux. Es-tu prêt pour cette aventure incroyable?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les émotions sont comme des petites vagues dans notre cœur. Parfois, elles sont calmes, et parfois, elles peuvent être très fortes. Quand nous ressentons une émotion forte, cela peut nous rendre confus ou agités. Mais ne t'inquiète pas, il y a des moyens pour gérer ces vagues. Ensemble, nous apprendrons comment rester calme même quand les vagues sont grandes."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une façon de se calmer est de respirer profondément. Quand tu te sens en colère ou triste, essaie de prendre une grande inspiration. Inspire par le nez et expire lentement par la bouche. Cela aide ton cœur à ralentir et à se détendre. Veux-tu essayer avec moi maintenant?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Tu as fait un excellent travail en respirant profondément. Chaque fois que tu te sens bouleversé, souviens-toi de cette respiration. C'est comme un super pouvoir secret que tu peux utiliser à tout moment. Tu es très courageux d'apprendre ces nouvelles compétences. Continue comme ça!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons d'un autre moyen de se calmer: imaginer un endroit heureux. Ferme les yeux et pense à un endroit où tu te sens bien, comme un parc ou une plage. Imagine les couleurs, les sons, et les odeurs de cet endroit. Cela peut aider à éloigner les pensées tristes."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est ton endroit heureux préféré? Peut-être que c'est ta chambre, ou peut-être un jardin avec des fleurs. Raconte-moi à quoi il ressemble. Est-ce qu'il y a des animaux ou des jeux amusants là-bas? J'aimerais beaucoup le savoir."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "C'est merveilleux d'avoir un endroit heureux en tête. La prochaine fois que tu te sens triste, tu peux y penser pour te sentir mieux. Cela te donne un endroit où ton esprit peut se reposer. N'oublie pas que cet endroit est toujours là pour toi quand tu en as besoin."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Nous pouvons aussi nous calmer en bougeant notre corps. Parfois, danser ou sauter peut aider à libérer des émotions. Tu peux essayer de faire de petits sauts ou de tourner en rond. Cela peut te faire sourire et te rendre plus léger. Allons-y, essayons ensemble!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo! Bouger ton corps peut vraiment aider à te sentir mieux. Chaque fois que tu te sens agité, pense à danser ou à sauter. C'est une façon amusante de libérer des émotions. Tu fais un travail incroyable en apprenant ces astuces!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, partager ce que tu ressens avec un ami ou un adulte peut aussi aider. Parler de tes émotions peut les rendre moins effrayantes. Tu peux dire, 'Je suis triste' ou 'Je suis en colère', et cela peut te soulager. Les gens qui t'aiment veulent toujours t'écouter."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu quelqu'un avec qui tu aimes parler de tes émotions? Peut-être un parent, un enseignant, ou un ami? C'est important d'avoir quelqu'un à qui tu peux faire confiance. Qui est cette personne spéciale pour toi?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "C'est génial d'avoir quelqu'un à qui parler. Rappelle-toi que tu n'es jamais seul avec tes émotions. Il y a toujours quelqu'un qui veut t'aider et te comprendre. Partager tes sentiments peut te rendre plus fort et plus heureux."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as appris beaucoup de choses aujourd'hui sur la gestion des émotions. C'est un grand pas vers devenir plus calme et heureux. Souviens-toi de respirer profondément, d'imaginer des endroits heureux, et de bouger ton corps. Tu es capable de grandes choses!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce temps avec moi. J'espère que tu te sens plus fort et plus calme. N'oublie pas que je suis toujours là pour t'aider à gérer tes émotions. Prends soin de toi et à bientôt, petit ami! Au revoir!"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Bubu"
+}

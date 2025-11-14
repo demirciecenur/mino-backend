@@ -1,0 +1,104 @@
+{
+  "id": "clever_mouse_jerry_régulation_émotionnelle_gestion_des_émotions_se_calmer_autorégulation_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis ! Je suis Jerry la Souris Maline. Aujourd'hui, nous allons partir dans une aventure incroyable sur la régulation émotionnelle. Savez-vous ce que cela signifie ? C'est apprendre à comprendre et à gérer nos émotions, comme la joie, la colère ou la tristesse. Êtes-vous prêts à explorer cela ensemble ? Je suis tellement curieux de savoir ce que vous en pensez !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par parler des émotions. Vous savez, les émotions, ce sont comme des petits nuages dans notre tête. Parfois, ils sont joyeux et légers, et parfois ils sont un peu plus lourds. Mais ne vous inquiétez pas, tout le monde ressent des émotions. Même moi, Jerry la Souris Maline, je ressens des émotions chaque jour ! Maintenant, pensez à un moment où vous avez ressenti une grande joie. C'est agréable, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant de comment nous calmer quand nous ressentons de grosses émotions. Imaginez que votre cœur bat très fort, comme un tambour. Une façon de se calmer est de respirer lentement, comme un petit souffle de vent. Prenons une grande inspiration ensemble, puis expirons doucement. Vous voyez, c'est comme si nous chassions les nuages lourds ! C'est important de savoir comment se calmer pour se sentir bien."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Vous avez fait un excellent travail en respirant avec moi. Vous voyez, se calmer, c'est comme un petit jeu que nous pouvons jouer à tout moment. Et vous pouvez le faire n'importe où, même quand vous jouez ou quand vous êtes à l'école. N'oubliez pas, chaque fois que vous vous sentez un peu trop excité ou en colère, vous pouvez essayer de respirer calmement. Vous êtes vraiment doués !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, souvenez-vous de la dernière fois que vous avez été un peu triste. C'est normal de ressentir cela aussi. Parfois, parler à quelqu'un de ce que l'on ressent peut aider à se sentir mieux. Vous pouvez parler à vos parents, à vos amis ou même à votre doudou préféré. Partager ses émotions, c'est comme ouvrir une fenêtre pour laisser entrer le soleil. Ça aide vraiment !"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà ressenti une émotion très forte ? Peut-être une grande joie ou une colère comme un volcan ? Qu'avez-vous fait à ce moment-là ? C'est bien de se souvenir de ce que nous avons ressenti et de comment nous avons réagi. Cela nous aide à mieux comprendre nos émotions. Et vous, que faites-vous pour vous sentir mieux ? J'aimerais bien savoir !"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous quand nous avons parlé de respirer calmement ? C'est une astuce que vous pouvez utiliser souvent. Mais il y a aussi d'autres façons de se calmer, comme écouter de la musique douce ou dessiner un joli dessin. Chaque personne a sa propre manière de se sentir mieux. Et vous, avez-vous une activité préférée pour vous détendre ?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Voyons maintenant comment nous pouvons reconnaître nos émotions. Parfois, notre corps nous envoie des signaux, comme un cœur qui bat fort ou des mains moites. C'est notre corps qui nous dit que nous ressentons quelque chose. Prenez un moment pour écouter ce que votre corps vous dit. Cela peut vraiment vous aider à comprendre vos émotions et à mieux les gérer."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail formidable en apprenant tout cela ! N'oubliez pas que c'est normal de ressentir toutes sortes d'émotions. Elles font partie de nous et nous aident à grandir. Et vous êtes déjà très forts pour les comprendre et les gérer. Chaque jour est une nouvelle chance d'apprendre et de s'améliorer. Continuez comme ça !"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons de ce que nous pouvons faire quand nous voyons un ami qui est triste. Parfois, offrir un câlin ou un sourire peut faire une grande différence. Être un bon ami, c'est aussi écouter et être là pour les autres. Vous pouvez même partager vos astuces de calme avec eux ! C'est merveilleux d'aider les autres à se sentir mieux, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, avez-vous déjà aidé un ami à se sentir mieux ? Peut-être en jouant avec lui ou en partageant un goûter. Comment cela vous a-t-il fait sentir ? C'est toujours agréable de faire sourire quelqu'un. Et vous, que feriez-vous pour aider un ami à se calmer ? J'aimerais beaucoup entendre vos idées !"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous, nous avons parlé de la façon dont notre corps nous dit ce que nous ressentons. Parfois, les émotions peuvent être comme un puzzle. Mais en prenant le temps de comprendre chaque pièce, nous pouvons voir le tableau complet. C'est comme résoudre une énigme amusante. Et vous êtes de vrais détectives des émotions, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons un petit exercice ensemble. Fermez les yeux et pensez à un endroit qui vous rend heureux. Peut-être un parc, une plage ou même votre chambre. Imaginez-vous là-bas, en train de jouer et de sourire. Cela vous aide à vous sentir calme et heureux, n'est-ce pas ? C'est une belle façon de gérer nos émotions."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez été incroyables tout au long de notre aventure aujourd'hui ! Vous avez appris à comprendre et à gérer vos émotions de manière si intelligente. Rappelez-vous toujours que vous êtes capables de tout, même de vous calmer quand les émotions deviennent trop fortes. Je suis tellement fier de vous, mes petits amis courageux !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, Jerry la Souris Maline. J'espère que vous avez aimé notre voyage à travers les émotions. N'oubliez pas, je suis toujours là pour vous aider à vous rappeler comment vous calmer et être heureux. À la prochaine aventure, petits explorateurs ! Au revoir et prenez soin de vous !"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Clever Mouse Jerry"
+}

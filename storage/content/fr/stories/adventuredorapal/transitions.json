@@ -1,0 +1,104 @@
+{
+  "id": "adventure_dora_pal_transitions_story",
+  "character": "Adventure Dora Pal",
+  "topic": "transitions",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Adventure Dora Pal. Aujourd'hui, nous allons partir à l'aventure pour découvrir les transitions. C'est un mot un peu compliqué, mais ne vous inquiétez pas, c'est amusant! Êtes-vous prêts pour notre voyage? Je suis tellement curieuse de savoir tout ce que vous allez apprendre aujourd'hui!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions, c'est comme les changements, comme quand on passe d'une activité à une autre. Par exemple, quand on finit de jouer et qu'on doit aller manger. Ça peut être un peu difficile, mais c'est aussi une chance d'apprendre quelque chose de nouveau. Vous savez, chaque transition est une aventure en soi! Maintenant, imaginez que nous changeons de chaussures pour explorer un nouveau chemin."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand on doit faire une transition, il est important de bien se préparer. Par exemple, avant de dormir, on se brosse les dents. Vous pouvez même faire un petit jeu pour rendre ça amusant! Comptez jusqu'à cinq en brossant chaque dent. Un, deux, trois, quatre, cinq! Vous voyez? C'est facile et amusant!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, essayons de faire une transition ensemble. Imaginez que nous jouons dehors et qu'il est temps de rentrer pour le goûter. Vous pouvez dire 'au revoir' à vos jouets et vous préparer à entrer. C'est chouette de savoir qu'une nouvelle activité nous attend! Bravo, vous êtes incroyables à faire des transitions!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, les transitions peuvent être un défi, mais elles nous aident à grandir. Pensez à quand vous avez appris à marcher. C'était une grande transition, n'est-ce pas? Et regardez comme vous êtes forts maintenant! Chaque transition est une chance de devenir encore plus courageux et intelligent."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand vous sentez qu'une transition est difficile, prenez une grande respiration. Inspirons ensemble... et expirons. Encore une fois, inspirons... et expirons. C'est comme si on se préparait à plonger dans une nouvelle aventure. Prenez ce moment pour vous sentir calmes et prêts."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà ressenti que changer de routine était difficile? Peut-être que vous ne vouliez pas arrêter de jouer pour aller vous coucher. Pourquoi pensez-vous que c'est parfois difficile de changer? Peut-être que c'est parce qu'on aime ce qu'on fait. Mais vous savez quoi? Chaque fin est le début d'une nouvelle aventure!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de prendre une grande respiration? Cela peut vous aider à vous sentir mieux pendant une transition. La prochaine fois que vous devez changer d'activité, essayez-le. Vous serez surpris de voir combien cela peut être apaisant et amusant! C'est comme se préparer à découvrir un nouveau jeu."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes vraiment des champions des transitions! Chaque fois que vous réussissez à passer d'une activité à une autre, vous devenez plus fort. Pensez à toutes les choses incroyables que vous pouvez faire maintenant. Vous pouvez jouer, apprendre, explorer! Continuez à être curieux et courageux, mes petits aventuriers."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre façon de rendre les transitions amusantes est de créer une chanson. Chantez une petite chanson quand vous rangez vos jouets. Peut-être quelque chose comme 'Ranger, ranger, c'est amusant, c'est gai!' Chanter rend tout plus joyeux, n'est-ce pas? Essayez la prochaine fois, et voyez comme ça peut être rigolo!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions peuvent aussi être des moments pour apprendre de nouvelles choses. Quand vous allez à l'école, vous apprenez des choses incroyables tous les jours. C'est une transition qui vous aide à grandir et à découvrir le monde. Rappelez-vous que chaque jour est une nouvelle chance d'apprendre et de s'amuser."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Qu'est-ce que vous aimez apprendre de nouveau? Peut-être une nouvelle chanson ou comment dessiner un animal? Chaque fois que vous apprenez quelque chose de nouveau, c'est une transition vers devenir encore plus intelligent. Quel est le prochain truc que vous aimeriez découvrir? Pensez-y, c'est excitant!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Quand on parle de transitions, pensez aussi à comment la nature change. Les feuilles des arbres changent de couleur en automne et tombent pour préparer l'hiver. C'est une belle transition que vous pouvez observer. Les changements dans la nature sont comme des histoires magiques qui se déroulent tout autour de nous."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Avez-vous déjà remarqué ces changements dans votre jardin ou dans le parc? Observez les fleurs qui s'ouvrent au printemps ou les oiseaux qui migrent. C'est fascinant, n'est-ce pas? Chaque saison nous apporte de nouvelles choses à découvrir et à apprécier. Continuons à explorer ces merveilles ensemble!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir exploré les transitions avec moi aujourd'hui! Vous avez été incroyables et si curieux. N'oubliez pas que chaque transition est une nouvelle aventure. Je suis si fière de vous, mes petits aventuriers. À bientôt pour une nouvelle exploration! Au revoir!"
+    }
+  ],
+  "title": "Histoire de Transitions de Adventure Dora Pal"
+}

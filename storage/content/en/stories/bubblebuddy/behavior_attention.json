@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_behavior_attention_story",
+  "character": "Bubble Buddy",
+  "topic": "behavior_attention",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Bubble Buddy, your bubbly companion for today. We're about to embark on an exciting underwater adventure about attention and behavior. Are you ready to dive in with me? It's going to be a splash-tastic journey where we learn how to focus and have fun. So grab your imaginary snorkel and let's begin our bubbly exploration!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what it means to pay attention. Paying attention is like being a detective with your eyes and ears. It helps us learn new things and keeps us safe, like when we're crossing the street. Imagine you're an explorer, spotting the tiniest details on a treasure map. Isn't that exciting? Paying attention can be just as adventurous!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about exploring treasure maps? Well, focusing can be like that too! When you want to concentrate, find a quiet spot, just like a secret hideout. Take three deep breaths, in and out, like gentle ocean waves. This helps your mind calm down so you can listen better. Let's try it together, shall we?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job on those deep breaths! You did it! Now, let's play a fun game to practice our focus. I’ll clap my hands a few times, and you try to count how many claps you hear. Ready? Here we go! Clap, clap, clap! Did you catch how many claps there were? You're doing an amazing job!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure with a story about a little fish named Finny. Finny loved to explore but sometimes got distracted by shiny bubbles. One day, Finny decided to practice focusing by counting the bubbles. He learned that by focusing, he could find hidden treasures in the coral reef. Just like Finny, you can discover wonderful things when you pay attention!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember Finny’s story? Now, let's practice a simple routine to help us focus, just like he did. First, find a comfy spot to sit. Then, imagine you're a statue – very still and quiet. Can you hold that pose for a few seconds? Being still helps your body and mind get ready to listen. Let's try it together!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wow, you’re doing such a fantastic job being a statue! Staying still is like being a calm sea. It helps you notice things around you better. And guess what? The more you practice, the better you get at focusing. Keep up the great work, little explorer!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's imagine we're in a magical garden under the sea. There are colorful flowers and singing fish. Sometimes, the fish get too excited and make it noisy. But you can help them calm down by taking deep breaths and counting to five. Let's breathe in and out, nice and slow. See how peaceful it gets?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever felt like the fish in our magical garden, a little too excited? What do you do to calm down when that happens? Maybe you take deep breaths or count to five like we did. Can you think of other ways to help yourself feel calm and focused? I'm so curious to hear your ideas!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Those are wonderful ideas! You're becoming a real expert in calming down and focusing. Isn't it amazing how small things like breathing or counting can help? You can practice these anytime you need to focus or feel calm. Keep exploring and discovering what works best for you!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's learn a fun song to help us remember how to focus. It goes like this: 'When I need to pay attention, I breathe in and out. I count my breaths, one, two, three, and calm my mind, you see!' Singing can be a fun way to remember what you've learned. Let's sing it together!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Did you enjoy singing that song with me? Songs are a great way to help our brains remember things. You can sing it anytime you need a little reminder to focus. Practicing these skills can make every day feel like an underwater adventure. Let's keep exploring and learning!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember, just like our friend Finny, you can discover amazing things when you pay attention. Whether you're at school, playing, or even helping at home, focusing can make everything more fun. Imagine all the adventures you can have when you really listen and look around. The world is full of wonders waiting for you to find!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an incredible job on this adventure! Remember, every time you practice focusing, you're getting better and better. Like a little fish learning to swim faster. Keep practicing and soon, focusing will be as easy as blowing bubbles. You're a superstar!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this bubbly adventure, my friend! We've learned so much about paying attention and calming down. Remember, I'm always here to help you on your journey. Keep practicing, exploring, and most importantly, having fun. Until next time, keep your bubbles bright and your smiles even brighter! Goodbye!"
+    }
+  ],
+  "title": "Bubblebuddy's Behavior & Attention Story"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_imagination_story",
+  "character": "Piggy Friend",
+  "topic": "imagination",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Piggy Friend. Bugün birlikte imagination, yani hayal gücümüz hakkında harika bir yolculuğa çıkacağız. Hayal gücü, düşündüğümüz her şeyi gerçekmiş gibi hissedebilmemizi sağlar. Oyun oynarken, kitap okurken veya sadece düşünürken bile hayal gücümüzü kullanabiliriz. Hazır mısın? Seni çok merak ediyorum."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücümüzle neler yapabileceğimizi hiç düşündün mü? Mesela bir an için kendimizi bir uzay gemisinin kaptanı olarak hayal edebiliriz. Uzayda yıldızların arasında dolaşmak ne kadar da heyecan verici olurdu, değil mi? Hayal gücü, günlük hayatımızı daha eğlenceli hale getirir. Her gün yeni maceralara atılmak için sadece hayal kurmamız yeterli."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte bir hayal kurma oyunu oynayalım. Gözlerini kapat ve kendini bir deniz korsanı olarak hayal et. Büyük ve güçlü bir gemin var, dalgalarla dans ediyorsun. Hangi hazineyi bulmak istersin? Hayal gücümüzle her şeyi yapabiliriz, unutma!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika işler çıkarıyorsun! Hayal gücünü kullanmak çok eğlenceli, değil mi? Şimdi, belki de bir süper kahraman olmayı deneyelim. Uçabilseydin nereye gitmek isterdin? Senin hayallerin çok özel ve değerli."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda bir süper kahraman olmayı hayal etmiştik. Şimdi, başka bir maceraya atılalım. Mesela bir balerin veya bir futbol yıldızı olmayı ister misin? Hayal gücü sınır tanımaz, istediğimiz her şey olabiliriz. Senin hayal dünyan nelerle dolu?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Biliyor musun, hayal gücü sadece eğlenceli değil, aynı zamanda öğrenmemize de yardımcı olur. Mesela bir bilim insanı gibi düşünebiliriz. Yeni icatlar yapmak, dünyayı keşfetmek... Hayal gücüyle her şey mümkün. Sen de kendini bir bilim insanı olarak hayal edebilir misin?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte birkaç derin nefes alalım. Derin nefes almak, hayal gücümüzü daha iyi kullanmamıza yardımcı olur. Bir, iki, üç... Derin nefes al ve hayal et. Belki de bir ormanda yürüyorsun, etrafında kuşlar şarkı söylüyor. Hayal gücünle sen neredesin?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Seninle hayal kurmak çok eğlenceli. Şimdi biraz daha ileri gidelim. Hayal gücünle bir arkadaşına yardım ettiğini düşün. Onunla birlikte ne maceralar yaşamak isterdin? Senin hayal gücünle her şey mümkün!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, şimdi sana bir soru sormak istiyorum. Hayal gücünle en çok ne olmayı seversin? Belki bir prens veya prenses? Belki de bir pilot ya da bir aşçı? Senin hayallerin neler? Düşüncelerini benimle paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda hayal gücümüzle neler olabileceğimizi konuştuk. Şimdi hayallerimizi biraz daha detaylandıralım. Mesela bir çiftlikte yaşamak ister miydin? Hayvanlarla dolu bir yaşam, doğayla iç içe olmak... Hayal gücümüzle her şey mümkün değil mi?"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, daha önce bir uzay yolculuğuna çıkmıştık. Şimdi ise denizlerin derinliklerine dalalım. Denizin altında yüzlerce farklı balık türü, rengarenk mercanlar var. Hayal gücünle bu dünyayı keşfetmek ister misin? Ne kadar da büyüleyici!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hayal gücümüzü kullanarak şimdi bir oyun oynayalım. Birlikte bir hikaye oluşturalım. Baş kahramanımız sen ol, maceraya atıl ve yeni arkadaşlar edin. Hikayemizin sonunu sen belirle. Hayal gücünle her şey mümkün, unutma!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Çok iyi gidiyorsun! Şimdi hayal gücümüzle bir resim yapalım. Hayal ettiğin dünyayı kağıda dök. Belki bir kale, belki bir orman... Senin hayal dünyan nasıl? Hayal gücünü kullanarak harika eserler yaratabilirsin."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bir sonraki maceramızı planlayalım. Hayal gücünle gitmek istediğin bir yer var mı? Belki bir hayal adası ya da bir peri masalı diyarı? Seninle hangi maceraya çıkmak istersin? Düşüncelerini paylaşmak ister misin?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün harika hayal yolculukları yaptık, değil mi? Hayal gücümüzle neler başarabileceğimizi keşfettik. Seninle vakit geçirmek çok güzeldi. Bir sonraki sefer daha da eğlenceli maceralar bizi bekliyor olacak. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Piggy Friend'ın Imagination Hikayesi"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "yellow_buddy_imagination_story",
+  "character": "Yellow Buddy",
+  "topic": "imagination",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Yellow Buddy, und heute gehen wir auf eine wunderbare Reise in die Welt der Fantasie. Bist du bereit? Ich freue mich schon so darauf, mit dir zu spielen und zu träumen. Gemeinsam können wir alles Mögliche entdecken. Lass uns anfangen und sehen, wohin unsere Vorstellungskraft uns führt!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, Fantasie ist wie ein großer bunter Ballon, der uns überall hinfliegen lässt. Wenn wir unsere Augen schließen und träumen, können wir uns alles vorstellen. Vielleicht fliegen wir auf einem Drachen oder schwimmen mit Delfinen im Meer. Die Fantasie hilft uns, neue Welten zu entdecken und Spaß zu haben. Es ist wie ein Abenteuer, das nie endet!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns unsere Fantasie zusammen benutzen. Stell dir vor, wir sind auf einer großen Wiese voller bunter Blumen. Kannst du die Blumen riechen? Sie duften so süß und frisch. Und schau mal, dort fliegen bunte Schmetterlinge umher. Wie viele siehst du? Lass uns zusammen zählen: eins, zwei, drei, vier. Toll gemacht!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar! Du bist wirklich gut darin, dir Dinge vorzustellen. Die Fantasie ist wie ein Zauberstab, der alles möglich macht. Du kannst damit ein Piratenschiff bauen oder ein Schloss aus Sand. Und das Beste daran ist, dass du alles sein kannst, was du möchtest. Lass uns weiter träumen und sehen, was als Nächstes passiert!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über die Blumenwiese gesprochen haben? Jetzt stell dir vor, wir sind in einem Zauberwald. Die Bäume sind riesig und ihre Blätter flüstern Geschichten. Vielleicht wohnen hier kleine Feen, die im Mondlicht tanzen. Kannst du sie sehen? Lass uns unsere Augen schließen und lauschen, ob wir ihre Musik hören können."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Öffne jetzt deine Augen und schau dich um. Die Fantasie kann überall sein, auch in deinem Zimmer. Vielleicht ist dein Bett ein Raumschiff, das dich zu den Sternen bringt. Oder dein Tisch ist ein geheimnisvolles Versteck für Schätze. Lass uns überlegen, was wir daraus machen können. Was siehst du gerade?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du hast so viele tolle Ideen. Die Fantasie hilft uns, selbst an langweiligen Tagen Spaß zu haben. Wenn es draußen regnet, können wir uns vorstellen, dass wir auf einer sonnigen Insel sind. Oder wir bauen ein Zelt aus Decken und machen ein Picknick drinnen. Alles ist möglich, wenn wir nur daran glauben!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns jetzt über Träume sprechen. Träume sind wie kleine Filme, die in unserem Kopf spielen, wenn wir schlafen. Manchmal sind sie lustig, manchmal spannend. Hast du jemals geträumt, dass du fliegen kannst? Oder dass du ein Superheld bist? Träume sind ein weiterer Weg, wie unsere Fantasie uns Freude bringt."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt machen wir eine kleine Übung. Stell dir vor, du bist ein Vogel, der hoch am Himmel fliegt. Spürst du den Wind in deinen Federn? Schau hinunter auf die Welt und sieh, wie klein alles aussieht. Lass uns zusammen drei tiefe Atemzüge machen, während wir fliegen. Eins, zwei, drei. Fühlst du dich frei?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastisch! Du bist ein großartiger Träumer. Die Fantasie kann uns helfen, uns besser zu fühlen, wenn wir traurig oder ängstlich sind. Sie gibt uns Mut, neue Dinge auszuprobieren und kreativ zu sein. Du kannst alles erreichen, was du dir vorstellen kannst. Weiter so, du kleiner Abenteurer!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an die Schmetterlinge, die wir gezählt haben? Jetzt stell dir vor, wir sind in einem Garten voller bunter Blumen. Die Sonne scheint und die Vögel singen fröhlich. Vielleicht bauen wir ein kleines Haus aus Blumen für die Schmetterlinge. Es könnte der schönste Garten der Welt sein!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du eine Lieblingsgeschichte, die du dir gerne ausdenkst? Vielleicht über einen mutigen Ritter oder eine kluge Prinzessin? Geschichten sind ein wunderbarer Weg, unsere Fantasie zu nutzen. Welche Abenteuer erlebst du in deinen Geschichten? Ich bin so neugierig, mehr darüber zu erfahren!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Das klingt wirklich spannend! Geschichten können uns an weit entfernte Orte bringen und neue Freunde vorstellen. Vielleicht triffst du einen sprechenden Hund oder einen tanzenden Bär. Alles ist möglich, wenn wir unsere Fantasie einsetzen. Lass uns noch ein bisschen mehr träumen, bevor wir aufwachen müssen."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir so viel über Fantasie gesprochen haben, fühlst du dich bereit, deine eigenen Abenteuer zu erleben? Vielleicht kannst du heute etwas Neues ausprobieren oder eine Geschichte schreiben. Die Welt ist voller Möglichkeiten, wenn wir nur daran glauben. Ich bin sicher, du wirst etwas Wunderbares erschaffen!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir zu träumen und zu spielen. Unsere Reise in die Fantasie war voller Spaß und Abenteuer. Ich hoffe, du hast genauso viel Freude daran gehabt wie ich. Bis zum nächsten Mal, kleiner Freund! Bleib neugierig und voller Fantasie. Tschüss und bis bald!"
+    }
+  ],
+  "title": "Yellow Buddys Imagination Geschichte"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_behavior_story",
+  "character": "Piggy Friend",
+  "topic": "behavior",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin dein Piggy Friend. Heute gehen wir auf ein lustiges Abenteuer über gutes Verhalten. Bist du bereit? Ich bin so neugierig auf dich. Zusammen lernen wir, wie wir freundlich und nett sein können!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, was Verhalten ist? Verhalten ist, wie wir uns benehmen. Zum Beispiel, wenn wir bitte und danke sagen, zeigen wir gutes Verhalten. Das ist sehr wichtig, weil es uns hilft, Freunde zu finden. Wenn wir freundlich sind, fühlen sich alle um uns herum wohl."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt sprechen wir über das Teilen. Teilen ist, wenn wir etwas mit anderen zusammen verwenden. Hast du schon einmal dein Spielzeug geteilt? Das macht viel Spaß und zeigt, dass du ein guter Freund bist. Wenn wir teilen, machen wir andere glücklich und wir fühlen uns auch gut dabei."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Lass uns zusammen bis drei zählen, um zu üben, wie wir teilen können. Eins, zwei, drei! Super gemacht! Teilen ist eine wunderbare Art, Freundschaft zu zeigen. Es ist so schön, anderen zu helfen und freundlich zu sein."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnere dich, wie wichtig es ist, auf andere zu hören. Zuhören bedeutet, dass wir aufpassen, wenn jemand spricht. Das zeigt Respekt und Freundlichkeit. Hast du heute schon jemandem zugehört? Wenn nicht, probiere es aus und sieh, wie glücklich es andere macht!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns über das Aufräumen sprechen. Aufräumen bedeutet, dass wir unsere Spielsachen nach dem Spielen wegräumen. Das ist wichtig, weil es hilft, unser Zuhause sauber und ordentlich zu halten. Wenn du das nächste Mal spielst, erinnere dich daran, deine Spielsachen wieder an ihren Platz zu bringen."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hervorragend! Lass uns drei tiefe Atemzüge nehmen, um uns auf das Aufräumen zu konzentrieren. Einatmen, ausatmen, einatmen, ausatmen, einatmen, ausatmen. Wunderbar! Das hilft uns, ruhig und bereit zu sein, unsere Spielsachen aufzuräumen."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, wie wichtig es ist, Regeln zu befolgen? Regeln helfen uns, sicher und glücklich zu sein. Zum Beispiel, beim Überqueren der Straße schauen wir nach links und rechts. Das ist eine Regel, die uns schützt. Wenn wir Regeln befolgen, zeigen wir, dass wir verantwortungsbewusst sind."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kannst du mir eine Regel nennen, die du zu Hause hast? Vielleicht ist es, vor dem Essen die Hände zu waschen. Oder vielleicht ist es, vor dem Schlafengehen eine Gute-Nacht-Geschichte zu hören. Regeln können wirklich hilfreich sein, findest du nicht?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt sprechen wir über Geduld. Geduld bedeutet, dass wir warten können, ohne ungeduldig zu werden. Zum Beispiel, wenn wir in einer Schlange stehen und warten müssen. Geduld hilft uns, ruhig zu bleiben und zeigt, dass wir respektvoll sind."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das toll! Lass uns üben, indem wir bis fünf zählen und dabei tief atmen. Eins, zwei, drei, vier, fünf. Wunderbar! Du bist wirklich gut darin, Geduld zu zeigen."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundlichkeit ist auch ein sehr wichtiges Verhalten. Wenn wir freundlich sind, machen wir die Welt zu einem besseren Ort. Ein einfaches Lächeln oder ein nettes Wort kann jemandem den Tag verschönern. Hast du heute schon jemanden angelächelt?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns zusammen ein Lächeln üben. Stell dir vor, du siehst einen Freund, und lächle groß. Das fühlt sich gut an, oder? Ein Lächeln ist ansteckend und macht alle glücklich. Versuche, jeden Tag zu lächeln!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkst du, macht dich freundlich? Ist es, wenn du jemandem hilfst? Oder vielleicht, wenn du jemandem ein Kompliment machst? Es gibt so viele Möglichkeiten, freundlich zu sein. Welche möchtest du heute ausprobieren?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, heute mit dir über gutes Verhalten zu sprechen. Du hast so viel gelernt und bist wirklich ein toller Freund. Vergiss nicht, zu teilen, zuzuhören, Regeln zu befolgen und freundlich zu sein. Bis bald, kleiner Freund! Ich freue mich schon auf unser nächstes Abenteuer!"
+    }
+  ],
+  "title": "Piggy Friends Behavior Geschichte"
+}

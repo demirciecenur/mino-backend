@@ -1,0 +1,104 @@
+{
+  "id": "spark_buddy_transitions_story",
+  "character": "Spark Buddy",
+  "topic": "transitions",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo kleiner Freund! Ich bin Spark Buddy. Heute gehen wir auf eine spannende Reise über Übergänge. Bist du bereit? Ich bin so neugierig auf dich. Lass uns gemeinsam auf Entdeckungstour gehen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Übergänge sind Momente, in denen sich etwas verändert, wie das Wechseln von einem Spiel zum nächsten. Manchmal kann das aufregend sein, wie das Entdecken eines neuen Spielplatzes. Aber es kann auch ein bisschen beängstigend sein, wenn man nicht weiß, was als nächstes kommt. Hast du schon mal einen Übergang erlebt? Vielleicht als du zum ersten Mal in den Kindergarten gegangen bist?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Übergänge können einfacher werden, wenn wir uns gut darauf vorbereiten. Zum Beispiel können wir eine kleine Routine haben, wie das Zählen bis fünf, bevor wir etwas Neues beginnen. Lass uns das mal zusammen ausprobieren. Eins, zwei, drei, vier, fünf! Toll gemacht! Jetzt bist du bereit für das Neue."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du machst das wirklich gut. Wenn wir uns auf Übergänge vorbereiten, fühlen wir uns sicherer. Denk daran, dass du immer fragen kannst, wenn du etwas nicht verstehst. Du bist nicht allein. Ich bin hier, um dir zu helfen!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Zählen gesprochen haben? Das kann auch helfen, wenn du deine Spielsachen wegräumst. Stell dir vor, du zählst, während du jedes Spielzeug an seinen Platz bringst. Eins, zwei, drei, und schon ist alles sauber! Jetzt kannst du dich auf das nächste Abenteuer freuen."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns nun über Veränderungen im Alltag sprechen, wie zum Beispiel das Wechseln von der Spielzeit zur Schlafenszeit. Wenn es Zeit ist, ins Bett zu gehen, kannst du ein kleines Ritual haben, wie das Zählen deiner Lieblingskuscheltiere. Das macht den Übergang leichter und angenehmer."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wunderbar! Jede Veränderung kann eine Chance sein, etwas Neues zu lernen. Wenn du das nächste Mal vor einem Übergang stehst, erinnere dich daran, dass du mutig und stark bist. Du kannst das schaffen! Ich glaube an dich!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal bemerkt, wie sich die Jahreszeiten ändern? Im Frühling blühen die Blumen, im Sommer scheint die Sonne, im Herbst fallen die Blätter, und im Winter schneit es. Welche Jahreszeit magst du am liebsten? Warum gefällt sie dir so sehr?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jede Jahreszeit bringt ihre eigenen Abenteuer mit sich. Im Frühling kannst du Blumen pflücken, im Sommer Sandburgen bauen, im Herbst durch Laubhaufen springen und im Winter Schneemänner bauen. Diese Übergänge machen unser Leben bunt und spannend. Was ist dein Lieblingsabenteuer?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt über kleine Veränderungen sprechen, wie das Wechseln von einer Aktivität zur anderen. Wenn du mit dem Malen fertig bist und zum Basteln übergehen möchtest, kannst du dich darauf freuen, indem du dir vorstellst, welche schönen Dinge du basteln wirst. Das macht den Übergang zu einer neuen Aktivität aufregend."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar, wie du das machst! Jeder Übergang ist eine Gelegenheit, etwas Neues zu entdecken. Du bist ein großartiger Entdecker! Denk daran, dass du immer Unterstützung hast, wenn du sie brauchst. Du bist nie allein auf deiner Entdeckungsreise."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Manchmal ist es auch wichtig, sich eine Pause zu gönnen, wenn viele Veränderungen anstehen. Eine kleine Pause kann helfen, neue Energie zu tanken. Vielleicht magst du einen kleinen Spaziergang machen oder einfach mal tief durchatmen. Lass uns das zusammen machen: tief einatmen... und ausatmen. Fühlst du dich jetzt besser?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Super! Pausen sind wichtig, um neue Kraft zu sammeln. Nach einer Pause kannst du mit frischer Energie weitermachen. Was möchtest du als nächstes tun? Vielleicht etwas, das dir besonders viel Spaß macht!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du eine Lieblingsgeschichte über Veränderungen? Geschichten können uns helfen, Übergänge besser zu verstehen. Vielleicht kennst du ein Buch oder ein Märchen, das dir besonders gefällt. Was ist das Besondere an dieser Geschichte?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Übergänge zu sprechen! Du hast so viel gelernt und bist bereit für alle Abenteuer, die vor dir liegen. Ich hoffe, du hattest genauso viel Spaß wie ich. Bis zum nächsten Mal, kleiner Entdecker! Tschüss!"
+    }
+  ],
+  "title": "Spark Buddys Transitions Geschichte"
+}

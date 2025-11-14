@@ -1,0 +1,104 @@
+{
+  "id": "mystery_pup_buddy_behavior_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mystery Pup Buddy. Bugün birlikte davranışlar hakkında harika bir yolculuğa çıkacağız. İyi davranışlar nedir, nasıl yapılır, birlikte keşfedeceğiz. Hazır mısın? Seni çok merak ediyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Davranışlar, günlük hayatımızda nasıl davrandığımızı gösterir. İyi davranışlar, arkadaşlarımız ve ailemizle daha iyi anlaşmamıza yardımcı olur. Mesela, lütfen ve teşekkür ederim demek, iyi davranışların bir parçasıdır. Bu kelimeler, insanları mutlu eder ve onlara değer verdiğimizi gösterir. Şimdi, bu kelimeleri kullanmayı nasıl eğlenceli hale getirebileceğimizi düşünelim!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lütfen ve teşekkür ederim demeyi bir oyun haline getirebiliriz. Her lütfen dediğinde bir yıldız kazanabilirsin. Gün sonunda kaç yıldız topladığını sayabilirsin. Bu, hem eğlenceli hem de öğretici bir yöntemdir. Böylece, hem kelimeleri öğrenir hem de eğlenirsin. Sen de bu oyunu denemek ister misin?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi birlikte bir başka iyi davranışı daha keşfedelim. Oyuncaklarını toplamak, odanı düzenli tutmak da iyi bir davranıştır. Bu, hem senin hem de ailenin mutlu olmasını sağlar. Üstelik, oyuncaklar daha kolay bulunur ve oyun zamanı daha eğlenceli hale gelir. Bu davranışı uygulamaya ne dersin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, bir sonraki iyi davranışımızı öğrenelim. Ellerimizi yıkamak, sağlıklı kalmamıza yardımcı olur. Yemekten önce ve sonra ellerimizi yıkamak çok önemlidir. Bu, mikroplardan korunmamızı sağlar ve sağlığımızı korur. Ellerimizi yıkarken ne kadar köpük yaptığını görmek eğlenceli değil mi?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ellerimizi yıkamak için önce suyu açıyoruz. Sonra sabunu alıp ellerimize sürüyoruz. İyice köpürttükten sonra, suyla duruluyoruz. Bu işlemi en az 20 saniye yapmalıyız. Hadi, birlikte sayalım ve ellerimizi yıkamayı bir alışkanlık haline getirelim."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkardın! Şimdi, sırada dişlerimizi fırçalamak var. Dişlerimizi günde iki kez fırçalamak, diş sağlığımız için çok önemlidir. Dişlerimizi fırçalayarak, hem sağlıklı hem de güzel bir gülümsemeye sahip olabiliriz. Sen de bu alışkanlığı edinmek ister misin? Hadi, birlikte deneyelim!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Diş fırçalamak, sabah kalkınca ve gece yatmadan önce yapılmalıdır. Diş macununu fırçanın üzerine sık, sonra dairesel hareketlerle dişlerini fırçala. Üst, alt ve arka dişlerini unutma. Bu şekilde dişlerin tertemiz ve sağlıklı kalır. Şimdi, dişlerimizi fırçalamayı eğlenceli hale getirelim!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dişlerini fırçalarken hangi şarkıyı söylersin? Ben en sevdiğim şarkıyı mırıldanırım. Senin de favori bir şarkın var mı? Şarkı söylemek, diş fırçalamayı daha eğlenceli hale getirebilir. Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda diş fırçalamayı eğlenceli hale getirmekten bahsetmiştik. Şimdi, sıra başka bir önemli davranışta: paylaşmak. Paylaşmak, arkadaşlarımızla daha iyi anlaşmamıza yardım eder. Oyuncaklarımızı ve kitaplarımızı paylaşmak, arkadaşlıklarımızı güçlendirir. Paylaşmanın nasıl mutlu ettiğini gördün mü?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Paylaşmayı alışkanlık haline getirmek için küçük adımlar atabiliriz. Önce en sevdiğimiz oyuncağı seçip bir arkadaşımızla paylaşabiliriz. Bu, arkadaşımızı mutlu eder ve bize de iyi hissettirir. Başlangıçta zor olabilir, ama denedikçe daha kolay hale gelir. Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir başlangıç yaptın! Şimdi, sevgi dolu ve nazik olmanın önemini konuşalım. Nazik olmak, başkalarına saygı göstermektir. Örneğin, birine gülümsediğinde veya güzel bir söz söylediğinde, bu nazik bir davranıştır. Bu tür davranışlar, başkalarını mutlu eder ve seni de iyi hissettirir. Sen de nazik olmaya çalışır mısın?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nazik olmak, her zaman küçük şeylerle başlar. Mesela, birine yardım etmek veya birine sarılmak da nazik bir davranıştır. Bu tür davranışlar, insanların kalbini ısıtır ve ortamdaki havayı güzelleştirir. Nazik davrandığında kendini nasıl hissettiğini fark ettin mi? Bu, her zaman iyi hissettirir."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Nazik davranışların ne kadar önemli olduğunu konuştuk. Şimdi, bir başka iyi davranış örneği: sabırlı olmak. Sabırlı olmak, beklemeyi bilmek ve sıramızı beklemek demektir. Bu, bazen zor olabilir ama çok değerlidir. Sen de sabırlı davranmaya çalışır mısın?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte çok şey öğrendik, değil mi? İyi davranışlar, hayatımızı daha güzel hale getirir. Sen de bu davranışları uygulayarak harika bir arkadaş olabilirsin. Benimle bu yolculuğa katıldığın için çok teşekkür ederim. Bir sonraki buluşmamızda tekrar görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Mystery Pup Buddy'ın Behavior Hikayesi"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "yellow_buddy_emotional_regulation_story",
+  "character": "Yellow Buddy",
+  "topic": "emotional_regulation",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friend! I'm Yellow Buddy, your cheerful pal, ready to take you on a fun journey today. We're going to explore something super cool called emotional regulation. It means learning how to understand and manage our feelings, like when we feel super happy or a little bit grumpy. Are you ready to giggle, play, and learn with me? Let's go on this exciting adventure together, and I promise we'll have loads of fun!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember feeling so happy you wanted to jump up and down? Or maybe feeling sad when your ice cream fell? Those are all emotions! Emotions are like colorful balloons inside us. Sometimes, they float gently, and other times, they want to zoom around. Understanding them helps us feel better, just like when you hug your favorite teddy bear. Knowing our emotions is like having a secret map to feeling good. Ready to learn more?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about what we can do when a big emotion comes knocking. Imagine you're a superhero with special powers to calm down. One way to use your superpower is by taking deep breaths. Let's try it together: breathe in like you're smelling a yummy cookie and out like you're blowing bubbles. Wasn't that fun and relaxing? Deep breaths help us feel calm and ready for anything."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job breathing! You're doing amazing. Now, let's pretend we're blowing up a big, bright balloon with our breath. Each time we breathe out, the balloon gets bigger. This helps us slow down and feel peaceful. Isn't it cool how something so simple can make us feel so good? You can do this anytime you want to feel calm and happy."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about feeling grumpy? Sometimes, we all feel that way, and that's okay! It's like a little cloud passing by. But guess what? We can make that cloud disappear by thinking of something that makes us smile, like playing with a puppy or eating a delicious banana. Thinking happy thoughts is like sunshine for our hearts. Let's practice! What's something that makes you smile?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "I bet you thought of something wonderful! Now, let's pretend we're in a magical garden with flowers that change color when we smile. Can you imagine it? Every time you smile, the flowers bloom and dance. Isn't that magical? Smiling is like a magic wand that makes everything better. Let's sprinkle some magic smiles everywhere we go!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's learn a fun game called the 'Feelings Dance.' When you're feeling wiggly, you can dance it out! First, shake your hands when you're happy, stomp your feet when you're excited, and sway side to side when you're calm. Dancing helps us express how we feel with our whole body. Let's dance together and let our feelings flow like a happy river!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wow, look at you groove! You're a feelings dance superstar! Dancing is a fantastic way to let out all the energy we have inside. Do you feel how your body moves with the music? It's like a happy symphony playing just for you. You can dance whenever you want to feel free and joyful. Keep up the amazing moves!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I've got a question for you. Have you ever felt two emotions at once, like happy and a little nervous? That's perfectly normal! Our hearts can feel lots of things at the same time. Can you think of a time when you felt mixed-up emotions? It's like a colorful smoothie of feelings. Let's chat about it!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Feeling mixed emotions is like having a rainbow inside us, with each color representing a different feeling. Sometimes, we might feel excited to start a new adventure but also a bit shy. That's okay! We can talk to someone we trust, like a family member or a friend. Sharing our feelings is like opening a treasure chest filled with understanding and comfort."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Let's not forget our superhero tool: the calm corner! It's a special place where we can go to relax and think. It could be a cozy chair or a soft blanket fort. In the calm corner, we can read a book, hug a stuffed animal, or just close our eyes and breathe. It's like a secret hideout that helps us feel safe and happy. Do you have a calm corner?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "If you don't have a calm corner yet, let's create one! Find a comfy spot, add your favorite things like toys or books, and make it your special place. When we feel overwhelmed, we can visit our calm corner to recharge. It's like a cozy hug that makes everything better. Let's make our calm corner the happiest place ever!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well learning about emotions! Remember, you're like a feelings explorer, discovering new ways to be happy and calm. Every time you practice, you're getting better at understanding yourself. It's like growing a garden of joy inside you. Keep exploring, keep smiling, and keep being the wonderful you!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Let's think about something fun. If you could have a magical friend to help with your feelings, what would they be like? Maybe a friendly dragon or a wise owl? Imagining a magical friend can be comforting, like having a buddy to share our thoughts with. What do you think your magical friend would say when you're feeling a big emotion?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "And now, our adventure is coming to an end. But remember, my little friend, you're never alone on your feelings journey. You have the power to understand and manage your emotions like a true superhero! I'm so proud of you for learning with me today. Keep smiling, keep exploring, and I'll see you next time for more fun adventures. Goodbye for now, and keep shining bright!"
+    }
+  ],
+  "title": "Yellow Buddy's Emotional Regulation Story"
+}

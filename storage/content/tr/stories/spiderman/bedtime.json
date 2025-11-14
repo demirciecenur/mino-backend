@@ -1,0 +1,98 @@
+{
+  "id": "spider_fighter_bedtime_story",
+  "character": "Spider Fighter",
+  "topic": "bedtime",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Spider Fighter. Bugün birlikte uykuya hazırlık macerasına çıkacağız. Geceyi huzurlu bir şekilde bitirmek için harika bir yolculuk olacak. Hazır mısın? Seni bu macerada yalnız bırakmayacağım. Şimdi, birlikte rahatlamaya ve sakinleşmeye başlayalım."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uykuya dalmadan önce, günün yorgunluğunu atmak için biraz sakinleşmek önemlidir. Bugün neler yaptığını düşün ve bunları zihninde sırala. Günün en güzel anını hatırlamak seni mutlu edebilir. Şimdi birlikte derin bir nefes alalım ve yavaşça verelim. Bu, vücudunun rahatlamasına yardımcı olur ve uykuya hazırlanmanı sağlar."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Uykuya geçmeden önce dişlerimizi fırçalamak çok önemlidir. Bu, hem sağlığımız için hem de güzel bir uyku için gereklidir. Dişlerini fırçalarken ağzında köpükler oluştuğunu hayal et. Köpükler dişlerinde dans ederken, sen de temiz ve ferah bir nefes alırsın. Bu alışkanlık, sabahları daha enerjik uyanmana yardımcı olur."
+    },
+    {
+      "id": "scene_3",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Birlikte oyuncaklarımızı toplamak da uyku öncesi rutinimizin bir parçası olabilir. Oyun zamanının bittiğini bilmek, zihnimizi uykuya hazırlamak için iyi bir işarettir. Oyuncakları toplarken onları kutusuna yerleştirmek, düzenli bir ortam yaratır. Bu da daha rahat bir uyku çekmemizi sağlar. Şimdi, sen de oyuncaklarını toplayarak benimle bu adımı tamamlamak ister misin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Oyuncaklarını toplamak seni hem düzenli yapar hem de uykuya daha hazır hale getirir. Şimdi, birlikte yatak odana gidelim ve yatağını düzeltelim. Yatağının yumuşacık olduğunu hissetmek seni daha da rahatlatacaktır. Yatağını düzeltmek, uyku için hazırlandığını gösterir. Sen bunu çok iyi yapıyorsun!"
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Yatağımıza girdikten sonra, güzel bir hikaye dinlemek ister misin? Hikayeler, hayal gücümüzü canlandırır ve bizi rüya alemine taşır. Bu gece sana cesur bir kahramanın hikayesini anlatacağım. Bu kahraman, tıpkı senin gibi cesur ve maceracı. Haydi, bu heyecan verici hikayeye başlayalım!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki hikayede kahramanımızın nasıl cesurca maceralara atıldığını hatırlıyor musun? Şimdi, bu hikayenin devamını dinlemeye hazır mısın? Kahramanımız, arkadaşlarına yardım etmek için büyük bir cesaret gösterdi. Onun bu cesareti, bizim de güçlü ve cesur olmamız için ilham kaynağı olabilir. Şimdi, hikayenin devamını dinleyelim."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Uyku öncesi rutinimizin bir diğer önemli parçası da pijamalarımızı giymektir. Pijamalar, vücudumuzu rahatlatan ve uykuya hazırlayan kıyafetlerdir. Onları giyerken, günün yorgunluğunu üzerimizden attığımızı hissederiz. Pijamalarımızı giydikten sonra, kendimizi daha huzurlu hissederiz. Bu da uykuya dalmamızı kolaylaştırır."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, birlikte birkaç derin nefes alalım. Nefes alırken, göğsümüzün nasıl yükseldiğini ve nefes verirken nasıl alçaldığını hissedelim. Bu basit egzersiz, vücudumuzun rahatlamasına ve zihnimizin sakinleşmesine yardımcı olur. Nefes alıp vermek, kalbimizi ve beynimizi dinlendirir. Böylece, uykuya daha kolay dalarız."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sana bir soru sormak istiyorum. Gece uyumadan önce en çok ne yapmayı seviyorsun? Belki bir hikaye dinlemek, belki de yıldızları izlemek. Herkesin uykuya dalmadan önce farklı bir ritüeli vardır. Senin ritüelin nedir? Bunu benimle paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku zamanı, vücudumuzun dinlendiği ve enerji topladığı önemli bir süreçtir. Geceleri uyuduğumuzda, vücudumuz ertesi güne hazırlanır. Uyku sırasında büyür, öğrenir ve güçleniriz. Bu yüzden uyku, sağlıklı ve mutlu olmamız için gereklidir. Her gece düzenli uyumak, enerjik bir sabaha uyanmamızı sağlar."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen harika bir iş çıkarıyorsun! Uyku zamanı rutinlerini uygulamak, seni daha mutlu ve sağlıklı yapar. Bu alışkanlıklar, seni her gün daha güçlü bir birey yapar. Unutma, seninle her zaman gurur duyuyorum. Her gece bu rutinleri tekrarlamak, seni daha da güçlendirecektir!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, uykuya dalmadan önce son bir şey daha yapalım. Gözlerimizi kapatıp, güzel bir rüya hayal edelim. Rüyamızda, sevdiğimiz yerlerde gezebiliriz. Belki bir ormanda macera, belki de bir deniz kenarında huzur bulabiliriz. Hayal gücümüz, bizi istediğimiz her yere götürebilir. Hadi, birlikte güzel bir rüya düşünelim."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün harika bir uyku öncesi macerası yaşadık. Seninle bu yolculuğu paylaşmak çok güzeldi. Şimdi, huzurlu bir uykuya dalma zamanı. Yarın tekrar görüşeceğiz ve yeni maceralar yaşayacağız. İyi geceler, tatlı rüyalar! Seninle birlikte olmak her zaman çok güzel."
+    }
+  ],
+  "title": "Spider Fighter'ın Bedtime Hikayesi"
+}

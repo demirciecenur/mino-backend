@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_friendship_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Sneaky Cat Tom. Bugün birlikte arkadaşlık hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Arkadaşlık, oyun oynamak ve birlikte eğlenmek demektir. Hadi bu maceraya başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, iki ya da daha fazla kişinin birbirini sevmesi ve saygı duymasıdır. Bir arkadaşla birlikte oyunlar oynayabilir, hikayeler paylaşabiliriz. Arkadaşlar birbirine yardım eder ve mutlu anları birlikte yaşar. Örneğin, bir arkadaşınla parkta salıncakta sallanmak çok eğlenceli olabilir. Peki sen en çok hangi oyunları arkadaşlarınla oynamayı seviyorsun?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaş edinmenin en güzel yollarından biri, gülümsemek ve 'Merhaba' demektir. Gülümsemek, karşımızdakine dostça bir selam vermenin harika bir yoludur. Birine merhaba dediğimizde, onunla konuşmak ve oyun oynamak istediğimizi gösteririz. Ayrıca, yeni bir arkadaş edinmek için onunla ortak ilgi alanlarımızı paylaşabiliriz. Mesela, aynı oyuncakları seviyorsanız bu harika bir başlangıç olabilir!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi bir arkadaş edinme alıştırması yapalım! Farz et ki oyun parkındasın ve yeni bir arkadaş edinmek istiyorsun. Ona nasıl yaklaşırdın? Belki de yanına gidip, 'Benimle top oynamak ister misin?' diyebilirsin. Unutma, yeni arkadaşlar edinmek her zaman heyecan vericidir ve biraz cesaret gerektirir. Sen de yapabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık aynı zamanda paylaşmak demektir. Oyuncaklarımızı ya da atıştırmalıklarımızı arkadaşlarımızla paylaşmak, onlarla bağ kurmanın harika bir yoludur. Paylaşmak, karşımızdaki kişiye onu önemsediğimizi gösterir. Mesela, en sevdiğin oyuncağını bir arkadaşınla paylaştığında, onun da mutlu olduğunu göreceksin. Bu da seni daha mutlu yapacak!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaşlarımızla iyi geçinmek için bazen empati yapmamız gerekir. Empati, karşımızdaki kişinin duygularını anlamaya çalışmak demektir. Bir arkadaşımız üzgün olduğunda, ona nasıl yardımcı olabileceğimizi düşünmeliyiz. Belki de ona sarılmak ya da onunla konuşmak iyi bir fikir olabilir. Bu sayede arkadaşlığımız daha da güçlenir."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi şimdi bir oyun oynayalım! Hayal et ki bir arkadaşın çok üzgün. Ona nasıl yardım edebilirsin? Belki de ona en sevdiği oyuncağını verip birlikte oynamayı teklif edebilirsin. Unutma, arkadaşlarımıza destek olmak önemlidir. Sen bunu harika bir şekilde yapabilirsin!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlarımızla zaman geçirmek bizi mutlu eder ve birçok şey öğrenmemizi sağlar. Oyun oynarken yeni beceriler kazanır ve farklı şeyler keşfederiz. Ayrıca, arkadaşlarımızla vakit geçirirken paylaşmayı ve sabırlı olmayı öğreniriz. Bu da bizi daha iyi bir arkadaş yapar. Sen en çok hangi aktiviteleri arkadaşlarınla yapmayı seviyorsun?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir arkadaşımızla tartıştığımızda, onunla konuşarak anlaşmazlıklarımızı çözmeliyiz. Tartışmalar her zaman olabilir, önemli olan bunları nasıl çözdüğümüzdür. Belki de sakin bir şekilde konuşarak ve birbirimizi dinleyerek çözüm bulabiliriz. Bu, arkadaşlığımızı daha da güçlendirir. Unutma, her zaman çözüm bulmak mümkündür!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bir arkadaşınla tartıştığında nasıl hissedersin? Ona hemen özür dilemek ister misin? Belki de konuşarak ne hissettiğini anlatmak istersin. Arkadaşlıkta iletişim çok önemlidir. Sen nasıl bir çözüm bulurdun?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık aynı zamanda birlikte gülmek ve eğlenmektir. Birlikte güldüğümüzde, birbirimize daha da yakınlaşırız. Gülmek, mutluluğumuzu paylaşmanın harika bir yoludur. Eğlenceli anılar biriktirmek, arkadaşlarımızla olan bağımızı güçlendirir. Peki, sen en çok hangi şakalarda arkadaşlarınla gülersin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir arkadaşınla birlikte bir hedefe ulaşmak da arkadaşlığınızı güçlendirir. Mesela, birlikte bir resim yapmak ya da bir kule inşa etmek gibi. Ortak bir hedefe ulaşmak, işbirliği yapmayı ve birlikte çalışmayı öğretir. Bu tür aktiviteler, arkadaşlığımızı daha da anlamlı hale getirir. Sen en son hangi projeyi arkadaşlarınla tamamladın?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Haydi şimdi bir hayal kuralım! Bir arkadaşınla birlikte bir maceraya çıkıyorsun. Nereye gitmek isterdin? Belki de bir uzay yolculuğuna ya da gizemli bir ormana. Hayal gücünü kullanarak arkadaşınla eğlenceli vakit geçirebilirsin. Unutma, hayal gücünün sınırları yoktur!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, hayatımızın çok önemli bir parçasıdır. Bize mutluluk, destek ve güven verir. İyi arkadaşlar, her zaman yanımızda olurlar ve bizi desteklerler. Bu yüzden arkadaşlarımızı değerli tutmalı ve onları kaybetmemek için çaba göstermeliyiz. Senin en yakın arkadaşın kim ve onunla neler yapmayı seversin?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün arkadaşlık hakkında harika şeyler öğrendik. Umarım sen de yeni arkadaşlar edinmeye ve mevcut arkadaşlıklarını güçlendirmeye hazırsındır. Unutma, arkadaşlık hayatımızı güzelleştirir ve bizi mutlu eder. Şimdi vedalaşma zamanı. Yakında tekrar görüşmek üzere, hoşça kal küçük dostum!"
+    }
+  ],
+  "title": "Sneaky Cat Tom'ın Friendship Hikayesi"
+}

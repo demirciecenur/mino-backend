@@ -1,0 +1,98 @@
+{
+  "id": "mino_colors_story",
+  "character": "Mino",
+  "topic": "colors",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friends! I'm Mino, your colorful space explorer! Today, we're going on an amazing adventure to discover the wonderful world of colors. Colors are all around us, making everything bright and beautiful. Are you ready to explore with me? Let's get started and have some fun learning about colors!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "First, let's talk about the color red. Red is a bright and exciting color. It's the color of apples and fire trucks! When you see red, it can make you feel energetic and happy. Do you have anything red around you? Let's see if we can find something red together!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's learn about the color blue. Blue is a calm and peaceful color. It's the color of the sky on a sunny day and the ocean's waves. When you look at blue, it can make you feel relaxed and dreamy. Can you find something blue nearby? Let's look around and see what we can discover!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job finding those colors! Next, let's explore the color yellow. Yellow is bright and cheerful, like the sun shining in the sky. It's also the color of bananas and rubber ducks! Yellow can make you feel warm and happy. Do you have a favorite yellow thing? Let's think about it together!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about red and blue? Now let's mix them together to create something new. When red and blue are mixed, they make purple! Purple is a royal color, often seen in beautiful flowers and juicy grapes. It can make you feel creative and magical. Isn't that exciting?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's explore the color green now. Green is the color of grass and leaves. It reminds us of nature and fresh air. Green can make you feel refreshed and lively. Do you have a plant or a tree nearby? That's green! Let's give a big smile to all the green things we see!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job exploring colors! Let's dive into the color orange next. Orange is a fun and energetic color. It's the color of pumpkins and oranges, just like its name! Orange can make you feel excited and adventurous. Can you find something orange around you? Let's see what we can discover!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about pink. Pink is a sweet and gentle color. It's often seen in beautiful flowers and fluffy cotton candy. Pink can make you feel loving and kind. Do you have a favorite pink thing, like a toy or a dress? Let's think about all the pink things we like!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's look at the color brown. Brown is the color of the earth and trees. It's a warm and cozy color, like a cup of hot chocolate. Brown can make you feel grounded and safe. Do you have a teddy bear or a wooden toy? Those are brown! Let's appreciate all the brown things around us."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, let's think about all the colors we've talked about. Can you remember them? We've explored red, blue, yellow, green, orange, purple, pink, and brown. Which one is your favorite? Why do you like it so much? Let's share our favorite colors with each other!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "While you think about your favorite color, let's talk about how colors make us feel. Colors can change our mood and make us feel different emotions. Isn't that amazing? Now, let's imagine a rainbow with all these colors. Can you picture it in your mind? Let's count the colors together!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're doing so well on this colorful journey. Let's imagine painting a picture with all the colors we've learned. What would you paint? Maybe a colorful garden or a bright sunny day? Your imagination is powerful, and you can create anything you dream of!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we come to the end of our adventure, let's remember that colors are everywhere. They make our world beautiful and exciting. Every time you see a color, think about how it makes you feel. Colors can be your friends, bringing joy and fun to your day. Isn't that amazing?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for exploring the colorful world with me, Mino! I had so much fun learning about colors with you. Remember, colors are everywhere, and they can make your day bright and happy. Keep exploring and discovering new colors around you. Until next time, goodbye my colorful friends!"
+    }
+  ],
+  "title": "Mino's Colors Story"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "boots_knight_pal_transitions_story",
+  "character": "Boots Knight Pal",
+  "topic": "transitions",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba benim cesur dostlarım! Ben Boots Knight Pal, ve bugün sizlerle harika bir maceraya çıkacağız. Bu macerada geçişleri, yani değişiklikleri keşfedeceğiz. Bazen yeni şeylere alışmak zor olabilir, ama birlikte yapabileceğimiz harika şeyler var. Hazır mısınız? O zaman, haydi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçişler, hayatımızda olan değişikliklerdir. Mesela, yeni bir okula başlamak ya da bir oyuncağı başka bir oyuncakla değiştirmek gibi. Bu değişiklikler ilk başta biraz korkutucu olabilir, ama her seferinde yeni bir şey öğreniriz. Hatırlıyor musunuz, yeni bir şeye başladığınızda neler hissetmiştiniz? İşte bu duygular, maceranın bir parçasıdır."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte bir geçiş düşünelim. Diyelim ki, sabahları okula gitmek için erken kalkmamız gerekiyor. İlk başta bu biraz zor olabilir, ama zamanla alışırız. Erken kalkmanın bize gün içinde daha fazla oyun zamanı kazandıracağını hatırlamak yardımcı olabilir. Hadi, birlikte bu yeni rutinimizi daha eğlenceli hale getirmek için neler yapabiliriz düşünelim. Belki bir şarkı söyleyerek uyanmak iyi bir fikir olabilir!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Geçişleri daha kolay hale getirmek için bazı eğlenceli yollar var. Mesela, her sabah kalktığınızda sevdiğiniz bir şarkıyı söylemek sizi mutlu edebilir. Ayrıca, kahvaltıdan önce üç derin nefes alarak güne başlayabilirsiniz. Bu, sizi sakinleştirir ve yeni güne hazırlar. Harika işler başarabileceğinize inanıyorum! Siz de denemek ister misiniz?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda sabah rutinlerinden bahsetmiştik. Şimdi ise, okuldan eve dönerken neler yapabileceğimizi konuşalım. Okuldan eve dönerken, belki biraz dinlenmek ya da sevdiğiniz bir oyunu oynamak isteyebilirsiniz. Bu, okuldan sonra geçiş yaparken size yardımcı olabilir. Her gün farklı bir şey denemek, bu geçişleri daha eğlenceli hale getirebilir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte bir oyun oynayalım. Haydi, en sevdiğiniz oyuncaklarınızı düşünün ve onları farklı bir şekilde kullanmayı deneyin. Mesela, bir oyuncak arabayı uçak gibi uçurarak oynayabilirsiniz. Bu, geçişleri eğlenceli hale getirmenin bir yoludur. Oyuncaklarınızla her gün yeni bir macera yaratabilirsiniz. Denemeye hazır mısınız?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Geçişleri eğlenceli hale getirmek için başka neler yapabileceğimizi düşünelim. Mesela, her gün yeni bir hikaye uydurabiliriz. Bu hikayeler, size yeni fikirler ve maceralar sunabilir. Böylece, her gün farklı bir dünyaya adım atmış gibi hissedebilirsiniz. Siz de kendi hikayelerinizi yaratabilir misiniz? Haydi, deneyelim!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, geçişleri daha eğlenceli hale getirmek için başka hangi fikirleriniz var? Belki bir resim yapabilir ya da yeni bir oyun icat edebilirsiniz. Sizce başka neler yapabiliriz? Düşüncelerinizi paylaşmak ister misiniz? Hadi, neler düşündüğünüzü bana söyleyin!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçişler sırasında bazen kendimizi biraz üzgün ya da endişeli hissedebiliriz. Bu, tamamen normaldir ve hepimiz bunu yaşarız. Böyle hissettiğimizde, derin nefesler alarak kendimizi rahatlatabiliriz. Üç derin nefes alalım ve kendimizi daha iyi hissedelim. Bu, bize güç verir ve yeni şeylere daha kolay uyum sağlamamıza yardımcı olur."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, birlikte geçişler sırasında nasıl daha güçlü olabileceğimizi keşfedelim. Bir değişiklikle karşılaştığınızda, kendinize 'Bunu yapabilirim!' demek çok önemlidir. Kendinize güvenmek, her yeni durumda size cesaret verir. Ayrıca, başkalarından yardım istemek de harika bir fikirdir. Arkadaşlarınız ve aileniz size destek olabilir."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Geçişler sırasında kendinize güvenmek çok önemlidir. Her yeni adımda, 'Ben bunu başarabilirim!' demelisiniz. Bu, size güç ve cesaret verir. Unutmayın, her yeni başlangıç bir maceradır. Siz de bu macerayı cesurca karşılayabilirsiniz. İnanıyorum ki, her şeyi başarabilirsiniz!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda kendimize olan güvenimizi nasıl artırabileceğimizi öğrendik. Şimdi, geçişlerde başkalarına nasıl yardım edebileceğimizi konuşalım. Arkadaşlarınızın da değişikliklerle başa çıkmasına yardımcı olabilirsiniz. Onlara cesaret verici sözler söyleyebilir ya da birlikte oyunlar oynayabilirsiniz. Bu, hem sizin hem de onların daha iyi hissetmesini sağlar."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sizce arkadaşlarınıza nasıl yardımcı olabilirsiniz? Belki onların yanındayken güldürmek ya da onlarla yeni oyunlar oynamak iyi bir fikir olabilir. Başka hangi yollarla onlara yardımcı olabilirsiniz? Fikirlerinizi benimle paylaşmak ister misiniz? Hadi, düşüncelerinizi dinlemek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçişler, hayatımızın bir parçasıdır ve her biri bize bir şeyler öğretir. Bazen zor olsa da, her yeni durum bize yeni fırsatlar sunar. Unutmayın, her geçiş bir maceradır ve siz bu maceranın kahramanısınız. Kendinize güvenin ve her yeni günü bir fırsat olarak görün. Harika işler başaracağınıza eminim!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte geçişler hakkında harika şeyler öğrendik. Her değişiklik bir macera, ve siz bu maceranın cesur kahramanısınız. Kendinize güvenin ve her yeni durumda harika şeyler başarabileceğinizi unutmayın. Şimdi, veda zamanı ama unutmayın, her zaman yanınızda olacağım. Bir sonraki maceramızda görüşmek üzere, hoşça kalın!"
+    }
+  ],
+  "title": "Boots Knight Pal'ın Transitions Hikayesi"
+}

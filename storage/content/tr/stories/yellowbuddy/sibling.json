@@ -1,0 +1,98 @@
+{
+  "id": "yellow buddy_sibling_story",
+  "character": "Yellow Buddy",
+  "topic": "sibling",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Yellow Buddy, senin neşeli arkadaşın. Bugün kardeşlerinle ilgili harika bir yolculuğa çıkacağız. Kardeş olmak ne kadar eğlenceli, değil mi? Birlikte oyunlar oynayabilir, maceralara atılabiliriz. Hazırsan, bu maceraya başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerimizle birlikte zaman geçirmek çok önemli. Onlarla paylaşmayı ve birlikte oynamayı öğreniriz. Mesela oyuncaklarını paylaşmak, kardeş sevgisinin güzel bir örneğidir. Herkesin bir kardeşi olmayabilir ama varsa, bu çok büyük bir şanstır. Şimdi kardeşler arasındaki paylaşımı daha da eğlenceli hale getirebiliriz!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşlerinle nasıl daha iyi anlaşabileceğini öğrenmek ister misin? İlk adım onlara nazik davranmak ve onları dinlemektir. Birlikte bir oyun oynarken sırayla oynamak çok önemlidir. Bu, hem eğlenceli hem de adil bir oyun sağlar. Hadi, şimdi sırayla oynamanın tadını çıkaralım!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Sırayla oynamak, herkesin mutlu olmasını sağlar. Kardeşin seninle konuşurken dikkatle dinlemek de önemlidir. Onun ne söylediğini anladığında, ona daha iyi arkadaş olabilirsin. Şimdi, kardeşinle bir oyun oynamayı denemek ister misin? Bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerinle birlikte maceralar yaşamak çok eğlencelidir. Birlikte bir kale inşa edebilir ya da bir uzay gemisi hayal edebilirsiniz. Hayal gücünüzle her şey mümkündür! Kardeşlerinle birlikte hayal kurarken, birbirinize destek olmayı unutmayın. Bu, aranızdaki bağı güçlendirir."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda birlikte oyun oynamaktan bahsetmiştik. Şimdi, oyun oynarken nasıl daha iyi bir takım olunabileceğini düşünelim. Herkesin fikrini dinlemek ve saygı göstermek çok önemlidir. Böylece herkes kendini değerli hisseder. Bununla ilgili bir örnek düşünelim mi?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir oyun sırasında herkesin fikrini almak için bir yöntem deneyelim. Herkes sırayla ne yapmak istediğini söyleyebilir. Bu, herkesin oyunda bir rol almasını sağlar. Herkesin düşüncesine saygı göstermek çok önemlidir. Hadi, birlikte yeni bir oyun kuralım!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Muhteşem! Herkesin fikrini dinlemek, oyunun daha eğlenceli olmasını sağlar. Kardeşlerinle birlikte oynarken, birbirinize destek olmak da önemlidir. Birlikte çalışarak daha büyük başarılar elde edebilirsiniz. Şimdi, birlikte bir takım çalışması yapalım mı? Sen bunu başarabilirsin!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence kardeşlerinle oynarken en çok hangi oyundan hoşlanıyorsun? Belki saklambaç ya da evcilik olabilir. Bu oyunları oynarken neler hissediyorsun? Hadi, bana en sevdiğin oyunu anlat. Merakla seni dinliyorum!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerle yaşanan güzel anılar, kalbimizde hep özel bir yer tutar. Birlikte gülmek, eğlenmek ve bazen de küçük tartışmalar yaşamak normaldir. Önemli olan, her zaman birbirinize destek olmak ve sevgiyi paylaşmaktır. Kardeşler arasında sevgi dolu bir bağ kurmak, her zaman mutluluk getirir. Şimdi, bu güzel anıları daha da çoğaltalım!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda kardeş sevgisinden bahsetmiştik. Şimdi, bu sevgiyi nasıl gösterebileceğimizi düşünelim. Kardeşine küçük bir hediye vermek ya da ona güzel bir söz söylemek harika olabilir. Bu tür davranışlar, aranızdaki bağı daha da güçlendirir. Hadi, birlikte sevgimizi göstermenin yollarını bulalım!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Sevgimizi göstermenin birçok yolu vardır. Kardeşine yardım etmek, onunla vakit geçirmek ve onu dinlemek bunlardan bazılarıdır. Ayrıca, onunla birlikte gülmek ve eğlenmek de sevgiyi gösterir. Şimdi, kardeşine nasıl yardım edebileceğini düşünelim. Bu, ona ne kadar değer verdiğini gösterir."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Kardeşine yardım etmek, aranızdaki bağı güçlendirir. Onunla geçirdiğin her an, güzel bir anı olarak kalır. Birbirinize destek olmak, en zor anlarda bile yan yana olmanızı sağlar. Şimdi, birlikte sevgi dolu bir anı yaratalım mı? Sen bunu harika bir şekilde yapabilirsin!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün kardeşlerle ilgili çok şey öğrendik. Onlarla birlikte olmak, sevgi ve mutluluk dolu anlar yaratır. Unutma, kardeşlerin her zaman senin yanında olacak. Bu güzel yolculuğu birlikte paylaştığımız için çok mutluyum. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Yellow Buddy'ın Sibling Hikayesi"
+}

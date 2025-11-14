@@ -1,0 +1,104 @@
+{
+  "id": "snowman_buddy_olaf-style_nutrition_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "nutrition",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Snowman Buddy Olaf-style. Today we're going on an amazing journey about nutrition. Nutrition is all about the yummy foods that help us grow big and strong. Are you ready to learn together? I can't wait to explore this with you!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about fruits and vegetables. These colorful foods are like gifts from nature, packed with vitamins and minerals. Eating a rainbow of fruits and veggies helps keep our bodies healthy and full of energy. Do you have a favorite fruit? Mine is the juicy, sweet orange!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Fruits like apples, bananas, and berries are great snacks. They give us energy to play and have fun all day long. Vegetables like carrots and broccoli help us see better and make our bones strong. Next time you have a snack, try to include a fruit or veggie. You'll feel like a superhero!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about fruits and veggies! Now let's move on to grains. Grains like rice, bread, and pasta give us lots of energy. They help us run, jump, and play. Remember to choose whole grains when you can, like whole wheat bread. You'll feel like you can conquer the world!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about grains? Well, let's add some protein to the mix! Proteins are like building blocks for our muscles. You can find them in foods like chicken, fish, beans, and nuts. Eating protein helps us grow and stay strong. Which protein do you like the best?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's talk about dairy. Dairy foods like milk, cheese, and yogurt are full of calcium. Calcium is important for building strong bones and teeth. Drinking a glass of milk every day can help you grow tall and healthy. Remember, dairy is like a special treat for your bones!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're doing such a great job learning about nutrition. Let's not forget about water. Water is super important because it keeps our bodies cool and helps us feel refreshed. Drinking water throughout the day is like giving your body a big hug!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we know about all these food groups, let's think about how to put them together. A balanced meal includes a bit of everything: fruits, veggies, grains, proteins, and dairy. It's like creating a colorful plate of deliciousness that makes your body happy. Are you ready to make your own balanced meal?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever tried making a rainbow plate with your food? Imagine having strawberries, carrots, rice, chicken, and a little cheese all on one plate. Doesn't that sound delicious and fun? What's your favorite color on your plate?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "That's a great choice! Remember, eating colorful foods is like having a party in your tummy. Each color gives you different nutrients that help you grow. Next time you're eating, try to add a new color to your plate. It's like adding a new crayon to your box!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our fun journey with snacks. Healthy snacks like apple slices, carrot sticks, or yogurt are great for keeping your energy up between meals. They are like little power-ups that help you keep going throughout the day. What healthy snack would you like to try?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "When choosing a snack, remember to pick something that gives you energy and nutrients. Try to avoid too many sweets, like candies and cakes. They might taste good, but they don't give your body the strength it needs. Instead, reach for something natural and yummy!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastic! You're becoming a nutrition expert. Remember, the more you practice making healthy choices, the easier it gets. Keep trying new foods and discovering what makes you feel good. You're doing an amazing job!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you think you can help your family make a healthy meal? Maybe you can pick out the fruits and veggies for dinner. It's a fun way to show everyone what you've learned. Are you excited to share your new knowledge?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this fun nutrition adventure. I'm so proud of all the things we've learned together. Remember to eat a variety of foods to keep your body happy and strong. Until next time, keep smiling and enjoying your healthy meals. Goodbye, little friend!"
+    }
+  ],
+  "title": "Snowman Buddy Olaf-Style's Nutrition Story"
+}

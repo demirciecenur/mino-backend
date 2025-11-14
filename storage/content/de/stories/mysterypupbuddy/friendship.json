@@ -1,0 +1,104 @@
+{
+  "id": "mystery_pup_buddy_friendship_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "friendship",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Mystery Pup Buddy und heute werden wir über etwas ganz Besonderes sprechen: Freundschaft! Freundschaft ist, wenn du jemanden hast, mit dem du spielen und lachen kannst. Bist du bereit für ein Abenteuer über Freundschaft? Ich bin so neugierig, was wir gemeinsam entdecken werden. Lass uns loslegen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft bedeutet, dass wir zusammen Spaß haben können, wie wenn wir auf dem Spielplatz rutschen. Es ist toll, Freunde zu haben, die uns helfen, wenn wir uns nicht gut fühlen. Weißt du, ein Freund kann dir auch zeigen, wie man einen Drachen steigen lässt oder ein Bild malt. Freunde sind füreinander da, egal ob die Sonne scheint oder es regnet. Jetzt lass uns herausfinden, wie wir gute Freunde sein können!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Um ein guter Freund zu sein, ist es wichtig, nett und hilfsbereit zu sein. Das bedeutet, dass wir zum Beispiel Spielzeug teilen oder jemandem die Hand reichen, wenn er hinfällt. Wenn wir zusammen spielen, können wir lernen, zu warten und abwechselnd zu spielen. Wir können auch sagen: 'Bitte' und 'Danke', um freundlich zu sein. Möchtest du das nächste Mal versuchen, ein Spielzeug mit jemandem zu teilen?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super, dass du bereit bist, ein guter Freund zu sein! Lass uns zusammen bis fünf zählen, um uns daran zu erinnern, wie viele Dinge wir tun können, um nett zu sein. Eins, zwei, drei, vier, fünf! Tolle Arbeit! Du kannst das schaffen und ich bin so stolz auf dich. Jetzt lass uns sehen, was wir als Nächstes über Freundschaft lernen können."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir darüber gesprochen haben, wie wichtig es ist, nett zu sein? Jetzt wollen wir über das Zuhören sprechen. Wenn ein Freund etwas erzählt, ist es wichtig, aufmerksam zuzuhören. Das zeigt, dass du dich um ihn kümmerst und seine Geschichten hören möchtest. Wenn du zuhörst, kannst du auch viele neue Dinge lernen. Lass uns üben, aufmerksam zu sein!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Um gut zuzuhören, kannst du deinem Freund in die Augen schauen und nicken, wenn er spricht. Du kannst auch Fragen stellen, um mehr zu erfahren, wie: 'Was ist dann passiert?' oder 'Wie hast du dich gefühlt?' So weiß dein Freund, dass du wirklich interessiert bist. Möchtest du das nächste Mal versuchen, gut zuzuhören?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Klasse, dass du üben möchtest, gut zuzuhören! Lass uns gemeinsam tief durchatmen, um uns zu konzentrieren. Einatmen... und ausatmen. Toll gemacht! Du bist ein großartiger Zuhörer und ich bin stolz auf dich. Jetzt lass uns weitermachen und noch mehr über Freundschaft entdecken!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft bedeutet auch, dass wir uns gegenseitig unterstützen. Wenn ein Freund traurig ist, können wir ihn trösten und ihm helfen, sich besser zu fühlen. Manchmal reicht es schon, einfach da zu sein und zuzuhören. Du kannst auch vorschlagen, zusammen ein lustiges Spiel zu spielen, um die Stimmung zu heben. Jetzt lass uns überlegen, wie wir noch mehr helfen können."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du siehst, dass ein Freund Hilfe braucht, kannst du fragen: 'Kann ich dir helfen?' Oder du kannst sagen: 'Ich bin hier für dich.' Manchmal reicht es, einfach da zu sein und gemeinsam zu spielen. Du kannst auch eine kleine Umarmung anbieten, wenn das deinem Freund hilft. Möchtest du das nächste Mal versuchen, einem Freund zu helfen?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastisch, dass du bereit bist, einem Freund zu helfen! Lass uns zusammen drei fröhliche Sprünge machen, um zu feiern. Eins, zwei, drei! Großartig! Du bist ein wunderbarer Freund und ich freue mich, dass du so hilfsbereit bist. Lass uns weitermachen und noch mehr über Freundschaft lernen."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir wissen, wie man ein guter Freund ist, lass uns über das Spielen sprechen. Zusammen zu spielen kann so viel Spaß machen! Wir können uns Spiele ausdenken oder zusammen lachen. Wenn wir spielen, können wir auch neue Dinge lernen und unsere Fantasie nutzen. Spielen ist eine tolle Möglichkeit, Freundschaften zu stärken. Lass uns überlegen, was wir als Nächstes spielen könnten."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Welches Spiel spielst du am liebsten mit deinen Freunden? Ist es Verstecken oder vielleicht ein lustiges Brettspiel? Es gibt so viele Möglichkeiten, zusammen Spaß zu haben. Wenn du ein neues Spiel ausprobieren möchtest, kannst du deinen Freund fragen: 'Möchtest du das mit mir spielen?' Was denkst du, welches Spiel möchtest du als Nächstes spielen?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Das klingt nach einem tollen Spiel! Ich bin sicher, dass ihr zusammen viel Spaß haben werdet. Spielen hilft uns, unsere Fantasie zu nutzen und neue Dinge zu lernen. Es ist eine wunderbare Möglichkeit, Zeit mit unseren Freunden zu verbringen. Jetzt lass uns überlegen, wie wir unsere Freundschaften weiter stärken können."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft ist etwas, das wächst, wenn wir uns Zeit füreinander nehmen. Wir können zusammen lachen, spielen und neue Abenteuer erleben. Wenn wir uns gegenseitig helfen und zuhören, werden unsere Freundschaften stärker. Es ist wichtig, dass wir immer freundlich und hilfsbereit sind. Jetzt lass uns noch einmal zusammenfassen, was wir über Freundschaft gelernt haben."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Wir haben heute viel über Freundschaft gelernt, kleiner Freund. Es ist toll, nett zu sein, zuzuhören und zusammen zu spielen. Ich hoffe, du hast viel Spaß dabei, ein großartiger Freund zu sein. Danke, dass du mit mir auf dieses Abenteuer gekommen bist. Bis zum nächsten Mal, tschüss!"
+    }
+  ],
+  "title": "Mystery Pup Buddys Friendship Geschichte"
+}

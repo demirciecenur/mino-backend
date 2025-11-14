@@ -1,0 +1,98 @@
+{
+  "id": "elisa_the_ice_fairy_confidence_story",
+  "character": "Elisa the Ice Fairy",
+  "topic": "confidence",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Elisa, el Hada de Hielo. Hoy vamos a embarcarnos en un viaje maravilloso sobre la confianza. ¿Estás listo para descubrirlo conmigo? Estoy muy emocionada de que estés aquí. Juntos, aprenderemos cómo sentirnos seguros y valientes. ¡Será una aventura mágica!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confianza es como una luz brillante dentro de nosotros que nos ayuda a hacer cosas nuevas. Es como cuando aprendes a montar en bicicleta o a nadar. Al principio, puede parecer un poco difícil, pero con práctica, se vuelve más fácil. La confianza nos da la fuerza para intentarlo una y otra vez. ¿Sabías que cada vez que haces algo nuevo, estás alimentando esa luz?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos sobre cómo podemos aumentar nuestra confianza. Una manera es recordando las cosas que ya sabemos hacer bien, como cepillarnos los dientes o cantar una canción. Podemos también practicar cosas nuevas en pasos pequeños. Por ejemplo, si quieres aprender a dibujar, puedes empezar con formas simples. Cada pequeño paso te hace sentir más seguro. ¿Te gustaría intentarlo?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Muy bien! Ahora, vamos a hacer un pequeño ejercicio para sentirnos más seguros. Cierra los ojos por un momento e imagina que eres un valiente león. Respira profundamente, como un león que ruge fuerte. ¿Lo sientes? Esa es la confianza creciendo dentro de ti. Cada respiración te hace más fuerte y valiente. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda, la confianza también significa saber que está bien cometer errores. Todos los cometemos, incluso las hadas. Lo importante es aprender de ellos y seguir adelante. Cuando aprendí a usar mi magia, no siempre salía bien al principio. Pero con práctica, lo logré. Así que no te preocupes si no sale perfecto a la primera. ¡Sigue intentándolo!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar un poco más. Piensa en algo que te gustaría hacer mejor. Puede ser saltar más alto o aprender una nueva palabra. Ahora, imagina que ya lo lograste. ¿Cómo te sientes? Imaginar el éxito nos ayuda a sentirnos más seguros. Es como crear un mapa en nuestra mente que nos guía hacia el éxito. ¡Inténtalo ahora!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas alguna vez que te sentiste muy valiente? Tal vez fue cuando subiste a un árbol alto o hablaste en clase. ¿Cómo te sentiste después? A veces, recordar esos momentos nos ayuda a sentirnos fuertes de nuevo. ¿Puedes pensar en un momento así? Me encantaría escucharlo."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eso es increíble! Cada vez que recuerdas esos momentos, fortaleces tu confianza. Es como añadir una estrella más a tu cielo interior. Cuantas más estrellas tengas, más brillante será tu confianza. Nunca olvides que eres capaz de cosas maravillosas. ¡Sigue brillando!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en cómo podemos ayudar a otros a sentirse seguros también. Cuando vemos a un amigo intentando algo nuevo, podemos alentarlo diciendo: '¡Tú puedes hacerlo!' Al compartir nuestra confianza, hacemos que todos se sientan mejor. Juntos, podemos crear un lugar donde todos se sientan valientes y seguros. ¿No es maravilloso?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Te gustaría ser un amigo que da confianza a los demás? Puedes empezar dando un gran abrazo o una sonrisa. A veces, un pequeño gesto puede significar mucho. La próxima vez que veas a alguien que lo necesita, dale tu apoyo. Será como compartir un poquito de tu magia."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hemos aprendido mucho sobre la confianza hoy. Sabemos que es una luz dentro de nosotros que crece con cada nuevo desafío. También sabemos que podemos compartir esa luz con los demás. Es un regalo que podemos dar todos los días. ¿Te sientes listo para usar tu confianza en el mundo?"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Qué harás mañana para sentirte más seguro? Tal vez puedas intentar algo nuevo o ayudar a un amigo. ¿Qué te gustaría intentar? Pensar en nuestros planes nos ayuda a estar preparados. ¡Estoy segura de que harás algo increíble!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Estoy tan orgullosa de ti, pequeño amigo. Has aprendido mucho y estoy segura de que usarás esa confianza para hacer cosas maravillosas. Nunca olvides que siempre puedes contar conmigo y con tu propia luz interior. ¡Tú eres increíble!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es hora de decir adiós por ahora. Ha sido un placer compartir este viaje mágico contigo. Recuerda siempre que la confianza está dentro de ti, esperando brillar. Hasta la próxima, sigue siendo valiente y mágico. ¡Adiós, pequeño amigo!"
+    }
+  ],
+  "title": "Historia de Confidence de Elisa The Ice Fairy"
+}

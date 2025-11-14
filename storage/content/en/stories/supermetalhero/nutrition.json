@@ -1,0 +1,104 @@
+{
+  "id": "super_metal_hero_nutrition_story",
+  "character": "Super Metal Hero",
+  "topic": "nutrition",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, young adventurers! I'm Super Metal Hero, and today we're going to explore the amazing world of nutrition together. Are you ready to discover how food helps us grow strong and healthy? Imagine your body as a super machine that needs the right fuel to power up. Just like a superhero needs a strong suit, we need nutritious food to be our best selves. So, let's get started on this exciting journey!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about fruits and vegetables. These colorful foods are like little power-ups for our bodies. They give us vitamins and minerals that help us fight off germs and stay healthy. Eating a rainbow of fruits and veggies can make you as strong as a superhero. So, next time you're at the store, look for those bright colors and think about all the superpowers they can give you."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's dive into grains, like rice, bread, and pasta. These foods are like the energy boosters for our bodies. Grains give us the fuel we need to run, play, and think clearly. Imagine them as the batteries that keep your superhero suit powered up all day. Remember to choose whole grains when you can, as they have extra power in the form of fiber. Fiber helps keep our tummies happy and working well."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about grains! Now, let's talk about protein. Protein is like the building blocks for our muscles. Foods like chicken, beans, and nuts help our bodies grow strong and repair themselves. Imagine protein as the construction workers that help build your superhero muscles. Eating enough protein helps you jump higher, run faster, and be a superhero in your own way. You can do it!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about fruits and veggies? Well, dairy is another important group. Foods like milk, cheese, and yogurt are full of calcium. Calcium is like the armor that keeps your bones strong and ready for action. Drinking milk helps you grow tall and keeps your teeth strong too. So, next time you have a snack, think about including some dairy to keep your superhero bones in top shape."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's learn about healthy fats. These are like the special oils that keep the parts of your superhero suit moving smoothly. Foods like avocados, nuts, and olive oil have these healthy fats. They help your brain work well and keep your heart healthy. Remember, not all fats are bad, and these healthy fats are your friends. They help you think clearly and keep your superhero heart strong."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job! Let's talk about water now. Water is like the coolant that keeps your superhero suit from overheating. It helps your body stay cool and your brain work at its best. Drinking enough water keeps you hydrated and full of energy. So, remember to drink water throughout the day, especially when you're playing and having fun. You're doing great, superhero!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's explore the importance of snacks. Healthy snacks give us energy between meals, just like a quick power-up for superheroes. Choose snacks like fruits, nuts, or yogurt to keep your energy levels high. These snacks help you stay focused and ready for any adventure. It's like having a mini superhero snack break to recharge during your busy day."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's put what we've learned into practice. Think about what you ate today. Did you have some fruits, vegetables, grains, protein, dairy, healthy fats, and water? If not, that's okay, because tomorrow is a new day to try again. Remember, it's important to have a variety of foods to keep your superhero body strong and healthy. Keep trying, and you'll be a nutrition expert in no time!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're becoming a nutrition superhero! Remember, every meal is a chance to fuel your body with the right foods. Keep choosing colorful fruits, whole grains, and plenty of water. You're building healthy habits that will make you strong and ready for any adventure. Keep up the great work, and you'll be a hero in no time!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite fruit or vegetable? Maybe you like the sweet taste of strawberries or the crunch of carrots. It's fun to try new foods and discover what you like. Next time you're having a meal, try to include something new and exciting. What new food would you like to try next?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure by talking about meal times. Eating meals together with family can be a fun way to share stories and enjoy delicious foods. It's like having a superhero team meeting to plan your next adventure. Remember to eat slowly and enjoy each bite, savoring the flavors and textures. Meal times are a great way to fuel up for the day ahead."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Did you know that trying new foods can be an exciting adventure? Just like exploring new lands, tasting different foods can be fun and surprising. Some foods might taste different at first, but give them a chance. You might discover a new favorite that gives you even more superhero strength. Are you ready to be brave and try something new today?"
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "It's important to remember that every superhero needs rest too. Just like our bodies need the right foods, we also need enough sleep to recharge. Sleep helps our bodies grow and our minds stay sharp. So, make sure to get a good night's sleep to keep your superhero powers strong. You're doing an amazing job taking care of your body!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this nutrition adventure, young heroes! Remember, eating the right foods helps you grow strong and healthy, just like a superhero. Keep discovering new foods and making healthy choices every day. I'm so proud of you for learning and trying your best. Until next time, keep being amazing and take care of your superhero self. Goodbye, and see you on our next adventure!"
+    }
+  ],
+  "title": "Super Metal Hero's Nutrition Story"
+}

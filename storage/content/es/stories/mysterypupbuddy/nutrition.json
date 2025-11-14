@@ -1,0 +1,98 @@
+{
+  "id": "mystery pup buddy_nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Mystery Pup Buddy, tu compañero de aventuras. Hoy vamos a descubrir juntos el mundo de la nutrición y la alimentación saludable. ¿Te gustaría saber cómo los alimentos pueden ser nuestros amigos? ¡Estoy muy emocionado de aprender contigo! Prepárate para un viaje lleno de diversión y descubrimientos. ¡Vamos a comenzar!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Primero, hablemos de qué significa comer saludablemente. Comer saludablemente significa llenar nuestro plato con alimentos que nos dan energía y nos ayudan a crecer fuertes. ¿Sabías que las frutas y verduras son como los superhéroes de la comida? Tienen muchas vitaminas que nos hacen sentir bien. Cuando comemos bien, nuestro cuerpo se siente fuerte y listo para jugar. ¡Qué maravilloso es eso!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a aprender sobre los diferentes grupos de alimentos. Tenemos frutas, verduras, granos, proteínas y lácteos. Las frutas y verduras son coloridas y deliciosas, como las manzanas y las zanahorias. Los granos, como el arroz y el pan, nos dan energía para correr y saltar. Las proteínas, como el pollo y los frijoles, nos ayudan a construir músculos fuertes. Y los lácteos, como la leche y el yogur, fortalecen nuestros huesos. ¡Cada grupo es importante para una dieta balanceada!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ahora es tu turno! Vamos a imaginar que estamos en una tienda de comestibles. ¿Puedes ayudarme a encontrar un alimento de cada grupo? ¡Busca una fruta, una verdura, un grano, una proteína y un lácteo! ¡Genial! ¿Encontraste una manzana, una zanahoria, un pan, un huevo y un poco de leche? ¡Eres un experto en alimentación saludable! ¡Sigue así!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda que los hábitos alimentarios saludables son importantes todos los días. Comer a la misma hora cada día ayuda a nuestro cuerpo a saber cuándo es el momento de comer. También es bueno beber mucha agua para mantenernos hidratados. Cuando comemos despacio, nuestro estómago tiene tiempo de decirnos cuando ya estamos llenos. ¡Así evitamos comer de más y nos sentimos mejor!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos sobre la importancia del desayuno. El desayuno es la comida más importante del día porque nos da energía para empezar bien la mañana. ¿Te gusta comer cereal o tostadas con frutas en el desayuno? Estos alimentos nos ayudan a concentrarnos mejor en la escuela o en nuestras actividades. ¡Nunca olvides desayunar antes de salir a jugar!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a hacer un pequeño ejercicio juntos! Vamos a respirar profundamente tres veces. Inhala por la nariz... y exhala por la boca. ¡Muy bien! Esto nos ayuda a relajarnos y a sentirnos bien. Recuerda que cuidar nuestro cuerpo también es parte de tener hábitos saludables. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablemos un poco sobre los dulces. Aunque son deliciosos, debemos comerlos con moderación. Los dulces son como un regalo especial, no algo para todos los días. Comer demasiados puede hacernos sentir cansados o enfermos. Pero no te preocupes, de vez en cuando está bien disfrutar de un caramelo o un helado. ¡Solo recuerda equilibrarlo con alimentos saludables!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Te gustaría saber un secreto sobre los colores de las frutas y verduras? Cada color significa que tienen diferentes vitaminas y minerales. Las zanahorias naranjas son buenas para tus ojos, y las espinacas verdes son buenas para tus músculos. ¿No es increíble cómo los colores pueden decirnos tanto sobre los alimentos? ¡Es como un arcoíris de salud en tu plato!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabías que comer en familia es una buena manera de disfrutar de las comidas saludables? ¿Te gusta sentarte a la mesa con tu familia? Cuando comemos juntos, podemos compartir historias y aprender unos de otros. ¿Cuál es tu comida favorita para compartir con tu familia? ¡Me encantaría saberlo!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos tanto sobre la alimentación saludable, hablemos de cómo hacer nuestras comidas más divertidas. Podemos hacer caras divertidas con nuestros alimentos, como usar rodajas de pepino para ojos y una rodaja de tomate para la boca. ¡Comer puede ser una aventura creativa! Además, cuando preparamos nuestra comida, aprendemos más sobre lo que estamos comiendo. ¡Es muy divertido!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Un buen hábito alimentario es probar cosas nuevas. A veces, los alimentos que no conocemos pueden parecer extraños, pero pueden ser deliciosos. La próxima vez que veas una fruta o verdura nueva, ¡dale una oportunidad! Podrías descubrir un nuevo favorito. Recuerda, probar cosas nuevas es una parte emocionante de crecer. ¡Anímate!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres un verdadero explorador de la comida! Ahora que sabes tanto sobre alimentos saludables, puedes ayudar a tus amigos y familia a comer mejor también. Comparte lo que has aprendido y haz que comer saludablemente sea divertido para todos. Recuerda, cada pequeño paso cuenta. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "¡Hemos llegado al final de nuestra aventura sobre la alimentación saludable! Estoy muy orgulloso de todo lo que has aprendido hoy. Recuerda siempre elegir alimentos que te hagan sentir bien y fuerte. Gracias por acompañarme en este viaje. Cuida de ti mismo y sigue siendo el increíble pequeño amigo que eres. ¡Hasta la próxima, aventurero de la comida!"
+    }
+  ],
+  "title": "Historia de Nutrition de Mystery Pup Buddy"
+}

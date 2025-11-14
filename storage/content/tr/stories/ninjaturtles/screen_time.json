@@ -1,0 +1,104 @@
+{
+  "id": "shell_heroes_crew_screen_time_story",
+  "character": "Shell Heroes Crew",
+  "topic": "screen_time",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Shell Heroes Crew. Bugün birlikte ekran süresi hakkında harika bir yolculuğa çıkacağız. Ekran süresi nedir, nasıl kullanılır, hepsini öğreneceğiz. Hazır mısın? Seni çok merak ediyorum. O zaman başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekran süresi, televizyon, tablet veya telefon gibi cihazlarda geçirdiğimiz zamandır. Bilgisayar oyunları oynamak veya video izlemek ekran süresine dahildir. Ekranlar eğlenceli olabilir ama çok fazla kullanırsak, bazı sorunlar yaşayabiliriz. Örneğin, gözlerimiz yorulabilir veya uyku düzenimiz bozulabilir. Ama endişelenme, birlikte doğru dengeyi nasıl bulacağımızı öğreneceğiz!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi ekran süresini nasıl sınırlayabileceğimize bakalım. İlk olarak, gün boyunca belirli bir süre belirlemek iyi bir fikirdir. Örneğin, günde bir saat ekran başında kalmak yeterli olabilir. Bu süreyi, oyunlarınızı veya videolarınızı izlemek için kullanabilirsiniz. Ayrıca, ekran süresi dışında neler yapabileceğinizi de düşünmelisiniz. Mesela, dışarıda oynamak veya kitap okumak harika alternatiflerdir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi şimdi birlikte ekran süresini nasıl daha eğlenceli hale getirebileceğimize bakalım! Ekranda geçirdiğiniz zamanı daha verimli kullanmak için eğitici oyunlar seçebilirsiniz. Bu oyunlar hem eğlenceli hem de öğreticidir. Ayrıca, arkadaşlarınızla birlikte oynayarak sosyal becerilerinizi geliştirebilirsiniz. Unutmayın, ekran süresi sadece eğlence değil, aynı zamanda öğrenme fırsatıdır. Harika işler başarabilirsiniz!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda ekran süresini nasıl sınırlayabileceğimizden bahsettik. Şimdi, ekran süresini daha etkili kullanmak için birkaç ipucu vereceğim. Öncelikle, ekran karşısında uzun süre oturmaktan kaçının. Her 20 dakikada bir mola vermek, gözlerinizin dinlenmesine yardımcı olur. Ayrıca, cihazlarınızı yatmadan önce kapatmak, daha iyi uyumanıza yardımcı olabilir. Bu basit adımlar, ekran süresini daha sağlıklı hale getirir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi ekran süresini azaltmak için yapabileceğimiz bazı etkinliklerden bahsedelim. Mesela, resim yapmak veya oyuncaklarınızla oynamak çok eğlenceli olabilir. Ayrıca, ailenizle birlikte bir bulmaca çözmek veya masa oyunları oynamak da harika bir seçenektir. Bu tür etkinlikler, ekran yerine gerçek hayattaki aktiviteleri tercih etmenizi sağlar. Hem eğlenir hem de yeni şeyler öğrenirsiniz."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ekran süresini azaltmanın başka bir yolu da, açık havada vakit geçirmektir. Parkta oynamak, bisiklet sürmek veya doğa yürüyüşleri yapmak çok keyifli olabilir. Bu aktiviteler hem vücudunuzu hareket ettirir hem de zihninizi dinlendirir. Ayrıca, yeni arkadaşlar edinme fırsatı da sunar. Hadi, dışarı çıkıp macera dolu bir gün geçirelim!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede açık havada vakit geçirmenin öneminden bahsettik. Şimdi, ekran süresi ile ilgili bazı kurallar belirleyelim. Örneğin, yemek yerken veya aile ile vakit geçirirken ekran kullanmamak iyi bir kural olabilir. Bu, sevdiklerinizle daha kaliteli zaman geçirmenizi sağlar. Ayrıca, ekran süresini bir ödül olarak kullanabilirsiniz. Ödevlerinizi bitirdiğinizde, kısa bir süre ekran başında kalabilirsiniz."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ekran süresini yönetmek gerçekten önemli, değil mi? Şimdi, bu kuralları nasıl uygulayabileceğimize bakalım. Örneğin, bir zamanlayıcı kullanarak ekran sürenizi takip edebilirsiniz. Zamanlayıcı çaldığında, başka bir aktiviteye geçmek için bir hatırlatıcı olur. Bu, ekran süresini eğlenceli bir oyuna dönüştürmenin harika bir yoludur. Haydi, bunu denemeye ne dersiniz?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ekran süresini sınırlamak için başka neler yapabiliriz? Belki de en sevdiğiniz ekran dışı aktiviteyi bulabilirsiniz. Mesela, hangi oyunları oynamayı seviyorsunuz? Ya da hangi kitapları okumaktan hoşlanıyorsunuz? Bana fikirlerinizi anlatmak ister misiniz?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki soruda ekran dışı aktivitelerden bahsettik. Şimdi, ekran süresi ile ilgili bir rutin oluşturmanın önemine değinelim. Her gün belirli bir saatte ekran süresi ayırmak, düzenli bir alışkanlık kazandırır. Bu rutin, hem eğlenceli hem de disiplinli olmanızı sağlar. Ayrıca, ekran dışı aktiviteler için de zaman ayırabilirsiniz. Bu dengeyi kurmak, sağlıklı bir yaşam tarzı için çok önemlidir."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresi ile ilgili bir rutin oluşturduğunuzu varsayalım. Şimdi, bu rutini nasıl sürdürebileceğinizi konuşalım. İlk olarak, hedeflerinizi belirlemek ve bunları takip etmek önemlidir. Örneğin, haftada ne kadar ekran süresi geçirdiğinizi not alabilirsiniz. Bu, kendinizi değerlendirmek ve gerektiğinde değişiklik yapmak için iyi bir yoldur. Unutmayın, her zaman daha iyiye gitmek için bir adım atabilirsiniz!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika işler başarıyorsunuz, küçük dostum! Ekran süresi konusunda öğrendiklerimizi uygulamak için bir plan yapalım. İlk adım, ekran süresini sınırlamak ve dengeli bir yaşam tarzı sürdürmektir. İkinci adım, ekran dışı aktivitelerle dolu bir gün geçirmek. Üçüncü adım ise, hedeflerinizi takip etmek ve başarılarınızı kutlamaktır. Sen bunu başarabilirsin, inanıyorum!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir sonraki adımda ne yapacağımızı merak ediyor musun? Şimdi, ekran süresi hakkında öğrendiklerimizi tekrar gözden geçireceğiz. Bu bilgileri başkalarıyla paylaşmak ister misin? Ailenize veya arkadaşlarınıza bu konudaki bilgilerinizi anlatabilirsiniz. Böylece, herkes sağlıklı bir ekran süresi alışkanlığı geliştirebilir. Hadi, birlikte neler başarabildiğimize bir bakalım!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün ekran süresi hakkında çok şey öğrendik ve harika vakit geçirdik. Unutma, denge her zaman önemlidir ve ekran süresini doğru kullanmak sağlığımız için faydalıdır. Şimdi, bu bilgileri kullanarak daha sağlıklı ve mutlu bir yaşam sürdürebilirsin. Seninle bu yolculuğa çıkmak çok keyifliydi. Bir dahaki sefere görüşmek üzere, hoşçakal!"
+    }
+  ],
+  "title": "Shell Heroes Crew'ın Screen Time Hikayesi"
+}

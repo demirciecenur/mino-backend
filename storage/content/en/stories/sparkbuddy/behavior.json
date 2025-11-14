@@ -1,0 +1,104 @@
+{
+  "id": "spark buddy_behavior_story",
+  "character": "Spark Buddy",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friend! I'm Spark Buddy, and today we're going on an amazing journey to explore good behavior. Are you ready to have some fun with me? We’ll learn how to be kind and follow rules, just like a true superhero! I love seeing you smile and learn new things. Let's get started on our exciting adventure together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about superheroes? They always do the right thing, and that's what good behavior is all about! Good behavior means listening to grown-ups and helping out when you can. It's like being a superhero in your own home. When you pick up your toys, you're showing good behavior. Isn’t that amazing?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let’s learn how to follow rules, which is a big part of good behavior. Rules are like little maps that guide us to do the right things. For example, washing your hands before eating is a rule that keeps you healthy. And guess what? Sharing toys with friends is a rule that makes everyone happy! Following rules can be fun and helpful."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing great! Let's imagine we're superheroes again. Superheroes always think before they act. Let's practice by counting to three before we decide what to do next. One, two, three! See? Thinking first helps us make good choices. You can do it every day, just like a superhero!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Did you know saying 'please' and 'thank you' are magic words? They make people feel happy and appreciated. When you say 'please', it shows you're polite and respectful. And saying 'thank you' makes people smile because they know you appreciate them. Let’s try it together: 'Please, may I have some water?' and 'Thank you for the water!'"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about being a good listener, which is an important part of good behavior. Being a good listener means paying attention when someone is talking. It shows that you care about what they say. Try to look at their eyes and nod your head. Can you practice that with me? Great job!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're becoming a great listener. Now, let's practice being patient. Sometimes we have to wait for our turn, like when playing a game. Waiting can be hard, but it's also part of good behavior. Let's count to five while we wait. One, two, three, four, five! See? You did it!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you remember why it's important to be kind? Kindness makes everyone feel good and helps us make lots of friends. When you're kind, you share toys and help others. Can you think of a time when you were kind to someone? I’d love to hear about it!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Being kind also means using gentle hands. Gentle hands are careful and kind, like when you pet a fluffy cat. They don’t push or hit, but they hug and help. Let's pretend to use our gentle hands to give a big hug to our favorite teddy bear. Doesn’t that feel nice?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember how superheroes solve problems? They think of ways to make things better. If you see a friend feeling sad, you can cheer them up with a smile or kind words. Let's think of some kind words we can say: 'You’re amazing!', 'I like playing with you!', or 'You’re my best friend!'"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's talk about taking turns, which is a way of sharing. Sharing is caring, and it makes playtime more fun for everyone. When you take turns, everyone gets a chance to play. Let’s imagine we’re on a playground and we all want a turn on the slide. We wait patiently, and everyone gets to slide down. Whee! Isn’t that fun?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Finally, let’s learn about saying sorry. Saying sorry is important when we make a mistake. It shows we care and want to make things right. If we accidentally bump into someone, we can say, 'I’m sorry, are you okay?' Saying sorry helps fix little oopsies and makes everyone feel better."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’ve learned so much about good behavior today! Remember, you can be a superhero every day by being kind, listening, and following rules. Let's cheer together: 'I can do it!' I know you can, because you’re amazing and full of superpowers!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of one thing you’ll do today to show good behavior? Maybe you'll help clean up, or share a toy with a friend. Whatever you choose, I know it will be fantastic! Would you like to share your idea with me?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this wonderful adventure about good behavior! Remember, you can be a superhero every day by being kind and following rules. I'm so proud of you and all the things you’ve learned. Until next time, keep shining bright and being amazing! Bye-bye, little superhero!"
+    }
+  ],
+  "title": "Spark Buddy's Behavior Story"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "bubu_temps_d'écran_sécurité_numérique_utilisation_de_la_technologie_habitudes_saines_d'écran_story",
+  "character": "Bubu",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour petit ami! Je suis Bubu. Aujourd'hui, nous allons découvrir quelque chose de très intéressant sur le temps passé devant les écrans et comment utiliser la technologie en toute sécurité. Es-tu prêt pour cette aventure? Ensemble, nous apprendrons comment faire des choix intelligents avec nos écrans. Je suis tellement curieux d'en savoir plus sur toi et tes habitudes!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tu sais, les écrans sont partout autour de nous. Nous les utilisons pour regarder des dessins animés, jouer à des jeux, et même parler à nos amis. Mais il est important de ne pas passer trop de temps devant. Pourquoi? Parce que jouer dehors et lire des livres sont aussi très amusants! Et cela aide notre cerveau à être fort et en bonne santé."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand nous utilisons des écrans, il est important de le faire en toute sécurité. Cela signifie ne pas partager nos informations personnelles, comme notre nom complet ou notre adresse. C'est un peu comme garder un secret spécial. Tu vois, cela nous protège et nous garde en sécurité. N'est-ce pas une bonne idée?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, nous allons essayer quelque chose ensemble! Comptons jusqu'à cinq pour faire une pause écran. Un, deux, trois, quatre, cinq! Super! Faire des pauses est important pour nos yeux et notre esprit. Tu peux le faire chaque fois que tu regardes un écran longtemps. Bravo, tu as réussi!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi quand nous avons parlé de garder nos informations secrètes? C'est aussi important de demander à un adulte avant de télécharger quelque chose de nouveau. Les adultes peuvent nous aider à savoir ce qui est sûr. Comme quand on demande de l'aide pour traverser la rue. C'est toujours mieux de demander!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Il y a des moments spéciaux pour utiliser les écrans, comme après avoir fini nos devoirs ou nos corvées. Comme ranger nos jouets ou brosser nos dents. Cela nous aide à apprendre à gérer notre temps. Et cela rend le temps d'écran encore plus spécial et amusant!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un excellent travail en apprenant toutes ces choses! Rappelle-toi, c'est bien de demander de l'aide si tu n'es pas sûr. Les adultes sont là pour nous guider, comme des super-héros! Et tu es aussi un super-héros quand tu fais des choix sûrs et intelligents avec la technologie."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu un moment préféré pour utiliser les écrans? Peut-être après le goûter ou avant le dîner? C'est amusant de penser à nos moments préférés et de les partager. Quels jeux ou dessins animés aimes-tu le plus? Je suis curieux de savoir!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant que nous avons parlé des écrans, pensons à d'autres choses amusantes à faire. Comme jouer au parc, peindre, ou même construire un château en blocs. Cela nous aide à rester actifs et créatifs. Et les idées ne manquent jamais!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand tu regardes un écran, essaie de t'asseoir bien droit et de cligner des yeux souvent. Cela garde tes yeux en bonne santé. Comme un petit exercice pour tes yeux! Tu peux aussi ajuster la luminosité pour qu'elle ne soit pas trop forte. C'est comme trouver la lumière parfaite pour lire un livre."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais des progrès incroyables! Continue comme ça. Chaque fois que tu fais un bon choix, c'est comme gagner une étoile spéciale. Tu es vraiment doué pour apprendre ces nouvelles choses. Je suis tellement fier de toi!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi, il est important de parler à quelqu'un si quelque chose sur l'écran te rend triste ou effrayé. Les adultes peuvent t'aider à comprendre et à te sentir mieux. Comme un câlin chaleureux après une journée difficile. La communication est très importante."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "As-tu déjà essayé de dessiner tes personnages de jeux préférés? C'est une belle façon d'utiliser ton imagination loin des écrans. Tu peux inventer des histoires et les partager avec tes amis. C'est comme créer un monde magique rien qu'à toi!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est ton livre préféré à lire avant d'aller dormir? Les livres peuvent nous emmener dans des aventures incroyables, tout comme les jeux vidéo. Peut-être que tu pourrais essayer de lire un peu plus chaque jour. Ça te plairait?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce moment avec moi, petit ami! J'espère que tu as appris beaucoup de choses intéressantes sur les écrans et la sécurité. N'oublie pas de faire des pauses et de demander de l'aide si tu en as besoin. Tu es vraiment spécial et je suis heureux d'avoir passé ce temps avec toi. À bientôt!"
+    }
+  ],
+  "title": "Histoire de Screen Time de Bubu"
+}

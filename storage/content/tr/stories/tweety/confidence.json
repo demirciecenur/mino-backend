@@ -1,0 +1,98 @@
+{
+  "id": "chirpy_birdie_confidence_story",
+  "character": "Chirpy Birdie",
+  "topic": "confidence",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Chirpy Birdie. Bugün birlikte özgüven hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Özgüven, kendimize inandığımızda neler başarabileceğimizi gösterir. Birlikte bunun ne kadar önemli olduğunu keşfedeceğiz. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven, bir şeyleri yapabileceğine inanmak demektir. Mesela, büyük bir puzzle'ı tamamlamak gibi. İlk başta zor gözükebilir ama denedikçe başarılı olabileceğini göreceksin. Her denemede biraz daha iyi olacaksın. Özgüven, başarının anahtarıdır."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir şeyleri başarmak için önce kendine inanmalısın. Mesela, dişlerini fırçalamak gibi basit bir şeyle başlayabilirsin. Her gün fırçaladığında, bunu yapabildiğini göreceksin. Küçük adımlarla başlamak önemlidir. Zamanla daha büyük şeyler başarabileceksin."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika işler başarmak için önce kendine güvenmelisin. Birlikte büyük bir nefes alalım ve 'Ben yapabilirim!' diyelim. Bunu her gün tekrar edebilirsin. Bu seni daha güçlü hissettirecek. Sen harikasın!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda diş fırçalamaktan bahsetmiştik. Şimdi başka bir örnek düşünelim. Mesela, oyuncaklarını toplamak. İlk başta zor gelebilir, ama bir kere başladığında ne kadar kolay olduğunu göreceksin. Her şeyi sırayla yapabilirsin."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Oyuncaklarını toplarken kendine güvenir misin? Hadi düşünelim. Bunu denemek ister misin? Belki de en sevdiğin oyuncakları en sona bırakabilirsin. Ne dersin?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven, yeni şeyler denemek için de önemlidir. Mesela, yeni bir oyun oynamak. İlk başta kuralları anlamak zor olabilir ama denedikçe daha iyi olacaksın. Her yeni deneme, seni daha da cesaretlendirir. Unutma, denemekten korkma!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kendine güvenmek için her gün küçük bir şey yapabilirsin. Mesela, bir resim çizmek. Her gün biraz daha güzel çizebilirsin. Bu seni mutlu hissettirecek. Küçük şeyler büyük adımlara dönüşebilir."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte nefes alalım ve 'Ben yapabilirim!' diyelim. Bu cümleyi sık sık tekrarlamak seni daha güçlü yapar. Her gün bunu söyleyebilirsin. Sen harikasın ve her şeyi yapabilirsin!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven, arkadaşlarınla oyun oynarken de önemlidir. Mesela, saklambaç oynarken kendine güvenmen gerekir. İyi saklanabileceğini bilmek seni cesaretlendirir. Her oyun, özgüvenini artırır. Eğlenceli değil mi?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sen hangi oyunları oynamayı seversin? Oyun oynarken kendine güvenir misin? Hadi biraz düşünelim. Belki de yeni bir oyun denemek istersin. Ne dersin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda yeni oyunlardan bahsettik. Şimdi başka bir şey düşünelim. Mesela, bir hikaye anlatmak. İlk başta zor olabilir ama hikayeni anlattıkça daha iyi olacaksın. Her anlatım, özgüvenini artırır."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özgüvenini artırmak için her gün bir hikaye anlatabilirsin. Belki bir oyuncakla başlayabilirsin. Hikayeni paylaştıkça daha iyi hissedeceksin. Bu seni daha cesur yapar. Hadi dene!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte özgüven hakkında çok şey öğrendik. Kendine güvenmek, her şeyi başarabileceğini bilmek demektir. Unutma, sen harikasın ve her zaman kendine inanmalısın. Bir sonraki görüşmemizde daha fazla şey keşfedeceğiz. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Chirpy Birdie'ın Confidence Hikayesi"
+}

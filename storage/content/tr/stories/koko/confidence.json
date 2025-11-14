@@ -1,0 +1,98 @@
+{
+  "id": "koko_confidence_story",
+  "character": "Koko",
+  "topic": "confidence",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Koko. Bugün birlikte özgüven hakkında harika bir yolculuğa çıkacağız. Özgüven, kendimize inanmamızı ve cesur olmamızı sağlar. Hazır mısın? Bu yolculukta seni çok merak ediyorum. Haydi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüven, bir şeyi yapabileceğine inanmak demektir. Mesela, yeni bir oyuncağı denemek ya da yüksek bir yerden kaymak gibi. Kendine güvendiğinde, başkalarına da güven verebilirsin. Özgüven, zorluklarla başa çıkmana yardımcı olur. Senin de özgüvenli olduğun anlar oldu mu?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özgüveni artırmanın yollarından biri, kendine küçük hedefler koymaktır. Mesela, oyuncaklarını toplamak bir hedef olabilir. Başladığında, kendine 'Bunu yapabilirim!' demek önemlidir. Başardığında, kendinle gurur duyarsın. Küçük adımlar atarak büyük başarılara ulaşabilirsin."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, birlikte bir deneme yapalım. Gözlerini kapat ve derin bir nefes al. 'Ben güçlüyüm ve cesurum' diye içinden söyle. Bu cümle seni daha güçlü hissettirecek. Harika, şimdi kendine daha fazla güveniyorsun, değil mi?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüvenli olmak, sadece kendine inanmakla ilgili değildir. Aynı zamanda başkalarına da yardım etmeyi içerir. Bir arkadaşına yardım ettiğinde, hem sen hem de arkadaşın mutlu olursunuz. Bu, özgüvenini daha da artırır. Başkalarına yardım etmek, dünyayı daha güzel bir yer yapar."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özgüvenli olmak için, bazen yeni şeyler denemek gerekir. Yeni bir oyun oynamak ya da resim yapmak gibi. İlk başta zor gelebilir ama denedikçe daha iyi olursun. Yeni şeyler denemek, seni daha cesur yapar. Bu da özgüvenini artırır."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, birlikte bir resim yapmayı deneyelim. Hayal gücünü kullan ve en sevdiğin şeyi çiz. Çizim yaparken kendine 'Ben bunu yapabilirim' demeyi unutma. Harika bir iş çıkardın! Bu, senin ne kadar yetenekli olduğunu gösteriyor."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bir önceki resim yapma deneyimimiz nasıldı? Kendine güvendiğinde neler başardığını gördün mü? Başka hangi konularda kendine daha fazla güvenebilirsin? Bunu düşünmek eğlenceli olabilir! Senin de başka önerilerin var mı?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüvenli olmak, hata yapmaktan korkmamak demektir. Herkes hata yapabilir, bu çok normaldir. Hatalar, öğrenmemize ve daha iyi olmamıza yardımcı olur. Önemli olan, hatalardan ders almaktır. Sen de hata yaptığında, kendine kızma, ders al."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hatalardan ders almak için, neyi farklı yapabileceğini düşün. Mesela, bir oyunda kaybettiğinde, bir dahaki sefere nasıl kazanabileceğini planla. Bu, seni daha güçlü yapar. Her denemede daha iyi olursun. Bu, özgüvenini artırır."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, birlikte üç derin nefes alalım. Her nefeste, kendine 'Ben cesurum ve güçlüyüm' demeyi unutma. Bu seni rahatlatır ve daha güçlü hissettirir. Kendine güvenmek, her zaman seninle olacak. Harika bir iş çıkardın!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kendine güvenmek için başka neler yapabilirsin? Belki bir arkadaşına yardım edebilirsin. Ya da yeni bir şey öğrenebilirsin. Sen de düşündün mü? Neler yapabileceğini paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Özgüvenli olmak, kendini iyi hissetmene yardımcı olur. Kendine güvendiğinde, daha mutlu ve başarılı olursun. Başkalarına da ilham verirsin. Herkesin özgüvenli olması, dünyayı daha güzel bir yer yapar. Unutma, sen harikasın!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte özgüven hakkında çok şey öğrendik. Seninle bu yolculuğa çıkmak harikaydı. Kendine güvenmeye devam et. Her zaman yanında olacağım. Bir sonraki maceramızda görüşmek üzere! Hoşça kal!"
+    }
+  ],
+  "title": "Koko'ın Confidence Hikayesi"
+}

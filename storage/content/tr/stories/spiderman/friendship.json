@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_friendship_story",
+  "character": "Spider Fighter",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Spider Fighter. Bugün seninle arkadaşlık hakkında harika bir maceraya çıkacağız. Arkadaş edinmek ve sosyal becerilerimizi nasıl geliştirebiliriz, birlikte keşfedeceğiz. Hazır mısın? Hadi başlayalım ve bu maceramızda neler öğreneceğimizi görelim."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, hayatımızı daha eğlenceli ve anlamlı kılan harika bir şeydir. Bir arkadaşınız olduğunda, oyunlar oynayabilir ve birlikte yeni şeyler öğrenebilirsiniz. Arkadaşlar birbirlerine yardım eder ve zor zamanlarda destek olur. Peki, arkadaş edinmenin ilk adımı nedir? Tabii ki, yeni insanlarla tanışmak ve onlara gülümsemek!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir arkadaş edinmek için ilk yapmamız gereken, kendimizi tanıtmaktır. Merhaba demek ve ismimizi söylemek harika bir başlangıçtır. Yeni bir arkadaş edinmek için onları oyun oynamaya davet edebiliriz. Örneğin, \"Merhaba, ben Spider Fighter, seninle saklambaç oynamak isterim!\" diyebiliriz. Bu, arkadaşlığın kapılarını açan basit ama etkili bir yoldur."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi birlikte pratik yapalım! Şimdi hayali bir arkadaşla tanıştığını düşün. Ona nasıl merhaba dersin? Hadi, bir dene! Harika! İşte böyle, seninle arkadaşlık kurmak çok kolay. Unutma, gülümsemek ve sıcak bir selam vermek, arkadaşlığın ilk adımıdır. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık sadece oyun oynamakla ilgili değildir. Aynı zamanda birbirimize saygı göstermek ve empati kurmakla da ilgilidir. Bir arkadaşımız üzgün olduğunda ona destek olmak çok önemlidir. Onu dinlemek ve yanında olmak, arkadaşlığı daha da güçlendirir. Hatırlıyor musun, bir arkadaşımızın yardıma ihtiyacı olduğunda ne yaparız?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bir arkadaşın üzgün olduğunda nasıl yardımcı olabilirsin? Ona sarılabilir misin, yoksa onu dinleyip ne hissettiğini sorabilir misin? Belki de ona en sevdiği oyuncağı verebilirsin. Sen ne yapardın? Bu konuda düşün ve bana söyle."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık aynı zamanda paylaşmak demektir. Oyunlarımızı, oyuncaklarımızı ve hatta bazen yiyeceklerimizi paylaşmak harika bir davranıştır. Paylaşmak, arkadaşlığımızı daha güçlü ve özel kılar. Örneğin, en sevdiğin oyuncağını bir arkadaşınla paylaşmak, ona ne kadar değer verdiğini gösterir. Sen de oyuncaklarını paylaşmayı sever misin?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir oyuncağı nasıl paylaşabileceğini düşün. Onu arkadaşına verirken ne söyleyebilirsin? \"Seninle bu oyuncağı paylaşmak isterim\" diyebilirsin. Bu, arkadaşına ne kadar cömert olduğunu gösterir. Hadi birlikte bir oyuncak paylaşma pratiği yapalım. Sen de bunu deneyebilirsin!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Seninle oyuncak paylaşmak çok eğlenceli. Unutma, paylaşmak arkadaşlık köprülerini kurar. Her zaman cömert ve nazik olmalıyız. Sen bunu çok güzel yapıyorsun, tebrikler! Şimdi, başka neler yapabileceğimizi keşfedelim."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlıkta önemli bir diğer konu da iletişimdir. Arkadaşlarımızla konuşmak ve onları dinlemek çok değerlidir. İyi bir iletişim kurduğumuzda, arkadaşlarımızın ne hissettiğini ve ne düşündüğünü daha iyi anlarız. Peki, iyi bir dinleyici olmak için ne yapmalıyız? Dinlerken göz teması kurmak ve dikkatle dinlemek önemlidir."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bir arkadaşını dinlerken nasıl bir duruş sergilersin? Gözlerine bakar mısın, yoksa başını sallar mısın? Belki de ona \"Seni anlıyorum\" diyebilirsin. Sen nasıl dinlersin? Haydi, bana anlat!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlıkta bazen anlaşmazlıklar da olabilir. Ancak bu, arkadaşlığın bitmesi gerektiği anlamına gelmez. Anlaşmazlıkları konuşarak ve birbirimizi anlayarak çözebiliriz. Örneğin, bir oyuncağı kim kullanacak konusunda anlaşmazlık yaşarsak, sırayla oynamayı önererek çözüm bulabiliriz. Bu tür durumlarda, sabırlı olmak ve birlikte çözüm aramak önemlidir."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir anlaşmazlık yaşadığında, önce derin bir nefes al ve sakinleş. Ardından, arkadaşınla konuşarak ne hissettiğini anlatabilirsin. \"Bu durumu birlikte nasıl çözebiliriz?\" diye sorabilirsin. Unutma, her zaman barışçıl çözümler aramalıyız. Bu, arkadaşlık bağlarını güçlendirir."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Çok iyi gidiyorsun! Sen harika bir arkadaşsın ve bu becerileri geliştirmek seni daha da özel kılıyor. Unutma, arkadaşlık, sevgi, saygı ve empati üzerine kuruludur. Senin gibi biriyle arkadaş olmak gerçekten harika. Şimdi öğrendiklerimizi bir kez daha hatırlayalım."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün arkadaşlık hakkında çok şey öğrendik. Yeni arkadaşlar edinmek, paylaşmak, dinlemek ve anlaşmazlıkları çözmek gibi önemli konuları konuştuk. Seninle bu macerayı paylaşmak çok güzeldi. Şimdi, öğrendiklerini gerçek hayatta uygulamaya ne dersin? Harika bir arkadaş olacağına eminim. Bir dahaki sefere görüşmek üzere!"
+    }
+  ],
+  "title": "Spider Fighter'ın Friendship Hikayesi"
+}

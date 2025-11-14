@@ -1,0 +1,104 @@
+{
+  "id": "super_metal_hero_friendship_story",
+  "character": "Super Metal Hero",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeños amigos! Soy Super Metal Hero, y hoy vamos a embarcarnos en una aventura increíble sobre la amistad. La amistad es como un superpoder que todos podemos tener. ¿Están listos para descubrir cómo podemos ser grandes amigos? Estoy muy emocionado de aprender junto a ustedes. ¡Vamos a comenzar nuestro viaje lleno de diversión y sonrisas!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad es algo muy especial, como tener un compañero de aventuras. Un amigo es alguien con quien puedes compartir tus juguetes y tus secretos. Imaginen que tienen un amigo que siempre está listo para jugar con ustedes en el parque. ¿No sería genial? Los amigos también nos ayudan cuando estamos tristes o necesitamos un abrazo. Ahora, hablemos de cómo podemos hacer nuevos amigos."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hacer amigos es como construir un puente de sonrisas y buenos momentos. Podemos empezar por decir 'hola' y preguntar cómo se llama la otra persona. Es importante escuchar con atención, como cuando mamá lee un cuento antes de dormir. También podemos invitar a jugar, como cuando decimos '¿Quieres jugar a la pelota conmigo?'. Ser amables es una gran manera de empezar una amistad."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ustedes pueden hacerlo! Hacer amigos es una aventura emocionante que comienza con una sonrisa. Recuerden que todos los superhéroes necesitan amigos para compartir sus historias. ¿Alguna vez han invitado a alguien a jugar? Si no lo han hecho, ¡inténtenlo! Verán lo divertido que puede ser. Ahora, pensemos en cómo mantener una amistad fuerte."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Mantener una amistad es como cuidar de una planta que necesita agua y sol para crecer. Podemos pasar tiempo con nuestros amigos, como cuando jugamos juntos o compartimos un bocadillo. También podemos ayudarlos cuando lo necesiten, como prestarles un lápiz de colores. ¿Recuerdan cuando hablamos de ser amables? Eso también ayuda a que nuestra amistad sea más fuerte."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Pueden pensar en una vez que ayudaron a un amigo? Tal vez compartieron su juguete favorito o le dieron un abrazo cuando estaba triste. ¿Cómo se sintieron después de hacer algo amable? Es maravilloso saber que podemos hacer que alguien se sienta feliz. Ahora, hablemos de cómo podemos resolver problemas con amigos."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "A veces, los amigos no están de acuerdo, y eso está bien. Resolver problemas es como trabajar en equipo para encontrar una solución. Podemos hablar sobre lo que nos molesta y escuchar lo que el otro tiene que decir. Es importante ser pacientes y tratar de entender a nuestro amigo. ¡Así, podemos seguir siendo amigos por mucho tiempo!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ustedes son increíbles solucionadores de problemas! Recuerden que hablar con calma y escuchar es parte de ser un buen amigo. Cada vez que resuelven un problema, su amistad se vuelve más fuerte. Ahora, ¿qué tal si aprendemos sobre cómo divertirnos juntos? ¡Las risas son la mejor parte de la amistad!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Divertirse juntos es una de las mejores cosas de tener amigos. Podemos jugar juegos, inventar historias o hacer manualidades. Imaginen que están construyendo un castillo de arena en la playa con sus amigos. ¡Qué divertido! También podemos cantar canciones o bailar juntos. Cada momento divertido que compartimos hace que nuestra amistad sea más especial."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Cuál es su actividad favorita para hacer con amigos? Tal vez les gusta jugar al fútbol, dibujar o leer cuentos. Todo lo que hacemos con amigos se siente más divertido. ¿No creen? Ahora, pensemos en cómo podemos demostrar que queremos mucho a nuestros amigos."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Podemos mostrar nuestro cariño a los amigos de muchas maneras. Podemos darles un abrazo, escribirles una carta o hacerles un dibujo. Decir 'gracias' y 'te quiero' también es muy importante. Imaginen cómo se sentirían si un amigo les dijera lo mucho que les quiere. ¡Es un sentimiento muy bonito! Ahora, terminemos nuestro viaje con una reflexión sobre la amistad."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad es un tesoro que podemos encontrar en cada rincón. Es como una luz que nos guía en los días nublados y nos acompaña en los días soleados. Cuando somos buenos amigos, hacemos del mundo un lugar más feliz. Recuerden siempre ser amables y cuidar de sus amigos. Ahora, mientras nos despedimos, piensen en lo que han aprendido hoy sobre la amistad."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Están listos para usar su superpoder de la amistad en el mundo real? Estoy seguro de que harán nuevos amigos y cuidarán de los que ya tienen. Recuerden que cada pequeño gesto cuenta. Ahora, vamos a hacer una pequeña actividad para cerrar nuestro viaje. ¿Les gustaría contar hasta tres conmigo?"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Uno, dos, tres! ¡Genial! Han hecho un trabajo increíble aprendiendo sobre la amistad hoy. Estoy muy orgulloso de ustedes. Nunca olviden que cada uno de ustedes tiene el poder de ser un amigo maravilloso. Ahora, prepárense para nuestra despedida final."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer compartir este tiempo con ustedes, pequeños héroes. Recuerden que la amistad es un superpoder que todos llevamos dentro. Cuídense y sigan siendo amigos increíbles. ¡Hasta la próxima aventura con Super Metal Hero! Adiós, amigos, y que tengan un día lleno de sonrisas."
+    }
+  ],
+  "title": "Historia de Friendship de Super Metal Hero"
+}

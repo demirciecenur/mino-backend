@@ -1,0 +1,98 @@
+{
+  "id": "rescue_pup_crew_behavior_story",
+  "character": "Rescue Pup Crew",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis ! Je suis le Rescue Pup Crew, et aujourd'hui, nous allons découvrir ensemble le bon comportement. Êtes-vous prêts pour cette aventure amusante ? Je suis tellement curieux de savoir comment vous vous comportez chaque jour. Nous allons apprendre comment être respectueux et gentils, comme de vrais héros. Allons-y, et n'oubliez pas, chaque petit geste compte !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de ce qu'est le bon comportement. Le bon comportement, c'est faire des choses gentilles comme partager vos jouets. Cela signifie aussi écouter vos parents et vos enseignants. Quand vous dites 's'il te plaît' et 'merci', vous montrez du respect, et c'est très important. En agissant bien, vous rendez tout le monde heureux autour de vous. Et vous savez quoi ? C'est aussi amusant d'être gentil !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Alors, comment pouvons-nous pratiquer le bon comportement chaque jour ? Une façon est de toujours dire des mots gentils. Par exemple, si vous voyez un ami qui a besoin d'aide, vous pouvez lui proposer votre aide. De plus, ranger vos jouets après avoir joué montre que vous êtes responsable. Pensez à toutes les fois où vous avez vu quelqu'un sourire parce que vous avez fait quelque chose de gentil. C'est magique, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons ensemble d'être gentils ! Imaginez que vous êtes dans un parc et que vous rencontrez un nouvel ami. Que pourriez-vous faire pour lui montrer que vous êtes gentil ? Peut-être partager votre ballon ou l'inviter à jouer à un jeu. Voyez comme c'est facile de faire plaisir aux autres. Vous êtes vraiment capables de rendre votre journée et celle des autres spéciale !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La dernière fois, nous avons parlé de partager et d'aider les autres. Maintenant, pensons à comment nous pouvons être polis à la maison. Par exemple, vous pouvez aider à mettre la table pour le dîner. Vous pouvez aussi remercier vos parents pour le délicieux repas qu'ils ont préparé. Chaque petit geste de politesse montre à quel point vous êtes attentionné. Les gens autour de vous apprécieront beaucoup vos efforts."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Continuons avec une autre idée : écouter attentivement. Quand quelqu'un parle, comme un ami ou un enseignant, il est important de l'écouter avec attention. Cela signifie ne pas interrompre et attendre votre tour pour parler. En écoutant bien, vous montrez que vous respectez ce que les autres ont à dire. C'est une compétence précieuse qui vous aidera beaucoup dans la vie."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Pratiquons l'écoute ensemble. Imaginez que votre ami vous raconte une histoire. Vous pouvez hocher la tête pour montrer que vous écoutez, et attendre qu'il ait fini pour poser vos questions. Vous verrez, écouter rend les conversations plus amusantes et intéressantes. Vous êtes déjà sur la bonne voie pour devenir un excellent auditeur !"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous de notre discussion sur le respect des règles ? C'est une partie importante du bon comportement. Par exemple, à l'école, il y a des règles pour vous aider à apprendre et à jouer en toute sécurité. En suivant ces règles, vous montrez que vous respectez votre environnement et les personnes qui s'occupent de vous. C'est aussi un excellent moyen de montrer que vous êtes un membre responsable de votre communauté."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Voici une idée : et si nous faisions un jeu pour pratiquer le respect des règles ? Quand vous êtes à la maison, essayez de voir combien de règles vous pouvez suivre en une journée. Comme ranger vos affaires, ou vous brosser les dents avant de dormir. Chaque fois que vous suivez une règle, vous pouvez vous féliciter. C'est comme un jeu où tout le monde gagne !"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail incroyable en apprenant tout cela ! Rappelez-vous, chaque petit geste compte pour montrer un bon comportement. Parfois, il peut être difficile de toujours se souvenir de tout, et c'est normal. L'important est d'essayer de s'améliorer chaque jour. Vous êtes de vrais petits héros en formation, et je suis très fier de vous !"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Pensez à toutes les fois où vous avez fait sourire quelqu'un grâce à votre gentillesse. Peut-être que vous avez aidé un ami à l'école ou partagé un jouet avec votre frère ou sœur. Ces petites actions rendent le monde meilleur. Chaque jour, vous avez la chance de faire une différence positive autour de vous. Continuez comme ça, et vous verrez combien c'est gratifiant !"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, qu'est-ce que vous aimez faire pour être gentil ? Avez-vous une histoire où vous avez aidé quelqu'un ? Peut-être avez-vous partagé votre goûter ou assisté quelqu'un dans le besoin. Réfléchissez à ces moments et comment vous vous êtes senti. C'est toujours agréable de faire plaisir aux autres, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, le bon comportement est comme une aventure. Chaque jour est une nouvelle chance d'apprendre et de grandir. En faisant de votre mieux, vous montrez que vous êtes prêt à être un bon ami et un bon élève. C'est un voyage passionnant que nous faisons ensemble. Vous êtes tous des champions à mes yeux !"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, les amis ! Vous avez appris beaucoup sur le bon comportement aujourd'hui. Continuez à être gentils, respectueux et à suivre les règles. Je suis sûr que vous ferez des merveilles chaque jour. À bientôt pour une nouvelle aventure avec le Rescue Pup Crew. Au revoir et n'oubliez pas de sourire !"
+    }
+  ],
+  "title": "Histoire de Behavior de Rescue Pup Crew"
+}

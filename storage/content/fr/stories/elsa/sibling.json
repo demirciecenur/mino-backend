@@ -1,0 +1,104 @@
+{
+  "id": "elisa_the_ice_fairy_sibling_story",
+  "character": "Elisa the Ice Fairy",
+  "topic": "sibling",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, chers petits amis! Je suis Elisa la Fée des Glaces. Aujourd'hui, nous allons explorer le merveilleux monde des frères et sœurs. Êtes-vous prêts à découvrir l'amour fraternel? Ensemble, nous allons apprendre comment jouer et partager avec nos frères et sœurs. Je suis impatiente de commencer cette aventure avec vous!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les frères et sœurs sont des amis très spéciaux. Ils sont là pour jouer avec nous et partager des moments heureux. Parfois, nous pouvons nous disputer, mais c'est normal. Ce qui est important, c'est de toujours se réconcilier et de se souvenir de l'amour qui nous unit. Avez-vous un frère ou une sœur avec qui vous aimez jouer?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand on joue avec nos frères et sœurs, il est important de partager. Partager signifie que nous laissons les autres jouer avec nos jouets aussi. Cela rend le jeu plus amusant pour tout le monde! Par exemple, si vous avez un joli ballon, vous pouvez le passer à votre frère pour qu'il joue aussi. C'est une belle façon de montrer que vous aimez partager."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, essayons de penser à un jeu que vous aimez jouer avec votre frère ou votre sœur. Peut-être aimez-vous jouer à cache-cache ou construire des châteaux de sable ensemble. C'est fantastique de créer des souvenirs ensemble! Vous pouvez aussi inventer un jeu où chacun a un rôle spécial. Vous pouvez le faire, je suis sûre que vous allez bien vous amuser!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, jouer ensemble est une façon de montrer notre amour. Même si parfois, nous voulons jouer seuls, c'est bien de passer du temps ensemble. Vous pouvez aussi aider votre frère ou votre sœur quand ils ont besoin. Par exemple, vous pouvez les aider à ranger leurs jouets après avoir joué. Cela montre que vous êtes un super frère ou une super sœur!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Et si nous parlions des moments où vous avez aidé votre frère ou votre sœur? Peut-être les avez-vous aidés à résoudre un puzzle ou à trouver leur doudou préféré. Ces petits gestes sont très importants et renforcent votre lien. Avez-vous d'autres idées de façons dont vous pouvez aider?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, il est agréable de faire des activités calmes ensemble. Vous pouvez lire un livre ou dessiner côte à côte. Vous pouvez aussi inventer des histoires magiques ensemble. Ces moments calmes vous aident à vous détendre et à apprécier la compagnie de l'autre. N'est-ce pas merveilleux de partager ces moments?"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous une activité préférée que vous aimez faire avec votre frère ou votre sœur? Peut-être aimez-vous cuisiner ensemble ou danser sur votre musique préférée. Chacune de ces activités renforce votre amitié et vous rapproche. Racontez-moi, quelle est votre activité préférée?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les frères et sœurs peuvent aussi être des modèles pour nous. Votre grand frère ou votre grande sœur peut vous apprendre beaucoup de choses. Par exemple, comment faire du vélo ou comment planter une fleur. Apprendre ensemble est une belle façon de grandir en s'amusant. Avez-vous appris quelque chose de nouveau récemment?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Souvenez-vous, il est important de toujours dire merci quand votre frère ou votre sœur vous aide. Cela montre que vous êtes reconnaissant et que vous appréciez leur aide. Vous pouvez aussi leur faire un câlin pour les remercier. Un simple merci peut rendre quelqu'un très heureux!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les disputes arrivent parfois, mais il est important de se réconcilier. Vous pouvez dire désolé et proposer de jouer à nouveau ensemble. Cela montre que vous êtes prêt à pardonner et à oublier. Après tout, l'amour entre frères et sœurs est plus fort que tout. Vous êtes prêts à essayer?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "N'oubliez pas que vous êtes un super frère ou une super sœur! Vous avez déjà appris beaucoup de choses sur comment être gentil et attentionné. C'est magnifique de voir combien vous vous souciez les uns des autres. Continuez à être merveilleux et à prendre soin de votre famille. Je suis très fière de vous!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quelle est la chose la plus drôle que vous ayez faite avec votre frère ou votre sœur? Peut-être que vous avez ri si fort que vous en avez eu mal au ventre! Ces moments de rire sont précieux et restent dans nos cœurs. Pouvez-vous me raconter une histoire drôle?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les frères et sœurs partagent un lien unique. Ils sont là pour nous soutenir et nous faire sourire. Même si parfois nous ne sommes pas d'accord, l'amour reste toujours. N'oubliez jamais de leur dire combien vous les aimez. Un simple 'je t'aime' peut égayer leur journée."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure avec moi, chers amis. J'espère que vous avez appris beaucoup de choses sur l'amour fraternel. Prenez soin de vos frères et sœurs et amusez-vous ensemble. Je vous envoie plein de bisous glacés! À bientôt pour une nouvelle aventure magique!"
+    }
+  ],
+  "title": "Histoire de Sibling de Elisa The Ice Fairy"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "tiko_friendship_story",
+  "character": "Tiko",
+  "topic": "friendship",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little adventurer! I'm Tiko, and today we're going to explore the magical world of friendship! Are you excited? I love making new friends and discovering how we can have fun together. Friendship is like having a special buddy to play with and share secrets. Can you think of a friend you like to play with? Let's go on this journey together and learn all about the wonders of being a good friend!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what friendship means. Friendship is when two people enjoy being together and care for each other. It's like having a partner for all your adventures, whether it's building a sandcastle or playing hide and seek. Friends help each other and share toys, just like how you might lend your favorite toy car. Isn't it amazing how friends make us feel happy and special? Let's explore more about how we can be great friends!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "To be a good friend, it's important to listen when your friend is talking. When your friend shares a story or an idea, you can show you're listening by looking at them and nodding. Listening shows that you care about what they have to say. For example, if your friend tells you about their favorite game, you can ask questions like, 'How do you play?' or 'Can you teach me?' This makes your friend feel valued and happy!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's try something fun together! Think of a time when you played with a friend. Can you remember what you did and how it made you feel? Maybe you played tag or shared a snack. Remembering happy times with friends helps us appreciate them even more. It's like collecting happy memories in a special treasure box. You can do it! What fun memories do you have with your friends?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about listening? Another important part of friendship is sharing. Sharing is when you let someone else use your things, like toys or crayons. When you share, you show your friend that you care about them. Imagine sharing your favorite puzzle with a friend and working on it together. Doesn't that sound fun? Sharing is a wonderful way to make your friend feel special and loved."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice sharing right now! Pretend you have a big box of colorful crayons. Can you imagine giving some to your friend so you can color together? Sharing makes everything more fun because you get to create something beautiful with your friend. It's like painting a big rainbow together! Remember, sharing is caring, and it makes friendships strong and happy."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking about sharing, little explorer! Now, let's think about what makes you a good friend. Maybe you give hugs, or you always say please and thank you. These little things show kindness and make your friends feel loved. You can also invite your friends to join in games and playtime. Being thoughtful and kind is like giving your friend a warm, sunny day. Keep being amazing!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's talk about something really fun—playing together! Playing with friends can be anything from building blocks to playing make-believe. When you play, you get to use your imagination and create new worlds. It's like going on an adventure without even leaving your room. Playing together also helps you learn how to work as a team. Isn't it wonderful how playtime can bring us closer together?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's imagine a playtime adventure! Close your eyes and think about your favorite game. Maybe it's a pirate adventure or a princess tea party. Now imagine inviting a friend to join you. How would you include them in your game? You could ask them to be the captain or the royal guest. Including friends in our games makes every adventure more exciting. Are you ready to imagine together?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well, little adventurer! Let's think about how we can make new friends. Making new friends is like opening a door to new adventures. You can start by saying, 'Hi, I'm [Your Name], what's your name?' Asking simple questions like, 'Do you like to play tag?' or 'What's your favorite color?' can help you learn more about each other. Making new friends is like finding new stars in the sky!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever been nervous about making a new friend? It's okay to feel that way! Everyone feels shy sometimes. What do you think could help you feel more comfortable? Maybe having a special toy with you or asking your grown-up to introduce you. Can you think of a time when you made a new friend? How did it feel when you first said hello? Let's think about that together!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about making new friends? Another way to be a good friend is by helping each other. Helping can be as simple as picking up toys after playtime or helping someone who fell down. When we help, we show that we care and want everyone to be happy. Helping is like spreading sunshine on a cloudy day. How do you like to help your friends?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice helping! Imagine your friend is trying to reach a book on a high shelf. You could help by getting a stool or asking a grown-up for help. Helping others makes them feel loved and appreciated. It's like being a superhero for your friends! Can you think of other ways you can help your friends? Maybe you can help them with a puzzle or share your snack. Helping is always a wonderful thing to do!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You've learned so much about friendship today! Remember, being a good friend means listening, sharing, playing, and helping. All these things make our friendships strong and happy. You're like a friendship expert now, ready to spread joy and kindness. Keep being the amazing friend you are, and don't forget to have fun and smile! You can do it, little adventurer!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time to say goodbye now, my little friend. We've had such a wonderful adventure learning about friendship together. Remember to always be kind, share, and have fun with your friends. Every day is a new chance to make your friendships even more special. Thank you for joining me, and I hope you have a fantastic day filled with laughter and joy. Goodbye, and see you next time!"
+    }
+  ],
+  "title": "Tiko's Friendship Story"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "mino_behavior_story",
+  "title": "Mino's Behavior Story",
+  "character": "Mino",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little adventurer! I'm Mino, your friendly space explorer. Today, we're going to journey through the galaxy of good behavior. Are you ready to explore the stars with me? We'll learn about how to be kind, helpful, and follow rules. It's going to be a fun and exciting trip! Let's get our rocket ships ready and blast off into the world of good behavior!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what behavior is. Behavior is how we act and talk with others. It's like a little dance we do every day! When we have good behavior, it means we're doing things that are kind and helpful. For example, sharing toys with our friends or saying 'please' and 'thank you.' These little actions can make everyone happy, just like a smile can light up a room."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about sharing toys? Sharing is caring, and it's a big part of good behavior. When we share, we show our friends that we care about them. Imagine if you have a big box of crayons, and your friend wants to color too. You can share your crayons, and then you both can create beautiful pictures together. Isn't that wonderful?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's try something fun together! Imagine we're on a spaceship, and we need to share our snacks with everyone onboard. How would you do it? You can pretend to pass the snacks around and say, 'Here you go!' Great job! You just practiced sharing, and that makes you a super space explorer like me!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've learned about sharing, let's talk about listening. Listening is another important part of good behavior. When we listen, we show others that we respect them and want to hear what they have to say. It's like when someone tells you a story, and you pay close attention to every word. Listening can help us learn new things and make new friends!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Okay, space explorers, here's a tip on how to be a good listener. First, we need to use our eyes to look at the person talking. Then, we keep our mouths quiet and our ears open. Finally, we think about what the person is saying. It's like an adventure where we discover new stories and ideas! Let's practice this next time someone talks to us."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great listening, everyone! You all did a fantastic job. Remember, listening helps us understand others better. It's like having a map that guides us through the galaxy of conversations. Keep practicing, and you'll become a listening expert in no time!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you listened really well to someone? Maybe it was when your teacher was reading a story, or when a friend was telling you about their day. How did it feel to listen and understand them? I'd love to hear about it!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about following rules. Rules are like the stars that guide us through space. They help us know what to do and keep us safe. For example, a rule might be to walk instead of run inside the house. This keeps us from bumping into things and getting hurt. Following rules helps everyone stay happy and safe, just like a crew on a spaceship!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's imagine we're on a space mission. One of the rules is to wear our seatbelts during takeoff. This rule keeps us safe as we zoom through the stars. By following this rule, we make sure everyone on the ship is protected. Following rules is like being a hero who keeps the galaxy safe!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning about good behavior! Remember, sharing, listening, and following rules are all important parts of it. Each time you practice these, you become a better friend and a wonderful space explorer. Keep up the great work, and you'll light up the universe with your kindness!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What rules do you have at home or at school that help keep you safe and happy? Maybe it's putting away your toys after playtime or washing your hands before eating. How do these rules help you and others around you? I can't wait to hear what you think!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's remember all the things we've learned today. We talked about sharing, listening, and following rules. These are the building blocks of good behavior. They help us make friends, learn new things, and have fun together. Just like a spaceship needs all its parts to fly, we need these behaviors to make our days bright and happy."
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Before we end our adventure, let's do a fun exercise. Close your eyes and take three deep breaths. Inhale, exhale, one... two... three. Imagine you're floating in space, surrounded by stars. Feel the calm and peace. Remember, good behavior can bring this calm to our lives every day. You can do it!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this amazing journey through the galaxy of good behavior. You've learned so much, and I'm so proud of you! Keep practicing what we've talked about, and you'll be a shining star wherever you go. Until next time, keep exploring, keep sharing, and keep being amazing! Goodbye, my little space explorer!"
+    }
+  ]
+}

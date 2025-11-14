@@ -1,0 +1,104 @@
+{
+  "id": "super_metal_hero_transitions_story",
+  "character": "Super Metal Hero",
+  "topic": "transitions",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little heroes! I'm your friend, Super Metal Hero, and today we’re going on an exciting journey about transitions. Do you know what transitions are? They’re the changes we go through, like switching from playtime to bedtime. Are you ready to explore this adventure with me? Together, we’ll learn how to make these changes fun and easy. Let’s soar into our story!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Transitions happen all around us, every day. Think about when you wake up in the morning, and it’s time to get dressed. That’s a transition from sleeping to being awake. We have many of these changes, like going from playing to eating lunch. Each transition is like a small adventure. And just like any great hero, we can handle them with courage and confidence. Let’s see how we can make them even better!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "One way to make transitions smoother is by having a routine. A routine is like a map that tells you what comes next. For example, after breakfast, you might brush your teeth. Knowing what to expect helps us feel safe and ready. It’s like having a super plan that guides us through the day. Let’s think about your favorite routine. What do you like to do first thing in the morning?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job! Now, let’s practice a transition together. Imagine it’s time to clean up your toys. First, we take a deep breath in, and out. Let’s count to three: one, two, three. Now, let’s pick up one toy and put it away. You did it! See how easy that was? With practice, we can make every change feel just as smooth."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about routines? Let’s add something fun to them. How about a little dance between activities? When it’s time to switch from drawing to snack time, you can do a happy dance. Dancing helps us feel excited about what’s next. Plus, it’s a great way to move our bodies. What kind of dance would you like to do?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let’s learn about another tool for transitions: the countdown. A countdown helps us prepare for change. When it’s almost time to stop playing, we can count down from five. Five, four, three, two, one, and then we’re ready for the next activity. Would you like to try counting down with me? Let’s go!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You’re becoming a transition expert. Remember, each change is a chance to try something new. Like when we go from reading a book to going outside to play. Each transition is a new adventure waiting to happen. You have the power to handle them all. Keep up the great work, little hero!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let’s talk about feelings during transitions. Sometimes, changes can make us feel a little unsure. That’s okay! We all feel that way sometimes. When that happens, we can take a deep breath and remember that we’re strong and brave. Transitions are just another way to grow and learn. What’s something new you’ve learned recently?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Next, let’s create a transition toolkit. This toolkit can have things like a favorite song to sing or a special toy to hold. These tools help us feel comfortable during changes. Imagine your favorite song playing when it’s time to start a new activity. It makes transitions feel fun and exciting! What would you put in your transition toolkit?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing fantastic! Keep using your toolkit and routines to make transitions even easier. Remember, every superhero has their own special way of handling change. You’re learning yours right now. With each transition, you’re becoming more confident and ready for anything. Keep being amazing!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let’s think about a big transition, like starting school or moving to a new home. These can be big adventures, but with our tools and routines, we can handle them too. We can talk to a grown-up about how we feel and ask for help when we need it. Every step is part of our hero’s journey. What big adventures are you looking forward to?"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you remember the last time you did something new? How did it feel? Sometimes, trying something new can be exciting and a little scary. But each new experience helps us grow stronger and smarter. What’s something new you’d like to try soon? I’d love to hear about it!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Transitions are like bridges that take us from one fun thing to another. Just like a superhero flying from one place to the next. We can use our tools, like routines and countdowns, to make these bridges strong and steady. With practice, every transition becomes easier and more fun. You’re doing so well!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let’s celebrate our journey today! You’ve learned so much about handling transitions. Remember, with each change, you’re learning and growing. You have the power to make transitions exciting and smooth. Keep practicing, and you’ll be a transition superhero in no time. Great job, little hero!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this adventure, little hero! Remember, transitions are just another part of our amazing journey. With your routines, tools, and courage, you can handle anything. Keep exploring, learning, and having fun. Until next time, stay strong and keep shining bright. Goodbye, little hero!"
+    }
+  ],
+  "title": "Super Metal Hero's Transitions Story"
+}

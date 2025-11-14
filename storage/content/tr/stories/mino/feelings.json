@@ -1,0 +1,104 @@
+{
+  "id": "mino_feelings_story",
+  "character": "Mino",
+  "topic": "feelings",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mino, uzaydan gelen dost canlısı bir arkadaş. Bugün birlikte duygular dünyasında harika bir yolculuğa çıkacağız. Duygularımızı tanımak ve onları ifade etmek ne kadar önemli, değil mi? Hazırsan, birlikte keşfetmeye başlayalım. Seni çok merak ediyorum ve neler hissedebileceğimizi görmek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı tanımak, onlarla nasıl başa çıkacağımızı öğrenmemize yardımcı olur. Mesela, mutlu olduğumuzda içimizde bir kelebek dans ediyormuş gibi hissederiz. Üzgün olduğumuzda ise sanki gökyüzü bulutlarla dolmuş gibi olur. Kızgın olduğumuzda, içimizde bir volkan patlamaya hazır gibi hissedebiliriz. Duygularımızı tanımak ve onları ifade etmek, kendimizi ve başkalarını daha iyi anlamamıza yardımcı olur."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, duygularımızı nasıl tanıyabileceğimizi öğrenelim. İlk olarak, vücudumuzun bize verdiği ipuçlarını dinleyebiliriz. Mesela, kalbimiz hızlı atıyorsa belki heyecanlıyızdır. Eğer kaşlarımız çatılıyorsa, belki biraz kızgınız. Gözlerimiz doluyorsa, üzgün olabiliriz. Bu ipuçlarını takip ederek, hangi duyguyu hissettiğimizi anlayabiliriz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi birlikte bir oyun oynayalım. Ben bir duygu söyleyeceğim ve sen o duyguyu nasıl hissettiğini anlatacaksın. Mesela, mutlu olduğunda neler yapmak istersin? Dans etmek mi, şarkı söylemek mi? Üzgün olduğunda seni ne neşelendirir? Düşün ve bana anlat. Sen bunu yapabilirsin, hadi deneyelim!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı ifade etmek, onları başkalarıyla paylaşmak anlamına gelir. Bu, kendimizi daha iyi hissetmemize yardımcı olabilir. Arkadaşlarımıza veya ailemize duygularımızı anlatarak, onların da bizi anlamasını sağlayabiliriz. Böylece, hem kendimizi hem de karşımızdakileri daha iyi tanırız. Bu paylaşım, aramızdaki bağı güçlendirir ve bizi birbirimize daha yakın hissettirir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Duygularımızı ifade ederken, kelimelerimizi seçmek önemlidir. Mesela, 'Ben kızgınım' demek, 'Sen beni kızdırıyorsun' demekten daha farklıdır. İlk cümlede kendi duygumuzu ifade ederiz, ikincisinde ise birini suçlamış oluruz. Bu farkı anlamak, duygularımızı daha doğru bir şekilde anlatmamıza yardımcı olur. Şimdi, sen de bir dene bakalım!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsun! Şimdi bir duygu günlüğü yapmaya ne dersin? Her gün hangi duyguları hissettiğini yaz veya resimle ifade et. Bu, duygularını daha iyi tanımanı sağlar. Hatta, günlüğünü sevdiklerinle paylaşarak onlara da duygularını anlatabilirsin. Bu, hem eğlenceli hem de öğretici bir etkinlik olacak!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda duygu günlüğünden bahsetmiştik. Günlüğünü yaparken hangi duyguları yazmayı düşündün? Belki de bugün mutlu bir anını yazabilirsin. Ya da seni biraz endişelendiren bir şey oldu mu? Duygularını yazmak, onları anlamana ve daha iyi hissetmene yardımcı olabilir. Eminim harika bir iş çıkaracaksın!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi, duygularımızı nasıl ifade ettiğimizi düşünelim. Sen duygularını en çok nasıl ifade edersin? Resim yaparak mı, şarkı söyleyerek mi, yoksa bir arkadaşınla konuşarak mı? Ben mesela, uzayda yıldızların dansını izleyerek duygularımı ifade etmeyi çok severim. Peki ya sen? Hadi düşün ve bana anlat."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı ifade etmenin birçok yolu vardır. Bazı insanlar resim yaparak, bazıları ise müzikle duygularını anlatır. Hatta, oyun oynarken bile duygularımızı ifade edebiliriz. Önemli olan, kendimizi en rahat hissettiğimiz yolu bulmak. Senin de sevdiğin bir ifade şekli vardır eminim. Kendini en iyi nasıl ifade ediyorsun?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, nefes almanın duygularımıza nasıl yardımcı olduğunu keşfedelim. Derin bir nefes al ve yavaşça ver. Bu, sakinleşmemize ve duygularımızı daha iyi anlamamıza yardımcı olabilir. 3 derin nefes alarak bunu birlikte deneyelim. Hazır mısın? Derin bir nefes al ve yavaşça bırak, işte böyle!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkardın! Derin nefes almak, kendimizi daha iyi hissetmemize yardımcı olur. Bunu her zaman yapabilirsin, özellikle de biraz gergin veya üzgün hissettiğinde. Şimdi, bu nefes egzersizini bir arkadaşına öğretmeyi düşünebilir misin? Böylece o da kendini daha iyi hissedebilir. Sen harikasın!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnemizde nefes egzersizi yapmıştık. Bunu yaparken nasıl hissettin? Biraz daha rahatladın mı? Eğer istersen bunu her gün yaparak, duygularını daha iyi yönetebilirsin. Eminim sen de bunu yapabilirsin ve kendini daha iyi hissedersin. Hadi bakalım, bir kez daha deneyelim mi?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi, bir düşün bakalım. Duygularını başkalarıyla paylaşmak sana nasıl hissettiriyor? Mutlu, rahatlamış veya biraz utangaç mı? Ben uzayda duygularımı yıldızlarla paylaşmayı çok seviyorum. Sen de duygularını paylaşmayı seviyor musun? Hadi bana anlat, çok merak ediyorum."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün duygularımızı tanımak ve ifade etmek konusunda harika bir yolculuk yaptık. Seninle bu macerayı paylaşmak çok güzeldi. Unutma, duygularını tanımak ve ifade etmek seni daha güçlü kılar. Her zaman duygularını paylaşmak için buradayım. Şimdi, uzaydan sana kocaman bir selam gönderiyorum. Bir sonraki macerada görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Mino'ın Feelings Hikayesi"
+}

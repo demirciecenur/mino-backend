@@ -1,0 +1,98 @@
+{
+  "id": "piggy friend_Bildschirmzeit, digitale Sicherheit, Technologienutzung, gesunde Bildschirmgewohnheiten_story",
+  "character": "Piggy Friend",
+  "topic": "Bildschirmzeit, digitale Sicherheit, Technologienutzung, gesunde Bildschirmgewohnheiten",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin dein Piggy Friend und heute machen wir eine spannende Entdeckungsreise. Wir werden über Bildschirmzeit, digitale Sicherheit und gesunde Bildschirmgewohnheiten sprechen. Weißt du, was das alles bedeutet? Keine Sorge, wir lernen es zusammen! Bist du bereit, mit mir auf Abenteuer zu gehen? Los geht’s!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bildschirmzeit bedeutet, wie lange wir auf Bildschirme wie Fernseher, Tablets oder Telefone schauen. Es ist wichtig, dass wir nicht zu lange darauf schauen, weil wir auch draußen spielen und neue Dinge entdecken sollten. Wenn wir zu viel Bildschirmzeit haben, können unsere Augen müde werden. Und das wäre doch schade, oder? Also lass uns herausfinden, was wir tun können, um eine gute Balance zu finden."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Eine gute Möglichkeit, unsere Bildschirmzeit zu kontrollieren, ist ein Zeitplan. Zum Beispiel, nach dem Frühstück können wir eine halbe Stunde spielen und dann draußen Spaß haben. Wenn wir uns an den Zeitplan halten, bleibt genug Zeit für andere spannende Aktivitäten. So lernen wir, den Bildschirm richtig zu nutzen. Klingt das nicht nach einer lustigen Herausforderung?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns gemeinsam einen Plan machen! Wir können sagen: 'Nachdem wir unser Spiel gespielt haben, gehen wir raus und spielen Fangen.' Ist das nicht eine tolle Idee? Du kannst sogar deine Freunde oder Familie fragen, ob sie mitmachen wollen. Gemeinsam macht es noch mehr Spaß! Du kannst das schaffen, ich glaube an dich!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Digitale Sicherheit bedeutet, dass wir im Internet sicher bleiben. Wir sollten niemals unseren Namen oder unsere Adresse mit Fremden teilen. Weißt du warum? Weil nicht jeder im Internet unser Freund ist. Es ist wichtig, dass wir immer einen Erwachsenen fragen, bevor wir etwas im Internet tun. So bleiben wir sicher und geschützt!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt kommen wir zu gesunden Bildschirmgewohnheiten. Das bedeutet, dass wir den Bildschirm auf die richtige Weise nutzen. Wir sollten zum Beispiel nicht zu nah am Bildschirm sitzen, damit unsere Augen nicht weh tun. Auch Pausen sind wichtig, damit wir uns bewegen können. So bleiben wir fit und gesund. Lass uns das ausprobieren!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lass uns zusammen eine Bildschirmpause machen! Wir stehen auf und strecken unsere Arme ganz weit nach oben. Dann schütteln wir unsere Beine aus und drehen uns einmal im Kreis. Wunderbar, du machst das großartig! So einfache Übungen helfen uns, aktiv zu bleiben. Tolle Arbeit, kleiner Freund!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir wissen, wie wichtig Pausen sind, können wir über Technologie sprechen. Technologie ist alles, was uns hilft, Dinge einfacher zu machen, wie Computer oder Tablets. Aber es ist wichtig, dass wir sie richtig verwenden. Das bedeutet, dass wir sie nicht den ganzen Tag benutzen sollten. Was denkst du, wie oft sollten wir sie verwenden?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Glaubst du, dass es gut ist, den ganzen Tag auf einen Bildschirm zu schauen? Oder ist es besser, auch zu spielen und zu rennen? Ja, du hast recht, es ist viel besser, eine gute Mischung zu haben. So haben wir Spaß und lernen gleichzeitig etwas Neues. Was machst du am liebsten, wenn du nicht auf den Bildschirm schaust?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Wenn wir nicht auf Bildschirme schauen, können wir viele tolle Dinge tun. Wir können draußen spielen, malen oder ein Buch lesen. All diese Aktivitäten machen Spaß und helfen uns, kreativ zu sein. Hast du schon einmal ein Bild gemalt? Oder eine Geschichte erfunden? Das macht so viel Spaß!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über digitale Sicherheit gesprochen haben? Es ist auch wichtig, dass wir wissen, welche Apps wir verwenden. Nur Apps, die ein Erwachsener genehmigt hat, sollten wir nutzen. So bleiben wir sicher und haben trotzdem Spaß. Und es gibt so viele tolle Apps, die wir zusammen entdecken können!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt eine lustige Aktivität machen! Wir zählen bis fünf und bei jeder Zahl machen wir einen kleinen Sprung. Eins, zwei, drei, vier, fünf! Super gemacht! Solche kleinen Übungen sind toll, um fit zu bleiben. Und sie machen auch noch richtig Spaß!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du hast heute so viel gelernt! Du weißt jetzt, wie wichtig Bildschirmzeit und digitale Sicherheit sind. Und dass es so viele tolle Dinge gibt, die wir ohne Bildschirme machen können. Du kannst stolz auf dich sein! Du bist wirklich ein toller Entdecker!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es Zeit, sich zu verabschieden, kleiner Freund. Ich hoffe, du hattest genauso viel Spaß wie ich. Denk daran, immer eine gute Balance zu finden und sicher zu bleiben. Ich freue mich schon auf unser nächstes Abenteuer! Bis bald und pass gut auf dich auf!"
+    }
+  ],
+  "title": "Piggy Friends Screen Time Geschichte"
+}

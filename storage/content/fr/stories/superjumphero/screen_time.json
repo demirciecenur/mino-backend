@@ -1,0 +1,104 @@
+{
+  "id": "super_jump_hero_temps_d'écran_sécurité_numérique_utilisation_de_la_technologie_habitudes_saines_d'écran_story",
+  "character": "Super Jump Hero",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Super Jump Hero. Aujourd'hui, nous allons partir pour une aventure incroyable sur le temps d'écran et la sécurité numérique. Es-tu prêt à apprendre de nouvelles choses amusantes avec moi? Je suis tellement curieux de savoir ce que tu penses! Nous allons découvrir comment utiliser la technologie de manière amusante et sécurisée. Allons-y!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tu sais, les écrans sont comme des fenêtres magiques qui nous montrent des dessins animés, des jeux et des histoires. Mais il est important de ne pas rester trop longtemps devant ces fenêtres. Pourquoi, tu te demandes? Parce que nos yeux et notre cerveau ont besoin de repos pour être forts et en bonne santé! Quand on joue dehors ou qu'on fait des puzzles, c'est aussi très amusant. Alors, comment peut-on équilibrer tout ça?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une bonne idée est de fixer un temps pour jouer avec les écrans, un peu comme fixer un temps pour aller au parc. Par exemple, tu peux jouer sur la tablette pendant 30 minutes, puis faire autre chose, comme dessiner ou construire avec des blocs. Ça te donne envie d'essayer? C'est aussi une excellente façon de découvrir de nouvelles activités passionnantes. Et n'oublie pas, chaque minute loin de l'écran est une chance pour une nouvelle aventure!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Maintenant, essayons quelque chose ensemble. Comptons jusqu'à trois et imaginons une activité amusante à faire sans écran. Un, deux, trois... Peut-être une chasse au trésor dans le jardin ou une danse amusante dans le salon? Quelle merveilleuse idée! Tu vois, il y a tant de choses amusantes à faire qui ne nécessitent pas d'écran. Bravo, tu es très créatif!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tu te souviens de ce que nous avons dit sur la sécurité numérique? C'est comme mettre une ceinture de sécurité quand tu montes dans la voiture. Quand tu utilises un écran, il est important de demander à un adulte de t'aider à choisir des applications et des jeux sûrs. Cela signifie que tu restes toujours en sécurité pendant que tu t'amuses. Est-ce que tu as déjà demandé à un adulte de t'aider avec ça?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, quel est ton jeu préféré à jouer sur une tablette ou un téléphone? Est-ce que c'est un jeu où tu dois sauter très haut, comme moi? Ou peut-être un jeu où tu apprends de nouvelles choses? Chaque jeu est une aventure différente. J'aimerais beaucoup savoir ce que tu aimes!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu sais, même les héros comme moi doivent se reposer après une journée d'aventures. C'est pourquoi il est important de ne pas utiliser les écrans juste avant d'aller dormir. Cela aide notre cerveau à se détendre et à se préparer pour de beaux rêves. Tu as une routine spéciale avant de te coucher, comme lire une histoire ou écouter de la musique douce?"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons quelque chose de relaxant ensemble. Allonge-toi confortablement et fermons les yeux. Inspirons profondément par le nez, puis expirons par la bouche. Faisons-le trois fois ensemble. Un, deux, trois... C'est apaisant, n'est-ce pas? Cela aide notre corps à se calmer après une journée bien remplie."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu vois, tu es déjà un expert en relaxation! Prendre soin de soi est aussi important que de s'amuser. Et tu fais un travail formidable en apprenant toutes ces nouvelles choses. Continue comme ça, tu es incroyable!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de l'importance de jouer dehors. Jouer à l'extérieur, c'est comme une grande aventure où tu peux courir, sauter et explorer. Cela rend nos corps forts et sains. Et tu sais quoi? Cela nous aide aussi à mieux utiliser nos écrans plus tard. Parce que quand on a bien bougé, on est plus concentré et prêt à apprendre."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est ton jeu préféré à l'extérieur? Est-ce que tu aimes courir, jouer à cache-cache ou peut-être grimper aux arbres? Chaque jeu est une nouvelle aventure, et j'aimerais beaucoup savoir ce que tu préfères faire. Partager des idées de jeux, c'est toujours amusant!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Et tu sais, c'est toujours plus amusant de jouer avec des amis ou en famille. Cela rend chaque moment encore plus spécial. Peut-être que la prochaine fois, tu pourrais inviter quelqu'un à jouer avec toi. Ensemble, vous pouvez imaginer des jeux incroyables et vous amuser encore plus!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "N'oublions pas de prendre soin de nos yeux quand nous utilisons les écrans. Une chose simple que tu peux faire est de regarder quelque chose au loin toutes les 20 minutes. Cela donne à tes yeux une pause. C'est comme quand tu fais une pause après avoir couru un long moment. Cela aide à garder tes yeux en bonne santé!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, tu as appris tant de choses aujourd'hui! Tu es vraiment un super héros du temps d'écran et de la sécurité numérique. Continue à explorer, à jouer et à apprendre. Je suis tellement fier de toi et de tous les efforts que tu fais. Tu es un vrai champion!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci de m'avoir accompagné dans cette aventure, petit ami. J'espère que tu as apprécié tout autant que moi. N'oublie pas de revenir pour d'autres aventures avec Super Jump Hero. Prends soin de toi et amuse-toi bien! À bientôt, et n'oublie pas de sauter haut dans tes rêves!"
+    }
+  ],
+  "title": "Histoire de Screen Time de Super Jump Hero"
+}

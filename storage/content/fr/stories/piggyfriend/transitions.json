@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_transitions_story",
+  "character": "Piggy Friend",
+  "topic": "transitions",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis ! Je suis votre amie Piggy. Aujourd'hui, nous allons explorer les transitions, ces moments où les choses changent un peu dans notre journée. Êtes-vous prêts ? J'ai hâte de partager toutes ces nouvelles découvertes avec vous. Allez, embarquons ensemble dans cette aventure pleine de surprises !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions, c'est comme quand on passe du petit déjeuner au jeu, ou du jeu au bain. Parfois, ça peut être un peu difficile, mais c'est aussi très excitant ! Pensez à un papillon qui sort de son cocon. Il change et devient quelque chose de magnifique. Nous aussi, nous pouvons nous adapter et grandir avec chaque changement. N'est-ce pas merveilleux ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour bien vivre les transitions, il est important d'avoir une routine. Par exemple, après le petit déjeuner, on peut toujours se laver les dents. Cela aide à savoir ce qui va se passer ensuite. C'est un peu comme une chanson que l'on connaît par cœur. Avez-vous une routine que vous aimez suivre chaque jour ?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons ensemble de créer une petite routine. Imaginez que nous allons ranger nos jouets. D'abord, on commence par les cubes, puis les peluches. C'est amusant de voir comment tout retrouve sa place. Vous pouvez le faire aussi, j'en suis sûr ! C'est tellement gratifiant de voir tout bien rangé."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant que nous avons parlé de routines, pensons à ce que nous ressentons pendant les transitions. Parfois, on peut se sentir un peu triste ou inquiet. C'est normal, ça arrive à tout le monde. Mais rappelez-vous, chaque transition apporte de nouvelles opportunités pour s'amuser et apprendre. Et vous n'êtes jamais seuls, vos amis et votre famille sont là pour vous aider."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand vous sentez qu'un changement arrive, essayez de respirer profondément. Inspirons ensemble, un, deux, trois. Et expirons, un, deux, trois. Cela aide à apaiser notre esprit et à nous préparer pour la nouvelle activité. N'est-ce pas relaxant ? Vous pouvez le faire chaque fois que vous en avez besoin."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous savez, chaque transition est une chance de découvrir quelque chose de nouveau. Peut-être un nouveau jeu, un nouveau livre, ou même un nouvel ami. Pensez à toutes les aventures qui vous attendent. Chaque journée est remplie de petites surprises. Vous êtes de vrais explorateurs, prêts à affronter chaque nouveauté avec courage !"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà vécu une transition qui vous a beaucoup plu ? Peut-être quand vous avez commencé une nouvelle activité ou rencontré un nouvel ami ? Comment vous êtes-vous senti ? C'est intéressant de partager ces moments, car ils nous aident à comprendre et à apprécier les changements. J'aimerais beaucoup entendre vos histoires."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, les transitions sont comme des ponts entre deux moments. Elles nous mènent d'une expérience à une autre. Parfois, ces ponts peuvent sembler longs ou effrayants, mais pensez à toutes les choses merveilleuses de l'autre côté. Chaque pas que vous faites vous rapproche de nouvelles aventures et de nouveaux souvenirs."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Et vous savez quoi ? Vous êtes déjà très bons à gérer les transitions. Chaque jour, vous passez d'une activité à une autre avec tant de joie et de curiosité. C'est une qualité incroyable ! Continuez à être courageux et à explorer le monde autour de vous. Chaque transition est une chance d'apprendre quelque chose de nouveau."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant de quelques astuces pour rendre les transitions encore plus faciles. Vous pouvez par exemple chanter une petite chanson pendant que vous rangez vos jouets. Ou bien, faire une danse rigolote en allant vous brosser les dents. Ces petites choses rendent les transitions amusantes et agréables. Voulez-vous essayer ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous voyez, chaque transition peut devenir un moment de plaisir. Avec un peu de créativité et de bonne humeur, tout devient possible. Pensez à toutes les belles choses que vous pouvez faire aujourd'hui. Je suis sûre que vous allez rendre chaque moment spécial. Continuez à sourire et à profiter de chaque instant !"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "En parlant de transitions, souvenez-vous que chaque changement est une chance de grandir. Comme une fleur qui s'épanouit sous le soleil, vous vous développez avec chaque nouvelle expérience. C'est ce qui rend la vie si belle et excitante. Vous êtes tous des petits héros, prêts à vivre de belles aventures chaque jour."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Alors, qu'avez-vous appris aujourd'hui sur les transitions ? Peut-être que vous vous sentez plus confiants pour affronter les changements. Ou peut-être que vous avez découvert de nouvelles façons de rendre les transitions amusantes. Quoi qu'il en soit, vous avez fait un excellent travail en écoutant et en participant à cette aventure. Bravo à vous tous !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'est presque la fin de notre voyage ensemble, mes chers amis. J'espère que vous avez apprécié apprendre sur les transitions avec moi. N'oubliez pas que chaque jour est une nouvelle chance de découvrir et de s'amuser. Merci d'être venus dans cette aventure avec moi. À la prochaine fois, et souvenez-vous, continuez à sourire et à explorer le monde autour de vous. Au revoir !"
+    }
+  ],
+  "title": "Histoire de Transitions de Piggy Friend"
+}

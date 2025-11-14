@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_transitions_story",
+  "character": "Spider Fighter",
+  "topic": "transitions",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis! Je suis Spider Fighter, votre héros de la ville. Aujourd'hui, nous allons parler des transitions, ces petits changements dans notre vie quotidienne. Parfois, changer peut sembler un peu effrayant, mais ensemble, nous allons découvrir comment cela peut être amusant et passionnant. Êtes-vous prêts pour une aventure incroyable? Je suis tellement curieux de savoir comment vous gérez les transitions!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions, c'est comme passer d'un jeu à un autre. Par exemple, quand on doit ranger ses jouets pour manger. Au début, on peut ne pas en avoir envie, mais c'est une chance d'essayer quelque chose de nouveau. Et savez-vous quoi? Chaque fois qu'on réussit une transition, on devient un peu plus fort et plus courageux. N'est-ce pas formidable?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de la routine du matin. Se réveiller, se brosser les dents, et s'habiller, c'est une grande transition. Pour que cela soit plus facile, on peut faire une petite danse rigolote pendant qu'on s'habille. Cela rend la transition amusante! Et n'oubliez pas de sourire, car un sourire rend tout plus facile."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous savez quoi? Vous êtes tous de véritables héros des transitions! Chaque fois que vous terminez une activité et que vous passez à une autre, vous faites un excellent travail. Alors, la prochaine fois que vous devez faire un changement, souvenez-vous que vous êtes courageux et que vous pouvez le faire! Allez, on y croit!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Passons maintenant à parler des transitions à l'école. Parfois, il faut passer du jeu à l'apprentissage. Cela peut sembler difficile, mais pensez à toutes les choses merveilleuses que vous allez apprendre. Chaque nouvelle leçon est une aventure qui vous attend. Et vous savez quoi? Vos amis sont là pour vous accompagner dans ces transitions!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand on se sent un peu perdu pendant une transition, respirer profondément peut aider. Prenons trois grandes inspirations ensemble. Inspirez, expirez. Encore une fois, inspirez, expirez. Une dernière fois, inspirez, expirez. Vous voyez comme ça aide à se sentir plus calme et prêt pour la prochaine aventure?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail magnifique! Les transitions peuvent être comme un saut de liane en liane, chaque saut vous emmène plus loin dans votre aventure. Alors, la prochaine fois que vous devez faire un changement, rappelez-vous que vous avez la force d'un vrai Spider Fighter. Allez, continuez comme ça!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des transitions à la maison. Comme quand il est temps d'aller au lit. Changer de jeu pour se préparer à dormir peut être difficile, mais pensez à toutes les histoires merveilleuses que vous pouvez entendre avant de vous endormir. C'est comme entrer dans un monde de rêves plein de magie et de surprises."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, avez-vous une transition préférée? Peut-être le moment du goûter ou quand vous allez jouer dehors? Pensez à la dernière fois où vous avez fait une transition. Comment vous êtes-vous senti? Parlez-en avec vos amis ou votre famille pour découvrir leurs astuces magiques!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions peuvent aussi être amusantes, comme préparer un pique-nique. On passe de la cuisine au parc, et chaque étape est une nouvelle aventure. Préparer un sandwich peut devenir un jeu, en ajoutant les ingrédients les uns après les autres. Et enfin, savourer tout cela dans l'herbe verte, quel plaisir!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous, les transitions sont comme des petites aventures qui rendent chaque journée unique. Parfois, elles apportent des surprises, et d'autres fois, elles nous apprennent à être plus patients. Mais à chaque fois, elles nous aident à grandir un peu plus. C'est comme devenir un super-héros, un petit peu à la fois!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Continuez d'être courageux et d'accepter chaque transition avec le sourire. Vous avez tout ce qu'il faut pour briller dans chaque situation. Et n'oubliez pas, même les super-héros ont besoin de s'adapter aux changements. Vous êtes fantastiques!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons ensemble une petite transition. Imaginez que vous êtes un papillon prêt à s'envoler. Fermez les yeux et ressentez le vent sur vos ailes. Maintenant, ouvrez les yeux et regardez autour de vous. Vous êtes prêt à explorer de nouveaux horizons. N'est-ce pas incroyable comment une transition peut vous emmener loin?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, comment vous sentez-vous après toutes ces transitions? Avez-vous découvert quelque chose de nouveau sur vous-même? Parfois, les transitions nous aident à découvrir des talents cachés. Alors, qu'avez-vous appris aujourd'hui? Partagez vos pensées avec quelqu'un que vous aimez."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était une aventure incroyable de parler des transitions avec vous. Vous êtes tous de vrais Spider Fighters, prêts à affronter chaque changement avec courage. Merci d'avoir partagé ce moment avec moi. N'oubliez pas, chaque transition est une nouvelle aventure. À bientôt, mes petits héros!"
+    }
+  ],
+  "title": "Histoire de Transitions de Spider Fighter"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "tiko_nutrition_alimentation_saine_habitudes_alimentaires_aliments_sains_story",
+  "character": "Tiko",
+  "topic": "nutrition, alimentation saine, habitudes alimentaires, aliments sains",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis Tiko et aujourd'hui, nous allons faire un voyage incroyable sur la nutrition et les bonnes habitudes alimentaires. Êtes-vous prêts? Nous allons découvrir ensemble pourquoi manger des aliments sains est si important. Je suis tellement curieux de partager tout cela avec vous. Allons-y!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La nutrition, c'est comme donner de l'énergie à notre corps, un peu comme une voiture qui a besoin d'essence pour avancer. Quand nous mangeons des aliments sains, nous donnons à notre corps tout ce dont il a besoin pour grandir fort et en bonne santé. Imaginez que manger une pomme, c'est comme donner un super pouvoir à votre corps! Les fruits et légumes sont remplis de vitamines qui nous aident à rester en forme. C'est incroyable, n'est-ce pas?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des habitudes alimentaires. Avez-vous déjà entendu parler de manger équilibré? Cela signifie que nous devons manger un peu de tout, comme des fruits, des légumes, des protéines et des céréales. Cela aide notre corps à avoir tout ce qu'il lui faut. Par exemple, le matin, un bon petit déjeuner pourrait être des céréales avec des fruits et un verre de lait. C'est un excellent moyen de commencer la journée!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons quelque chose ensemble! La prochaine fois que vous mangez, regardez votre assiette et voyez combien de couleurs vous pouvez voir. Plus il y a de couleurs, mieux c'est! Les couleurs des aliments indiquent souvent les vitamines et les minéraux qu'ils contiennent. Alors, la prochaine fois, essayez de créer une assiette arc-en-ciel. Vous pouvez le faire, je crois en vous!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé des vitamines? Eh bien, chaque vitamine a un rôle spécial. Par exemple, la vitamine C, que l'on trouve dans les oranges, aide à combattre les rhumes. C'est comme un petit bouclier magique pour notre corps. Les carottes, elles, contiennent de la vitamine A, qui est excellente pour nos yeux. Manger sainement, c'est comme avoir une équipe de super-héros dans notre corps!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des protéines. Les protéines sont comme les briques de notre corps. Elles aident à construire et réparer nos muscles. Vous pouvez trouver des protéines dans des aliments comme le poulet, les œufs, et même certains légumes comme les haricots. C'est important de manger des protéines chaque jour pour rester fort et actif!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà essayé de goûter un nouvel aliment? Parfois, ça peut sembler un peu effrayant, mais c'est aussi une aventure! Quels sont les aliments que vous aimeriez essayer? Peut-être quelque chose de rouge comme une tomate ou quelque chose de vert comme un brocoli? Découvrir de nouveaux goûts est toujours amusant!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Vous vous souvenez de la dernière fois que vous avez essayé quelque chose de nouveau? Comment cela s'est-il passé? Parfois, nous devons essayer plusieurs fois avant d'aimer un nouvel aliment. C'est normal, et c'est bien de continuer à essayer. Chaque nouvelle bouchée est une chance de découvrir quelque chose de délicieux!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons de l'eau maintenant. L'eau est très importante pour notre corps, un peu comme un jardin a besoin d'eau pour que les plantes poussent. Boire de l'eau nous aide à rester hydraté et énergique. C'est une bonne idée de boire de l'eau tout au long de la journée, surtout quand on joue beaucoup ou quand il fait chaud dehors."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, faisons un petit exercice ensemble! Prenons une grande inspiration et expirons doucement. Répétons cela trois fois. Cela aide notre corps à se détendre et à mieux digérer les aliments que nous avons mangés. Se sentir calme et détendu est aussi une partie de la bonne santé."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail formidable en apprenant sur la nutrition! N'oubliez pas que manger sainement est une aventure que nous pouvons faire chaque jour. Chaque repas est une chance de choisir des aliments qui nous aident à grandir et à rester forts. Continuez à explorer et à découvrir de nouveaux aliments!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Saviez-vous que cuisiner avec votre famille peut être très amusant? C'est une belle occasion d'apprendre d'où viennent les aliments et comment ils sont préparés. Peut-être que vous pouvez aider à laver les légumes ou à mélanger des ingrédients. C'est un excellent moyen de passer du temps ensemble tout en apprenant."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Quel est votre repas préféré à préparer avec votre famille? Peut-être une délicieuse salade ou un plat de pâtes coloré? Cuisiner ensemble peut être aussi amusant que de jouer à un jeu. Et à la fin, vous avez un repas délicieux à déguster ensemble!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous des aliments que vous aimez particulièrement? Peut-être des fruits sucrés ou des légumes croquants? Quels sont vos goûts préférés? Découvrir ce que vous aimez peut vous aider à faire de bons choix pour votre santé."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était tellement amusant de parler de nutrition avec vous! N'oubliez pas que chaque jour est une nouvelle aventure pour essayer de nouveaux aliments et apprendre de nouvelles choses. Prenez soin de votre corps, il est très spécial. Merci d'avoir passé ce moment avec moi et à bientôt pour une nouvelle aventure. Au revoir mes petits amis!"
+    }
+  ],
+  "title": "Histoire de Nutrition de Tiko"
+}

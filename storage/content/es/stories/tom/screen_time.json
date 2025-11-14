@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_tiempo_de_pantalla_seguridad_digital_uso_de_tecnologia_habitos_saludables_de_pantalla_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "tiempo de pantalla, seguridad digital, uso de tecnología, hábitos saludables de pantalla",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy el Gato Travieso Tom. Hoy vamos a embarcarnos en una aventura increíble sobre el tiempo de pantalla, la seguridad digital y los hábitos saludables al usar la tecnología. ¿Estás listo para explorar conmigo? Estoy tan curioso por saber cómo usas la tecnología en tu día a día. ¡Será divertido aprender juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos sobre el tiempo de pantalla. ¿Sabías que es importante no pasar demasiado tiempo frente a las pantallas? Cuando jugamos demasiado con tabletas o teléfonos, podríamos perder tiempo para otras actividades divertidas como jugar al aire libre o leer un libro. Al limitar nuestro tiempo de pantalla, podemos asegurarnos de tener un día equilibrado. ¿Te gusta jugar al aire libre? ¡A mí me encanta perseguir mariposas!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Recuerda que es bueno tener un horario para usar las pantallas. Podemos establecer un tiempo específico para ver dibujos animados o jugar videojuegos. Esto nos ayuda a no perder la noción del tiempo y asegurarnos de que también jugamos y aprendemos de otras formas. ¿Podrías pensar en un horario que funcione para ti? ¡Inténtalo y verás cómo mejora tu día!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Ahora que hablamos del tiempo de pantalla, pasemos a la seguridad digital. Es muy importante estar seguros cuando usamos internet. Nunca compartas información personal como tu nombre completo o dirección. ¿Sabes por qué? Porque queremos mantenernos seguros y proteger nuestra privacidad. ¡Tú puedes hacerlo, campeón!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Cuando navegamos por internet, también deberíamos asegurarnos de visitar sitios web adecuados para niños. Hay muchos lugares divertidos y seguros donde podemos aprender y jugar. ¿Conoces algunos sitios donde te gusta aprender cosas nuevas? Siempre es bueno preguntar a un adulto si no estamos seguros sobre un sitio web. ¡Así nos mantenemos seguros y felices!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, pensemos en cómo usamos la tecnología. La tecnología puede ser una gran herramienta para aprender cosas nuevas. Podemos ver videos educativos, escuchar cuentos o incluso aprender a dibujar. Pero, como todo, es importante usarla con moderación. ¿Alguna vez has usado una aplicación para aprender a dibujar o contar historias? ¡Es tan divertido!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Usar la tecnología de manera creativa puede ser muy emocionante. Pero también debemos recordar movernos y jugar sin pantallas. ¿Has intentado hacer una carrera de obstáculos en tu sala de estar? ¡Es una forma estupenda de divertirse y mantenerse activo! Sigue así, ¡estás haciendo un trabajo increíble!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme cuál es tu juego favorito sin pantallas? Me encantaría escucharlo. ¿Quizás es jugar a las escondidas o hacer un fuerte con mantas? Hay tantas opciones geniales. Cuéntame, ¿qué te gusta hacer? ¡Estoy muy curioso!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¡Gracias por compartir! Ahora, hablemos de hábitos saludables de pantalla. Es importante tomar descansos mientras usamos dispositivos. Por ejemplo, después de 20 minutos de ver la pantalla, podríamos tomar un descanso de 5 minutos. Esto ayuda a descansar nuestros ojos y mantener nuestra energía. ¿Te gustaría intentar esto la próxima vez que uses un dispositivo?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Al tomar descansos, podemos hacer cosas divertidas como estirarnos o dar un paseo corto. Incluso podemos contar hasta 10 mientras respiramos profundamente para relajarnos. ¿Quieres intentarlo conmigo ahora? Inhalemos juntos, uno, dos, tres... ¡Eso es! ¡Ahora exhalemos! ¡Qué bien se siente!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo hiciste increíble! Practicar estos hábitos saludables nos hará sentir mejor y más felices. Recuerda que cada pequeño paso que tomamos cuenta mucho. ¡Tú puedes hacerlo! Estoy muy orgulloso de ti por aprender conmigo hoy. ¡Eres un campeón!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hablamos de tantas cosas importantes, ¿qué tal si hacemos un pequeño resumen? Aprendimos sobre el tiempo de pantalla, la seguridad digital, y cómo usar la tecnología de manera saludable. También hablamos de tomar descansos y hacer actividades sin pantallas. ¿No fue divertido aprender todo eso juntos?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Recuerda siempre preguntar a un adulto si tienes dudas sobre algo en internet. Ellos están allí para ayudarte y asegurarse de que estés seguro. ¿Tienes alguna pregunta sobre lo que aprendimos hoy? ¡Estaré encantado de ayudarte!"
+    },
+    {
+      "id": "scene_13",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "¡Estoy escuchando! Me encanta saber lo que piensas y sientes sobre nuestra aventura de hoy. ¿Hay algo más que te gustaría aprender sobre la tecnología? Estoy aquí para ayudarte a descubrirlo. ¡Tu curiosidad es maravillosa!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "¡Gracias por acompañarme en esta aventura sobre el tiempo de pantalla y hábitos saludables! Espero que te hayas divertido tanto como yo. Recuerda usar la tecnología de manera segura y saludable. Nos veremos pronto para más aventuras emocionantes. ¡Adiós, amigo! ¡Cuídate mucho!"
+    }
+  ],
+  "title": "Historia de Screen Time de Sneaky Cat Tom"
+}

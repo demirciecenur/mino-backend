@@ -1,0 +1,104 @@
+{
+  "id": "spark_buddy_friendship_story",
+  "character": "Spark Buddy",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola pequeños amigos! Soy Spark Buddy, y hoy vamos a explorar algo mágico: la amistad. ¿Están listos para una aventura llena de diversión y aprendizaje? La amistad es como un rayo de sol que ilumina nuestros días. Estoy muy emocionado de compartir este viaje con ustedes. ¡Vamos a descubrir cómo podemos ser grandes amigos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en qué es un amigo. Un amigo es alguien con quien compartimos momentos felices y también nos apoya cuando estamos tristes. Imaginen a alguien con quien les gusta jugar en el parque o compartir un delicioso helado. Los amigos nos hacen sentir especiales y queridos. ¿No es maravilloso tener personas así en nuestras vidas?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para ser un buen amigo, es importante escuchar y compartir. Escuchar significa prestar atención cuando alguien nos habla, como cuando mamá nos cuenta un cuento. Compartir es ofrecer lo que tenemos, como nuestras galletas favoritas. Practiquemos juntos: cuando alguien habla, miramos a sus ojos y sonreímos. ¡Eso muestra que nos importa lo que dicen!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo están haciendo genial! Ahora, pensemos en cómo podemos jugar juntos. Jugar es una forma maravillosa de hacer nuevos amigos. Podemos jugar a la pelota, construir castillos de arena o inventar historias emocionantes. Cada juego es una oportunidad para reír y aprender a trabajar en equipo. ¿Les gustaría intentar jugar con alguien nuevo hoy?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden que todos somos diferentes, y eso es lo que hace que la amistad sea tan especial. Algunos amigos pueden ser tímidos, mientras que otros son muy ruidosos. Está bien ser diferente, porque eso nos enseña a ser comprensivos y amables. Cuando aceptamos a los demás como son, creamos un mundo más feliz para todos. ¿No es eso maravilloso?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de cómo resolver problemas con amigos. A veces, podemos no estar de acuerdo, y eso está bien. Lo importante es hablar con calma y buscar una solución juntos. Por ejemplo, si quieren jugar con el mismo juguete, pueden turnarse y compartirlo. Así, todos pueden disfrutar y aprender a ser justos. ¡Intentémoslo juntos!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdan cuando hablamos de compartir? Es una habilidad estupenda para resolver problemas. Cuando compartimos, mostramos que nos importa la felicidad de los demás. También podemos pedir disculpas si hemos hecho algo mal. Decir 'lo siento' puede hacer que un amigo se sienta mejor y fortalecer nuestra amistad. ¿Han dicho 'lo siento' alguna vez?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo están haciendo! La amistad también es sobre celebrar los logros de los demás. Cuando un amigo hace algo increíble, como dibujar un bonito dibujo, podemos aplaudir y decir '¡bien hecho!'. Esto hace que nuestros amigos se sientan felices y orgullosos. ¡Vamos a practicarlo ahora! Piensen en algo que hicieron bien hoy y celebremos juntos."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Les gustaría contarme sobre un amigo especial que tienen? ¿Qué les gusta hacer juntos? Tal vez les gusta inventar juegos nuevos o construir castillos con bloques. Cada amigo es único y nos enseña algo nuevo. ¿Qué es lo que más les gusta de su amigo especial? Me encantaría escuchar sus historias."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos hablado de lo que hace a un buen amigo, pensemos en cómo podemos hacer nuevos amigos. Puede ser tan sencillo como sonreír y decir 'hola'. También podemos invitar a alguien a jugar con nosotros. Ser amable y abierto nos ayuda a conocer a personas nuevas y hacer amigos por todas partes. ¡Intentémoslo juntos la próxima vez que vayamos al parque!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Practiquemos cómo podemos presentarnos a un nuevo amigo. Podemos decir: 'Hola, me llamo Spark Buddy. ¿Te gustaría jugar conmigo?'. Es fácil y divertido. Recuerden que un simple saludo puede ser el comienzo de una gran amistad. ¿Quieren intentarlo con sus peluches o muñecos en casa? ¡Será un buen ejercicio!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora, hablemos de cómo podemos cuidar de nuestros amigos. Preguntar cómo están o ayudarles cuando lo necesitan son formas de mostrar que nos importan. Si un amigo está triste, podemos ofrecerle un abrazo o decirle algo bonito. Ser un buen amigo es estar allí en los buenos y malos momentos. ¡Ustedes pueden hacerlo!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Recuerden que la amistad es como una planta que necesita cuidado para crecer. Necesitamos regarla con cariño y atención. Podemos hacerlo pasando tiempo juntos y escuchándonos. Cuando cuidamos de nuestras amistades, se vuelven fuertes y duraderas. ¿No creen que es maravilloso ver cómo crecen las amistades con amor y cuidado?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Qué les parece si pensamos en algo divertido que podemos hacer con nuestros amigos? Tal vez una fiesta de disfraces o un picnic en el jardín. Las actividades divertidas fortalecen nuestros lazos y crean recuerdos felices. ¿Tienen alguna idea de una actividad divertida que les gustaría probar con sus amigos? ¡Me encantaría saberlo!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido increíble aprender sobre la amistad con ustedes. Espero que hayan disfrutado este viaje tanto como yo. Recuerden que ser un buen amigo es algo especial y que cada uno de ustedes tiene el poder de hacer amigos maravillosos. Gracias por acompañarme hoy. ¡Hasta la próxima, pequeños amigos! ¡Nos vemos pronto!"
+    }
+  ],
+  "title": "Historia de Friendship de Spark Buddy"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "super_metal_hero_friendship_story",
+  "character": "Super Metal Hero",
+  "topic": "friendship",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Super Metal Hero, your friendly technological buddy. Today, we're going on an amazing journey about friendship. Are you ready to discover the power of making friends? Making friends is like building a strong robot suit, piece by piece. I'm so excited to learn and play with you today. Let's get started on this fantastic adventure together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Friendship is a wonderful thing that makes our hearts feel warm and happy. Just like when my suit's energy core glows bright, friends light up our lives. Friends are people we enjoy spending time with, like playing games or sharing toys. Do you have a friend you like playing with? Remember, a friend can be anyone who makes you smile and feel good inside."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about how to make a new friend. First, you can start by saying hello with a big smile. Just like when I wave my metal hand, a smile shows you're friendly. Then, you can ask if they want to play with you. It's like inviting someone to join a fun mission. Remember to listen when they speak, just like I listen to my super computer. This shows you care about what they say."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about making friends! Now, let's pretend we're on a mission to find a new friend. Imagine we're at the playground, and there's a kid playing alone. Would you like to try saying, 'Hi, can I play with you?' I know you can do it! It's like turning on your superpower of friendship. Let's practice together, and you'll see how easy it can be."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about saying hello? It's a simple step, but it's very powerful. Saying hello opens the door to new adventures and fun. When you say hello, you might find out that the other person loves the same games you do. Maybe they also like building with blocks or playing tag. Imagine all the fun you can have together!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn about sharing, an important part of friendship. Sharing is like letting someone borrow your favorite toy. It shows you care and want to make them happy. When we share, everyone gets a turn, and the fun multiplies. Just like when I share my gadgets with my superhero friends, you can share your toys and games. Sharing helps us build trust and stronger friendships."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're learning so much about friendship. Now, let's imagine we're playing with blocks. You have a tall tower, and your friend wants to help. Would you share some blocks with them? Sharing makes the tower even taller and more colorful. It's like teamwork in action. You can do it, and your friend will be so happy you shared with them."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, let's think about something fun. What's your favorite game to play with friends? Is it tag, hide and seek, or maybe a board game? Each game is like a mini adventure we go on together. Why do you think playing with friends is fun? I'm curious to hear your thoughts, little hero."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Playing with friends helps us learn and grow, just like a superhero getting stronger. When we play, we learn to take turns and follow rules. It's important to listen to each other, like when I listen to my superhero team during a mission. Playing together makes us happy and helps us build strong friendships. It's like charging up our energy for the day!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice something fun. How about we count to five together before starting a game? Ready? One, two, three, four, five! Counting helps us get ready and excited for the game. It also gives everyone a moment to join in. Just like when I count down before flying, it makes sure everyone is ready for fun."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You did a great job counting! Now, let's talk about being kind. Being kind is like giving a friend a big hug with words. You can say nice things like 'good job' or 'you're a great friend.' Kind words make everyone feel special and happy. It's like spreading sunshine wherever you go. Keep being kind, and you'll have lots of friends."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about sharing and kindness? These are the building blocks of friendship. Just like my suit has different parts working together, friendship is made of many wonderful moments. Helping a friend is another way to show you care. If a friend falls, you can help them up, just like I help my superhero friends. It's these little actions that make friendships strong."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Let's think about how you can be a superhero friend. Maybe you can draw a picture for a friend or share your crayons. What other ways can you think of to show kindness? Every small action counts, and I'm sure you have great ideas. Being a superhero friend makes the world a better place, one smile at a time."
+    },
+    {
+      "id": "scene_13",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Now, let's listen closely. Can you hear the sound of friendship? It's the sound of laughter and joy when friends play together. It's the giggles and whispers shared during a game. Listening is an important part of being a good friend. It helps us understand each other better and have more fun together."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "We've had such a great time learning about friendship today! Remember, being a friend is like being a superhero. You have the power to make someone smile and feel happy. I'm so proud of you for learning about friendship with me. Keep being a wonderful friend, and you'll always have amazing adventures. Goodbye for now, little hero, and see you next time!"
+    }
+  ],
+  "title": "Super Metal Hero's Friendship Story"
+}

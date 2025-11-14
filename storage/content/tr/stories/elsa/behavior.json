@@ -1,0 +1,104 @@
+{
+  "id": "elisa_the_ice_fairy_behavior_story",
+  "character": "Elisa the Ice Fairy",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Elisa the Ice Fairy. Bugün birlikte davranışlar hakkında harika bir yolculuğa çıkacağız. İyi davranışların ne kadar önemli olduğunu biliyor musun? Eğer kurallara uyarsak, hem kendimizi hem de çevremizdekileri mutlu edebiliriz. Hazır mısın? Seni çok merak ediyorum."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda iyi davranışların öneminden bahsettik. İyi davranışlar, arkadaşlarımızla ve ailemizle olan ilişkilerimizi güçlendirir. Örneğin, oyuncaklarımızı toplamak veya dişlerimizi fırçalamak gibi basit görevler bile önemlidir. Bunlar sayesinde hem kendimize hem de etrafımızdakilere saygı göstermiş oluruz. Şimdi, iyi davranışların günlük hayatımızı nasıl güzelleştirdiğine dair daha fazla örnek verelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "İyi davranışları öğrenmek için bazı basit kurallara dikkat edebiliriz. Örneğin, yemek yerken ağzımız kapalı çiğnemek önemlidir. Bu hem nezaket gösterir hem de çevremizdekileri rahatsız etmez. Ayrıca, bir şey isterken lütfen demek ve teşekkür etmek de güzel davranışlardır. Bu tür küçük ama önemli kurallar, bizi daha iyi bir arkadaş yapar. Şimdi birlikte bu kuralları hatırlayalım."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, öğrendiklerimizi uygulamada kullanmaya ne dersin? Örneğin, oyuncaklarını toplarken veya bir arkadaşına yardım ederken bu iyi davranışları gösterebilirsin. Böylece hem kendinle hem de çevrendekilerle gurur duyabilirsin. Harika! Sen bunu yapabilirsin! İyi davranışlar, herkesi mutlu eder."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki adımda iyi davranışların günlük hayatımızda nasıl önemli olduğunu gördük. Şimdi, bu davranışların bizi nasıl daha mutlu ettiğini düşünelim. İyi davranışlar, bize ve çevremize mutluluk getirir. Ayrıca, başkalarına örnek oluruz ve onlar da bizim gibi davranmak isterler. Bu şekilde, herkes daha mutlu ve huzurlu olur."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "İyi davranışlar sergilemek, bazen zor olabilir ama unutma ki pratik yapmak her zaman işe yarar. Mesela, birisiyle konuşurken gözlerine bakmak ve onu dikkatle dinlemek çok önemlidir. Bu, karşımızdakine değer verdiğimizi gösterir. Ayrıca, sıraya girmek ve başkalarının hakkına saygı göstermek de önemlidir. Hadi, bu davranışları birlikte deneyelim."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, seninle bir oyun oynayalım. Haydi birlikte 3 derin nefes alalım ve ardından 5'e kadar sayalım. Bu, sakinleşmemize ve iyi davranışlara odaklanmamıza yardımcı olur. Harika! Sen bunu başardın! Bu tür basit egzersizler, her zaman iyi hissetmemize ve etrafımızdakilere daha iyi davranmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki etkinliğimizde birlikte nefes alarak rahatladık. Şimdi, iyi davranışların uzun vadede bize nasıl fayda sağladığını düşünelim. İyi davranışlar, arkadaşlarımızla ve ailemizle olan ilişkilerimizi güçlendirir. Ayrıca, okulda ve oyun alanında daha iyi bir ortam yaratır. Bu yüzden, her zaman iyi davranışlar sergilemeye çalışmalıyız."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sen de iyi davranışlar sergilediğin bir anı hatırlıyor musun? Mesela, bir arkadaşına yardım ettiğin ya da sıranı beklediğin bir an olabilir mi? Bu tür anlar, bizi ve çevremizdekileri mutlu eder. Senin hikayeni duymayı çok isterim! Hadi, bana anlatmak ister misin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Harika bir hikaye paylaştın! İşte bu yüzden iyi davranışlar çok önemlidir. Her zaman böyle güzel davranışlar sergilemeye devam etmelisin. Bu, seni özel ve değerli kılar. Şimdi, birlikte başka hangi iyi davranışları sergileyebileceğimize bakalım."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "İyi davranışları hatırlamak için kendimize küçük hatırlatmalar yapabiliriz. Mesela, odana bir not asarak ya da bir resim çizerek bunu yapabilirsin. Her gün bu hatırlatmaları görmek, sana iyi davranışları hatırlatır. Bu harika bir fikir, değil mi? Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda hatırlatmaların öneminden bahsettik. Şimdi, bu iyi davranışların bizi nasıl daha iyi bir insan yaptığını düşünelim. İyi davranışlar, başkalarına gösterdiğimiz sevgi ve saygının bir yansımasıdır. Bu yüzden, her gün bunları uygulamak bizi daha iyi bir insan yapar. Hadi, bu güzel davranışları hayatımıza nasıl katabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "İyi davranışları günlük rutinlerimize eklemek için bazı basit adımlar atabiliriz. Mesela, sabahları uyanınca gülümsemek ve sevdiklerimize günaydın demek güzel bir başlangıçtır. Gün boyunca nazik sözler söylemek ve yardımsever olmak da önemlidir. Bu basit adımlar, günümüzü ve çevremizdekilerin gününü aydınlatır. Şimdi, bu adımları nasıl uygulayabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "İyi davranışlar sergilediğinizde, kendinizi nasıl hissettiğinizi düşünün. Mutlu ve gururlu hissettiğiniz anları hatırlayın. Bu duygular, iyi davranışların ne kadar güçlü olduğunu gösterir. Sen bunu yapabilirsin ve her gün daha iyi olabilirsin. Bu harika bir şey, değil mi?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık ve iyi davranışların ne kadar önemli olduğunu öğrendik. Unutma, her zaman nazik ve saygılı olmak bizi daha iyi bir insan yapar. Seninle bu konuyu paylaşmak çok güzeldi. Şimdi, öğrendiklerini hayatına katmayı unutma. Hoşça kal! Bir sonraki görüşmemize kadar kendine iyi bak!"
+    }
+  ],
+  "title": "Elisa The Ice Fairy'ın Behavior Hikayesi"
+}

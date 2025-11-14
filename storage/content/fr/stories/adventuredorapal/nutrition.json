@@ -1,0 +1,98 @@
+{
+  "id": "adventure_dora_pal_nutrition_story",
+  "character": "Adventure Dora Pal",
+  "topic": "nutrition, alimentation saine, habitudes alimentaires, aliments sains",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Adventure Dora Pal. Aujourd'hui, nous allons partir dans une aventure incroyable sur la nutrition et l'alimentation saine. Êtes-vous prêts à explorer avec moi? C'est passionnant de découvrir comment les aliments peuvent nous aider à grandir forts et en bonne santé. Allons-y ensemble!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La nutrition, c'est un peu comme donner du carburant à notre corps. Quand on mange des aliments sains, notre corps devient fort et plein d'énergie. Imaginez que votre corps est comme une voiture. Si vous lui donnez le bon carburant, elle roule vite et longtemps. Les fruits et les légumes sont comme du super carburant pour nous. C'est pourquoi il est important d'en manger tous les jours!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des fruits! Les fruits sont colorés et pleins de vitamines. Les pommes, les bananes et les fraises sont quelques exemples délicieux. Saviez-vous que les vitamines aident notre corps à rester en bonne santé et à se défendre contre les maladies? Alors, la prochaine fois que vous voyez un fruit, souvenez-vous de sa superpuissance!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons ensemble de nommer quelques fruits! Pouvez-vous en citer trois que vous aimez? Super! Chaque fruit a une saveur unique et peut être mangé de différentes façons. Vous pouvez les manger crus, en jus ou même en salade. C'est amusant d'essayer de nouvelles façons de les déguster!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Passons maintenant aux légumes! Comme les fruits, ils sont aussi très importants pour notre santé. Les carottes, les brocolis et les épinards sont quelques-uns des légumes que vous pouvez essayer. Ils contiennent des vitamines et des minéraux qui aident nos muscles et nos os à être forts. En manger souvent peut nous aider à courir et à jouer plus longtemps!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Saviez-vous que boire de l'eau est aussi essentiel que manger des fruits et des légumes? L'eau nous aide à rester hydratés, ce qui est crucial pour que notre corps fonctionne bien. Pensez à boire de l'eau après avoir joué ou quand vous avez soif. C'est comme arroser une plante pour qu'elle pousse en bonne santé!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons de boire un verre d'eau ensemble! Prendre l'habitude de boire de l'eau chaque jour est une excellente chose. Vous verrez, ça vous donnera plus d'énergie pour jouer et apprendre. Bravo à vous de prendre soin de votre corps!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des habitudes alimentaires. Manger à des heures régulières aide notre corps à savoir quand il doit travailler et se reposer. Le petit déjeuner, le déjeuner et le dîner sont les repas principaux de la journée. Pensez à chaque repas comme à un moment de recharger votre énergie pour toutes les aventures à venir!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Saviez-vous que cuisiner avec votre famille peut être amusant? Vous pouvez aider à laver les légumes ou à mélanger les ingrédients. Cuisiner ensemble est une excellente façon d'apprendre et de passer du temps en famille. Ça rend les repas encore plus délicieux!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "La prochaine fois que vous êtes dans la cuisine, regardez autour de vous. Quels aliments sains pouvez-vous trouver? Peut-être du lait, des céréales ou des œufs. C'est super de reconnaître les aliments qui sont bons pour nous!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant des collations. Les collations peuvent être saines aussi! Des noix, des fruits secs ou un yaourt sont de bonnes options. Elles nous aident à rester pleins d'énergie entre les repas. Rappelez-vous, une collation saine est une petite portion qui complète nos repas."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est votre aliment préféré? Est-ce un fruit ou un légume? Peut-être que c'est quelque chose que vous aimez manger au petit déjeuner. Partager vos préférences alimentaires peut être amusant et vous pouvez même découvrir de nouvelles choses à essayer!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous, chaque jour est une nouvelle opportunité d'essayer quelque chose de sain et de délicieux. Peut-être que demain, vous voudrez essayer un nouveau fruit ou un légume que vous n'avez jamais goûté. C'est toujours une aventure de découvrir de nouvelles saveurs!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir exploré la nutrition et l'alimentation saine avec moi aujourd'hui! J'espère que vous avez appris beaucoup de choses amusantes et intéressantes. N'oubliez pas de manger équilibré et de boire beaucoup d'eau. À la prochaine fois pour une nouvelle aventure ensemble. Au revoir, mes amis!"
+    }
+  ],
+  "title": "Histoire de Nutrition de Adventure Dora Pal"
+}

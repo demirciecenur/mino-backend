@@ -1,0 +1,98 @@
+{
+  "id": "mystery_pup_buddy_friendship_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis! Je suis Mystery Pup Buddy, et aujourd'hui, nous allons explorer le monde merveilleux de l'amitié. L'amitié, c'est comme une aventure pleine de rires et de découvertes. Êtes-vous prêts à devenir des experts en amitié? Je suis tellement curieux de savoir comment vous faites des amis. Allons-y ensemble dans cette incroyable aventure!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est quelque chose de magique, vous savez? C'est comme avoir un copain spécial qui est toujours là pour jouer et rire avec vous. Parfois, cela signifie partager ses jouets ou raconter des histoires amusantes. Avez-vous un ami spécial avec qui vous aimez jouer? L'amitié rend chaque journée plus joyeuse et pleine de surprises!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour être un bon ami, il est important d'écouter et de partager. Quand votre ami vous parle, écoutez-le attentivement. Cela montre que vous vous souciez de ce qu'il dit. Vous pouvez aussi partager vos jouets ou vos idées. En faisant cela, vous montrez que vous êtes un ami généreux et attentionné. N'est-ce pas génial?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, essayons ensemble! Imaginez que vous avez un nouveau jouet. Que pouvez-vous faire pour montrer à votre ami que vous voulez partager? Peut-être pouvez-vous dire, 'Veux-tu jouer avec moi?' C'est une façon merveilleuse de montrer que vous êtes un super ami. Vous pouvez le faire, j'en suis sûr!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vous savez, parfois les amis peuvent être différents de nous, et c'est ce qui est super! Peut-être que votre ami aime les dinosaures, alors que vous préférez les voitures. Mais ensemble, vous pouvez découvrir de nouvelles choses. C'est amusant de voir comment nos différences rendent l'amitié encore plus intéressante. N'est-ce pas excitant de découvrir cela ensemble?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons des compétences sociales, un élément essentiel de l'amitié. Cela signifie utiliser des mots gentils et être poli. Par exemple, dire 's'il te plaît' et 'merci' montre que vous êtes respectueux. Ces petits mots ont un grand pouvoir et peuvent rendre quelqu'un très heureux. Essayons de les utiliser plus souvent, d'accord?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Allons faire un petit exercice ensemble! Prenons trois grandes respirations pour nous calmer et réfléchir à nos amis. Inspirez profondément, et expirez lentement. Pensez à un moment où vous avez été un bon ami, et comment cela vous a fait sentir. Vous voyez, cela fait du bien d'être gentil et attentionné!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vous savez, jouer ensemble est une façon fantastique de renforcer l'amitié. Que ce soit en jouant à cache-cache ou en construisant avec des blocs, chaque jeu est une opportunité de rire et de s'amuser. Avez-vous un jeu préféré que vous aimez jouer avec vos amis? Partager ces moments rend l'amitié encore plus précieuse."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà aidé un ami qui avait besoin de vous? Peut-être qu'il était triste ou avait besoin d'un coup de main. Comment cela vous a-t-il fait sentir d'être là pour lui? L'aide que nous apportons à nos amis montre à quel point nous tenons à eux. Pensez-vous que vous pourriez être un ami encore plus attentionné?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Souvenez-vous, l'amitié, c'est aussi pardonner. Parfois, nous faisons des erreurs, et c'est normal. Si un ami fait une erreur, être capable de pardonner montre combien vous tenez à lui. Cela rend votre lien encore plus fort. N'oubliez pas que tout le monde peut faire des erreurs, et c'est important d'apprendre à passer outre."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de la joie de faire de nouveaux amis. C'est comme ouvrir un cadeau plein de nouvelles aventures. Chaque nouvel ami apporte de nouvelles histoires et jeux. Avez-vous déjà rencontré quelqu'un de nouveau à l'école ou au parc? C'est excitant, n'est-ce pas? Faire de nouveaux amis rend chaque journée différente et intéressante."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour faire de nouveaux amis, soyez vous-même! Montrez votre sourire et dites 'bonjour'. Cela peut être le début d'une belle amitié. N'oubliez pas d'écouter et de partager, comme nous l'avons appris. Être un bon ami, c'est aussi être vrai et honnête. Essayez de rencontrer quelqu'un de nouveau aujourd'hui!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail fantastique en apprenant à être un bon ami! Chaque petit geste compte, comme un sourire ou un mot gentil. Pensez à tout ce que vous avez appris aujourd'hui. Vous êtes sur la bonne voie pour devenir un expert en amitié. Continuez comme ça, et vous verrez, vous aurez plein d'amis!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, mes amis! Je suis tellement fier de vous et de tout ce que vous avez appris sur l'amitié. N'oubliez pas que vous êtes tous des amis incroyables. J'ai hâte de vous revoir pour d'autres aventures. À bientôt, et rappelez-vous toujours que l'amitié est un trésor précieux!"
+    }
+  ],
+  "title": "Histoire de Friendship de Mystery Pup Buddy"
+}

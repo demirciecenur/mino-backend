@@ -1,0 +1,98 @@
+{
+  "id": "mino_bedtime_story",
+  "character": "Mino",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Mino, tu aventurero del espacio favorito. Hoy vamos a embarcarnos en una emocionante aventura sobre la hora de dormir. ¡Qué emocionante, verdad! Dormir bien es muy importante para que tengas energía para jugar y aprender al día siguiente. ¿Estás listo para descubrir cómo hacer que la hora de dormir sea mágica? ¡Comencemos este viaje juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos listos para nuestra aventura, hablemos de lo que hacemos antes de dormir. Es importante tener una rutina que nos ayude a relajarnos. Por ejemplo, podemos empezar por recoger nuestros juguetes. Esto no solo mantiene todo ordenado, sino que también nos ayuda a sentirnos más tranquilos. Luego, podemos ponernos el pijama, que es como nuestro uniforme para dormir. ¿Te gusta tu pijama? Es tan cómodo como una nube."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Después de ponernos el pijama, es momento de ir al baño a cepillarnos los dientes. Cepillarse los dientes es muy importante para mantener una sonrisa brillante y saludable. Podemos contar hasta veinte mientras cepillamos cada lado de nuestros dientes. ¡Vamos a intentarlo juntos! Esto no solo es divertido, sino que también es una forma de asegurarnos de que nuestros dientes estén limpios. ¿No es genial cuidar de nuestra sonrisa?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora que nuestros dientes están limpios, es momento de escoger un libro para leer antes de dormir. Leer un cuento es una manera maravillosa de relajarnos y dejar volar nuestra imaginación. ¿Cuál es tu libro favorito? Puedes elegir uno con dibujos bonitos o con una historia que te haga sonreír. ¡Leer es como viajar a mundos mágicos justo antes de soñar!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Mientras leemos nuestro cuento, podemos acomodarnos en nuestra cama. Es importante que nuestra cama esté lista y acogedora. ¿Te gusta cómo se siente tu almohada? Puedes abrazarla fuerte como si fuera tu mejor amigo. Asegúrate de que tus cobijas te cubran bien para que no tengas frío. Sentirse abrigado y seguro es muy importante para dormir bien."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a hacer un pequeño ejercicio de relajación. Vamos a respirar profundamente tres veces. Inhalamos por la nariz y exhalamos por la boca. Esto nos ayuda a sentirnos tranquilos y listos para descansar. ¿Sientes cómo tu cuerpo se relaja? Es como si estuviéramos flotando en una nube suave. ¡Qué sensación tan agradable!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te sientes más relajado ahora? Es increíble cómo algo tan sencillo como respirar puede hacer una gran diferencia. ¿Te gustaría intentar contar estrellas en tu mente mientras te relajas? Imagina que cada estrella es un sueño bonito que te espera. ¿Cuántas estrellas puedes contar antes de quedarte dormido? ¡Es un juego divertido y relajante!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda, cuando estamos en la cama, es importante apagar las luces. Una luz tenue o una lámpara de noche puede ser reconfortante. Esto le dice a nuestro cuerpo que es hora de descansar. Además, una habitación oscura nos ayuda a dormir mejor. ¿Te gusta tener una luz suave que te acompañe? Es como tener una pequeña estrella en tu habitación."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que sabemos cómo prepararnos para dormir, pensemos en los sueños que queremos tener. Los sueños son como aventuras que podemos vivir mientras dormimos. ¿Te gustaría soñar que estás volando en una nave espacial? O tal vez, nadando con delfines en el océano. ¡Los sueños pueden ser cualquier cosa que imagines!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué maravillosa imaginación tienes! Recuerda que cada noche es una nueva oportunidad para descansar y soñar. Dormir bien nos hace sentir felices y llenos de energía para el día siguiente. ¡Puedes hacerlo! Cada noche, al seguir tu rutina, estás cuidando de ti mismo de una manera muy especial. ¡Eres un verdadero campeón del sueño!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Qué parte de la rutina de dormir te gusta más? Tal vez sea leer un cuento o respirar profundamente. Es importante que encuentres lo que más te relaja. ¿Hay algo que quieras intentar la próxima vez? Siempre podemos aprender nuevas maneras de hacer la hora de dormir aún más especial. ¡Estoy seguro de que harás un gran trabajo!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabes lo importante que es dormir bien, puedes compartir estos consejos con tus amigos. Tal vez ellos también quieran aprender cómo hacer que la hora de dormir sea mágica. Dormir bien es tan importante como jugar y aprender cada día. Puedes ser un experto en dormir y ayudar a otros a serlo también. ¡Qué gran aventura, verdad!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Antes de cerrar los ojos, podemos recordar las cosas bonitas que sucedieron hoy. Pensar en momentos felices nos ayuda a tener dulces sueños. ¿Recuerdas algo especial que pasó hoy? Tal vez jugaste con un amigo o aprendiste algo nuevo. Guardemos esos recuerdos en nuestra mente como un tesoro para soñar."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es hora de despedirnos, pequeño aventurero. Espero que hayas disfrutado de este viaje sobre la hora de dormir. Recuerda que cada noche es una nueva oportunidad para descansar y soñar. ¡Duerme bien y sueña con las estrellas! Nos veremos pronto para más aventuras. ¡Buenas noches y dulces sueños!"
+    }
+  ],
+  "title": "Historia de Bedtime de Mino"
+}

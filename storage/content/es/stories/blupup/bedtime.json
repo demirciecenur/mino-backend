@@ -1,0 +1,104 @@
+{
+  "id": "blu_pup_bedtime_story",
+  "character": "Blu Pup",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Blu Pup y hoy vamos a descubrir lo divertido que puede ser la hora de dormir. ¿Estás listo para un viaje mágico antes de ir a la cama? Estoy tan emocionado de acompañarte en esta aventura nocturna. Vamos a aprender cómo prepararnos para dormir y tener los sueños más dulces. ¡Va a ser increíble!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La hora de dormir es un momento especial para relajarnos y descansar. Después de un día lleno de juegos y risas, nuestro cuerpo necesita recargar energía. Es como cuando tu juguete favorito necesita nuevas pilas para seguir funcionando. Dormir bien nos ayuda a crecer fuertes y saludables. ¿No te parece maravilloso?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Antes de ir a la cama, es importante hacer algunas cosas que nos ayuden a relajarnos. Primero, podemos recoger nuestros juguetes, como cuando jugamos a guardar un tesoro en su cofre. Esto hace que nuestro espacio esté ordenado y listo para el descanso. Después, podemos ponernos el pijama, que es como nuestro traje especial de dormir. ¡Qué cómodo se siente!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ahora, vamos a cepillarnos los dientes. Es como darle un gran abrazo a nuestras sonrisas para que estén limpias y brillantes. Puedes contar hasta veinte mientras cepillas, ¡así te aseguras de no olvidar ningún diente! ¿Te gustaría intentarlo ahora? ¡Sé que lo harás genial!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Después de cepillarnos los dientes, podemos leer un cuento o escuchar una historia. Las historias nos llevan a mundos mágicos donde podemos conocer personajes increíbles. ¿Tienes un cuento favorito que te gusta escuchar antes de dormir? Leer nos ayuda a relajarnos y a soñar con aventuras maravillosas."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora es el momento de hacer unos ejercicios de respiración para relajarnos aún más. Vamos a inhalar profundamente como si estuviéramos oliendo una flor y luego exhalar suavemente como si estuviéramos apagando una vela. Vamos a hacerlo juntos tres veces. ¿Listo? Inhala... y exhala. ¡Qué bien se siente!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabías que dormir bien nos ayuda a tener sueños increíbles? ¿Alguna vez has tenido un sueño donde vuelas como un pájaro o nadas como un pez? Los sueños son como nuestras propias películas mágicas que podemos ver mientras dormimos. ¿Te gustaría contarme sobre uno de tus sueños favoritos?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos relajados, es hora de cerrar los ojos y dejar que la magia del sueño nos lleve. Imagina que estás en una nube suave que te lleva a un mundo de aventuras. Puedes ver estrellas brillantes y sentir la brisa suave en tu rostro. Dormir es como un gran abrazo que nos envuelve en tranquilidad."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Recuerda que siempre puedes contar con tus peluches favoritos para acompañarte en tus sueños. Son como tus compañeros de aventuras que siempre están ahí para protegerte. ¡Qué suerte tener amigos tan especiales! Estoy seguro de que juntos tendrán los sueños más dulces. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Si alguna vez te cuesta dormir, puedes intentar imaginar un lugar feliz. Puede ser una playa soleada, un bosque mágico o incluso un parque de diversiones. Este lugar especial te ayudará a sentirte seguro y tranquilo. Puedes pensar en todas las cosas divertidas que harías allí. ¡Es como un viaje mágico en tu mente!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabes todo sobre la hora de dormir, puedes compartir estos secretos con tu familia. Tal vez puedan tener una noche de cuentos juntos o inventar un juego antes de ir a la cama. La hora de dormir puede ser un momento divertido y especial para todos. ¡Qué emocionante compartirlo con quienes más quieres!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo has hecho hoy! Estoy muy orgulloso de ti por aprender a preparar la hora de dormir de manera tan divertida. Ahora sabes cómo relajarte y tener dulces sueños. Recuerda que siempre puedes volver a escuchar esta historia cuando quieras. ¡Eres increíble!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Te gustaría contarle a alguien lo que aprendiste hoy sobre la hora de dormir? Tal vez puedas ayudar a un amigo a relajarse y tener dulces sueños también. Compartir lo que sabes es una forma maravillosa de mostrar cuánto te importa. ¡Qué gran amigo eres!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Tienes alguna pregunta sobre la hora de dormir que te gustaría hacerme? Estoy aquí para ayudarte a entender todo lo que necesites. A veces, las preguntas nos ayudan a aprender cosas nuevas y emocionantes. ¡No dudes en preguntar!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ahora es momento de decir adiós, pero recuerda que siempre puedes volver a escucharme cuando quieras. Espero que tengas los sueños más dulces y que cada noche esté llena de magia. Gracias por compartir este tiempo conmigo. ¡Duerme bien y hasta la próxima, pequeño amigo!"
+    }
+  ],
+  "title": "Historia de Bedtime de Blu Pup"
+}

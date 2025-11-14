@@ -1,0 +1,98 @@
+{
+  "id": "super_metal_hero_friendship_story",
+  "character": "Super Metal Hero",
+  "topic": "friendship",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleine Freunde! Ich bin Super Metal Hero und heute gehen wir auf eine spannende Reise über Freundschaft. Freundschaft ist etwas ganz Besonderes, und ich freue mich darauf, es mit euch zu entdecken. Seid ihr bereit, etwas Neues zu lernen? Es wird viel Spaß machen und ihr werdet viele tolle Dinge erfahren! Los geht's!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft beginnt oft mit einem einfachen Hallo. Wenn du jemanden siehst, kannst du freundlich lächeln und Hallo sagen. Das ist der erste Schritt, um Freunde zu finden. Ein Lächeln zeigt, dass du freundlich bist und gerne neue Freunde kennenlernen möchtest. Probiert es mal aus, wenn ihr jemanden Neues trefft!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lasst uns darüber sprechen, wie man ein guter Freund sein kann. Ein guter Freund hilft anderen, wenn sie Hilfe brauchen. Zum Beispiel, wenn dein Freund etwas nicht erreichen kann, kannst du ihm helfen. Das zeigt, dass du ein guter Freund bist und dich um andere kümmerst. Helfen macht dich stark und freundlich!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lasst uns zusammen etwas Lustiges machen! Zählt mit mir bis fünf, um eure neuen Freundschaften zu feiern. Eins, zwei, drei, vier, fünf! Super gemacht! Zusammen zählen macht Spaß und zeigt, dass wir alle zusammen gehören. Ihr könnt das auch mit euren Freunden machen!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnert ihr euch, wie wir über das Helfen gesprochen haben? Jetzt könnt ihr auch lernen, wie man teilt. Teilen ist ein wichtiger Teil der Freundschaft. Wenn ihr ein Spielzeug habt, könnt ihr es mit einem Freund teilen. Das macht das Spielen noch lustiger und zeigt, dass ihr euch um andere kümmert."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns darüber sprechen, wie wichtig es ist, zuzuhören. Wenn ein Freund mit euch spricht, hört gut zu. Das zeigt, dass ihr respektvoll seid und eure Freunde wichtig sind. Ihr könnt auch Fragen stellen, um mehr zu erfahren. Zuzuhören hilft euch, eure Freunde besser zu verstehen."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt seid ihr dran! Versucht, heute jemandem zuzuhören und ihm Fragen zu stellen. Vielleicht könnt ihr etwas Neues über euren Freund erfahren. Das wird euch helfen, eine stärkere Freundschaft aufzubauen. Ihr schafft das, ich glaube an euch!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft bedeutet auch, zusammen zu spielen. Ob ihr ein Spiel spielt oder ein Abenteuer erlebt, zusammen macht es mehr Spaß. Ihr könnt neue Spiele erfinden oder eure Lieblingsspiele teilen. Spielen fördert eure Kreativität und stärkt eure Freundschaft."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Habt ihr ein Lieblingsspiel, das ihr gerne mit Freunden spielt? Vielleicht ist es ein Ballspiel oder ein Brettspiel. Teilt eure Lieblingsspiele mit euren Freunden und habt zusammen viel Spaß. So könnt ihr neue Dinge ausprobieren und eure Freundschaft stärken."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was glaubt ihr, was macht einen Freund besonders? Ist es, dass er nett ist oder dass er gerne teilt? Vielleicht ist es auch, dass er immer zuhört. Jeder Freund ist einzigartig und bringt etwas Besonderes in eure Freundschaft. Was macht eure Freunde für euch besonders?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft ist auch, wenn man zusammen lacht. Lachen macht glücklich und verbindet uns. Ihr könnt lustige Geschichten erzählen oder einfach albern sein. Gemeinsam lachen stärkt eure Bindung und sorgt für viele schöne Erinnerungen."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns darüber nachdenken, wie wir unsere Freunde trösten können, wenn sie traurig sind. Manchmal reicht es, einfach da zu sein und zuzuhören. Ihr könnt auch vorschlagen, etwas Lustiges zu machen, um sie aufzumuntern. Ein kleiner Trost kann eine große Wirkung haben."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ihr seid alle wunderbare Freunde! Denkt daran, dass Freundschaft Zeit und Pflege braucht. Seid geduldig und freundlich, und eure Freundschaften werden wachsen. Ihr könnt das, und eure Freunde werden es zu schätzen wissen. Weiter so, kleine Helden!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Das war eine tolle Reise über Freundschaft, nicht wahr? Ich hoffe, ihr habt viel gelernt und seid bereit, großartige Freunde zu sein. Vergesst nicht, zu lächeln, zu teilen und zuzuhören. Danke, dass ihr heute mit mir auf dieser Reise wart. Bis zum nächsten Mal, liebe Freunde!"
+    }
+  ],
+  "title": "Super Metal Heros Friendship Geschichte"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "luna_Bildschirmzeit_digitale_Sicherheit_Technologienutzung_gesunde_Bildschirmgewohnheiten_story",
+  "character": "Luna",
+  "topic": "Bildschirmzeit, digitale Sicherheit, Technologienutzung, gesunde Bildschirmgewohnheiten",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Luna, und heute begeben wir uns auf eine zauberhafte Reise. Wir werden über Bildschirmzeit und wie wir sie sicher und gesund nutzen können sprechen. Wusstest du, dass es viele spannende Dinge über Technologie zu entdecken gibt? Ich bin so neugierig, was du darüber denkst. Bist du bereit, mit mir gemeinsam in diese magische Welt einzutauchen?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns anfangen, über Bildschirmzeit zu sprechen. Bildschirmzeit bedeutet die Zeit, die wir vor Bildschirmen wie Fernsehern, Tablets oder Handys verbringen. Es ist wichtig, dass wir nicht zu viel Zeit vor Bildschirmen verbringen, damit wir unsere Augen schonen. Kennst du das Gefühl, wenn du lange auf einen Bildschirm schaust und deine Augen müde werden? Deshalb ist es gut, Pausen zu machen und unsere Augen auszuruhen."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt erkläre ich dir, wie wir gesunde Bildschirmgewohnheiten entwickeln können. Eine gute Idee ist es, feste Zeiten für die Nutzung von Bildschirmen zu haben. Zum Beispiel kannst du nach dem Spielen draußen oder nach dem Lesen eines Buches ein bisschen Zeit am Bildschirm verbringen. So haben wir eine Balance und können viele verschiedene Dinge erleben. Was denkst du, möchtest du das ausprobieren?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du machst das wunderbar! Lass uns zusammen zählen, wie viele Minuten wir heute ohne Bildschirm verbracht haben. Eins, zwei, drei – das sind schon drei Minuten, die wir mit anderen tollen Dingen gefüllt haben! Denk daran, dass es wichtig ist, auch ohne Bildschirme Spaß zu haben. Du kannst spielen, malen oder sogar tanzen. Alles, was dir Freude bereitet!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir mehr über Bildschirmzeit wissen, lass uns über digitale Sicherheit sprechen. Digitale Sicherheit bedeutet, dass wir darauf achten, welche Informationen wir online teilen. Es ist wichtig, keine persönlichen Daten wie deinen Namen oder deine Adresse zu teilen. Wenn du unsicher bist, frag immer einen Erwachsenen um Hilfe. So bleiben wir sicher und können das Internet unbesorgt nutzen."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ein weiterer wichtiger Punkt ist, dass wir nur Apps und Spiele nutzen, die für unser Alter geeignet sind. Du kannst einen Erwachsenen fragen, ob ein Spiel oder eine App sicher für dich ist. So stellst du sicher, dass du nur Inhalte siehst, die für dich gedacht sind. Es ist wie bei einem Abenteuer, bei dem du sicherstellen musst, dass du den richtigen Weg wählst. Gemeinsam finden wir die besten Apps für dich."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über das Teilen von Informationen gesprochen haben? Nun, es ist auch wichtig, freundlich zu sein, wenn wir online mit anderen sprechen. Worte können wie kleine Sterne sein, die anderen Freude bringen. Wenn wir freundlich und respektvoll sind, fühlen sich alle wohl. Und das Beste daran ist, dass Freundlichkeit immer zurückkommt, wie ein schöner Regenbogen nach dem Regen."
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du schon einmal darüber nachgedacht, welche tollen Dinge du ohne Bildschirme machen kannst? Vielleicht magst du ein Puzzle legen oder ein Bild malen. Diese Aktivitäten sind nicht nur lustig, sondern helfen dir auch, kreativ zu sein. Es ist wie ein Abenteuer, das du selbst gestalten kannst. Lass uns zusammen überlegen, welche Abenteuer du als nächstes erleben möchtest."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich fantastisch! Schau mal, wie viele schöne Dinge du schon ausprobiert hast. Denk daran, dass du immer die Wahl hast, wie du deine Zeit verbringst. Du kannst jeden Tag etwas Neues entdecken. Ich bin so stolz auf dich und all die wunderbaren Dinge, die du machst. Weiter so, du kleiner Entdecker!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was ist dein Lieblingsspiel, das du gerne ohne Bildschirme spielst? Vielleicht magst du Verstecken spielen oder mit deinen Bauklötzen bauen. Es gibt so viele Möglichkeiten, die Welt um dich herum zu erkunden. Ich bin so neugierig, was du am liebsten machst. Möchtest du mir davon erzählen?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel gelernt haben, ist es wichtig, alles im Gleichgewicht zu halten. Stell dir vor, du hast eine Waage, auf der du deine Bildschirmzeit und andere Aktivitäten ausgleichst. Wenn wir beides gut ausbalancieren, fühlen wir uns glücklich und gesund. Es ist wie ein harmonisches Lied, das wir jeden Tag spielen können. Du kannst das, ich glaube an dich!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Eine weitere wichtige Sache ist, dass wir regelmäßig Pausen machen, wenn wir Bildschirme nutzen. Diese Pausen helfen unseren Augen, sich zu erholen. Du kannst zum Beispiel nach 20 Minuten Bildschirmzeit eine kleine Pause machen und durch das Zimmer laufen oder ein Glas Wasser trinken. Das hält dich fit und munter. Lass uns das zusammen ausprobieren!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das richtig gut! Jeder kleine Schritt zählt, und du bist schon weit gekommen. Wenn du dich an all die Dinge erinnerst, die wir besprochen haben, wirst du ein echter Bildschirmzeit-Experte. Ich bin so stolz auf dich und deine Fortschritte. Weiter so, du bist wunderbar!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es Zeit, sich zu verabschieden, aber unsere Abenteuer werden weitergehen. Ich hoffe, du hattest Spaß und hast viel gelernt. Denk daran, dass du jederzeit zu mir kommen kannst, wenn du Fragen hast. Ich freue mich darauf, noch viele magische Momente mit dir zu teilen. Bis bald, mein kleiner Freund!"
+    }
+  ],
+  "title": "Lunas Screen Time Geschichte"
+}

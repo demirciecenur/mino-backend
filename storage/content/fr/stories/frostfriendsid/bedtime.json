@@ -1,0 +1,98 @@
+{
+  "id": "frost_friend_sid_bedtime_story",
+  "character": "Frost Friend Sid",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Salut, petit ami ! Je suis Sid, ton ami de glace. Aujourd'hui, nous allons parler du moment magique qu'est l'heure du coucher. Es-tu prêt pour une aventure relaxante avant de dormir ? J'adore l'heure du coucher, car c'est le moment où tout devient calme et paisible. Alors, prépare-toi à découvrir des astuces amusantes pour te préparer à une bonne nuit de sommeil."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par parler de pourquoi l'heure du coucher est si spéciale. C'est le moment où notre corps se repose après une journée bien remplie. Comme quand tu joues toute la journée et que tu as besoin d'une pause. Dormir aide notre cerveau à se souvenir de toutes les choses amusantes que nous avons apprises. Alors, c'est important de bien se préparer pour une nuit de rêves doux et agréables."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de la routine du coucher. Avoir une routine aide notre corps à comprendre qu'il est temps de se détendre. Par exemple, tu peux commencer par ranger tes jouets. Ensuite, c'est l'heure de prendre un bon bain chaud pour te relaxer. Après cela, tu peux mettre ton pyjama préféré, celui qui est doux et confortable."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super boulot ! Tu es presque prêt pour le lit. N'oublie pas de te brosser les dents pour garder ton sourire éclatant. C'est important de bien se brosser les dents pour enlever tous les petits morceaux de nourriture. Après le brossage, tu peux choisir un livre d'histoires à lire. Les histoires aident notre imagination à s'envoler avant de dormir."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après avoir choisi ton histoire, c'est le moment idéal pour un câlin avec ton doudou préféré. Les câlins nous font sentir en sécurité et aimés. Maintenant, trouve un endroit confortable dans ton lit. C'est ici que la magie commence, avec des couvertures douces et des oreillers moelleux. Se sentir bien dans son lit aide à s'endormir plus facilement."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Prenons un moment pour respirer calmement ensemble. Inspire profondément par le nez et expire lentement par la bouche. Répète cela trois fois. Ces respirations aident à calmer notre esprit et notre corps. C'est comme dire à notre corps qu'il est temps de se détendre et de se préparer à dormir."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail formidable ! Maintenant, pense à une chose que tu as aimée aujourd'hui. Cela peut être un jeu amusant ou un moment passé avec un ami. Penser à des choses positives nous aide à nous endormir heureux. Garde ce souvenir dans ton esprit pendant que tu fermes tes yeux. Tu vas voir, ça rend l'endormissement plus doux."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de l'importance de la lumière douce. Quand il fait sombre, notre corps produit une hormone spéciale qui nous aide à dormir. C'est pourquoi il est bon de tamiser les lumières avant de dormir. Tu peux aussi avoir une veilleuse si tu préfères. Une lumière douce est parfaite pour créer une ambiance calme et apaisante."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Souviens-toi de tous ces petits rituels que nous avons évoqués. Ils sont comme des signaux pour ton corps qu'il est temps de se reposer. Chaque soir, en suivant cette routine, tu aideras ton corps à se préparer pour une bonne nuit de sommeil. C'est un peu comme une danse magique du coucher. N'est-ce pas amusant de savoir que tu as ta propre danse de sommeil ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, quelle est ta partie préférée de l'heure du coucher ? Est-ce que tu aimes lire des histoires ou faire des câlins à ton doudou ? Peut-être préfères-tu les bains moussants ou les chansons douces. Chaque enfant a sa propre façon de se préparer au sommeil. Quelle est la tienne ? Je serais curieux de le savoir !"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après avoir parlé de ta routine préférée, il est temps de s'installer confortablement. Pense à tout ce dont nous avons discuté. La routine du coucher est comme une aventure qui se termine par de doux rêves. Chaque soir est une nouvelle chance de se reposer et de rêver. Alors, prépare-toi à fermer les yeux et à laisser la magie opérer."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Avant de terminer, faisons un dernier exercice de relaxation. Imagine que tu es un nuage flottant dans le ciel. Ferme les yeux et imagine-toi dérivant doucement. Tu es léger et calme, comme un nuage doux et paisible. Cet exercice aide à se détendre complètement et à se préparer à dormir. Tu peux le faire chaque soir avant de t'endormir."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as fait un travail incroyable aujourd'hui ! Chaque soir, en suivant ces étapes, tu deviendras un expert du coucher. N'oublie pas que chaque nuit est une nouvelle aventure de rêves. Tu es prêt pour une nuit paisible et relaxante. Je suis sûr que tu vas faire de beaux rêves cette nuit."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce moment avec moi. J'espère que tu as aimé découvrir toutes ces astuces pour un coucher magique. Souviens-toi, chaque nuit est une nouvelle chance de rêver grand. Je te souhaite une nuit paisible et remplie de jolis rêves. Bonne nuit, petit ami, et à bientôt pour une nouvelle aventure !"
+    }
+  ],
+  "title": "Histoire de Bedtime de Frost Friend Sid"
+}

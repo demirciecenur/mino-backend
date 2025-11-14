@@ -1,0 +1,98 @@
+{
+  "id": "koko_behavior_story",
+  "character": "Koko",
+  "topic": "behavior",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Koko, y hoy vamos a embarcarnos en una increíble aventura sobre el comportamiento. ¿Estás listo para aprender y divertirnos juntos? Vamos a descubrir cómo ser fuertes y valientes, y cómo podemos ayudar a los demás con nuestras acciones. Estoy tan emocionado de compartir este momento contigo. ¡Vamos a comenzar!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Primero, hablemos sobre qué es el comportamiento. El comportamiento es cómo actuamos y tratamos a los demás. Es importante porque muestra quiénes somos y cómo podemos ayudar a nuestros amigos. Por ejemplo, cuando compartimos nuestros juguetes, mostramos buen comportamiento. ¿Sabías que el buen comportamiento puede hacer que todos a tu alrededor se sientan felices? Ahora, vamos a ver cómo podemos mejorar nuestro comportamiento cada día."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para comportarnos bien, debemos recordar algunas reglas importantes. Una de ellas es ser amable con los demás. Ser amable significa usar palabras bonitas, como 'por favor' y 'gracias'. También significa ayudar a los demás cuando lo necesitan, como recoger un juguete que se cayó. Ahora piensa en una vez que fuiste amable con alguien. ¿Recuerdas cómo se sintieron? ¡Seguro que muy felices!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estás haciendo un trabajo maravilloso aprendiendo sobre el buen comportamiento! Ahora, vamos a practicar juntos. Imagina que estás en el parque y ves a un amigo que necesita ayuda para subir al columpio. ¿Qué podrías hacer para mostrar un buen comportamiento? ¡Exacto, podrías ofrecerle tu ayuda! Esto no solo hará que tu amigo se sienta bien, sino que también te hará sentir orgulloso de tus acciones."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos más sobre ser amables, hablemos sobre por qué es importante seguir las reglas. Las reglas nos ayudan a mantenernos seguros y a divertirnos juntos. Por ejemplo, en casa, una regla podría ser lavarse las manos antes de comer. Esto nos mantiene saludables. En el parque, una regla podría ser esperar nuestro turno en el tobogán. Así, todos podemos disfrutar de manera justa. ¿No es genial cómo las reglas nos ayudan a todos?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a aprender cómo podemos recordar seguir las reglas. Una buena manera es pensar en las reglas como nuestros amigos. Nos guían y nos ayudan a tomar buenas decisiones. Cada vez que sigues una regla, es como si estuvieras diciendo 'gracias' a tus amigos. ¿Por qué no intentamos recordar una regla importante ahora mismo? ¡Veamos si puedes pensar en una!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial, ya estás pensando en las reglas! Ahora, piensa en un momento en que seguiste una regla y todo salió bien. Quizás fue al cruzar la calle, esperando la luz verde. Siguiendo las reglas, te mantuviste seguro y eso es algo de lo que estar orgulloso. ¡Eres increíblemente valiente al seguir las reglas y cuidar de ti y de los demás!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez te has preguntado cómo se siente alguien cuando sigues las reglas? Imagínate que estás jugando un juego y todos están esperando su turno. Cuando sigues las reglas, todos se divierten y se sienten respetados. ¿Te gustaría que alguien también siguiera las reglas cuando juegas? ¡Claro que sí! Seguir las reglas es una manera de mostrar respeto y cariño a los demás."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hemos hablado sobre ser amables y seguir las reglas, pero también es importante ser honestos. Ser honesto significa decir la verdad, incluso cuando es difícil. Si rompiste algo por accidente, ser honesto significa decirle a un adulto lo que pasó. La honestidad construye confianza y muestra que eres valiente y responsable. ¿No es maravilloso ser honesto y ver cómo los demás confían en ti?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar la honestidad con un pequeño ejercicio. Cierra los ojos y piensa en un momento en que dijiste la verdad, incluso cuando fue difícil. ¿Cómo te sentiste después? Probablemente orgulloso y aliviado. Ser honesto no siempre es fácil, pero es una parte importante de tener un buen comportamiento. La próxima vez que tengas la oportunidad, recuerda lo bien que se siente ser honesto."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo fantástico! Ahora que hemos aprendido sobre el buen comportamiento, ser amable, seguir las reglas y ser honesto, puedes ser un héroe para tus amigos. Cada vez que muestras buen comportamiento, estás ayudando a hacer del mundo un lugar mejor. No olvides que cada pequeña acción cuenta y que tú tienes el poder de hacer una gran diferencia. ¡Sigue adelante, pequeño héroe!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos todo lo que hemos aprendido hoy. Ser amable, seguir las reglas y ser honesto son partes importantes del buen comportamiento. Estas acciones nos ayudan a ser fuertes y valientes, y nos permiten ayudar a los demás. ¿No es fantástico cómo algo tan simple puede tener un impacto tan grande? Ahora, cada vez que actúes con buen comportamiento, piensa en el héroe que eres para todos a tu alrededor."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría ser un héroe todos los días? Piensa en las pequeñas cosas que puedes hacer para mostrar buen comportamiento. ¿Podrías ayudar a un amigo en la escuela o ser amable con tu familia en casa? Cada día es una nueva oportunidad para ser un héroe y hacer que todos se sientan felices y seguros. ¿Estás listo para aceptar el desafío?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un viaje increíble aprender sobre el buen comportamiento contigo. Espero que te sientas inspirado para seguir siendo amable, honesto y valiente cada día. Recuerda siempre que tienes el poder de hacer del mundo un lugar mejor con tus acciones. Estoy muy orgulloso de ti y sé que seguirás haciendo cosas maravillosas. ¡Hasta la próxima, pequeño héroe!"
+    }
+  ],
+  "title": "Historia de Behavior de Koko"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_transitions_story",
+  "character": "Bubble Buddy",
+  "topic": "transitions",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Bubble Buddy, und heute gehen wir auf ein aufregendes Abenteuer über Übergänge. Bist du bereit? Wir werden viel Spaß haben und Neues lernen. Ich bin so neugierig auf dich und deine Geschichten. Lass uns gemeinsam auf diese Reise gehen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Übergänge sind Veränderungen, die in unserem Leben passieren. Zum Beispiel, wenn du morgens aufstehst und dich auf den Tag vorbereitest. Hast du bemerkt, wie sich die Dinge ändern, wenn du von einer Aktivität zur nächsten wechselst? Es kann aufregend sein, neue Dinge zu erleben. Lass uns darüber sprechen, wie wir mit diesen Veränderungen umgehen können."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn wir über Übergänge sprechen, denken wir an Veränderungen wie das Wechseln von Spielen oder das Zähneputzen vor dem Schlafengehen. Es ist wichtig, eine Routine zu haben, damit wir uns sicher fühlen. Routinen helfen uns, zu wissen, was als nächstes kommt. Magst du es, wenn du weißt, was als nächstes passiert? Es gibt uns ein gutes Gefühl!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Jetzt lass uns zusammen eine kleine Übung machen. Stell dir vor, du bist ein Schmetterling, der von einer Blume zur nächsten fliegt. Diese Veränderung fühlt sich wunderbar an, nicht wahr? Du kannst es schaffen, genau wie der Schmetterling! Lass uns dreimal tief einatmen, um uns auf den nächsten Übergang vorzubereiten. Eins, zwei, drei – super gemacht!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Zähneputzen gesprochen haben? Das ist ein Übergang vom Spielen zum Schlafengehen. Es hilft uns, die Dinge Schritt für Schritt zu machen. Hast du bemerkt, wie gut es sich anfühlt, wenn du fertig bist und ins Bett gehst? Diese Übergänge machen unseren Tag besonders und helfen uns, uns zu entspannen."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns überlegen, wie wir Übergänge noch einfacher machen können. Hast du schon einmal eine Liste gemacht, was du alles tun musst? Das kann helfen, nichts zu vergessen. Vielleicht kannst du auch ein Lied singen, während du Dinge wechselst. Musik macht alles viel fröhlicher und leichter!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wirklich toll! Lass uns zusammen ein Lied singen, während wir uns auf den nächsten Übergang vorbereiten. Wie wäre es mit einem fröhlichen Lied, das uns Energie gibt? Wow, du singst so schön! Musik hilft uns, uns in neue Situationen einzufühlen und uns besser zu fühlen."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über Musik gesprochen haben, können wir auch über Farben sprechen. Farben können uns helfen, uns an Veränderungen zu gewöhnen. Stell dir vor, jede Aktivität hat eine andere Farbe. Welche Farbe hat dein Morgenritual? Vielleicht gelb wie die Sonne? Farben machen unser Leben bunt und aufregend!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du eine Lieblingsfarbe, die dir bei Übergängen hilft? Vielleicht blau, weil es so beruhigend ist? Oder rot, weil es dir Energie gibt? Farben sind wie kleine Helfer, die uns begleiten. Welche Farbe möchtest du heute für deinen nächsten Übergang wählen?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns daran denken, dass Übergänge auch Abenteuer sind. Jedes Mal, wenn wir etwas Neues beginnen, ist es wie ein kleines Abenteuer. Es gibt uns die Chance, neue Dinge zu entdecken. Bist du bereit, neue Abenteuer zu erleben? Es macht so viel Spaß, neugierig zu sein und die Welt zu erkunden!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein großartiger Entdecker! Lass uns herausfinden, wie wir noch mehr Spaß an Übergängen haben können. Vielleicht, indem wir uns vorstellen, wir sind auf einer Schatzsuche. Jeder Übergang ist ein neuer Schatz, den wir finden können. Du kannst das, ich glaube an dich!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über den Abend sprechen. Der Übergang vom Tag zur Nacht ist etwas Besonderes. Vielleicht magst du ein Abendritual, wie ein Buch lesen oder ein Lied hören. Diese Rituale helfen uns, uns zu entspannen und auf den Schlaf vorzubereiten. Welches Buch liest du gerne vor dem Schlafengehen?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rituale wie das Lesen eines Buches sind wie ein sanfter Übergang in die Traumwelt. Sie helfen uns, den Tag loszulassen und ruhig zu werden. Hast du ein Lieblingsbuch, das du immer wieder lesen möchtest? Geschichten sind wunderbare Begleiter für unsere Träume. Sie lassen uns von spannenden Abenteuern träumen!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich an unser Schmetterlingsspiel? Genau wie der Schmetterling von Blume zu Blume fliegt, fliegen wir von einem Abenteuer zum nächsten. Jeder Übergang ist eine neue Blume, die wir entdecken können. Bist du bereit für das nächste Abenteuer? Lass uns gemeinsam weiterfliegen!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Übergänge zu sprechen! Ich hoffe, du hattest genauso viel Spaß wie ich. Denk daran, dass jede Veränderung eine neue Chance ist, etwas Tolles zu erleben. Bis zum nächsten Mal, kleiner Freund! Ich freue mich schon auf unser nächstes Abenteuer. Tschüss und bis bald!"
+    }
+  ],
+  "title": "Bubble Buddys Transitions Geschichte"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "sunny_behavior_story",
+  "character": "Sunny",
+  "topic": "behavior",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Sunny, und heute gehen wir auf eine spannende Reise, um über gutes Benehmen zu sprechen. Bist du bereit? Es wird so viel Spaß machen, zusammen zu lernen. Wir werden herausfinden, warum es wichtig ist, nett zu sein und Regeln zu befolgen. Ich bin schon ganz neugierig auf dich!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an das letzte Mal, als du jemandem geholfen hast? Gutes Benehmen bedeutet, freundlich zu sein und anderen zu helfen. Zum Beispiel, wenn du deine Spielsachen teilst oder jemandem ein Lächeln schenkst. Es fühlt sich gut an, nett zu anderen zu sein, nicht wahr? Und wenn wir nett sind, fühlen sich auch andere Menschen gut."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns darüber sprechen, warum es wichtig ist, Regeln zu befolgen. Regeln helfen uns, sicher zu bleiben und Spaß zu haben. Stell dir vor, alle würden gleichzeitig reden, ohne zu warten. Das wäre ein großes Durcheinander! Wenn wir auf unsere Eltern hören, können wir alle zusammen eine bessere Zeit haben."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du machst das wirklich toll. Jetzt lass uns überlegen, wie wir jeden Tag gutes Benehmen zeigen können. Vielleicht kannst du heute jemandem eine nette Überraschung machen. Oder du könntest versuchen, besonders gut zuzuhören, wenn jemand mit dir spricht. Ich bin sicher, du kannst das!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Denken wir daran, dass auch kleine Dinge zählen, wenn es um gutes Benehmen geht. Zum Beispiel, wenn du 'Bitte' und 'Danke' sagst. Diese kleinen Wörter zeigen anderen, dass du sie respektierst. Und Respekt ist eine sehr wichtige Sache. Es hilft, Freundschaften zu pflegen und neue Freunde zu finden."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt eine kleine Übung machen. Stell dir vor, du bist in einem Park und siehst ein Kind, das alleine spielt. Was könntest du tun, um freundlich zu sein? Vielleicht könntest du fragen, ob es mit dir spielen möchte. Solche kleinen Gesten machen einen großen Unterschied."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich gut darin, über diese Dinge nachzudenken. Weißt du, gutes Benehmen bedeutet auch, geduldig zu sein. Manchmal müssen wir warten, bis wir an der Reihe sind. Das kann schwer sein, aber es zeigt, dass du Respekt für andere hast. Du kannst das schaffen, ich glaube an dich!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie es sich anfühlt, wenn jemand nett zu dir ist? Es fühlt sich warm und schön an, oder? Genau so fühlen sich andere, wenn du nett zu ihnen bist. Das ist das Wunderbare an gutem Benehmen, es macht alle glücklich. Und wer liebt es nicht, glücklich zu sein?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber nachdenken, wie wir zu Hause gutes Benehmen zeigen können. Vielleicht kannst du helfen, den Tisch zu decken oder deine Spielsachen aufzuräumen. Diese kleinen Aufgaben zeigen, dass du Verantwortung übernehmen kannst. Und das macht dich zu einem großartigen Helfer!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar! Du lernst so schnell. Jetzt lass uns überlegen, wie wir in der Schule oder im Kindergarten gutes Benehmen zeigen können. Vielleicht kannst du leise sein, wenn der Lehrer spricht, oder deinen Freunden helfen, wenn sie es brauchen. Diese Dinge zeigen, dass du ein toller Freund bist."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du eine Idee, wann du das nächste Mal gutes Benehmen zeigen kannst? Vielleicht gibt es eine Gelegenheit, jemandem zu helfen oder freundlich zu sein? Ich bin gespannt auf deine Ideen! Es gibt so viele Möglichkeiten, jeden Tag nett zu sein. Was denkst du?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel über gutes Benehmen gelernt haben, fühle ich mich richtig stolz auf dich. Du bist ein wunderbares Kind, das anderen Freude bringt. Gutes Benehmen ist wie ein kleiner Sonnenstrahl, der die Welt heller macht. Und du bist dieser Sonnenstrahl!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns noch eine letzte Übung machen. Stell dir vor, du bist zu Hause und jemand ist traurig. Was könntest du tun, um ihn aufzuheitern? Vielleicht ein Bild malen oder eine Umarmung geben? Solche kleinen Dinge machen einen großen Unterschied."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich besonders, weil du so viel über gutes Benehmen gelernt hast. Ich hoffe, du wirst diese Dinge jeden Tag anwenden. Du kannst die Welt zu einem besseren Ort machen, indem du freundlich bist. Ich glaube fest an dich und deine Fähigkeiten!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es Zeit, sich zu verabschieden, aber ich freue mich schon auf unser nächstes Abenteuer. Danke, dass du heute mit mir über gutes Benehmen gesprochen hast. Vergiss nicht, dass du immer strahlen kannst, wie die Sonne. Bis bald, kleiner Freund! Ich freue mich auf unser nächstes Treffen."
+    }
+  ],
+  "title": "Sunnys Behavior Geschichte"
+}

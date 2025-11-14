@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_Ernährung_gesundes_Essen_Essgewohnheiten_gesunde_Lebensmittel_story",
+  "character": "Piggy Friend",
+  "topic": "Ernährung, gesundes Essen, Essgewohnheiten, gesunde Lebensmittel",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo kleiner Freund! Ich bin Piggy Friend und heute sprechen wir über Ernährung und gesundes Essen. Das ist ein spannendes Thema, weil es uns stark und gesund macht. Bist du bereit, mehr darüber zu erfahren? Ich bin so neugierig auf deine Lieblingsspeisen. Lass uns gemeinsam diese lustige Reise beginnen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wichtig es ist, gesundes Essen zu essen? Gesundes Essen gibt uns die Energie, die wir brauchen, um zu spielen und zu lernen. Stell dir vor, dein Körper ist wie ein Auto. Wenn du gutes Essen isst, ist es wie das Tanken von gutem Benzin. So können wir den ganzen Tag über fröhlich und aktiv sein. Jetzt lass uns herausfinden, welche Lebensmittel besonders gesund sind."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Obst und Gemüse sind wie bunte Schätze für unseren Körper. Sie geben uns Vitamine, die uns stark und gesund halten. Hast du schon einmal einen knackigen Apfel oder eine saftige Karotte probiert? Sie sind nicht nur lecker, sondern auch sehr gut für uns. Lass uns gemeinsam überlegen, welche Farben Obst und Gemüse haben. Kannst du ein rotes, ein grünes und ein gelbes Gemüse nennen?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Du kennst schon viele Farben von Obst und Gemüse. Jetzt lass uns überlegen, wie oft wir sie essen sollten. Jeden Tag sollten wir versuchen, fünf Portionen Obst und Gemüse zu essen. Das klingt viel, aber es ist ganz einfach, wenn wir sie in unsere Mahlzeiten einbauen. Wie wäre es, wenn wir morgen ein neues Gemüse probieren? Du kannst das schaffen!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über Obst und Gemüse gesprochen haben, lass uns über Proteine reden. Proteine sind wie kleine Bausteine für unseren Körper. Sie helfen uns, Muskeln aufzubauen und stark zu bleiben. Dazu gehören Lebensmittel wie Eier, Fisch und Bohnen. Vielleicht hast du schon einmal ein gekochtes Ei zum Frühstück gegessen. Es ist nicht nur lecker, sondern auch sehr nahrhaft. Lass uns überlegen, welche Proteine du magst."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Super, du kennst viele proteinhaltige Lebensmittel! Jetzt lass uns über Getreide sprechen. Getreide wie Brot, Reis und Nudeln geben uns viel Energie. Sie sind wie der Treibstoff, der uns hilft, den ganzen Tag über aktiv zu sein. Hast du schon einmal Vollkornbrot probiert? Es ist besonders gesund, weil es viele Ballaststoffe hat. Lass uns überlegen, welche Getreideprodukte du gerne isst."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Weißt du, warum Wasser so wichtig für uns ist? Wasser hilft uns, hydratisiert zu bleiben und all die guten Nährstoffe in unserem Körper zu transportieren. Es ist wie ein magischer Fluss, der alles gut funktionieren lässt. Trinkst du gerne Wasser oder vielleicht einen leckeren Früchtetee? Lass uns darüber nachdenken, wie wir sicherstellen können, dass wir genug trinken."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt, wo wir über so viele gesunde Lebensmittel gesprochen haben, lass uns über Essgewohnheiten sprechen. Es ist wichtig, regelmäßig zu essen und unsere Mahlzeiten zu genießen. Morgens frühstücken gibt uns einen guten Start in den Tag. Und zwischendurch können wir gesunde Snacks wie Obst oder Nüsse essen. Überlege, welche gesunden Snacks du gerne magst."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über das Frühstück gesprochen haben? Lass uns jetzt über das Abendessen sprechen. Ein leckeres Abendessen kann uns helfen, den Tag entspannt zu beenden. Vielleicht gibt es einen Salat oder eine Gemüsesuppe dazu. Es ist eine tolle Gelegenheit, mit der Familie zusammen zu sein und über den Tag zu sprechen. Was isst du gerne zum Abendessen?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wunderbar! Es ist großartig, wenn wir gesunde Entscheidungen treffen. Jetzt lass uns über Bewegung sprechen. Bewegung ist genauso wichtig wie gutes Essen. Wenn wir laufen, springen oder tanzen, bleibt unser Körper fit und gesund. Lass uns gemeinsam ein kleines Tänzchen machen, um unseren Körper zu bewegen. Bist du bereit?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du einen Lieblingssport oder eine Lieblingsaktivität? Sport und Bewegung machen nicht nur Spaß, sondern helfen uns auch, gesund zu bleiben. Vielleicht magst du Fußball spielen oder Fahrrad fahren. Lass uns überlegen, welche lustigen Aktivitäten du heute machen kannst. Welche Bewegung macht dir am meisten Spaß?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über gesunde Ernährung und Bewegung gesprochen haben, lass uns über Entspannung sprechen. Entspannung hilft uns, nach einem langen Tag zur Ruhe zu kommen. Vielleicht magst du es, ein Buch zu lesen oder eine Geschichte zu hören. Lass uns zusammen drei tiefe Atemzüge nehmen, um uns zu entspannen. Fühlst du dich jetzt ruhiger?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Es ist wichtig, genug Schlaf zu bekommen, damit unser Körper sich erholen kann. Schlaf ist wie eine magische Pause, die uns hilft, am nächsten Tag frisch und munter zu sein. Hast du eine Lieblingsgeschichte, die du vor dem Schlafengehen hörst? Lass uns darüber nachdenken, wie wir eine gemütliche Schlafroutine haben können."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Du machst das großartig! Jetzt, da wir so viel über gesunde Gewohnheiten gelernt haben, lass uns überlegen, wie wir diese neuen Ideen umsetzen können. Vielleicht können wir gemeinsam mit unseren Freunden und unserer Familie gesunde Mahlzeiten planen. Es macht Spaß, zusammen zu kochen und neue Rezepte auszuprobieren. Was möchtest du als nächstes ausprobieren?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Danke, dass du heute mit mir über Ernährung und gesunde Gewohnheiten gesprochen hast. Es war so schön, diese Reise mit dir zu machen. Jetzt weißt du, wie wichtig es ist, gut zu essen, sich zu bewegen und sich zu entspannen. Ich hoffe, du hast viel Spaß beim Umsetzen dieser tollen Ideen. Auf Wiedersehen, kleiner Freund, bis zum nächsten Mal!"
+    }
+  ],
+  "title": "Piggy Friends Nutrition Geschichte"
+}

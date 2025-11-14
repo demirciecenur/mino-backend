@@ -1,0 +1,104 @@
+{
+  "id": "adventure_dora_pal_friendship_story",
+  "character": "Adventure Dora Pal",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Adventure Dora Pal. Bugün birlikte arkadaşlık dünyasında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Arkadaşlık, hayatımızı nasıl daha güzel hale getirdiğini keşfedeceğiz. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, iki insan arasında kurulan özel bir bağdır. Bu bağ, birlikte oyunlar oynamak, sırlar paylaşmak ve birbirimize destek olmakla güçlenir. Arkadaşlarımızla zaman geçirmek, bizi mutlu eder ve kendimizi daha iyi hissetmemizi sağlar. Bir düşün, en sevdiğin arkadaşınla neler yapmayı seviyorsun? Onunla geçirdiğin zamanlar seni nasıl hissettiriyor?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, iyi bir arkadaş olmanın yollarını öğrenelim. İyi bir arkadaş, her zaman dinler ve anlayışlı olur. Arkadaşının duygularını önemser ve ona destek olur. Ayrıca, paylaşmayı bilir ve ihtiyaç olduğunda yardıma koşar. Bu, arkadaşlık bağını güçlendirir ve daha mutlu olmamızı sağlar. Sen de böyle bir arkadaş olmak ister misin?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi birlikte bir arkadaşlık şarkısı söyleyelim. Şarkı söylemek, arkadaşlarımızla eğlenceli zaman geçirmenin bir yoludur. Hadi, ellerimizi çırpalım ve birlikte şarkı söyleyelim. Bu, arkadaşlarımızla bağ kurmamıza yardımcı olur. Şarkı söylemek seni de mutlu ediyor mu?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda arkadaş olmanın ne kadar güzel olduğunu öğrendik. Şimdi, arkadaş edinmek için neler yapabileceğimizi düşünelim. İlk adım, yeni insanlarla tanışmak ve onlara gülümsemek olabilir. Gülümsemek, karşımızdaki kişiye dostça bir mesaj verir. Sonraki adımda, ortak ilgi alanlarımızı keşfetmek ve birlikte oyunlar oynamak yer alır."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, nasıl yeni bir arkadaş edineceğimizi öğrenelim. İlk olarak, bir oyun grubuna katılabiliriz. Oyunlar, yeni arkadaşlar edinmenin harika bir yoludur. Hep birlikte oynadığımızda, birbirimizi daha iyi tanırız ve eğleniriz. Ayrıca, başkalarına yardım ettiğimizde de arkadaşlık bağlarımız güçlenir. Peki, sen hangi oyunları oynamayı seversin?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Çok güzel! Şimdi birlikte bir oyun oynayalım. En sevdiğin oyunu düşün ve onu birlikte oynuyormuş gibi hayal edelim. Oyun oynarken, arkadaşlarımızla işbirliği yaparız ve eğleniriz. Bu, arkadaşlık bağlarımızı daha da güçlendirir. Sen de bu oyunu denemek ister misin?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede oyun oynamanın arkadaşlık için ne kadar önemli olduğunu gördük. Şimdi, arkadaşlarımızla iletişim kurmanın yollarını keşfedelim. İyi bir dinleyici olmak, arkadaşlıkta çok önemlidir. Arkadaşımız konuşurken onu dikkatle dinlemek, ona değer verdiğimizi gösterir. Sen de iyi bir dinleyici olmak ister misin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, iyi bir dinleyici olmak için neler yapabileceğimizi öğrenelim. İlk olarak, arkadaşımız konuşurken göz teması kurabiliriz. Bu, onu dikkatle dinlediğimizi gösterir. Ayrıca, onun söylediklerine ilgi göstererek sorular sorabiliriz. Bu şekilde, arkadaşımızı daha iyi anlarız ve aramızdaki bağı güçlendiririz. Hadi, bunu birlikte deneyelim!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Birlikte bir oyun oynarken, arkadaşına nasıl yardım edebilirsin? Ona bir ipucu verebilir veya oyunun kurallarını açıklayabilirsin. Yardım ettiğinde, arkadaşın nasıl hisseder? Sen olsaydın, yardım aldığında nasıl hissederdin? Bu tür yardımlar, arkadaşlık bağlarımızı nasıl güçlendirir?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda yardımlaşmanın önemini konuştuk. Şimdi, arkadaşlarımızla nasıl eğlenceli vakit geçirebileceğimizi düşünelim. Birlikte piknik yapmak veya parka gitmek harika bir fikir olabilir. Doğada zaman geçirmek, bizi rahatlatır ve mutlu eder. Sen en çok hangi aktiviteleri yapmayı seversin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, birlikte bir piknik planlayalım. Piknikte neler yapmak istersin? Yanımıza hangi yiyecekleri alabiliriz? Doğada oyunlar oynayarak ve şarkılar söyleyerek harika zaman geçirebiliriz. Bu, arkadaşlarımızla daha güçlü bağlar kurmamıza yardımcı olur. Hadi, seninle bir piknik hayal edelim!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir plan yaptık! Şimdi, arkadaşlarımızla nasıl daha iyi iletişim kurabileceğimizi konuşalım. İyi iletişim, arkadaşlıkların uzun süreli olmasını sağlar. Duygularımızı ve düşüncelerimizi paylaşmak, aramızdaki bağı güçlendirir. Sen de duygularını arkadaşlarınla paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Arkadaşınla bir problem yaşadığında, nasıl çözebilirsin? Ona karşı açık ve dürüst olmak önemli midir? Birlikte bir çözüm bulmak, arkadaşlığınızı nasıl etkiler? Sen böyle bir durumda ne yapardın? Düşüncelerini paylaşmak ister misin?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün arkadaşlık hakkında çok şey öğrendik! Arkadaşlarımızla nasıl iyi vakit geçireceğimizi ve nasıl daha iyi arkadaş olabileceğimizi keşfettik. Unutma, arkadaşlık çok değerli bir şeydir ve onu korumak için çaba göstermeliyiz. Şimdi, öğrendiklerimizi hayatımızda uygulama zamanı. Bir sonraki maceramızda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Adventure Dora Pal'ın Friendship Hikayesi"
+}

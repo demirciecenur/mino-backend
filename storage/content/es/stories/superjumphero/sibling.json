@@ -1,0 +1,104 @@
+{
+  "id": "super_jump_hero_sibling_story",
+  "character": "Super Jump Hero",
+  "topic": "sibling",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguito! Soy el Super Jump Hero y estoy muy emocionado de estar aquí contigo hoy. Vamos a embarcarnos en una aventura increíble sobre los hermanos. ¿Sabías que tener un hermano es como tener un amigo especial para siempre? ¡Eso es muy genial! Juntos, vamos a descubrir cómo los hermanos pueden compartir, jugar y aprender el uno del otro. ¿Estás listo para comenzar esta aventura conmigo? ¡Vamos allá!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en lo divertido que es jugar con un hermano. Imagínate tener a alguien con quien puedes construir castillos de bloques o jugar a la pelota. Los hermanos pueden ser como superhéroes que siempre están listos para una nueva misión. Y lo mejor de todo es que pueden inventar sus propios juegos y aventuras. ¿Recuerdas algún juego que hayas jugado con tu hermano esta semana? ¡Seguro que fue muy divertido!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Los hermanos también nos enseñan a compartir. Compartir significa que ambos pueden disfrutar de la misma cosa, como un juguete o un libro. Cuando compartes, haces que todos se sientan felices. Por ejemplo, si tienes una pelota y compartes con tu hermano, ¡ambos pueden jugar juntos! ¿Puedes pensar en algo que hayas compartido con tu hermano hoy? ¡Es una manera maravillosa de mostrar amor!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ahora, vamos a hacer un ejercicio juntos! Vamos a contar hasta tres, y luego diremos: '¡Me encanta compartir!' ¿Listo? Uno, dos, tres... ¡Me encanta compartir! ¡Muy bien hecho! Practicar compartir todos los días puede hacer que sea más fácil y divertido. ¿Te gustaría intentar compartir algo nuevo con tu hermano mañana? ¡Sé que puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablamos sobre inventar juegos. Los hermanos pueden ser muy creativos cuando juegan juntos. Pueden construir fortalezas con mantas o hacer carreras de coches de juguete por el pasillo. ¡Cada día es una nueva oportunidad para una aventura diferente! ¿Tienes algún juego favorito que te gusta jugar con tu hermano? ¡Apuesto a que sí!"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez has tenido que resolver un problema con tu hermano? A veces, los hermanos no están de acuerdo en qué jugar o quién va primero. Pero eso está bien, porque resolver problemas juntos es una parte importante de ser hermanos. ¿Cómo crees que podrías resolver un problema de manera amable? A veces, hablar y escuchar puede hacer una gran diferencia. ¿Te gustaría intentar resolver problemas juntos la próxima vez?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vamos a pensar en lo importante que es ser un buen hermano. Ser un buen hermano significa ser amable, paciente y estar dispuesto a ayudar. Cuando ayudas a tu hermano, como recoger los juguetes o compartir un bocadillo, estás mostrando cuánto te importa. ¿Puedes recordar un momento en que ayudaste a tu hermano? ¡Eso es genial! Cada pequeña acción cuenta."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a practicar una respiración juntos para calmarnos y pensar. Inhala profundamente por la nariz, y exhala suavemente por la boca. Hagámoslo tres veces. Uno... dos... tres... ¡Eso es! Respirar profundamente puede ayudarnos a sentirnos tranquilos y listos para cualquier cosa. ¿Te sientes más relajado ahora? ¡Muy bien!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¿Sabías que los hermanos también pueden aprender el uno del otro? A veces, tu hermano puede enseñarte algo nuevo, como un juego o una canción. Y tú puedes enseñarle algo que sabes hacer muy bien. ¡Es como ser maestros el uno del otro! ¿Hay algo que te gustaría enseñarle a tu hermano? ¡Eso suena emocionante!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Cuál es tu recuerdo favorito con tu hermano? Tal vez sea un paseo en el parque, un juego divertido en casa, o una historia que leyeron juntos. Los recuerdos especiales nos ayudan a sentirnos más conectados y felices. ¿Te gustaría crear más recuerdos así? ¡Los recuerdos son como pequeños tesoros que guardamos en nuestro corazón!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos que cada hermano es único y especial a su manera. Algunos son buenos para contar historias, otros para construir cosas, y otros para hacer reír. Celebrar las diferencias hace que ser hermanos sea aún más especial. ¿Puedes pensar en algo que hace que tu hermano sea especial? ¡Qué maravilloso es tener un hermano único en el mundo!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vamos a hacer algo divertido, ¡un salto de alegría! Cuando cuente hasta tres, saltaremos y diremos: '¡Hermanos para siempre!' ¿Listo? Uno, dos, tres... ¡Hermanos para siempre! ¡Eso fue increíble! Saltar de alegría nos recuerda lo afortunados que somos de tener un hermano. ¡Es como tener un compañero de aventuras siempre a nuestro lado!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en cómo podemos ser mejores hermanos cada día. Podríamos empezar el día con un gran abrazo o una sonrisa. También podríamos ayudar a nuestro hermano cuando lo necesite. Cada pequeño gesto de amor hace una gran diferencia. ¿Te gustaría intentar hacer algo especial por tu hermano mañana? ¡Sé que será genial!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Sabías que los hermanos también pueden ser como superhéroes? Juntos, pueden enfrentar cualquier desafío y superar cualquier obstáculo. ¡Es como tener un superpoder especial! ¿Quieres ser el superhéroe de tu hermano hoy? ¡Estoy seguro de que puedes hacerlo!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido una aventura increíble hablar sobre los hermanos contigo hoy. Recuerda siempre lo especial que es tener un hermano y lo divertido que puede ser compartir, ayudar y aprender juntos. ¡Espero que hayas disfrutado de esta aventura tanto como yo! Ahora es momento de despedirnos, pero no te preocupes, volveremos a saltar juntos en otra ocasión. ¡Hasta la próxima, amiguito!"
+    }
+  ],
+  "title": "Historia de Sibling de Super Jump Hero"
+}

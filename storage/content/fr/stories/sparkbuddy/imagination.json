@@ -1,0 +1,98 @@
+{
+  "id": "spark_buddy_imagination_story",
+  "character": "Spark Buddy",
+  "topic": "imagination",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Spark Buddy, et aujourd'hui, nous allons explorer le monde merveilleux de l'imagination. Es-tu prêt pour une aventure magique ? Imagine que nous avons des ailes et que nous pouvons voler très haut dans le ciel. C'est excitant, n'est-ce pas ? Je suis tellement curieux de savoir où ton imagination va nous emmener aujourd'hui ! Allons-y ensemble dans ce voyage fabuleux."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est comme un super pouvoir qui vit dans ta tête. Elle te permet de créer des mondes fantastiques, même si tu es assis dans ta chambre. Par exemple, tu peux imaginer que ton lit est un bateau pirate naviguant sur une mer pleine de trésors. Ou que ton chat est un lion majestueux dans une jungle magique. Avec l'imagination, tout est possible, et chaque jour est une nouvelle aventure. Alors, qu'est-ce que tu aimerais imaginer aujourd'hui ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Utiliser ton imagination, c'est très simple et amusant. D'abord, ferme doucement tes yeux et prends une grande respiration. Imagine maintenant que tu es dans un jardin enchanté plein de fleurs colorées. Chaque fleur a une couleur différente, et elles dansent doucement avec le vent. Tu peux presque sentir leur parfum doux. C'est comme si tu étais vraiment là, n'est-ce pas ? Voilà comment l'imagination peut te transporter ailleurs."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Tu fais un excellent travail en utilisant ton imagination. Maintenant, essayons quelque chose de différent. Imagine que tu es un astronaute dans l'espace, flottant parmi les étoiles. Les étoiles scintillent tout autour de toi comme des petites lanternes. Tu peux voir la Terre briller en dessous, et elle est si belle. N'est-ce pas incroyable tout ce que ton esprit peut créer ? Continue à rêver et explorer !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi, quand nous avons imaginé être dans un jardin enchanté, c'était magique. Maintenant, imagine que tu es un aventurier dans une forêt mystérieuse. Les arbres sont si grands qu'ils touchent presque le ciel. Tu entends le chant des oiseaux et le murmure du vent. Chaque pas que tu fais te rapproche d'un trésor caché. L'imagination rend chaque moment spécial et plein de surprises."
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les jeux créatifs sont une façon merveilleuse d'utiliser ton imagination. Par exemple, tu peux construire un château avec des blocs et imaginer que tu es un roi ou une reine. Ou peut-être que tu préfères être un chef cuisinier dans une cuisine magique où les recettes sont inventées par toi. Chaque jeu est une nouvelle histoire que tu peux créer. As-tu déjà pensé à une histoire que tu aimerais inventer ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons un petit exercice ensemble. Prends un crayon et du papier et dessine un animal qui n'existe pas encore. Peut-être a-t-il des ailes de papillon et une queue de dragon ? Ou des oreilles de lapin et des pattes de lion ? Laisse ton imagination être ta guide. Quand tu auras fini, regarde ton dessin et pense à l'endroit où cet animal pourrait vivre. Peut-être dans un pays lointain où tout est possible."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Magnifique ! Tu as créé quelque chose d'unique et d'incroyable avec ton imagination. Regarde ce que tu as fait ! Chaque idée que tu as est spéciale et mérite d'être partagée. Maintenant, pense à une aventure que cet animal pourrait vivre. Peut-être qu'il explore une île mystérieuse ou qu'il vole dans le ciel avec ses amis. Chaque histoire que tu inventes est un trésor. Continue à imaginer et à créer !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi lorsque nous avons exploré l'espace avec notre imagination. Cela montre que les rêves n'ont pas de limites. Imagine maintenant que tu es un explorateur sous-marin, nageant avec les dauphins. L'eau est claire et tu peux voir des poissons de toutes les couleurs. Les dauphins sautent joyeusement autour de toi, et tu te sens libre et heureux. L'imagination peut t'emmener partout où tu veux aller."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, je suis curieux de savoir, quel est ton endroit préféré où aller avec ton imagination ? Est-ce un endroit que tu as inventé ou un endroit que tu as déjà visité ? Peut-être que c'est un monde de bonbons ou une forêt magique. Pourquoi aimes-tu cet endroit ? J'aimerais beaucoup entendre tes idées. Chaque endroit que tu imagines est spécial et unique pour toi."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Quand tu partages tes idées, cela rend l'imagination encore plus amusante. Réfléchis à ce que nous avons déjà imaginé ensemble. Peut-être pourrais-tu partager tes histoires avec ta famille ou tes amis. Ils pourraient aussi avoir des idées à ajouter. Ensemble, vous pouvez créer des mondes incroyables et vivre de nombreuses aventures. L'imagination est toujours plus belle quand elle est partagée."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi, l'imagination est comme un livre magique que tu écris chaque jour. Chaque page est une nouvelle aventure pleine de couleurs et de surprises. Peut-être que demain tu découvriras une nouvelle histoire ou un nouveau monde. Avec l'imagination, tout est possible et chaque jour est une chance de rêver. Alors, qu'est-ce que tu aimerais imaginer demain ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as fait un travail fantastique en explorant ton imagination aujourd'hui. Chaque idée que tu as est précieuse et mérite d'être chérie. Continue à rêver grand et à explorer de nouveaux mondes. Rappelle-toi que l'imagination n'a pas de limites. Chaque jour est une nouvelle opportunité de découvrir quelque chose de merveilleux. Tu es un vrai explorateur des rêves !"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure avec moi, petit ami. J'ai adoré explorer le monde de l'imagination à tes côtés. N'oublie jamais que tu es plein de créativité et de magie. Je suis toujours là pour t'accompagner dans tes voyages imaginaires. À bientôt pour une nouvelle aventure remplie de joie et de découvertes ! Au revoir, et continue à rêver !"
+    }
+  ],
+  "title": "Histoire de Imagination de Spark Buddy"
+}

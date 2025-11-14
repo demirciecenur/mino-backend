@@ -1,0 +1,104 @@
+{
+  "id": "adventure_dora_pal_régulation_émotionnelle_gestion_des_émotions_se_calmer_autorégulation_story",
+  "character": "Adventure Dora Pal",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis ! Je suis Adventure Dora Pal. Aujourd'hui, nous allons explorer un sujet très spécial : la régulation émotionnelle. Cela signifie apprendre à comprendre et à gérer nos émotions. Êtes-vous prêts pour cette aventure ? Je suis tellement curieuse de savoir comment vous vous sentez chaque jour. Allons-y ensemble !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de ce que sont les émotions. Les émotions sont des sentiments que nous ressentons à l'intérieur de nous. Parfois, nous sommes heureux, comme quand on joue avec des amis. D'autres fois, nous pouvons être tristes, comme quand un jouet se casse. Comprendre nos émotions nous aide à mieux les gérer. C'est comme avoir une boîte à outils spéciale pour le cœur !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour commencer à gérer nos émotions, nous devons d'abord les reconnaître. Imagine que tu ressens de la colère. Peut-être que ton visage devient tout rouge, ou que tu veux crier. C'est le moment de prendre une grande respiration. Inspirons profondément ensemble, puis expirons lentement. Cela aide à calmer notre corps et notre esprit. Est-ce que tu veux essayer avec moi ?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super, vous avez fait un excellent travail avec la respiration ! Maintenant, parlons des façons de se calmer. Parfois, écouter de la musique douce peut aider. Ou peut-être préfères-tu dessiner ou lire un livre. Trouver ce qui te calme est très important. Tu peux le faire, je le sais !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous que chaque émotion est normale et qu'il est bon de les ressentir. Parfois, parler à un adulte de confiance peut aussi aider. Ils sont là pour écouter et te soutenir. Peut-être que tu pourrais leur dire comment tu te sens la prochaine fois. Quelle émotion ressens-tu en ce moment ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est fantastique de partager tes émotions ! Dis-moi, qu'est-ce qui te rend heureux ? Peut-être est-ce jouer à l'extérieur ou manger ton plat préféré. Ces moments heureux peuvent être des souvenirs spéciaux. Parlons de ces choses qui nous font sourire. C'est un excellent moyen de se sentir bien !"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Nous avons appris comment respirer pour se calmer, mais que diriez-vous d'essayer un autre exercice ? Ferme les yeux et imagine un endroit où tu te sens en sécurité et heureux. Cela peut être un parc, une plage ou ta chambre. Maintenant, imagine que tu es là, en train de jouer ou de te détendre. Cela te rend-il plus calme ?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez fait un travail incroyable en imaginant votre endroit heureux ! Parfois, penser à quelque chose de positif peut vraiment changer notre humeur. N'oubliez pas que vous avez le pouvoir de vous calmer. Vous êtes tous très courageux et capables. Je suis fière de vous !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant des moments où nous devons attendre notre tour, comme quand on joue à un jeu avec des amis. Cela peut être difficile, mais c'est aussi une bonne occasion de pratiquer la patience. Vous pouvez compter jusqu'à dix ou chanter une petite chanson dans votre tête. Cela aide le temps à passer plus vite et à rester calme."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà essayé de compter pour vous calmer ? C'est une technique simple mais efficace. Combien de fois avez-vous compté jusqu'à dix aujourd'hui ? Voyons combien de fois nous pouvons le faire ensemble. Êtes-vous prêts à essayer ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Génial ! Compter ensemble est amusant et utile. Maintenant, parlons d'une autre émotion : la peur. Parfois, nous avons peur de l'obscurité ou des bruits forts. Savoir que nous ne sommes pas seuls peut aider à apaiser cette peur. Vous pouvez tenir la main de quelqu'un ou avoir votre doudou préféré avec vous. Cela vous aide-t-il à vous sentir plus en sécurité ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est bien de savoir que vous avez quelqu'un ou quelque chose pour vous réconforter. Parlons maintenant de ce que vous pouvez faire si quelqu'un d'autre se sent triste. Peut-être pouvez-vous leur offrir un câlin ou leur prêter votre jouet préféré. Parfois, juste être là et écouter peut vraiment aider. Que feriez-vous pour aider un ami ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez de merveilleuses idées pour aider vos amis ! Rappelez-vous que la gentillesse est très puissante. Chaque petit geste peut avoir un grand impact. Continuez à être les gentils amis que vous êtes. Vous êtes tous capables de faire une différence positive. Bravo à vous !"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nous avons beaucoup appris sur la gestion des émotions aujourd'hui. Que ce soit la joie, la tristesse ou la colère, chaque émotion a sa place. En les comprenant mieux, nous pouvons apprendre à les gérer. Cela nous rend plus forts et plus heureux. Je suis tellement fière de ce que nous avons accompli ensemble aujourd'hui."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir exploré ces émotions avec moi, mes petits aventuriers. N'oubliez pas, chaque jour est une nouvelle chance d'apprendre et de grandir. Prenez soin de vous et de vos émotions. J'ai hâte de notre prochaine aventure ensemble. Au revoir et à bientôt !"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Adventure Dora Pal"
+}

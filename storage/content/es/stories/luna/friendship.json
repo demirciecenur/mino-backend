@@ -1,0 +1,104 @@
+{
+  "id": "luna_friendship_story",
+  "character": "Luna",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Luna, y hoy vamos a embarcarnos en un viaje mágico sobre la amistad. ¿Estás listo para descubrir lo maravilloso que es tener amigos? Juntos exploraremos cómo podemos ser buenos amigos y divertirnos mucho. ¡Estoy tan emocionada de compartir este tiempo contigo! Vamos a empezar este increíble viaje lleno de estrellas y sonrisas."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad es como una estrella brillante en el cielo. ¿Sabes por qué? Porque siempre está ahí para iluminar nuestros días. Cuando tenemos amigos, podemos compartir momentos felices, jugar y aprender juntos. Los amigos nos ayudan cuando estamos tristes y celebran con nosotros cuando estamos contentos. Es como tener un arcoíris en el corazón."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a aprender cómo hacer nuevos amigos. Primero, podemos empezar con una sonrisa grande y cálida. Una sonrisa puede hacer que alguien se sienta bienvenido y feliz. Luego, podemos decir 'hola' y preguntar cómo se llama. ¡Es un gran comienzo para conocer a alguien nuevo! ¿Te gustaría intentarlo la próxima vez que veas a alguien nuevo?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial, vamos a practicar juntos! Imagina que estás en el parque y ves a un niño nuevo. Puedes sonreír y decir: '¡Hola! Me llamo [tu nombre]. ¿Cómo te llamas tú?' Es muy sencillo y hace que los demás se sientan especiales. ¡Tú puedes hacerlo! Practiquemos juntos: uno, dos, tres, ¡sonríe y saluda!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos que la amistad también es compartir. Cuando compartimos nuestros juguetes o juegos, estamos mostrando a nuestros amigos que nos importan. Por ejemplo, si tienes un juguete favorito, puedes invitar a tu amigo a jugar contigo. Compartir hace que el juego sea más divertido y crea recuerdos felices. ¿No te parece maravilloso?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que sabemos cómo hacer amigos y compartir, hablemos sobre jugar juntos. Jugar es una de las mejores formas de fortalecer la amistad. Puedes jugar a construir una torre, pintar un dibujo o simplemente correr y saltar. Cuando jugamos juntos, aprendemos a trabajar en equipo y a ser pacientes. ¿Qué juego te gusta más jugar con tus amigos?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas un momento especial que hayas compartido con un amigo? Tal vez fue cuando construiste un castillo de arena o cuando compartiste un helado. ¡Esos momentos son como pequeños tesoros! ¿Te gustaría contarme sobre un momento feliz con tu amigo? Siempre es hermoso recordar esos instantes mágicos."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablemos ahora de escuchar. Escuchar a nuestros amigos es muy importante. Cuando prestamos atención a lo que dicen, les mostramos que nos importa lo que sienten y piensan. Por ejemplo, si un amigo está triste, podemos escuchar y ofrecer un abrazo. Esto ayuda a que se sienta mejor y a que la amistad crezca más fuerte."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar escuchar juntos. Podemos hacer un juego donde uno habla y el otro escucha atentamente. Luego cambiamos. Así aprendemos a esperar nuestro turno y a valorar lo que el otro dice. ¿Listo para intentarlo? ¡Vamos a hacerlo divertido y mágico, como un baile de palabras!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo muy bien! Recuerda que ser un buen amigo también significa ser amable. Decir palabras bonitas como 'gracias' y 'por favor' hace que todos se sientan felices. La amabilidad es una llave mágica que abre puertas a nuevas amistades. ¡Sigue practicando y verás cuántos amigos harás!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en cómo podemos resolver problemas con amigos. A veces, puede haber malentendidos, pero eso está bien. Lo importante es hablar y encontrar una solución juntos. Podemos preguntar: '¿Cómo podemos arreglar esto?' o '¿Qué te parece si lo intentamos de nuevo?' Resolver problemas juntos fortalece la amistad."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hemos aprendido mucho sobre la amistad hoy. Desde hacer nuevos amigos hasta compartir y escuchar. ¿Te acuerdas de todos esos consejos mágicos? ¡Estoy segura de que los usarás en tu próxima aventura! Siempre es divertido y especial tener amigos a nuestro alrededor. ¿No lo crees?"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme sobre tus amigos? ¿Qué juegos disfrutan juntos? Estoy tan curiosa por saber más sobre tus aventuras con ellos. Los amigos son como estrellas, cada uno brilla de una manera única. ¡Cuéntame más sobre tus estrellas especiales!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué historias tan maravillosas! Estoy tan feliz de que tengas amigos tan especiales. Recuerda siempre cuidar de tus amistades, como un jardín lleno de flores. Con amor y amabilidad, crecerán fuertes y hermosas. ¡Estoy segura de que serás un amigo increíble!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un viaje mágico hablando sobre la amistad contigo. Recuerda siempre sonreír, compartir y escuchar a tus amigos. ¡Espero que sigas creando momentos felices y mágicos! Gracias por compartir este tiempo conmigo. ¡Hasta la próxima aventura, pequeño amigo!"
+    }
+  ],
+  "title": "Historia de Friendship de Luna"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_friendship_story",
+  "character": "Piggy Friend",
+  "topic": "friendship",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Piggy Friend, and today we're going on a wonderful adventure about friendship. Friendship is all about having fun and being kind to one another. Are you ready to discover how to be a great friend? I'm sure you're going to love it! Let's jump into our story with a big smile!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Once upon a time, there was a cheerful pig named Piggy Friend who loved making new friends. Piggy Friend lived in a bright, colorful village filled with other animals. One sunny day, Piggy Friend decided to invite everyone to a picnic in the park. Picnics are a great way to spend time with friends, don't you think? Everyone was excited and wanted to join in the fun!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "To make the picnic special, Piggy Friend thought it would be nice to bring different snacks for everyone to share. Sharing is one of the best parts of friendship because it shows you care. So Piggy Friend packed apples, sandwiches, and some crunchy carrots. Do you like sharing your snacks with friends? It's a wonderful way to make everyone feel included."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "When Piggy Friend arrived at the park, all the friends were waiting with big smiles. They laid out a colorful blanket and began to share their snacks. It's important to say 'please' and 'thank you' when sharing. Can you try that with me? Let's say, 'please may I have some?' and 'thank you for sharing!' Great job, you're doing fantastic!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As they enjoyed their picnic, Piggy Friend noticed that one of the animals, a little hedgehog, seemed a bit shy. Piggy Friend wanted everyone to feel happy and included, so they invited the hedgehog to join a game of tag. Sometimes friends need a little encouragement to join in, don't you agree? Soon, everyone was laughing and running around together."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Piggy Friend taught the friends a new game called 'Friendship Circle.' They all held hands and danced in a big circle. This game helped everyone feel connected and happy. Dancing together is a joyful way to celebrate friendship. Would you like to try dancing with your friends sometime? It's a fun way to show you care about each other."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "After all the fun and games, Piggy Friend suggested they clean up the picnic area together. It's important to keep our play spaces tidy, right? Cleaning up can be fun when everyone helps. Let's count to three and pretend we're picking up toys together. One, two, three – pick up! You're doing a wonderful job helping out!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As the sun began to set, Piggy Friend and the other animals sat together to watch the beautiful colors in the sky. They talked about their favorite parts of the day. Sharing happy memories is a special part of friendship, don't you think? Piggy Friend felt so grateful to have such wonderful friends to share these moments with."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Piggy Friend wondered, what makes someone a good friend? Is it sharing toys or saying kind words? Maybe it's playing games together or listening when someone is sad. What do you think makes a good friend? Take a moment to think about it, and maybe you can share your ideas with someone close to you."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when Piggy Friend shared snacks and played tag with the hedgehog? Those little actions can make a big difference. Being a good friend means thinking about how to make others happy. Next time you're with your friends, you can try doing something kind, like Piggy Friend did. Let's see how many smiles you can create!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Piggy Friend learned that being a friend is about more than just playing games. It's about being there for each other and making sure everyone feels included. Sometimes it's as simple as giving a hug or saying, 'I'm here for you.' Have you ever helped a friend feel better? It's one of the best feelings in the world."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's take a moment to think about our friends. Who are the people you enjoy spending time with? Maybe it's someone you play with at the park or a family member you love. If you like, you can draw a picture of you and your friends having fun. Drawing is a great way to celebrate friendship!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As the day came to an end, Piggy Friend felt so happy and grateful for the wonderful day with friends. They promised to have more fun days like this in the future. Friendship is something that grows stronger with every smile and every kind word. Piggy Friend knew this was just the beginning of many happy adventures with friends."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "If you could plan a fun day with your friends, what would you do? Would you have a picnic, play games, or maybe go on an adventure? It's exciting to think about all the possibilities. Take a moment to imagine your perfect day with friends. Maybe you can make it happen soon!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this journey about friendship, little friend. I hope you enjoyed it as much as I did. Remember, being a good friend is all about kindness and fun. I can't wait to hear about all the wonderful things you'll do with your friends. Until next time, keep smiling and spreading joy!"
+    }
+  ],
+  "title": "Piggy Friend's Friendship Story"
+}

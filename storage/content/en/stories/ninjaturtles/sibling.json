@@ -1,0 +1,98 @@
+{
+  "id": "shell_heroes_crew_sibling_story",
+  "character": "Shell Heroes Crew",
+  "topic": "sibling",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! Welcome to the Shell Heroes Crew adventure. Today, we're going to explore something super special—what it's like to have a sibling! Are you excited? Having a brother or sister can be a wonderful adventure. Are you ready to join us on this journey of fun and love?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Siblings are like built-in best friends who are always there for you. They might share your toys or play games with you. Sometimes, you might even have little disagreements, but that's okay! Just like how the Shell Heroes Crew always works together, siblings learn to solve problems as a team. Isn’t that amazing?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let’s think about sharing with our siblings. Sharing is a way to show you care. Imagine you have a delicious cookie. Sharing it with your brother or sister can make it twice as sweet. It's like when we share our responsibilities on a mission. Everyone gets to enjoy the fun together!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You can be a great sibling by being kind and helpful. Maybe you can help your sister pick up her toys or teach your brother a new game. Even small acts of kindness can make your bond stronger. Just like how we cheer each other on in the Shell Heroes Crew, you can do it too!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let’s talk about playing together. Playing with siblings can be a lot of fun! You can build a fort, play pretend, or even have a mini adventure in your backyard. It's like having your own little team, ready for any challenge. What games do you like to play with your sibling?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever had to share something really special with your sibling? How did it make you feel? Sometimes sharing can be hard, but it also feels good to make someone else happy. What do you think? Do you have a favorite thing you like to share?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember, every sibling relationship is unique. Some siblings are close in age and others are not. But no matter what, you can always find ways to connect. Maybe you can read a story together or draw a picture. Each moment you spend together is like adding a new page to your story."
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Do you remember a time when you helped your sibling? Helping each other is one of the best parts of having a brother or sister. It's just like how we help each other in the Shell Heroes Crew. Every little act of kindness makes your team stronger and happier!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's take a moment to think about how we can be a good sibling. Can you think of one nice thing you can do today? Maybe you can share a toy, give a hug, or say something kind. These small actions can make a big difference, just like how little drops of water make a mighty ocean."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You are doing an amazing job learning about being a great sibling! Keep up the good work. Remember, every time you show love and kindness, you are a hero in your own way. Just like the Shell Heroes Crew, you can always find ways to make your sibling feel special."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's think about how siblings can also be our biggest supporters. They cheer us on when we try something new, like learning to ride a bike. It's like having your own cheerleader, always ready to celebrate your victories. Isn’t it wonderful to have someone who believes in you?"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What is something you love about your sibling? Maybe it's the way they make you laugh or how they are always ready to play. Every sibling has special qualities that make them unique. Can you think of something special that makes your sibling awesome?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we wrap up our adventure, remember that siblings are a special part of our lives. They are there for the good times and the challenging ones. Just like the Shell Heroes Crew, you can always count on each other. Together, you can face anything that comes your way!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining the Shell Heroes Crew today! We had a fantastic time learning about siblings and how we can be the best we can be. Remember, your sibling is a treasure, and so are you. Keep being brave, kind, and adventurous. Until next time, stay awesome!"
+    }
+  ],
+  "title": "Shell Heroes Crew's Sibling Story"
+}

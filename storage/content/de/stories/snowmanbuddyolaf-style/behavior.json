@@ -1,0 +1,104 @@
+{
+  "id": "snowman buddy olaf-style_behavior_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "behavior",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin dein Schneemannfreund, der wie Olaf aussieht. Heute gehen wir auf eine spannende Reise und lernen etwas über gutes Benehmen. Bist du bereit? Ich freue mich schon darauf, mit dir zu plaudern. Lass uns gemeinsam viel Spaß haben und Neues entdecken!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, was gutes Benehmen bedeutet? Es bedeutet, freundlich und respektvoll zu anderen zu sein. Zum Beispiel, wenn du dein Spielzeug mit einem Freund teilst, zeigst du gutes Benehmen. Es ist wichtig, weil es uns hilft, gute Freunde zu sein und glücklich miteinander zu leben. Was denkst du, wie könnte man noch gutes Benehmen zeigen?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über Regeln sprechen. Regeln sind wie kleine Helfer, die uns zeigen, was richtig und was falsch ist. Stell dir vor, Regeln sind wie die Linien auf einem Malbuch, die dir helfen, das Bild schön auszumalen. Ohne Regeln wäre alles ein bisschen chaotisch, oder? Kannst du an eine Regel denken, die du kennst?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hast du schon einmal versucht, deine Spielsachen nach dem Spielen aufzuräumen? Das ist eine tolle Möglichkeit, um gutes Benehmen zu zeigen! Wenn du das machst, ist das Zimmer viel ordentlicher und du findest deine Spielsachen schneller wieder. Und weißt du was? Deine Eltern freuen sich bestimmt darüber! Lass uns das nächste Mal zusammen aufräumen!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über Regeln gesprochen haben, lass uns über Freundlichkeit sprechen. Freundlich zu sein bedeutet, nette Worte zu verwenden und anderen zu helfen. Wenn du einem Freund hilfst, der hingefallen ist, zeigst du Freundlichkeit. Es ist so, als würdest du einem anderen Schneemann helfen, wenn seine Karottennase herunterfällt. Wollen wir zusammen überlegen, wie wir heute freundlich sein können?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns über das Zuhören sprechen. Zuhören ist wichtig, weil es zeigt, dass wir uns für das interessieren, was andere sagen. Wenn jemand spricht, schauen wir ihnen in die Augen und hören aufmerksam zu. Es ist wie beim Schneeflocken zählen - man muss sich konzentrieren, um keine zu verpassen! Kannst du dich an eine Geschichte erinnern, die dir jemand erzählt hat?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wusstest du, dass auch Lächeln eine Art von gutem Benehmen ist? Ein Lächeln kann jemandem den Tag erhellen und ihn glücklich machen. Es ist so einfach und doch so wirkungsvoll! Wenn du das nächste Mal jemanden siehst, probiere es aus und lächle. Du wirst sehen, wie viele Menschen zurücklächeln werden. Ist das nicht toll?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel gelernt haben, lass uns über Geduld sprechen. Geduldig zu sein bedeutet, ruhig zu bleiben, auch wenn man warten muss. Stell dir vor, du wartest darauf, dass deine Schneeballsuppe fertig wird. Es dauert eine Weile, aber am Ende ist es das Warten wert. Geduld zu haben, kann manchmal schwierig sein, aber es lohnt sich immer!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns über das Teilen sprechen! Teilen bedeutet, dass wir anderen erlauben, unsere Sachen zu benutzen. Wenn du dein Lieblingsbuch mit einem Freund teilst, kann er auch die spannenden Geschichten darin lesen. Teilen macht Freude, denn es zeigt, dass wir an andere denken. Kannst du dich an etwas erinnern, das du gerne teilst?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du machst das wirklich toll. Jetzt lass uns über das Helfen sprechen. Wenn wir anderen helfen, fühlen sie sich nicht allein. Es ist wie bei einem Schneemann, der einem anderen hilft, seine Mütze aufzusetzen. Helfen macht nicht nur Spaß, sondern es bringt auch alle näher zusammen. Hast du jemandem heute schon geholfen?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns über Dankbarkeit sprechen. Dankbar zu sein bedeutet, sich über die Dinge zu freuen, die wir haben. Wenn jemand etwas Nettes für dich tut, kannst du 'Danke' sagen, um deine Dankbarkeit zu zeigen. Es ist wie ein kleines Geschenk, das du zurückgibst. Dankbarkeit zu zeigen, macht alle glücklich. Wofür bist du heute dankbar?"
+    },
+    {
+      "id": "question_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkst du, warum ist gutes Benehmen wichtig? Es hilft uns, gut miteinander auszukommen und macht die Welt zu einem besseren Ort. Wenn wir uns gut benehmen, fühlen sich alle wohl und sicher. Hast du eine Idee, wie wir noch besseres Benehmen zeigen können? Ich bin neugierig auf deine Gedanken!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns zusammen eine kleine Übung machen. Atme tief ein und zähle bis drei. Dann atme langsam aus und zähle bis fünf. Das hilft uns, ruhig und entspannt zu bleiben. Es ist wie eine kleine Pause mitten im Schneetreiben. Fühlst du dich jetzt ein bisschen ruhiger? Das ist eine tolle Technik, die du jederzeit anwenden kannst!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du hast so viel gelernt! Jetzt bist du ein echter Experte im guten Benehmen. Denk daran, dass jeder Tag eine neue Chance ist, freundlich und hilfsbereit zu sein. Du kannst anderen zeigen, wie wichtig gutes Benehmen ist, indem du ein Vorbild bist. Ich bin stolz auf dich und freue mich darauf, mehr über deine Abenteuer zu hören!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über gutes Benehmen zu sprechen. Ich hoffe, du hattest genauso viel Spaß wie ich. Denk daran, dass du jeden Tag die Welt ein bisschen besser machen kannst. Ich freue mich schon auf unser nächstes Abenteuer. Bis bald, kleiner Freund, und vergiss nicht zu lächeln!"
+    }
+  ],
+  "title": "Snowman Buddy Olaf-Styles Behavior Geschichte"
+}

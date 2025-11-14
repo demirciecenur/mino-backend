@@ -1,0 +1,104 @@
+{
+  "id": "frost_friend_sid_nutrición_alimentación_saludable_hábitos_alimentarios_alimentos_saludables_story",
+  "character": "Frost Friend Sid",
+  "topic": "nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola amiguitos! Soy Frost Friend Sid, y hoy vamos a explorar el mundo mágico de la nutrición. ¿Sabías que comer bien es como darle superpoderes a tu cuerpo? ¡Sí! Comer alimentos saludables te hace fuerte y feliz. Vamos a descubrir juntos cómo podemos ser más saludables cada día. ¿Están listos para esta divertida aventura?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en los colores del arcoíris. ¿Alguna vez has visto un arcoíris en tu plato? Comer frutas y verduras de muchos colores es muy importante. Cada color tiene vitaminas diferentes que ayudan a nuestro cuerpo a crecer y estar sano. Por ejemplo, las zanahorias naranjas son buenas para los ojos. ¿Y sabes qué? Las manzanas rojas son perfectas para tener un corazón fuerte. ¡Es como magia!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora vamos a aprender cómo podemos hacer nuestro plato más divertido y saludable. Imagina que eres un artista y tu plato es una obra de arte. Puedes poner un poco de verde con espinacas, un poco de rojo con tomates y un toque de amarillo con maíz. ¿Ves cómo todos esos colores hacen que tu plato sea bonito y saludable? Comer así nos da energía para jugar y aprender. ¡Intentémoslo la próxima vez que comamos!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora, hablemos de los hábitos alimentarios. Comer lentamente y disfrutar cada bocado es muy importante. Cuando comemos despacio, nuestro estómago tiene tiempo para decirnos cuándo está lleno. Así evitamos comer de más y nos sentimos mejor. Recuerda, comer es una aventura que debemos disfrutar. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¿Te gusta ayudar en la cocina? Ayudar a preparar la comida es una manera divertida de aprender sobre alimentos saludables. Puedes lavar las frutas, mezclar ensaladas o incluso decorar los platos. Al hacerlo, aprendes de dónde vienen los alimentos y por qué son buenos para ti. Además, es una excelente oportunidad para pasar tiempo con tu familia. ¡La cocina es un lugar mágico lleno de sorpresas!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos de tomar agua. El agua es muy importante para nuestro cuerpo. Nos mantiene hidratados y ayuda a que todo funcione bien. Cuando jugamos mucho, sudamos y necesitamos reponer ese agua. ¿Sabías que el agua es como el combustible para un coche? Sin ella, no podemos correr ni jugar tanto como queremos. Así que recuerda beber agua varias veces al día."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora tengo una pregunta para ti. ¿Cuáles son tus frutas y verduras favoritas? A mí me encantan las fresas y las zanahorias. Son dulces y crujientes, ¡perfectas para cualquier momento del día! ¿Te gustaría probar una fruta nueva esta semana? Tal vez una piña o un kiwi. ¡Explorar nuevos sabores puede ser muy divertido!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Recuerda cuando hablamos de los colores en tu plato. ¿Has intentado probar alimentos de todos los colores esta semana? Es como hacer una fiesta en tu boca. Cada color tiene un sabor único y especial. Si no lo has hecho aún, ¡puedes intentarlo mañana! Comer de muchos colores es una manera de asegurarnos de que estamos recibiendo todas las vitaminas que necesitamos."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres increíble! Ahora, hablemos de cómo comer con amigos y familia puede ser más divertido. Cuando comemos juntos, compartimos risas y buenos momentos. También podemos aprender unos de otros sobre qué alimentos nos gustan y cuáles son nuevos. Comer en compañía hace que la comida sepa aún mejor. Así que la próxima vez, invita a tus amigos o familia a disfrutar de una comida saludable juntos."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¿Recuerdas cuando hablamos de ser artistas de la comida? Ahora pensemos en ser detectives de la comida. Podemos investigar de dónde vienen nuestros alimentos. Por ejemplo, las manzanas crecen en árboles y las zanahorias en la tierra. Saber de dónde viene nuestra comida nos ayuda a apreciarla más. Es fascinante descubrir cómo llegan a nuestro plato. ¡Ser un detective de la comida es una aventura divertida!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora vamos a hacer un pequeño ejercicio juntos. Vamos a respirar profundamente tres veces. Inhala por la nariz, siente cómo el aire entra en tu cuerpo, y exhala por la boca. Esto nos ayuda a sentirnos tranquilos y listos para disfrutar nuestra comida. Hacer una pausa para respirar antes de comer nos permite disfrutar más de cada bocado. ¿No es maravilloso cómo algo tan simple puede hacernos sentir tan bien?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estás aprendiendo mucho sobre la alimentación saludable! Recuerda, cada pequeño cambio que hagas es un paso hacia una vida más saludable. Tal vez puedas intentar comer una fruta nueva o beber un vaso extra de agua al día. Cada esfuerzo cuenta y te hace más fuerte. Estoy muy orgulloso de ti y de todo lo que estás aprendiendo. ¡Sigue así!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora, cuéntame, ¿hay algún alimento que te gustaría aprender a preparar? Cocinar es una habilidad maravillosa. Puedes empezar con algo sencillo, como un batido de frutas. ¿No sería divertido mezclar tus frutas favoritas y ver qué sabor sale? La cocina es un laboratorio de sabores donde puedes experimentar y divertirte. ¿Qué te gustaría probar?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hemos hablado de muchas cosas hoy, desde los colores en nuestro plato hasta ser detectives de la comida. Cada cosa que aprendemos nos ayuda a crecer sanos y fuertes. Comer bien no solo es bueno para nuestro cuerpo, sino también para nuestra mente. Nos da la energía para jugar, aprender y ser felices. ¡Estoy tan emocionado de haber compartido este tiempo contigo!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bueno, amiguitos, es hora de despedirse. Recuerda, comer saludable es como darle un abrazo a tu cuerpo. Espero que disfrutes de tus comidas y que cada bocado te haga sonreír. Gracias por acompañarme en esta aventura de nutrición. ¡Nos vemos pronto para más diversión y aprendizaje! Cuídense mucho y sigan siendo increíbles. ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Nutrition de Frost Friend Sid"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "piggy friend_temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran_story",
+  "character": "Piggy Friend",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis ! Je suis votre Piggy Friend. Aujourd'hui, nous allons découvrir ensemble le monde du temps d'écran et de la sécurité numérique. Êtes-vous prêts pour cette aventure incroyable ? N'oublions pas, c'est important de s'amuser tout en apprenant. Je suis tellement curieux d'apprendre avec vous !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par parler du temps d'écran. Le temps d'écran, c'est le moment que nous passons devant nos écrans, comme la télévision ou la tablette. C'est amusant de regarder des dessins animés ou de jouer à des jeux ! Mais, il est important de ne pas en faire trop. Comme quand on mange des bonbons, il faut en prendre juste assez pour que ce soit bon pour nous."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de la sécurité numérique. La sécurité numérique, c'est comment nous restons en sécurité quand nous utilisons des appareils comme les tablettes. Par exemple, ne jamais parler à des inconnus en ligne, c'est comme ne pas parler aux étrangers dans la rue. Et toujours demander à un adulte avant de télécharger quelque chose. C'est comme demander avant de traverser la route."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites du bon travail en apprenant tout ça ! Rappelez-vous, il est important de prendre des pauses. Après avoir joué avec votre tablette, pourquoi ne pas aller jouer dehors ? Comme ça, vous pouvez courir, sauter et vous amuser avec vos amis ! Ça fait du bien de bouger. Vous pouvez le faire, je crois en vous !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de l'utilisation de la technologie. La technologie, c'est tout ce qui nous aide, comme les ordinateurs et les téléphones. Ces outils peuvent être très utiles, comme pour apprendre de nouvelles choses ou parler à des amis. Mais il est important de bien les utiliser. Par exemple, utiliser la tablette pour apprendre à dessiner ou écouter une belle histoire."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous quand nous avons parlé de ne pas passer trop de temps devant l'écran ? C'est comme quand on joue à cache-cache, il faut savoir quand arrêter pour que tout le monde puisse s'amuser. Alors, après un peu de temps d'écran, faisons autre chose d'amusant ! Peut-être un puzzle ou un dessin ? Qu'en pensez-vous ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Il est aussi très important de créer des habitudes saines d'écran. Cela signifie avoir des règles comme utiliser l'écran seulement après le dîner, ou seulement pour une heure par jour. Pensez à cela comme une routine, comme se brosser les dents tous les matins et soirs. Cela nous aide à rester en bonne santé et heureux !"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes vraiment merveilleux à suivre ces conseils ! Je suis tellement fier de vous. N'oubliez pas, c'est toujours bien de demander de l'aide à un adulte si vous n'êtes pas sûr de quelque chose. Comme ça, vous pouvez être en sécurité et profiter de votre temps d'écran. Bravo, vous êtes super !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de ce que nous pouvons faire d'autre que d'être devant un écran. Il y a tellement d'activités amusantes, comme jouer avec des jouets, lire un livre avec maman ou papa, ou même faire du coloriage. Ces activités nous aident à développer notre imagination et à nous amuser d'une nouvelle manière. C'est excitant, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous une activité préférée à faire quand vous n'êtes pas devant un écran ? Pensez-y un instant. Peut-être aimez-vous jouer au ballon ou construire des tours avec des blocs ? C'est toujours intéressant d'apprendre ce que vous aimez faire. Alors, quel est votre jeu préféré ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand nous utilisons la technologie, il est bon de se rappeler de cligner des yeux souvent et de faire des pauses pour nos yeux. Un petit exercice amusant est de regarder loin de l'écran et de trouver quelque chose de bleu. C'est un bon moyen de reposer nos yeux et de faire une pause. Voulez-vous essayer maintenant ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes vraiment bons à cela ! Je savais que vous pouviez le faire. Continuez à faire de petits exercices pour vos yeux, cela les garde en bonne santé. Et rappelez-vous, c'est toujours bien de demander à un adulte de vous aider à faire des choix sains avec la technologie. Vous êtes géniaux !"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "À présent, pensons à comment nous pouvons utiliser la technologie pour apprendre. Il y a tellement de choses amusantes à découvrir, comme des vidéos éducatives ou des jeux qui nous apprennent à compter. Utiliser la technologie pour apprendre peut être très intéressant. C'est comme une aventure où nous découvrons de nouvelles choses chaque jour !"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous, tout comme nous avons besoin de manger de la nourriture saine pour être forts, nous avons besoin de bonnes habitudes d'écran pour être en bonne santé. C'est comme équilibrer nos repas avec des légumes et des fruits. Alors, que diriez-vous de choisir une activité amusante à faire après le temps d'écran aujourd'hui ?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce temps avec moi, mes petits amis. J'espère que vous avez appris beaucoup et que vous êtes prêts à mettre en pratique ces bonnes habitudes. N'oubliez pas de toujours demander de l'aide à un adulte si vous en avez besoin. Je suis tellement fier de vous, et j'ai hâte de vous revoir pour d'autres aventures. Au revoir et amusez-vous bien !"
+    }
+  ],
+  "title": "Histoire de Screen Time de Piggy Friend"
+}

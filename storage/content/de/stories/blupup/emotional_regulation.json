@@ -1,0 +1,98 @@
+{
+  "id": "blu pup_Emotionsregulation, Gefühle managen, sich beruhigen, Selbstregulation_story",
+  "character": "Blu Pup",
+  "topic": "Emotionsregulation, Gefühle managen, sich beruhigen, Selbstregulation",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Blu Pup. Heute gehen wir auf eine spannende Reise, um mehr über Emotionsregulation zu lernen. Weißt du, was das bedeutet? Es bedeutet, dass wir lernen, unsere Gefühle zu verstehen und zu managen. Das ist so wichtig, weil es uns hilft, glücklich und ruhig zu bleiben. Bist du bereit? Ich bin so neugierig auf dich!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an das letzte Mal, als du traurig oder wütend warst? Das passiert jedem von uns. Manchmal fühlen wir uns wie ein wilder Sturm. Aber weißt du was? Wir können lernen, diesen Sturm zu beruhigen. Wenn wir verstehen, was wir fühlen, können wir besser damit umgehen. Jetzt lass uns herausfinden, wie wir unsere Gefühle erkennen können."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du merkst, dass du wütend bist, kannst du tief einatmen. Atme langsam durch die Nase ein und puste durch den Mund aus. Zähle dabei bis drei. Eins, zwei, drei. Das hilft deinem Körper, sich zu entspannen, und deinem Kopf, klar zu denken. Lass uns das zusammen ausprobieren!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Du hast es geschafft. Wenn du das nächste Mal traurig bist, kannst du auch deine Lieblingsspielzeuge umarmen. Das gibt dir ein warmes Gefühl und Trost. Erinnerst du dich, wie es sich anfühlt, wenn dich jemand umarmt? Genau so kann es auch mit deinem Spielzeug sein. Du kannst es schaffen!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns über Freude sprechen. Freude ist ein wunderbares Gefühl, das wir alle lieben. Wenn du dich freust, kannst du es mit einem großen Lächeln zeigen. Ein Lächeln kann ansteckend sein und auch andere glücklich machen. Hast du schon einmal bemerkt, dass Mama oder Papa lächeln, wenn du glücklich bist? Es ist wie ein kleines Geschenk, das wir teilen können."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wusstest du, dass du auch tanzen kannst, um deine Gefühle auszudrücken? Wenn du glücklich bist, kannst du herumhüpfen und tanzen. Es macht Spaß und lässt dich noch besser fühlen. Lass uns zusammen tanzen, als ob niemand zusieht. Stell dir vor, du bist ein kleiner Vogel, der über den Himmel fliegt."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Toll gemacht! Tanzen ist eine wunderbare Art, unsere Gefühle zu zeigen. Wenn du jemals traurig bist, kannst du es auch mit jemandem teilen. Sprich mit Mama, Papa oder einem Freund. Sie können dir helfen, dich besser zu fühlen. Erinnerst du dich, wie gut es sich anfühlt, wenn jemand zuhört? Das ist die Magie des Teilens."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal versucht, deine Gefühle zu malen? Was denkst du, welche Farben würdest du wählen, wenn du fröhlich bist? Vielleicht Gelb wie die Sonne? Oder Blau wie der Himmel? Farben können uns helfen, das auszudrücken, was wir fühlen. Wie wäre es, wenn du es einmal ausprobierst?"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich daran, wie wir über das Atmen gesprochen haben? Es ist eine einfache, aber wirkungsvolle Methode, um sich zu beruhigen. Wenn du das nächste Mal wütend bist, atme tief durch. Stell dir vor, du pustest eine Kerze aus. Das hilft dir, die Ruhe zu bewahren. Kannst du es jetzt versuchen?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns über Mut sprechen. Manchmal sind wir ängstlich, aber das ist okay. Mut bedeutet nicht, keine Angst zu haben, sondern trotzdem weiterzumachen. Vielleicht hast du Angst vor einem großen Hund oder einer dunklen Ecke. Aber mit Mut kannst du diese Ängste überwinden. Stell dir vor, du bist ein tapferer Ritter, der gegen Drachen kämpft!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du dich mutig fühlst, kannst du dir selbst sagen: 'Ich kann das schaffen!' Diese Worte geben dir Kraft. Wiederhole sie, wann immer du etwas Schwieriges vor dir hast. Es ist wie eine kleine Superkraft, die du in dir trägst. Lass uns das zusammen sagen: 'Ich kann das schaffen!'"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar! Du bist wirklich mutig. Jetzt, da du weißt, wie man Gefühle reguliert, kannst du anderen helfen. Wenn ein Freund traurig ist, kannst du ihm zeigen, wie man tief atmet. Oder du kannst ihn ermutigen, seine Gefühle zu teilen. Zusammen könnt ihr eine starke Freundschaft aufbauen. Du bist ein toller Freund!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was ist dein Lieblingsgefühl? Ist es Freude, wenn du mit deinen Freunden spielst? Oder vielleicht Stolz, wenn du etwas Neues lernst? Es ist wichtig, alle unsere Gefühle zu kennen und zu schätzen. Welches Gefühl möchtest du heute erleben? Lass uns darüber nachdenken."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, heute mit dir über Gefühle zu sprechen. Du hast viel gelernt über Emotionsregulation und wie man sich beruhigt. Ich hoffe, du erinnerst dich an all die Tipps, die wir geteilt haben. Jetzt bist du bereit, deine Gefühle zu managen. Danke, dass du mit mir auf diese Reise gekommen bist. Tschüss, kleiner Freund, bis zum nächsten Mal!"
+    }
+  ],
+  "title": "Blu Pups Emotional Regulation Geschichte"
+}

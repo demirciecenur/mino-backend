@@ -1,0 +1,98 @@
+{
+  "id": "piggy_friend_nutrition_story",
+  "character": "Piggy Friend",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük arkadaşlarım! Ben Piggy Friend, bugün sizinle sağlıklı beslenme yolculuğuna çıkacağız. Bu eğlenceli maceraya katılmak için hazır mısınız? Sağlıklı beslenmek, vücudumuzu mutlu ve enerjik tutmanın harika bir yoludur. Her gün yediğimiz yiyecekler bizi güçlü ve sağlıklı yapar. Haydi başlayalım ve bu konuyu birlikte keşfedelim!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Sağlıklı beslenmek, vücudumuzun ihtiyacı olan tüm vitamin ve mineralleri almasını sağlar. Tıpkı bir arabanın çalışması için benzine ihtiyacı olduğu gibi, bizim de enerjiye ihtiyacımız var. Meyve ve sebzeler, sağlıklı beslenmenin temel taşlarıdır. Örneğin, elma ve havuç gibi yiyecekler hem lezzetli hem de besleyicidir. Her gün farklı renklerde sebze ve meyveler yemek, sağlığımız için çok faydalıdır."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Meyve ve sebzelerin yanı sıra, proteinler de beslenmemizde önemli bir rol oynar. Et, balık, yumurta ve fasulye gibi yiyecekler protein içerir. Proteinler, kaslarımızı güçlü ve sağlıklı tutmamıza yardımcı olur. Ayrıca, süt ve süt ürünleri de kalsiyum açısından zengindir ve kemiklerimizi güçlendirir. Her gün biraz peynir ya da yoğurt yemek, kemiklerimizin sağlıklı kalmasına destek olur."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte sağlıklı bir tabak hazırlamaya ne dersiniz? Önce tabağımızın yarısını meyve ve sebzelerle dolduralım. Sonra, biraz protein ekleyelim, belki biraz tavuk ya da mercimek. Yanına bir bardak süt ya da yoğurt ekleyebiliriz. Harika bir tabak hazırladık! Bu şekilde beslenmek, vücudumuzu güçlü ve enerjik tutar."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Yiyeceklerin yanı sıra, içecekler de beslenmemizin önemli bir parçasıdır. Su, vücudumuzun en çok ihtiyaç duyduğu içecektir. Gün boyunca bol bol su içmek, vücudumuzun düzgün çalışmasına yardımcı olur. Meyve suları da lezzetli olabilir ama fazla şeker içerebilir. Bu yüzden suyu tercih etmek her zaman en iyisidir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi gelin, su içmenin önemini birlikte öğrenelim. Vücudumuzun büyük bir kısmı sudan oluşur ve su içmek, vücudumuzun her gün yenilenmesine yardımcı olur. Sabah kalktığımızda bir bardak su içmek, günümüze harika bir başlangıç yapmamızı sağlar. Ayrıca, oyun oynarken ya da spor yaparken de su içmeyi unutmamalıyız. Su, enerjimizi korumamıza yardımcı olur."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musunuz, bir önceki sahnemizde suyun öneminden bahsetmiştik. Şimdi, su içmenin bizi nasıl daha iyi hissettirdiğini düşünelim. Su içtiğimizde, kendimizi daha enerjik ve mutlu hissederiz. Ayrıca, cildimiz de daha sağlıklı görünür. Bu yüzden, her gün yeterince su içmek çok önemlidir."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, en sevdiğiniz meyve nedir? Hadi birlikte düşünelim. Elma, muz, çilek ya da belki portakal? Her biri farklı vitaminler içerir ve sağlığımıza katkı sağlar. Her gün farklı meyveler yemeyi deneyelim, böylece vücudumuz ihtiyacı olan tüm besinleri alabilir. Unutmayın, çeşitlilik her zaman iyidir!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede en sevdiğiniz meyvelerden bahsetmiştik. Şimdi de sağlıklı atıştırmalıklardan bahsedelim. Sağlıklı atıştırmalıklar, gün boyunca enerjimizi korumamıza yardımcı olur. Örneğin, bir avuç fındık ya da bir dilim tam buğday ekmeği üzerine biraz fıstık ezmesi harika bir seçim olabilir. Bu tür atıştırmalıklar, bizi hem tok tutar hem de sağlıklı kalmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, sağlıklı bir atıştırmalık hazırlamayı deneyelim. Biraz yoğurt alalım ve üzerine taze meyveler ekleyelim. Üzerine biraz da yulaf serpiştirebiliriz. İşte sağlıklı ve lezzetli bir atıştırmalık hazır! Bu tür atıştırmalıklar, hem lezzetli hem de besleyici oldukları için harika bir seçimdir."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkardınız! Sağlıklı beslenme konusunda gerçekten çok şey öğrendik. Şimdi öğrendiklerimizi günlük hayatımıza nasıl uygulayabileceğimizi düşünelim. Her gün biraz meyve, sebze, protein ve su tüketmeyi unutmayalım. Böylece vücudumuz her zaman mutlu ve sağlıklı kalacaktır."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda sağlıklı atıştırmalıklar hazırlamıştık. Şimdi, sağlıklı beslenmenin önemini tekrar hatırlayalım. Sağlıklı beslenmek, bizi sadece fiziksel olarak değil, zihinsel olarak da güçlü kılar. Öğrenme yeteneğimizi artırır ve bizi daha mutlu yapar. Bu yüzden her gün dengeli beslenmeye özen göstermeliyiz."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musunuz, sağlıklı beslenmenin bizi nasıl daha mutlu ve enerjik hissettirdiğini söylemiştik. Şimdi, bu bilgiyi arkadaşlarınızla paylaşabilirsiniz. Onlara da sağlıklı beslenmenin ne kadar önemli olduğunu anlatabilirsiniz. Belki birlikte sağlıklı atıştırmalıklar hazırlayabilir ve eğlenceli bir piknik yapabilirsiniz. Ne dersiniz?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte sağlıklı beslenme konusunda çok şey öğrendik. Umarım bu bilgileri günlük hayatınıza da dahil edersiniz. Sağlıklı beslenmek, bizi her zaman mutlu ve enerjik tutar. Şimdi, öğrendiklerinizi ailenizle de paylaşabilirsiniz. Bir sonraki maceramızda görüşmek üzere, hoşça kalın küçük dostlarım!"
+    }
+  ],
+  "title": "Piggy Friend'ın Nutrition Hikayesi"
+}

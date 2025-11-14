@@ -1,0 +1,98 @@
+{
+  "id": "snowman buddy olaf-style_tiempo de pantalla, seguridad digital, uso de tecnología, hábitos saludables de pantalla_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "tiempo de pantalla, seguridad digital, uso de tecnología, hábitos saludables de pantalla",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy tu amigo muñeco de nieve, estilo Olaf. Hoy vamos a explorar el mágico mundo del tiempo de pantalla y cómo usar la tecnología de manera segura y divertida. ¿Estás listo para esta aventura? ¡Estoy tan emocionado de aprender contigo! Vamos a descubrir juntos cómo hacer que el tiempo frente a la pantalla sea saludable y lleno de alegría."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, ¿sabías que el tiempo de pantalla es el tiempo que pasamos frente a la televisión, la computadora o el tablet? Es importante saber cuánto tiempo pasamos frente a estas pantallas, porque queremos que nuestros ojos y mentes estén felices y descansados. Cuando jugamos al aire libre o leemos un libro, damos un descanso a nuestros ojos. ¡Y eso es muy bueno! Así que siempre es bueno tener un balance entre el tiempo de pantalla y otras actividades divertidas."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos de la seguridad digital. Es como tener un escudo mágico que nos protege cuando usamos la tecnología. Nunca debemos compartir información personal como nuestros nombres completos, direcciones o contraseñas. Esas son nuestras cosas secretas y debemos guardarlas bien. Además, si algo en la pantalla nos hace sentir incómodos, siempre podemos hablar con un adulto de confianza. Así estamos seguros y protegidos mientras exploramos el mundo digital."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Ahora que sabemos sobre la seguridad digital, podemos disfrutar de la tecnología de manera más segura. ¿Te gustaría probar a usar la tecnología para aprender algo nuevo? Podríamos buscar un video divertido sobre cómo hacer manualidades o escuchar una canción alegre. ¡Es increíble cómo la tecnología puede ayudarnos a aprender y divertirnos al mismo tiempo! Recuerda siempre preguntar a un adulto antes de ver algo nuevo."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos la importancia de tomar descansos mientras usamos la tecnología. A veces, cuando jugamos un juego muy divertido, perdemos la noción del tiempo. Es como cuando construimos un muñeco de nieve y no queremos parar. Pero nuestros ojos y cuerpos necesitan descansar. Podemos hacer una pausa cada 20 minutos para estirarnos, saltar, o simplemente mirar por la ventana. ¡Eso nos ayudará a sentirnos frescos y felices!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos de cómo elegir qué ver en las pantallas. Es como elegir qué dulces comer, queremos los mejores y más saludables. Elegir programas y juegos que nos enseñen cosas nuevas o nos hagan reír es una gran idea. Preguntemos siempre a un adulto si no estamos seguros de qué ver. Así podemos asegurarnos de que cada minuto frente a la pantalla sea especial y útil."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo muy bien! Ahora que sabemos cómo elegir buenos programas, podemos disfrutar más de nuestro tiempo de pantalla. ¿Puedes pensar en un programa o juego que te guste mucho y que te enseñe algo nuevo? Compartir tus descubrimientos con amigos y familiares también es una gran manera de aprender juntos. ¡Qué divertido es aprender y jugar al mismo tiempo!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te has preguntado alguna vez cuántas horas es bueno pasar frente a la pantalla cada día? Es importante que tengamos tiempo para jugar, estudiar y descansar. ¿Qué piensas que es un buen tiempo para usar las pantallas? Quizás una o dos horas al día es suficiente para que podamos hacer otras cosas divertidas también. ¿Qué opinas tú? Me encantaría saber tu respuesta."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablamos de tomar descansos. Es un consejo muy importante porque ayuda a mantenernos felices y saludables. Ahora, vamos a practicar juntos. Podemos cerrar los ojos, respirar profundamente y contar hasta cinco. ¡Uno, dos, tres, cuatro, cinco! ¿No se siente bien? Hacer esto cada vez que tomamos un descanso de la pantalla nos ayuda a sentirnos relajados y listos para el siguiente juego o tarea."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que hemos aprendido tanto sobre el tiempo de pantalla y la seguridad digital, ¿qué te parece si recordamos lo que hemos aprendido? Podemos pensar en cómo ser seguros en línea y cómo elegir programas que nos enseñen cosas nuevas. También recordemos tomar descansos y compartir nuestros descubrimientos con nuestros amigos. ¡Es divertido recordar y compartir lo que sabemos!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Una última cosa importante es establecer rutinas. Las rutinas nos ayudan a saber cuándo es el momento de jugar con pantallas y cuándo es el momento de hacer otras cosas. Podemos pedir ayuda a un adulto para crear un horario que incluya tiempo de pantalla, tiempo de juego y tiempo de descanso. Así, cada día será equilibrado y divertido. ¿No es genial tener un plan?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora que sabemos cómo hacer un buen uso del tiempo de pantalla, podemos disfrutar mucho más. Recuerda, siempre es bueno preguntar si no estamos seguros de algo. Los adultos pueden ayudarnos a entender y aprender más. ¡Qué divertido es explorar el mundo con seguridad y alegría! Estoy muy orgulloso de ti por aprender tanto hoy."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Antes de terminar, me encantaría saber cuál es tu parte favorita del tiempo de pantalla. ¿Te gusta más ver videos, jugar juegos, o aprender cosas nuevas? ¡Hay tantas cosas divertidas que hacer! ¿Cuál es tu actividad favorita? Compartir tus ideas es una gran manera de aprender juntos. ¡Estoy muy curioso de saber más sobre ti!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un día maravilloso aprendiendo sobre el tiempo de pantalla y la tecnología contigo. Espero que hayas disfrutado tanto como yo. Recuerda, siempre podemos aprender y divertirnos de manera segura. ¡Gracias por acompañarme en esta aventura mágica! ¡Hasta la próxima, pequeño amigo! Cuídate mucho y sigue explorando el mundo con alegría."
+    }
+  ],
+  "title": "Historia de Screen Time de Snowman Buddy Olaf-Style"
+}

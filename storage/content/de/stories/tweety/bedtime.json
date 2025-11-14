@@ -1,0 +1,104 @@
+{
+  "id": "chirpy_birdie_bedtime_story",
+  "character": "Chirpy Birdie",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Chirpy Birdie. Heute reden wir über die Schlafenszeit. Bist du bereit für ein Abenteuer? Schlafen ist so wichtig, weil es dir hilft, groß und stark zu werden. Ich freue mich darauf, dir zu zeigen, wie lustig und entspannend es sein kann, ins Bett zu gehen. Lass uns die Reise beginnen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über Schlafenszeit sprechen, weißt du, dass es eine besondere Zeit ist, um sich auszuruhen. Nach einem langen Tag voller Spielen und Lernen braucht dein Körper eine Pause. Schlafen hilft deinem Gehirn, sich zu erholen und neue Dinge zu lernen. Stell dir vor, wie ein kleiner Akku, der aufgeladen wird. Wenn du ausreichend Schlaf bekommst, fühlst du dich am nächsten Tag energiegeladen und fröhlich."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ein wichtiger Teil der Schlafenszeit ist das Abendritual. Abendrituale helfen deinem Körper, sich auf das Schlafen vorzubereiten. Dazu gehört das Zähneputzen, um deine Zähne sauber und gesund zu halten. Vielleicht magst du auch ein schönes Buch lesen oder eine gute Nacht Geschichte hören. Diese kleinen Rituale signalisieren deinem Körper, dass es Zeit ist, sich zu entspannen und ins Traumland zu reisen."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns gemeinsam ein kleines Ritual ausprobieren. Wir können drei tiefe Atemzüge machen. Atme tief ein und langsam wieder aus. Das hilft dir, ruhiger zu werden und deinen Körper zu entspannen. Wunderbar, du machst das großartig! Atmen ist ein einfacher und effektiver Weg, um sich auf die Schlafenszeit vorzubereiten."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Zähneputzen gesprochen haben? Das ist ein wichtiger Teil des Abendrituals. Wenn du deine Zähne putzt, entfernst du die kleinen Essensreste, die sich den ganzen Tag über angesammelt haben. Es ist, als würdest du deinen Mund aufräumen. So bleiben deine Zähne stark und gesund, und du kannst mit einem strahlenden Lächeln aufwachen."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über das Aufräumen sprechen. Bevor du ins Bett gehst, ist es gut, deine Spielsachen aufzuräumen. Es ist wie ein kleines Spiel, bei dem alles an seinen Platz kommt. Wenn dein Zimmer ordentlich ist, kannst du besser schlafen, weil alles ruhig und friedlich aussieht. Und morgen früh findest du alles ganz leicht wieder."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super, du machst das wirklich gut! Jetzt können wir uns noch ein wenig strecken, bevor wir ins Bett gehen. Strecken hilft deinem Körper, sich zu entspannen und sich bereit für die Nacht zu fühlen. Versuche, deine Arme hoch in die Luft zu strecken, als würdest du die Sterne berühren. Das fühlt sich gut an, oder? Du bist bereit für eine erholsame Nacht."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir so viel über die Schlafenszeit gelernt haben, ist es Zeit, sich ins Bett zu kuscheln. Dein Bett ist wie eine gemütliche Höhle, die dich warm und sicher hält. Kuschel dich in deine Decke und denke an all die schönen Dinge, die du heute erlebt hast. Vielleicht möchtest du auch an etwas Schönes denken, das du morgen machen wirst. Träume sind wie kleine Abenteuer, die du im Schlaf erlebst."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du eine Lieblingsgeschichte, die du vor dem Schlafengehen hörst? Geschichten sind eine wunderbare Möglichkeit, sich zu entspannen und die Fantasie zu beflügeln. Vielleicht magst du Geschichten über mutige Helden oder lustige Abenteuer. Wenn du magst, kannst du mir von deiner Lieblingsgeschichte erzählen. Ich bin so neugierig, sie zu hören!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an die drei tiefen Atemzüge, die wir gemacht haben? Das kannst du immer wieder tun, wenn du dich entspannen möchtest. Atme tief ein und langsam wieder aus. Es hilft dir, ruhig zu werden und dich auf den Schlaf vorzubereiten. Du kannst es auch zusammen mit einer Geschichte oder einem Lied machen. Es ist eine tolle Möglichkeit, den Tag zu beenden."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vergiss nicht, dass auch Kuscheltiere wunderbare Schlafbegleiter sind. Sie sind weich und kuschelig und geben dir ein Gefühl von Geborgenheit. Vielleicht hast du ein Lieblingskuscheltier, das dich jede Nacht begleitet. Es ist, als hättest du einen kleinen Freund, der immer bei dir ist. Kuschel dich mit deinem Kuscheltier ein und lass die Träume kommen."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wirklich toll! Jetzt, wo du alles über die Schlafenszeit weißt, kannst du jeden Abend gut schlafen. Denk daran, dass Schlafen wichtig ist, um groß und stark zu werden. Du kannst stolz auf dich sein, dass du dir Zeit für deine Schlafenszeit nimmst. Morgen wirst du frisch und bereit für neue Abenteuer aufwachen!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Schlafenszeit ist mehr als nur schlafen, es ist eine Zeit zum Entspannen und Träumen. Wenn du dir Zeit nimmst, um zur Ruhe zu kommen, fühlst du dich am nächsten Tag besser. Stell dir vor, du bist ein kleiner Vogel, der sich in seinem Nest einkuschelt. Das Nest ist warm und sicher, und du kannst die Sterne am Himmel sehen. So fühlt sich Schlafen an – sicher und geborgen."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was ist dein Lieblingsritual vor dem Schlafengehen? Vielleicht magst du ein Lied hören oder eine Geschichte lesen. Rituale helfen dir, dich auf den Schlaf vorzubereiten. Sie sind wie kleine Zeichen, dass es Zeit ist, sich zu entspannen. Wenn du magst, kannst du mir von deinem Lieblingsritual erzählen. Ich bin gespannt, was du gerne machst!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über die Schlafenszeit zu sprechen. Jetzt weißt du, wie wichtig es ist, sich zu entspannen und gut zu schlafen. Ich hoffe, du hast viel Spaß beim Ausprobieren deiner neuen Abendrituale. Schlaf gut, kleiner Freund, und träume etwas Schönes. Ich freue mich darauf, bald wieder mit dir zu sprechen. Gute Nacht und bis bald!"
+    }
+  ],
+  "title": "Chirpy Birdies Bedtime Geschichte"
+}

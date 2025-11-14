@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_behavior_story",
+  "character": "Bubble Buddy",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Bubble Buddy. Bugün birlikte davranışlar hakkında harika bir yolculuğa çıkacağız. İyi davranışlar nasıl olur, neden önemlidir konuşacağız. Hazır mısın? Seni çok merak ediyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Davranışlar, diğer insanlarla nasıl iyi geçineceğimizi gösterir. Örneğin, bir arkadaşımıza oyuncaklarımızı paylaşmak iyi bir davranıştır. Bu, arkadaşımızı mutlu eder ve bizim de iyi hissetmemizi sağlar. İyi davranışlar, başkalarına saygı göstermemizi ve onların duygularını anlamamızı sağlar. Şimdi, birlikte iyi davranışlar hakkında daha fazla şey öğrenelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bazen kurallara uymak zor gelebilir ama kurallar, güvenli ve mutlu bir ortam yaratmak için önemlidir. Örneğin, yemek yerken masada oturmak bir kuraldır. Bu kural, yemek yerken kazaları önler ve ailemizle keyifli zaman geçirmemizi sağlar. Kurallara uymak, başkalarına da iyi bir örnek olmamızı sağlar. Şimdi, birlikte bazı kuralları gözden geçirelim."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi birlikte birkaç iyi davranış örneği bulalım. Mesela, oyuncaklarımızı toplamak iyi bir davranış örneğidir. Bu, odamızın düzenli kalmasını sağlar ve annemizi babamızı mutlu eder. Diğer bir örnek ise, arkadaşlarımızı dinlemek ve onların söylediklerine saygı göstermektir. Senin de aklına başka bir iyi davranış geliyor mu?"
+    },
+    {
+      "id": "scene_4",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda iyi davranışlar ve kurallardan bahsetmiştik. Şimdi, bu davranışları günlük hayatımızda nasıl uygulayabileceğimize bakalım. Örneğin, sabah uyandığında yatağını toplamak harika bir başlangıç olabilir. Bu basit davranış, güne düzenli başlamamızı sağlar. Aynı zamanda, dişlerimizi fırçalamak da iyi bir alışkanlıktır. Hadi, bu davranışları nasıl uygulayabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "İyi davranışlar, başkalarına nasıl davranmamız gerektiğini de öğretir. Örneğin, bir arkadaşımız üzgün olduğunda ona sarılmak ve destek vermek iyi bir davranıştır. Bu, arkadaşımızın kendini daha iyi hissetmesine yardımcı olur. Aynı şekilde, teşekkür etmek ve özür dilemek de önemlidir. Bu tür davranışlar, ilişkilerimizi güçlendirir. Şimdi, birlikte başka neler yapabileceğimizi keşfedelim."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bazen, iyi davranışlar sergilemek zor olabilir. Ama unutma, her zaman denemek önemlidir. Mesela, oyun oynarken sabırlı olmak ve sıra beklemek iyi bir davranıştır. Bu, oyunun adil olmasını sağlar ve herkesin eğlenmesine yardımcı olur. Her zaman nazik ve sabırlı olmaya çalışmalıyız. Şimdi, birlikte birkaç derin nefes alalım ve sakinleşelim."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Şimdi, birlikte iyi davranışları nasıl pekiştirebileceğimizi düşünelim. Örneğin, her gün bir iyi davranış yaptığında kendine bir yıldız verebilirsin. Bu, seni motive eder ve iyi alışkanlıklar kazanmana yardımcı olur. Ayrıca, başkalarına iyi davranışlar gösterdiğinde onları da teşvik etmiş olursun. Sen de böyle bir liste yapmak ister misin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Birlikte düşündüğümüzde, iyi davranışların ne kadar önemli olduğunu görüyoruz, değil mi? Peki, şimdi sana bir soru sormak istiyorum: Bugün hangi iyi davranışı yapmayı planlıyorsun? Belki bir arkadaşına yardım edebilirsin ya da oyuncaklarını toplayabilirsin. Ne yapmayı düşünüyorsun? Cevabını çok merak ediyorum!"
+    },
+    {
+      "id": "scene_9",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Harika bir plan! İyi davranışlar sergilemek, hem seni hem de çevrendekileri mutlu eder. Şimdi, bu davranışları uygularken neler hissettiğini düşün. Kendini daha mutlu ve daha huzurlu hissedeceksin. Başkalarına yardım etmek ve nazik davranmak, dünyayı daha güzel bir yer yapar. Şimdi, bir sonraki adımda neler yapabileceğimizi konuşalım."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda iyi davranışlar sergilemenin ne kadar önemli olduğunu konuştuk. Şimdi, bu davranışların başkalarının hayatını nasıl etkilediğine bakalım. Örneğin, bir arkadaşımızı güldürmek, onun gününü aydınlatabilir. Küçük bir iyilik, büyük bir fark yaratabilir. İyi davranışlar, çevremizdeki insanların da bize iyi davranmasını sağlar. Şimdi, birlikte başka neler yapabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Davranışlar, her gün pratik yaparak geliştirilebilir. Mesela, sabahları annene ve babana günaydın demek iyi bir başlangıçtır. Bu küçük selamlaşma, onların gününü daha güzel yapabilir. Ayrıca, okulda öğretmenine ve arkadaşlarına saygılı davranmak da önemlidir. Bu tür davranışlar, seni sevilen biri yapar. Şimdi, bu davranışları hayatımıza nasıl daha fazla katabiliriz, bakalım."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Çok güzel gidiyorsun! Şimdi, birlikte biraz eğlenelim. Birlikte bir oyun oynayalım mı? Oyunun adı 'İyi Davranışlar Oyunu'. Her iyi davranış sergilediğinde bir puan kazanıyorsun. Mesela, birine yardım ettiğinde ya da teşekkür ettiğinde puan kazanabilirsin. Bu oyun, iyi davranışları eğlenceli hale getirir. Hazır mısın? Başlayalım!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Birlikte oynadığımız oyunda neler yaptığımızı hatırlıyor musun? İyi davranışların ne kadar eğlenceli olabileceğini gördük. Şimdi, bu davranışları gerçek hayatta nasıl uygulayabileceğimizi düşünelim. Her gün bir iyilik yapmak, seni ve çevrendekileri mutlu eder. İyi davranışlar, arkadaşlıkları güçlendirir ve seni daha iyi bir insan yapar. Bir sonraki adımda neler yapabileceğimizi konuşalım."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık ve iyi davranışların ne kadar önemli olduğunu öğrendik. Unutma, her gün küçük de olsa bir iyilik yapabilirsin. Bu, seni ve çevrendekileri mutlu eder. Şimdi, bu öğrendiklerini uygulamaya koyma zamanı. Sen harika birisin ve bunu yapabilirsin! Bir sonraki buluşmamıza kadar hoşça kal!"
+    }
+  ],
+  "title": "Bubble Buddy'ın Behavior Hikayesi"
+}

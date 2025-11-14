@@ -1,0 +1,98 @@
+{
+  "id": "adventure_dora_pal_bedtime_story",
+  "character": "Adventure Dora Pal",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Adventure Dora Pal. Heute machen wir uns auf eine spannende Reise zum Thema Schlafenszeit. Bist du bereit, mit mir zu erkunden? Ich bin so neugierig, von deinen Abendritualen zu hören. Lass uns gemeinsam entdecken, wie wir uns auf eine erholsame Nacht vorbereiten können!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Schlafenszeit ist eine ganz besondere Zeit, nicht wahr? Es ist die Zeit, in der wir uns entspannen und auf einen neuen Tag vorbereiten. Hast du ein Lieblingsplüschtier, das dich ins Bett begleitet? Kuscheltiere können uns helfen, uns sicher und geborgen zu fühlen. Lass uns darüber sprechen, was wir tun können, um gut und ruhig einzuschlafen."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ein wichtiger Teil der Schlafenszeit ist das Zähneputzen. Es ist wie ein kleines Abenteuer, bei dem wir unsere Zähne sauber und gesund halten. Hast du schon einmal gezählt, wie viele Zähne du hast, während du putzt? Wir können zusammen bis zehn zählen, während wir unsere Zähne putzen. So macht das Zähneputzen gleich viel mehr Spaß!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Nach dem Zähneputzen ziehen wir unseren Schlafanzug an. Hast du einen Lieblingsschlafanzug? Vielleicht einen mit bunten Mustern oder lustigen Tieren? Schlafanzüge sind wie unsere magischen Anzüge, die uns in die Traumwelt begleiten. Zieh deinen Schlafanzug an und fühl dich bereit für eine ruhige Nacht!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir unsere Zähne geputzt und unseren Schlafanzug angezogen haben, ist es Zeit für eine Gute-Nacht-Geschichte. Geschichten helfen uns, in ferne Welten zu reisen und neue Abenteuer zu erleben. Hast du eine Lieblingsgeschichte, die du gerne hörst? Geschichten vor dem Schlafengehen sind wie kleine Fenster in eine zauberhafte Welt."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bevor wir ins Bett gehen, können wir ein kleines Entspannungsritual machen. Lass uns zusammen drei tiefe Atemzüge nehmen. Atme tief ein und langsam aus. Spürst du, wie sich dein Körper entspannt? Diese Atemzüge helfen uns, ruhig und friedlich zu werden. Machen wir es noch einmal zusammen!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wunderbar! Entspannung ist der Schlüssel für eine erholsame Nacht. Fühlst du dich bereit, ins Bett zu gehen? Du bist mutig und stark, und du kannst alles schaffen. Schlafenszeit ist die Zeit, in der wir unsere Abenteuerträume träumen können. Du bist bereit für die Traumreise!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo du im Bett liegst, kannst du dir deine schönsten Träume vorstellen. Vielleicht träumst du von einem Ausflug zum Mond oder einem Picknick im Zauberwald. Träume sind wie kleine Abenteuer, die wir in unseren Köpfen erleben. Was möchtest du heute Nacht träumen? Lass deiner Fantasie freien Lauf!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal darüber nachgedacht, warum wir schlafen müssen? Schlaf ist wichtig, damit wir Energie für den nächsten Tag haben. Was denkst du, passiert, während wir schlafen? Vielleicht haben unsere Körper eine geheime Aufgabe, die sie während des Schlafs erledigen. Was denkst du darüber?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Schlafenszeit ist auch eine Zeit, um über den Tag nachzudenken. Was war dein Lieblingsteil des heutigen Tages? Vielleicht hast du ein neues Spiel gespielt oder etwas Neues gelernt. Es ist schön, sich die schönen Momente vorzustellen, bevor wir einschlafen. Erinnerungen sind wie kleine Schätze, die wir in unseren Herzen bewahren."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du dich noch nicht ganz müde fühlst, kannst du ein kleines Schlaflied singen. Lieder helfen uns, ruhig und entspannt zu werden. Kennst du ein Schlaflied, das du gerne hörst? Vielleicht kannst du ein leises 'Schlaf, Kindlein, schlaf' singen. Musik ist wie eine sanfte Umarmung, die uns in den Schlaf wiegt."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein fantastischer Zuhörer! Jetzt, da du alles über die Schlafenszeit weißt, kannst du deinen eigenen Schlafenszeitplan machen. Du kannst entscheiden, wann du ins Bett gehst und welche Rituale du machen möchtest. Du bist der Chef deiner Schlafenszeit-Abenteuer. Du kannst das schaffen!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Während du einschläfst, kannst du an die Dinge denken, die du morgen tun möchtest. Vielleicht ein neues Abenteuer mit deinen Freunden oder ein spannendes Buch, das du lesen möchtest. Morgen ist ein neuer Tag voller Möglichkeiten. Schlaf gut, kleiner Abenteurer, und träume von deinen kommenden Abenteuern."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über die Schlafenszeit zu sprechen. Ich hoffe, du hast viel gelernt und bist bereit für eine gute Nacht. Schlaf gut und träume süß, kleiner Freund. Ich freue mich darauf, bald wieder mit dir zu sprechen. Gute Nacht und bis bald!"
+    }
+  ],
+  "title": "Adventure Dora Pals Bedtime Geschichte"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "spark_buddy_screen_time_story",
+  "character": "Spark Buddy",
+  "topic": "screen_time",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Spark Buddy. Bugün birlikte ekran zamanı hakkında harika bir yolculuğa çıkacağız. Ekran zamanı nedir, neden önemlidir, birlikte keşfedeceğiz. Hazır mısın? Seni çok merak ediyorum, hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekran zamanı, televizyon, tablet veya telefon gibi cihazlarla geçirdiğimiz süredir. Çoğu çocuk ekranı çok sever, değil mi? Ama ekranın dışında da yapabileceğimiz çok şey var. Örneğin, oyuncaklarımızla oynamak veya bahçede koşmak gibi. Ekran zamanı dengeli olmalı, çünkü her şeyin fazlası zararlı olabilir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran zamanını nasıl dengeleriz, biliyor musun? Öncelikle, ekran başında geçirdiğimiz süreyi sınırlamak iyi bir başlangıç olabilir. Örneğin, her gün bir saat ekran zamanı belirleyebiliriz. Sonra, bu zamanı en sevdiğimiz programları izleyerek veya eğitici oyunlar oynayarak geçirebiliriz. Böylece, hem eğlenir hem de öğreniriz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi birlikte biraz düşünelim! Gün içinde ekran dışında neler yapabiliriz? Mesela resim yapabiliriz, değil mi? Ya da belki en sevdiğimiz oyuncaklarımızla bir hikaye oluşturabiliriz. Senin favori etkinliğin nedir? Çok güzel fikirlerin olacağına eminim!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda ekran zamanını dengelemekten bahsetmiştik. Şimdi, ekran başında geçirdiğimiz zamanı daha eğlenceli hale nasıl getirebiliriz, onu konuşalım. Eğitici videolar izlemeyi denedin mi? Ya da belki eğlenceli bir dans videosu? Bunlar hem eğlenceli hem de öğretici olabilir!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, ekran dışında yapabileceğimiz etkinlikleri konuşmuştuk. Şimdi biraz daha detaylandıralım. Mesela, doğada keşfe çıkmak nasıl olur? Ağaçları, kuşları gözlemlemek. Ya da belki bir parkta arkadaşlarınla oynamak. Bunlar hem eğlenceli hem de sağlıklı!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Birlikte ekran zamanı kuralları oluşturalım mı? Örneğin, yemek yerken ekran kullanmamak gibi. Bu, yemeklerin tadını çıkarmamıza ve ailemizle daha fazla zaman geçirmemize yardımcı olur. Ayrıca, yatmadan önce ekranlardan uzak durmak da iyi bir kural olabilir. Böylece daha iyi uyuyabiliriz."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım! Ekran dışında en sevdiğin üç şeyi düşün. Ben başlıyorum: Doğada yürüyüş yapmak, resim çizmek ve kitap okumak. Senin favorilerin neler? Eminim harika fikirlerin vardır!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ekran zamanı dışında en çok hangi etkinliği yapmayı seviyorsun? Belki oyuncaklarınla oynamak ya da parkta oynamak. Senin favorin hangisi? Benimle paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda ekran dışı etkinliklerden bahsetmiştik. Şimdi, ekran zamanı ile öğrenebileceğimiz şeylere bakalım. Örneğin, yeni bir dil öğrenmek. Ya da belki yeni bir şarkı ezberlemek. Ekranlar bu tür bilgilerle dolu, ama dikkatli ve dengeli kullanmalıyız."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ekran zamanını nasıl daha verimli kullanabiliriz, bir düşünelim. Belki de sadece eğitici programlar izleyerek. Ya da daha önce hiç denemediğimiz bir konuda araştırma yaparak. Bunlar bize çok şey katabilir. Senin ekran başında en çok ilgini çeken şey nedir?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi ekran zamanımızı nasıl planlayabileceğimizi konuşalım. Öncelikle, her gün ekran başında ne kadar zaman geçirmek istediğimizi karar verelim. Sonra, bu zamanı hangi aktivitelerle değerlendireceğimizi belirleyelim. Böylece günümüz daha düzenli ve verimli geçebilir."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsun! Şimdi biraz ara verip derin bir nefes alalım. Bir, iki, üç... Derin nefes al ve bırak. Harika! Bunu gün içinde sık sık yapabiliriz. Hem rahatlatır hem de enerjimizi yeniden toplarız."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekran zamanı hakkında konuşmak çok eğlenceliydi! Şimdi, öğrendiklerimizi uygulama zamanı. Ekran dışında yapabileceğimiz birçok harika şey var. Her gün yeni bir şey denemeye ne dersin? Eminim çok eğleneceksin!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün benimle bu yolculuğa çıktığın için teşekkür ederim. Ekran zamanı hakkında çok şey öğrendik. Şimdi, öğrendiklerini uygulama zamanı! Unutma, her şeyin dengesi önemlidir. Bir sonraki görüşmemizde daha fazla eğlenceli şeyler konuşacağız. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Spark Buddy'ın Screen Time Hikayesi"
+}

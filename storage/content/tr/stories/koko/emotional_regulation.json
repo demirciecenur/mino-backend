@@ -1,0 +1,104 @@
+{
+  "id": "koko_emotional_regulation_story",
+  "character": "Koko",
+  "topic": "emotional_regulation",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Koko. Bugün duygularımızı nasıl daha iyi anlayabiliriz, bunu konuşacağız. Duygularımızı kontrol etmek, bazen zor olabilir ama korkma, birlikte bunu başarabiliriz. Hazır mısın? Seni çok merak ediyorum ve birlikte harika bir yolculuğa çıkacağız."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımız, tıpkı gökyüzündeki bulutlar gibidir. Bazen çok mutluyken, bazen de üzgün olabiliriz. Önemli olan, bu duyguların hepsinin normal olduğunu bilmektir. Duygularımızı anlamak ve onları kontrol etmek, bizi daha mutlu yapabilir. Şimdi, duygularımızı nasıl tanıyabileceğimizi öğrenelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Öncelikle, duygularımızı anladığımızda onları kontrol edebiliriz. Mesela, üzgün olduğunda derin bir nefes almak işe yarayabilir. Hadi birlikte deneyelim: Derin bir nefes al ve yavaşça ver. Bunu yaparken, kendini daha sakin hissedebilirsin. Bu basit adımlarla duygularımızı daha iyi yönetebiliriz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Duygularımızı anlamak için bir adım daha attık. Şimdi, bir sonraki adımda ne yapacağımızı konuşalım. Duygularını tanımak için onları isimlendirebilirsin. Örneğin, 'Şu an kızgınım' diyebilirsin. Bunu yapmak, duygularını daha iyi anlamana yardımcı olur."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı isimlendirdikten sonra, onlarla ne yapacağımıza karar verebiliriz. Kızgın hissettiğinde, belki bir resim çizebilir veya bir şeyler yazabilirsin. Bu, duygularını dışa vurmanın harika bir yoludur. Ayrıca, sevdiğin birine duygularından bahsetmek de iyi gelebilir. Bunu denemek ister misin?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Duygularını ifade etmek için hangi yöntemleri kullanıyorsun? Belki resim yapıyorsundur ya da bir oyuncakla oynuyorsundur. Senin için en iyi olanı bulmak önemlidir. Fikirlerini benimle paylaşmak ister misin? Senin nasıl hissettiğini duymayı çok isterim."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Duygularını ifade etmek, bazen zor olabilir ama birlikte daha kolay hale getirebiliriz. Hatırlıyor musun, önceki konuşmamızda nefes almayı denemiştik? Şimdi, başka bir yöntemi deneyelim. Hadi birlikte bir hikaye oluşturalım ve hissettiklerimizi bu hikayede ifade edelim."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir hikaye oluştururken, karakterlerin nasıl hissettiğini düşünebiliriz. Mesela, bir karakter üzgünse, ona nasıl yardımcı olabiliriz? Ona bir arkadaş olabiliriz ya da birlikte oyun oynayabiliriz. Bu hikaye sayesinde, duygularımızı daha iyi anlayabiliriz. Hayal gücünü kullanarak, kendi hikayeni oluşturmak ister misin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika işler çıkarıyorsun! Kendi hikayeni oluşturmak, duygularını daha iyi anlamana yardımcı olabilir. Şimdi, nefes alma egzersizimizi tekrar edelim. Derin bir nefes al ve yavaşça bırak. Bu, seni sakinleştirecek ve daha iyi hissettirecek. Başardığını görmek beni mutlu ediyor!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı anlamak ve yönetmek, her zaman kolay olmayabilir. Ancak, pratik yaparak daha iyi hale gelebiliriz. Unutma, her duygu değerlidir ve bize bir şeyler öğretir. Şimdi, birlikte öğrendiklerimizi tekrar edelim ve ne kadar ilerlediğimize bakalım. Seninle gurur duyuyorum!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bugün öğrendiklerimiz hakkında ne düşünüyorsun? Duygularını yönetmek için başka neler yapabilirsin? Belki bir arkadaşına yardım edebilirsin ya da bir kitap okuyabilirsin. Senin önerilerini duymayı çok isterim. Paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Önerilerin harika! Duygularımızı anlamak ve yönetmek için birçok farklı yol var. Şimdi, bir sonraki adımda neler yapabileceğimize bakalım. Belki bir oyun oynayabiliriz ya da bir şarkı söyleyebiliriz. Eğlenceli ve öğretici bir şeyler yapalım!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir oyun oynarken, duygularımızı daha iyi ifade edebiliriz. Mesela, bir role girip duygularımızı canlandırabiliriz. Bu, duygularımızı anlamamıza ve ifade etmemize yardımcı olur. Şimdi, birlikte bir oyun oynayalım ve nasıl hissettiğimizi keşfedelim. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Oyun oynamak çok eğlenceliydi, değil mi? Duygularımızı keşfetmek ve anlamak için harika bir yoldu. Seninle oyun oynamak, bana da çok iyi geldi. Şimdi, öğrendiklerimizi hayatımıza nasıl uygulayabileceğimizi düşünelim. Sen bunu yapabilirsin, inanıyorum!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün harika bir gün geçirdik ve çok şey öğrendik. Duygularımızı anlamak ve yönetmek, her zaman önemli olacak. Seninle bu yolculuğa çıkmak çok güzeldi. Bir dahaki sefere daha fazla şey öğreneceğiz. Şimdilik hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Koko'ın Emotional Regulation Hikayesi"
+}

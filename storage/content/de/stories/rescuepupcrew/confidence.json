@@ -1,0 +1,98 @@
+{
+  "id": "rescue_pup_crew_confidence_story",
+  "character": "Rescue Pup Crew",
+  "topic": "confidence",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Teil der Rescue Pup Crew, und heute werden wir auf ein spannendes Abenteuer gehen, um alles über Selbstvertrauen zu lernen. Bist du bereit? Selbstvertrauen bedeutet, an sich selbst zu glauben und mutig zu sein. Es hilft uns, neue Dinge auszuprobieren, auch wenn wir ein bisschen nervös sind. Ich bin so gespannt darauf, was wir alles zusammen entdecken werden!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir wissen, dass Selbstvertrauen wichtig ist, lass uns darüber sprechen, wie es uns im Alltag helfen kann. Stell dir vor, du möchtest ein neues Spielzeug zusammenbauen. Selbstvertrauen hilft dir, die Anleitung zu lesen und loszulegen, ohne Angst zu haben, etwas falsch zu machen. Es ist wie beim Radfahren lernen. Am Anfang ist es schwer, aber mit jedem Versuch wirst du besser. Und je mehr du übst, desto sicherer fühlst du dich!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns gemeinsam eine Übung machen, um unser Selbstvertrauen zu stärken. Stell dir vor, du bist ein Baum. Steh ganz gerade und fest auf dem Boden, so wie ein Baum mit starken Wurzeln. Atme tief ein und aus. Fühle, wie stark du bist und wie du fest auf dem Boden stehst. Diese Übung hilft dir, ruhig und selbstbewusst zu bleiben, wenn du vor einer neuen Herausforderung stehst."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Selbstvertrauen bedeutet auch, sich selbst zu loben, wenn man etwas gut gemacht hat. Denk an all die Dinge, die du schon geschafft hast, wie zum Beispiel das erste Mal alleine auf der Rutsche zu rutschen. Jedes Mal, wenn du etwas Neues ausprobierst, wächst dein Selbstvertrauen. Und das ist wirklich wunderbar!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an das letzte Mal, als du etwas Neues ausprobiert hast? Vielleicht warst du ein wenig nervös, aber dann hast du gemerkt, dass es gar nicht so schwer war. So funktioniert Selbstvertrauen. Es ist wie ein kleiner Muskel, der jedes Mal stärker wird, wenn wir ihn benutzen. Und das Beste daran ist, dass du es immer wieder probieren kannst, bis du es schaffst!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns noch eine kleine Übung machen. Wir zählen bis fünf, um uns zu beruhigen. Eins, zwei, drei, vier, fünf. Gut gemacht! Diese Übung hilft dir, ruhig zu bleiben und dich zu konzentrieren, wenn du etwas Neues ausprobieren möchtest. Du kannst sie immer dann machen, wenn du dich ein bisschen unsicher fühlst."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar! Du bist wirklich mutig. Es ist wichtig, sich selbst zu vertrauen und zu wissen, dass man alles schaffen kann, was man sich vornimmt. Immer wenn du dich unsicher fühlst, erinnere dich daran, dass du stark und mutig bist. Du kannst alles erreichen, wenn du an dich glaubst!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Selbstvertrauen hilft uns auch, anderen zu helfen. Wenn du siehst, dass jemand Hilfe braucht, kannst du mutig sein und deine Unterstützung anbieten. Vielleicht kannst du einem Freund helfen, der sich nicht traut, auf die Schaukel zu gehen. Gemeinsam könnt ihr es schaffen, und das stärkt euer Selbstvertrauen noch mehr!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kannst du dich an eine Zeit erinnern, als du jemandem geholfen hast? Vielleicht hast du einem Freund gezeigt, wie man ein Puzzle löst. Wie hat es sich angefühlt, jemandem zu helfen? Es ist ein tolles Gefühl, nicht wahr? Helfen ist eine wunderbare Möglichkeit, unser Selbstvertrauen zu zeigen und zu stärken."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns daran denken, dass auch kleine Schritte wichtig sind. Selbstvertrauen wächst mit jedem kleinen Erfolg, den wir haben. Es ist wie ein Puzzle, bei dem jedes Teil zählt. Jedes Mal, wenn du etwas Neues lernst, fügst du ein weiteres Teil hinzu. Und irgendwann hast du das ganze Bild!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Probieren wir eine weitere Übung. Stell dir vor, du bist ein großer, starker Löwe. Brülle leise wie ein Löwe, der stolz ist. Fühlst du die Stärke in dir? Diese Übung hilft dir, dich stark und selbstbewusst zu fühlen, wenn du vor einer neuen Aufgabe stehst."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wirklich toll! Jeder kleine Erfolg zählt, und du bist auf dem besten Weg, ein echter Selbstvertrauens-Meister zu werden. Denk daran, dass du immer mutig und stark bist, egal was passiert. Ich bin so stolz auf dich!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Selbstvertrauen hilft uns, uns selbst und andere zu respektieren. Wenn wir an uns glauben, können wir auch anderen helfen, an sich zu glauben. Das macht die Welt zu einem besseren Ort. Gemeinsam können wir so viel erreichen, wenn wir einander unterstützen und ermutigen."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Selbstvertrauen zu sprechen. Ich hoffe, du hast viel gelernt und fühlst dich jetzt stärker und mutiger. Denk daran, du kannst alles erreichen, wenn du an dich selbst glaubst. Bis zum nächsten Abenteuer, kleiner Freund! Auf Wiedersehen und bleib mutig!"
+    }
+  ],
+  "title": "Rescue Pup Crews Confidence Geschichte"
+}

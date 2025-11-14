@@ -1,0 +1,98 @@
+{
+  "id": "clever_mouse_jerry_emotional_regulation_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "emotional_regulation",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Clever Mouse Jerry. Bugün birlikte duygularımızı nasıl daha iyi anlayıp kontrol edebileceğimizi keşfedeceğiz. Duygular bazen çok güçlü olabilir, değil mi? Ama merak etme, bu konuda sana yardımcı olacağım. Hazırsan, bu heyecan verici yolculuğa başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı anlamak, her gün yaşadığımız şeylerden sadece biri. Bazen üzgün, bazen mutlu, bazen de kızgın hissedebiliriz. Bu duyguların hepsi normal ve doğaldır. Önemli olan, bu duyguları nasıl yöneteceğimizi bilmektir. Şimdi, duygularımızla nasıl başa çıkabileceğimizi öğrenelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Öncelikle, derin nefes almayı deneyelim. Derin bir nefes almak, sakinleşmemize yardımcı olabilir. Şimdi birlikte üç derin nefes alalım. Birlikte nefes al, nefes ver. Harika! Derin nefesler, duygularımızı kontrol etmemize yardımcı olabilir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Duygularını kontrol etmek için harika bir iş çıkardın! Şimdi, üzgün hissettiğimizde ne yapabileceğimizi düşünelim. Bir arkadaşımıza ya da ailemize duygularımızı anlatmak bize yardımcı olabilir. Duygularımızı paylaşmak, kendimizi daha iyi hissetmemizi sağlar. Hadi, duygularımızı paylaşmanın ne kadar rahatlatıcı olduğunu keşfedelim."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bazen kızgın olabiliriz ve bu çok normal bir duygudur. Ama kızgınken oyuncaklarımızı fırlatmak yerine, sakinleşmek için bir yöntem bulmalıyız. Örneğin, bir resim çizmek ya da sevdiğimiz bir şarkıyı dinlemek bizi rahatlatabilir. Kızgın olduğumuzda, bu gibi aktivitelerle kendimizi daha iyi hissedebiliriz."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, bir oyun oynayalım. Ben bir duygu söyleyeceğim ve sen de bu duyguyu nasıl hissedebileceğimizi söyleyeceksin. Hazır mısın? İlk duygumuz 'mutlu'. Mutlu olduğumuzda ne yaparız? Belki güleriz ya da zıplarız. Şimdi sen de dene!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence üzüldüğünde seni ne mutlu eder? Belki sevdiğin bir oyuncağınla oynamak ya da en sevdiğin kitabı okumak. Hadi, biraz düşün ve bana söyle. Senin için neyin işe yaradığını merak ediyorum!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Harika cevaplar verdin! Şimdi, bir sonraki duyguya geçelim. Kızgın olduğunda nasıl sakinleşebilirsin? Belki bir süre yalnız kalmak ya da derin nefes almak. Fikirlerin harika! Duygularımızı kontrol etmek için farklı yöntemler bulabiliriz."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Duygularını kontrol etme konusunda çok iyi iş çıkardın! Şimdi, birlikte duygularımızı nasıl daha iyi anlayabileceğimize bakalım. Duygularımızı tanımak, onları yönetmemize yardımcı olur. Sen de duygularını tanımayı öğrenebilirsin!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı anlamak, bazen zor olabilir. Ama birlikte çalışarak, bu konuda daha da iyi olacağız. Örneğin, bir gün üzgün olduğunda, neden üzgün olduğunu düşünmek iyi bir başlangıç olabilir. Bu düşünme süreci, duygularımızı daha iyi anlamamıza yardımcı olur."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, duygularımızı nasıl tanıyabileceğimizi öğrenelim. Bir duygu günlüğü tutarak her gün nasıl hissettiğimizi kaydedebiliriz. Böylece hangi duyguların daha sık olduğunu görebiliriz. Bu yöntem, duygularımızı daha iyi anlamamıza yardımcı olabilir. Hadi, bir duygu günlüğü başlatalım!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Duygularını kaydetmek çok eğlenceli olabilir! Üstelik bu, duygularımızı kontrol etmemize de yardımcı olur. Her gün nasıl hissettiğimizi yazmak, duygularımızı tanımamıza yardımcı olur. Sen de duygularını yazarken ne kadar rahatladığını göreceksin!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı tanımak ve kontrol etmek, büyüdükçe daha da önemli hale gelir. Bu yüzden bugün öğrendiklerin, gelecekte sana çok yardımcı olacak. Duygularını kontrol edebilmek, kendini daha iyi hissetmeni sağlar. Sen de bunu başarabilirsin!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte duygularımızı nasıl daha iyi anlayıp kontrol edebileceğimizi öğrendik. Seninle bu yolculuğa çıkmak çok eğlenceliydi! Duygularını kontrol etme konusunda daha da iyi olacaksın, buna eminim. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Clever Mouse Jerry'ın Emotional Regulation Hikayesi"
+}

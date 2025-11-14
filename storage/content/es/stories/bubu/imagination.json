@@ -1,0 +1,104 @@
+{
+  "id": "bubu_imagination_story",
+  "character": "Bubu",
+  "topic": "imagination",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Bubu, y hoy vamos a explorar el maravilloso mundo de la imaginación. ¿Estás listo para un viaje lleno de sueños y creatividad? La imaginación es como un pincel mágico que puede pintar cualquier cosa que puedas soñar. Me encanta imaginar cosas nuevas y ver a dónde me llevan mis pensamientos. ¡Estoy tan emocionado de que lo hagamos juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La imaginación es como un sueño despierto, donde puedes ser cualquier cosa o ir a cualquier lugar. Puedes imaginar que eres un astronauta en el espacio o un pez nadando en el océano. Cuando cierras los ojos, puedes crear mundos enteros en tu mente. Es un lugar donde todo es posible y no hay límites para lo que puedes hacer. ¿No es increíble lo que puede hacer nuestra mente?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a practicar un poco. Cierra tus ojos por un momento y respira profundo. Imagina que estás en un bosque mágico lleno de árboles que susurran. Escucha el sonido de las hojas al viento y el canto de los pájaros. ¿Puedes sentir el aire fresco en tu cara? Recuerda, puedes cambiar el bosque a lo que quieras, tal vez un castillo o una playa."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo hiciste muy bien! La imaginación es una herramienta poderosa que puedes usar en cualquier momento. Puedes usarla cuando te sientas triste para hacerte sentir mejor o cuando estés aburrido para divertirte. Es como tener un amigo siempre contigo, listo para jugar. ¡Sigue practicando y verás lo lejos que te puede llevar!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablamos de ser un astronauta o un pez. Ahora, vamos a imaginar que somos artistas pintando un gran cuadro. Piensa en todos los colores que puedes usar, como el azul del cielo o el verde de la hierba. ¿Qué te gustaría pintar hoy? Puedes pintar cualquier cosa que te haga feliz."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a intentar algo divertido. Imagina que tienes una caja mágica que puede convertirse en lo que quieras. ¿Qué harías con ella? Podría ser un coche rápido, un cohete espacial o incluso una casa de dulces. Cierra los ojos y piensa en lo que te gustaría que fuera. ¿Cómo se ve? ¿Qué sonidos hace?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué ideas tan maravillosas! Usar la imaginación puede hacer que cualquier día sea especial. Cuando imaginas, estás creando algo único que solo tú puedes ver. Es como tener un superpoder que te permite ver el mundo de una manera diferente. ¡Sigue usando tu imaginación y verás cuántas aventuras puedes crear!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablemos de los sueños. Los sueños son una forma de imaginación que ocurre cuando duermes. A veces son divertidos, a veces extraños, pero siempre son únicos. ¿Alguna vez has tenido un sueño que te hizo sentir feliz al despertar? Los sueños nos muestran lo creativos que podemos ser incluso cuando dormimos."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a crear una historia juntos. Imagina que hay un pequeño dragón que quiere aprender a volar. ¿Cómo lo ayudarías a aprender? ¿Qué aventuras tendría en su camino? Piensa en los amigos que podría hacer y los lugares que podría visitar. Usa tu imaginación para darle vida a esta historia."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Esa fue una historia increíble! Ves lo que podemos hacer con un poco de imaginación. Cada historia que creas es especial y única. La imaginación nos permite explorar mundos nuevos y emocionantes sin salir de casa. ¡Qué maravilloso es tener un mundo tan grande dentro de nuestra mente!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablemos de cómo la imaginación puede ayudarnos en la vida real. Cuando estamos aprendiendo algo nuevo, como montar en bicicleta o dibujar, la imaginación nos ayuda a visualizarlo. Nos muestra que podemos hacerlo, incluso antes de intentarlo. Es como un pequeño empujón que nos dice: '¡Tú puedes hacerlo!'"
+    },
+    {
+      "id": "question_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría compartir una idea que hayas imaginado? Tal vez un juego que inventaste o un personaje que creaste. Me encantaría escucharlo. Comparte con alguien cercano lo que has imaginado y cómo te hace sentir. ¿Qué piensas que podrías imaginar mañana?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en cómo la imaginación nos ayuda a resolver problemas. Cuando algo es difícil, como un rompecabezas, podemos usar nuestra imaginación para encontrar nuevas maneras de resolverlo. Es como tener una caja de herramientas llena de ideas. ¿No es genial poder usarla cuando la necesitamos?"
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a intentar una última cosa. Cierra los ojos y piensa en un lugar donde te sientas feliz. Puede ser un parque, una playa o incluso tu habitación. Imagina todos los detalles, los sonidos, los colores. ¿Cómo te hace sentir estar allí? Recuerda, puedes volver a este lugar siempre que quieras."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Gracias por acompañarme en este viaje de imaginación, pequeño amigo. Espero que hayas disfrutado de todas las aventuras que creamos juntos. Recuerda, tu imaginación siempre está contigo y puedes usarla cuando quieras. ¡Hasta la próxima vez, sigue soñando y creando cosas maravillosas! Adiós, y cuídate mucho."
+    }
+  ],
+  "title": "Historia de Imagination de Bubu"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "yellow_buddy_bedtime_story",
+  "character": "Yellow Buddy",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Yellow Buddy. Heute reden wir über eine spannende Zeit des Tages: die Schlafenszeit! Bist du bereit für ein lustiges Abenteuer? Ich bin so neugierig, was du vor dem Schlafengehen machst. Lass uns gemeinsam die besten Abendrituale entdecken!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, warum Schlafenszeit so wichtig ist? Es ist die Zeit, in der unser Körper sich ausruhen und neue Energie tanken kann. Nach einem langen Tag voller Spielen und Spaß braucht unser Körper eine Pause. Schlafen hilft uns, groß und stark zu werden, genau wie Superhelden! Und weißt du was? Wenn wir gut schlafen, haben wir am nächsten Tag noch mehr Energie für neue Abenteuer!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über Abendrituale sprechen. Abendrituale sind kleine Dinge, die wir jeden Abend tun, um uns auf das Schlafengehen vorzubereiten. Zum Beispiel das Zähneputzen! Es ist wichtig, unsere Zähne sauber zu halten, damit sie stark und gesund bleiben. Und danach ziehen wir unseren gemütlichen Schlafanzug an. So fühlt sich unser Körper bereit zum Kuscheln und Ausruhen an."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super gemacht! Jetzt, wo wir unseren Schlafanzug anhaben, können wir eine kleine Geschichte lesen. Geschichten sind wie magische Reisen in andere Welten. Hast du eine Lieblingsgeschichte, die du gerne vor dem Schlafengehen hörst? Vielleicht etwas über tapfere Ritter oder lustige Tiere? Geschichten helfen uns, uns zu entspannen und in schöne Träume zu gleiten."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an die Geschichte, die wir letztes Mal gehört haben? Geschichten sind auch eine tolle Möglichkeit, neue Dinge zu lernen. Vielleicht lernen wir etwas über ferne Länder oder wie man ein guter Freund ist. Und während wir zuhören, können wir uns vorstellen, dass wir mitten im Abenteuer sind. Das macht das Einschlafen noch spannender!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns ein kleines Ritual ausprobieren, um uns zu beruhigen. Wir atmen dreimal tief ein und aus. Atme ein... und aus... Ein... und aus... Noch einmal, ein... und aus. Fühlt sich das nicht gut an? Tiefes Atmen hilft uns, ruhig und entspannt zu werden, bevor wir ins Bett gehen."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Jetzt können wir darüber sprechen, wie wichtig es ist, das Licht zu dimmen. Ein gedimmtes Licht hilft unserem Körper zu verstehen, dass es Zeit ist, sich zu entspannen. Es ist wie ein kleines Zeichen für unsere Augen, dass es bald Schlafenszeit ist. Und weißt du was? Ein kleines Nachtlicht kann auch helfen, wenn es im Zimmer zu dunkel ist."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du ein Lieblingskuscheltier, das du mit ins Bett nimmst? Kuscheltiere sind wie kleine Freunde, die uns beim Schlafen begleiten. Sie geben uns ein Gefühl von Sicherheit und Geborgenheit. Wenn du dein Kuscheltier umarmst, fühlt es sich fast so an, als ob es dir eine gute Nacht wünscht. Welches Kuscheltier ist dein Lieblingsbegleiter?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über Kuscheltiere gesprochen haben, lass uns über das gemütliche Bett sprechen. Ein gemütliches Bett ist der perfekte Ort zum Träumen. Mit weichen Kissen und einer warmen Decke fühlt sich alles so kuschelig an. Und wenn wir uns hinlegen, können wir uns vorstellen, dass wir auf einer Wolke schlafen. Das macht das Einschlafen noch schöner!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bevor wir schlafen gehen, können wir uns auch vorstellen, was wir am nächsten Tag machen wollen. Vielleicht ein lustiges Spiel spielen oder einen Freund treffen. Diese kleinen Gedanken helfen uns, mit einem Lächeln einzuschlafen. Und wenn wir aufwachen, sind wir bereit für ein neues Abenteuer!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein großartiger Zuhörer! Jetzt, wo wir alle Abendrituale durchgegangen sind, ist es Zeit, ins Bett zu gehen. Wir haben viel gelernt und sind bereit, uns auszuruhen. Denk daran, dass jeder Abend etwas Besonderes ist. Mit all diesen kleinen Ritualen wird das Schlafengehen zu einem schönen Erlebnis."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was ist dein liebstes Abendritual? Vielleicht das Zähneputzen oder das Vorlesen einer Geschichte? Jeder hat seine eigenen kleinen Lieblingstraditionen vor dem Schlafengehen. Es ist spannend zu hören, was andere mögen. Magst du es, ein Lied zu hören oder ein Gebet zu sprechen?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über unsere Lieblingsrituale gesprochen haben, können wir uns noch ein wenig entspannen. Vielleicht ein kleines Schlaflied singen oder leise summen. Musik kann uns helfen, ruhig und friedlich zu werden. Und wenn wir die Augen schließen, können wir uns vorstellen, dass wir auf einer Reise in das Traumland sind."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich an das letzte Mal, als wir über Träume gesprochen haben? Träume sind wie kleine Filme, die unser Kopf abspielt, während wir schlafen. Manchmal sind sie lustig oder abenteuerlich. Und das Beste ist, dass wir am nächsten Morgen darüber erzählen können. Welche Träume hast du in letzter Zeit gehabt?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über die Schlafenszeit zu sprechen! Jetzt ist es Zeit, Gute Nacht zu sagen. Ich hoffe, du hast eine wundervolle Nacht mit vielen schönen Träumen. Schlaf gut und träume etwas Schönes. Bis zum nächsten Mal, kleiner Freund! Gute Nacht und schlaf gut!"
+    }
+  ],
+  "title": "Yellow Buddys Bedtime Geschichte"
+}

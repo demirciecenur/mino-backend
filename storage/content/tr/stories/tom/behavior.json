@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_behavior_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostlarım! Ben Sneaky Cat Tom, maceraperest ve oyuncu bir kediyim. Bugün sizinle davranışlar hakkında harika bir yolculuğa çıkacağız. İyi davranışlar, tıpkı oyuncaklarımızı toplamak ya da dişlerimizi fırçalamak gibi önemli. Hazır mısınız? Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Davranışlar, başkalarına ve kendimize nasıl davrandığımızı gösterir. İyi davranışlar, arkadaşlarımızla daha iyi anlaşmamıza yardımcı olur. Mesela, bir arkadaşımıza oyuncağımızı verdiğimizde, bu çok nazik bir davranış olur. İyi davranışlar, bazen teşekkür etmek ya da özür dilemek gibi basit şeylerdir. Bunlar, arkadaşlarımızı mutlu eder ve bize de iyi hissettirir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, iyi davranışlar hakkında biraz daha konuşalım. Kurallara uymanın ve başkalarına saygı göstermenin neden önemli olduğunu biliyor musunuz? Bu, hem kendimize hem de başkalarına değer verdiğimizi gösterir. Mesela, sıraya girmek ya da sessizce dinlemek, başkalarına saygı göstermenin yollarından biridir. Herkesin kurallara uyması, ortamı daha huzurlu ve eğlenceli yapar."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi şimdi birlikte bir oyun oynayalım. Her gün yaptığınız iyi bir davranışı düşünün. Örneğin, oyuncaklarınızı toplamak ya da arkadaşınıza yardımcı olmak gibi. Harika, bu davranışlar sizi çok özel yapar! Şimdi, bu iyi davranışları hatırlayıp daha sık yapmaya çalışalım. Siz bunu yapabilirsiniz, biliyorum!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda iyi davranışların öneminden bahsetmiştik. Şimdi, kötü davranışların neler olduğunu ve bunlardan nasıl kaçınabileceğimizi konuşalım. Kötü davranışlar, başkalarına zarar verebilir veya üzebilir. Mesela, bir arkadaşımızın oyuncağını izinsiz almak veya yüksek sesle bağırmak gibi. Bu tür davranışlardan kaçınarak daha mutlu bir ortam yaratabiliriz."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kötü davranışlardan kaçınmanın yollarını öğrenmek çok önemli. Öncelikle, kendimizi diğer insanların yerine koymayı denemeliyiz. Onların nasıl hissedeceğini düşünmek, bize doğru yolu gösterebilir. Eğer bir davranışın başkalarını üzebileceğini düşünüyorsak, bunu yapmaktan kaçınmalıyız. Bu, empati yaparak daha iyi bir arkadaş olmamıza yardımcı olur."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte derin bir nefes alalım. Üç kere derin nefes alıp verelim, hazırsanız başlayalım. Bu, sakinleşmemize ve daha iyi düşünmemize yardımcı olur. Harika, şimdi daha iyi hissediyorsunuz değil mi? Unutmayın, sakin olmak ve düşünmek, iyi davranışlar sergilemenin önemli bir parçasıdır."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, iyi davranışları nasıl pekiştireceğimiz hakkında konuşalım. İyi bir davranış sergilediğinizde kendinizi ödüllendirmek çok önemlidir. Bu, kendinizi iyi hissetmenizi sağlar ve aynı zamanda bu davranışı tekrarlamanıza yardımcı olur. Mesela, güzel bir resim yapmak ya da sevdiğiniz bir oyunu oynamak gibi. Bu şekilde, iyi davranışlarınızı daha eğlenceli hale getirebilirsiniz."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda ödüllendirmenin öneminden bahsettik. Peki, siz kendinizi nasıl ödüllendiriyorsunuz? Belki bir hikaye kitabı okumak ya da en sevdiğiniz müziği dinlemek hoşunuza gider. Herkesin farklı sevdiği şeyler vardır ve bu çok güzel bir şey. Kendi ödüllerinizi keşfetmek için harika bir fırsat!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi birlikte iyi bir davranış listesi oluşturalım. Bu liste, her gün yapabileceğiniz küçük ama önemli davranışlardan oluşur. Mesela, her sabah \"günaydın\" demek veya yemek yerken teşekkür etmek gibi. Bu davranışlar, çevremizdeki insanları mutlu eder ve bize de iyi hissettirir. Her gün bu listeye bir göz atarak kendinizi hatırlatabilirsiniz."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir sonraki adımda, bu davranışları nasıl alışkanlık haline getireceğimizden bahsedelim. Alışkanlıklar, tekrar ederek oluşur. Yani, iyi bir davranışı sık sık yaparsanız, o davranış zamanla alışkanlık haline gelir. Bu, tıpkı dişlerimizi her gün fırçalamak gibi bir şeydir. Her gün yaptığınızda, bu alışkanlığı sürdürmek daha kolay olur."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi şimdi birlikte sayalım. İyi bir davranışı alışkanlık haline getirmek için kaç gün tekrar etmeliyiz? Üç, beş, belki de yedi gün! Her gün küçük bir adım atarak başlamaya ne dersiniz? Siz bunu yapabilirsiniz, ben de size inanıyorum!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi size bir soru sormak istiyorum. İyi bir davranış sergilediğinizde, nasıl hissettiğinizi hatırlıyor musunuz? Mutlu, gururlu veya heyecanlı mı? Bu duygular, iyi davranışlarınızı sürdürmeniz için harika bir motivasyon. Siz de böyle hissetmiyor musunuz?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda duygularımızdan bahsetmiştik. Şimdi, bu duyguları nasıl güçlendireceğimizi konuşalım. İyi bir davranış sergilediğinizde, bu duyguları arkadaşlarınızla paylaşmak harikadır. Onlar da sizinle birlikte mutlu olabilir ve bu davranışları tekrarlamak için ilham alabilirler. Bu, çevremizdeki insanlarla daha güçlü bağlar kurmamıza yardımcı olur."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık ve iyi davranışlar hakkında çok şey öğrendik. Unutmayın, her gün küçük bir adım atmak bile büyük fark yaratabilir. Siz harikasınız ve bu yolculukta çok başarılı oldunuz! Şimdi, öğrendiklerinizi uygulamaya koyma zamanı. Bir sonraki maceramızda görüşmek üzere, hoşça kalın!"
+    }
+  ],
+  "title": "Sneaky Cat Tom'ın Behavior Hikayesi"
+}

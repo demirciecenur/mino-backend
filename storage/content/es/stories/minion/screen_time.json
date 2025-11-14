@@ -1,0 +1,98 @@
+{
+  "id": "yellow buddy_tiempo de pantalla, seguridad digital, uso de tecnología, hábitos saludables de pantalla_story",
+  "character": "Yellow Buddy",
+  "topic": "tiempo de pantalla, seguridad digital, uso de tecnología, hábitos saludables de pantalla",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Yellow Buddy, y hoy vamos a hablar de algo muy importante y divertido: el tiempo de pantalla y cómo usar la tecnología de manera segura. ¿Están listos para esta aventura? Voy a compartir con ustedes algunos consejos para que puedan disfrutar de sus dispositivos de una manera saludable. ¡Va a ser muy divertido! Estoy emocionado de aprender y jugar con todos ustedes."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Primero, hablemos sobre el tiempo de pantalla. ¿Saben qué es? Es el tiempo que pasamos usando dispositivos como tabletas o teléfonos. Es muy importante que no pasemos demasiado tiempo frente a la pantalla. ¿Por qué? Porque necesitamos tiempo para jugar, correr y hacer otras actividades divertidas. Así que, ¿qué tal si establecemos un tiempo especial para usar la pantalla cada día?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a aprender sobre la seguridad digital. Es como un escudo mágico que nos protege cuando usamos la tecnología. Siempre debemos pedir permiso a un adulto antes de usar un nuevo juego o aplicación. Además, nunca compartas información personal como tu nombre o dirección. ¿Sabían que esto nos ayuda a mantenernos seguros? Así podemos disfrutar de la tecnología sin preocupaciones."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Están haciendo un gran trabajo aprendiendo sobre la seguridad digital. Ahora, vamos a practicar juntos. Imaginemos que estamos en una aventura en el mundo digital. ¿Qué harías si un extraño te pide tu nombre? Exacto, le dirías que no puedes dar esa información y buscarías a un adulto. ¡Eso es ser un héroe digital!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos sobre la seguridad digital, hablemos de cómo elegir buenos programas o juegos. Los mejores son aquellos que nos enseñan algo nuevo o nos hacen pensar. Pregunta a tus padres o maestros cuáles son sus favoritos. A veces, los juegos también pueden ser una manera de aprender cosas nuevas, como contar números o reconocer colores. ¿No es genial aprender mientras jugamos?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos de hábitos saludables de pantalla. Es como tener una rutina que nos ayuda a usar la tecnología de manera sabia. Podemos empezar usando una alarma para saber cuándo es hora de tomar un descanso. Durante ese tiempo, podemos estirar nuestros brazos y piernas o dar un paseo corto. Hacer esto nos ayuda a sentirnos más felices y saludables. ¡Vamos a intentarlo ahora juntos!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdan cuándo fue la última vez que jugaron al aire libre? ¿Qué tal si pensamos en algunas actividades que podemos hacer sin pantallas? ¿Qué les parece construir una torre de bloques o dibujar un arcoíris? Estas actividades nos ayudan a usar nuestra imaginación. ¿Cuál es su actividad favorita fuera de la pantalla?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos sobre cómo podemos ayudar a nuestros amigos a ser seguros y saludables con la tecnología. Podemos recordarles que es importante tomar descansos y jugar al aire libre. También podemos compartir con ellos lo que hemos aprendido sobre la seguridad digital. Así, todos podemos disfrutar de la tecnología de una manera segura y divertida. ¡Seremos un gran equipo!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo están haciendo increíble! Estoy muy orgulloso de ustedes por aprender tanto sobre el uso seguro de la tecnología. Recuerden, siempre es bueno preguntar a un adulto si tienen dudas. Y no olviden divertirse y explorar el mundo que los rodea. ¡Sigan así, pequeños exploradores!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Recuerden lo que hablamos sobre elegir los mejores juegos y programas. A veces, es divertido probar algo nuevo y ver qué nos gusta. Pero siempre es bueno asegurarnos de que sea seguro. ¿Qué tal si le preguntamos a un adulto antes de descargar un nuevo juego? Así podemos estar seguros de que es una buena elección."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Finalmente, recordemos que el tiempo de pantalla es solo una parte de nuestro día. Hay tantas cosas maravillosas que podemos hacer sin pantallas. Como leer un libro con un adulto o construir una fortaleza con almohadas. Estas actividades son igual de emocionantes y nos ayudan a crecer. ¿Qué nueva actividad les gustaría probar hoy?"
+    },
+    {
+      "id": "scene_11",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Ahora, quiero escuchar sus ideas. ¿Qué cosas divertidas hacen cuando no están usando la pantalla? Quizás tienen algún juego especial o un lugar favorito para explorar. Me encantaría saberlo. Compartir nuestras ideas nos ayuda a aprender unos de otros. ¿Quieren contarme?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué ideas tan maravillosas tienen! Ahora que hemos hablado sobre el uso seguro de la tecnología, recuerden siempre mantener un equilibrio. Es como cuando equilibramos un juguete en la cabeza: necesitamos cuidar de todos los aspectos de nuestra vida. ¡Estoy seguro de que pueden hacerlo!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer aprender y compartir con todos ustedes. Recuerden, el tiempo de pantalla puede ser divertido y seguro cuando sabemos cómo usarlo. Siempre hay tiempo para aprender y jugar de muchas maneras diferentes. ¡Gracias por acompañarme hoy! Espero verlos pronto para más aventuras con Yellow Buddy. ¡Adiós, amiguitos!"
+    }
+  ],
+  "title": "Historia de Screen Time de Yellow Buddy"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "mino_imagination_story",
+  "character": "Mino",
+  "topic": "imagination",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba, ben Mino! imagination hakkında kısa bir macera ister misin?"
+    },
+    {
+      "id": "question_1",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bugün seni en çok ne mutlu etti?"
+    },
+    {
+      "id": "narration_2",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Merhaba, ben Mino! imagination hakkında kısa bir macera ister misin?"
+    },
+    {
+      "id": "closing_3",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Harikaydı! Görüşmek üzere, iyi oyunlar!"
+    }
+  ],
+  "title": "Mino'ın Hayal Gücü Hikayesi"
+}

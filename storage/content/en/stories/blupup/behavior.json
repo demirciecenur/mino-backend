@@ -1,0 +1,104 @@
+{
+  "id": "blu pup_behavior_story",
+  "character": "Blu Pup",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Blu Pup, and today we're going on an amazing journey all about behavior. Are you ready? I'm so curious about what you like to do when you're being your best self. Let's explore together how we can have fun and be kind at the same time. It's going to be a wonderful adventure, so let's get started!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what behavior means. Behavior is how we act and what we do every day. When we follow rules and listen to grown-ups, we're showing good behavior. Like when we pick up our toys after playing or say 'please' and 'thank you'. These are all ways to show kindness and respect. Isn't it nice when everyone is happy and playing together?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about picking up toys? Well, let's think of it as a fun game! Imagine you're a superhero, and your mission is to save the room from being messy. You can zoom around and put each toy back in its special place. Doesn't that sound exciting? It's like a treasure hunt, and you can be the hero every day!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You can do it! When you help clean up, you're also helping everyone feel happy. And when you're done, you can celebrate with a big high-five! Helping out makes everyone feel good inside. Plus, when we work together, it makes everything so much more fun. Great job, little helper!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue by thinking about how we can be kind with our words. Saying nice things like 'you're a great friend' can make someone smile. Just like when you give a hug, kind words give a warm feeling inside. It's important to use our words to make others feel happy and cared for. Can you think of a nice thing to say to someone today?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever felt really happy when someone said something nice to you? How did that make you feel? When we use kind words, it's like giving a present that doesn't need wrapping. Wouldn't it be lovely if everyone gave each other kind words every day? Let's try to make that happen!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now it's time to learn about listening. Listening is like a superpower that helps us understand each other. When someone is talking, we can show we're listening by looking at them and nodding our heads. Try to imagine what they're saying, like a story in your mind. Listening helps us learn and makes our friends feel important."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well with listening! Every time you listen, you're like a detective solving a mystery. You can discover new things and understand how others feel. Isn't it amazing what we can learn just by listening? Keep up the great work, super listener!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's explore how we can be patient. Sometimes waiting can be hard, but it's an important part of good behavior. When we wait our turn in line or for a toy, we're showing patience. Patience is like a little seed that grows into a big, strong tree. And when we're patient, we can enjoy things even more when it's our turn."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice being patient together. Imagine you're a turtle, taking slow and steady steps. When you feel like rushing, take a deep breath and count to five. One, two, three, four, five. Doesn't that feel calming? Being patient is a wonderful way to show you're growing up!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you had to be patient? Maybe when waiting for a yummy snack or a fun game? How did waiting make you feel? It's okay to feel excited, but remember, patience makes the reward even sweeter. Let's keep practicing together!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about being kind with our words? Now, let's think about being kind with our actions. Helping a friend who fell down or sharing a toy are great ways to show kindness. It's like spreading sunshine wherever you go. And just like sunshine, kindness makes the world a brighter place!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You can be a kindness champion! Every time you do something nice, you're adding a little bit of magic to the world. So next time you see someone who needs help, remember, you have the power to make them smile. Keep spreading that kindness magic everywhere you go!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've learned so much about behavior, let's remember why it's important. Good behavior helps us make friends and have fun together. It makes our homes and schools happy places. When we all try our best to be kind and helpful, everyone feels good inside. Isn't that a wonderful feeling?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for exploring behavior with me today! I'm so proud of you for learning and trying your best. Remember, each day is a new chance to show good behavior and spread kindness. I'll be here cheering you on every step of the way. Goodbye for now, and keep being your amazing self!"
+    }
+  ],
+  "title": "Blu Pup's Behavior Story"
+}

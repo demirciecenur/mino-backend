@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_transitions_story",
+  "character": "Spider Fighter",
+  "topic": "transitions",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Spider Fighter, dein tapferer und fröhlicher Begleiter. Heute begeben wir uns auf ein spannendes Abenteuer über Veränderungen. Bist du bereit, mit mir zu lernen, wie wir uns an neue Dinge anpassen können? Es wird aufregend und lustig! Lass uns gemeinsam herausfinden, wie wir stark und mutig bleiben können, egal was passiert."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als du das erste Mal in den Kindergarten gegangen bist? Das war eine große Veränderung, nicht wahr? Veränderungen können manchmal ein bisschen beängstigend sein, aber sie sind auch eine Chance, neue Freunde zu finden und neue Dinge zu lernen. Jede Veränderung kann wie ein neues Abenteuer sein, das darauf wartet, entdeckt zu werden. Mit jeder neuen Erfahrung wirst du stärker und mutiger."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber sprechen, wie wir mit Veränderungen umgehen können. Eine Möglichkeit ist, tief durchzuatmen. Atme tief ein, halte die Luft an, und puste sie dann langsam aus. Das hilft dir, dich zu beruhigen und klar zu denken. Wenn du dich ruhig fühlst, kannst du besser mit neuen Situationen umgehen. Üben wir das zusammen!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht, mein kleiner Held! Jetzt erzähle ich dir von einer lustigen Veränderung: Stell dir vor, du wachst eines Morgens auf, und alles ist plötzlich bunt! Wie aufregend wäre das? Veränderungen bringen oft Überraschungen mit sich. Und du bist stark genug, um jede Überraschung anzunehmen und sie zu etwas Positivem zu machen!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir darüber gesprochen haben, wie man ruhig bleibt, lass uns über Routinen sprechen. Routinen sind wie kleine Helfer, die unseren Tag ordnen. Sie geben uns Struktur und helfen uns, uns sicher zu fühlen. Wenn sich eine Routine ändert, wie zum Beispiel der Schulbeginn, können wir uns daran erinnern, dass es immer noch Dinge gibt, die gleich bleiben."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns eine neue Routine üben. Vielleicht eine, die uns hilft, den Tag zu beginnen. Wir können gemeinsam zählen. Zählen wir bis fünf: Eins, zwei, drei, vier, fünf! Super! Zählen hilft uns, unsere Gedanken zu ordnen. Das kannst du immer machen, wenn etwas Neues passiert."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das fantastisch! Erinnerst du dich, wie es war, als du das erste Mal ein neues Spielzeug bekommen hast? Es war aufregend, oder? Veränderungen sind wie neue Spielzeuge, die darauf warten, entdeckt zu werden. Du bist mutig genug, um all die neuen Abenteuer zu erleben, die auf dich warten!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns über Freunde sprechen. Freunde können eine große Hilfe sein, wenn sich Dinge ändern. Wenn du jemanden hast, mit dem du sprechen kannst, fühlst du dich nicht allein. Freunde können dir Mut machen und dir helfen, neue Dinge zu entdecken. Denk daran, dass du auch ein großartiger Freund sein kannst, indem du anderen hilfst."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du einen Lieblingsfreund, mit dem du gerne spielst? Was macht ihr zusammen? Freunde sind wichtig, weil sie uns helfen, Spaß zu haben und uns sicher zu fühlen. Vielleicht kannst du deinem Freund von unserem Abenteuer erzählen und wie wir über Veränderungen gesprochen haben. Was denkst du, würde dein Freund das auch spannend finden?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel gelernt haben, lass uns über Mut sprechen. Mut bedeutet, sich neuen Dingen zu stellen, auch wenn sie ein bisschen beängstigend sind. Du bist schon so mutig, weil du neue Dinge ausprobierst und neue Freunde findest. Mut ist wie ein unsichtbarer Umhang, der dich stark und sicher macht."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns eine mutige Übung machen. Stell dir vor, du bist ein Superheld, genau wie ich. Wie würdest du stehen? Stell dich gerade hin, die Hände an die Hüften, und lächle. Superhelden sind immer bereit für neue Abenteuer. Du bist bereit für alles, was kommt!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich ein fantastischer Superheld! Du bist so mutig und stark. Egal welche Veränderungen auf dich zukommen, du kannst sie meistern. Denk daran, dass jede Veränderung eine neue Chance ist, etwas Neues zu lernen. Du kannst alles schaffen, wenn du es versuchst!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über das Atmen gesprochen haben? Das ist eine einfache Sache, die dir immer helfen kann. Egal ob du in den Kindergarten gehst, ein neues Hobby beginnst oder neue Freunde triffst, das Atmen hilft dir, ruhig zu bleiben. Und mit Ruhe kannst du alles schaffen!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, da du so viel über Veränderungen gelernt hast, was möchtest du als nächstes versuchen? Vielleicht gibt es etwas Neues, das du ausprobieren möchtest. Denk daran, dass ich immer hier bin, um dich zu unterstützen. Du bist nie allein auf deinem Abenteuer!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war wunderbar, dieses Abenteuer mit dir zu teilen! Du bist ein wahrer Held, der bereit ist, jede Veränderung mit Mut und Freude anzunehmen. Vergiss nicht, dass ich immer hier bin, um dir zu helfen. Bis zum nächsten Mal, kleiner Superheld! Bleib stark und neugierig!"
+    }
+  ],
+  "title": "Spider Fighters Transitions Geschichte"
+}

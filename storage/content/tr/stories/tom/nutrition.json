@@ -1,0 +1,98 @@
+{
+  "id": "sneaky_cat_tom_nutrition_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Sneaky Cat Tom ve bugün harika bir beslenme yolculuğuna çıkacağız. Sağlıklı yiyeceklerin ne kadar önemli olduğunu keşfetmek için sabırsızlanıyorum. Sen de merak ediyor musun? O zaman birlikte eğlenceli bir maceraya atılalım. Hazır mısın? Başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme, vücudumuzun büyümesi ve güçlü kalması için çok önemlidir. Tıpkı oyuncakların pillerle çalışması gibi, bizim de enerjiye ihtiyacımız var. Bu enerjiyi sağlıklı yiyeceklerden alırız. Mesela, elma yediğimizde vitamin alırız ve bu bizi daha sağlıklı yapar. Peki, sen en çok hangi meyveyi seversin? Meyveler çok tatlı ve aynı zamanda çok faydalıdır."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, sağlıklı bir tabağın nasıl göründüğünü hayal edelim. Bir yarısında renkli sebzeler, diğer yarısında ise proteinler ve tahıllar olmalı. Örneğin, brokoli ve havuç harika birer sebzedir. Tavuk veya balık ise protein sağlar. Tahıllar ise pilav veya makarna olabilir. Bu şekilde dengeli bir tabak hazırlayabiliriz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte sağlıklı bir tabak hazırlamaya ne dersin? Önce en sevdiğin sebzeyi düşün. Şimdi, hangi proteini seçmek istersin? Tavuk mu yoksa balık mı? Harika seçimler yapıyorsun! Sağlıklı bir tabak hazırlamak hiç de zor değil, değil mi?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda sağlıklı tabak hazırlamayı öğrendik. Şimdi, içeceklerin de önemli olduğunu hatırlayalım. Su, en sağlıklı içecektir ve vücudumuzun suya ihtiyacı vardır. Meyve suları da lezzetlidir ama içinde çok şeker olabilir. Bu yüzden su içmeyi unutmamalıyız. Sen günde kaç bardak su içiyorsun?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi biraz egzersiz yapalım. Üç derin nefes alıp verelim. Bir, iki, üç... Harika! Egzersiz de beslenme kadar önemlidir. Hareket etmek enerji verir ve bizi daha mutlu yapar. Oyuncaklarını toplarken veya dışarıda oynarken de hareket edebilirsin."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede su içmenin öneminden bahsettik. Şimdi de tatlılardan konuşalım. Tatlılar çok lezzetli olabilir ama fazla yememeliyiz. Çikolata veya şeker yerine meyve yemeyi deneyebilirsin. Meyveler tatlıdır ve aynı zamanda çok sağlıklıdır. Sen en çok hangi meyveyi seversin?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tatlı yerine meyve seçmek harika bir fikir! Şimdi birlikte bir oyun oynayalım. Sevdiğin bir meyveyi düşün ve onun rengini hayal et. Mesela elma kırmızı, muz sarıdır. Meyveler rengarenk ve çok eğlenceli, değil mi? Her gün farklı bir meyve denemeye ne dersin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Daha önce sağlıklı yiyeceklerden bahsetmiştik. Peki, sen sağlıklı bir kahvaltıda neler yemek istersin? Yulaf ezmesi veya yumurta olabilir mi? Sağlıklı bir kahvaltı güne enerjik başlamamızı sağlar. Senin favori kahvaltı yiyeceğin nedir?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede kahvaltıdan bahsettik, değil mi? Kahvaltı günün en önemli öğünüdür. Yulaf ezmesi enerji verir ve gün boyunca bizi tok tutar. Yanında bir bardak süt içmeyi de unutma! Süt, kemiklerimizi güçlendirir ve sağlıklı büyümemize yardımcı olur."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Şimdi bir soru daha sormak istiyorum. Birlikte yemek yapmaktan hoşlanır mısın? Yemek yaparken eğlenceli hikayeler anlatabiliriz. Mesela, bir havuç nasıl büyür? Toprağın altında saklanır ve büyümek için güneşe ihtiyaç duyar. Sen de böyle hikayeler biliyor musun?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Yemek yaparken güvenliğe de dikkat etmeliyiz. Bıçak gibi keskin aletleri yalnızca yetişkinler kullanmalı. Sen de mutfakta yardım edebilirsin ama dikkatli olmalısın. Mesela, sebzeleri yıkamak ya da masayı kurmak gibi işler yapabilirsin. Bu şekilde hem eğlenceli hem de güvenli bir şekilde yemek yapabiliriz."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Birlikte yemek yapmak çok eğlenceli olacak. Şimdi, beslenme yolculuğumuzun sonuna yaklaştık. Ama unutma, sağlıklı beslenmek her gün önemlidir. Sen de sağlıklı yiyecekler seçerek kendine iyi bakabilirsin. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte çok şey öğrendik, değil mi? Beslenmenin ne kadar önemli olduğunu keşfettik ve sağlıklı yiyecekler hakkında konuştuk. Her gün sağlıklı seçimler yaparak güçlü ve mutlu olabiliriz. Seninle bu yolculuğu paylaşmak çok güzeldi. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Sneaky Cat Tom'ın Nutrition Hikayesi"
+}

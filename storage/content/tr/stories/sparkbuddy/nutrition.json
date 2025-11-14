@@ -1,0 +1,98 @@
+{
+  "id": "spark_buddy_nutrition_story",
+  "character": "Spark Buddy",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Spark Buddy. Bugün birlikte beslenmenin ne kadar önemli olduğunu keşfedeceğiz. Sağlıklı yiyecekler yediğimizde vücudumuz nasıl güçlü ve enerjik kalır, bunu öğrenmeye hazır mısın? Hadi başlayalım, bu harika bir macera olacak!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme, vücudumuzun büyümesi ve gelişmesi için gereken enerjiyi ve besinleri sağlar. Örneğin, kahvaltıda yediğimiz bir kase yulaf ezmesi bize gün boyunca enerji verir. Unutma, her öğünde farklı yiyecekler yemek önemlidir, çünkü her biri bize farklı vitaminler ve mineraller sunar. Hadi şimdi, bir sonraki sahnede hangi yiyeceklerin bize ne sağladığını öğrenelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Sebzeler ve meyveler, vücudumuzun sağlıklı kalmasına yardımcı olan vitamin ve minerallerle doludur. Mesela havuç yediğimizde gözlerimiz daha iyi görür. Brokoli ise kemiklerimizi güçlendirir. Şimdi, seninle birlikte bir sebze ve meyve listesi yapalım. Ne tür sebzeler ve meyveler yediğini hatırlıyor musun?"
+    },
+    {
+      "id": "scene_3",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Proteinler, vücudumuzun kaslarını ve dokularını onarır. Tavuk, balık ve fasulye gibi yiyecekler protein açısından zengindir. Birlikte düşünelim, en sevdiğin protein kaynağı nedir? Belki de bir gün tavuklu bir sandviç yersin. Hadi şimdi, proteinlerin vücudumuza nasıl yardımcı olduğunu daha ayrıntılı inceleyelim."
+    },
+    {
+      "id": "scene_4",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Karbonhidratlar, vücudumuzun enerji ihtiyacını karşılar. Ekmek, makarna ve pirinç gibi yiyecekler karbonhidrat içerir. Enerjik olmak istediğimizde, bu tür yiyeceklerden yemeliyiz. Unutma, her şeyin fazlası zarardır. Dengeli bir şekilde beslenmek her zaman en iyisidir. Şimdi, karbonhidratların enerjimizi nasıl artırdığını öğrenmeye devam edelim."
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Yağlar da vücudumuz için gereklidir, çünkü enerji deposu olarak çalışırlar. Avokado ve zeytinyağı gibi sağlıklı yağlar, kalbimize iyi gelir. Yağlar, cildimizin parlak ve sağlıklı kalmasına da yardımcı olur. Şimdi, sağlıklı yağların vücudumuza nasıl fayda sağladığını keşfedelim. Senin favori sağlıklı yağın hangisi?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Su içmek de beslenmenin önemli bir parçasıdır. Su, vücudumuzdaki her hücrenin düzgün çalışmasını sağlar. Gün içinde yeterince su içtiğimizde kendimizi daha iyi hissederiz. Hadi birlikte su içmenin faydalarını konuşalım. Sen günde kaç bardak su içiyorsun?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Süt ve süt ürünleri, kemiklerimizin güçlü olmasına yardımcı olur. Peynir, yoğurt ve süt, kalsiyum açısından zengindir. Kalsiyum, kemiklerimizi ve dişlerimizi sağlıklı tutar. Şimdi, süt ürünlerinin vücudumuza nasıl yardımcı olduğunu daha detaylı inceleyelim. Senin favori süt ürünün hangisi?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, tüm bu besin gruplarını bir araya getirelim ve dengeli bir tabak oluşturalım. Dengeli bir tabakta, her besin grubundan biraz bulunmalı. Böylece vücudumuz ihtiyaç duyduğu her şeyi alır. Hadi, birlikte en sevdiğin yemekleri düşünelim. Senin dengeli bir tabakta neler olurdu?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dengeli beslenmenin ne kadar önemli olduğunu öğrendik. Peki, sen bugün hangi sağlıklı yiyecekleri yedin? Belki de sabah kahvaltısında bir muz yemişsindir. Ya da öğle yemeğinde bir avuç ceviz. Haydi, birlikte düşünelim ve paylaşalım!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Sağlıklı atıştırmalıklar da beslenmemizin önemli bir parçasıdır. Meyveler, kuruyemişler ve yoğurt gibi atıştırmalıklar, sağlıklı kalmamıza yardımcı olur. Tatlı krizlerinde sağlıklı atıştırmalıklar seçmek, vücudumuzun enerjik kalmasına yardımcı olur. Unutma, sağlıklı atıştırmalıklar her zaman en iyi seçimdir. Şimdi, senin favori sağlıklı atıştırmalığın ne?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hadi şimdi birlikte birkaç derin nefes alalım ve öğrendiklerimizi düşünelim. Bir, iki, üç... Derin bir nefes al ve ver. Kendimizi iyi hissetmek için sağlıklı beslenmek kadar rahatlamak da önemlidir. Rahatladığımızda, öğrendiklerimizi daha iyi hatırlarız. Şimdi, öğrendiklerimizi nasıl uygulayacağımıza bakalım."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkardın! Beslenmenin ne kadar önemli olduğunu ve farklı besin gruplarının vücudumuza nasıl yardımcı olduğunu öğrendin. Unutma, dengeli beslenmek her zaman en iyisidir. Sen bunu yapabilirsin ve her gün daha sağlıklı seçimler yapabilirsin. Şimdi, öğrendiklerini ailenle ve arkadaşlarınla paylaşabilirsin."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün benimle beslenme hakkında konuştuğun için çok mutluyum. Sağlıklı yiyecekler yemenin ve su içmenin ne kadar önemli olduğunu unutmamalısın. Umarım öğrendiklerin sana yardımcı olur. Bir dahaki sefere yine birlikte harika şeyler öğreniriz. Şimdi, hoşça kal ve sağlıklı kal!"
+    }
+  ],
+  "title": "Spark Buddy'ın Nutrition Hikayesi"
+}

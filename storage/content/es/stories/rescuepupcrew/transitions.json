@@ -1,0 +1,104 @@
+{
+  "id": "rescue_pup_crew_transitions_story",
+  "character": "Rescue Pup Crew",
+  "topic": "transitions",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy el Rescue Pup Crew y hoy vamos a tener una aventura increíble sobre las transiciones. ¿Sabes qué es una transición? Es cuando algo cambia, como cuando pasamos de jugar a cenar. ¡Estoy emocionado de aprender contigo! Vamos a descubrir juntos cómo podemos hacer que los cambios sean divertidos y fáciles. ¿Estás listo para comenzar esta aventura?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Las transiciones pueden ser como una montaña rusa, a veces emocionantes y a veces un poco asustadizas. Imagina cuando pasas de jugar en el parque a ir a casa para cenar. Al principio, quizás no quieras dejar de jugar, pero después disfrutas de una rica comida. ¡Las transiciones son parte de nuestra rutina diaria! Ahora vamos a explorar cómo podemos hacer que esas transiciones sean más suaves y divertidas."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Una forma de hacer que las transiciones sean más fáciles es tener una rutina. Las rutinas nos ayudan a saber qué esperar. Por ejemplo, después de jugar, podemos lavarnos las manos antes de comer. ¡Así nuestro cuerpo sabe que es hora de la cena! Tener una canción especial o una actividad divertida como contar hasta diez puede ayudar a que la transición sea más alegre. Ahora, vamos a intentar contar juntos hasta diez. ¿Listos?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! ¡Lo hiciste muy bien contando hasta diez! Las rutinas pueden ser como un mapa que nos guía a través del día. Cuando sabemos qué viene después, nos sentimos más seguros y tranquilos. ¡Y tú lo hiciste de maravilla! ¿Te gustaría intentar hacer una transición divertida la próxima vez que cambies de actividad? ¡Estoy seguro de que lo harás genial!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora recordemos una vez que tuvimos un cambio grande, como comenzar en una nueva escuela o mudarnos de casa. Esos cambios pueden ser emocionantes y un poco difíciles al mismo tiempo. Pero con un poco de ayuda de nuestras rutinas y de nuestros amigos, podemos adaptarnos a los cambios. ¡Los cambios nos dan la oportunidad de aprender cosas nuevas y hacer nuevos amigos!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a aprender una técnica para sentirnos mejor durante las transiciones. Se llama 'respirar profundo'. Cuando sientas que un cambio te pone nervioso, intenta respirar profundamente. Inhala por la nariz contando hasta tres, y luego exhala por la boca contando hasta tres. Vamos a intentarlo juntos. Uno, dos, tres, inhalamos... y uno, dos, tres, exhalamos. ¡Eso es! ¿Te sientes mejor?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas un momento en que un cambio te hizo sentir emocionado? Tal vez fue tu cumpleaños o una fiesta sorpresa. ¿Cómo te sentiste antes y después del cambio? Es divertido pensar en cómo las transiciones pueden traernos sorpresas agradables. ¿Puedes contarme cuándo fue la última vez que algo cambió y te hizo feliz?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablando de cambios emocionantes, ¿alguna vez has conocido a alguien nuevo y te has hecho amigo? Eso es una transición también, pasar de ser desconocidos a ser amigos. Al principio, puede parecer un poco extraño, pero con una sonrisa y un saludo, todo puede cambiar. ¡Y de repente tienes un nuevo amigo con quien jugar! Las transiciones pueden ser el comienzo de algo increíble."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Recuerda que cada día está lleno de pequeñas transiciones. Desde levantarte por la mañana hasta ir a dormir por la noche. Cada una es una oportunidad para aprender y crecer. Y tú eres muy valiente al enfrentar cada una de ellas. ¡Sigue así, campeón! Estoy muy orgulloso de ti."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a crear un pequeño juego para practicar transiciones. Imagina que eres un superhéroe que cambia de un poder a otro. Primero, eres rápido como un rayo, corriendo por la habitación. Luego, te conviertes en un superdetective, buscando pistas con calma. Este juego te ayudará a acostumbrarte a cambiar de una cosa a otra rápidamente. ¿Te gustaría intentarlo?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¡Las transiciones son como pequeños pasos en una gran aventura! Cada paso nos lleva a lugares nuevos y emocionantes. Y aunque a veces puedan ser un poco desafiantes, siempre tenemos herramientas y amigos que nos ayudan. ¿Recuerdas cómo respirar profundo o contar hasta diez puede ser útil? ¡Esas son nuestras herramientas secretas para ser superhéroes de las transiciones!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que sabemos tanto sobre transiciones, ¿qué tal si pensamos en una transición que nos gustaría mejorar? Puede ser algo simple, como recoger los juguetes después de jugar. ¿Cómo podríamos hacer que esa transición sea más divertida? Tal vez con una canción o un pequeño baile. ¡Las posibilidades son infinitas!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría compartir una transición que te gustaría mejorar? Piensa en algo que haces todos los días. ¿Cómo podrías hacerlo más fácil o más divertido? Tal vez podrías pedir ayuda a un adulto o inventar un juego. ¡Estoy seguro de que tienes grandes ideas! ¿Cuál es tu idea?"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué ideas tan maravillosas tienes! Recuerda que cada día es una nueva oportunidad para practicar y mejorar en las transiciones. No importa si te lleva un poco de tiempo, lo importante es seguir intentándolo. ¡Eres un campeón de las transiciones! Sigue confiando en ti mismo y verás cómo cada vez lo haces mejor."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "¡Ha sido un día increíble explorando transiciones contigo! Espero que te hayas divertido y aprendido mucho. Recuerda que siempre puedes contar conmigo para ayudarte en cualquier cambio. Eres valiente y capaz de enfrentar cualquier transición. ¡Nos vemos en nuestra próxima aventura! Adiós, pequeño héroe."
+    }
+  ],
+  "title": "Historia de Transitions de Rescue Pup Crew"
+}

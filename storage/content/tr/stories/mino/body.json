@@ -1,0 +1,104 @@
+{
+  "id": "mino_body_story",
+  "character": "Mino",
+  "topic": "body",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mino, uzaydan gelen renkli bir arkadaşım. Bugün seninle vücudumuzun harika dünyasına bir yolculuğa çıkacağız. Vücudumuzun nasıl çalıştığını ve nasıl sağlıklı kalabileceğimizi keşfedeceğiz. Hazır mısın? Harika! O zaman başlayalım."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vücudumuz çok özel, çünkü her bir parçası farklı bir iş yapar. Mesela, ellerimizle oyuncaklarımızı tutarız, ayaklarımızla zıplarız. Kalbimiz ise kan pompalayarak tüm vücudumuza enerji verir. Vücudumuzun her parçası bir araya gelerek bizim sağlıklı ve mutlu olmamızı sağlar. Şimdi daha yakından bakalım, ne dersin?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vücudumuzun en önemli parçalarından biri de beynimizdir. Beynimiz, düşünmemizi ve öğrenmemizi sağlar. Bir bulmacayı çözerken ya da yeni bir şey öğrenirken beynimiz çalışır. Beynimizi güçlü tutmak için bol bol su içmeli ve sağlıklı yiyecekler yemeliyiz. Hadi, beynimizi nasıl koruyabileceğimizi öğrenelim!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Biliyor musun, sağlıklı bir vücut için düzenli uyku da çok önemli. Uyurken vücudumuz dinlenir ve yenilenir. Her gece erken yatmak ve iyi bir uyku almak, ertesi gün enerjik olmamızı sağlar. Sen de uyku zamanında yatağa gitmeyi unutma, olur mu?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vücudumuzun dış kısmı olan cildimiz de çok özel. Cildimiz, vücudumuzu dış etkenlerden korur ve sıcaklık dengesini sağlar. Güneşli günlerde dışarı çıktığımızda cildimizi korumak için güneş kremi sürmemiz gerekir. Böylece cildimiz sağlıklı ve güçlü kalır. Şimdi cildimizi nasıl koruyacağımızı hatırlayalım."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vücudumuzun hareket etmesini sağlayan kaslarımız var. Kaslarımız sayesinde koşabilir, zıplayabilir ve dans edebiliriz. Güçlü kaslar için egzersiz yapmak çok önemlidir. Her gün biraz hareket etmek kaslarımızı güçlendirir ve bizi daha sağlıklı yapar. Hadi biraz hareket edelim!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Dişlerimiz de vücudumuzun önemli bir parçası. Dişlerimiz sayesinde yiyecekleri çiğneyebiliriz. Sağlıklı dişler için her gün düzenli olarak dişlerimizi fırçalamalıyız. Diş fırçalamak, dişlerimizi temiz tutar ve çürümelerini önler. Sen de dişlerini fırçalamayı unutmuyorsun, değil mi?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vücudumuzun içindeki kemikler de çok önemlidir. Kemiklerimiz, vücudumuza şekil verir ve bizi ayakta tutar. Sağlıklı kemikler için süt içmek ve peynir yemek çok faydalıdır. Bu yiyecekler kemiklerimizi güçlü yapar. Şimdi kemiklerimize nasıl iyi bakacağımızı hatırlayalım."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Daha önce bahsettiğimiz gibi, su içmek vücudumuz için çok önemlidir. Su, vücudumuzun her parçasının doğru çalışmasına yardımcı olur. Her gün yeterince su içmek, sağlıklı kalmamızı sağlar. Su içmeyi unutmamak için yanımızda su şişesi taşımak iyi bir fikir olabilir."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Biliyor musun, vücudumuzun sağlıklı kalması için duygularımız da çok önemli. Mutlu, üzgün, heyecanlı ya da korkmuş hissettiğimizde vücudumuz buna tepki verir. Duygularımızı anlamak ve paylaşmak, sağlıklı bir zihin için önemlidir. Sen de duygularını paylaşmayı unutma, olur mu?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi biraz rahatlama zamanı! Derin bir nefes al ve yavaşça bırak. Bu, vücudumuzu sakinleştirir ve rahatlatır. Rahatlamak, bazen stresli hissettiğimizde bize yardımcı olabilir. Hadi, birlikte birkaç derin nefes daha alalım."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Vücudumuzun sağlıklı kalması için yapabileceğimiz başka neler var, sence? Belki de sağlıklı yiyecekler yemek veya bol bol oynamak olabilir. Senin de aklına gelen başka bir şey var mı? Merak ediyorum, sen neler yapıyorsun?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Düşüncelerini paylaştığın için teşekkür ederim! Herkes farklı şeyler yapabilir ve bu harika bir şey. Şimdi öğrendiklerimizi bir kez daha hatırlayalım. Vücudumuzu güçlü ve sağlıklı tutmak için neler yapabiliriz? Hadi birlikte sayalım!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkardın! Vücudumuzun ne kadar özel ve önemli olduğunu anladık. Sağlıklı alışkanlıklar kazanarak vücudumuza iyi bakabiliriz. Unutma, her gün biraz hareket, sağlıklı yiyecekler ve bol su içmek bizi daha güçlü kılar. Sen bu konuda çok başarılı olacaksın!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün benimle bu harika yolculuğa çıktığın için teşekkür ederim. Vücudumuz hakkında öğrendiğimiz her şeyi hatırlamak çok önemli. Şimdi biraz oyun oynayabilir ya da dinlenebilirsin. Her zaman sağlıklı ve mutlu kalmayı unutma! Bir sonraki maceramızda görüşmek üzere. Hoşça kal!"
+    }
+  ],
+  "title": "Mino'ın Body Hikayesi"
+}

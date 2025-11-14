@@ -1,0 +1,104 @@
+{
+  "id": "spark_buddy_bedtime_story",
+  "title": "Spark Buddy's Bedtime Story",
+  "character": "Spark Buddy",
+  "topic": "bedtime",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Spark Buddy, your cheerful bedtime pal. Tonight, we're going on a magical journey to explore the world of bedtime. Are you ready to get cozy and comfy? Bedtime is a special time when we relax and prepare for sweet dreams. I'm so excited to spend this time with you!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember how we talked about bedtime being special? Well, it's like a gentle hug that helps us feel safe and warm. When the sun goes down and the stars twinkle, it's time for us to slow down. Bedtime is when our bodies rest and grow stronger. Isn't that amazing? Let's find out more about how we can make bedtime fun and relaxing!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "To get ready for bed, we start by doing calming activities. One important thing is to brush our teeth. It keeps our smiles bright and healthy. We can also put on our comfy pajamas. They feel so soft, like a warm hug from a friend. Are you wearing your pajamas now?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job on getting ready for bed! Now, let's do something fun and relaxing together. How about we count some stars? Let's pretend to see them twinkling in the sky. Can you count five stars with me? One, two, three, four, five! Fantastic, you're a star counter!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've counted stars, let's talk about bedtime stories. Do you like stories? They're like little adventures we can go on without leaving our beds. Stories help our imaginations grow big and strong. What kind of stories do you like best? Maybe about animals or magical lands?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "It's important to make our room calm and peaceful for sleep. We can turn off bright lights and use a nightlight if we want. Soft music or a lullaby can help us relax. Do you have a favorite lullaby? Music can be like a gentle breeze that makes us feel sleepy."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well with our bedtime routine! Let's take a big, deep breath together. Inhale slowly through your nose, and then exhale through your mouth. Feel how calm and relaxed you are. Breathing deeply helps our bodies and minds feel peaceful. You're a breathing expert now!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's think about our favorite things from today. What made you smile the most? Was it playing with your toys or drawing a picture? Remembering happy moments helps us feel grateful and ready for sleep. It's like wrapping ourselves in a blanket of joy."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a special bedtime buddy? Maybe a stuffed animal or a favorite blanket? These friends help us feel safe and cozy. They love to join us on our bedtime adventures. Who's your bedtime buddy tonight?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Having a bedtime buddy is wonderful. They make bedtime feel like a sleepover party. We can tell them our secrets and dreams. It's like having a best friend by our side. Bedtime buddies are always there to give hugs when we need them."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's imagine ourselves in a beautiful dreamland. Close your eyes and picture a place filled with magic and wonder. Maybe it's a forest with friendly animals or a beach with sparkling waves. Our imagination can take us anywhere we want to go."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a great job imagining! Let's take another deep breath to relax even more. Breathe in slowly, and breathe out gently. Each breath makes us feel lighter and more peaceful. You're a fantastic dream traveler!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What kind of dreams do you hope to have tonight? Maybe a dream about flying in the sky or swimming with dolphins? Dreams are like little stories we create in our sleep. They make bedtime exciting and full of surprises."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we get ready to drift off to sleep, let's remember how special bedtime is. It's a time to rest and recharge for a new day. You did an amazing job with our bedtime journey tonight. I'm so proud of you for being such a great listener and adventurer."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time for me to say goodnight, little friend. Remember, I'm always here to help you have sweet dreams. Sleep tight, and let your imagination soar through the night. Goodnight, and I'll see you in the morning with a big, bright smile!"
+    }
+  ]
+}

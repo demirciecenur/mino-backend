@@ -1,0 +1,98 @@
+{
+  "id": "shell_heroes_crew_friendship_story",
+  "character": "Shell Heroes Crew",
+  "topic": "friendship",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Wir sind die Shell Heroes Crew und heute gehen wir auf ein spannendes Abenteuer über Freundschaft. Bist du bereit? Freundschaft bedeutet, zusammen zu spielen und sich gegenseitig zu helfen. Wir sind so neugierig, was du über Freundschaft denkst. Lass uns gemeinsam auf diese Reise gehen und mehr darüber erfahren!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft ist etwas ganz Besonderes. Es bedeutet, jemandem zu vertrauen und Spaß zusammen zu haben. Denk mal an deine besten Freunde. Was macht ihr am liebsten zusammen? Vielleicht spielt ihr gerne im Park oder bastelt tolle Sachen. Freundschaft kann überall entstehen, wo Menschen zusammenkommen."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns darüber nachdenken, wie man ein guter Freund sein kann. Ein guter Freund hört zu, wenn jemand etwas zu sagen hat. Auch wenn du Hilfe brauchst, ist es wichtig, danach zu fragen. Und denk daran, dass Teilen eine tolle Möglichkeit ist, Freundschaft zu zeigen. Hast du schon einmal dein Lieblingsspielzeug mit jemandem geteilt?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du kannst ein Freundschaftsexperte werden. Lass uns zusammen bis fünf zählen, während wir daran denken, wie wir gute Freunde sein können. Eins, zwei, drei, vier, fünf! Du machst das wunderbar! Lass uns sehen, wie wir diese Ideen in die Tat umsetzen können."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Teilen gesprochen haben? Teilen kann so einfach sein, wie ein Spielzeug mit einem Freund zu teilen. Wenn du jemanden siehst, der traurig ist, kannst du ihm helfen, sich besser zu fühlen. Manchmal reicht ein Lächeln oder ein nettes Wort, um jemandem den Tag zu verschönern."
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lass uns jetzt eine kleine Übung machen. Stell dir vor, dein Freund hat sein Lieblingsspielzeug vergessen. Was könntest du tun, um ihm zu helfen? Du könntest ihm dein Spielzeug anbieten, damit er trotzdem spielen kann. Das ist eine tolle Möglichkeit, Freundschaft zu zeigen. Du bist ein echter Freundschaftsheld!"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns über das Zuhören sprechen. Wenn ein Freund dir etwas erzählen möchte, ist es wichtig, aufmerksam zuzuhören. Schau ihm in die Augen und zeige, dass du interessiert bist. Wenn du gut zuhörst, fühlst du dich auch besser verstanden. So könnt ihr eure Freundschaft noch stärker machen."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ein weiteres wichtiges Element der Freundschaft ist, ehrlich zu sein. Wenn du etwas falsch machst, ist es gut, es zuzugeben und sich zu entschuldigen. Ehrlichkeit hilft, Vertrauen aufzubauen. Und Vertrauen ist ein großes Geschenk in jeder Freundschaft. Hast du schon einmal jemandem gesagt, dass es dir leid tut?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Jetzt, wo wir so viel über Freundschaft gelernt haben, möchte ich dich fragen: Was macht deiner Meinung nach einen guten Freund aus? Ist es das Lachen, das Teilen oder das Zuhören? Oder vielleicht alles zusammen? Denk darüber nach und erzähl es deinen Eltern oder Geschwistern. Sie werden bestimmt neugierig sein!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Nachdem wir über das Zuhören und Teilen gesprochen haben, lasst uns überlegen, wie wir diese Fähigkeiten im Alltag anwenden können. Vielleicht könntest du heute jemandem ein Kompliment machen. Ein einfaches 'Du hast toll gespielt!' kann viel bewirken. So einfach kann Freundschaft sein."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft kann auch bedeuten, zusammen Abenteuer zu erleben. Wie die Shell Heroes Crew, die gemeinsam auf Entdeckungsreise geht. Vielleicht könnt ihr einen neuen Spielplatz entdecken oder ein neues Spiel erfinden. Gemeinsam könnt ihr die Welt erkunden und dabei viel Spaß haben."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das fantastisch! Lass uns jetzt drei tiefe Atemzüge nehmen, um unsere Gedanken zu sammeln. Eins, zwei, drei... Atme tief ein und aus. Fühlst du dich bereit, die Welt mit neuen Freundschaftsideen zu erobern? Ich bin sicher, dass du das kannst!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Denk daran, dass Freundschaft nicht immer perfekt sein muss. Manchmal gibt es Missverständnisse, und das ist okay. Wichtig ist, dass ihr darüber sprecht und eine Lösung findet. So wird eure Freundschaft noch stärker. Jeder Tag bietet die Möglichkeit, ein besserer Freund zu werden."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war toll, mit dir über Freundschaft zu sprechen! Du hast so viel gelernt und bist bereit, ein großartiger Freund zu sein. Vergiss nicht, dass die Shell Heroes Crew immer an deiner Seite ist. Wir sind stolz auf dich und freuen uns auf das nächste Abenteuer. Tschüss und bis bald, kleiner Freund!"
+    }
+  ],
+  "title": "Shell Heroes Crews Friendship Geschichte"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "sunny_transitions_story",
+  "character": "Sunny",
+  "topic": "transitions",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Sunny y estoy muy emocionado de estar aquí con ustedes hoy. Vamos a hablar sobre algo muy interesante: las transiciones. Las transiciones son esos momentos en los que pasamos de una actividad a otra, como cuando dejamos de jugar para ir a cenar. ¿Están listos para un viaje lleno de alegría y aprendizaje? ¡Vamos a divertirnos mucho juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en una transición que todos conocemos. ¿Recuerdan cuando es hora de dejar el parque y volver a casa? A veces puede ser difícil porque estamos pasándola muy bien. Pero, ¿sabían que las transiciones nos ayudan a aprender a ser flexibles? Flexibles significa que podemos adaptarnos a los cambios fácilmente. ¡Qué gran habilidad para tener!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos sobre cómo podemos hacer que las transiciones sean más fáciles. Una forma es tener una rutina. Las rutinas son actividades que hacemos en el mismo orden cada día, como cepillarnos los dientes antes de dormir. Tener una rutina nos ayuda a saber qué esperar y nos prepara para el cambio. ¿Pueden pensar en alguna rutina que tengan en casa?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Las rutinas son como un mapa que nos guía durante el día. Ahora, intentemos algo juntos. Vamos a practicar una pequeña transición. Primero, vamos a contar hasta tres y luego vamos a dar una vuelta en nuestro lugar. ¿Listos? Uno, dos, tres... ¡gira! ¡Lo hicieron muy bien! ¿No fue divertido?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos lo que acabamos de aprender. Las transiciones pueden ser más fáciles con rutinas y un poco de práctica. Ahora, pensemos en cómo nos sentimos cuando tenemos que hacer una transición. A veces podemos sentirnos un poco tristes o nerviosos. Pero está bien, porque esos sentimientos son normales y podemos hablar sobre ellos con alguien de confianza."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hablando de sentimientos, ¿alguna vez han sentido mariposas en el estómago al cambiar de actividad? Eso es parte de la emoción y la aventura. Cada transición es una nueva oportunidad para aprender y crecer. La próxima vez que sientan esas mariposas, recuerden que están listos para lo que viene. ¡Ustedes son muy valientes!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a intentar algo más. Pensemos en una transición que hacemos todos los días: ir a dormir. ¿Qué cosas hacemos antes de dormir? Tal vez leamos un cuento o escuchemos música tranquila. Estas actividades nos ayudan a relajarnos y a prepararnos para descansar bien. ¿Quieren intentar respirar profundamente juntos? Inhalen... y exhalen. ¡Qué relajante!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Excelente trabajo! Las respiraciones profundas son una gran manera de ayudarnos en las transiciones. Ahora, pensemos en una transición muy emocionante: ¡comenzar algo nuevo! Puede ser un nuevo juego o aprender algo que nunca hemos hecho antes. Cada inicio es una oportunidad para divertirnos y descubrir cosas nuevas. ¡Qué emocionante!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Tienen alguna actividad nueva que les gustaría probar? Tal vez aprender a dibujar o cocinar una receta sencilla. Intentar cosas nuevas nos permite crecer y encontrar nuevas pasiones. ¿Qué tal si piensan en algo que les gustaría hacer y lo intentan esta semana? ¡Estoy seguro de que lo harán genial!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, recordemos que cada transición es única y puede ser divertida. A veces, puede parecer un poco desafiante al principio, pero con paciencia y práctica, se vuelve más fácil. Cada uno de ustedes tiene la capacidad de adaptarse y brillar en cualquier situación. ¡Eso es algo maravilloso!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdan la última vez que hicieron algo por primera vez? Tal vez fue montar una bicicleta o conocer a un nuevo amigo. Al principio, puede parecer un poco intimidante, pero luego se convierte en un recuerdo especial. Las transiciones son así, llenas de momentos que podemos atesorar. ¡Qué emocionante es crecer y aprender!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar otra transición divertida. Esta vez, imaginen que vamos a convertirnos en mariposas mágicas. Primero, nos acurrucamos como si estuviéramos dentro de un capullo. Luego, lentamente extendemos nuestros brazos como si fueran alas. ¡Miren cómo volamos! Las transiciones son como transformaciones mágicas. ¡Qué divertido es imaginar!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo hicieron! Cada uno de ustedes es una mariposa mágica lista para volar. Recuerden que las transiciones son parte de la vida y nos ayudan a convertirnos en la mejor versión de nosotros mismos. Con cada cambio, se vuelven más fuertes y valientes. ¡Estoy muy orgulloso de ustedes!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Tienen alguna pregunta sobre las transiciones? Siempre es bueno preguntar cuando algo no está claro. Estoy aquí para ayudarles a entender y a sentirse cómodos con los cambios. Recuerden que preguntar es una forma de aprender y crecer. ¿Qué les gustaría saber?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un viaje maravilloso hablar sobre las transiciones con todos ustedes. Recuerden que cada cambio es una oportunidad para aprender algo nuevo y emocionante. Estoy muy orgulloso de todos ustedes por ser tan valientes y curiosos. Gracias por acompañarme hoy. ¡Nos vemos pronto para más aventuras! ¡Adiós, amigos!"
+    }
+  ],
+  "title": "Historia de Transitions de Sunny"
+}

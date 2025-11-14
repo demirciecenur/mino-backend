@@ -1,0 +1,104 @@
+{
+  "id": "mino_behavior_story",
+  "character": "Mino",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour petit ami! Je suis Mino, ton guide intergalactique pour une aventure spéciale sur le comportement. Aujourd'hui, nous allons explorer comment se comporter de manière respectueuse et gentille. Es-tu prêt pour cette aventure magique? Nous allons apprendre comment le bon comportement peut rendre nos journées plus joyeuses. Prépare-toi à voyager à travers les étoiles du bon comportement!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le comportement, c'est comme un voyage spatial. Parfois, nous devons suivre certaines règles pour que tout se passe bien. Par exemple, quand on joue avec des amis, il est important d'attendre son tour. Cela montre que nous respectons les autres et que nous voulons qu'ils s'amusent aussi. Imagine que nous partageons une fusée spatiale avec d'autres astronautes. Si chacun respecte les règles, tout le monde peut profiter du voyage! Qu'en penses-tu?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment nous pouvons montrer un bon comportement à la maison. Par exemple, ranger ses jouets après avoir joué est une excellente habitude. Cela montre que nous prenons soin de nos affaires et de notre espace. C'est un peu comme garder notre vaisseau spatial propre et en ordre, prêt pour la prochaine aventure! Quand tu ranges tes jouets, tu aides aussi les autres à ne pas trébucher. C'est un geste très gentil, tu ne trouves pas?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Essayons ensemble de pratiquer cela. Imagine que nous avons terminé de jouer avec nos jouets spatiaux. Allons-nous les laisser traîner ou les ranger soigneusement? Oui, nous allons les ranger! Quelle bonne idée! C'est comme préparer notre vaisseau pour le prochain décollage. Chaque fois que tu ranges tes affaires, tu deviens un vrai héros du comportement. Bravo, petit explorateur!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi, le bon comportement n'est pas seulement pour la maison, mais aussi pour l'école. À l'école, écouter la maîtresse est très important. Cela montre que nous respectons ce qu'elle dit et que nous voulons apprendre. C'est un peu comme écouter le capitaine de notre vaisseau spatial. Quand nous écoutons bien, nous apprenons de nouvelles choses passionnantes! Es-tu prêt à écouter comme un vrai astronaute?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant de la manière de parler aux autres. Utiliser des mots gentils, c'est comme envoyer des étoiles brillantes dans le ciel. Dire \"s'il te plaît\" et \"merci\" montre que nous respectons et apprécions les autres. C'est un peu comme partager des étoiles de gentillesse et de gratitude. Imagine que chaque mot gentil est une étoile que tu envoies dans l'univers du bon comportement! N'est-ce pas merveilleux?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons quelque chose ensemble. Pense à un moment où tu pourrais dire \"merci\" aujourd'hui. Peut-être après que quelqu'un t'a aidé ou t'a donné quelque chose. Dire merci, c'est comme offrir une étoile à cette personne. C'est un petit geste qui peut illuminer la journée de quelqu'un. Tu peux le faire, je crois en toi! Chaque mot gentil compte, petit astronaute!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de ce que nous ressentons. Parfois, nous pouvons être tristes ou fâchés. C'est normal, même les astronautes ressentent cela. Quand nous ressentons ces émotions, nous pouvons respirer profondément. Respirer lentement, c'est comme flotter doucement dans l'espace. Cela nous aide à nous sentir plus calmes et prêts à affronter n'importe quelle situation. Prends une grande respiration avec moi, veux-tu essayer?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu déjà ressenti une émotion forte, comme être très heureux ou un peu triste? Que fais-tu dans ces moments-là? Peut-être que tu parles à quelqu'un ou que tu prends un moment pour toi. C'est toujours bien d'avoir des façons de gérer nos émotions. Quel est ton secret pour te sentir mieux? J'aimerais beaucoup l'entendre!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "C'est formidable de partager nos émotions. Quand nous parlons de ce que nous ressentons, c'est comme ouvrir une fenêtre sur notre monde intérieur. Cela aide les autres à nous comprendre et à nous soutenir. Imagine que chaque fois que tu partages tes sentiments, tu offres un petit bout de ton univers. C'est une belle façon de montrer que nous sommes tous connectés. Tu es un astronaute généreux en émotions!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu te souviens de tout ce que nous avons appris aujourd'hui? Nous avons parlé de ranger nos jouets, d'écouter attentivement, et d'utiliser des mots gentils. Chaque petit geste compte dans notre mission d'être de gentils astronautes. Penses-tu pouvoir pratiquer ces comportements dans ta journée? C'est comme remplir ta fusée de bonnes actions pour voyager encore plus loin!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Je suis tellement fier de toi! Chaque fois que tu fais un bon choix, c'est comme ajouter une étoile à ton ciel. Continue d'être un explorateur du comportement, petit ami. Tu apportes de la lumière et de la joie autour de toi. Je sais que tu peux le faire, et je suis là pour t'encourager à chaque étape du chemin. Ensemble, nous pouvons accomplir de grandes choses!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "En parlant de grandes choses, as-tu des rêves d'aventure dans l'espace? Peut-être que tu aimerais visiter une planète lointaine ou découvrir de nouvelles étoiles. Les rêves sont comme des étoiles qui nous guident vers de nouvelles aventures. Chaque bon comportement est un pas vers la réalisation de ces rêves. Souviens-toi, petit astronaute, que tout est possible avec un cœur gentil et un esprit ouvert!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est ton rêve le plus grand, petit explorateur? Est-ce de voler dans l'espace ou d'inventer quelque chose d'incroyable? J'aimerais beaucoup savoir ce qui te passionne. Chaque rêve est un trésor précieux, et je suis sûr que tu as de nombreux rêves brillants. Partage avec moi, je suis curieux de découvrir ton univers!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir exploré le monde du bon comportement avec moi aujourd'hui. Je suis tellement heureux d'avoir partagé cette aventure avec toi. N'oublie pas, chaque petit geste compte et rend notre univers plus lumineux. Continue de briller et de partager ta gentillesse partout où tu vas. À bientôt, petit astronaute, pour de nouvelles aventures interstellaires!"
+    }
+  ],
+  "title": "Histoire de Behavior de Mino"
+}

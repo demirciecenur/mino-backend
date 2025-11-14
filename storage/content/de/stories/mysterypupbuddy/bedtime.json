@@ -1,0 +1,98 @@
+{
+  "id": "mystery_pup_buddy_bedtime_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Mystery Pup Buddy. Heute gehen wir auf ein spannendes Abenteuer über das Schlafengehen. Bist du bereit? Ich bin so neugierig auf dich und deine Abendrituale. Lass uns gemeinsam eine lustige und entspannte Zeit haben, während wir uns auf das Schlafengehen vorbereiten!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Schlafenszeit ist eine ganz besondere Zeit des Tages. Es ist die Zeit, in der wir uns ausruhen und neue Energie tanken. Hast du schon einmal darüber nachgedacht, warum wir schlafen gehen? Schlaf hilft uns, groß und stark zu werden, und gibt unserem Körper die Ruhe, die er braucht. Jetzt, da wir wissen, wie wichtig Schlaf ist, lass uns herausfinden, wie wir uns auf eine gute Nacht vorbereiten können."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ein guter Start in die Schlafenszeit beginnt mit dem Aufräumen der Spielsachen. Stell dir vor, du bist ein kleiner Detektiv und sammelst alle deine Spielsachen ein. Das macht nicht nur Spaß, sondern hilft uns auch, am nächsten Tag alles leicht wiederzufinden. Wenn alles an seinem Platz ist, fühlt sich das Zimmer gleich viel gemütlicher an. Jetzt sind wir bereit für den nächsten Schritt unserer Abendroutine!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Jetzt ist es Zeit, unsere Zähne zu putzen. Hast du deine Zahnbürste bereit? Lass uns gemeinsam zählen, während wir die Zähne putzen: Eins, zwei, drei, vier, fünf! Saubere Zähne sind wichtig, damit wir gesund bleiben und strahlend lächeln können. Du machst das fantastisch!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nachdem wir unsere Zähne geputzt haben, können wir uns in unseren gemütlichen Schlafanzug kuscheln. Fühlst du, wie weich und bequem er ist? Ein Schlafanzug hilft uns, uns wohlzufühlen und uns auf eine gute Nacht vorzubereiten. Wenn wir uns wohlfühlen, fällt es uns leichter, einzuschlafen. Jetzt, da wir uns so gemütlich fühlen, können wir uns auf das nächste Abenteuer vorbereiten."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt ist es Zeit, eine beruhigende Geschichte zu hören. Geschichten helfen uns, in eine Fantasiewelt einzutauchen und uns zu entspannen. Kannst du dir eine Geschichte vorstellen, die du gerne hören würdest? Vielleicht eine über einen tapferen kleinen Hund, der ein großes Rätsel löst? Lass uns unsere Vorstellungskraft nutzen und die Geschichte in unserem Kopf lebendig werden lassen."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "War das nicht eine wunderbare Geschichte? Geschichten sind wie kleine Abenteuer, die uns helfen, unsere Träume zu gestalten. Was war dein Lieblingsteil der Geschichte? Vielleicht der Moment, in dem der kleine Hund den Schatz gefunden hat? Geschichten sind ein toller Weg, um unsere Fantasie zu stärken und uns auf süße Träume vorzubereiten."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt, wo wir so viele spannende Dinge gemacht haben, ist es Zeit, zur Ruhe zu kommen. Lass uns für einen Moment tief durchatmen. Eins, zwei, drei... Einatmen und ausatmen. Das hilft uns, uns zu entspannen und friedlich zu fühlen. Du machst das toll! Tiefes Atmen ist wie ein kleiner Zaubertrick, der uns hilft, ruhig zu werden."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du jemals darüber nachgedacht, was dir hilft, schneller einzuschlafen? Vielleicht ein Lieblingskuscheltier oder ein Nachtlicht? Manchmal hilft es, wenn wir uns vorstellen, dass wir auf einer weichen Wolke schweben. Was ist deine liebste Art, in den Schlaf zu gleiten? Ich bin so gespannt, was du dir ausdenkst!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir wissen, wie wir uns auf das Schlafengehen vorbereiten können, ist es an der Zeit, uns in unser Bett zu kuscheln. Fühlst du, wie weich und warm die Decke ist? Ein gemütliches Bett ist der perfekte Ort, um sich zu entspannen und die Augen zu schließen. Lass uns daran denken, wie schön es ist, nach einem langen Tag zur Ruhe zu kommen."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bevor wir einschlafen, können wir unseren Tag Revue passieren lassen. Was war dein Lieblingsmoment heute? Vielleicht das Spielen im Park oder das Malen eines Bildes? Es ist schön, an die Dinge zu denken, die uns glücklich gemacht haben. Diese Gedanken helfen uns, mit einem Lächeln einzuschlafen."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du hast heute so viel erreicht! Jetzt ist es Zeit, die Augen zu schließen und von wunderbaren Abenteuern zu träumen. Vielleicht träumst du von einem geheimnisvollen Wald oder einem strahlenden Regenbogen. Deine Träume sind wie kleine Geschichten, die nur dir gehören. Ich bin so stolz auf dich!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich an all die schönen Dinge, die wir heute gelernt haben? Vom Aufräumen bis zum Zähneputzen und den Geschichten, die wir gehört haben. All diese kleinen Rituale helfen uns, uns auf eine gute Nacht vorzubereiten. Es ist erstaunlich, wie viele Abenteuer wir erleben können, selbst wenn wir uns auf das Schlafengehen vorbereiten."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es an der Zeit, gute Nacht zu sagen. Schlaf gut, kleiner Freund, und träume von all den wunderbaren Dingen, die du morgen erleben wirst. Ich freue mich darauf, bald wieder mit dir auf Abenteuer zu gehen. Gute Nacht und süße Träume! Bis zum nächsten Mal, ich freue mich schon darauf!"
+    }
+  ],
+  "title": "Mystery Pup Buddys Bedtime Geschichte"
+}

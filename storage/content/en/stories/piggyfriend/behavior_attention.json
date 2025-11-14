@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_behavior_attention_story",
+  "character": "Piggy Friend",
+  "topic": "behavior_attention",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friends! I'm Piggy Friend, and I'm so happy to see you today. We're going to have a fun time learning about something very important: paying attention. Paying attention helps us do things like listening to stories, playing games, and even cleaning up our toys. Are you ready to join me on this exciting adventure? Let's get started and find out how we can be the best at paying attention!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what paying attention means. Paying attention is when we focus on something, like listening to a favorite story or watching a butterfly in the garden. It helps us to understand what is happening around us. When we pay attention, we can learn new things and have lots of fun. It's like being a detective, looking for clues and finding out exciting things. Can you think of a time when you paid attention to something interesting?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about being a detective? Paying attention is just like that. One way to practice is by playing a fun game called 'I Spy.' You can look around and find something special, like a red ball or a blue car. When you spot it, you can say, 'I spy with my little eye something...' and give a hint. This game helps us focus our eyes and ears on what's around us. Would you like to play 'I Spy' with me later?"
+    },
+    {
+      "id": "scene_3",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Let's practice paying attention with a fun exercise. We'll sit quietly and listen to the sounds around us. Maybe we can hear a bird chirping, or the wind blowing through the trees. Let's close our eyes for a moment and take three deep breaths together. Inhale slowly, and then exhale. As we breathe, let's listen carefully to the sounds. Isn't it amazing how many things we can hear when we pay attention? Great job staying focused!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we know how to listen, let's learn about how paying attention helps us with our routines. Routines are things we do every day, like brushing our teeth or getting dressed in the morning. When we pay attention to our routines, everything becomes easier and more fun. We can even make a game out of it, like counting how many buttons we have on our shirt as we get dressed. Paying attention makes our daily tasks feel like a fun adventure!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Do you remember the game 'I Spy' we talked about earlier? Playing games like that helps us practice focusing our attention. Another fun game is 'Simon Says,' where you have to listen carefully and do what Simon says. If Simon says, 'Touch your nose,' you touch your nose. But if Simon doesn't say 'Simon says,' you stay still. This game helps us practice listening and following directions. Would you like to play 'Simon Says' with your family later?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing a wonderful job learning about paying attention! Sometimes, when we get excited or a bit tired, it can be hard to focus. But don't worry, because everyone feels that way sometimes. When that happens, we can take a little break and do something calming, like drawing or reading a book. Taking a break helps us feel refreshed and ready to pay attention again. Keep trying, and remember, you're doing great!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Let's think about a question together. Why do you think it's important to pay attention when someone is talking to us? When we listen carefully, we can learn new things and understand what our friends and family are saying. It also shows that we care about them, and that's a nice thing to do. Do you think you can try to pay extra attention the next time someone talks to you? I bet you can!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now that we've talked about the importance of paying attention, let's remember a time when we did it really well. Maybe it was during a storytime, or while playing with a friend. Paying attention helps us remember fun times and learn exciting new things. It's like turning on a flashlight in our minds, making everything brighter and clearer. Can you think of a time when you shined your attention flashlight really brightly?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember how we practiced listening to sounds earlier? Let's try another fun exercise to practice our attention. This time, we'll try to spot different colors around us. Look around and see if you can find something red, something green, and something blue. Isn't it fun to notice all the different colors around us? Paying attention to colors helps us see how beautiful the world is. You're doing a fantastic job noticing all these details!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's talk about another way to practice paying attention: by following a simple routine. Let's say we're getting ready for bed. First, we put on our pajamas, then we brush our teeth, and finally, we read a bedtime story. By paying attention to each step, we make sure we don't forget anything important. Routines help us feel safe and ready for a good night's sleep. Do you have a bedtime routine that you follow every night?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a great job learning about paying attention and routines! Sometimes, when things get a little too busy, it's okay to ask for help. If you're having trouble focusing, you can ask a grown-up to help you. They can give you tips and tricks to make paying attention easier. Remember, asking for help is a smart thing to do, and it shows you're eager to learn. Keep up the amazing work, my attentive little friend!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Here's another curious question for you. What do you like to pay attention to the most? Is it playing with toys, listening to music, or watching animals? Paying attention to things we enjoy makes it even more fun. It's like going on a little adventure every time. Think about what you love, and see if you can pay extra attention to it today. I'm sure you'll discover something new and exciting!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now let's remember what we've learned today about paying attention. We've talked about listening to sounds, noticing colors, and following routines. Each of these helps us focus and learn new things. By practicing paying attention, we can have more fun and make every day an adventure. Do you remember all the fun exercises we've done together? Keep practicing, and you'll become an attention expert in no time!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you so much for spending time with me today, my little attention explorers. We've had such a fun adventure learning about how to pay attention. Remember, paying attention helps us learn, play, and enjoy every moment. Keep practicing, and you'll get better every day. I can't wait to see you next time for another exciting journey. Goodbye for now, and remember to keep shining your attention flashlight brightly!"
+    }
+  ],
+  "title": "Piggyfriend's Behavior & Attention Story"
+}

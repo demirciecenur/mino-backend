@@ -1,0 +1,104 @@
+{
+  "id": "piggy friend_nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables_story",
+  "character": "Piggy Friend",
+  "topic": "nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy tu amigo Piggy Friend. Hoy vamos a aprender sobre algo muy importante y divertido: la nutrición y los hábitos alimentarios saludables. ¿Estás listo para esta aventura? Vamos a descubrir juntos cómo los alimentos pueden hacernos fuertes y felices. ¡Estoy muy emocionado de empezar!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La nutrición es como darle al cuerpo lo que necesita para crecer y jugar. Comer frutas y verduras nos da energía para correr y saltar. ¿Sabías que las zanahorias son buenas para los ojos? Y las manzanas son deliciosas y nos ayudan a mantenernos saludables. Comer bien es como darle a nuestro cuerpo un gran abrazo de amor."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a aprender sobre cómo elegir alimentos saludables. Cuando vamos al mercado, podemos buscar colores brillantes en frutas y verduras. Los colores nos dicen que tienen muchas vitaminas y minerales. También podemos elegir cereales integrales como el arroz integral en lugar de arroz blanco. Esto nos da más energía para jugar durante todo el día."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Bien hecho! Elegir alimentos saludables es como ser un superhéroe para nuestro cuerpo. Podemos hacer que la hora de comer sea divertida al intentar nuevos sabores. Tal vez hoy probemos una fruta que nunca antes hemos comido. ¿Te gustaría intentarlo? ¡Estoy seguro de que lo harás genial!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos qué alimentos son buenos para nosotros, hablemos sobre cuándo comerlos. Es importante tener tres comidas al día: desayuno, almuerzo y cena. También podemos tener pequeños bocadillos saludables entre comidas, como una banana o un puñado de nueces. Esto nos ayuda a mantenernos llenos de energía y felicidad durante todo el día."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hablar sobre beber agua. El agua es muy importante para mantenernos hidratados. Podemos imaginar que somos plantas y el agua es como la lluvia que nos ayuda a crecer. Beber agua es mejor que tomar bebidas azucaradas. ¿Puedes contar cuántos vasos de agua bebes al día? Intentemos beber al menos ocho vasos."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora sabes por qué el agua es tan especial. Beber suficiente agua nos hace sentir bien y nos ayuda a concentrarnos mientras jugamos. Recuerda siempre llevar una botella de agua cuando salgas a jugar. ¡Tú puedes hacerlo, pequeño campeón!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Cuando hablamos de nutrición, también es importante saber que necesitamos comer despacio. Esto nos ayuda a disfrutar cada bocado y a saber cuándo estamos llenos. Comer despacio es como disfrutar de una canción bonita, queremos escuchar cada nota. Así que, la próxima vez que comas, intenta saborear tu comida poquito a poquito."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gusta comer despacio y disfrutar de cada bocado? ¿Cuál es tu comida favorita que te gusta saborear? Tal vez sea una jugosa fresa o un crujiente cereal. ¡Cuéntamelo! Me encanta escuchar sobre tus comidas favoritas."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que has pensado en tu comida favorita, piensa en cómo puedes hacerla aún más saludable. Tal vez añadir un poco de fruta a tu cereal o un poco de verdura a tu sándwich. Hacer pequeños cambios puede hacer una gran diferencia en cómo te sientes. ¡Eres un experto en alimentación saludable!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablemos de divertirnos mientras comemos. Podemos inventar juegos como ver quién puede hacer la cara más divertida con rodajas de pepino. O tal vez contar cuántos colores diferentes hay en nuestro plato. Comer puede ser un momento feliz y alegre. ¡Es una gran oportunidad para reír y disfrutar con la familia!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "También es importante saber cuándo parar de comer. Cuando nuestro estómago se siente lleno, es como si nos dijera que ya ha tenido suficiente. Podemos aprender a escuchar a nuestro cuerpo. Esto nos ayuda a no sentirnos incómodos después de comer. Así que, presta atención a las señales de tu pancita."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo increíble! Escuchar a nuestro cuerpo es una habilidad especial que tienes. Al hacerlo, nos aseguramos de que nuestro cuerpo esté feliz y saludable. Sigue practicando, y pronto serás un maestro en saber cuándo tu pancita está contenta. ¡Estoy tan orgulloso de ti!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Puedes pensar en una cosa nueva que aprendiste hoy sobre la alimentación saludable? Tal vez algo sobre las frutas, el agua o cómo comer despacio. Me encantaría que compartieras lo que más te gustó aprender. ¡Eres un gran estudiante!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Gracias por acompañarme en esta aventura sobre la nutrición y hábitos saludables. Recuerda que comer bien nos ayuda a sentirnos felices y fuertes. Estoy muy contento de que hayas aprendido tanto hoy. ¡Espero que sigas explorando y disfrutando de muchos alimentos deliciosos y saludables! Hasta la próxima, amiguito. ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Nutrition de Piggy Friend"
+}

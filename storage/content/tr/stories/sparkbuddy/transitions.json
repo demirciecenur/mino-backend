@@ -1,0 +1,104 @@
+{
+  "id": "spark_buddy_transitions_story",
+  "character": "Spark Buddy",
+  "topic": "transitions",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Spark Buddy, elektrik dolu bir arkadaş. Bugün birlikte geçişler hakkında konuşacağız. Bu, hayatımızdaki değişiklikler demek. Bazen yeni bir okula başlamak ya da yeni bir eve taşınmak gibi. Hazır mısın? Hadi bu maceraya başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçişler bazen biraz zorlayıcı olabilir, ama aynı zamanda eğlenceli de olabilir. Örneğin, yeni bir arkadaş edinmek gibi. İlk başta biraz heyecanlı hissedebilirsin. Ama unutma, bu yeni arkadaşla çok güzel oyunlar oynayabilirsin. Her değişiklik yeni bir macera demektir. Sen de böyle düşünmüyor musun?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi düşünelim, sabah uyandığında her gün yaptığın şeyler var, değil mi? İşte bu, bir rutin. Ama bazen bu rutinler değişebilir. Mesela, sabah kahvaltıdan önce dişlerini fırçalamak gibi. Bu değişiklikler, seni daha sağlıklı ve güçlü yapar. Hadi, birlikte yeni rutinler düşünelim!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Haydi, şimdi birlikte bir oyun oynayalım. Gözlerini kapat ve üçe kadar say. Bir, iki, üç! Şimdi yeni bir şey hayal et. Belki yeni bir oyuncak ya da yeni bir oyun. Harika! Seninle birlikte bunu hayal etmek çok eğlenceliydi. Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda yeni şeyler hayal ettik. Şimdi, bu değişikliklerin seni nasıl hissettirdiğini düşünelim. Bazen biraz korkutucu olabilir, ama unutma, her yeni şeyle birlikte öğreniriz. Bu da bizi daha güçlü yapar. Sen de böyle hissediyor musun?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, birlikte derin bir nefes alalım. Bir, iki, üç! Derin nefes almak, kendimizi daha iyi hissetmemize yardımcı olur. Bunu her gün yapabilirsin. Sabah uyandığında ya da uyumadan önce. Kendini daha rahat ve mutlu hissettiğinde, her şey daha kolay olur."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Geçişler her zaman kolay değildir, ama birlikte üstesinden gelebiliriz. Unutma, yeni şeyler denemek seni daha cesur yapar. Sen çok cesursun! Her gün yeni bir şey öğrenebilirsin. Seninle birlikte bunu keşfetmek çok eğlenceliydi. Devam edelim mi?"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Birlikte düşünelim, son zamanlarda hangi değişiklikler oldu? Belki yeni bir oyun oynadın ya da yeni bir arkadaş edindin. Bunlar seni nasıl hissettirdi? Bunu bana anlatmak ister misin? Seni dinliyorum, merak ediyorum!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Harika bir hikaye anlattın! Değişiklikler bazen zor olabilir, ama hepimiz bunu yaşarız. Her yeni şeyle birlikte büyür ve öğreniriz. Seninle birlikte olmak çok güzel. Şimdi daha fazla şey keşfetmeye ne dersin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hatırlıyor musun, yeni şeyler denemekten bahsetmiştik. Şimdi, yeni bir oyun ya da etkinlik düşünelim. Belki yeni bir resim yapmak ya da yeni bir şarkı öğrenmek gibi. Bu aktiviteler seni daha yaratıcı yapar. Seninle birlikte bunu düşünmek çok eğlenceliydi."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Daha önce hiç denemediğin bir şey düşün. Belki yeni bir yemek yapmak ya da yeni bir dans öğrenmek. Bu, seni daha mutlu ve enerjik yapar. Her gün yeni bir şey denemek seni daha güçlü yapar. Unutma, her zaman yeni şeyler deneyebilirsin!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen harikasın! Yeni şeyler denemek seni daha cesur yapar. Her gün yeni bir macera olabilir. Seninle birlikte bu maceraya atılmak çok eğlenceliydi. Sen de böyle hissediyor musun? Devam edelim mi?"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. En sevdiğin aktivite nedir? Belki resim yapmak ya da dans etmek. Bunlar seni nasıl hissettiriyor? Bunu bana anlatmak ister misin? Seni dinliyorum!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Çok güzel bir cevap verdin! Sevdiğin aktiviteler seni daha mutlu yapar. Her gün yeni şeyler denemek seni daha güçlü yapar. Seninle birlikte bu maceraya atılmak çok eğlenceliydi. Şimdi başka bir şey keşfetmeye ne dersin?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte geçirdiğimiz zaman çok güzeldi! Geçişler ve değişiklikler hakkında çok şey öğrendik. Unutma, her yeni şey seni daha güçlü yapar. Seninle birlikte bu macerayı yaşamak çok eğlenceliydi. Bir dahaki sefere görüşmek üzere, küçük dostum! Hoşça kal!"
+    }
+  ],
+  "title": "Spark Buddy'ın Transitions Hikayesi"
+}

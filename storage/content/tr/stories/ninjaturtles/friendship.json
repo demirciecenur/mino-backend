@@ -1,0 +1,110 @@
+{
+  "id": "shell_heroes_crew_friendship_story",
+  "character": "Shell Heroes Crew",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Shell Heroes Crew. Bugün birlikte arkadaşlık hakkında harika bir yolculuğa çıkacağız. Arkadaşlık, birlikte oyun oynamak ve birbirimize destek olmak demektir. Hazır mısın? Seni çok merak ediyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, tıpkı bir bahçedeki çiçekler gibi özenle bakılması gereken bir şeydir. Bir arkadaş edindiğimizde, onunla oyunlar oynar ve güzel anılar biriktiririz. Arkadaşlarımızla paylaşmak, bize mutluluk getirir. Birlikte güleriz, bazen de zorlukları aşarız. İşte bu yüzden arkadaşlık çok önemlidir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaş edinmek için yapmamız gereken ilk şey, gülümsemek ve selam vermektir. Yeni bir arkadaşla tanıştığımızda, adımızı söyleyip onlara da isimlerini sorabiliriz. Bu, aramızdaki bağı güçlendirir. Unutma, herkes yeni bir arkadaş edinmek ister. Bu yüzden cesur ol ve ilk adımı sen at!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Eğer arkadaşınla oyun oynamak istersen, ona en sevdiğin oyunu sorabilirsin. Belki de birlikte yeni bir oyun keşfedebilirsiniz! Oyunlar, arkadaşlarımızla daha sıkı bağlar kurmamıza yardımcı olur. Hadi, sen de denemek ister misin? Eminim harika vakit geçireceksiniz!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda oyun oynamaktan bahsettik. Şimdi, oyunlar sırasında arkadaşlarımıza nasıl destek olabileceğimizi konuşalım. Destek olmak, arkadaşımızın yanında olmak ve ona yardım etmektir. Örneğin, eğer arkadaşımız bir oyunda zorlanıyorsa, ona yardım edebiliriz. Bu, arkadaşlığımızı güçlendirir."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, birlikte oyun oynamak ve destek olmak demiştik. Peki, arkadaşlarımızla nasıl güzel vakit geçirebiliriz? Onlarla eğlenceli hikayeler paylaşabiliriz ya da birlikte resimler çizebiliriz. Böylece birlikte geçirdiğimiz zaman daha da değerli olur. Sen de arkadaşlarınla neler yapmayı seversin?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Arkadaşlarımızla olan ilişkilerimizde bazen anlaşmazlıklar yaşayabiliriz. Bu çok normaldir. Önemli olan, bu durumları nasıl çözeceğimizi bilmektir. Arkadaşlarımızla konuşarak ve onları dinleyerek sorunlarımızı çözebiliriz. Hadi, bu konuda cesur ol ve ilk adımı at!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir sorun yaşadığımızda, derin bir nefes alıp sakinleşmek önemlidir. Üç derin nefes alalım. Birlikte sayalım: Bir, iki, üç. Şimdi, arkadaşımızla konuşmaya hazırız. Onun ne hissettiğini anlamaya çalışalım ve kendi duygularımızı da paylaşalım. İletişim kurmak, arkadaşlığımızı güçlendirir."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlıkta önemli olan bir diğer konu ise sır saklamaktır. Arkadaşımız bize bir sır verdiğinde, bu sırrı kimseyle paylaşmamalıyız. Bu, ona olan güvenimizi gösterir. Arkadaşımızın sırlarını koruyarak ona ne kadar değer verdiğimizi gösterebiliriz. Güven, sağlıklı bir arkadaşlığın temelidir."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi bir düşün! Senin en yakın arkadaşın kim? Onunla en çok hangi oyunları oynamayı seviyorsun? Onunla birlikte vakit geçirirken neler hissediyorsun? Bu duygularını bizimle paylaşmak ister misin? Seni dinlemek için buradayız!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda sır saklamaktan bahsetmiştik. Şimdi, arkadaşlarımızı nasıl mutlu edebileceğimizi konuşalım. Onlara küçük sürprizler yapabiliriz ya da onları mutlu edecek sözler söyleyebiliriz. Bu, arkadaşlığımızı daha da güçlendirir. Küçük jestler, büyük mutluluklar getirir."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Arkadaşlarımızla birlikte eğlenmek için farklı aktiviteler deneyebiliriz. Belki bir parkta oyun oynayabiliriz ya da birlikte bir kitap okuyabiliriz. İster içeride, ister dışarıda olsun, önemli olan birlikte zaman geçirmek. Hadi, sen de arkadaşlarınla neler yapmak istediğini düşün!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Birlikte vakit geçirmenin ne kadar keyifli olduğunu hatırlıyor musun? Şimdi, arkadaşlarımızla birlikte yeni şeyler öğrenmenin ne kadar eğlenceli olabileceğini düşünelim. Yeni bir oyun öğrenmek ya da birlikte bir şeyler yapmak, arkadaşlığımızı daha da sağlamlaştırır. Sen de arkadaşlarınla neler öğrenmek istersin?"
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaşlıkta önemli olan bir diğer şey de, birbirimize saygı göstermektir. Herkesin farklı olduğunu ve farklı şeylerden hoşlandığını unutmamalıyız. Arkadaşlarımızın düşüncelerine ve duygularına saygı göstererek, onlara ne kadar değer verdiğimizi gösterebiliriz. Bu, arkadaşlığımızı güçlendirir."
+    },
+    {
+      "id": "scene_14",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Arkadaşlarınla birlikte ne zaman en çok eğleniyorsun? Onlarla hangi aktiviteleri yapmayı seviyorsun? Onlara nasıl destek oluyorsun? Bu sorular üzerinde düşünmek, arkadaşlık ilişkilerini daha iyi anlamana yardımcı olabilir. Cevaplarını bizimle paylaşmak ister misin?"
+    },
+    {
+      "id": "closure_15",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün arkadaşlık hakkında çok şey öğrendik. Arkadaşlarımızla nasıl daha iyi iletişim kurabileceğimizi ve onlara nasıl destek olabileceğimizi konuştuk. Unutma, arkadaşlık çok kıymetlidir ve özenle bakılması gerekir. Şimdi, öğrendiklerini uygulama zamanı! Bir sonraki macerada görüşmek üzere. Hoşça kal küçük dostum!"
+    }
+  ],
+  "title": "Shell Heroes Crew'ın Friendship Hikayesi"
+}

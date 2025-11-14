@@ -1,0 +1,98 @@
+{
+  "id": "yellow_buddy_imagination_story",
+  "character": "Yellow Buddy",
+  "topic": "imagination",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Yellow Buddy, ton compagnon de jeu préféré. Aujourd'hui, nous allons explorer le monde magique de l'imagination. Es-tu prêt pour cette aventure incroyable ? Je suis tellement curieux de découvrir ce que nous allons inventer ensemble. L'imagination est comme une clé magique qui peut ouvrir la porte à des mondes fantastiques. Allez, partons ensemble vers l'inconnu !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est comme avoir un super pouvoir dans ta tête. Tu peux créer des histoires incroyables, juste en fermant les yeux et en rêvant. Par exemple, imagine que tu es un pirate sur un bateau à la recherche d'un trésor. Tu peux sentir le vent sur ton visage et entendre les vagues de la mer. N'est-ce pas amusant de pouvoir voyager sans bouger ? Maintenant, imagine ce que tu pourrais découvrir !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour utiliser ton imagination, tu n'as besoin de rien d'autre que de ton esprit. Tu peux commencer par penser à ton endroit préféré. Est-ce une forêt magique avec des animaux qui parlent ou un château géant dans le ciel ? Ferme les yeux et essaie de voir chaque détail. Entends-tu des oiseaux chanter ou peut-être des dragons rugir ? Utilise ton imagination pour rendre cet endroit aussi réel que possible."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastique ! Tu fais un excellent travail en utilisant ton imagination. Maintenant, essayons quelque chose de nouveau. Imagine que tu es un super-héros avec des pouvoirs incroyables. Quels pouvoirs aimerais-tu avoir ? Peut-être voler comme un oiseau ou devenir invisible ? Pense à toutes les choses étonnantes que tu pourrais faire avec ces pouvoirs. Super, tu es vraiment doué !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi quand nous avons parlé d'être un pirate ou un super-héros ? Eh bien, l'imagination te permet aussi de découvrir de nouvelles idées. Par exemple, tu peux imaginer un animal qui n'existe pas encore. Peut-être un lapin avec des ailes ou un éléphant qui change de couleur. Ces idées peuvent devenir des histoires ou des dessins amusants. Es-tu prêt pour notre prochaine aventure ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu te souviens de l'endroit magique que tu as imaginé plus tôt ? Maintenant, essayons de lui donner vie. Que dirais-tu d'ajouter des amis imaginaires qui vivent dans cet endroit ? Peut-être un chat qui danse ou un chien qui chante ? Ces amis peuvent jouer avec toi et vivre des aventures incroyables. Qu'est-ce que tu penses que ces amis feraient toute la journée ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "L'imagination, c'est aussi une façon de résoudre des problèmes. Imagine que tu as perdu ton jouet préféré. Que pourrais-tu faire pour le retrouver ? Peut-être inventer une carte au trésor qui te mène à l'endroit où il est caché. Ou bien imaginer que tu es un détective avec une loupe géante. Utilise ton imagination pour trouver des solutions créatives. Tu verras, c'est très utile !"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Excellent travail ! Tu as fait preuve de beaucoup de créativité. Maintenant, prenons un moment pour rêver un peu plus. Imagine que tu es sur une plage de sable doré avec un grand château de sable. Que se passe-t-il autour de toi ? Peut-être des crabes qui dansent ou des étoiles de mer qui chantent. C'est merveilleux de pouvoir créer un monde entier dans ta tête, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tu as fait un voyage incroyable avec ton imagination. C'est comme avoir une baguette magique qui transforme tout ce que tu veux en réalité. Souviens-toi, l'imagination peut t'aider à te sentir heureux, même quand tu es triste. Elle peut transformer un jour de pluie en une aventure sous-marine passionnante. Alors, n'hésite jamais à utiliser ton imagination, elle est toujours là pour toi."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dis-moi, quel est ton rêve le plus fou ? Peut-être un voyage sur la lune ou nager avec des dauphins ? Il n'y a pas de limite à ce que tu peux imaginer. Même les idées les plus folles peuvent devenir des histoires incroyables. Quelle est la prochaine aventure que tu aimerais vivre avec ton imagination ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les rêves et l'imagination sont comme des amis fidèles qui ne te quittent jamais. Tu peux les emmener partout avec toi, à l'école ou au parc. Ils peuvent transformer les moments ordinaires en moments extraordinaires. Par exemple, attendre dans une file peut devenir une aventure dans un monde imaginaire. Alors, que dirais-tu d'utiliser ton imagination pour rendre chaque jour spécial ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Souviens-toi de toutes les choses amusantes que nous avons imaginées aujourd'hui. Une plage avec des crabes dansants, un château dans le ciel, et même des amis imaginaires. Tu peux créer tout cela et bien plus encore. Chaque jour est une nouvelle chance de rêver et de découvrir. Quelle sera ta prochaine grande idée ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es un véritable champion de l'imagination ! Continue d'explorer ces mondes magiques chaque fois que tu en as envie. N'oublie pas que l'imagination peut aussi t'aider à apprendre de nouvelles choses. Comme imaginer les chiffres dansent pendant que tu comptes ou les lettres chantent quand tu lis. Tu verras, l'apprentissage devient un jeu amusant !"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure imaginaire avec moi aujourd'hui. J'ai passé un moment merveilleux et j'espère que toi aussi. N'oublie jamais que ton imagination est un trésor précieux. Elle est toujours là pour t'aider à rêver et à créer. À la prochaine fois, petit ami ! Continue de rêver et d'explorer. Au revoir et à très bientôt !"
+    }
+  ],
+  "title": "Histoire de Imagination de Yellow Buddy"
+}

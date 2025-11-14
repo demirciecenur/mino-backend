@@ -1,0 +1,104 @@
+{
+  "id": "blu_pup_confidence_story",
+  "character": "Blu Pup",
+  "topic": "confidence",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis! Je suis Blu Pup, et aujourd'hui, nous allons explorer le monde incroyable de la confiance. La confiance, c'est comme un superpouvoir qui nous aide à faire des choses nouvelles et excitantes. Êtes-vous prêts pour cette aventure? Je suis tellement curieux de savoir ce que vous pensez! Allons-y ensemble pour découvrir comment être courageux et sûr de soi."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance, c'est comme un petit feu qui brûle dans notre cœur. Elle nous aide à essayer de nouvelles choses, comme apprendre à faire du vélo ou dessiner un beau dessin. Parfois, on a peur ou on se sent nerveux, mais la confiance nous dit : 'Tu peux le faire!' Pensez à un moment où vous avez essayé quelque chose de nouveau. Comment vous êtes-vous senti? C'est ça, la magie de la confiance."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment nous pouvons renforcer notre confiance. Une façon est de se rappeler des choses que nous avons déjà bien faites. Pensez à un moment où vous avez réussi quelque chose, comme ranger vos jouets tout seul. N'est-ce pas génial? Chaque petite victoire nous rend plus forts et plus confiants. Alors, la prochaine fois que vous réussissez quelque chose, célébrez-le!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous savez quoi? Même les héros ont parfois besoin d'un peu de courage. C'est normal d'avoir peur ou d'être incertain. Mais souvenez-vous, vous êtes incroyables et vous pouvez y arriver! Imaginez que vous portez une cape magique de confiance. Elle vous aide à voler au-dessus de vos craintes. Vous êtes prêts à essayer? Je suis sûr que vous le pouvez!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons de comment la confiance peut nous aider à faire de nouveaux amis. Quand nous sommes confiants, nous sourions plus et disons 'bonjour' avec enthousiasme. Cela rend tout le monde autour de nous plus heureux. Avez-vous déjà fait un nouveau copain en jouant dans le parc? C'est la confiance qui vous a aidé à dire le premier mot. N'est-ce pas merveilleux?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, faisons un petit exercice ensemble. Prenons une grande inspiration, puis soufflons doucement. Encore une fois, inspirez profondément, puis expirez lentement. Cela nous aide à nous calmer et à nous sentir plus confiants. Vous sentez-vous plus détendu? C'est une excellente manière de se préparer pour affronter de nouveaux défis."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Savez-vous qu'il est aussi important de croire en ses amis? Quand on encourage un copain, on lui donne de la confiance. Avez-vous déjà dit à un ami qu'il faisait du bon travail? Comment cela l'a-t-il fait se sentir? Partager la confiance, c'est comme partager un sourire. Cela rend le monde plus lumineux pour tout le monde."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons de faire un petit jeu. Imaginez que vous êtes un lion courageux. Comment rugiriez-vous? Allez-y, rugissez comme un lion! Vous voyez, même faire semblant peut nous donner de la confiance. Vous pouvez être tout ce que vous voulez si vous y croyez. N'oubliez jamais que vous avez ce pouvoir en vous."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous que chaque jour est une nouvelle chance de pratiquer la confiance. Comme quand vous apprenez à sauter à la corde ou à chanter une chanson. Chaque fois que vous essayez, vous devenez un peu plus fort. Pensez à quelque chose que vous aimeriez essayer demain. Avec un peu de confiance, vous pouvez tout faire!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Voyons comment nous pouvons aider les autres à se sentir confiants. Peut-être que votre petit frère ou petite sœur a besoin d'encouragement pour essayer un nouveau jeu. Vous pouvez dire : 'Je crois en toi!' Cela peut faire une grande différence. Encourager les autres nous rend aussi plus confiants. C'est comme un cercle magique de confiance."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Et si nous jouions à un jeu d'imagination? Imaginez que vous êtes un astronaute prêt à explorer l'espace. Quelles planètes visiteriez-vous? Pensez à quel point vous devez être confiant pour piloter une fusée. C'est incroyable, n'est-ce pas? Vous avez déjà cette confiance en vous!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous remarqué que plus nous pratiquons, plus nous devenons confiants? Pensez à un moment où vous avez beaucoup pratiqué quelque chose. Peut-être était-ce un puzzle ou un dessin. Comment vous êtes-vous senti après? La pratique rend la confiance plus forte chaque jour."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, soyons des super-héros de la confiance! Imaginez que vous avez un bouclier de confiance qui vous protège. Rien ne peut vous arrêter! Vous pouvez essayer de nouvelles choses, rencontrer de nouvelles personnes et explorer de nouveaux endroits. Vous êtes incroyables! Rappelez-vous toujours de votre bouclier magique."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Et voilà, nous avons appris tellement de choses sur la confiance aujourd'hui. Vous êtes tous des champions de la confiance! Continuez à croire en vous et à encourager vos amis. Chaque jour est une nouvelle aventure. J'ai hâte de voir tout ce que vous allez accomplir avec votre confiance. Bravo à vous tous!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, mes amis! N'oubliez jamais que la confiance est toujours en vous, prête à vous aider. Je suis tellement fier de vous. Au revoir et à bientôt pour une nouvelle aventure avec Blu Pup! Continuez à être courageux et confiants. À la prochaine!"
+    }
+  ],
+  "title": "Histoire de Confidence de Blu Pup"
+}

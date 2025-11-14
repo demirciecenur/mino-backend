@@ -1,0 +1,104 @@
+{
+  "id": "mino_kindness_story",
+  "character": "Mino",
+  "topic": "kindness",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Mino, your colorful space adventurer. Today, we're going on an amazing journey to explore kindness. Are you ready to learn about being kind and helpful? I’m so excited to share stories and fun activities with you. Kindness is like a magical power that makes everyone feel happy and loved. Let's discover how we can spread kindness all around us!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, imagine kindness as a bright star in the sky. Just like stars light up the night, kindness lights up our hearts. When we are kind, we make others feel special and warm inside. Have you ever helped a friend or shared your toys? That’s kindness in action! Every small act of kindness is like adding a twinkle to the sky."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about stars lighting up the night? Let's learn how we can be kind every day. Being kind means using gentle words like 'please' and 'thank you.' It also means sharing with others, like offering your toys or helping clean up. When you see someone feeling sad, you can cheer them up with a smile or a hug. These small actions make a big difference!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about kindness! Now, let's practice together. Can you think of one kind thing you did today? Maybe you helped your parents or played nicely with a friend. If you haven't yet, that's okay! You can try tomorrow. Remember, kindness is like a superpower you can use anytime. You can do it!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our adventure by exploring how kindness feels. When you are kind, it feels like a warm hug inside your heart. It’s like the sun shining on a cold day, making everything brighter. Have you noticed how happy you feel when someone is kind to you? That happiness is something you can give to others too. Isn't that wonderful?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Next, we’ll think about the people around us. Look around you; who do you see? It could be your family, friends, or even your pet. Each of them can be a part of your kindness journey. You can say nice things, help with chores, or play fun games together. Being kind to those around us makes our world a happier place."
+    },
+    {
+      "id": "scene_6",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Now let’s try a fun kindness exercise! Let's take three calm breaths together. Breathe in slowly, and breathe out. As you breathe, think about someone you want to be kind to. Imagine doing something nice for them. Maybe it's drawing a picture or helping them with something. When you're ready, you can try your kindness idea. That’s how we spread joy!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember our breathing exercise? It’s fun to think about kindness, but it’s even better to do it! Have you tried your kindness idea yet? If not, that's okay. You can plan it with your family. Kindness is like planting a seed that grows into a beautiful flower. It takes time, but it’s always worth it."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about how kindness can change the world. Even small acts, like helping a friend or sharing your snack, can make a big impact. When you are kind, others feel happy and may want to be kind too. It’s like a ripple in the water that keeps spreading. Imagine if everyone was kind, how wonderful the world would be!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let’s create a kindness chart. You can draw or use stickers to mark kind things you do each day. Every time you do something kind, add it to your chart. It’s a fun way to see how much kindness you’re spreading. At the end of the week, you can celebrate all the good you’ve done. It’s like collecting stars in your kindness sky."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing an amazing job learning about kindness! Keep up the great work. Remember, kindness is not just about big actions. Little things, like saying 'good morning' or helping someone pick up their toys, count too. Every act of kindness makes the world a better place. You’re a kindness superstar!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "I have a question for you. What’s your favorite way to show kindness? Is it sharing your toys, helping with chores, or something else? There are so many ways to be kind, and everyone has their own special way. I’d love to hear your ideas! Remember, every kind action counts, no matter how small."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's imagine a kindness adventure. Picture yourself as a kindness hero, spreading joy wherever you go. Maybe you help a friend, share a treat, or even make someone laugh. Every place you visit, you leave a trail of happiness. Being kind makes you a hero in your own story. Isn’t that exciting?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Did you enjoy our kindness adventure? I hope you feel inspired to try new ways of being kind. Remember, kindness is a journey we take every day. It’s like a treasure hunt, finding opportunities to make someone smile. Keep looking for those chances, and you’ll find lots of treasures along the way!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our kindness journey is coming to an end, but the adventure never stops. You can keep exploring kindness with your family and friends. Thank you for joining me today and being a wonderful kindness explorer. Remember, you have the power to make the world a brighter place. Goodbye for now, and keep shining like the stars!"
+    }
+  ],
+  "title": "Mino's Kindness Story"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "piggy_friend_confidence_story",
+  "character": "Piggy Friend",
+  "topic": "confidence",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy tu amigo Piggy, y hoy vamos a hablar sobre algo muy especial: la confianza. La confianza es cuando creemos en nosotros mismos, como cuando aprendemos algo nuevo. ¿Están listos para una aventura? ¡Estoy tan emocionado de compartir esto con ustedes! Vamos a divertirnos mucho y descubrir cómo ser valientes."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confianza es como cuando aprendes a montar en bicicleta. Al principio puede parecer difícil, pero con práctica, te vuelves más seguro. ¿Recuerdan la primera vez que intentaron algo nuevo? Tal vez fue un poco aterrador, pero luego se sintieron muy orgullosos. Así es como crece la confianza, paso a paso. ¡Intentémoslo juntos!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para construir confianza, podemos empezar con pequeñas cosas. Como cuando ayudas a poner la mesa o a recoger tus juguetes. Cada vez que haces algo por ti mismo, te vuelves más fuerte. ¿Podemos intentar contar hasta cinco juntos? Uno, dos, tres, cuatro, cinco. ¡Lo hicieron genial! Cada pequeño logro nos da más confianza."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Ahora que sabemos un poco más sobre la confianza, veamos cómo podemos usarla todos los días. La próxima vez que intentes algo nuevo, recuerda que está bien equivocarse. Aprendemos de nuestros errores y nos hacemos más fuertes. ¡Ustedes pueden hacerlo! Siempre recuerden que soy su amigo Piggy, y estoy aquí para apoyarlos."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¿Recuerdan cuando hablamos de montar en bicicleta? Ahora, piensen en algo que les gustaría intentar. Puede ser pintar un dibujo o aprender una nueva canción. Imaginen lo bien que se sentirán cuando lo logren. ¡Eso es confianza! Con cada paso que toman, se acercan más a sus sueños. ¡Qué emocionante es eso!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Practiquemos juntos un ejercicio de confianza. Vamos a respirar profundamente tres veces. Inhalen, exhalen. Uno, dos, tres. ¿No se siente mejor? Respirar así nos ayuda a calmarnos y a sentirnos más seguros. Podemos hacer esto siempre que lo necesitemos. ¡Es un truco muy útil!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Pueden pensar en un momento en que se sintieron muy valientes? Tal vez fue cuando hablaron frente a la clase o cuando hicieron un nuevo amigo. ¿Cómo se sintieron después? Seguro que fue increíble. ¿No les gustaría sentir eso más a menudo? ¡La confianza nos ayuda a hacer cosas maravillosas!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hablar de momentos valientes nos hace sonreír, ¿no es así? Recordar esos momentos nos da fuerza para enfrentarnos a nuevos desafíos. La próxima vez que sientan un poco de miedo, recuerden esas historias. ¡Ustedes son capaces de cosas asombrosas! Nunca olviden lo valientes que pueden ser."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ahora que hemos aprendido tanto sobre la confianza, es hora de ponerlo en práctica. La próxima vez que se enfrenten a algo difícil, recuerden respirar y pensar en sus logros. ¡Ustedes pueden hacerlo! Estoy muy orgulloso de todos ustedes. ¡Sigan adelante y nunca se rindan!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confianza también nos ayuda a ser buenos amigos. Cuando creemos en nosotros mismos, es más fácil compartir y jugar con otros. Podemos invitar a alguien nuevo a jugar o ayudar a un amigo que lo necesite. Así, no solo construimos nuestra confianza, sino también la de los demás. ¡Qué maravilloso es eso!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, intentemos un pequeño juego. Piensen en algo que les gustaría lograr esta semana. Puede ser algo pequeño, como leer un libro o ayudar en casa. Cada vez que lo intenten, estarán construyendo su confianza. ¡Y recuerden, cada paso cuenta! ¡Vamos a lograrlo juntos!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Qué es lo que más les gusta hacer? Tal vez es dibujar, cantar o jugar al aire libre. ¿Han pensado en lo valientes que son al hacer esas cosas? Cada vez que lo hacen, están mostrando confianza. ¿No es increíble ver cómo crece su confianza cada día? ¡Sigan así!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo están haciendo todos! Recuerden que la confianza es un viaje. A veces puede ser difícil, pero con práctica y paciencia, siempre mejoramos. Estoy muy orgulloso de ustedes por intentarlo. ¡Sigan practicando y verán cómo se vuelven más fuertes cada día!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un día maravilloso aprendiendo sobre la confianza juntos. Recuerden siempre creer en ustedes mismos y seguir adelante. Estoy aquí para apoyarles en cada paso del camino. Gracias por acompañarme hoy. ¡Nos vemos pronto en nuestra próxima aventura! ¡Adiós, amiguitos!"
+    }
+  ],
+  "title": "Historia de Confidence de Piggy Friend"
+}

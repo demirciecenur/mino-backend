@@ -1,0 +1,98 @@
+{
+  "id": "clever_mouse_jerry_bedtime_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis ! Je suis Jerry la Souris Maligne. Aujourd'hui, nous allons partir pour une aventure incroyable sur le thème du coucher. Êtes-vous prêts ? Nous allons découvrir ensemble pourquoi le coucher est si important et amusant. Je suis tellement curieux de savoir comment vous vous préparez pour aller au lit ! Allons-y ensemble dans cette histoire pleine de rires et de découvertes."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, pensons à ce que nous faisons avant de nous coucher. D'abord, il est important de ranger ses jouets. Comme ça, la chambre est propre et prête pour le lendemain. Vous aimez ranger vos jouets ? C'est comme un petit jeu, et cela rend tout plus agréable. Une chambre bien rangée aide aussi à mieux dormir car elle est calme et paisible."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ensuite, parlons de se brosser les dents. C'est une étape essentielle pour garder un sourire éclatant et des dents en bonne santé. Avez-vous une brosse à dents de couleur spéciale ? J'aime imaginer que la brosse à dents est comme une petite fée qui nettoie tout. Prenons deux minutes pour brosser doucement chaque dent. Vous verrez, c'est amusant et important !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites du bon travail en vous brossant les dents ! Maintenant, passons à la prochaine étape. Le pyjama ! Choisir un pyjama confortable est très important. Avez-vous un pyjama préféré ? Peut-être avec des étoiles ou des animaux amusants ? Mettre son pyjama, c'est comme se préparer pour une aventure nocturne dans le pays des rêves !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après avoir mis le pyjama, il est temps de lire une histoire. Les histoires nous emmènent dans des mondes magiques avant de dormir. Quelle est votre histoire préférée ? Peut-être une histoire avec des dragons ou des princesses ? Lire une histoire aide à se détendre et à préparer notre esprit pour une bonne nuit de sommeil. C'est comme un petit voyage avant de s'endormir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des lumières. Avant de s'endormir, il est bon de tamiser les lumières. Cela aide notre corps à comprendre qu'il est temps de se reposer. Avez-vous une petite veilleuse ? Parfois, une lumière douce peut être réconfortante et aider à s'endormir. Éteindre les lumières, c'est comme dire bonne nuit à la journée."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez bien éteint les lumières, bravo ! Maintenant, faisons un exercice de respiration. Prenons trois grandes respirations ensemble. Inspirez profondément par le nez, puis expirez lentement par la bouche. Cela aide à calmer le corps et l'esprit. Vous vous sentez déjà plus détendu, n'est-ce pas ? C'est un excellent moyen de se préparer à dormir."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant que nous sommes détendus, pensons à des choses heureuses. Peut-être une journée au parc ou un moment passé avec un ami. Cela remplit notre esprit de pensées positives. Avez-vous un souvenir heureux que vous aimez ? Penser à ces moments peut apporter des rêves doux et merveilleux. C'est comme un câlin pour notre esprit avant de dormir."
+    },
+    {
+      "id": "question_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà pensé à ce que les animaux font avant de dormir ? Pensez-vous que les oiseaux chantent une chanson de nuit ? Ou que les poissons font des bulles dans l'eau ? Imaginer ce que font les animaux peut être amusant et relaxant. Quels animaux pensez-vous qu'ils ont les meilleures routines de coucher ? C'est une question amusante à explorer avant de dormir."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Passons maintenant à notre couverture préférée. Une couverture douce et chaude est comme un câlin qui nous aide à nous endormir. Avez-vous une couverture spéciale ? Peut-être une avec des dessins amusants ou une couleur que vous aimez beaucoup ? Se blottir sous une couverture, c'est comme s'envelopper dans un nuage de confort. Cela donne une sensation de sécurité et de chaleur."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Avant de fermer les yeux, souvenons-nous de la journée écoulée. Quelles ont été les meilleures parties de votre journée ? Peut-être un jeu amusant ou un moment avec votre famille. Réfléchir à ces moments nous remplit de gratitude. C'est un bon moyen de finir la journée sur une note positive. Cela nous aide à nous endormir avec un sourire."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez fait un excellent travail en vous préparant pour le coucher ! Maintenant, il est temps de fermer les yeux et de laisser les rêves venir. Les rêves sont comme de petites aventures nocturnes. Vous pouvez être tout ce que vous voulez dans vos rêves ! Peut-être un explorateur ou un héros courageux. Dormez bien et laissez votre imagination voyager loin."
+    },
+    {
+      "id": "question_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avant de nous dire bonne nuit, que diriez-vous de partager vos rêves avec quelqu'un ? Peut-être un parent ou un ami. Avez-vous déjà eu un rêve drôle ou incroyable ? Parler de nos rêves peut être amusant et nous rapprocher. Qu'aimeriez-vous rêver ce soir ? C'est une belle façon de terminer notre histoire."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure du coucher avec moi, mes petits amis ! J'espère que vous avez passé un bon moment et que vous vous sentez prêts à dormir. N'oubliez pas que chaque nuit est une nouvelle chance de rêver et de se reposer. Je vous souhaite une nuit pleine de doux rêves et de repos paisible. Bonne nuit et à très bientôt pour une nouvelle aventure !"
+    }
+  ],
+  "title": "Histoire de Bedtime de Clever Mouse Jerry"
+}

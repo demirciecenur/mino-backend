@@ -1,0 +1,104 @@
+{
+  "id": "frost_friend_sid_friendship_story",
+  "character": "Frost Friend Sid",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Sid, tu amigo helado. Hoy vamos a embarcarnos en una aventura increíble sobre la amistad. ¿Estás listo para aprender sobre cómo hacer nuevos amigos? Estoy muy emocionado de compartir este tiempo contigo. ¡Va a ser súper divertido!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad es algo muy especial. Es como tener un compañero de juegos que siempre está ahí para ti. Los amigos nos hacen sentir felices y nos ayudan cuando lo necesitamos. ¿Tienes algún amigo especial con el que te guste jugar? A veces, hacer amigos nuevos puede ser una gran aventura llena de risas y diversión."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para hacer un nuevo amigo, primero podemos sonreír y saludar. Una sonrisa es como un rayo de sol que hace sentir bien a los demás. Después, podemos preguntarles su nombre y contarles el nuestro. ¿Qué tal si practicamos juntos? Dices: '¡Hola, me llamo [tu nombre]! ¿Cómo te llamas?'"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eso es genial! Ahora, cuando alguien te responde, puedes decir '¡Encantado de conocerte!' Esta es una forma maravillosa de empezar una conversación. Recuerda, ser amable y escuchar es muy importante. ¿No es divertido conocer a alguien nuevo?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Una vez que tienes un nuevo amigo, pueden hacer muchas cosas juntos. Pueden jugar a juegos, compartir juguetes o incluso inventar historias emocionantes. ¿Te gustaría inventar una historia con tu nuevo amigo? ¡Las posibilidades son infinitas cuando tienes a alguien con quien compartirlas!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de algo importante: compartir. Compartir es una gran parte de la amistad. Por ejemplo, si tienes un juguete que te encanta, puedes compartirlo con tu amigo. Esto muestra que te importa su felicidad. ¿Has compartido tus juguetes alguna vez?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Compartir es algo maravilloso! Cuando compartes, haces que tu amigo se sienta especial y feliz. Y lo mejor es que también puede compartir contigo. ¿No es genial cuando todos juegan juntos y se divierten?"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabes qué más hace a un buen amigo? Ser un buen oyente. Escuchar a tus amigos cuando hablan es muy importante. ¿Te gustaría que tus amigos te escucharan cuando hablas sobre tus cosas favoritas? ¡Claro que sí!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Escuchar bien significa prestar atención y mostrar interés en lo que el otro dice. Puedes hacer preguntas y mostrar que te importa lo que comparten contigo. Así es como las amistades se vuelven más fuertes. ¿No es increíble lo poderosa que puede ser una buena conversación?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a practicar cómo ser un buen oyente. Imagina que tu amigo te está contando sobre su día. Míralo a los ojos y asiente con la cabeza para mostrar que estás escuchando. Luego, haz una pregunta sobre lo que te contó. ¡Es así de fácil!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ser un buen amigo es algo que todos podemos aprender. Con cada pequeño gesto de amabilidad, hacemos del mundo un lugar mejor. ¡Sigue practicando y verás cómo tus amistades florecen!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos cómo hacer y cuidar a nuestros amigos, podemos disfrutar de muchas aventuras juntos. Recuerda siempre ser amable, compartir y escuchar. Estas son las claves para una amistad duradera y feliz. ¿No te parece emocionante?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas cuando jugaste con un amigo y lo bien que lo pasaste? Esos momentos son los que hacen que la amistad sea tan especial. Siempre es divertido recordar esos buenos tiempos y planear más aventuras juntos. ¿Qué te gustaría hacer la próxima vez que veas a tus amigos?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Qué actividades te gusta hacer con tus amigos? ¿Te gusta jugar en el parque, construir castillos de arena o leer cuentos juntos? Hay tantas cosas divertidas que puedes hacer con tus amigos. ¡Me encantaría saber más sobre tus aventuras!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido maravilloso hablar contigo sobre la amistad. Espero que hayas aprendido mucho y que estés listo para hacer nuevos amigos. Recuerda, cada pequeño acto de bondad cuenta. ¡Hasta la próxima, pequeño amigo! ¡Nos vemos pronto!"
+    }
+  ],
+  "title": "Historia de Friendship de Frost Friend Sid"
+}

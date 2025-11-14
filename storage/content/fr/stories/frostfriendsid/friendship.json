@@ -1,0 +1,104 @@
+{
+  "id": "frost friend sid_friendship_story",
+  "character": "Frost Friend Sid",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Sid l'Ami de Givre. Aujourd'hui, nous allons explorer le monde merveilleux de l'amitié. C'est un peu comme avoir une aventure avec des copains ! Êtes-vous prêts à découvrir comment devenir un super ami ? Je suis tellement curieux de savoir ce que vous aimez faire avec vos amis !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est comme avoir un trésor caché plein de joie et de rires. Imaginez avoir quelqu'un avec qui partager vos jouets préférés. C'est aussi quelqu'un qui vous fait sourire, même quand le ciel est gris. Parfois, un ami vous aide à comprendre de nouvelles choses, comme comment faire un puzzle. Avez-vous un ami spécial avec qui vous aimez jouer ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour être un bon ami, il faut savoir écouter. Quand un ami parle, il est important de l'écouter attentivement. Cela montre que vous vous souciez de ce qu'il dit. Par exemple, si votre ami vous raconte une histoire drôle, vous pouvez rire ensemble. Et si votre ami est triste, vous pouvez lui donner un câlin pour le réconforter. C'est ça, être un bon ami !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons quelque chose ensemble ! Imaginez que nous sommes tous dans un parc. Voyez-vous l'aire de jeux là-bas ? Allons-y et jouons à un jeu où chacun a son tour sur le toboggan. Cela montre que vous êtes prêt à partager et à attendre votre tour. Bravo, vous êtes sur la bonne voie pour être un ami génial !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant que nous avons appris à partager, parlons de dire des mots gentils. Les mots doux, comme dire 'merci' ou 's'il te plaît', peuvent faire une grande différence. Imaginez que votre ami vous donne un biscuit. Dire 'merci' montre que vous appréciez ce qu'il a fait. Et si vous voulez jouer avec son jouet, dire 's'il te plaît' le rendra heureux de partager avec vous."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous quand nous avons parlé d'attendre votre tour ? C'est aussi très important quand on joue avec des amis. Parfois, vous devrez attendre un peu pour utiliser le jouet que vous aimez. Mais c'est d'accord, car cela montre que vous respectez vos amis. Et devinez quoi ? Cela rend le jeu encore plus amusant pour tout le monde !"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Être un bon ami, c'est aussi être là quand quelqu'un a besoin de vous. Par exemple, si un ami tombe et se fait mal, vous pouvez l'aider à se relever. Vous pouvez lui dire : 'Ça va aller, je suis là pour toi.' Ces petits gestes montrent que vous êtes un ami attentionné et aimant. Vous faites un travail formidable en apprenant à être un super ami !"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les jeux sont une excellente façon de renforcer les liens d'amitié. Pensez à un jeu où vous pouvez courir ensemble, comme le jeu du chat. Vous pouvez aussi inventer des histoires avec vos figurines préférées. Ces moments partagés renforcent votre amitié et vous donnent des souvenirs inoubliables. Quels jeux aimez-vous jouer avec vos amis ?"
+    },
+    {
+      "id": "question_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà fait quelque chose de spécial pour un ami ? Peut-être que vous avez partagé votre goûter préféré ou aidé à ramasser des jouets. Ces petits gestes montrent que vous vous souciez de vos amis. Pensez à un moment où vous avez rendu quelqu'un heureux. Comment cela vous a-t-il fait sentir ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, les amis ne sont pas d'accord, et c'est tout à fait normal. L'important est de parler calmement et de trouver une solution ensemble. Par exemple, si vous voulez regarder des dessins animés différents, vous pouvez alterner les choix. Cela montre que vous respectez les envies de chacun et que vous êtes prêt à faire des compromis. C'est un excellent moyen de renforcer votre amitié !"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Prenons un moment pour respirer calmement ensemble. Inspirez profondément par le nez, puis expirez lentement par la bouche. Faisons-le trois fois. Cela aide à se calmer quand on est un peu fâché ou triste. Vous pouvez aussi le faire avec un ami pour vous sentir mieux ensemble. C'est un petit exercice que vous pouvez essayer à tout moment !"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les amis sont là pour partager de bons moments, mais aussi pour se soutenir. Imaginez que votre ami a peur de monter sur un vélo pour la première fois. Vous pouvez l'encourager en disant : 'Tu peux le faire, je crois en toi !' Parfois, un simple encouragement peut aider votre ami à se sentir courageux. C'est ça, être un véritable ami !"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous, l'amitié, c'est aussi apprendre à pardonner. Parfois, un ami peut faire quelque chose qui vous rend triste. Mais si vous parlez ensemble et expliquez vos sentiments, vous pouvez vous réconcilier. Dire 'je suis désolé' ou 'je te pardonne' peut renforcer votre lien. Cela montre que vous êtes prêt à passer à autre chose et à rester amis."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez appris tellement de choses sur l'amitié aujourd'hui ! Que diriez-vous de pratiquer ces compétences avec vos amis ? Vous pouvez partager, écouter, et jouer ensemble. Chaque petit geste compte et rend votre amitié plus forte. Je suis fier de vous, mes petits amis ! Continuez à être les meilleurs amis que vous pouvez être."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était tellement amusant de parler de l'amitié avec vous ! Merci d'avoir passé ce moment avec moi, Sid l'Ami de Givre. Rappelez-vous, l'amitié est un trésor précieux que vous pouvez partager tous les jours. Je suis sûr que vous serez de merveilleux amis pour longtemps. À bientôt, et continuez à répandre la joie et l'amitié partout où vous allez ! Au revoir !"
+    }
+  ],
+  "title": "Histoire de Friendship de Frost Friend Sid"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "yellow_buddy_screen_time_story",
+  "character": "Yellow Buddy",
+  "topic": "screen_time",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Yellow Buddy. Bugün birlikte ekran süresi hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Ekranlar hayatımızda önemli yer tutuyor, değil mi? Gel, birlikte eğlenceli ve öğretici bir maceraya atılalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekranlar dediğimizde aklına televizyon, tablet veya telefon gelir. Her gün biraz ekran zamanı geçirmek eğlenceli olabilir. Ama çok fazla ekran başında kalmak gözlerimizi yorabilir. Peki, ekran başında ne kadar zaman geçirmeliyiz? İşte bu yüzden ekran süresi hakkında konuşmak önemli."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresini dengede tutmak, tıpkı oyuncaklarını toplamak gibi önemlidir. Her gün belirli bir süre ekran karşısında kalmak sağlıklıdır. Ancak, ekran karşısında uzun süre kalmak yerine dışarıda oynamak, kitap okumak veya resim yapmak daha iyi olabilir. Hadi, ekran süresini nasıl azaltabileceğimizi düşünelim. Bu konuda neler yapabiliriz?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi birlikte ekran süresini nasıl eğlenceli bir şekilde planlayabiliriz ona bakalım. Örneğin, her gün ekran başında sadece bir saat geçirip, geri kalan zamanda farklı aktiviteler yapabilirsin. Oyuncaklarla oynamak, resim yapmak veya arkadaşlarınla oyunlar oynamak gibi. Bu aktiviteler hem eğlenceli hem de sağlıklı!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda ekran süresini nasıl planlayabileceğimizi konuştuk. Şimdi, ekran başında geçirdiğimiz zamanı daha verimli hale nasıl getirebiliriz ona bakalım. Mesela, eğitim videoları izleyebilir veya eğitici oyunlar oynayabilirsin. Bu şekilde ekran süren hem eğlenceli hem de öğretici olur. Kendine uygun bir zaman dilimi belirlemek de iyi bir fikir!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, ekran süresini kısaltmanın faydalarından bahsetmiştik. Şimdi, ekran başında geçirdiğimiz zamanı nasıl daha eğlenceli hale getirebiliriz ona odaklanalım. Mesela, ekran başında geçirdiğin süreyi bir ödül olarak düşünebilirsin. Gün içinde belirli görevleri tamamladığında ekran başında vakit geçirebilirsin. Bu, hem eğlenceli hem de motive edici bir yol!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Birlikte ekran süremizi nasıl daha verimli hale getireceğimizi öğrenmiştik. Şimdi, ekran süresi dışında neler yapabileceğimiz hakkında konuşalım. Mesela, yeni bir hobi edinmek harika bir fikir olabilir. Resim yapmak, müzik aleti çalmak veya yeni bir oyun öğrenmek gibi. Bu aktiviteler hem eğlenceli hem de öğretici!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ekran süresi dışında yapabileceğimiz aktiviteler hakkında konuştuk. Şimdi, bu aktiviteleri nasıl daha eğlenceli hale getirebiliriz ona bakalım. Mesela, arkadaşlarınla birlikte bir oyun günü düzenleyebilirsin. Veya ailenle birlikte bir film gecesi yapabilirsin. Bu etkinlikler, ekran süresini kısaltmak için harika birer alternatif olabilir!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdiye kadar ekran süresi hakkında birçok şey öğrendik. Peki, bu bilgileri nasıl uygulayabiliriz? Öncelikle, her gün için bir plan yapabiliriz. Hangi saatlerde ekran başında olacağımıza karar verebiliriz. Ve bu planı uygulamak için ailemizden destek alabiliriz. Hadi, şimdi birlikte bir plan yapalım!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Plan yapmanın öneminden bahsettik. Şimdi, bu planı nasıl eğlenceli hale getirebiliriz ona bakalım. Mesela, planımıza renkli çıkartmalar ekleyebiliriz. Her başarılı gün için bir çıkartma yapıştırabiliriz. Bu, hem eğlenceli hem de motive edici bir yöntem olacaktır!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sen ekran başında en çok neler yapmayı seviyorsun? Belki bir çizgi film izlemek, belki de bir oyun oynamak? Hadi, bana ekran başında en sevdiğin aktiviteyi anlat. Belki birlikte yeni bir şeyler keşfedebiliriz. Ne dersin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ekran başında en sevdiğin aktiviteleri konuştuk. Şimdi, bu aktivitelerin dışında neler yapabileceğimizi düşünelim. Belki bir parkta oyun oynamak ya da bir doğa yürüyüşüne çıkmak? Dışarıda vakit geçirmek de en az ekran başında olmak kadar eğlenceli olabilir!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Dışarıda yapabileceğimiz aktiviteler hakkında konuştuk. Şimdi, bu aktiviteleri nasıl planlayabiliriz ona bakalım. Her hafta sonu için bir doğa gezisi planlayabiliriz. Veya her gün dışarıda en az yarım saat oyun oynayabiliriz. Bu tür planlar, ekran süremizi dengede tutmamıza yardımcı olabilir!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdiye kadar ekran süresi hakkında çok şey öğrendik ve birçok fikir geliştirdik. Bu bilgileri kullanarak daha sağlıklı ve dengeli bir yaşam sürebiliriz. Unutma, ekranlar hayatımızı kolaylaştırıyor ama dengede kullanmak önemli. Sen bunu başarabilirsin!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık. Ekran süresi hakkında çok şey öğrendik ve eğlenceli planlar yaptık. Umarım bu bilgileri günlük yaşamında kullanabilirsin. Seninle konuşmak çok güzeldi! Bir sonraki maceramızda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Yellow Buddy'ın Screen Time Hikayesi"
+}

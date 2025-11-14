@@ -1,0 +1,104 @@
+{
+  "id": "clever_mouse_jerry_sibling_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "sibling",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Jerry, el ratón inteligente. Hoy vamos a hablar sobre algo muy especial: los hermanos. ¿Tienes un hermano o una hermana? Los hermanos pueden ser nuestros mejores amigos. ¡Vamos a descubrir juntos lo divertido que es tener un hermano!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en lo que significa tener un hermano. Un hermano es alguien con quien puedes jugar y compartir tus juguetes. A veces, puedes sentirte como un superhéroe cuando proteges a tu hermano. También puedes aprender cosas nuevas juntos, como andar en bicicleta o dibujar. Tener un hermano significa tener siempre a alguien especial a tu lado."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos de cómo podemos ser buenos hermanos. Ser un buen hermano significa compartir tus cosas, como cuando compartes tus juguetes o tus golosinas favoritas. También significa escuchar cuando tu hermano necesita hablar. ¿Sabías que un abrazo puede hacer que tu hermano se sienta feliz? ¡Intentemos dar un abrazo imaginario ahora mismo!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Ahora, vamos a jugar un juego de imaginación. Imagina que eres un explorador y tu hermano es tu compañero de aventuras. Juntos, pueden descubrir cosas nuevas en el jardín o en el parque. ¿Qué te gustaría explorar hoy con tu hermano? ¡La imaginación no tiene límites!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos la última vez que jugaste con tu hermano. ¿Recuerdas lo divertido que fue? Jugar juntos puede ser como tener una fiesta todos los días. Puedes construir castillos de bloques o hacer carreras de autos. Cada juego es una oportunidad para reír y aprender."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Sabías que los hermanos también pueden ser tus primeros maestros? Pueden enseñarte a leer cuentos o a contar hasta diez. Vamos a contar juntos hasta cinco. Uno, dos, tres, cuatro, cinco. ¡Lo hiciste muy bien! Aprender juntos hace que el tiempo pase volando."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez te has preguntado por qué es importante compartir con tu hermano? Compartir es una forma de mostrar amor. ¿Recuerdas la última vez que compartiste algo con tu hermano? Tal vez fue un dulce o un juguete. Compartir hace que ambos se sientan felices y cercanos."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, aprendamos cómo resolver pequeños problemas con nuestros hermanos. Si alguna vez discutes, intenta respirar profundo y habla con calma. Puedes decir: 'Me gustaría jugar con ese juguete también'. Resolver problemas juntos fortalece la relación. ¡Practiquemos juntos respirando profundamente tres veces!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo hiciste! Vamos a pensar en actividades que puedes hacer con tu hermano. Podrían hacer una carrera de sacos o una búsqueda del tesoro en el jardín. ¿Te gustaría intentar una nueva actividad hoy? ¡La diversión está garantizada cuando estás con tu hermano!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda, ser un buen hermano también significa ser amable y paciente. A veces, tu hermano puede necesitar más tiempo para aprender algo nuevo. Puedes ayudarle siendo su animador personal. Decir '¡Tú puedes hacerlo!' puede darle la confianza que necesita."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas una vez en la que ayudaste a tu hermano? Tal vez le ayudaste a encontrar su juguete favorito o le enseñaste una nueva canción. Cada pequeño gesto cuenta y hace que la relación sea más fuerte. Ayudar es una forma de mostrar amor y cariño."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez has pensado en lo divertido que es tener un hermano? Piensa en todas las aventuras que pueden tener juntos. ¿Cuál es tu aventura favorita hasta ahora? Tal vez fue un picnic en el parque o una tarde de juegos en casa. ¡Las aventuras con hermanos son las mejores!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a crear un plan para pasar más tiempo con tu hermano. Puedes elegir un día para jugar juntos o para hacer un proyecto de arte. ¿Qué te gustaría hacer la próxima vez? Planificar juntos crea recuerdos especiales que durarán para siempre."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Maravilloso! Recuerda siempre agradecer a tu hermano por los momentos compartidos. Decir 'gracias' después de jugar es una forma de mostrar aprecio. Apreciar a tu hermano hace que ambos se sientan valorados y amados. ¡Ahora, vamos a practicar diciendo 'gracias' juntos!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "¡Y eso es todo por hoy, pequeños exploradores! Espero que hayan aprendido mucho sobre cómo ser un buen hermano. Recuerden que los hermanos son para siempre y cada día es una nueva oportunidad para ser mejores amigos. ¡Gracias por acompañarme en esta aventura! ¡Hasta la próxima, amigos!"
+    }
+  ],
+  "title": "Historia de Sibling de Clever Mouse Jerry"
+}

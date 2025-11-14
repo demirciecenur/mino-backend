@@ -1,0 +1,104 @@
+{
+  "id": "rescue_pup_crew_regulación_emocional_manejo_de_emociones_calmarse_autorregulación_story",
+  "character": "Rescue Pup Crew",
+  "topic": "regulación emocional, manejo de emociones, calmarse, autorregulación",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy parte del Rescue Pup Crew y hoy vamos a explorar algo muy especial: cómo manejar nuestras emociones. ¿Sabías que todos tenemos emociones diferentes? ¡Exacto! A veces estamos felices, tristes o enojados. Aprenderemos a calmarnos y sentirnos mejor. ¿Estás listo para comenzar esta aventura juntos?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Las emociones son como olas en el mar, a veces grandes y a veces pequeñas. Es importante saber que todas las emociones son normales. Cuando te sientes enojado, puedes imaginar que eres un volcán a punto de explotar. Pero, ¿sabes qué? Podemos aprender a ser como un río tranquilo. Vamos a descubrir cómo hacerlo juntos."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Primero, vamos a practicar una técnica para calmarnos cuando estamos molestos. Se llama respiración profunda. Respiremos juntos: inhala contando hasta tres... y exhala contando hasta cinco. ¿Lo sientes? ¡Eso es! Esta técnica ayuda a que tu corazón lata más despacio y te sientas más tranquilo."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Lo estás haciendo muy bien. Recuerda que siempre puedes usar la respiración profunda cuando te sientas nervioso o enojado. Es como un superpoder que tienes dentro de ti. ¿Quieres probarlo otra vez? Vamos a contar juntos mientras respiramos profundamente."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos sobre cómo identificar nuestras emociones. A veces, no sabemos exactamente qué sentimos. ¿Alguna vez te has sentido confundido? Es importante detenernos y pensar, \"¿Qué estoy sintiendo ahora?\" Esto nos ayuda a entendernos mejor y a decidir qué hacer después."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Una manera de identificar tus emociones es observar las señales en tu cuerpo. Por ejemplo, si tu cara está caliente, podrías estar enojado. Si tu corazón late rápido, tal vez estés emocionado. Aprender a reconocer estas señales es como tener un mapa que te guía. ¿Te gustaría probarlo?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Increíble! Ya estás aprendiendo a leer tus emociones. Recuerda que está bien sentirse de muchas maneras diferentes. Lo importante es saber qué hacer con esos sentimientos. Puedes hablar con un adulto de confianza o dibujar lo que sientes. ¡Eres un experto en emociones en entrenamiento!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en una situación que podría hacerte sentir frustrado, como cuando no puedes encontrar tu juguete favorito. ¿Qué podrías hacer? Podrías respirar profundamente o pedir ayuda. Recordar estas opciones te ayudará a sentirte mejor y encontrar una solución."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Otra técnica que podemos usar es contar hasta diez. Cuando te sientas muy enojado, comienza a contar despacio. Uno, dos, tres... hasta llegar a diez. Mientras cuentas, piensa en cosas que te hacen feliz, como tu comida favorita o un paseo al parque. ¿Listo para intentarlo?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué bien lo hiciste! Contar hasta diez te da tiempo para calmarte y pensar con claridad. Es como darle un descanso a tu cerebro. ¿Recuerdas alguna vez que te funcionó contar hasta diez? Practicar estas técnicas hará que cada vez te sientas más seguro manejando tus emociones."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres un campeón del manejo de emociones! Cada vez que practicas, te vuelves más fuerte y valiente. Recuerda que está bien pedir ayuda cuando la necesitas. Siempre hay alguien dispuesto a escucharte y ayudarte. ¡Sigue adelante, lo estás haciendo genial!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Cuáles son algunas emociones que sientes a menudo? ¿Felicidad, sorpresa, tal vez un poco de tristeza? Es importante reconocerlas todas. ¿Te gustaría compartir una emoción que sentiste hoy y cómo la manejaste? ¡Estoy seguro de que lo hiciste muy bien!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué interesante lo que compartiste! Gracias por contármelo. Al hablar sobre nuestras emociones, nos conocemos mejor y podemos ayudar a otros también. Siempre recuerda que tus emociones son importantes. Vamos a seguir practicando juntos para ser aún mejores."
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para terminar, vamos a hacer un ejercicio de relajación. Siéntate cómodamente, cierra los ojos y respira profundamente. Imagina un lugar donde te sientas feliz y seguro, como un bosque mágico o una playa soleada. Quédate ahí por un momento, sintiendo la calma."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "¡Qué gran aventura hemos tenido hoy! Aprendimos mucho sobre nuestras emociones y cómo manejarlas. Recuerda que siempre puedes usar estas herramientas cuando lo necesites. ¡Eres increíble! Gracias por acompañarnos, Rescue Pup Crew siempre estará aquí para ayudarte. ¡Hasta la próxima!"
+    }
+  ],
+  "title": "Historia de Emotional Regulation de Rescue Pup Crew"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "super_metal_hero_friendship_story",
+  "character": "Super Metal Hero",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petits amis! Je suis Super Metal Hero, votre ami en métal brillant. Aujourd'hui, nous allons explorer l'incroyable monde de l'amitié. Êtes-vous prêts à vivre une aventure amicale? Je suis tellement curieux de découvrir comment vous vous faites des amis. Ensemble, nous allons apprendre comment être un bon copain."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est comme un super pouvoir que nous avons tous. Quand tu es ami avec quelqu'un, tu partages des moments de joie et de rires. Parfois, tu aides ton ami quand il en a besoin, comme lorsque tu prêtes un jouet. Un bon ami est quelqu'un qui écoute et qui est toujours là pour toi. Maintenant, réfléchissons à ce que cela signifie d'être un bon ami."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour être un bon ami, tu dois être gentil et partager. Par exemple, si tu as deux biscuits, tu peux en donner un à ton ami. Cela montre que tu te soucies de lui et que tu veux qu'il soit heureux aussi. Rappelle-toi toujours de dire 's'il te plaît' et 'merci', car les mots gentils sont très importants. Alors, es-tu prêt à essayer d'être un super ami aujourd'hui?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Excellent travail d'écoute, mes amis! Maintenant, faisons un petit exercice ensemble. Pense à un moment où tu as été un bon ami. Peut-être as-tu aidé quelqu'un à construire une tour de blocs. Ou peut-être as-tu partagé ta peinture préférée. Ces petites actions montrent à quel point tu es un super ami. Continue comme ça!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de jouer ensemble. Jouer avec des amis est une façon amusante de passer du temps et de créer des souvenirs. Tu peux jouer à cache-cache, construire des châteaux de sable ou inventer des histoires. L'important est de s'assurer que tout le monde s'amuse et se sent inclus. Alors, quel est ton jeu préféré à jouer avec un ami?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand tu joues avec des amis, il est important de prendre des tours. Cela veut dire que chacun a la chance de choisir un jeu ou de mener l'activité. Par exemple, aujourd'hui c'est ton tour de choisir le jeu, et demain ce sera le tour de ton ami. Cela aide tout le monde à se sentir spécial et apprécié. Es-tu prêt à essayer de partager les tours?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Tu fais un excellent travail pour devenir un bon ami. Rappelle-toi, l'amitié c'est aussi être là quand ton ami est triste. Tu peux lui offrir un câlin ou lui dire quelque chose de gentil pour le réconforter. Ces petites actions peuvent vraiment illuminer la journée de quelqu'un. Continue d'être aussi attentionné!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de résoudre les petits problèmes. Parfois, tu peux te disputer avec un ami, et c'est normal. L'important est de rester calme et de parler de ce qui ne va pas. Tu peux dire 'je n'aime pas quand...' pour expliquer tes sentiments. Cela aide à comprendre les besoins de chacun et à trouver une solution ensemble."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Disons que vous jouez à un jeu et que quelqu'un triche. Que fais-tu? Tu peux gentiment expliquer pourquoi tricher n'est pas juste et proposer de recommencer le jeu. Cela montre que tu respectes les règles et que tu veux que tout le monde s'amuse équitablement. Es-tu prêt à essayer cette solution la prochaine fois?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, tu apprends vite! Être un bon ami demande parfois un peu de pratique, mais tu es sur la bonne voie. Souviens-toi que chaque jour est une nouvelle chance de faire mieux et d'apprendre. Tes amis sont chanceux de t'avoir. Continue d'être aussi génial et attentionné!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, je suis curieux. Quels sont les moments que tu préfères partager avec tes amis? Aimes-tu faire des pique-niques, dessiner ensemble, ou peut-être lire des histoires? Dis-moi, quelles sont tes activités préférées avec eux? Je suis sûr que tu as plein d'idées amusantes!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Revenons à nos idées d'amitié. N'oublie pas que l'amitié, c'est aussi célébrer les réussites de tes amis. Quand ton ami réussit quelque chose, comme finir un puzzle, félicite-le! Cela montre que tu es fier de lui et que tu veux partager sa joie. C'est une belle façon de renforcer vos liens."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant de faire de nouveaux amis. Il suffit parfois de dire 'bonjour' et de sourire pour commencer une nouvelle amitié. Tu peux aussi demander à quelqu'un s'il veut jouer avec toi. Être ouvert et accueillant aide à se faire de nouveaux amis facilement. Es-tu prêt à essayer de te faire un nouvel ami aujourd'hui?"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail incroyable en apprenant sur l'amitié! Chaque petit geste compte, et tu as tellement de super idées pour être un bon ami. Continue de t'amuser et de partager des moments avec tes amis. Je suis sûr que tu vas devenir un super héros de l'amitié!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé du temps avec moi aujourd'hui, petits amis. J'ai adoré parler d'amitié avec vous. N'oubliez pas que chaque jour est une nouvelle opportunité pour être un bon ami. Continuez d'être gentils et attentionnés. À bientôt pour une nouvelle aventure avec Super Metal Hero!"
+    }
+  ],
+  "title": "Histoire de Friendship de Super Metal Hero"
+}

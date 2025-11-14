@@ -1,0 +1,104 @@
+{
+  "id": "frost_friend_sid_sibling_story",
+  "character": "Frost Friend Sid",
+  "topic": "sibling",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Frost Friend Sid. Bugün seninle kardeşler hakkında harika bir yolculuğa çıkacağız. Kardeşler, hayatımızda çok önemli yer tutar. Onlarla oyun oynamak, paylaşmak ve birlikte vakit geçirmek çok eğlencelidir. Hazır mısın? Haydi, başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerimizle oynarken bazen oyunlarımızda anlaşmazlıklar yaşanabilir. Ama bu çok normaldir, çünkü her birimizin farklı fikirleri ve istekleri olabilir. Önemli olan, bu anlaşmazlıkları nasıl çözdüğümüzdür. Kardeşinle konuşarak ve onun ne düşündüğünü anlayarak bu sorunları çözebilirsin. Bu sayede hem oyunlar daha eğlenceli olur hem de kardeşinle arandaki bağ güçlenir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşinle paylaşmak, onu mutlu etmenin harika bir yoludur. Mesela en sevdiğin oyuncaklarını onunla paylaşabilirsin. Bu, ona ne kadar değer verdiğini gösterir. Paylaştıkça oyunlar daha eğlenceli hale gelir ve yeni oyunlar keşfedebilirsiniz. Peki, sen hangi oyuncaklarını kardeşinle paylaşmak isterdin? Belki onun da seninle paylaşacak bir oyuncağı vardır."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kardeşinle birlikte oyun oynamak, hayal gücünüzü geliştirmenin harika bir yoludur. Birlikte bir kale inşa edebilir ya da macera dolu bir hikaye yaratabilirsiniz. Unutma, oyunlar sadece eğlenceli değil, aynı zamanda öğreticidir de. Kardeşinle oynarken yeni şeyler öğrenebilir ve birbirinize yardımcı olabilirsiniz. Haydi, şimdi bir oyun düşün ve kardeşinle oynamaya başla!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda kardeşinle oyun oynamanın öneminden bahsettik. Şimdi, birlikte yapabileceğiniz bazı eğlenceli aktivitelerden bahsedelim. Mesela birlikte resim yapabilir ya da bir hikaye kitabı okuyabilirsiniz. Bu aktiviteler, hem eğlenceli hem de öğretici olabilir. Kardeşinle birlikte bir şeyler yaratmak, sizin aranızdaki bağı daha da güçlendirir."
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hatırlıyor musun, kardeşinle birlikte bir şeyler yapmak her zaman eğlencelidir. Ama bazen yalnız kalmak da önemlidir. Kendi başına zaman geçirerek de yeni şeyler öğrenebilirsin. Kardeşinle vakit geçirirken, onun da yalnız kalmaya ihtiyacı olabilir. Bu dengeyi sağlamak, ikinizin de mutlu olmasını sağlar."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Kardeşinle vakit geçirirken bazen ona kızabilir ya da sinirlenebilirsin. Bu duygular çok normaldir. Önemli olan bu duyguları nasıl yönettiğindir. Kızgın hissettiğinde derin bir nefes al ve bir düşün. Belki de kardeşinle konuşmak ve duygularını paylaşmak iyi bir fikir olabilir. Böylece hem sen rahatlamış olursun hem de kardeşin seni daha iyi anlar."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Kardeşinle en son hangi oyunu oynadın? Hatırlıyor musun? Belki de birlikte bir bulmaca yapmışsınızdır ya da dışarıda koşup oynamışsınızdır. Hatırladığın bu anı benimle paylaşmak ister misin? Çok merak ediyorum!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşinle paylaştığın anılar çok kıymetlidir. Bu anılar, yıllar geçse de hep seninle kalacak. Büyük bir gülümsemeyle hatırlayacağın bu anılar, sizi birbirinize daha da yakınlaştırır. Kardeşinle her anı dolu dolu yaşamak için ona sarıl ve onu ne kadar sevdiğini söyle. Sevgi, kardeşler arasında en güçlü bağdır."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşinle iyi bir ilişki kurmak için empati yapmak çok önemlidir. Onun yerine kendini koyarak ne hissettiğini anlamaya çalış. Bu, aranızdaki iletişimi güçlendirir ve yanlış anlamaları azaltır. Empati yaptığında, kardeşinle daha iyi anlaşabilir ve onunla daha iyi iletişim kurabilirsin. Peki, bugün empati yaparak kardeşine nasıl yardımcı olabilirsin?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kardeşinle birlikte bir şeyler başarmak çok heyecan vericidir. Mesela birlikte bir yapboz tamamladığınızda ya da bir oyun kazandığınızda, bu başarıyı kutlamak harika bir duygu. Kardeşinle bu başarıları kutlayarak, aranızdaki bağı daha da güçlendirebilirsin. Haydi, şimdi birlikte yapabileceğiniz bir şey düşün ve başarıya ulaşın!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda empati yapmanın öneminden bahsettik. Şimdi, kardeşinle nasıl daha iyi iletişim kurabileceğini konuşalım. Onunla konuşurken gözlerine bakmak ve onu dinlemek, iletişiminizi güçlendirir. Kardeşinle açık ve nazik bir şekilde konuşarak, aranızdaki bağı daha da güçlendirebilirsin. Bu sayede birbirinizi daha iyi anlayabilirsiniz."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Kardeşinle iletişimi güçlendirmek için oyunlar da harika bir araçtır. Mesela birlikte bir hikaye oluşturabilir ya da rol yapma oyunları oynayabilirsiniz. Bu tür oyunlar, hem eğlenceli hem de öğreticidir. Oyunlar sayesinde kardeşinle daha iyi iletişim kurabilir ve aranızdaki bağı güçlendirebilirsiniz. Şimdi, birlikte hangi oyunu oynamak istersiniz?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle en çok hangi anıları seviyorsun? Belki de birlikte oynadığınız bir oyun ya da paylaştığınız bir sır. Bu anılar, sizi birbirinize daha da yakınlaştırır. Paylaşmak istediğin bir anın var mı? Çok merak ediyorum, hadi bana anlat!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün kardeşler hakkında çok şey konuştuk. Onlarla vakit geçirmek, paylaşmak ve onları sevmek çok önemli. Unutma, kardeşin senin en yakın arkadaşın olabilir. Onunla olan bağını güçlendirmek için elinden geleni yap. Şimdi, gidip kardeşine sarıl ve onu ne kadar sevdiğini söyle. Hoşça kal dostum, bir dahaki sefere görüşmek üzere!"
+    }
+  ],
+  "title": "Frost Friend Sid'ın Sibling Hikayesi"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_behavior_story",
+  "character": "Piggy Friend",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friends! I'm Piggy Friend, and today we're going to have a wonderful chat about good behavior. Are you ready to join me on this fun adventure? We'll explore how being kind and following rules can make us and others happy. I can't wait to share some exciting stories and tips with you. So, let's get started on our joyful journey!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Do you remember the last time you did something nice for someone? Maybe you helped a friend or shared your toys. Good behavior is all about being kind and thoughtful. When we do nice things, it makes others feel happy and cared for. It's like sharing a big, warm hug with everyone around us. Now, let's think of more ways we can show good behavior every day."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "One important part of good behavior is listening. When we listen, we show that we care about what others are saying. It's like when a friend tells you a story, and you pay close attention. Listening helps us understand others better and makes them feel valued. So next time someone talks to you, try to listen carefully and see how it makes you both feel."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's practice being good listeners together! Can you close your eyes and listen to the sounds around you for a few seconds? Great job! Did you hear the birds singing or maybe the wind blowing? Listening can be fun and relaxing. Remember, you can be a super listener anytime, and it will make your friends and family very happy."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about sharing. Sharing is another wonderful way to show good behavior. When we share, we let others join in the fun, like when you let a friend play with your toys. It shows that you care and want everyone to be happy. Sharing can make games and playtime even more exciting and joyful for everyone involved."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Did you know that using kind words is a big part of good behavior too? Words like 'please,' 'thank you,' and 'sorry' can make a big difference. They show respect and help build strong friendships. Next time you ask for something, try saying 'please,' and when you get it, remember to say 'thank you.' It's amazing how these little words can make you feel so good inside."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's try using kind words together! Imagine you're asking for a turn on the swing. You can say, 'May I have a turn, please?' And when you're done, 'Thank you for letting me play!' See how nice that sounds? You can use kind words every day, and soon, they will become a happy habit for you."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you used kind words with someone? Maybe you asked your sibling nicely to pass the crayons, or you thanked your friend for sharing a snack. How did it feel to use those words? Did you notice a difference in how the other person responded? It's amazing how kindness can spread so much joy!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about sharing? Let's explore that a bit more. Sharing isn't just about toys; it can be about ideas too. When you share your thoughts or stories, it helps everyone learn and grow. It's like when you tell your friends about a fun game you played, and they get excited to try it too. Sharing ideas can make playtime even more creative and fun!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about following rules. Rules are like the guidelines that help us play safely and happily. Imagine playing a game without any rules; it might get a bit confusing, right? Rules help us know what's fair and keep us safe. Next time you play a game, think about the rules and how they help everyone have fun together."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Would you like to make up a fun rule for your favorite game? Maybe something like 'everyone takes turns' or 'we all cheer for each other.' It's fun to think of rules that make games better for everyone. Remember, good rules are fair and help everyone enjoy their time together."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our journey with thinking about how we can be patient. Patience is waiting nicely for your turn, like when you're in line for a slide. It can be hard sometimes, but being patient shows respect for others. When you're patient, it makes the wait easier and more pleasant for everyone. Let's practice patience together next time we wait for something."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's take a moment to practice a patience exercise. Imagine you're waiting for a turn on the swing. Take a deep breath in and slowly breathe out. Counting to five can also help: one, two, three, four, five. Doesn't that feel calming? Patience can be your superpower, helping you stay calm and happy while you wait."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You did wonderfully practicing patience! Remember, good behavior is like planting a garden of happiness. Every kind word, every shared moment, and every patient wait is like planting a seed that will grow into a beautiful flower. You have the power to make your world bright and cheerful with your actions."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this wonderful adventure about good behavior, little friends. I hope you had fun learning and are excited to try these ideas. Remember, every small act of kindness and respect makes the world a happier place. I'm so proud of you, and I know you can do it. Until next time, keep shining with your good behavior, and goodbye!"
+    }
+  ],
+  "title": "Piggy Friend's Behavior Story"
+}

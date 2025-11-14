@@ -1,0 +1,98 @@
+{
+  "id": "elisa_the_ice_fairy_bedtime_story",
+  "character": "Elisa the Ice Fairy",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Elisa, la Fée des Glaces, et ce soir, nous allons explorer le merveilleux monde du coucher. Êtes-vous prêts à découvrir des routines magiques pour bien dormir? Dormir est très important pour que nous puissions rêver de belles aventures. Ensemble, nous allons apprendre comment se préparer pour un sommeil doux et paisible. Je suis si heureuse de partager ce moment avec vous!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le coucher commence par une belle routine. Vous savez, avoir une routine aide notre corps à se préparer à dormir. Cela peut inclure des choses comme prendre un bain chaud ou lire une histoire. Quand nous faisons ces choses chaque soir, notre corps sait qu'il est temps de se détendre. C'est un peu comme préparer un gâteau, chaque étape est importante pour que le résultat soit parfait."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons du brossage des dents. C'est une partie essentielle de la routine du coucher. En brossant bien nos dents, nous éliminons les petits monstres de sucre qui peuvent se cacher. Prenez votre brosse à dents, mettez un peu de dentifrice, et faites des mouvements doux. Vous pouvez chanter une petite chanson pendant que vous brossez, cela rend la tâche encore plus amusante!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Vous avez tous fait un excellent travail avec le brossage des dents. Maintenant, passons à la prochaine étape. Mettre son pyjama préféré est comme enfiler une couverture de douceur. Choisissez un pyjama qui vous fait vous sentir bien et confortable. Cela vous aidera à vous détendre et à être prêt pour des rêves magiques."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après avoir mis votre pyjama, c'est le moment parfait pour une histoire. Les histoires nous transportent dans des mondes fantastiques où tout est possible. Vous pouvez choisir votre livre préféré ou peut-être inventer une histoire ensemble. Laissez votre imagination s'envoler comme un flocon de neige dans le vent. Raconter ou écouter une histoire est comme un doux câlin pour l'esprit."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous un livre préféré que vous aimez lire avant de dormir? Peut-être que vous aimez les histoires de dragons, de fées, ou d'animaux rigolos. Les histoires nous permettent de voyager sans quitter notre lit. Partagez avec moi votre histoire préférée, j'adorerais l'entendre! Chaque livre est une nouvelle aventure qui attend d'être découverte."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est merveilleux d'entendre parler de vos histoires préférées! Maintenant que nous avons parlé de livres, passons à la relaxation. Prendre quelques respirations profondes peut nous aider à nous sentir calmes et prêts à dormir. Inspirons profondément par le nez, et expirons lentement par la bouche. Répétez cela trois fois, et vous sentirez votre corps se détendre comme par magie."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons un petit exercice de relaxation. Imaginez que vous êtes allongé sur un nuage doux et moelleux. Le nuage vous berce doucement, et vous vous sentez léger comme une plume. Fermez les yeux et imaginez les étoiles qui brillent dans le ciel. Vous pouvez presque les toucher avec vos doigts. C'est un endroit parfait pour s'endormir paisiblement."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail incroyable en vous relaxant! Continuons cette belle routine de coucher. Un autre moyen de se préparer est de dire bonne nuit à vos jouets et peluches. Ils aiment aussi se reposer et rêver. Allez, dites-leur bonne nuit, et assurez-vous qu'ils sont bien installés pour dormir. Ainsi, tout le monde peut profiter d'une belle nuit de sommeil."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "N'oublions pas d'éteindre les lumières. Une chambre sombre et calme est idéale pour dormir. Vous pouvez laisser une petite veilleuse allumée si cela vous aide à vous sentir en sécurité. La douce lueur de la veilleuse est comme un ami qui veille sur vous pendant que vous dormez. C'est le moment de fermer les yeux et de vous laisser emporter par des rêves doux et merveilleux."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avant de dormir, avez-vous un souhait que vous aimeriez faire? Peut-être que vous souhaitez rêver de voler avec des papillons ou de jouer avec des étoiles. Les souhaits sont comme des petites promesses que nous faisons à nous-mêmes. Partagez votre souhait avec moi, et ensemble, nous en prendrons soin dans nos rêves. Quel est votre souhait pour cette nuit magique?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est un souhait magnifique! Gardons-le près de notre cœur pendant que nous nous préparons à dormir. En pensant à notre souhait, nous pouvons nous sentir heureux et sereins. Maintenant, laissez votre esprit se reposer et voyager vers des terres enchantées. Dormir est une aventure en soi, pleine de découvertes et de merveilles. Chaque nuit est une nouvelle chance de rêver."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez été incroyables ce soir, mes petits amis! Vous avez suivi votre routine de coucher avec tant de grâce. N'oubliez pas que chaque nuit est une chance de se ressourcer et de grandir. Vous êtes prêts à faire de beaux rêves et à vous réveiller pleins d'énergie. Dormez bien, et souvenez-vous que je suis toujours là, veillant sur vous comme une douce brise d'hiver."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Il est temps de se dire au revoir, mes chers amis. Merci d'avoir partagé ce moment magique avec moi. Je suis impatiente de vous retrouver pour d'autres aventures enchantées. Dormez bien, et laissez les étoiles guider vos rêves. Bonne nuit, et à bientôt pour de nouvelles histoires merveilleuses!"
+    }
+  ],
+  "title": "Histoire de Bedtime de Elisa The Ice Fairy"
+}

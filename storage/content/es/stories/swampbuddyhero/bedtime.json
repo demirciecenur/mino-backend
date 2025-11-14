@@ -1,0 +1,104 @@
+{
+  "id": "swamp_buddy_hero_bedtime_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy tu Swamp Buddy Hero, y hoy vamos a embarcarnos en una aventura sobre la hora de dormir. ¿Estás listo para aprender conmigo? Nos divertiremos mucho mientras descubrimos cómo prepararnos para una buena noche de sueño. Estoy muy emocionado de que estés aquí conmigo. Vamos a comenzar esta increíble aventura juntos."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La hora de dormir es un momento muy especial del día. Es cuando tu cuerpo descansa y se recarga para el día siguiente. ¿Sabías que dormir bien te ayuda a crecer fuerte y saludable? También te da la energía que necesitas para jugar y aprender cosas nuevas. Ahora vamos a descubrir cómo podemos hacer que la hora de dormir sea más divertida y relajante."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Primero, hablemos de la importancia de una buena rutina antes de dormir. Las rutinas nos ayudan a saber qué esperar y nos preparan para descansar. Un buen comienzo es recoger tus juguetes, así el espacio está limpio y ordenado. También es importante lavarse los dientes para mantenerlos sanos y brillantes. ¿Te gustaría intentarlo conmigo?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Recoger los juguetes puede ser divertido si lo hacemos juntos. Podemos cantar una canción mientras lo hacemos para que sea más entretenido. ¿Cuál es tu canción favorita para recoger tus juguetes? ¡Estoy seguro de que lo harás muy bien! Recuerda que cada pequeño paso que tomas te acerca más a una noche de descanso reparador."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos recogido, es hora de lavarse los dientes. El cepillado es muy importante para mantener una sonrisa brillante y saludable. ¿Sabías que debes cepillarte durante dos minutos? Podemos contar hasta 60 dos veces para asegurarnos de que lo hacemos bien. ¡Vamos a intentarlo juntos y ver qué tan brillante puede ser tu sonrisa!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Después de lavarnos los dientes, es el momento perfecto para ponernos el pijama. Elegir un pijama cómodo te ayudará a sentirte listo para dormir. ¿Tienes un pijama favorito que te gusta usar? Ahora es el momento de ponértelo y sentirte como un verdadero aventurero listo para descansar. Cambiarse hace que el cuerpo sepa que es hora de relajarse."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vamos a hablar un poco sobre la importancia de una habitación tranquila y oscura. Apagar las luces y cerrar las cortinas ayuda a que tu cuerpo se prepare para dormir. ¿Te gustan las luces nocturnas? Una pequeña luz puede hacerte sentir seguro mientras te duermes. Ahora que tu habitación está lista, es hora de relajarse y dejar que el sueño llegue."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Una forma maravillosa de relajarse antes de dormir es leyendo un cuento. Los cuentos nos llevan a lugares mágicos y nos ayudan a imaginar cosas increíbles. ¿Tienes un cuento favorito para escuchar antes de dormir? Leer juntos puede ser una parte especial de tu rutina nocturna. Imaginar las historias en tu mente te ayudará a dormir mejor."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ahora, intentemos algo juntos: la respiración profunda. Inhala lentamente contando hasta tres, y luego exhala contando hasta tres. Esto ayuda a que tu cuerpo se relaje y se prepare para dormir. ¿Sentiste cómo tu cuerpo se calmó? ¡Eres increíble haciéndolo! Practicar la respiración profunda es una habilidad que te ayudará a relajarte siempre que lo necesites."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos lo que hemos aprendido: recoger los juguetes, lavarnos los dientes, ponernos el pijama, y relajarnos con un cuento. Todos estos pasos nos ayudan a prepararnos para una noche de sueño reparador. ¿No es asombroso todo lo que podemos hacer antes de dormir? Ahora que sabes cómo, estoy seguro de que tendrás sueños maravillosos."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Qué parte de tu rutina de dormir es tu favorita? ¿Te gusta más leer cuentos o practicar la respiración profunda? ¿O tal vez disfrutas elegir tu pijama? Me encantaría saber qué es lo que más te gusta de la hora de dormir. Compartir nuestras ideas hace que la hora de dormir sea aún más especial."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos hablado sobre todas estas maravillosas rutinas, es hora de ponerlas en práctica. Cada noche, cuando sigues estos pasos, estás ayudando a tu cuerpo a descansar mejor. Dormir bien es como cargar una batería para que puedas jugar y aprender al día siguiente. ¡Qué emocionante es saber que estás cuidando de ti mismo!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo has hecho fantástico escuchando y aprendiendo sobre la hora de dormir! Estoy muy orgulloso de ti por participar en esta aventura. Recuerda que siempre puedes volver a escuchar esta historia si necesitas ayuda para recordar los pasos. Tienes todo lo que necesitas para ser un campeón del sueño. ¡Sigue así!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Hay algo más que te gustaría saber sobre la hora de dormir? Tal vez tienes alguna pregunta o hay algo nuevo que quieras probar. Siempre es bueno ser curioso y aprender cosas nuevas. Estoy aquí para ayudarte en lo que necesites. ¡Pregúntame lo que quieras!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es hora de despedirnos, mi pequeño amigo. Gracias por acompañarme en esta aventura sobre la hora de dormir. Espero que hayas aprendido mucho y que estés listo para una noche de descanso maravillosa. Recuerda que siempre estaré aquí para compartir más historias contigo. ¡Dulces sueños y hasta la próxima!"
+    }
+  ],
+  "title": "Historia de Bedtime de Swamp Buddy Hero"
+}

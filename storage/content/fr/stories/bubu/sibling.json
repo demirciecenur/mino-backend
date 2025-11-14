@@ -1,0 +1,104 @@
+{
+  "id": "bubu_sibling_story",
+  "character": "Bubu",
+  "topic": "sibling",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Bubu, et aujourd'hui, nous allons explorer quelque chose de vraiment spécial: les frères et sœurs. As-tu un frère ou une sœur? Peut-être que tu en as plusieurs! Ensemble, nous allons découvrir comment c'est d'avoir quelqu'un avec qui jouer, partager et aimer. Es-tu prêt pour cette aventure pleine de tendresse et de joie? Allons-y ensemble!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Avoir un frère ou une sœur, c'est comme avoir un ami qui vit avec toi. Parfois, vous vous amusez ensemble en jouant à des jeux comme cache-cache ou en construisant des tours avec des blocs. Parfois, vous pouvez vous disputer pour le dernier biscuit, mais c'est normal. Après tout, aimer quelqu'un signifie aussi apprendre à partager et à être patient. Et puis, quand vous vous réconciliez, c'est comme un câlin chaleureux qui fait oublier tous les chagrins."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Savais-tu que jouer ensemble aide à développer de belles compétences? Par exemple, lorsque tu partages tes jouets, tu apprends la générosité. Et quand tu attends ton tour pour utiliser le toboggan, tu deviens plus patient. Tout cela te rend plus fort et plus gentil. Alors, la prochaine fois que tu joues avec ton frère ou ta sœur, pense à toutes ces belles choses que tu apprends. C'est comme devenir un petit super-héros de l'amitié!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Maintenant, essayons quelque chose ensemble. Si tu es près de ton frère ou de ta sœur, pourquoi ne pas lui faire un gros câlin? C'est un moyen simple de montrer combien tu l'aimes. Et si tu n'es pas avec lui en ce moment, pense à un moment où vous avez ri ensemble. Peut-être que c'était en jouant au parc ou en mangeant une glace. Ces souvenirs heureux rendent le cœur tout chaud."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi quand nous avons parlé de partager? Eh bien, partager c'est aussi écouter. Parfois, ton frère ou ta sœur veut te raconter une histoire ou te parler de sa journée. Écouter avec attention montre que tu te soucies de lui. C'est comme quand on écoute une belle chanson, chaque mot compte. Alors, la prochaine fois, ouvre grand tes oreilles et ton cœur. Tu verras, c'est magique!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Et toi, as-tu déjà écouté une histoire que ton frère ou ta sœur t'a racontée? Peut-être qu'il s'agissait d'une aventure avec des dragons ou de fées. Ou peut-être que c'était simplement une journée à l'école. Quoi qu'il en soit, chaque histoire est précieuse. C'est comme un petit cadeau que l'on reçoit. Alors, que dirais-tu de raconter une histoire à ton tour?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des moments où on peut être triste ou fâché. Cela arrive parfois, même entre frères et sœurs. Peut-être que tu es fâché parce que ton jouet préféré a été pris sans demander. Mais tu sais, parler de ce qu'on ressent peut aider à se sentir mieux. C'est comme quand un nuage sombre passe et que le soleil revient. La communication est la clé pour rendre les moments difficiles plus faciles."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "La prochaine fois que tu te sens triste ou fâché, essaie de prendre trois grandes respirations. Inspirons ensemble, une grande inspiration... et expirons lentement. Encore une fois, inspirons... et expirons. Une dernière fois, inspirons... et expirons. Cela aide à calmer le cœur. Après, parle à ton frère ou ta sœur de ce qui te tracasse. Tu verras, cela fait du bien."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail merveilleux! Continue comme ça. Être un bon frère ou une bonne sœur, c'est aussi encourager l'autre. Parfois, un simple \"Bravo!\" ou \"Tu peux le faire!\" peut apporter beaucoup de joie. Alors, la prochaine fois que ton frère ou ta sœur réussit quelque chose, n'oublie pas de le féliciter. C'est comme ajouter une étoile dans le ciel de votre relation."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, qu'aimes-tu faire avec ton frère ou ta sœur? Peut-être que vous aimez dessiner ensemble ou jouer à cache-cache. Ou peut-être que vous aimez lire des livres avant de dormir. Chaque activité que vous partagez crée des souvenirs précieux. Je suis curieux, quelle est votre activité préférée? Pense à tout le plaisir que vous avez ensemble!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les souvenirs que tu crées avec ton frère ou ta sœur sont comme des trésors. Chaque moment passé ensemble est unique et spécial. Comme lorsque vous faites un gâteau ensemble et que vous riez en mettant de la farine partout. Ces moments sont remplis de rires et de bonheur. Et quand tu seras plus grand, tu te souviendras de toutes ces aventures. C'est une belle histoire que vous écrivez ensemble."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "As-tu déjà pensé à un souvenir amusant que tu as avec ton frère ou ta sœur? Peut-être que c'était pendant les vacances ou un jour spécial comme un anniversaire. Ces moments sont précieux et font partie de votre histoire commune. N'oublie pas de les garder dans un coin de ton cœur. Ils apportent de la chaleur et des sourires, même quand les jours sont gris."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Avoir un frère ou une sœur, c'est aussi grandir ensemble. Tu apprends chaque jour à être plus gentil, plus patient, et à partager. C'est un voyage qui vous rend plus forts et plus proches. Comme deux arbres qui poussent côte à côte, vous vous soutenez et vous vous aidez à grandir. C'est un lien qui devient plus fort avec le temps. Et c'est une aventure merveilleuse à vivre ensemble."
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Alors, que dirais-tu de faire quelque chose de spécial pour ton frère ou ta sœur aujourd'hui? Peut-être lui faire un dessin ou lui préparer une surprise. Cela peut être quelque chose de simple, comme un câlin ou un sourire. Ces petits gestes montrent combien tu tiens à lui. Et parfois, un simple \"Je t'aime\" peut illuminer toute une journée. C'est un cadeau précieux que tu peux offrir."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce moment avec moi, petit ami. J'espère que tu as découvert plein de belles choses sur le fait d'avoir un frère ou une sœur. Souviens-toi, chaque jour est une nouvelle aventure à vivre ensemble. Prends soin de ces moments précieux et de cette belle relation. Je suis si heureux d'avoir pu te parler aujourd'hui. À bientôt, et continue d'être le merveilleux frère ou la merveilleuse sœur que tu es!"
+    }
+  ],
+  "title": "Histoire de Sibling de Bubu"
+}

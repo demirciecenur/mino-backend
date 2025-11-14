@@ -1,0 +1,104 @@
+{
+  "id": "tiko_imagination_story",
+  "character": "Tiko",
+  "topic": "imagination",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Tiko. Bugün birlikte hayal gücümüzü keşfetmeye çıkacağız. Hazır mısın? Hayal kurmak, zihnimizde yeni dünyalar yaratmaktır. Bu dünyalarda her şey mümkündür. Hadi bu maceraya başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücü, zihnimizin en güçlü araçlarından biridir. Bir kez gözlerimizi kapattığımızda, kendimizi istediğimiz her yerde bulabiliriz. Belki bir ormanda, belki de uzakta bir adada... Sen en çok nerede olmak istersin? Hayal kurmak, sınırlarımızı zorlamamızı sağlar. Bu yüzden hayal kurmak çok eğlenceli!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi gözlerimizi kapatıp derin bir nefes alalım. Kendimizi bir balonun içinde hayal edelim. Bu balon bizi gökyüzüne doğru yükseltiyor. Rüzgarın hafifçe yüzümüze vurduğunu hissediyoruz. Bu hayal dünyasında her şey mümkün, değil mi?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Hayal gücünle neler yapabileceğini görmek için sabırsızlanıyorum. Şimdi, bu balonla nereye gitmek isterdin? Belki bir deniz kenarına ya da bir dağın zirvesine... Senin hayalin, senin maceran!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda balonla nereye gideceğimizi düşünmüştük. Şimdi, balonumuzla deniz kenarına indiğimizi hayal edelim. Dalga sesleri kulağımıza geliyor ve ayaklarımızın altındaki kumları hissediyoruz. Burada neler yapabiliriz? Belki kumdan kaleler inşa edebiliriz. Hayal gücümüzü kullanarak bu sahilde harika bir gün geçirebiliriz."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Birlikte kumdan kaleler yapmayı düşündük, değil mi? Peki, bu kalelerin nasıl olmasını isterdin? Belki çok büyük, belki de içi dolu odalarla... Hadi biraz daha hayal edelim. Kalemizin içinde bir prenses ya da bir şövalye olabilir mi? Senin hayalin, senin kuralın!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hayal gücümüzle başka neler yapabiliriz sence? Birlikte düşündüğünde, aklına neler geliyor? Belki bir uzay macerasına çıkabiliriz. Sen de hayal gücünü kullanarak bir macera yaratmak ister misin? Hadi birlikte düşünelim!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika düşüncelerle dolusun! Hayal gücünle ne kadar yaratıcı olabileceğini gördüm. Şimdi, bu macerada başka kimler olabilir? Belki bir robot arkadaş, belki de sevimli bir uzaylı... Her şey senin hayal dünyanda mümkün!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda uzay maceramızdan bahsettik. Şimdi, hayal gücümüzle bu macerayı daha da büyütelim. Kendimizi uzayda süzülen bir roketin içinde hayal edelim. Yıldızlar etrafımızda parlıyor ve biz yeni gezegenler keşfetmeye gidiyoruz. Bu gezegenlerde kimlerle tanışabiliriz? Belki kocaman gözleri olan dost canlısı yaratıklarla!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi biraz nefes egzersizi yapalım ve hayal gücümüzü daha da genişletelim. Üç derin nefes alalım. Her nefeste kendimizi daha da rahatlamış hissedelim. Bu nefesler bizi hayal dünyamızda daha da ileriye taşıyacak."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Nefes egzersizinden sonra kendimizi nasıl hissediyoruz? Hayal gücümüzle daha neler yapabiliriz? Belki bir ormanda yürüyüşe çıkabiliriz. Ormanda hangi hayvanlarla karşılaşabiliriz? Seni çok merak ediyorum, neler düşündüğünü."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ormanda yürüyüş yaparken hangi hayvanları görmek isterdin? Belki bir geyik, belki de bir tavşan... Hayal gücünle bu ormanda başka neler olabilir? Hadi birlikte düşünelim ve hayal edelim!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Seninle birlikte hayal dünyasında bu kadar çok şey keşfetmek harikaydı! Hayal kurmak, bizi başka dünyalara götürür ve yeni maceralar yaratmamıza yardımcı olur. Sen de her zaman hayal kurabilir ve kendi maceranı yaratabilirsin. Hayal gücün hep seninle olsun!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda ormanda neler yapabileceğimizi düşündük. Şimdi, hayal gücümüzü kullanarak bu ormanda bir arkadaşımız olduğunu hayal edelim. Bu arkadaşımız kim olabilir? Belki bir kuş ya da bir sincaptır. Onunla neler yapabiliriz? Belki ağaçların tepesine tırmanabiliriz. Hayal gücümüzle her şey mümkün!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir hayal yolculuğuna çıktık. Hayal gücümüzle neler yapabileceğimizi gördük. Seninle birlikte bu maceraları keşfetmek çok keyifliydi. Her zaman hayal kurmayı unutma, çünkü hayal gücün seni her yere götürebilir. Tekrar görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Tiko'ın Imagination Hikayesi"
+}

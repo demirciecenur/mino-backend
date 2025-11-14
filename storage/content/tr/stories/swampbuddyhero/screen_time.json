@@ -1,0 +1,98 @@
+{
+  "id": "swamp_buddy_hero_screen_time_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "screen_time",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Swamp Buddy Hero. Bugün birlikte ekran zamanı hakkında harika bir yolculuğa çıkacağız. Ekranlar, televizyonlar ve tabletler gibi şeyler hakkında konuşacağız. Hazır mısın? Seni çok merak ediyorum. Birlikte çok eğleneceğiz!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekranlar çok eğlenceli olabilir, değil mi? Ama ekran başında çok fazla zaman geçirmek bazen gözlerimizi yorabilir. O yüzden ekran zamanı dengeli olmalı. Ekranlar dışında yapabileceğimiz birçok eğlenceli şey var. Mesela, oyuncaklarımızla oynamak ya da resim yapmak gibi. Sen en çok ne yapmayı seversin?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi ekran zamanı nasıl dengede tutabiliriz, onu öğrenelim. Ekran başında geçirdiğimiz zamanı sınırlamak iyi bir başlangıç olabilir. Örneğin, her gün bir saat ekrana bakmak yeterli olabilir. Sonra dışarıda oyun oynamak, kitap okumak ya da resim yapmak için zaman ayırabiliriz. Haydi, şimdi birlikte ne kadar ekran zamanı geçirdiğimizi hesaplayalım."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ekranlar dışında yapabileceğimiz eğlenceli aktiviteler var, biliyor musun? Mesela, evdeki oyuncaklarımızla yeni oyunlar icat edebiliriz. Ya da bir arkadaşımızla saklambaç oynayabiliriz. Hatta ailemizle birlikte bir hikaye yazabiliriz. Sen hangisini denemek istersin? Harika seçimler yapabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hatırlıyor musun, bir önceki sahnede ekran zamanı hakkında konuştuk. Şimdi ekranların gözlerimize nasıl etki ettiğini düşünelim. Uzun süre ekrana bakmak gözlerimizi yorabilir ve başımızı ağrıtabilir. O yüzden arada bir gözlerimizi dinlendirmek önemli. Haydi, şimdi gözlerimizi kapatıp derin bir nefes alalım."
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence ekranlar neden bu kadar ilgi çekici? Belki de renkli ve hareketli oldukları için. Ya da sevdiğimiz çizgi filmleri izlemek hoşumuza gittiği için. Peki, sen en çok hangi çizgi filmi izlemeyi seviyorsun? Bu konuda ne düşündüğünü duymak isterim."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnede ekranların neden ilgi çekici olduğunu konuştuk. Şimdi ekran başında geçirdiğimiz zamanı nasıl daha eğlenceli hale getirebiliriz, ona bakalım. Mesela, ekrana bakarken kısa molalar vermek iyi olabilir. Böylece gözlerimizi dinlendirebiliriz. Ayrıca, ekranda öğrendiğimiz şeyleri gerçekte de denemek harika olabilir."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ekranların dışında yapabileceğimiz ne kadar çok şey var, değil mi? Mesela, bahçede çiçekleri sulamak ya da kuşları izlemek gibi. Bu tür aktiviteler hem eğlenceli hem de öğretici olabilir. Sen de bu tür şeyler yapmayı sever misin? Harika! Şimdi birlikte bir kuş gözlemcisi olalım."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede doğayla ilgili aktivitelerden bahsettik. Şimdi ekran başında geçirdiğimiz zamanı nasıl daha verimli kullanabiliriz, ona bakalım. Öğrenmek istediğimiz şeyleri izleyebiliriz. Mesela, yeni bir dil öğrenmek ya da bir müzik aleti çalmayı öğrenmek gibi. Sen en çok neyi öğrenmek isterdin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekranlar dışındaki zamanlarımızı planlamak da çok önemli. Böylece her şeye zaman ayırabiliriz. Günlük bir plan yaparak her şey için zaman bulabiliriz. Mesela, sabahları biraz oyun oynayıp, öğleden sonra kitap okuyabiliriz. Şimdi birlikte bir günlük plan yapalım."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Günlük planlarımızı yaparken nelere dikkat etmeliyiz, sence? Her şeyden biraz yapmak iyi olabilir. Ekran zamanı, oyun zamanı, dinlenme zamanı. Senin bir günlük planın var mı? Nasıl bir plan yapardın?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnede günlük planlardan bahsettik. Şimdi ekran zamanı dışında arkadaşlarımızla nasıl vakit geçirebiliriz, ona bakalım. Birlikte oyunlar oynamak, hikayeler anlatmak veya resimler çizmek harika olabilir. Sen en çok hangi aktiviteleri arkadaşlarınla yapmayı seversin? Şimdi birlikte bir hikaye oluşturalım."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Arkadaşlarla vakit geçirmek gerçekten çok eğlenceli, değil mi? Birlikte gülebilir, yeni şeyler öğrenebiliriz. Sen de arkadaşlarınla vakit geçirmekten hoşlanıyorsun, değil mi? Harika! Şimdi birlikte bir oyun icat edelim. Bu oyun, ekranlar olmadan da ne kadar eğlenebileceğimizin kanıtı olacak."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika şeyler öğrendik. Ekran zamanı dengede olduğunda ne kadar faydalı olabileceğini gördük. Ama aynı zamanda ekranların dışında da kocaman bir dünya olduğunu keşfettik. Seninle bu yolculuğa çıkmak çok güzeldi! Bir dahaki sefere görüşmek üzere, küçük dostum!"
+    }
+  ],
+  "title": "Swamp Buddy Hero'ın Screen Time Hikayesi"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "super_metal_hero_friendship_story",
+  "character": "Super Metal Hero",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Super Metal Hero, teknolojinin gücüyle donatılmış bir kahramanım. Bugün seninle arkadaşlık üzerine harika bir yolculuğa çıkacağız. Arkadaşlık, birlikte eğlenmek ve birbirimize destek olmak demektir. Seninle bu konuda konuşmak için sabırsızlanıyorum. Hazır mısın? Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, hayatımızı daha renkli ve eğlenceli hale getirir. Bir düşün, en sevdiğin oyuncağınla oynamak ne kadar keyifli, değil mi? Ama bir arkadaşla oynamak çok daha eğlenceli olabilir. Arkadaşlarımızla oynarken yeni şeyler öğreniriz ve oyunları daha heyecanlı hale getiririz. Senin de en sevdiğin oyunlar nelerdir? Birazdan bunları birlikte keşfedeceğiz."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaş edinmek için neler yapmamız gerektiğini biliyor musun? İlk adım, gülümsemek ve 'merhaba' demek. Bu, karşımızdaki kişiye dostça bir başlangıç yapmamızı sağlar. Ardından, onunla ortak ilgi alanlarımızı konuşabiliriz. Belki ikiniz de aynı çizgi filmleri izliyorsunuzdur veya aynı oyunları oynuyorsunuzdur. Böylece güçlü bir arkadaşlık bağı kurabilirsiniz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım mı? Haydi, oyuncaklarımızı toplayalım ve onları sırayla dizelim. Bu, hem eğlenceli hem de düzenli olmanıza yardımcı olur. Sen de bu oyunu arkadaşlarınla oynayabilirsin. Harika işler başarıyorsun, devam et!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir arkadaşla birlikte oyun oynamak gerçekten çok eğlenceli. Ama unutma, bazen arkadaşlarımızla anlaşmazlıklar yaşayabiliriz. Bu durumda ne yapmalıyız? Öncelikle sakin kalmalı ve arkadaşımızla konuşarak sorunu çözmeliyiz. İyi bir dinleyici olmak ve empati kurmak, arkadaşlığımızı güçlendirir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Empati kurmak, arkadaşımızın duygularını anlamak demektir. Bir arkadaşımız üzgün olduğunda ona nasıl yardımcı olabiliriz? Ona destek olabilir ve yanında olduğumuzu hissettirebiliriz. Bu, ona kendini daha iyi hissettirir ve arkadaşlığımızı daha da güçlendirir. Empati kurmak, herkes için çok önemlidir."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi biraz nefes alalım ve rahatlayalım. Derin bir nefes al ve yavaşça ver. Birkaç kez tekrarlayalım. Bu, hem seni hem de arkadaşını rahatlatır. Arkadaşınla oyun oynarken veya bir sorun yaşadığında bu nefes egzersizini yapabilirsin. Harika gidiyorsun!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlarımızla paylaşmak, arkadaşlık bağlarını güçlendirir. Oyuncaklarımızı, kitaplarımızı veya yiyeceklerimizi paylaşmak, arkadaşımızın mutlu olmasını sağlar. Paylaşmak, karşılıklı güven ve saygıyı artırır. Sen de sevdiğin bir şeyi arkadaşınla paylaşmayı dene. Bu, seni ve arkadaşını çok mutlu edecektir."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, bir önceki konuşmamızda paylaşmanın öneminden bahsetmiştik. Şimdi, paylaşmanın başka bir güzel yanını keşfedelim. Paylaştığımızda, arkadaşımızın da bizimle bir şeyler paylaşmasını sağlarız. Bu, arkadaşlıklarımızın daha güçlü ve sağlam olmasına yardımcı olur. Peki, sen en son ne zaman bir şey paylaştın?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin en iyi arkadaşın kim? Onunla en çok ne yapmayı seviyorsun? Birlikte geçirdiğiniz en eğlenceli zaman neydi? Cevaplarını çok merak ediyorum. Benimle paylaşır mısın?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, sadece eğlenceli anlar paylaşmak değildir. Aynı zamanda zor zamanlarda da birbirimize destek olmaktır. Bir arkadaşımız zor bir durumla karşılaştığında, ona nasıl yardım edebiliriz? Onunla konuşabilir, dinleyebilir ve destek olabiliriz. Bu, arkadaşlığımızı daha anlamlı hale getirir."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Birlikte bir şeyler yapmak, arkadaşlık bağlarını güçlendirir. Örneğin, birlikte bir resim yapabilir veya bir hikaye yazabiliriz. Bu tür aktiviteler, hem yaratıcı hem de eğlencelidir. Ayrıca, arkadaşlarımızla birlikte çalışmayı ve işbirliği yapmayı öğreniriz. Hadi, sen de bir arkadaşınla böyle bir etkinlik planla."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Arkadaşlık, hayatımızı güzelleştiren en önemli şeylerden biridir. Sen de harika bir arkadaş olabilirsin. Başkalarına yardım ederek ve onlarla güzel anılar biriktirerek bu bağı güçlendirebilirsin. Unutma, senin içindeki kahraman her zaman parlamaya hazır. Harika işler başarabileceğini biliyorum!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün arkadaşlık hakkında çok şey öğrendik. Seninle bu konuyu konuşmak gerçekten çok keyifliydi. Unutma, arkadaşlık hayatımızı daha mutlu ve anlamlı hale getirir. Senin gibi harika bir dostum olduğu için çok mutluyum. Bir sonraki buluşmamıza kadar kendine iyi bak!"
+    }
+  ],
+  "title": "Super Metal Hero'ın Friendship Hikayesi"
+}

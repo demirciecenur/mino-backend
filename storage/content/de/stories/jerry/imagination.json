@@ -1,0 +1,98 @@
+{
+  "id": "clever_mouse_jerry_imagination_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "imagination",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Clever Mouse Jerry. Heute gehen wir auf eine fantastische Reise in die Welt der Vorstellungskraft. Bist du bereit? Ich bin so neugierig darauf, was wir alles entdecken können. Lass uns gemeinsam auf Entdeckungstour gehen und Spaß haben!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vorstellungskraft ist wie ein magischer Schlüssel, der uns überall hinbringen kann. Stell dir vor, du könntest fliegen wie ein Vogel oder schwimmen wie ein Fisch. Mit unserer Fantasie können wir alles erleben, was wir möchten. Es ist wie ein großes Abenteuer, das nur darauf wartet, entdeckt zu werden. Was möchtest du heute mit deiner Vorstellungskraft erleben?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns lernen, wie wir unsere Vorstellungskraft nutzen können. Schließe deine Augen und stell dir vor, du bist in einem Zauberwald. Du hörst die Vögel zwitschern und spürst die warme Sonne auf deinem Gesicht. Wenn du deine Augen öffnest, kannst du alles sehen, was du dir vorgestellt hast. Das ist die Magie der Vorstellungskraft!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt bist du dran! Lass uns zusammen zählen. Eins, zwei, drei, vier, fünf! Großartig gemacht! Mit jedem Zählen stellst du dir vor, dass du auf einer Leiter in den Himmel kletterst. Siehst du die Wolken um dich herum? Wunderbar, du machst das toll!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir uns die Wolken vorgestellt haben? Jetzt lass uns über den Regenbogen rutschen! In unserer Vorstellungskraft ist alles möglich. Die Farben des Regenbogens sind so hell und schön. Wenn wir am Ende des Regenbogens ankommen, erwartet uns ein neuer, aufregender Ort. Wohin möchtest du als nächstes reisen?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du jemals davon geträumt, ein Superheld zu sein? Was wäre deine Superkraft? Vielleicht könntest du unsichtbar werden oder ganz schnell rennen. Stell dir vor, wie du die Welt rettest und allen hilfst. Was denkst du, wie fühlt sich das an?"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Superhelden sind immer mutig und helfen anderen. Jetzt, da du ein Superheld bist, welche Abenteuer möchtest du erleben? Vielleicht möchtest du einen Drachen besiegen oder eine verlorene Stadt finden. Die Möglichkeiten sind endlos, wenn wir unsere Fantasie nutzen. Lass uns diese Abenteuer gemeinsam erleben!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt eine kleine Übung machen. Stell dir vor, du bist ein Baum. Deine Arme sind die Äste, die sich im Wind wiegen. Spürst du, wie der Wind durch deine Blätter weht? Atme tief ein und aus, als ob du die frische Luft des Waldes einatmest. Das fühlt sich gut an, oder?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Jetzt kannst du dir vorstellen, dass du ein Kätzchen bist, das in der Sonne schnurrt. Spürst du die Wärme auf deinem Fell? Lass uns zusammen schnurren: Miau, miau! Du bist wirklich gut darin, deine Fantasie zu nutzen. Weiter so!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir verschiedene Dinge ausprobiert haben, lass uns über das Träumen sprechen. Träume sind eine besondere Art der Vorstellungskraft. Manchmal träumen wir von Abenteuern, manchmal von lustigen Erlebnissen. Träume helfen uns, unsere Gedanken zu ordnen und neue Ideen zu finden. Was war dein schönster Traum?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Wo würdest du hingehen, wenn du in deinen Träumen reisen könntest? Vielleicht zu einem geheimen Garten voller Blumen oder einem Schloss in den Wolken. Welche Freunde würdest du mitnehmen? Lass uns gemeinsam darüber nachdenken und unsere Fantasie anregen. Was denkst du?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Es macht so viel Spaß, über all die Orte und Dinge nachzudenken, die wir in unseren Träumen sehen können. Manche Träume sind wie eine Reise ins Unbekannte. Sie können uns inspirieren und uns neue Perspektiven zeigen. Lass uns weiterhin unsere Fantasie nutzen und neugierig bleiben!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Zum Abschluss lass uns noch einmal tief einatmen und unsere Augen schließen. Stell dir vor, du bist an deinem Lieblingsort. Vielleicht ist es ein Strand, ein Wald oder ein Spielplatz. Spürst du, wie entspannt du bist? Behalte diesen Ort in deinem Herzen und erinnere dich daran, wann immer du möchtest."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, diese Reise mit dir zu machen. Danke, dass du mit deiner Fantasie so kreativ warst. Ich hoffe, du hattest genauso viel Spaß wie ich. Bis zum nächsten Mal, mein kleiner Freund! Bleib neugierig und lass deine Vorstellungskraft immer fliegen!"
+    }
+  ],
+  "title": "Clever Mouse Jerrys Imagination Geschichte"
+}

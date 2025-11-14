@@ -1,0 +1,104 @@
+{
+  "id": "mystery_pup_buddy_sibling_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "sibling",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostlarım! Ben Mystery Pup Buddy, ve bugün sizlerle kardeşlik hakkında konuşacağız. Kardeşler, tıpkı en yakın arkadaşlarımız gibidir. Onlarla oyunlar oynar, maceralar yaşarız. Hazır mısınız, şimdi birlikte eğlenceli bir yolculuğa çıkalım. Herkes yerleştiyse, başlıyoruz!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşler, bazen en iyi oyun arkadaşlarımızdır. Onlarla birlikte yeni oyunlar keşfedebiliriz. Mesela, en sevdiğiniz oyuncağı paylaşmak, oyunları daha eğlenceli hale getirebilir. Kardeşinizle bir kale yapmayı veya bir hikaye uydurmayı deneyin. Bakalım, birlikte neler başarabilirsiniz!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, kardeşinizle paylaşmanın önemini konuşalım. Bir düşünün, en sevdiğiniz oyuncağı paylaşınca neler hissedersiniz? Paylaşmak, sadece oyuncakları değil, sevgiyi de paylaşmak demektir. Bu, kardeşinizle daha iyi bir bağ kurmanıza yardımcı olur. Haydi, şimdi bunu birlikte deneyelim."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kardeşinizle birlikte bir oyun kurmak harika bir fikirdir. Hadi, birlikte bir şeyler inşa edelim. Belki bir Lego kalesi ya da kumdan bir kale olabilir. Kardeşinizle iş birliği yaparak, harika şeyler ortaya çıkarabilirsiniz. Hayal gücünüzü kullanın ve birlikte eğlenin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşler bazen anlaşmazlıklar yaşayabilir. Ama önemli olan, bu anlaşmazlıkları çözmeyi öğrenmektir. Bir tartışma yaşadığınızda, derin bir nefes alın ve sakinleşin. Sonra, kardeşinizle konuşarak, sorunu çözmeye çalışın. Unutmayın, her zaman birbirinizi dinlemek önemlidir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşinizle iletişim kurmanın yollarını keşfedin. Onunla konuşurken nazik ve anlayışlı olun. Birbirinizin duygularını anlamaya çalışın. Bu, kardeşliğinizi güçlendirecek ve aranızdaki bağı kuvvetlendirecektir. Şimdi, bunu uygulamaya geçelim!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kardeşinizle birlikte yeni şeyler öğrenmek harika bir fırsattır. Belki birlikte bir resim çizebilir veya yeni bir şarkı öğrenebilirsiniz. Birlikte öğrendiğinizde, hem eğlenir hem de birbirinizi daha iyi tanırsınız. Haydi, şimdi bir şeyler deneyelim!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşinizle oyun oynarken, sıra beklemek önemlidir. Sıra beklemek, sabırlı olmayı ve saygı göstermeyi öğretir. Herkesin oyun sırasında eşit şekilde eğlenmesi için bu önemlidir. Kardeşinizle dönüşümlü olarak oynayın ve birbirinize fırsat tanıyın. Bakalım, bu nasıl hissettiriyor?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinizle en sevdiğiniz oyun nedir? Birlikte hangi oyunları oynuyorsunuz? Belki saklambaç ya da yapboz yapmak gibi oyunlar olabilir. Düşünürken, kardeşinizle oynadığınızda nasıl hissettiğinizi de hatırlayın. Şimdi, bunu paylaşmak ister misiniz?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşinizle paylaşmak, sadece oyuncakları değil, duyguları da kapsar. Mutlu olduğunuzda ya da üzüldüğünüzde, bu duyguları kardeşinizle paylaşabilirsiniz. Bu, aranızdaki bağı güçlendirir ve birbirinizi daha iyi anlamanızı sağlar. Kardeşinizle konuşarak, duygularınızı ifade etmeyi unutmayın."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşinizle birlikte çalışmak, harika şeyler başarmanıza yardımcı olabilir. Birlikte bir görev üstlenin, belki oyuncaklarınızı toplamak gibi. Bu iş birliği, aranızdaki dostluğu pekiştirecektir. Şimdi, birlikte bir görev seçip uygulamaya geçelim!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kardeşinizle maceralar yaşamak çok eğlenceli olabilir! Belki birlikte yeni bir yer keşfedebilir ya da bir hikaye uydurabilirsiniz. Bu tür maceralar, hayal gücünüzü geliştirir ve sizi birbirinize daha da yakınlaştırır. Haydi, şimdi bir macera planlayalım!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda, kardeşinizle iletişim kurmanın öneminden bahsettik. Şimdi, bunu nasıl uygulayabileceğinizi düşünün. Kardeşinizle nasıl daha iyi iletişim kurabilirsiniz? Belki ona nazik bir şey söyleyebilir ya da birlikte bir etkinlik yapabilirsiniz. Denemek ister misiniz?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinizle en son ne zaman güzel bir anı paylaştınız? Bu anıyı hatırlamak sizi nasıl hissettiriyor? Belki bir doğum günü partisi ya da bir tatil anısı olabilir. Bu tür anılar, kardeşlik bağınızı güçlendirir. Şimdi, bu anıyı benimle paylaşmak ister misiniz?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün, kardeşlik üzerine harika bir yolculuk yaptık. Kardeşinizle olan bağınızı güçlendirmek için birçok yol keşfettik. Unutmayın, kardeşler en iyi dostlarınız olabilir. Onlarla zaman geçirmek ve paylaşmak, sizi daha mutlu yapar. Şimdi, bu öğrendiklerimizi uygulamaya ne dersiniz? Hoşça kalın!"
+    }
+  ],
+  "title": "Mystery Pup Buddy'ın Sibling Hikayesi"
+}

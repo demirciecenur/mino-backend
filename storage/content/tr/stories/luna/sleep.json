@@ -1,0 +1,104 @@
+{
+  "id": "luna_sleep_story",
+  "character": "Luna",
+  "topic": "sleep",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Luna. Bugün birlikte uyku hakkında harika bir yolculuğa çıkacağız. Uyku, büyülü bir macera gibidir. Gökyüzünde parlayan yıldızlar gibi hayallerimize dalarız. Hazır mısın? Seni çok merak ediyorum."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku, gün boyunca öğrendiklerimizi ve yaşadıklarımızı sakladığımız bir yer gibidir. Gece uyuduğumuzda, beynimiz tüm bu bilgileri düzenler ve saklar. Bu nedenle uyku çok önemlidir. Dinlenmiş ve enerjik uyanmamızı sağlar. Böylece yeni bir güne hazır oluruz."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Uykuya hazırlanmak için bir rutin oluşturmak harikadır. Her gece aynı saatte yatağa gitmek, vücudumuza uyku vaktinin geldiğini hatırlatır. Dişlerimizi fırçalamak ve pijamalarımızı giymek gibi basit adımlar da uykuya geçişi kolaylaştırır. Bu rutinler, vücudumuzu ve zihnimizi uykuya hazırlar. Şimdi, bu adımları birlikte düşünelim."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte nefes alıp verelim. Derin bir nefes al ve yavaşça ver. Bu, vücudunun rahatlamasına yardımcı olur. Nefes alırken, gökyüzündeki yıldızları hayal et. Bu küçük egzersiz, uykuya geçişi daha huzurlu kılar."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hatırlıyor musun, bir önceki sahnede nefes almayı öğrendik. Şimdi, uyumanı kolaylaştıracak bir hikaye anlatacağım. Bir zamanlar, yıldızların arasında yaşayan bir ay perisi varmış. Bu peri, her gece çocukların güzel rüyalar görmesini sağlarmış. Ay perisinin hikayesini dinlerken, kendini onun yanındaymış gibi hayal edebilirsin."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ay perisi, çocukların hayallerini gerçekleştirmek için sihirli tozunu kullanırmış. Her gece, bu tozu gökyüzüne serpiştirir ve çocukların tatlı rüyalar görmesini sağlarmış. Sen de bu gece, ay perisinin sihirli tozunu hayal edebilirsin. Bu, uykuya dalmanı kolaylaştıracak. Şimdi, ay perisinin sihirli dünyasına doğru bir adım daha atalım."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede ay perisinden bahsetmiştik. Şimdi, yatağında rahatça uzan ve gözlerini kapat. Gözlerini kapattığında, kendini bir bulutun üzerinde hayal et. Bulutlar seni nazikçe sarmalarken, rüzgarın tatlı esintisini hissedebilirsin. Bu, seni daha da rahatlatacak ve uykuya geçişini kolaylaştıracaktır."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Gözlerini kapattığında hangi hayalleri görüyorsun? Belki de bir bulut üzerinde uçuyorsundur. Ya da bir gökkuşağının üzerinden kayıyor olabilirsin. Haydi, hayalini benimle paylaş. Seni dinlemek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede hayallerimizi konuştuk. Şimdi, uyku öncesi bir başka rahatlatıcı aktiviteyi deneyelim. Sessiz bir müzik dinlemek ya da bir masal kitabı okumak, uykuya geçişi kolaylaştırabilir. Bu aktiviteler, zihnini sakinleştirir ve uykuya hazırlar. Sen, uyku öncesinde ne yapmayı seversin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Birlikte bir uyku ritüeli oluşturalım. Yatağını rahatça hazırla ve sevdiğin peluş oyuncağını yanına al. Yastığını pofuduk hale getir ve battaniyeni üstüne çek. Bu adımlar, seni sıcak ve güvenli hissettirir. Şimdi, uyumaya hazırsın!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika işler başardın! Şimdi, derin nefes al ve yavaşça ver. Her nefes alışında, kendini daha da rahatlamış hissedeceksin. Bu, uykuya dalmanı kolaylaştıracak. Sen bunu yapabilirsin, inanıyorum!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uykuya dalarken, hayallerinin seni alıp götüreceği yerlere odaklan. Belki de bir deniz kenarında yürüyorsundur. Ya da bir ormanın derinliklerinde macera yaşıyorsundur. Hayal gücün, seni istediğin her yere götürebilir. Bu, uykuya dalarken seni mutlu edebilir."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sahnede hayal gücümüzü kullandık. Şimdi, uykuya dalarken hangi sesi duymak istersin? Belki deniz dalgalarının sesi seni rahatlatır. Ya da rüzgarın ağaçlarda çıkardığı ses. Hangi ses seni mutlu eder, düşün bakalım!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Uykuya dalmadan önce kendine hangi güzel dilekleri söylersin? Belki de yarın için güzel bir gün dileyebilirsin. Ya da sevdiklerinle mutlu anılar biriktirmeyi. Senin uyumadan önce dileğin nedir? Benimle paylaşmak ister misin?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte uykuya hazırlanmanın ne kadar eğlenceli olabileceğini keşfettik. Seninle bu macerayı paylaşmak çok güzeldi. Şimdi, güzel rüyalar görme zamanı. Unutma, ay perisi her zaman seninle. İyi geceler küçük dostum! Tatlı rüyalar."
+    }
+  ],
+  "title": "Luna'ın Sleep Hikayesi"
+}

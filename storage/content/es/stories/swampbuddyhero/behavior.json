@@ -1,0 +1,98 @@
+{
+  "id": "swamp_buddy_hero_behavior_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "behavior",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeños amigos! Soy el Héroe del Pantano, y estoy muy emocionado de hablar con ustedes hoy sobre el comportamiento. El comportamiento es cómo actuamos y respondemos a los demás, y es muy importante para tener buenos amigos. ¿Están listos para una aventura divertida sobre cómo ser amables y respetuosos? ¡Vamos a descubrirlo juntos! Estoy seguro de que aprenderemos mucho y nos divertiremos un montón en el camino."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "El comportamiento es algo que todos hacemos todos los días, como cuando saludamos a alguien o decimos gracias. Es importante porque ayuda a que todos se sientan bien y felices. Cuando seguimos las reglas, como esperar nuestro turno, estamos mostrando buen comportamiento. ¿Alguna vez han sentido alegría cuando alguien los trata bien? Eso es porque el buen comportamiento hace que todos se sientan felices y seguros."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de cómo podemos mostrar buen comportamiento en casa. Una forma es escuchar a mamá o papá cuando nos piden que hagamos algo, como recoger nuestros juguetes. También podemos mostrar buen comportamiento al decir 'por favor' y 'gracias'. Esas palabras mágicas hacen que las personas se sientan apreciadas. ¿Por qué no tratamos de decir 'gracias' la próxima vez que alguien nos ayude?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Ahora que sabemos cómo comportarnos en casa, pensemos en cómo podemos hacerlo en la escuela. Siempre es bueno compartir nuestros juguetes con nuestros amigos. También podemos levantar la mano antes de hablar en clase. ¿Pueden imaginar lo feliz que se siente un amigo cuando compartimos con él? ¡Estoy seguro de que ustedes lo hacen fantástico!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¿Recuerdan cuando hablamos de esperar nuestro turno? Eso también es muy importante. Cuando jugamos en el parque o en la escuela, debemos esperar pacientemente. Esto muestra respeto a los demás. ¿Alguna vez esperaron su turno y luego sintieron que era justo? ¡Es una sensación maravillosa!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de cómo podemos manejar nuestras emociones. A veces, podemos sentirnos enojados o tristes, y eso está bien. Pero es importante no gritar o pegar. En su lugar, podemos respirar profundamente tres veces. Vamos a intentarlo juntos: una, dos, tres. ¡Muy bien! Esto nos ayuda a calmarnos y pensar antes de actuar."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo están haciendo de maravilla! Ahora que sabemos cómo calmarnos, podemos pensar en cómo resolver problemas. Si un amigo está enojado, podemos hablar con él y tratar de entender por qué. Preguntar '¿cómo te sientes?' puede ayudar mucho. Es importante ser un buen amigo y escuchar. ¡Ustedes son increíbles amigos!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ahora, me pregunto, ¿alguna vez han visto a alguien ser muy amable y han querido hacer lo mismo? Ser amable es como una magia especial que hace que todos se sientan mejor. ¿Qué piensan que pasaría si todos fueran amables todo el tiempo? ¡Sería un mundo muy feliz!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdan lo que hablamos sobre compartir y esperar nuestro turno? Esas son formas de ser amables. También podemos ser amables al ayudar a alguien que lo necesita. ¿Alguna vez ayudaron a un amigo a recoger algo que se le cayó? Eso es ser un verdadero héroe del comportamiento."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vamos a hablar sobre las reglas. Las reglas nos ayudan a saber qué es seguro y justo. En casa, puede ser ir a dormir a tiempo. En la escuela, puede ser caminar en los pasillos. Las reglas nos mantienen seguros y felices. ¿Recuerdan alguna regla que les guste seguir?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, pensemos en cómo podemos recordar seguir las reglas. Podemos hacer un juego divertido para recordarlas. Por ejemplo, podemos contar hasta cinco antes de hacer algo para asegurarnos de que estamos siguiendo las reglas. Vamos a intentarlo juntos: uno, dos, tres, cuatro, cinco. ¡Muy bien!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Están aprendiendo muy rápido! Recuerden siempre que seguir las reglas y mostrar buen comportamiento hace que todos se sientan felices y seguros. Y cuando hacemos esto, también nos sentimos bien por dentro. ¡Estoy muy orgulloso de ustedes y de lo que han aprendido hoy!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez han sentido que hicieron algo bueno y se sintieron muy felices después? Eso es porque nuestro corazón se siente bien cuando hacemos lo correcto. ¿Pueden pensar en un momento en que hicieron algo amable para alguien? Estoy seguro de que fue un momento especial."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Y así, queridos amigos, hemos llegado al final de nuestra aventura sobre el comportamiento. Espero que hayan aprendido mucho sobre cómo ser amables, seguir las reglas y manejar sus emociones. Recuerden siempre que cada pequeño acto de bondad hace del mundo un lugar mejor. Estoy muy orgulloso de todos ustedes. ¡Hasta la próxima, pequeños héroes del comportamiento!"
+    }
+  ],
+  "title": "Historia de Behavior de Swamp Buddy Hero"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "rescue_pup_crew_friendship_story",
+  "character": "Rescue Pup Crew",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis le Rescue Pup Crew. Aujourd'hui, nous allons explorer le monde merveilleux de l'amitié. Êtes-vous prêt à découvrir comment être un bon ami? C'est une aventure pleine de rires et de jeux! J'ai hâte de partager ces moments avec vous. Allons-y ensemble!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est comme avoir un trésor précieux. Un bon ami est toujours là pour jouer et partager des moments de joie. Parfois, un ami peut vous aider quand vous en avez besoin, comme lorsque vous ne trouvez pas votre doudou préféré. Être un bon ami, c'est aussi écouter quand quelqu'un veut parler. Maintenant, explorons comment nous pouvons être de merveilleux amis!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour être un bon ami, il est important de partager. Imaginez que vous avez un gâteau au chocolat, et que votre ami vous regarde avec envie. Partager une part de votre gâteau peut rendre votre ami très heureux. C'est comme partager un sourire ou un câlin. Partager montre que vous vous souciez de votre ami. Pratiquons le partage chaque jour!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Vous faites déjà de grands progrès pour devenir un super ami. N'oubliez pas que dire des mots gentils est aussi important. Si votre ami est triste, un petit mot doux peut illuminer sa journée. Dire \"merci\" et \"s'il te plaît\" montre que vous êtes poli et attentionné. Vous pouvez le faire, et ça rend le monde plus joyeux!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant du jeu ensemble. Jouer avec vos amis est une façon amusante de renforcer votre amitié. Que diriez-vous d'organiser une chasse au trésor dans le jardin? Vous pouvez courir, chercher et rire ensemble. Jouer ensemble aide à créer des souvenirs précieux. Chaque moment passé avec un ami est un trésor!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand on joue, il est important de prendre des tours. Si vous jouez à un jeu de société, attendez patiemment votre tour. Cela montre que vous respectez vos amis et que vous êtes un bon joueur. Attendre son tour peut être difficile, mais c'est très important. Cela rend le jeu plus amusant pour tout le monde. Essayons ensemble!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bien joué! Vous êtes un ami formidable. Maintenant, parlons de l'écoute. Écouter vos amis quand ils vous parlent est très important. Cela montre que vous vous souciez de ce qu'ils ressentent. Parfois, vos amis ont juste besoin de quelqu'un pour les écouter. Vous êtes capable d'être ce bon auditeur. Continuez comme ça!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Une autre belle chose à faire est d'encourager vos amis. Quand votre ami essaie quelque chose de nouveau, comme monter sur un vélo, vous pouvez dire \"Tu peux le faire!\". Ces mots d'encouragement peuvent donner à votre ami la confiance pour réussir. Encourager les autres rend votre amitié encore plus forte. C'est magique!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de résoudre les problèmes. Parfois, vous pouvez avoir un désaccord avec un ami. C'est normal, et ça arrive à tout le monde. Quand cela arrive, il est important de parler calmement et de trouver une solution ensemble. Vous pouvez dire \"Je suis désolé\" si vous avez fait une erreur. Trouver des solutions ensemble renforce votre amitié."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastique! Vous apprenez tellement sur l'amitié! Rappelez-vous que chaque jour est une nouvelle opportunité pour être un bon ami. Que ce soit à l'école, au parc, ou à la maison, vous pouvez montrer votre gentillesse et votre attention. Vous êtes déjà un super ami, et vous pouvez continuer à vous améliorer. Continuez à briller!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est votre jeu préféré à jouer avec des amis? Peut-être que vous aimez jouer au ballon ou faire des dessins ensemble. Il y a tant de façons amusantes de partager du temps avec vos amis. Voulez-vous essayer un nouveau jeu la prochaine fois que vous vous rencontrerez? Je suis sûr que vous allez passer un moment fantastique!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous que l'amitié est comme un jardin. Il faut l'arroser avec des sourires, des mots gentils, et beaucoup de jeux. Prendre soin de vos amis rend votre jardin d'amitié encore plus beau. Chaque effort que vous faites pour être un bon ami compte. Ensemble, nous pouvons faire de belles choses!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Avez-vous déjà fait un dessin pour votre ami? Les dessins peuvent être de merveilleux cadeaux qui viennent du cœur. Vous pouvez dessiner votre moment préféré passé ensemble. Un cadeau fait main est une belle façon de montrer que vous tenez à quelqu'un. Essayez-le et voyez le sourire sur le visage de votre ami!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure sur l'amitié avec moi. Vous êtes un ami incroyable et je suis fier de vous. Continuez à être gentil et à partager la joie autour de vous. J'ai hâte de notre prochaine aventure ensemble. À bientôt, petit ami!"
+    }
+  ],
+  "title": "Histoire de Friendship de Rescue Pup Crew"
+}

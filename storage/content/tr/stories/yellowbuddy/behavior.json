@@ -1,0 +1,104 @@
+{
+  "id": "yellow buddy_behavior_story",
+  "character": "Yellow Buddy",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Yellow Buddy. Bugün birlikte davranışlar hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum çünkü öğrenmek ve eğlenmek için buradayız. Davranışlar, nasıl daha iyi bir arkadaş olabileceğimizin anahtarıdır. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Davranışlar, günlük hayatımızda nasıl davrandığımızı gösterir. Örneğin, oyuncaklarını toplamak, iyi bir davranıştır. Bu, hem düzenli olmanı sağlar hem de başkalarına saygı gösterdiğini gösterir. İyi davranışlar, herkesin mutlu olmasına yardımcı olur. Şimdi, her gün yapabileceğimiz bazı iyi davranışları birlikte keşfedelim!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir arkadaşımızla oyun oynarken, sırayla oynamak önemlidir. Bu, herkesin eğlenmesini sağlar ve kimseyi dışlamadığımızı gösterir. Sıra beklemek bazen zor olabilir, ama bu sabırlı olmayı öğretir. Hadi, şimdi birlikte sırayla oynamanın nasıl olabileceğini düşünelim. Belki bir top oyunu oynarken, topu sırayla atabiliriz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi bir düşünelim, dişlerimizi düzenli olarak fırçalamak da iyi bir davranıştır. Bu, hem sağlıklı kalmamızı sağlar hem de güzel gülümsememize yardımcı olur. Diş fırçalamak, her gün yapmamız gereken önemli bir alışkanlıktır. Sen de dişlerini düzenli fırçalıyor musun? Bunu yaparken çok eğlenceli şarkılar söyleyebiliriz!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda diş fırçalamayı öğrendik. Şimdi, başka bir iyi davranışa bakalım: Yemek yerken teşekkür etmek. Bu, yemeği hazırlayan kişiye saygı göstermenin bir yoludur. Ayrıca, yemeği paylaşmak da önemlidir. Arkadaşlarımızla yiyeceklerimizi paylaşmak, onları önemsediğimizi gösterir. Hadi, teşekkür etmenin ve paylaşmanın ne kadar güzel olduğunu birlikte deneyimleyelim."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, birbirimize nasıl nazik olabileceğimizi düşünelim. Nazik sözler kullanmak, arkadaşlarımızı mutlu eder. Örneğin, 'lütfen' ve 'teşekkür ederim' demek, karşımızdakini özel hissettirir. Nazik olmak, hem arkadaşlıkları güçlendirir hem de kendimizi iyi hissettirir. Hadi, birlikte nazik sözler kullanma alıştırması yapalım!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Şimdi, oyuncaklarımızı toplamanın önemine bakalım. Oyun bittikten sonra oyuncakları toplamak, hem düzenli olmayı hem de başkalarına saygı göstermeyi öğretir. Bu, aynı zamanda oyuncaklarımızın kaybolmasını da önler. Oyuncaklarını toplarken eğlenceli bir oyun yapabilirsin. Hadi, birlikte oyuncaklarımızı toplayalım!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede oyuncaklarımızı toplamak hakkında konuştuk. Şimdi, iyi bir dinleyici olmanın önemini keşfedelim. Dinlemek, karşımızdakine değer verdiğimizi gösterir. Arkadaşlarımız konuşurken onları dinlemek, onların duygularını anlamamıza yardımcı olur. İyi bir dinleyici olmak, güçlü arkadaşlıklar kurmamıza yardımcı olur. Hadi, şimdi birlikte iyi bir dinleyici olmayı deneyelim."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, bir önceki sahnede dinlemeyi konuştuk. Şimdi, empati kurmanın ne kadar önemli olduğunu konuşalım. Empati, başkalarının duygularını anlamamızı sağlar. Bir arkadaşımız üzgün olduğunda, ona destek olmak için empati kurabiliriz. Bu, ona yalnız olmadığını hissettirir. Hadi, empati kurmanın yollarını birlikte keşfedelim."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi, senin için bir sorum var: Bugün öğrendiğimiz iyi davranışlardan hangisini en çok sevdin? Oyuncaklarını toplamayı mı, yoksa sırayla oynamayı mı? Belki de nazik sözler kullanmayı sevdin. Hangi davranışı sevdiğini düşündüğünde, bunu daha sık yapmaya çalışabilirsin. Senin cevabını merakla bekliyorum!"
+    },
+    {
+      "id": "scene_10",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Cevabını dinlemek için sabırsızlanıyorum! Her bir iyi davranış, seni ve çevrendekileri mutlu eder. Şimdi, öğrendiklerimizi hatırlayalım: Oyuncakları toplamak, sırayla oynamak, nazik sözler kullanmak. Her biri, daha iyi bir arkadaş olmamıza yardımcı olur. Hadi, öğrendiklerimizi günlük hayatımıza nasıl uygulayabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir sonraki adımda, öğrendiklerimizi uygulamak için kendimize hedefler koyabiliriz. Örneğin, her gün bir arkadaşımıza nazik bir söz söyleyebiliriz. Veya, oyuncaklarımızı toplamak için bir oyun zamanı belirleyebiliriz. Bu hedefler, davranışlarımızı geliştirmemize yardımcı olur. Hadi, birlikte hedeflerimizi belirleyelim ve uygulamaya başlayalım!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi, öğrendiklerimizi pekiştirmek için birlikte bir oyun oynayalım. Bu oyun, öğrendiklerimizi eğlenceli bir şekilde hatırlamamıza yardımcı olacak. Hadi, sırayla davranışlarımızı canlandıralım ve bir arkadaşımıza nasıl iyi davranabileceğimizi gösterelim. Sen bunu harika yapıyorsun!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Son olarak, öğrendiklerimizi başkalarına da öğretmeye ne dersin? Ailemize ve arkadaşlarımıza öğrendiklerimizi anlatarak, onların da iyi davranışlar sergilemelerine yardımcı olabiliriz. Bu, hem kendimizi hem de çevremizi daha mutlu yapar. Hadi, öğrendiklerimizi paylaşmak için plan yapalım. Seninle birlikte olmak çok keyifli!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün harika bir iş çıkardın! Davranışlar hakkında çok şey öğrendik ve eğlendik. Unutma, her gün iyi davranışlar sergilemek, seni ve çevrendekileri mutlu eder. Artık daha iyi bir arkadaş olmak için hazırsın. Ben Yellow Buddy, bir dahaki sefere görüşmek üzere! Hoşça kal!"
+    }
+  ],
+  "title": "Yellow Buddy'ın Behavior Hikayesi"
+}

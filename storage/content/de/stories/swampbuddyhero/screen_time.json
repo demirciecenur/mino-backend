@@ -1,0 +1,98 @@
+{
+  "id": "swamp_buddy_hero_Bildschirmzeit_digitale_Sicherheit_Technologienutzung_gesunde_Bildschirmgewohnheiten_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "Bildschirmzeit, digitale Sicherheit, Technologienutzung, gesunde Bildschirmgewohnheiten",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin dein Swamp Buddy Hero und heute gehen wir auf ein spannendes Abenteuer. Wir werden über Bildschirmzeit, digitale Sicherheit und gesunde Gewohnheiten sprechen. Bist du bereit, mehr darüber zu erfahren? Ich bin so neugierig auf dich und deine Gedanken dazu. Lass uns gemeinsam beginnen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bildschirmzeit ist die Zeit, die du vor einem Bildschirm verbringst, wie beim Fernsehen oder Spielen auf einem Tablet. Es ist wichtig, dass wir diese Zeit gut nutzen. Zu viel Bildschirmzeit kann unsere Augen müde machen. Deshalb sollten wir auch Zeit draußen verbringen und spielen. Was machst du am liebsten, wenn du nicht vor einem Bildschirm bist?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über digitale Sicherheit sprechen. Das bedeutet, dass wir sicher sind, wenn wir das Internet nutzen. Wir sollten niemals unseren Namen oder unsere Adresse online teilen. Warum? Weil wir uns und unsere Informationen schützen wollen. Frage immer einen Erwachsenen um Hilfe, wenn du dir unsicher bist."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Jetzt lass uns darüber nachdenken, wie wir gesunde Bildschirmgewohnheiten entwickeln können. Eine gute Idee ist, Pausen zu machen und sich zu bewegen. Vielleicht könntest du ein bisschen tanzen oder springen. Möchtest du es ausprobieren? Lass uns zusammen bis fünf zählen, während wir hüpfen!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über Pausen gesprochen haben? Pausen sind wichtig, um unseren Körper und Geist zu entspannen. Wenn wir eine Pause machen, fühlen wir uns danach oft frischer. Vielleicht könntest du mit einem Freund spielen oder ein Buch lesen. Was denkst du, was du in deiner nächsten Pause tun möchtest?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Eine weitere tolle Idee ist, Bildschirmzeit zu planen. Du könntest eine bestimmte Zeit am Tag festlegen, um Spiele zu spielen oder Filme zu schauen. So bleibt genug Zeit für andere Abenteuer. Vielleicht könntest du einen Timer stellen, um dich daran zu erinnern. Wäre das nicht eine lustige Idee?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal darüber nachgedacht, wie viel Zeit du vor Bildschirmen verbringst? Es kann spannend sein, das zu entdecken! Vielleicht könntest du es mit einem Erwachsenen zusammen herausfinden. Wie viel Zeit denkst du, dass du jeden Tag vor Bildschirmen verbringst? Lass uns darüber nachdenken!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Nun, da wir darüber gesprochen haben, wie man Bildschirmzeit plant, lass uns darüber nachdenken, wie wir diese Zeit genießen können. Es gibt viele lustige und lehrreiche Spiele und Videos. Was ist dein Lieblingsspiel oder dein Lieblingsvideo? Es ist wichtig, Dinge zu wählen, die uns glücklich machen und uns etwas Neues beibringen."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du lernst so schnell! Lass uns jetzt über Technologienutzung sprechen. Technologie kann uns helfen, Neues zu lernen und in Verbindung zu bleiben. Vielleicht hast du schon einmal mit Oma und Opa über Video telefoniert. Ist es nicht erstaunlich, wie Technologie uns näher zusammenbringen kann?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Technologie kann uns auch helfen, kreativ zu sein. Du könntest ein Bild malen oder eine Geschichte schreiben. Es gibt viele Apps, die dir dabei helfen können. Hast du schon einmal eine App benutzt, um etwas Kreatives zu tun? Lass uns darüber sprechen, was du gemacht hast!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt wollen wir sicherstellen, dass wir Technologie sicher nutzen. Das bedeutet, dass wir nur mit Menschen sprechen, die wir kennen. Und wenn wir eine Nachricht bekommen, die uns komisch vorkommt, sollten wir das einem Erwachsenen sagen. So bleiben wir sicher und können die Technologie genießen!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wunderbar! Lass uns daran denken, dass es wichtig ist, die richtige Balance zu finden. Wir sollten genug Zeit für Spiele, Lernen und Entspannung haben. Wenn wir diese Balance finden, fühlen wir uns glücklich und gesund. Glaubst du, dass du diese Balance finden kannst? Ich bin sicher, dass du es kannst!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du eine Lieblingsaktivität, die du außerhalb der Bildschirmzeit machst? Vielleicht ist es Malen, Radfahren oder etwas ganz anderes. Es ist schön, viele verschiedene Dinge zu tun. Was ist deine Lieblingsbeschäftigung? Lass uns gemeinsam darüber nachdenken!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, heute mit dir zu sprechen! Ich hoffe, du hast viel über Bildschirmzeit und digitale Sicherheit gelernt. Vergiss nicht, immer Pausen zu machen und die Welt um dich herum zu genießen. Ich bin stolz auf dich und freue mich darauf, bald wieder mit dir zu sprechen. Bis zum nächsten Mal, kleiner Freund!"
+    }
+  ],
+  "title": "Swamp Buddy Heros Screen Time Geschichte"
+}

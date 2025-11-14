@@ -1,0 +1,104 @@
+{
+  "id": "spark_buddy_imagination_story",
+  "character": "Spark Buddy",
+  "topic": "imagination",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Spark Buddy, senin neşeli ve enerjik arkadaşın. Bugün birlikte imagination yani hayal gücümüzü keşfedeceğiz. Hayal gücü, bir şeyleri kafamızda canlandırmak ve yeni şeyler yaratmak için harika bir yoldur. Sen de benimle bu heyecan verici yolculuğa çıkmak ister misin? Harika, o zaman başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücü, her şeyi mümkün kılar. Örneğin, gözlerinizi kapatıp bir uzay yolculuğuna çıktığınızı düşünebilirsiniz. Belki de dev bir dinozorla arkadaş olup onunla maceralar yaşarsınız. Hayal gücümüz sayesinde, evimizin salonu bir korsan gemisine dönüşebilir. Ne kadar heyecan verici, değil mi? Şimdi hayal gücümüzü daha da geliştirecek şeyler yapabiliriz."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi hayal gücümüzü kullanarak bir hikaye oluşturalım. Öncelikle, bir kahraman seçelim. Bu kahraman bir prenses, bir uzaylı ya da bir sihirli kedi olabilir. Kahramanımızın ne yapmasını istediğini düşün. Belki de bir macera yaşamak ister, ya da bir gizemi çözmek. Hikayemizi oluştururken hayal gücümüzün sınırlarını zorlayalım!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir hikaye oluşturuyorsun! Hayal gücünle yapabileceklerinin sınırı yok. Şimdi kahramanımızın karşılaştığı bir engel düşünelim. Belki de bir dağa tırmanması gerekiyor ya da bir denizi geçmesi. Senin kahramanın bu engeli nasıl aşar? Unutma, senin hayal gücün her zorluğun üstesinden gelebilir!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda kahramanımızın bir engeli aşmasına yardımcı olmuştuk. Şimdi hikayemize biraz daha renk katalım. Belki de kahramanımız bir arkadaş edinir. Bu arkadaş ona yolculuğunda yardımcı olabilir. Arkadaşının nasıl biri olduğunu hayal et. Belki de komik ya da çok cesur biri olabilir. Hayal gücünle bu karakteri oluşturmak çok eğlenceli!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hikayemiz şekillenmeye başladı bile! Şimdi kahramanımız ve arkadaşının nasıl bir macera yaşadığını düşünelim. Belki de kaybolmuş bir hazineyi arıyorlar. Ya da bir krallığı kötü bir büyüden kurtarıyorlar. Senin hayal gücünle bu hikaye nereye gidecek? Her şey senin ellerinde!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hikayeniz nasıl gidiyor? Kahramanımızın şu ana kadar yaşadıklarını benimle paylaşmak ister misin? Belki de yeni bir macera başlatabilirsin. Eğer bir masal yazacak olsaydın, hangi karakterleri eklerdin? Merakla bekliyorum!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda hikayenin nasıl devam edeceğini düşünmüştük. Şimdi hayal gücümüzü biraz daha zorlayalım. Kahramanımızın bir süper gücü olduğunu hayal edelim. Bu güç ona nasıl yardımcı olurdu? Ya da belki de bu güç bazen başını belaya sokabilir. Hayal gücü ile her şey mümkün!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi bir resim çizmeye ne dersin? Hayal gücünle yarattığın hikayeni kağıda dökebilirsin. Kahramanını, arkadaşını ve onların yaşadığı maceraları çiz. Bu çizimler, hayal gücünün somut bir yansıması olacak. Hayal gücümüzü kullanarak sanat yaratmak çok eğlenceli!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkarıyorsun! Çizimlerinle hikayeni daha da canlandırıyorsun. Hayal gücünle oluşturduğun bu dünya gerçekten büyüleyici. Senin gibi yaratıcı bir arkadaşım olduğu için çok mutluyum. Şimdi hayal gücümüzü kullanarak başka neler yapabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda hayal gücümüzle çizimler yapmıştık. Şimdi başka bir oyun oynayalım. Hayal gücümüzle bir bulmaca oluşturalım. Kahramanımızın çözmesi gereken bir gizem olabilir. Belki de kaybolmuş bir anahtarı bulması gerekiyor. Senin hayal gücünle bu bulmacayı nasıl çözerdik?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hikayemiz ve bulmacamız giderek daha da ilginç hale geliyor. Şimdi kahramanımızın nasıl bir sonuca ulaşacağını düşünelim. Belki de tüm krallığı kurtarır ya da kaybolmuş hazinenin sahibi olur. Senin hayal gücünle bu hikaye nasıl sonuçlanacak? Merakla bekliyorum!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hikayenin sonunu benimle paylaşmak ister misin? Kahramanımızın başardığı şeyler neler? Belki de yeni bir maceraya atılır. Eğer sen olsaydın, hikayenin sonunu nasıl yazardın? Düşüncelerini duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hayal gücümüzü kullanarak ne kadar harika şeyler yaptık, değil mi? Her gün hayal gücümüzle yeni dünyalar yaratabiliriz. Oyun oynarken, resim çizerken ya da hikaye anlatırken hayal gücümüzü kullanabiliriz. Hayal gücü, dünyayı daha eğlenceli ve renkli hale getirir. Senin hayal gücünle neler yapabileceğini görmek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugünkü hayal gücü yolculuğumuz burada sona eriyor. Seninle birlikte olmak gerçekten çok eğlenceliydi. Hayal gücünle ne kadar yaratıcı olduğunu görmek beni çok mutlu etti. Unutma, hayal gücünle her gün yeni maceralar yaratabilirsin. Bir sonraki buluşmamızda tekrar görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Spark Buddy'ın Imagination Hikayesi"
+}

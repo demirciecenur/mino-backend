@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_confidence_story",
+  "character": "Bubble Buddy",
+  "topic": "confidence",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Bubble Buddy und heute gehen wir auf ein spannendes Abenteuer über Selbstvertrauen. Bist du bereit? Ich bin so neugierig, mehr über dich zu erfahren! Gemeinsam werden wir lernen, wie wichtig es ist, an sich selbst zu glauben. Lass uns beginnen und die Welt des Selbstvertrauens entdecken!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über Abenteuer gesprochen haben? Heute geht es um ein ganz besonderes Abenteuer: das Abenteuer, mutig zu sein. Selbstvertrauen bedeutet, dass du an dich glaubst, auch wenn etwas schwierig erscheint. Stell dir vor, du versuchst, einen hohen Turm aus Bauklötzen zu bauen. Selbst wenn er umkippt, probierst du es einfach nochmal! Das ist Selbstvertrauen!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns ein wenig über Mut sprechen. Mut bedeutet, dass du Dinge ausprobierst, auch wenn du ein wenig Angst hast. Wie zum Beispiel, wenn du zum ersten Mal mit einem neuen Freund spielst. Es kann aufregend sein, aber auch ein bisschen beängstigend. Doch wenn du es versuchst, wirst du sehen, dass es richtig viel Spaß macht!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig, dass du so mutig bist! Jetzt lass uns zusammen tief einatmen. Eins, zwei, drei, tief einatmen und ausatmen. Fühlst du, wie sich dein Bauch bewegt? Das hilft dir, ruhig zu bleiben und selbstbewusst zu sein. Du kannst das jederzeit machen, wenn du dich ängstlich fühlst."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an die Bauklötze? Wenn du einen Turm baust, brauchst du Geduld und Vertrauen in dich selbst. Manchmal fällt der Turm um, aber das bedeutet nicht, dass du aufgeben sollst. Versuche es einfach noch einmal. Jedes Mal, wenn du es versuchst, wirst du besser und sicherer. Das ist der Weg zu mehr Selbstvertrauen!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über kleine Aufgaben sprechen, die dir helfen können, selbstbewusster zu werden. Wie wäre es, wenn du heute deine Spielsachen ganz alleine aufräumst? Das zeigt, dass du Verantwortung übernehmen kannst. Und wenn du es geschafft hast, wirst du dich richtig stolz fühlen!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar! Du bist so fleißig und mutig. Weißt du, jedes Mal, wenn du eine neue Aufgabe übernimmst, stärkst du dein Selbstvertrauen. Und das Beste daran ist, du kannst jeden Tag ein bisschen mehr lernen und wachsen. Du bist wirklich ein kleiner Held!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal etwas gemacht, das dir zuerst schwer fiel, aber dann hast du es geschafft? Vielleicht ein neues Spiel gelernt oder ein Bild gemalt? Wie hast du dich dabei gefühlt? Warst du stolz auf dich? Diese Momente zeigen, dass du stark und selbstbewusst bist!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns über die Bedeutung von positiven Gedanken sprechen. Wenn du denkst, 'Ich schaffe das!', dann ist das wie ein kleiner Zauberspruch. Es hilft dir, mutig zu sein und neue Dinge auszuprobieren. Sogar wenn etwas schwierig ist, kannst du es schaffen, wenn du an dich glaubst!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt probiere es mal aus: sage laut 'Ich kann das!' Spüre, wie stark diese Worte sind. Du kannst sie immer benutzen, wenn du dich unsicher fühlst. Sie geben dir Kraft und helfen dir, selbstbewusster zu sein. Möchtest du es nochmal probieren?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Jedes Mal, wenn du 'Ich kann das!' sagst, wächst dein Selbstvertrauen ein kleines bisschen mehr. Und weißt du was? Je öfter du es sagst, desto mehr wirst du es glauben. Du bist wirklich wunderbar!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns über Freundschaften sprechen. Wenn du mit Freunden spielst, ist es wichtig, mutig und freundlich zu sein. Vielleicht magst du ein neues Spiel vorschlagen oder jemandem helfen, der Hilfe braucht. Das zeigt, dass du ein guter Freund bist und viel Selbstvertrauen hast."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal einem Freund geholfen oder ein Spiel vorgeschlagen? Wie hat sich das angefühlt? War es nicht toll, zu sehen, wie glücklich dein Freund war? Solche Momente zeigen, wie stark und selbstbewusst du bist!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt denk daran, dass Selbstvertrauen ein bisschen wie ein Muskel ist. Je mehr du ihn benutzt, desto stärker wird er. Jeden Tag kannst du etwas Neues lernen und ausprobieren. Und jedes Mal, wenn du es tust, wächst dein Selbstvertrauen. Du bist wirklich fantastisch!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Selbstvertrauen zu sprechen! Du hast heute so viel gelernt und ich bin so stolz auf dich. Vergiss nicht, dass du alles schaffen kannst, wenn du an dich glaubst. Ich freue mich schon auf unser nächstes Abenteuer. Bis bald, kleiner Freund, und bleib mutig!"
+    }
+  ],
+  "title": "Bubble Buddys Confidence Geschichte"
+}

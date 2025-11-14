@@ -1,0 +1,104 @@
+{
+  "id": "clever_mouse_jerry_friendship_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Clever Mouse Jerry. Bugün birlikte arkadaşlık hakkında harika bir yolculuğa çıkacağız. Arkadaşlık, birlikte oyun oynamak ve paylaşmak demektir. Hazır mısın? Seni çok merak ediyorum. Haydi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, iki ya da daha fazla kişinin birbirini sevmesi ve saygı göstermesiyle başlar. Tıpkı benim ve Tom'un zaman zaman macera yaşaması gibi. Herkesle iyi geçinmek önemlidir çünkü bu, daha fazla oyun arkadaşı edinmemizi sağlar. Arkadaşlar, birlikte eğlenmek ve yeni şeyler öğrenmek için harika birer fırsattır. Senin en iyi arkadaşın kim?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir arkadaş edinmek için önce kendimizi tanıtmalıyız. Mesela, 'Merhaba, ben Jerry!' diyerek başlayabiliriz. Ardından, sevdiğimiz oyunlardan ve oyuncaklardan bahsedebiliriz. Bu, karşımızdaki kişinin de ilgisini çekebilir ve ortak noktalar bulmamıza yardımcı olur. Kendimizi tanıtırken nazik ve güleryüzlü olmak çok önemlidir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte bir oyun oynayalım! Haydi, gözlerini kapat ve en sevdiğin oyuncakları düşün. Onlarla hangi oyunları oynarsın? Harika! Şimdi bu oyunları bir arkadaşınla paylaştığını hayal et. Eminim çok eğlenceli olacaktır!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlarımızla oyun oynarken kurallara uymak önemlidir. Kurallara uyduğumuzda herkes eşit şekilde eğlenir. Mesela, sırayla oynamak ve kazananı tebrik etmek gibi basit kurallar belirleyebiliriz. Bu, oyunun daha keyifli hale gelmesini sağlar. Sen hangi oyunları sırayla oynuyorsun?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda oyunlardan bahsetmiştik. Şimdi, arkadaşlarımızla nasıl daha iyi anlaşabiliriz, bunu konuşalım. Herkesin farklı ilgi alanları olabilir ve bu çok normaldir. Bazen yeni şeyler denemek, arkadaşlarımızı daha iyi anlamamıza yardımcı olabilir. Sen hangi yeni şeyleri denemek istersin?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaşlarımızı dinlemek de çok önemlidir. Onlar konuşurken dikkatlice dinlemek ve söylediklerine değer vermek, iyi bir arkadaş olmanın yollarından biridir. Dinlemek, karşımızdaki kişiye saygı gösterdiğimizi belirtir. Konuşmalar sırasında göz teması kurmak ve gülümsemek de önemlidir."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Haydi şimdi bir nefes alalım ve birlikte gülümseyelim! Derin bir nefes al, nefesini yavaşça ver ve şimdi en büyük gülümsemeni göster! Gülümsemek, arkadaşlarımızla iletişim kurmanın en güzel yollarından biridir. Bu, onların gününü aydınlatır ve onları mutlu eder."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede gülümsemenin öneminden bahsetmiştik. Şimdi paylaşmanın arkadaşlık üzerindeki etkilerini keşfedelim. Paylaşmak, arkadaşlarımızla güçlü bağlar kurmamıza olanak tanır. Oyuncaklarımızı ya da atıştırmalıklarımızı paylaşarak, arkadaşlarımıza ne kadar değer verdiğimizi gösterebiliriz. Sen en son neyi paylaştın?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Birlikte oyun oynarken hangi kurallara dikkat ediyorsun? Herkesin eğlenmesi için hangi kuralları koyuyorsun? Paylaşmak konusunda ne düşünüyorsun? Bunu yaparken nasıl hissediyorsun? Cevaplarını çok merak ediyorum!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hatırlıyor musun, paylaşmanın ne kadar önemli olduğundan bahsetmiştik. Şimdi, arkadaşlarımızla nasıl iyi vakit geçirebileceğimize bakalım. Birlikte parkta oynamak, resim yapmak ya da hikayeler anlatmak, çok eğlenceli olabilir. Herkesin sevdiği bir aktiviteyi seçmek, birlikte daha fazla keyif almamızı sağlar."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda aktivitelerden bahsettik. Şimdi, arkadaşlarımızla yaşadığımız küçük sorunları nasıl çözebiliriz, buna bakalım. Bazen oyun sırasında anlaşmazlıklar yaşayabiliriz. Böyle durumlarda, sakin kalmak ve karşılıklı konuşarak çözümler bulmak en iyisidir. Sen böyle bir durumda ne yaparsın?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Anlaşmazlıkları çözmek için öncelikle karşımızdakini dikkatle dinlemeliyiz. Onların ne hissettiğini anlamak, sorunu çözmemize yardımcı olur. Ardından, kendi hislerimizi ve düşüncelerimizi nazikçe paylaşabiliriz. Bu şekilde, herkesin mutlu olduğu bir çözüm bulabiliriz. Unutma, arkadaşlıkta anlayış ve hoşgörü çok önemlidir."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Haydi şimdi derin bir nefes daha alalım ve birlikte sayalım! Bir, iki, üç, dört, beş... Harikasın! Bu nefes egzersizi, sakinleşmemize ve daha iyi düşünmemize yardımcı olur. Arkadaşlarımızla olan ilişkilerimizde bu tür küçük molalar vermek önemlidir."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün arkadaşlık hakkında harika şeyler öğrendik! Seninle bu yolculuğa çıkmak çok eğlenceliydi. Unutma, iyi bir arkadaş olmak için gülümsemek, dinlemek ve paylaşmak çok önemlidir. Bir dahaki sefere görüşmek üzere, küçük dostum! Seninle tekrar konuşmayı dört gözle bekliyorum. Hoşça kal!"
+    }
+  ],
+  "title": "Clever Mouse Jerry'ın Friendship Hikayesi"
+}

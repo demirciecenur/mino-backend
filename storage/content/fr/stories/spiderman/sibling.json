@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_sibling_story",
+  "character": "Spider Fighter",
+  "topic": "sibling",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Spider Fighter, prêt pour une aventure incroyable sur les frères et sœurs. Tu es prêt ? Aujourd'hui, nous allons explorer comment être un super frère ou une super sœur. C'est comme être un héros dans ta propre famille, n'est-ce pas excitant ? Je suis si curieux d'apprendre tout sur toi et tes frères ou sœurs !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les frères et sœurs, c'est comme avoir des compagnons de jeu à la maison. On peut partager nos jouets, jouer à cache-cache et même inventer des histoires ensemble. Parfois, on se dispute, mais c'est normal. L'important, c'est d'apprendre à dire pardon et à partager. C'est comme être une équipe de super-héros !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour être un bon frère ou une bonne sœur, il faut être gentil et attentionné. Par exemple, quand ton frère ou ta sœur est triste, tu peux lui faire un câlin. Ou si vous jouez, assure-toi que tout le monde s'amuse. C'est comme sauver la journée avec un sourire !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Et si on jouait à un jeu ensemble ? Imagine que nous sommes tous des super-héros et que nous devons travailler ensemble pour sauver la ville. Tu peux inventer une mission spéciale avec ton frère ou ta sœur. C'est amusant de travailler en équipe, tu verras !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi, même les super-héros ont besoin de repos. Parfois, il est bon de s'asseoir tranquillement et de lire un livre ensemble. Ou peut-être que vous pouvez dessiner vos aventures de super-héros. C'est une belle façon de se détendre et de passer du temps ensemble."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu te souviens de la dernière fois où tu as joué avec ton frère ou ta sœur ? Qu'avez-vous fait ensemble ? Peut-être avez-vous construit un fort ou joué à un jeu amusant. C'est toujours agréable de se rappeler de bons moments, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons d'une autre chose importante : le partage. Partager, c'est comme donner un petit morceau de bonheur à quelqu'un d'autre. Par exemple, si tu as deux biscuits, tu peux en donner un à ton frère ou ta sœur. Cela rend les moments encore plus spéciaux !"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super travail ! Tu sais, être un bon frère ou une bonne sœur peut faire une grande différence. Chaque petit geste compte, comme aider à ranger les jouets ou dire merci. Cela montre à quel point tu es un super héros à la maison !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, il est aussi important de savoir écouter. Écouter ton frère ou ta sœur peut t'aider à comprendre ce qu'il ou elle ressent. C'est comme être un détective, en trouvant des indices pour aider. Tu peux découvrir de nouvelles choses ensemble et devenir encore plus proches."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Alors, dis-moi, qu'est-ce que tu aimes le plus faire avec ton frère ou ta sœur ? Est-ce que c'est jouer dehors, ou peut-être cuisiner ensemble ? Tout le monde a des activités préférées, et c'est toujours amusant de les partager. J'aimerais bien savoir ce que tu préfères !"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Quand on pense aux super-héros, on pense souvent à la force et au courage. Mais être un super frère ou une super sœur, c'est aussi être gentil et attentionné. Cela signifie être là quand on a besoin de toi, et toujours montrer de l'amour. C'est vraiment ce qui fait de toi un héros spécial."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Et si nous faisions un petit exercice ensemble ? Prenons trois grandes respirations ensemble. Inspire profondément, et souffle doucement. Cela aide à se calmer et à se sentir mieux, surtout après une longue journée de jeux et d'aventures. Tu te sens mieux maintenant ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les frères et sœurs sont des amis pour la vie. Même quand on grandit et qu'on change, ces souvenirs restent. Ils sont comme des trésors que tu gardes dans ton cœur. Alors, continue d'être un super frère ou une super sœur, et créez ensemble des souvenirs inoubliables !"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as fait un travail formidable aujourd'hui ! Se souvenir d'être gentil, de partager et d'écouter est tellement important. Tu es vraiment un héros dans ta famille, et je suis sûr que tes frères et sœurs le savent aussi. Continue comme ça, petit héros !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Il est temps de dire au revoir maintenant. Merci d'avoir passé ce moment avec moi, Spider Fighter. J'espère que tu as appris beaucoup de choses sur comment être un super frère ou une super sœur. N'oublie jamais que tu es spécial et que tu peux faire une grande différence. À bientôt, petit ami !"
+    }
+  ],
+  "title": "Histoire de Sibling de Spider Fighter"
+}

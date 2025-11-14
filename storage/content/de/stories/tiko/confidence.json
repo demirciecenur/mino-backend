@@ -1,0 +1,98 @@
+{
+  "id": "tiko_confidence_story",
+  "character": "Tiko",
+  "topic": "confidence",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Tiko und heute machen wir eine spannende Reise, um mehr über Selbstvertrauen zu erfahren. Bist du bereit? Ich bin so neugierig auf dich! Gemeinsam werden wir entdecken, wie wir mutig und stark sein können. Lass uns loslegen und Spaß haben!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Selbstvertrauen bedeutet, an sich selbst zu glauben, egal was passiert. Es ist wie ein unsichtbarer Mantel, der uns stark macht. Wenn wir selbstbewusst sind, können wir Dinge ausprobieren, die wir noch nie gemacht haben. Zum Beispiel, wenn du zum ersten Mal auf einem Fahrrad fährst. Es kann ein bisschen beängstigend sein, aber mit jedem Versuch wirst du besser!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns darüber nachdenken, wie wir unser Selbstvertrauen stärken können. Eine Möglichkeit ist, sich kleine Ziele zu setzen. Stell dir vor, du möchtest ein Puzzle machen. Beginne mit den Ecken, das ist einfacher. Wenn du es schaffst, fühlst du dich stolz! Kleine Schritte führen zu großen Erfolgen."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du kannst es schaffen, ich glaube an dich. Manchmal hilft es, tief durchzuatmen und an eine schöne Sache zu denken. Lass uns zusammen dreimal tief ein- und ausatmen. Fühlst du, wie stark du bist? Du bist wunderbar!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über das Fahrradfahren gesprochen haben? Es ist ähnlich wie beim Malen eines Bildes. Am Anfang hast du vielleicht Angst, einen Fehler zu machen. Aber weißt du was? Jeder Pinselstrich macht dich besser. Und am Ende hast du ein wunderschönes Kunstwerk geschaffen!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt, da wir wissen, dass Fehler machen okay ist, können wir noch mehr ausprobieren. Hast du schon einmal versucht, ein neues Spiel zu spielen? Manchmal verlieren wir, aber das gibt uns die Chance, besser zu werden. Jedes Mal, wenn du spielst, lernst du etwas Neues!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du jemals darüber nachgedacht, was dich mutig macht? Ist es, wenn du etwas Neues ausprobierst oder wenn du jemandem hilfst? Vielleicht ist es, wenn du freundlich zu einem Freund bist? Lass uns darüber nachdenken, was Mut bedeutet. Was glaubst du?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Wenn wir mutig sind, können wir anderen helfen und neue Freunde finden. Erinnerst du dich an das letzte Mal, als du einem Freund geholfen hast? Vielleicht hast du ihm gezeigt, wie man ein Spiel spielt oder ihm ein Buch vorgelesen. Solche Taten machen uns stolz und stärken unser Selbstvertrauen."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns eine kleine Übung machen. Stell dir vor, du bist ein Baum, der fest in der Erde steht. Breite deine Arme aus wie Äste. Spürst du, wie stark du bist? Bäume sind immer da, egal ob Wind oder Regen kommt. Sie stehen fest und stark, genau wie du!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das toll! Wenn du dich unsicher fühlst, erinnere dich daran, dass du wie der starke Baum bist. Du kannst alles schaffen, wenn du es versuchst. Glaub an dich selbst, und du wirst erstaunt sein, was du alles erreichen kannst!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir wissen, wie wir unser Selbstvertrauen stärken können, lass uns darüber nachdenken, wie wir anderen helfen können. Wenn du siehst, dass ein Freund traurig ist, kannst du ihm ein Lächeln schenken. Ein einfaches Lächeln kann den Tag eines anderen heller machen und auch dir ein gutes Gefühl geben."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Manchmal brauchen auch unsere Freunde ein wenig Ermutigung. Du kannst ihnen sagen, dass sie es schaffen können. Vielleicht möchtest du mit ihnen ein Spiel spielen oder ihnen eine Geschichte erzählen. Gemeinsam könnt ihr viel erreichen und euch gegenseitig stark machen."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns zum Abschluss darüber nachdenken, wie wir jeden Tag ein bisschen Selbstvertrauen aufbauen können. Vielleicht möchtest du jeden Abend drei Dinge aufschreiben, auf die du stolz bist. Es kann etwas Kleines sein, wie das Aufräumen deines Zimmers. Jeder Erfolg zählt und macht dich stärker!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Das war eine tolle Reise, nicht wahr? Ich hoffe, du fühlst dich jetzt mutiger und selbstbewusster. Denk daran, dass du alles erreichen kannst, wenn du an dich glaubst. Ich freue mich schon auf unser nächstes Abenteuer. Bis bald, kleiner Freund!"
+    }
+  ],
+  "title": "Tikos Confidence Geschichte"
+}

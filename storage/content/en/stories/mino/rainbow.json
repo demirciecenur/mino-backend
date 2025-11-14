@@ -1,0 +1,104 @@
+{
+  "id": "mino_rainbow_story",
+  "character": "Mino",
+  "topic": "rainbow",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little adventurers! I'm Mino, your friendly space explorer. Today, we're going to embark on a colorful journey together. Have you ever seen a rainbow? They're so magical and full of colors! We're going to learn all about how rainbows are made and what makes them so special. Are you ready to start this colorful adventure with me?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rainbows are like a big, bright smile in the sky. They appear when the sun shines through raindrops, creating a beautiful arc of colors. Can you imagine the sun and the rain working together to make something so pretty? Each color shines brightly, making the world look like a magical painting. Have you ever tried to count how many colors are in a rainbow?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let’s learn about the colors of the rainbow. There are seven colors that make up a rainbow. They are red, orange, yellow, green, blue, indigo, and violet. Isn’t it amazing how these colors always appear in the same order? Next time you see a rainbow, try to remember their names and see if you can spot them all!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let’s try something fun together. Can you think of things around you that are the same colors as a rainbow? Like a juicy orange, or a bright yellow sun? Take a moment to look around and find something for each color. Great job, you’re doing fantastic! Rainbows remind us to notice the beautiful colors all around us."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about how rainbows are made? It’s like a little science experiment happening right in the sky! The raindrops act like tiny prisms, bending and splitting the sunlight into all those colors. Isn’t it fascinating how nature creates such wonders? Next time it rains and the sun peeks out, look up and see if you can spot a rainbow!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let’s imagine we’re painting a rainbow. First, we need to start with a big, bright red, just like a juicy apple. Then, we add a splash of orange, like the sunset. Next comes yellow, bright and sunny. Followed by green, like fresh grass. Then we have blue, clear as the sky. Indigo, which is a deep blue, and finally, violet, like a pretty flower. What a masterpiece you’ve painted with your imagination!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing so well on our rainbow journey! Rainbows teach us about light and color, but they also remind us of hope and happiness. Just like how a rainbow appears after a rainstorm, it shows us that something beautiful can come after a gloomy day. Isn’t that a wonderful thought? Keep looking for the rainbows in your life, both in the sky and in your heart."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever tried to find the end of a rainbow? Some people say there’s a pot of gold waiting there. What do you think? Would you like to go on a treasure hunt and see what you can discover? Even if we can’t reach the end, the adventure of exploring is always fun and exciting. What treasures might you find along the way?"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now that we’ve talked about rainbows, let’s think about how we can create our own little rainbows at home. Did you know you can make a rainbow with a glass of water and a sunny day? Just hold the glass up to the sunlight and watch as the colors dance around the room. Isn’t that magical? Try it out and see what colors you can catch!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rainbows are not just beautiful; they also bring people together. When a rainbow appears, everyone stops to admire it, sharing smiles and joy. It’s like nature’s way of bringing happiness to everyone who sees it. Next time you see a rainbow, share that moment with someone you love. It will make the rainbow even more special."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let’s take a moment to imagine what it would be like to slide down a rainbow. Would it be soft and fluffy like clouds? Or maybe it would be slippery and fun like a slide in the playground. Close your eyes and picture yourself zooming down, surrounded by all those beautiful colors. What a thrilling ride that would be!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’ve learned so much about rainbows today! Remember, rainbows are a reminder of how light and water can create something spectacular. Keep looking for the beauty in the world around you, whether it’s in the sky or in your everyday adventures. You’re doing an amazing job of exploring and discovering new things. Keep up the great work!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite color in the rainbow? Maybe you love the bright red or the calming blue. Or perhaps you like the mysterious indigo. Whatever your favorite is, each color is unique and special, just like you. Why do you think you like that color the most? It’s fun to think about how colors can make us feel happy and excited."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we know so much about rainbows, let’s think about how we can be like rainbows too. We can spread joy and happiness to others, just like a rainbow brightens the sky. By being kind and friendly, we can make our world a more colorful place. How about we try to be someone’s rainbow today by sharing a smile or a helping hand?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our rainbow adventure has come to an end, but the magic of rainbows will stay with us. Thank you for exploring this colorful journey with me, Mino. Remember to always look for the rainbows in your life and share that joy with others. Until next time, keep shining bright and spreading your own colors in the world. Goodbye, little explorers, and see you on our next adventure!"
+    }
+  ],
+  "title": "Mino's Rainbow Story"
+}

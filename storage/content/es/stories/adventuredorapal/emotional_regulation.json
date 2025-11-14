@@ -1,0 +1,104 @@
+{
+  "id": "adventure_dora_pal_regulación_emocional_manejo_de_emociones_calmarse_autorregulación_story",
+  "character": "Adventure Dora Pal",
+  "topic": "regulación emocional, manejo de emociones, calmarse, autorregulación",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguito! Soy tu amiga, Adventure Dora Pal. Hoy vamos a explorar un tema muy especial: cómo entender y manejar nuestras emociones. A veces, podemos sentirnos tristes, enojados o felices, y eso está bien. Lo importante es aprender cómo calmarnos y sentirnos mejor. ¿Estás listo para esta aventura?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, vamos a hablar sobre las emociones. Las emociones son como los colores del arcoíris, ¡hay muchas! Podemos sentir felicidad, tristeza, enojo, y muchas más. A veces, estas emociones pueden ser muy grandes, como una montaña. Pero no te preocupes, porque aprenderemos cómo manejarlas juntos. ¿Te ha pasado que te sientes como un volcán a punto de explotar?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando nos sentimos como un volcán, podemos usar la respiración para calmarnos. Vamos a hacer un ejercicio juntos. Inhala profundamente por la nariz como si estuvieras oliendo una flor. Ahora, exhala lentamente por la boca como si estuvieras soplando una vela. ¿No es relajante? Vamos a hacerlo otra vez, ¿listo?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Respirar así nos ayuda a calmarnos cuando estamos enojados o tristes. Recuerda que puedes hacer esto siempre que lo necesites. Puedes contar hasta cinco mientras inhalas y exhalas. ¡Tú puedes hacerlo! Ahora, vamos a practicarlo juntos, ¿te parece?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablemos de cómo las emociones pueden cambiar. A veces, podemos estar felices y luego sentirnos tristes. Es como si el sol se escondiera detrás de una nube. Pero eso está bien, porque las emociones siempre cambian. Lo importante es saber que podemos manejarlas y calmarnos. ¿Has notado cómo cambia el clima en un día?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando te sientas triste, puedes hacer cosas que te hagan sentir mejor. Como dibujar un bonito arcoíris o escuchar tu canción favorita. Estas actividades ayudan a cambiar nuestros sentimientos. Es como cuando usas una linterna para iluminar un cuarto oscuro. ¿Te gustaría intentar hacer algo divertido cuando te sientas triste?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué idea tan maravillosa! Hacer cosas que nos gustan nos ayuda a sentirnos felices de nuevo. Recuerda, siempre puedes elegir cómo quieres sentirte. Tienes el poder de cambiar tus emociones, como un superhéroe. ¡Eres increíble! Vamos a pensar en más cosas que nos hagan felices, ¿quieres?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en cómo podemos ayudar a nuestros amigos cuando están tristes o enojados. Podemos ofrecerles un abrazo o jugar con ellos. A veces, solo necesitan que los escuchemos. Es importante ser un buen amigo y estar allí para ellos. ¿Cómo ayudas tú a tus amigos cuando no se sienten bien?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas alguna vez en la que ayudaste a un amigo a sentirse mejor? Tal vez le diste un juguete o compartiste tu merienda. ¡Eso es ser un gran amigo! Ayudar a los demás también nos hace sentir bien a nosotros. ¿Te gustaría compartir una historia sobre cómo ayudaste a alguien?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Es hermoso escuchar tus historias de amistad. Todos necesitamos amigos que nos ayuden a manejar nuestras emociones. Ser amable y comprensivo es muy importante. Recuerda, puedes ser un gran amigo solo con escuchar. Ahora, ¿te gustaría aprender más sobre cómo calmarte?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a intentar otra técnica para calmarnos. Se llama 'la estrella mágica'. Abre tu mano como si fuera una estrella. Con el dedo de la otra mano, traza cada dedo lentamente mientras respiras. Sube por un dedo mientras inhalas, y baja mientras exhalas. Esta técnica nos ayuda a concentrarnos y calmarnos. ¿Quieres intentarlo conmigo?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo hiciste genial! La estrella mágica es una herramienta poderosa para la calma. Puedes usarla en cualquier momento, como antes de dormir o cuando te sientas nervioso. Recuerda que siempre puedes calmarte con un poco de práctica. ¡Tú eres capaz de lograrlo! ¿Te sientes más tranquilo ahora?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos tantas formas de calmarnos, podemos compartirlas con otros. Puedes enseñar a tus amigos o familiares lo que aprendimos hoy. Juntos, podemos crear un mundo más tranquilo y feliz. ¡Imagina cuántas personas podemos ayudar! ¿A quién te gustaría enseñar sobre la calma?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Es genial que quieras compartir lo que has aprendido. Enseñar a otros nos ayuda a recordar lo que sabemos. Además, es una forma de mostrar amor y cuidado hacia los demás. ¡Estoy muy orgullosa de ti! Ahora, vamos a prepararnos para despedirnos. Pero recuerda, siempre estaré aquí para explorar y aprender contigo."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Gracias por acompañarme en esta aventura sobre las emociones. Aprendimos cómo calmarnos y ayudar a nuestros amigos. Recuerda respirar profundamente y usar la estrella mágica cuando lo necesites. Eres un explorador maravilloso, y siempre puedes contar conmigo. ¡Hasta la próxima aventura, amiguito! ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Emotional Regulation de Adventure Dora Pal"
+}

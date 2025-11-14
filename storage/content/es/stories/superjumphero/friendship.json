@@ -1,0 +1,104 @@
+{
+  "id": "super_jump_hero_friendship_story",
+  "character": "Super Jump Hero",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Super Jump Hero. Hoy vamos a embarcarnos en una aventura increíble sobre la amistad. La amistad es algo muy especial que nos hace sentir felices y acompañados. ¿Estás listo para descubrirlo juntos? Estoy muy emocionado de compartir este viaje contigo. ¡Vamos a saltar a la aventura!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad es como un puente que nos conecta con otros. Nos ayuda a compartir momentos divertidos y aprender cosas nuevas. Cuando tenemos amigos, podemos jugar juntos y explorar el mundo. ¿Te gusta jugar en el parque con tus amigos? Seguro que sí, porque es muy divertido. Ahora, imagina que cada amigo es como un tesoro que encontramos."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para ser un buen amigo, es importante escuchar y compartir. Escuchar significa prestar atención cuando alguien nos habla. Compartir es cuando damos un poco de lo que tenemos, como juguetes o tiempo. ¿Has compartido alguna vez tus juguetes con un amigo? Es una forma maravillosa de mostrar que te importa. Vamos a intentarlo la próxima vez que juguemos."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Tú puedes ser un amigo increíble! Cuando juegas con otros, recuerda ser amable y paciente. Si alguien está triste, puedes darle un gran abrazo. Los abrazos son mágicos porque hacen que todos se sientan mejor. ¿No es genial cómo un simple abrazo puede cambiar el día de alguien? ¡Tú puedes hacerlo, confío en ti!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de cómo hacemos nuevos amigos. A veces, conocer a alguien nuevo puede dar un poco de miedo. Pero, si sonríes y dices 'hola', puedes hacer que esa persona se sienta bienvenida. ¿Te gustaría probarlo la próxima vez que veas a alguien nuevo? Seguro que harás un nuevo amigo en un abrir y cerrar de ojos."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando jugamos juntos, es importante tomar turnos y ser justos. Si estás jugando a un juego, deja que todos tengan su oportunidad de jugar. Esto hace que todos se sientan incluidos y felices. ¿Alguna vez has jugado a un juego donde todos siguieron las reglas? Es mucho más divertido así, ¿verdad? Vamos a practicar esto siempre."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Eres un amigo fantástico! Cada vez que ayudas a alguien, haces del mundo un lugar mejor. La amistad se construye con pequeños actos de bondad. Como cuando ayudas a recoger los juguetes después de jugar. ¿No es maravilloso ver cómo las pequeñas cosas pueden hacer una gran diferencia? ¡Sigue así, lo estás haciendo genial!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te has preguntado alguna vez qué hace a un amigo especial? Es alguien que te hace reír, te escucha y siempre está ahí para ti. ¿Tienes algún amigo que sea así? Seguro que sí, porque todos necesitamos alguien especial en nuestras vidas. ¿Y sabes qué? ¡Tú también puedes ser ese amigo especial para alguien más!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Recordemos lo que hemos aprendido hasta ahora. Ser amable, compartir, escuchar y tomar turnos son claves para una gran amistad. ¿Recuerdas alguna vez que hayas hecho algo amable por un amigo? Seguro que sí, y apuesto a que hizo sonreír a tu amigo. Vamos a seguir practicando estas habilidades maravillosas."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en los momentos divertidos que podemos crear con nuestros amigos. Podemos hacer picnics, jugar a los juegos de mesa o incluso crear nuestras propias historias. ¿Te gustaría inventar una historia con tus amigos? ¡Claro que sí! Las historias son una manera fantástica de usar nuestra imaginación juntos."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Es importante recordar que a veces los amigos pueden tener desacuerdos. Eso es normal, pero siempre podemos hablarlo y solucionarlo. Decir 'lo siento' y perdonar es parte de ser un buen amigo. ¿Alguna vez te has disculpado con un amigo? Seguro que sí, y eso es muy valiente. Sigamos practicando el perdón."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Cada día es una nueva oportunidad para ser un mejor amigo. Recuerda que cada pequeño esfuerzo cuenta mucho. Como cuando ayudas a alguien a levantarse si se cae. ¿No es genial saber que puedes hacer la diferencia en el día de alguien? ¡Tú puedes ser un héroe de la amistad!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría aprender una canción sobre la amistad? Las canciones son una manera divertida de recordar lo importante que es tener amigos. ¿Te gustaría cantar con tus amigos? Seguro que sí, porque cantar juntos es muy divertido. ¡Cantar une a las personas y nos hace sonreír!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que sabemos tanto sobre la amistad, vamos a practicar lo que hemos aprendido. Podemos empezar por sonreír y saludar a alguien nuevo. Esto puede ser el comienzo de una nueva amistad. ¿No es emocionante pensar en todas las aventuras que podemos tener con nuevos amigos? ¡Vamos a intentarlo!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "¡Ha sido una aventura maravillosa aprender sobre la amistad contigo! Recuerda que cada día es una nueva oportunidad para ser un buen amigo. Estoy muy orgulloso de todo lo que hemos aprendido juntos. Espero que sigas practicando estos consejos y hagas muchos amigos. ¡Hasta la próxima, pequeño amigo! ¡Sigue saltando hacia la amistad!"
+    }
+  ],
+  "title": "Historia de Friendship de Super Jump Hero"
+}

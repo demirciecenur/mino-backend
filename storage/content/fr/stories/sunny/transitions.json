@@ -1,0 +1,104 @@
+{
+  "id": "sunny_transitions_story",
+  "character": "Sunny",
+  "topic": "transitions",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Sunny. Aujourd'hui, nous allons découvrir le monde magique des transitions. Les transitions, ce sont les moments où les choses changent un peu dans notre journée. Comme quand on passe du jeu au repas, ou du bain au coucher. Es-tu prêt pour cette aventure passionnante? J'ai hâte de te montrer combien ces moments peuvent être amusants et enrichissants!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions peuvent sembler un peu étranges au début, mais elles sont très importantes. Imagine que chaque jour est comme une belle histoire, et les transitions sont les pages qui tournent pour nous emmener à la prochaine aventure. Par exemple, quand tu termines de jouer avec tes jouets et que tu te prépares pour le dîner, c'est une transition. Ça te permet de te reposer et de prendre des forces pour la suite. Alors, n'est-ce pas merveilleux de penser que chaque transition est une nouvelle opportunité?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment rendre les transitions plus faciles et plus amusantes. Une bonne idée est de créer des petites chansons ou des jeux. Par exemple, quand il est temps de ranger tes jouets, tu peux chanter une chanson joyeuse. Ou bien, tu peux compter jusqu'à dix pendant que tu mets tes livres en ordre. Ces petites astuces rendent le changement plus doux et agréable. Essaie la prochaine fois et tu verras comme c'est amusant!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Et si on essayait ensemble? Imaginons que c'est l'heure de se brosser les dents. On peut le faire en dansant ou en chantant une chanson rigolote. Prêt? Commençons par prendre notre brosse à dents et faisons semblant de danser comme des étoiles. Tu vois, les transitions peuvent être tellement amusantes! Tu es formidable à trouver des façons créatives de rendre les choses plus joyeuses."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi de la dernière fois où tu es passé de l'école à la maison. Ça, c'est une transition aussi! Peut-être que tu as rangé ton cartable et changé tes chaussures. Ces petites étapes t'aident à te préparer pour une nouvelle partie de la journée. Chaque transition est comme une petite aventure qui te prépare pour ce qui vient après. Alors, continue à les accueillir avec un grand sourire!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Il est aussi important d'écouter ton corps pendant les transitions. Parfois, on se sent un peu fatigué ou triste quand on doit arrêter quelque chose qu'on aime. Une bonne astuce est de prendre trois grandes respirations. Inspirons profondément ensemble. Voilà, c'est mieux, non? Ces respirations nous aident à nous sentir calmes et prêts pour la suite."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dis-moi, as-tu déjà essayé une nouvelle activité, comme apprendre à faire du vélo ou jouer à un nouveau jeu? Comment t'es-tu senti quand tu as commencé? Parfois, essayer quelque chose de nouveau peut être un peu effrayant, mais c'est aussi très excitant. Qu'est-ce que tu as appris de cette expérience? J'aimerais beaucoup entendre ton histoire!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions ne se passent pas seulement dans notre journée, mais aussi dans notre croissance. Par exemple, au fur et à mesure que tu grandis, tu apprends de nouvelles choses et deviens plus fort. C'est une grande aventure de voir comment tu changes et évolues chaque jour. Les transitions nous aident à découvrir qui nous sommes et ce que nous pouvons faire. Alors, crois en toi et dans toutes les choses merveilleuses que tu peux accomplir!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "As-tu remarqué que même la nature a ses propres transitions? Par exemple, le passage de l'été à l'automne, quand les feuilles changent de couleur. C'est un merveilleux exemple de la beauté des transitions. Chaque saison apporte de nouvelles couleurs et de nouvelles sensations. Peut-être as-tu un arbre préféré que tu aimes observer pendant ces changements. Que vois-tu quand tu regardes dehors?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Et si on jouait à un petit jeu? Fermons les yeux et imaginons que nous sommes des papillons. Pendant la journée, nous volons de fleur en fleur, et chaque fois que nous nous posons, c'est une transition. Prêt? Allons-y! Tu vois, les transitions peuvent être aussi légères et joyeuses que le vol d'un papillon. Bravo, tu es un excellent papillon!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, les transitions peuvent être un peu difficiles, et c'est tout à fait normal. Tu peux toujours demander de l'aide à un adulte si tu te sens perdu. Les adultes sont là pour te soutenir et t'aider à trouver des solutions qui rendent les transitions plus faciles. Ensemble, vous pouvez créer de nouvelles routines qui rendent chaque changement agréable. Souviens-toi, tu n'es jamais seul dans ces moments!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour rendre les transitions plus douces, essayons de créer une routine amusante. Par exemple, avant de dormir, tu peux lire une histoire ou écouter une chanson douce. Ces petites habitudes aident notre corps à comprendre qu'il est temps de se détendre. Essaie de choisir une activité que tu aimes et qui te calme. Ça rendra chaque transition plus agréable et réconfortante."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Te souviens-tu de la dernière fois que tu as dit au revoir à un ami après avoir joué? C'est une transition aussi. Dire au revoir peut être difficile, mais cela signifie aussi que tu pourras le revoir bientôt. Pense à toutes les nouvelles histoires que tu pourras partager la prochaine fois! Les transitions sont pleines de promesses et de nouvelles aventures à venir."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu un moment préféré de la journée, comme le matin ou l'après-midi? Pourquoi aimes-tu ce moment particulier? Parfois, ce sont les transitions qui rendent ces moments spéciaux, comme le lever du soleil qui illumine tout de sa lumière dorée. Que dirais-tu de créer un petit rituel pour célébrer ce moment? J'aimerais connaître tes idées!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir exploré les transitions avec moi aujourd'hui! J'espère que tu as appris plein de choses et que tu te sens prêt à affronter chaque transition avec joie et confiance. Souviens-toi que chaque changement est une nouvelle aventure qui t'attend. Je suis si fier de toi et de tout ce que tu fais. Au revoir, petit ami, et à très bientôt pour de nouvelles aventures passionnantes!"
+    }
+  ],
+  "title": "Histoire de Transitions de Sunny"
+}

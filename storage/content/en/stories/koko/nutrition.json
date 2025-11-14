@@ -1,0 +1,104 @@
+{
+  "id": "koko_nutrition_story",
+  "character": "Koko",
+  "topic": "nutrition",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little heroes! I'm Koko, your friendly guide to the world of nutrition. Today, we're setting out on a grand adventure to discover how food can make us strong and healthy. Are you excited? I know I am! Together, we'll learn about the power of fruits, vegetables, and even the magic of water. So, put on your thinking cap, and let's dive into this tasty journey!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about why eating a rainbow of fruits and vegetables is so important. Each color in your fruits and veggies gives you different vitamins and minerals. For example, oranges and carrots are full of vitamin C, which helps you fight off colds and stay healthy. Green veggies like broccoli and spinach are packed with iron, which helps your muscles grow strong. Eating a variety of colors ensures you get all the nutrients your body needs to be a superhero every day."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about oranges and carrots? Let's learn how to include them in our meals. You can start your day with a glass of orange juice. It's a refreshing way to wake up your body. For lunch, try adding some carrot sticks to your plate. They're crunchy and fun to eat! And don't forget, a handful of spinach in your dinner can make your meal super nutritious. These little changes can make a big difference in keeping you strong and healthy."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about healthy foods! Now, let's talk about something just as important: water. Did you know that drinking water helps your body stay cool and your brain think clearly? It's true! Just like a plant needs water to grow, our bodies need water to function well. So, let's make a promise to drink plenty of water every day. You can do it, little hero!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our journey by understanding what happens when we eat. Our stomachs are like tiny factories that turn food into energy. This energy helps us run, play, and even learn new things. When we eat a balanced meal with proteins, carbs, and fats, our bodies get the fuel they need. Proteins are like building blocks for our muscles, while carbs give us energy, and fats help our brains grow. Isn't it amazing how food works?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's explore how we can make snack time healthy and fun. Instead of reaching for cookies, why not try a banana or a handful of nuts? These snacks are packed with energy and nutrients. You can even create your own fruit salad by mixing your favorite fruits. Add a little yogurt for some extra flavor and nutrition. These healthy snacks will keep you energized and ready for any adventure."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning about nutrition! Let's keep going by talking about breakfast. Breakfast is like a superhero's fuel. It gives you the energy to start your day. A good breakfast can include oatmeal, eggs, or even a smoothie. These foods help you focus and stay active throughout the day. Remember, a strong start can lead to a great day ahead!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about the importance of eating together as a family. Eating meals together can make them more enjoyable and give you a chance to talk about your day. It also helps you learn about different foods and how they taste. When you share a meal, you can try new foods and discover what you like. Plus, it's a great way to spend time with your loved ones and create happy memories."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite fruit or vegetable? I bet you do! Maybe it's a juicy apple or a sweet strawberry. Think about how you can add that favorite food to your meals. Would you like to try it in a smoothie or maybe as a topping on your cereal? There are so many fun ways to enjoy your favorite healthy foods. What's your favorite way to eat them?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's explore the idea of trying new foods. Sometimes, new foods can seem strange, but they can be delicious! It's like going on a taste adventure. Maybe you've never tried kiwi or avocado. Trying new foods can help your taste buds grow and discover new flavors. Remember, every superhero tries new things to become even stronger. Are you ready to be brave and try something new?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's learn about portion sizes. It's important to eat the right amount of food to stay healthy. Imagine your plate as a puzzle, with each piece representing a different food group. Fill half of it with fruits and vegetables, a quarter with proteins, and the last quarter with grains. This balance helps you get all the nutrients you need without overeating. Let's try to build a healthy plate together!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well on this nutrition journey! Keep up the great work by making smart food choices every day. Remember, every meal is a chance to give your body the nutrients it needs. Whether it's breakfast, lunch, or dinner, choose foods that make you feel strong and happy. You have the power to make healthy choices and be a nutrition superhero!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you made a healthy food choice? Maybe you chose an apple instead of a cookie or drank water instead of soda. These choices help your body stay strong and healthy. How did it make you feel? Remember, every healthy choice is a step toward becoming the best version of yourself. What healthy choice will you make today?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we wrap up our adventure, let's remember the importance of balance. Eating a variety of foods helps our bodies get everything they need. It's like building a strong team, where each food plays a special role. Together, they help you grow, learn, and have fun. So, let's aim to eat a balanced diet every day and become the healthiest superheroes we can be!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this fantastic journey through the world of nutrition. Remember, you have the power to make healthy choices and be strong every day. I'm proud of you for learning so much about how to fuel your body. Keep exploring, keep trying new foods, and keep being the amazing superhero that you are. Until next time, stay healthy and happy! Goodbye, little heroes!"
+    }
+  ],
+  "title": "Koko's Nutrition Story"
+}

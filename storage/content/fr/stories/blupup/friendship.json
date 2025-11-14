@@ -1,0 +1,104 @@
+{
+  "id": "blu_pup_friendship_story",
+  "character": "Blu Pup",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Blu Pup. Aujourd'hui, nous allons explorer le monde merveilleux de l'amitié. Êtes-vous prêt pour cette aventure amusante ? Je suis tellement curieux de savoir comment vous vous faites des amis. Ensemble, nous allons découvrir ce que signifie être un bon ami. Allons-y avec joie et enthousiasme !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est comme un jardin. Plus on en prend soin, plus elle grandit. Pensez à vos amis comme à de belles fleurs qu'il faut arroser de gentillesse et d'attention. Quand vous jouez ensemble, partagez vos jouets et écoutez ce que vos amis disent, vous faites pousser votre jardin d'amitié. N'est-ce pas merveilleux de voir comment un petit geste peut faire une grande différence ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment nous pouvons être de bons amis. Être un bon ami signifie écouter quand quelqu'un parle. Cela signifie aussi dire des mots gentils, comme \"Merci\" ou \"S'il te plaît\". Quand vous voyez un ami qui a besoin d'aide, vous pouvez lui tendre la main. Par exemple, si un ami tombe, vous pouvez l'aider à se relever. Être un bon ami, c'est être là l'un pour l'autre."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons ensemble quelque chose de amusant ! Imaginez que nous sommes en train de jouer au parc. Que feriez-vous si vous voyez un nouvel enfant qui joue seul ? Peut-être pourriez-vous lui demander de se joindre à vous. Dire \"Veux-tu jouer avec nous ?\" peut faire toute la différence. Quel courage vous avez ! Inviter quelqu'un à jouer est une belle façon de commencer une amitié."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous la dernière fois que nous avons parlé de partager ? Partager, c'est un peu comme donner un cadeau à un ami. Quand vous partagez votre jouet préféré, vous montrez que vous vous souciez de l'autre. Imaginez que vous avez un grand gâteau au chocolat. Partager ce gâteau avec vos amis rend tout le monde heureux. La joie de partager est contagieuse, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant d'écouter. Quand un ami vous parle, il est important de bien écouter. Cela signifie regarder votre ami et attendre qu'il ait fini de parler avant de répondre. Écouter montre à votre ami que vous vous intéressez à ce qu'il dit. Parfois, écouter peut même aider à résoudre des problèmes. Quand vous écoutez, vous apprenez beaucoup sur vos amis et leurs sentiments."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail incroyable en apprenant à être un bon ami ! N'oubliez pas de toujours être vous-même. Vos amis vous aiment pour qui vous êtes. Quand vous êtes heureux, partagez ce bonheur avec vos amis en souriant ou en riant ensemble. Un sourire peut illuminer la journée de quelqu'un. Continuez à être cette personne spéciale que vous êtes !"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Il y a aussi des moments où vos amis peuvent être tristes. Que feriez-vous dans ces moments-là ? Vous pouvez leur offrir un câlin ou simplement être là pour eux. Dire \"Je suis là pour toi\" peut vraiment réconforter un ami. Être un ami, c'est parfois juste être présent. Les amis nous aident à traverser les moments difficiles et à savourer les moments heureux."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous un ami spécial à qui vous aimez parler ? Qu'est-ce qui rend votre amitié si spéciale ? Peut-être que vous aimez les mêmes jeux ou que vous riez des mêmes blagues. Pensez à un moment où vous vous êtes senti très heureux avec votre ami. Pourquoi ne pas partager cette histoire avec quelqu'un aujourd'hui ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de jouer ensemble. Jouer ensemble est une belle façon de renforcer l'amitié. Que ce soit en construisant des châteaux de sable ou en jouant à cache-cache, le jeu nous rapproche. Quand nous jouons, nous apprenons à travailler ensemble et à résoudre des problèmes. Le jeu est comme une aventure que nous partageons avec nos amis."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous quand nous avons parlé d'inviter quelqu'un à jouer ? C'est aussi important de respecter quand un ami veut jouer seul. Parfois, nous avons tous besoin de temps pour nous. Respecter cela montre que vous êtes un bon ami. Cela signifie que vous comprenez les besoins de vos amis et que vous les respectez."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les amis sont comme des étoiles dans le ciel. Parfois, vous ne les voyez pas, mais vous savez qu'ils sont toujours là. Avoir des amis signifie ne jamais se sentir seul. Pensez à vos amis et à la façon dont ils illuminent votre vie. Les amis rendent chaque jour plus lumineux et plus joyeux. N'est-ce pas merveilleux d'avoir des amis qui sont toujours là pour vous ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez appris tellement de choses sur l'amitié aujourd'hui ! Je suis certain que vous allez être un ami formidable. N'oubliez pas de sourire, de partager, et d'écouter. Chaque petit geste compte. Vous avez le pouvoir de rendre vos amis heureux. Continuez à être vous-même et à répandre la joie autour de vous !"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Pensez à un nouveau jeu que vous aimeriez essayer avec vos amis. Quel genre de jeu serait amusant pour tout le monde ? Peut-être un jeu où tout le monde peut participer et s'amuser. Partagez cette idée avec vos amis et voyez comment ils réagissent. Vous pourriez découvrir un nouveau jeu préféré ensemble !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé du temps avec moi aujourd'hui. J'ai adoré parler de l'amitié avec vous. Vous êtes un incroyable petit ami, et je suis sûr que vous faites sourire vos amis chaque jour. N'oubliez pas d'être gentil et de partager votre bonheur. À bientôt pour de nouvelles aventures ! Au revoir, mon ami !"
+    }
+  ],
+  "title": "Histoire de Friendship de Blu Pup"
+}

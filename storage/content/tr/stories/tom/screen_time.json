@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_screen_time_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "screen_time",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Sneaky Cat Tom. Bugün birlikte ekran süresi hakkında harika bir yolculuğa çıkacağız. Sen de benimle gelmek ister misin? Hazır mısın? Seni çok merak ediyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekran süresi, televizyon, tablet veya bilgisayar gibi cihazlarla ne kadar zaman geçirdiğimizdir. Bunlar çok eğlenceli olabilir, değil mi? Ancak, ekran başında çok fazla zaman geçirmek bazen gözlerimizi yorabilir. Bu yüzden, ekran süremizi dengelemek çok önemlidir. Şimdi ekran süresini nasıl dengede tutabileceğimizi keşfedelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresini dengelemek için belirli kurallar koyabiliriz. Örneğin, her gün belirli bir süre ekran başında kalmaya karar verebiliriz. Bu bize hem oyun oynamak hem de diğer aktiviteler için zaman kazandırır. Ayrıca, ekran başında geçirdiğimiz süreyi takip eden bir zamanlayıcı kullanabiliriz. Böylece, ekran süremizi kontrol altında tutabiliriz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi birlikte bir oyun oynayalım! Şimdi ekran süremizi nasıl azaltabileceğimizi düşünelim. Mesela, ekran başında geçirdiğimiz zamanı, dışarıda oyun oynayarak ya da kitap okuyarak değerlendirebiliriz. Bu tür aktiviteler hem eğlenceli hem de sağlıklı. Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda ekran süresini nasıl dengeleyebileceğimizi konuşmuştuk. Şimdi, ekran süremizi azaltırken neler kazanabileceğimizden bahsedelim. Daha fazla hareket etmek, arkadaşlarımızla oynamak ve yeni şeyler öğrenmek için zaman bulabiliriz. Bu aktiviteler bize çok şey katabilir. Sen de böyle hissediyor musun?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran süresini azaltmanın bir başka yolu da, belirli günlerde ekran kullanmama kararı almaktır. Örneğin, her hafta bir gün ekran detoksu yapabiliriz. Bu, ekranlardan uzak durarak farklı deneyimler yaşamamıza olanak tanır. Bu süre zarfında ailemizle oyunlar oynayabiliriz. Bu sana nasıl geliyor?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Haydi şimdi birlikte bir nefes alalım! Üç derin nefes alarak sakinleşelim. Birlikte nefes alırken, ekran süremizi nasıl daha eğlenceli ve verimli hale getirebileceğimizi düşünelim. Bu tür küçük molalar, ekran başında geçirdiğimiz zamanı daha kaliteli hale getirebilir. Harika iş çıkardın!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekran süresi hakkında öğrendiklerimizi hatırlıyor musun? Şimdi, ekran süresini nasıl daha eğlenceli hale getirebileceğimize bakalım. Eğitici oyunlar oynayabilir veya yaratıcı videolar izleyebiliriz. Böylece, ekran başında geçirdiğimiz süreyi daha faydalı hale getirebiliriz. Sen de böyle şeyler yapmayı sever misin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ekran süresini nasıl daha eğlenceli ve faydalı hale getirebiliriz, sence? Belki de yeni bir şeyler öğrenmek için ekranı kullanabiliriz. Senin favori ekran aktiviten nedir? Hadi bana anlat! Çok merak ediyorum."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda favori ekran aktivitelerinden bahsetmiştik. Şimdi, ekran süremizi daha da nasıl verimli hale getirebiliriz, ona bakalım. Mesela, ekran başında geçirdiğimiz süreyi bir ödül gibi düşünebiliriz. Gün içinde görevlerimizi tamamladıktan sonra ekran başına geçebiliriz. Bu, motivasyonumuzu artırabilir."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekran başında geçirdiğimiz zamanı dengelemek, sağlıklı bir yaşam tarzı için çok önemlidir. Bu dengeyi sağladığımızda, hem eğlenebilir hem de sağlığımızı koruyabiliriz. Ekran süresini azaltmak, yeni hobiler edinmemize de olanak tanır. Belki de yeni bir spor dalı keşfedebiliriz. Bu sana nasıl geliyor?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte ekran süremizi nasıl daha iyi yönetebileceğimiz hakkında birkaç ipucu paylaşalım. İlk olarak, ekran başında geçirdiğimiz süreyi planlamalıyız. İkinci olarak, ekran süremizi eğitici ve eğlenceli aktivitelerle doldurmalıyız. Üçüncü olarak, ekran dışında da eğlenceli aktiviteler bulmalıyız. Bu şekilde, ekran süremizi dengede tutabiliriz."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi şimdi birlikte beş'e kadar sayalım! Bir, iki, üç, dört, beş! Harika iş çıkardın! Bu tür oyunlar, ekran dışında da eğlenmemizi sağlar. Sen de böyle oyunlar oynamayı sever misin? Şimdi birlikte başka oyunlar da bulabiliriz!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ekran süresi hakkında ne çok şey öğrendik! Şimdi, öğrendiklerimizi uygulamaya koyma zamanı. Ekran süremizi dengede tutarak daha sağlıklı ve mutlu olabiliriz. Bu yolculukta seninle olmak harikaydı. Sen de bu maceradan keyif aldın mı?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün ekran süresi hakkında çok şey öğrendik. Seninle bu yolculuğa çıkmak benim için çok eğlenceliydi. Şimdi, öğrendiklerimizi uygulama zamanı. Bir sonraki maceramızda görüşmek üzere! Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Sneaky Cat Tom'ın Screen Time Hikayesi"
+}

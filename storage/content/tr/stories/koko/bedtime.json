@@ -1,0 +1,98 @@
+{
+  "id": "koko_bedtime_story",
+  "title": "Koko'nin Uyku Zamanı Hikayesi",
+  "character": "Koko",
+  "topic": "bedtime",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Koko, seninle birlikte harika bir uyku öncesi yolculuğuna çıkacağız. Bu yolculukta, uykuya hazırlanmanın ne kadar keyifli olabileceğini keşfedeceğiz. Hazır mısın? Uyku zamanı geldiğinde, hem bedenimizi hem de zihnimizi dinlendirmemiz gerekiyor. Şimdi birlikte bu serüvene çıkalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku öncesi rutinleri hakkında konuşalım. Bu rutinler, yatağa gitmeden önce yaptığımız küçük hazırlıklardır. Mesela dişlerimizi fırçalamak gibi. Bu, dişlerimizin temiz ve sağlıklı kalmasını sağlar. Ayrıca pijamalarımızı giymek, bedenimizi rahat hissettirir. Bütün bu hazırlıklar, uykuya dalmamızı kolaylaştırır."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir önceki konuşmamızda rutinlerden bahsetmiştik. Şimdi, uyku öncesi masal okumanın önemine değinelim. Masallar, hayal gücümüzü geliştirir ve bizi farklı dünyalara götürür. Ayrıca, sakin bir şekilde uykuya dalmamıza yardımcı olur. Peki, senin en sevdiğin masal hangisi?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte nefes alıp vermeyi deneyelim mi? Derin bir nefes al ve yavaşça ver. Bu, bedenimizi ve zihnimizi rahatlatır. Şimdi bunu üç kez tekrarlayalım. Harika! Bu egzersiz, uyku öncesinde sakinleşmemize yardımcı olur."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda nefes almaktan bahsetmiştik. Şimdi, uyku öncesi odanın nasıl olması gerektiğine bakalım. Odamızın ışıkları hafif olmalı ki gözlerimiz dinlensin. Ayrıca, sessiz bir ortam, uykuya dalmamızı kolaylaştırır. Yumuşak bir yastık ve rahat bir yatak da çok önemlidir. Bu hazırlıklar, iyi bir uyku için gereklidir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hatırlıyor musun, odanın nasıl olması gerektiğinden bahsetmiştik. Şimdi, uyku öncesi bir bardak sıcak süt içmenin faydalarını keşfedelim. Süt, bedenimizi rahatlatır ve uykuya hazırlanmamıza yardımcı olur. Ayrıca, içindeki kalsiyum, kemiklerimizi güçlendirir. Peki, sen süt içmeyi sever misin?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Biraz önce süt içmekten bahsettik. Peki, uyumadan önce en çok ne yapmayı seversin? Oyuncaklarınla oynamak mı, yoksa bir masal dinlemek mi? Herkesin kendine özgü bir uyku öncesi rutini vardır. Senin rutinin nasıl?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda uyku öncesi rutininizden bahsetmiştik. Şimdi, vücudumuzu rahatlatmak için birkaç esneme hareketi yapalım. Kollarımızı yukarı kaldırıp gerinelim. Sonra, ayak parmaklarımızı hafifçe esnetelim. Bu hareketler, günün yorgunluğunu atmamıza yardımcı olur. Esneme hareketlerini yaparken nasıl hissettiğini bana söyle."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Esneme hareketlerinden sonra, uykuya dalarken güzel şeyler düşünmek önemlidir. Mesela, en sevdiğin hayvanları ya da doğada gördüğün güzel bir manzarayı hayal edebilirsin. Bu güzel düşünceler, seni mutlu eder ve rahatlatır. Şimdi, gözlerini kapat ve hayal et. Hayal ettiğin şeyler seni nasıl hissettiriyor?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bir önceki konuşmamızda hayal etmenin öneminden bahsettik. Şimdi, uykuya dalmadan önce kendimize güzel şeyler söyleyelim. Mesela, 'Bugün harika bir gündü' ya da 'Yarın da harika olacak' gibi. Bu olumlu cümleler, kendimize olan güvenimizi artırır. Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Olumlu düşüncelerden sonra, uykuya dalmadan önce sessiz bir müzik dinlemek de faydalı olabilir. Yumuşak bir melodi, zihnimizi sakinleştirir ve uykuya hazırlanır. Müzik dinlerken kendimizi huzurlu hissederiz. Senin en sevdiğin uyku müziği hangisi?"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bir önceki konuşmamızda müzik dinlemenin faydalarından bahsetmiştik. Peki, uyumadan önce hangi müziği dinlemek seni daha mutlu ederdi? Uyku müziği, seni nasıl etkiliyor? Sence bu müzikler uykuya dalmanı kolaylaştırıyor mu?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Müzik konusunu konuşmamızın ardından, şimdi uykuya dalmanın ne kadar önemli olduğunu hatırlayalım. İyi bir uyku, sağlıklı büyümemizi ve kendimizi daha iyi hissetmemizi sağlar. Ertesi gün enerjik ve mutlu uyanmamıza yardımcı olur. Uyku, vücudumuzun ve zihnimizin dinlenmesi için gereklidir. Unutma, iyi bir uyku her şeyin anahtarıdır."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte uyku öncesi harika bir yolculuğa çıktık. Seninle bu zamanı paylaşmak benim için çok değerliydi. Umarım öğrendiklerinle uykuya daha rahat dalarsın. Şimdi güzel rüyalar görme zamanı. İyi geceler, küçük dostum! Bir sonraki buluşmamızda görüşmek üzere!"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "ocean_dreamer_moa_Ernährung_gesundes_Essen_Essgewohnheiten_gesunde_Lebensmittel_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "Ernährung, gesundes Essen, Essgewohnheiten, gesunde Lebensmittel",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo kleiner Freund! Ich bin Ocean Dreamer Moa. Heute gehen wir auf eine spannende Reise über Ernährung und gesundes Essen. Bist du bereit? Es wird ein Abenteuer voller leckerer Entdeckungen. Ich freue mich so darauf, mit dir zu lernen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über Abenteuer sprachen? Heute ist unser Abenteuer, gesundes Essen zu entdecken. Gesundes Essen gibt uns Kraft und Energie, genau wie ein Superheld! Stell dir vor, du bist ein Superheld, der gesundes Essen isst. Das macht stark und mutig!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber sprechen, was gesundes Essen ist. Gesundes Essen sind Obst, Gemüse, und Vollkornprodukte. Sie sind wie die besten Freunde unseres Körpers. Wenn wir sie essen, helfen sie uns, stark und gesund zu bleiben. Magst du Obst und Gemüse?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns ein kleines Spiel spielen! Zähle mit mir bis fünf, während wir uns vorstellen, unsere Lieblingsfrüchte zu pflücken. Eins, zwei, drei, vier, fünf! Großartig gemacht! Früchte sind voller Vitamine, die uns helfen, gesund zu bleiben."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an unsere Zählübung? Früchte sind nicht nur lecker, sondern auch wichtig für unsere Gesundheit. Vitamine in Früchten helfen uns, stark zu bleiben. Und weißt du, was noch toll ist? Sie schmecken süß und saftig!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Nun lass uns über Gemüse sprechen. Gemüse ist wie ein bunter Regenbogen auf deinem Teller. Es gibt rote Tomaten, grüne Brokkoli und orange Karotten. Sie alle haben verschiedene Nährstoffe, die unseren Körper glücklich machen. Hast du ein Lieblingsgemüse?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns gemeinsam tief durchatmen. Atme ein... und aus. Das fühlt sich gut an, oder? So wie das Atmen uns entspannt, hilft gesundes Essen unserem Körper, sich wohlzufühlen. Du machst das großartig!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Denke daran, wie wichtig es ist, jeden Tag etwas Gesundes zu essen. Es ist wie ein Abenteuer, bei dem wir neue Geschmäcker entdecken. Und wenn wir gesund essen, können wir besser spielen und lernen. Es ist wie eine Belohnung für unseren Körper!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über Essgewohnheiten sprechen. Gute Essgewohnheiten bedeuten, regelmäßig gesunde Mahlzeiten zu essen. Es ist wichtig, Frühstück, Mittag- und Abendessen zu haben. Diese Mahlzeiten geben uns Energie für den ganzen Tag. Wie sieht dein Frühstück aus?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lass uns gemeinsam überlegen, wie wir unsere Essgewohnheiten verbessern können. Vielleicht können wir jeden Tag etwas Neues probieren. Es könnte eine neue Frucht oder ein neues Gemüse sein. Du bist ein Entdecker, und ich weiß, du kannst das schaffen!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Denk daran, wie viel Spaß wir hatten, neue Geschmäcker zu entdecken. Es ist wie eine Reise um die Welt, ohne unser Zuhause zu verlassen. Gesundes Essen ist ein Abenteuer, das nie endet. Und du bist der Held in dieser Geschichte!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was ist dein Lieblingsessen? Magst du lieber süße Früchte oder knackiges Gemüse? Jedes Essen hat seine eigene Geschichte. Lass uns darüber sprechen, was dir am besten gefällt. Ich bin gespannt, was du sagst!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich an unser Gespräch über Superhelden? Gesundes Essen macht uns zu Superhelden im Alltag. Es hilft uns, stark und klug zu sein. Und das Beste daran ist, dass es auch lecker ist!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel über gesundes Essen gelernt haben, können wir es mit unseren Freunden teilen. Es ist schön, Wissen weiterzugeben und zusammen gesund zu sein. Gemeinsam können wir stark und glücklich sein!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war eine wunderbare Reise mit dir, kleiner Freund. Ich hoffe, du hast viel über gesundes Essen gelernt. Danke, dass du mit mir auf dieses Abenteuer gekommen bist. Bis zum nächsten Mal, wenn wir wieder zusammen neue Dinge entdecken. Auf Wiedersehen!"
+    }
+  ],
+  "title": "Ocean Dreamer Moas Nutrition Geschichte"
+}

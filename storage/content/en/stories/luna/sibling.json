@@ -1,0 +1,104 @@
+{
+  "id": "luna_sibling_story",
+  "character": "Luna",
+  "topic": "sibling",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Luna, and today we're going to explore the magical world of siblings. It's a place full of giggles, sharing, and playing. Are you excited to join me on this adventure? Having a sibling is like having a built-in best friend, and we're going to learn just what makes it so special. Let's get ready for a joyful journey together, shall we?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, imagine you have a friend who is always there to play with you and share your toys. That's what having a sibling can be like! Siblings are like your very first friends, and they can be so much fun. You can build castles together, play pretend, and even have little adventures in your backyard. Isn't that exciting? Think about a time when you played with someone and had lots of fun. That's the magic of being with a sibling."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about sharing? Sharing is a wonderful way to show love and kindness to your sibling. When you share your toys or snacks, it makes your sibling feel happy and loved. Imagine you have a big box of crayons, and you let your sibling use them to draw a picture. How wonderful is that? Sharing brings smiles and makes playtime even more fun. Let's think of something you can share with your sibling today."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking about sharing! You know, when you play together with your sibling, it's like creating a little world full of imagination. You can pretend to be explorers in a jungle, or maybe astronauts in space. The sky is the limit when you use your imagination! Playing together helps you learn how to work as a team. Isn't it amazing what you can do together? You can do it, and I know you will have so much fun!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our journey by talking about helping each other. Helping your sibling is another way to show how much you care. Maybe they need help tying their shoes or finding their favorite toy. When you lend a hand, it makes both of you feel good inside. Think of a time you helped someone and how happy they were. Helping is like a little hug for the heart, isn't it? Next time you see your sibling, try to find a way to help them."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember how we talked about playing and helping? Now, let's talk about listening. Listening to your sibling is very important. When they have something to say, make sure you listen with your ears and your heart. Maybe they want to tell you about a dream they had or a new game they want to play. Listening shows you care about their thoughts and feelings. Can you think of a time when you listened to someone and learned something new? It's such a wonderful thing to do."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well on this adventure! Now, let's take a moment to think about how to solve problems together. Sometimes, you might disagree with your sibling, and that's okay. It's important to talk about how you feel and find a way to make both of you happy. Maybe you can take turns choosing a game to play. Solving problems together makes your bond even stronger. You can do it, and I believe in you!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's imagine a world where you and your sibling go on magical adventures. Maybe you discover a hidden treasure in the garden or find a secret path in the park. These adventures are even more special when you share them with a sibling. Every day can be an exciting journey when you have someone to explore with. Can you think of an adventure you'd like to go on with your sibling? The possibilities are endless!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about celebrating each other's achievements. When your sibling does something great, like learning a new skill or drawing a beautiful picture, it's nice to cheer them on. You can say, \"Great job!\" or give them a high five. Celebrating together makes you both feel happy and proud. Can you remember a time when you celebrated something with your sibling? It's such a joyful moment to share."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're really getting the hang of this! Let's think about saying \"thank you\" to your sibling. When they do something nice for you, like sharing their toys or helping you, saying \"thank you\" shows appreciation. It makes your sibling feel valued and loved. Can you think of a time when you said \"thank you\" and it made someone smile? It's a simple yet powerful way to show you care."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue by imagining a cozy bedtime story with your sibling. It's a lovely way to wind down and spend time together. You can take turns picking a book or telling each other stories. This special time can create wonderful memories that you'll cherish forever. Have you ever shared a bedtime story with your sibling? It's such a comforting and magical moment to end the day with."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I have a question for you. What is your favorite thing to do with your sibling? Is it playing games, building with blocks, or maybe drawing together? Each activity you do together is like a little piece of a beautiful puzzle. I'm curious to know what makes your time with your sibling so special. Would you like to share your favorite activity with me?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Thank you for sharing your favorite activity! Let's think about how you can make it even more fun. Maybe you can add a new twist to your game or create a new story with your drawings. Being creative together makes everything more exciting. Can you imagine the fun you'll have trying something new with your sibling? It's going to be wonderful!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we near the end of our adventure, let's remember all the special moments we talked about. From sharing and helping to playing and listening, each one makes your bond with your sibling stronger. Every day is a new opportunity to create happy memories together. Can you picture all the fun you'll have with your sibling tomorrow? It's like a new page in a magical storybook!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this magical journey about siblings. I hope you had as much fun as I did. Remember, your sibling is like a special friend who will always be there for you. Keep sharing, playing, and loving each other. Until next time, keep dreaming and exploring the wonderful world around you. Goodbye, little friend, and see you soon!"
+    }
+  ],
+  "title": "Luna's Sibling Relationships Story"
+}

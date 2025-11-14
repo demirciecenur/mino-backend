@@ -1,0 +1,104 @@
+{
+  "id": "funny_bunny_behavior_story",
+  "character": "Funny Bunny",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis! Je suis Funny Bunny, et aujourd'hui, nous allons explorer le monde merveilleux du bon comportement. Êtes-vous prêts pour cette aventure amusante? Nous allons apprendre comment être gentils et respectueux, tout en s'amusant. Imaginez que nous sommes des détectives qui cherchent des indices sur comment se comporter. Alors, mettez vos lunettes de détective et partons à l'aventure!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "D'abord, parlons de ce que signifie avoir un bon comportement. C'est un peu comme être un super-héros, mais au lieu de voler, on utilise nos mots et nos actions pour aider les autres. Par exemple, dire \"s'il te plaît\" et \"merci\" est une manière simple de montrer que nous respectons les autres. Ça rend tout le monde heureux, n'est-ce pas? Et quand nous faisons cela, nous rendons le monde autour de nous un peu plus lumineux."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des règles. Les règles sont comme des lignes sur un terrain de jeu qui nous aident à savoir où aller. Elles nous aident à rester en sécurité et à bien nous amuser ensemble. Par exemple, marcher au lieu de courir dans la maison peut éviter les accidents. C'est comme un jeu où tout le monde suit les mêmes règles pour que tout le monde puisse gagner. Vous voyez, les règles sont là pour nous protéger et nous guider."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons quelque chose ensemble! Imaginons que nous sommes dans un parc et que nous voulons partager nos jouets. Partager, c'est une super façon de montrer que nous avons un bon comportement. Quand on partage, tout le monde peut jouer et s'amuser. Maintenant, imaginez que vous donnez un jouet à un ami, et voyez comme c'est agréable de le voir sourire. Bravo les amis, vous êtes de vrais champions du partage!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de dire \"merci\"? Eh bien, cela fait partie de ce que nous appelons les bonnes manières. Les bonnes manières sont comme des petites clés magiques qui ouvrent les portes de l'amitié. Quand nous utilisons ces mots magiques, nous montrons que nous nous soucions des autres. C'est comme offrir un petit cadeau de gentillesse chaque jour. Alors, la prochaine fois que quelqu'un vous aide, n'oubliez pas de dire \"merci\"!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Maintenant, parlons de quelque chose de très important: écouter. Écouter, c'est comme tendre l'oreille pour entendre une histoire fascinante. Quand nous écoutons, nous montrons que ce que l'autre personne dit est important pour nous. Imaginez que vous êtes un explorateur qui découvre des trésors cachés dans les paroles des autres. Alors, la prochaine fois que quelqu'un parle, écoutez attentivement et découvrez les merveilles qu'ils partagent."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous savez ce qui est encore plus amusant? Jouer ensemble! Jouer ensemble signifie partager nos jeux et nos rires. C'est comme créer une grande aventure où tout le monde est le héros. Quand nous jouons ensemble, nous apprenons à être patients et à prendre des tours. Alors, la prochaine fois que vous jouez, rappelez-vous que c'est toujours plus amusant de jouer en équipe. Vous êtes tous des experts du jeu en groupe!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant de l'importance de prendre soin de ses affaires. Ranger ses jouets après avoir joué, c'est comme ranger des trésors dans un coffre. Cela nous aide à garder notre espace propre et à retrouver nos jouets facilement la prochaine fois. C'est aussi une façon de montrer que nous sommes responsables et respectueux de nos affaires. Alors, pensez à ranger vos jouets comme des petits aventuriers organisés!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà aidé quelqu'un aujourd'hui? Aider, c'est comme prêter un coup de main magique à quelqu'un qui en a besoin. Cela peut être aussi simple que tenir la porte ou ramasser quelque chose que quelqu'un a fait tomber. Quand nous aidons, nous faisons sourire les gens et nous nous sentons bien à l'intérieur. Alors, quel petit geste d'aide pourriez-vous faire aujourd'hui pour rendre quelqu'un heureux?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Revenons aux règles et parlons de la patience. La patience, c'est comme attendre que votre gâteau préféré soit prêt à sortir du four. Parfois, il faut attendre un peu pour que les choses se passent, et c'est tout à fait normal. Attendre son tour, c'est montrer du respect pour les autres et donner à chacun une chance de participer. Alors, la prochaine fois que vous devez attendre, pensez à la délicieuse récompense qui vous attend!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, faisons un petit exercice de respiration. Prenons trois grandes respirations ensemble. Inspirez profondément par le nez, et expirez doucement par la bouche. C'est une excellente façon de se calmer et de se recentrer. Vous voyez, respirer calmement peut aider à mieux gérer nos émotions, surtout quand nous nous sentons un peu bouleversés. Vous êtes tous de merveilleux petits maîtres de la respiration!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Souvenez-vous aussi que chaque jour est une nouvelle chance d'apprendre et de grandir. Chaque fois que nous faisons une erreur, nous avons l'opportunité d'apprendre quelque chose de nouveau. Cela fait partie de l'aventure de grandir. Alors, ne vous inquiétez pas si vous ne faites pas tout parfaitement. L'important, c'est de continuer à essayer et à apprendre. Vous êtes tous des explorateurs courageux sur le chemin de la découverte!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Enfin, parlons de l'importance d'être honnête. Être honnête, c'est dire la vérité même si ce n'est pas toujours facile. C'est comme être un chevalier courageux qui défend la vérité. Quand nous sommes honnêtes, les gens peuvent nous faire confiance, et cela rend nos amitiés plus solides. Alors, la prochaine fois que vous avez une décision à prendre, rappelez-vous d'être honnête et sincère. Vous êtes tous des champions de la vérité!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà ressenti une grande joie après avoir fait quelque chose de bien pour quelqu'un? Cette sensation, c'est ce qu'on appelle la fierté. C'est un peu comme une petite lumière qui brille à l'intérieur de nous. Quand nous faisons de bonnes actions, nous nous sentons fiers et heureux. Alors, souvenez-vous que chaque bonne action, même petite, peut illuminer votre journée et celle des autres. Quel geste pourriez-vous faire aujourd'hui pour ressentir cette joie?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Et voilà, les amis! Nous avons appris tant de choses sur le bon comportement aujourd'hui. Rappelez-vous que chaque petit geste compte, et que vous êtes tous capables de rendre le monde meilleur avec vos actions. Continuez à être gentils, respectueux et à partager vos sourires. Je suis tellement fier de vous et de tout ce que vous avez appris. Merci d'avoir partagé cette aventure avec moi, et à très bientôt pour de nouvelles explorations amusantes!"
+    }
+  ],
+  "title": "Histoire de Behavior de Funny Bunny"
+}

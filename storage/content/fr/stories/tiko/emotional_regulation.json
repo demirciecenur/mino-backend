@@ -1,0 +1,104 @@
+{
+  "id": "tiko_régulation_émotionnelle_gestion_des_émotions_se_calmer_autorégulation_story",
+  "character": "Tiko",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis! Je suis Tiko, et aujourd'hui, nous allons explorer le monde merveilleux des émotions. Les émotions, c'est comme des couleurs dans notre cœur. Parfois, on se sent joyeux comme un soleil brillant, et parfois on est un peu triste comme un nuage gris. Mais ne vous inquiétez pas, nous allons apprendre à gérer tout ça ensemble. Êtes-vous prêts pour cette aventure passionnante? Allons-y!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les émotions sont des choses très spéciales. Elles nous aident à comprendre ce que nous ressentons à l'intérieur. Par exemple, quand tu es content, tu as peut-être envie de sauter de joie! Mais parfois, quand tu es en colère, tu veux peut-être frapper un oreiller. C'est normal de ressentir toutes ces choses. L'important, c'est de savoir comment les gérer pour se sentir mieux."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment se calmer quand on est fâché. Imagine que tu es un volcan prêt à exploser! Mais au lieu de laisser tout sortir, on va inspirer profondément. Prends une grande inspiration par le nez, et souffle lentement par la bouche. Faisons-le ensemble! Inspirons, soufflons. Bravo! Ça aide à faire redescendre la lave du volcan, n'est-ce pas?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super! Tu as fait un excellent travail pour te calmer. Chaque fois que tu te sens comme un volcan, tu peux utiliser cette astuce. N'oublie pas que tes émotions sont comme des vagues. Elles montent et elles descendent. Et toi, tu peux surfer sur ces vagues avec calme et confiance. Tu es un vrai champion!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant des moments où l'on se sent triste. C'est comme si un petit nuage gris flottait au-dessus de nous. Quand ça arrive, tu peux essayer de penser à quelque chose qui te rend heureux. Peut-être ton jouet préféré ou un câlin de maman ou papa. Ces pensées heureuses peuvent aider le nuage à s'envoler. Tu vois, les émotions viennent et repartent, et c'est tout à fait normal."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu te souviens de la dernière fois que tu as ri très fort? C'était amusant, n'est-ce pas? Le rire est une excellente façon de se sentir mieux. Il y a beaucoup de façons de faire partir la tristesse. Comme chanter ta chanson préférée ou danser comme un petit fou! Tu veux essayer de rire ensemble? Allez, un, deux, trois, ha ha ha!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de l'autorégulation. C'est un mot compliqué, mais en fait, c'est simple. Cela signifie que tu apprends à contrôler ce que tu ressens et comment tu réagis. Par exemple, si tu es en colère, tu peux choisir de respirer au lieu de crier. C'est comme être le capitaine de ton bateau émotionnel. Avec de la pratique, tu deviendras un expert!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es déjà sur la bonne voie pour devenir un pro de l'autorégulation! Rappelle-toi, même les adultes travaillent sur leurs émotions. C'est comme apprendre à faire du vélo, ça prend du temps et de la patience. Mais je sais que tu es courageux et que tu y arriveras. Continue d'essayer, et souviens-toi que chaque petit pas compte."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de ce que l'on peut faire quand on est vraiment excité. C'est comme avoir des papillons dans le ventre qui veulent s'envoler! Quand cela arrive, tu peux sauter sur place ou courir dans le jardin. Parfois, c'est aussi bien de s'asseoir et de faire une activité calme comme dessiner. Trouver l'équilibre, c'est important pour se sentir bien."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, qu'est-ce que tu fais pour te calmer quand tu es excité? Est-ce que tu as une activité préférée? Peut-être que tu aimes lire un livre ou écouter de la musique douce. Chacun a sa propre façon de se détendre. C'est amusant de découvrir ce qui fonctionne le mieux pour toi, n'est-ce pas?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons une petite activité ensemble. Trouvons un endroit confortable pour nous asseoir. Ferme doucement les yeux et imagine un endroit que tu aimes. Peut-être une plage ensoleillée ou une forêt magique. Inspire profondément et sens l'air frais entrer dans ton corps. Expire lentement. Répète cela quelques fois. Ça fait du bien, pas vrai?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu vois, se calmer peut être aussi simple que de fermer les yeux et de respirer. C'est une astuce que tu peux utiliser n'importe quand, n'importe où. Même quand tu es à l'école ou dans la voiture. Tu veux essayer de nouveau? Inspirons, expirons. C'est super! Tu deviens vraiment bon à ça."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, les émotions sont comme des amis. Parfois, ils sont bruyants et parfois, ils sont calmes. Et c'est bien de les écouter. Mais c'est aussi bien de leur dire quand ils doivent se calmer un peu. Avec du temps et de la pratique, tu sauras exactement quoi faire. Et je serai toujours là pour t'aider."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Je suis tellement fier de toi et de tous les efforts que tu fais pour gérer tes émotions. Chaque jour est une nouvelle chance de s'améliorer. Souviens-toi que tu es incroyable et capable de grandes choses. Continue d'apprendre et de grandir, et n'oublie jamais que tu as le pouvoir de te calmer."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, les amis! J'espère que vous avez appris plein de choses sur les émotions et comment les gérer. N'oubliez pas de toujours être gentils avec vous-mêmes et de prendre le temps de respirer. Je suis impatient de vous revoir pour une nouvelle aventure. À bientôt et prenez soin de vous!"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Tiko"
+}

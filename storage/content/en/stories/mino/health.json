@@ -1,0 +1,104 @@
+{
+  "id": "mino_health_story",
+  "character": "Mino",
+  "topic": "health",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little space adventurers! I'm Mino, your friendly guide from the galaxy, and today we're going on a fun journey to learn about health! Are you ready to explore how we can keep our bodies strong and happy? We'll discover exciting ways to stay healthy, just like a spaceship needs to be in tip-top shape to zoom through the stars. So buckle up and get ready for an adventure full of fun and learning! I'm so excited to have you with me on this journey!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's start by talking about why eating a rainbow of fruits and veggies is so important. Just like a rainbow has all kinds of colors, our bodies need different foods to stay healthy. Eating a variety of colors helps us get all the vitamins and minerals we need. For example, carrots help our eyes, and spinach makes us strong like superheroes. Next time you have a meal, try to count how many colors are on your plate!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about eating colorful foods? Now let's learn about drinking water. Water is like fuel for our bodies, just like rocket fuel for a spaceship. It keeps us hydrated, helps us think clearly, and gives us energy to play. Try to drink water whenever you're thirsty, especially after running around. Can you pretend to drink a big glass of water with me? Ready, set, gulp!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job on pretending to drink water! You're doing amazing. Now, let's learn about moving our bodies. Exercise is like a dance party for your muscles! It helps us stay strong, flexible, and happy. You can dance, jump, or even play tag with friends. Let's stand up and do a little dance together. Wiggle your fingers, shake your hips, and have fun!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've moved a bit, let's talk about rest. After a big day of exploring and playing, our bodies need time to recharge, just like how spaceships need to refuel. Sleeping helps us grow and stay healthy. It's important to go to bed at the same time every night. Can you imagine floating on a fluffy cloud as you drift to sleep? Sweet dreams help us wake up ready for another adventure!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's continue by learning about keeping our bodies clean. Washing our hands is super important to keep germs away. It's like putting on a superhero shield! You should wash your hands before eating and after playing outside. Can we pretend to wash our hands together? Rub your hands and make lots of bubbly soap suds. Splish, splash, and rinse!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're becoming a health expert. Now, let's talk about brushing our teeth. Healthy teeth help us smile bright like the stars. We should brush them twice a day, like in the morning and before bed. Let's pretend to brush our teeth together. Swoosh, swoosh, back and forth, and make sure to brush all the way to the back!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you remember what we talked about earlier? How about we think of one healthy habit we can do every day? Maybe it's eating a fruit, drinking more water, or brushing our teeth. What's one healthy thing you can do today? It's fun to choose a new habit and practice it every day. I bet you have some great ideas!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about the magic of breathing. Taking deep breaths can help us feel calm and happy. It's like filling up a balloon with air. Let's take a deep breath in through our nose, hold it, and then slowly blow it out through our mouth. Breathing helps us relax, especially when we're feeling a bit wobbly. Let's try it together!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn about the importance of sharing and kindness. Being kind to others makes our hearts feel warm and happy. It's like spreading sunshine wherever you go. You can share your toys, help a friend, or give a big smile. How about we try sharing a big, warm hug with someone we love? It makes everyone feel good!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning about health! Let's talk about being curious and asking questions. Asking questions helps us learn new things and explore the world. Just like astronauts exploring space, we can discover so much by being curious. What new question would you like to ask today? Remember, every question is a step to learning something new!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about moving our bodies? Let's add one more fun activity. Stretching is like waking up our muscles. It helps us feel flexible and ready for anything. Let's stretch our arms up to the sky and reach for the stars. Now bend down and touch your toes. Doesn't that feel great? Stretching is a wonderful way to start our day!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now that we've learned so much, let's think about what we enjoyed the most. Was it dancing, stretching, or pretending to brush our teeth? It's fun to remember all the things we've tried today. Do you have a favorite healthy habit now? Maybe you can share it with your family and friends and practice together. Let's keep the fun going!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Before we end our adventure, I have one more question. What new healthy habit are you going to try tomorrow? There's always something new to explore and practice. Maybe you'll try eating a new fruit or doing a little dance in the morning. I'm curious to hear what you'll choose. Remember, every healthy habit makes us stronger and happier!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you, little adventurers, for joining me on this journey about health! We've learned so many fun and important things today. Remember, staying healthy is like taking care of your own spaceship. Keep practicing your healthy habits, and you'll be ready for any adventure. Until next time, keep smiling and exploring the wonders of the universe. Goodbye, and see you soon!"
+    }
+  ],
+  "title": "Mino's Health Story"
+}

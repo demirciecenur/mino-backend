@@ -1,0 +1,104 @@
+{
+  "id": "mino_math_story",
+  "character": "Mino",
+  "topic": "math",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Mino, your space buddy on an amazing math adventure! Today, we're going to explore numbers and counting together. Are you ready to blast off into the world of math? It's going to be so much fun, and I can't wait to get started with you. Let's use our imaginations and go on a journey through numbers and shapes. Ready, set, let's go!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, do you know what numbers are? Numbers are everywhere around us! We use them to count our toys, measure how tall we are, and even tell time. Imagine counting stars in the sky! Each star is like a number, shining brightly. Let's start with the number one. One is the beginning of our counting adventure!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn how to count together. We'll start with one, then two, and go all the way to five. Imagine you have one shiny star. If you add another, now you have two stars. Add one more, and you have three. Can you see the pattern? Let's keep going until we reach five stars. Counting is like building a tower, one block at a time."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing great! Counting is so much fun, isn't it? Now let's count to five using our fingers. Wiggle one finger for one, two fingers for two, and keep going. Can you count with me? One, two, three, four, five! Fantastic! Counting with fingers is like having a little math tool with you all the time."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we counted stars? Let's imagine we're on a space adventure, collecting moon rocks. Each rock is a number. If you collect one rock and then another, how many do you have? That's right, two rocks! It's like having two shiny treasures. Numbers help us keep track of our treasures."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's try something fun. Imagine you have three colorful balloons. If you give one to a friend, how many balloons do you have left? That's right, two balloons! Subtracting is like sharing with friends. It's important to know how to share with others using numbers. Let's try sharing more things and see what happens."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job! You're really good at this. Sharing and counting go hand in hand. Now let's pretend we're at a party. There are five cupcakes, and you eat one. How many cupcakes are left? Yes, four cupcakes! Math helps us figure out how many are left after sharing or eating. Isn't that cool?"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever wondered how high you can count? What if we try counting to ten? Let's take a deep breath and count together, slowly. One, two, three, four, five, six, seven, eight, nine, ten! Wow, you counted all the way to ten! Numbers are like magic keys that open doors to new adventures."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's think about shapes. Shapes are all around us, just like numbers. A circle is round like the moon, and a square has four equal sides. Can you find shapes in your room? Maybe your table is a rectangle, and your clock is a circle. Shapes and numbers make the world an exciting place to explore."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's play a shape game. I'll describe a shape, and you try to guess it. It's round and rolls easily. What is it? Yes, it's a circle! Now, let's try one more. It has four sides and four corners. What could it be? That's right, a square! Shapes are like puzzles waiting to be solved."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're really good at this! Solving shape puzzles is so much fun. Now let's think about how shapes and numbers work together. If you have three circles and two squares, how many shapes do you have in total? Let's count them together. One, two, three, four, five shapes! You're a math superstar!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember, math is like a big adventure full of surprises. We can use math to solve problems and discover new things. It's like a treasure map that leads us to exciting places. Whether we're counting stars or finding shapes, math is always there to help us. Let's keep exploring and see what else we can find."
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's imagine we're astronauts on a mission. Our spaceship needs ten space rocks to return home. Let's count together to make sure we have enough. One, two, three, four, five, six, seven, eight, nine, ten! Perfect! Math helps us complete our mission and return safely. Isn't it amazing how numbers guide us?"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an incredible job, little explorer! Math is like a magical tool that helps us every day. Whether we're counting, adding, or finding shapes, math is always fun. Keep practicing, and you'll discover even more math wonders. Remember, you're a math hero on a fantastic journey!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time to say goodbye, but our math adventure doesn't end here. You can keep exploring numbers and shapes anytime. Remember, math is all around us, just waiting to be discovered. Thank you for joining me on this journey. Keep being curious and adventurous. Until next time, my little math explorer!"
+    }
+  ],
+  "title": "Mino's Math Story"
+}

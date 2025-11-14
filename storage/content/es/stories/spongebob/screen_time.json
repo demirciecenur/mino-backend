@@ -1,0 +1,98 @@
+{
+  "id": "bubble_buddy_tiempo_de_pantalla_seguridad_digital_uso_de_tecnologia_habitos_saludables_de_pantalla_story",
+  "character": "Bubble Buddy",
+  "topic": "tiempo de pantalla, seguridad digital, uso de tecnología, hábitos saludables de pantalla",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguito! Soy Bubble Buddy, tu amigo burbujeante del océano. Hoy vamos a explorar el fascinante mundo del tiempo de pantalla y cómo podemos usar la tecnología de manera segura. ¿Estás listo para una aventura submarina llena de diversión y aprendizaje? ¡Estoy muy emocionado de que estés aquí conmigo! Vamos a descubrir juntos cómo tener hábitos saludables cuando usamos nuestros dispositivos."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos listos para nuestra aventura, hablemos sobre qué es el tiempo de pantalla. El tiempo de pantalla es el tiempo que pasamos frente a dispositivos como tabletas, teléfonos o televisores. Es importante saber cuánto tiempo pasamos usando estos dispositivos, porque queremos asegurarnos de que estamos haciendo otras actividades divertidas también. ¿Sabías que jugar al aire libre o leer un libro también son maneras maravillosas de pasar el tiempo? ¡Así que vamos a aprender cómo equilibrar nuestro tiempo para disfrutar de todo!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para tener hábitos saludables, podemos establecer un límite de tiempo para el uso de la pantalla cada día. Por ejemplo, podríamos jugar en nuestra tableta durante 30 minutos y luego salir a jugar al parque. También podemos usar un reloj o un temporizador para ayudarnos a recordar cuándo es hora de hacer algo diferente. ¿Te gustaría intentar contar hasta 30 mientras jugamos? ¡Eso nos ayudará a practicar el tiempo y a ser responsables!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora vamos a pensar en algunas actividades que podemos hacer cuando no estamos frente a una pantalla. ¿Te gusta dibujar o construir cosas con bloques? Estas son excelentes maneras de usar nuestra imaginación y creatividad. También podemos hacer ejercicio, como saltar o bailar, lo que es muy divertido y saludable para nuestro cuerpo. ¡Puedes hacerlo, y estoy aquí para animarte!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¿Recuerdas que hablamos sobre la seguridad digital? Es importante saber cómo mantenernos seguros cuando usamos la tecnología. Siempre debemos pedir permiso a un adulto antes de descargar una nueva aplicación o visitar un sitio web. También es una buena idea usar contraseñas seguras y no compartir información personal en línea. Esto nos ayuda a protegernos y a disfrutar de la tecnología de manera segura y divertida."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos sobre cómo podemos ser amables en línea. Ser amable significa usar palabras bonitas y respetuosas cuando nos comunicamos con otros. Si alguien nos dice algo que no nos gusta, podemos decirle a un adulto de confianza. También es importante recordar que todos merecen ser tratados con amabilidad, tanto en línea como en persona. ¡Recuerda, ser amable es genial!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Ahora vamos a hablar sobre cómo podemos tomar descansos durante el tiempo de pantalla. Es bueno levantarse y moverse un poco cada cierto tiempo. Podemos hacer un pequeño baile o estirarnos como un gato. Esto ayuda a nuestros ojos y a nuestro cuerpo a sentirse mejor. ¡Vamos a intentarlo juntos ahora! ¿Listo para mover esos pies?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Otra cosa importante es elegir el contenido adecuado para nuestra edad. Hay programas y juegos diseñados especialmente para niños como tú. Estos son educativos y divertidos. Siempre podemos pedir a nuestros padres o cuidadores que nos ayuden a elegir lo mejor para nosotros. ¡Así disfrutamos aprendiendo y jugando al mismo tiempo!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas todas las cosas divertidas que podemos hacer sin pantallas? Jugar con amigos, hacer manualidades o incluso explorar la naturaleza son actividades maravillosas. Imagina que eres un explorador en busca de tesoros en el jardín. ¡Hay tantas cosas emocionantes por descubrir! Ahora, piensa en una actividad que te gustaría hacer hoy. ¿Ya tienes una idea?"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme cuál es tu actividad favorita fuera de la pantalla? Estoy muy curioso por saber qué te gusta hacer. Tal vez te encanta jugar al escondite o montar en bicicleta. Cuéntame, ¿qué es lo que más disfrutas hacer cuando no estás usando tecnología? ¡Estoy ansioso por escuchar tus historias!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que ya sabemos tanto sobre el tiempo de pantalla y la seguridad digital, recordemos que es importante tener equilibrio. La tecnología es una herramienta fantástica cuando la usamos correctamente. Podemos aprender cosas nuevas, comunicarnos con amigos y divertirnos. Pero también es importante recordar que el mundo real está lleno de aventuras esperando ser descubiertas."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para terminar, vamos a repasar lo que aprendimos hoy. Sabemos que es importante limitar nuestro tiempo de pantalla, ser amables en línea y mantenernos seguros. También aprendimos que hay muchas actividades divertidas que podemos hacer sin dispositivos. ¿Te gustaría practicar decir todas estas cosas en voz alta conmigo? ¡Vamos a hacerlo juntos!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo increíblemente bien! Estoy muy orgulloso de lo que has aprendido hoy. Recuerda que siempre puedes volver a escuchar esta historia cuando necesites un recordatorio. Cada día es una nueva oportunidad para aprender y crecer. ¡Tú puedes lograr todo lo que te propongas!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es hora de decir adiós por ahora, pero recuerda que siempre estoy aquí para ayudarte. Gracias por unirte a mí en esta emocionante aventura submarina sobre el tiempo de pantalla y la seguridad digital. Espero que te hayas divertido tanto como yo. ¡Nos vemos pronto, amiguito! Cuida de ti mismo y sigue explorando el mundo con una gran sonrisa."
+    }
+  ],
+  "title": "Historia de Screen Time de Bubble Buddy"
+}

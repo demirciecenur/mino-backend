@@ -1,0 +1,104 @@
+{
+  "id": "tiko_temps_d'écran_sécurité_numérique_utilisation_de_la_technologie_habitudes_saines_d'écran_story",
+  "character": "Tiko",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis Tiko, et aujourd'hui, nous allons explorer ensemble le monde fascinant des écrans et de la technologie. Êtes-vous prêts à découvrir comment utiliser ces outils de manière amusante et sécurisée? Je suis tellement curieux de savoir ce que vous pensez de tout cela! Ensemble, nous allons apprendre à utiliser les écrans de façon intelligente tout en nous amusant. Alors, commençons notre aventure!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons des écrans que nous voyons tous les jours, comme les télévisions, les tablettes, et les téléphones. Ils peuvent être très amusants avec tous leurs jeux et vidéos colorés. Mais saviez-vous qu'il est important de ne pas passer trop de temps devant eux? C'est parce que nos yeux et notre cerveau ont besoin de pauses pour rester en bonne santé. Imaginez que c'est comme jouer dehors, on a besoin de temps pour courir et sauter aussi!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une bonne règle est de limiter le temps d'écran à une heure par jour, comme une petite aventure chaque jour. Cela laisse plein de temps pour d'autres activités amusantes comme lire un livre ou construire une tour de blocs! Quand nous faisons ça, nous apprenons à équilibrer le temps passé devant les écrans avec d'autres jeux. C'est comme avoir une journée pleine de surprises et de découvertes. Vous verrez, c'est très amusant!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons ensemble de compter jusqu'à cinq chaque fois que nous avons besoin d'une pause écran. Un, deux, trois, quatre, cinq! C'est simple et ça nous aide à nous souvenir de faire autre chose. Peut-être que vous pouvez danser un peu, ou faire un dessin rigolo. Qu'en pensez-vous? C'est une super façon de s'amuser tout en prenant soin de soi! Bravo, vous êtes géniaux!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvenez-vous, quand nous regardons des vidéos ou jouons à des jeux, il est important de choisir ceux qui sont adaptés pour nous. Les jeux doivent être amusants et pas trop compliqués. Et les vidéos doivent être pleines de couleurs et de chansons rigolotes! Cela rend notre temps d'écran encore plus amusant et enrichissant. Vous pouvez demander à un adulte de vous aider à choisir. C'est une bonne idée, n'est-ce pas?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de sécurité numérique, c'est-à-dire comment rester en sécurité en ligne. Comme quand on traverse la rue, il faut être prudent. On ne partage jamais nos informations personnelles comme notre nom ou notre adresse. C'est un peu comme garder un secret spécial pour nous! Et on doit toujours dire à un adulte si quelque chose nous rend confus ou mal à l'aise. Vous voyez, c'est facile d'être en sécurité!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail incroyable en apprenant toutes ces choses! Continuez comme ça, et vous serez de vrais experts en technologie et en sécurité numérique. N'oubliez pas de toujours demander de l'aide si vous en avez besoin. Les adultes sont là pour vous protéger et vous guider. Vous êtes déjà si courageux et intelligent! Je suis super fier de vous!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous aussi que les écrans ne remplacent pas le temps passé avec nos amis ou notre famille. Jouer à des jeux de société ou faire un pique-nique sont des activités géniales à partager ensemble. Cela nous aide à créer de beaux souvenirs et à renforcer nos liens. Les écrans peuvent être une partie de notre journée, mais ils ne doivent pas être la seule chose que nous faisons. N'est-ce pas amusant de découvrir toutes ces possibilités?"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Et vous savez quoi? Il est aussi important de prendre soin de notre corps en bougeant beaucoup. Sauter, danser, et courir sont des activités géniales après avoir utilisé un écran. Cela vous donne de l'énergie et vous fait sentir bien! Est-ce que vous aimez danser ou sauter? Peut-être que vous pourriez essayer maintenant, juste pour vous amuser un peu. C'est parti pour un peu de mouvement!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, je me demande, combien de temps pensez-vous que vous passez devant un écran chaque jour? Est-ce que c'est plus ou moins qu'une heure? C'est intéressant de penser à ça, n'est-ce pas? Peut-être que vous pouvez demander à un adulte de vous aider à vérifier. Cela peut être une bonne occasion de discuter ensemble de vos activités préférées!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "En parlant de temps d'écran, saviez-vous que fixer un horaire peut être très utile? Par exemple, on peut décider de regarder un dessin animé après avoir fini ses devoirs ou ses tâches. Cela nous donne quelque chose à attendre avec impatience! Et c'est aussi un bon moyen de s'assurer que nous avons le temps pour tout le reste. Que pensez-vous de cette idée? Cela peut rendre nos journées encore plus amusantes et organisées!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Et si nous essayions de faire un exercice ensemble pour nous détendre après avoir utilisé un écran? Prenons une grande inspiration, puis soufflons lentement. Répétons cela trois fois. Un, deux, trois! Cela aide à se relaxer et à se sentir bien. Vous pouvez le faire chaque fois que vous avez besoin d'une pause. C'est un moyen simple de prendre soin de soi. Vous vous sentez mieux maintenant?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail fantastique en apprenant comment utiliser les écrans de manière saine et sécurisée. Continuez à poser des questions et à explorer avec curiosité! Vous êtes comme de petits aventuriers du numérique, toujours prêts à découvrir de nouvelles choses. N'oubliez pas que chaque jour est une nouvelle opportunité d'apprendre et de grandir. Bravo, vous êtes incroyables!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Avant de terminer notre aventure d'aujourd'hui, rappelons-nous de toutes les choses amusantes que nous avons apprises. Les écrans peuvent être amusants, mais il est important de ne pas en abuser. Nous avons aussi découvert comment rester en sécurité en ligne et pourquoi il est bon de bouger. Toutes ces choses nous aident à être en bonne santé et heureux. Vous vous souvenez de tout cela? Je suis sûr que vous le faites!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce temps avec moi aujourd'hui! J'ai adoré explorer le monde des écrans et de la technologie avec vous. N'oubliez pas de partager ce que vous avez appris avec vos amis et votre famille. Je suis sûr qu'ils seront impressionnés par vos nouvelles connaissances! À bientôt pour une nouvelle aventure, mes petits explorateurs. Au revoir et prenez soin de vous!"
+    }
+  ],
+  "title": "Histoire de Screen Time de Tiko"
+}

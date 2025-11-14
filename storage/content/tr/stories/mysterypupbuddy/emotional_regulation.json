@@ -1,0 +1,104 @@
+{
+  "id": "mystery_pup_buddy_emotional_regulation_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "emotional_regulation",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mystery Pup Buddy. Bugün birlikte duygularımızı nasıl daha iyi anlayabileceğimizi öğreneceğiz. Duygular bazen bizi şaşırtabilir, değil mi? Ama merak etme, birlikte bu duygusal yolculuğa çıkarken çok eğleneceğiz! Hazır mısın? Seni çok merak ediyorum."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı tanımak, onları kontrol etmemize yardımcı olabilir. Bazen mutlu, bazen üzgün, bazen de sinirli olabiliriz. Her duygu, bize bir şeyler anlatır. Mesela, üzgün olduğumuzda neden üzgün olduğumuzu anlamak önemlidir. Böylece kendimizi daha iyi hissedebiliriz."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Duygularımızı kontrol etmek için nefes egzersizleri yapabiliriz. Üç derin nefes almayı deneyelim. Birlikte derin nefes alalım ve yavaşça verelim. Bu, kendimizi sakinleştirmemize yardımcı olabilir. Böylece daha iyi düşünebilir ve duygularımızı daha iyi anlayabiliriz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Duygularımızı kontrol etmenin başka yolları da var. Mesela, resim çizerek ya da bir hikaye anlatarak duygularımızı ifade edebiliriz. Sen de bir resim çizmek ister misin? Bu, duygularını dışa vurmanın harika bir yoludur."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir duyguyu hissettiğimizde, onu tanımlamak önemlidir. Mesela, mutlu olduğumuzda neden mutlu olduğumuzu düşünelim. Belki de en sevdiğimiz oyuncağımızla oynadığımız için. Bu, mutlu anlarımızı daha da değerli kılar."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda duygularımızı tanımlamaktan bahsetmiştik. Şimdi, başka bir duyguyu düşünelim. Sinirli olduğumuzda, bu duyguyu nasıl kontrol edebiliriz? Belki de bir süre yalnız kalmak ya da sevdiğimiz bir şeyi yapmak yardımcı olabilir."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Duygularımızı kontrol etmenin bir diğer yolu da dikkat dağıtıcı şeylerle ilgilenmektir. Mesela, bir kitap okumak ya da bir oyun oynamak. Bu, sinirli ya da üzgün olduğumuzda kendimizi daha iyi hissetmemize yardımcı olabilir. Şimdi, sevdiğin bir oyunu düşünelim."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen harikasın! Kendini daha iyi hissetmenin yollarını öğrendik. Hadi şimdi birlikte bir oyun oynayalım. Oyuncaklarını toplamak gibi basit bir oyun olabilir. Bu, hem eğlenceli hem de rahatlatıcı olabilir. Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı kontrol etmek bazen zor olabilir, ama pratik yaparak bunu başarabiliriz. Her gün duygularımızı anlamak için biraz zaman ayırabiliriz. Mesela, gün sonunda hangi duyguları hissettiğimizi düşünebiliriz. Bu, kendimizi daha iyi anlamamıza yardımcı olur."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bugün hangi duyguları hissettin? Mutlu mu, üzgün mü, yoksa biraz sinirli mi? Bu duyguları hatırlamak ve neden böyle hissettiğimizi düşünmek önemlidir. Sen de günün nasıl geçtiğini düşünmek ister misin? Belki de bu duygular hakkında konuşmak istersin."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede hangi duyguları hissettiğimizi düşündük. Şimdi, bu duyguları nasıl ifade edebileceğimizi konuşalım. Duygularımızı bir arkadaşımızla paylaşmak iyi bir fikir olabilir. Bu, kendimizi daha iyi hissetmemize yardımcı olabilir."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Duygularımızı ifade ederken kelimeleri dikkatli seçmeliyiz. 'Bugün biraz üzgünüm çünkü...' diyerek başlamak güzel bir yol olabilir. Bu, karşımızdaki kişinin bizi anlamasına yardımcı olur. Hadi birlikte bir örnek düşünelim: 'Bugün biraz üzgünüm çünkü oyuncak arabam kırıldı.'"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Duygularını ifade etmenin ne kadar önemli olduğunu gördük. Şimdi, bu öğrendiklerimizi günlük hayatımızda nasıl kullanabileceğimizi düşünelim. Her gün duygularımızı ifade etmeye çalışmak, bizi daha mutlu yapabilir. Sen de denemek ister misin?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Bugün öğrendiklerimizi hatırlıyor musun? Duygularımızı kontrol etmek için neler yapabileceğimizi konuştuk. Sen de kendini daha iyi hissetmek için neler yapıyorsun? Belki de en sevdiğin oyuncakla oynamak ya da bir resim çizmek. Senin fikrin nedir?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık! Duygularımızı tanımak ve kontrol etmek için birçok şey öğrendik. Seninle bu konuları konuşmak çok güzeldi. Umarım her zaman duygularını anlayabilir ve ifade edebilirsin. Şimdi veda etme zamanı. Yakında tekrar görüşmek üzere!"
+    }
+  ],
+  "title": "Mystery Pup Buddy'ın Emotional Regulation Hikayesi"
+}

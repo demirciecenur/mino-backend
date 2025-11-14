@@ -1,0 +1,104 @@
+{
+  "id": "yellow_buddy_transitions_story",
+  "character": "Yellow Buddy",
+  "topic": "transitions",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Yellow Buddy. Bugün birlikte değişiklikler hakkında harika bir yolculuğa çıkacağız. Her gün yeni şeyler öğreniyoruz ve bu da geçişler yapmamızı gerektiriyor. Sen de böyle şeyler yaşadın mı? Hazır mısın? Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçişler, bir durumdan diğerine geçmektir. Mesela, sabah uyanıp okula gitmek bir geçiştir. İlk başta zor gelebilir ama alıştıkça daha kolay olur. Her gün yeni şeyler öğrenmek ve farklı şeylerle karşılaşmak bizi büyütür. Sen de sabahları okula gitmek için hazırlanıyor musun?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi sana bir sır vereceğim: Geçişleri kolaylaştırmanın yolları var! İlk olarak, bir rutin oluşturmak çok önemlidir. Mesela, her gün aynı saatte kalkmak ve kahvaltı yapmak gibi. Bu sayede vücudumuz ve zihnimiz ne yapacağını bilir ve daha rahat eder. Senin sabah rutinin var mı?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte bir oyun oynayalım mı? Haydi, sabah rutininizi birlikte oluşturalım. Önce dişlerimizi fırçalayalım, sonra güzelce giyinelim. Ardından kahvaltımızı yapalım. Ne kadar harika bir başlangıç, değil mi? Sen bunu yapabilirsin, harikasın!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda sabah rutininden bahsetmiştik. Şimdi biraz da okuldan eve dönerken neler yapabileceğimize bakalım. Okuldan sonra eve geldiğimizde dinlenmek ve oyun oynamak önemlidir. Bu, okuldan eve geçişi daha eğlenceli hale getirir. Sen okuldan sonra neler yapıyorsun?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi sana okuldan eve dönüşü daha kolay hale getirecek bir ipucu vereyim. Eve gelir gelmez oyuncaklarını toplamak ve biraz dinlenmek iyi bir fikir olabilir. Böylece hem odan düzenli olur hem de enerjin yenilenir. Bu alışkanlıkları edinmek seni daha mutlu yapar. Denemek ister misin?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsun! Şimdi, okuldan sonra en sevdiğin oyunu oynamayı planlayabilirsin. Bu, geçişleri eğlenceli hale getirir. Hangi oyunları seviyorsun? Ben ip atlarken çok eğleniyorum. Belki sen de dener ve eğlenceli bir geçiş yaparsın!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede oyunlardan bahsetmiştik. Şimdi akşamları uykuya geçişi konuşalım. Yatmadan önce kitap okumak ya da masal dinlemek çok rahatlatıcı olabilir. Bu, uykuya geçişi daha kolay hale getirir. Sen yatmadan önce neler yapıyorsun?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Uykuya geçişi kolaylaştırmak için bir önerim var. Her gece aynı saatte yatmak ve uyumadan önce sakinleşmek çok önemlidir. Belki bir masal kitabı seçebilir ya da sevdiğin bir şarkıyı dinleyebilirsin. Bu, uykuya dalmanı kolaylaştırır. Denemek ister misin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkarıyorsun! Şimdi, birlikte üç derin nefes alalım. Derin bir nefes al ve yavaşça ver. Bu, seni daha sakin ve rahat hissettirecek. Sen bunu yapabilirsin! Hazır mısın? Haydi başlayalım!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede nefes egzersizi yapmıştık. Şimdi, hafta sonları geçişleri nasıl yapabileceğimizi düşünelim. Hafta sonları, farklı aktiviteler yaparak geçişleri eğlenceli hale getirebiliriz. Belki bir parkta oyun oynayabilir ya da yeni bir şeyler öğrenebilirsin. Hafta sonları neler yapmayı seviyorsun?"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Hafta sonları en çok hangi aktiviteyi yapmayı seviyorsun? Belki bir resim yapmak ya da bir hikaye yazmak olabilir. Cevabını çok merak ediyorum! Hadi paylaş benimle!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hafta sonları hakkında konuştuktan sonra şimdi mevsim geçişlerine bakalım. İlkbahardan yaz mevsimine geçmek gibi. Her mevsim farklı güzellikler sunar. Mesela, ilkbaharda çiçekler açar, yazın ise deniz kenarında oyun oynayabiliriz. Sen hangi mevsimi daha çok seviyorsun?"
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Mevsim geçişlerini daha eğlenceli hale getirmek için yapabileceğimiz şeyler var. Mesela, her mevsimde farklı bir etkinlik planlayabiliriz. İlkbaharda çiçek toplamak, yazın deniz kenarında oynamak gibi. Böylece her mevsimin tadını çıkarabiliriz. Sen hangi etkinliği denemek istersin?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün seninle geçişler hakkında harika bir yolculuk yaptık. Yeni şeyler öğrenmek ve deneyimlemek bizi büyütür ve güçlendirir. Seninle bu yolculuğu paylaşmak çok keyifliydi. Unutma, her geçiş bir macera ve sen bu maceranın kahramanısın! Bir sonraki macerada görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Yellow Buddy'ın Transitions Hikayesi"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "mino_transitions_story",
+  "character": "Mino",
+  "topic": "transitions",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo kleiner Freund! Ich bin Mino, dein fröhlicher Weltraum-Abenteurer. Heute gehen wir auf eine spannende Reise, um etwas über Übergänge zu lernen. Weißt du, was ein Übergang ist? Es ist, wenn sich etwas ändert, wie wenn du von einer Aktivität zur nächsten wechselst. Bist du bereit, mit mir auf diese Reise zu gehen? Ich bin schon ganz aufgeregt!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Übergänge passieren überall um uns herum. Zum Beispiel, wenn du morgens aufstehst und dich für den Kindergarten fertig machst. Oder wenn du deine Spielsachen wegräumst, um zu essen. Diese Veränderungen können manchmal aufregend, aber auch ein bisschen schwierig sein. Aber keine Sorge, wir werden gemeinsam lernen, wie wir mit ihnen umgehen können. Lass uns anfangen, indem wir über das Aufstehen sprechen."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du morgens aufwachst, ist das der erste Übergang des Tages. Es ist wichtig, aus dem Bett zu kommen und sich für den Tag vorzubereiten. Vielleicht fällt es dir manchmal schwer, aus dem Bett zu kommen, oder? Ein kleiner Trick ist, an etwas Schönes zu denken, das du an diesem Tag machen wirst. Vielleicht ein lustiges Spiel mit Freunden oder ein leckeres Frühstück. Lass uns jetzt zusammen drei tiefe Atemzüge nehmen, um den Tag ruhig zu beginnen."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du hast das wunderbar gemacht! Jetzt, wo wir tief durchgeatmet haben, fühlen wir uns bereit für den Tag. Erinnerst du dich, als wir über das Zähneputzen gesprochen haben? Auch das ist ein Übergang, vom Spielen zum Badezimmer zu wechseln. Es ist wichtig, unsere Zähne sauber zu halten, um gesund zu bleiben. Lass uns zusammen überlegen, wie wir das Zähneputzen zu einem spaßigen Übergang machen können!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vielleicht kannst du beim Zähneputzen ein Lied singen oder einen kleinen Tanz machen. Das macht es gleich viel lustiger! Und danach fühlst du dich frisch und bereit für den nächsten Teil des Tages. Weißt du, es gibt noch viele andere Übergänge, wie wenn du vom Spielen zum Essen wechseln musst. Hast du schon einmal bemerkt, wie sich deine Umgebung verändert, wenn du den Raum wechselst? Lass uns darüber sprechen."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du vom Spielzimmer ins Esszimmer gehst, verändert sich die Umgebung. Vielleicht gibt es im Esszimmer einen Tisch voller leckerer Speisen. Ein Übergang kann auch bedeuten, dass du dich anders verhalten musst, zum Beispiel ruhiger sitzen beim Essen. Es ist okay, wenn das manchmal schwer fällt. Wir können es üben, indem wir ruhig zählen, während wir uns an den Tisch setzen. Lass uns bis fünf zählen!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastisch! Du hast bis fünf gezählt! Das hilft uns, uns auf den nächsten Schritt zu konzentrieren. Übergänge können auch Spaß machen, wie wenn du vom Mittagessen zum Spielen im Garten wechselst. Das ist eine aufregende Veränderung, nicht wahr? Frische Luft und Sonnenschein warten auf dich! Jetzt lass uns darüber sprechen, wie wir uns auf das Spielen vorbereiten."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bevor wir nach draußen gehen, müssen wir uns vielleicht umziehen, um für das Wetter bereit zu sein. Das ist ein kleiner Übergang, bei dem wir sicherstellen, dass wir warm genug oder kühl genug angezogen sind. Vielleicht brauchst du einen Hut oder eine Jacke. Es ist wichtig, dass wir uns wohlfühlen, damit wir das Spielen richtig genießen können. Lass uns überlegen, welche Kleidung wir für einen sonnigen Tag brauchen."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkst du, welche Kleidung brauchst du für einen sonnigen Tag? Vielleicht eine Mütze, um deinen Kopf zu schützen? Oder Sonnencreme, um deine Haut zu schützen? Es ist immer gut, vorbereitet zu sein, damit wir den Tag voll genießen können. Hast du schon einmal gemerkt, wie die Sonne deine Haut wärmt? Das ist ein wunderbares Gefühl, nicht wahr?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir bereit sind, können wir nach draußen gehen und die Abenteuer im Garten genießen. Übergänge ins Freie sind spannend, weil es so viel zu entdecken gibt. Vielleicht siehst du einen Schmetterling oder hörst die Vögel singen. Diese kleinen Veränderungen in der Natur sind auch Übergänge, die wir beobachten können. Lass uns die Augen schließen und uns vorstellen, wie die Vögel fröhlich zwitschern."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du die Vögel gehört? Klingt das nicht schön? Übergänge können auch bedeuten, dass wir uns auf neue Geräusche und Erlebnisse einstellen. Wenn wir abends nach einem aufregenden Tag nach Hause kommen, gibt es einen weiteren Übergang. Es ist Zeit, sich zu beruhigen und sich auf das Zubettgehen vorzubereiten. Lass uns darüber sprechen, wie wir diesen Übergang angenehm gestalten können."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bevor wir ins Bett gehen, können wir eine ruhige Geschichte lesen oder ein leises Lied hören. Das hilft uns, uns zu entspannen und bereit für das Schlafen zu sein. Vielleicht magst du auch ein kleines Nachtlicht, das dir hilft, dich sicher zu fühlen. Ein ruhiger Übergang ins Bett ist wichtig, damit wir gut schlafen können. Lass uns zusammen drei ruhige Atemzüge nehmen, um den Tag zu beenden."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar! Du hast es geschafft, ruhig zu atmen! Jetzt sind wir bereit, ins Bett zu gehen und von neuen Abenteuern zu träumen. Übergänge sind Teil unseres täglichen Lebens, und wir können lernen, sie mit Freude zu meistern. Denk daran, dass jede Veränderung eine neue Möglichkeit ist, etwas Neues zu entdecken. Jetzt lass uns darüber nachdenken, was wir morgen alles erleben könnten."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vielleicht gibt es morgen ein neues Spielzeug zu entdecken oder ein neues Buch zu lesen. Diese kleinen Übergänge bringen immer wieder Überraschungen mit sich. Es ist okay, wenn nicht alles gleich perfekt läuft. Mit ein bisschen Übung werden wir immer besser darin, mit Veränderungen umzugehen. Jetzt lass uns darüber nachdenken, wie schön es ist, jeden Tag etwas Neues zu erleben."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Übergänge zu sprechen! Ich hoffe, du hast viel gelernt und bist bereit für all die wunderbaren Veränderungen in deinem Leben. Denk daran, dass du nicht allein bist, und dass jede Veränderung eine neue Chance ist, etwas Tolles zu erleben. Ich freue mich darauf, bald wieder mit dir auf eine Abenteuerreise zu gehen. Bis dahin, bleib fröhlich und neugierig! Tschüss!"
+    }
+  ],
+  "title": "Minos Transitions Geschichte"
+}

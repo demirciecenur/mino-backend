@@ -1,0 +1,98 @@
+{
+  "id": "spider_fighter_bedtime_story",
+  "character": "Spider Fighter",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Spider Fighter, y hoy vamos a embarcarnos en una aventura maravillosa sobre la hora de dormir. ¿Estás listo para aprender lo importante que es prepararse para ir a la cama? Estoy muy emocionado de compartir contigo algunos consejos divertidos y útiles. Juntos, descubriremos cómo hacer que la hora de dormir sea una experiencia mágica. ¡Vamos a comenzar esta aventura nocturna!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de lo que hacemos antes de dormir. Es importante seguir una rutina para que nuestro cuerpo sepa que es hora de descansar. Algunos niños leen un cuento, otros prefieren escuchar música suave. ¿Sabías que lavarse los dientes también es parte de la rutina? Así cuidamos nuestra sonrisa brillante. ¡Todo esto nos ayuda a relajarnos y dormir mejor!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Recuerda que un baño antes de dormir puede ser muy relajante. El agua caliente ayuda a que nuestros músculos se relajen y nos sentimos más cómodos. Puedes imaginarte que estás nadando en un océano tranquilo. Después del baño, ponte tu pijama favorito. Esto nos indica que estamos listos para descansar. ¿Tienes un pijama favorito que te haga sentir como un pequeño héroe?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Excelente! Ahora que estamos limpios y en pijama, es hora de hacer algo muy especial. Vamos a practicar respiraciones profundas. Inhala lentamente por la nariz contando hasta tres, y luego exhala suavemente por la boca. Esto ayuda a que nuestro cuerpo se relaje aún más. ¿Te gustaría intentarlo conmigo? ¡Vamos, tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Después de nuestras respiraciones, es hora de un cuento. Leer o escuchar una historia nos lleva a mundos mágicos. Podemos imaginar que somos valientes héroes en aventuras increíbles. ¿Cuál es tu cuento favorito antes de dormir? Los cuentos nos ayudan a soñar con cosas maravillosas mientras dormimos. ¡Es como tener una pequeña aventura antes de cerrar los ojos!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de la importancia de apagar las luces. Cuando la habitación está oscura, nuestro cerebro sabe que es hora de dormir. Puedes tener una pequeña luz nocturna si te hace sentir más seguro. También es una buena idea bajar el volumen de cualquier ruido. Así, nuestro dormitorio se convierte en un lugar tranquilo. ¡Un lugar perfecto para soñar!"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas cuando hablamos de la música suave? Escuchar canciones tranquilas nos ayuda a relajarnos. Puedes elegir una melodía que te haga sentir feliz y tranquilo. La música es como un abrazo suave para nuestros oídos. ¿Tienes alguna canción favorita que te guste escuchar antes de dormir? Cuéntame, me encantaría saberlo."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Muy bien! Ahora que hemos hablado de todas estas cosas, estás listo para tener una noche de sueño fantástica. Recuerda que dormir bien nos da energía para jugar y aprender al día siguiente. Eres un pequeño héroe en entrenamiento, y descansar bien es parte de ser fuerte y valiente. ¡Estoy seguro de que lo harás genial!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Cómo te sientes antes de ir a dormir? ¿Te sientes tranquilo y listo para soñar? Es normal sentirse emocionado o un poco nervioso. Siempre puedes hablar con un adulto si necesitas ayuda para relajarte. ¿Hay algo que te gustaría hacer antes de dormir que no hemos mencionado? Estoy aquí para escuchar tus ideas."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda que cada noche es una nueva oportunidad para soñar. Puedes imaginar que vuelas por el cielo como Spider Fighter, ayudando a todos. O tal vez prefieras explorar un bosque mágico lleno de criaturas amistosas. Los sueños son como aventuras que creamos en nuestra mente. ¡Qué emocionante es saber que cada noche podemos vivir una nueva historia!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Antes de dormir, agradece por todas las cosas buenas del día. Pensar en momentos felices nos deja una sensación cálida en el corazón. Puedes decir gracias por tus juguetes, tus amigos, o por la deliciosa cena. Agradecer nos ayuda a sentirnos contentos y en paz. ¡Intenta hacerlo esta noche y verás qué bien te sientes!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que hemos hablado de tantas cosas maravillosas sobre dormir, ¿te gustaría compartir alguna experiencia especial? Tal vez un sueño divertido que tuviste o una rutina que te gusta. Compartir nuestras historias nos hace sentir conectados. Estoy deseando escuchar lo que tienes para contar. ¡Eres un gran narrador!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Estoy muy orgulloso de ti por aprender tanto sobre cómo prepararte para dormir. Recuerda, pequeño héroe, que cada noche es una nueva aventura. Dormir bien te ayuda a estar fuerte y listo para el día siguiente. ¡Sigue practicando tus rutinas y verás lo bien que te sientes siempre!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido maravilloso hablar contigo sobre la hora de dormir. Espero que esta noche tengas sueños increíbles y un descanso reparador. Recuerda que siempre puedes contar conmigo, Spider Fighter, para ayudarte a ser el mejor héroe que puedes ser. ¡Hasta la próxima, pequeño amigo! ¡Dulces sueños y buena noche!"
+    }
+  ],
+  "title": "Historia de Bedtime de Spider Fighter"
+}

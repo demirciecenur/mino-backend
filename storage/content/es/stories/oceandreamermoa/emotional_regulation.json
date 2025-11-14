@@ -1,0 +1,98 @@
+{
+  "id": "ocean_dreamer_moa_regulacion_emocional_manejo_de_emociones_calmarse_autorregulacion_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "regulación emocional, manejo de emociones, calmarse, autorregulación",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Ocean Dreamer Moa, y hoy vamos a embarcarnos en una increíble aventura sobre la regulación emocional. ¿Alguna vez has sentido que tus emociones son como olas en el mar? A veces son suaves, y otras veces son grandes y fuertes. Pero no te preocupes, juntos aprenderemos a navegar estas olas de emociones. ¿Estás listo para descubrir cómo mantener la calma incluso cuando las olas son altas? ¡Vamos, será divertido!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos sobre qué son las emociones. Las emociones son esos sentimientos que tenemos dentro, como cuando te sientes feliz, triste o enojado. ¿Alguna vez has sentido mariposas en el estómago cuando estás emocionado? Eso es una emoción. Las emociones son normales y todos las sentimos. Lo importante es aprender a manejarlas para que no se vuelvan demasiado grandes. ¿Te gustaría saber cómo hacerlo?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Una manera de manejar nuestras emociones es a través de la respiración. Cuando sientas que una emoción es muy fuerte, intenta respirar profundamente. Vamos a practicar juntos. Inhala lentamente por la nariz contando hasta tres, y luego exhala suavemente por la boca. ¿Lo intentamos otra vez? Inhala, uno, dos, tres, y exhala. ¡Genial! Practicar esto puede ayudarte a sentirte más tranquilo."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo muy bien! La respiración profunda es como una varita mágica que calma las olas de tus emociones. Cuando te sientas enojado o triste, recuerda que puedes usar tu respiración para ayudarte a sentir mejor. Es como tener un superpoder secreto. ¿Te gustaría practicar esto cada vez que lo necesites? ¡Estoy segura de que puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos sobre lo que puedes hacer cuando te sientes abrumado. A veces, cuando una emoción es muy fuerte, es útil hacer algo que te guste. Puedes dibujar, cantar o incluso contar una historia. ¿Tienes una actividad favorita que te ayude a sentirte mejor? Hacer algo que disfrutes puede ayudarte a calmarte y a manejar mejor tus emociones. ¿No es fantástico cómo las pequeñas cosas pueden tener un gran impacto?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Otra manera de manejar nuestras emociones es hablando sobre ellas. Cuando compartes cómo te sientes con alguien de confianza, como tus padres o un amigo, es más fácil encontrar una solución. ¿Alguna vez has hablado de tus emociones con alguien? Es como abrir una ventana para que el aire fresco entre y te ayude a sentirte mejor. ¿Por qué no pruebas a hablar sobre tus emociones la próxima vez que te sientas confundido?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo al aprender sobre tus emociones! Recuerda que es completamente normal sentir cosas diferentes cada día. Lo importante es saber que tienes maneras de sentirte mejor. Puedes respirar, hacer algo divertido o hablar con alguien. Todas estas son herramientas que puedes usar cuando lo necesites. Estoy muy orgullosa de ti por ser tan valiente y querer aprender más sobre ti mismo."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, nuestras emociones pueden ser como un torbellino. En esos momentos, es útil imaginar un lugar tranquilo. Cierra los ojos e imagina que estás en una playa soleada, escuchando las olas del mar. Puedes sentir la arena suave bajo tus pies y el sol cálido en tu piel. Este es tu lugar especial donde todo está en calma. ¿Te gustaría visitar este lugar en tu mente cuando te sientas alterado?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabes qué es lo mejor de aprender a manejar tus emociones? ¡Que puedes ayudar a otros también! ¿Cómo crees que podrías ayudar a un amigo que se siente triste o enojado? Tal vez podrías enseñarle a respirar profundamente o invitarlo a jugar un juego divertido. Ayudar a los demás también puede hacerte sentir bien. ¿No te parece maravilloso poder compartir lo que has aprendido con quienes te rodean?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda que cada emoción que sientes es importante y tiene un propósito. Las emociones pueden enseñarnos mucho sobre nosotros mismos. Cuando sientes alegría, es porque algo te hace feliz. Cuando sientes tristeza, es porque algo te importa mucho. Y cuando sientes enojo, es porque algo no te parece justo. Aprender a escuchar tus emociones te ayudará a entenderte mejor. ¿No es increíble lo que podemos aprender de nosotros mismos?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a hacer un pequeño ejercicio juntos. Cierra los ojos e imagina una pequeña llama de una vela. Esta llama es tu calma interior. Cada vez que respiras profundamente, la llama se hace más brillante y fuerte. Ahora, abre los ojos. Este es un ejercicio que puedes hacer siempre que necesites recordar tu calma interior. Es una manera sencilla de conectar con tu paz interna. ¿No crees que es algo hermoso para recordar?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estás haciendo un trabajo increíble al aprender sobre tus emociones! Cada vez que practicas estas habilidades, te haces más fuerte y sabio. Recuerda que no estás solo en este viaje. Siempre puedes contar con las personas que te quieren para apoyarte. Estoy muy orgullosa de ti por ser tan valiente y curioso. ¡Sigue adelante, pequeño aventurero!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría compartir alguna de las cosas que has aprendido hoy con tu familia o amigos? Tal vez podrías enseñarles a respirar profundamente o a imaginar un lugar tranquilo. Compartir lo que sabes puede ser muy divertido y útil. Además, es una gran manera de recordar lo que has aprendido. ¿Estás emocionado de poder ayudar a otros con tus nuevos conocimientos?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido maravilloso compartir este tiempo contigo, hablando sobre la regulación emocional. Recuerda que eres como un valiente navegante, listo para enfrentar cualquier ola que venga. Estoy aquí para ayudarte siempre que lo necesites. Hasta la próxima vez, sigue explorando y aprendiendo. ¡Adiós, pequeño aventurero! Nos veremos pronto para más aventuras emocionantes."
+    }
+  ],
+  "title": "Historia de Emotional Regulation de Ocean Dreamer Moa"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "shell_heroes_crew_bedtime_story",
+  "character": "Shell Heroes Crew",
+  "topic": "bedtime",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük kahraman! Ben Shell Heroes Crew, seninle bu akşam harika bir uyku zamanı macerasına çıkacağız. Gece, günün yorgunluğunu atmak ve yeni maceralara hazırlanmak için harika bir zamandır. Hazır mısın? Seninle birlikte bu yolculuğu paylaşmak için çok heyecanlıyız. Şimdi, yavaşça sakinleşip rahatlamaya başlayalım."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda geceye hazırlandık, değil mi? Şimdi biraz daha detaylı bakalım. Gece uyumadan önce yapmamız gereken bazı rutinler var. Bunlar, günün yorgunluğunu atmamıza ve rahat bir uykuya dalmamıza yardımcı olur. Mesela, pijamalarımızı giymek, dişlerimizi fırçalamak ve yatmadan önce bir hikaye okumak gibi. Bunlar seni uykuya hazırlayan adımlardır."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi pijamalarını giymeyi hatırlıyor musun? Pijamalar, günün kıyafetlerinden farklı olarak seni rahatlatır ve uykuya hazırlar. Onları giydiğinde vücudun gevşer ve uykuya daha kolay dalarsın. Ayrıca dişlerini fırçalamak da çok önemli. Dişlerini fırçalarken, gün boyunca yediğin yiyeceklerin kalıntılarını temizlersin ve böylece dişlerin sağlıklı kalır. Bu küçük adımlar, seni uykuya daha iyi hazırlayacaktır."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi birlikte nefes alalım mı? Derin bir nefes al, burnundan içeriye, sonra yavaşça ver. Bu, seni sakinleştirir ve uykuya daha kolay dalmanı sağlar. Birlikte üç defa derin nefes alalım. Harika! Sen bunu çok iyi yapıyorsun. Bu tür nefes egzersizleri, uyumadan önce zihnini ve bedenini rahatlatır."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki nefes alma egzersizimizi hatırlıyor musun? Şimdi bir sonraki adıma geçelim. Yatmadan önce bir hikaye okuyabiliriz. Hikayeler, hayal gücümüzü geliştirir ve bizi farklı dünyalara götürür. Sen de en sevdiğin hikayeyi seçip okuyabilirsin. Bu, uyumadan önce zihnini sakinleştirir ve seni uykuya hazırlar."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi yatağa girmeye hazır mısın? Yatağın, seni sıcak tutacak ve rahat hissettirecek bir yerdir. Yatağa girdiğinde, kendini bir battaniyenin altında güvende ve huzurlu hissetmelisin. Yatağın rahat olduğunda uykuya daha kolay dalarsın. Yorganını üzerine çek ve başını yastığa yasla. Bu, seni uykuya davet eden bir adımdır."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, uykuya dalmadan önce son bir adım daha yapalım. Gözlerini kapat ve gün içinde yaşadığın güzel anları düşün. Bu, seni mutlu edecek ve huzurlu bir uykuya dalmanı sağlayacaktır. Hayal gücünle güzel bir dünya yarat ve orada dolaş. Sen bunu yapabilirsin, harikasın!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Uyumadan önce en sevdiğin hikayeyi düşünmeye ne dersin? Belki de bir kahramanlık hikayesi ya da macera dolu bir masal olabilir. Senin en sevdiğin hikaye nedir? Eğer istersen, bu hikayeyi hayal edebilirsin. Düşüncelerini bizimle paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki hikaye seçimimizden sonra, şimdi uykuya dalmaya hazırız. Gözlerini kapat ve derin bir nefes al. Yavaşça nefes ver ve bedeninin ağırlaştığını hisset. Bu, seni daha rahat bir uykuya hazırlar. Zihnini sakinleştir ve uykuya dal."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, uykuya dalarken kendine güzel bir rüya dileyebilirsin. Rüyalar, sen uyurken zihninin maceralara çıktığı keyifli yerlerdir. Güzel bir rüya görmek için hayal gücünü kullan ve seni mutlu eden şeyleri düşün. Bu, uyku kaliteni artıracak ve sabah mutlu uyanmana yardımcı olacaktır."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Uykuya dalmadan önce kendine iyi geceler demeyi unutma. Bu, uykuya geçişini daha huzurlu hale getirir. Kendine 'İyi geceler' dediğinde, günün bittiğini ve artık dinlenme zamanının geldiğini kabul etmiş olursun. Harika bir iş çıkardın! Seninle bu yolculuğu paylaşmak çok güzeldi."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence uyku neden bu kadar önemli? Uyku, vücudumuzu dinlendirir ve yeni güne hazırlar. Sen uyandığında kendini nasıl hissediyorsun? Dinlenmiş ve enerjik mi? Paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda uykunun öneminden bahsetmiştik. Şimdi, uyandığında seni bekleyen harika bir gün olduğunu hatırlatmak istiyoruz. Uykun yeterli olduğunda, yeni maceralara atılmak için enerjik ve hazır olursun. Sabah uyandığında, güneşin doğuşunu izleyebilir ve yeni bir günün getirdiği güzellikleri keşfedebilirsin."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Artık seninle bu harika yolculuğun sonuna geldik. Shell Heroes Crew olarak seninle bu uyku zamanı macerasını paylaşmak çok keyifliydi. Unutma, her gece uykuya dalmadan önce kendine iyi geceler demeyi ihmal etme. Şimdi güzel rüyalar gör ve yeni maceralara hazır ol! İyi geceler, küçük kahraman!"
+    }
+  ],
+  "title": "Shell Heroes Crew'ın Bedtime Hikayesi"
+}

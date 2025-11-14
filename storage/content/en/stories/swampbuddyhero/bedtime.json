@@ -1,0 +1,98 @@
+{
+  "id": "swamp_buddy_hero_bedtime_story",
+  "title": "Swamp Buddy Hero's Bedtime Story",
+  "character": "Swamp Buddy Hero",
+  "topic": "bedtime",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little adventurers! I'm Swamp Buddy Hero, your friendly pal from the swamp. Today, we're setting off on a wonderful journey all about bedtime, the magical time when our dreams take flight. Are you ready to join me? I can't wait to hear about your bedtime adventures. Let's snuggle in and get cozy, because it's going to be a fun ride!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, bedtime is a special time of day, isn't it? It's when we wind down from all our exciting adventures and get ready to rest. Do you know why bedtime is important? It's because our bodies need sleep to grow strong and healthy, just like superheroes! When we sleep, our muscles relax, and our minds can dream wonderful dreams. So, let's learn how to make bedtime the best time of the day!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "First, let's talk about getting ready for bed. We start by putting on our pajamas. Do you have a favorite pair? Maybe they have fun patterns or your favorite colors. After that, we brush our teeth to keep them clean and shiny, just like the stars in the sky. And don't forget to wash your face, so it's fresh and ready for sweet dreams. These steps help us feel comfortable and ready for a good night's sleep."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job! You're doing wonderfully. Now, let's try a little exercise to help us relax. How about we take three deep breaths together? Breathe in slowly through your nose, and then out through your mouth. One, two, three... Ah, doesn't that feel nice? Breathing deeply helps us calm down and feel ready for sleep. You can do it anytime you want to feel relaxed. You're a natural at this!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember how we talked about bedtime being special? It's also a time to say goodnight to all our favorite things. We can say goodnight to our toys, our books, and even the moon outside our window. It's like giving them a little hug before we drift off to sleep. Saying goodnight helps us feel connected and safe, knowing that everything will be there waiting for us in the morning. Isn't that a comforting thought?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I'm curious, do you have a bedtime story you love? Stories are a wonderful way to end the day, aren't they? They take us on adventures where we can meet new friends and explore exciting places. Do you like stories about animals, or maybe about faraway lands? Whatever you choose, stories help us relax and imagine all sorts of fun things. What's your favorite bedtime story?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "After our story, it's time to snuggle into bed. Do you have a special blanket or a stuffed animal friend? Having something soft to cuddle can make us feel warm and safe. As we lie in bed, we can close our eyes and think about all the good things that happened during the day. It's like wrapping ourselves in a cozy, happy blanket of thoughts. Sweet dreams are just around the corner!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try another calming exercise before we sleep. How about we count together? We can count the stars in the sky or the sheep jumping over the fence. One, two, three, four, five... Counting helps our mind focus and feel peaceful. It's like a gentle lullaby that guides us into sleep. You can count as many as you like, until you feel your eyes getting sleepy. Isn't that a nice way to relax?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well! Bedtime can be a lovely time to think about what we're grateful for too. Maybe it's the fun you had playing with friends, or the yummy dinner you ate. Thinking about happy things fills our hearts with joy and makes bedtime even more special. You can share your happy thoughts with someone you love, or just keep them in your heart. You're amazing at this!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now let's think about what dreams might come tonight. Maybe you'll fly through the sky with the birds, or swim deep in the ocean with the fish. Dreams are like little adventures we can have while we sleep. What kind of dream would you like to have? Imagining our dreams can be a fun way to end the day. So, what adventure will you choose for tonight?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we get ready to drift off, remember that your bed is your cozy little world. It's a place where you can feel safe and sound. The night is quiet and peaceful, perfect for resting and recharging. Tomorrow will be another day full of adventures and fun. But for now, it's time to let your body relax and your mind wander into dreamland. You're all set for a wonderful night's sleep!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Before we say goodnight, do you have any questions about bedtime? Maybe you're wondering why we need sleep or how dreams work. Questions are great because they help us learn new things. If you have something on your mind, feel free to ask someone you trust. Curiosity is a wonderful thing, and it's always okay to be curious. What would you like to know?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "As we wrap up our bedtime adventure, remember that every night is a new chance to rest and dream. Bedtime routines help us feel calm and ready for the night. Whether it's brushing our teeth, reading a story, or cuddling our favorite toy, these little rituals make bedtime something to look forward to. You're doing a fantastic job, and I'm so proud of you!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Now it's time for me to say goodnight. Thank you for joining me on this bedtime journey, little friend. Remember, I'm always here in the swamp, ready to share more adventures with you. Have a peaceful night full of sweet dreams. Sleep tight, and I'll see you again soon. Goodnight, and sweet dreams!"
+    }
+  ]
+}

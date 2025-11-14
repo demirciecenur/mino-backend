@@ -1,0 +1,104 @@
+{
+  "id": "funny_bunny_bedtime_story",
+  "character": "Funny Bunny",
+  "topic": "bedtime",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Funny Bunny, and I'm so excited to see you! Today, we're going to hop into a magical journey all about bedtime. Are you ready to snuggle up and learn about all the fun things we can do before we drift off to dreamland? Bedtime can be a wonderful adventure, full of cozy blankets and twinkling stars. Let's get ready to explore how we can make bedtime the best time of the day!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about why bedtime is so important. It's the time when our bodies get to rest and recharge, just like a bunny recharging its energy. When we sleep, our brains get to organize all the fun things we learned during the day. It's like putting all our toys back in the toy box. Plus, a good night's sleep helps us wake up happy and ready for a brand new day full of adventures. Isn't that exciting?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about putting toys away? Well, a bedtime routine is like putting our day away neatly. First, we can start by picking up our toys and making sure our room is nice and tidy. This helps us feel calm and ready for sleep. Next, we can brush our teeth to make sure they're clean and shiny. And then, we can put on our cozy pajamas, which is like wrapping ourselves in a warm, soft hug. All these steps help us prepare for a peaceful night."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job getting ready! Now let's do something really fun together. How about we count the stars? Even if we can't see them, we can imagine them twinkling in the sky. Let's count to five together: one, two, three, four, five! Can you imagine the stars dancing around? Counting stars can help us feel calm and sleepy. You're doing amazing! Keep imagining those stars as we continue our bedtime adventure."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've counted stars, let's talk about stories. Bedtime stories are like little adventures we can go on without leaving our bed. They can take us to faraway lands, introduce us to new friends, and even teach us something new. Do you have a favorite bedtime story? Reading a story before bed can help our minds relax and get ready for sleep. It's like a gentle lullaby for our thoughts."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Speaking of lullabies, let's try a little breathing exercise to help us relax even more. Breathing slowly and deeply can make us feel calm and peaceful. Let's take a deep breath in through our nose, hold it for a moment, and then slowly breathe out through our mouth. Let's do it together: inhale, hold, and exhale. Doesn't that feel nice? Breathing like this can help us feel ready to snuggle into bed."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a wonderful job, my friend! Now that we're feeling calm and relaxed, let's think about all the things we're grateful for today. Maybe it's playing with friends, eating a yummy snack, or learning something new. Thinking about happy things before bed can fill our dreams with joy and help us sleep soundly. What are you grateful for today? You're amazing, and I'm so proud of you!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you ever wonder what dreams are like? Dreams are like our own movies that play in our heads while we sleep. Sometimes they're funny, sometimes they're magical, and sometimes they're just plain silly. Have you ever had a funny dream? I love dreaming because it's like going on a new adventure every night. What kind of dreams do you hope to have tonight?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's talk about creating a cozy sleep space. A comfy bed with a soft pillow is perfect for snuggling. You might even have a favorite blanket or stuffed animal to cuddle with. These things can make us feel safe and warm. Having a special bedtime buddy can be like having a friend to share our dreams with. What does your cozy sleep space look like?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember, before we drift off to sleep, it's nice to say goodnight to everyone. We can say goodnight to family, our toys, and even the moon and stars. It's a way to let them know we're going to sleep and we'll see them in the morning. Saying goodnight helps us feel connected and loved. Now, let's practice saying goodnight to everything around us. Goodnight, everyone!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing fantastic! As we get ready to close our eyes, let's think about all the fun we'll have tomorrow. Maybe we'll play a new game, learn something exciting, or go on an adventure. Thinking about tomorrow's possibilities can make us excited to wake up and start a new day. You're going to have a wonderful sleep and an even better day tomorrow!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we've talked about all the things that make bedtime special, let's remember how important it is to rest. Just like bunnies need their sleep to hop around happily, we need our sleep to be our best selves. Sleep helps us grow, learn, and play. It's one of the most important things we can do for ourselves. And you're doing such a great job getting ready for it!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "As we wrap up our bedtime chat, let's remember all the fun things we've talked about. We've counted stars, thought about dreams, and even practiced our breathing. All these things help make bedtime a magical time. It's like a special routine that gets us ready for the best adventure of all—sleep! Are you feeling ready to drift off into a restful slumber?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Before we say goodnight, I have one last question for you. What was your favorite part of our bedtime adventure today? Was it counting stars, thinking about dreams, or maybe our breathing exercise? I love hearing what you enjoyed the most because it helps me make our next adventure even more fun. So, what made you smile the most tonight?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Well, little friend, it's time for me to hop along and let you get some rest. I'm so glad we got to spend this bedtime adventure together. Remember, every night is a new chance for dreams and stories. I hope you have the sweetest dreams and wake up bright and happy. Goodnight, sleep tight, and I'll see you in dreamland! Sweet dreams!"
+    }
+  ],
+  "title": "Funny Bunny's Bedtime Story"
+}

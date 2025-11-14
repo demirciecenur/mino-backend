@@ -1,0 +1,104 @@
+{
+  "id": "mino_adhd_story",
+  "character": "Mino",
+  "topic": "adhd",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mino. Bugün birlikte dikkat eksikliği ve hiperaktivite bozukluğu yani adhd hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Bu konuyu keşfederken yeni şeyler öğreneceğiz. Haydi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dikkat eksikliği ve hiperaktivite bozukluğu, bazı çocukların dikkatlerini odaklamakta zorlandığı bir durumdur. Bu, bazen çok enerjik oldukları ve yerlerinde duramadıkları anlamına gelir. Bu çocuklar, bir aktiviteye uzun süre odaklanmakta zorlanabilirler. Ama merak etme, bu her çocuğun farklı olduğu anlamına gelir. Hepimiz farklı şekillerde öğreniriz ve bu da gayet doğal."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, adhd olan bir çocuğun nasıl hissettiğini anlamaya çalışalım. Bazen bir odada çok fazla ses olduğunda dikkatlerini toplamakta zorlanabilirler. Bu, bir bulmacayı çözmeye çalışırken çok fazla gürültü olduğunu düşün. Bu durumda, küçük molalar vermek ve derin nefes almak çok yardımcı olabilir. Haydi, birlikte üç derin nefes alalım."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Şimdi, odaklanmanın ve sakinleşmenin yollarını öğrenmeye devam edelim. Düşün ki, bir uzay gemisindesin ve her şey senin kontrolünde. Her şeyin nasıl daha iyi olabileceğini düşün ve bunu hayal et. Bu, senin odaklanmana yardımcı olabilir. Sen de bunu denemek ister misin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda odaklanmanın öneminden bahsetmiştik. Şimdi, rutinlerin nasıl yardımcı olabileceğini düşünelim. Rutinler, her gün aynı saatte yapılan işlerdir ve bu, adhd olan çocuklar için çok faydalı olabilir. Örneğin, her sabah aynı saatte kalkmak ve dişlerini fırçalamak gibi. Bu düzen, onların günlük hayatını daha kolay hale getirebilir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir rutin oluşturmak için en sevdiğin aktiviteleri belirleyebilirsin. Bu aktiviteleri her gün aynı sırayla yaparak bir alışkanlık haline getirebilirsin. Mesela, önce oyuncaklarını toplamak, sonra kitap okumak gibi. Bu şekilde, ne zaman ne yapacağını bilmek daha kolay olur. Haydi, sen de kendi rutinini oluşturmayı dene!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Rutinini oluşturduğun için tebrikler! Şimdi, bu rutini nasıl uygulayabileceğini düşünelim. Her gün bu sırayı takip etmek, sana daha fazla düzen ve kontrol hissi verecektir. Bu da seni daha mutlu ve huzurlu hissettirebilir. Harika işler başardığını bilmek çok güzel, değil mi?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Biraz önce rutinlerden bahsettik. Şimdi, küçük molaların önemini konuşalım. Uzun bir süre boyunca bir şeye odaklanmak zor olabilir. Bu yüzden, küçük molalar vererek enerjini yenileyebilirsin. Mesela, beş dakikalık bir yürüyüş yapmak veya su içmek gibi. Bu molalar, seni daha iyi hissettirecek."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte bir mola verelim. Gözlerini kapat ve kendini uzayda hayal et. Etrafında yıldızlar ve gezegenler var. Derin bir nefes al ve bu sessizliği hisset. Bu, odaklanmana ve sakinleşmene yardımcı olabilir. Haydi, birkaç saniye daha bu huzuru yaşayalım."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi, dikkatimizi tekrar topladık. Bu küçük molalar, enerjini geri kazanman için harika bir yol. Sen de bu molaları günlük hayatında sık sık yapabilirsin. Unutma, her küçük adım, büyük bir fark yaratabilir. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, dikkatini toplamanın başka bir yolunu keşfedelim. Oyun oynamak! Evet, oyunlar sadece eğlenceli değil, aynı zamanda odaklanmana da yardımcı olabilir. Mesela, bir yapboz yapmak veya bir resim boyamak gibi. Bunlar, dikkatinizi toplamanın eğlenceli yollarıdır."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir oyun oynarken, dikkatini nasıl topladığını fark ettin mi? Bu oyunlar, seni odaklanmaya teşvik eder. Her bir parça, senin dikkatinle birleşir ve bir bütün oluşturur. Bu, dikkatini nasıl daha iyi kullanabileceğini gösterir. Şimdi, sen de en sevdiğin oyunu seç ve oynamaya başla!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Birlikte birçok şey öğrendik. Peki senin en çok sevdiğin aktivite nedir? Oyun oynamak mı, yoksa resim yapmak mı? Belki de başka bir şeydir. Bunu düşün ve benimle paylaş. Seni dinlemek için sabırsızlanıyorum."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Harika bir seçim! Şimdi, bu aktiviteyi nasıl daha eğlenceli hale getirebileceğimizi düşünelim. Belki birkaç arkadaşını davet edebilir veya yeni bir şey deneyebilirsin. Her gün yeni bir şeyler keşfetmek çok eğlenceli olabilir. Seninle birlikte bunları keşfetmek için sabırsızlanıyorum."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık. Dikkat eksikliği ve hiperaktivite konusunu keşfettik. Unutma, her zaman yeni şeyler öğrenebilir ve kendini geliştirebilirsin. Seninle bu macerayı paylaşmak çok güzeldi. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Mino'ın Adhd Hikayesi"
+}

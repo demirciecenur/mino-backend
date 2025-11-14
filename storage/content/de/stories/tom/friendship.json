@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_friendship_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "friendship",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo kleiner Freund! Ich bin der schlaue Kater Tom. Heute gehen wir auf ein spannendes Abenteuer und lernen etwas über Freundschaft. Bist du bereit? Ich freue mich so sehr, dass du hier bist. Lass uns gemeinsam Spaß haben und viel über Freunde erfahren!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft ist etwas ganz Besonderes. Es bedeutet, jemanden zu haben, mit dem man spielen und lachen kann. Freunde helfen einander und passen aufeinander auf. Hast du schon einmal einem Freund geholfen, wenn er traurig war? Das ist eine wunderbare Art, ein guter Freund zu sein."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Eine wichtige Sache in der Freundschaft ist das Teilen. Wenn wir unsere Spielsachen teilen, zeigen wir, dass uns der andere wichtig ist. Stell dir vor, du hast ein leckeres Stück Kuchen. Wenn du es mit deinem Freund teilst, könnt ihr beide glücklich sein. Teilen macht Freude!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lass uns zusammen zählen, wie viele Freunde du hast. Eins, zwei, drei! Vielleicht hast du sogar noch mehr Freunde. Jeder Freund ist einzigartig und bringt etwas Besonderes in dein Leben. Super gemacht!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an das letzte Mal, als du mit einem Freund gespielt hast? Vielleicht habt ihr ein lustiges Spiel gespielt oder ein schönes Bild gemalt. Solche gemeinsamen Erlebnisse machen die Freundschaft stark. Was macht dir am meisten Spaß mit deinen Freunden?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Manchmal streiten sich Freunde. Das ist ganz normal. Wichtig ist, dass man sich wieder verträgt. Entschuldige dich, wenn du einen Fehler gemacht hast. Ein einfaches 'Es tut mir leid' kann viel bewirken und die Freundschaft wiederherstellen."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt atmen wir zusammen tief ein und aus. Eins, zwei, drei. Fühlst du dich ruhiger? Manchmal hilft es, tief durchzuatmen, wenn man sich aufregt. Das kann helfen, wieder klar zu denken und freundlich zu bleiben."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Weißt du, was das Beste an einem Freund ist? Was denkst du? Ist es das Lachen, die Abenteuer oder die Geheimnisse, die man teilt? Jeder hat seine eigene Meinung dazu. Was ist für dich das Wichtigste in einer Freundschaft?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaften können überall entstehen. Vielleicht hast du einen Freund im Kindergarten oder in der Nachbarschaft. Neue Freunde zu finden kann ein Abenteuer sein. Manchmal reicht ein einfaches 'Hallo' und schon beginnt eine neue Freundschaft."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du neue Freunde finden möchtest, sei offen und freundlich. Lächeln und höflich sein kann Wunder wirken. Frage, ob jemand mit dir spielen möchte. Du wirst sehen, dass viele Kinder genauso gerne neue Freunde finden wie du."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freunde sind wie ein Regenbogen. Jeder bringt eine eigene Farbe in dein Leben. Manche Freunde sind ruhig, andere sind wild und lustig. Jeder Freund ist ein Geschenk, das dein Leben bunter und fröhlicher macht."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lass uns jetzt an drei Dinge denken, die du an deinen Freunden magst. Eins, zwei, drei! Vielleicht ist es ihr Lachen oder dass sie dir zuhören. Es ist immer schön, sich an die guten Dinge zu erinnern."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal einem Freund ein Geschenk gemacht? Was hast du ihm geschenkt? Geschenke müssen nicht groß oder teuer sein. Ein selbstgemaltes Bild oder ein kleiner Keks kann genauso viel Freude bereiten."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich an die Geschichten, die wir über Freundschaft gehört haben? Jede Geschichte zeigt, wie wichtig es ist, ein guter Freund zu sein. Vielleicht hast du auch eine eigene Freundschaftsgeschichte, die du teilen möchtest."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es Zeit, sich zu verabschieden. Ich hoffe, du hast viel über Freundschaft gelernt und Spaß gehabt. Danke, dass du mit mir auf dieses Abenteuer gekommen bist. Bis zum nächsten Mal, kleiner Freund! Tschüss und bis bald!"
+    }
+  ],
+  "title": "Sneaky Cat Toms Friendship Geschichte"
+}

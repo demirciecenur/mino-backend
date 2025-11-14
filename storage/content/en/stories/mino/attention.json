@@ -1,0 +1,104 @@
+{
+  "id": "mino_attention_story",
+  "character": "Mino",
+  "topic": "attention",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little space explorers! I'm Mino, your friendly guide from the stars. Today, we're going to embark on a fun journey to learn all about attention. Attention is like a magical power that helps us focus on the things we love. Are you ready to blast off into the world of concentration with me? Let's put on our imaginary astronaut helmets and get ready for an adventure full of discovery and fun!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Attention is a special skill that helps us see and hear all the amazing things around us. Just like when you watch a butterfly flutter by or when you listen to your favorite story. Paying attention helps us remember important things, like where we left our toys or what we need to do next. It's like having a superpower that makes us better at everything we do. Let's learn how we can use this power every day!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's practice using our attention like a superhero. Imagine you're a detective looking for clues. When we focus, we can find all the tiny details, just like a detective does. Let's try it with a little game. Look around the room and find something red. Can you see it? Great job! Your attention helped you find it quickly. Isn't that amazing?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful work, my little friends! Focusing on one thing at a time helps us do our best. Just like when you build a tower of blocks, you need to pay attention to each block, so it doesn’t fall over. You’re doing a fantastic job learning how to use your attention. Keep it up, and you’ll become even better at it!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about finding the red object? That's a way to practice attention. Now, let's think about when we read a story. When you focus on the pictures and words, the story comes alive in your mind. It's like a movie playing just for you. Paying attention makes everything more exciting and fun. Isn't that cool?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's play another game to help us practice. I want you to close your eyes and take three deep breaths. Inhale slowly, and then exhale. Feel your body calm down and your mind become clear. This helps our attention grow stronger, just like watering a plant helps it grow. Now, open your eyes and see how focused you feel!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Did you notice how calm and focused you felt after taking deep breaths? That's because breathing helps our brains relax and pay attention better. Can you think of other times when paying attention is important? Maybe when you're learning something new or playing a game with friends. It's fun to think about all the ways we use our attention every day!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's think about some other fun activities where we use our attention. Like when you’re coloring a picture, you need to focus on staying inside the lines. Or when you’re playing a game, you need to pay attention to the rules so you can win. Attention helps us do our best and have lots of fun!"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing an amazing job learning how to use your attention! Remember, practice makes perfect. The more we practice paying attention, the better we become at it. Just like learning to ride a bike or tying your shoes. Keep practicing, and you'll be an attention expert in no time!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try another exercise. Imagine you're in a quiet library, and you need to whisper. Whispering helps us focus on our words and keeps the room quiet. Now, let's whisper together: \"I can pay attention!\" Did you hear how quiet and focused that was? Whispering is a fun way to practice our attention skills."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's talk about how we can help our friends pay attention too. When your friend is speaking, you can show them you're listening by looking at them and nodding your head. This helps them feel heard and makes you a great friend. Paying attention to others is an important way to show we care. Isn't it wonderful to be a good listener?"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever noticed how much fun it is when everyone is paying attention during a game? It makes the game more exciting because everyone knows what to do. Can you think of a game where you need to pay close attention? Maybe Simon Says or Follow the Leader? Playing these games helps us practice our attention in a fun way!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about all the amazing things we've learned about attention today. We learned that attention helps us focus, remember, and enjoy everything we do. It's like a magic tool that makes us better at everything. Practicing attention with games, deep breaths, and listening to our friends makes us experts. You're doing great!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "I’m so proud of you for joining me on this adventure about attention. Remember, you have the power to focus and pay attention whenever you need to. Keep practicing, and you'll become even more amazing. You're a star at using your attention! Keep shining bright, my little explorer!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our journey through the world of attention has come to an end. But remember, you can always practice and become even better. Thank you for exploring with me today. I hope you had as much fun as I did. Until next time, keep using your attention to discover new wonders. Goodbye, my little space adventurers!"
+    }
+  ],
+  "title": "Mino's Attention Story"
+}

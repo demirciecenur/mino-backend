@@ -1,0 +1,104 @@
+{
+  "id": "bubu_regulación_emocional_manejo_de_emociones_calmarse_autorregulación_story",
+  "character": "Bubu",
+  "topic": "regulación emocional, manejo de emociones, calmarse, autorregulación",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Bubu, y hoy vamos a embarcarnos en un viaje maravilloso sobre cómo manejar nuestras emociones. A veces, podemos sentirnos tristes, enojados o muy emocionados, y está bien. Aprenderemos formas de calmarnos y sentirnos mejor. ¿Estás listo para comenzar esta aventura? Estoy muy emocionado de que estés aquí conmigo."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, cuando estamos jugando y algo no sale como queremos, podemos sentirnos frustrados. Es como cuando intentamos construir una torre alta, pero se cae una y otra vez. ¿Te ha pasado? Es normal sentir esas emociones. Lo importante es saber qué hacer cuando nos sentimos así. Podemos aprender a respirar profundo y pensar en algo que nos haga sentir tranquilos."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a practicar una técnica para calmarnos. Primero, vamos a respirar profundo. Inhalamos por la nariz contando hasta tres, uno, dos, tres, y luego exhalamos lentamente por la boca. ¿Lo intentamos juntos? Esto nos ayuda a sentirnos más tranquilos y a pensar mejor en lo que queremos hacer después. ¡Lo estás haciendo genial!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ahora que hemos practicado respirar profundo, podemos usarlo cada vez que nos sintamos un poco abrumados. Recuerda que está bien pedir ayuda si la necesitas. Los adultos que te quieren están ahí para ayudarte a calmarte y entender tus emociones. ¡Puedes hacerlo! Eres muy valiente al aprender estas cosas nuevas."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "También podemos usar nuestra imaginación para calmarnos. Cierra los ojos e imagina un lugar que te haga sentir feliz, como un campo lleno de flores o un parque divertido. ¿Puedes ver todos los colores? Concentrarnos en ese lugar puede ayudarnos a sentirnos más tranquilos. Es como un pequeño viaje en nuestra mente."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora vamos a contar juntos. Contemos hasta cinco, uno, dos, tres, cuatro, cinco. ¿Lo ves? Contar despacio también nos ayuda a calmarnos. Cuando estamos enojados o tristes, contar nos da un momento para pensar y decidir cómo queremos sentirnos. Es un truco muy útil que puedes usar en cualquier momento."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Aprender a manejar tus emociones es un superpoder. Puedes enseñarle a tus amigos cómo hacerlo también. Así, todos podrán sentirse mejor juntos. Recuerda que es normal tener diferentes emociones, y aprender a manejarlas nos hace más fuertes. ¡Sigue practicando!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "A veces, también podemos hablar sobre nuestras emociones. Si te sientes triste, puedes decirlo. Decir en voz alta cómo te sientes puede ayudarte a entenderte mejor. Puedes decir, \"Me siento un poco triste porque mi juguete se rompió\". Cuando compartimos nuestras emociones, es más fácil encontrar una solución o sentirnos mejor."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas alguna vez que te sentiste muy feliz? Quizás fue cuando fuiste a un parque o cuando jugaste con tus amigos. ¿Cómo te sentiste en ese momento? Pensar en momentos felices puede ayudarnos cuando estamos tristes. ¿Te gustaría compartir uno de esos momentos conmigo?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Recordar esos momentos felices nos ayuda a sonreír y a sentirnos mejor. Es como tener un tesoro de recuerdos bonitos en nuestro corazón. La próxima vez que te sientas un poco triste, intenta recordar uno de esos momentos especiales. Verás cómo cambia tu estado de ánimo."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "También podemos hacer algo divertido cuando nos sentimos tristes. ¿Te gusta bailar? Poner una canción alegre y movernos puede cambiar cómo nos sentimos. El movimiento y la música tienen el poder de alegrarnos el día. ¡Vamos a intentarlo la próxima vez que necesitemos una sonrisa!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a practicar una última cosa. Vamos a estirar nuestros brazos hacia arriba, como si quisiéramos tocar el cielo. Luego, los bajamos lentamente. Esto nos ayuda a liberar la tensión en nuestro cuerpo y a sentirnos más relajados. Es un gran ejercicio para hacer cuando estás sentado mucho tiempo."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo increíble! Recuerda que cada día es una oportunidad para practicar y aprender más sobre tus emociones. Puedes ser un experto en calmarte y ayudar a otros a hacerlo también. Estoy muy orgulloso de ti por querer aprender y mejorar. ¡Sigue así!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Qué te gustaría hacer la próxima vez que te sientas un poco triste o enojado? ¿Quizás quieras intentar una nueva técnica de respiración o contar hasta diez? Es importante tener un plan para esos momentos. ¿Tienes alguna idea que te gustaría compartir conmigo?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es hora de decir adiós por ahora, pero recuerda que siempre puedes volver a aprender más sobre tus emociones conmigo. Estoy aquí para ayudarte a sentirte mejor cuando lo necesites. ¡Gracias por pasar este tiempo conmigo! Espero que te diviertas practicando todo lo que aprendimos hoy. ¡Hasta la próxima, pequeño amigo!"
+    }
+  ],
+  "title": "Historia de Emotional Regulation de Bubu"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "blu pup_bedtime_story",
+  "character": "Blu Pup",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Blu Pup. Aujourd'hui, nous allons partir pour un merveilleux voyage sur le thème du coucher. Es-tu prêt ? J'ai tellement hâte de partager plein de choses amusantes avec toi. Le coucher peut être un moment magique pour se détendre et se préparer à rêver. Allons découvrir ensemble comment rendre ce moment spécial !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le coucher commence souvent par une routine. Sais-tu ce que c'est, une routine ? C'est quelque chose que l'on fait chaque jour, comme un petit rituel. Par exemple, on peut commencer par ranger ses jouets. Cela aide à garder la chambre bien organisée et prête pour la nuit. Et toi, aimes-tu ranger tes jouets avant de dormir ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Après avoir rangé les jouets, on peut se brosser les dents. C'est une étape très importante pour garder nos dents propres et en bonne santé. Il faut brosser doucement, de haut en bas et ne pas oublier le fond. Faisons semblant de brosser nos dents ensemble, un, deux, trois ! Maintenant, tu es prêt pour la prochaine étape."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo ! Tu as fait un excellent travail en te brossant les dents. Maintenant, c'est le moment de mettre ton pyjama préféré. As-tu un pyjama que tu aimes particulièrement ? Mettre un pyjama confortable aide à se sentir bien au chaud pour la nuit. Quelle couleur est ton pyjama préféré ?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Une fois en pyjama, c'est agréable de lire une histoire. Les histoires sont comme des petits voyages avant de s'endormir. Tu peux choisir un livre avec des images amusantes ou des aventures passionnantes. Quelle est ton histoire préférée ? Lire ensemble peut être un moment très spécial."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, nous allons apprendre à nous détendre avec des respirations calmes. Prends une grande inspiration par le nez... et souffle doucement par la bouche. Encore une fois... Inspire... et souffle. Ça fait du bien, n'est-ce pas ? Ces respirations aident à se sentir calme et prêt à dormir."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Tu fais de grands progrès dans ta routine du coucher. Après les respirations, on peut chanter une petite chanson douce. Les chansons aident à se sentir apaisé. Connais-tu une chanson que tu aimes chanter avant de dormir ? Chantons ensemble pour bien finir la journée."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, avant de dormir, on aime penser à des choses heureuses. Cela peut être quelque chose de spécial qui s'est passé dans la journée, comme un jeu amusant avec des amis. Penser à ces moments heureux nous aide à rêver de belles choses. À quoi aimes-tu penser avant de dormir ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, comment trouves-tu le moment du coucher ? Est-ce que tu as des astuces pour bien t'endormir ? Peut-être un câlin avec ton doudou préféré ? Partager nos astuces peut rendre le coucher encore plus agréable. As-tu une peluche que tu aimes avoir avec toi ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est merveilleux d'avoir un compagnon spécial comme un doudou. Les doudous sont toujours là pour nous réconforter. Ils nous aident à nous sentir en sécurité et prêts à plonger dans le pays des rêves. Quel est le nom de ton doudou ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le moment du coucher est aussi parfait pour des câlins. Les câlins sont doux et nous aident à nous sentir aimés. Quand on se sent aimé, on s'endort plus facilement. Est-ce que tu aimes recevoir un câlin avant de dormir ? Les câlins sont comme une couverture de tendresse."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Avant de fermer les yeux, on peut imaginer un endroit magique. Peut-être une plage avec du sable doux ou une forêt enchantée. Imaginer des endroits merveilleux nous aide à nous détendre. Fermons les yeux et imaginons cet endroit ensemble. Peux-tu voir les couleurs et entendre les sons ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "C'est fantastique ! Imaginer des choses belles et douces aide à rendre le coucher spécial. Tu fais un travail formidable pour te préparer à dormir. Chaque petit pas de la routine rend la nuit plus douce. Continue comme ça, tu es un vrai champion du coucher !"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Qu'est-ce que tu aimes le plus dans ta routine du coucher ? Peut-être est-ce chanter une chanson ou écouter une histoire. Chaque enfant a ses moments préférés. Partager ces moments rend le coucher encore plus spécial. As-tu un moment préféré dans ta routine ?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Il est temps de se dire au revoir, petit ami. J'ai adoré passer ce moment avec toi pour parler du coucher. N'oublie pas tes routines spéciales pour rendre ce moment magique. Je suis sûr que tu feras de beaux rêves. Bonne nuit et à bientôt pour de nouvelles aventures !"
+    }
+  ],
+  "title": "Histoire de Bedtime de Blu Pup"
+}

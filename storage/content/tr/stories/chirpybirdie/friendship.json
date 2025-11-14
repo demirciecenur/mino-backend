@@ -1,0 +1,104 @@
+{
+  "id": "chirpy_birdie_friendship_story",
+  "character": "Chirpy Birdie",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Chirpy Birdie. Bugün birlikte arkadaşlık hakkında harika bir yolculuğa çıkacağız. Arkadaş edinmek, birlikte oynamak ve sosyal becerilerimizi geliştirmek ne kadar eğlenceli olacak, değil mi? Hazır mısın? Seni çok merak ediyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, iki ya da daha fazla kişinin birbirine sevgi ve saygı duymasıdır. Bir arkadaş edinmek, birlikte oyunlar oynamak ve maceralara çıkmak demektir. Arkadaşlarınızla paylaştığınız anılar, sizi hep mutlu eder. Ayrıca, arkadaşlarınızla konuşmak ve birbirinize destek olmak da çok önemlidir. Arkadaşlık, dünyayı daha güzel bir yer yapar."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaş edinmenin en güzel yollarından biri, ortak ilgi alanları bulmaktır. Mesela, parkta bir top oyunu oynarken başka çocuklarla tanışabilirsiniz. Onlara katılmak isteyip istemediklerini sorabilirsiniz. Bu şekilde, hem eğlenir hem de yeni arkadaşlar edinirsiniz. Unutma, herkese nazik ve saygılı davranmak çok önemlidir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte bir oyun oynayalım mı? Şimdi hayal edelim ki bir parkta oyun oynuyoruz ve yeni bir arkadaşla tanışıyoruz. Ona ismini sormak ve oyunumuza katılmasını teklif etmek harika bir başlangıç olur. Hadi, sen de bunu dene! Eminim çok güzel arkadaşlıklar kuracaksın."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda nasıl arkadaş edinebileceğimizden bahsetmiştik. Şimdi, bir arkadaşınla birlikte neler yapabileceğinizi düşünelim. Birlikte resim yapabilir, hikayeler anlatabilir veya dans edebilirsiniz. Bu aktiviteler, arkadaşlık bağınızı güçlendirir ve sizi daha da yakınlaştırır. Arkadaşlarla geçirilen zaman, en güzel zamandır."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaşlarınızı seçerken nelere dikkat etmelisiniz? Öncelikle, sizi mutlu eden ve güldüren kişileri seçeceksiniz. Ayrıca, sizinle ve başkalarıyla nazik olan kişilerle arkadaş olmak önemlidir. Unutmayın, iyi bir arkadaş olmak için de aynı şekilde davranmalısınız. Karşılıklı saygı ve sevgi, arkadaşlıkları güçlü kılar."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika, şimdi birlikte bir oyun daha oynayalım. Haydi, üç derin nefes alalım ve her nefeste yeni bir arkadaşımız olduğunu hayal edelim. Her nefeste, farklı bir isim düşünelim: Ahmet, Ayşe, Zeynep... Ne kadar çok arkadaşımız var, değil mi? Bu oyunu her zaman oynayabilir ve yeni isimler düşünebilirsiniz."
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin en iyi arkadaşın kim? Onunla neler yapmaktan hoşlanıyorsun? Belki de birlikte en sevdiğiniz oyunu oynuyorsunuzdur. Bana biraz anlatmak ister misin? Seni dinlemek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda arkadaşlarımızdan bahsetmiştik. Şimdi, arkadaşlarımızla nasıl daha iyi iletişim kurabileceğimizi düşünelim. İyi bir dinleyici olmak, arkadaşlarımızı anlamamıza yardımcı olur. Sorular sormak ve cevaplarını dikkatle dinlemek, aramızdaki bağı güçlendirir. Bu, arkadaşlıkların kalıcı olmasını sağlar."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Arkadaşlarımıza her zaman olumlu sözler söylemek çok önemlidir. Onları teşvik edebilir ve başarılarını kutlayabiliriz. Mesela, bir arkadaşınız bir resim yaptığında, 'Ne kadar güzel bir resim!' diyebilirsiniz. Bu tür sözler, arkadaşlık ilişkilerinizi güçlendirir ve daha mutlu bir ortam yaratır."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaşlarımızla sorunlar yaşadığımızda ne yapmalıyız? İlk olarak, sakin kalmalı ve duygularımızı ifade etmeliyiz. Arkadaşımıza, 'Bu beni üzdü' veya 'Bunu yapmamız hoşuma gitmedi' diyebiliriz. Böylece, karşımızdaki kişi bizi daha iyi anlar ve çözüm bulabiliriz. Unutma, her sorun konuşarak çözülebilir."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda sorunları çözmekten bahsetmiştik. Peki, sen hiç bir arkadaşınla sorun yaşadın mı? Bu durumda ne yaptın? Belki de konuşarak çözüm bulmuşsundur. Deneyimlerini paylaşmak ister misin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık bazen küçük sürprizler yapmayı da içerir. Arkadaşınıza küçük bir hediye vermek veya ona güzel bir not yazmak, onu mutlu eder. Bu tür jestler, arkadaşlık bağınızı güçlendirir ve sizi daha da yakınlaştırır. Küçük şeyler, büyük mutluluklar yaratabilir."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sen hiç arkadaşına sürpriz yaptın mı? Ona ne hediye ettin veya hangi notu yazdın? Onun tepkisi ne oldu? Bu tür sürprizler yapmayı sever misin? Merakla dinliyorum!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün arkadaşlık hakkında harika şeyler öğrendik, değil mi? Arkadaş edinmenin ve onlarla vakit geçirmenin ne kadar değerli olduğunu gördük. Seninle bu konuları konuşmak çok eğlenceliydi. Şimdi, öğrendiklerini arkadaşlarınla paylaşma zamanı! Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Chirpy Birdie'ın Friendship Hikayesi"
+}

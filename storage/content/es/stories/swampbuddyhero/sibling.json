@@ -1,0 +1,104 @@
+{
+  "id": "swamp_buddy_hero_sibling_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "sibling",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy tu amigo del pantano, el Héroe del Pantano. Hoy vamos a hablar sobre los hermanos. ¿Tienes un hermano o hermana con quien juegas? ¡Qué emocionante, vamos a aprender algo nuevo juntos! Estoy muy curioso por saber cómo te llevas con tu hermano. ¿Estás listo para comenzar esta aventura?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tener un hermano puede ser muy divertido. A veces, pueden ser tus mejores amigos para siempre. Pueden jugar juntos, compartir secretos y hacer travesuras. ¿Recuerdas la última vez que jugaste con tu hermano? ¡Seguro que fue muy divertido! Ahora, vamos a explorar cómo podemos ser buenos hermanos."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ser un buen hermano significa compartir y cuidar uno del otro. Por ejemplo, si tienes un juguete nuevo, podrías compartirlo con tu hermano. También es importante escuchar sus sentimientos y ser amable. ¿Puedes pensar en una forma de demostrarle a tu hermano que te importa? ¡Seguro que se te ocurren muchas ideas geniales!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ahora, vamos a practicar juntos. Imagina que estás jugando con tu hermano y él quiere jugar con tu juguete favorito. ¿Qué harías? Podrías decir: 'Claro, juguemos juntos'. ¡Eso sería muy amable! Compartir hace que el juego sea más divertido para todos. ¡Tú puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos cómo compartir, hablemos sobre resolver problemas. A veces, los hermanos discuten, ¿verdad? Pero eso está bien, porque podemos aprender a resolverlo. Por ejemplo, si ambos quieren el mismo juguete, pueden turnarse. Esto es una manera justa de jugar. ¿Qué te parece intentarlo la próxima vez?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Resolver problemas juntos es una gran habilidad. Puedes empezar por hablar con tu hermano sobre lo que te molesta. Usa palabras amables y escucha lo que él tiene que decir. ¿No sería genial resolver los problemas juntos y seguir jugando? ¡Vamos a intentar ser los mejores hermanos que podemos ser!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Genial! Ahora hablemos sobre hacer cosas divertidas juntos. ¿Te gusta construir castillos de bloques o dibujar? Hacer actividades juntos fortalece su amistad. Puedes decir: 'Vamos a hacer algo divertido juntos'. ¡Así, tendrán muchos recuerdos felices! ¿Qué actividad divertida te gustaría hacer con tu hermano?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos que ser un buen hermano significa estar ahí para tu hermano cuando lo necesite. Cuando está triste, puedes darle un abrazo o contarle un chiste. Un simple gesto puede alegrar su día. ¿Recuerdas la última vez que hiciste reír a tu hermano? ¡Apuesto a que fue un momento especial!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de cómo podemos aprender uno del otro. Tu hermano puede enseñarte cosas nuevas y tú a él. Por ejemplo, si sabes cómo montar una bicicleta, puedes enseñarle a tu hermano. Aprender juntos es una experiencia maravillosa. ¡Inténtalo y verás lo divertido que puede ser!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez has aprendido algo de tu hermano? Tal vez te enseñó a lanzar una pelota o a contar hasta diez. Aprender cosas nuevas juntos fortalece su relación. ¿Qué te gustaría aprender de tu hermano? ¡Estoy seguro de que hay muchas cosas emocionantes por descubrir!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos hablado de aprender juntos, pensemos en cómo podemos ser un buen equipo. Los hermanos que trabajan juntos pueden lograr muchas cosas. Por ejemplo, pueden ayudar a mamá y papá a recoger los juguetes. ¡Así, el trabajo se hace más rápido y pueden tener más tiempo para jugar!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Sigamos adelante y pensemos en cómo podemos apoyarnos mutuamente. Cuando tu hermano necesita ayuda, puedes estar allí para él. Tal vez necesite ayuda con su tarea o quiera que lo animes en su juego. ¡Ser un buen hermano significa estar siempre listo para ayudar!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas algún momento en el que ayudaste a tu hermano? Tal vez fue un pequeño gesto, pero seguro que significó mucho para él. Ser un buen hermano no siempre es fácil, pero es muy importante. ¡Cada pequeño acto de bondad cuenta y hace la diferencia!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Por último, pensemos en lo especial que es tener un hermano. Tener a alguien con quien compartir tus días hace la vida más divertida. Los hermanos son amigos para toda la vida y siempre están ahí para ti. ¡Aprecia cada momento que pasas con tu hermano y hazlo especial!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer hablar contigo sobre los hermanos. Recuerda siempre ser amable, compartir y divertirte con tu hermano. Estoy seguro de que serás un hermano increíble. ¡Gracias por acompañarme en esta aventura! Nos veremos pronto para aprender algo nuevo juntos. ¡Adiós, amigo del pantano!"
+    }
+  ],
+  "title": "Historia de Sibling de Swamp Buddy Hero"
+}

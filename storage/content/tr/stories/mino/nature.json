@@ -1,0 +1,104 @@
+{
+  "id": "mino_nature_story",
+  "character": "Mino",
+  "topic": "nature",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mino, uzayın derinliklerinden gelen dost canlısı bir maceraperestim. Bugün seninle doğanın harikalarını keşfe çıkacağız. Doğa, etrafımızdaki ağaçlar, çiçekler ve hayvanlarla dolu büyülü bir dünya. Hazır mısın? O zaman bu harika yolculuğa birlikte başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Doğa, aslında her gün gördüğümüz ama bazen fark etmediğimiz harika bir dünya. Ağaçlar, çiçekler, kuşlar ve daha birçok canlı bu dünyanın bir parçası. Ağaçlar, bize oksijen verir ve gölgeleriyle serinleriz. Çiçekler ise rengarenk görünümleriyle gözlerimizi şenlendirir. Doğanın içinde kaybolmak, bize huzur verir ve mutlu hissettirir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, doğadaki en önemli canlılardan biri olan ağaçları düşünelim. Ağaçlar kökleriyle toprağa bağlanır ve dallarıyla gökyüzüne doğru uzanır. Her yaprak, güneşten gelen ışığı alır ve bu ışıkla besin üretir. Bu sayede biz de temiz hava soluruz. Ağaçlar olmadan, dünya çok farklı olurdu, değil mi?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte doğanın seslerini dinlemeye ne dersin? Gözlerini kapat ve kuşların cıvıltısını, rüzgarın ağaçlarda çıkardığı hışırtıyı hayal et. Bu sesler, doğanın bizlere sunduğu birer hediyedir. Doğanın bu güzel melodilerini dinlemek, bizi rahatlatır ve mutlu eder. Sen de bu sesleri dinleyip rahatlayabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Doğada birçok farklı hayvan yaşar. Kuşlar, kelebekler, arılar ve daha nicesi. Her biri doğanın dengesini korumak için önemli bir rol oynar. Arılar, çiçeklerden polen toplar ve bu sayede bitkilerin çoğalmasına yardımcı olur. Bu döngü, doğanın ne kadar muhteşem bir sistem olduğunu gösterir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Doğadaki renklerin ne kadar güzel olduğunu hiç düşündün mü? Çimenlerin yeşili, gökyüzünün mavisi, çiçeklerin rengarenk tonları... Her biri ayrı bir güzellik sunar bize. Doğanın renkleri, bizi mutlu eder ve içimizi ısıtır. Bu yüzden doğaya çıktığımızda etrafımıza dikkatlice bakmak çok önemlidir."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen de doğayı korumak için bir şeyler yapabilirsin! Mesela, çöplerimizi doğaya atmamalı ve her zaman geri dönüşüm yapmalıyız. Doğa, bize ihtiyacımız olan her şeyi sunar. Bu yüzden ona iyi bakmak, bizim sorumluluğumuzdur. Sen de doğayı koruyarak büyük bir kahraman olabilirsin!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Doğanın bir parçası olan suyu hiç düşündün mü? Su, yaşamın kaynağıdır ve her canlıya can verir. Nehirler, göller ve denizler dolusu su, dünyamıza hayat verir. Su olmadan bitkiler büyüyemez, hayvanlar yaşayamaz. Bu yüzden suyu israf etmemek, doğayı korumanın önemli bir parçasıdır."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, doğadaki en küçük ama en önemli canlılardan biri olan böcekleri düşünelim. Böcekler, toprağı havalandırır ve bitkilerin büyümesine yardımcı olur. Ayrıca birçok hayvan için de besin kaynağıdırlar. Böcekler olmasaydı, doğanın dengesi bozulurdu. Bu yüzden onlara da saygı duymalıyız."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte bir doğa yürüyüşüne çıkmaya ne dersin? Her adımda yeni bir şey keşfedebiliriz. Belki bir kuş yuvası, belki de farklı bir çiçek türü... Doğa, bize her zaman yeni sürprizler sunar. Bu yüzden doğada yürümek, hem eğlenceli hem de öğretici olabilir."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Doğanın bize sunduğu meyve ve sebzeleri hiç düşündün mü? Elmalar, muzlar, havuçlar... Her biri doğanın bize sunduğu sağlıklı yiyeceklerdir. Bu yiyecekler, büyümemize ve güçlü olmamıza yardımcı olur. Doğanın bize sunduğu bu harika yiyecekleri tüketmek, sağlıklı kalmamız için önemlidir."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Doğanın bir parçası olan hava, soluduğumuz her nefeste bize hayat verir. Temiz hava, sağlıklı bir yaşam için gereklidir. Ağaçlar, havayı temizler ve bize oksijen sağlar. Bu yüzden doğadaki ağaçları korumak, temiz hava solumamız için önemlidir."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen de evde bitki yetiştirmeye ne dersin? Küçük bir saksı bitkisi bile doğanın bir parçası olabilir. Bitkiler, evimize renk ve canlılık katar. Onlara su vererek ve güneşe koyarak büyümelerini sağlayabiliriz. Bu küçük adımla doğayı evimize getirmiş oluruz."
+    },
+    {
+      "id": "question_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Doğada en sevdiğin şey nedir? Belki bir çiçek, belki bir kuş... Herkesin doğada en sevdiği bir şey vardır. Senin favorin ne? Hadi, düşün bakalım!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün doğanın harikalarını birlikte keşfettik. Doğa, bize huzur ve mutluluk veren bir dünyadır. Onu korumak ve sevmek, bizim sorumluluğumuzdur. Seninle bu yolculuğa çıkmak çok güzeldi. Bir sonraki maceramızda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Mino'ın Nature Hikayesi"
+}

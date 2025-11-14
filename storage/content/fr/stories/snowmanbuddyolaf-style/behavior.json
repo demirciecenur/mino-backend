@@ -1,0 +1,104 @@
+{
+  "id": "snowman_buddy_olaf-style_behavior_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis votre ami bonhomme de neige, tout comme Olaf. Aujourd'hui, nous allons explorer ensemble le monde du bon comportement. Êtes-vous prêts pour cette aventure joyeuse? Je suis tellement curieux de découvrir toutes les choses merveilleuses que vous faites chaque jour. Allons-y, plongeons dans ce voyage amusant!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous parlions de comportements gentils? Eh bien, être gentil signifie faire des choses qui rendent les autres heureux, comme partager vos jouets. Imaginez sourire à quelqu'un et voir son visage s'illuminer! N'est-ce pas merveilleux? Maintenant, pensons à d'autres façons d'être gentils chaque jour. Vous pourriez dire 'merci' quand quelqu'un vous aide!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons de l'importance de suivre les règles. Les règles sont comme des amis invisibles qui nous aident à rester en sécurité et heureux. Par exemple, quand on joue, on attend son tour, n'est-ce pas? Cela rend le jeu amusant pour tout le monde. Maintenant, pouvez-vous penser à une règle que vous suivez à la maison? Peut-être ranger vos jouets après avoir joué!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super, vous faites un excellent travail en suivant les règles! Maintenant, essayons un petit exercice ensemble. Prenez une grande inspiration, puis soufflez lentement. Encore une fois, inspirons et expirons. Cela nous aide à nous calmer et à nous concentrer. Vous voyez, être calme nous aide à être plus attentifs et respectueux envers les autres. Bravo à vous!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de l'écoute. Écouter, c'est un peu comme un super pouvoir qui nous aide à mieux comprendre les autres. Quand quelqu'un parle, nous nous concentrons et nous écoutons attentivement. Imaginez que vous écoutez un oiseau chanter une belle chanson. C'est la même chose avec les gens. Essayer d'écouter attentivement aujourd'hui, et dites-moi ce que vous avez appris!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre partie du bon comportement est de respecter les autres. Respecter signifie traiter les autres comme on aimerait être traité. Par exemple, utiliser une voix douce et gentille quand on parle. Vous aimez quand on vous parle gentiment, n'est-ce pas? Alors, faisons de notre mieux pour parler gentiment aux autres aussi. Cela rend le monde plus joyeux!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes fantastiques pour respecter les autres! Continuons à apprendre ensemble. Que diriez-vous de pratiquer le partage aujourd'hui? Partager, c'est donner une partie de ce que l'on a, comme un jouet ou un sourire. Quand on partage, on se fait des amis et on se sent bien à l'intérieur. Prêt à essayer de partager quelque chose aujourd'hui?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons avec un autre point important : dire 'pardon'. Parfois, nous faisons des erreurs, et c'est tout à fait normal. Dire 'pardon' montre que nous sommes désolés et que nous voulons nous améliorer. Imaginez que vous renversez du jus. En disant 'pardon', vous montrez que vous comprenez et que vous voulez aider à nettoyer. C'est une belle façon de montrer que vous vous souciez des autres."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de la patience. La patience, c'est attendre calmement sans se fâcher. Par exemple, attendre son tour pour jouer à la balançoire. Cela montre du respect pour les autres qui attendent aussi. C'est comme attendre que les fleurs poussent, cela prend du temps, mais c'est tellement gratifiant! Essayez d'être patient aujourd'hui et voyez comme c'est agréable."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes incroyables à être patients! Passons à la gentillesse maintenant. Être gentil, c'est faire de petites choses qui font une grande différence, comme aider à ranger. Quand vous aidez, vous rendez les autres heureux et vous vous sentez fier aussi. Pourquoi ne pas essayer d'aider quelqu'un aujourd'hui? Vous verrez, cela rend la journée encore plus lumineuse!"
+    },
+    {
+      "id": "question_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est votre petit acte de gentillesse préféré? Est-ce que c'est de donner un câlin ou de partager un jouet? Peut-être aimez-vous dessiner un joli dessin pour quelqu'un? Pensez à ce qui vous rend heureux et comment vous pouvez rendre les autres heureux aussi. Partagez vos idées avec moi, je suis curieux de les entendre!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de l'importance de dire 'merci'. Dire 'merci' montre que vous appréciez ce que quelqu'un a fait pour vous. Imaginez offrir un cadeau et entendre un 'merci' chaleureux. Cela fait chaud au cœur, n'est-ce pas? Essayez de dire 'merci' aujourd'hui et voyez combien de sourires vous pouvez créer!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Enfin, parlons de la responsabilité. Être responsable, c'est prendre soin de ses affaires, comme ranger ses jouets après avoir joué. Cela montre que vous êtes fiable et que vous pouvez être fier de vous-même. Pensez à une chose pour laquelle vous pouvez être responsable aujourd'hui. Peut-être aider à mettre la table pour le dîner?"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes incroyables à être responsables! N'oubliez pas que chaque petit geste compte. Chaque fois que vous êtes gentil, patient, ou que vous partagez, vous rendez le monde meilleur. Continuez à faire de votre mieux et vous verrez combien vous pouvez apporter de joie autour de vous. Vous êtes des étoiles brillantes!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce temps avec moi, mes petits amis! J'ai adoré explorer le monde du bon comportement avec vous. Continuez à être gentils, à partager, et à dire 'merci'. Je suis si fier de vous et impatient d'entendre toutes vos aventures. À bientôt, et souvenez-vous, vous êtes formidables!"
+    }
+  ],
+  "title": "Histoire de Behavior de Snowman Buddy Olaf-Style"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "blu_pup_nutrición_alimentación_saludable_hábitos_alimentarios_alimentos_saludables_story",
+  "character": "Blu Pup",
+  "topic": "nutrición, alimentación saludable, hábitos alimentarios, alimentos saludables",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Blu Pup y hoy vamos a descubrir algo maravilloso sobre la nutrición. ¿Sabías que lo que comes puede hacerte sentir fuerte y feliz? ¡Es cierto! Comer alimentos saludables es como darle superpoderes a nuestro cuerpo. ¿Están listos para aprender más sobre cómo podemos ser más sanos y fuertes? ¡Vamos a empezar esta divertida aventura juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, amigos, hablemos de los colores de los alimentos. ¿Alguna vez has visto un arcoíris? Comer frutas y verduras de diferentes colores es como tener un arcoíris en tu plato. Los colores no solo hacen que la comida se vea bonita, sino que también cada color tiene algo especial que ayuda a tu cuerpo. Por ejemplo, las zanahorias naranjas son buenas para los ojos. ¿No es increíble?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a aprender sobre las porciones. Imagínate que tu plato es como un círculo. La mitad del círculo debe estar lleno de frutas y verduras. ¿Puedes imaginarte qué frutas o verduras te gustaría poner ahí? La otra mitad se divide en dos partes: una para granos como el arroz o la pasta, y la otra para proteínas como el pollo o los frijoles. ¡Así tendrás un plato equilibrado y delicioso!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Excelente, amiguitos! Ahora que sabemos sobre las porciones, intentemos recordar beber suficiente agua. El agua es muy importante porque mantiene nuestro cuerpo funcionando bien, como una máquina mágica. ¿A quién le gusta saltar y correr? Beber agua te da la energía para hacer todas esas cosas divertidas. Así que, ¡no olvides tomar agua durante el día!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden, amigos, que no todos los alimentos son iguales. Algunos alimentos como los dulces y las papas fritas son para ocasiones especiales. Aunque son muy ricos, no nos dan la energía y fuerza que necesitamos todos los días. Es como si tuvieras un coche que necesita gasolina para funcionar bien. La comida saludable es la gasolina que nuestro cuerpo necesita."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a hacer un pequeño ejercicio juntos. Vamos a respirar profundo, ¿listos? Inhalen por la nariz contando hasta tres, uno, dos, tres, y exhalen por la boca contando hasta tres, uno, dos, tres. ¡Muy bien hecho! Respirar así nos ayuda a sentirnos tranquilos y felices. Podemos hacerlo siempre que queramos sentirnos mejor."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo están haciendo! Vamos a hablar sobre los hábitos alimentarios. Es importante comer a la misma hora todos los días. Esto ayuda a nuestro cuerpo a saber cuándo es hora de recibir energía. Comer juntos en familia también es muy especial porque podemos compartir y aprender juntos. ¿Te gusta comer con tu familia?"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez has probado un nuevo alimento y te ha gustado mucho? A veces probar cosas nuevas puede ser un poco asustador, pero también puede ser muy emocionante. ¿Qué alimentos nuevos te gustaría probar? Tal vez una fruta que nunca hayas visto antes o una verdura de un color diferente. ¡Tú decides!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Cuando probamos comidas nuevas, es una oportunidad para descubrir sabores que nos pueden encantar. Por ejemplo, tal vez a algunos de ustedes les gusta el brócoli porque parece pequeños arbolitos. O quizás prefieren las manzanas porque son crujientes y dulces. ¡Cada uno tiene sus favoritos y eso es lo que hace que la comida sea tan divertida!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a recordar algunas cosas importantes para ser saludables. Primero, comer una variedad de alimentos de diferentes colores. Segundo, beber agua para mantenernos hidratados. Y tercero, disfrutar de las comidas con nuestra familia. ¡Estos son pasos simples que podemos seguir todos los días para sentirnos bien!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo están haciendo genial, amigos! Recuerden que aprender sobre la comida es como una aventura. Cada día podemos descubrir algo nuevo sobre lo que comemos y cómo nos hace sentir. ¡Es como ser un pequeño científico que explora el mundo de los alimentos! ¿Están listos para seguir aprendiendo y explorando?"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdan cuál es su comida favorita? ¿Es algo que les gusta compartir con sus amigos o familiares? Compartir comidas especiales con las personas que amamos hace que esos momentos sean aún más especiales. ¿Por qué no le cuentas a alguien sobre tu comida favorita y le preguntas cuál es la suya?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué emocionante es compartir! Cuando hablamos de nuestras comidas favoritas, también podemos aprender de los demás. Tal vez descubras un nuevo plato que nunca habías probado antes. Y quién sabe, podrías encontrar un nuevo favorito para ti. ¡La comida une a las personas de maneras maravillosas!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bueno, amiguitos, hemos aprendido mucho sobre la nutrición y la alimentación saludable hoy. Espero que se hayan divertido tanto como yo. Recuerden siempre comer de manera colorida y disfrutar de la comida con sus seres queridos. ¡Gracias por acompañarme en esta aventura! Nos vemos pronto para más diversión y aprendizaje. ¡Adiós, amigos!"
+    }
+  ],
+  "title": "Historia de Nutrition de Blu Pup"
+}

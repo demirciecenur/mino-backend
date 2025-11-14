@@ -1,0 +1,104 @@
+{
+  "id": "blu_pup_confidence_story",
+  "character": "Blu Pup",
+  "topic": "confidence",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Blu Pup und heute gehen wir auf ein aufregendes Abenteuer über Selbstvertrauen. Bist du bereit? Selbstvertrauen ist, wenn du an dich glaubst und Dinge ausprobierst, auch wenn sie schwierig sind. Lass uns gemeinsam herausfinden, wie wir unser Selbstvertrauen stärken können. Ich bin so neugierig auf dich und freue mich, mit dir zu sprechen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, Selbstvertrauen ist wie ein unsichtbarer Superhelden-Umhang, den wir alle tragen können. Wenn wir an uns glauben, fühlen wir uns stark und mutig. Stell dir vor, du möchtest ein neues Spielzeug ausprobieren, aber du bist dir nicht sicher, ob du es kannst. Mit Selbstvertrauen sagst du: 'Ich probiere es aus!' Und das ist der erste Schritt zu großen Abenteuern. Lass uns weiter darüber sprechen, wie toll es ist, an sich selbst zu glauben."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn wir Selbstvertrauen aufbauen wollen, können wir mit kleinen Aufgaben beginnen. Zum Beispiel, wie wäre es, wenn du heute deine Spielsachen selbst aufräumst? Das klingt vielleicht einfach, aber jedes Mal, wenn du es machst, wächst dein Selbstvertrauen. Oder wie wäre es, wenn du ein neues Lied lernst? Jedes Mal, wenn du etwas Neues ausprobierst, wirst du mutiger und selbstbewusster. Es ist wie ein Training für deine innere Stärke."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lass uns gemeinsam ein bisschen üben. Stell dir vor, wir zählen zusammen bis fünf. Eins, zwei, drei, vier, fünf! Großartig gemacht! Siehst du, das war ein kleiner Schritt, aber ein wichtiger. Jedes Mal, wenn du etwas Neues machst, wächst dein Selbstvertrauen. Du kannst alles schaffen, wenn du es versuchst. Jetzt lass uns darüber nachdenken, was wir als Nächstes machen können."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an das letzte Mal, als du etwas ganz allein gemacht hast? Vielleicht hast du deine Schuhe ganz alleine gebunden oder ein Bild gemalt. Diese Dinge zeigen, wie viel du schon kannst. Selbstvertrauen wächst, wenn wir uns an unsere Erfolge erinnern. Es ist wichtig, stolz auf das zu sein, was wir erreicht haben. Lass uns noch mehr tolle Dinge entdecken, die du tun kannst."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über Mut sprechen. Mut ist, wenn wir Dinge tun, auch wenn wir ein bisschen Angst haben. Hast du schon einmal etwas gemacht, das dir ein bisschen Angst gemacht hat, aber dann war es gar nicht so schlimm? Vielleicht bist du von einer hohen Rutsche gerutscht. Mut hilft uns, neue Dinge zu erleben und unser Selbstvertrauen zu stärken. Lass uns überlegen, was wir heute Mutiges tun könnten."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wie wäre es, wenn wir heute etwas Neues ausprobieren? Vielleicht ein neues Spiel oder ein neues Buch lesen. Jedes Mal, wenn du etwas Neues ausprobierst, wächst dein Mut und dein Selbstvertrauen. Du kannst stolz auf dich sein, wenn du etwas Neues wagst. Erinnerst du dich daran, wie gut es sich anfühlt, wenn du etwas geschafft hast? Das ist das Gefühl von Selbstvertrauen!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Selbstvertrauen ist auch wichtig, wenn wir mit anderen spielen. Wenn wir an uns glauben, können wir besser mit anderen Kindern teilen und zusammenarbeiten. Stell dir vor, du baust mit Freunden eine Sandburg. Wenn du an deine Baukünste glaubst, wird die Sandburg noch größer und schöner. Selbstvertrauen hilft uns, gute Freunde zu sein und Spaß zu haben."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du eine Idee, wie du heute dein Selbstvertrauen stärken könntest? Vielleicht möchtest du ein neues Spielzeug ausprobieren oder ein neues Lied singen. Was denkst du, könntest du versuchen? Lass uns gemeinsam darüber nachdenken. Es ist spannend zu sehen, wie viele Möglichkeiten es gibt, Selbstvertrauen zu gewinnen."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Aufräumen gesprochen haben? Das ist ein tolles Beispiel, wie wir Selbstvertrauen im Alltag stärken können. Jedes Mal, wenn du deine Spielsachen wegräumst, zeigst du dir selbst, dass du es schaffen kannst. Und das Beste daran ist, dass du dabei immer besser wirst. Jetzt lass uns überlegen, was wir noch tun können, um unser Selbstvertrauen zu stärken."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wie wäre es, wenn wir jetzt ein kleines Spiel machen? Stell dir vor, wir sind Superhelden und müssen eine geheime Mission erfüllen. Unsere Mission ist es, drei tiefe Atemzüge zu nehmen, um uns richtig mutig zu fühlen. Atme ein... und aus. Noch einmal. Und noch einmal. Großartig! Jetzt fühlst du dich sicherer und stärker. Lass uns weitermachen und sehen, was wir noch entdecken können."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wirklich toll! Jedes Mal, wenn du etwas Neues wagst, wächst dein Selbstvertrauen. Du kannst stolz auf dich sein. Es ist wichtig, sich selbst zu ermutigen und zu sagen: 'Ich kann das!' Jedes Abenteuer, das du erlebst, macht dich stärker und mutiger. Lass uns weitermachen und sehen, was wir noch alles schaffen können."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, Selbstvertrauen hilft uns auch, wenn wir Fehler machen. Fehler sind ein Teil des Lernens, und es ist okay, sie zu machen. Wenn wir uns selbst vertrauen, wissen wir, dass wir aus Fehlern lernen und es beim nächsten Mal besser machen können. Denk daran, dass jeder Fehler eine neue Chance ist, etwas zu lernen und zu wachsen. Lass uns überlegen, wie wir aus unseren Fehlern lernen können."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkst du, was wir aus Fehlern lernen können? Vielleicht kannst du dich an einen Fehler erinnern, den du gemacht hast, und was du daraus gelernt hast. Es ist spannend zu sehen, wie wir durch Fehler stärker werden. Hast du eine Idee, was du als Nächstes ausprobieren möchtest? Lass uns darüber nachdenken und gemeinsam neue Abenteuer planen."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, heute mit dir über Selbstvertrauen zu sprechen. Du bist wirklich mutig und stark, und ich bin so stolz auf dich. Vergiss nie, dass du alles schaffen kannst, wenn du an dich glaubst. Ich freue mich schon auf unser nächstes Abenteuer. Bis bald, kleiner Freund, und denk daran, du bist ein Superheld mit einem unsichtbaren Umhang!"
+    }
+  ],
+  "title": "Blu Pups Confidence Geschichte"
+}

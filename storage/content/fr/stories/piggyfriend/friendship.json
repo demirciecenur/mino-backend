@@ -1,0 +1,104 @@
+{
+  "id": "piggy friend_friendship_story",
+  "character": "Piggy Friend",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Piggy Friend. Aujourd'hui, nous allons découvrir ensemble le merveilleux monde de l'amitié. Êtes-vous prêt pour cette aventure amusante ? Je suis si curieuse de tout savoir sur vous et vos amis ! L'amitié, c'est comme un grand câlin chaleureux que l'on partage avec les gens qu'on aime. Commençons notre voyage magique !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est très important, tu sais ? Avoir des amis, c'est comme avoir des compagnons pour jouer et apprendre ensemble. Par exemple, as-tu déjà joué à cache-cache avec un ami ? C'est tellement amusant de se cacher et de chercher ensemble ! Les amis nous aident à être heureux et à découvrir de nouvelles choses tous les jours. Maintenant, parlons de comment on peut être un bon ami !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour être un bon ami, il faut être gentil et partager. Partager, c'est comme prêter tes jouets à un ami pour qu'il puisse aussi s'amuser. C'est aussi écouter quand ton ami veut te raconter quelque chose d'important. Quand on est un bon ami, on aide les autres et on joue ensemble avec joie. Tu vois, être gentil rend tout le monde heureux !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Maintenant, essayons ensemble un petit exercice. Imagine que tu as un jouet préféré. Peux-tu imaginer le prêter à ton ami ? C'est génial de partager et de voir ton ami sourire ! Et si ton ami est triste, tu peux lui faire un câlin pour le réconforter. Tu es vraiment un super ami !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Tu sais, les amis peuvent être très différents, et c'est ce qui rend l'amitié si spéciale. Peut-être as-tu un ami qui aime dessiner, et un autre qui préfère courir. C'est amusant d'apprendre de nouvelles choses grâce à nos amis ! Chaque ami apporte quelque chose d'unique à notre vie. Maintenant, parlons de comment rencontrer de nouveaux amis !"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour se faire de nouveaux amis, il suffit parfois de dire bonjour avec un grand sourire. Tu pourrais aussi demander à quelqu'un s'il veut jouer avec toi. N'oublie pas de dire s'il te plaît et merci, car la politesse est très importante. Faire des amis, c'est comme planter de petites graines de bonheur qui grandissent avec le temps. Essaie, tu verras combien c'est amusant !"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, essayons ensemble ! Imagine que tu es dans un parc. Peux-tu dire bonjour à un autre enfant ? Tu pourrais dire : 'Bonjour, veux-tu jouer avec moi ?' C'est si simple et cela pourrait être le début d'une belle amitié. Tu es courageux et plein de bonnes idées !"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, les amis ne sont pas d'accord, et c'est tout à fait normal. L'important, c'est de parler et de trouver une solution ensemble. Peut-être que tu pourrais proposer de jouer à un autre jeu que vous aimez tous les deux. Quand on résout des problèmes ensemble, l'amitié devient encore plus forte. Parlons maintenant de comment on peut s'amuser avec nos amis !"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Il y a tellement de façons de s'amuser avec ses amis ! Tu peux jouer à des jeux de société, faire des dessins ensemble, ou même inventer des histoires. Chaque moment passé avec un ami est spécial. Tu peux aussi organiser un pique-nique avec tes amis et partager des friandises. La joie est encore plus grande quand elle est partagée !"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons de compter ensemble toutes les choses amusantes que l'on peut faire avec nos amis. Un, jouer à cache-cache. Deux, chanter des chansons. Trois, faire des puzzles. Tu vois, il y a tellement de choses à faire ! Chaque jour est une nouvelle aventure avec tes amis. Bravo, tu es plein d'énergie et de bonnes idées !"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu un meilleur ami ? Quel est son nom ? C'est merveilleux d'avoir quelqu'un avec qui partager des secrets et des rires. Peut-être aimez-vous jouer ensemble à des jeux amusants ou inventer des histoires. Quel est ton jeu préféré avec tes amis ? C'est toujours excitant de découvrir ce que les autres aiment faire !"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les amis sont comme des étoiles qui illuminent notre ciel. Même s'ils ne sont pas toujours visibles, ils sont toujours là pour nous. Parfois, il suffit d'un sourire ou d'un mot gentil pour montrer à un ami qu'on pense à lui. Les moments passés avec nos amis restent toujours dans nos cœurs. Maintenant, pensons à comment remercier nos amis !"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remercier un ami est très simple et important. Tu peux dire 'Merci' après qu'il t'ait aidé ou joué avec toi. Tu peux aussi lui faire un joli dessin ou un petit cadeau fait maison. Ces petites attentions montrent à quel point tu tiens à ton ami. Les remerciements rendent l'amitié encore plus belle et solide !"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, prenons un moment pour penser à quelque chose de gentil que tu pourrais faire pour ton ami. Peut-être lui prêter ton livre préféré ou l'aider à ranger ses jouets. Chaque petite action compte et montre combien tu es un ami merveilleux. Tu as plein de bonnes idées et un grand cœur !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce moment avec moi, cher ami. J'espère que tu as appris beaucoup sur l'amitié et comment être un super ami. N'oublie pas que chaque jour est une nouvelle opportunité de rendre tes amis heureux. Je suis si fière de toi et de tout ce que tu fais. À bientôt pour une nouvelle aventure !"
+    }
+  ],
+  "title": "Histoire de Friendship de Piggy Friend"
+}

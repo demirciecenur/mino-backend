@@ -1,0 +1,104 @@
+{
+  "id": "bubu_behavior_story",
+  "character": "Bubu",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friend! I'm Bubu, and I'm so happy to see you today. We're going to embark on a wonderful journey to learn all about behavior. Behavior is how we act and what we say. It's important because it helps us make friends and be happy. Are you ready to explore this exciting topic with me? Let's dive into the world of good behavior together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what behavior means. Behavior is like a set of rules we follow every day. It's how we show kindness and respect to others. For example, sharing your toys with a friend is a wonderful behavior. When we follow rules, like listening to our parents, it helps everyone feel safe and happy. Can you think of a time you showed good behavior?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about sharing? Sharing is a great way to show good behavior. When you share, it makes others feel happy and included. Let's pretend we're sharing a big bowl of fruit. Imagine how nice it feels to offer a piece to your friend. When you share, it shows that you care about others. Isn't that wonderful?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing great, and I'm proud of you! Now let's think about helping others. Helping is another part of good behavior. Maybe you can help by picking up toys or setting the table. Each time you help, you're making the world a better place. Can you think of a way to help someone today? I know you can do it!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue and talk about listening. Listening is an important part of being a good friend. When we listen, we learn new things and show respect. Imagine a friend is telling you a story. By listening carefully, you show them that you care about what they're saying. Listening is like a special gift we can give to others. Isn't that a nice thought?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's practice a fun listening game. I'll say something, and you can repeat it. 'Elephants are big and gray.' Can you say that, too? Great job! This game helps us practice listening carefully. Remember, listening is an important part of good behavior. It helps us understand and connect with others."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're becoming a great listener. Next, let's talk about using kind words. Kind words are like magic; they make people smile. Saying 'please' and 'thank you' are examples of kind words. When we use them, we show that we respect others. Can you think of a kind word you'd like to use today? Let's spread kindness everywhere!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's talk about following rules. Rules are like a guide to help us stay safe and happy. For example, a rule might be to hold hands while crossing the street. Following this rule keeps us safe from cars. When we follow rules, it shows that we are responsible and care about ourselves and others. Are there any rules you follow at home or school?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's think about another important rule: taking turns. Taking turns means we wait patiently for our turn to play or speak. Imagine you're playing with a toy, and your friend wants a turn. By waiting patiently, you show good behavior and respect. Taking turns makes playtime fun for everyone. Let's practice taking turns next time we play!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing amazing, and I'm so proud of you! Now, let's talk about being honest. Honesty means telling the truth, even when it's hard. When we're honest, people trust us more. Imagine if you accidentally broke something. Telling the truth shows you are responsible and brave. Can you think of a time you told the truth? That's wonderful!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, let's take a moment to think. Why do you think it's important to have good behavior? When we have good behavior, we make friends and feel happy. It helps us work together and have fun. Do you think you can try to have good behavior every day? I'm sure you can do it!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue with something fun. Imagine we're on a spaceship exploring good behavior planets. Each planet has a special rule to follow. On the Sharing Planet, everyone shares their toys. On the Listening Planet, everyone listens to each other's stories. Isn't it exciting to explore and learn about these planets together?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's imagine we're on the Kind Words Planet. Here, everyone uses kind and gentle words. Let's practice by saying, 'You're a great friend.' Can you say it with me? Great job! Using kind words makes everyone feel loved and happy. Let's remember to use them every day."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're a superstar! You're learning so much about good behavior. Remember, every time you show good behavior, you make the world a happier place. It's like spreading sunshine wherever you go. Keep practicing, and you'll be a behavior hero in no time. I believe in you!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for spending time with me today, exploring the world of good behavior. Remember, you have the power to make a difference with your kind actions. Keep being the wonderful person you are, and always try to do your best. I hope to see you again soon for more adventures. Goodbye for now, my little friend!"
+    }
+  ],
+  "title": "Bubu's Behavior Story"
+}

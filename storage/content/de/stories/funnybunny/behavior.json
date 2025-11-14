@@ -1,0 +1,104 @@
+{
+  "id": "funny_bunny_behavior_story",
+  "character": "Funny Bunny",
+  "topic": "behavior",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, mein kleiner Freund! Ich bin Funny Bunny, und heute gehen wir auf eine lustige Reise, um über Verhalten zu sprechen. Verhalten bedeutet, wie wir uns benehmen und wie wir nette Dinge tun können. Es ist wichtig, damit wir gut miteinander auskommen. Bist du bereit, mehr darüber zu erfahren? Ich bin so gespannt, was wir alles lernen werden!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, Verhalten ist wie ein kleiner Zaubertrick, der alles schöner macht. Wenn du zum Beispiel 'Bitte' und 'Danke' sagst, zauberst du ein Lächeln auf die Gesichter der Menschen. Das macht alle glücklich! Und wenn wir unsere Spielsachen aufräumen, können wir viel besser spielen. Ist das nicht toll? Lass uns zusammen herausfinden, wie wir diese Zaubertricks jeden Tag anwenden können."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Du fragst dich vielleicht, warum Regeln wichtig sind. Regeln helfen uns, sicher und fröhlich zu sein, genauso wie ein Spiel mit klaren Anweisungen. Stell dir vor, du spielst ein Spiel ohne Regeln – das wäre chaotisch, oder? Wenn wir die Regeln befolgen, wissen wir genau, was zu tun ist, und das macht alles viel einfacher und lustiger. Das ist der Trick, um ein glücklicher Hase zu sein!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns ein kleines Spiel spielen, um gutes Verhalten zu üben! Stell dir vor, wir sind im Spielzeugland. Was tust du, wenn du ein Spielzeug siehst, das du magst? Richtig, du fragst freundlich, ob du es haben kannst. Und wenn du fertig bist, räumst du es wieder weg. Super gemacht! Du bist ein Verhaltensexperte!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Aufräumen gesprochen haben? Das ist eines der besten Dinge, die wir tun können, um anderen zu helfen. Stell dir vor, dein Zimmer ist ein kleiner Wald, und die Spielsachen sind Tiere. Wenn du aufräumst, bringst du alle Tiere sicher nach Hause. Ist das nicht eine schöne Art, sich um unseren Wald zu kümmern? Du machst das toll!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt möchte ich dir etwas über das Teilen erzählen. Teilen ist wie das Verteilen von Karotten unter Freunden. Jeder bekommt ein Stück, und alle sind glücklich. Wenn wir unsere Dinge teilen, zeigen wir, dass wir uns um andere kümmern. Das ist ein wunderbares Gefühl, nicht wahr? Probier es aus, und du wirst sehen, wie viel Freude es bringt."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lass uns gemeinsam üben, wie man teilt! Stell dir vor, wir haben eine große, leckere Karotte. Was machen wir? Genau, wir schneiden sie in Stücke und geben jedem ein Stück. Schau, wie glücklich alle sind! Teilen macht Spaß und bringt alle zusammen. Du bist ein toller Freund!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir das Teilen gemeistert haben, lass uns über das Zuhören sprechen. Zuhören ist wie eine magische Sache, die uns neue Geschichten und Ideen bringt. Wenn wir anderen gut zuhören, lernen wir viel und können besser Freunde sein. Hast du schon einmal jemandem zugehört und etwas Neues gelernt? Es ist wie ein kleines Abenteuer in unseren Köpfen!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Um gut zuzuhören, müssen wir unsere Hasenohren ganz weit öffnen. Das bedeutet, dass wir den anderen nicht unterbrechen und aufmerksam sind. So zeigen wir, dass wir interessiert sind und respektvoll. Es ist wie ein kleiner Trick, um Freunde zu gewinnen und zu behalten. Du kannst das bestimmt auch!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns das Zuhören üben! Stell dir vor, ich erzähle dir eine Geschichte über einen kleinen Hasen. Hör genau zu, denn am Ende gibt es eine Überraschung. Bist du bereit? Super, du hörst ganz toll zu! Das macht dich zu einem fantastischen Zuhörer und Freund."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal jemandem geholfen? Wie hat sich das angefühlt? Helfen ist wie ein Zauber, der alle glücklich macht. Wenn wir jemandem helfen, fühlen wir uns gut und sind stolz. Möchtest du mehr darüber erfahren, wie wir helfen können? Ich bin neugierig, wie du anderen hilfst!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns darüber sprechen, wie wir freundlich sein können. Freundlichkeit ist wie Sonnenstrahlen, die alle wärmen. Wenn wir freundlich sind, machen wir die Welt zu einem besseren Ort. Ein einfaches Lächeln oder ein nettes Wort kann den Tag eines anderen erhellen. Hast du heute schon jemanden angelächelt? Das fühlt sich gut an, oder?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Um freundlich zu sein, können wir kleine Dinge tun, wie jemandem die Tür aufhalten oder ein Kompliment machen. Das sind einfache Wege, um Freude zu verbreiten. Wenn wir freundlich sind, fühlen wir uns selbst auch besser. Es ist wie ein kleiner Zaubertrick, der uns allen hilft, glücklicher zu sein. Lass uns das jeden Tag üben!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns eine freundliche Aufgabe machen! Denk an jemanden, dem du heute eine Freude machen kannst. Vielleicht ein Familienmitglied oder ein Freund. Was könntest du tun, um ihnen zu zeigen, dass du sie magst? Lass uns zusammen an einem Plan arbeiten. Du bist wunderbar darin, anderen ein Lächeln zu schenken!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Das war eine wunderbare Reise, mein kleiner Freund! Wir haben so viel über Verhalten gelernt, und du warst fantastisch dabei. Denk daran, dass kleine Taten einen großen Unterschied machen können. Ich bin so stolz auf dich! Danke, dass du mit mir auf diese Abenteuerreise gekommen bist. Bis zum nächsten Mal – ich freue mich schon darauf, wieder mit dir zu plaudern!"
+    }
+  ],
+  "title": "Funny Bunnys Behavior Geschichte"
+}

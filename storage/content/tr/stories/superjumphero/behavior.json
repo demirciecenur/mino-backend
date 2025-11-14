@@ -1,0 +1,104 @@
+{
+  "id": "super_jump_hero_behavior_story",
+  "character": "Super Jump Hero",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Super Jump Hero. Bugün birlikte davranışlar hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Davranışlarımız, başkalarıyla nasıl iyi geçineceğimizi öğrenmemize yardımcı olur. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Davranışlar, günlük hayatımızda nasıl davrandığımızı gösterir. Örneğin, oyuncaklarımızı toplamak iyi bir davranıştır. Bu, hem evimizi temiz tutar hem de annemizi ve babamızı mutlu eder. Ayrıca, kurallara uymak da çok önemlidir. Kurallar, herkesin güvende ve mutlu olmasını sağlar."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi iyi davranışları nasıl geliştirebileceğimize bakalım. Örneğin, sabahları dişlerimizi fırçalamak sağlıklı bir alışkanlıktır. Ayrıca, arkadaşlarımızla oynarken sıra beklemek ve paylaşmak da önemlidir. Bu, arkadaşlarımızla daha iyi anlaşmamıza yardımcı olur. İyi davranışlar, bize ve çevremizdekilere mutluluk getirir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsun! Şimdi birkaç derin nefes alalım ve sakinleşelim. Bir, iki, üç... Nefes al, nefes ver. Bu, kendimizi daha iyi hissetmemize yardımcı olur. İyi davranışlar gösterdiğimizde, kendimize ve başkalarına nasıl yardımcı olduğumuzu unutma."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda iyi davranışlardan bahsetmiştik. Şimdi, neden bazen kötü davranışlar sergilediğimizi inceleyelim. Bazen sinirlenebiliriz veya üzgün olabiliriz, bu da kötü davranışlara yol açabilir. Ancak, bu duyguları kontrol etmeyi öğrenmek önemlidir. Böylece hem kendimiz hem de çevremizdekiler daha mutlu olur."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Duygularımızı kontrol etmek için bazı teknikler öğrenebiliriz. Örneğin, sinirlendiğimizde üçe kadar saymak ve derin nefes almak iyi bir yöntemdir. Ayrıca, birine nasıl hissettiğimizi söylemek de yararlıdır. Böylece, başkaları da bize yardımcı olabilir. Bu tür yöntemler, daha iyi davranışlar sergilememize yardımcı olur."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen bunun üstesinden gelebilirsin! Unutma, iyi davranışlar sergilemek her zaman kolay değildir ama denemeye değer. Şimdi, biraz daha derin nefes alalım. Bir, iki, üç... Rahatla ve mutlu ol. Her şeyden önce, sen harikasın!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hadi düşünelim, bugün hangi iyi davranışları gösterdin? Oyuncaklarını topladın mı? Arkadaşlarına nazik davrandın mı? Bunları düşün ve bana söyle. Hangi davranışların seni ve çevrendekileri mutlu etti?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda iyi davranışlardan bahsetmiştik. Şimdi, davranışlarımızın başkalarını nasıl etkilediğine bakalım. İyi davranışlar sergilediğimizde, çevremizdekiler de mutlu olur ve bize iyi davranır. Bu, arkadaşlıklarımızı ve aile ilişkilerimizi güçlendirir. Davranışlarımız, başkalarının bize nasıl davrandığını belirler."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hadi şimdi, iyi davranışların nasıl yayılabileceğine bakalım. Örneğin, bir arkadaşımıza yardım ettiğimizde, o da başkasına yardım edebilir. Bu, bir iyilik zinciri oluşturur. Herkes birbirine iyi davrandığında, dünya daha güzel bir yer olur. Unutma, küçük bir iyilik büyük bir fark yaratabilir."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen harikasın! Şimdi, bir iyilik düşün ve bunu gerçekleştirmeye çalış. Birine yardım etmek veya nazik bir söz söylemek olabilir. Bu tür davranışlar, hem seni hem de çevrendekileri mutlu eder. Hadi, sen de dene!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda iyilik yapmanın öneminden bahsetmiştik. Şimdi, davranışlarımızın bizi nasıl etkilediğini inceleyelim. İyi davranışlar sergilediğimizde, kendimize olan güvenimiz artar. Bu, kendimizi daha iyi hissetmemize ve daha mutlu olmamıza yardımcı olur. İyi davranışlar, hem iç dünyamızı hem de dış dünyamızı güzelleştirir."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, bir önceki konuşmamızda kendimize olan güvenimizden bahsettik. Şimdi, bunu nasıl geliştirebileceğimize bakalım. Kendimize inandığımızda, daha cesur ve mutlu oluruz. İyi davranışlar, bu inancı güçlendirir. İyi davranışlar sergiledikçe, kendimize daha çok güveniriz."
+    },
+    {
+      "id": "scene_13",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Şimdi senden bir şey duymak istiyorum. Bugün kendine nasıl güvendin? Hangi iyi davranışları sergiledin? Bunları düşün ve bana anlat. Senin hikayeni duymak için sabırsızlanıyorum!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün harika bir yolculuk yaptık, küçük dostum! İyi davranışlar sergilemenin ne kadar önemli olduğunu öğrendik. Unutma, sen harika birisin ve her zaman iyi davranışlar sergileyebilirsin. Bir dahaki sefere görüşmek üzere, hoşça kal! Mutlu ve cesur kal!"
+    }
+  ],
+  "title": "Super Jump Hero'ın Behavior Hikayesi"
+}

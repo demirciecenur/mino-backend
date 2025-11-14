@@ -1,0 +1,104 @@
+{
+  "id": "frost_friend_sid_confidence_story",
+  "character": "Frost Friend Sid",
+  "topic": "confidence",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Frost Friend Sid, your chilly buddy with a warm heart. Today, we're going on a frosty adventure all about confidence. Confidence is like having a big, cozy blanket of bravery wrapped around you. Are you ready to discover how to feel super-duper confident? I'm so excited to share this cool journey with you!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what confidence means. Confidence is when you believe in yourself, like when you say, 'I can do it!' Imagine you're like a little penguin learning to slide on ice. At first, it might be a little wobbly, but with practice, you'll slide smoothly. Confidence helps you try new things without feeling too scared. It's like having a special power inside you!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn how to build confidence together. First, we can practice something easy, like counting to five. Ready? One, two, three, four, five! Great job! Each time you try, you get better and feel more confident. Remember, mistakes are just part of learning, like when a snowflake melts and becomes water. You just try again and keep going!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You did wonderfully with counting! Now, let's try something else. How about pretending to be a brave explorer finding hidden treasures? Imagine you're wearing a big explorer hat and searching for shiny gems. Each step you take, you feel more and more confident, like a brave adventurer. Can you feel the excitement building inside you?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we counted together? That was fun! Confidence is just like that—it grows each time you practice. Think of it like building a snowman. You start with a little snowball, and it gets bigger with each roll. Soon, you have a big, jolly snowman! That's how confidence works too. It grows with each new thing you try!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's imagine we're in a magical forest full of talking trees and friendly animals. The more you explore, the more confident you feel. Now, let's take three deep breaths together. Breathe in, and out. In, and out. One more time, in, and out. Great! Breathing helps calm your mind and makes you feel stronger."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing amazing, little explorer! Now, let's pretend we're climbing a big, tall mountain. Each step is a step towards being more confident. Look around, see the beautiful view, and feel proud of how far you've come. Every time you take a step, you become braver and braver. You can do it!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Wasn't that mountain climb exciting? Confidence is like that mountain. It might seem high at first, but each step makes it easier. Think about the things you can do now that you couldn't do before. Maybe tying your shoes or drawing a picture. Each new skill is like a new star in your confidence sky!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our confidence journey by imagining we're superheroes. You have a special cape that makes you feel brave and strong. With your cape, you can try anything! Maybe you want to sing a song or tell a story. Remember, your superhero cape is your confidence, and it helps you feel ready for anything."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice being confident superheroes. Stand tall, like you're the bravest hero in the world. Stretch your arms up high and say, 'I am confident!' Great! Now, think of something you want to try, like a new game or a puzzle. With your superhero cape, you can do it. Each time you try, your confidence grows!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing fantastic! Now, let's imagine we're in a colorful garden full of flowers. Each flower is a new thing you've learned, like riding a bike or drawing a picture. As you pick each flower, your confidence bouquet grows. Isn't it beautiful to see how much you've achieved? Keep adding more flowers to your garden!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, let's think about something fun. What is something new you'd like to try? Maybe a new dance move or a fun game? How does it feel to imagine yourself doing it? Remember, with a little practice and your confidence cape, you can try anything. What will you choose to explore next?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Thinking about new things is exciting, isn't it? Confidence is like a key that opens doors to new adventures. Imagine you're holding that key and unlocking all the fun possibilities. Each new thing you try is like opening a special door. What exciting adventures do you think are waiting for you?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's wrap up our adventure by remembering how brave and confident you are. Whether it's trying something new or doing something you've done before, each time you grow a little more. Confidence is your friend, just like me, Frost Friend Sid! Keep practicing and exploring, and you'll see just how amazing you can be."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this frosty journey about confidence! Remember, I'm always here to cheer you on. Keep your confidence cape close and let it guide you on all your adventures. Until next time, stay brave and keep shining. Goodbye, little explorer! See you soon!"
+    }
+  ],
+  "title": "Frost Friend Sid's Confidence Story"
+}

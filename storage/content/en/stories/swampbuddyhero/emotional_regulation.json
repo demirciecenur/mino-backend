@@ -1,0 +1,98 @@
+{
+  "id": "swamp_buddy_hero_emotional_regulation_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "emotional_regulation",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, my little friends! I'm Swamp Buddy Hero, and today we're going to explore the amazing world of emotions together. Are you ready for a big adventure? We'll learn how to understand our feelings and keep them in check, just like a real hero! Emotions can sometimes feel like big, wild waves, but don't worry, we've got this. Let's take a deep breath and jump right in!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, remember when you felt really happy, like when you got a big hug or a yummy treat? That feeling is so special and warm, isn't it? But sometimes, we might feel a little sad or mad, and that's okay too. Emotions are like colors in a rainbow; each one is important and beautiful. Just like the swamp has many different plants and creatures, our hearts have many different feelings. Let's learn how to enjoy each one!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "When we feel upset, like when we can't find our favorite toy, it helps to stop and take three big, slow breaths. Let's try it together, shall we? Breathe in slowly through your nose, hold it for a moment, and then let it out gently through your mouth. One more time, breathe in, hold, and out. Doesn't that feel calming? It's like giving your heart a big, warm hug. Great job!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're doing amazing, little hero! When you practice these breaths, you're teaching your body to stay calm, even when you're feeling upset. It's like having a magic trick to help you feel better. Just remember, whenever you feel like a storm is coming, you can always use your special breathing to find your calm. You're becoming an expert at this!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about another time when we might feel a little grumpy. Maybe when it's time to clean up our toys and we're not quite ready. It's normal to feel that way sometimes. But guess what? We can turn it into a fun game! Let's pretend we're superheroes cleaning up to save the day. When we use our imagination, even chores can be an adventure!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try another trick for when we're feeling a bit overwhelmed. It's called counting. Just like counting frogs in the swamp, we can count slowly to five. One, two, three, four, five. Each number helps us feel a little more in control. It's like building a bridge over a big puddle, one step at a time. Want to try it with me? Let's count together!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastic counting, my friend! You're really getting the hang of this. Each time you count, you're giving yourself a moment to pause and think. It's like pressing a pause button on a movie when you need a break. You can use counting whenever you need a moment to calm down. Keep practicing, and you'll be a counting hero in no time!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about feeling happy? Let's try to find that happy place even when we're feeling a little sad. We can think of something that makes us smile, like a sunny day or playing with a friend. Close your eyes and picture it in your mind. It's like having a special treasure chest of happy thoughts that you can open anytime. Let's fill it up with all the things that make us giggle!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you felt really proud of yourself? Maybe when you learned something new, like tying your shoes or drawing a picture. How did that make you feel inside? It's important to remember those moments because they help us feel strong and confident. What other things make you feel proud? I'd love to hear your stories!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Wow, those are some wonderful stories! You're such a brave little hero. Every time you try something new, you're growing stronger and more amazing. It's like adding a new leaf to a big, beautiful tree. Keep reaching for the stars and trying new things. You're doing fantastic, and I'm so proud of you!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's talk about another way to handle our emotions. Sometimes, talking to someone we trust can help. It can be a parent, a teacher, or a friend. Sharing our feelings is like opening a window to let fresh air in. It clears our minds and makes us feel lighter. If you ever feel confused or upset, remember that you can always talk to someone who cares."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a great job learning about emotions! Remember, every feeling is important, and you're learning how to handle them like a true hero. With each new trick you learn, you're becoming more and more amazing. Keep practicing and remember, you can always come back to these tricks whenever you need them. You're unstoppable!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's remember all the things we've learned today. We talked about taking deep breaths, counting slowly, and thinking of happy thoughts. We also learned about talking to someone we trust. All these tricks are tools you can use every day, just like a superhero uses their special powers. You're building your own toolkit for handling emotions. Isn't that exciting?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this adventure, my little heroes! You've done an amazing job learning about emotions. Remember, you've got all the tools you need to handle anything that comes your way. Keep practicing, have fun, and never forget how incredible you are. Until next time, keep shining bright and being the best you can be. Goodbye, and see you soon!"
+    }
+  ],
+  "title": "Swamp Buddy Hero's Emotional Regulation Story"
+}

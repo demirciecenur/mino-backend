@@ -1,0 +1,104 @@
+{
+  "id": "super_jump_hero_sibling_story",
+  "character": "Super Jump Hero",
+  "topic": "sibling",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Super Jump Hero. Heute machen wir eine spannende Reise über Geschwister. Bist du bereit? Ich bin so neugierig, was wir zusammen entdecken werden. Lass uns mit einem großen Lächeln beginnen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister zu haben ist etwas ganz Besonderes. Sie sind deine ersten Freunde und Spielkameraden. Mit ihnen kannst du die tollsten Abenteuer erleben. Manchmal kann es auch kleine Streitereien geben, aber das ist normal. Wichtig ist, dass man sich immer wieder verträgt."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber sprechen, wie wir mit unseren Geschwistern gut auskommen können. Es ist wichtig, dass wir teilen und zusammen spielen. Wenn du ein Spielzeug hast, das dein Bruder oder deine Schwester mag, könntest du es ihnen ausleihen. Teilen macht Freude und stärkt eure Freundschaft."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du kannst das sicher gut machen. Wenn ihr zusammen spielt, könnt ihr euch tolle Geschichten ausdenken. Vielleicht seid ihr Piraten auf einem großen Schiff oder Entdecker in einem geheimnisvollen Dschungel. Eurer Fantasie sind keine Grenzen gesetzt!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an das letzte Mal, als du etwas mit deinem Geschwisterkind geteilt hast? Vielleicht war es ein Keks oder ein Spielzeug. Es hat sich bestimmt gut angefühlt, oder? Wenn wir teilen, zeigen wir, dass wir aneinander denken und uns wichtig sind."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt lass uns überlegen, wie wir Streit vermeiden können. Wenn du dich ärgerst, atme tief durch. Zähle langsam bis fünf. Eins, zwei, drei, vier, fünf. Fühlst du dich jetzt etwas besser? Das hilft, um ruhig zu bleiben und Lösungen zu finden."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du manchmal Streit mit deinem Geschwisterkind? Was machst du dann, um euch wieder zu vertragen? Vielleicht könnt ihr zusammen ein Bild malen oder ein lustiges Spiel spielen. Es gibt immer eine Möglichkeit, sich wieder zu verstehen."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister können die besten Geheimnishüter sein. Du kannst ihnen alles erzählen, was dich beschäftigt. Sie hören dir zu und helfen dir, wenn du traurig bist. Gemeinsam könnt ihr lachen und neue Abenteuer planen."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lasst uns eine kleine Übung machen. Überlege dir drei Dinge, die du an deinem Geschwisterkind besonders magst. Ist es ihr Lachen oder vielleicht, wie sie dir helfen? Diese Dinge zu schätzen, kann eure Beziehung noch stärker machen."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar! Du machst das großartig. Es ist schön, die guten Seiten der anderen zu sehen. Das hilft, sich noch mehr zu mögen und die Zeit miteinander zu genießen. Weiter so!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über das Teilen und Verstehen gesprochen haben, lass uns an die lustigen Momente denken. Erinnerst du dich an einen besonders lustigen Moment mit deinem Geschwisterkind? Vielleicht habt ihr zusammen gelacht, bis der Bauch weh tat."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Solche Momente sind unbezahlbar. Sie zeigen, wie viel Spaß es macht, Geschwister zu haben. Auch wenn es manchmal schwierig ist, sind die schönen Erinnerungen das, was bleibt. Halte sie in deinem Herzen."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was würdest du gerne als nächstes mit deinem Geschwisterkind machen? Vielleicht ein neues Spiel ausprobieren oder eine Geschichte erfinden? Die Möglichkeiten sind endlos, und gemeinsam macht alles mehr Spaß!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über all die schönen Dinge gesprochen haben, die Geschwister miteinander erleben können, hoffe ich, dass du dich darauf freust, mehr Zeit mit ihnen zu verbringen. Ihr könnt zusammen wachsen, lernen und die Welt entdecken."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir zu sprechen. Danke, dass du mit mir auf diese Reise über Geschwister gegangen bist. Vergiss nie, wie besonders es ist, ein Geschwisterkind zu haben. Bis zum nächsten Mal, kleiner Held! Tschüss!"
+    }
+  ],
+  "title": "Super Jump Heros Sibling Geschichte"
+}

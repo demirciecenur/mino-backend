@@ -1,0 +1,104 @@
+{
+  "id": "tiko_friendship_story",
+  "character": "Tiko",
+  "topic": "friendship",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Tiko. Heute gehen wir auf ein spannendes Abenteuer über Freundschaft. Bist du bereit? Ich bin so neugierig auf dich. Lass uns zusammen die Magie der Freundschaft entdecken!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft ist etwas ganz Besonderes. Es bedeutet, jemanden zu haben, mit dem man spielen und lachen kann. Freunde helfen einander, wenn jemand traurig ist. Sie teilen Spielsachen und Ideen. Stell dir vor, wie schön es ist, einen Freund zu haben, der immer für dich da ist!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Um ein guter Freund zu sein, müssen wir freundlich und hilfsbereit sein. Das bedeutet, dass wir anderen zuhören und sie respektieren. Es ist wichtig, ehrlich zu sein und zu teilen. Wenn wir das tun, fühlen sich unsere Freunde glücklich und geschätzt. Möchtest du ein solcher Freund sein?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Lass uns zusammen überlegen, wie wir Freundschaft zeigen können. Vielleicht kannst du heute jemandem ein Lächeln schenken. Oder du kannst jemandem helfen, wenn er Hilfe braucht. Das sind kleine Dinge, die einen großen Unterschied machen können!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an das letzte Mal, als du mit einem Freund gespielt hast? Es hat bestimmt Spaß gemacht! Freunde machen das Spielen viel lustiger. Sie bringen neue Ideen und Spiele mit. Und wenn man zusammen spielt, lernt man, wie man teilt und zusammenarbeitet."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Jetzt lass uns an ein Spiel denken, das du gerne mit Freunden spielst. Vielleicht ist es Fangen spielen oder ein lustiges Brettspiel. Was auch immer es ist, es macht immer mehr Spaß, wenn man es mit Freunden teilt. Freunde bringen immer Freude ins Spiel!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Freundschaft bedeutet auch, dass wir manchmal Kompromisse eingehen müssen. Das bedeutet, dass wir manchmal das tun, was unser Freund möchte, und manchmal das, was wir möchten. So sind alle glücklich und niemand fühlt sich ausgeschlossen."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wirklich gut! Es ist wichtig, dass wir auch die Gefühle unserer Freunde verstehen. Wenn ein Freund traurig ist, können wir ihm zuhören und ihn trösten. Das zeigt, dass wir wirklich gute Freunde sind."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal jemandem geholfen, der traurig war? Wie hat sich das angefühlt? Es ist ein tolles Gefühl, wenn wir jemandem helfen können. Und weißt du was? Unsere Freunde werden das nie vergessen. Sie werden immer wissen, dass sie auf uns zählen können."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freunde zu finden kann manchmal eine kleine Herausforderung sein. Aber keine Sorge, es gibt viele Möglichkeiten, neue Freunde zu finden. Du kannst in den Park gehen und dort mit anderen Kindern spielen. Oder du kannst in der Schule neue Freunde finden, indem du nett und offen bist."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich an ein neues Spiel, das du kürzlich gelernt hast? Vielleicht hast du es von einem Freund gelernt! Neue Freunde bringen immer neue und aufregende Spiele mit. Und das Beste daran ist, dass du es dann auch weitergeben kannst!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du jemanden siehst, der alleine spielt, kannst du ihn fragen, ob er mit dir spielen möchte. Das ist eine wunderbare Art, neue Freunde zu finden. Es zeigt, dass du freundlich und offen bist. Und wer weiß, vielleicht wird er dein neuer bester Freund!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich ein toller Freund! Lass uns zusammen ein paar tiefe Atemzüge machen. Einatmen, ausatmen... Das hilft uns, ruhig und glücklich zu bleiben. Und wenn wir glücklich sind, können wir noch bessere Freunde sein!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was ist dein Lieblingsspiel, das du mit Freunden spielst? Warum magst du es so sehr? Spiele sind eine wunderbare Möglichkeit, Freundschaften zu stärken. Sie bringen uns zum Lachen und lassen uns zusammen Abenteuer erleben."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Freundschaft zu sprechen! Jetzt weißt du, wie wichtig Freunde sind und wie man ein guter Freund sein kann. Ich hoffe, du hast viel Spaß dabei, neue Freunde zu finden und mit ihnen zu spielen. Bis zum nächsten Mal, kleiner Freund! Tschüss!"
+    }
+  ],
+  "title": "Tikos Friendship Geschichte"
+}

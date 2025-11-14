@@ -1,0 +1,98 @@
+{
+  "id": "frost_friend_sid_bedtime_story",
+  "character": "Frost Friend Sid",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Frostfreund Sid und heute gehen wir auf eine spannende Reise ins Land der Schlafenszeit. Bist du bereit, mit mir zu kommen? Wir werden viel Spaß haben und viele Dinge über das Einschlafen lernen. Ich bin so neugierig auf all die Abenteuer, die wir zusammen erleben werden. Lass uns anfangen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Schlafenszeit ist eine ganz besondere Zeit des Tages. Es ist die Zeit, in der wir uns von all den aufregenden Dingen erholen, die wir tagsüber gemacht haben. Erinnerst du dich noch an das lustige Spiel, das du heute gespielt hast? Jetzt ist es Zeit, sich zu entspannen und sich auf schöne Träume vorzubereiten. Schlaf hilft uns, groß und stark zu werden, genau wie ein Superheld!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bevor wir ins Bett gehen, gibt es ein paar wichtige Dinge zu tun. Zuerst müssen wir unsere Zähne putzen, um sie sauber und gesund zu halten. Dann ziehen wir unseren kuscheligen Schlafanzug an. Und schließlich kuscheln wir uns mit einem Lieblingsstofftier ins Bett. Jede dieser kleinen Aufgaben hilft uns, uns auf den Schlaf vorzubereiten."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das ganz toll! Jetzt, wo du bereit bist, ins Bett zu gehen, lass uns noch etwas ganz Besonderes machen. Wir können zusammen drei tiefe, ruhige Atemzüge nehmen. Atme tief ein und langsam aus. Das hilft uns, ruhig zu werden und uns auf den Schlaf vorzubereiten. Großartig gemacht!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo du entspannt bist, ist es an der Zeit, über schöne Dinge nachzudenken. Vielleicht überlegst du, was du morgen alles machen möchtest. Oder du denkst an lustige Geschichten, die du gehört hast. Wenn du an glückliche Dinge denkst, wirst du leichter einschlafen. Träume sind wie kleine Abenteuer in deinem Kopf!"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du ein Lieblingsstofftier, das du mit ins Bett nimmst? Ich habe einen kleinen Eisbären, der immer bei mir ist. Er hält mich warm und ich fühle mich nicht allein. Was ist dein liebstes Kuscheltier? Es ist schön, jemanden bei sich zu haben, wenn man schlafen geht, oder?"
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich daran, als wir über das Zähneputzen gesprochen haben? Es ist auch wichtig, unsere Gedanken zu putzen, bevor wir schlafen gehen. Das bedeutet, dass wir über den Tag nachdenken und uns an die schönen Dinge erinnern. Vielleicht hast du heute etwas Neues gelernt oder eine nette Geste gemacht. Diese Gedanken helfen uns, mit einem Lächeln einzuschlafen."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt ist es an der Zeit, eine kleine Geschichte zu hören. Geschichten helfen uns, ruhig zu werden und uns auf die Nacht vorzubereiten. Sie sind wie kleine Abenteuer, die uns in eine andere Welt bringen. Möchtest du eine Geschichte hören? Lass uns zusammen eine ausdenken oder vielleicht erinnert dich eine Geschichte an etwas, das du heute erlebt hast."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich gut darin, Geschichten zuzuhören! Jede Geschichte kann uns etwas Neues beibringen oder uns zum Lachen bringen. Wenn du deine Augen schließt und an die Geschichte denkst, kannst du dir alles genau vorstellen. Das ist wie ein kleiner Film in deinem Kopf. Toll gemacht!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über Geschichten gesprochen haben, lass uns eine kleine Reise in die Traumwelt machen. Träume sind wie magische Orte, die wir besuchen können, während wir schlafen. Vielleicht fliegst du auf einem Drachen oder schwimmst im Meer mit den Fischen. Was würdest du gerne träumen? Alles ist möglich in deinen Träumen!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du schon einmal von einem Traum erzählt, der besonders schön war? Vielleicht warst du ein tapferer Ritter oder eine schlaue Detektivin. Träume können uns so viel Freude bereiten und uns neue Ideen geben. Wenn du morgen aufwachst, kannst du mir alles darüber erzählen. Ich bin gespannt!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal von einem Traum erzählt, der besonders schön war? Vielleicht warst du ein tapferer Ritter oder eine schlaue Detektivin. Träume können uns so viel Freude bereiten und uns neue Ideen geben. Wenn du morgen aufwachst, kannst du mir alles darüber erzählen. Ich bin gespannt!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir alles über Träume und das Schlafengehen gelernt haben, ist es an der Zeit, sich richtig gemütlich zu machen. Zieh deine Decke bis zum Kinn und kuschle dich ein. Stell dir vor, du bist in einer warmen Wolke, die dich umhüllt. Es ist so schön, sich sicher und geborgen zu fühlen. Gute Nacht, mein kleiner Freund."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über das Schlafengehen zu sprechen. Ich hoffe, du hast viel Spaß gehabt und dich entspannt. Schlaf gut und träum etwas Schönes. Ich freue mich darauf, bald wieder mit dir zu plaudern. Bis zum nächsten Mal, gute Nacht!"
+    }
+  ],
+  "title": "Frost Friend Sids Bedtime Geschichte"
+}

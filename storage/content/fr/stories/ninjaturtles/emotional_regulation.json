@@ -1,0 +1,104 @@
+{
+  "id": "shell_heroes_crew_regulation_emotionnelle_gestion_emotions_se_calmer_autoregulation_story",
+  "character": "Shell Heroes Crew",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Nous sommes les Shell Heroes Crew. Aujourd'hui, nous allons explorer un sujet incroyable : comment gérer nos émotions et se calmer. Êtes-vous prêt pour cette aventure ? Nous sommes impatients d'apprendre avec vous. Prenez une grande inspiration, et allons-y ensemble !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les émotions, c'est un peu comme des vagues dans l'océan. Parfois, elles sont calmes et parfois, elles sont très grandes. Avez-vous déjà ressenti une émotion très forte, comme la colère ou la tristesse ? C'est tout à fait normal, et nous allons découvrir comment les gérer. Ensemble, nous apprendrons à surfer sur ces vagues avec courage et tranquillité."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand tu ressens une émotion forte, une bonne astuce est de respirer profondément. Inspirons ensemble par le nez, puis expirons lentement par la bouche. Répétons cela trois fois. Tu vois, cela peut vraiment aider à se sentir plus calme. La respiration est une superpuissance que tu peux utiliser à tout moment !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez fait un excellent travail avec la respiration ! Maintenant, parlons de l'importance de comprendre nos émotions. Quand on sait ce qu'on ressent, c'est plus facile de décider quoi faire. Par exemple, si tu te sens triste, tu pourrais en parler à un adulte ou à un ami. N'oublie pas, parler de ses émotions est une force, pas une faiblesse !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons avec une petite histoire. Imagine que tu es fâché parce que ton jouet préféré s'est cassé. Que pourrais-tu faire ? Peut-être demander de l'aide pour le réparer ou prendre un moment pour jouer à autre chose. Il y a toujours des solutions, et parfois, il suffit de regarder les choses différemment pour se sentir mieux."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre technique géniale est de compter jusqu'à cinq quand tu es en colère ou triste. Comptons ensemble : un, deux, trois, quatre, cinq. Cela te donne le temps de réfléchir et de te calmer. C'est comme une petite pause magique pour ton esprit. Tu peux le faire n'importe où et n'importe quand !"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Maintenant que nous avons appris quelques techniques, n'oublions pas que les émotions sont aussi là pour nous aider. Elles nous disent ce qui est important et ce qui nous rend heureux ou triste. En comprenant nos émotions, nous pouvons mieux prendre soin de nous et des autres. Vous êtes tous des héros des émotions !"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous une émotion préférée ? Peut-être que c'est la joie de jouer avec des amis ou la fierté d'avoir accompli quelque chose de bien. Comment vous sentez-vous quand vous ressentez cette émotion ? C'est important de se souvenir de ces moments heureux et de les partager avec ceux que vous aimez. Voulez-vous nous raconter votre moment préféré ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous que chaque jour est une nouvelle opportunité pour explorer nos émotions. Parfois, on peut se sentir un peu perdu, et c'est normal. Mais avec les outils que nous avons appris aujourd'hui, comme la respiration et le comptage, nous avons le pouvoir de retrouver notre calme. C'est comme être un détective de ses propres émotions !"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant de l'autorégulation. C'est un mot compliqué qui signifie simplement que nous pouvons contrôler nos réactions. Par exemple, si quelqu'un prend ton jouet, au lieu de crier, tu peux demander poliment de le récupérer. C'est une façon de montrer que tu es maître de tes émotions. Essayons ensemble de dire : 'Puis-je récupérer mon jouet, s'il te plaît ?'."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo pour tous vos efforts ! Vous êtes en train de devenir des experts en gestion des émotions. Chaque fois que vous utilisez ces techniques, vous devenez plus fort et plus calme. N'oubliez pas que nous sommes toujours là pour vous aider. Vous êtes des héros et nous sommes fiers de vous !"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà aidé un ami à se calmer ? Peut-être en lui tenant la main ou en lui parlant doucement. C'est une belle façon de montrer qu'on se soucie de quelqu'un. Comment vous vous sentez quand vous aidez quelqu'un d'autre ? C'est une sensation de chaleur et de bonheur, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nous avons exploré beaucoup de choses aujourd'hui. Nous avons appris à respirer, à compter, et à comprendre nos émotions. Ces outils sont là pour vous aider chaque jour. Vous pouvez les partager avec vos amis et votre famille. Ensemble, nous pouvons tous être des héros des émotions !"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous, les émotions sont comme des couleurs dans un arc-en-ciel. Elles rendent notre vie intéressante et pleine de surprises. La prochaine fois que vous ressentez une émotion forte, pensez à ce que nous avons appris aujourd'hui. Vous avez le pouvoir de choisir comment réagir. C'est une véritable aventure !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce temps avec nous, les Shell Heroes Crew. Nous avons adoré explorer le monde des émotions avec vous. N'oubliez pas que vous êtes un héros chaque jour. Prenez soin de vous et continuez à être courageux et gentil. À bientôt pour une nouvelle aventure, chers amis !"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Shell Heroes Crew"
+}

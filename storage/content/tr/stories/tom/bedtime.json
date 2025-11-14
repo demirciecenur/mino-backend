@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_bedtime_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "bedtime",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Sneaky Cat Tom. Bugün birlikte bedtime hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Uykuya hazırlanmak, büyümek için çok önemli. Birlikte eğlenceli bir uyku rutini oluşturacağız!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku zamanı geldiğinde, vücudumuz dinlenmek ve yeni bir güne hazırlanmak ister. Tıpkı oyuncaklarımızın da bir günün ardından dinlenmeye ihtiyacı olduğu gibi. Gün boyunca pek çok şey yaparız ve bu yüzden uyku çok önemlidir. Uyku, bizi daha mutlu ve enerjik yapar. Şimdi, uykuya nasıl hazırlanacağımızı konuşalım."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "İlk olarak, uykuya hazırlanmak için dişlerimizi fırçalamalıyız. Bu, dişlerimizin sağlıklı kalmasına yardımcı olur ve temiz hissettirir. Diş fırçalamak, uyku öncesi rutinimizin önemli bir parçasıdır. Her akşam, dişlerimizi iki dakika boyunca fırçalamalıyız. Bu şekilde, dişlerimiz sağlıklı kalır ve sabahları taze bir nefesle uyanırız."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, birlikte sayalım! Dişlerimizi fırçalarken birden ona kadar sayabiliriz. Bir, iki, üç... Bu çok eğlenceli değil mi? Harika iş çıkarıyorsun! Dişlerini fırçalarken bu sayma oyununu her gece yapabilirsin."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dişlerimizi fırçaladıktan sonra, pijamalarımızı giymeliyiz. Bu, vücudumuza uyku zamanının geldiğini hatırlatır. Rahat pijamalar, uyurken daha iyi hissetmemizi sağlar. Pijamalarımızı giydikten sonra, belki de en sevdiğimiz hikayeyi dinleyebiliriz. Hikayeler, uykuya dalmadan önce hayal gücümüzü canlandırır."
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hikaye dinlemek, hayal gücümüzü geliştirir ve bizi rahatlatır. Hikayeler, maceralarla dolu olabilir ve yeni şeyler öğrenmemize yardımcı olur. En sevdiğin hikaye nedir? Ben Sneaky Cat Tom olarak, macera dolu hikayeleri çok severim. Hikayeler, uyumadan önce bizi mutlu eder ve huzurlu bir uykuya hazırlar."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, derin nefes alma zamanı! Rahatlamak için üç derin nefes alalım. Burnumuzdan derin bir nefes alalım ve sonra yavaşça verelim. Bu nefes egzersizi, bedenimizi ve zihnimizi sakinleştirir. Uykuya dalmadan önce kendimizi daha huzurlu hissetmemize yardımcı olur. Hadi birlikte deneyelim!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Derin nefes almak harika bir şey, değil mi? Çok güzel yaptın! Nefes alıp vererek, vücudumuzu dinlendiririz. Bu sakinleştirici egzersizi her gece yapabilirsin. Şimdi daha rahatlamış hissetmiyor musun? Harika!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda nefes almanın önemini öğrenmiştik. Şimdi ise, odanın düzenli olması da uykuya hazırlık için önemlidir. Oyuncaklarımızı yerlerine koymak, odanın daha sakin görünmesini sağlar. Tıpkı bir kitaplıkta kitapların düzenli olması gibi, odanın düzenli olması da huzurlu bir uyku ortamı yaratır. Hadi, oyuncaklarımızı toplayalım ve yatağımıza geçelim."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Oyuncaklarımızı toplamak, uyumadan önce yapabileceğimiz eğlenceli bir aktivite olabilir. Bu, sabah uyandığımızda odanın düzenli olmasını sağlar. Her şey yerli yerinde olduğunda, daha mutlu ve huzurlu oluruz. Senin favori oyuncağın hangisi? Onu yerine koymak, uyku öncesi güzel bir alışkanlık olabilir."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sen de oyuncaklarını toplarken ne tür oyunlar oynuyorsun? Belki bir tren yaparak oyuncakları kutuya taşıyabilirsin. Bu eğlenceli bir oyun olabilir! Senin favori oyuncak düzenleme oyunun nedir? Hadi birlikte düşünelim ve bu oyunu daha eğlenceli hale getirelim!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Oyuncaklarımızı topladıktan sonra, uyku zamanı için ışıkları kısabiliriz. Loş ışık, uykuya dalmamıza yardımcı olur. Bir gece lambası, odanın çok karanlık olmadan rahatlatıcı bir ortam yaratır. Işıkları kısınca, vücudumuz uyku zamanının geldiğini anlar. Şimdi, yatağımıza uzanalım ve gözlerimizi kapatalım."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Gözlerimizi kapattığımızda, hayal gücümüz devreye girer. Belki bir deniz kenarında serin bir esinti hissedebiliriz ya da yıldızlı bir gecede yıldızları sayabiliriz. Hayal etmek, uykuya dalmamızı kolaylaştırır ve rüyalarımızı daha güzel hale getirir. Şimdi, sen de gözlerini kapat ve hayal et. Hangi güzel rüyayı görmek istersin?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda hayal kurmanın önemini konuşmuştuk. Şimdi, yatağımızda huzurla uzanırken belki de sıcak bir battaniyenin altında olduğumuzu hayal edebiliriz. Sıcaklık ve rahatlık, uyku kalitemizi artırır. Battaniyenin altında, en sevdiğimiz peluş oyuncakla uyumak çok güzel olabilir. Senin en sevdiğin peluş oyuncağın hangisi?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir uyku hazırlığı yaptık. Her gece bu adımları takip ettiğinde, daha huzurlu ve mutlu uyanabilirsin. Sneaky Cat Tom olarak, seninle bu yolculuğa çıkmak çok eğlenceliydi. Şimdi, tatlı rüyalar görme zamanı. İyi geceler, küçük dostum! Yarın yeni maceralar için hazır ol!"
+    }
+  ],
+  "title": "Sneaky Cat Tom'ın Bedtime Hikayesi"
+}

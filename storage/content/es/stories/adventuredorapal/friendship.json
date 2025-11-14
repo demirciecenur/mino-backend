@@ -1,0 +1,104 @@
+{
+  "id": "adventure_dora_pal_friendship_story",
+  "character": "Adventure Dora Pal",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Dora Aventura, y hoy vamos a explorar el maravilloso mundo de la amistad. ¿Están listos para una aventura divertida? La amistad es como un puente que nos conecta con los demás. Es un viaje lleno de risas, juegos y cariño. ¡Estoy tan emocionada de aprender sobre cómo ser un buen amigo con ustedes!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos sobre lo que significa ser un buen amigo. Un buen amigo es alguien que siempre está ahí para ayudarte y escucharte. Es importante compartir y ser amable, como cuando compartes tus juguetes favoritos. ¿Recuerdan la última vez que jugaron con un amigo? Esos momentos son especiales porque nos hacen sentir felices y queridos. ¡Eso es lo que hace la amistad tan mágica!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para ser un buen amigo, podemos practicar algunas cosas juntos. Primero, intentemos sonreír a alguien nuevo. Una sonrisa puede hacer que otros se sientan bienvenidos y felices. También, podemos decir 'gracias' cuando alguien nos ayuda. Y si alguien se siente triste, podemos preguntar si quieren hablar. Estas pequeñas acciones muestran que nos importan los demás."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo están haciendo genial! Ahora, vamos a practicar juntos. Imaginen que tienen un nuevo amigo en el parque. ¿Qué harían para que se sienta bienvenido? Podrían invitarlo a jugar a la pelota, o quizás compartir un bocadillo. ¡Cada pequeño gesto cuenta! ¿Pueden pensar en algo bonito que hicieron por un amigo?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden que todos somos diferentes, y eso está bien. A veces, a nuestros amigos les gustan cosas diferentes a las que nos gustan a nosotros. Eso es lo que hace que la amistad sea interesante y divertida. Podemos aprender mucho de nuestros amigos, como nuevos juegos o palabras. ¡Es como tener una aventura cada día!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdan cuando hablamos de compartir? Vamos a pensar en un ejemplo. Imaginen que tienen un juguete especial. Compartirlo con un amigo puede hacer que el juego sea aún más divertido. Y quizás, ellos también quieran compartir algo con ustedes. ¡Así todos se divierten más!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando jugamos con amigos, a veces podemos tener diferencias. Eso es normal. Si eso pasa, podemos hablar con calma y buscar una solución juntos. Tal vez puedan turnarse o encontrar otro juego que todos disfruten. Resolver problemas juntos fortalece el lazo de amistad."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Ya están aprendiendo mucho sobre la amistad! Vamos a practicar un ejercicio juntos. Tomemos tres respiraciones profundas para calmarnos. Inhalen... exhalen... ¡Muy bien! A veces, respirar puede ayudarnos a pensar mejor y a ser más pacientes con nuestros amigos."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en cómo podemos hacer nuevos amigos. Una forma es presentarse y decir 'Hola, soy [tu nombre]'. También podemos preguntar si quieren jugar con nosotros. Ser valiente y dar el primer paso es una excelente manera de comenzar una nueva amistad."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez han hecho un nuevo amigo en el parque o en la escuela? ¿Cómo se sintieron cuando lo hicieron? A veces puede ser un poco aterrador, pero también emocionante. ¡Estoy segura de que hicieron un gran trabajo! ¿Quieren contarme sobre un nuevo amigo que hicieron?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos que la amistad también se trata de cuidar a nuestros amigos. Si vemos que nuestro amigo está triste o necesita ayuda, podemos estar ahí para él. A veces, solo escuchar y estar presente es suficiente para hacerlos sentir mejor. ¡Eso es lo que hacen los buenos amigos!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdan alguna vez que un amigo los ayudó? Tal vez cuando estaban aprendiendo a andar en bicicleta o cuando necesitaban un abrazo. Esos momentos nos muestran lo importante que es tener amigos que se preocupan por nosotros. ¿Pueden pensar en un momento así?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Para mantener una amistad fuerte, es importante comunicarse. Podemos hablar sobre lo que nos gusta, lo que nos preocupa o simplemente contar historias divertidas. La comunicación nos ayuda a entendernos mejor y a resolver cualquier problema que pueda surgir."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo están haciendo, amiguitos! Recuerden que la amistad es una aventura que podemos disfrutar cada día. Todos podemos ser buenos amigos si practicamos ser amables, compartir y cuidar a los demás. ¡Estoy muy orgullosa de ustedes por aprender y crecer juntos!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bueno, amiguitos, ha sido un día lleno de aprendizajes sobre la amistad. Espero que se hayan divertido y que recuerden siempre lo valioso que es tener buenos amigos. ¡Gracias por acompañarme en esta aventura! Espero verlos pronto para explorar juntos otro tema maravilloso. ¡Adiós, amigos!"
+    }
+  ],
+  "title": "Historia de Friendship de Adventure Dora Pal"
+}

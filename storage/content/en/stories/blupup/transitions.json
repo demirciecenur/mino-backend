@@ -1,0 +1,104 @@
+{
+  "id": "blu_pup_transitions_story",
+  "character": "Blu Pup",
+  "topic": "transitions",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Blu Pup, and today we're going to talk about something really exciting – transitions! Do you know what a transition is? It's when something changes, like when the sun sets and the moon comes out. Transitions can be fun and sometimes a little tricky, but don't worry, we're going to explore them together. Are you ready to dive into the world of changes with me? Let's get started on our adventure!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember how we talked about transitions being changes? Well, they happen all around us! Like when you wake up in the morning and go from sleepy to wide awake. Or when you finish playing and it's time to tidy up your toys. Transitions help us move from one fun thing to the next. Isn't that amazing? Let's think about some more examples together!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's learn how we can make transitions easier! One way is by creating a little routine. For example, before bed, you might brush your teeth, put on pajamas, and read a story. Doing the same things in the same order can help you feel ready for what's next. It's like having a little map that shows you the way. Do you have any special routines that you like to follow?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job thinking about routines! You can do it, I know you can! Transitions are a part of every day, and you're doing wonderfully. Let's try a fun exercise to practice. How about we pretend to be different animals? First, we'll be sleepy kittens, then jumping frogs, and finally, soaring birds. Ready? Let's go!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Wasn't that fun? Being different animals is a great way to practice transitions. Now, let's talk about how we feel during these changes. Sometimes, transitions can make us feel a bit wobbly inside, like when you're starting a new school or moving to a new house. It's okay to feel that way! Remember, it's all part of growing and learning new things."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice something that can help us feel calm during transitions. We'll take three deep breaths together. Ready? Breathe in slowly... and out. Again, in... and out. One more time, in... and out. Doesn't that feel nice? Breathing can help us feel steady and ready for whatever comes next."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we know how to feel calm, let's talk about being curious. Transitions can be like opening a book to a new page. We might not know what's coming, but that's what makes it exciting! Imagine you're a little explorer, discovering something new every day. What new things are you curious about today?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! Being curious is a superpower, and you're doing an amazing job! It's like having a flashlight that helps you see in the dark. Keep shining your light, and you'll discover all sorts of wonderful things. You're a superstar at handling transitions!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "I have a question for you. Can you think of a time when you went through a transition? Maybe it was starting a new class, or learning to ride a bike. How did you feel, and what helped you? Let's think about it together. I'm sure you did great!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Thank you for sharing your stories with me. Every time you go through a transition, you're becoming even more amazing. Remember, transitions are like little adventures, and you're the hero of your own story. Keep being brave and curious!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Before we finish, let's do one last fun exercise. Imagine you're a butterfly coming out of its cocoon. First, you're all snuggled up, then you stretch your wings, and finally, you fly! Let's try it together. Snuggle in, stretch, and fly! Isn't that a wonderful transition?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You did it! You're a fantastic butterfly, fluttering through changes with grace. Remember, even when things change, you're always growing and learning. Keep up the great work, and you'll handle any transition that comes your way."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Let's think about some fun transitions we can create at home. Like when you go from playing outside to having a snack. What if we make a fun song to sing each time we change activities? Do you have any ideas for a transition song? Let's make it fun and silly!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Thanks for singing with me! Music is a great way to make transitions joyful and smooth. You can create your own transition songs for different parts of your day. Maybe a wake-up song in the morning or a bedtime song at night. Isn't that a fun idea?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our adventure about transitions is coming to an end, but remember, you're always ready for the next page in your story. Thank you for exploring with me today. You're a wonderful friend, and I'm so proud of you! Until next time, keep being curious and brave. Goodbye for now, little explorer!"
+    }
+  ],
+  "title": "Blu Pup's Transitions Story"
+}

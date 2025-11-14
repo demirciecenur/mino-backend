@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_bedtime_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "bedtime",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo kleiner Freund! Ich bin der schlaue Kater Tom. Heute machen wir eine spannende Reise in die Welt des Schlafengehens. Bist du bereit? Ich bin so neugierig auf dich. Gemeinsam werden wir viele lustige Dinge entdecken, die zu einer guten Nacht gehören. Lass uns gemeinsam beginnen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Zähneputzen gesprochen haben? Das ist ein wichtiger Teil unserer Abendroutine. Zuerst nehmen wir unsere Zahnbürste, dann geben wir etwas Zahnpasta darauf. Weißt du, warum das so wichtig ist? Es hilft, unsere Zähne sauber und gesund zu halten. Wenn wir das jeden Abend tun, können wir mit einem strahlenden Lächeln ins Bett gehen!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt, wo unsere Zähne sauber sind, ist es Zeit für unseren Schlafanzug. Hast du einen Lieblingsschlafanzug? Manchmal macht es Spaß, einen Schlafanzug mit lustigen Mustern oder Bildern zu wählen. Das Anziehen hilft uns, uns auf die Schlafenszeit vorzubereiten. Es fühlt sich gemütlich an und sagt unserem Körper, dass es Zeit ist, sich zu entspannen."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du machst das wirklich gut. Jetzt lass uns ein kleines Spiel spielen. Zähle mit mir bis fünf. Eins, zwei, drei, vier, fünf! Das war toll, oder? Zählen hilft uns, ruhig und konzentriert zu bleiben. Du kannst das immer wieder tun, wenn du dich auf das Schlafengehen vorbereitest."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nachdem wir gezählt haben, ist es Zeit, unser Lieblingsbuch zu lesen. Hast du ein Lieblingsbuch? Geschichten sind eine wunderbare Möglichkeit, uns auf eine Reise zu schicken, während wir im Bett liegen. Sie helfen uns, uns zu entspannen und uns auf schöne Träume vorzubereiten. Welches Buch möchtest du heute Abend lesen?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt, da wir unser Buch gelesen haben, wollen wir ein paar Atemübungen machen. Atme tief ein und zähle bis drei. Eins, zwei, drei. Jetzt atme langsam aus. Das ist beruhigend, nicht wahr? Diese Übung hilft uns, unseren Körper zu entspannen und uns auf den Schlaf vorzubereiten. Lass uns das noch einmal machen."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das ganz wunderbar! Atmen ist so wichtig, um uns ruhig zu fühlen. Jetzt, da wir uns entspannt haben, können wir über unsere Träume nachdenken. Was möchtest du träumen? Vielleicht von einem Abenteuer mit einem Piratenschiff oder einem Ausflug in den Weltraum. Träume sind wie kleine, magische Reisen in der Nacht."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Denke daran, wie wichtig es ist, jeden Abend zur gleichen Zeit ins Bett zu gehen. Das hilft unserem Körper, einen Rhythmus zu finden. Wenn wir das tun, fühlen wir uns morgens erfrischt und bereit für einen neuen Tag. Es ist wie ein kleines Geheimnis, um stark und gesund zu bleiben. Jetzt lass uns sehen, was als nächstes kommt!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du eine Lieblingskuscheldecke oder ein Kuscheltier, das du mit ins Bett nimmst? Diese Dinge können uns helfen, uns sicher und geborgen zu fühlen. Warum denkst du, ist das so? Vielleicht, weil sie uns an schöne Momente erinnern. Was ist dein Lieblingskuscheltier?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Das ist ein wirklich tolles Kuscheltier! Jetzt, wo wir alles besprochen haben, was zu unserer Abendroutine gehört, können wir uns auf eine gute Nacht freuen. Es ist wichtig, sich wohl und sicher zu fühlen, bevor wir einschlafen. Träume sind wie kleine Filme, die wir in unseren Köpfen sehen. Was für einen Film möchtest du heute Nacht sehen?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bevor wir schlafen gehen, können wir noch einmal über die schönen Dinge des Tages nachdenken. Was hat dir heute am meisten Spaß gemacht? Vielleicht war es das Spielen im Park oder das Malen eines Bildes. Diese Erinnerungen machen uns glücklich und helfen uns, friedlich einzuschlafen. Lass uns für all die schönen Momente dankbar sein!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du hast heute so viel gelernt und erlebt! Es ist wichtig, stolz auf sich selbst zu sein. Jetzt ist es Zeit, die Augen zu schließen und sich auf die Träume zu freuen. Du kannst dir vorstellen, dass du auf einer Wolke schwebst, die dich in einen tiefen, erholsamen Schlaf wiegt. Du machst das großartig!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Denke daran, dass der Schlaf eine Zeit ist, in der unser Körper sich erholen und neue Energie tanken kann. Es ist wie eine kleine Pause, die uns hilft, stark und gesund zu bleiben. Morgen wartet ein neuer, aufregender Tag auf dich. Lass uns gut schlafen, damit wir bereit sind für neue Abenteuer!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du jemals darüber nachgedacht, warum der Mond und die Sterne so hell leuchten? Sie sind wie kleine Nachtlichter am Himmel. Warum denkst du, dass sie da sind? Vielleicht um uns zu zeigen, dass wir niemals allein sind. Was siehst du, wenn du in den Nachthimmel schaust?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über das Schlafengehen zu sprechen. Jetzt ist es Zeit für uns beide, uns auszuruhen. Ich wünsche dir eine gute Nacht und süße Träume. Morgen werden wir wieder neue Dinge entdecken. Schlaf gut, kleiner Freund, und bis bald!"
+    }
+  ],
+  "title": "Sneaky Cat Toms Bedtime Geschichte"
+}

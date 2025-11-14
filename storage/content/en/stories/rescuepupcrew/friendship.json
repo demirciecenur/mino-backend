@@ -1,0 +1,104 @@
+{
+  "id": "rescue_pup_crew_friendship_story",
+  "character": "Rescue Pup Crew",
+  "topic": "friendship",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm the Rescue Pup Crew, and today we're on a special adventure all about friendship. Are you ready to learn and have fun with us? Friendship is like a magical bond that makes everything better. It's about caring, sharing, and playing together. Let's jump into this exciting journey and discover how we can be the best friends ever!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about what makes a good friend. A good friend listens and shares toys, just like you do when you play with your friends. Imagine you're building a sandcastle, and your friend wants to help. You can work together, sharing the shovel and bucket. That's teamwork, and it makes building more fun! Isn't it great when friends help each other?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about sharing? Let's practice that together. Imagine you have a toy car, and your friend wants to play too. What would you do? You could take turns pushing the car back and forth. This way, both of you have fun, and no one feels left out. Sharing is a big part of being a good friend!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing great! Now let's practice something else: listening. When your friend is talking, try to look at them and hear what they’re saying. It's like a special superpower that shows you care. When you listen, you might learn something new about your friend, like their favorite color or game. Isn't that exciting? You can do it!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue by thinking about how we can make new friends. Sometimes, it can be a little scary, but being brave helps! You can start by saying, 'Hi, my name is...' and asking if they want to play. It’s like opening a door to a new adventure together. Remember, every friend you make is a new story to tell. Are you ready to try?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now, remember when we talked about playing together? How about we imagine a fun game we can play with friends. Like a game of tag! In tag, you run and chase, and everyone gets a turn to be 'it'. It's a game that helps us learn about taking turns and being active. Do you like playing tag too?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Here's another way to be a good friend: helping each other. If you see a friend who looks sad, you can ask if they need help. Maybe they dropped something, or they just need a hug. Helping makes you both feel good and shows you care. What would you do if you saw a friend who was feeling down?"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Speaking of helping, do you remember a time when you helped a friend? Maybe you helped them tie their shoes or shared your crayons. How did it make you feel? Helping others is like spreading sunshine. Would you like to share a story about that?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's talk about saying sorry. Sometimes, we might make a mistake and upset a friend. Saying sorry can fix things and make everyone feel better. Imagine you accidentally bump into someone. You can say, 'I'm sorry, are you okay?' It shows you're thoughtful and want to make things right. Isn’t that a nice way to be?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such a wonderful job learning about friendship! Let's think about how we can celebrate our friends. Maybe you can draw a picture for them or sing a happy song. Celebrating friends makes them feel special and loved. Every little thing you do can brighten their day. You can do it!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about making new friends? Let's imagine meeting someone new at the park. You can say, 'Hi, want to play?' It's a simple way to start a new friendship. Sometimes, a smile is all it takes to make someone feel welcome. Do you like meeting new friends at the park?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue by thinking about what makes us happy about our friends. Maybe it's playing games, telling stories, or just being silly together. Friends make everything more fun and exciting. They help us when we're sad and cheer with us when we're happy. Can you think of something fun you did with a friend recently?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice something together. We'll take three deep breaths to calm down and think about our friends. Ready? Breathe in, one... two... three. Breathe out, one... two... three. Breathing helps us feel calm and ready to be the best friend we can be. It’s like a little pause before we do something special."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’ve learned so much about friendship today! Remember, being a good friend is about caring, sharing, listening, and playing together. Every day is a chance to make new friends and cherish the ones you have. You’re a fantastic friend, and I’m so proud of you. Keep being awesome!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining the Rescue Pup Crew on this friendship adventure! Remember, friends are like stars that light up our world. Keep shining bright and being the amazing friend that you are. Until next time, take care and have fun with your wonderful friends. Bye-bye for now!"
+    }
+  ],
+  "title": "Rescue Pup Crew's Friendship Story"
+}

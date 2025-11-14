@@ -1,0 +1,104 @@
+{
+  "id": "spark buddy_sibling_story",
+  "character": "Spark Buddy",
+  "topic": "sibling",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Spark Buddy, und heute gehen wir auf ein spannendes Abenteuer über Geschwister. Hast du Geschwister? Geschwister sind wie beste Freunde, die immer bei dir sind. Sie können mit dir spielen, lachen und tolle Abenteuer erleben. Bist du bereit, mehr darüber zu erfahren? Ich freue mich schon darauf, mit dir zu plaudern!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister können manchmal die besten Spielkameraden sein. Sie helfen uns, neue Spiele zu erfinden und unsere Fantasie zu nutzen. Weißt du, wie man tolle Spiele mit seinem Bruder oder seiner Schwester erfindet? Manchmal ist es so einfach wie Verstecken spielen oder zusammen ein Puzzle lösen. Geschwister zu haben bedeutet, dass man immer jemanden hat, mit dem man Spaß haben kann."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns darüber sprechen, wie wichtig es ist, mit Geschwistern zu teilen. Teilen bedeutet, dass man etwas, das man hat, mit jemand anderem teilt. Zum Beispiel könntest du dein Lieblingsspielzeug mit deinem Bruder oder deiner Schwester teilen. Wenn wir teilen, zeigen wir, dass wir uns um die andere Person kümmern. Es macht das Spielen noch lustiger, wenn wir Dinge gemeinsam nutzen."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lass uns jetzt gemeinsam ein kleines Spiel machen! Zähle bis drei und dann klatschen wir zusammen in die Hände. Eins, zwei, drei, klatsch! Großartig gemacht! Siehst du, wie viel Spaß es macht, zusammen etwas zu tun? Wenn du das nächste Mal mit deinem Geschwisterchen spielst, kannst du dieses Spiel ausprobieren."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Manchmal streiten Geschwister, und das ist ganz normal. Es ist wichtig zu lernen, wie man sich wieder verträgt. Wenn ihr euch streitet, könnt ihr eine Pause machen und dann darüber sprechen, was passiert ist. Vielleicht könnt ihr zusammen eine Lösung finden. Geschwister zu haben bedeutet auch, dass man lernt, wie man Probleme gemeinsam löst."
+    },
+    {
+      "id": "scene_5",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns tief durchatmen, um ruhig zu bleiben. Atme ein, eins, zwei, drei, und atme aus, eins, zwei, drei. Wunderbar! Das hilft uns, ruhig zu bleiben, wenn wir uns aufregen. Du kannst das auch mit deinem Geschwisterchen machen, wenn ihr euch beruhigen wollt."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an die letzten Ferien, die du mit deinem Geschwisterchen verbracht hast? Vielleicht habt ihr im Sand gespielt oder seid im Park herumgerannt. Solche Erinnerungen sind wertvoll und machen die Beziehung zu deinem Geschwisterchen stark. Es ist schön, wenn man zusammen lachen und neue Dinge entdecken kann."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns etwas über Geschwisterliebe lernen. Geschwisterliebe bedeutet, dass man sich um seinen Bruder oder seine Schwester kümmert und sie lieb hat. Manchmal zeigt man das, indem man ihnen hilft oder nette Dinge sagt. Wenn dein Geschwisterchen traurig ist, kannst du ihm vielleicht eine Umarmung geben oder ihm zuhören."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du eine Lieblingsgeschichte, die du gerne mit deinem Geschwisterchen teilst? Vielleicht eine über mutige Helden oder lustige Tiere? Geschichten zu teilen ist eine wunderbare Art, Zeit miteinander zu verbringen. Welche Geschichte würdest du heute erzählen? Ich bin gespannt, was du dir ausdenkst!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über Geschichten gesprochen haben, können wir darüber nachdenken, wie wir neue Erinnerungen schaffen können. Vielleicht könnt ihr zusammen einen kleinen Garten anlegen oder ein neues Spiel erfinden. Solche Aktivitäten machen Spaß und stärken eure Beziehung. Was würdest du gerne mit deinem Geschwisterchen ausprobieren?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Du machst das wirklich toll! Es ist wunderbar, dass du so viele Ideen hast, um Zeit mit deinem Geschwisterchen zu verbringen. Weiter so! Du bist ein toller Bruder oder eine tolle Schwester. Deine Geschwister sind glücklich, dich zu haben!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Manchmal sind Geschwister auch Vorbilder füreinander. Dein Geschwisterchen schaut zu dir auf und lernt von dir. Das ist eine große Verantwortung, aber auch eine tolle Chance, Gutes zu zeigen. Du kannst ihnen zeigen, wie man freundlich ist oder wie man neue Dinge lernt. Was denkst du, kannst du deinem Geschwisterchen beibringen?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns ein kleines Experiment machen. Stell dir vor, dein Geschwisterchen hat einen schlechten Tag. Was könntest du tun, um es aufzumuntern? Vielleicht ein lustiges Gesicht machen oder ein Lied singen? Solche kleinen Gesten können einen großen Unterschied machen und zeigen, wie sehr du dich kümmerst."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was ist das Schönste, das du je mit deinem Geschwisterchen gemacht hast? War es ein besonderes Abenteuer oder ein lustiger Tag im Park? Solche Erinnerungen sind wie kleine Schätze, die wir immer bei uns tragen. Ich würde gerne hören, was deine Lieblingsgeschichte ist!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Geschwister zu sprechen! Du hast tolle Ideen und so viel Liebe für deine Geschwister. Ich hoffe, du hast Spaß dabei, all die Dinge auszuprobieren, über die wir gesprochen haben. Danke, dass du dir die Zeit genommen hast, mit mir zu plaudern. Ich hoffe, wir sehen uns bald wieder für ein weiteres Abenteuer!"
+    }
+  ],
+  "title": "Spark Buddys Sibling Geschichte"
+}

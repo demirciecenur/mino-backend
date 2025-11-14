@@ -1,0 +1,104 @@
+{
+  "id": "super_metal_hero_behavior_attention_story",
+  "character": "Super Metal Hero",
+  "topic": "behavior_attention",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Super Metal Hero. Bugün birlikte dikkat toplama ve davranış yönetimi hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Bugün öğrendiklerimizle nasıl daha dikkatli olabileceğimizi keşfedeceğiz. Hadi maceramıza başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda dikkat toplama ve davranış yönetiminden bahsetmiştik. Şimdi bu konulara biraz daha yakından bakalım. Dikkat toplamak, bir şeye odaklanmak demektir. Odaklandığımızda, bir işi daha iyi yapabiliriz. Mesela, oyuncaklarımızı toplarken dikkatli olursak daha hızlı bitirebiliriz. Bu yüzden dikkat toplama çok önemlidir."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Öz-düzenleme, duygularımızı ve davranışlarımızı kontrol etme yeteneğidir. Bu, çok önemli bir beceridir çünkü bazen kendimizi çok heyecanlı veya üzgün hissedebiliriz. Böyle zamanlarda, derin nefes alarak sakinleşebiliriz. Hadi birlikte üç derin nefes alalım. Bu, kendimizi daha iyi hissetmemize yardımcı olabilir. Şimdi, derin nefes almanın ne kadar rahatlatıcı olduğunu hissettin mi?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harikasın! Derin nefes almak gerçekten de rahatlatıcı, değil mi? Şimdi, küçük bir oyun oynayalım. Elimizde bir hayali balon varmış gibi düşünelim. Balonu şişirmek için derin nefes alıp onu üfleyelim. Bu, hem eğlenceli hem de sakinleştirici bir aktivite. Sen bunu yaparken ben de seni izliyor olacağım. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki oyunumuzda ne kadar eğlendiğimizi hatırlıyor musun? Şimdi, basit rutinlerin dikkat toplama üzerindeki etkisini konuşalım. Her gün dişlerini fırçalamak gibi basit rutinler oluşturmak, günümüzü daha düzenli geçirmemize yardımcı olur. Bu rutinler, hem sağlıklı alışkanlıklar kazanmamıza hem de kendimize güven duymamıza olanak tanır. Bir sonraki adımda, başka bir rutin nasıl oluşturabileceğimizi birlikte keşfedeceğiz."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, basit bir rutin oluşturalım. Her sabah kalktığında yatağını toplamak güzel bir başlangıç olabilir. Bu küçük adım, günün geri kalanında daha düzenli olmamıza yardımcı olur. Yatağını toplarken kendine bir görev vermiş olursun ve bu görev seni daha dikkatli yapar. Bunu her gün yapmayı dene ve farkı gör. Hazır mısın? Ben de seninle birlikte deneyeceğim."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir başlangıç yaptın! Yatağını toplamak, günün ilk görevi olarak sana büyük bir başarı hissi verir. Bu da gün boyunca daha dikkatli ve odaklanmış olmanı sağlar. Unutma, her küçük başarı büyük adımlar atmana yardımcı olabilir. Şimdi başka bir dikkat toplama tekniğine geçelim. Sen de yeni şeyler öğrenmeye hazır mısın?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki adımda rutinlerin öneminden bahsetmiştik. Şimdi, dikkatli dinlemenin önemini konuşalım. Dikkatli dinleme, bir kişinin söylediklerini tam olarak anlamamıza yardımcı olur. Dinlerken göz teması kurmak, karşımızdakine değer verdiğimizi gösterir. Aynı zamanda, dinlerken sorular sormak da dikkatli olduğumuzu ifade eder. Şimdi birlikte bir örnek yapalım."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Birlikte bir hikaye dinleyelim ve sonra sorular soralım. Hikaye boyunca dikkatle dinle ve hikayenin sonunda sana bazı sorular soracağım. Hazır mısın? Hikayeyi dinlerken, hangi detayları hatırlayabileceğine dikkat et. Şimdi, hikayeyi dinlerken hangi kısımlar seni en çok etkiledi?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hikayeyi dinlerken neler hissettin? Şimdi, hikayede hangi detayların dikkatini çektiğini düşün. Dikkatli dinleme, bize yeni şeyler öğrenme fırsatı verir. Soruları cevaplamak, hikayeyi daha iyi anlamamıza yardımcı olur. Bir sonraki adımda başka bir dikkat toplama tekniği ile devam edeceğiz."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi bir başka dikkat toplama tekniğine geçelim. Oyuncaklarımızı toplarken dikkatli olmak, odaklanmamıza yardımcı olabilir. Bu, dikkat dağınıklığını önler ve daha verimli olmamızı sağlar. Oyuncaklarını toplarken, hangi sırayla toplayacağını düşün. Bu basit görev, dikkat toplama becerilerini geliştirebilir. Hadi birlikte deneyelim!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bu sefer, oyuncaklarını renklerine göre topla. Önce kırmızı olanları, sonra mavi olanları toplayabilirsin. Bu sırayı izlemek, dikkatini toplamana yardımcı olur. Aynı zamanda, hangi oyuncakların nerede olduğunu daha kolay hatırlarsın. Bu basit aktivite ile dikkatini nasıl topladığını fark et. Şimdi denemeye ne dersin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkardın! Oyuncaklarını toplarken dikkatli olmak, aynı zamanda eğlenceli de olabilir. Bu tür aktiviteler, dikkat toplama becerilerini geliştirir ve seni daha odaklanmış bir hale getirir. Unutma, her gün bu tür aktiviteler yapmak seni daha da güçlendirecek. Şimdi, öğrenmeye devam etmeye hazır mısın?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dikkat toplama ve öz-düzenleme konularında çok şey öğrendik. Bu beceriler, hem okulda hem de evde senin için çok faydalı olacak. Her gün küçük adımlar atarak bu becerileri geliştirebilirsin. Seni izlemekten ve seninle öğrenmekten çok mutluyum. Bir sonraki adımda birlikte neler yapabileceğimizi düşünelim."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün harika bir yolculuk yaptık ve birçok yeni şey öğrendik. Dikkatini toplamak ve öz-düzenleme yapmak, seni daha güçlü ve başarılı kılacak. Unutma, her gün pratik yaparak daha da iyi olabilirsin. Seninle bu yolculuğa çıkmak çok güzeldi. Şimdi, bir dahaki sefere kadar kendine çok iyi bak!"
+    }
+  ],
+  "title": "Supermetalhero'ın Davranış ve Dikkat Hikayesi"
+}

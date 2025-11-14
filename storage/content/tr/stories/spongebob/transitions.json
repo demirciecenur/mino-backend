@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_transitions_story",
+  "character": "Bubble Buddy",
+  "topic": "transitions",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük deniz yıldızım! Ben Bubble Buddy, deniz altının en eğlenceli balon arkadaşıyım. Bugün seninle harika bir maceraya çıkacağız. Konumuz 'geçişler' ve bu, yeni şeylere nasıl uyum sağladığımızı anlatıyor. Hazır mısın? Seni çok merak ediyorum, çünkü birlikte çok eğleneceğiz. O zaman başlayalım mı?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geçişler, hayatımızda değişiklikler olduğunda neler yapabileceğimizi anlatır. Mesela, yaz tatilinden okula dönerken ya da bir oyundan diğerine geçerken. Bazen bu değişiklikler bizi heyecanlandırır, bazen de biraz endişelendirir. Ama merak etme, her şeyin bir yolu var! Şimdi, bu geçişleri nasıl daha kolay hale getirebileceğimizi keşfedeceğiz. Hazır mısın?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir geçişi kolaylaştırmanın ilk adımı, onu anlamaktır. Örneğin, sabah uyanıp okula gitmek bir geçiştir. Bu geçişi daha kolay yapabilmek için bir rutin oluşturabiliriz. Her sabah aynı saatte uyanmak ve dişlerimizi fırçalamak gibi. Bu rutinler bize güven verir ve geçişleri daha az korkutucu hale getirir. Şimdi birlikte bir rutin oluşturalım!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi, sabah rutinimizi düşünelim. İlk olarak, güzel bir uyku çekeriz. Sonra, kalkıp yatağımızı toplarız. Ardından, dişlerimizi fırçalarız ve kahvaltımızı yaparız. Bu adımlar, sabah geçişimizi daha eğlenceli ve kolay hale getirir. Sen de sabahları böyle mi yapıyorsun? Denemek ister misin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda sabah rutinlerinden bahsettik. Şimdi, bir oyundan diğerine geçiş yaparken neler yapabileceğimizi konuşalım. Diyelim ki, parkta oyun oynuyorsun ve eve gitme vakti geldi. Bu geçişi kolaylaştırmak için, oyun bitmeden önce birkaç dakika kendine hatırlatma yapabilirsin. Böylece, oyunun sonlandığını bilmek seni hazırlıklı kılar. Bu harika değil mi?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, geçişleri nasıl daha eğlenceli hale getirebiliriz, ona bakalım. Oyun bitişlerini bir şarkı ile kutlamak eğlenceli olabilir. Mesela, 'Hoşça kal oyun, görüşürüz yarın!' gibi bir şarkı söyleyebilirsin. Bu şarkı, oyundan ayrılmayı daha az üzücü hale getirir. Ayrıca, eve gitmeden önce en sevdiğin oyuncağını yanına almayı unutma. Bu da sana eve dönüşte eşlik edebilir."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harikasın! Şimdi, farklı bir geçişe bakalım. Okuldan eve dönerken neler yapabilirsin? Belki eve döndüğünde biraz dinlenmek isteyebilirsin. Bu, okuldan eve geçişi daha rahat hale getirir. Ayrıca, eve dönerken yolda gördüğün ilginç şeyleri fark etmek de eğlenceli olabilir. Senin de böyle geçişlerde yaptığın şeyler var mı?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda okuldan eve geçişlerden bahsettik. Şimdi, yeni bir kardeşin olduğunu düşünelim. Bu büyük bir geçiş olabilir, değil mi? Yeni bir kardeşle birlikte, evdeki düzen biraz değişebilir. Bu geçişi kolaylaştırmak için, onunla oynamak ve ona yardımcı olmak harika bir başlangıç olabilir. Yeni kardeşinle vakit geçirmek seni mutlu edebilir."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, sen yeni bir kardeş geldiğinde neler yapardın? Onunla hangi oyunları oynamak isterdin? Kardeşinle birlikte oyuncaklarını paylaşmak eğlenceli olabilir. Belki ona en sevdiğin kitabı okuyabilirsin. Bu, aranızdaki bağı güçlendirebilir. Sen ne düşünüyorsun, denemek ister misin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki sorumuzda kardeşlerle ilgili konuşmuştuk. Şimdi, tatillerden sonra okula dönüşü ele alalım. Tatil dönüşü bazen zor gelebilir, değil mi? Ama okulu tekrar görmek ve arkadaşlarla buluşmak da çok güzel olabilir. Tatil dönüşünü kolaylaştırmak için, tatilden bir gün önce okul hazırlıklarını yapabilirsin. Bu, dönüşü daha az stresli hale getirir."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir tatil dönüşü hazırlık yapmanın öneminden bahsetmiştik. Şimdi, başka bir geçişe bakalım: bir oyuncağını başka bir oyuncakla değiştirmek. Bu, bazen zor gelebilir ama yeni bir oyuncak keşfetmek de heyecan verici olabilir. Eski oyuncaklarını bir süre rafa kaldırıp yenileriyle oynamak, farklı dünyalara kapı açabilir. Bu değişiklik seni mutlu edebilir."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen de oyuncak değişikliklerini seviyor musun? Yeni oyuncakları keşfetmek ve yeni oyunlar oynamak çok eğlenceli olabilir. Hadi, birlikte bir oyuncak değişikliği yapalım! Eski bir oyuncağını al ve onunla yeni bir oyun oyna. Bu, hem eski oyuncaklarını unutmamanı sağlar, hem de yeni oyunlar yaratmana yardımcı olur. Harika değil mi?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir önceki konuşmamızda oyuncak değişikliklerinden bahsetmiştik. Şimdi, geçişlerde nasıl sakin kalabileceğimizi öğrenelim. Derin bir nefes almak, sakinleşmek için harika bir yoldur. Üç derin nefes al ve ver, kendini daha huzurlu hissedeceksin. Ayrıca, geçişler sırasında pozitif düşünmek de önemlidir. Her yeni şey, yeni bir macera demektir."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence, hangi geçişler daha zor olabilir? Sabah uyanmak mı, yoksa okuldan eve dönmek mi? Belki de her ikisi de farklı zorluklar içerir. Ama unutma, her geçişin bir çözümü vardır. Senin fikirlerini duymak isterim. Hangi geçişleri daha kolay yapıyorsun?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte geçişlerin büyülü dünyasını keşfettik. Her bir geçiş, yeni bir macera ve keşif fırsatı sunuyor. Seninle bu yolculuğu paylaşmak çok keyifliydi. Unutma, her geçişte seninle birlikteyim ve hep destekçinim. Şimdi, yeni maceralar için hazır mısın? Hoşça kal ve unutma, sen harikasın!"
+    }
+  ],
+  "title": "Bubble Buddy'ın Transitions Hikayesi"
+}

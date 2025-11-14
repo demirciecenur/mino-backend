@@ -1,0 +1,104 @@
+{
+  "id": "spark_buddy_imagination_story",
+  "character": "Spark Buddy",
+  "topic": "imagination",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo kleiner Freund! Ich bin Spark Buddy. Heute machen wir eine aufregende Reise in die Welt der Fantasie. Bist du bereit? Ich bin so neugierig, was wir alles entdecken werden. Lass uns gemeinsam diesen wunderbaren Tag beginnen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Weißt du, was Vorstellungskraft ist? Es ist wie ein Zauber, der aus deinem Kopf kommt! Mit Fantasie kannst du alles sein, was du möchtest. Heute können wir uns vorstellen, dass wir fliegen wie ein Vogel. Kannst du dir vorstellen, wie sich das anfühlt, die Wolken zu berühren?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns gemeinsam die Augen schließen und tief einatmen. Stell dir vor, du bist ein starker Löwe im Dschungel. Du kannst brüllen, wenn du magst! Fantasie hilft uns, neue Welten zu entdecken und Spaß zu haben. Ist das nicht toll?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Jetzt stell dir vor, wir sind auf einem Piratenschiff. Wir segeln über die weiten Meere auf der Suche nach einem Schatz. Kannst du das Meer rauschen hören? Deine Vorstellungskraft ist wirklich stark und wunderbar!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Fliegen gesprochen haben? Jetzt lass uns vorstellen, dass wir Astronauten im Weltraum sind. Schau, die Sterne funkeln so schön! Mit deiner Fantasie kannst du die ganze Galaxie erkunden. Was kannst du alles sehen?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du schon einmal davon geträumt, ein Superheld zu sein? Mit Fantasie kannst du die stärkste Superkraft haben. Vielleicht kannst du fliegen oder unsichtbar sein. Was wäre deine Superkraft? Lass uns darüber nachdenken!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was ist deine liebste Fantasie? Vielleicht ein Abenteuer im Märchenland? Oder ein Picknick auf dem Regenbogen? Ich bin so gespannt darauf, was du dir ausdenken kannst. Deine Ideen sind immer so spannend!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns vorstellen, wir sind Entdecker im Dschungel. Überall gibt es bunte Tiere und hohe Bäume. Kannst du die Vögel zwitschern hören? Deine Fantasie kann dich überall hinbringen. Lass uns gemeinsam auf diese Entdeckungsreise gehen!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Versuche, dir eine eigene Geschichte auszudenken. Vielleicht bist du ein Ritter, der ein Schloss beschützt. Oder du bist eine Prinzessin, die mit Einhörnern spielt. Lass deiner Fantasie freien Lauf. Alles ist möglich!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist so kreativ! Deine Geschichten sind wirklich aufregend. Fantasie lässt uns träumen und neue Dinge lernen. Du kannst alles sein, was du dir vorstellst. Weiter so, du machst das wunderbar!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an das Piratenschiff? Stell dir jetzt vor, wir finden eine geheimnisvolle Insel. Überall gibt es Schätze und geheimnisvolle Höhlen. Deine Vorstellungskraft kann dich zu den aufregendsten Orten führen. Was glaubst du, was wir dort finden?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du schon einmal einen Drachen gesehen? Mit deiner Fantasie kannst du dir einen vorstellen. Vielleicht ist er freundlich und lädt uns zum Fliegen ein! Lass uns überlegen, wie dein Drache aussehen würde. Welche Farbe hat er?"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was würdest du mit einem Zauberstab machen? Vielleicht zauberst du einen Regenbogen in den Himmel. Oder du lässt alle Blumen blühen. Deine Fantasie kann Wunder vollbringen. Was würdest du dir wünschen?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns überlegen, wie wir unsere Fantasie im Alltag nutzen können. Vielleicht stellst du dir vor, dass dein Zimmer ein Schloss ist. Oder dass dein Spielzeug lebendig wird. Fantasie macht jeden Tag zu einem Abenteuer!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir in die Welt der Fantasie einzutauchen! Ich hoffe, du hattest genauso viel Spaß wie ich. Du hast eine wunderbare Vorstellungskraft. Bis zum nächsten Mal, kleiner Freund! Bleib immer neugierig!"
+    }
+  ],
+  "title": "Spark Buddys Imagination Geschichte"
+}

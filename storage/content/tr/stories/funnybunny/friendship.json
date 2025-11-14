@@ -1,0 +1,98 @@
+{
+  "id": "funny_bunny_friendship_story",
+  "character": "Funny Bunny",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Funny Bunny. Bugün birlikte arkadaşlık hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Arkadaşlık, hayatımızın en özel parçalarından biridir. Hadi, bu harika konuyu birlikte keşfedelim!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, iki kişi arasında özel bir bağdır. Arkadaşlarımızla oyunlar oynar, maceralar yaşarız. Birlikte güleriz, bazen de sorunları çözeriz. Herkesin bir arkadaşa ihtiyacı vardır, değil mi? Arkadaşlarımız bize kendimizi iyi hissettirir ve yanımızda olduklarında daha güçlü oluruz."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Peki, arkadaş edinmek için neler yapabiliriz? İlk adım gülümsemek olabilir. Gülümsemek, karşımızdakine dostça bir mesaj verir. Sonra, 'Merhaba' demek güzel bir başlangıçtır. Aynı zamanda, oyun oynamak için bir davette bulunabiliriz. Bu şekilde yeni arkadaşlar edinebiliriz."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Hadi, şimdi birlikte bir alıştırma yapalım. Birlikte derin bir nefes alalım ve 'Merhaba' diyelim. Harika! Gördün mü, bu kadar kolay. Sen de bunu deneyebilirsin, eminim çok başarılı olacaksın! Bu şekilde birçok yeni arkadaş edinebilirsin."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlarımızla birlikte oyun oynamak çok eğlencelidir. Mesela saklambaç ya da top oynayabiliriz. Oyunlar, arkadaşlarımızla daha da yakınlaşmamızı sağlar. Ayrıca, birlikte oynarken paylaşmayı da öğreniriz. Paylaşmak, arkadaşlığın en önemli parçalarından biridir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaşlarımızla iyi geçinmek için bazı kurallara dikkat etmemiz gerekir. Mesela, sıra beklemek ve sabırlı olmak önemlidir. Herkesin fikrine saygı göstermek de güzel bir davranıştır. Eğer bir sorun çıkarsa, sakin bir şekilde konuşarak çözebiliriz. Böylece arkadaşlığımız daha da güçlenir."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence arkadaşlarımızla oynarken en önemli şey nedir? Düşün bakalım. Belki de birlikte eğlenmek ya da birbirimize destek olmak olabilir mi? Birlikte düşündüğümüzde, arkadaşlığın tadı daha da güzel çıkıyor. Senin düşüncelerini çok merak ediyorum!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda arkadaşlarımızdan bahsettik. Şimdi, arkadaşlarımızla nasıl daha iyi zaman geçirebiliriz, ona bakalım. Onlara küçük sürprizler yapabiliriz, belki bir resim çizebiliriz. Ya da, onlara güzel bir hikaye anlatabiliriz. Bu tür şeyler, arkadaşlarımızı çok mutlu eder."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi seni biraz düşündürecek bir şey söyleyeceğim. Arkadaşlık, her zaman karşılıklı olmalıdır. Yani, biz onlara iyi davranırsak, onlar da bize iyi davranır. Bu, arkadaşlığı daha güçlü yapar. Sen de bunu deneyebilirsin, eminim çok güzel sonuçlar alacaksın!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bazen arkadaşlarımızla anlaşmazlıklar yaşayabiliriz. Ama bu kötü bir şey değildir, sadece nasıl çözeceğimizi bilmemiz gerekir. Anlaşmazlıkları konuşarak çözmek en iyisidir. Birbirimizi dinlersek, her şey daha kolay olur. Unutma, her sorun bir çözümle gelir."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Arkadaşlarımızı nasıl mutlu edebiliriz? Öncelikle, onları dinlemek önemlidir. Onların ne söylediğini anlamaya çalışmalıyız. Ayrıca, onlara yardım edebiliriz. Mesela, bir oyuncağını paylaşmak ya da bir problemi çözmelerine yardımcı olmak gibi. Bu tür davranışlar arkadaşlığımızı güçlendirir."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin en iyi arkadaşın kim? Onunla neler yapmayı seviyorsun? Düşün bakalım, belki birlikte en sevdiğiniz oyunu oynuyorsunuzdur. Ya da, birlikte yeni şeyler keşfediyorsunuzdur. Bu tür anılar, arkadaşlık bağlarını güçlendirir. Seni dinlemek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Arkadaşlık, bazen sabır gerektirir. Herkes her zaman aynı fikirde olmayabilir, ama bu normaldir. Önemli olan, birbirimizi anlamaya çalışmak ve birlikte çözümler bulmaktır. Sen de bunu yapabilirsin! Unutma, arkadaşlık her zaman çabalara değer."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün arkadaşlık hakkında çok şey öğrendik, değil mi? Seninle bu konuyu konuşmak çok güzeldi. Umarım sen de yeni arkadaşlar edinir ve harika zamanlar geçirirsin. Unutma, her zaman dostça ve sevgi dolu ol. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Funny Bunny'ın Friendship Hikayesi"
+}

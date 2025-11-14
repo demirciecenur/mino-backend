@@ -1,0 +1,98 @@
+{
+  "id": "rescue_pup_crew_régulation_émotionnelle_gestion_des_émotions_se_calmer_autorégulation_story",
+  "character": "Rescue Pup Crew",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis! Je suis le Rescue Pup Crew et aujourd'hui, nous allons explorer un sujet passionnant: la régulation émotionnelle! Cela signifie apprendre à comprendre et gérer nos émotions. Êtes-vous prêts pour cette aventure incroyable? Nous allons découvrir comment se calmer et pourquoi c'est important. Je suis tellement curieux de savoir ce que vous en pensez!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Quand nous ressentons des émotions fortes, comme la colère ou la tristesse, il est important de savoir comment les gérer. Cela peut nous aider à nous sentir mieux et à nous amuser davantage. Par exemple, quand nous sommes fâchés, nous pouvons prendre de grandes respirations pour nous calmer. Avez-vous déjà essayé de respirer lentement pour vous détendre? C'est une technique simple mais très efficace!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment nous pouvons utiliser des exercices de respiration pour nous calmer. Imaginez que vous êtes un ballon. Inspirez profondément en gonflant votre ventre comme un ballon. Puis, soufflez lentement pour dégonfler le ballon. Répétons cela ensemble trois fois. Vous voyez comme ça fait du bien?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super travail! Vous êtes vraiment bons pour vous calmer. N'oubliez pas que vous pouvez utiliser cette méthode chaque fois que vous vous sentez bouleversés. C'est comme avoir un super pouvoir secret! Continuez à pratiquer et vous deviendrez encore meilleurs. Vous pouvez le faire, je crois en vous!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de comment se calmer avec la respiration? Maintenant, explorons d'autres façons de gérer nos émotions. Parfois, bouger notre corps peut nous aider à nous sentir mieux. Danser, sauter ou courir peut être très amusant et libérateur. Avez-vous déjà essayé de danser pour vous sentir heureux?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons un petit exercice ensemble. Imaginez que vous êtes une fleur qui s'ouvre au soleil. Levez les bras lentement et tournez doucement comme si vous dansiez. Cela vous aide à vous sentir plus calme et détendu, n'est-ce pas? Vous pouvez faire cet exercice à tout moment!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est votre moyen préféré pour gérer vos émotions? Est-ce que vous préférez respirer profondément, danser ou peut-être colorier? Chaque personne est différente et c'est bien de trouver ce qui fonctionne le mieux pour vous. Partagez avec moi, je suis curieux de savoir!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "C'est formidable d'entendre vos idées! Vous savez, parler de ses émotions est aussi une excellente façon de se sentir mieux. Vous pouvez parler à un parent, un ami ou même à votre nounours préféré. Exprimer ce que vous ressentez peut vraiment aider à alléger votre cœur."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons un autre exercice. Imaginez que vous avez un petit nuage au-dessus de votre tête. Quand vous inspirez, le nuage devient plus léger et s'envole. Quand vous expirez, il s'éloigne doucement. Répétez cela quelques fois et sentez comme votre esprit devient plus clair."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastique, vous faites un travail incroyable! Vous apprenez à gérer vos émotions comme des champions. Rappelez-vous, c'est normal de ressentir différentes émotions et vous avez les outils pour les gérer. Continuez à pratiquer et vous deviendrez encore plus fort!"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Maintenant que vous connaissez ces astuces, vous pouvez les utiliser chaque jour. Peut-être que la prochaine fois que vous vous sentez stressé, vous essaierez de respirer profondément ou de danser. Pensez à quel exercice vous allez essayer en premier. Avez-vous déjà une idée?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "C'est merveilleux d'avoir ces outils dans votre boîte à outils émotionnelle. Rappelez-vous, il est toujours bon de demander de l'aide si vous en avez besoin. Les adultes sont là pour vous soutenir et vous guider. Ensemble, nous pouvons affronter toutes les émotions!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour finir, faisons un dernier exercice ensemble. Fermez les yeux et imaginez un endroit où vous vous sentez heureux et en sécurité. Respirez profondément et imaginez que vous êtes là-bas. Restez dans cet endroit pendant quelques secondes. Ouvrez les yeux et sentez-vous calme et détendu."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bravo à vous tous! Vous avez appris des moyens fantastiques de gérer vos émotions. Continuez à pratiquer et à utiliser ces techniques chaque jour. Je suis si fier de vous et de tout ce que vous avez appris aujourd'hui. À la prochaine, mes amis, et souvenez-vous que vous êtes capables de grandes choses!"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Rescue Pup Crew"
+}

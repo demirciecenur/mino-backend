@@ -1,0 +1,98 @@
+{
+  "id": "elisa_the_ice_fairy_temps_d'écran_sécurité_numérique_utilisation_de_la_technologie_habitudes_saines_d'écran_story",
+  "character": "Elisa the Ice Fairy",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Elisa la Fée des Glaces. Aujourd'hui, nous allons explorer le monde magique du temps d'écran et découvrir comment utiliser la technologie en toute sécurité. Êtes-vous prêt pour cette aventure ? Ensemble, nous apprendrons à avoir des habitudes saines avec nos écrans. Je suis tellement curieuse de savoir ce que vous en pensez !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le temps d'écran, c'est le moment que nous passons devant nos tablettes, nos télévisions, ou nos téléphones. C'est amusant de regarder des dessins animés ou de jouer à des jeux, n'est-ce pas ? Mais il est important de ne pas en faire trop. Comme lorsque nous mangeons des bonbons, trop de temps d'écran n'est pas bon pour nous. Maintenant, parlons de pourquoi cela est si important."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lorsque nous passons trop de temps devant les écrans, cela peut fatiguer nos yeux et nous empêcher de jouer dehors. Jouer au grand air est important pour rester en bonne santé. Nous devons aussi penser à notre sécurité numérique. Cela signifie être prudent lorsque nous utilisons Internet. Par exemple, ne jamais parler à des inconnus en ligne, tout comme dans la vraie vie."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites déjà du bon travail en écoutant et en apprenant ces conseils ! Maintenant, essayons de faire quelque chose ensemble. Comptons jusqu'à cinq chaque fois que nous avons envie de passer trop de temps sur un écran. Un, deux, trois, quatre, cinq ! Super, vous voyez comme c'est facile ? Vous pouvez le faire chaque fois que vous sentez que vous avez besoin d'une pause."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de jouer dehors ? C'est une excellente façon de passer du temps loin des écrans. Courir, sauter, et même faire des châteaux de sable sont des activités amusantes. Elles nous aident à rester actifs et à découvrir le monde merveilleux qui nous entoure. Maintenant, parlons de comment équilibrer tout cela avec notre temps d'écran."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour avoir des habitudes saines, nous devons fixer des limites de temps d'écran. Par exemple, peut-être que vous pouvez regarder un épisode de votre dessin animé préféré après avoir joué dehors. Ou vous pouvez jouer à un jeu éducatif pendant 20 minutes avant le dîner. Ces petites règles aident à garder nos esprits éveillés et nos corps en forme."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "C'est merveilleux de voir comment vous apprenez à gérer votre temps d'écran ! Vous êtes vraiment incroyable. N'oubliez pas de partager ce que vous avez appris avec vos amis et votre famille. Tout le monde peut bénéficier de ces conseils pour rester en sécurité et en bonne santé. Êtes-vous prêt à continuer l'aventure avec moi ?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant que nous savons comment limiter notre temps d'écran, pensons à d'autres activités amusantes. Avez-vous déjà essayé de lire un livre avec vos parents ? Ou peut-être aimez-vous dessiner ou peindre ? Ces activités sont aussi magiques que jouer sur un écran et elles nous permettent d'utiliser notre imagination de manière créative."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est votre jeu préféré à jouer en dehors des écrans ? Est-ce que vous aimez faire des puzzles ou construire avec des blocs ? Peut-être que vous avez un jeu spécial que vous aimez jouer avec vos amis. Pensez à quelque chose que vous aimez vraiment et partagez-le avec quelqu'un que vous aimez. C'est toujours amusant de découvrir de nouvelles choses à travers les yeux de nos amis."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous quand nous avons parlé des activités en plein air ? Imaginez courir dans un champ de fleurs ou faire voler un cerf-volant haut dans le ciel. Ces moments sont précieux et nous offrent des souvenirs inoubliables. C'est comme créer notre propre film magique, où nous sommes les héros de notre histoire. Pensez à la prochaine aventure que vous aimeriez vivre."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "En parlant de films, avez-vous déjà créé une histoire avec vos amis ou votre famille ? Vous pouvez inventer des personnages, comme des fées ou des chevaliers, et imaginer ce qu'ils feraient dans des situations amusantes. C'est une belle façon de passer du temps ensemble et de rire beaucoup. Et vous pouvez aussi jouer à ces histoires en utilisant des costumes ou des marionnettes."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes tous de fantastiques conteurs ! Continuez à créer et à imaginer. Chaque jour est une nouvelle chance de découvrir quelque chose de merveilleux. Rappelez-vous que les écrans sont là pour nous aider à apprendre et à nous amuser, mais ils ne remplacent jamais le monde réel autour de nous. Vous pouvez faire de grandes choses loin des écrans aussi !"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "En conclusion, il est important de trouver un bon équilibre entre le temps passé devant les écrans et toutes les autres activités amusantes que nous pouvons faire. Pensez à chaque jour comme une nouvelle aventure à vivre. Que ce soit en jouant, en lisant, ou en découvrant quelque chose de nouveau, il y a tant de choses à explorer. Et le plus important, c'est de s'amuser tout en apprenant."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment magique avec moi, Elisa la Fée des Glaces. J'espère que vous avez appris beaucoup de choses sur le temps d'écran et comment l'utiliser de manière saine et sécurisée. N'oubliez pas d'appliquer ces conseils chaque jour. Je suis sûre que vous allez faire un travail merveilleux ! À bientôt pour une nouvelle aventure magique. Au revoir, mes amis !"
+    }
+  ],
+  "title": "Histoire de Screen Time de Elisa The Ice Fairy"
+}

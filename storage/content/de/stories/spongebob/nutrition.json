@@ -1,0 +1,98 @@
+{
+  "id": "bubble_buddy_Ernährung_gesundes_Essen_Essgewohnheiten_gesunde_Lebensmittel_story",
+  "character": "Bubble Buddy",
+  "topic": "Ernährung, gesundes Essen, Essgewohnheiten, gesunde Lebensmittel",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Bubble Buddy und heute gehen wir auf eine spannende Reise rund um Ernährung und gesundes Essen. Weißt du, was gesunde Lebensmittel sind? Sie sind wie Superhelden für unseren Körper! Bist du bereit für unser Abenteuer? Ich bin so gespannt, mit dir zu lernen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns über Obst und Gemüse sprechen. Diese Lebensmittel sind voller Vitamine und Nährstoffe, die uns stark und gesund machen. Stell dir vor, sie sind wie ein Regenbogen auf deinem Teller! Wenn du einen Apfel isst, bekommst du Energie zum Spielen. Ist das nicht toll? Was ist dein Lieblingsobst?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt, da wir über Obst und Gemüse gesprochen haben, lass uns darüber reden, warum Wasser so wichtig ist. Wasser hilft uns, hydratisiert zu bleiben und gibt uns Kraft für den Tag. Es ist wie ein erfrischender Sprung in den Ozean! Trinkst du genug Wasser jeden Tag? Versuche, ein großes Glas Wasser zu trinken, wenn du durstig bist."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Toll gemacht, dass du so viel über gesundes Essen lernst! Wusstest du, dass Milchprodukte wie Joghurt und Käse auch wichtig sind? Sie sind voller Kalzium, das unsere Knochen stark macht. Wie wäre es, wenn wir zusammen zählen, wie viele Milchprodukte du kennst? Eins, zwei, drei – großartig!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an unser Regenbogenessen? Lass uns über Getreide sprechen. Vollkornprodukte wie Haferflocken und Brot geben uns Energie für den ganzen Tag. Sie sind wie kleine Kraftpakete! Stell dir vor, du bist ein Superheld, der Vollkornbrot isst, um stark zu werden. Magst du Haferflocken zum Frühstück?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns über Proteine sprechen. Diese sind wichtig für unsere Muskeln. Stell dir vor, sie sind Bausteine für deinen Körper! Hühnchen, Fisch und Bohnen sind tolle Proteinquellen. Wenn du sie isst, wirst du stark wie ein Löwe. Welche Proteine magst du am liebsten?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Lass uns über gesunde Essgewohnheiten sprechen. Regelmäßig essen hilft uns, den ganzen Tag energiegeladen zu sein. Vielleicht kannst du Mama oder Papa helfen, einen Essensplan zu machen. Das ist eine lustige Art, gesund zu bleiben. Glaubst du, du kannst das ausprobieren?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt wollen wir über das Naschen sprechen. Gesunde Snacks wie Nüsse oder Obst sind wie kleine Energieschübe. Sie helfen uns, den Tag mit einem Lächeln zu meistern. Wenn du einen gesunden Snack wählst, bist du wie ein kleiner Entdecker, der die besten Schätze findet. Was ist dein Lieblingssnack?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du jemals darüber nachgedacht, wie wichtig das Frühstück ist? Es ist die wichtigste Mahlzeit des Tages! Es gibt uns Energie, um den Tag zu beginnen. Was isst du normalerweise zum Frühstück? Vielleicht kannst du morgen etwas Neues probieren!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns über die Bedeutung von Farben auf unserem Teller sprechen. Bunte Lebensmittel sind nicht nur schön anzusehen, sondern auch gesund. Ein Teller voller Farben bedeutet viele verschiedene Vitamine. Stell dir vor, du malst ein Bild mit deinem Essen. Welche Farben siehst du auf deinem Teller?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt ist es Zeit, über Bewegung zu sprechen. Bewegung ist genauso wichtig wie gesundes Essen. Sie hält uns fit und glücklich. Vielleicht kannst du mit deinen Freunden im Park rennen oder tanzen. Erinnerst du dich, wie viel Spaß es macht, sich zu bewegen?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du lernst so viel über gesundes Essen und Bewegung! Wusstest du, dass es auch wichtig ist, gut zu schlafen? Schlaf hilft uns, uns zu erholen und bereit für den nächsten Tag zu sein. Gute Nachtgeschichten und Kuscheltiere können helfen. Hast du ein Lieblingskuscheltier?"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Jetzt, wo wir so viel gelernt haben, was denkst du über gesunde Ernährung? Fühlst du dich bereit, einige dieser Tipps auszuprobieren? Vielleicht kannst du ein neues Gemüse probieren oder beim Kochen helfen. Was möchtest du zuerst ausprobieren?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Das war ein tolles Abenteuer, kleiner Freund! Ich bin so stolz auf dich, dass du so viel über gesunde Ernährung gelernt hast. Vergiss nicht, dass du ein richtiger Ernährungsexperte bist! Ich hoffe, wir können bald wieder zusammen lernen. Tschüss und bis zum nächsten Mal!"
+    }
+  ],
+  "title": "Bubble Buddys Nutrition Geschichte"
+}

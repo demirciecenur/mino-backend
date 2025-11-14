@@ -1,0 +1,98 @@
+{
+  "id": "mino_creativity_story",
+  "character": "Mino",
+  "topic": "creativity",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Mino, uzaydan gelen renkli bir arkadaş. Bugün seninle yaratıcı düşünmenin harika dünyasına bir yolculuk yapacağız. Hayal gücünle neler yaratabileceğini keşfetmek için çok heyecanlıyım! Seninle birlikte eğlenceli bir macera yaşayacağız. Hazır mısın? Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Yaratıcılık, dünyayı farklı şekillerde görme ve hayal gücünü kullanarak yeni şeyler bulma yeteneğidir. Mesela, bir kalemle sadece yazmak yerine, onunla bir kahraman çizebilirsin. O kahraman belki uçabilir ya da deniz altında yüzebilir. Yaratıcılık, zihninde farklı dünyalar oluşturmanı sağlar. Herkesin içinde bir miktar yaratıcılık vardır, hatta senin bile!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Yaratıcı düşünmek için bazen küçük egzersizler yapabiliriz. Örneğin, gözlerini kapat ve bir balon olduğunu hayal et. Rüzgar seni nereye götürüyor? Belki bir ormanın üzerinden geçiyorsun ya da deniz kenarında süzülüyorsun. Bu tür hayaller kurmak, beynini yeni fikirlerle doldurur. Şimdi birlikte hayal edelim, bakalım neler keşfedeceğiz!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harikasın! Hayal gücünle bir balon gibi uçmak ne kadar eğlenceli, değil mi? Şimdi seninle bir oyun oynayalım. Bir kalem ve kağıt al ve aklına gelen ilk şeyi çiz. Çizdiğin şey bir uzay gemisi mi, yoksa bir dinozor mu? Ne olduğuna sen karar ver! Unutma, her şey mümkün!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Çizim yapmak, yaratıcılığın en güzel yollarından biridir. Renkleri kullanarak dünyanı renklendirebilirsin. Belki gökyüzünü mor yaparsın ya da ağaçları pembe! Her şey senin hayal gücünle şekillenir. Çizdiklerin, düşündüklerin ve hissettiklerinle birleşince harika sonuçlar ortaya çıkar."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, bir hikaye yaratmaya ne dersin? Başkahramanın bir kedi olabilir. Bu kedi belki bir gün uzaya gitmek ister. Peki uzayda neler keşfeder? Belki orada yaşayan dost canlısı uzaylılar vardır. Onlarla tanışmak ne kadar heyecan verici olurdu, değil mi? Hadi, hikayeni düşün ve onu anlat."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kedinin uzay macerasında hangi gezegenleri ziyaret ettiğini hayal ediyorsun? Belki Mars'a gitti ya da Satürn'ün halkalarında kaydı. Sen olsaydın hangi gezegene gitmek isterdin? Haydi, biraz düşün ve bana anlat. Hayal gücünle neler yapabileceğini görmek istiyorum!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ne güzel düşünceler! Gezegenleri keşfederken acaba hangi renkler vardı? Belki Mars kırmızı, Venüs ise altın sarısıydı. Hayal gücünü kullanarak bu renkleri görebilirsin. Şimdi birlikte sayalım, hangi gezegenler var? Bir, iki, üç... Senin favori gezegenin hangisi?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Yaratıcılık, sadece resim yapmak ya da hikaye anlatmakla sınırlı değil. Dans ederek de yaratıcılığını gösterebilirsin. Ayaklarını yere vurduğunda çıkan sesler harika bir müzik oluşturabilir. Ellerini çırparken ritim tutabilir ve kendi dansını yaratabilirsin. Hadi, birlikte dans edelim, nasıl bir hareket yapacaksın?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika dans hareketleri gösterdin! Şimdi biraz daha yaratıcı olalım. Ellerimizle farklı şekiller yapalım. Belki bir kuş, belki bir çiçek olabilir. Ellerimizle neler yapabileceğimizi görmek çok eğlenceli. Sen de denemek ister misin? Hadi, birlikte deneyelim!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Yaratıcılık bazen bir problem çözmek için de kullanılır. Mesela, oyuncaklarını toplarken hızlı bir yol bulabilirsin. Belki bir kutu kullanarak oyuncaklarını daha hızlı toplayabilirsin. Ya da bir şarkı söyleyerek bu işi eğlenceli hale getirebilirsin. Her zaman farklı yollar denemek iyidir."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi seninle birlikte bir nefes egzersizi yapalım. Derin bir nefes al ve yavaşça bırak. Bunu üç kez tekrar edelim. Bu, zihnini sakinleştirir ve yeni fikirler düşünmene yardımcı olur. Rahatladığında, aklına gelen ilk düşünceyi paylaşmak ister misin? Belki yeni bir oyun fikri vardır."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Yaratıcılıkla ilgili en sevdiğin şey nedir? Belki resim yapmak, belki hikaye anlatmak, ya da sadece hayal kurmak. Senin yaratıcılığını kullanarak neler yaptığını duymak isterim. Haydi, biraz düşün ve bana anlat. Yaratıcılığın sınırsız olduğunu unutma!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün seninle birlikte harika bir yolculuk yaptık ve yaratıcılığın ne kadar eğlenceli olduğunu gördük. Unutma, hayal gücünle her gün yeni şeyler keşfedebilirsin. Seninle bu macerayı paylaşmak benim için harikaydı. Bir sonraki maceramızda görüşmek üzere! Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Mino'ın Creativity Hikayesi"
+}

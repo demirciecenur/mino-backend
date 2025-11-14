@@ -1,0 +1,104 @@
+{
+  "id": "bubu_confidence_story",
+  "character": "Bubu",
+  "topic": "confidence",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Bubu. Today we're going on an amazing journey about confidence. Are you ready? I'm so curious about you. Confidence is like a warm hug that makes you feel strong inside. It helps you try new things, even if they seem a bit tricky at first. Let's explore how we can find our confidence together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Confidence is like having a superhero cape that nobody else can see. It helps you feel brave when you try something new, like learning to ride a bike or reading a book all by yourself. Sometimes, confidence starts small, like when you decide to pick up your toys all on your own. Each time you try, your confidence grows a little more, just like a plant that gets taller with sunshine and water. Let's think about a time when you felt really brave."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about how we can grow our confidence. Imagine your confidence is a tiny seed. To help it grow, we need to give it lots of love and care. One way to do this is by practicing things, even if they're hard at first. Just like when you learned to tie your shoes, the more you practice, the better you get. Remember, it's okay to make mistakes because each mistake helps you learn and become stronger."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's pretend we're superheroes with invisible capes! Stand up tall, put your hands on your hips, and say, 'I can do it!' Can you feel that little tingle of excitement? That's your confidence waking up and stretching. It's important to remember that everyone has confidence inside them, even if it sometimes feels a little shy. With each brave step you take, your confidence will grow bigger and brighter."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about practicing things to grow our confidence? Let's think about something new you'd like to try, like drawing a picture or singing a song. It's okay if it's not perfect the first time. Each try is like adding a drop of water to your confidence plant, helping it to grow strong and tall. And just like a plant needs sunshine, your confidence needs encouragement too. Saying 'I can do it!' is like giving your confidence plant a sunny day."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's take a deep breath together. Breathe in slowly through your nose, and out through your mouth. Let's do it three times. Deep breaths can help calm your mind and make your confidence feel even stronger. Whenever you feel unsure, taking a moment to breathe can help you find the courage to keep trying. It's like giving your confidence a big, warm hug."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful job, my friend! You're doing great. Confidence is something we build little by little, like stacking blocks to make a tall tower. Each block is a moment when you tried something new or kept going, even if it was hard. And just like a tower, your confidence can reach higher and higher with each new adventure. Remember, you are amazing just the way you are!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you felt really proud of yourself? Maybe it was when you helped a friend or learned something new. How did that make you feel inside? Those moments are like special treasures that we keep in our hearts. They remind us of all the wonderful things we can do. Would you like to share one of those moments with me?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Thank you for sharing! Each time you remember a proud moment, your confidence gets a little boost, like a happy jump. It's important to celebrate your achievements, no matter how small they seem. Every step you take is part of your journey, and each step makes you stronger and more confident. You're doing an amazing job, and I'm so proud of you!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let's imagine what new adventures we can try with our growing confidence. Maybe it's painting a new picture, trying a new game, or helping someone in need. Every new adventure is like a new chapter in your story, full of exciting possibilities. Remember, you have the power to make your story bright and colorful. You are the hero of your own adventure!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try another confidence exercise. Stand up again and stretch your arms wide like you're giving the world a big hug. Say, 'I'm strong and brave!' Feel the energy in your body as you say those words. It's like your confidence is dancing inside you, ready to take on anything. Keep this feeling close to your heart whenever you need a little extra courage."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Confidence can also help us when things don't go as planned. Sometimes, we might feel sad or disappointed, and that's okay. It's important to remember that every day is a new chance to try again. Just like the sun rises each morning, your confidence can shine bright with each new day. You're never alone, and you can always find strength inside you."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job, little one! You're learning so much about confidence. Remember, it's like having a friend who always believes in you, no matter what. This friend helps you stand tall and try again, even if things are a bit tough. Keep believing in yourself, and know that you are capable of amazing things. I'm so proud of how far you've come!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What is something new you'd like to try tomorrow? It could be anything, like drawing a new picture or playing a new game. How do you think your confidence can help you with that? Remember, your confidence is always there to give you a gentle nudge and say, 'You can do it!' I'm excited to hear about your new adventures and how you use your confidence."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our journey today has been so much fun, and I'm so glad we got to share it together. Remember, confidence is your special friend, always there to help you be brave and try new things. Keep practicing and believing in yourself every day. You're a wonderful person, and I'm so proud to call you my friend. Until next time, keep shining bright and remember, you can do anything you set your mind to. Goodbye for now!"
+    }
+  ],
+  "title": "Bubu's Confidence Story"
+}

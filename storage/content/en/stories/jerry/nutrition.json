@@ -1,0 +1,98 @@
+{
+  "id": "clever_mouse_jerry_nutrition_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "nutrition",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friends! I'm Clever Mouse Jerry, and I'm so excited to see you today. We're going on an amazing journey to learn about something very important: nutrition! Are you ready to join me? Nutrition is what helps us grow strong and healthy. It's like magic for our bodies! Come along, and let's discover the wonderful world of good food together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about fruits and vegetables. Did you know they are like colorful superheroes for our bodies? They give us vitamins that help us see better and keep our skin healthy. Imagine eating a juicy apple or a crunchy carrot. Yum! These foods help us jump high and run fast. Eating them is like giving our bodies a big hug of goodness!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about fruits and vegetables? Let's learn how to make them part of our meals. You can ask a grown-up to help you make a rainbow salad. Pick different colors like red tomatoes, green cucumbers, and orange carrots. Mixing them together makes a colorful and tasty dish. Eating a rainbow is fun and so good for you!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about fruits and veggies! Now, let's talk about grains. Grains like rice, bread, and pasta give us energy. They help us play and learn all day long. Imagine a sandwich made with whole grain bread. It's like a little power pack for your body! Eating grains helps us stay strong and full of energy. Keep going, you're doing fantastic!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's dive into the world of proteins. Proteins are like builders for our muscles. They help us grow tall and strong. Foods like chicken, beans, and eggs are full of protein. Imagine building a tower with blocks. Proteins are like the blocks that build our bodies. Eating enough protein keeps our muscles happy and healthy. Isn't that amazing?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember our chat about proteins? Let's find ways to enjoy them. You can help a grown-up make scrambled eggs or a bean salad. Mix them with your favorite vegetables for a tasty meal. Try to eat proteins with every meal. It's like giving your body a strong foundation to grow. You can do it, little builder!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You're learning so much about nutrition. Let's talk about dairy now. Dairy foods like milk, cheese, and yogurt help our bones stay strong. They are like the strong bones of a big dinosaur! Drinking a glass of milk is like giving your bones a big hug. Keep up the great work, and your bones will thank you!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's not forget about water. Water is super important for our bodies. It's like the fuel that keeps our engine running smoothly. Drinking water helps us stay hydrated and feel good. Imagine playing outside on a sunny day. A sip of water refreshes us and keeps us going. Remember to drink water throughout the day. It's a simple way to stay healthy!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Let's take a moment to think. Do you know why it's important to eat a variety of foods? Eating different foods gives our bodies all the nutrients we need. It's like having a toolbox with all the right tools. What are your favorite healthy foods? Do you like apples, carrots, or maybe cheese? Share your thoughts with a friend or grown-up!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Great thinking, everyone! Now, let's talk about snacks. Healthy snacks are like little boosts of energy during the day. Try fruits, nuts, or yogurt for a tasty treat. It's like charging up our batteries when we need a little extra power. Remember, healthy snacks keep us feeling good and ready to play. You're doing a fantastic job learning about nutrition!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's remember to make meals and snacks fun. You can create funny faces with fruits and veggies on your plate. Maybe a banana smile or a tomato nose. It's like turning your meal into a fun art project. Eating healthy doesn't have to be boring. Make it an adventure every day. Enjoy your creations, little artist!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job exploring nutrition. Let's review what we've learned. We talked about colorful fruits, energy-giving grains, muscle-building proteins, strong bones from dairy, and refreshing water. Each one plays a special role in keeping us healthy. You're becoming a nutrition expert! Keep up the great work, little champion!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about family meals. Eating together is a special time to enjoy healthy foods and share stories. It's like a party with your loved ones. You can help set the table or mix a salad. Being part of meal preparation makes it more fun. Enjoy these moments with your family. It's a wonderful way to stay connected and healthy!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "We've had such an exciting journey learning about nutrition. Remember to eat a variety of foods and drink plenty of water. You're on your way to becoming strong and healthy. Thank you for joining me, Clever Mouse Jerry, on this adventure. Keep exploring the world of good food. Until next time, stay curious and keep smiling. Goodbye, little friends!"
+    }
+  ],
+  "title": "Clever Mouse Jerry's Nutrition Story"
+}

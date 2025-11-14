@@ -1,0 +1,98 @@
+{
+  "id": "clever_mouse_jerry_sibling_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "sibling",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleine Freunde! Ich bin Clever Mouse Jerry. Heute gehen wir auf eine spannende Reise, um mehr über Geschwister zu erfahren. Weißt du, was Geschwister sind? Geschwister können Brüder oder Schwestern sein. Sie sind wie beste Freunde, die immer da sind. Bist du bereit, mehr darüber zu erfahren?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Geschwister sind ganz besonders. Sie können zusammen spielen, lachen und Abenteuer erleben. Manchmal streiten sie sich, aber das ist normal. Wichtig ist, dass sie sich danach wieder vertragen. Geschwister teilen oft Spielzeug, wie zum Beispiel Bauklötze oder Puppen. Das Teilen macht Spaß und zeigt, dass man sich um den anderen kümmert."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn du Geschwister hast, kannst du viele tolle Dinge mit ihnen machen. Ihr könnt zusammen ein Bild malen oder ein Puzzle lösen. Vielleicht könnt ihr auch gemeinsam ein Buch lesen. Dabei lernt ihr nicht nur, sondern habt auch viel Spaß. Erinnerst du dich, als wir über das Teilen gesprochen haben? Jetzt könnt ihr das üben, indem ihr eure Spielsachen teilt."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Toll gemacht! Ihr seid wirklich großartige Geschwister. Weißt du, warum das Teilen so wichtig ist? Es zeigt, dass du freundlich und liebevoll bist. Wenn du teilst, machst du deinen Bruder oder deine Schwester glücklich. Und wenn sie glücklich sind, bist du es auch. Das ist wie ein kleines, magisches Geheimnis."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns über das Spielen sprechen. Was spielst du am liebsten mit deinen Geschwistern? Vielleicht verstecken oder fangen? Diese Spiele machen besonders viel Spaß, wenn man sie zusammen spielt. Du kannst auch neue Spiele erfinden und deine Geschwister dazu einladen. So wird es nie langweilig."
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du schon einmal versucht, ein Spiel zu erfinden? Das ist gar nicht so schwer! Du brauchst nur ein bisschen Fantasie. Überlege dir, was dir und deinen Geschwistern Spaß machen könnte. Vielleicht ein Spiel, bei dem ihr zusammenarbeiten müsst, um zu gewinnen. Das stärkt eure Geschwisterbindung und macht euch zu einem tollen Team."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Erinnerst du dich an ein lustiges Abenteuer mit deinen Geschwistern? Vielleicht habt ihr zusammen im Garten gespielt oder eine Burg aus Kissen gebaut. Was war daran so besonders? Denk darüber nach und erzähle es uns. Geschichten über Geschwisterabenteuer sind immer spannend!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt möchte ich dir von einem meiner Abenteuer erzählen. Einmal habe ich mit meinem Bruder eine riesige Käsestadt gebaut. Wir haben Türme und Brücken aus Käse gemacht. Es war ein riesiger Spaß! Solche Abenteuer kann man nur mit Geschwistern erleben, weil sie immer für Überraschungen sorgen."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns jetzt etwas Neues ausprobieren. Wie wäre es, wenn wir zusammen bis fünf zählen? Eins, zwei, drei, vier, fünf! Gut gemacht! Zählen ist eine tolle Übung, die du mit deinen Geschwistern machen kannst. Ihr könnt es in eure Spiele einbauen und dabei viel lernen."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das großartig! Mit jedem Mal wirst du besser. Und wenn du deinen Geschwistern hilfst, lernen sie auch schneller. Ihr könnt euch gegenseitig unterstützen und anfeuern. Das macht euch beide stark und mutig. Gemeinsam könnt ihr alles schaffen!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Manchmal ist es wichtig, sich auch auszuruhen. Nach einem langen Spieltag könnt ihr euch zusammen hinlegen und eine Geschichte anhören. Geschichten sind wunderbar, um sich zu entspannen und neue Abenteuer zu erleben. Vielleicht träumt ihr sogar von eurem nächsten Geschwisterabenteuer."
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnere dich, wie toll es ist, zusammen zu sein. Geschwister können die besten Freunde sein. Sie sind immer da, wenn du sie brauchst. Manchmal streitet man sich, aber das ist nicht schlimm. Wichtig ist, dass man sich wieder versöhnt und gemeinsam weitermacht."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was ist das Schönste an deinen Geschwistern? Ist es ihr Lachen oder die Abenteuer, die ihr zusammen erlebt? Vielleicht ist es auch die Art, wie sie dich trösten, wenn du traurig bist. Überlege, was dir am meisten gefällt, und teile es mit uns. Wir sind gespannt auf deine Antwort!"
+    },
+    {
+      "id": "scene_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es Zeit, sich zu verabschieden. Ich hoffe, du hattest genauso viel Spaß wie ich. Vergiss nicht, wie wichtig und besonders Geschwister sind. Sie sind immer für dich da, egal was passiert. Danke, dass du heute mitgekommen bist. Bis zum nächsten Mal, kleiner Freund!"
+    }
+  ],
+  "title": "Clever Mouse Jerrys Sibling Geschichte"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "rescue_pup_crew_friendship_story",
+  "character": "Rescue Pup Crew",
+  "topic": "friendship",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos y amiguitas! Soy el equipo de Rescate de Cachorros y hoy vamos a descubrir algo increíble sobre la amistad. ¿Están listos para una aventura especial? La amistad es algo muy importante y divertido. Nos ayuda a sentirnos felices y a nunca estar solos. ¡Vamos a aprender cómo hacer y cuidar amigos juntos!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad comienza cuando conocemos a alguien nuevo. Puede ser un niño o niña en el parque o alguien en tu clase. Cuando decimos 'hola' con una sonrisa, mostramos que queremos ser amigos. Una sonrisa es como un rayo de sol que alegra el día. Ahora, pensemos en cómo nos sentimos cuando alguien nos sonríe. ¡Es maravilloso!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a practicar cómo podemos hacer amigos. Primero, podemos presentarnos y decir nuestro nombre. Luego, podemos preguntar cómo se llama la otra persona. Decir '¿quieres jugar conmigo?' es una gran manera de empezar. ¿Y si jugamos a contar hasta cinco juntos? Uno, dos, tres, cuatro, cinco. ¡Muy bien hecho!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo están haciendo genial! A veces, ser un buen amigo significa compartir nuestros juguetes. Si tienes un juguete favorito, puedes compartirlo con otra persona. Compartir es una forma de mostrar que nos importa el otro. ¿No es eso maravilloso? ¡Puedes hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Cuando jugamos juntos, podemos aprender cosas nuevas. Podemos aprender a construir torres altas con bloques o a dibujar lindos dibujos. Es divertido ver cómo cada uno tiene ideas diferentes. ¡Así es como creamos recuerdos especiales! Ahora, piensen en un momento divertido que hayan tenido con un amigo. ¡Seguro que hay muchos!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Recordemos que un buen amigo también escucha. Cuando alguien está triste, podemos preguntar si está bien. A veces, solo necesitan a alguien que los escuche. Podemos decir 'estoy aquí para ti'. ¿No es bonito saber que hay alguien para nosotros también?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez han ayudado a un amigo? Ayudar puede ser tan simple como recoger un juguete caído. ¿Recuerdan un momento en que ayudaron a alguien? Ayudar hace que todos se sientan bien. ¿No creen que el mundo es mejor cuando nos ayudamos unos a otros?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Cuando nos divertimos juntos, hacemos que la amistad crezca. Podemos jugar a juegos nuevos o inventar historias juntos. ¡La imaginación es el límite! Y lo mejor es que, al final del día, tenemos a alguien con quien compartir nuestras alegrías. La amistad es como un tesoro que debemos cuidar."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a hacer un pequeño ejercicio de respiración. Inhalen profundamente y exhalen suavemente. Uno, dos, tres. ¡Eso nos ayuda a calmarnos y estar listos para nuevas aventuras! ¿Listos para seguir aprendiendo sobre la amistad?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! A veces, los amigos pueden tener diferencias. Es importante recordar que todos somos únicos. Si un amigo piensa diferente, podemos aprender de él. ¡Eso es lo que hace que la amistad sea tan especial! ¡Ustedes son increíbles!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La amistad también es sobre ser valientes. A veces, necesitamos defender a nuestros amigos. Si vemos que alguien no está siendo amable, podemos decir 'eso no está bien'. Juntos, podemos hacer que todos se sientan seguros y felices. ¡La valentía es parte de ser un buen amigo!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Recuerden que la amistad es como una flor. Necesita cuidado y atención para crecer. Con amabilidad y amor, podemos hacer que nuestras amistades florezcan. ¡Qué hermoso es tener amigos que nos apoyan! ¿No creen que es maravilloso?"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Qué les gustaría hacer con sus amigos? Podemos planear una aventura o un juego divertido. ¿Quizás un picnic en el parque? ¡Las posibilidades son infinitas! ¿No es emocionante pensar en todas las cosas que podemos hacer juntos?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un viaje maravilloso aprender sobre la amistad con ustedes. Recuerden que ser un buen amigo es una gran aventura. Siempre podemos descubrir cosas nuevas y hacer que cada día sea especial. ¡Gracias por ser parte del equipo de Rescate de Cachorros hoy! Hasta la próxima, amigos. ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Friendship de Rescue Pup Crew"
+}

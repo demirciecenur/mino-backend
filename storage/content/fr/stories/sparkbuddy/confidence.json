@@ -1,0 +1,104 @@
+{
+  "id": "spark_buddy_confidence_story",
+  "character": "Spark Buddy",
+  "topic": "confidence",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour petit ami ! Je suis Spark Buddy. Aujourd'hui, nous allons partir pour une aventure incroyable sur la confiance en soi. Es-tu prêt ? Je suis tellement curieux de te connaître. Ensemble, nous allons découvrir comment être courageux et confiant. Prépare-toi pour un voyage amusant et joyeux !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance en soi, c'est se sentir bien et fort à l'intérieur. C'est comme quand tu sais que tu peux réussir à faire un dessin ou à jouer avec tes amis. Quand tu crois en toi, tu peux faire des choses incroyables. Tu te sens heureux et fier de toi-même. Et tu sais quoi ? Tout le monde peut apprendre à avoir confiance en soi, même toi !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour avoir confiance en toi, commence par essayer de nouvelles choses, même si elles te semblent difficiles. Par exemple, tu peux essayer de monter sur un vélo ou de chanter une chanson. Chaque fois que tu essaies, tu deviens de plus en plus confiant. N'oublie pas, même si tu fais une erreur, c'est une chance d'apprendre. Et apprendre, c'est grandir !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Allez, essayons ensemble ! Comptons jusqu'à trois et pensons à quelque chose de nouveau que tu aimerais essayer. Prêt ? Un, deux, trois ! Super ! Maintenant, imagine-toi en train de le faire. Tu es courageux et plein de confiance. Tu peux y arriver !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi, la confiance en soi ressemble à un petit oiseau qui apprend à voler. Au début, il a peur, mais avec chaque battement d'ailes, il devient plus fort. Et toi aussi, chaque petit pas que tu fais te rend plus confiant. C'est un sentiment merveilleux, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Parfois, nous avons besoin d'un petit rappel pour rester confiants. Peut-être un câlin de maman ou un sourire de papa. Ces petites choses peuvent nous donner la force dont nous avons besoin. As-tu déjà ressenti cela ? C'est comme un petit coup de pouce magique !"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre façon de renforcer ta confiance est de faire quelque chose que tu aimes vraiment. Que ce soit dessiner, chanter ou construire des tours avec des blocs. Quand tu fais ce que tu aimes, tu te sens heureux et sûr de toi. Qu'est-ce que tu aimes faire ?"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dis-moi, as-tu déjà essayé de faire quelque chose de nouveau aujourd'hui ? Peut-être as-tu essayé de nouer tes lacets ou d'apprendre une nouvelle chanson ? Comment te sentais-tu ? C'est bien d'être curieux et de vouloir essayer. Cela montre que tu es courageux !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de célébrer tes succès, même les petits ! Chaque fois que tu fais quelque chose de bien, prends un moment pour te féliciter. C'est comme donner une tape dans le dos à toi-même. Cela te rend heureux et te motive à continuer. Alors, n'oublie pas de célébrer !"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es incroyable, tu sais ? Chaque jour, tu deviens plus fort et plus confiant. Continue à croire en toi et à essayer de nouvelles choses. Rappelle-toi, même les petites victoires comptent. Tu es un champion !"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Parfois, nous avons tous besoin d'un peu d'aide. Et c'est normal ! N'aie pas peur de demander à un adulte ou à un ami. Ils sont là pour t'aider et te soutenir. Ensemble, vous pouvez surmonter n'importe quel défi. N'est-ce pas merveilleux d'avoir des amis sur qui compter ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Prenons une grande inspiration ensemble. Inspire profondément par le nez... et expire lentement par la bouche. Ça fait du bien, n'est-ce pas ? Respirer calmement peut t'aider à te sentir plus confiant et apaisé. C'est un petit secret que tu peux utiliser à tout moment !"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu déjà ressenti un peu de peur avant de faire quelque chose de nouveau ? C'est normal, et ça arrive à tout le monde. Mais avec un peu de courage et de confiance, tu peux y arriver. Quelle est la prochaine chose que tu aimerais essayer ?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi que la confiance en soi grandit avec le temps. Comme une petite plante qui devient un grand arbre. Chaque jour, tu apprends et tu deviens plus fort. Continue à cultiver ta confiance, et tu verras des merveilles se produire. Tu es formidable !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était amusant de parler de la confiance en soi avec toi aujourd'hui. Rappelle-toi, tu es spécial et tu peux accomplir de grandes choses. Merci d'avoir partagé ce moment avec moi, Spark Buddy. J'espère te revoir bientôt pour d'autres aventures ! Au revoir, petit ami !"
+    }
+  ],
+  "title": "Histoire de Confidence de Spark Buddy"
+}

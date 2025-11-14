@@ -1,0 +1,104 @@
+{
+  "id": "sunny_behavior_story",
+  "character": "Sunny",
+  "topic": "behavior",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, amiguitos! Soy Sunny, y hoy vamos a hablar de algo muy importante: el buen comportamiento. ¿Saben lo que eso significa? Significa hacer cosas que nos hacen sentir bien y que hacen felices a los demás. Vamos a aprender juntos cómo ser amables y respetuosos. ¿Están listos para comenzar esta aventura? ¡Estoy muy emocionado!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "El comportamiento es cómo actuamos y cómo tratamos a los demás. Por ejemplo, cuando compartimos nuestros juguetes, estamos mostrando buen comportamiento. También es importante escuchar a nuestros padres y maestros, porque ellos nos cuidan y quieren lo mejor para nosotros. ¿Recuerdan la última vez que ayudaron a alguien? ¡Eso es genial! Ahora, pensemos en más formas de ser amables."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Una forma de mostrar buen comportamiento es seguir las reglas. ¿Saben por qué tenemos reglas? Las reglas nos ayudan a mantenernos seguros y a llevarnos bien con los demás. Por ejemplo, en casa, podemos tener la regla de cepillarnos los dientes antes de dormir. ¿Tienen alguna regla en su casa? ¡Las reglas son nuestras amigas!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a practicar un poco! Pensemos en algo que podemos hacer hoy para mostrar buen comportamiento. ¿Qué tal si recogemos nuestros juguetes después de jugar? Eso ayuda a mantener todo ordenado y seguro. ¡Ustedes pueden hacerlo! ¿Quién está listo para intentarlo conmigo? ¡Estoy seguro de que lo harán genial!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos que ser amable también es parte del buen comportamiento. Decir 'por favor' y 'gracias' son palabras mágicas que hacen sonreír a los demás. Cuando ayudamos a alguien, podemos decir: '¿Puedo ayudarte?' o '¡Gracias por tu ayuda!'. ¿Pueden pensar en un momento en el que usaron estas palabras mágicas? ¡Así es como hacemos del mundo un lugar más feliz!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de cómo podemos manejar nuestros sentimientos. A veces nos sentimos enojados o tristes, y eso está bien. Lo importante es cómo expresamos esos sentimientos. Podemos respirar profundamente y contar hasta cinco para calmarnos. Vamos a intentarlo juntos. ¡Inhalen y exhalen! ¡Qué bien se siente!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo están haciendo muy bien! Recuerden que todos podemos practicar el buen comportamiento todos los días. No importa si es en casa, en la escuela o en el parque. Siempre hay una oportunidad para ser amables y respetuosos. ¡Estoy tan orgulloso de ustedes! ¿Listos para aprender más?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vamos a hablar sobre cómo podemos ser buenos amigos. Un buen amigo escucha y comparte. Si un amigo está triste, podemos preguntarle: '¿Estás bien?' o '¿Quieres jugar conmigo?'. Así mostramos que nos importa. ¿Alguna vez han hecho esto por un amigo? ¡Es una gran manera de mostrar buen comportamiento!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Otra cosa importante es respetar los turnos. Cuando jugamos, es importante esperar nuestro turno para que todos se diviertan. Podemos contar hasta tres cuando esperamos: uno, dos, tres. ¡Ahora es nuestro turno! ¿Pueden practicar esto la próxima vez que jueguen con amigos? ¡Estoy seguro de que sí!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez han visto a alguien siendo amable y respetuoso? ¿Cómo se sintieron al verlo? ¡Es un sentimiento maravilloso, verdad! ¿Quieren ser como esa persona? ¡Yo sé que sí! ¿Qué creen que podemos hacer para ser aún más amables?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos tanto sobre buen comportamiento, podemos intentar hacer una lista de cosas que queremos mejorar. Podemos escribir: 'Hoy voy a escuchar más' o 'Voy a compartir mis juguetes'. Hacer una lista nos ayuda a recordar lo que queremos lograr. ¿Qué les gustaría poner en su lista?"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué ideas tan geniales tienen! Recuerden que practicar el buen comportamiento todos los días nos hace sentir bien. Es como un superpoder que todos tenemos. Cuanto más lo usamos, más fuerte se vuelve. ¿Quién está listo para usar su superpoder de buen comportamiento hoy?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estoy seguro de que lo harán increíble! Cada pequeño acto de amabilidad cuenta. Cuando hacemos cosas buenas por los demás, el mundo se vuelve un poco más brillante. ¡Sigamos practicando! ¿Están listos para hacer del mundo un lugar más feliz juntos?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden que no siempre es fácil, pero siempre vale la pena. Si alguna vez se sienten frustrados, tomen un momento para respirar y pensar. Pueden hacerlo, y siempre pueden pedir ayuda si la necesitan. ¡Nunca están solos en este camino!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido maravilloso hablar con ustedes sobre el buen comportamiento. Recuerden, cada día es una nueva oportunidad para ser amables y respetuosos. Estoy tan orgulloso de todo lo que han aprendido hoy. ¡Hasta la próxima, amiguitos! Sigan brillando con su buen comportamiento. ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Behavior de Sunny"
+}

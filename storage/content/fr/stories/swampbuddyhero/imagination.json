@@ -1,0 +1,98 @@
+{
+  "id": "swamp_buddy_hero_imagination_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "imagination",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mon petit ami ! Je suis ton Swamp Buddy Hero. Aujourd'hui, nous allons partir pour une aventure incroyable sur le pouvoir de l'imagination. Es-tu prêt à explorer avec moi ? Je suis tellement curieux de savoir ce que tu penses. Ensemble, nous allons découvrir des mondes merveilleux juste avec nos pensées. Allons-y, et faisons marcher notre imagination !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'imagination, c'est comme une baguette magique que nous avons tous dans nos têtes. Avec elle, nous pouvons créer des châteaux, des dragons, et même des forêts enchantées. Tu sais, chaque fois que tu joues à faire semblant, tu utilises ton imagination. C'est comme avoir un super pouvoir qui ne s'épuise jamais. Qu'est-ce que tu aimes imaginer quand tu joues ? Peut-être un voyage dans l'espace ou un pique-nique avec des dinosaures ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons quelque chose ensemble. Ferme les yeux et imagine que nous sommes dans une forêt magique. Tu entends les oiseaux chanter et le vent souffler doucement à travers les arbres. Imagine les couleurs vives des fleurs autour de nous. Est-ce que tu vois les jolies lumières des lucioles ? Avec ton imagination, tu peux sentir l'herbe douce sous tes pieds. C'est comme un rêve éveillé, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "C'est formidable ! Tu as une imagination incroyable. Maintenant, imagine que nous rencontrons un gentil dragon qui veut jouer avec nous. Comment serait-il, ce dragon ? Peut-être a-t-il des écailles brillantes ou une queue qui scintille comme des étoiles ? Ensemble, nous pouvons lui donner un nom rigolo. Que dirais-tu de l'appeler 'Étoile de Feu' ? Génial, continuons à jouer avec lui."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi quand nous avons imaginé cette forêt magique. Et si nous y ajoutions un château ? Un grand château avec des tours et un pont-levis. Tu peux être le roi ou la reine de ce château. Quelles aventures aurais-tu dans ce royaume ? Peut-être une fête avec tous tes amis et notre dragon Étoile de Feu. Ça serait amusant, non ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Tu as une imagination si vivante ! Tu sais, l'imagination aide aussi à résoudre des problèmes. Par exemple, si tu ne trouves pas tes jouets, imagine qu'ils jouent à cache-cache. Où pourraient-ils se cacher ? Peut-être sous le lit ou derrière le canapé ? Avec ton imagination, tu peux inventer plein de jeux amusants même quand les jouets ne sont pas là."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, faisons un petit exercice ensemble. Imagine que nous sommes des explorateurs dans une jungle mystérieuse. Nous devons marcher prudemment pour ne pas déranger les animaux. Écoute les bruits autour de nous, comme le cri des singes ou le bruissement des feuilles. Tu peux même imaginer que nous trouvons un trésor caché sous un vieux arbre. Quelle aventure excitante !"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, quel est ton endroit imaginaire préféré où aller ? Est-ce une plage ensoleillée avec des dauphins ou peut-être un monde de bonbons où tout est sucré ? Pourquoi aimes-tu cet endroit particulier ? J'aimerais tellement en savoir plus sur tes aventures imaginaires. Peux-tu me raconter une histoire de cet endroit ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as de merveilleuses idées ! Continue d'utiliser ton imagination chaque jour. C'est comme un muscle, plus tu l'utilises, plus elle devient forte. Peut-être que demain, tu pourrais imaginer être un astronaute explorant une nouvelle planète. Ou un chef cuisinier créant des plats magiques. Les possibilités sont infinies avec ton imagination !"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souviens-toi, l'imagination n'a pas de limites. Elle nous permet de rêver et de créer des mondes merveilleux. Même les grandes inventions ont commencé par un petit rêve. Peut-être un jour, tu inventeras quelque chose d'incroyable grâce à ton imagination. Qui sait, tu pourrais être un inventeur célèbre !"
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "N'oublie pas que tu peux toujours partager tes idées avec ta famille et tes amis. Ils pourraient vouloir rejoindre tes aventures imaginaires. Peut-être que vous pouvez créer ensemble une histoire incroyable. C’est toujours amusant de jouer et de rêver avec les autres. Qui sait quelles incroyables aventures vous pourriez vivre ensemble ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour finir, faisons un dernier exercice. Prenons trois grandes respirations ensemble et imaginons que nous flottons dans un nuage doux. Inspire profondément... et expire lentement. Imagine les couleurs changeantes du ciel autour de nous. C'est tellement apaisant et relaxant. Tu peux faire cet exercice chaque fois que tu veux te détendre."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Je suis tellement fier de toi et de ton imagination incroyable. Continue de rêver et de créer chaque jour. Tu es capable de tout avec un peu d'imagination. Souviens-toi, tu es un vrai héros avec ton esprit créatif. Je suis impatient de voir toutes les aventures que tu vivras."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure avec moi, petit ami. J'ai passé un moment fantastique à explorer avec toi. N'oublie pas que tu peux toujours revenir pour d'autres histoires et jeux. À bientôt, et continue d'utiliser ton imagination chaque jour ! Au revoir, mon ami !"
+    }
+  ],
+  "title": "Histoire de Imagination de Swamp Buddy Hero"
+}

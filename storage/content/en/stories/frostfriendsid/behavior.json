@@ -1,0 +1,110 @@
+{
+  "id": "frost_friend_sid_behavior_story",
+  "character": "Frost Friend Sid",
+  "topic": "behavior",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little adventurers! I'm Frost Friend Sid, your jolly pal from the chilly lands of fun! Today, we're going on a frosty journey to explore the wonderful world of behavior. Are you ready to learn and play with me? We'll discover why good behavior is like magic that makes everyone happy. I'm so thrilled to have you with me on this snowy adventure!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about what behavior means. Behavior is how we act and what we do every day, like when we share our toys or say please and thank you. It's like following a special set of rules that help us be kind and friendly with each other. Have you ever noticed how your friends smile when you share? That's because good behavior makes everyone feel happy and loved."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about sharing toys? Let's learn how to be super sharers! When we share, we make our friends feel included and special. Imagine you have a big box of crayons. If you share them with your friends, everyone gets to draw and color together. Isn't that wonderful? Sharing is caring, and it's one of the best ways to show good behavior."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about sharing! Now, let's count how many times we can say thank you today. Can you say thank you three times? Like when someone gives you a cookie or helps you with your jacket. Each thank you is a little hug made of words. You can do it! Let's make today a thank you day!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, we'll talk about listening. Listening is a superpower that helps us learn from others. When we listen, we hear what our friends and family say, and we can help them when they need us. Imagine your friend is telling you a story about a magical dragon. If you listen carefully, you can join in the adventure too! Listening makes every story more fun and brings us closer together."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice our listening skills now. Can you hear the sound of my voice? Try to follow along as we clap our hands three times. Ready? Clap once, clap twice, and clap three times! Fantastic! Listening helps us follow directions and understand what others are saying. It's like a secret key to unlock fun and learning!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful job listening and clapping! You're becoming a listening champion! Now, let's take a moment to breathe together. Breathing calmly helps us feel relaxed and ready to learn more. Let's take a big breath in, hold it, and let it out slowly. Doesn't that feel nice? Breathing is a great way to stay calm and focused."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about being polite. Being polite means using kind words and actions, like saying please when you ask for something. Imagine you want a cookie from the cookie jar. If you say, 'Please, may I have a cookie?' it sounds so friendly and nice. Being polite makes everyone feel respected and happy to help each other."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try using polite words together. Imagine you're at a friend's house, and you want to play with a toy. You could say, 'Please, may I play with the toy?' Using please makes your request gentle and kind. And when someone helps you, don't forget to say thank you! These words are like little magic spells that spread happiness."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great work using polite words! You're doing an amazing job! Now, let's pretend we're in a magical forest. What do you see? Trees, flowers, maybe even a friendly squirrel? Let's wave to the squirrel and say, 'Hello, friend!' Being friendly to everyone, even squirrels, is part of good behavior. You can make new friends wherever you go!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about being friendly? Let's explore how helping others is a part of that. Helping can be as simple as holding a door open or picking up a toy someone dropped. When we help others, we show them that we care and want to make their day better. Isn't it nice to know you can make someone smile with just a little help?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice helping now. Imagine your friend is trying to reach a book on a high shelf. You could say, 'Let me help you with that!' and together, you can get the book. Helping each other makes everything easier and more fun. It's like being a superhero for your friends and family!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing a fantastic job being a little helper! Now, let's think of one thing you can do today to help someone. Maybe it's picking up your toys or setting the table for dinner. Every little bit of help makes a big difference. You're a superstar helper, and everyone appreciates your kindness!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Did you know that good behavior can be fun too? What are some fun ways you can show good behavior at home or with friends? Maybe playing a game and taking turns, or making up a new dance to share. I'm curious to hear your ideas! Sharing fun times with good behavior makes every day an adventure."
+    },
+    {
+      "id": "scene_14",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's put everything we've learned into action. Remember to share, listen, be polite, and help others. Each day is a new chance to practice good behavior and make the world a happier place. You have the power to bring smiles to everyone around you. Isn't that amazing? Keep up the great work!"
+    },
+    {
+      "id": "closure_15",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Well, little adventurers, it's time for me to say goodbye. Keep being the wonderful, kind, and friendly person you are. Remember, good behavior is the key to making friends and spreading joy. I had so much fun exploring with you today. Until next time, keep shining bright like the stars in the frosty sky. Bye-bye!"
+    }
+  ],
+  "title": "Frost Friend Sid's Behavior Story"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "mino_space_story",
+  "character": "Mino",
+  "topic": "space",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little explorers! I'm Mino, your friendly space guide. Today, we're going on an amazing adventure through space. We'll visit stars, planets, and maybe even meet some friendly space creatures. Are you ready to explore the wonders of the universe with me? Let's put on our imaginary space helmets and get ready for blast-off!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's imagine we're in a spaceship zooming through the galaxy. The first thing we see is the bright, shining stars. Stars are like giant balls of fire, far away in space. Can you imagine how hot they must be? Just like the sun, which is a star too! Let's count some stars together: one, two, three, four, five! Great job!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember how we counted stars? Now, let's talk about planets. Planets are big, round, and they travel around stars. Our home, Earth, is a planet too! Some planets are very big, and some are smaller. Can you imagine a planet that's all red or one that's super cold? Let's pretend we're walking on a planet made of ice!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful explorers, you're doing great! Let's continue our journey. Imagine we're floating in space, looking at the planets. What colors do you see? Maybe a blue one, a red one, and a green one. Each planet is unique, just like you are! Keep your eyes open for all the amazing colors in space."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let's visit the moon. The moon is a big, round rock that circles around Earth. It doesn't have air like we do, so we would need space suits to visit. Have you ever seen the moon at night? It glows brightly in the sky and sometimes looks like a big, smiling face. Let's pretend we're astronauts walking on the moon!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about the moon? Now, let's learn about other moons. Did you know some planets have more than one moon? Jupiter, a giant planet, has many moons! Imagine having lots of moons in the sky. What fun shapes could they make together? Let's count to five again as we imagine all those moons."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great counting, space explorers! Let's keep going. Imagine flying past comets. Comets are like icy snowballs that zoom through space. They have long, bright tails that shine in the night sky. Can you picture a comet's tail sparkling like a trail of glitter? You're doing an amazing job imagining space!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's meet some stars again. Some stars are very old, like wise grandparents of the sky. They twinkle brightly and tell stories of the universe. Can you think of a star twinkling a special message just for you? Maybe it's saying, 'You're a star too!' Let's wave to our star friends as we fly by."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember our star friends? Let's imagine visiting a space station next. Space stations are like big homes floating in space where astronauts live and work. They do experiments and take care of their space home. Imagine floating around in a space station, just like an astronaut! What fun things would you try?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful imagining, explorers! You're doing so well. Let's learn about the Milky Way now. The Milky Way is the galaxy we live in, full of stars and planets. It's like a big, cosmic city in space. Can you imagine all the stars twinkling together, just like lights in a city? You're a fantastic space traveler!"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you remember the stars and planets we talked about? Which one was your favorite? Was it the bright stars, the colorful planets, or maybe the icy comets? I wonder what it would be like to visit them all. What do you think? Let's imagine together and see where our minds take us!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let's continue our journey by imagining a space adventure. Picture yourself as a brave astronaut, exploring the unknown. What would you discover? Maybe a new planet, or a friendly alien waving hello. Space is full of surprises and mysteries waiting to be explored. You're doing great on this adventure!"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember our space adventure? Let's think about how astronauts get ready for space. They wear special suits and helmets to keep them safe. Just like we wear coats when it's cold outside. They also practice floating in water to get used to moving in space. Imagine floating like a feather!"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well, little space travelers! Let's imagine one last thing. Picture a rocket ship blasting off into space. It zooms up, up, and away, leaving a trail of smoke behind. Can you make a whooshing sound like a rocket? Great job! You're ready for any space adventure now."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our space adventure is coming to an end. Thank you for being such wonderful explorers with me, Mino. Remember, the stars will always be there, twinkling just for you. Keep dreaming and imagining all the amazing things in space. Until next time, keep looking up at the stars. Goodbye, little astronauts!"
+    }
+  ],
+  "title": "Mino's Space Story"
+}

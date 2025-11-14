@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_behavior_attention_story",
+  "character": "Spider Fighter",
+  "topic": "behavior_attention",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello there, little heroes! I'm Spider Fighter, ready to swing into a new adventure with you today! We're going to learn about something super important: paying attention and calming ourselves down. Are you excited to join me? I can't wait to show you some fun tricks. Let's get ready to become the best listeners and calm thinkers in the city!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, have you ever noticed how sometimes our minds like to bounce around, just like a bouncy ball? It's okay, it happens to everyone, even to superheroes like me! But when we need to focus, we can use special tricks to help us calm down and pay attention. This makes us even stronger and ready to tackle anything. Let's find out how we can do this together!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "One great way to start is by taking deep breaths. Let's try it together! Breathe in like you're smelling a yummy cake, and breathe out like you're blowing out birthday candles. Did you feel that? Your body is starting to relax already! Deep breathing helps us bring our attention back to what we need to do. Isn't that amazing?"
+    },
+    {
+      "id": "scene_3",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Now, let's pretend we're superheroes getting ready for a mission. Stand tall and put your hands on your hips. Can you feel the power? When we stand like superheroes, it helps us feel strong and brave. This is another way to help us focus and calm down when we're feeling a little wiggly. You can do this anytime you need a boost!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about taking deep breaths? Another thing we can do is count to five slowly. Let's count together: one, two, three, four, five. Great job! Counting helps us slow down and think clearly. It's like giving our brain a little break so it can come back stronger. You're doing fantastic!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try a fun game called 'Spider Senses.' Close your eyes and listen to the sounds around you. Can you hear a bird chirping or maybe a car passing by? This game helps us focus on one thing at a time and strengthens our attention. Just like a superhero with amazing senses, you're becoming more aware of your surroundings!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing such an amazing job! Every time you practice these tricks, you're becoming a better listener and thinker. Remember, even superheroes need practice to get better. Keep trying, and soon you'll be able to pay attention and calm down anytime you need. I'm so proud of you!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, let me ask you something. Do you remember a time when you felt a bit wiggly or couldn't focus? What did you do to calm down? It's okay if you don't remember, because now you have new tricks to try next time! These tricks are like special superhero tools just for you."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "While you're thinking about that, let's remember the tools we learned today. We have deep breathing, standing like a superhero, counting to five, and using our Spider Senses. These are all great ways to help us focus and calm down. Can you think of any other fun ways to practice these tools?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's imagine we're on a big adventure, and we need to stay calm and focused to find the hidden treasure. With our new tools, we can carefully look around and listen for clues. Remember, being calm and paying attention helps us see and hear things we might miss otherwise. You're doing such a great job!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Here's another tool for your superhero toolkit. When you're feeling a bit too excited, try squeezing a soft toy or a pillow. This can help you release energy and feel calmer. It's like giving your excitement a gentle hug! Remember, there are many ways to help ourselves feel better."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wow, you're becoming a true master of attention and calmness! Keep practicing these tools, and you'll find that focusing becomes easier every day. Just like a superhero, you have the power to control your thoughts and feelings. I'm so happy to see you growing stronger and more confident!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Can you think of a time when you might use these tools? Maybe before bedtime, or when you're about to start a new activity? It's wonderful to think about how you can use your new skills in different situations. You're becoming a real expert at this!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "While you think about that, let's remember how far you've come today. You've learned so many new skills and discovered how powerful you really are. Keep practicing, and soon these tricks will be as easy as tying your shoes or brushing your teeth. You're doing amazing!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Well, little heroes, it's time for me to swing away for now. But remember, I'm always here cheering you on as you practice your new skills. Keep being brave, adventurous, and kind, just like a true superhero. Until next time, stay strong and keep shining bright! See you soon!"
+    }
+  ],
+  "title": "Spiderman's Behavior & Attention Story"
+}

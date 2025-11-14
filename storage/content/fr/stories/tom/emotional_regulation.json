@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_régulation_émotionnelle_gestion_des_émotions_se_calmer_autorégulation_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour petit ami ! Je suis Sneaky Cat Tom, et aujourd'hui, nous allons découvrir ensemble comment gérer nos émotions. Tu sais, parfois, on peut se sentir comme un ballon rempli d'air, prêt à éclater. Mais ne t'inquiète pas, je suis là pour t'aider à te calmer et à te sentir mieux. Es-tu prêt pour cette aventure amusante ? Allons-y !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, tu te sens peut-être triste, en colère ou même très excité. C'est tout à fait normal ! Les émotions sont comme des vagues dans l'océan, elles montent et descendent. Mais il est important d'apprendre à surfer sur ces vagues, pour ne pas se laisser emporter. Tu sais, comme un surfeur qui garde son équilibre, nous pouvons apprendre à garder notre calme. Et cela commence par comprendre ce que nous ressentons."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour commencer, prenons trois grandes respirations ensemble. Inspire par le nez, comme si tu sentais une fleur, et souffle par la bouche, comme si tu soufflais sur une bougie. C'est un moyen simple mais puissant de calmer ton esprit et ton corps. Tu peux utiliser cette technique chaque fois que tu te sens bouleversé. N'est-ce pas magique ?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super travail ! Tu as déjà fait un grand pas vers la gestion de tes émotions. Maintenant, essayons de trouver des mots pour exprimer ce que tu ressens. Par exemple, si tu es en colère, tu peux dire \"Je suis en colère parce que...\". Cela aide à clarifier tes pensées et à te sentir mieux. Tu peux le faire, je crois en toi !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi de notre petit exercice de respiration. C'est comme une baguette magique que tu as toujours avec toi. Si tu te sens stressé, prends une pause et respire. Imagine que tu es un arbre solide avec des racines profondes dans le sol, rien ne peut te renverser. C'est une belle image, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "As-tu remarqué comment tu te sens après avoir respiré profondément ? Peut-être un peu plus calme, comme si un nuage s'était éloigné. C'est le pouvoir de la respiration et de l'autorégulation ! Faisons de cet exercice un petit jeu à pratiquer chaque jour. Cela peut devenir une partie de ta routine, comme se brosser les dents."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons d'une autre technique amusante : imaginer un endroit calme. Ferme les yeux et pense à un endroit que tu aimes. Peut-être une plage avec du sable chaud ou un parc avec des arbres verts. Quand tu te sens stressé, ferme les yeux et va dans cet endroit magique. Cela aide à calmer ton esprit et à te sentir en sécurité."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail incroyable en apprenant toutes ces techniques ! Rappelle-toi, il est normal de ressentir toutes sortes d'émotions. L'important est de savoir comment les gérer. Avec un peu de pratique, tu deviendras un expert en régulation émotionnelle. Continue comme ça, tu es génial !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Revenons à notre technique de l'endroit calme. Quand tu te sens dépassé, pense à cet endroit spécial. Imagine les sons, les odeurs, et comment tu te sens là-bas. C'est comme un refuge dans ton esprit où tu peux toujours aller. Cela te donne un sentiment de paix et de bonheur."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "As-tu un endroit préféré où tu aimes aller dans ton imagination ? Peut-être un jardin secret ou une cabane dans les arbres ? C'est amusant de créer ces endroits dans ton esprit. Et tu sais quoi ? Plus tu pratiques, plus ils deviennent réels. C'est comme un jeu de cache-cache avec tes pensées."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, je me demande, comment te sens-tu après avoir essayé ces techniques ? Sens-tu une différence dans ton corps ou ton esprit ? C'est toujours intéressant de voir comment notre corps réagit quand on se calme. As-tu d'autres idées pour te sentir mieux ? Partage-les avec moi !"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "C'est merveilleux d'apprendre à gérer ses émotions. Cela nous aide à être plus heureux et à mieux comprendre les autres. Quand tu te sens bien, c'est plus facile de jouer et de partager avec tes amis. C'est comme avoir une boîte à outils spéciale pour t'aider dans la vie. Continuons à explorer ensemble !"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre astuce est de bouger ton corps pour libérer l'énergie. Tu peux faire des sauts, danser ou même courir sur place. Cela aide à évacuer le stress et à te sentir plus léger. Alors, prêt à bouger un peu ? Faisons-le ensemble, c'est amusant et ça fait du bien !"
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo ! Regarde comme tu es courageux et intelligent. Tu as appris tellement de choses aujourd'hui sur la gestion des émotions. Continue de pratiquer ces techniques et bientôt, tu seras un vrai maître de tes émotions. Tu es incroyable !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé du temps avec moi aujourd'hui. Nous avons appris beaucoup sur comment se calmer et gérer nos émotions. N'oublie pas de pratiquer ces exercices tous les jours. Je suis fier de toi et j'ai hâte de te revoir pour une autre aventure. Au revoir, petit ami, et prends soin de toi !"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Sneaky Cat Tom"
+}

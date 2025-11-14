@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_nutrition_story",
+  "character": "Spider Fighter",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük kahramanlar! Ben Spider Fighter ve bugün sizinle beslenme hakkında harika bir maceraya çıkacağız. Sağlıklı olmak, güçlü ve enerjik hissetmek için doğru beslenmenin ne kadar önemli olduğunu biliyor musunuz? Birlikte bu konuda eğlenceli şeyler öğreneceğiz. Hazır mısınız? Öyleyse başlıyoruz!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Beslenme, vücudumuzun ihtiyaç duyduğu enerjiyi ve besinleri almasını sağlar. Her gün yediğimiz yiyecekler, büyümemize ve oyunlarımıza enerji verir. Mesela, bir elma yediğinizde, o elma size enerji ve vitaminler verir. Sağlıklı yiyecekler yemek, vücudumuzun güçlü kalmasına yardımcı olur. O yüzden yemekten önce ve sonra ellerimizi yıkamayı da unutmayalım!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, sağlıklı yiyeceklerin neler olduğunu öğrenelim. Meyveler ve sebzeler, vücudumuza iyi gelen vitaminlerle doludur. Örneğin, havuç gözlerimize iyi gelirken, ıspanak bizi güçlü yapar. Proteinler de önemlidir; tavuk, balık veya fasulye gibi yiyecekler protein açısından zengindir. Bu yiyecekler, kaslarımızın büyümesine ve güçlenmesine yardımcı olur."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsunuz! Şimdi kendi sağlıklı yemeğinizi seçmeye ne dersiniz? Haydi birlikte sağlıklı bir tabak oluşturalım. Biraz brokoli, biraz tavuk ve yanında bir avuç fındık. Bu yiyecekler, enerji dolu ve sağlıklı olmamıza yardımcı olur. Siz de kendi sağlıklı tabağınızı oluşturabilirsiniz!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda sağlıklı yiyeceklerden bahsettik. Şimdi, suyun vücudumuz için ne kadar önemli olduğunu konuşalım. Su, vücudumuzun her gün ihtiyaç duyduğu en önemli şeylerden biridir. Su içmek, vücudumuzun temiz kalmasına ve enerjik hissetmemize yardımcı olur. Susadığınızda su içmeyi unutmayın, çünkü su içmek her zaman iyi bir fikirdir!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi bir oyun oynayalım! Her gün kaç bardak su içmeniz gerektiğini biliyor musunuz? Genellikle 5 ila 8 bardak su içmek sağlıklı kalmamıza yardımcı olur. Şimdi, birlikte bir bardak su içmeyi deneyelim. Su içmek sizi nasıl hissettiriyor? Tazelenmiş ve enerjik hissediyor musunuz?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika işler çıkardınız! Şimdi, sağlıklı atıştırmalıklar hakkında konuşalım. Meyve dilimleri, yoğurt veya bir avuç ceviz gibi atıştırmalıklar, açlığınızı bastırır ve size enerji verir. Unutmayın, sağlıklı atıştırmalıklar seçmek, büyümenize ve güçlü kalmanıza yardımcı olur. Siz de sağlıklı bir atıştırmalık seçmek ister misiniz?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Sağlıklı atıştırmalıkların önemini konuştuk. Şimdi, dengeli bir öğünün nasıl olacağını öğrenelim. Bir öğün, protein, karbonhidrat ve sebzelerden oluşmalıdır. Örneğin, bir tabak tavuk, biraz pirinç ve yanında salata harika bir dengeli öğündür. Dengeli yemekler yemek, vücudumuzun ihtiyaç duyduğu tüm besinleri almasını sağlar."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Birlikte dengeli bir öğün tasarlamaya ne dersiniz? Sizce bir tabak makarna, yanında biraz et ve birkaç dilim domates dengeli bir öğün olur mu? Düşüncelerinizi duymak isterim. Siz hangi yiyecekleri seçerdiniz?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir önceki konuşmamızda dengeli öğünlerden bahsettik. Şimdi, tatlılar ve şekerli yiyecekler hakkında konuşalım. Tatlılar lezzetlidir, ama çok fazla yemek sağlığımıza zarar verebilir. Tatlıları ölçülü tüketmek önemlidir. Sağlıklı tatlı alternatifleri keşfetmek de harika bir fikir olabilir."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tatlıları ölçülü tüketmenin önemini konuştuk. Şimdi, sağlıklı bir tatlı yapmaya ne dersiniz? Mesela, yoğurt ve meyvelerle bir tatlı hazırlayabiliriz. Bu hem lezzetli hem de sağlıklıdır. Siz de evde böyle tatlılar yapmayı deneyebilirsiniz!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdiye kadar sağlıklı beslenme hakkında pek çok şey öğrendik. Son olarak, yemek yerken dikkat etmemiz gereken birkaç şeyden bahsedelim. Yavaş yemek yemek ve her lokmanın tadını çıkarmak önemlidir. Ayrıca, yemek yerken dikkatli olmak ve ekranlardan uzak durmak da iyi bir alışkanlıktır. Bu şekilde, vücudumuzun bize verdiği doygunluk sinyallerini daha iyi hissedebiliriz."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Yemek yerken hangi alışkanlıkları edinmeliyiz sizce? Yemek yeme sırasında nelere dikkat ediyorsunuz? Ekranlardan uzak durmak kolay mı? Düşüncelerinizi duymak isterim. Siz de kendi yemek yeme alışkanlıklarınızı paylaşmak ister misiniz?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Harika cevaplar verdiniz! Sağlıklı beslenme hakkında çok şey öğrendik ve bu bilgileri günlük hayatınıza uygulamanız harika olur. Sağlıklı yiyecekler seçmek, su içmeyi unutmamak ve yemek yerken dikkatli olmak, güçlü ve enerjik kalmamıza yardımcı olur. Siz de bu alışkanlıkları benimseyebilir ve her gün uygulayabilirsiniz. Unutmayın, sağlıklı olmak her zaman önemlidir!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık sevgili arkadaşlar. Sağlıklı beslenmenin ne kadar önemli olduğunu öğrendik ve bu bilgileri kullanarak güçlü birer kahraman olabiliriz. Umarım bu macera sizin için eğlenceli ve öğretici olmuştur. Bir sonraki maceramızda görüşmek üzere! Sağlıklı ve mutlu kalın!"
+    }
+  ],
+  "title": "Spider Fighter'ın Nutrition Hikayesi"
+}

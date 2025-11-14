@@ -1,0 +1,104 @@
+{
+  "id": "swamp_buddy_hero_screen_time_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "screen_time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello there, little adventurer! I'm Swamp Buddy Hero, and today we're going on a fun journey about screen time. I live in a big, cozy swamp, and I love exploring the world around me. Are you ready to discover something new with me? We’re going to learn how to balance our time between screens and other fun activities. I promise it’ll be a splash of fun and laughter!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, you might wonder what screen time is. Screen time is when we use things like tablets, phones, or watch TV. It’s super fun to watch cartoons or play games, right? But just like too much candy isn’t good for our tummies, too much screen time isn’t great for our eyes and brains. We need to find the right balance so we can have fun and stay healthy."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about balance? It’s like when you’re playing on a seesaw. If one side is too heavy, it won’t work well. Our time with screens should be just like that seesaw. We want to have enough time for playing outside, reading a book, or even drawing pictures. Let’s make sure both sides are equal, so we can have fun on and off screens!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Let’s try something together! Can you close your eyes and imagine your favorite activity outside of screens? Maybe it’s playing with your toys or running in the park. Great! Now, let’s take a big breath in and slowly let it out. Wonderful! You can do this anytime you feel like you’ve spent too much time on a screen. It helps us remember all the other fun things we love to do!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let’s continue our adventure! Did you know that playing outside can be just as exciting as playing on a tablet? You can run, jump, and even pretend to be a superhero like me! Plus, the fresh air and sunshine are amazing for our bodies. So next time you think about screen time, remember there’s a whole world of adventures waiting for you outside!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let’s make a little plan together. How about we try spending some time playing with blocks or reading a book before we switch on a screen? You can even draw a picture of what you want to do. This way, we’re not only using screens but also having fun in different ways. It’s like having a treasure chest full of different fun activities!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing fantastic! Remember, it’s okay to enjoy your favorite shows and games. Just make sure we also spend time doing other fun things. Let’s clap our hands together for all the fun we can have without screens! You’re a real superstar, and I know you can find the perfect balance. Keep sparkling, my friend!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now, let’s think about what else we can do. Maybe we can build a fort with blankets or create a dance party in our living room. Doesn’t that sound like a blast? There are so many exciting things to discover and play with. Let’s keep our imaginations wide open for all the possibilities!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Have you ever tried making up your own story? It’s like being a storyteller in your very own movie! What kind of adventure would you go on? Would you be a pirate, a princess, or maybe a brave knight? I’d love to hear your story someday. Let’s keep thinking about all the amazing stories we can create!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we imagined our favorite activities? It’s important to keep those ideas fresh in our minds. We can mix them in with our screen time, like making a yummy fruit salad. A little bit of this and a little bit of that! This way, we’re having fun and learning new things every day."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let’s try a quick exercise. Can you count to five with me? One, two, three, four, five! Great job! Every time you finish a screen activity, count to five, and think about what else you can do next. It’s a fun way to remember to take breaks and explore new adventures!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing so well! It’s wonderful to see how you’re balancing screen time with other activities. Keep up the great work, my friend. You’re like a brilliant star shining bright in the sky. Remember, you have the power to choose fun and healthy activities every day!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Now, let’s think about what we’ve learned today. We talked about balancing screen time with other fun activities. We also practiced taking a deep breath and counting to five. These are tools you can use to make sure you have a fun and balanced day. Aren’t they helpful?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What’s your favorite activity outside of screens? Is it playing with your favorite toy, or maybe it’s drawing a picture of your dream castle? I’d love to know! Remember, there’s no wrong answer. Every activity is special because it’s something you love to do!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It’s time to wrap up our adventure, my little friend. I hope you had fun learning about screen time with me. Remember, you’re a superstar, and you can choose lots of fun activities every day. Until next time, keep exploring and shining bright like the amazing hero you are. Goodbye for now, and see you soon!"
+    }
+  ],
+  "title": "Swamp Buddy Hero's Screen Time Story"
+}

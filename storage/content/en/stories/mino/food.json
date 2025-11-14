@@ -1,0 +1,104 @@
+{
+  "id": "mino_food_story",
+  "character": "Mino",
+  "topic": "food",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little explorers! I'm Mino, your space adventure buddy. Today, we're going to blast off into the world of food. Are you ready to discover all the colorful and tasty things we can eat? Food is like fuel for our bodies, just like rocket fuel for a spaceship. Together, we'll learn how to make healthy choices that keep us strong and happy. So buckle up and let's get started on our delicious journey!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about why food is so important. Imagine your body is a spaceship zooming through the stars. Just like spaceships need fuel to fly, our bodies need food to run, play, and grow. When we eat healthy foods, it gives us energy to do all the things we love. Eating a variety of colors on our plate helps us get different nutrients. Isn't it amazing how food can help us feel our best every day?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Remember when we talked about colorful foods? Let's explore what that means! Red, orange, yellow, green, blue, and purple foods all have something special to offer. For example, carrots are orange and help our eyes see better. Green foods like broccoli make us strong. Eating the rainbow is a fun way to get lots of energy! Next time you eat, look for all the colors you can find. Can you count them with me?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job! Let's keep exploring. Do you know what breakfast is? It's the first meal of the day and super important. Just like starting a race, breakfast gives our body a jump start. Eating foods like oatmeal or yogurt can give us energy to learn and play all morning. Remember, breakfast can be simple and yummy. Maybe you can help make it tomorrow. Wouldn't that be fun?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about snacks. Snacks are like little pit stops for our bodies. They help us recharge when we're feeling a bit tired. Good snacks can be fruits, nuts, or even some cheese. These keep us full and ready for more adventures. Next time you're hungry between meals, think of a healthy snack you might like. Can you think of one right now?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's continue our journey with lunch and dinner. These meals are important too. They help us stay strong throughout the day. A good lunch might have a sandwich, with some crunchy veggies on the side. Dinner can be a warm soup or some pasta. It's like a big hug for your tummy after a long day. Eating with family or friends makes it even more special. Do you have a favorite meal you like to share?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! Now, let's think about drinking water. Water is like a magic potion for our bodies. It keeps us hydrated and helps us stay focused. We need to drink plenty of water every day. Sometimes, when we're thirsty, we might think we're hungry. So next time, try a sip of water first. Let's take a big gulp together now! Ahh, refreshing!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about eating with family? Eating together is a great way to enjoy food and share stories. It's like a special time to connect and laugh. When we sit down for a meal, we can talk about our day or even plan our next adventure. It's also a chance to try something new on our plate. Who knows, you might find a new favorite food! What would you like to try next?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Here's a fun question for you. What's your favorite fruit or vegetable? Is it a juicy apple or maybe a crunchy carrot? Each one has its own special taste and benefits. Fruits and veggies are like treasure from nature. They help us grow and stay healthy. Think of one you love, and let's imagine its taste and color together. Can you picture it?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Great thinking! Now, let's talk about trying new foods. Sometimes, new foods might look different or smell funny. But trying them can be an exciting adventure. Maybe you can try a new fruit or veggie this week. Just one bite can be the start of a new favorite. Remember, it's okay not to like everything, but being brave and trying is what counts. Are you ready to be a food explorer?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's move on to the importance of helping in the kitchen. Helping to prepare food can be lots of fun. You can wash vegetables or mix ingredients. It's a great way to learn about what we eat and how it's made. Plus, it feels good to help out. Next time, ask if you can lend a hand in the kitchen. You'll be a little chef in no time!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing amazing! Now, let's think about sweets. Sweets are yummy, but we should enjoy them in moderation. It's like having a special treat once in a while. Too many sweets can make us feel tired and not so great. So remember, a little bit is okay. Maybe you can save a sweet treat for a special occasion. Isn't that a fun idea?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's wrap up our food adventure with a little game. Let's imagine we're astronauts on a mission to find the healthiest meal in the universe. What would you put on your plate? Maybe some colorful fruits, crunchy veggies, and a glass of water? We can create a meal that's out of this world. Remember, making healthy choices helps us stay strong and happy!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Before we finish, let's take a moment to think about all the fun things we've learned today. We talked about colorful foods, the importance of breakfast, and even helping in the kitchen. These are all steps to becoming a food explorer. Keep these tips in mind as you continue your journey. What will you discover next?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Our adventure might be ending, but your journey with food is just beginning. Remember to eat a variety of foods and drink lots of water. Keep exploring new tastes and textures. Thank you for joining me today, little explorer. Until next time, keep your curiosity high and your taste buds ready for more adventures. Goodbye, and happy eating!"
+    }
+  ],
+  "title": "Mino's Food Story"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "luna_bedtime_story",
+  "character": "Luna",
+  "topic": "bedtime",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Luna, y hoy vamos a embarcarnos en un maravilloso viaje sobre la hora de dormir. ¿Estás listo para descubrir lo mágico que puede ser prepararse para ir a la cama? Estoy tan emocionada de compartir contigo algunos secretos para tener los sueños más dulces. Vamos a crear juntos una rutina mágica que te ayudará a dormir tranquilo y feliz. ¡Ven conmigo a este mundo de estrellas y sueños!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que estamos listos, hablemos de cómo podemos hacer que la hora de dormir sea especial. ¿Sabías que tener una rutina antes de dormir puede ayudarte a sentirte más tranquilo? Es como preparar un pequeño ritual mágico cada noche. Por ejemplo, puedes empezar apagando las luces brillantes y encendiendo una lámpara suave. Esto ayuda a que tu cuerpo sepa que es hora de descansar. ¿No te parece fantástico cómo una luz suave puede hacer que todo se sienta más calmado?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, vamos a aprender sobre la importancia de cepillarse los dientes antes de dormir. Es como darle a tus dientes un pequeño abrazo de buenas noches. Tomemos nuestro cepillo de dientes y pongamos un poco de pasta. Luego, cepillamos suavemente, como si estuviéramos pintando un arcoíris en nuestros dientes. Esto no solo los mantiene limpios, sino que también hace que tu sonrisa brille como una estrella. ¿No es maravilloso cuidar de nosotros mismos de esta manera?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Ahora, hablemos de la importancia de ponernos el pijama. Elegir un pijama cómodo es como ponernos una capa mágica que nos prepara para los sueños más hermosos. Puedes elegir uno con tus personajes favoritos o un color que te haga sentir feliz. Al ponértelo, imagina que estás entrando en un mundo de aventuras en el que todo es posible. ¿Te imaginas qué sueños podrías tener esta noche con tu pijama mágico?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, recordemos lo importante que es leer un cuento antes de dormir. Leer un libro es como abrir una puerta a un mundo lleno de historias mágicas. Puedes imaginar que eres un valiente caballero o una princesa en un castillo. Al leer, tu mente se llena de imágenes increíbles que te acompañarán en tus sueños. ¿Cuál es tu cuento favorito para leer antes de dormir? ¡Estoy segura de que es una historia maravillosa!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos de la respiración profunda antes de dormir. Es una manera fantástica de calmar nuestro cuerpo y mente. Vamos a intentarlo juntos. Inhala profundamente por la nariz, contando hasta tres, y luego exhala suavemente por la boca. Al hacerlo, imagina que estás soplando una nube suave que flota hacia el cielo. Repite este ejercicio tres veces y siente cómo todo tu cuerpo se relaja. ¿No es una sensación maravillosa?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Ahora, vamos a hablar sobre el poder de un abrazo de buenas noches. Un abrazo es como un cálido manto que nos envuelve antes de dormir. Puede ser un abrazo de mamá, papá o incluso de tu peluche favorito. Es una manera de sentirnos seguros y amados. ¿A quién te gustaría abrazar antes de dormir esta noche? Recuerda que un abrazo siempre está lleno de amor y dulzura."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, pensemos en lo importante que es agradecer antes de dormir. Antes de cerrar los ojos, podemos pensar en tres cosas que nos hicieron felices hoy. Puede ser algo pequeño como un juego divertido o algo grande como una sorpresa especial. Agradecer nos ayuda a ir a la cama con una sonrisa en el corazón. ¿Qué te hace sentir agradecido hoy? ¡Es maravilloso ir a dormir con pensamientos felices!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a preparar nuestro espacio para dormir. Asegurémonos de que nuestra cama esté cómoda y lista para recibirnos. Podemos alisar las sábanas y acomodar nuestras almohadas. Tener un espacio ordenado y acogedor hace que sea más fácil relajarnos y dormir bien. Imagina que tu cama es una nube suave que te llevará al país de los sueños. ¿No es maravilloso tener un lugar tan especial para descansar?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Estás haciendo un trabajo estupendo preparándote para dormir! Ahora, vamos a cerrar los ojos y pensar en nuestro lugar favorito. Puede ser un bosque mágico, una playa soleada o un castillo en las nubes. Imagina que estás allí, explorando y disfrutando de la tranquilidad. Deja que tu imaginación vuele y te lleve a lugares increíbles. ¿Puedes ver todos los colores y sentir la brisa en tu cara? ¡Qué hermoso es soñar!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos viajado a nuestro lugar favorito, recordemos que los sueños son como pequeñas aventuras que suceden mientras dormimos. Cada noche, podemos soñar con cosas nuevas y emocionantes. Tu imaginación es tan poderosa que puede crear mundos enteros mientras descansas. ¿Te gustaría ser un astronauta explorando las estrellas o un buceador en el océano? Los sueños son el lugar perfecto para ser lo que quieras ser."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te has preguntado alguna vez por qué soñamos? Los sueños son como un cine mágico que se proyecta en nuestra mente mientras dormimos. Nos ayudan a procesar lo que vivimos durante el día y a explorar cosas nuevas. ¿Recuerdas algún sueño que hayas tenido y que te haya hecho sonreír? Es increíble cómo nuestra mente crea historias tan maravillosas mientras descansamos. ¿No te parece fascinante?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que hemos hablado de sueños, recordemos que dormir bien nos ayuda a tener energía para jugar y aprender al día siguiente. Es como recargar nuestras baterías para poder disfrutar de cada momento. Dormir bien también nos hace sentir felices y saludables. Así que, cada noche, al ir a la cama, estamos cuidando de nosotros mismos de una manera muy especial. ¿No es genial cómo algo tan sencillo puede tener tantos beneficios?"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¿Recuerdas todo lo que hemos aprendido sobre la hora de dormir? Desde cepillarnos los dientes hasta leer un cuento, cada paso es importante. Estos hábitos nos ayudan a sentirnos seguros y listos para descansar. Y ahora que sabes cómo preparar tu noche mágica, estoy segura de que tendrás los sueños más dulces. ¿Estás listo para poner en práctica todo lo que hemos hablado? ¡Estoy tan orgullosa de ti!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es hora de despedirnos por esta noche, pequeño soñador. Espero que hayas disfrutado de este viaje mágico hacia la hora de dormir. Recuerda que cada noche es una oportunidad para soñar y descansar como nunca. Estoy aquí para acompañarte siempre que necesites una amiga para la hora de dormir. Que tengas los sueños más dulces y un descanso reparador. ¡Buenas noches y hasta pronto!"
+    }
+  ],
+  "title": "Historia de Bedtime de Luna"
+}

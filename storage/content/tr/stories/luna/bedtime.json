@@ -1,0 +1,104 @@
+{
+  "id": "luna_bedtime_story",
+  "title": "Luna'nin Uyku Zamanı Hikayesi",
+  "character": "Luna",
+  "topic": "bedtime",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Luna. Bugün birlikte uyku zamanı hakkında harika bir yolculuğa çıkacağız. Hayal dünyamıza hoş geldin! Seni çok merak ediyorum, çünkü birlikte yıldızların altında, rüyaların en güzel yerlerinde dolaşacağız. Hazırsan başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku zamanı, günün en büyülü anlarından biridir. Çünkü gökyüzünde parlayan yıldızlar bizi rüyalar diyarına davet eder. Peki, sen de yıldızların altında uyumayı hayal ediyor musun? Gözlerini kapatıp derin bir nefes alırsan, rüyaların en güzel yerlerine yolculuk yapabilirsin. Haydi, birlikte nefes alalım ve rüya dünyasına adım atalım."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Uykuya hazırlanırken yapabileceğimiz bazı şeyler var. Mesela, oyuncaklarımızı toplamak çok eğlenceli olabilir. Çünkü bu, yatağımızda daha rahat uyumamıza yardımcı olur. Ayrıca, dişlerimizi fırçalamak da çok önemlidir. Dişlerimiz temiz olduğunda, gülümsememiz de daha parlak olur, değil mi?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Biliyor musun, uykuya hazırlanırken bir hikaye okumak çok rahatlatıcı olabilir. Sevdiğin bir kitabı seçip birlikte okuyabiliriz. Hikayeler, hayal gücümüzü geliştirir ve bizi rüya dünyasına hazırlar. Sen de bir hikaye seçmek ister misin? Harika bir seçim yapacağına eminim!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda oyuncaklarımızı toplamanın öneminden bahsetmiştik. Şimdi, yatağımıza gidip bir uyku arkadaşımızı seçebiliriz. Küçük bir pelüş ayı ya da yumuşak bir battaniye, uykuya dalmamıza yardımcı olabilir. Senin favori uyku arkadaşın kim? Onunla birlikte rüyalara dalmak harika olacak!"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, sen en çok hangi rüyaları görmeyi seviyorsun? Belki uçan bir atla bulutların üzerinde dolaşmak ya da deniz altında bir macera yaşamak istersin. Hayal gücünle neler yaratabilirsin? Biraz düşün ve hayal et. Neler bulduğunu çok merak ediyorum!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, birlikte üç derin nefes alalım. Nefes almak, bedenimizi ve zihnimizi rahatlatır. Derin bir nefes al, yavaşça ver. Bir daha al ve ver. İşte böyle! Kendini daha sakin hissettiğini fark ettin mi? Nefes almak, uykuya dalmamıza çok yardımcı olur."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, bir gece lambası açabiliriz. Işığı yumuşak ve hoş bir şekilde ayarladığımızda, odada harika bir atmosfer oluşur. Bu ışık, bize yıldızları hatırlatır ve rüya dünyasına daha kolay geçmemizi sağlar. Senin gece lamban var mı? Onu açtığında nasıl bir his uyandırıyor?"
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Uyumadan önce güzel bir şarkı mırıldanmak da çok keyifli olabilir. Birlikte en sevdiğin ninniyi söyleyebiliriz. Müzik, ruhumuzu rahatlatır ve uykuya dalmamıza yardımcı olur. Senin favori ninnin hangisi? Haydi, birlikte söyleyelim!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki adımda ninni söylemenin öneminden bahsetmiştik. Şimdi, yatağımıza uzanıp gözlerimizi kapatabiliriz. Gözlerini kapattığında, hangi rüyaların seni beklediğini hayal et. Belki de bir peri masalının içinde olacaksın. Hayal gücün seni nereye götürüyor?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Yatmadan önce, gün içinde yaşadığımız güzel şeyleri hatırlamak da çok önemlidir. Hangi oyunları oynadığımızı ve hangi maceralara atıldığımızı düşünelim. Bu güzel anılar, rüyalarımızı daha da büyülü hale getirir. Bugün neler yaptığını hatırlıyor musun?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda günün güzel anılarını hatırlamanın öneminden bahsettik. Şimdi, uykuya dalmadan önce bir dilek tutabiliriz. Belki yarın için güzel bir dilek ya da bir hayal kurabiliriz. Senin dileğin ne olurdu? Dilekler, rüyalarımızı daha da özel kılar."
+    },
+    {
+      "id": "scene_12",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Beni dinlediğin için teşekkür ederim. Şimdi, senin düşüncelerini duymak istiyorum. Bugün uyumadan önce hangi güzel şeyleri düşünmek istersin? Belki de bir sonraki maceramıza dair hayaller kurabilirsin. Düşüncelerini duymak için sabırsızlanıyorum."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, yarın sabah uyandığında yapmayı en çok istediğin şey nedir? Belki bir arkadaşınla oynamak ya da yeni bir kitap okumak istiyorsun. Sabahın getireceği yeni maceraları düşünmek çok heyecan verici, değil mi? Senin planların neler?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bu harika yolculuk için teşekkür ederim. Sana güzel rüyalar ve huzurlu bir uyku diliyorum. Yarın yeni maceralara birlikte çıkmak için sabırsızlanıyorum. İyi geceler, küçük dostum! Rüya dünyasında görüşmek üzere."
+    }
+  ]
+}

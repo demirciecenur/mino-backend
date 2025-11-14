@@ -1,0 +1,98 @@
+{
+  "id": "adventure_dora_pal_sibling_story",
+  "character": "Adventure Dora Pal",
+  "topic": "sibling",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Adventure Dora Pal. Bugün birlikte kardeşler hakkında harika bir maceraya çıkacağız. Kardeşlerinle nasıl daha iyi anlaşabileceğini ve eğlenceli vakit geçirebileceğini öğreneceğiz. Hazır mısın? Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşler, hayatımızda çok önemli bir yere sahiptir. Bazen oyun oynarken en iyi arkadaşımız olabilirler. Ancak bazen de anlaşamadığımız anlar olabilir. İşte bu anları daha iyi anlamak ve çözmek için neler yapabileceğimizi keşfedeceğiz. Kardeşlerinle birlikte vakit geçirmek, onları daha iyi tanımana yardımcı olur."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşlerinle paylaşım yapmak, aranızdaki bağı güçlendirir. Mesela, en sevdiğin oyuncağını kardeşinle paylaşmak ona ne kadar değer verdiğini gösterir. Paylaşım yaparken sırayla oynamak da çok önemlidir. Şimdi, aklına gelen bir oyuncağı düşün ve onu nasıl paylaşabileceğini hayal et. Bu, aranızdaki sevgi ve saygıyı artırır."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi, birlikte bir oyun oynayalım. Kardeşinle beraber bir hikaye oluşturmayı dene. Her biriniz sırayla hikayeye yeni bir cümle ekleyebilirsiniz. Bu, yaratıcılığınızı geliştirirken eğlenceli vakit geçirmenizi sağlar. Unutma, birlikte çalışmak her zaman daha eğlencelidir!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki oyunumuzda ne kadar eğlendiğinizi görmek çok güzel. Şimdi biraz da duygularımızdan bahsedelim. Kardeşlerinle bazen tartışabilirsin ve bu çok normaldir. Önemli olan, bu tartışmalardan sonra nasıl barışabileceğinizi bilmektir. Duygularını ifade etmekten çekinmemelisin."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir tartışma yaşadığında, derin bir nefes al ve sakinleşmeye çalış. Sonra kardeşinle konuşarak neler hissettiğini anlat. Bu, yanlış anlamaları ortadan kaldırabilir. Birlikte çözüm bulmak, her iki tarafı da mutlu eder. Hadi, şimdi bunu nasıl yapabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda duygularımızı ifade etmenin öneminden bahsetmiştik. Şimdi, kardeşlerinle ortak bir etkinlik yapmayı dene. Belki birlikte resim yapabilir veya bir bulmaca çözebilirsiniz. Bu tür etkinlikler, birbirinizi daha iyi anlamanızı sağlar. Kardeşlerinle olan bağını güçlendirir."
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harikasın! Kardeşlerinle birlikte bu etkinlikleri yaparken çok eğleneceksin. Şimdi, onları ne kadar sevdiğini göstermek için küçük bir sürpriz hazırlamayı düşünebilirsin. Belki bir resim çizebilir veya küçük bir not yazabilirsin. Onlara değer verdiğini hissettirmen çok önemli."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle birlikte en çok hangi oyunları oynamayı seviyorsun? Belki saklambaç ya da evcilik oynuyorsunuzdur. Ya da birlikte kitap okumaktan hoşlanıyorsunuzdur. Hadi, en sevdiğiniz oyunu düşün ve neden bu oyunu sevdiğini anlat. Bu, onları daha iyi tanımanıza yardımcı olur."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerinle olan ilişkini güçlendirmek için her gün küçük adımlar atabilirsin. Mesela, onlara günün nasıl geçtiğini sorabilirsin. Bu, aranızdaki bağı güçlendirir ve birbirinizi daha iyi anlamanızı sağlar. Onlara değer verdiğini göstermek, ilişkinizi daha da sağlamlaştırır."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, kardeşlerinle olan ilişkinizi daha da güçlendirmek için bir plan yapalım. Belki haftada bir gün özel bir aktivite günü ilan edebilirsiniz. Bu günlerde sadece birlikte vakit geçirip eğlenebilirsiniz. Böylece aranızdaki sevgi ve dostluk bağı daha da güçlenir. Hadi, bir plan yapalım!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda özel bir aktivite günü yapmaktan bahsetmiştik. Şimdi, bu günü planlamak için neler yapabileceğimizi düşünelim. Belki bir film izleyebilir veya birlikte yemek yapabilirsiniz. Bu aktiviteler, aranızdaki bağı daha da güçlendirecektir. Hazır mısın?"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir iş çıkarıyorsun! Kardeşlerinle birlikte vakit geçirirken ne kadar eğlendiğini görmek çok güzel. Onlarla birlikte olmak, sana birçok şey öğretebilir. Sabırlı olmayı, paylaşmayı ve empati kurmayı öğrenebilirsin. Bu deneyimler, hayatın boyunca sana yardımcı olacak."
+    },
+    {
+      "id": "scene_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün kardeşlerinle olan ilişkini nasıl güçlendirebileceğini öğrendik. Umarım bu bilgiler sana yardımcı olur ve kardeşlerinle daha güzel vakit geçirirsin. Unutma, onlar senin en yakın arkadaşların. Bir sonraki maceramızda görüşmek üzere! Hoşça kal küçük dostum!"
+    }
+  ],
+  "title": "Adventure Dora Pal'ın Sibling Hikayesi"
+}

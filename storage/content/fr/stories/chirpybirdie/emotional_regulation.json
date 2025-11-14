@@ -1,0 +1,104 @@
+{
+  "id": "chirpy_birdie_régulation_émotionnelle_gestion_des_émotions_se_calmer_autorégulation_story",
+  "character": "Chirpy Birdie",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami! Je suis Chirpy Birdie, et aujourd'hui, nous allons explorer un sujet super important et amusant: la régulation émotionnelle! Cela signifie apprendre à gérer nos émotions, comme la joie, la tristesse ou la colère. Es-tu prêt pour cette aventure? Je suis tellement curieux de découvrir comment tu ressens tes émotions! Ensemble, nous allons apprendre plein de choses incroyables!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par parler des émotions. Parfois, nous nous sentons heureux comme quand nous jouons avec des amis, et parfois nous nous sentons tristes comme quand nous perdons notre jouet préféré. Les émotions sont comme des couleurs dans un arc-en-ciel, elles rendent la vie intéressante! Savais-tu que tout le monde ressent des émotions, même les adultes? Maintenant, voyons comment nous pouvons gérer ces émotions ensemble!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "La première chose à faire quand tu ressens une forte émotion est de respirer profondément. Prends une grande inspiration, comme si tu sentais une fleur, puis souffle lentement comme si tu soufflais sur une bougie. Cela aide ton cœur à se calmer et ton esprit à se détendre. Tu vois, c'est un peu comme donner un câlin à ton cœur! Tu es prêt à essayer avec moi?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super, essayons ensemble! Prenons une grande inspiration, et soufflons doucement. Excellent travail! Tu vois, en respirant ainsi, tu aides ton corps à se sentir mieux. Tu peux le faire chaque fois que tu te sens submergé par une émotion. C'est une façon magique de se calmer, n'est-ce pas?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant que nous savons comment respirer pour nous calmer, parlons de ce que nous pouvons faire quand nous sommes en colère. Parfois, quand nous sommes en colère, nous voulons crier ou taper du pied. Mais nous pouvons aussi choisir de faire autre chose! Par exemple, nous pouvons dessiner ce que nous ressentons ou parler à un adulte. Essayer de nouvelles façons de gérer la colère peut aider à se sentir mieux!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand tu te sens triste, tu peux aussi faire des choses pour te sentir mieux. Peut-être que chanter une chanson joyeuse ou danser comme un papillon te rendra heureux. Parfois, un câlin d'un ami ou d'un parent peut aussi aider! Il est important de se rappeler que c'est normal de se sentir triste parfois, mais il y a toujours des moyens de retrouver le sourire."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail formidable en apprenant tout cela! Rappelle-toi que chaque émotion est comme une vague qui vient et repart. Tu es courageux et capable de les surmonter! Chaque fois que tu pratiques la régulation de tes émotions, tu deviens plus fort et plus heureux. Continue à essayer, je suis sûr que tu peux le faire!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de la joie! La joie est une belle émotion, comme un soleil qui brille dans notre cœur. Quand tu te sens joyeux, tu peux partager ce sentiment avec les autres. Peut-être que tu veux sauter de joie, ou partager un sourire avec un ami. La joie est contagieuse, et elle rend tout le monde autour de toi heureux aussi!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour garder cette belle joie, nous pouvons faire des choses qui nous plaisent. Par exemple, jouer à un jeu amusant, lire une histoire drôle, ou même aider quelqu'un d'autre. Ces activités peuvent remplir notre cœur de bonheur! Et quand nous partageons notre joie, nous créons un monde plus lumineux pour nous et les autres."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es incroyable! N'oublie jamais que tes émotions sont importantes et qu'elles font partie de ce qui te rend unique. En apprenant à les gérer, tu deviens un vrai petit héros! Continue à pratiquer tout ce que nous avons appris aujourd'hui, et souviens-toi que je suis toujours là pour t'encourager. Tu peux le faire!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de ce que nous pouvons faire quand nous avons peur. Parfois, les ombres ou les bruits forts peuvent être effrayants. Mais tu sais quoi? On peut apprendre à être courageux! Nous pouvons imaginer que nous sommes des super-héros avec un grand bouclier qui protège notre cœur. Cela nous aide à nous sentir forts et en sécurité."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre façon de gérer la peur est de parler de ce qui nous effraie. En parlant à un adulte ou à un ami, nous pouvons comprendre que nous ne sommes pas seuls. Parfois, chanter une chanson ou faire un dessin peut aussi aider à chasser la peur. Tu vois, il y a beaucoup de façons de devenir plus courageux chaque jour!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, qu'est-ce que tu fais quand tu te sens un peu effrayé? As-tu une chanson spéciale ou un doudou qui te réconforte? J'aimerais beaucoup entendre ce qui t'aide à te sentir mieux. Partager nos idées peut nous donner encore plus de moyens de gérer nos émotions ensemble. Tu veux bien me raconter?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nous avons appris tant de choses aujourd'hui! Nous savons maintenant comment respirer pour nous calmer, comment partager notre joie, et comment être courageux face à la peur. Chaque jour est une nouvelle occasion d'appliquer ce que nous avons appris. Et n'oublie pas, je suis toujours là pour t'aider à chaque étape du chemin!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'est l'heure de dire au revoir, mais souviens-toi que tu es toujours capable de gérer tes émotions. Je suis si fier de toi et de tout ce que tu as appris aujourd'hui! Continue à pratiquer, et chaque jour deviendra plus facile et plus joyeux. Merci d'avoir passé ce moment avec moi, et à bientôt, petit ami! Au revoir!"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Chirpy Birdie"
+}

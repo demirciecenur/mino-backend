@@ -1,0 +1,104 @@
+{
+  "id": "sunny_sibling_story",
+  "character": "Sunny",
+  "topic": "sibling",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostlarım! Ben Sunny. Bugün kardeşlerle ilgili harika bir yolculuğa çıkacağız. Kardeşlerimizle nasıl daha iyi anlaşabileceğimizi ve onlarla nasıl güzel vakit geçirebileceğimizi konuşacağız. Hazır mısın? Seni çok merak ediyorum ve bu yolculukta seninle olmaktan çok mutluyum!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşler, hayatımızda çok özel insanlardır. Onlarla oyun oynar, birlikte güler ve bazen de küçük tartışmalar yaşarız. Ama en önemlisi, kardeşlerimizle olan bağımız çok güçlüdür. Kardeşlerimizle paylaşmayı ve sevmeyi öğrenmek, büyürken bize çok şey katar. Şimdi, kardeşlerle nasıl daha iyi anlaşabileceğimizi keşfetmeye başlayalım!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşlerle iyi anlaşmanın ilk kuralı, onları dinlemektir. Birlikte oyun oynarken onların ne istediğini dikkatlice dinleyebilirsin. Böylece, oyunlarınız daha eğlenceli ve uyumlu hale gelir. Ayrıca, onların duygularını anlamak da önemlidir. Kardeşin üzgünse, ona destek olmak için yanında olabilirsin."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, birlikte bir oyun oynayalım! Haydi bir dakikalığına gözlerimizi kapatalım ve derin bir nefes alalım. Şimdi, en sevdiğin oyuncağını düşün ve kardeşinle nasıl paylaşabileceğini hayal et. Harika bir fikir buldun mu? Çok güzel! Paylaşmak, kardeşlerimizi mutlu eder ve bizi de mutlu hissettirir."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerimizle olan ilişkilerimizde sabırlı olmak da çok önemlidir. Bazen oyun oynarken farklı fikirlere sahip olabiliriz. Böyle anlarda, sabırlı olup birbirimize zaman tanımak çok değerlidir. Kardeşinle iş birliği yaparak, ortak bir yol bulabilirsin. Unutma, birlikte çalışmak her zaman daha eğlencelidir!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşimizle olan bağımızı güçlendirmek için, birlikte aktiviteler yapabiliriz. Örneğin, birlikte resim boyayabilir, lego yapabilir ya da dışarıda top oynayabiliriz. Bu tür aktiviteler, aramızdaki bağı güçlendirir ve daha iyi anlaşmamızı sağlar. Sen ve kardeşin hangi aktiviteleri yapmayı seviyorsunuz?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle en son hangi oyunu oynadığını hatırlıyor musun? Oyun sırasında neler hissettin? Bir sonraki oyununuzda neler farklı olabilir? Kardeşinle daha iyi anlaşmak için neler yapabilirsin? Bu sorular üzerinde biraz düşün, belki yeni fikirler bulabilirsin!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerimizle yaşadığımız anılar, hayatımız boyunca bizimle kalır. Bu yüzden, her anın tadını çıkarmak çok önemlidir. Birlikte gülmek, eğlenmek ve bazen de küçük sorunları çözmek, ilişkilerimizi daha da güçlendirir. Kardeşinle paylaştığın güzel anılar, ileride hatırlayacağın en değerli şeyler olacaktır."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, kardeşinle birlikte yapabileceğin bir aktivite düşün. Belki birlikte bir hikaye kitabı okuyabilir ya da bir bulmaca çözebilirsiniz. Hayal gücünüzü kullanarak yeni oyunlar da yaratabilirsiniz. Unutma, yaratıcılık ve iş birliği her zaman harika sonuçlar doğurur. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşinle tartıştığın zamanlar olabilir. Bu gayet normaldir. Böyle durumlarda, derin bir nefes alıp sakinleşmek çok önemlidir. Ardından, ne hissettiğini kardeşine anlatabilirsin. Duygularını paylaşmak, sorunları çözmene yardımcı olur. Birlikte konuşarak her şeyi daha iyi hale getirebilirsiniz."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeş sevgisi, karşılıklı saygı ve anlayışla daha da güzelleşir. Kardeşinle iyi bir ilişki kurmak, hem seni hem de onu mutlu eder. Birbirinizin en iyi arkadaşı olabilir ve her zaman birbirinize destek olabilirsiniz. Kardeşinle geçirdiğin her anın kıymetini bil ve onu sevdiğini söylemeyi unutma."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kardeşinle birlikte bir sonraki maceranızı planlamaya ne dersin? Belki bir doğa yürüyüşü ya da evde bir kamp kurabilirsiniz. Her ne yaparsanız yapın, önemli olan birlikte olmak ve eğlenmektir. Sen harika bir kardeşsin ve bunu yapabilirsin! Haydi, yeni maceralara doğru yelken açalım!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle ilgili en sevdiğin anı nedir? Onunla birlikte neler yapmaktan hoşlanıyorsun? Kardeşinle daha iyi anlaşmak için başka neler yapabilirsin? Bu sorular üzerinde düşün ve belki de yeni şeyler denemeye karar verirsin. Kardeşinle olan bağını güçlendirmek için her zaman yeni yollar keşfedebilirsin."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerle olan ilişkilerimiz, hayatımız boyunca bizimle olan en özel bağlardan biridir. Onlarla birlikte büyümek, öğrenmek ve eğlenmek bize çok şey katar. Kardeşinle olan ilişkinin değerini bil ve bu bağı güçlendirmek için çaba göster. Unutma, sevgi ve anlayış her şeyin anahtarıdır."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün kardeşlerle ilgili çok şey öğrendik ve umarım senin için de faydalı olmuştur. Kardeşinle olan bağını güçlendirmek için elinden geleni yap ve her anın tadını çıkar. Sen harika bir kardeşsin ve bunu yapabileceğine inanıyorum. Şimdi, bir sonraki maceramızda görüşmek üzere! Hoşça kal!"
+    }
+  ],
+  "title": "Sunny'ın Sibling Hikayesi"
+}

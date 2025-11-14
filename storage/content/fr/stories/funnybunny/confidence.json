@@ -1,0 +1,104 @@
+{
+  "id": "funny_bunny_confidence_story",
+  "character": "Funny Bunny",
+  "topic": "confidence",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Funny Bunny, ton compagnon rigolo pour aujourd'hui. Nous allons explorer ensemble un sujet très spécial : la confiance en soi. Tu sais, c'est comme avoir un super pouvoir qui t'aide à faire des choses incroyables ! Es-tu prêt à découvrir ce pouvoir magique ? Je suis tellement curieux d'en savoir plus sur toi et tes talents !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "La confiance en soi, c'est comme un petit soleil dans ton cœur qui brille fort. Cela te donne le courage de faire des choses nouvelles et excitantes, comme essayer de nouvelles activités ou parler devant les autres. Imagine que tu as une cape de super-héros qui te rend invincible. Avec cette confiance, tu peux accomplir de grandes choses, même si cela te semble difficile au début. Ensemble, découvrons comment renforcer ce super pouvoir !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour commencer à bâtir ta confiance, essayons un exercice amusant. Trouvons un miroir et regardons-nous dedans. Dis à haute voix : 'Je suis incroyable !' et fais un grand sourire. Tu vois, ces mots magiques peuvent te donner de la force. Plus tu le fais, plus tu te sentiras fort et sûr de toi. C'est comme arroser une fleur pour qu'elle grandisse !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Génial, tu as fait un excellent travail avec le miroir ! Maintenant, pensons à une chose que tu as déjà réussie. Peut-être as-tu appris à faire du vélo ou à lire une nouvelle histoire. Rappelle-toi à quel point tu étais fier de toi. Ce souvenir est comme un trésor que tu gardes dans ton cœur pour te rappeler que tu peux réussir encore et encore. Bravo, tu es un champion !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parlons maintenant de l'importance de croire en soi. Quand tu crois en toi, tu peux accomplir des choses étonnantes, même celles qui semblent difficiles. Par exemple, si tu veux apprendre à nager, il faut d'abord croire que tu peux le faire. Avec de la pratique et de la patience, tu verras que tout devient possible. La confiance, c'est comme un petit moteur qui te pousse toujours en avant !"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons un autre exercice. Pense à quelque chose que tu aimerais beaucoup faire, mais qui te fait un peu peur. Ça peut être de chanter devant ta famille ou de parler à un nouvel ami. Imagine-toi en train de le faire avec succès. Ferme les yeux et visualise chaque détail. Tu vois, en te voyant réussir, tu commences à y croire vraiment. C'est un pas de géant vers la confiance !"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu as fait un travail fantastique en visualisant ton succès ! Maintenant, n'oublie pas de prendre des petites étapes chaque jour. Chaque petite victoire, comme attacher tes lacets ou dessiner un joli dessin, te rend plus confiant. Tu es comme un explorateur qui découvre un nouveau monde plein de possibilités. Continue d'avancer, petit à petit, et tu verras que tu peux tout accomplir !"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dis-moi, as-tu déjà ressenti ce petit papillon dans le ventre avant de faire quelque chose de nouveau ? C'est tout à fait normal et cela arrive à tout le monde, même à moi ! Comment fais-tu pour surmonter tes peurs ? As-tu une astuce spéciale ou une personne qui t'aide à te sentir mieux ? J'aimerais beaucoup savoir ce qui te donne du courage dans ces moments-là."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Merci d'avoir partagé tes pensées avec moi ! Cela montre déjà que tu es courageux. Souviens-toi, la confiance ne signifie pas être parfait, mais être prêt à essayer. Chaque fois que tu essaies quelque chose de nouveau, tu deviens plus fort. Et même si tu fais des erreurs, ce n'est pas grave, car c'est en apprenant de ces erreurs que tu grandis. Tu es sur le bon chemin, petit aventurier !"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons une dernière activité ensemble. Prenons trois grandes respirations calmes. Inspire profondément par le nez et expire lentement par la bouche. Une, deux, trois. Bien joué ! Ces respirations peuvent t'aider à te calmer et à te concentrer avant de faire quelque chose d'important. C'est comme avoir un bouton magique pour se sentir bien et prêt à affronter le monde !"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es vraiment incroyable ! Continue à pratiquer ces exercices et à croire en toi. Rappelle-toi que chaque jour est une nouvelle aventure remplie de découvertes. Avec de la confiance, tu peux franchir toutes les montagnes et surmonter tous les défis. Je suis si fier de toi et de tout ce que tu as accompli aujourd'hui. Tu es un vrai héros !"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Revenons un instant à notre miroir magique. Regarde-toi encore une fois et dis : 'Je suis capable et courageux.' Tu vois, la confiance en soi grandit chaque fois que tu crois en toi. C'est un peu comme une plante que tu arroses tous les jours pour qu'elle devienne grande et forte. Avec de la patience et de l'amour, tu verras que tu peux accomplir de grandes choses."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Maintenant que nous avons parlé de confiance, as-tu une histoire à partager où tu t'es senti vraiment courageux ? Peut-être un moment où tu as essayé quelque chose de nouveau ? J'adore écouter des histoires de bravoure et je suis sûr que la tienne est fascinante. Chaque aventure est unique et précieuse, tout comme toi !"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Est-ce que tu te rappelles d'une fois où tu as aidé un ami ou un membre de ta famille à se sentir plus confiant ? Parfois, être là pour quelqu'un peut faire une grande différence. Comment as-tu fait pour les encourager ? Partager ces moments peut nous inspirer à être encore plus gentils et courageux. Qu'en penses-tu ?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette belle aventure avec moi aujourd'hui. N'oublie jamais que la confiance est un trésor que tu portes toujours avec toi. Chaque jour est une nouvelle chance de découvrir à quel point tu es incroyable. Je suis tellement fier de toi et je suis impatient de te retrouver pour une nouvelle aventure. À bientôt, petit héros !"
+    }
+  ],
+  "title": "Histoire de Confidence de Funny Bunny"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "mino_sibling_story",
+  "character": "Mino",
+  "topic": "sibling",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeños amigos! Soy Mino, su amigo del espacio. Hoy vamos a explorar algo muy especial: las relaciones entre hermanos. ¿Tienen un hermano o hermana? ¡Qué emocionante! Juntos descubriremos cómo los hermanos pueden ser los mejores compañeros de juego. Estoy muy emocionado de comenzar esta aventura con ustedes. ¿Están listos?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Los hermanos son como amigos que viven en nuestra casa. A veces jugamos juntos, compartimos nuestros juguetes y nos divertimos muchísimo. ¿Recuerdan alguna vez que jugaron un juego divertido con su hermano o hermana? ¡Seguro que sí! Es muy especial tener a alguien con quien compartir nuestras aventuras diarias. Ahora, vamos a hablar sobre cómo podemos llevarnos bien con ellos."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Una manera de ser un buen hermano es compartir. Cuando compartimos, mostramos a los demás que nos importan. Por ejemplo, si su hermano quiere jugar con su juguete favorito, pueden turnarse. ¡Así todos tienen una oportunidad de divertirse! Compartir también nos enseña a ser generosos y amables. ¿Pueden pensar en algo que les gustaría compartir hoy?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué maravillosas ideas tienen! Ahora, vamos a hacer un pequeño ejercicio juntos. Pensemos en tres cosas que podemos compartir con nuestros hermanos. Puede ser un juguete, un cuento o incluso un abrazo. ¡Genial! Recuerden, compartir nos hace sentir bien a nosotros y a los demás. ¡Ustedes pueden hacerlo!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos cómo compartir, hablemos sobre cómo podemos resolver problemas con nuestros hermanos. A veces, podemos sentirnos molestos cuando no nos ponemos de acuerdo en algo. ¿Les ha pasado alguna vez? Es importante hablar y escuchar a nuestro hermano o hermana. Así, podemos encontrar una solución juntos. ¿No creen que es una buena idea?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando hablamos con nuestros hermanos, podemos decir: 'Me siento triste cuando no compartimos'. Esto ayuda a que ellos entiendan cómo nos sentimos. También es bueno preguntarles cómo se sienten. De esta manera, podemos trabajar juntos para resolver cualquier problema. Hablar y escuchar es una gran manera de ser un buen hermano."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo están haciendo muy bien! Ahora, pensemos en una actividad divertida para hacer con nuestros hermanos. ¿Qué tal si jugamos a un juego de imaginación? Podemos ser astronautas en una misión espacial. ¡Imaginen que estamos volando entre las estrellas! Jugar juntos fortalece nuestra relación y nos hace sentir más unidos. ¡Qué emocionante!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Después de jugar, siempre es bueno agradecer a nuestro hermano o hermana por el tiempo compartido. Decir 'gracias por jugar conmigo' es una forma amable de mostrar nuestro aprecio. Esto les hará sentir felices y queridos. ¿No es bonito cuando alguien nos dice gracias? Ahora, practiquemos cómo podemos agradecer a nuestros hermanos."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a pensar en tres cosas por las que podemos dar las gracias a nuestros hermanos. Puede ser por ayudarnos, por jugar con nosotros o por compartir sus juguetes. ¡Perfecto! Agradecer fortalece nuestra relación y nos hace sentir bien. ¡Ustedes son geniales por pensar en estas cosas!"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ahora, hagamos un pequeño juego de respiración para calmarnos y pensar en todo lo bueno que hemos aprendido. Inhalemos profundamente por la nariz y exhalemos por la boca. ¡Uno, dos, tres! Respirar así nos ayuda a sentirnos tranquilos y felices. ¡Fantástico trabajo! ¿Se sienten más relajados ahora?"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos que ser hermanos significa tener un amigo para siempre. Aunque a veces discutimos, siempre podemos resolver las cosas hablando y comprendiendo. Los hermanos nos enseñan a ser pacientes y cariñosos. ¡Qué suerte tener a alguien con quien compartir nuestras vidas! Sigamos siendo buenos hermanos cada día."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Cuál es su parte favorita de tener un hermano o hermana? ¿Es jugar juntos, compartir secretos o tal vez inventar historias? ¡Hay tantas cosas maravillosas que podemos hacer con ellos! Es divertido pensar en todas las aventuras que nos esperan. ¿Pueden imaginar una nueva aventura para hacer juntos?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Las aventuras con nuestros hermanos pueden ser mágicas. Podemos explorar el jardín como si fuera una jungla o construir una fortaleza con almohadas. Cada día es una nueva oportunidad para crear recuerdos especiales. ¡Qué afortunados somos de tener un compañero de aventuras! Ahora, pensemos en una aventura que les gustaría tener mañana."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "¡Qué ideas tan creativas tienen! Estoy seguro de que se divertirán mucho. Recuerden siempre ser amables y escuchar a su hermano o hermana. Así, cada aventura será aún más especial. Estoy muy orgulloso de ustedes por ser tan buenos hermanos. ¡Sigan así y tendrán muchas más aventuras juntos!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer compartir esta aventura con ustedes. Recuerden que ser un buen hermano es algo muy especial. Espero que hayan aprendido algo nuevo y divertido. ¡Sigan explorando y disfrutando el tiempo con sus hermanos! Nos vemos en la próxima aventura espacial. ¡Adiós, pequeños astronautas!"
+    }
+  ],
+  "title": "Historia de Sibling de Mino"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "adventure_dora_pal_behavior_story",
+  "character": "Adventure Dora Pal",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Adventure Dora Pal. Bugün birlikte davranışlar hakkında harika bir yolculuğa çıkacağız. Davranışlar, başkalarıyla nasıl iyi geçineceğimizi ve kendimizi nasıl daha mutlu hissedeceğimizi belirler. Hazır mısın? Seni çok merak ediyorum, çünkü seninle birlikte çok şey keşfedeceğiz. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Davranışlar, günlük hayatımızda çok önemlidir. İyi davranışlar, arkadaşlarımızla ve ailemizle daha iyi anlaşmamıza yardımcı olur. Mesela, lütfen ve teşekkür ederim demek, karşımızdaki kişiyi mutlu eder. Bu kelimeler, sihirli kelimeler gibidir ve herkesin yüzünü güldürür. Peki, sen bu kelimeleri ne sıklıkla kullanıyorsun?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, iyi davranışlar hakkında biraz daha konuşalım. İyi bir davranış, birine yardım etmeyi de içerir. Bir arkadaşının düştüğünü gördüğünde elini uzatıp ona yardım edebilirsin. Bu tür davranışlar, arkadaşlık bağlarını güçlendirir ve seni iyi bir insan yapar. Hadi, birlikte iyi davranışların neler olabileceğini düşünelim."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsun! İyi davranışlar sadece başkalarına yardım etmekle kalmaz, aynı zamanda kendimize de iyi bakmamızı sağlar. Örneğin, oyuncaklarını toplamak ya da dişlerini fırçalamak gibi. Bu davranışlar, hem seni hem de çevrendekileri mutlu eder. Sen de bu tür davranışları denemek ister misin?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda oyuncaklarımızı toplamaktan bahsetmiştik. Peki, bunu neden yapmalıyız? Çünkü düzenli bir ortam, hem oyun oynamamızı kolaylaştırır hem de anne ve babamızı mutlu eder. Dağınık bir oda, eşyalarımızı bulmamızı zorlaştırır ve oyun zamanımızı kısaltır. Şimdi, birlikte oyuncaklarımızı topladığımızda neler kazanacağımızı düşünelim."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Oyuncakları toplamak gibi davranışlar, sorumluluk sahibi olmamızı sağlar. Sorumluluk, kendi işlerimizi yapabilmemiz anlamına gelir. Örneğin, sabahları yatağını toplamak ya da elbiselerini düzgünce asmak gibi. Bu tür davranışlar, büyüdükçe daha da önemli hale gelir. Hadi, sorumluluklarımızı nasıl yerine getirebileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Çok iyi gidiyorsun! Sorumluluk almak, kendimize olan güvenimizi artırır. Bu, yeni şeyler denememize ve hata yapmaktan korkmamamıza yardımcı olur. Unutma, her hata bir öğrenme fırsatıdır. Sen de yeni bir şey denemek ister misin? Hadi, birlikte cesur olalım!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence iyi bir davranış nedir? Örneğin, bir arkadaşın üzgün olduğunda ona nasıl yardımcı olabilirsin? Onunla konuşmak ya da ona sarılmak iyi bir fikir olabilir mi? Sen olsan ne yapardın? Hadi, biraz düşünelim ve cevaplarını merakla bekliyorum."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir arkadaşımıza sarılmak ya da onu dinlemek, iyi bir davranış örneğidir. Bu, arkadaşımızın kendini daha iyi hissetmesine yardımcı olabilir. İyi bir dinleyici olmak, başkalarının duygularını anlamamıza yardımcı olur. Şimdi, iyi bir dinleyici olmanın başka yollarını keşfetmeye çalışalım. Belki de sessizce dinlemek ya da göz teması kurmak gibi."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "İyi bir dinleyici olmak için karşımızdaki kişiye dikkatle bakmalıyız. Göz teması kurmak, onun söylediklerine önem verdiğimizi gösterir. Ayrıca, konuşurken sözünü kesmemek de önemlidir. Bu şekilde, karşımızdaki kişinin kendini değerli hissetmesini sağlarız. Şimdi, birlikte iyi bir dinleyici olmanın daha fazla yolunu düşünelim."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Çok güzel! Sen gerçekten iyi bir dinleyici olabilirsin. Başkalarını dinlemek, onların duygularını anlamamıza yardımcı olur ve ilişkilerimizi güçlendirir. Bu, aynı zamanda empati kurmamızı da sağlar. Empati, başkalarının yerine kendimizi koyabilmek demektir. Sen de empati yapmayı denemek ister misin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Empati kurmak neden önemlidir, sence? Başkalarının duygularını anlamak, onlarla daha iyi ilişkiler kurmamıza yardımcı olabilir mi? Sen hiç empati kurduğun bir anı hatırlıyor musun? O an ne hissettin? Hadi, bu konuda biraz düşünelim."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Empati kurmak, başkalarının duygularını anlamamıza yardımcı olur. Bu, onların ne hissettiğini anlamamızı ve onlara daha iyi yardımcı olmamızı sağlar. Empati, aynı zamanda bizi daha anlayışlı ve sabırlı yapar. Şimdi, empati kurmanın başka yollarını düşünelim. Belki de karşımızdaki kişinin duygularını sormak ya da onunla zaman geçirmek gibi."
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Empati kurarken, karşımızdaki kişiye nasıl hissettiğini sormak önemlidir. Bu, onun duygularını ifade etmesine olanak tanır. Ayrıca, onunla zaman geçirmek ve birlikte aktiviteler yapmak da empati kurmanın yollarından biridir. Bu şekilde, onun yanında olduğumuzu gösteririz. Şimdi, empati kurmanın başka yollarını keşfedelim."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık! Davranışlar, empati ve iyi dinleyici olmanın önemini öğrendik. Unutma, iyi davranışlar her zaman geri döner ve seni mutlu eder. Şimdi, öğrendiklerini günlük hayatında uygulamaya ne dersin? Seninle tekrar buluşmayı dört gözle bekliyorum. Hoşça kal, küçük dostum!"
+    }
+  ],
+  "title": "Adventure Dora Pal'ın Behavior Hikayesi"
+}

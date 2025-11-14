@@ -1,0 +1,104 @@
+{
+  "id": "clever_mouse_jerry_friendship_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "friendship",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Clever Mouse Jerry. Today we're going on an amazing journey about friendship. Are you ready? I'm so curious about you. Friendship is like a big adventure we can all enjoy together. Let's explore it with fun and laughter!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Friendship is when you have someone to play with and share all your toys. It's like having a special buddy who makes you smile. Remember when you shared your crayons with your friend? That was a moment of friendship! Friends make us feel happy and never lonely. Now, let's learn how we can make even more friends!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "To make a friend, first, we must say 'hello'. It's a magical word that opens doors to new friendships. Imagine saying hello to a new kid at the playground. They might become your next best friend! Don't forget to smile, because smiles are like sunshine. They make everyone feel warm and welcome."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning how to say hello! Now, let's try it together. Can you say 'hello' with me? One, two, three... Hello! Wonderful! You did it! You have taken the first step in making a new friend. Remember, with each hello, a new adventure begins."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Once you've said hello, you can ask them to play. Ask, 'Would you like to play with me?' It's a fun way to start a friendship. Imagine playing on the swings together or building a sandcastle. Playing together makes friendship grow strong, like a mighty tree. Every game you play is a new leaf on your friendship tree."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's talk about sharing. Sharing is caring, and it's a big part of being a good friend. You can share your toys, like your favorite blocks or even a yummy snack. Sharing shows that you care about your friends' happiness. It's like giving them a little piece of your joy."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing amazing! Sharing is such a wonderful way to show kindness. Next time you're playing, try sharing your favorite toy. Say, 'Would you like to play with this?' Your friend will feel so happy and loved. Remember, sharing doubles the fun for everyone!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's talk about listening. Listening is important because it shows we care about what our friends say. Imagine your friend is telling you about their day. Listening carefully is like giving them a big hug with your ears. It makes them feel special and understood."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you remember a time when you listened to a friend? How did it make them feel? Listening can make a friend feel really happy. It's like saying, 'I care about you.' Can you think of a time when you listened to someone special?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "After listening, you can ask questions to show you're interested. For example, 'What was your favorite part of the day?' Asking questions helps us learn more about our friends. It makes them feel important and loved. Every question is like opening a new page in a storybook of friendship."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's practice asking questions together. Imagine your friend is telling you about their new toy. You can ask, 'What color is it?' or 'How does it work?' Asking questions is like adding colorful paints to your friendship picture. It makes everything brighter and more fun!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're becoming a friendship expert! Keep asking questions and sharing smiles. Remember, every friend is like a treasure. Treat them with care and kindness. You're doing a fantastic job, little friend!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's think about saying 'thank you.' Saying thank you is like giving a gift of words. It shows appreciation for the things your friends do. Imagine your friend shares their snack with you. Saying 'thank you' makes them feel happy and appreciated."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Have you ever said 'thank you' to a friend before? How did it make them feel? It's a simple word, but it can make a big difference. Try saying 'thank you' the next time someone helps you. It's like giving them a big, warm hug!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this friendship adventure. You've learned how to say hello, share, listen, and say thank you. You're on your way to being a wonderful friend. Remember, every friend is a treasure to cherish. Goodbye for now, and keep spreading kindness wherever you go!"
+    }
+  ],
+  "title": "Clever Mouse Jerry's Friendship Story"
+}

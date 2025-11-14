@@ -1,0 +1,98 @@
+{
+  "id": "snowman_buddy_olaf-style_sibling_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "sibling",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy tu amigo Muñeco de Nieve al estilo Olaf. Hoy vamos a hablar sobre algo muy especial: los hermanos. ¿Tienes un hermano o una hermana? ¡Qué emocionante! Los hermanos pueden ser nuestros mejores amigos y compañeros de aventuras. ¿Estás listo para descubrir más sobre el amor fraternal?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de lo divertido que es jugar con un hermano. ¿Te gusta jugar a los juegos de mesa o prefieres correr por el parque? Los hermanos son perfectos para compartir juegos y risas. Imagínate construir una torre alta de bloques juntos. ¡Es una gran manera de trabajar en equipo!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Compartir es algo muy importante entre hermanos. Por ejemplo, puedes compartir tus juguetes o incluso tus cuentos favoritos. ¿Has probado a compartir tus colores para dibujar juntos? Compartir nos enseña a ser generosos y amables. ¡Es una forma de mostrar amor a tu hermano!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Vamos a intentar algo divertido ahora! ¿Qué te parece si contamos juntos hasta cinco? Uno, dos, tres, cuatro, cinco. ¡Genial! Contar juntos es una forma divertida de aprender y estar unidos. ¿Ves qué fácil es hacer cosas juntos?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablábamos de compartir. Ahora, pensemos en cómo cuidamos de nuestros hermanos. Puedes ayudarles a recoger los juguetes o incluso a cepillarse los dientes. Cuidar de ellos muestra lo mucho que los queremos. ¿Puedes pensar en otras formas de cuidar a tu hermano?"
+    },
+    {
+      "id": "scene_5",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Sabías que los hermanos a veces pueden tener pequeñas peleas? ¿Has tenido alguna vez una discusión con tu hermano? Es normal y está bien. Lo importante es aprender a resolverlo hablando y pidiendo perdón. ¿Te gustaría aprender cómo hacerlo?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, hablemos de cómo podemos decir 'lo siento'. Decir 'lo siento' es una forma de mostrar que queremos mejorar. Puedes decirlo con una sonrisa y un abrazo. Practiquemos juntos: repite conmigo, 'Lo siento'. ¡Muy bien! Esto demuestra que eres un gran amigo."
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Cuando resuelves una pelea, puedes volver a jugar juntos. ¿Recuerdas la última vez que jugaste con tu hermano después de hacer las paces? ¡Seguro fue muy divertido! Los hermanos siempre encuentran maneras de volver a ser amigos. ¿No es maravilloso?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora que sabemos cómo resolver peleas, pensemos en las sorpresas. ¿Te gusta sorprender a tu hermano con algo especial? Podrías hacerle un dibujo o ayudarle con su tarea. Las sorpresas son una forma de decir 'te quiero'. ¿Qué te gustaría hacer para sorprender a tu hermano?"
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué idea tan fantástica! Estoy seguro de que a tu hermano le encantará tu sorpresa. Recuerda, las pequeñas cosas pueden hacer una gran diferencia. ¡Sigue adelante, puedes hacerlo! Tu hermano se sentirá muy especial gracias a ti."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Alguna vez has hecho algo divertido solo con tu hermano? Jugar a disfrazarse o inventar una historia juntos puede ser muy emocionante. ¿Cuál es tu juego favorito para jugar con tu hermano? Me encantaría escuchar tus ideas."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Imagínate una tarde perfecta jugando con tu hermano. Podrían construir una fortaleza de almohadas o hacer una carrera de coches. Las posibilidades son infinitas cuando usas tu imaginación. ¿No es increíble lo que puedes crear con tu hermano?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Después de un día lleno de diversión, es importante relajarse juntos. Puedes leer un cuento antes de dormir o contar historias de tus aventuras. ¿Te gusta escuchar cuentos con tu hermano antes de dormir? Es una forma maravillosa de terminar el día."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido muy divertido hablar sobre hermanos contigo. Recuerda que los hermanos son compañeros para toda la vida. Cuídalos y disfruta cada momento juntos. Ahora es momento de decir adiós. ¡Hasta pronto, pequeño amigo!"
+    }
+  ],
+  "title": "Historia de Sibling de Snowman Buddy Olaf-Style"
+}

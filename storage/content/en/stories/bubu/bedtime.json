@@ -1,0 +1,104 @@
+{
+  "id": "bubu_bedtime_story",
+  "title": "Bubu's Bedtime Story",
+  "character": "Bubu",
+  "topic": "bedtime",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little friend! I'm Bubu, and I'm so happy to see you! Tonight, we're going to talk about something very special—bedtime! It's that magical time when we get ready to rest and dream. Are you ready to join me on this cozy adventure? Let's snuggle up and get started!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bedtime is such a wonderful time of the day. It's when we put all our toys away and say goodnight to the sun. The sky turns dark, and the stars come out to twinkle. We can hear the gentle sounds of the night, like the rustling leaves or maybe a cricket chirping. Doesn't it feel nice to know the world is getting ready to rest too?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about how we get ready for bed. First, we can put on our comfy pajamas. They're soft and warm, just like a hug from our favorite blanket. Then, we brush our teeth to keep them shiny and clean. It's like giving our teeth a goodnight kiss to say thank you for all the yummy food we ate today."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You can do it! After brushing our teeth, we wash our hands and face. The water feels cool and refreshing, washing away the day's adventures. It's like telling our skin, 'Thank you for playing today!' Doesn't it feel nice to be clean and ready for a good night's sleep?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Once we're all clean and cozy, it's time to pick a bedtime story. Stories are like little adventures we can go on without even leaving our bed. We can visit faraway lands, meet friendly animals, or even fly in the sky. What kind of stories do you like? Maybe tonight, we'll find a new favorite!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's try something together. Let's take three big, calm breaths. Breathe in slowly through your nose, and out through your mouth. Can you feel your body relaxing with each breath? It's like telling our body, 'It's time to rest now.' Breathing helps us feel calm and peaceful, ready for sleep."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you have a favorite bedtime toy or blanket? Maybe something soft and cuddly that keeps you company at night? It's nice to have something special with us as we drift off to sleep. It makes us feel safe and loved, like a gentle hug that lasts all night long."
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about brushing our teeth? Let's pretend we're brushing them together. We can make big circles with our toothbrush, just like a little dance for our teeth. Isn't it fun to imagine we're dancing right before bed? Brushing is an important part of our bedtime routine."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Sometimes, we might feel a little scared of the dark. But guess what? The dark is just the sky's way of putting on a cozy blanket. And we have nightlights or stars on our ceiling to keep us company. It's like having little friends twinkling above us, saying, 'Goodnight, sleep tight!'"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's close our eyes for a moment and imagine a peaceful place. Maybe a garden full of colorful flowers or a gentle beach with soft waves. This place is our special dreamland where everything is calm and happy. Imagining this can help us drift off to sleep with sweet dreams."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing great! Now, let's think about all the wonderful things we did today. Maybe we played with friends, made a new drawing, or learned something new. We can whisper 'thank you' to the day for all the fun we had. This way, we end our day with happy thoughts."
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "The moon is shining brightly outside, watching over us as we sleep. It's like a gentle night light in the sky, keeping everything calm. The stars are twinkling, saying hello from far away. It's amazing to think that the same moon and stars are watching over everyone. We're all together under the same night sky."
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Let's count the stars together. One, two, three... each star is like a little friend twinkling just for us. Counting stars can be so relaxing, helping us feel sleepy. How many stars do you think are in the sky tonight? Maybe tomorrow night, we can count even more!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "What do you like to dream about? Maybe flying like a bird or swimming like a fish? Dreams are like little adventures we can have while we sleep. They're fun and exciting, and we can be anything we want. Isn't it wonderful to think about what we might dream tonight?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this bedtime journey, little friend. It's time for us to close our eyes and drift into dreamland. Remember, the stars and moon are watching over you, keeping you safe and snug. Sweet dreams, and I'll see you again soon for another adventure! Goodnight, sleep tight!"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "adventure_dora_pal_bedtime_story",
+  "title": "Adventure Dora Pal's Bedtime Story",
+  "character": "Adventure Dora Pal",
+  "topic": "bedtime",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little adventurers! I'm Adventure Dora Pal, and I'm so excited to see you. Today, we're going on a calming journey to explore bedtime routines. Are you ready to discover how to prepare for a good night's sleep? I can't wait to share some fun and relaxing activities with you. Let's get started on this soothing adventure together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bedtime is such a special time of the day. It's when we slow down and get ready to dream sweet dreams. One of the first things we do is change into our comfy pajamas. Pajamas are like a cozy hug that helps us feel relaxed. Do you have a favorite pair of pajamas? Remember, wearing pajamas is the first step to feeling snug and sleepy."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "After putting on our pajamas, we need to brush our teeth. Brushing keeps our teeth clean and healthy, just like a superhero cape keeps a superhero ready for action! Let's pretend we're superheroes brushing away all the tiny sugar monsters. Remember to brush all your teeth, even the ones way at the back. Can you count to 20 while you brush?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job brushing your teeth! Now, let's make sure our room is tidy. Cleaning up is like putting our toys to bed, too. When everything is in its place, it feels so nice and peaceful. Can you pick up your toys and put them where they belong? Wonderful! You're doing an amazing job preparing for bedtime."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that our room is tidy, it's time to choose a bedtime story. Stories are like little adventures we can go on without leaving our room. Do you have a favorite storybook? I love stories about brave explorers and magical lands. Remember, reading a story helps our minds relax and get ready for sleep."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's make our room cozy and ready for storytime. We can dim the lights or turn on a nightlight. A soft light is like a little moonbeam guiding us to dreamland. Do you like having a nightlight? It's perfect for creating a warm and safe feeling in your room. Now, let's snuggle under our blankets and get ready to read."
+    },
+    {
+      "id": "scene_6",
+      "type": "interaction",
+      "videoKey": "talking",
+      "text": "Before we start our story, let's take three deep breaths. Breathing deeply helps us feel calm and relaxed. Let's breathe in slowly through our nose, hold it for a moment, and then breathe out gently through our mouth. Let's do it together: one, two, three. Doesn't that feel nice and peaceful? Now we're ready for our story."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "While we listen to our story, let's imagine all the wonderful things we can dream about. Maybe we'll dream of flying through the sky on a fluffy cloud. Or perhaps we'll visit a magical forest full of friendly animals. What do you think you might dream about tonight? Remember, dreams are like little adventures we can have while we sleep."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you know why sleep is so important? Sleep helps our bodies grow strong and our minds stay sharp, just like a superhero needs rest to save the day. When we sleep well, we wake up feeling happy and ready for new adventures. Can you think of something fun you did after a good night's sleep?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now that we know why sleep is important, let's talk about feeling safe and cozy in bed. A favorite stuffed animal can be a great bedtime buddy. They can keep us company and help us feel secure. Do you have a special stuffed animal or blanket you like to sleep with? It's like having a friend to share your dreams with."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about breathing to feel calm? Let's try it again before we say goodnight. Breathing slowly helps us relax and feel ready for sleep. Let's breathe in deeply, hold it, and breathe out gently. You're doing such a great job! Now, let's think about one happy thing that happened today."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's remember to say goodnight to everyone we love. You can say goodnight to your family, your toys, and even the moon and stars. Saying goodnight is like wrapping everyone in a warm hug. It helps us feel connected and loved. Now, let's whisper our goodnights and get ready to close our eyes."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job getting ready for bed. Remember, every night is a new chance to dream big dreams. You're a wonderful adventurer, and I'm so proud of you. As you snuggle under your blankets, know that you're ready for a restful night's sleep. Sweet dreams, little explorer!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It's time for me to say goodnight, adventurers. I hope you have the sweetest dreams and wake up refreshed and ready for a new day. Remember, every bedtime is a chance to relax and recharge. Thank you for joining me on this calming bedtime journey. Goodnight, sleep tight, and I'll see you on our next adventure!"
+    }
+  ]
+}

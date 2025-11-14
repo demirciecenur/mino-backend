@@ -1,0 +1,104 @@
+{
+  "id": "ocean_dreamer_moa_behavior_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Ocean Dreamer Moa. Bugün seninle davranışlar hakkında harika bir yolculuğa çıkacağız. Davranışlar, başkalarıyla nasıl iyi geçineceğimizi ve dünyayı nasıl daha güzel bir yer haline getirebileceğimizi öğrenmemize yardımcı olur. Hazır mısın? Seni çok merak ediyorum ve bu maceraya birlikte çıkmak için sabırsızlanıyorum."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Davranışlar hakkında konuşmaya başlayalım. İyi davranışlar, başkalarının neler hissettiğini anladığımızda ortaya çıkar. Örneğin, bir arkadaşımız üzgünse, ona destek olmak için yanında olabiliriz. İyi davranışlar, başkalarına saygı göstermek ve onlara yardımcı olmak anlamına gelir. Bu, birlikte oynarken oyuncaklarımızı paylaşmak ya da sıraya girmek gibi basit şeylerle başlar."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, iyi bir davranış örneği üzerinde duralım. Oyuncaklarımızı toplamak ve odamızı düzenli tutmak önemli bir davranıştır. Bu, hem kendimize hem de ailemize saygı göstermenin bir yoludur. Düzenli bir oda, oyun oynamayı daha eğlenceli hale getirir çünkü aradığımız her şeyi kolayca bulabiliriz. Hadi, sen de odandaki oyuncakları toplama pratiği yap!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi, birlikte bir oyun oynayalım. Haydi, birlikte üç derin nefes alalım. Derin nefes almak, sakinleşmemize ve daha iyi hissetmemize yardımcı olabilir. Burnundan derin bir nefes al ve yavaşça ağzından ver. Çok güzel! Kendini daha iyi hissettin mi? Seninle birlikte bu egzersizi yapmak harikaydı."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda oyuncaklarımızı toplamanın öneminden bahsetmiştik. Şimdi ise sırada dişlerimizi fırçalamak gibi başka bir iyi davranış var. Sabah ve akşam dişlerimizi fırçalamak, sağlıklı bir gülümseme için çok önemlidir. Ayrıca, bu alışkanlık bizi daha sağlıklı yapar ve diş doktoruna gitmekten korkmamıza gerek kalmaz. Dişlerini fırçalarken hangi şarkıyı söylemek istersin?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Diş fırçalama alışkanlığı, günlük rutinimizin önemli bir parçasıdır. Dişlerimizi en az iki dakika fırçalamak, onları temiz ve sağlıklı tutar. Fırçalama sırasında diş fırçasını nazikçe hareket ettirmek önemlidir. Bu şekilde dişlerimizin her köşesini temizlemiş oluruz. Hadi, şimdi bir diş fırçalama rutini oluşturalım ve eğlenelim!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsun! Şimdi, iyi bir dinleyici olmanın önemini konuşalım. İyi bir dinleyici olmak, başkalarının söylediklerini dikkatle dinlemek anlamına gelir. Bu, arkadaşlarımızla daha iyi anlaşmamıza ve onların ne düşündüğünü anlamamıza yardımcı olur. Dinlemek, aynı zamanda başkalarına değer verdiğimizi gösterir. Sen de iyi bir dinleyici misin?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Dinleme alışkanlığı, arkadaşlarımızla olan ilişkilerimizi güçlendirir. Bir arkadaşımız konuşurken gözlerine bakmak ve onun söylediklerine odaklanmak önemlidir. Bu şekilde, arkadaşımız kendini değerli ve önemli hisseder. Aynı zamanda, biz de yeni şeyler öğrenir ve farklı bakış açıları kazanırız. Dinlemek, harika bir maceradır, değil mi?"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, sırada paylaşmak var. Paylaşmak, başkalarına yardım etmenin ve onlarla bir şeyler paylaşmanın güzel bir yoludur. Örneğin, en sevdiğin oyuncağını bir arkadaşınla paylaşmak, onunla daha iyi vakit geçirmeni sağlar. Paylaşmak, başkalarının da mutlu olmasına yardımcı olur ve bu da bizi mutlu eder. Hadi, paylaşmayı nasıl seveceğimizi düşünelim."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Paylaşmak harika bir davranış, değil mi? Şimdi, sıra teşekkür etmeye geldi. Birisi bize yardım ettiğinde ya da bir şey verdiğinde teşekkür etmek önemlidir. Teşekkür etmek, nezaketin ve iyi davranışların bir göstergesidir. Bu, başkalarının yaptıklarını takdir ettiğimizi gösterir ve onların da mutlu olmasını sağlar. Teşekkür etmeyi hatırlıyor musun?"
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence teşekkür etmek neden bu kadar önemli? Bir düşün bakalım. Teşekkür etmek, başkalarına olan minnettarlığımızı ifade etmenin en güzel yollarından biridir. Ayrıca, bu sayede insanlar kendilerini değerli ve önemli hisseder. Sen de birine teşekkür ettiğinde nasıl hissettiğini hatırlıyor musun?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Teşekkür etmenin önemini konuştuktan sonra, şimdi de özür dilemekten bahsedelim. Bazen istemeden de olsa birilerini üzebiliriz. Böyle durumlarda özür dilemek, hatamızı kabul ettiğimizi ve telafi etmek istediğimizi gösterir. Özür dilemek, ilişkilerimizi düzeltir ve bizi daha iyi bir insan yapar. Sen de birine özür dilediğinde nasıl hissettin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özür dilemek, cesaret gerektiren bir davranıştır. Hatalarımızı kabul etmek ve bunları düzeltmek için çaba göstermek önemlidir. Bu, bize ve karşımızdaki kişiye kendimizi daha iyi hissettirir. Özür dilerken samimi olmak ve gerçekten üzgün olduğumuzu göstermek gerekir. Hadi, özür dilemek için hangi kelimeleri kullanabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Seninle bu kadar çok şeyi konuşmak gerçekten harikaydı. Davranışlarımızı iyileştirmek için neler yapabileceğimizi öğrendik. Artık daha iyi bir dinleyici, paylaşmayı bilen biri ve özür dilemeyi unutmayan bir kişi olabilirsin. Unutma, her zaman daha iyi olmak için çabalayabiliriz. Sen bunu yapabilirsin, harikasın!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün benimle bu yolculuğa çıktığın için teşekkür ederim. Davranışlar hakkında konuşmak ve yeni şeyler öğrenmek çok eğlenceliydi. Bir sonraki maceramızda görüşmek üzere. Unutma, sen çok özel ve değerli birisin. Hoşça kal ve kendine iyi bak!"
+    }
+  ],
+  "title": "Ocean Dreamer Moa'ın Behavior Hikayesi"
+}

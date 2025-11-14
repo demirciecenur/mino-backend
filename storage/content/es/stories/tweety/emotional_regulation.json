@@ -1,0 +1,104 @@
+{
+  "id": "chirpy_birdie_regulación_emocional_manejo_de_emociones_calmarse_autorregulación_story",
+  "character": "Chirpy Birdie",
+  "topic": "regulación emocional, manejo de emociones, calmarse, autorregulación",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeños amigos! Soy Chirpy Birdie, un pajarito muy alegre y lleno de energía. Hoy vamos a emprender una aventura sobre cómo manejamos nuestras emociones. ¿Alguna vez te has sentido muy feliz o un poco triste? Está bien sentir todas esas emociones, y hoy vamos a aprender a calmarnos y sentirnos mejor. ¿Están listos para comenzar esta divertida aventura juntos?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de lo que son las emociones. Las emociones son esos sentimientos que tenemos dentro, como estar feliz, triste o incluso enojado. Todos tenemos emociones, y es completamente normal sentir muchas cosas diferentes. A veces, cuando algo no sale como queremos, podemos sentirnos frustrados. Pero no te preocupes, porque hay maneras de manejar esas emociones para que nos sintamos mejor. ¿No es emocionante aprender a hacer eso?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando sentimos una emoción fuerte, como la ira o la tristeza, podemos intentar calmarnos. Una forma de hacerlo es respirar profundo. Vamos a intentarlo juntos. Inhala lentamente por la nariz, contando hasta tres, y luego exhala suavemente por la boca. ¿Lo hiciste? ¡Eso es genial! Al respirar así, le damos a nuestro cuerpo la oportunidad de relajarse un poco."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Muy bien, pequeños! La respiración profunda es solo una de las formas de calmarnos. También podemos contar hasta cinco lentamente. Vamos a contarlo juntos: uno, dos, tres, cuatro, cinco. ¿Puedes sentir cómo tu cuerpo se relaja un poco más? ¡Lo estás haciendo fantástico! Practicar esto te ayudará a sentirte más tranquilo cuando lo necesites."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerden cuando hablamos de estar felices o tristes. A veces, compartir cómo nos sentimos con alguien de confianza, como mamá o papá, puede ayudarnos mucho. Ellos pueden escucharnos y darnos un gran abrazo que nos haga sentir mejor. Compartir nuestras emociones es una parte importante de manejarlas y sentirnos bien."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Otra forma de regular nuestras emociones es pensar en algo que nos gusta mucho. ¿Tienes un juguete favorito o un recuerdo bonito? Piensa en eso cuando te sientas triste o enojado. Al concentrarnos en cosas que nos hacen felices, podemos cambiar nuestro estado de ánimo. Es como un truco mágico que podemos usar en cualquier momento."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué bien lo estás haciendo! Ahora que sabes un poco más sobre cómo calmarte, puedes ayudar a otros también. Si ves a un amigo triste, puedes decirle lo que has aprendido. Tal vez puedan respirar juntos o contar hasta cinco. Compartir lo que sabemos es una forma maravillosa de ser un buen amigo."
+    },
+    {
+      "id": "question_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Recuerdas alguna vez que te hayas sentido muy feliz? ¿Qué estabas haciendo en ese momento? A veces, recordar esos momentos felices puede ayudarnos a sentirnos mejor. ¿Te gustaría contarme qué te hace más feliz? Estoy muy curioso por saberlo."
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hablamos sobre cómo compartir nuestras emociones puede ser útil. A veces, dibujar o pintar también nos ayuda a expresar lo que sentimos. Puedes crear un dibujo de cómo te sientes hoy. Usar diferentes colores para diferentes emociones puede ser muy divertido y relajante. ¿Te gustaría probarlo?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora, pensemos en un lugar que nos haga sentir seguros y tranquilos. Puede ser tu habitación, un parque o incluso un lugar imaginario. Cierra los ojos y visualiza ese lugar. ¿Cómo se siente estar allí? Imagina los sonidos, los colores y cómo huele. Este es un ejercicio que puedes hacer en cualquier momento para calmarte."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo de maravilla! Aprender a manejar nuestras emociones es como aprender a andar en bicicleta. Al principio puede ser difícil, pero con práctica se vuelve más fácil. Cada vez que practiques, te sentirás más seguro y tranquilo. ¡Sigue así, pequeño aventurero!"
+    },
+    {
+      "id": "question_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme cómo te sientes ahora? A veces hablar de nuestras emociones nos ayuda a entenderlas mejor. ¿Te sientes feliz, tranquilo o quizás curioso? Estoy aquí para escucharte y aprender juntos sobre nuestras emociones."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¡Qué emocionante ha sido este viaje juntos! Hemos aprendido tantas cosas sobre cómo calmarnos y manejar nuestras emociones. Recuerda que siempre puedes usar estos trucos cuando te sientas abrumado. Eres un pequeño héroe valiente por aprender todo esto. Estoy muy orgulloso de ti."
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Antes de despedirnos, pensemos en algo que nos gustaría hacer mañana. Tal vez podrías practicar uno de estos ejercicios con un amigo o un familiar. Planear cosas bonitas también ayuda a que nuestras emociones se sientan más ligeras. ¡Tienes tantas aventuras por delante!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ahora es momento de decir adiós, pero recuerda que siempre puedes regresar cuando quieras. Soy Chirpy Birdie, y estaré aquí para más aventuras emocionantes. Sigue practicando lo que aprendimos hoy y verás cómo te sientes mucho mejor. ¡Hasta pronto, pequeño amigo! ¡Nos vemos en la próxima aventura!"
+    }
+  ],
+  "title": "Historia de Emotional Regulation de Chirpy Birdie"
+}

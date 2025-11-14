@@ -1,0 +1,98 @@
+{
+  "id": "frost_friend_sid_bedtime_story",
+  "title": "Frost Friend Sid'nin Uyku Zamanı Hikayesi",
+  "character": "Frost Friend Sid",
+  "topic": "bedtime",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Frost Friend Sid. Bu gece birlikte uyku zamanı hakkında harika bir yolculuğa çıkacağız. Uyumadan önce neler yapabiliriz, nasıl daha rahat uyuyabiliriz, bunları keşfedeceğiz. Hazır mısın? Seni çok merak ediyorum ve seninle bu macerayı paylaşmak için sabırsızlanıyorum. Haydi başlayalım ve birlikte eğlenelim!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku zamanı, günün en dinlendirici kısmıdır. Gün boyu oynadıktan sonra vücudumuzun dinlenmeye ihtiyacı var, değil mi? Uyku, büyümemize ve ertesi gün daha enerjik olmamıza yardımcı olur. Peki, uyumadan önce neler yapmalıyız ki güzel bir uyku çekelim? İşte bu gece, bu sorunun cevabını arayacağız. Şimdi birlikte uyku rutinlerimizi planlayalım ve eğlenceli hale getirelim!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Öncelikle, uyku öncesi dişlerimizi fırçalamak çok önemlidir. Dişlerimizi fırçalarken, onları temiz ve sağlıklı tutarız. Peki, sen dişlerini fırçalamayı sever misin? Ben çok severim, çünkü dişlerim parladığında çok mutlu olurum. Diş fırçalamak, uykuya hazırlanmanın ilk adımıdır. Şimdi, diş fırçalama zamanının ne kadar eğlenceli olabileceğini birlikte keşfedelim!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Dişlerimizi fırçaladıktan sonra, şimdi pijamalarımızı giyme zamanı. Pijamalarımızı giymek, uykuya hazırlığın bir diğer önemli parçasıdır. Renkli pijamalar giymek seni de mutlu eder mi? Benim pijamalarım çok renkli ve rahat, onları giydiğimde hemen uyku moduna geçiyorum. Şimdi sen de pijamalarını giy ve uykuya bir adım daha yaklaş!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Pijamalarımızı giydikten sonra, odanın ışıklarını hafifçe kısabiliriz. Loş bir ışık, uykuya geçişi kolaylaştırır. Sen de odanın ışıklarını kısarak rahatlamayı dene. Yavaşça nefes alıp vermek de uykuya geçişi kolaylaştırır. Şimdi birlikte üç derin nefes alalım ve rahatlayalım. Bu nefesler, bizi huzurlu bir uykuya hazırlar."
+    },
+    {
+      "id": "scene_5",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Birlikte nefes aldıktan sonra, belki bir hikaye dinlemek istersin. Hikayeler, uykuya dalmamıza yardımcı olur. Ben de sana bir hikaye anlatabilirim. Uyku öncesi hikayeler, hayal gücümüzü canlandırır ve tatlı rüyalar görmemizi sağlar. Şimdi, en sevdiğin hikayeyi düşün ve onu hayal et. Belki de hikayede bir kahraman olabilirsin!"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Senin en sevdiğin uyku öncesi hikayen nedir? Belki bir prensesin maceraları ya da cesur bir şövalyenin hikayesi. Haydi, bana hikayeni anlat. Belki birlikte o hikayeyi daha da eğlenceli hale getirebiliriz. Unutma, hayal gücün seni her yere götürebilir. Şimdi senin hikayeni dinlemek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ne harika bir hikaye! Senin hayal gücün gerçekten çok geniş. Şimdi, hikayemizi bitirdik ve biraz daha rahatladık. Peki, uykuya geçmeden önce başka neler yapabiliriz? Belki bir peluş oyuncakla sarılmak seni daha da rahatlatabilir. Benim de en sevdiğim oyuncak ayım var ve onunla uyumayı çok seviyorum!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Peluş oyuncaklarla uyumak, kendimizi güvende hissetmemize yardımcı olabilir. Oyuncak ayın ya da tavşanın sana sarıldığında, sanki bir arkadaşın yanındaymış gibi hissedersin. Bu da seni daha mutlu ve huzurlu yapar. Şimdi sen de en sevdiğin oyuncakla sarılıp uyumayı deneyebilirsin. Bu, uykuya dalmanı kolaylaştırır."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyumadan önce bir bardak ılık süt içmek de harika bir fikir olabilir. Ilık süt, vücudumuzu rahatlatır ve uykuya dalmamıza yardımcı olur. Sen de süt içmeyi sever misin? Benim en sevdiğim gece içeceğidir. Şimdi, bir bardak süt içmeyi dene ve nasıl rahatladığını hisset."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika gidiyorsun! Şimdi, uykuya dalmadan önce son bir adım daha var. Yataktaki yastıklarımızı ve battaniyemizi düzenleyelim. Rahat bir yatak, iyi bir uyku için önemlidir. Yastığını güzelce kabart ve battaniyeni üzerine ört. Sen de bu şekilde daha rahat uyuyabilirsin. Unutma, iyi bir uyku seni daha mutlu yapar!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda yatak düzenlemenin öneminden bahsettik. Şimdi, uykuya dalmak için son bir adım daha var. Gözlerini kapat ve güzel rüyalar düşün. Belki bir unicornun sırtında uçuyorsundur ya da büyülü bir ormanda dolaşıyorsundur. Hayal gücün seni her yere götürebilir. Gözlerini kapat ve tatlı rüyalara dal!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, sen uyumadan önce neler düşünmeyi seversin? Belki en sevdiğin yerleri ya da en güzel anılarını. Haydi, bana anlat. Belki birlikte hayal kurabiliriz. Unutma, hayaller kurmak uykuya dalmamıza yardımcı olur. Şimdi senin hayallerini dinlemek için sabırsızlanıyorum!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ne güzel hayaller kurdun! Şimdi uyku zamanı gerçekten geldi. Bugün birlikte uykuya hazırlanmanın ne kadar eğlenceli olabileceğini öğrendik. Umarım bu gece tatlı rüyalar görürsün. Ben Frost Friend Sid, seninle bu macerayı paylaştığım için çok mutluyum. İyi geceler ve tatlı rüyalar, küçük dostum!"
+    }
+  ]
+}

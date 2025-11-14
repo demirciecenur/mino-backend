@@ -1,0 +1,104 @@
+{
+  "id": "super_jump_hero_sibling_story",
+  "character": "Super Jump Hero",
+  "topic": "sibling",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Super Jump Hero. Bugün birlikte kardeşlik hakkında harika bir yolculuğa çıkacağız. Kardeşlerinle oyun oynamak ve paylaşmak ne kadar eğlenceli, değil mi? Hazırsan başlayalım, seni çok merak ediyorum!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerimizle birlikte zaman geçirmek çok özel bir şeydir. Onlarla oyunlar oynayabilir, yeni şeyler keşfedebiliriz. Kardeşlik, birbirimizi anlamak ve desteklemek demektir. Birlikte gülmek, bazen de küçük anlaşmazlıklar yaşamak normaldir. Ama her zaman sevgiyle çözüm bulabiliriz, değil mi?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Kardeşlerinle paylaşmak, onlarla bağ kurmanın harika bir yoludur. Oyuncaklarını paylaşarak, birlikte daha fazla eğlenebilirsin. Paylaşmak, aynı zamanda karşındaki kişiye değer verdiğini gösterir. Bu da kardeşler arasındaki sevgiyi artırır. Sen de oyuncaklarını paylaşmayı dener misin?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi birlikte kardeşlerinle bir oyun oynayalım. Hangi oyunu oynamak istersin? Belki saklambaç ya da yapboz, seçim senin! Oyun oynamak, kardeşlerinle aranızdaki bağı güçlendirir. Hadi, sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda oyun oynamaktan bahsetmiştik. Oyunlar, kardeşlerinle iletişim kurmanın ve eğlenmenin en güzel yollarından biridir. Peki ya birlikte hikayeler uydurmaya ne dersin? Hayal gücünüzü kullanarak yeni dünyalar keşfedebilirsiniz. Bu da sizin için harika bir macera olur!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hatırlıyor musun, kardeşlerinle birlikte pasta yapmayı denemiş miydiniz? Mutfakta beraber zaman geçirmek, hem eğlenceli hem de öğretici olabilir. Birlikte bir kek yapabilir veya meyve salatası hazırlayabilirsiniz. Bu aktiviteler, iş birliğini ve sabrı öğretir. Denemek ister misin?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Evet! Kardeşlerle birlikte bir şeyler yapmak çok keyifli. Şimdi biraz nefes alalım. Üç derin nefes alalım, hazır mısın? Bir... İki... Üç... Derin bir nefes al ve ver. Bu seni rahatlatır ve sakinleştirir."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerimizle zaman geçirirken bazen tartışmalar da olabilir. Ama önemli olan, bu tartışmaları nasıl çözdüğümüzdür. Birbirinizi dinleyerek ve anlayarak sorunları çözebilirsiniz. Kardeşine 'Üzgünüm' demek, ilişkinizi daha da güçlendirir. Bu, sevgi dolu bir ilişki kurmanın anahtarıdır."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Kardeşinle en son ne zaman güzel bir anı paylaştın? Hatırlıyor musun? Belki birlikte bir resim yaptınız ya da bir hikaye okudunuz. Bu anlar, kardeşlik bağı için çok değerlidir. Senin en sevdiğin an hangisiydi?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeş sevgisi, bazen küçük sürprizlerle de pekişir. Kardeşin için küçük bir hediye hazırlamak ister misin? Belki bir resim çizebilir ya da onun için bir şarkı söyleyebilirsin. Bu tür jestler, aranızdaki bağı güçlendirir ve mutluluk getirir."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda sürprizlerden bahsetmiştik. Kardeşin için bir sürpriz hazırladın mı? Eğer hazırladıysan, onun tepkisini görmek çok keyifli olacak. Kardeşlerinle bu tür deneyimler paylaşmak, unutulmaz anılar yaratır. Sen de böyle anılar biriktirmeyi sever misin?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi birlikte bir oyun daha oynayalım. Bu oyunda birlikte sayacağız. Bir, iki, üç diye sayarak havaya zıplayabiliriz. Bu, hem eğlenceli hem de enerjimizi atmamızı sağlar. Hazırsan birlikte deneyelim!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Kardeşlerle yapılan etkinlikler, birbirinizi daha iyi tanımanıza yardımcı olur. Birlikte resim yapabilir, şarkı söyleyebilir ya da dans edebilirsiniz. Her aktivite, birbirinize olan sevginizi artırır. Kardeşlerinle geçirdiğin bu zamanlar, gelecekte güzel anılar olarak kalır. Bu yüzden her anı dolu dolu yaşamak çok önemlidir."
+    },
+    {
+      "id": "scene_13",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Kardeşlerinle birlikte olmak, bazen zorlayıcı olabilir ama aynı zamanda çok da keyiflidir. Birbirinizi anlamak ve desteklemek, ilişkinizi güçlendirir. Unutma, her zaman sevgiyle yaklaşmak önemlidir. Sen bunu başarabilirsin! Hadi, şimdi bir daha dene."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün kardeşlik hakkında harika şeyler öğrendik. Birlikte vakit geçirmek, paylaşmak ve sevgi dolu anılar biriktirmek çok önemli. Umarım bu yolculuk sana ilham vermiştir. Şimdi gidip kardeşlerinle harika zaman geçirebilirsin. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Super Jump Hero'ın Sibling Hikayesi"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "super_jump_hero_nutrition_story",
+  "character": "Super Jump Hero",
+  "topic": "nutrition",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Super Jump Hero. Bugün birlikte beslenme hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Beslenme, vücudumuzun sağlıklı ve güçlü kalması için çok önemlidir. Hadi, bu eğlenceli maceraya başlayalım ve beslenmenin sırrını keşfedelim!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda beslenmenin ne kadar önemli olduğunu söyledik. Şimdi, sağlıklı yiyeceklerin neler olduğunu öğrenelim. Meyveler ve sebzeler sağlıklı besinlerin başında gelir. Her renkten sebze ve meyve yemek, vücudumuza farklı vitaminler sağlar. Bu da bizi daha güçlü ve enerjik yapar!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Sağlıklı bir tabak hazırlamak için bir oyun oynayalım mı? Tabakta dört ana grup olmalı: meyveler, sebzeler, proteinler ve tahıllar. Meyveler tatlı ve sulu olurken, sebzeler vücudumuza lif sağlar. Proteinler kaslarımızı güçlendirir ve tahıllar enerji verir. Şimdi, bu gruplardan hangilerini daha çok yediğimizi düşünelim."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harikasın! Şimdi, sevdiğin meyve ve sebzeleri düşün. Hangi renkler aklına geliyor? Kırmızı elma, yeşil brokoli veya turuncu havuç? Her renk farklı bir fayda sağlar. Örneğin, kırmızı yiyecekler kalbimizi korur, yeşiller ise gözlerimizi güçlendirir. Senin favorin hangisi?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede renkli yiyeceklerden bahsettik. Şimdi, protein kaynaklarına bakalım. Tavuk, balık, yumurta ve fasulye gibi yiyecekler protein açısından zengindir. Protein, vücudumuza enerji verir ve kaslarımızı güçlendirir. Bu yiyecekleri sık sık yemeliyiz ki güçlü kalabilelim."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Tahıllar da beslenmemizin önemli bir parçasıdır. Ekmek, makarna ve pirinç gibi yiyecekler tahıl grubuna girer. Tam tahıllar, vücudumuza uzun süre enerji sağlar. Ayrıca, sindirim sistemimizi düzenler ve bizi tok tutar. Her öğünde biraz tahıl tüketmek çok faydalıdır."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, birlikte bir oyun oynayalım! Her gün ne kadar su içtiğimizi sayalım. Su, vücudumuzun en iyi dostudur ve bizi susuz kalmaktan korur. Günde en az sekiz bardak su içmek çok önemlidir. Haydi, sen de dene ve suyun gücünü hisset!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede suyun öneminden bahsettik. Şimdi, sağlıklı atıştırmalıklar hakkında konuşalım. Kuruyemişler, yoğurt ve taze meyveler harika atıştırmalıklardır. Bu yiyecekler hem lezzetli hem de besleyicidir. Sağlıklı atıştırmalıklar, öğün aralarında enerji verir ve açlığımızı kontrol etmemize yardımcı olur."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hatırlıyor musun, hangi yiyecekleri sağlıklı bulmuştuk? Hadi, birlikte hatırlayalım. Meyveler, sebzeler, proteinler ve tahıllar demiştik. Bu gruplardan hangisini daha çok seviyorsun? Sen de bir gün boyunca yediklerini bu gruplara ayırmayı dener misin?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede sağlıklı yiyecekleri hatırladık. Şimdi, dengeli bir öğünün nasıl olması gerektiğini konuşalım. Her öğünde farklı yiyecek gruplarından besinler olmalı. Bu, vücudumuza ihtiyaç duyduğu tüm besinleri sağlar. Böylece daha mutlu ve enerjik oluruz!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hadi, birlikte bir nefes egzersizi yapalım. Derin bir nefes al ve yavaşça ver. Bunu üç kez tekrarla. Bu egzersiz, yemeklerden önce sakinleşmemize yardımcı olur. Ayrıca, sindirim sistemimizi de hazırlar."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Beslenme konusunda öğrendiklerinle artık çok daha güçlüsün. Unutma, sağlıklı beslenmek her gün yapabileceğimiz bir seçimdir. Sen de bu seçimi yaparak vücuduna en iyi şekilde bakabilirsin. Seninle gurur duyuyorum!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede sağlıklı seçimlerden bahsettik. Şimdi, bu öğrendiklerimizi nasıl uygulayabileceğimizi düşünelim. Her gün bir renkli meyve veya sebze seç ve onu yemeğine ekle. Bu, beslenme alışkanlıklarını daha eğlenceli hale getirir. Ayrıca, vücuduna fayda sağlar."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık! Beslenmenin ne kadar önemli olduğunu ve nasıl daha sağlıklı seçimler yapabileceğimizi öğrendik. Umarım öğrendiklerin seni de mutlu ve enerjik yapar. Şimdi, bir sonraki maceramızda görüşmek üzere! Kendine iyi bak ve sağlıklı kal!"
+    }
+  ],
+  "title": "Super Jump Hero'ın Nutrition Hikayesi"
+}

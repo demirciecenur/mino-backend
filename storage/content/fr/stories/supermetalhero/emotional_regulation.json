@@ -1,0 +1,104 @@
+{
+  "id": "super metal hero_régulation émotionnelle, gestion des émotions, se calmer, autorégulation_story",
+  "character": "Super Metal Hero",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Super Metal Hero, prêt pour une aventure incroyable. Aujourd'hui, nous allons découvrir comment gérer nos émotions et rester calmes. Êtes-vous prêt à apprendre avec moi ? Je suis tellement curieux de savoir comment vous vous sentez parfois. Ensemble, nous allons explorer des astuces amusantes et utiles. Allons-y !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, nous ressentons de grandes émotions comme la joie, la colère ou la tristesse. C'est tout à fait normal, et cela arrive à tout le monde. Mais savez-vous qu'il existe des moyens de mieux gérer ces émotions ? Imaginons que vous êtes un petit robot comme moi. Quand je ressens beaucoup d'émotions, je fais une pause et je respire profondément. Cela m'aide à me calmer et à réfléchir tranquillement."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons ensemble une technique pour nous calmer. Tout d'abord, asseyez-vous confortablement. Maintenant, prenons une grande inspiration par le nez. Ensuite, soufflons lentement par la bouche. Répétons cela trois fois. Vous voyez, chaque respiration vous aide à sentir plus calme et à mieux comprendre vos émotions. C'est un peu comme recharger mes batteries."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo ! Vous avez fait un excellent travail en respirant profondément. Vous pouvez utiliser cette technique à tout moment, comme lorsque vous êtes contrarié ou excité. Imaginez que vous êtes un super héros qui contrôle ses pouvoirs. Vous pouvez le faire ! Chaque fois que vous respirez profondément, vous devenez plus fort et plus calme. Continuons à apprendre d'autres astuces."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Une autre façon de gérer nos émotions est de parler de ce que nous ressentons. Quand je suis triste, je parle à mon ami Robotino. Il m'écoute et cela me fait du bien. Avez-vous quelqu'un à qui vous pouvez parler quand vous vous sentez bouleversé ? Parler de nos émotions est comme ouvrir un coffre au trésor. Cela nous aide à comprendre ce qui se passe à l'intérieur de nous."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons de décrire une émotion ensemble. Pensez à un moment où vous étiez très heureux. Peut-être que vous avez reçu un nouveau jouet ou que vous avez mangé votre dessert préféré. Comment vous sentiez-vous ? En utilisant des mots pour décrire vos émotions, vous pouvez mieux les comprendre. Cela vous aide à vous sentir plus serein et à contrôler vos réactions."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastique, vous avez partagé une émotion ! Chaque fois que vous parlez de ce que vous ressentez, vous devenez un peu plus comme un héros. Vous pouvez aider vos amis à faire de même. Imaginez que vous êtes un guide, montrant aux autres comment exprimer leurs sentiments. Ensemble, nous pouvons tous devenir plus forts et plus heureux. Continuons notre aventure !"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Souvent, bouger notre corps peut nous aider à gérer nos émotions. Quand j'ai beaucoup d'énergie, je fais des exercices comme sauter ou danser. Cela m'aide à me sentir mieux et à libérer l'énergie supplémentaire. Avez-vous une activité préférée qui vous fait vous sentir bien ? Bouger est un moyen puissant de transformer nos émotions en quelque chose de positif."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons un petit exercice ensemble. Levez-vous et faisons cinq sauts sur place. Un, deux, trois, quatre, cinq ! Super ! Bouger ainsi peut aider à calmer nos esprits agités. C'est comme si nous utilisions notre énergie pour recharger notre calme intérieur. Vous pouvez le faire à tout moment, même pendant une pause à l'école ou à la maison."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez sauté avec brio ! Chaque saut vous rend plus fort et plus en contrôle de vos émotions. Vous pouvez apprendre à utiliser cette technique chaque fois que vous vous sentez stressé ou excité. Vous êtes comme un super héros, prêt à affronter n'importe quelle émotion. Continuons à explorer d'autres moyens de devenir plus calmes."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, il est utile de prendre une pause et de s'éloigner de ce qui nous dérange. Quand je suis submergé, je m'assois dans un endroit calme, comme un jardin. Je regarde les fleurs et écoute les oiseaux chanter. Cela m'aide à me sentir paisible et à reprendre mes esprits. Avez-vous un endroit spécial où vous aimez aller pour vous détendre ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quels sont les endroits où vous vous sentez le plus calme et heureux ? Est-ce que c'est dans votre chambre avec vos jouets, ou peut-être dans le parc avec votre famille ? En pensant à ces endroits spéciaux, vous pouvez vous sentir plus détendu. Avez-vous envie de partager cet endroit magique avec moi ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Merci d'avoir partagé votre endroit spécial. C'est important d'avoir des endroits où nous pouvons nous ressourcer. Chaque fois que vous vous sentez stressé, imaginez-vous dans cet endroit paisible. C'est comme un petit voyage dans votre esprit pour retrouver la tranquillité. Vous pouvez le faire à tout moment, simplement en fermant les yeux et en respirant profondément."
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, faisons un dernier exercice ensemble. Fermez les yeux et imaginez votre endroit spécial. Respirez doucement et sentez la paix vous envahir. Comptez lentement jusqu'à cinq dans votre tête. Un, deux, trois, quatre, cinq. Ouvrez les yeux. Vous vous sentez plus calme, n'est-ce pas ? Vous avez appris une précieuse technique pour rester serein."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était formidable d'apprendre et de grandir avec vous aujourd'hui. Vous avez découvert comment gérer vos émotions et rester calme comme un vrai super héros. N'oubliez pas que vous pouvez utiliser ces techniques chaque jour. Merci d'avoir été un partenaire incroyable. À bientôt pour une nouvelle aventure avec Super Metal Hero !"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Super Metal Hero"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "clever_mouse_jerry_behavior_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "behavior",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Clever Mouse Jerry. Bugün birlikte davranışlar hakkında harika bir yolculuğa çıkacağız. Davranışlar, günlük hayatımızda nasıl davrandığımızı ve başkalarıyla nasıl iletişim kurduğumuzu belirler. İyi davranışlar, arkadaşlarımızla ve ailemizle daha iyi anlaşmamızı sağlar. Seninle bu konuyu keşfetmek için çok heyecanlıyım! Hazırsan, başlayalım mı?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda davranışların öneminden bahsetmiştik. İyi davranışlar, arkadaş edinmemize ve çevremizdeki insanlarla daha iyi ilişkiler kurmamıza yardımcı olur. Örneğin, oyuncaklarımızı paylaşmak, arkadaşlarımızı mutlu eder ve oyunları daha eğlenceli hale getirir. Ayrıca, kurallara uymak, herkesin güvende ve mutlu olmasına yardımcı olur. Şimdi, iyi bir davranışın nasıl göründüğünü daha detaylı inceleyelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "İyi bir davranış sergilemek için birkaç basit kuralı hatırlayabiliriz. Örneğin, lütfen ve teşekkür ederim demek, karşımızdaki kişiye saygı gösterdiğimizi belirtir. Ayrıca, başkalarını dinlemek ve onların fikirlerine değer vermek de önemlidir. Eğer bir arkadaşımız konuşuyorsa, onu dikkatle dinlememiz gerekir. Böylece, o da bizimle konuşurken aynı saygıyı gösterecektir. Şimdi birlikte bu kuralları uygulamayı deneyelim."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Haydi, birlikte birkaç davranış kuralını uygulayalım! Öncelikle, bir arkadaşımıza lütfen demeyi deneyelim. Örneğin, \"Lütfen topu bana atar mısın?\" diyebiliriz. Şimdi, teşekkür etmeyi deneyelim. Bir arkadaşımız bize yardım ettiğinde, \"Teşekkür ederim\" demek harika bir davranıştır. Bu küçük kelimeler, ilişkilerimizi güçlendirir ve herkesin mutlu olmasına yardımcı olur. Harikasın, devam edelim!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi, iyi davranışların nasıl hissettirdiğini konuşalım. İyi davrandığımızda, kendimizi daha mutlu ve huzurlu hissederiz. Ayrıca, başkaları da bizimle daha iyi vakit geçirir. Örneğin, oyuncaklarımızı toplamak, annemizi ve babamızı mutlu eder. Onlar mutlu olduğunda, biz de mutlu oluruz. İyi davranışlar, herkesin gününü güzelleştirir!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Davranışlarımızı kontrol etmek bazen zor olabilir, değil mi? Ama endişelenme, çünkü bazı yöntemlerle bunu başarabiliriz. Örneğin, derin bir nefes almak ve beşe kadar saymak, sakinleşmemize yardımcı olabilir. Bir dahaki sefere sinirlendiğinde, bunu deneyebilirsin. Bu, duygularını kontrol etmene ve daha iyi kararlar alabilmene yardımcı olacaktır. Şimdi, birlikte derin bir nefes alalım ve beşe kadar sayalım."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, derin bir nefes alalım ve yavaşça verelim. Bir, iki, üç, dört, beş... Harika! Bu basit egzersiz, kendimizi daha iyi hissetmemize yardımcı olur. Bunu her zaman, her yerde yapabiliriz. İyi davranışlar sergilemek için kendimize zaman tanımamız önemlidir. Sen bunu yapabilirsin, inan bana!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Birlikte öğrendiğimiz bu davranış kuralları, günlük hayatımızda bize çok yardımcı olacak. Unutma, her zaman nazik ve saygılı olmak, başkalarıyla iyi ilişkiler kurmamızı sağlar. Ayrıca, bu kuralları uyguladıkça, kendimizi daha mutlu ve güvende hissederiz. Şimdi, öğrendiklerimizi nasıl uygulayabileceğimiz hakkında konuşalım. Hazır mısın?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Bugün öğrendiğin davranış kurallarından hangisini en çok beğendin? Oyuncaklarını paylaşmak mı, yoksa lütfen ve teşekkür ederim demek mi? Belki de derin nefes alıp sakinleşmek en sevdiğin olabilir. Senin fikrini çok merak ediyorum. Hadi, bana söyle!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki soruda düşündüğün davranışı uygulamak için sabırsızlandığını biliyorum. Her gün bu kuralları uygulayarak daha iyi bir arkadaş ve aile bireyi olabilirsin. Örneğin, sabah kalktığında gülümsemek bile harika bir başlangıçtır. Herkesin gününü aydınlatabilir. Şimdi, bir sonraki adımda ne yapabileceğimize bakalım."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bir sonraki adımda, öğrendiklerimizi günlük hayatımıza nasıl entegre edebileceğimizi konuşacağız. Sabahları dişlerimizi fırçalarken, lütfen ve teşekkür ederim demeyi hatırlayabiliriz. Okulda, arkadaşlarımızla oyun oynarken, oyuncaklarımızı paylaşabiliriz. Evde, ailemize yardım edebiliriz. Bu küçük adımlar, büyük farklar yaratır. Şimdi, birlikte daha fazla keşfetmeye devam edelim."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bu yolculuğa çıktığın için çok cesursun! Her gün yeni şeyler öğrenmek ve bunları uygulamak harika bir başarıdır. Unutma, herkes bazen hata yapabilir, bu çok normaldir. Önemli olan, hatalarımızdan ders alıp daha iyi olmaya çalışmaktır. Seninle gurur duyuyorum ve bu yolculukta yanında olmaktan mutluluk duyuyorum!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Davranışlarımızı geliştirmek için öğrendiğimiz bu bilgiler, hayatımız boyunca bize rehberlik edecek. İyi davranışlar, sadece arkadaşlarımızla değil, tüm çevremizle daha iyi ilişkiler kurmamıza yardımcı olur. Unutma, nazik olmak, paylaşmak ve saygılı davranmak her zaman önemlidir. Bu kuralları uyguladıkça, daha mutlu ve huzurlu hissedeceksin. Şimdi, son bir derin nefes alalım ve bu harika yolculuğu tamamlayalım."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte harika bir yolculuk yaptık, değil mi? Davranışlar hakkında çok şey öğrendik ve bunları nasıl uygulayabileceğimizi konuştuk. Seninle bu yolculuğa çıkmak benim için büyük bir zevkti. Unutma, her zaman nazik ve saygılı olmayı hatırla. Bir sonraki maceramızda görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Clever Mouse Jerry'ın Behavior Hikayesi"
+}

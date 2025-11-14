@@ -1,0 +1,98 @@
+{
+  "id": "blu_pup_bedtime_story",
+  "title": "Blu Pup'nin Uyku Zamanı Hikayesi",
+  "character": "Blu Pup",
+  "topic": "bedtime",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Blu Pup. Bugün birlikte bedtime hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum çünkü uyku zamanı çok eğlenceli ve rahatlatıcı olabilir. Hadi bakalım, neler yapabileceğimizi keşfedelim. Öncelikle, her gece yatağa gitmeden önce yapmamız gereken bazı şeyler var. Bunlar bizi güzel bir uykuya hazırlar."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku zamanı geldiğinde ilk yapmamız gereken şey, pijamalarımızı giymek. Pijamalarımız rahat ve yumuşak olmalı ki uyurken rahat edelim. Pijamalarını giyerken hangi desenleri seviyorsun? Ben yıldızları ve ayı çok seviyorum çünkü onları gökyüzünde görmek beni mutlu ediyor. Senin de favori bir desenin var mı? Hadi şimdi pijamalarımızı giyelim ve uykuya hazırlanmanın bir sonraki aşamasına geçelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi dişlerimizi fırçalama zamanı! Dişlerimizi fırçalamak çok önemli çünkü böylece dişlerimiz sağlıklı ve temiz kalır. Diş fırçanı al ve biraz diş macunu sık. Sonra dişlerini yukarı ve aşağı, sağa ve sola fırçala. Bu, diş macununun köpürmesini ve dişlerinin her köşesini temizlemesini sağlar. Dişlerini fırçalarken çok dikkatli olmalıyız ki her yer tertemiz olsun. Şimdi birlikte dişlerimizi fırçalayalım, ne dersin?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Dişlerini fırçalamak çok önemli ve sen bunu çok iyi yaptın. Şimdi biraz su içmek ister misin? Su içmek, vücudumuzun sağlıklı kalmasına yardımcı olur. Ayrıca, uyumadan önce biraz su içmek, gece boyunca susamamanı sağlar. Su içtikten sonra, yatak odana doğru ilerleyelim. Orada seni başka sürprizler bekliyor olacak!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Şimdi yatağımızı hazırlama zamanı! Yatağımızın çarşaflarını düzeltebiliriz, böylece yatarken daha rahat oluruz. Yastığını kabartarak daha yumuşak hale getirebilirsin. Yorganını da üstüne güzelce yay ve kendini içine sar. Yumuşacık yorganın altına girmek seni sıcacık hissettirecek. Yatağını hazırladığında, uykuya dalmak çok daha kolay olacak. Hadi birlikte yatağımızı hazırlayalım!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Yatağını hazırladıktan sonra biraz rahatlamaya ne dersin? Derin bir nefes alıp, yavaşça verelim. Bunu üç kere tekrar edelim. Derin nefes almak, vücudumuzu ve zihnimizi sakinleştirir. Şimdi, nefesini yavaşça verirken, gözlerini kapat ve rahatla. Bu, uykuya geçişi kolaylaştırır ve seni daha huzurlu hissettirir. Hazır olduğunda, derin nefes almayı deneyelim!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Nefes alıp vermek seni ne kadar sakinleştirdi değil mi? Şimdi biraz hayal gücümüzü kullanarak bir hikaye düşleyelim. Mesela, bir bulutun üstünde uçtuğunu hayal edebilirsin. Bulutlar yumuşacık ve beyaz, tıpkı pamuk gibi. Uçarken, gökyüzündeki yıldızlara selam verebilirsin. Hayal gücün seni nereye götürüyorsa, oraya git! Bu, uykuya dalmadan önce çok eğlenceli bir yol."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uykuya dalmadan önce biraz kitap okumak ister misin? Kitaplar, bizi başka dünyalara götürebilir ve yeni şeyler öğrenmemizi sağlar. Seçtiğin kitabı al ve sayfalarını çevir. Hikayenin içine dalarken, karakterlerle birlikte maceralar yaşayabilirsin. Okuduğun hikaye seni mutlu edebilir ya da yeni şeyler düşündürebilir. Kitap okurken, hayal gücünle neler keşfedeceğini merak ediyorum."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Ne kadar harika bir hikayeydi değil mi? Şimdi biraz daha rahatlamak için gözlerini kapatabilir ve dinlenebilirsin. Yavaşça nefes al ve ver. Uykuya dalarken, vücudunun nasıl gevşediğini hisset. Uyuduğunda, yeni bir güne enerji dolu bir şekilde başlayacaksın. Sen harika bir iş çıkardın ve şimdi güzel rüyalar seni bekliyor!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Sence uyku zamanı en sevdiğin kısım hangisi? Pijamalarını giymek mi, dişlerini fırçalamak mı yoksa kitap okumak mı? Her birinin kendine göre güzellikleri var. Belki de hepsini çok seviyorsundur. Senin en sevdiğin kısmı duymayı çok isterim. Şimdi, uyumadan önceki favori anını düşün!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Uyku zamanı rutinlerimizi tamamladık. Şimdi vücudumuz ve zihnimiz dinlenmeye hazır. Uyku, vücudumuzun büyümesine ve sağlıklı kalmasına yardımcı olur. Rüyalarımızda neler göreceğimizi asla bilemeyiz ama her zaman güzel şeyler hayal edebiliriz. Sabah uyandığında, yeni bir güne başlamak için enerji dolu olacaksın. Hadi şimdi güzel bir uykuya dalalım!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Unutma, uyku zamanı gelmeden önce odanı karanlık ve sessiz hale getirmek önemlidir. Işıkları kapatabilir ve sadece gece lambasını açık bırakabilirsin. Bu, uykuya dalmanı kolaylaştırır. Ayrıca, odanda çok fazla ses olmamasına dikkat etmelisin. Sessiz bir ortamda uyumak, daha derin bir uyku sağlar. Şimdi odanı uykuya hazırlayalım!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen harika bir iş çıkardın! Uyku zamanı rutinlerini çok güzel bir şekilde tamamladın. Şimdi yatağına yatabilir ve gözlerini kapatabilirsin. Yarın yeni bir macera seni bekliyor olacak. Seninle birlikte bu yolculuğu yapmak çok keyifliydi. İyi geceler ve tatlı rüyalar dilerim!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Şimdi uykuya dalma zamanı geldi. Yarın görüşmek üzere, küçük dostum! Seninle birlikte uyku zamanı hakkında konuşmak çok güzeldi. Rüyalarında neler göreceğini merak ediyorum. Sabah uyandığında, yeni bir güne hazır olacaksın. İyi geceler ve tatlı rüyalar! Hoşça kal!"
+    }
+  ]
+}

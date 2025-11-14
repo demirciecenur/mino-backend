@@ -1,0 +1,104 @@
+{
+  "id": "mino_Emotionsregulation_Gefühle_managen_sich_beruhigen_Selbstregulation_story",
+  "character": "Mino",
+  "topic": "Emotionsregulation, Gefühle managen, sich beruhigen, Selbstregulation",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Mino, dein fröhlicher Weltraumreisender. Heute gehen wir auf eine aufregende Reise, um zu lernen, wie man seine Gefühle managen kann. Bist du bereit? Ich bin so neugierig auf dich! Gemeinsam werden wir entdecken, wie man sich beruhigen kann, wenn man sich aufgeregt fühlt."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir uns kennengelernt haben, lass uns über Gefühle sprechen. Manchmal fühlen wir uns glücklich, manchmal traurig, und manchmal sehr aufgeregt. Das ist völlig normal und passiert jedem. Aber weißt du was? Wir können lernen, mit all diesen Gefühlen umzugehen. Das ist wie eine Superkraft, die wir alle haben können!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn wir uns aufgeregt oder wütend fühlen, können wir ein paar tiefe Atemzüge nehmen. Lass uns zusammen atmen. Einatmen durch die Nase... und ausatmen durch den Mund. Das fühlt sich gut an, nicht wahr? Atmen hilft uns, ruhig zu werden und klar zu denken. Es ist eine einfache Übung, die wir überall machen können."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Du kannst das jederzeit machen, wenn du dich unruhig fühlst. Und weißt du was? Du bist nicht allein. Viele Kinder fühlen sich manchmal genauso. Du kannst auch mit jemandem darüber sprechen, wie du dich fühlst. Das hilft wirklich!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an das letzte Mal, als du wütend warst? Vielleicht war es, als du dein Lieblingsspielzeug nicht finden konntest. Das passiert jedem! Aber jetzt weißt du, dass du tief atmen kannst, um dich zu beruhigen. Und wenn du möchtest, kannst du auch eine Pause machen und etwas anderes tun, das dir Spaß macht."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns eine kleine Übung machen. Stell dir vor, du bist ein Baum im Wind. Schließe deine Augen und stehe ganz still. Spüre, wie der Wind sanft um dich herum weht. Du bist stark und ruhig wie ein Baum. Diese Übung hilft dir, dich zu konzentrieren und ruhig zu bleiben, egal was passiert."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wunderbar! Du bist wirklich ein Naturtalent im Gefühle-Managen. Denk daran, dass du immer deine Superkraft der Ruhe einsetzen kannst. Egal ob in der Schule, beim Spielen oder zu Hause. Du kannst es schaffen!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo du deine Superkräfte geübt hast, lass uns darüber sprechen, wie es dir hilft. Wenn du dich sicherer fühlst, kannst du besser mit anderen spielen und Spaß haben. Und wenn du ruhig bist, kannst du auch anderen helfen, sich zu beruhigen. Du bist ein echter Held!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal jemandem geholfen, sich zu beruhigen? Vielleicht einem Freund oder einem Geschwisterchen? Wie hast du das gemacht? Es ist schön, wenn wir anderen helfen können, sich besser zu fühlen. Hast du Lust, das nächste Mal zu erzählen, wie es gelaufen ist?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns darüber nachdenken, wie wir unsere Superkräfte im Alltag nutzen können. Zum Beispiel beim Spielen mit Freunden oder beim Erledigen von Aufgaben. Wenn du ruhig bleibst, kannst du besser nachdenken und Entscheidungen treffen. Und das ist wirklich wichtig!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt machen wir noch eine Übung. Stell dir vor, du bist ein Astronaut im Weltraum. Alles ist ruhig und friedlich um dich herum. Du schwebst sanft und fühlst dich frei. Diese Vorstellung kann dir helfen, dich zu beruhigen, wenn du dich gestresst fühlst. Probier es mal aus!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich gut darin, neue Dinge zu lernen! Es ist wichtig, dass du stolz auf dich bist. Du kannst deine Superkräfte jeden Tag üben. Und vergiss nicht, dass du immer mit jemandem sprechen kannst, wenn du Hilfe brauchst. Du bist nicht allein!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Denke daran, dass Gefühle wie eine bunte Farbpalette sind. Manchmal fühlen wir uns rot vor Wut oder blau vor Traurigkeit. Und das ist in Ordnung. Aber wir können lernen, die Farben zu mischen und neue, schöne Bilder zu malen. So wird jeder Tag ein kleines Abenteuer!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Welche Farbe hat dein Tag heute? Ist er bunt und fröhlich oder eher ruhig und entspannt? Es ist spannend zu wissen, dass wir jeden Tag neu gestalten können. Was denkst du, wie wird dein Tag morgen aussehen? Ich bin so neugierig darauf!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist unsere Reise zu Ende, kleiner Freund. Ich hoffe, du hattest Spaß und hast viel gelernt. Denk daran, dass du immer deine Superkräfte der Ruhe nutzen kannst. Ich freue mich schon auf unser nächstes Abenteuer. Bis bald und pass gut auf dich auf!"
+    }
+  ],
+  "title": "Minos Emotional Regulation Geschichte"
+}

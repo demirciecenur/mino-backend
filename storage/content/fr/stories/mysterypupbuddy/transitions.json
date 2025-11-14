@@ -1,0 +1,98 @@
+{
+  "id": "mystery_pup_buddy_transitions_story",
+  "character": "Mystery Pup Buddy",
+  "topic": "transitions",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis ! Je suis Mystery Pup Buddy, le chien curieux qui aime résoudre des mystères. Aujourd'hui, nous allons parler des transitions, ces moments où les choses changent un peu. Parfois, c'est comme passer d'une activité à une autre, comme ranger ses jouets pour aller dîner. C'est excitant, n'est-ce pas ? Je suis là pour vous aider à comprendre ces changements. Êtes-vous prêts ?"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions sont comme des petites aventures où chaque étape est importante. Par exemple, quand on passe de jouer à se préparer pour le coucher, c'est une transition. Cela peut sembler un peu étrange au début, mais c'est normal. Chaque transition nous aide à grandir et à apprendre de nouvelles choses. Avez-vous remarqué des transitions dans votre journée ? Elles sont partout autour de nous !"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment se préparer pour un changement. Prenons un exemple : le matin, quand il est temps de s'habiller après le petit-déjeuner. C'est une transition importante pour commencer la journée. Pour rendre cela amusant, nous pouvons choisir nos vêtements ensemble. Vous pourriez même chanter une petite chanson pendant que vous vous habillez. Cela rend la transition plus joyeuse, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous savez, chaque fois que vous réussissez une transition, c'est comme résoudre un petit mystère. C'est génial de voir comment vous vous adaptez ! Parfois, il suffit de respirer profondément pour se sentir prêt. Ensemble, prenons trois grandes respirations. Inspirons... et expirons. Vous voyez, c'est facile ! Vous pouvez le faire, vous êtes déjà un pro des transitions !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de la transition du jeu à l'heure du bain. Cela peut être un peu difficile parce qu'on s'amuse tellement en jouant. Mais l'heure du bain est aussi un moment amusant, avec plein de bulles et de mousse. Vous pourriez imaginer que vous êtes un poisson dans la mer. Cela rend la transition plus douce et agréable. Qu'en pensez-vous ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons des transitions à l'école ou à la crèche. Quand on change d'activité, par exemple, passer du temps de lecture au temps de jeu. C'est important de bien écouter les consignes de la maîtresse. Vous pouvez lever la main si vous avez une question. Cela aide à comprendre ce qui se passe ensuite. Êtes-vous prêts pour la prochaine aventure ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Vous êtes des champions des transitions ! Chaque jour est une nouvelle chance d'apprendre et de s'amuser avec les changements. Rappelez-vous, c'est normal d'être un peu nerveux parfois. Mais vous êtes courageux, et je suis fier de vous. Continuez comme ça, vous faites du bon travail !"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Oh, rappelez-vous de ce que nous avons appris sur les transitions du matin ? Comme s'habiller après le petit-déjeuner. C'est une partie importante de notre routine. Qui se souvient d'une chanson amusante à chanter pendant qu'on s'habille ? Je suis sûr que vous avez de super idées !"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, avez-vous une transition préférée dans votre journée ? Peut-être que c'est l'heure du goûter ou le moment de raconter des histoires avant de dormir. Pourquoi aimez-vous ce moment ? Partagez avec moi, j'aimerais beaucoup savoir !"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les transitions peuvent aussi être amusantes quand on change de saison, comme passer de l'été à l'automne. Les feuilles changent de couleur et c'est très joli. On peut faire des activités différentes, comme ramasser des feuilles ou sauter dans les flaques d'eau. Chaque saison a ses propres surprises. C'est comme un nouveau chapitre dans notre livre d'aventures !"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand on parle de transitions, il est important de se rappeler que tout le monde change à son propre rythme. Parfois, il faut un peu de temps pour s'habituer. Et c'est tout à fait normal. Si vous avez besoin d'aide, vous pouvez toujours demander à un adulte. Ils sont là pour vous soutenir et vous guider. N'oubliez pas que chaque transition est une étape vers quelque chose de nouveau et d'excitant !"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes incroyables ! Chaque jour, vous vous adaptez à tant de nouvelles choses. C'est vraiment impressionnant. Continuez à être curieux et à explorer le monde autour de vous. Vous êtes comme des petits détectives des transitions. Bravo à vous !"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous de notre aventure avec les transitions à l'école ? C'est important d'écouter et de poser des questions si quelque chose n'est pas clair. Avez-vous une question sur les transitions à l'école ? N'hésitez pas à la poser. Je suis ici pour vous aider !"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était tellement amusant de parler des transitions avec vous aujourd'hui ! J'espère que vous avez appris plein de nouvelles choses. N'oubliez pas, les transitions sont des moments spéciaux qui nous aident à grandir. Merci d'avoir partagé ce moment avec moi. À bientôt pour de nouvelles aventures avec Mystery Pup Buddy ! Au revoir, mes amis !"
+    }
+  ],
+  "title": "Histoire de Transitions de Mystery Pup Buddy"
+}

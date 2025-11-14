@@ -1,0 +1,104 @@
+{
+  "id": "frost friend sid_régulation émotionnelle, gestion des émotions, se calmer, autorégulation_story",
+  "character": "Frost Friend Sid",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Salut les petits amis ! Je suis Sid, votre ami des glaces. Aujourd'hui, nous allons partir pour une aventure incroyable sur la régulation émotionnelle. Ça veut dire apprendre à se calmer et à gérer nos émotions. Êtes-vous prêts à explorer ce monde merveilleux avec moi ? Je suis tellement curieux de savoir comment vous ressentez vos émotions. Allons-y ensemble dans cette aventure pleine de découvertes !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Imaginez que vous êtes comme une petite montagne pleine de surprises à l'intérieur. Parfois, il y a des tempêtes, parfois du soleil. Les émotions, c'est un peu pareil. Parfois, on se sent heureux comme un rayon de soleil, et d'autres fois, un peu triste comme un nuage gris. Mais ne vous inquiétez pas, c'est normal ! Aujourd'hui, nous allons apprendre à faire briller le soleil encore plus fort à l'intérieur de nous."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour commencer, parlons de la respiration. Quand on est énervé ou triste, notre cœur bat vite, comme un tambour. Prenons trois grandes respirations ensemble. Inspirez par le nez, gonflez votre ventre comme un ballon, et expirez doucement par la bouche. Vous voyez ? Ça aide à calmer le tambour à l'intérieur de nous. Vous pouvez faire cela chaque fois que vous vous sentez un peu trop excité ou contrarié."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super boulot, les amis ! Vous avez déjà appris une chose précieuse. Maintenant, pensons à quelque chose qui vous rend heureux. Peut-être une promenade dans le parc ou un câlin de votre doudou préféré. Fermez les yeux et imaginez ce moment. Vous voyez comme ça vous fait sourire ? C'est une autre façon de se calmer quand on en a besoin. Vous êtes incroyables !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand on a parlé de la montagne à l'intérieur de nous ? Parfois, même les montagnes ont besoin d'un peu de temps pour se reposer. Quand vous vous sentez fatigué ou que vous avez besoin de calme, trouvez un coin tranquille. Vous pouvez lire un livre, écouter de la musique douce ou simplement rêver. C'est comme donner un câlin à votre cœur pour qu'il se sente mieux."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Voyons maintenant comment partager nos sentiments. Quand on est en colère, c'est bien de le dire. Par exemple, \"Je suis fâché parce que je ne peux pas jouer maintenant.\" En disant cela, les autres peuvent comprendre et vous aider. C'est comme partager un secret qui peut vous alléger le cœur. Essayons de dire nos sentiments à voix haute pour voir combien c'est libérateur."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites un travail fantastique ! Parler de ses émotions, c'est courageux. Vous savez, même les grands comme moi le font. Quand on partage, on se sent moins seul. C'est comme si on avait un ami qui nous comprenait. Continuez à exprimer ce que vous ressentez. Vous êtes tous des champions de la régulation émotionnelle !"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Maintenant, parlons d'une petite astuce amusante. Avez-vous déjà essayé de faire la grimace la plus drôle possible ? Quand vous êtes triste ou en colère, faites une grimace drôle devant le miroir. Vous verrez, ça vous fera sourire ! C'est un petit truc pour transformer les larmes en rires. Essayez-le la prochaine fois, c'est magique !"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, les émotions sont comme des vagues. Elles viennent et repartent. Quand vous êtes dans une grande vague de colère ou de tristesse, souvenez-vous qu'elle finira par s'apaiser. Vous êtes comme un petit bateau courageux qui navigue sur l'océan. Vous pouvez le faire, et je suis là pour vous aider. Ensemble, nous sommes de vrais navigateurs des émotions !"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà ressenti une émotion si grande que vous ne saviez pas quoi faire ? Peut-être que c'était comme un volcan prêt à exploser, ou une rivière débordante. Comment avez-vous fait pour vous calmer ? Peut-être avez-vous respiré profondément, ou parlé à quelqu'un. Partager vos astuces, c'est comme échanger des trésors. Je suis curieux d'entendre vos histoires !"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Nous avons appris beaucoup de choses aujourd'hui. N'oubliez pas, vous avez le pouvoir de calmer vos tempêtes intérieures. Utilisez vos respirations, vos pensées heureuses, et vos mots pour exprimer ce que vous ressentez. C'est comme avoir une boîte à outils magique pour vos émotions. Gardez-la près de vous, et utilisez-la chaque fois que vous en avez besoin."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, mes amis ! Vous avez fait des progrès incroyables aujourd'hui. Chaque petit pas que vous faites est une victoire. Souvenez-vous que vous n'êtes jamais seuls. Je suis toujours là pour vous aider, et vous avez des amis et de la famille qui vous aiment. Vous êtes formidables, et je suis tellement fier de vous !"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "La prochaine fois que vous ressentez une émotion forte, rappelez-vous de nos petits exercices. Peut-être pouvez-vous montrer à quelqu'un d'autre comment se calmer aussi. C'est comme partager un secret de super-héros. Être capable de gérer ses émotions, c'est vraiment un super pouvoir. Vous êtes tous de véritables héros des émotions !"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Avant de nous dire au revoir, pensez à une chose qui vous a rendu heureux aujourd'hui. Peut-être que c'était apprendre quelque chose de nouveau, ou simplement être ici avec moi. Gardez ce souvenir dans votre cœur comme un trésor. Vous pouvez y penser chaque fois que vous avez besoin de vous sentir bien. Je suis tellement content d'avoir partagé cette aventure avec vous !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, mes petits amis. J'ai hâte de vous retrouver pour d'autres aventures pleines de découvertes et de rigolades. N'oubliez pas de prendre soin de vous et de vos émotions. Vous êtes des étoiles brillantes, et je suis fier de vous. À très bientôt pour de nouvelles explorations ensemble. Au revoir et prenez soin de vous !"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Frost Friend Sid"
+}

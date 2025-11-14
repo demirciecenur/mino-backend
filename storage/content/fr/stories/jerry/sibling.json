@@ -1,0 +1,98 @@
+{
+  "id": "clever_mouse_jerry_sibling_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "sibling",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis ! Je suis Jerry la souris rusée. Aujourd'hui, nous allons explorer le monde merveilleux des frères et sœurs. Êtes-vous prêts pour cette aventure amusante ? Avoir un frère ou une sœur, c'est comme avoir un meilleur ami à la maison. Je suis tellement curieux de savoir comment vous jouez ensemble."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les frères et sœurs, c'est très spécial. Ils sont là pour partager des moments de rire et de jeu. Par exemple, imaginez jouer à cache-cache dans votre maison. Vous pouvez aussi construire des forts avec des coussins ensemble. C'est comme avoir un partenaire pour toutes vos aventures. N'est-ce pas merveilleux d'avoir quelqu'un avec qui partager des secrets ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment être un bon frère ou une bonne sœur. Un bon frère ou une bonne sœur partage ses jouets et aide à ranger après avoir joué. Pensez à cela comme ranger vos blocs après avoir construit une tour. Ils disent aussi 's'il te plaît' et 'merci', des mots magiques qui font sourire. Et ils écoutent quand l'autre parle, comme prêter attention à une histoire amusante."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous pouvez le faire ! Essayez de sourire à votre frère ou sœur aujourd'hui. Un sourire peut rendre quelqu'un très heureux. Vous pouvez aussi leur proposer de jouer à leur jeu préféré. Cela montre que vous vous souciez d'eux. Et n'oubliez pas de dire des mots gentils, cela rend la journée plus lumineuse."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de jouer ensemble ? Jouer ensemble peut être encore plus amusant quand vous inventez vos propres jeux. Peut-être que vous pouvez créer une chasse au trésor dans le salon. Ou bien, inventer une danse rigolote avec votre frère ou sœur. C'est une façon géniale de passer du temps ensemble. Et cela peut créer des souvenirs inoubliables !"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Avez-vous déjà fait une course avec votre frère ou sœur ? C'est très amusant de courir ensemble dans le jardin. Qui peut atteindre l'arbre le plus vite ? N'oubliez pas que le plus important, c'est de s'amuser, pas de gagner. Et après la course, vous pouvez prendre une grande gorgée d'eau ensemble pour vous rafraîchir."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, les frères et sœurs se disputent, et c'est normal. Mais il est important de se rappeler de demander pardon. Dire 'je suis désolé' peut faire disparaître les petits chagrins. Vous pouvez aussi faire un câlin pour montrer que tout va bien. Et ensuite, retournez jouer ensemble comme avant. Cela montre à quel point vous tenez l'un à l'autre."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons une petite activité ensemble. Prenons trois grandes respirations pour nous calmer. Inspirez par le nez, puis expirez par la bouche. C'est comme souffler sur une bougie. Cela aide à se sentir mieux quand on est un peu fâché. Vous pouvez le faire avec votre frère ou sœur pour vous sentir bien ensemble."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous un jeu préféré que vous aimez jouer avec votre frère ou sœur ? Peut-être que c'est un jeu de société ou un jeu en plein air. J'aimerais bien savoir ce que vous aimez faire ensemble. Est-ce que vous construisez des châteaux de sable à la plage ? Ou bien, faites-vous des dessins amusants ? Dites-moi tout !"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les moments passés avec un frère ou une sœur sont précieux. Même si parfois vous n'êtes pas d'accord, vous vous aimez beaucoup. Vous partagez des rires, des jeux et des câlins. C'est comme avoir un trésor à la maison. Et chaque jour, vous construisez ensemble de merveilleux souvenirs."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Souvenez-vous, être ensemble, c'est aussi s'entraider. Comme quand vous aidez votre frère ou sœur à attacher ses lacets. Ou quand vous partagez votre goûter préféré. Cela montre que vous êtes toujours là l'un pour l'autre. Et cela rend votre lien encore plus fort."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes un super frère ou une super sœur ! Continuez à être gentil et attentionné. Vous faites une grande différence dans la vie de votre frère ou sœur. Chaque sourire et chaque geste compte. Vous êtes une équipe formidable, et vous pouvez réaliser de grandes choses ensemble."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les aventures avec un frère ou une sœur ne s'arrêtent jamais. Chaque jour est une nouvelle chance de s'amuser et d'apprendre ensemble. Peut-être que demain, vous découvrirez un nouveau jeu à jouer. Ou bien, vous apprendrez quelque chose d'intéressant ensemble. Les possibilités sont infinies avec votre compagnon de jeu préféré."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi. J'espère que vous avez aimé parler des frères et sœurs. N'oubliez pas de dire à votre frère ou sœur combien vous les appréciez. Continuez à être de bons amis et à partager de belles aventures. À très bientôt pour une nouvelle histoire amusante !"
+    }
+  ],
+  "title": "Histoire de Sibling de Clever Mouse Jerry"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "sneaky_cat_tom_behavior_story",
+  "character": "Sneaky Cat Tom",
+  "topic": "behavior",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les petits amis ! Je suis Sneaky Cat Tom, le chat le plus rusé et le plus amusant que vous rencontrerez. Aujourd'hui, nous allons explorer ensemble le merveilleux monde du bon comportement. Êtes-vous prêts pour une aventure pleine de rires et de découvertes ? J'ai hâte de partager des astuces et des histoires avec vous. Allons-y et amusons-nous bien !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par parler de ce qu'est le bon comportement. C'est quand on fait des choses qui rendent les autres heureux et qui nous aident à nous sentir bien. Par exemple, dire 's'il vous plaît' et 'merci' fait partie du bon comportement. C'est comme lorsque vous partagez vos jouets avec vos amis, cela montre que vous êtes gentil et attentionné. N'est-ce pas merveilleux de rendre les autres heureux avec de petites actions ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons des règles. Les règles sont là pour nous aider à nous comporter de manière sûre et respectueuse. Par exemple, il est important de marcher calmement dans la maison pour éviter de tomber ou de casser quelque chose. Les règles à l'école, comme lever la main avant de parler, aident tout le monde à écouter et à apprendre. Suivre les règles montre que nous respectons les autres et leur espace."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons quelque chose ensemble ! Imaginez que nous sommes dans une pièce pleine de jouets. Comment pouvons-nous montrer un bon comportement ? Oui, en rangeant nos jouets après avoir joué. Vous pouvez dire 'Je vais mettre ce camion ici et ce livre là-bas'. Super, vous êtes sur la bonne voie pour être un expert du bon comportement !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de dire 's'il vous plaît' et 'merci' ? Ces mots magiques rendent les gens heureux. Imaginez que vous recevez un cadeau, un grand sourire et un 'merci' montrent à quel point vous êtes content. C'est comme un câlin avec des mots ! N'oublions pas d'utiliser ces mots chaque jour, ils rendent notre monde encore plus joyeux."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant de la gestion de notre comportement quand nous nous sentons fâchés. Il est normal de se sentir en colère parfois, mais il est important de savoir comment se calmer. Prenons trois grandes respirations ensemble. Inspirez... expirez... Vous voyez, prendre un moment pour respirer peut nous aider à nous sentir mieux et à réfléchir avant d'agir."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez fait un excellent travail en apprenant à gérer vos émotions. Vous êtes comme un super-héros qui sait quand utiliser ses pouvoirs pour faire le bien. Chaque fois que vous ressentez une émotion forte, souvenez-vous de prendre une respiration profonde. Vous pouvez le faire, et je suis là pour vous encourager à chaque étape du chemin !"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de la patience. Parfois, nous devons attendre notre tour, comme quand nous faisons la queue pour une glace. Être patient signifie que nous respectons le temps des autres et que nous sommes prêts à attendre calmement. C'est difficile parfois, mais chaque fois que vous attendez patiemment, vous devenez un peu plus fort et plus sage."
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pratiquons la patience ensemble. Imaginez que nous sommes à la boulangerie et que nous devons attendre notre tour pour acheter des croissants. Comptez doucement jusqu'à dix pendant que vous attendez. Un... deux... trois... Bravo ! Vous voyez, attendre peut être amusant quand on sait comment s'y prendre."
+    },
+    {
+      "id": "scene_9",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes vraiment doués pour apprendre toutes ces choses sur le bon comportement. Chaque jour, vous devenez de plus en plus merveilleux en pratiquant ces petites actions. Continuez à être gentils, respectueux et patients. Vous êtes des étoiles brillantes qui illuminent le monde autour de vous !"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "N'oublions pas de parler du respect des autres. Cela signifie écouter quand quelqu'un parle, ne pas interrompre et être gentil même quand nous ne sommes pas d'accord. Par exemple, si un ami veut jouer à un jeu différent, nous pouvons écouter son idée et essayer quelque chose de nouveau. Le respect rend les relations plus fortes et plus amusantes !"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons de comprendre comment montrer du respect. Imaginez que vous êtes dans une conversation avec un ami. Attendez qu'il ait fini de parler avant de répondre. Cela montre que vous êtes intéressé par ce qu'il dit. Pratiquez cela chaque jour et vous verrez combien vous serez apprécié par vos amis et votre famille."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes incroyables ! Chaque petit effort que vous faites pour être respectueux et gentil est un pas vers un monde meilleur. Continuez à pratiquer ces comportements et vous verrez combien cela rend la vie plus belle. Vous avez tout ce qu'il faut pour être un véritable héros du bon comportement !"
+    },
+    {
+      "id": "question_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, je suis curieux. Avez-vous une idée de comment vous pourriez montrer du bon comportement aujourd'hui ? Peut-être en aidant à la maison ou en jouant gentiment avec un frère ou une sœur. Quelle que soit votre idée, je suis sûr qu'elle sera fantastique. J'aimerais beaucoup entendre vos suggestions !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'est l'heure de dire au revoir, mes chers amis. J'ai adoré notre aventure sur le bon comportement aujourd'hui. N'oubliez pas de pratiquer ce que nous avons appris et de continuer à être les incroyables petits héros que vous êtes. À bientôt pour une nouvelle aventure avec Sneaky Cat Tom. Prenez soin de vous et amusez-vous bien !"
+    }
+  ],
+  "title": "Histoire de Behavior de Sneaky Cat Tom"
+}

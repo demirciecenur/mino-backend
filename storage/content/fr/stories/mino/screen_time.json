@@ -1,0 +1,104 @@
+{
+  "id": "mino_temps_d'écran_sécurité_numérique_utilisation_de_la_technologie_habitudes_saines_d'écran_story",
+  "character": "Mino",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit explorateur ! Je suis Mino, ton ami de l'espace. Aujourd'hui, nous allons découvrir ensemble comment utiliser les écrans de manière amusante et sûre. Es-tu prêt pour cette aventure intergalactique ? Nous allons parler de la sécurité numérique et des habitudes saines pour utiliser la technologie. Je suis si curieux de savoir ce que tu en penses !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Commençons par comprendre ce qu'est le temps d'écran. C'est le temps que tu passes à regarder un écran, comme une tablette ou une télévision. Parfois, c'est amusant de regarder des dessins animés ou de jouer à des jeux. Mais il est important de ne pas passer trop de temps devant les écrans. Trop d'écran peut fatiguer nos yeux et nous empêcher de faire d'autres activités amusantes, comme jouer dehors ou lire des livres."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de la sécurité numérique. C'est comme une ceinture de sécurité pour l'Internet ! Quand tu joues à des jeux ou regardes des vidéos, il est important de toujours demander à un adulte si c'est sûr. Les adultes peuvent t'aider à choisir des jeux adaptés à ton âge. Rappelle-toi, ne partage jamais d'informations personnelles en ligne, comme ton nom ou ton adresse. C'est un secret que tu gardes pour toi !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Voyons comment nous pouvons avoir des habitudes saines avec nos écrans. Par exemple, après avoir joué à un jeu vidéo, tu peux aller jouer dehors. Cela équilibre ton temps et garde ton corps actif ! Tu pourrais aussi dessiner ou faire un puzzle. C'est amusant de varier les activités. Alors, qu'est-ce que tu aimerais faire après avoir écouté cette histoire ?"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelle-toi, les écrans peuvent nous aider à apprendre de nouvelles choses. Par exemple, tu peux regarder une vidéo qui t'apprend à faire un bricolage. Mais il est aussi important de passer du temps avec ta famille et tes amis sans écran. Jouer à des jeux de société ou lire un livre ensemble peut être très amusant. Que préfères-tu faire avec ta famille ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Maintenant, parlons de ce que nous pouvons apprendre avec la technologie. Il y a des applications qui t'aident à apprendre à compter ou à lire. C'est comme avoir un professeur à la maison ! Mais même les professeurs aiment faire des pauses. Alors, après un moment d'apprentissage sur l'écran, n'oublie pas de te lever et de te dégourdir les jambes. Peut-être un petit saut ou une danse ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand tu utilises un écran, assure-toi d'être dans un endroit bien éclairé. Cela aide tes yeux à ne pas se fatiguer. Assieds-toi confortablement et tiens l'écran à une distance raisonnable. C'est comme quand on lit un livre, on ne le tient pas trop près de son visage. C'est une bonne habitude à prendre pour protéger tes yeux. Peux-tu t'assurer de faire cela la prochaine fois ?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais du très bon travail en apprenant toutes ces nouvelles choses ! Parfois, il est difficile de se souvenir de tout. Mais avec un peu de pratique, tu deviendras un expert en temps d'écran et sécurité numérique. Chaque fois que tu te rappelles de prendre soin de tes yeux ou de demander l'aide d'un adulte, tu fais un grand pas en avant. Bravo, tu es incroyable !"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, j'ai une question pour toi. Quel est ton jeu préféré à jouer sur un écran ? Est-ce un jeu où tu peux construire des choses ? Ou peut-être un jeu où tu peux explorer de nouveaux mondes ? Il y a tellement de jeux amusants, mais il est important de choisir ceux qui sont bons pour toi. J'aimerais beaucoup savoir ce que tu aimes jouer !"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "En parlant de jeux, savais-tu que certains jeux peuvent t'aider à apprendre ? Oui, il y a des jeux qui te montrent comment résoudre des énigmes ou qui t'apprennent de nouveaux mots. C'est un peu comme une école amusante ! Mais n'oublie pas de faire des pauses. Après avoir joué, tu peux faire un petit tour dans la maison ou boire un verre d'eau. Cela te fera du bien !"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand tu regardes un écran, il est important de faire attention à ta posture. Assieds-toi bien droit, comme un astronaute prêt pour le décollage ! Cela aide ton dos à rester en bonne santé. Et n'oublie pas de bouger de temps en temps. Tu peux peut-être marcher comme un robot autour de la pièce. C'est amusant et bon pour toi !"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu es vraiment en train de devenir un expert en sécurité numérique et en utilisation saine des écrans ! Chaque petit changement que tu fais peut avoir un grand impact. Souviens-toi de demander de l'aide quand tu en as besoin. Les adultes sont là pour te guider. Continue comme ça et tu verras, tu apprendras encore plus de choses passionnantes !"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "As-tu déjà essayé de dessiner ce que tu vois sur l'écran ? C'est une excellente façon de faire une pause tout en restant créatif. Tu pourrais dessiner ton personnage de jeu préféré ou une scène de ton dessin animé favori. Cela te donne aussi une chance de partager tes créations avec ta famille. Ils seront sûrement très fiers de toi !"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et si nous faisions une petite activité ensemble maintenant ? Que dirais-tu de compter jusqu'à cinq ensemble pour faire une pause ? Un, deux, trois, quatre, cinq ! Super, tu as réussi ! Prendre des petites pauses comme celle-ci est très important. Cela aide ton cerveau à se reposer et à se préparer pour de nouvelles aventures !"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'était tellement amusant de parler avec toi aujourd'hui ! J'espère que tu as appris beaucoup de choses sur le temps d'écran et la sécurité numérique. N'oublie pas toutes ces astuces pour utiliser la technologie en toute sécurité. Je suis sûr que tu seras un expert en un rien de temps. Merci d'avoir passé ce moment avec moi, et à bientôt pour une nouvelle aventure !"
+    }
+  ],
+  "title": "Histoire de Screen Time de Mino"
+}

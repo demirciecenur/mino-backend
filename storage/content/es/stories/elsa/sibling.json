@@ -1,0 +1,98 @@
+{
+  "id": "elisa the ice fairy_sibling_story",
+  "character": "Elisa the Ice Fairy",
+  "topic": "sibling",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Elisa, el Hada de Hielo. Hoy vamos a embarcarnos en una aventura mágica sobre los hermanos. ¿Estás listo para explorar el amor y la diversión que puedes tener con tus hermanos? Estoy muy emocionada de compartir esta historia contigo. ¡Vamos a comenzar nuestro viaje lleno de magia y amor fraternal!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, imagina que tienes un hermano o una hermana con quien puedes jugar todos los días. Los hermanos pueden ser tus mejores amigos, siempre listos para compartir risas y aventuras. Puedes construir castillos de nieve juntos o inventar historias mágicas. Los hermanos también te ayudan a aprender a compartir y a ser paciente. ¿No es maravilloso tener a alguien con quien crecer y aprender juntos?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Cuando juegas con tus hermanos, es importante recordar compartir tus juguetes. Esto puede ser difícil a veces, pero es una forma de mostrar cuánto te importa tu hermano o hermana. Cuando compartes, todos se divierten más y aprenden a ser generosos. Intenta compartir tu juguete favorito y observa cómo se siente. ¡Verás que compartir puede ser mágico y especial!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Maravilloso! Compartir es una forma de demostrar amor, y estoy segura de que puedes hacerlo. Ahora, vamos a practicar algo divertido. Vamos a contar hasta cinco juntos, ¿listo? Uno, dos, tres, cuatro, cinco. ¡Lo hiciste genial! Practicar cosas juntos hace que cada momento sea más especial."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recuerda cuando hablamos de construir castillos de nieve. ¿Te gustaría construir uno con tu hermano? Imagínate creando un castillo gigante con torres y puentes. Puedes usar tu imaginación para decorarlo con luces de colores y nieve brillante. Construir juntos fortalece el vínculo entre hermanos. Es como crear un mundo mágico solo para ustedes dos."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "A veces, es importante escuchar a tu hermano o hermana. Cuando escuchas, les muestras que te importa lo que sienten. Escuchar también significa esperar tu turno para hablar. Puedes practicar esto en casa, escuchando atentamente cuando tu hermano hable. Es como una danza mágica donde ambos se turnan para hablar y escuchar."
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría contarme sobre un juego que te gusta jugar con tu hermano? Piensa en algo que ambos disfruten, como un juego de escondite o una carrera de juguetes. ¿Cómo se sienten cuando juegan juntos? Compartir tus pensamientos sobre esto puede ayudarte a entender mejor a tu hermano y fortalecer su amistad. ¿No es emocionante descubrir cosas nuevas sobre ellos?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, recordemos la importancia de resolver problemas juntos. A veces, puedes no estar de acuerdo con tu hermano. Pero, con paciencia y palabras amables, pueden encontrar una solución. Al trabajar juntos, aprenden a ser un gran equipo. Resolver problemas es como unir piezas de un rompecabezas, y al final, ¡todo encaja perfectamente!"
+    },
+    {
+      "id": "scene_8",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ahora vamos a practicar la respiración juntos. Respira profundamente y exhala lentamente. Vamos a hacerlo tres veces. Uno, respira. Dos, exhala. Tres, respira. Esto te ayuda a sentirte tranquilo, especialmente después de un desacuerdo. La calma es clave para resolver cualquier problema con amor y paciencia."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Cuando piensas en tu hermano, piensa en todas las cosas divertidas que pueden hacer juntos. Pueden leer cuentos antes de dormir o cantar canciones felices. Estos momentos crean recuerdos especiales que ambos atesorarán para siempre. La relación entre hermanos es un regalo mágico que se fortalece con cada risa y aventura compartida."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Fantástico! Estoy segura de que eres un hermano maravilloso. Recuerda siempre ser amable y comprensivo. Cuando demuestras amor y cuidado, haces que tu hermano se sienta querido. ¡Tú puedes ser la chispa mágica que ilumina sus días! Sigue creando recuerdos mágicos juntos."
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te gustaría compartir alguna historia mágica que hayas vivido con tu hermano? Piensa en un momento especial donde ambos rieron mucho o aprendieron algo nuevo. Compartir historias ayuda a recordar lo valioso que es tener un hermano. Estoy emocionada de escuchar todas las cosas maravillosas que han hecho juntos."
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de cómo puedes ayudar a tu hermano. Tal vez puedas ayudarlo a recoger sus juguetes o a aprender algo nuevo. Cuando ayudas, demuestras amor y apoyo. Esto fortalece la conexión entre ustedes. Ayudar a tu hermano es como dar un cálido abrazo de cariño."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Ha sido un placer compartir esta historia contigo. Recuerda siempre el poder del amor fraternal y la magia que traen los momentos compartidos. Espero que continúes creando recuerdos maravillosos con tu hermano. ¡Gracias por unirte a mí en esta aventura mágica! Hasta pronto, pequeño amigo."
+    }
+  ],
+  "title": "Historia de Sibling de Elisa The Ice Fairy"
+}

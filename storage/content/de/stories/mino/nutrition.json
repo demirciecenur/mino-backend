@@ -1,0 +1,104 @@
+{
+  "id": "mino_Ernährung, gesundes Essen, Essgewohnheiten, gesunde Lebensmittel_story",
+  "character": "Mino",
+  "topic": "Ernährung, gesundes Essen, Essgewohnheiten, gesunde Lebensmittel",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Mino und heute starten wir eine spannende Reise in die Welt der Ernährung. Bist du bereit, mit mir zu entdecken, wie wichtig gesundes Essen ist? Wir werden lernen, welche Lebensmittel uns stark und glücklich machen. Ich freue mich schon sehr darauf, alles mit dir zu erkunden. Lass uns gemeinsam auf dieses Abenteuer gehen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über unsere Reise gesprochen haben? Jetzt geht es los! Gesundes Essen hilft uns, groß und stark zu werden. Stell dir vor, unser Körper ist wie ein Auto, das den besten Treibstoff braucht, um gut zu fahren. Gemüse, Obst und Vollkornprodukte sind wie dieser Treibstoff für uns. Sie geben uns Energie und helfen uns, den ganzen Tag zu spielen und zu lernen."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt lass uns darüber sprechen, was es bedeutet, sich gesund zu ernähren. Es bedeutet, verschiedene Arten von Lebensmitteln zu essen, damit unser Körper alles bekommt, was er braucht. Zum Beispiel sind Karotten gut für unsere Augen, weil sie viel Vitamin A enthalten. Und wusstest du, dass Milch uns starke Knochen gibt? Das liegt am Kalzium, das darin steckt. So wie Pflanzen Wasser benötigen, brauchen wir diese Nährstoffe."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Lass uns zusammen ein Spiel spielen! Zähle mit mir, wie viele verschiedene Farben von Obst und Gemüse du kennst. Rot wie Äpfel, grün wie Brokkoli, gelb wie Bananen. Großartig! Je bunter unser Teller, desto besser ist es für uns. Hast du schon einmal versucht, etwas Neues zu probieren? Es macht Spaß, neue Geschmäcker zu entdecken!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, wie wir über bunte Teller gesprochen haben? Jetzt lass uns über Essgewohnheiten sprechen. Es ist wichtig, regelmäßig zu essen, damit unser Körper immer genug Energie hat. Frühstück, Mittagessen und Abendessen sind wie kleine Stopps auf einer langen Reise. Und zwischendurch können wir gesunde Snacks wie Nüsse oder Obst essen. So bleibt unser Motor immer in Schwung!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Weißt du, dass Trinken genauso wichtig ist wie Essen? Wasser ist das beste Getränk für unseren Körper. Es hilft uns, konzentriert zu bleiben und hält uns fit. Wenn wir Durst haben, ist das ein Zeichen, dass unser Körper Wasser braucht. Also, immer schön trinken, damit wir uns wohlfühlen!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt lass uns eine kleine Übung machen. Steh auf und streck dich ganz hoch in die Luft! Fühlst du, wie gut das tut? Bewegung und gesundes Essen gehen Hand in Hand. Wenn wir uns bewegen, verbrennen wir Energie und bekommen Appetit auf gesunde Lebensmittel. Beides zusammen macht uns stark und fröhlich. Super gemacht!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du ein Lieblingsessen? Vielleicht Nudeln oder eine leckere Suppe? Es ist wichtig, unsere Lieblingsgerichte zu genießen und gleichzeitig Neues auszuprobieren. Welche neuen Lebensmittel möchtest du als nächstes probieren? Es kann so spannend sein, neue Geschmäcker zu entdecken. Lass uns neugierig bleiben!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir über Lieblingsessen gesprochen haben, wollen wir uns ansehen, wie wir gemeinsam gesunde Mahlzeiten zubereiten können. Es macht Spaß, in der Küche zu helfen, sei es beim Waschen von Gemüse oder beim Rühren im Topf. Wenn wir unser Essen selbst zubereiten, wissen wir genau, was drin ist. So macht gesundes Essen noch mehr Spaß!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich an das Spiel mit den Farben? Lass uns jetzt eine neue Herausforderung versuchen! Kannst du in deiner Küche fünf verschiedene gesunde Lebensmittel finden? Vielleicht eine Karotte, eine Banane oder ein Stück Brot? Super gemacht! Du bist ein richtiger Entdecker. Es macht Spaß, neue Dinge zu finden, oder?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Lass uns über eine wichtige Mahlzeit sprechen: das Frühstück. Es ist wie der Start in einen neuen Tag, voller Energie und Abenteuer. Ein gesundes Frühstück kann Obst, Joghurt oder Vollkornbrot enthalten. Es gibt uns Kraft zum Spielen und Lernen. Hast du heute schon gefrühstückt? Was hast du gegessen?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Jetzt, wo wir so viel gelernt haben, lass uns gemeinsam einen fröhlichen Tanz machen! Bewege deine Arme, wackle mit den Hüften und hab Spaß! Bewegung macht glücklich und ist ein wichtiger Teil eines gesunden Lebensstils. Egal ob tanzen, hüpfen oder rennen, alles bringt uns in Schwung. Du bist fantastisch dabei!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal von einem Regenbogen auf deinem Teller gehört? Das bedeutet, dass wir viele bunte Lebensmittel essen sollten. Welche Farben hast du heute schon gegessen? Vielleicht rot, gelb oder grün? Es ist spannend, jeden Tag einen Regenbogen zu essen. Wollen wir das morgen auch versuchen?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir über den Regenbogen gesprochen haben, denk daran, dass jeder Tag eine neue Chance ist, etwas Gutes für unseren Körper zu tun. Gesundes Essen und Bewegung machen uns stark und glücklich. Gemeinsam können wir immer neue Abenteuer erleben und dabei viel lernen. Ich bin so stolz auf dich!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, diesen Tag mit dir zu verbringen! Ich hoffe, du hattest genauso viel Spaß wie ich. Denk daran, dass du jeden Tag etwas Neues über Ernährung und gesundes Essen lernen kannst. Ich freue mich schon auf unser nächstes Abenteuer. Bis bald, kleiner Freund! Pass gut auf dich auf!"
+    }
+  ],
+  "title": "Minos Nutrition Geschichte"
+}

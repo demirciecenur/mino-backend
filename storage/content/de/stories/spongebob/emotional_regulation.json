@@ -1,0 +1,104 @@
+{
+  "id": "bubble_buddy_Emotionsregulation_Gefühle_managen_sich_beruhigen_Selbstregulation_story",
+  "character": "Bubble Buddy",
+  "topic": "Emotionsregulation, Gefühle managen, sich beruhigen, Selbstregulation",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Bubble Buddy, dein sprudelnder Begleiter für heute. Wir werden eine aufregende Reise unternehmen, um zu lernen, wie wir unsere Gefühle regulieren können, damit wir immer glücklich und entspannt sind. Bist du bereit, mit mir zu kommen? Ich bin so gespannt darauf, gemeinsam mit dir zu entdecken, wie wir ruhig und gelassen bleiben können. Lass uns gemeinsam Spaß haben und viel lernen!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Stell dir vor, du bist ein kleiner Seestern, der im Ozean schwimmt. Manchmal kann der Ozean ganz ruhig sein, und manchmal gibt es große Wellen. Unsere Gefühle sind wie der Ozean. Manchmal sind wir glücklich und ruhig, und manchmal fühlen wir uns aufgewühlt. Es ist wichtig zu lernen, wie wir mit diesen großen Wellen umgehen können. So bleiben wir fröhlich und entspannt, auch wenn es stürmisch wird."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wenn wir uns mal ärgerlich oder traurig fühlen, können wir uns in eine ruhige Ecke setzen und tief ein- und ausatmen. Lass uns das zusammen ausprobieren! Atme tief ein und zähle bis drei. Dann atme langsam aus und zähle wieder bis drei. Spürst du, wie du ruhiger wirst? Diese Übung hilft uns, unsere Gefühle zu beruhigen, wenn sie wie große Wellen im Ozean sind."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Du kannst diese Atemübung immer machen, wenn du dich unruhig fühlst. Es ist eine wunderbare Art, sich zu beruhigen und unsere Gefühle zu managen. Denk daran, dass es vollkommen okay ist, sich manchmal traurig oder ärgerlich zu fühlen. Wichtig ist nur, dass wir wissen, wie wir uns beruhigen können, damit wir wieder fröhlich sind."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Nun, lass uns über etwas Lustiges sprechen! Stell dir vor, du bist ein lustiger Clownfisch, der durch das bunte Korallenriff schwimmt. Manchmal kann es dort ziemlich chaotisch sein, aber der Clownfisch bleibt immer ruhig, indem er seine Flossen sanft bewegt. Wir können das gleiche tun, indem wir uns auf etwas Schönes konzentrieren, wie auf unsere Lieblingsfarbe oder eine lustige Geschichte."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Möchtest du eine kleine Übung machen? Stell dir vor, du bist ein bunter Fisch, der durch den Ozean schwebt. Schließe deine Augen und stelle dir vor, du siehst all die schönen Farben um dich herum. Welche Farben siehst du? Ist es blau, grün oder vielleicht pink? Diese Übung hilft uns, unsere Gedanken zu beruhigen und uns auf die schönen Dinge zu konzentrieren."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wunderbar! Du hast tolle Vorstellungskraft. Indem wir uns auf schöne Dinge konzentrieren, können wir unsere Gefühle besser regulieren und uns entspannter fühlen. Du machst das großartig! Denke daran, diese Übungen zu machen, wann immer du dich unruhig fühlst. Es ist eine tolle Möglichkeit, sich zu entspannen und fröhlich zu bleiben."
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns über Freundschaft sprechen. Freunde sind wie strahlende Sterne am Himmel, sie machen alles heller. Wenn wir unsere Gefühle mit Freunden teilen, können wir uns oft besser fühlen. Hast du einen Freund, mit dem du gerne spielst? Es ist so wichtig, jemanden zu haben, dem wir vertrauen können, um unsere Gefühle zu teilen."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal mit einem Freund über deine Gefühle gesprochen? Wie fühlst du dich danach? Es kann sehr befreiend sein, unsere Gedanken und Gefühle zu teilen. Manchmal haben Freunde auch tolle Ideen, wie wir uns besser fühlen können. Was denkst du, wie könnten deine Freunde dir helfen, wenn du traurig bist?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Erinnerst du dich daran, wie wir über das Atmen gesprochen haben? Das ist eine super Möglichkeit, ruhig zu bleiben. Und wenn wir unsere Freunde um Hilfe bitten, können sie uns daran erinnern, tief zu atmen oder uns eine Umarmung geben. Freunde sind da, um uns zu unterstützen und uns zu helfen, fröhlich zu bleiben."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Lass uns über etwas anderes sprechen, das uns helfen kann, unsere Gefühle zu regulieren. Musik kann ein wunderbarer Freund sein, wenn wir uns beruhigen wollen. Hast du ein Lieblingslied? Manchmal kann das Hören von Musik oder das Singen eines Liedes uns helfen, die großen Wellen unserer Gefühle zu beruhigen."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Möchtest du ein Lied singen? Es könnte ein lustiges Kinderlied sein oder eines, das du selbst erfunden hast. Lass uns zusammen singen und fühlen, wie die Musik uns beruhigt. Musik kann uns helfen, fröhlich zu bleiben und unsere Gefühle positiv zu verändern. Probier es aus, wann immer du dich unruhig fühlst!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du hast das unglaublich gut gemacht! Musik ist eine wunderbare Möglichkeit, unsere Stimmung zu heben. Denk daran, dass es viele verschiedene Wege gibt, unsere Gefühle zu regulieren. Ob durch Atmen, Vorstellungskraft, Freundschaft oder Musik, du hast viele Werkzeuge, um fröhlich und entspannt zu bleiben."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel über das Regulieren von Gefühlen gelernt haben, fühle ich mich großartig! Ich hoffe, du fühlst dich auch gut. Erinnere dich daran, dass es normal ist, verschiedene Gefühle zu haben. Wichtig ist, dass du weißt, wie du mit ihnen umgehen kannst, damit du immer wieder fröhlich wirst."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war eine fantastische Reise mit dir, kleiner Freund! Ich hoffe, du hattest genauso viel Spaß wie ich. Denke daran, dass du immer die Kontrolle über deine Gefühle hast. Ich freue mich darauf, bald wieder mit dir zu plaudern. Bis dahin, bleib fröhlich und sprudelnd wie ein kleiner Ozean. Tschüss!"
+    }
+  ],
+  "title": "Bubble Buddys Emotional Regulation Geschichte"
+}

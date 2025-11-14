@@ -1,0 +1,104 @@
+{
+  "id": "tiko_screen_time_story",
+  "character": "Tiko",
+  "topic": "screen_time",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük arkadaşım! Ben Tiko, maceracı dostun. Bugün seninle ekran süresinin harika dünyasına dalacağız. Ekranlar, televizyonlar ve tabletler hakkında konuşacağız. Hazır mısın? Seni çok merak ediyorum. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda ekran sürelerinden bahsedeceğimizi söylemiştik. Ekran süresi, televizyon izlemek veya tabletle oynamak için harcadığımız zamandır. Çok fazla ekran süresi, oyun oynamak veya dışarıda vakit geçirmek için daha az zaman demektir. Bu yüzden dengeli olmak çok önemlidir. Peki, ekranları nasıl kullanmalıyız? İşte bu konuda sana bazı ipuçları vereceğim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekranları kullanırken dikkat etmemiz gereken bazı kurallar var. Öncelikle, ekran başında çok uzun süre kalmaktan kaçınmalıyız. Çünkü bu gözlerimizi yorabilir ve bizi yorgun hissettirebilir. Ayrıca, ekranlar yerine oyun oynamak veya kitap okumak gibi aktiviteler de yapabiliriz. Ekran başında geçirdiğimiz zamanı sınırlamak, sağlıklı bir yaşam için önemlidir. Şimdi bu kuralları nasıl uygulayabileceğimize bakalım."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi birlikte ekran süremizi nasıl sınırlayabileceğimize bakalım. Örneğin, her gün belirli bir süre ekran başında kalabiliriz. Sonrasında ise dışarıda oyun oynamak veya resim yapmak gibi aktiviteler yapabiliriz. Bu şekilde hem eğlenir hem de sağlıklı kalırız. Sen de denemek ister misin? Hadi birlikte plan yapalım!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede ekran sürelerini sınırlamaktan bahsetmiştik. Peki, ekran başında geçirdiğin zamanı nasıl daha eğlenceli hale getirebilirsin? Örneğin, eğitici videolar izleyebilir veya interaktif oyunlar oynayabilirsin. Bu tür aktiviteler öğrenmeni ve gelişmeni sağlar. Ekranları doğru kullanarak yeni şeyler keşfedebilirsin. Şimdi bu konuda daha fazla bilgi verelim."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekranları kullanırken dikkatli olmamız gereken bir diğer konu da duruşumuzdur. Ekran karşısında otururken dik durmak önemlidir. Bu, sırtımızın ve boynumuzun sağlıklı kalmasına yardımcı olur. Ayrıca, ekranla aramıza yeterli mesafe koymalıyız. Bu şekilde gözlerimizi korumuş oluruz. Şimdi bu ipuçlarını nasıl uygulayabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi ekran karşısında doğru duruşu nasıl sağlayacağımızı deneyelim. Öncelikle, oturduğumuz sandalyenin arkasına yaslanarak dik bir pozisyon alabiliriz. Gözlerimizi ekrandan biraz uzak tutarak onları koruyabiliriz. Bu şekilde hem rahat hem de sağlıklı bir şekilde ekranları kullanabiliriz. Sen de denemek ister misin? Hadi birlikte deneyelim!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki sahnede duruşumuzdan bahsetmiştik. Şimdi ise ekranlar dışında neler yapabileceğimize bakalım. Örneğin, dışarıda arkadaşlarınla oyunlar oynayabilir veya bisiklet sürebilirsin. Bu aktiviteler hem eğlenceli hem de sağlıklıdır. Ayrıca, yeni şeyler öğrenmek için kitap okuyabilir veya resim yapabilirsin. Haydi şimdi başka neler yapabileceğimizi keşfedelim."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Peki, sen ekranlar dışında neler yapmayı seviyorsun? Belki de top oynamak veya dans etmek hoşuna gidiyordur. Ya da belki de en sevdiğin masalları okumak hoşuna gider. Hadi bana anlat, hangi aktiviteleri yapmayı seviyorsun? Seni dinlemek için sabırsızlanıyorum."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Harika seçimler! Seninle birlikte bu aktiviteleri yapmak çok eğlenceli olurdu. Şimdi, ekran sürelerini dengeli bir şekilde kullanmanın önemini hatırlayalım. Böylece hem ekranlarla eğlenebilir hem de diğer aktiviteleri yapabiliriz. Ekranlar dışında yaptığın aktivitelerle daha mutlu ve sağlıklı olabilirsin. Şimdi bu konuyu biraz daha derinlemesine inceleyelim."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Ekran sürelerini dengeli kullanmak için bir plan yapabiliriz. Örneğin, günün belli saatlerinde ekranları kullanabiliriz. Sonrasında ise oyun oynamak veya kitap okumak için zaman ayırabiliriz. Bu şekilde her şey için yeterli zamanımız olur. Plan yapmak, zamanı daha iyi kullanmamıza yardımcı olur. Şimdi bu planı nasıl oluşturabileceğimize bakalım."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika bir başlangıç yapıyoruz! Şimdi birlikte bir günlük plan yapalım. Sabahları belki biraz televizyon izleyebiliriz. Öğleden sonra ise dışarıda oyun oynayabiliriz. Akşamları ise kitap okuyarak günü bitirebiliriz. Bu şekilde hem eğlenir hem de dinleniriz. Sen de böyle bir plan yapmayı dener misin?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki planımızda ekran sürelerini nasıl dengeli kullanabileceğimizi gördük. Peki, ekranlar bize başka neler öğretebilir? Eğitici videolar izleyerek yeni şeyler öğrenebiliriz. Örneğin, hayvanlar hakkında bilgi edinebilir veya ilginç deneyler izleyebiliriz. Bu tür içerikler hem eğlenceli hem de öğreticidir. Şimdi ekranları nasıl daha verimli kullanabileceğimizi düşünelim."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Ekranlarda en çok neleri izlemeyi seviyorsun? Belki de çizgi filmler veya doğa belgeselleri hoşuna gidiyordur. Ya da belki de müzik videoları izlemeyi seviyorsundur. Hadi bana anlat, en sevdiğin ekran aktiviteleri neler? Seni dinlemek için çok heyecanlıyım."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Harika bir yolculuk yaptık! Ekran sürelerini dengeli kullanmanın ne kadar önemli olduğunu öğrendik. Şimdi, ekranları doğru ve faydalı bir şekilde kullanmak için neler yapabileceğimizi biliyoruz. Umarım bu bilgiler sana yardımcı olur. Bir dahaki sefere görüşmek üzere, hoşça kal!"
+    }
+  ],
+  "title": "Tiko'ın Screen Time Hikayesi"
+}

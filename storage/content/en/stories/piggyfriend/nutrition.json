@@ -1,0 +1,104 @@
+{
+  "id": "piggy_friend_nutrition_story",
+  "character": "Piggy Friend",
+  "topic": "nutrition",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friend! I'm Piggy Friend, and today we're going on an amazing journey about nutrition. Are you ready to learn about foods that make us grow strong and healthy? I’m so excited to share this with you. We'll have fun learning about fruits, veggies, and all sorts of yummy things. Let's start this adventure together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Did you know that eating different colors of fruits and vegetables is like creating a rainbow on your plate? Each color gives us special things our bodies need. Red apples, green broccoli, and orange carrots all help us in different ways. Eating a variety of colors helps us grow big and strong. Let’s think about what colors we can eat today!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's talk about why breakfast is so important. Breakfast is like the fuel that starts our day! Imagine trying to play all day without any energy. Eating a healthy breakfast gives us the energy to play, learn, and have fun. Next time you wake up, remember to have something yummy and healthy to start your day right!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning so far! Let's clap our hands for all the colorful foods we can eat. Imagine a plate with all the colors of the rainbow. Isn’t it exciting to think about all the delicious options we have? You can do it! Try adding more colors to your meals today and see how fun it can be."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about breakfast? Now, let's think about lunch and dinner. These meals are just as important to keep us going throughout the day. Eating a balanced meal means having a little bit of everything. Proteins, like chicken or beans, help our muscles grow. Grains, like rice or pasta, give us energy. And don't forget those colorful veggies!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try a fun activity together. Can you count how many different fruits you can think of? I'll start: apples, bananas, and grapes. What can you add? Counting fruits helps us remember how many options we have to choose from. Next time you’re at the store, see how many you can find. It’s like a treasure hunt for your taste buds!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Wonderful! You’re doing so well. Now, let's take a deep breath and imagine the delicious smell of fresh fruits. Breathing deeply helps us feel calm and ready to learn more. Remember, trying new foods can be an adventure. You might discover a new favorite fruit or veggie!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Let’s talk about water now. Water is super important for our bodies, like a magic drink that keeps us healthy. It helps us stay hydrated, which means we can play and have fun longer. Try to drink water throughout the day, especially after playing or when it’s hot outside. It’s the best way to feel refreshed!"
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Remember when we talked about the rainbow of foods? Let’s think about which fruits and veggies you like best. Do you prefer sweet strawberries or crunchy carrots? Each choice helps us grow strong. It’s okay to have favorites, but trying new things can be exciting too. Let’s keep exploring!"
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, I have a question for you. Do you know why we need to eat different foods? It’s because each food gives us something special. Like how spinach makes us strong and oranges keep us healthy. What foods do you think help you the most? Lean closer and let’s think about it together!"
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, let’s talk about snacks. Snacks can be healthy too! Instead of candy, try having some nuts or a piece of fruit. They give us energy and keep us feeling good. A snack is like a little boost between meals. It’s important to choose snacks that help us grow strong. What’s your favorite healthy snack?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's play a guessing game. I’m thinking of a vegetable that is orange and crunchy. Can you guess what it is? Yes, it's a carrot! Carrots are full of vitamins that help our eyes see better. Playing games like this helps us remember all the healthy foods we can eat. Let’s see what other foods we can guess!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You’re doing fantastic! Learning about nutrition is like putting together a puzzle. Each piece of food helps make our bodies whole. Keep trying new foods and adding more colors to your meals. You’re on your way to being a healthy eater. Give yourself a big cheer for all your hard work!"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let’s review what we’ve learned today. We talked about eating a rainbow of foods, the importance of breakfast, and staying hydrated with water. Snacks can be healthy too, and trying new foods is like an adventure. Remember, every meal is a chance to make healthy choices. You’re doing great!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "It’s time to say goodbye for now. I had so much fun learning about nutrition with you today. Remember to eat lots of colors and drink plenty of water. Keep exploring new foods and enjoy every meal. Thank you for joining me, and I hope to see you again soon. Bye-bye, little friend!"
+    }
+  ],
+  "title": "Piggy Friend's Nutrition Story"
+}

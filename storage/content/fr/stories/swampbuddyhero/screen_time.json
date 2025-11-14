@@ -1,0 +1,104 @@
+{
+  "id": "swamp buddy hero_temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran_story",
+  "character": "Swamp Buddy Hero",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis ! Je suis Swamp Buddy Hero, et aujourd'hui, nous allons découvrir ensemble comment utiliser les écrans de manière amusante et sûre. Est-ce que vous aimez jouer avec des tablettes ou regarder des dessins animés ? C'est super ! Mais savez-vous qu'il existe des façons de rendre ces moments encore plus magiques ? Ensemble, on va apprendre des astuces pour protéger nos yeux et notre esprit. Êtes-vous prêts pour cette aventure passionnante ? Allons-y !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons du temps d'écran. Vous savez, c'est le temps que nous passons devant un écran, comme une tablette ou une télévision. Trop de temps devant les écrans peut rendre nos yeux fatigués, un peu comme quand on court trop longtemps et que nos jambes deviennent lourdes. C'est pourquoi il est important de trouver un bon équilibre. Comme quand on mange des légumes et des fruits pour être en bonne santé, on doit aussi prendre soin de nos yeux. Vous êtes d'accord ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une bonne idée pour gérer le temps d'écran est d'avoir une routine. Par exemple, vous pouvez jouer sur votre tablette pendant 30 minutes, puis faire une pause pour jouer dehors. C'est un peu comme alterner entre jouer avec vos jouets préférés et courir dans le parc. Quand on fait une pause, on peut bouger, sauter, ou même danser. Cela aide notre corps à rester en forme et nos yeux à se reposer. Vous voulez essayer ?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super, vous faites un excellent travail ! Maintenant, parlons de la sécurité numérique. Cela signifie qu'on doit être prudent quand on utilise des appareils électroniques. Par exemple, ne jamais partager de mots de passe comme on ne donnerait pas son jouet préféré à n'importe qui. Il est aussi important de demander l'aide d'un adulte si on voit quelque chose qui nous fait peur ou qui n'est pas gentil. Vous êtes des héros de la sécurité numérique !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand on a parlé des routines ? Eh bien, il est aussi important de discuter de ce que nous faisons en ligne avec nos parents. Comme raconter une histoire sur ce qu'on a fait à l'école, on peut partager nos aventures numériques. Cela aide à garder tout le monde en sécurité et heureux. De plus, vos parents aimeront sûrement entendre parler des jeux amusants auxquels vous jouez. C'est une belle façon de partager et de se connecter."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons un petit exercice ensemble. Prenons trois grandes respirations pour nous détendre. Inspirez profondément par le nez, puis expirez lentement par la bouche. Encore une fois, inspirez... et expirez. Une dernière fois, inspirez... et expirez. Cela aide notre esprit à se calmer et à se concentrer, un peu comme quand on se prépare à une grande aventure. Vous sentez-vous plus détendus maintenant ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo ! Vous êtes vraiment doués pour vous détendre. Maintenant, parlons des habitudes saines d'écran. Cela signifie que nous devons choisir des activités qui nous font du bien, comme des jeux éducatifs ou des vidéos amusantes qui nous apprennent quelque chose de nouveau. C'est comme choisir un livre intéressant à lire avant de dormir. Ces choix aident notre cerveau à grandir et à devenir encore plus fort. Vous êtes prêts à essayer ?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Passons maintenant à la technologie que nous utilisons. Les tablettes et les ordinateurs sont des outils incroyables pour apprendre et découvrir le monde. Mais tout comme un super-héros utilise ses pouvoirs avec sagesse, nous devons utiliser la technologie de manière intelligente. Cela signifie choisir des applications qui nous aident à apprendre et à explorer. Vous savez, comme un explorateur qui découvre de nouveaux territoires. C'est excitant, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, quels sont vos jeux ou applications préférés ? Avez-vous des activités numériques qui vous font sourire et apprendre en même temps ? Peut-être aimez-vous dessiner sur une application ou écouter des histoires amusantes. Je serais curieux de savoir ce qui vous plaît le plus. Partager nos préférences aide à découvrir de nouvelles choses. Alors, dites-moi, qu'est-ce que vous aimez faire ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "C'est génial d'entendre vos choix ! Maintenant, pensez à comment vous pouvez équilibrer votre temps d'écran avec d'autres activités. Par exemple, après avoir joué à un jeu, vous pourriez construire une tour avec des blocs ou dessiner un dessin coloré. Cela aide à garder votre journée remplie de diversité et de plaisir. Comme avoir une boîte à trésors remplie de différentes aventures. Vous êtes prêts à créer votre propre boîte à trésors d'activités ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastique ! Vous êtes vraiment des champions de l'équilibre. En parlant de champions, savez-vous que vous pouvez aussi être des héros pour vos amis ? En partageant ce que vous avez appris sur les écrans et la sécurité, vous pouvez les aider à être aussi en sécurité et heureux que vous. C'est comme être un super-héros qui protège son équipe. Vous êtes prêts à être des héros pour vos amis ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, réfléchissons à un moment où vous avez utilisé la technologie de manière amusante et sûre. Peut-être avez-vous regardé un dessin animé avec votre famille ou joué à un jeu éducatif. Ces moments sont précieux car ils nous apportent joie et apprentissage. Comme un gâteau délicieux qui a besoin de bons ingrédients, nos moments numériques ont besoin de bonnes pratiques. Quels ingrédients allez-vous ajouter à vos moments numériques ?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "En parlant d'ingrédients, n'oubliez pas d'inclure des pauses et de l'activité physique dans votre journée. Par exemple, vous pouvez faire cinq sauts de grenouille ou danser sur votre chanson préférée. Cela aide à garder votre corps actif et votre esprit alerte. Comme un petit-déjeuner équilibré vous donne de l'énergie pour la journée, ces pauses vous aident à rester en forme. Prêts à sauter comme des grenouilles ?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, quelles sont vos activités préférées en dehors des écrans ? Aimez-vous courir, dessiner, ou peut-être même cuisiner avec vos parents ? Partager ces activités avec les autres peut inspirer de nouvelles idées et aventures. Comme un livre d'histoires qui n'a jamais de fin, il y a toujours quelque chose de nouveau à découvrir et à essayer. Alors, qu'est-ce qui vous passionne le plus ?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec moi, mes amis ! Vous avez appris tant de choses sur les écrans et comment les utiliser de manière sûre et amusante. N'oubliez pas de toujours équilibrer votre temps d'écran avec d'autres activités passionnantes. Vous êtes tous des héros de la technologie maintenant, prêts à explorer le monde avec sagesse et joie. Je suis fier de vous, et j'espère que nous pourrons nous retrouver bientôt pour d'autres aventures. À bientôt, mes petits héros !"
+    }
+  ],
+  "title": "Histoire de Screen Time de Swamp Buddy Hero"
+}

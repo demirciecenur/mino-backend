@@ -1,0 +1,98 @@
+{
+  "id": "adventure_dora_pal_nutrition_story",
+  "character": "Adventure Dora Pal",
+  "topic": "nutrition",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello, little explorer! I'm Adventure Dora Pal, and today we're going on a fascinating journey to learn all about nutrition. Are you ready to discover how food helps us grow strong and healthy? I'm so excited to share this adventure with you! We'll talk about some yummy foods and how they give us energy to play and learn. Let's get started on this nutritious adventure together!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Did you know that food is like fuel for our bodies, just like gasoline for a car? We need it to run, jump, and play! Eating a variety of foods helps us stay healthy and happy. Fruits and vegetables are like colorful superheroes that give us vitamins and minerals. They help our eyes sparkle and our hair shine! Let's think about our favorite fruits and vegetables. What's yours?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now, let's learn about grains, like bread, rice, and pasta. Grains give us energy to play all day long. When we eat whole grains, like oatmeal or brown rice, they're even better because they have lots of fiber. Fiber helps keep our tummies happy and full. Next time you have breakfast, try to include some grains. They make a great start to the day!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job learning about grains! Now let's talk about proteins, such as chicken, beans, and eggs. Proteins are like building blocks that help our muscles grow strong. They also help us heal when we get a scratch or a bruise. Isn't that amazing? Remember to include some protein in your meals to keep your body in tip-top shape. You can do it!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about fruits and vegetables? They also have something called antioxidants that protect us from getting sick. Antioxidants are like little shields that keep our bodies safe from harm. Eating a rainbow of fruits and veggies every day helps us get lots of these shields. Let's try to eat a fruit or vegetable from every color of the rainbow!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Now let's learn about dairy, like milk, cheese, and yogurt. Dairy foods are rich in calcium, which helps our bones and teeth grow strong. Drinking a glass of milk or having a yogurt snack can give us the calcium we need. If you don't eat dairy, there are other foods like almonds and leafy greens that can also give you calcium. Let's remember to have some calcium every day!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing an amazing job learning about nutrition! Let's talk about fats, which can be found in foods like avocados, nuts, and olive oil. Fats help our brains grow and keep our skin healthy. It's important to choose healthy fats for our meals. Remember, a little bit of fat goes a long way, so we don't need too much. You can make healthy choices!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Now, let's think about drinks. What do you like to drink? Water is the best drink for keeping us hydrated and feeling great. It's important to drink plenty of water every day. Juice and soda can be fun sometimes, but water is the healthiest choice. Let's count how many glasses of water we can drink in a day. Can you count to five with me?"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about proteins? There are also snacks that can be healthy and tasty, like nuts, seeds, and yogurt. Snacks give us energy in between meals and help us stay focused. Next time you want a snack, try choosing something with protein or fiber. It's a delicious way to keep your body fueled and ready for fun!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's learn about the importance of breakfast. Breakfast is like a wake-up call for our bodies. Eating a healthy breakfast gives us energy for the day. Foods like eggs, whole-grain toast, and fruit are great choices. They help us pay attention at school and have fun with friends. Remember, breakfast is the most important meal of the day!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "You're doing so well on this nutrition adventure! Let's talk about trying new foods. Sometimes new foods might seem a little strange, but they can be tasty surprises. Trying different foods helps us discover new favorites and get all the nutrients we need. Next time you see a new food, give it a try. You might find something you love!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "We've learned so much about nutrition today! Remember how fruits and vegetables are like superheroes? And how grains give us energy to play? It's fun to think about how different foods help our bodies in different ways. Let's remember to eat a variety of foods every day to stay healthy and strong. What was your favorite thing we learned?"
+    },
+    {
+      "id": "scene_12",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Now, let's breathe together and think about our favorite healthy meal. Take a deep breath in, and let it out slowly. Imagine all the delicious and nutritious foods on your plate. Can you picture it? It's wonderful to think about all the ways we can enjoy healthy eating. Let's take another deep breath together and relax."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this nutrition adventure, little explorer! We've learned so much about how food helps our bodies grow and stay strong. Remember to try new foods and eat a variety of colors every day. I'm so proud of your curiosity and eagerness to learn. Until our next adventure, keep being brave and exploring new things. Goodbye, my friend!"
+    }
+  ],
+  "title": "Adventure Dora Pal's Nutrition Story"
+}

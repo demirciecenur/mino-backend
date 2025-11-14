@@ -1,0 +1,104 @@
+{
+  "id": "mino_tiempo_de_pantalla_seguridad_digital_uso_de_tecnología_hábitos_saludables_de_pantalla_story",
+  "character": "Mino",
+  "topic": "tiempo de pantalla, seguridad digital, uso de tecnología, hábitos saludables de pantalla",
+  "language": "es",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "¡Hola, pequeño amigo! Soy Mino, y estoy muy feliz de verte hoy. Vamos a embarcarnos en una aventura increíble para aprender sobre el tiempo de pantalla y cómo usar la tecnología de manera segura. ¿Estás listo para explorar este mundo mágico conmigo? ¡Será divertido y emocionante! Estoy muy curioso por saber qué piensas."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos sobre el tiempo de pantalla. ¿Sabes qué es? Es el tiempo que pasamos usando dispositivos como tablets, computadoras o viendo televisión. Es importante saber cuánto tiempo pasamos frente a las pantallas porque necesitamos tiempo para jugar, correr y divertirnos al aire libre. Los juegos y las aventuras fuera de la pantalla también son muy importantes para nuestra salud. ¿Te gusta jugar en el parque o con tus juguetes?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Vamos a aprender cómo podemos usar la tecnología de manera segura. Siempre es una buena idea pedirle a un adulto que te ayude cuando quieras ver algo nuevo en la tablet o la computadora. Ellos pueden ayudarte a encontrar videos y juegos que son seguros y divertidos para ti. Es como tener un superhéroe que te protege mientras exploras. ¿No es genial tener a alguien que te cuida mientras aprendes?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Tú puedes ser un experto en el uso de la tecnología! Solo necesitas recordar algunas reglas fáciles. Por ejemplo, después de usar una pantalla, es bueno descansar tus ojos mirando por la ventana o dibujando algo bonito. También puedes contar hasta diez mientras respiras profundamente. ¡Vamos a intentarlo juntos! Uno, dos, tres... ¡Muy bien! Esto ayuda a que tus ojos se sientan mejor."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Recordemos lo importante que es tener hábitos saludables de pantalla. No solo es importante cuánto tiempo pasamos frente a la pantalla, sino también lo que hacemos. Podemos elegir juegos que nos hagan pensar, como rompecabezas, o que nos enseñen algo nuevo, como los números o las letras. Así, no solo nos divertimos, sino que también aprendemos. ¿Cuál es tu juego educativo favorito?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Hablemos ahora de la seguridad digital. Esto significa proteger nuestra información cuando usamos la tecnología. Nunca debemos compartir nuestra dirección, nuestro nombre completo o nuestra escuela con extraños en línea. Es como un secreto especial que solo compartimos con nuestra familia y amigos cercanos. Siempre es mejor preguntar a un adulto si no estás seguro. ¡Ellos están ahí para ayudarte!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Lo estás haciendo genial! Es importante recordar que usar la tecnología puede ser divertido y educativo. Pero también debemos asegurarnos de tener un equilibrio. Esto significa que después de un rato frente a la pantalla, es hora de movernos y jugar. ¿Te gustaría saltar o bailar un poco ahora? ¡Vamos a movernos y divertirnos juntos!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "¿Recuerdas lo que hablamos sobre pedir ayuda a los adultos? Es una parte importante de mantenernos seguros mientras usamos la tecnología. Los adultos pueden ayudarnos a entender qué juegos o videos son adecuados para nuestra edad. También pueden enseñarnos nuevas formas de usar la tecnología para aprender cosas increíbles. Tal vez puedas pedirles que te muestren una aplicación nueva hoy."
+    },
+    {
+      "id": "scene_8",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Ahora que sabemos cómo usar la tecnología de forma segura, ¡podemos divertirnos mucho más! ¿Te imaginas todas las cosas que podrías aprender con la ayuda de la tecnología? Desde descubrir nuevos animales hasta explorar el espacio, las posibilidades son infinitas. ¿Qué te gustaría aprender hoy? Tal vez puedas contárselo a un adulto para que te ayude a buscar información."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Recuerda también que la tecnología no es solo para jugar. Podemos usarla para crear cosas maravillosas, como dibujos en la tablet o escribir historias. ¿Te gusta dibujar o inventar cuentos? Puedes probar a hacer un dibujo de tu personaje favorito o crear una historia sobre un viaje espacial. ¡Usa tu imaginación y diviértete!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "¡Qué emocionante es crear usando la tecnología! Y no olvides que también puedes compartir tus creaciones con tu familia. Ellos estarán muy orgullosos de ver lo que has hecho. Tal vez puedas mostrarles tu dibujo o contarles tu historia esta noche. ¡Seguro que les encantará! ¿Te gustaría intentarlo?"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ahora, hablemos de cómo podemos elegir contenido positivo en la tecnología. Es importante buscar programas y juegos que nos enseñen cosas nuevas y nos hagan sentir bien. Podemos buscar historias sobre amistad, aventuras o ciencia. Así, no solo nos divertimos, sino que también aprendemos y crecemos. ¿Cuál es tu historia favorita?"
+    },
+    {
+      "id": "question_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "¿Te has divertido aprendiendo sobre el uso seguro de la tecnología? Espero que sí. ¿Qué fue lo que más te gustó? Tal vez fue aprender sobre cómo proteger nuestra información o cómo encontrar juegos educativos. Me encantaría saber qué piensas. ¿Hay algo que quieras explorar más?"
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Es genial que ahora sepas más sobre el tiempo de pantalla y la seguridad digital. Recuerda siempre hablar con un adulto si tienes dudas sobre algo que ves en la pantalla. Ellos están ahí para ayudarte a navegar por el mundo digital de forma segura. Y no olvides disfrutar de tus aventuras fuera de la pantalla también. ¡Hay un mundo entero por explorar!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Fue maravilloso compartir esta aventura contigo. Espero que hayas aprendido mucho sobre cómo usar la tecnología de manera segura y saludable. Recuerda que siempre puedes volver a esta historia cuando necesites un recordatorio. ¡Hasta la próxima, pequeño explorador! Sigue aprendiendo y divirtiéndote con seguridad. ¡Adiós!"
+    }
+  ],
+  "title": "Historia de Screen Time de Mino"
+}

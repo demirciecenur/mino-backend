@@ -1,0 +1,104 @@
+{
+  "id": "koko_temps_d'écran_sécurité_numérique_utilisation_de_la_technologie_habitudes_saines_d'écran_story",
+  "character": "Koko",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Koko, ton ami protecteur. Aujourd'hui, nous allons explorer le monde magique de l'écran et de la technologie. Ensemble, nous allons découvrir comment utiliser nos écrans de manière amusante et sécurisée. Es-tu prêt pour cette aventure ? Je suis ici pour t'encourager et te guider tout au long du chemin. Allons-y !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de ce que sont les écrans. Un écran, c'est comme une fenêtre magique qui nous permet de voir des choses incroyables. Tu sais, comme regarder des dessins animés ou jouer à des jeux amusants. Mais il est important de ne pas passer trop de temps devant ces écrans. Pourquoi ? Parce que nos yeux et notre esprit ont besoin de repos pour rester en bonne santé. Alors, qu'en dis-tu ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Rappelle-toi, il est essentiel de fixer des limites pour le temps d'écran. Par exemple, tu peux jouer sur la tablette pendant une demi-heure, puis faire une pause. Pendant cette pause, tu peux faire quelque chose d'amusant, comme lire un livre ou jouer dehors. Cela aide à garder ton esprit vif et ton corps en forme. Ensemble, établissons un horaire amusant et équilibré. Qu'en penses-tu ?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Tu fais un excellent travail en respectant ton temps d'écran. N'oublie pas que tu es fort et capable de gérer ton temps comme un super-héros. Chaque fois que tu choisis de faire une pause, tu deviens plus fort et plus sain. Continue comme ça, et tu verras à quel point c'est bénéfique. Je suis fier de toi !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Passons maintenant à la sécurité numérique. Il est important de se sentir en sécurité lorsque nous utilisons la technologie. Par exemple, ne partage jamais ton nom ou ton adresse avec quelqu'un que tu ne connais pas en ligne. C'est comme garder un secret spécial pour toi et ta famille. Ensemble, nous pouvons créer un espace sûr et amusant pour explorer. Tu es prêt à apprendre comment ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour être en sécurité en ligne, utilise toujours un mot de passe secret. C'est comme une clé magique que seul toi et tes parents connaissez. Assure-toi que ton mot de passe est difficile à deviner pour les autres. Par exemple, utilise une combinaison de lettres et de chiffres. Ensemble, nous pouvons protéger nos informations personnelles. Tu veux essayer de créer un mot de passe secret ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Maintenant que nous avons parlé de sécurité, voyons comment utiliser la technologie de façon amusante. Tu peux utiliser des applications éducatives pour apprendre de nouvelles choses, comme des animaux ou des couleurs. C'est comme avoir une école amusante dans ta poche ! Et n'oublie pas que tes parents peuvent t'aider à choisir les meilleures applications. Ensemble, faisons de l'apprentissage un jeu amusant !"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Tu fais un travail incroyable en utilisant la technologie de manière intelligente. Rappelle-toi, chaque fois que tu apprends quelque chose de nouveau, tu deviens plus fort et plus sage. Continue à explorer et à découvrir de nouvelles choses. Je suis là pour t'encourager à chaque étape. Tu es vraiment incroyable !"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et toi, quel est ton moment préféré pour utiliser ton écran ? Est-ce que c'est pour regarder des dessins animés ou pour jouer à des jeux ? Peut-être préfères-tu apprendre quelque chose de nouveau ? Partage avec moi, j'aimerais savoir ce que tu aimes le plus. Ensemble, nous pouvons créer des moments d'écran amusants et équilibrés."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Continuons avec les habitudes saines d'écran. C'est important de bouger et de jouer, même lorsque tu utilises la technologie. Tu peux faire des pauses pour sauter, danser ou courir. Cela aide ton corps à rester en forme et à être en bonne santé. Ensemble, faisons quelques mouvements amusants. Prêt ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Rappelle-toi, après chaque session d'écran, fais une pause pour te dégourdir les jambes. Tu peux aussi prendre quelques respirations profondes pour te détendre. Inspirons ensemble, un, deux, trois, et expirons, un, deux, trois. Cela aide ton esprit à se sentir calme et rafraîchi. Es-tu prêt à essayer ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Formidable ! Faire des pauses et respirer est une excellente habitude. Cela montre à quel point tu es fort et responsable. Continue comme ça, et tu verras à quel point c'est bénéfique pour ton corps et ton esprit. Je suis tellement fier de toi pour avoir pris soin de toi de cette façon. Bravo !"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "N'oublie pas, il est important de parler à tes parents de ce que tu fais en ligne. Ils peuvent t'aider à faire des choix intelligents et sûrs. C'est comme avoir un super équipier à tes côtés. Ensemble, vous pouvez explorer le monde numérique de manière amusante et sécurisée. Es-tu prêt à partager tes aventures avec eux ?"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "As-tu des questions sur comment utiliser tes écrans de manière amusante et sécurisée ? Peut-être as-tu des idées sur comment passer du temps loin de l'écran ? J'aimerais beaucoup entendre tes pensées. Ensemble, nous pouvons créer des habitudes amusantes et équilibrées. Qu'en penses-tu ?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce temps avec moi, petit ami. Nous avons appris tant de choses sur l'utilisation des écrans de manière amusante et sécurisée. Souviens-toi, tu es fort, intelligent et capable de faire des choix judicieux. Je suis là pour te soutenir à chaque étape du chemin. À bientôt pour une autre aventure amusante et éducative ! Au revoir !"
+    }
+  ],
+  "title": "Histoire de Screen Time de Koko"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "elisa_the_ice_fairy_friendship_story",
+  "character": "Elisa the Ice Fairy",
+  "topic": "friendship",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Elisa the Ice Fairy. Bugün birlikte arkadaşlık hakkında harika bir yolculuğa çıkacağız. Arkadaşlık, hayatımızda çok önemli bir yere sahiptir. Birlikte eğlenceli anılar biriktirmek ve birbirimize destek olmak için arkadaşlara ihtiyacımız var. Hazır mısın? Seni çok merak ediyorum."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlık, iki veya daha fazla kişinin birbirine karşı duyduğu sevgi ve saygı ile oluşur. İyi bir arkadaş, her zaman yanımızda olan ve bizi destekleyen kişidir. Mesela, oyuncaklarımızı paylaşmak ya da birlikte oyunlar oynamak arkadaşlık için harika bir başlangıçtır. Arkadaşlık, birlikte gülmek, eğlenmek ve birbirimize yardım etmek demektir. Unutma, iyi bir arkadaş her zaman kalbinin bir parçası olur."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, iyi bir arkadaş olmanın yollarını keşfedelim. İyi bir arkadaş, her zaman dürüst ve nazik olur. Başkalarına saygı göstermek ve onları dinlemek çok önemlidir. Arkadaşlarımızın duygularını anlamaya çalışmak ve onlara destek olmak da güzel bir davranıştır. Mesela, bir arkadaşın üzgün olduğunda ona sarılmak ve onunla konuşmak harika bir destektir. Bu şekilde arkadaşlığınız güçlenir ve daha da güzelleşir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Birlikte bir oyun oynayalım! Şimdi gözlerini kapat ve en sevdiğin arkadaşını düşün. Onunla oynadığın en eğlenceli anı hatırla. Bu anı, arkadaşlığınızın ne kadar değerli olduğunu gösterir. Harika! Unutma, arkadaşlık her zaman özel ve değerlidir. Sen de harika bir arkadaşsın!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda, iyi bir arkadaş olmanın yollarını keşfetmiştik. Şimdi, arkadaş edinmenin ne kadar eğlenceli olabileceğini konuşalım. Yeni bir arkadaş edinmek, yeni bir maceraya çıkmak gibidir. Onlarla yeni oyunlar keşfetmek ve birlikte gülmek çok zevklidir. Yeni arkadaşlar edinmek için cesur olmalısın ve kendin gibi davranmalısın. Her zaman kibar ve açık ol, bu şekilde birçok yeni arkadaş kazanabilirsin."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, yeni bir arkadaş edinmek için neler yapabileceğimizi düşünelim. İlk olarak, kendinizi tanıtmak ve gülümsemek harika bir başlangıçtır. Onlara hangi oyunları sevdiğinizi ve neler yapmaktan hoşlandığınızı söyleyebilirsiniz. Ayrıca, onların sevdikleri şeyleri sormak da güzel bir fikirdir. Böylece ortak ilgi alanlarınızı bulabilir ve birlikte keyifli zaman geçirebilirsiniz. Unutma, her yeni arkadaş yeni bir dünyayı keşfetmek demektir."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Şimdi, birlikte nefes alalım ve rahatlayalım. Derin bir nefes al ve yavaşça ver. Harika! Kendini daha iyi hissediyorsun değil mi? Arkadaşlık da böyle bir şeydir, birbirimize huzur ve mutluluk verir. Sen de bu huzuru hisset ve arkadaşlarınla paylaş. Sen harika bir arkadaşsın!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Hatırlıyor musun, bir önceki sahnede yeni arkadaşlar edinmekten bahsetmiştik. Şimdi, arkadaşlarımızla nasıl güzel vakit geçirebileceğimizi konuşalım. Birlikte oyunlar oynamak, hikayeler anlatmak ve hatta birlikte dans etmek çok eğlencelidir. Arkadaşlarımızla geçirdiğimiz her an, kalbimize güzel anılar olarak kazınır. Her anı değerli kılmak için birbirimize sevgi ve saygı göstermeliyiz."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Birlikte en sevdiğin arkadaşını düşünmeye ne dersin? Onunla oynamaktan en çok hoşlandığın oyun hangisi? Bu oyunu neden bu kadar sevdiğini bana anlatır mısın? Belki de bu oyun, arkadaşlığınızın ne kadar güçlü olduğunu gösteriyordur. Harika! Şimdi, bu güzel anıyı kalbinde sakla."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda, en sevdiğin oyundan bahsetmiştin. Şimdi, bu oyunu arkadaşlarınla nasıl daha da eğlenceli hale getirebileceğini düşünelim. Belki oyuna yeni kurallar ekleyebilir veya farklı bir mekanda oynayabilirsiniz. Arkadaşlarınla birlikte yeni şeyler denemek her zaman heyecan vericidir. Unutma, her yeni deneyim arkadaşlığınızı güçlendirir ve daha da eğlenceli hale getirir."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Arkadaşlarımızla geçirdiğimiz zaman, bize mutluluk ve huzur verir. Onlarla paylaştığımız anılar, her zaman kalbimizde özel bir yer tutar. Arkadaşlık, bizi daha güçlü ve mutlu yapar. Birlikte güldüğümüz ve birbirimize destek olduğumuz her an, arkadaşlığımızı daha da güçlendirir. Her zaman arkadaşlarının yanında ol ve onların da senin yanında olmalarına izin ver."
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, birlikte bir oyun daha oynayalım. Gözlerini kapat ve en sevdiğin anıyı düşün. Bu anı, arkadaşlarınla paylaştığın en güzel an olabilir. Harika! Senin için ne kadar önemli olduğunu ve seni nasıl mutlu ettiğini düşün. Bu anıyı her zaman kalbinde sakla ve yeni anılar biriktirmek için arkadaşlarınla birlikte olmaya devam et."
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen harika bir arkadaşsın ve bunu her zaman hatırlamalısın. Arkadaşlarına gösterdiğin sevgi ve saygı, onların da sana aynı şekilde karşılık vermesini sağlar. Birlikte geçirdiğiniz her an, arkadaşlığınızı daha da güçlendirir. Senin gibi bir arkadaşa sahip olmak, herkes için büyük bir şans. Unutma, sen her zaman sevgi dolu ve nazik bir kalbe sahipsin."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün arkadaşlık hakkında çok güzel şeyler öğrendik. Seninle bu yolculuğa çıkmak benim için çok keyifliydi. Unutma, arkadaşlık her zaman kalbimizin en özel köşesinde yer alır. Her zaman sevgi dolu ve nazik ol, arkadaşlarınla birlikte harika anılar biriktir. Şimdi, seninle vedalaşma zamanı. Bir sonraki görüşmemizde tekrar buluşmak üzere, hoşça kal!"
+    }
+  ],
+  "title": "Elisa The Ice Fairy'ın Friendship Hikayesi"
+}

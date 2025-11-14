@@ -1,0 +1,98 @@
+{
+  "id": "ocean_dreamer_moa_screen_time_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "screen_time",
+  "language": "en",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hello little friends! I'm Ocean Dreamer Moa, and today we're going to embark on a fantastic adventure about screen time. Are you ready to explore with me? Together, we'll discover fun ways to balance our time with screens and enjoy the wonders around us. I can't wait to share this exciting journey with you. Let's dive right in and see what we can learn today!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now, let's imagine our screens are like a magical window to the world. They can show us amazing things, like colorful fish in the ocean or stars in the sky. But just like when we sail too long without resting, spending too much time with screens can make us feel tired. It's important to have a balance, so we stay happy and healthy. What do you think we should do to keep that balance?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "One way to balance screen time is by setting a timer. Imagine it's like a little sand clock that helps us know when to take a break. We can use the extra time to explore the world around us, like playing outside or reading a storybook. It's also a good idea to talk to a grown-up about how much screen time is okay. They can help us make a plan and stick to it!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Great job listening, my adventurous friends! Now, let's practice taking a short break together. We'll close our eyes and take three calm breaths. Ready? Breathe in... and out. Again, in... and out. One last time, in... and out. Doesn't that feel refreshing? Remember, taking little breaks helps us stay energized and ready for more fun!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Remember when we talked about the timer? It's also fun to think of screen time like a treasure chest. We can fill it with special moments, like watching a favorite show or playing an educational game. But too much treasure can be heavy! So, it's important to choose wisely and make sure we have time for other treasures, like playing with friends or drawing pictures."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's continue by thinking about our favorite activities. We can make a list of things we love to do that don't involve screens. It might include building with blocks, painting, or even making up a fun dance! By having this list, we can easily pick something to do when it's time to take a break from screens. What are some of your favorite activities?"
+    },
+    {
+      "id": "scene_6",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Do you like to go on adventures with your toys or maybe explore outside? What is your favorite thing to do when you're not using a screen? I'm so curious to know what brings you joy and excitement. Sharing our ideas can help us discover even more fun things to do. Let's think about it together!"
+    },
+    {
+      "id": "scene_7",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Wonderful! It's fantastic to hear about all the fun activities you enjoy. Now, let's imagine we're on an island with our friends. We can build sandcastles, find seashells, or even play pretend games. These adventures can be just as exciting as any game or show on a screen. Let's make sure we have time for both kinds of adventures in our day!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Next, we can think about how screens can sometimes be like a boat. They can take us to amazing places, but we need to steer carefully. If we spend too much time on the boat, we might miss the beautiful island right next to us. So, let's use our screens wisely and enjoy the real world adventures too. What do you think we should do next on our adventure?"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Let's try a fun exercise together! We'll stand up and pretend we're big, strong trees. Ready? Stretch your arms up high like branches reaching for the sky. Now, sway gently like the wind is blowing. This helps our bodies feel good after sitting with screens. It's a great way to keep our energy up and our minds fresh. You can do it!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Fantastic job, everyone! You're doing so well at balancing your screen time. Remember, it's okay to enjoy screens, but it's also important to explore and play. You're like little adventurers discovering the world. Keep up the great work, and you'll always find new and exciting things to do. I'm so proud of you!"
+    },
+    {
+      "id": "scene_11",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Now let's think about how we can use our imagination. We can pretend to be explorers finding hidden treasures or astronauts flying to the moon. Using our imagination is like having a magical key that opens the door to endless adventures. It helps us create our own stories, just like the ones we see on screens. What kind of adventure would you like to go on next?"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "That's an amazing idea! Your imagination is so powerful, and it can take you anywhere you want to go. Whether it's a jungle safari or a trip to the stars, your adventures can be as exciting as any screen story. Keep dreaming big, and you'll always have a world full of possibilities. Now, let's wrap up our adventure for today."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Thank you for joining me on this wonderful journey about screen time. Remember, balancing screen time with other activities makes every day an adventure. Keep exploring, playing, and learning new things. I can't wait to hear about all the exciting adventures you go on. Until next time, keep dreaming and stay adventurous. Goodbye, my little explorers!"
+    }
+  ],
+  "title": "Ocean Dreamer Moa's Screen Time Story"
+}

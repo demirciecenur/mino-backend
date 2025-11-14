@@ -1,0 +1,98 @@
+{
+  "id": "piggy_friend_bedtime_story",
+  "character": "Piggy Friend",
+  "topic": "bedtime",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, petit ami ! Je suis Piggy Friend, et aujourd'hui, nous allons parler de l'heure du coucher. C'est un moment spécial pour se détendre et se préparer à dormir. Es-tu prêt pour cette aventure amusante ? J'adore me préparer pour le lit, et je suis curieux de savoir comment tu fais. Allons explorer ensemble ce que nous faisons avant de dire bonne nuit."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Alors, après avoir parlé de l'heure du coucher, commençons par le bain. Un bon bain chaud est très relaxant et aide à se sentir propre et frais. As-tu déjà remarqué comme l'eau peut être apaisante ? Elle fait des bulles amusantes, et on peut jouer avec les jouets flottants. C'est aussi le moment de bien se frotter et de sentir bon avant de mettre son pyjama."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant que nous sommes propres, parlons du pyjama. Choisir un pyjama confortable est très important pour bien dormir. As-tu un pyjama préféré avec des motifs amusants ? Peut-être des étoiles ou des animaux ? Le pyjama doit être doux et bien ajusté pour que tu puisses bouger librement pendant ton sommeil. N'oublie pas de mettre tes chaussettes si tu as froid aux pieds !"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super, tu as mis ton pyjama ! Maintenant, c'est le moment de te brosser les dents. C'est très important pour garder tes dents fortes et en bonne santé. Sais-tu combien de temps tu dois te brosser les dents ? Essayons de compter ensemble jusqu'à vingt pour être sûrs de bien les nettoyer. Tu peux le faire, c'est facile et amusant !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après t'être brossé les dents, il est temps de choisir un livre pour l'histoire du soir. Les histoires sont magiques et t'aident à rêver. As-tu un livre préféré que tu aimes lire avant de dormir ? Peut-être une aventure avec des animaux ou une histoire de princesse ? Lire une histoire calme aide à se détendre et à préparer ton esprit pour le sommeil."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Avant de commencer l'histoire, n'oublie pas de dire bonne nuit à tes jouets. C'est gentil de leur souhaiter une bonne nuit, tout comme à toi. Tu peux les ranger ou les placer confortablement sur ton lit. Ils seront ravis de t'accompagner dans tes rêves. C'est une belle façon de montrer que tu prends soin d'eux."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Maintenant, tu es prêt pour l'histoire ! Trouve un endroit confortable dans ton lit avec ton doudou préféré. C'est le moment de te détendre et d'écouter attentivement. Les histoires peuvent te faire voyager dans des mondes fantastiques. Ferme les yeux et imagine les scènes dans ta tête. C'est presque comme si tu étais dans l'histoire, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après l'histoire, il est temps de dire bonne nuit à tout le monde. Peut-être que tu aimes faire un câlin à maman ou papa avant de dormir. Les câlins sont réconfortants et montrent qu'on s'aime. Cela te donne aussi un sentiment de sécurité avant de fermer les yeux. Tu es entouré d'amour et prêt à faire de beaux rêves."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Dis-moi, as-tu un rituel spécial avant de dormir ? Peut-être une petite chanson ou une berceuse que tu aimes écouter ? Chanter doucement peut être très apaisant et aider à se détendre. Aimes-tu écouter de la musique douce avant de dormir ? C'est une belle façon de terminer la journée."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Après avoir parlé de tes rituels, n'oublions pas de prendre quelques respirations profondes. Respirer calmement aide à se relaxer et à se préparer pour le sommeil. Faisons-le ensemble : inspire profondément par le nez, puis expire lentement par la bouche. On peut le faire trois fois pour se sentir complètement détendu. C'est un moment paisible pour toi."
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Une autre chose importante est de s'assurer que la chambre est prête pour la nuit. La lumière doit être tamisée pour que ce soit agréable pour dormir. Peut-être qu'une veilleuse douce peut t'aider à te sentir en sécurité. Vérifie que tu es bien couvert avec ta couverture préférée. Tout est prêt pour une bonne nuit de sommeil."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo, tu as fait tout ce qu'il faut pour te préparer au coucher ! Tu es un champion des routines du soir. Maintenant, tu peux te détendre et laisser ton esprit s'évader dans de doux rêves. Tu as travaillé dur aujourd'hui, et il est temps de te reposer. Dormir est important pour grandir et être en forme pour demain."
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avant de te dire bonne nuit, as-tu quelque chose que tu aimerais partager ou demander ? Peut-être une pensée ou un rêve que tu as pour demain ? C'est toujours agréable de finir la journée en pensant à quelque chose de positif. Qu'est-ce qui te rend heureux avant de dormir ?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment spécial avec moi, petit ami. J'espère que tu es prêt pour une nuit de sommeil paisible et réparateur. Souviens-toi, chaque jour est une nouvelle aventure qui t'attend. Fais de beaux rêves et à très bientôt pour une autre belle journée. Bonne nuit et dors bien, mon ami !"
+    }
+  ],
+  "title": "Histoire de Bedtime de Piggy Friend"
+}

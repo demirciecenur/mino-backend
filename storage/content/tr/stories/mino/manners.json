@@ -1,0 +1,104 @@
+{
+  "id": "mino_manners_story",
+  "character": "Mino",
+  "topic": "manners",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük yıldızlar! Ben Mino, uzayın en dost canlısı kaşifi. Bugün sizlerle harika bir yolculuğa çıkacağız ve bu yolculukta görgü kuralları hakkında konuşacağız. Görgü kuralları, başkalarına nasıl saygılı davranacağımızı gösteren kurallardır. Hazır mısınız? O zaman kocaman bir gülümsemeyle başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Görgü kuralları, günlük hayatımızda çok önemlidir. Mesela, bir arkadaşımızın oyuncağını alırken izin istemek güzel bir davranıştır. İzin istemek, karşımızdaki kişiye saygı gösterdiğimizi gösterir. Peki, siz hiç bir arkadaşınızdan izin isteyerek bir şey aldınız mı? İzin istemek, arkadaşlarımızla daha iyi anlaşmamızı sağlar."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi, izin istemenin ne kadar önemli olduğunu öğrendik. Bir diğer önemli davranış ise teşekkür etmektir. Birisi bize yardım ettiğinde ya da bir şey verdiğinde teşekkür etmeliyiz. Teşekkür etmek, karşımızdaki kişiyi mutlu eder ve ona değer verdiğimizi gösterir. Hep birlikte teşekkür etmeyi deneyelim mi?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika! Şimdi hep birlikte 'teşekkür ederim' diyelim. Teşekkür etmek, arkadaşlıklarımızı güçlendiren sihirli bir kelimedir. Siz de günlük hayatınızda sık sık teşekkür eder misiniz? Unutmayın, teşekkür etmek kalpleri ısıtan bir davranıştır. Haydi, şimdi bir sonraki konumuza geçelim!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda teşekkür etmenin öneminden bahsetmiştik. Şimdi sıra özür dilemeye geldi. Bazen istemeden de olsa birilerini üzebiliriz. Böyle durumlarda özür dilemek çok önemlidir. Özür dilediğimizde, hatamızı kabul ettiğimizi ve karşımızdaki kişiyi önemsediğimizi gösteririz. Siz hiç özür dilediniz mi?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Özür dilemek, hatalarımızdan ders çıkarmamıza yardımcı olur. Eğer bir arkadaşınızı kırdıysanız, hemen özür dilemelisiniz. Özür dilemek, ilişkilerimizi yeniden düzeltmek için harika bir yoldur. Şimdi birlikte 'özür dilerim' demeyi deneyelim. Bu kelime, çok güçlü ve iyileştiricidir."
+    },
+    {
+      "id": "scene_6",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Özür dilemek bazen zor gelebilir, ama cesaretle denemeliyiz. Hadi, siz de özür dilemeyi denediniz mi? Özür dilemek, herkesin kalbinde bir ışık yakar. Şimdi, bir sonraki güzel davranışa geçelim. Sırada sabırlı olmak var!"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Sabırlı olmak, beklememiz gerektiğinde sakin kalmak demektir. Mesela, sıra beklerken sabırlı olmalıyız. Sabırlı olmak, hem kendimize hem de başkalarına saygı göstermemizi sağlar. Siz de sabırlı olmayı sever misiniz? Sabırlı olduğumuzda, her şey daha güzel olur."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sabırlı olmak, bazen zor olabilir ama denemeye değer. Şimdi üç derin nefes alalım ve sabırlı olmanın tadını çıkaralım. Derin nefes almak, sakinleşmemize ve sabırlı olmamıza yardımcı olur. Hazır mısınız? Bir, iki, üç! Harika, şimdi daha sakin ve sabırlıyız."
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki nefes egzersizimizde sabırlı olmayı denedik. Şimdi paylaşmanın önemine bakalım. Paylaşmak, başkalarıyla bir şeyleri birlikte kullanmak demektir. Oyuncaklarımızı, yiyeceklerimizi ya da kitaplarımızı paylaşabiliriz. Paylaşmak, arkadaşlıklarımızı güçlendirir ve mutlu eder. Siz de paylaşmayı sever misiniz?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Paylaşmak, herkesin mutlu olmasını sağlar. Bir oyuncağınızı arkadaşlarınızla paylaştığınızda, onların da mutlu olduğunu görebilirsiniz. Paylaşmak, cömertliğin ve dostluğun bir göstergesidir. Şimdi hep birlikte paylaşmayı deneyelim. Bir sonraki adımda, başka hangi güzel davranışları öğrenebiliriz?"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Paylaşmak hakkında konuştuk, peki siz en son ne zaman bir şey paylaştınız? Paylaştığınızda nasıl hissettiniz? Paylaşmanın getirdiği mutluluğu hatırlıyor musunuz? Bu his, çok güzel değil mi? Şimdi, sıradaki güzel davranışa geçelim!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir sonraki güzel davranışımız, dinlemeyi öğrenmek. Dinlemek, karşımızdaki kişiye saygı göstermenin önemli bir yoludur. Birisi konuşurken onu dikkatle dinlemek, ona değer verdiğimizi gösterir. Siz de arkadaşlarınızı dinler misiniz? Dinlemek, yeni şeyler öğrenmemizi ve daha iyi anlamamızı sağlar."
+    },
+    {
+      "id": "scene_13",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Dinlemek, sadece duyduğumuz şeyleri anlamak değil, aynı zamanda karşımızdaki kişiye odaklanmaktır. Dinlerken göz teması kurmak ve başımızı sallamak, karşımızdaki kişiyi önemsediğimizi gösterir. Şimdi hep birlikte bir arkadaşımızı dinlemeyi deneyelim. Dinlemek, ilişkilerimizi güçlendiren harika bir araçtır."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün birlikte görgü kurallarını keşfettik. İzin istemek, teşekkür etmek, özür dilemek, sabırlı olmak, paylaşmak ve dinlemek hakkında konuştuk. Bu güzel davranışlar, bizi daha iyi bir insan yapar ve arkadaşlıklarımızı güçlendirir. Sizlerle bu yolculuğu paylaşmak harikaydı. Bir dahaki sefere yine buluşalım, hoşça kalın!"
+    }
+  ],
+  "title": "Mino'ın Manners Hikayesi"
+}

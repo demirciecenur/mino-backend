@@ -1,0 +1,98 @@
+{
+  "id": "piggy_friend_friendship_story",
+  "character": "Piggy Friend",
+  "topic": "friendship",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Piggy Friend und heute gehen wir auf eine spannende Reise über Freundschaft. Bist du bereit? Ich bin so neugierig auf dich und deine Freunde. Wir werden zusammen viel Spaß haben und lernen, wie wichtig es ist, Freunde zu haben. Lass uns gemeinsam entdecken, was Freundschaft bedeutet."
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft ist etwas ganz Besonderes. Es bedeutet, jemanden zu haben, mit dem man spielen und lachen kann. Freunde helfen uns, wenn wir traurig sind, und teilen unsere Freude. Hast du einen besten Freund? Vielleicht ist es jemand aus deiner Klasse oder jemand, den du im Park getroffen hast. Freunde sind wie ein Geschenk, das uns glücklich macht."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Um ein guter Freund zu sein, müssen wir freundlich und hilfsbereit sein. Wenn dein Freund Hilfe braucht, kannst du ihm deine Hand reichen. Zum Beispiel, wenn jemand seine Spielsachen fallen lässt, kannst du ihm helfen, sie aufzuheben. Das zeigt, dass du ein guter Freund bist. Lasst uns das zusammen üben: Stell dir vor, du hilfst deinem Freund, seine Spielsachen zu sammeln."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig gemacht! Du bist ein toller Helfer. Freunde finden es auch schön, wenn wir mit ihnen teilen. Hast du schon einmal deine Spielsachen mit einem Freund geteilt? Es macht viel mehr Spaß, zusammen zu spielen, als allein. Wenn du dein Lieblingsspielzeug teilst, machst du deinem Freund eine große Freude."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir darüber gesprochen haben, freundlich zu sein? Jetzt lass uns darüber nachdenken, wie wir neue Freunde finden können. Manchmal ist es einfach, jemanden zu fragen: 'Möchtest du mit mir spielen?' So kannst du ganz leicht neue Freunde kennenlernen. Hast du schon einmal jemanden gefragt, ob er mit dir spielen möchte?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Wir können auch Freunde finden, indem wir zuhören. Wenn dein Freund dir etwas erzählt, höre gut zu und zeige Interesse. Frage nach, wenn du etwas nicht verstehst. Das zeigt, dass du wirklich an deinem Freund interessiert bist. Lass uns das zusammen üben: Stell dir vor, dein Freund erzählt dir von seinem neuen Spielzeug."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wunderbar! Ein guter Zuhörer zu sein, ist eine tolle Eigenschaft. Freunde freuen sich, wenn wir ihnen zuhören und ihnen Aufmerksamkeit schenken. Jetzt lass uns überlegen, was wir mit unseren Freunden unternehmen können. Vielleicht könnt ihr zusammen ein Buch lesen oder ein lustiges Spiel spielen. Was macht dir am meisten Spaß mit deinen Freunden?"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, wo wir wissen, wie wir Freunde finden und behalten können, lass uns darüber sprechen, wie wir unsere Freundschaften pflegen. Es ist wichtig, immer nett zu sein und sich zu entschuldigen, wenn man etwas falsch gemacht hat. Hast du schon einmal 'Entschuldigung' gesagt, wenn du jemanden verletzt hast? Es ist ein wichtiger Teil der Freundschaft, ehrlich zu sein."
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Weißt du, was Freundschaft noch stärker macht? Gemeinsame Erlebnisse! Was war dein schönstes Erlebnis mit einem Freund? Vielleicht ein Tag im Zoo oder ein gemeinsames Eisessen. Erinnerungen zu schaffen, die man nie vergisst, ist ein großer Teil der Freundschaft. Was möchtest du als nächstes mit deinem Freund unternehmen?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich an die vielen Dinge, die wir über Freundschaft gelernt haben? Es ist so schön, Freunde zu haben, die uns unterstützen und mit denen wir lachen können. Freundschaft ist wie ein Regenbogen voller Farben, der unser Leben bunter macht. Wir sollten unsere Freunde immer schätzen und ihnen zeigen, wie wichtig sie uns sind."
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein großartiger Freund! Weiter so! Denke immer daran, freundlich, hilfsbereit und ehrlich zu sein. Deine Freunde werden es dir danken und eure Freundschaft wird stark und fröhlich bleiben. Jetzt lass uns zusammen drei tiefe Atemzüge nehmen, um uns zu entspannen. Einatmen, ausatmen, wunderbar!"
+    },
+    {
+      "id": "scene_11",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bist du bereit, noch mehr über Freundschaft zu erfahren? Es gibt noch so viel zu entdecken! Vielleicht kannst du mit deinen Eltern oder Lehrern darüber sprechen. Sie können dir helfen, noch mehr über Freundschaft zu lernen und wie du ein noch besserer Freund sein kannst. Was denkst du, möchtest du das ausprobieren?"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft ist das beste Abenteuer, das wir erleben können. Wir haben heute so viele wichtige Dinge gelernt, die uns helfen, gute Freunde zu sein. Ich hoffe, dass du all diese Tipps in deinem Alltag anwenden kannst. Es ist toll, Freunde zu haben, die uns begleiten und unterstützen. Lass uns immer daran denken, wie besonders Freundschaft ist."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Freundschaft zu sprechen. Ich hoffe, du hattest genauso viel Spaß wie ich. Denk daran, wie wichtig es ist, ein guter Freund zu sein und deine Freundschaften zu pflegen. Ich freue mich darauf, bald wieder mit dir zu sprechen. Bis bald, kleiner Freund, und bleib fröhlich!"
+    }
+  ],
+  "title": "Piggy Friends Friendship Geschichte"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "snowman_buddy_olaf-style_friendship_story",
+  "character": "Snowman Buddy Olaf-style",
+  "topic": "friendship",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, mein kleiner Freund! Ich bin dein Schneemann-Freund, inspiriert von Olaf. Heute machen wir eine spannende Reise über Freundschaft. Bist du bereit? Ich freue mich so darauf, mit dir zu lernen und zu spielen. Lass uns gemeinsam die wunderbare Welt der Freunde entdecken!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft ist etwas ganz Besonderes. Sie bedeutet, jemanden zu haben, mit dem man lachen und spielen kann. Denk mal an deine besten Freunde. Was macht ihr zusammen? Vielleicht spielt ihr im Sandkasten oder malt bunte Bilder. Freunde machen jeden Tag heller und fröhlicher!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Um ein guter Freund zu sein, ist es wichtig, nett zueinander zu sein. Das bedeutet, dass wir teilen und uns gegenseitig helfen. Wenn dein Freund traurig ist, kannst du ihn trösten. Und wenn ihr zusammen spielt, könnt ihr eure Spielsachen teilen. So macht Spielen noch mehr Spaß!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du kannst ein super Freund sein! Denk daran, immer freundlich zu sein und ein Lächeln zu schenken. Das macht alle glücklich. Und wenn du mal nicht weißt, was zu tun ist, frag einfach! Freunde helfen sich immer gegenseitig. Du schaffst das!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Teilen gesprochen haben? Es ist auch wichtig, zuzuhören. Wenn dein Freund etwas erzählt, hör gut zu. So merkt er, dass du dich für ihn interessierst. Das macht eure Freundschaft stark und besonders. Jetzt lass uns zusammen ein kleines Spiel spielen!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Wie wäre es, wenn wir zusammen zählen? Lass uns bis fünf zählen. Eins, zwei, drei, vier, fünf! Großartig gemacht! Zählen kann auch ein Spiel sein, das du mit Freunden spielen kannst. Es macht Spaß und ihr lernt zusammen!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das toll! Es ist so schön, mit dir zu lernen. Freunde lernen immer voneinander. Manchmal bringt ein Freund dir etwas Neues bei. Oder ihr entdeckt zusammen eine neue Spielidee. Das ist das Wunderbare an Freundschaft!"
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Jetzt, da wir über Freundschaft gesprochen haben, können wir noch etwas lernen. Wie wäre es, wenn wir zusammen drei tiefe Atemzüge nehmen? Atme ein... und aus. Noch einmal. Ein... und aus. Und ein letztes Mal. Ein... und aus. Das beruhigt und macht uns bereit für den nächsten Spaß!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Manchmal, wenn wir mit Freunden spielen, gibt es kleine Streitereien. Das ist ganz normal. Wichtig ist, dass wir lernen, uns zu entschuldigen. Wenn wir etwas falsch gemacht haben, können wir 'Entschuldigung' sagen. Das zeigt, dass wir unsere Freunde wirklich mögen."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Hast du schon einmal 'Entschuldigung' gesagt? Wie hat sich das angefühlt? Es ist ein schönes Gefühl, wenn alles wieder gut ist, oder? Freunde verstehen, dass niemand perfekt ist. Sie wissen, dass wir alle unser Bestes versuchen."
+    },
+    {
+      "id": "scene_10",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Lass uns noch ein wenig über das Spielen sprechen. Was ist dein Lieblingsspiel? Vielleicht ist es Verstecken oder Fangen. Spiele sind eine tolle Möglichkeit, um Freundschaften zu stärken. Sie bringen uns zum Lachen und machen glücklich."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist wirklich ein toller Freund! Es ist wunderbar, dich in meiner Schneewelt zu haben. Jeder kann ein guter Freund sein, indem er einfach freundlich und hilfsbereit ist. Du machst das großartig und ich bin stolz auf dich!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt, da wir so viel über Freundschaft gelernt haben, lass uns noch mehr Spaß haben. Vielleicht kannst du heute einem Freund ein Lächeln schenken. Du kannst ihm eine nette Geschichte erzählen oder ein Bild malen. Kleine Gesten machen einen großen Unterschied!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Denke daran, dass Freundschaft wie ein kleiner Samen ist. Wenn wir ihn pflegen, wächst er zu einem großen Baum. Dieser Baum gibt uns Schatten und Früchte. Genau wie Freunde, die uns Freude und Trost bringen. Pflegen wir unsere Freundschaften gut!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Es war so schön, mit dir über Freundschaft zu sprechen. Ich hoffe, du hattest Spaß und hast etwas gelernt. Jetzt ist es Zeit, sich zu verabschieden. Aber keine Sorge, wir sehen uns bald wieder! Bis dahin, bleib ein wunderbarer Freund. Tschüss, mein kleiner Freund!"
+    }
+  ],
+  "title": "Snowman Buddy Olaf-Styles Friendship Geschichte"
+}

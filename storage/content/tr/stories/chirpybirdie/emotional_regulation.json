@@ -1,0 +1,104 @@
+{
+  "id": "chirpy_birdie_emotional_regulation_story",
+  "character": "Chirpy Birdie",
+  "topic": "emotional_regulation",
+  "language": "tr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Merhaba küçük dostum! Ben Chirpy Birdie. Bugün birlikte emotional_regulation hakkında harika bir yolculuğa çıkacağız. Hazır mısın? Seni çok merak ediyorum. Bu yolculukta duygularımızı nasıl daha iyi anlayabileceğimizi öğreneceğiz. Hadi başlayalım!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Emotional_regulation, duygularımızı kontrol edebilme yeteneğidir. Bazen üzgün, bazen mutlu olabiliriz ve bu çok normaldir. Önemli olan, bu duygularla nasıl başa çıkabileceğimizi bilmektir. Mesela, üzgün olduğumuzda bir arkadaşımıza sarılmak ya da derin bir nefes almak iyi hissettirebilir. Şimdi birlikte bazı yöntemler öğrenelim."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Duygularımızı kontrol etmenin bir yolu da derin nefes almaktır. Derin nefes almak, vücudumuzu sakinleştirir ve zihnimizi rahatlatır. Şimdi birlikte derin bir nefes alalım. Burnumuzdan derin bir nefes alıp, yavaşça ağzımızdan verelim. Harika! Bu, kendimizi daha iyi hissetmemize yardımcı olabilir."
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Harika iş çıkardın! Derin nefes almak, zor anlarda bize yardımcı olabilir. Şimdi, başka bir duygu yönetme yolu daha keşfedelim. Duygularımızı ifade etmek için resim yapabiliriz. Sevdiğimiz renkleri kullanarak duygularımızı kağıda dökebiliriz. Bu, hem eğlenceli hem de rahatlatıcıdır."
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bazen bir şeyler bizi kızdırabilir ve bu çok normaldir. Öfkelendiğimizde, sakinleşmek için bir süre yalnız kalabiliriz. Sevdiğimiz bir oyuncağımızla oynamak ya da sevdiğimiz bir şarkıyı dinlemek de iyi gelebilir. Öfkemizi kontrol etmek için bu yöntemleri deneyebiliriz. Unutma, duygularımızı anlamak ve kontrol etmek çok önemlidir."
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Şimdi sana başka bir yöntem öğreteceğim. Duygularımızı kontrol etmek için 5'e kadar sayabiliriz. Bu, zihnimizi sakinleştirmeye yardımcı olur. Hadi birlikte sayalım: bir, iki, üç, dört, beş. Harika! Bu basit ama etkili bir yöntemdir."
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bak, ne kadar iyi gidiyoruz! Duygularımızı yönetmek için birçok yol var. Önemli olan, hangi yöntemin bize iyi geldiğini bulmak. Denemekten korkma ve her zaman kendine güven. Sen bunu yapabilirsin!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Şimdi sana bir soru sormak istiyorum. Sen üzüldüğünde ya da kızdığında ne yapıyorsun? Belki de oyuncaklarınla oynamak ya da resim yapmak hoşuna gidiyordur. Bunu düşün ve cevabını benimle paylaş. Seni dinliyorum!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Bir önceki konuşmamızda duygularımızı kontrol etmek için nefes almayı ve resim yapmayı öğrendik. Şimdi, duygularımızı daha iyi anlamak için bir hikaye dinleyelim. Bir zamanlar küçük bir kuş vardı ve bu kuş bazen çok üzülürdü. Ama üzgün olduğunda, gökyüzüne bakar ve derin nefesler alırdı. Böylece kendini daha iyi hissederdi."
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Bu hikayede gördüğümüz gibi, doğa da bize yardım edebilir. Dışarıda yürüyüş yapmak ya da doğanın seslerini dinlemek, bizi sakinleştirebilir. Sen de doğada vakit geçirmeyi dene. Ağaçların yapraklarının hışırtısını dinleyebilir ya da kuşların cıvıltısını duyabilirsin. Bu, iç huzurunu bulmana yardımcı olabilir."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı kontrol etmek, her zaman kolay değildir. Ama denemeye devam edersek, daha iyi olabiliriz. Bazen hata yapabiliriz ve bu çok normaldir. Önemli olan, her zaman kendimize nazik olmaktır. Hatalarımızdan ders alarak büyüyebiliriz."
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Sen harika bir iş çıkarıyorsun! Unutma, duygularımızı anlamak ve kontrol etmek bir yolculuktur. Bu yolculukta her adım önemlidir. Sen de bu yolculukta her zaman cesur olabilirsin. Kendine inan ve her zaman pozitif ol!"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Bir önceki konuşmamızda doğanın bize nasıl yardımcı olabileceğini konuştuk. Şimdi, günlük hayatımızda duygularımızı nasıl ifade edebileceğimizi düşünelim. Belki de bir günlük tutabiliriz. Günlüğümüze duygularımızı yazabilir ve onları daha iyi anlayabiliriz. Bu, duygularımızı ifade etmenin harika bir yoludur."
+    },
+    {
+      "id": "scene_13",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Duygularımızı kontrol etmek için birçok yöntem öğrendik. Her biri, farklı durumlar için faydalı olabilir. Önemli olan, hangi yöntemin bize en iyi geldiğini bulmaktır. Her zaman denemeye ve öğrenmeye devam edelim. Bu, bizi daha güçlü yapar."
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Bugün harika bir yolculuk yaptık, değil mi? Duygularımızı anlamak ve kontrol etmek için birçok şey öğrendik. Seninle bu yolculuğu paylaşmak çok güzeldi. Her zaman hatırla, duygularını anlamak önemlidir ve sen bunu yapabilirsin. Şimdi, hoşça kal ve bir sonraki sefer görüşmek üzere!"
+    }
+  ],
+  "title": "Chirpy Birdie'ın Emotional Regulation Hikayesi"
+}

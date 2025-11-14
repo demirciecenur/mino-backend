@@ -1,0 +1,104 @@
+{
+  "id": "spider_fighter_régulation_émotionnelle_gestion_des_émotions_se_calmer_autorégulation_story",
+  "character": "Spider Fighter",
+  "topic": "régulation émotionnelle, gestion des émotions, se calmer, autorégulation",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Salut les amis ! Je suis Spider Fighter, votre héros des émotions. Aujourd'hui, nous allons explorer un monde fascinant : la régulation émotionnelle. Cela signifie apprendre à comprendre et à gérer nos émotions. Êtes-vous prêts pour cette aventure incroyable ? Je suis tellement curieux de savoir comment vous ressentez les choses !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, pensez à un moment où vous vous êtes senti vraiment heureux. Peut-être que c'était quand vous avez joué avec un ami ou mangé votre glace préférée. Ces moments sont remplis d'émotions positives. Mais parfois, nous ressentons aussi des émotions comme la colère ou la tristesse. C'est tout à fait normal, et c'est ce que nous allons apprendre à gérer aujourd'hui."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Quand nous ressentons une émotion forte, comme la colère, il est important de prendre une pause. Une bonne façon de le faire est de prendre trois grandes respirations. Inspirons ensemble : un, deux, trois. Vous voyez, cela aide notre corps à se calmer et notre esprit à réfléchir plus clairement. Voulez-vous essayer avec moi ?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Vous avez très bien respiré. Maintenant, continuons avec un autre exercice. Quand vous vous sentez triste, essayez de penser à quelque chose qui vous rend heureux. Peut-être un souvenir d'une journée amusante ou un jouet que vous aimez. Cela peut aider à changer votre humeur et à vous sentir mieux. Vous pouvez le faire, je crois en vous !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous, nos émotions nous aident à comprendre ce qui se passe autour de nous. Elles sont comme des petites alarmes qui nous disent comment nous nous sentons. Parfois, elles sont fortes, mais nous pouvons apprendre à les écouter calmement. C'est comme devenir un super-héros de nos propres émotions. Prêts à continuer cette mission de héros ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons maintenant de l'autorégulation, un mot spécial pour dire qu'on peut contrôler nos réactions. Imaginez que vous êtes un pilote d'avion et que vos émotions sont les boutons du tableau de bord. Vous pouvez les ajuster pour voler en douceur. Si vous êtes en colère, appuyez sur le bouton pause. C'est magique, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes de vrais champions ! Rappelez-vous que c'est normal de ne pas toujours réussir du premier coup. Comme un super-héros qui apprend à utiliser ses pouvoirs, vous avez besoin de pratique. Chaque jour est une nouvelle chance d'essayer. Je suis si fier de vous ! Continuez à être courageux et forts !"
+    },
+    {
+      "id": "scene_7",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, il est utile de parler de ses émotions à quelqu'un. Cela peut être un parent, un enseignant ou un ami. Leur dire comment vous vous sentez peut vous aider à comprendre vos émotions. C'est comme partager un secret spécial qui vous rend plus fort. Qui aimeriez-vous partager vos émotions aujourd'hui ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà ressenti une émotion si forte que vous ne saviez pas quoi faire ? Peut-être que c'était un jour où vous avez perdu un jouet ou quand quelque chose ne s'est pas passé comme prévu. Comment cela vous a-t-il fait sentir ? Penser à ces moments peut nous aider à mieux comprendre nos émotions."
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous, les émotions sont comme des vagues dans l'océan. Parfois, elles sont grandes, parfois petites, mais elles passent toujours. Vous pouvez apprendre à surfer sur ces vagues en restant calme et en utilisant les techniques que nous avons apprises. Prêt à surfer sur la prochaine vague émotionnelle ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons une autre technique amusante pour se calmer : le compte à rebours. Quand vous vous sentez en colère ou triste, comptez à rebours de cinq à zéro. Cinq, quatre, trois, deux, un... et voilà, vous êtes plus calme ! C'est comme appuyer sur le bouton de pause pour votre cœur. Voulez-vous essayer encore ?"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo pour tous vos efforts aujourd'hui ! Vous avez appris tant de choses sur la gestion des émotions. Rappelez-vous, chaque jour est une nouvelle aventure pour devenir encore plus fort. Continuez à pratiquer et à croire en vous-même. Vous êtes incroyables, mes petits héros !"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Ensemble, nous avons découvert comment gérer nos émotions. Que ce soit la joie, la colère ou la tristesse, chaque émotion est importante. En les comprenant, nous devenons plus forts et plus heureux. C'est comme avoir un super-pouvoir dans notre cœur. N'oubliez pas de partager ce que vous avez appris avec vos amis."
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est votre moment préféré de la journée ? Peut-être est-ce quand vous jouez dehors ou quand vous écoutez une histoire. Ces moments sont précieux et nous aident à nous sentir bien. Pensez à votre moment préféré et comment il vous fait sourire. Voulez-vous le partager avec moi ?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure avec moi, Spider Fighter. Vous êtes des experts en émotions maintenant ! Continuez à explorer et à grandir chaque jour. Je serai toujours là pour vous aider à chaque étape. Au revoir, mes amis, et n'oubliez pas de sourire !"
+    }
+  ],
+  "title": "Histoire de Emotional Regulation de Spider Fighter"
+}

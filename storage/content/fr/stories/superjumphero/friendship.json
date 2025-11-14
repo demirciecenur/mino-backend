@@ -1,0 +1,98 @@
+{
+  "id": "super_jump_hero_friendship_story",
+  "character": "Super Jump Hero",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour, mes petits amis! Je suis Super Jump Hero, prêt pour une aventure incroyable sur l'amitié. Aujourd'hui, nous allons découvrir ce que signifie être un bon ami. Êtes-vous prêts? Je suis tellement curieux de savoir comment vous faites des amis. Allons explorer ensemble ce merveilleux monde de l'amitié!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est comme un trésor magique que l'on partage avec les autres. Avez-vous déjà trouvé un trésor? Imaginez que chaque ami est un petit trésor dans votre vie. Les amis rendent nos journées plus joyeuses et amusantes. On peut jouer ensemble, rire ensemble et se soutenir les uns les autres!"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour devenir un bon ami, il est important de partager et d'écouter. Quand un ami parle, on l'écoute attentivement, comme si on écoutait une belle chanson. Et partager, c'est donner un peu de notre cœur et de nos jouets aussi. Vous pouvez partager vos crayons de couleur ou même une histoire drôle!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons ensemble quelque chose de simple. Pensez à un moment où vous avez été un bon ami. Peut-être avez-vous aidé quelqu'un à ramasser ses jouets? Ou peut-être avez-vous partagé votre goûter? Bravo, c'est ça être un super ami! Vous pouvez le faire, je crois en vous!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons du jeu, car jouer ensemble est une belle façon de se faire des amis. Quand on joue, on peut apprendre à connaître nos amis et découvrir ce qu'ils aiment. Peut-être aimez-vous construire des châteaux de sable ou jouer à cache-cache? Jouer ensemble renforce les liens d'amitié!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous la dernière fois que vous avez joué avec un ami. Était-ce amusant? Vous avez peut-être ri aux éclats ou inventé un jeu. Jouer ensemble crée des souvenirs heureux. Ces souvenirs sont comme des étoiles brillantes dans notre cœur!"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Parlons de la gentillesse maintenant. Être gentil, c'est dire des mots doux et aider les autres. Par exemple, si votre ami est triste, vous pouvez lui dire 'Ça va aller'. Ou peut-être lui prêter votre doudou préféré. La gentillesse est comme un petit rayon de soleil qui réchauffe le cœur!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous voyez, même un petit geste peut faire une grande différence. Avez-vous déjà aidé un ami à se sentir mieux? Peut-être en lui faisant un câlin ou en jouant à son jeu préféré. Vous êtes tous des héros de l'amitié! Continuez à être gentils et à faire sourire vos amis!"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Et vous, comment montrez-vous votre amitié? Avez-vous des idées de ce que vous pourriez faire pour rendre vos amis heureux? Peut-être un dessin ou une chanson? Pensez-y, et la prochaine fois que vous verrez un ami, essayez de lui montrer combien il compte pour vous!"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les amis sont là pour nous dans les bons moments et aussi quand ça ne va pas. Ils nous aident à nous sentir mieux et nous font rire. Rappelez-vous qu'un vrai ami est toujours prêt à écouter et à partager. C'est cela qui rend l'amitié si spéciale et précieuse!"
+    },
+    {
+      "id": "scene_10",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Apprendre à dire 'merci' est aussi important dans l'amitié. Quand un ami fait quelque chose de gentil, dire 'merci' montre que vous appréciez son geste. C'est un mot magique qui fait plaisir à entendre et rend l'amitié encore plus forte. Essayons de dire 'merci' ensemble!"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez tous fait un travail merveilleux en apprenant sur l'amitié aujourd'hui! N'oubliez pas que chaque petit geste compte et que vous pouvez être un super ami chaque jour. Je suis tellement fier de vous! Continuez à être les merveilleux amis que vous êtes!"
+    },
+    {
+      "id": "scene_12",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Maintenant, dites-moi, qui est votre meilleur ami? Qu'aimez-vous faire ensemble? Peut-être aimez-vous jouer à des jeux ou lire des histoires? C'est formidable d'avoir des amis avec qui partager de beaux moments. J'aimerais tant connaître vos histoires d'amitié!"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "C'est l'heure de dire au revoir, mes chers amis. Merci d'avoir passé ce moment avec moi pour parler de l'amitié. Souvenez-vous d'être gentils, de partager et de toujours dire merci. Vous êtes tous des amis incroyables et je suis fier de vous. À la prochaine aventure ensemble!"
+    }
+  ],
+  "title": "Histoire de Friendship de Super Jump Hero"
+}

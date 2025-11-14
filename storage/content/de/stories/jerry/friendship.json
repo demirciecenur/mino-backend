@@ -1,0 +1,98 @@
+{
+  "id": "clever_mouse_jerry_friendship_story",
+  "character": "Clever Mouse Jerry",
+  "topic": "friendship",
+  "language": "de",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Hallo, kleiner Freund! Ich bin Clever Mouse Jerry und heute gehen wir auf eine spannende Reise über Freundschaft. Bist du bereit? Ich bin so neugierig auf dich. Zusammen werden wir lernen, wie Freunde finden und gemeinsam spielen. Lass uns loslegen und Spaß haben!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Freundschaft ist etwas ganz Besonderes. Es bedeutet, jemanden zu haben, mit dem man lachen und spielen kann. Freunde helfen sich gegenseitig und teilen ihre Spielsachen. Weißt du, wie schön es ist, einen Freund zu haben, der immer für dich da ist? Jetzt lass uns darüber sprechen, wie wir Freunde finden können."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Um Freunde zu finden, können wir freundlich und hilfsbereit sein. Wenn du auf dem Spielplatz bist, kannst du jemandem helfen, der hingefallen ist. Ein einfaches 'Hallo!' kann der Beginn einer wunderbaren Freundschaft sein. Denk daran, immer zu lächeln und offen für neue Abenteuer zu sein. So finden wir Freunde!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Großartig! Jetzt lass uns zusammen zählen, wie viele Freunde wir heute finden können. Eins, zwei, drei – wie viele Freunde hast du schon? Es macht Spaß, neue Freunde zu finden, nicht wahr? Du machst das toll!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Erinnerst du dich, als wir über das Teilen gesprochen haben? Teilen ist ein wichtiger Teil der Freundschaft. Wenn wir unsere Spielsachen teilen, zeigen wir, dass wir nett und großzügig sind. Vielleicht kannst du deinem Freund dein Lieblingsspielzeug zeigen. Das könnte der Beginn eines neuen Abenteuers sein!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du schon einmal einem Freund geholfen? Es fühlt sich gut an, jemanden zu unterstützen. Vielleicht kannst du deinem Freund helfen, seine Spielsachen aufzuräumen. Gemeinsam macht alles viel mehr Spaß, nicht wahr? Lass uns darüber nachdenken, wie wir unseren Freunden helfen können."
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Freundschaft bedeutet auch, nett zu sein. Wenn dein Freund traurig ist, kannst du ihm ein Lächeln schenken. Manchmal reicht ein kleines Lachen, um jemanden glücklicher zu machen. Erinnerst du dich an ein lustiges Spiel, das ihr zusammen spielen könnt? Lachen ist die beste Medizin!"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du machst das wirklich gut! Erinnerst du dich an ein Lied, das du mit deinen Freunden singen kannst? Musik kann Freunde zusammenbringen. Vielleicht kannst du ein neues Lied lernen und es mit deinen Freunden teilen. Lass uns singen und tanzen!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Jetzt lass uns über das Spielen sprechen. Spiele sind eine großartige Möglichkeit, neue Freunde zu finden. Hast du ein Lieblingsspiel? Vielleicht kannst du es deinen neuen Freunden zeigen. Gemeinsam spielen macht doppelt so viel Spaß!"
+    },
+    {
+      "id": "scene_9",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Hast du schon einmal ein neues Spiel gelernt? Es ist spannend, neue Dinge auszuprobieren. Vielleicht könnt ihr zusammen ein neues Spiel erfinden. Deiner Fantasie sind keine Grenzen gesetzt! Lass uns darüber nachdenken, was wir als Nächstes spielen können."
+    },
+    {
+      "id": "scene_10",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Was denkst du, macht einen guten Freund aus? Ist es jemand, der mit dir spielt oder jemand, der dir hilft? Vielleicht ist es beides! Überlege, was dir bei deinen Freunden wichtig ist. Würdest du das auch für sie tun?"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Freundschaft bedeutet auch, geduldig zu sein. Manchmal muss man warten, bis der Freund bereit ist, zu spielen. Geduld ist wichtig, um eine starke Freundschaft zu haben. Vielleicht kannst du in der Zwischenzeit ein Buch lesen oder ein Bild malen. Geduld zahlt sich immer aus!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Du bist ein wunderbarer Freund! Es ist schön, zu sehen, wie du anderen hilfst und mit ihnen spielst. Denk daran, dass du immer freundlich und hilfsbereit sein sollst. Du kannst das schaffen! Jeder Tag ist eine neue Chance, ein guter Freund zu sein."
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Jetzt ist es Zeit, sich zu verabschieden. Ich hoffe, du hast viel über Freundschaft gelernt. Denk daran, immer freundlich zu sein und deine Freunde zu schätzen. Bis zum nächsten Mal, kleiner Freund! Ich freue mich darauf, bald wieder mit dir zu sprechen. Auf Wiedersehen!"
+    }
+  ],
+  "title": "Clever Mouse Jerrys Friendship Geschichte"
+}

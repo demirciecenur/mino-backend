@@ -1,0 +1,98 @@
+{
+  "id": "shell_heroes_crew_temps_d'écran_sécurité_numérique_utilisation_de_la_technologie_habitudes_saines_d'écran_story",
+  "character": "Shell Heroes Crew",
+  "topic": "temps d'écran, sécurité numérique, utilisation de la technologie, habitudes saines d'écran",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour les amis ! Nous sommes la Shell Heroes Crew, prêts pour une aventure incroyable. Aujourd'hui, nous allons explorer le monde du temps d'écran et comment utiliser la technologie de manière amusante et sécurisée. Êtes-vous prêts à apprendre avec nous ? Nous avons hâte de découvrir tout cela ensemble. Prenez une grande respiration et partons pour cette aventure !"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Le temps d'écran, c'est le temps que nous passons à regarder des écrans comme les télévisions, les tablettes ou les téléphones. C'est amusant de regarder des dessins animés ou de jouer à des jeux, mais il est important de ne pas en faire trop. Pourquoi ? Parce que trop de temps d'écran peut nous empêcher de jouer dehors ou de lire des livres. Vous aimez jouer dehors, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de la sécurité numérique. Cela signifie être en sécurité lorsque nous utilisons Internet. Par exemple, ne jamais parler à des inconnus en ligne, tout comme vous ne le feriez pas dans la rue. Et toujours demander à un adulte de confiance avant de télécharger quelque chose. Vous pouvez aussi faire attention aux informations que vous partagez. C'est simple, non ?"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Super ! Vous apprenez vite. Continuons avec quelques habitudes saines d'écran. Avez-vous déjà essayé de faire une pause toutes les 20 minutes lorsque vous jouez à un jeu ? C'est bon pour vos yeux et vous aide à rester actif. Vous pouvez vous étirer ou même danser un peu. Cela rend l'utilisation de la technologie encore plus amusante !"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Rappelez-vous quand nous avons parlé de faire des pauses ? Eh bien, c'est aussi important de choisir les bons moments pour utiliser les écrans. Comme après avoir terminé vos devoirs ou vos tâches, un peu comme une récompense. Cela vous aide à organiser votre temps et à profiter encore plus de vos jeux ou émissions préférées. Vous trouvez ça chouette ?"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Vous faites un excellent travail ! Maintenant, pensons à utiliser la technologie pour apprendre. Il y a tellement de choses intéressantes à découvrir en ligne, comme des vidéos sur les animaux ou des histoires captivantes. Mais souvenez-vous, toujours avec l'aide d'un adulte. Cela vous donne envie d'apprendre quelque chose de nouveau aujourd'hui ?"
+    },
+    {
+      "id": "scene_6",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Et si nous parlions de comment partager nos appareils ? C'est une excellente façon de montrer du respect et de la gentillesse envers les autres. Par exemple, si votre frère ou votre sœur veut jouer aussi, vous pouvez fixer un temps pour chacun. Ainsi, tout le monde peut s'amuser équitablement. Vous aimez partager, n'est-ce pas ?"
+    },
+    {
+      "id": "scene_7",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Génial, vous êtes vraiment doués pour apprendre tout cela ! Maintenant, pensez à combien il est important de dormir suffisamment. Éviter les écrans juste avant de se coucher aide notre cerveau à se détendre et à bien dormir. Vous pouvez lire un livre ou écouter une histoire. Cela vous aide à vous sentir reposé et prêt pour une nouvelle journée. Vous allez essayer ce soir ?"
+    },
+    {
+      "id": "scene_8",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà pensé à faire un plan pour le temps d'écran ? C'est une idée amusante de créer un calendrier avec vos parents pour savoir quand utiliser les écrans. Cela vous aide à équilibrer le temps passé devant l'écran avec d'autres activités amusantes. Qu'en pensez-vous, vous aimeriez essayer ?"
+    },
+    {
+      "id": "scene_9",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "C'est incroyable de voir à quel point vous êtes prêts à apprendre et à explorer. Maintenant que nous avons parlé de toutes ces idées, que diriez-vous de les mettre en pratique ? Vous pouvez commencer par choisir une activité sans écran à faire après cette histoire. Peut-être dessiner ou construire quelque chose ?"
+    },
+    {
+      "id": "scene_10",
+      "type": "listen",
+      "videoKey": "lean_closer",
+      "text": "Je suis curieux de savoir quelles sont vos activités préférées en dehors des écrans. Est-ce que vous aimez jouer au parc, lire des histoires, ou peut-être cuisiner avec vos parents ? Chaque activité est une nouvelle aventure. Partagez vos idées avec nous, nous serions ravis de les entendre !"
+    },
+    {
+      "id": "scene_11",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez été formidables aujourd'hui ! En apprenant à utiliser les écrans de manière intelligente, vous devenez des héros du numérique. Vous pouvez partager ce que vous avez appris avec vos amis et votre famille. Cela vous rend encore plus forts et responsables. Continuez comme ça, vous êtes super !"
+    },
+    {
+      "id": "scene_12",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous, la technologie est là pour nous aider et nous amuser, mais nous devons l'utiliser sagement. En étant prudents et en faisant de bons choix, nous pouvons profiter de tout ce qu'elle a à offrir. Qu'est-ce que vous allez faire maintenant avec tout ce que vous avez appris ?"
+    },
+    {
+      "id": "closure_13",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir passé ce moment avec nous, les amis. Vous avez été incroyables et nous sommes si fiers de vous. Continuez à être curieux et à explorer le monde qui vous entoure. Nous espérons vous revoir très bientôt pour une nouvelle aventure. À bientôt, et souvenez-vous, vous êtes de véritables héros !"
+    }
+  ],
+  "title": "Histoire de Screen Time de Shell Heroes Crew"
+}

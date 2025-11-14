@@ -1,0 +1,104 @@
+{
+  "id": "luna_friendship_story",
+  "character": "Luna",
+  "topic": "friendship",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis Luna, et aujourd'hui, nous allons partir dans un voyage magique sur l'amitié. L'amitié, c'est comme un trésor que l'on découvre ensemble. Êtes-vous prêts à explorer ce monde merveilleux avec moi? J'ai tellement hâte de partager ce moment avec vous. Allons-y, plongeons dans l'univers des amis!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est quand on est heureux de voir quelqu'un et qu'on veut partager des moments joyeux avec lui. Imaginez jouer au parc avec un ami, rire ensemble sur la balançoire. C'est aussi prêter ses jouets ou partager son goûter. L'amitié, c'est aussi écouter quand l'autre a quelque chose à dire. Pensez à un moment où vous avez partagé un secret avec un ami. C'est magique, n'est-ce pas?"
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour être un bon ami, il est important d'être gentil et de sourire. Un sourire peut illuminer la journée de quelqu'un! Vous pouvez aussi dire des mots gentils comme 'merci' ou 's'il te plaît'. C'est comme ajouter des paillettes magiques à votre amitié. Quand vous jouez ensemble, n'oubliez pas de partager et de prendre des tours. Cela rend le jeu encore plus amusant pour tout le monde!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Essayons quelque chose ensemble! Pensez à votre meilleur ami. Maintenant, imaginez que vous lui offrez un beau dessin ou que vous lui chantez une chanson. Vous voyez comme ça le rend heureux? Bravo, vous êtes déjà un excellent ami! N'oubliez pas, l'amitié c'est aussi s'amuser et créer des souvenirs ensemble. Continuez comme ça!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Parfois, il arrive que l'on ait un désaccord avec un ami. Mais ce n'est pas grave! C'est important de parler et de s'écouter pour résoudre le problème. Vous pouvez dire, 'Je suis désolé' ou 'Peut-on essayer autrement?' Cela montre que vous tenez à votre amitié. En discutant calmement, vous pouvez apprendre à mieux vous comprendre. Cela renforce votre lien magique!"
+    },
+    {
+      "id": "scene_5",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Souvenez-vous de la dernière fois où vous avez partagé un moment spécial avec un ami. Peut-être avez-vous construit un château de sable ensemble? Ou bien vous avez joué à cache-cache dans le jardin. Ces souvenirs sont précieux et rendent l'amitié encore plus forte. Chaque petit moment passé ensemble est comme une étoile scintillante dans le ciel de l'amitié."
+    },
+    {
+      "id": "scene_6",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Maintenant, parlons de comment on peut se faire de nouveaux amis. Il suffit parfois de dire bonjour et de sourire. Vous pouvez aussi demander, 'Veux-tu jouer avec moi?' C'est un excellent moyen de commencer une nouvelle amitié. Pensez à toutes les nouvelles aventures que vous pourriez vivre ensemble. Chaque nouvel ami est comme un nouveau livre d'histoires à découvrir."
+    },
+    {
+      "id": "scene_7",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Pour garder une amitié forte, il est important de montrer que vous vous souciez de votre ami. Vous pouvez demander, 'Comment s'est passée ta journée?' ou 'As-tu besoin d'aide?' Cela montre que vous êtes là pour lui. Et n'oubliez pas de dire 'merci' quand votre ami fait quelque chose de gentil pour vous. Ces petites attentions renforcent votre lien."
+    },
+    {
+      "id": "scene_8",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites tellement bien! Continuez à être gentils et attentionnés. Chaque sourire et chaque mot gentil sont comme des graines qui font pousser l'arbre de l'amitié. Vous pouvez le faire! Pensez à toutes les belles choses que vous avez déjà faites pour vos amis. Vous êtes une merveilleuse personne, et vos amis ont beaucoup de chance de vous avoir."
+    },
+    {
+      "id": "scene_9",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà aidé un ami à se sentir mieux quand il était triste? Peut-être avez-vous partagé un jouet ou raconté une blague pour le faire rire. Comment cela vous a-t-il fait sentir? Avez-vous vu son sourire revenir? C'est ça, la magie de l'amitié! Pensez à d'autres façons d'apporter de la joie à vos amis."
+    },
+    {
+      "id": "scene_10",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "L'amitié, c'est un voyage rempli de rires, d'apprentissage et de moments partagés. Chaque jour, vous avez l'occasion de découvrir de nouvelles choses avec vos amis. Pensez à toutes les aventures que vous avez déjà vécues ensemble. C'est comme un livre d'histoires qui ne cesse de s'écrire. Et vous, vous êtes l'auteur de ces belles histoires d'amitié!"
+    },
+    {
+      "id": "scene_11",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Prenons un moment pour respirer calmement ensemble. Inspirez profondément par le nez, et expirez doucement par la bouche. Répétez cela trois fois. Vous voyez comme ça fait du bien? Parfois, prendre une pause aide à mieux apprécier les moments avec nos amis. C'est comme recharger ses batteries pour encore plus de jeux et d'aventures!"
+    },
+    {
+      "id": "scene_12",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous avez appris tant de choses sur l'amitié aujourd'hui! Continuez à explorer, à jouer et à partager avec vos amis. Chaque jour est une nouvelle chance de créer des souvenirs magiques. Vous êtes un ami merveilleux, et je suis si fière de vous. Continuez à briller comme les étoiles dans le ciel!"
+    },
+    {
+      "id": "scene_13",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Quel est votre souvenir préféré avec un ami? Peut-être une promenade dans le parc ou une fête d'anniversaire? Comment cela vous a-t-il fait sentir? Les souvenirs d'amitié sont précieux et nous font sourire même longtemps après. Pensez aux prochaines aventures que vous aimeriez vivre avec vos amis. Quels nouveaux souvenirs allez-vous créer ensemble?"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé ce voyage sur l'amitié avec moi. Vous êtes tous de merveilleux amis, et je suis tellement contente d'avoir passé ce moment avec vous. N'oubliez pas de continuer à sourire, à partager et à créer des souvenirs magiques avec vos amis. À bientôt pour de nouvelles aventures! Au revoir, mes petits amis!"
+    }
+  ],
+  "title": "Histoire de Friendship de Luna"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "ocean_dreamer_moa_sibling_story",
+  "character": "Ocean Dreamer Moa",
+  "topic": "sibling",
+  "language": "fr",
+  "age_range": "2-8",
+  "durationMinutes": 10,
+  "emotions": [
+    "happy"
+  ],
+  "scenes": [
+    {
+      "id": "opening_0",
+      "type": "opening",
+      "videoKey": "wave",
+      "text": "Bonjour mes petits amis! Je suis Ocean Dreamer Moa. Aujourd'hui, nous allons explorer le merveilleux monde des frères et sœurs. Êtes-vous prêts à partir à l'aventure avec moi? Ensemble, nous allons découvrir comment on peut s'amuser et partager de beaux moments avec nos frères et sœurs. J'ai hâte de commencer ce voyage avec vous!"
+    },
+    {
+      "id": "scene_1",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Avez-vous des frères ou des sœurs? Avoir un frère ou une sœur, c'est comme avoir un meilleur ami à la maison. On peut jouer ensemble, partager nos jouets et même inventer de nouvelles histoires. Parfois, on peut se disputer, mais ce n'est pas grave. Ce qui est important, c'est de s'amuser et de prendre soin les uns des autres."
+    },
+    {
+      "id": "scene_2",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, parlons de comment on peut être un bon frère ou une bonne sœur. Il est important d'écouter et de partager. Par exemple, si ton frère ou ta sœur veut jouer avec ton jouet préféré, tu peux lui prêter pendant un moment. Cela montre que tu es gentil et que tu penses aux autres. Tu verras, cela rendra ton frère ou ta sœur très heureux!"
+    },
+    {
+      "id": "scene_3",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous faites du bon travail en écoutant et en partageant! N'oubliez pas que jouer ensemble rend les moments encore plus amusants. Vous pouvez faire un dessin ensemble ou construire une maison avec des blocs. Ces moments sont précieux et vous feront sourire. Continuez à être courageux et à explorer de nouvelles façons de vous amuser ensemble!"
+    },
+    {
+      "id": "scene_4",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Vous souvenez-vous de la dernière fois où vous avez ri avec votre frère ou votre sœur? Ces souvenirs sont spéciaux. Peut-être avez-vous inventé une danse rigolote ou fait un dessin amusant. Ces petits moments de joie vous rapprochent et renforcent votre amitié. C'est comme naviguer ensemble sur un océan de bonheur!"
+    },
+    {
+      "id": "scene_5",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Maintenant, essayons de faire quelque chose ensemble. Prenons trois grandes respirations ensemble. Inspirez profondément, puis expirez lentement. Cela nous aide à nous sentir calmes et heureux. Vous pouvez le faire chaque fois que vous avez besoin de vous sentir mieux ou de vous calmer. C'est un excellent moyen de se détendre avec votre frère ou votre sœur!"
+    },
+    {
+      "id": "scene_6",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Bravo! Vous avez tous fait un excellent travail en respirant profondément. N'oubliez pas que vous pouvez utiliser cette technique à tout moment. C'est un moyen fantastique de rester serein et de profiter de chaque moment passé avec vos frères et sœurs. Continuez à être courageux et à explorer ensemble!"
+    },
+    {
+      "id": "scene_7",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Avez-vous déjà essayé de faire quelque chose de nouveau avec votre frère ou votre sœur? Comme apprendre une nouvelle chanson ou créer une nouvelle histoire. Que pensez-vous que vous pourriez essayer la prochaine fois? Peut-être un jeu de rôle ou une chasse au trésor à la maison. Je suis curieuse de savoir ce que vous allez inventer!"
+    },
+    {
+      "id": "scene_8",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Se souvenir de tous les bons moments passés ensemble est important. Vous pouvez les dessiner ou les raconter à vos parents. Ces souvenirs sont comme des petits trésors que vous gardez dans votre cœur. Ils vous rappellent combien il est précieux d'avoir un frère ou une sœur. Chaque moment est une nouvelle aventure à partager!"
+    },
+    {
+      "id": "scene_9",
+      "type": "instruction",
+      "videoKey": "hand_on_hip",
+      "text": "Essayons de compter ensemble les choses que vous aimez faire avec votre frère ou votre sœur. Un, jouer ensemble. Deux, partager des histoires. Trois, faire des dessins. Quatre, rigoler ensemble. Cinq, découvrir de nouvelles choses. C'est incroyable tout ce que vous pouvez faire ensemble!"
+    },
+    {
+      "id": "scene_10",
+      "type": "encouragement",
+      "videoKey": "raise_hand",
+      "text": "Vous êtes formidables! Continuez à explorer et à découvrir de nouvelles choses avec vos frères et sœurs. Vous avez tant de talents et d'idées à partager. Chaque jour est une nouvelle aventure pleine de surprises et de rires. Vous pouvez y arriver, et je suis sûre que vous allez créer de merveilleux souvenirs ensemble!"
+    },
+    {
+      "id": "scene_11",
+      "type": "question",
+      "videoKey": "lean_closer",
+      "text": "Qu'est-ce que vous aimeriez faire demain avec votre frère ou votre sœur? Peut-être une promenade dans le jardin ou lire un livre ensemble. Pensez à quelque chose de spécial que vous aimeriez essayer. Je suis impatiente d'entendre toutes vos idées amusantes et créatives!"
+    },
+    {
+      "id": "scene_12",
+      "type": "speak",
+      "videoKey": "talking",
+      "text": "Les frères et sœurs sont de vrais trésors. Ils sont là pour vous soutenir et vous aider à grandir. Même quand il y a des petits désaccords, l'amour et la compréhension sont toujours présents. Ensemble, vous apprenez et grandissez chaque jour. C'est comme naviguer sur un océan d'amour et d'amitié!"
+    },
+    {
+      "id": "scene_13",
+      "type": "followup",
+      "videoKey": "side_glance",
+      "text": "Rappelez-vous que chaque jour est une nouvelle opportunité de jouer et de créer des souvenirs. Vous avez tellement de potentiel et de courage. Continuez à être gentils et à vous amuser ensemble. Je suis sûre que vous allez vivre encore de nombreuses aventures passionnantes!"
+    },
+    {
+      "id": "closure_14",
+      "type": "closure",
+      "videoKey": "wave",
+      "text": "Merci d'avoir partagé cette aventure avec moi, mes petits amis! J'espère que vous avez appris beaucoup de choses sur vos frères et sœurs. N'oubliez pas de continuer à explorer et à partager chaque jour. Je suis impatiente de vous retrouver pour notre prochaine aventure. À bientôt et prenez soin de vous!"
+    }
+  ],
+  "title": "Histoire de Sibling de Ocean Dreamer Moa"
+}
