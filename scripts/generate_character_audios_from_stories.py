@@ -62,12 +62,30 @@ TOPICS = [
 LANGS = ["de", "en", "es", "fr", "tr"]
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-CONTENT_DIR = PROJECT_ROOT / "mino" / "Content"
+# Try both locations: backend/storage/content (primary) and mino/Content (fallback)
+CONTENT_DIR_BACKEND = PROJECT_ROOT / "backend" / "storage" / "content"
+CONTENT_DIR_IOS = PROJECT_ROOT / "mino" / "Content"
 
 
 def get_story_path(lang: str, character_slug: str, topic: str) -> Path:
-    """Get path to story JSON file."""
-    return CONTENT_DIR / lang / "stories" / character_slug / f"{topic}.json"
+    """Get path to story JSON file. Try backend/storage/content first, then mino/Content."""
+    # Primary: backend/storage/content/{lang}/stories/{character}/{topic}.json
+    backend_path = CONTENT_DIR_BACKEND / lang / "stories" / character_slug / f"{topic}.json"
+    if backend_path.exists():
+        print(f"📖 Using backend path: {backend_path}")
+        return backend_path
+    
+    # Fallback: mino/Content/{lang}/stories/{character}/{topic}.json
+    ios_path = CONTENT_DIR_IOS / lang / "stories" / character_slug / f"{topic}.json"
+    if ios_path.exists():
+        print(f"📖 Using iOS path: {ios_path}")
+        return ios_path
+    
+    # Debug: print both paths if neither exists
+    print(f"⚠️ Story not found. Tried:")
+    print(f"   Backend: {backend_path}")
+    print(f"   iOS: {ios_path}")
+    return backend_path  # Return backend path anyway for error message
 
 
 def load_story(lang: str, character_slug: str, topic: str) -> Optional[dict]:

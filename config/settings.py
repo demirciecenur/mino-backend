@@ -27,7 +27,10 @@ class Settings:
     # Firebase Configuration
     FIREBASE_STORAGE_BUCKET: str = os.getenv('FIREBASE_STORAGE_BUCKET', 'mino-mobile-app-firebase.appspot.com')
     FIREBASE_PROJECT_ID: str = os.getenv('FIREBASE_PROJECT_ID', '')
-    FIREBASE_SERVICE_ACCOUNT_PATH: str = "firebase-service-account.json"
+    # Firebase service account path: try relative to backend/ directory, then current directory
+    _firebase_path_rel = Path(__file__).parent.parent / "firebase-service-account.json"
+    _firebase_path_cur = Path("firebase-service-account.json")
+    FIREBASE_SERVICE_ACCOUNT_PATH: str = str(_firebase_path_rel if _firebase_path_rel.exists() else _firebase_path_cur)
     FIREBASE_FIRESTORE_DATABASE: str = os.getenv('FIREBASE_FIRESTORE_DATABASE', 'mino')  # Firestore database name
     
     # Audio Storage Paths
@@ -39,6 +42,9 @@ class Settings:
     CORS_ORIGINS: list = [
         "http://localhost:8000",
         "http://127.0.0.1:8000",
+        "http://64.226.88.203",  # Production: DigitalOcean Droplet (FRA1) - Nginx proxy on port 80
+        "http://64.226.88.203:8000",  # Production: Direct access (if firewall allows)
+        "https://api.mino.app",  # Production: Domain (if configured)
     ]
     
     # Character Voice Settings (Storyteller for Kids)

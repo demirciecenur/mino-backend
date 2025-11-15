@@ -539,7 +539,8 @@ async def generate_tts(text: str, style: dict, lang: str, character: str = None,
     # This aligns with how stories are generated and stored (same as ContentLoader.swift)
     topic_mapping = {
         "sleep": "bedtime",                    # sleep → bedtime.json
-        "sibling issues": "sibling_issues",    # sibling issues → sibling_issues.json
+        "sibling issues": ["sibling_issues", "sibling"],  # sibling issues → try sibling_issues.json first, then sibling.json
+        "sibling": ["sibling", "sibling_issues"],        # sibling → try sibling.json first, then sibling_issues.json (fallback)
         "screen time": "screen_time",          # screen time → screen_time.json
         "digital safety": "digital_safety",    # digital safety → digital_safety.json
         "feeling sad": "feeling_sad",          # feeling sad → feeling_sad.json
@@ -551,7 +552,13 @@ async def generate_tts(text: str, style: dict, lang: str, character: str = None,
     
     # Map topic to actual file name (same logic as ContentLoader)
     topic_normalized = topic.lower() if topic else None
-    topic_file = topic_mapping.get(topic_normalized, topic_normalized) if topic_normalized else None
+    topic_mapped = topic_mapping.get(topic_normalized, topic_normalized) if topic_normalized else None
+    
+    # Handle list of candidates (try first, then fallback)
+    if isinstance(topic_mapped, list):
+        topic_file = topic_mapped[0]  # Use first candidate
+    else:
+        topic_file = topic_mapped
     
     print(f"🔊 [TTS] Generating audio: character={character_normalized}, topic={topic_normalized} → {topic_file}, lang={lang}, scene_index={scene_index}")
 

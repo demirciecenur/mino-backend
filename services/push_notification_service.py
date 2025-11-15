@@ -25,9 +25,14 @@ class PushNotificationService:
         self.fcm_url = "https://fcm.googleapis.com/fcm/send"
         
         if self.fcm_server_key:
-            print(f"✅ FCM Server Key loaded: {self.fcm_server_key[:20]}...")
+            # Validate FCM Server Key format (should start with AAAA)
+            if not self.fcm_server_key.startswith('AAAA'):
+                print(f"⚠️ FCM Server Key format may be incorrect (should start with 'AAAA'): {self.fcm_server_key[:20]}...")
+            else:
+                print(f"✅ FCM Server Key loaded: {self.fcm_server_key[:20]}...")
         else:
             print("⚠️ FCM_SERVER_KEY not set - push notifications will be disabled")
+            print("   To enable: Set FCM_SERVER_KEY in .env file (get from Firebase Console → Cloud Messaging → Server key)")
         
     async def send_notification(
         self,
@@ -119,7 +124,21 @@ class PushNotificationService:
                     else:
                         error_text = response.text[:200] if hasattr(response, 'text') else str(response.status_code)
                         results.append({"token": token, "success": False, "error": error_text})
-                        print(f"❌ FCM API error for {token[:20]}...: {response.status_code} - {error_text}")
+                        
+                        # Better error messages for common FCM errors
+                        if response.status_code == 404:
+                            print(f"❌ FCM API 404 error for {token[:20]}...: FCM endpoint not found")
+                            print("   Possible causes:")
+                            print("   1. FCM Server Key is invalid or missing")
+                            print("   2. FCM Legacy API is disabled (check Firebase Console → Cloud Messaging)")
+                            print("   3. Device token is invalid or expired")
+                        elif response.status_code == 401:
+                            print(f"❌ FCM API 401 error for {token[:20]}...: Unauthorized - FCM Server Key is invalid")
+                            print("   Fix: Get correct FCM Server Key from Firebase Console → Cloud Messaging → Server key")
+                        elif response.status_code == 400:
+                            print(f"❌ FCM API 400 error for {token[:20]}...: Bad Request - Check message format")
+                        else:
+                            print(f"❌ FCM API error for {token[:20]}...: {response.status_code} - {error_text}")
                         
             except Exception as e:
                 results.append({"token": token, "success": False, "error": str(e)})
