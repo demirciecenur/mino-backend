@@ -548,6 +548,8 @@ async def generate_tts(text: str, style: dict, lang: str, character: str = None,
         "behavior attention": "behavior_attention",       # behavior attention → behavior_attention.json
         "body parts": "body_parts",            # body parts → body_parts.json
         "fairy tales": "fairy_tales",         # fairy tales → fairy_tales.json
+        "transitions_change": "transitions",   # transitions_change → transitions (story ID variant from rules.json)
+        "transitions_attention": "transitions", # transitions_attention → transitions (story ID variant)
     }
     
     # Map topic to actual file name (same logic as ContentLoader)
@@ -823,8 +825,10 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
         parts = audio_id_clean.split('_')
         if len(parts) >= 3:
             character = parts[0]
-            topic = parts[1]
-            scene_index = '_'.join(parts[2:])
+            # Last part is always scene_index (number), rest is topic
+            # Example: "spongebob_transitions_change_0" -> character="spongebob", topic="transitions_change", scene_index="0"
+            scene_index = parts[-1]  # Last part is scene_index
+            topic = '_'.join(parts[1:-1])  # Everything between character and scene_index is topic
             
             # Topic mapping: Map iOS topic names to actual file names (same as generate_tts)
             # This ensures sleep → bedtime mapping is used for file lookup
@@ -838,16 +842,26 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
                 "behavior attention": "behavior_attention",       # behavior attention → behavior_attention.json
                 "body parts": "body_parts",            # body parts → body_parts.json
                 "fairy tales": "fairy_tales",         # fairy tales → fairy_tales.json
+                "transitions_change": "transitions",   # transitions_change → transitions (story ID variant)
+                "transitions_attention": "transitions", # transitions_attention → transitions (story ID variant)
             }
             
             # Map topic to actual file name (same logic as generate_tts and ContentLoader)
             topic_normalized = topic.lower()
             topic_file = topic_mapping.get(topic_normalized, topic_normalized)
             
-            # Try mapped topic first, then original topic
+            # Try mapped topic first, then original topic, then try without mapping
             topic_candidates = [topic_file]
             if topic_file != topic_normalized:
                 topic_candidates.append(topic_normalized)  # Also try original as fallback
+            
+            # Also try topic without underscores (for cases like "transitions_change" -> "transitionschange")
+            topic_no_underscore = topic_normalized.replace('_', '')
+            if topic_no_underscore not in topic_candidates:
+                topic_candidates.append(topic_no_underscore)
+            
+            print(f"🔍 [serve_local_audio] Parsed: character={character}, topic={topic} (normalized: {topic_normalized}), scene_index={scene_index}, lang={lang}")
+            print(f"   Topic candidates: {topic_candidates}")
             
             # Language-specific path: {character}/{lang}/{topic}_{scene_index}.ext
             for topic_candidate in topic_candidates:
@@ -867,8 +881,18 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
                         print(f"⚠️ [serve_local_audio] Using legacy path (no lang): {legacy_path}")
                         return FileResponse(str(legacy_path), media_type=media_type)
             
-            print(f"⚠️ [serve_local_audio] File not found: character={character}, topic={topic} (mapped: {topic_file}), scene_index={scene_index}, lang={lang}")
-            print(f"   Tried paths: {AUDIO_BASE_DIR / character.lower() / lang / f'{topic_file}_{scene_index}.wav'}, {AUDIO_BASE_DIR / character.lower() / lang / f'{topic_file}_{scene_index}.mp3'}")
+            # Collect all tried paths for better error reporting
+            tried_paths = []
+            for topic_candidate in topic_candidates:
+                for ext in ['.wav', '.mp3']:
+                    tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"))
+                    tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"))  # Legacy paths
+            
+            print(f"⚠️ [serve_local_audio] File not found: character={character}, topic={topic} (normalized: {topic_normalized}, mapped: {topic_file}), scene_index={scene_index}, lang={lang}")
+            print(f"   Tried {len(tried_paths)} paths:")
+            for path in tried_paths:
+                exists = Path(path).exists()
+                print(f"      {'✅' if exists else '❌'} {path} {'(exists)' if exists else '(not found)'}")
         return await mock_audio(audio_id)
     except Exception as e:
         print(f"❌ [serve_local_audio] Error: {e}")
