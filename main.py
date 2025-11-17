@@ -1297,7 +1297,7 @@ async def story_completed_endpoint(request: StoryCompletedRequest):
         # Ensure parent exists (auto-create if missing for anonymous users)
         ensure_parent_exists(parent_id)
         
-        # Store event in Firestore
+        # Store event in Firestore (best practice: include summary for meaningful parent notes)
         event_data = {
             "child_id": request.child_id,
             "parent_id": parent_id,
@@ -1309,6 +1309,10 @@ async def story_completed_endpoint(request: StoryCompletedRequest):
             "notified": False,
             "created_at": firestore.SERVER_TIMESTAMP
         }
+        
+        # Add summary if provided (best practice: meaningful note for parents)
+        if request.summary:
+            event_data["summary"] = request.summary
         
         event_ref = db.collection("story_events").document(event_id)
         event_ref.set(event_data)

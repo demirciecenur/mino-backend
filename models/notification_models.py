@@ -13,6 +13,7 @@ class StoryCompletedRequest(BaseModel):
     language: str = Field("en", description="Language code")
     timestamp: Optional[float] = Field(None, description="Unix timestamp (optional, defaults to now)")
     child_name: Optional[str] = Field(None, description="Child name for personalization (optional, defaults to 'your child')")
+    summary: Optional[str] = Field(None, description="Story summary/note for parent reference (best practice: meaningful note)")
 
 
 class StoryCompletedResponse(BaseModel):
