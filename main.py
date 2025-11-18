@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException, Response, Depends, Header
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import FileResponse
+from fastapi.responses import FileResponse, JSONResponse
 from pydantic import BaseModel
 import httpx
 import os
@@ -800,22 +800,38 @@ async def serve_story(character: str, topic: str, lang: str = "en"):
     If story doesn't exist, automatically composes it using OpenAI.
     """
     try:
+        # Validate topic is not empty (prevents 404 errors from empty topic requests)
+        topic_normalized = topic.lower().strip()
+        if not topic_normalized:
+            print(f"⚠️ [serve_story] Empty topic received for character={character}, lang={lang}")
+            print(f"   Request path: /story/{character}/{topic}?lang={lang}")
+            raise HTTPException(status_code=400, detail="Topic parameter cannot be empty")
+        
         # Use centralized topic mapping (from utils)
-        topic_normalized = topic.lower()
         topic_candidates = get_topic_candidates(topic_normalized)
         topic_mapped = map_topic(topic_normalized)
         
         print(f"🔍 [serve_story] Requested: character={character}, topic={topic} (normalized: {topic_normalized}, mapped: {topic_mapped}), lang={lang}")
         print(f"   Topic candidates: {topic_candidates}")
+        print(f"   Full request path: /story/{character}/{topic}?lang={lang}")
         
         # Try each candidate to find existing story
         story_path = None
         for topic_candidate in topic_candidates:
             candidate_path = content_story_path(lang, character.lower(), topic_candidate)
-            if candidate_path.exists() and candidate_path.stat().st_size > 0:
-                story_path = candidate_path
-                print(f"✅ [serve_story] Found existing story: {story_path} (lang={lang}, size: {story_path.stat().st_size} bytes)")
-                return FileResponse(str(story_path), media_type="application/json")
+            print(f"🔍 [serve_story] Checking path: {candidate_path}")
+            print(f"   Path exists: {candidate_path.exists()}")
+            if candidate_path.exists():
+                file_size = candidate_path.stat().st_size
+                print(f"   File size: {file_size} bytes")
+                if file_size > 0:
+                    story_path = candidate_path
+                    print(f"✅ [serve_story] Found existing story: {story_path} (lang={lang}, size: {file_size} bytes)")
+                    return FileResponse(str(story_path), media_type="application/json")
+                else:
+                    print(f"⚠️ [serve_story] File exists but is empty: {candidate_path}")
+            else:
+                print(f"❌ [serve_story] Path does not exist: {candidate_path}")
         
         # Fallback: Try to find any story for this character in the requested language
         print(f"🔄 [serve_story] Specific topic story not found, trying to find any story for {character} in {lang}...")
@@ -823,55 +839,80 @@ async def serve_story(character: str, topic: str, lang: str = "en"):
             # Use first candidate to determine directory
             story_path = content_story_path(lang, character.lower(), topic_candidates[0])
         character_stories_dir = story_path.parent
+        print(f"📂 [serve_story] Character stories directory: {character_stories_dir}")
+        print(f"   Directory exists: {character_stories_dir.exists()}")
+        print(f"   Absolute path: {character_stories_dir.resolve()}")
         if character_stories_dir.exists():
             try:
                 # List all JSON files in the character directory
-                for story_file in character_stories_dir.glob("*.json"):
+                json_files = list(character_stories_dir.glob("*.json"))
+                print(f"   Found {len(json_files)} JSON files in directory")
+                for story_file in json_files:
                     if story_file.exists() and story_file.stat().st_size > 0:
                         print(f"✅ [serve_story] Serving (any available story): {story_file} (lang={lang}, size: {story_file.stat().st_size} bytes)")
                         return FileResponse(str(story_file), media_type="application/json")
             except Exception as e:
                 print(f"⚠️ [serve_story] Error scanning directory: {e}")
+                import traceback
+                traceback.print_exc()
         
-        # Story not found - automatically compose it
-        print(f"📝 [serve_story] Story not found, automatically composing: character={character}, topic={topic_mapped}, lang={lang}")
-        try:
-            slug = to_character_slug(character)
-            # Use mapped topic for story generation (backend file name)
-            final_story_path = content_story_path(lang, slug, topic_mapped)
-            final_story_path.parent.mkdir(parents=True, exist_ok=True)
-            
-            # Generate story via OpenAI
-            story_data = await generate_story_with_openai(
-                character,
-                topic_mapped,  # Use mapped topic (e.g., "nutrition" instead of "food")
-                lang,
-                duration_minutes=10  # Default 10 minutes
-            )
-            
-            # Validate minimal schema
-            if not story_data or "scenes" not in story_data or not isinstance(story_data["scenes"], list):
-                raise HTTPException(status_code=500, detail="Invalid story data from LLM")
-            
-            # Ensure durationMinutes is set
-            if "durationMinutes" not in story_data:
-                story_data["durationMinutes"] = 10
-            
-            # Persist story to file
-            with open(final_story_path, "w", encoding="utf-8") as f:
-                json.dump(story_data, f, ensure_ascii=False, indent=2)
-            
-            print(f"✅ [serve_story] Story composed and saved: {final_story_path} (lang={lang}, size: {final_story_path.stat().st_size} bytes)")
-            return FileResponse(str(final_story_path), media_type="application/json")
-            
-        except HTTPException:
-            raise
-        except Exception as compose_error:
-            print(f"❌ [serve_story] Failed to compose story: {compose_error}")
-            import traceback
-            traceback.print_exc()
-            # If composition fails, return 404 (don't expose internal errors)
-            raise HTTPException(status_code=404, detail=f"Story not found for character={character}, topic={topic}, lang={lang} and failed to generate")
+        # Story not found - automatically compose it in background and return 202 Accepted
+        # This prevents timeout issues - client can retry after composition completes
+        print(f"📝 [serve_story] Story not found, starting background composition: character={character}, topic={topic_mapped}, lang={lang}")
+        print(f"   Expected story path format: backend/storage/content/{lang}/stories/{character.lower()}/{topic_mapped}.json")
+        slug = to_character_slug(character)
+        expected_path = content_story_path(lang, slug, topic_mapped)
+        print(f"   Expected absolute path: {expected_path.resolve()}")
+        print(f"   Expected path exists: {expected_path.exists()}")
+        final_story_path = content_story_path(lang, slug, topic_mapped)
+        final_story_path.parent.mkdir(parents=True, exist_ok=True)
+        
+        # Start background task to compose story (non-blocking)
+        async def compose_story_background():
+            try:
+                print(f"🔄 [serve_story] Background composition started: {final_story_path}")
+                # Generate story via OpenAI
+                story_data = await generate_story_with_openai(
+                    character,
+                    topic_mapped,  # Use mapped topic (e.g., "nutrition" instead of "food")
+                    lang,
+                    duration_minutes=10  # Default 10 minutes
+                )
+                
+                # Validate minimal schema
+                if not story_data or "scenes" not in story_data or not isinstance(story_data["scenes"], list):
+                    print(f"❌ [serve_story] Invalid story data from LLM")
+                    return
+                
+                # Ensure durationMinutes is set
+                if "durationMinutes" not in story_data:
+                    story_data["durationMinutes"] = 10
+                
+                # Persist story to file
+                with open(final_story_path, "w", encoding="utf-8") as f:
+                    json.dump(story_data, f, ensure_ascii=False, indent=2)
+                
+                print(f"✅ [serve_story] Background composition completed: {final_story_path} (lang={lang}, size: {final_story_path.stat().st_size} bytes)")
+            except Exception as compose_error:
+                print(f"❌ [serve_story] Background composition failed: {compose_error}")
+                import traceback
+                traceback.print_exc()
+        
+        # Start background task (fire and forget)
+        import asyncio
+        asyncio.create_task(compose_story_background())
+        
+        # Return 202 Accepted - story is being composed, client should retry
+        return JSONResponse(
+            status_code=202,
+            content={
+                "status": "accepted",
+                "message": "Story is being composed. Please retry in a few seconds.",
+                "character": character,
+                "topic": topic,
+                "lang": lang
+            }
+        )
             
     except HTTPException:
         raise
