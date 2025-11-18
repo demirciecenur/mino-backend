@@ -549,6 +549,9 @@ async def generate_tts(text: str, style: dict, lang: str, character: str = None,
         "body parts": "body_parts",            # body parts → body_parts.json
         "fairy tales": "fairy_tales",         # fairy tales → fairy_tales.json
         "food": "nutrition",                   # food → nutrition.json (backend file name)
+        "health": "nutrition",                 # health → nutrition.json (Beslenme Sağlık & Beden farkındalığı)
+        "body": "nutrition",                   # body → nutrition.json (Beslenme Sağlık & Beden farkındalığı)
+        "nutrition": "nutrition",              # nutrition → nutrition.json (direct match)
         "transitions_change": "transitions",   # transitions_change → transitions (story ID variant from rules.json)
         "transitions_attention": "transitions", # transitions_attention → transitions (story ID variant)
     }
@@ -834,6 +837,9 @@ async def serve_story(character: str, topic: str, lang: str = "en"):
             "body parts": "body_parts",
             "fairy tales": "fairy_tales",
             "food": "nutrition",
+            "health": "nutrition",  # health → nutrition (Beslenme Sağlık & Beden farkındalığı)
+            "body": "nutrition",  # body → nutrition (Beslenme Sağlık & Beden farkındalığı)
+            "nutrition": "nutrition",  # nutrition → nutrition (direct match)
             "transitions_change": "transitions",
             "transitions_attention": "transitions",
         }
@@ -912,6 +918,9 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
                 "body parts": "body_parts",            # body parts → body_parts.json
                 "fairy tales": "fairy_tales",         # fairy tales → fairy_tales.json
                 "food": "nutrition",                   # food → nutrition.json (backend file name)
+                "health": "nutrition",                 # health → nutrition.json (Beslenme Sağlık & Beden farkındalığı)
+                "body": "nutrition",                   # body → nutrition.json (Beslenme Sağlık & Beden farkındalığı)
+                "nutrition": "nutrition",              # nutrition → nutrition.json (direct match)
                 "transitions_change": "transitions",   # transitions_change → transitions (story ID variant)
                 "transitions_attention": "transitions", # transitions_attention → transitions (story ID variant)
             }
