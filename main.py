@@ -548,6 +548,7 @@ async def generate_tts(text: str, style: dict, lang: str, character: str = None,
         "behavior attention": "behavior_attention",       # behavior attention → behavior_attention.json
         "body parts": "body_parts",            # body parts → body_parts.json
         "fairy tales": "fairy_tales",         # fairy tales → fairy_tales.json
+        "food": "nutrition",                   # food → nutrition.json (backend file name)
         "transitions_change": "transitions",   # transitions_change → transitions (story ID variant from rules.json)
         "transitions_attention": "transitions", # transitions_attention → transitions (story ID variant)
     }
