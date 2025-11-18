@@ -4,6 +4,18 @@ import json
 from pathlib import Path
 from typing import Dict
 
+# Import centralized topic mapping from utils
+# Use relative import for backend package structure
+try:
+    from utils.topic_mapping import map_topic, get_topic_candidates
+except ImportError:
+    # Fallback for direct script execution
+    import sys
+    from pathlib import Path
+    backend_dir = Path(__file__).resolve().parent.parent
+    sys.path.insert(0, str(backend_dir.parent))
+    from backend.utils.topic_mapping import map_topic, get_topic_candidates
+
 
 def to_character_slug(name: str) -> str:
     n = (name or "").strip().lower()

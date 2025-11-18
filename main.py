@@ -517,6 +517,7 @@ from services.story_composer import (
     content_story_path,
     generate_story_with_openai,
 )
+from utils.topic_mapping import map_topic, get_topic_candidates
 from services.push_notification_service import get_push_notification_service
 from services.notification_scheduler import schedule_delayed_notification
 
@@ -537,34 +538,9 @@ async def generate_tts(text: str, style: dict, lang: str, character: str = None,
     
     # Topic mapping: Map StorySelectionView topic names to actual file names
     # This aligns with how stories are generated and stored (same as ContentLoader.swift)
-    topic_mapping = {
-        "sleep": "bedtime",                    # sleep → bedtime.json
-        "sibling issues": ["sibling_issues", "sibling"],  # sibling issues → try sibling_issues.json first, then sibling.json
-        "sibling": ["sibling", "sibling_issues"],        # sibling → try sibling.json first, then sibling_issues.json (fallback)
-        "screen time": "screen_time",          # screen time → screen_time.json
-        "digital safety": "digital_safety",    # digital safety → digital_safety.json
-        "feeling sad": "feeling_sad",          # feeling sad → feeling_sad.json
-        "emotional regulation": "emotional_regulation",  # emotional regulation → emotional_regulation.json
-        "behavior attention": "behavior_attention",       # behavior attention → behavior_attention.json
-        "body parts": "body_parts",            # body parts → body_parts.json
-        "fairy tales": "fairy_tales",         # fairy tales → fairy_tales.json
-        "food": "nutrition",                   # food → nutrition.json (backend file name)
-        "health": "nutrition",                 # health → nutrition.json (Beslenme Sağlık & Beden farkındalığı)
-        "body": "nutrition",                   # body → nutrition.json (Beslenme Sağlık & Beden farkındalığı)
-        "nutrition": "nutrition",              # nutrition → nutrition.json (direct match)
-        "transitions_change": "transitions",   # transitions_change → transitions (story ID variant from rules.json)
-        "transitions_attention": "transitions", # transitions_attention → transitions (story ID variant)
-    }
-    
-    # Map topic to actual file name (same logic as ContentLoader)
+    # Use centralized topic mapping (from story_composer)
     topic_normalized = topic.lower() if topic else None
-    topic_mapped = topic_mapping.get(topic_normalized, topic_normalized) if topic_normalized else None
-    
-    # Handle list of candidates (try first, then fallback)
-    if isinstance(topic_mapped, list):
-        topic_file = topic_mapped[0]  # Use first candidate
-    else:
-        topic_file = topic_mapped
+    topic_file = map_topic(topic_normalized) if topic_normalized else None
     
     print(f"🔊 [TTS] Generating audio: character={character_normalized}, topic={topic_normalized} → {topic_file}, lang={lang}, scene_index={scene_index}")
 
@@ -820,51 +796,33 @@ async def serve_story(character: str, topic: str, lang: str = "en"):
     
     Path format: backend/storage/content/{lang}/stories/{character}/{topic}.json
     Topic mapping: Maps iOS topic names to actual file names (same as audio serving)
+    
+    If story doesn't exist, automatically composes it using OpenAI.
     """
     try:
-        from services.story_composer import content_story_path
-        
-        # Topic mapping: Map iOS topic names to actual file names (same as audio serving)
-        topic_mapping = {
-            "sleep": "bedtime",
-            "sibling issues": "sibling_issues",
-            "sibling": "sibling_issues",
-            "screen time": "screen_time",
-            "digital safety": "digital_safety",
-            "feeling sad": "feeling_sad",
-            "emotional regulation": "emotional_regulation",
-            "behavior attention": "behavior_attention",
-            "body parts": "body_parts",
-            "fairy tales": "fairy_tales",
-            "food": "nutrition",
-            "health": "nutrition",  # health → nutrition (Beslenme Sağlık & Beden farkındalığı)
-            "body": "nutrition",  # body → nutrition (Beslenme Sağlık & Beden farkındalığı)
-            "nutrition": "nutrition",  # nutrition → nutrition (direct match)
-            "transitions_change": "transitions",
-            "transitions_attention": "transitions",
-        }
-        
+        # Use centralized topic mapping (from utils)
         topic_normalized = topic.lower()
-        topic_file = topic_mapping.get(topic_normalized, topic_normalized)
+        topic_candidates = get_topic_candidates(topic_normalized)
+        topic_mapped = map_topic(topic_normalized)
         
-        # Try mapped topic first, then original topic
-        topic_candidates = [topic_file]
-        if topic_file != topic_normalized:
-            topic_candidates.append(topic_normalized)
-        
-        print(f"🔍 [serve_story] Requested: character={character}, topic={topic} (normalized: {topic_normalized}, mapped: {topic_file}), lang={lang}")
+        print(f"🔍 [serve_story] Requested: character={character}, topic={topic} (normalized: {topic_normalized}, mapped: {topic_mapped}), lang={lang}")
         print(f"   Topic candidates: {topic_candidates}")
         
-        # Try each candidate
+        # Try each candidate to find existing story
+        story_path = None
         for topic_candidate in topic_candidates:
-            story_path = content_story_path(lang, character.lower(), topic_candidate)
-            if story_path.exists() and story_path.stat().st_size > 0:
-                print(f"✅ [serve_story] Serving: {story_path} (lang={lang}, size: {story_path.stat().st_size} bytes)")
+            candidate_path = content_story_path(lang, character.lower(), topic_candidate)
+            if candidate_path.exists() and candidate_path.stat().st_size > 0:
+                story_path = candidate_path
+                print(f"✅ [serve_story] Found existing story: {story_path} (lang={lang}, size: {story_path.stat().st_size} bytes)")
                 return FileResponse(str(story_path), media_type="application/json")
         
         # Fallback: Try to find any story for this character in the requested language
         print(f"🔄 [serve_story] Specific topic story not found, trying to find any story for {character} in {lang}...")
-        character_stories_dir = story_path.parent  # content_story_path returns path with filename, so parent is the character directory
+        if story_path is None:
+            # Use first candidate to determine directory
+            story_path = content_story_path(lang, character.lower(), topic_candidates[0])
+        character_stories_dir = story_path.parent
         if character_stories_dir.exists():
             try:
                 # List all JSON files in the character directory
@@ -875,8 +833,46 @@ async def serve_story(character: str, topic: str, lang: str = "en"):
             except Exception as e:
                 print(f"⚠️ [serve_story] Error scanning directory: {e}")
         
-        print(f"⚠️ [serve_story] Story not found: character={character}, topic={topic} (normalized: {topic_normalized}, mapped: {topic_file}), lang={lang}")
-        raise HTTPException(status_code=404, detail=f"Story not found for character={character}, topic={topic}, lang={lang}")
+        # Story not found - automatically compose it
+        print(f"📝 [serve_story] Story not found, automatically composing: character={character}, topic={topic_mapped}, lang={lang}")
+        try:
+            slug = to_character_slug(character)
+            # Use mapped topic for story generation (backend file name)
+            final_story_path = content_story_path(lang, slug, topic_mapped)
+            final_story_path.parent.mkdir(parents=True, exist_ok=True)
+            
+            # Generate story via OpenAI
+            story_data = await generate_story_with_openai(
+                character,
+                topic_mapped,  # Use mapped topic (e.g., "nutrition" instead of "food")
+                lang,
+                duration_minutes=10  # Default 10 minutes
+            )
+            
+            # Validate minimal schema
+            if not story_data or "scenes" not in story_data or not isinstance(story_data["scenes"], list):
+                raise HTTPException(status_code=500, detail="Invalid story data from LLM")
+            
+            # Ensure durationMinutes is set
+            if "durationMinutes" not in story_data:
+                story_data["durationMinutes"] = 10
+            
+            # Persist story to file
+            with open(final_story_path, "w", encoding="utf-8") as f:
+                json.dump(story_data, f, ensure_ascii=False, indent=2)
+            
+            print(f"✅ [serve_story] Story composed and saved: {final_story_path} (lang={lang}, size: {final_story_path.stat().st_size} bytes)")
+            return FileResponse(str(final_story_path), media_type="application/json")
+            
+        except HTTPException:
+            raise
+        except Exception as compose_error:
+            print(f"❌ [serve_story] Failed to compose story: {compose_error}")
+            import traceback
+            traceback.print_exc()
+            # If composition fails, return 404 (don't expose internal errors)
+            raise HTTPException(status_code=404, detail=f"Story not found for character={character}, topic={topic}, lang={lang} and failed to generate")
+            
     except HTTPException:
         raise
     except Exception as e:
@@ -905,34 +901,9 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
             scene_index = parts[-1]  # Last part is scene_index
             topic = '_'.join(parts[1:-1])  # Everything between character and scene_index is topic
             
-            # Topic mapping: Map iOS topic names to actual file names (same as generate_tts)
-            # This ensures sleep → bedtime mapping is used for file lookup
-            topic_mapping = {
-                "sleep": "bedtime",                    # sleep → bedtime.json
-                "sibling issues": "sibling_issues",    # sibling issues → sibling_issues.json
-                "screen time": "screen_time",          # screen time → screen_time.json
-                "digital safety": "digital_safety",    # digital safety → digital_safety.json
-                "feeling sad": "feeling_sad",          # feeling sad → feeling_sad.json
-                "emotional regulation": "emotional_regulation",  # emotional regulation → emotional_regulation.json
-                "behavior attention": "behavior_attention",       # behavior attention → behavior_attention.json
-                "body parts": "body_parts",            # body parts → body_parts.json
-                "fairy tales": "fairy_tales",         # fairy tales → fairy_tales.json
-                "food": "nutrition",                   # food → nutrition.json (backend file name)
-                "health": "nutrition",                 # health → nutrition.json (Beslenme Sağlık & Beden farkındalığı)
-                "body": "nutrition",                   # body → nutrition.json (Beslenme Sağlık & Beden farkındalığı)
-                "nutrition": "nutrition",              # nutrition → nutrition.json (direct match)
-                "transitions_change": "transitions",   # transitions_change → transitions (story ID variant)
-                "transitions_attention": "transitions", # transitions_attention → transitions (story ID variant)
-            }
-            
-            # Map topic to actual file name (same logic as generate_tts and ContentLoader)
+            # Use centralized topic mapping (from story_composer)
             topic_normalized = topic.lower()
-            topic_file = topic_mapping.get(topic_normalized, topic_normalized)
-            
-            # Try mapped topic first, then original topic, then try without mapping
-            topic_candidates = [topic_file]
-            if topic_file != topic_normalized:
-                topic_candidates.append(topic_normalized)  # Also try original as fallback
+            topic_candidates = get_topic_candidates(topic_normalized)
             
             # Also try topic without underscores (for cases like "transitions_change" -> "transitionschange")
             topic_no_underscore = topic_normalized.replace('_', '')
@@ -986,7 +957,8 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
                     if lang != "en":
                         tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / "en" / f"{topic_candidate}_{scene_index}{ext}"))  # EN fallback
             
-            print(f"⚠️ [serve_local_audio] File not found: character={character}, topic={topic} (normalized: {topic_normalized}, mapped: {topic_file}), scene_index={scene_index}, lang={lang}")
+            topic_mapped = map_topic(topic_normalized)
+            print(f"⚠️ [serve_local_audio] File not found: character={character}, topic={topic} (normalized: {topic_normalized}, mapped: {topic_mapped}), scene_index={scene_index}, lang={lang}")
             print(f"   Tried {len(tried_paths)} paths:")
             for path in tried_paths:
                 exists = Path(path).exists()
