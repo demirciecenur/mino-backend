@@ -931,8 +931,13 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
     Supports both .wav and .mp3 extensions.
     
     Topic mapping: Maps iOS topic names to actual file names (same as generate_tts)
+    
+    IMPORTANT: This endpoint ONLY serves existing files. It does NOT generate TTS.
+    If file doesn't exist, it returns mock_audio (which generates TTS on-the-fly).
+    For proper TTS generation with caching, use /tts endpoint.
     """
     try:
+        print(f"🔊 [serve_local_audio] Request received: audio_id={audio_id}, lang={lang}")
         audio_id_clean = audio_id.replace('.wav', '').replace('.mp3', '')
         parts = audio_id_clean.split('_')
         if len(parts) >= 3:
@@ -960,8 +965,13 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
                     character_path = AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"
                     if character_path.exists() and character_path.stat().st_size > 0:
                         media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
-                        print(f"✅ [serve_local_audio] Serving: {character_path} (lang={lang}, size: {character_path.stat().st_size} bytes, type: {media_type})")
+                        file_size = character_path.stat().st_size
+                        print(f"✅ [serve_local_audio] Serving EXISTING file: {character_path}")
+                        print(f"   File size: {file_size} bytes, type: {media_type}, lang: {lang}")
+                        print(f"   Character: {character}, Topic: {topic_candidate}, Scene: {scene_index}")
                         return FileResponse(str(character_path), media_type=media_type)
+                    else:
+                        print(f"   ❌ Not found: {character_path} (exists: {character_path.exists()})")
             
             # Fallback: Try old path structure (for backward compatibility)
             for topic_candidate in topic_candidates:
@@ -999,12 +1009,17 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
                         tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / "en" / f"{topic_candidate}_{scene_index}{ext}"))  # EN fallback
             
             topic_mapped = map_topic(topic_normalized)
-            print(f"⚠️ [serve_local_audio] File not found: character={character}, topic={topic} (normalized: {topic_normalized}, mapped: {topic_mapped}), scene_index={scene_index}, lang={lang}")
+            print(f"⚠️ [serve_local_audio] File NOT FOUND: character={character}, topic={topic} (normalized: {topic_normalized}, mapped: {topic_mapped}), scene_index={scene_index}, lang={lang}")
             print(f"   Tried {len(tried_paths)} paths:")
             for path in tried_paths:
                 exists = Path(path).exists()
                 print(f"      {'✅' if exists else '❌'} {path} {'(exists)' if exists else '(not found)'}")
-        return await mock_audio(audio_id)
+            
+            # IMPORTANT: If file doesn't exist, return mock_audio (which generates TTS on-the-fly)
+            # This should NOT happen for pre-generated content - files should exist!
+            print(f"⚠️ [serve_local_audio] Audio file not found, falling back to mock_audio (will generate TTS on-the-fly)")
+            print(f"   NOTE: This means audio was not pre-generated. Consider pre-generating audio files.")
+            return await mock_audio(audio_id)
     except Exception as e:
         print(f"❌ [serve_local_audio] Error: {e}")
         import traceback

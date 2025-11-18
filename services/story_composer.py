@@ -67,6 +67,110 @@ def content_story_path(lang: str, slug: str, topic: str) -> Path:
     return project_root / "backend" / "storage" / "content" / lang / "stories" / slug / f"{topic_slug}.json"
 
 
+def analyze_text_for_video_key(scene_type: str, text: str, lang: str = "en") -> str:
+    """
+    Analyze text content to select most appropriate videoKey based on scene type AND text content.
+    Best Practice: More nuanced videoKey selection for natural animations.
+    
+    Args:
+        scene_type: Scene type (opening, speak, question, etc.)
+        text: Scene text content
+        lang: Language code (for language-specific keyword detection)
+    
+    Returns:
+        Appropriate videoKey based on content analysis
+    """
+    text_lower = text.lower()
+    
+    # Language-specific keywords
+    if lang.startswith("tr"):
+        question_words = ["?", "soru", "ne", "nasıl", "neden", "hangi", "kim", "nerede", "ne zaman"]
+        teaching_words = ["öğren", "öğret", "açıkla", "göster", "bak", "anlat", "öğrenelim"]
+        encouragement_words = ["harika", "mükemmel", "bravo", "aferin", "güzel", "süper", "çok iyi"]
+        inviting_words = ["birlikte", "hadi", "gel", "yapalım", "deneyelim"]
+        thinking_words = ["düşün", "hayal", "ne dersin", "sence"]
+    elif lang.startswith("de"):
+        question_words = ["?", "frage", "was", "wie", "warum", "welche", "wer", "wo", "wann"]
+        teaching_words = ["lernen", "lehren", "erklären", "zeigen", "schau", "erzählen"]
+        encouragement_words = ["großartig", "wunderbar", "bravo", "gut gemacht", "schön", "super"]
+        inviting_words = ["zusammen", "komm", "lass uns", "versuchen"]
+        thinking_words = ["denken", "vorstellen", "was denkst du"]
+    elif lang.startswith("es"):
+        question_words = ["?", "pregunta", "qué", "cómo", "por qué", "cuál", "quién", "dónde", "cuándo"]
+        teaching_words = ["aprender", "enseñar", "explicar", "mostrar", "mira", "contar"]
+        encouragement_words = ["genial", "maravilloso", "bravo", "bien hecho", "hermoso", "súper"]
+        inviting_words = ["juntos", "vamos", "ven", "intentemos"]
+        thinking_words = ["pensar", "imaginar", "qué piensas"]
+    elif lang.startswith("fr"):
+        question_words = ["?", "question", "quoi", "comment", "pourquoi", "quel", "qui", "où", "quand"]
+        teaching_words = ["apprendre", "enseigner", "expliquer", "montrer", "regarde", "raconter"]
+        encouragement_words = ["génial", "merveilleux", "bravo", "bien fait", "beau", "super"]
+        inviting_words = ["ensemble", "viens", "allons", "essayons"]
+        thinking_words = ["penser", "imaginer", "que penses-tu"]
+    else:  # English (default)
+        question_words = ["?", "question", "what", "how", "why", "which", "who", "where", "when"]
+        teaching_words = ["learn", "teach", "explain", "show", "look", "tell", "let's learn"]
+        encouragement_words = ["great", "wonderful", "bravo", "well done", "beautiful", "super", "good job"]
+        inviting_words = ["together", "come", "let's", "let us", "try"]
+        thinking_words = ["think", "imagine", "what do you think"]
+    
+    # Scene type-based defaults
+    defaults = {
+        "opening": "wave",
+        "closure": "wave",
+        "instruction": "hand_on_hip",
+        "encouragement": "raise_hand",
+        "question": "lean_closer",
+        "speak": "talking",
+        "followup": "side_glance",
+        "listen": "lean_closer",
+        "narration": "talking",
+        "closing": "wave"
+    }
+    
+    # Text content analysis for more nuanced selection
+    if scene_type == "speak" or scene_type == "narration":
+        # Check for question words in text (even in speak scenes)
+        if any(word in text_lower for word in question_words):
+            return "lean_closer"  # Curious question pose
+        
+        # Check for teaching/explaining keywords
+        if any(word in text_lower for word in teaching_words):
+            return "hand_on_hip"  # Teaching pose
+        
+        # Check for encouragement keywords
+        if any(word in text_lower for word in encouragement_words):
+            return "raise_hand"  # Encouraging gesture
+        
+        # Check for inviting keywords
+        if any(word in text_lower for word in inviting_words):
+            return "raise_hand"  # Inviting gesture
+        
+        # Default to talking
+        return "talking"
+    
+    elif scene_type == "question":
+        # Questions can vary based on content
+        if any(word in text_lower for word in thinking_words):
+            return "side_glance"  # Playful thinking pose
+        return "lean_closer"  # Default curious pose
+    
+    elif scene_type == "instruction":
+        # Instructions can be more expressive
+        if any(word in text_lower for word in inviting_words):
+            return "raise_hand"  # Inviting gesture
+        return "hand_on_hip"  # Default teaching pose
+    
+    elif scene_type == "followup":
+        # Followup can be more engaging
+        if any(word in text_lower for word in question_words):
+            return "lean_closer"  # Curious followup
+        return "side_glance"  # Default playful glance
+    
+    # Return default for scene type
+    return defaults.get(scene_type, "talking")
+
+
 def content_prompt_path(lang: str, slug: str, topic: str) -> Path:
     """Get path to prompt JSON file in backend/storage/content/{lang}/prompts/{character}/{topic}.json"""
     project_root = get_project_root()
@@ -681,6 +785,29 @@ You are generating a {minutes}-minute conversation script. This requires substan
             if scenes_count < min_scenes or total_words < target_words * 0.5:
                 print(f"⚠️ [story_composer] Story is too short! Expected: {min_scenes}+ scenes, {target_words} words. Got: {scenes_count} scenes, {total_words} words")
                 print(f"⚠️ [story_composer] This might indicate the model didn't follow instructions properly.")
+            
+            # BEST PRACTICE: Post-process scenes to optimize videoKey based on text content
+            # This ensures more natural and contextually appropriate animations
+            print(f"🎬 [story_composer] Optimizing videoKey assignments based on text content...")
+            optimized_count = 0
+            for scene in data.get("scenes", []):
+                scene_type = scene.get("type", "")
+                scene_text = scene.get("text", "")
+                original_video_key = scene.get("videoKey", "")
+                
+                # Analyze text content to determine best videoKey
+                optimized_video_key = analyze_text_for_video_key(scene_type, scene_text, lang)
+                
+                # Only update if different (avoid unnecessary changes)
+                if original_video_key != optimized_video_key:
+                    scene["videoKey"] = optimized_video_key
+                    optimized_count += 1
+                    print(f"   Scene {scene.get('id', 'unknown')}: '{original_video_key}' → '{optimized_video_key}' (type: {scene_type})")
+            
+            if optimized_count > 0:
+                print(f"✅ [story_composer] Optimized {optimized_count} scene videoKey assignments based on text content")
+            else:
+                print(f"ℹ️ [story_composer] All videoKey assignments are already optimal")
             
             # Save prompt to JSON file after system_message is created
             try:
