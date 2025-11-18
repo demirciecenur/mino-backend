@@ -811,6 +811,74 @@ async def compose_story_endpoint(request: ComposeStoryRequest):
         traceback.print_exc()
         raise HTTPException(status_code=500, detail=str(e))
 
+@app.get("/story/{character}/{topic}")
+async def serve_story(character: str, topic: str, lang: str = "en"):
+    """Serve story JSON file from backend storage.
+    
+    Path format: backend/storage/content/{lang}/stories/{character}/{topic}.json
+    Topic mapping: Maps iOS topic names to actual file names (same as audio serving)
+    """
+    try:
+        from services.story_composer import content_story_path
+        
+        # Topic mapping: Map iOS topic names to actual file names (same as audio serving)
+        topic_mapping = {
+            "sleep": "bedtime",
+            "sibling issues": "sibling_issues",
+            "sibling": "sibling_issues",
+            "screen time": "screen_time",
+            "digital safety": "digital_safety",
+            "feeling sad": "feeling_sad",
+            "emotional regulation": "emotional_regulation",
+            "behavior attention": "behavior_attention",
+            "body parts": "body_parts",
+            "fairy tales": "fairy_tales",
+            "food": "nutrition",
+            "transitions_change": "transitions",
+            "transitions_attention": "transitions",
+        }
+        
+        topic_normalized = topic.lower()
+        topic_file = topic_mapping.get(topic_normalized, topic_normalized)
+        
+        # Try mapped topic first, then original topic
+        topic_candidates = [topic_file]
+        if topic_file != topic_normalized:
+            topic_candidates.append(topic_normalized)
+        
+        print(f"🔍 [serve_story] Requested: character={character}, topic={topic} (normalized: {topic_normalized}, mapped: {topic_file}), lang={lang}")
+        print(f"   Topic candidates: {topic_candidates}")
+        
+        # Try each candidate
+        for topic_candidate in topic_candidates:
+            story_path = content_story_path(lang, character.lower(), topic_candidate)
+            if story_path.exists() and story_path.stat().st_size > 0:
+                print(f"✅ [serve_story] Serving: {story_path} (lang={lang}, size: {story_path.stat().st_size} bytes)")
+                return FileResponse(str(story_path), media_type="application/json")
+        
+        # Fallback: Try to find any story for this character in the requested language
+        print(f"🔄 [serve_story] Specific topic story not found, trying to find any story for {character} in {lang}...")
+        character_stories_dir = story_path.parent  # content_story_path returns path with filename, so parent is the character directory
+        if character_stories_dir.exists():
+            try:
+                # List all JSON files in the character directory
+                for story_file in character_stories_dir.glob("*.json"):
+                    if story_file.exists() and story_file.stat().st_size > 0:
+                        print(f"✅ [serve_story] Serving (any available story): {story_file} (lang={lang}, size: {story_file.stat().st_size} bytes)")
+                        return FileResponse(str(story_file), media_type="application/json")
+            except Exception as e:
+                print(f"⚠️ [serve_story] Error scanning directory: {e}")
+        
+        print(f"⚠️ [serve_story] Story not found: character={character}, topic={topic} (normalized: {topic_normalized}, mapped: {topic_file}), lang={lang}")
+        raise HTTPException(status_code=404, detail=f"Story not found for character={character}, topic={topic}, lang={lang}")
+    except HTTPException:
+        raise
+    except Exception as e:
+        print(f"❌ [serve_story] Error: {e}")
+        import traceback
+        traceback.print_exc()
+        raise HTTPException(status_code=500, detail=str(e))
+
 @app.get("/local-audio/{audio_id}")
 async def serve_local_audio(audio_id: str, lang: str = "en"):
     """Serve locally stored character-based audio files only.
@@ -843,6 +911,7 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
                 "behavior attention": "behavior_attention",       # behavior attention → behavior_attention.json
                 "body parts": "body_parts",            # body parts → body_parts.json
                 "fairy tales": "fairy_tales",         # fairy tales → fairy_tales.json
+                "food": "nutrition",                   # food → nutrition.json (backend file name)
                 "transitions_change": "transitions",   # transitions_change → transitions (story ID variant)
                 "transitions_attention": "transitions", # transitions_attention → transitions (story ID variant)
             }
@@ -882,12 +951,31 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
                         print(f"⚠️ [serve_local_audio] Using legacy path (no lang): {legacy_path}")
                         return FileResponse(str(legacy_path), media_type=media_type)
             
+            # Fallback: Try to find any audio file for this character in the requested language
+            # If specific topic audio not found, try to find any audio file for this character
+            print(f"🔄 [serve_local_audio] Specific topic audio not found, trying to find any audio for {character} in {lang}...")
+            character_lang_dir = AUDIO_BASE_DIR / character.lower() / lang
+            if character_lang_dir.exists():
+                # Try to find any audio file with the same scene_index
+                for ext in ['.wav', '.mp3']:
+                    # List all files in the directory
+                    try:
+                        for audio_file in character_lang_dir.glob(f"*_{scene_index}{ext}"):
+                            if audio_file.exists() and audio_file.stat().st_size > 0:
+                                media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
+                                print(f"✅ [serve_local_audio] Serving (any available audio): {audio_file} (lang={lang}, size: {audio_file.stat().st_size} bytes, type: {media_type})")
+                                return FileResponse(str(audio_file), media_type=media_type)
+                    except Exception as e:
+                        print(f"⚠️ [serve_local_audio] Error scanning directory: {e}")
+            
             # Collect all tried paths for better error reporting
             tried_paths = []
             for topic_candidate in topic_candidates:
                 for ext in ['.wav', '.mp3']:
                     tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"))
                     tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"))  # Legacy paths
+                    if lang != "en":
+                        tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / "en" / f"{topic_candidate}_{scene_index}{ext}"))  # EN fallback
             
             print(f"⚠️ [serve_local_audio] File not found: character={character}, topic={topic} (normalized: {topic_normalized}, mapped: {topic_file}), scene_index={scene_index}, lang={lang}")
             print(f"   Tried {len(tried_paths)} paths:")
