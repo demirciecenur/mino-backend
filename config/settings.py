@@ -24,6 +24,9 @@ class Settings:
     APP_STORE_VERIFY_RECEIPT_SANDBOX: str = "https://sandbox.itunes.apple.com/verifyReceipt"
     APP_STORE_VERIFY_RECEIPT_PRODUCTION: str = "https://buy.itunes.apple.com/verifyReceipt"
     
+    # RevenueCat Configuration
+    REVENUECAT_SECRET_API_KEY: str = os.getenv('REVENUECAT_SECRET_API_KEY', '')  # RevenueCat Secret API Key for backend verification
+    
     # Firebase Configuration
     FIREBASE_STORAGE_BUCKET: str = os.getenv('FIREBASE_STORAGE_BUCKET', 'mino-mobile-app-firebase.appspot.com')
     FIREBASE_PROJECT_ID: str = os.getenv('FIREBASE_PROJECT_ID', '')
@@ -36,7 +39,39 @@ class Settings:
     # Audio Storage Paths
     # Note: Audio files are stored in backend/storage/characters (based on backend logs)
     # Backend logs show: /Users/ecenurgezsat/Projects/mino/backend/storage/characters/luna/en/bedtime_0.wav
-    AUDIO_BASE_DIR: Path = Path(__file__).parent.parent / "storage" / "characters"
+    # Production: /home/app/app/storage/characters (no "backend" prefix)
+    # Development: /home/app/backend/storage/characters (with "backend" prefix)
+    @property
+    def AUDIO_BASE_DIR(self) -> Path:
+        """Get audio base directory.
+        
+        Production: /home/app/app/storage/characters
+        Development: backend/storage/characters (if exists)
+        """
+        # __file__ is: backend/config/settings.py (dev) or /home/app/app/config/settings.py (prod)
+        config_dir = Path(__file__).resolve().parent  # config/
+        app_dir = config_dir.parent  # app/ (prod) or backend/ (dev)
+        
+        # Try production path first: app/storage/characters
+        prod_path = app_dir / "storage" / "characters"
+        if prod_path.exists():
+            print(f"✅ [Settings] AUDIO_BASE_DIR resolved: {prod_path} (production path)")
+            return prod_path
+        
+        # Fallback: check if we're in backend/ directory structure
+        # This handles development where files might be in backend/storage/characters
+        backend_storage = app_dir.parent / "backend" / "storage" / "characters"
+        if backend_storage.exists():
+            print(f"✅ [Settings] AUDIO_BASE_DIR resolved: {backend_storage} (development path)")
+            return backend_storage
+        
+        # Default: return production path (will be created if needed)
+        print(f"⚠️ [Settings] AUDIO_BASE_DIR path does not exist, using default: {prod_path}")
+        print(f"   Config dir: {config_dir}")
+        print(f"   App dir: {app_dir}")
+        print(f"   Production path: {prod_path}")
+        print(f"   Backend storage path: {backend_storage}")
+        return prod_path
     
     # CORS Settings
     CORS_ORIGINS: list = [
@@ -507,7 +542,9 @@ class Settings:
     @classmethod
     def ensure_directories(cls):
         """Ensure required directories exist."""
-        cls.AUDIO_BASE_DIR.mkdir(parents=True, exist_ok=True)
+        # AUDIO_BASE_DIR is now a property, so we need to get the instance first
+        settings = cls()
+        settings.AUDIO_BASE_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def get_settings() -> Settings:

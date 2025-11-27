@@ -24,6 +24,10 @@ class PushNotificationService:
         self.fcm_server_key = self.settings.FCM_SERVER_KEY or os.getenv('FCM_SERVER_KEY', '')
         self.fcm_url = "https://fcm.googleapis.com/fcm/send"
         
+        # Track logged errors to avoid spam (reset every hour)
+        self._logged_errors: Dict[str, datetime] = {}
+        self._error_log_reset_time = datetime.now()
+        
         if self.fcm_server_key:
             # Validate FCM Server Key format (should start with AAAA)
             if not self.fcm_server_key.startswith('AAAA'):
@@ -33,6 +37,23 @@ class PushNotificationService:
         else:
             print("⚠️ FCM_SERVER_KEY not set - push notifications will be disabled")
             print("   To enable: Set FCM_SERVER_KEY in .env file (get from Firebase Console → Cloud Messaging → Server key)")
+    
+    def _should_log_error(self, error_key: str) -> bool:
+        """Check if we should log this error (avoid spam for same errors)."""
+        now = datetime.now()
+        
+        # Reset error log every hour
+        if (now - self._error_log_reset_time).total_seconds() > 3600:
+            self._logged_errors.clear()
+            self._error_log_reset_time = now
+        
+        # Log if we haven't seen this error in the last hour
+        if error_key not in self._logged_errors:
+            self._logged_errors[error_key] = now
+            return True
+        
+        # Don't log if we've seen this error recently (within last hour)
+        return False
         
     async def send_notification(
         self,
@@ -125,20 +146,27 @@ class PushNotificationService:
                         error_text = response.text[:200] if hasattr(response, 'text') else str(response.status_code)
                         results.append({"token": token, "success": False, "error": error_text})
                         
-                        # Better error messages for common FCM errors
+                        # Better error messages for common FCM errors (log once per error type per hour)
+                        error_key = f"{response.status_code}_{token[:20]}"
+                        
+                        # FCM 404 errors are silently ignored (FCM Legacy API may be disabled or deprecated)
+                        # No logging to avoid log spam - user has configured p8 file but Legacy API may not be available
                         if response.status_code == 404:
-                            print(f"❌ FCM API 404 error for {token[:20]}...: FCM endpoint not found")
-                            print("   Possible causes:")
-                            print("   1. FCM Server Key is invalid or missing")
-                            print("   2. FCM Legacy API is disabled (check Firebase Console → Cloud Messaging)")
-                            print("   3. Device token is invalid or expired")
+                            # Silently skip - FCM Legacy API endpoint not found (likely deprecated or disabled)
+                            pass
                         elif response.status_code == 401:
-                            print(f"❌ FCM API 401 error for {token[:20]}...: Unauthorized - FCM Server Key is invalid")
-                            print("   Fix: Get correct FCM Server Key from Firebase Console → Cloud Messaging → Server key")
+                            if self._should_log_error("401_auth"):
+                                print(f"❌ FCM API 401 error: Unauthorized - FCM Server Key is invalid")
+                                print("   Fix: Get correct FCM Server Key from Firebase Console → Cloud Messaging → Server key")
+                                print("   (This error will be logged once per hour)")
                         elif response.status_code == 400:
-                            print(f"❌ FCM API 400 error for {token[:20]}...: Bad Request - Check message format")
+                            if self._should_log_error(error_key):
+                                print(f"❌ FCM API 400 error for {token[:20]}...: Bad Request - Check message format")
+                                print("   (This error will be logged once per hour per token)")
                         else:
-                            print(f"❌ FCM API error for {token[:20]}...: {response.status_code} - {error_text}")
+                            if self._should_log_error(error_key):
+                                print(f"❌ FCM API error for {token[:20]}...: {response.status_code} - {error_text}")
+                                print("   (This error will be logged once per hour per token)")
                         
             except Exception as e:
                 results.append({"token": token, "success": False, "error": str(e)})

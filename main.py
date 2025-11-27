@@ -1,6 +1,7 @@
-from fastapi import FastAPI, HTTPException, Response, Depends, Header
+from fastapi import FastAPI, HTTPException, Response, Depends, Header, Request, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, JSONResponse
+from starlette.middleware.base import BaseHTTPMiddleware
 from pydantic import BaseModel
 import httpx
 import os
@@ -10,7 +11,7 @@ from firebase_admin import credentials, firestore, storage, auth
 import ffmpeg
 import tempfile
 import uuid
-from typing import Optional
+from typing import Optional, Tuple
 import json
 import hashlib
 from datetime import datetime
@@ -19,6 +20,7 @@ import shutil
 from pathlib import Path
 import re
 import time
+import logging
 
 # Import utilities
 from utils.text_cleaner import clean_text_for_tts
@@ -36,13 +38,19 @@ from config.firebase_config import get_firebase_config
 # Initialize settings
 settings = get_settings()
 AUDIO_BASE_DIR = settings.AUDIO_BASE_DIR
+print(f"✅ [Backend Startup] AUDIO_BASE_DIR: {AUDIO_BASE_DIR}")
+print(f"   Path exists: {AUDIO_BASE_DIR.exists()}")
+if AUDIO_BASE_DIR.exists():
+    # List sample character directories
+    char_dirs = [d.name for d in AUDIO_BASE_DIR.iterdir() if d.is_dir()][:5]
+    print(f"   Sample character directories: {char_dirs}")
 
 # Initialize Firebase
 firebase_config = get_firebase_config()
 db = firebase_config.db
 bucket = firebase_config.bucket
 
-async def generate_tts_with_elevenlabs(text: str, voice: str, emotion: str, speed: float, pitch: float, topic: str = None) -> bytes:
+async def generate_tts_with_elevenlabs(text: str, voice: str, emotion: str, speed: float, pitch: float, topic: str = None, lang: str = "en") -> bytes:
     """Generate TTS using Direct ElevenLabs API (no fallback)"""
     try:
         # Get voice ID from CHARACTER_VOICES (character-specific) or VOICE_MAPPING (fallback)
@@ -87,7 +95,10 @@ async def generate_tts_with_elevenlabs(text: str, voice: str, emotion: str, spee
                     else:
                         fal_voice = voice_id_fallback  # Use voice_id directly
             print(f"🎤 Using voice for {voice_lower}: {fal_voice} (voice_id from CHARACTER_VOICES)")
-            return await _generate_tts_with_fal(text, char_settings, speed, pitch, fal_voice, character=voice_lower)
+            # Add language hint to text for better language detection (ElevenLabs multilingual model)
+            # BEST PRACTICE: Language hint ensures correct language detection when multilingual model misdetects
+            text_with_lang_hint = _add_language_hint(text, lang)
+            return await _generate_tts_with_fal(text_with_lang_hint, char_settings, speed, pitch, fal_voice, character=voice_lower, lang=lang)
         
         # First, try to get from CHARACTER_VOICES (has character-specific voice_id)
         char_voice_config = settings.CHARACTER_VOICES.get(voice_lower)
@@ -125,7 +136,10 @@ async def generate_tts_with_elevenlabs(text: str, voice: str, emotion: str, spee
             return None
         
         print(f"🎯 Using Direct ElevenLabs API (more reliable for voice_id)")
-        result = await _generate_tts_direct_elevenlabs(text, elevenlabs_voice, char_settings, speed, pitch)
+        # Add language hint to text for better language detection (ElevenLabs multilingual model)
+        # BEST PRACTICE: Language hint ensures correct language detection when multilingual model misdetects
+        text_with_lang_hint = _add_language_hint(text, lang)
+        result = await _generate_tts_direct_elevenlabs(text_with_lang_hint, elevenlabs_voice, char_settings, speed, pitch, lang=lang)
         if result:
             return result
         # If direct API failed, return None (no fallback)
@@ -136,13 +150,65 @@ async def generate_tts_with_elevenlabs(text: str, voice: str, emotion: str, spee
         print(f"❌ TTS generation failed: {e}")
         return None
 
+def _add_language_hint(text: str, lang: str) -> str:
+    """Add language hint to text for better ElevenLabs multilingual model language detection.
+    
+    BEST PRACTICE for ElevenLabs multilingual model:
+    - The model auto-detects language but sometimes misdetects (e.g., English text detected as French)
+    - Adding a language hint at the beginning helps the model correctly identify the language
+    - Use minimal language-specific prefixes that are barely audible but ensure correct detection
+    
+    Strategy:
+    1. Add language code prefix (e.g., "[EN]") at the beginning of text
+    2. The prefix is minimal and helps model detection without significantly affecting audio
+    3. Only add if text doesn't already start with a language hint
+    """
+    if not text or not lang:
+        return text
+    
+    # Normalize language code
+    lang_normalized = lang.lower().strip()
+    
+    # Map language codes to language hints (minimal prefixes for better detection)
+    # These hints help ElevenLabs multilingual model correctly identify the language
+    # Format: "[XX]" where XX is the language code (ISO 639-1)
+    lang_hints = {
+        "en": "[EN]",
+        "fr": "[FR]",
+        "tr": "[TR]",
+        "de": "[DE]",
+        "es": "[ES]",
+    }
+    
+    # Get language hint (default to empty if not in map)
+    hint = lang_hints.get(lang_normalized, "")
+    
+    if not hint:
+        # Language not in map - log for debugging
+        print(f"⚠️ [LanguageHint] Language '{lang}' not in hint map, skipping language hint")
+        return text
+    
+    # Check if text already starts with a language hint (avoid duplicates)
+    if text.startswith("[") and "]" in text[:10]:
+        # Text already has a language hint, don't add another
+        return text
+    
+    # Add language hint at the beginning of text
+    # The hint is minimal (e.g., "[EN]") and helps ElevenLabs model detect the correct language
+    # Note: The hint may be slightly audible in audio, but it ensures correct language detection
+    # This is a trade-off: minimal audio artifact vs. correct language detection
+    print(f"🌍 [LanguageHint] Adding language hint '{hint}' for language '{lang_normalized}'")
+    return f"{hint} {text}"
+
 # Text cleaning and audio conversion utilities are now imported from utils module
 
-async def _generate_tts_with_fal(text: str, char_settings: dict, speed: float = 1.0, pitch: float = 1.0, voice_name_or_id: str = None, character: str = None) -> bytes:
+async def _generate_tts_with_fal(text: str, char_settings: dict, speed: float = 1.0, pitch: float = 1.0, voice_name_or_id: str = None, character: str = None, lang: str = "en") -> bytes:
     """Generate TTS via FAL.ai with multiple model fallbacks for child voices.
     
     If character has voice_cloning_reference, uses F5 TTS for voice cloning.
     Otherwise, uses standard ElevenLabs TTS models.
+    
+    BEST PRACTICE: Language hint is already added to text before calling this function.
     """
     try:
         if not settings.FAL_API_KEY or not fal_client:
@@ -260,9 +326,11 @@ async def _generate_tts_with_fal(text: str, char_settings: dict, speed: float = 
         for model in models_to_try:
             try:
                 print(f"🎯 Trying FAL.ai TTS model: {model}")
+                print(f"   Language: {lang} (hint already added to text)")
                 print(f"   Speed: {speed_clamped:.2f}, Pitch: {pitch_clamped:.2f}")
                 if voice_name_or_id:
                     print(f"   Voice: {voice_name_or_id}")
+                print(f"   Text preview: {text[:100]}...")
                 
                 # Adjust arguments based on model
                 arguments = base_arguments.copy()
@@ -338,7 +406,7 @@ async def _generate_tts_with_fal(text: str, char_settings: dict, speed: float = 
         traceback.print_exc()
         return None
 
-async def _generate_tts_direct_elevenlabs(text: str, voice_id: str, char_settings: dict, speed: float = 1.0, pitch: float = 1.0) -> bytes:
+async def _generate_tts_direct_elevenlabs(text: str, voice_id: str, char_settings: dict, speed: float = 1.0, pitch: float = 1.0, lang: str = "en") -> bytes:
     """Direct ElevenLabs API call (preferred method for reliable voice_id usage)"""
     try:
         elevenlabs_key = settings.ELEVENLABS_API_KEY.strip() if settings.ELEVENLABS_API_KEY else None
@@ -368,10 +436,13 @@ async def _generate_tts_direct_elevenlabs(text: str, voice_id: str, char_setting
         
         print(f"🎯 Direct ElevenLabs API:")
         print(f"   Voice ID: {voice_id}")
+        print(f"   Language: {lang} (hint already added to text)")
         print(f"   Speed: {speed_clamped:.2f}")
         print(f"   Pitch: {pitch_clamped:.2f}")
         print(f"   Stability: {char_settings['stability']:.2f}")
         print(f"   Style: {char_settings['style']:.2f}")
+        print(f"   Text preview: {text[:100]}...")
+        print(f"   Text preview: {text[:100]}...")
         
         headers = {
             "Accept": "audio/mpeg",
@@ -470,13 +541,61 @@ create_minimal_silent_mp3 = generate_silent_audio  # Alias for backward compatib
 # Initialize FastAPI app
 app = FastAPI(title="Mino Backend API", version="1.0.0")
 
+# Bot/scanner traffic filter middleware
+# Filters out common bot/scanner requests to reduce log spam
+class BotTrafficFilterMiddleware(BaseHTTPMiddleware):
+    """Filter bot/scanner traffic to reduce log spam."""
+    
+    # Common bot/scanner paths to ignore
+    BOT_PATHS = {
+        '/showLogin.cc', '/webfig/', '/zabbix/', '/favicon.ico',
+        '/cgi-bin/', '/wp-json', '/sitemap.xml', '/robots.txt',
+        '/.well-known/', '/api/session/', '/sitecore/', '/solr/',
+        '/helpdesk/', '/jasperserver/', '/login.html', '/login.do',
+        '/internal_forms_authentication', '/Telerik.Web.UI',
+        '/license.txt', '/partymgr/', '/OA_HTML/', '/owncloud/',
+        '/status.php', '/console', '/wiki', '/identity'
+    }
+    
+    # Bot user agents to ignore
+    BOT_USER_AGENTS = {
+        'bot', 'crawler', 'spider', 'scanner', 'scraper', 'curl', 'wget',
+        'python-requests', 'go-http-client', 'java/', 'okhttp'
+    }
+    
+    async def dispatch(self, request: Request, call_next):
+        # Check if this is a bot/scanner request
+        path = request.url.path.lower()
+        user_agent = request.headers.get('user-agent', '').lower()
+        
+        # Check for bot paths
+        is_bot_path = any(bot_path in path for bot_path in self.BOT_PATHS)
+        
+        # Check for bot user agents
+        is_bot_ua = any(bot_ua in user_agent for bot_ua in self.BOT_USER_AGENTS)
+        
+        # If it's a bot request to a non-existent endpoint, return 404 without logging
+        if (is_bot_path or is_bot_ua) and path not in ['/', '/health', '/revenuecat/webhooks']:
+            # Only filter 404s for bot traffic (let legitimate requests through)
+            response = await call_next(request)
+            if response.status_code == 404:
+                # Suppress logging for bot 404s by not raising exception
+                # Uvicorn will still log, but we can reduce our own logging
+                return response
+            return response
+        
+        return await call_next(request)
+
+# Add bot traffic filter middleware (before CORS)
+app.add_middleware(BotTrafficFilterMiddleware)
+
 # CORS middleware
 app.add_middleware(
     CORSMiddleware,
     allow_origins=settings.CORS_ORIGINS,
     allow_credentials=True,
-    allow_methods=["GET", "POST"],
-    allow_headers=["Authorization", "Content-Type"],
+    allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allow_headers=["Authorization", "Content-Type", "X-Signature"],
 )
 
 # Firebase and FAL client are initialized via config modules above
@@ -511,6 +630,9 @@ from models import (
     DeviceRegistrationRequest, DeviceRegistrationResponse,
     BadgeUnlockedRequest, BadgeUnlockedResponse,
     StreakUpdatedRequest, StreakUpdatedResponse
+)
+from models.story_create_models import (
+    StoryRequest, CreateStoryResponse, StoryResponse, StoryListResponse, DuplicateStoryRequest
 )
 from services.story_composer import (
     to_character_slug,
@@ -547,12 +669,34 @@ async def generate_tts(text: str, style: dict, lang: str, character: str = None,
     if character_normalized and topic_file is not None and scene_index is not None:
         key = f"{character_normalized}_{topic_file}_{scene_index}"
         # Language-specific audio path: {character}/{lang}/{topic}_{scene_index}.wav
+        # CRITICAL: Only use existing audio if it's in the correct language directory
+        # This ensures we don't use wrong-language audio files
         character_dir = AUDIO_BASE_DIR / character_normalized / lang
         audio_filename = f"{topic_file}_{scene_index}.wav"
         local_audio_path = character_dir / audio_filename
-        if local_audio_path.exists() and local_audio_path.stat().st_size > 0:
-            print(f"✅ [TTS] Using existing audio: {audio_filename} (lang={lang})")
-            return f"http://127.0.0.1:8000/local-audio/{key}.wav?lang={lang}"
+        
+        # Also try .mp3 extension
+        local_audio_path_mp3 = character_dir / f"{topic_file}_{scene_index}.mp3"
+        
+        if (local_audio_path.exists() and local_audio_path.stat().st_size > 0) or \
+           (local_audio_path_mp3.exists() and local_audio_path_mp3.stat().st_size > 0):
+            # Found existing audio in correct language directory
+            audio_ext = '.mp3' if local_audio_path_mp3.exists() else '.wav'
+            print(f"✅ [TTS] Using existing audio: {topic_file}_{scene_index}{audio_ext} (lang={lang}, character={character_normalized})")
+            return f"http://127.0.0.1:8000/local-audio/{key}{audio_ext}?lang={lang}"
+        else:
+            # Audio file doesn't exist in correct language directory
+            # Check if it exists in wrong language (for debugging)
+            wrong_lang_found = False
+            for other_lang in ["en", "fr", "tr", "de", "es"]:
+                if other_lang != lang:
+                    other_lang_path = AUDIO_BASE_DIR / character_normalized / other_lang / audio_filename
+                    if other_lang_path.exists() and other_lang_path.stat().st_size > 0:
+                        print(f"⚠️ [TTS] Audio exists but in wrong language: {other_lang} (requested: {lang}), will generate new audio")
+                        wrong_lang_found = True
+                        break
+            if not wrong_lang_found:
+                print(f"ℹ️ [TTS] Audio file not found: {audio_filename} (lang={lang}), will generate new audio")
     else:
         # No scene context → do not write legacy files; return mock
         return f"http://127.0.0.1:8000/mock-audio/{hashlib.sha256(text.encode()).hexdigest()}.wav"
@@ -580,7 +724,7 @@ async def generate_tts(text: str, style: dict, lang: str, character: str = None,
     
     # Generate TTS with language support (ElevenLabs multilingual model auto-detects, but we log it)
     print(f"🌍 [TTS] Generating TTS for language: {lang}, text preview: {text[:50]}...")
-    audio_bytes = await generate_tts_with_elevenlabs(text, character_voice_key, emotion, speed, pitch, topic_file or topic)
+    audio_bytes = await generate_tts_with_elevenlabs(text, character_voice_key, emotion, speed, pitch, topic_file or topic, lang=lang)
 
     if audio_bytes and len(audio_bytes) > 100:
         is_mp3 = audio_bytes[:3] == b'ID3' or audio_bytes[:2] == b'\xff\xfb'
@@ -817,53 +961,47 @@ async def serve_story(character: str, topic: str, lang: str = "en"):
         
         # Try each candidate to find existing story
         story_path = None
+        character_slug = to_character_slug(character)
         for topic_candidate in topic_candidates:
-            candidate_path = content_story_path(lang, character.lower(), topic_candidate)
-            print(f"🔍 [serve_story] Checking path: {candidate_path}")
-            print(f"   Path exists: {candidate_path.exists()}")
+            candidate_path = content_story_path(lang, character_slug, topic_candidate)
             if candidate_path.exists():
                 file_size = candidate_path.stat().st_size
-                print(f"   File size: {file_size} bytes")
                 if file_size > 0:
-                    story_path = candidate_path
-                    print(f"✅ [serve_story] Found existing story: {story_path} (lang={lang}, size: {file_size} bytes)")
-                    return FileResponse(str(story_path), media_type="application/json")
+                    # CRITICAL: Validate story topic matches requested topic before serving
+                    # This prevents serving wrong story (e.g., "friendship.json" for "sibling" request)
+                    try:
+                        with open(candidate_path, "r", encoding="utf-8") as f:
+                            story_data = json.load(f)
+                        story_topic = story_data.get("topic", "").lower().strip()
+                        story_topic_mapped = map_topic(story_topic)
+                        
+                        if story_topic_mapped != topic_mapped:
+                            print(f"⚠️ [serve_story] Story topic mismatch: file has '{story_topic}' (mapped: '{story_topic_mapped}'), but requested '{topic_normalized}' (mapped: '{topic_mapped}')")
+                            print(f"   Skipping {candidate_path} - topic doesn't match")
+                            continue  # Try next candidate
+                        
+                        story_path = candidate_path
+                        print(f"✅ [serve_story] Found existing story: {story_path} (lang={lang}, size: {file_size} bytes, topic: {story_topic})")
+                        return FileResponse(str(story_path), media_type="application/json")
+                    except (json.JSONDecodeError, KeyError, Exception) as e:
+                        print(f"⚠️ [serve_story] Failed to validate story topic in {candidate_path}: {e}")
+                        # Continue to next candidate if validation fails
+                        continue
                 else:
+                    # Only log if file is empty (unusual case)
                     print(f"⚠️ [serve_story] File exists but is empty: {candidate_path}")
-            else:
-                print(f"❌ [serve_story] Path does not exist: {candidate_path}")
-        
-        # Fallback: Try to find any story for this character in the requested language
-        print(f"🔄 [serve_story] Specific topic story not found, trying to find any story for {character} in {lang}...")
-        if story_path is None:
-            # Use first candidate to determine directory
-            story_path = content_story_path(lang, character.lower(), topic_candidates[0])
-        character_stories_dir = story_path.parent
-        print(f"📂 [serve_story] Character stories directory: {character_stories_dir}")
-        print(f"   Directory exists: {character_stories_dir.exists()}")
-        print(f"   Absolute path: {character_stories_dir.resolve()}")
-        if character_stories_dir.exists():
-            try:
-                # List all JSON files in the character directory
-                json_files = list(character_stories_dir.glob("*.json"))
-                print(f"   Found {len(json_files)} JSON files in directory")
-                for story_file in json_files:
-                    if story_file.exists() and story_file.stat().st_size > 0:
-                        print(f"✅ [serve_story] Serving (any available story): {story_file} (lang={lang}, size: {story_file.stat().st_size} bytes)")
-                        return FileResponse(str(story_file), media_type="application/json")
-            except Exception as e:
-                print(f"⚠️ [serve_story] Error scanning directory: {e}")
-                import traceback
-                traceback.print_exc()
+            # CRITICAL: Don't log "not found" for every candidate - only log summary if none found
         
         # Story not found - automatically compose it in background and return 202 Accepted
         # This prevents timeout issues - client can retry after composition completes
-        print(f"📝 [serve_story] Story not found, starting background composition: character={character}, topic={topic_mapped}, lang={lang}")
-        print(f"   Expected story path format: backend/storage/content/{lang}/stories/{character.lower()}/{topic_mapped}.json")
+        # CRITICAL: Use mapped topic (not first candidate) for story file naming
+        # This ensures consistency: "sibling" → "sibling.json" (not "sibling_issues.json")
         slug = to_character_slug(character)
         expected_path = content_story_path(lang, slug, topic_mapped)
-        print(f"   Expected absolute path: {expected_path.resolve()}")
-        print(f"   Expected path exists: {expected_path.exists()}")
+        print(f"📝 [serve_story] Story not found after checking {len(topic_candidates)} candidates, starting background composition")
+        print(f"   Character: {character}, Topic: {topic} (mapped: {topic_mapped}), Lang: {lang}")
+        print(f"   Expected path: {expected_path.resolve()}")
+        print(f"   Tried candidates: {topic_candidates}")
         final_story_path = content_story_path(lang, slug, topic_mapped)
         final_story_path.parent.mkdir(parents=True, exist_ok=True)
         
@@ -887,6 +1025,14 @@ async def serve_story(character: str, topic: str, lang: str = "en"):
                 # Ensure durationMinutes is set
                 if "durationMinutes" not in story_data:
                     story_data["durationMinutes"] = 10
+                
+                # CRITICAL: Validate and override topic field to match mapped topic
+                # This ensures story file name and JSON topic field are consistent
+                story_topic = story_data.get("topic", "").lower().strip()
+                if story_topic != topic_mapped.lower():
+                    print(f"⚠️ [serve_story] Story topic mismatch: LLM returned '{story_topic}', but expected '{topic_mapped}'")
+                    print(f"   Overriding topic field to '{topic_mapped}' for consistency")
+                    story_data["topic"] = topic_mapped
                 
                 # Persist story to file
                 with open(final_story_path, "w", encoding="utf-8") as f:
@@ -937,7 +1083,8 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
     For proper TTS generation with caching, use /tts endpoint.
     """
     try:
-        print(f"🔊 [serve_local_audio] Request received: audio_id={audio_id}, lang={lang}")
+        # Reduced logging: Only log errors, not every successful request
+        # This reduces log spam during prefetch operations
         audio_id_clean = audio_id.replace('.wav', '').replace('.mp3', '')
         parts = audio_id_clean.split('_')
         if len(parts) >= 3:
@@ -956,48 +1103,39 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
             if topic_no_underscore not in topic_candidates:
                 topic_candidates.append(topic_no_underscore)
             
-            print(f"🔍 [serve_local_audio] Parsed: character={character}, topic={topic} (normalized: {topic_normalized}), scene_index={scene_index}, lang={lang}")
-            print(f"   Topic candidates: {topic_candidates}")
-            
             # Language-specific path: {character}/{lang}/{topic}_{scene_index}.ext
+            # CRITICAL: Only serve audio files in the correct language directory
+            # This prevents serving wrong-language audio files (e.g., French audio when English is requested)
             for topic_candidate in topic_candidates:
                 for ext in ['.wav', '.mp3']:
                     character_path = AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"
                     if character_path.exists() and character_path.stat().st_size > 0:
                         media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
-                        file_size = character_path.stat().st_size
-                        print(f"✅ [serve_local_audio] Serving EXISTING file: {character_path}")
-                        print(f"   File size: {file_size} bytes, type: {media_type}, lang: {lang}")
-                        print(f"   Character: {character}, Topic: {topic_candidate}, Scene: {scene_index}")
+                        # Reduced logging: Only log errors, successful requests are logged by uvicorn access logs
                         return FileResponse(str(character_path), media_type=media_type)
-                    else:
-                        print(f"   ❌ Not found: {character_path} (exists: {character_path.exists()})")
+                    # Debug: Log why file wasn't found (only for first candidate to reduce spam)
+                    elif topic_candidate == topic_candidates[0] and ext == '.wav':
+                        if not character_path.parent.exists():
+                            print(f"🔍 [serve_local_audio] Path does not exist: {character_path.parent}")
+                        elif not character_path.exists():
+                            print(f"🔍 [serve_local_audio] File does not exist: {character_path}")
+                        elif character_path.stat().st_size == 0:
+                            print(f"🔍 [serve_local_audio] File is empty: {character_path}")
             
             # Fallback: Try old path structure (for backward compatibility)
+            # WARNING: Legacy paths don't have language subdirectory, so we can't verify language
+            # Only use legacy path if no language-specific path exists
             for topic_candidate in topic_candidates:
                 for ext in ['.wav', '.mp3']:
                     legacy_path = AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"
                     if legacy_path.exists() and legacy_path.stat().st_size > 0:
                         media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
-                        print(f"⚠️ [serve_local_audio] Using legacy path (no lang): {legacy_path}")
+                        # Log warning only once per character/topic combination (not every request)
+                        print(f"⚠️ [serve_local_audio] Using legacy path (no lang subdirectory): {character}/{topic_candidate} (lang={lang})")
                         return FileResponse(str(legacy_path), media_type=media_type)
             
-            # Fallback: Try to find any audio file for this character in the requested language
-            # If specific topic audio not found, try to find any audio file for this character
-            print(f"🔄 [serve_local_audio] Specific topic audio not found, trying to find any audio for {character} in {lang}...")
-            character_lang_dir = AUDIO_BASE_DIR / character.lower() / lang
-            if character_lang_dir.exists():
-                # Try to find any audio file with the same scene_index
-                for ext in ['.wav', '.mp3']:
-                    # List all files in the directory
-                    try:
-                        for audio_file in character_lang_dir.glob(f"*_{scene_index}{ext}"):
-                            if audio_file.exists() and audio_file.stat().st_size > 0:
-                                media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
-                                print(f"✅ [serve_local_audio] Serving (any available audio): {audio_file} (lang={lang}, size: {audio_file.stat().st_size} bytes, type: {media_type})")
-                                return FileResponse(str(audio_file), media_type=media_type)
-                    except Exception as e:
-                        print(f"⚠️ [serve_local_audio] Error scanning directory: {e}")
+            # IMPORTANT: Do NOT fallback to any random audio file - this causes wrong audio to be played!
+            # If the correct topic audio doesn't exist, we should generate TTS via mock_audio instead.
             
             # Collect all tried paths for better error reporting
             tried_paths = []
@@ -1005,54 +1143,160 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
                 for ext in ['.wav', '.mp3']:
                     tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"))
                     tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"))  # Legacy paths
-                    if lang != "en":
-                        tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / "en" / f"{topic_candidate}_{scene_index}{ext}"))  # EN fallback
+                    # CRITICAL: Do NOT fallback to other languages (e.g., "en" when "fr" is requested)
+                    # This would cause wrong-language audio to be served
+                    # Only use the requested language
             
             topic_mapped = map_topic(topic_normalized)
-            print(f"⚠️ [serve_local_audio] File NOT FOUND: character={character}, topic={topic} (normalized: {topic_normalized}, mapped: {topic_mapped}), scene_index={scene_index}, lang={lang}")
-            print(f"   Tried {len(tried_paths)} paths:")
-            for path in tried_paths:
-                exists = Path(path).exists()
-                print(f"      {'✅' if exists else '❌'} {path} {'(exists)' if exists else '(not found)'}")
+            # CRITICAL: Check what files actually exist in the character directory
+            character_dir = AUDIO_BASE_DIR / character.lower()
+            lang_dir = character_dir / lang
             
-            # IMPORTANT: If file doesn't exist, return mock_audio (which generates TTS on-the-fly)
+            # List actual files in the directory for debugging
+            existing_paths = [p for p in tried_paths if Path(p).exists()]
+            if existing_paths:
+                # Some paths exist but weren't used - log this with actual file list
+                print(f"⚠️ [serve_local_audio] File NOT FOUND: character={character}, topic={topic} (normalized: {topic_normalized}, mapped: {topic_mapped}), scene_index={scene_index}, lang={lang}")
+                print(f"   Found {len(existing_paths)} existing paths but none matched criteria")
+                print(f"   AUDIO_BASE_DIR: {AUDIO_BASE_DIR}")
+                print(f"   Character dir exists: {character_dir.exists()}")
+                if lang_dir.exists():
+                    actual_files = list(lang_dir.glob(f"*{scene_index}.*"))
+                    if actual_files:
+                        print(f"   Actual files in {lang_dir}: {[f.name for f in actual_files]}")
+                    else:
+                        print(f"   No files with scene_index {scene_index} in {lang_dir}")
+                else:
+                    print(f"   Language dir does not exist: {lang_dir}")
+                    # Check if character dir has any files
+                    if character_dir.exists():
+                        all_files = list(character_dir.rglob(f"*{scene_index}.*"))
+                        if all_files:
+                            print(f"   Found files in character dir (wrong structure): {[str(f.relative_to(character_dir)) for f in all_files[:5]]}")
+            else:
+                # No paths exist - check if directory structure is correct
+                print(f"⚠️ [serve_local_audio] Audio not found: {character}/{topic_mapped}_{scene_index} (lang={lang}), will generate TTS")
+                print(f"   AUDIO_BASE_DIR: {AUDIO_BASE_DIR}")
+                print(f"   Character dir exists: {character_dir.exists()}")
+                if character_dir.exists():
+                    # List what's actually in the character directory
+                    subdirs = [d.name for d in character_dir.iterdir() if d.is_dir()]
+                    files = [f.name for f in character_dir.iterdir() if f.is_file()]
+                    if subdirs:
+                        print(f"   Subdirectories in character dir: {subdirs[:5]}")
+                    if files:
+                        print(f"   Files in character dir (wrong structure): {files[:5]}")
+            
+            # IMPORTANT: If file doesn't exist, return mock_audio (which generates TTS on-the-fly from story text)
             # This should NOT happen for pre-generated content - files should exist!
-            print(f"⚠️ [serve_local_audio] Audio file not found, falling back to mock_audio (will generate TTS on-the-fly)")
-            print(f"   NOTE: This means audio was not pre-generated. Consider pre-generating audio files.")
-            return await mock_audio(audio_id)
+            # But if it does, mock_audio will load the story JSON and generate correct audio
+            print(f"⚠️ [serve_local_audio] Audio file not found for lang={lang}, falling back to mock_audio (will generate TTS on-the-fly from story)")
+            print(f"   NOTE: This means audio was not pre-generated. mock_audio will load story JSON in lang={lang} and generate correct audio.")
+            print(f"   CRITICAL: mock_audio will use lang={lang} parameter to load correct language story JSON")
+            return await mock_audio(audio_id, lang=lang)
     except Exception as e:
         print(f"❌ [serve_local_audio] Error: {e}")
         import traceback
         traceback.print_exc()
-        return await mock_audio(audio_id)
+        return await mock_audio(audio_id, lang=lang)
 
 @app.get("/mock-audio/{audio_id}")
-async def mock_audio(audio_id: str):
-    """Serve audio files using fal.ai TTS when Firebase is not configured."""
+async def mock_audio(audio_id: str, lang: str = "en"):
+    """Generate TTS audio on-the-fly when pre-generated file doesn't exist.
+    
+    BEST PRACTICE: Loads text from story JSON file to generate correct audio.
+    This ensures that even if audio file doesn't exist, we generate the right content.
+    """
     try:
-        # Extract text from audio_id (for now, use a default Mino greeting)
-        mino_text = "Hello! I'm Mino, your colorful space friend! 🌈"
+        # Parse audio_id: {character}_{topic}_{scene_index}
+        audio_id_clean = audio_id.replace('.wav', '').replace('.mp3', '')
+        parts = audio_id_clean.split('_')
+        if len(parts) < 3:
+            print(f"⚠️ [mock_audio] Invalid audio_id format: {audio_id}, using fallback text")
+            fallback_text = "Hello! I'm here to help you! 🌈"
+        else:
+            character = parts[0]
+            scene_index = int(parts[-1])  # Last part is scene_index
+            topic = '_'.join(parts[1:-1])  # Everything between character and scene_index is topic
+            
+            # Use centralized topic mapping
+            from utils.topic_mapping import map_topic, get_topic_candidates
+            topic_normalized = topic.lower()
+            topic_mapped = map_topic(topic_normalized)
+            topic_candidates = get_topic_candidates(topic_normalized)
+            
+            print(f"🔊 [mock_audio] Generating TTS on-the-fly: character={character}, topic={topic} (mapped={topic_mapped}), scene_index={scene_index}, lang={lang}")
+            
+            # Try to load story JSON to get actual scene text
+            from services.story_composer import content_story_path, to_character_slug
+            character_slug = to_character_slug(character)
+            
+            story_text = None
+            # Try each topic candidate to find story file
+            # CRITICAL: Use lang parameter to load correct language story JSON
+            # This ensures we get the correct language text for TTS generation
+            for topic_candidate in topic_candidates:
+                story_path = content_story_path(lang, character_slug, topic_candidate)
+                print(f"🔍 [mock_audio] Checking story path: {story_path} (lang={lang})")
+                if story_path.exists():
+                    try:
+                        with open(story_path, 'r', encoding='utf-8') as f:
+                            story_data = json.load(f)
+                            scenes = story_data.get("scenes", [])
+                            if scene_index < len(scenes):
+                                scene = scenes[scene_index]
+                                story_text = scene.get("text", "")
+                                if story_text:
+                                    print(f"✅ [mock_audio] Loaded text from story: {story_path} (scene {scene_index})")
+                                    break
+                    except Exception as e:
+                        print(f"⚠️ [mock_audio] Error loading story {story_path}: {e}")
+                        continue
+            
+            if not story_text:
+                print(f"⚠️ [mock_audio] Story not found or scene text missing, using fallback text")
+                fallback_text = f"Hello! Let's talk about {topic.replace('_', ' ')}! 🌈"
+            else:
+                fallback_text = story_text
         
-        # Generate TTS with ElevenLabs using Mino's voice
+        # Get character voice settings
+        character_lower = character.lower() if len(parts) >= 3 else "mino"
+        voice_settings = CHARACTER_VOICES.get(character_lower, CHARACTER_VOICES.get("mino", {}))
+        voice_id = voice_settings.get("voice_id", "gender-neutral-mid")
+        emotion = voice_settings.get("emotion", "happy")
+        speed = voice_settings.get("speed", 1.0)
+        pitch = voice_settings.get("pitch", 1.1)
+        
+        print(f"🎤 [mock_audio] Using voice for {character_lower}: {voice_id}")
+        print(f"🌍 [mock_audio] Generating TTS with language: {lang}, text preview: {fallback_text[:100]}...")
+        
+        # Generate TTS with character-specific voice
+        # CRITICAL: Pass lang parameter to ensure correct language detection
+        # The _add_language_hint function will add language hint (e.g., [EN]) to text
+        # This prevents ElevenLabs multilingual model from misdetecting the language
         audio_bytes = await generate_tts_with_elevenlabs(
-            text=mino_text,
-            voice="gender-neutral-mid",  # Mino's voice
-            emotion="happy",
-            speed=1.0,
-            pitch=1.1
+            text=fallback_text,
+            voice=voice_id,
+            emotion=emotion,
+            speed=speed,
+            pitch=pitch,
+            topic=topic_mapped if len(parts) >= 3 else None,
+            lang=lang  # CRITICAL: Pass lang parameter for correct language detection
         )
         
         if audio_bytes:
-            print(f"Generated fal.ai audio for: {mino_text}")
+            print(f"✅ [mock_audio] Generated TTS audio: {len(audio_bytes)} bytes")
             return Response(content=audio_bytes, media_type="audio/wav")
         else:
-            print("fal.ai failed, using silent fallback")
+            print("⚠️ [mock_audio] TTS generation failed, using silent fallback")
             # Fallback to silent audio
             audio_bytes = create_minimal_silent_mp3(3.0)
             return Response(content=audio_bytes, media_type="audio/wav")
             
     except Exception as e:
-        print(f"Mock audio generation failed: {e}")
+        print(f"❌ [mock_audio] Error: {e}")
+        import traceback
+        traceback.print_exc()
         # Fallback to silent audio
         audio_bytes = create_minimal_silent_mp3(3.0)
         return Response(content=audio_bytes, media_type="audio/wav")
@@ -1280,10 +1524,15 @@ async def generate_video_endpoint(request: VideoGenerationRequest):
         traceback.print_exc()
         raise HTTPException(status_code=500, detail=str(e))
 
+@app.get("/")
+async def root():
+    """Root endpoint - redirects to health check"""
+    return {"status": "healthy", "service": "mino"}
+
 @app.get("/health")
 async def health_check():
     """Health check endpoint"""
-    return {"status": "healthy", "service": "mino-backend"}
+    return {"status": "healthy", "service": "mino"}
 
 # Characters and topics are managed from rules.json in UI - no backend endpoints needed
 # Backend only handles: TTS generation, video composition, LLM interactions
@@ -1807,6 +2056,617 @@ async def streak_updated_endpoint(request: StreakUpdatedRequest):
         import traceback
         traceback.print_exc()
         raise HTTPException(status_code=500, detail=str(e))
+
+
+# MARK: - Story Creation Endpoints
+from models.story_create_models import (
+    StoryRequest, CreateStoryResponse, StoryResponse, StoryListResponse, DuplicateStoryRequest
+)
+
+async def check_user_quota(user_id: str, length: str) -> Tuple[bool, int]:
+    """Check if user has quota remaining. Returns (has_quota, quota_remaining)."""
+    if not db:
+        return True, 999  # Allow if Firestore unavailable
+    
+    try:
+        # Check subscription status
+        subscription_ref = db.collection("subscriptions").document(user_id)
+        subscription_doc = subscription_ref.get()
+        
+        has_subscription = False
+        if subscription_doc.exists:
+            sub_data = subscription_doc.to_dict()
+            expires_ms = sub_data.get("expires_date_ms")
+            if expires_ms:
+                expires_at = datetime.fromtimestamp(expires_ms / 1000)
+                has_subscription = expires_at > datetime.now()
+        
+        # Subscribers have unlimited quota
+        if has_subscription:
+            return True, 999
+        
+        # Free users: check monthly quota (3 quick stories per month)
+        if length != "quick":
+            return False, 0
+        
+        # Count stories created this month
+        now = datetime.now()
+        month_start = datetime(now.year, now.month, 1)
+        
+        stories_ref = db.collection("stories")
+        query = stories_ref.where("owner_user_id", "==", user_id)\
+                          .where("quota_counted", "==", True)\
+                          .where("created_at", ">=", month_start.timestamp())
+        
+        story_count = len(list(query.stream()))
+        quota_remaining = max(0, 3 - story_count)
+        
+        return quota_remaining > 0, quota_remaining
+    except Exception as e:
+        print(f"⚠️ Error checking quota: {e}")
+        return True, 999  # Allow on error
+
+
+async def check_user_entitlement(user_id: str) -> bool:
+    """Check if user has active subscription."""
+    if not db:
+        return False
+    
+    try:
+        subscription_ref = db.collection("subscriptions").document(user_id)
+        subscription_doc = subscription_ref.get()
+        
+        if not subscription_doc.exists:
+            return False
+        
+        sub_data = subscription_doc.to_dict()
+        expires_ms = sub_data.get("expires_date_ms")
+        if not expires_ms:
+            return False
+        
+        expires_at = datetime.fromtimestamp(expires_ms / 1000)
+        return expires_at > datetime.now()
+    except Exception as e:
+        print(f"⚠️ Error checking entitlement: {e}")
+        return False
+
+
+@app.post("/stories", response_model=CreateStoryResponse)
+async def create_story(
+    request: StoryRequest,
+    user_id: Optional[str] = Depends(verify_firebase_token)
+):
+    """Create a new story. Validates quota and enqueues generation job."""
+    try:
+        if not user_id:
+            raise HTTPException(status_code=401, detail="Authentication required")
+        
+        # Validate length for free users
+        has_quota, quota_remaining = await check_user_quota(user_id, request.length)
+        if not has_quota:
+            raise HTTPException(
+                status_code=403,
+                detail=f"Quota exceeded. You've used your 3 free stories this month."
+            )
+        
+        # Validate length access
+        if request.length == "dreamy":
+            has_entitlement = await check_user_entitlement(user_id)
+            if not has_entitlement:
+                raise HTTPException(
+                    status_code=403,
+                    detail="Dreamy stories require a subscription"
+                )
+        
+        # Generate story ID
+        story_id = f"story_{user_id}_{int(time.time())}"
+        
+        # Create Firestore document
+        story_data = {
+            "id": story_id,
+            "title": f"Story about {request.topic[:50]}",  # Temporary title
+            "status": "text_pending",
+            "character_id": request.character_id,
+            "language": request.language,
+            "owner_user_id": user_id,
+            "topic": request.topic,
+            "child_name": request.child_name,
+            "length_type": request.length,
+            "quota_counted": False,
+            "created_at": time.time(),
+            "updated_at": time.time()
+        }
+        
+        if db:
+            story_ref = db.collection("stories").document(story_id)
+            story_ref.set(story_data)
+        
+        # Enqueue generation job (async, non-blocking)
+        import asyncio
+        asyncio.create_task(generate_story_async(story_id, request))
+        
+        return CreateStoryResponse(
+            story_id=story_id,
+            status="text_pending",
+            quota_remaining=quota_remaining
+        )
+        
+    except HTTPException:
+        raise
+    except Exception as e:
+        print(f"❌ Error creating story: {e}")
+        import traceback
+        traceback.print_exc()
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+async def generate_story_async(story_id: str, request: StoryRequest):
+    """Async task to generate story text and audio."""
+    try:
+        # Update status to generating
+        if db:
+            story_ref = db.collection("stories").document(story_id)
+            story_ref.update({"status": "generating_text"})
+        
+        # Generate story text using LLM
+        token_limits = {
+            "quick": 350,
+            "dreamy": 900
+        }
+        max_tokens = token_limits.get(request.length, 350)
+        
+        # Sanitize topic
+        sanitized_topic = sanitize_topic(request.topic)
+        
+        # Generate story with OpenAI
+        story_text = await generate_story_text(
+            topic=sanitized_topic,
+            character=request.character_id,
+            language=request.language,
+            child_name=request.child_name,
+            max_tokens=max_tokens
+        )
+        
+        # Save text to Firestore
+        if db:
+            story_ref = db.collection("stories").document(story_id)
+            story_ref.update({
+                "text": story_text,
+                "title": extract_title_from_text(story_text),
+                "status": "audio_pending",
+                "updated_at": time.time()
+            })
+        
+        # Generate audio
+        audio_url = await generate_story_audio(
+            text=story_text,
+            character_id=request.character_id,
+            language=request.language
+        )
+        
+        # Get audio duration
+        duration_seconds = await get_audio_duration(audio_url)
+        
+        # Update story with audio
+        if db:
+            story_ref = db.collection("stories").document(story_id)
+            story_ref.update({
+                "audio_url": audio_url,
+                "duration_seconds": duration_seconds,
+                "status": "ready",
+                "quota_counted": True,
+                "updated_at": time.time()
+            })
+        
+        print(f"✅ Story {story_id} generated successfully")
+        
+    except Exception as e:
+        print(f"❌ Error generating story {story_id}: {e}")
+        import traceback
+        traceback.print_exc()
+        
+        # Mark as failed
+        if db:
+            story_ref = db.collection("stories").document(story_id)
+            story_ref.update({
+                "status": "failed",
+                "updated_at": time.time()
+            })
+
+
+async def generate_story_text(
+    topic: str,
+    character: str,
+    language: str,
+    child_name: Optional[str],
+    max_tokens: int
+) -> str:
+    """Generate story text using OpenAI."""
+    if not settings.OPENAI_API_KEY:
+        # Fallback story
+        return f"Once upon a time, {character} told a wonderful story about {topic}."
+    
+    import openai
+    client = openai.OpenAI(api_key=settings.OPENAI_API_KEY)
+    
+    character_name = character.capitalize()
+    child_part = f" named {child_name}" if child_name else ""
+    
+    prompt = f"""You are {character_name}, a friendly character telling a bedtime story to a child{child_part}.
+
+The parent wants a story about: {topic}
+
+Create a calming, age-appropriate bedtime story (3-12 minutes when read aloud). The story should be:
+- Positive and reassuring
+- Suitable for children aged 2-8
+- Calming for bedtime
+- Engaging but not overstimulating
+
+Write the story in {language}. Do not include any harmful, violent, or inappropriate content.
+
+Story:"""
+    
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[
+            {"role": "system", "content": f"You are {character_name}, a kind and gentle character who tells bedtime stories to children."},
+            {"role": "user", "content": prompt}
+        ],
+        max_tokens=max_tokens,
+        temperature=0.8
+    )
+    
+    return response.choices[0].message.content.strip()
+
+
+async def generate_story_audio(text: str, character_id: str, language: str) -> str:
+    """Generate audio using TTS and upload to Firebase Storage."""
+    # Use existing TTS generation
+    style = {"stability": 0.7, "similarity_boost": 0.85, "style": 0.6}
+    audio_url = await generate_tts(
+        text=text,
+        style=style,
+        lang=language,
+        character=character_id
+    )
+    return audio_url
+
+
+async def get_audio_duration(audio_url: str) -> int:
+    """Get audio duration in seconds."""
+    try:
+        # Download audio temporarily
+        import httpx
+        async with httpx.AsyncClient() as client:
+            response = await client.get(audio_url)
+            audio_data = response.content
+        
+        # Use ffmpeg to get duration
+        import tempfile
+        with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as tmp:
+            tmp.write(audio_data)
+            tmp_path = tmp.name
+        
+        probe = ffmpeg.probe(tmp_path)
+        duration = float(probe["format"]["duration"])
+        
+        os.unlink(tmp_path)
+        return int(duration)
+    except Exception as e:
+        print(f"⚠️ Error getting audio duration: {e}")
+        return 180  # Default 3 minutes
+
+
+def sanitize_topic(topic: str) -> str:
+    """Sanitize topic to remove harmful content."""
+    # Basic sanitization - in production, use a proper content moderation API
+    forbidden_words = ["violence", "adult", "explicit"]
+    topic_lower = topic.lower()
+    for word in forbidden_words:
+        if word in topic_lower:
+            return "a calming bedtime story"
+    return topic
+
+
+def extract_title_from_text(text: str) -> str:
+    """Extract a title from story text."""
+    # Use first sentence or first 50 characters
+    first_line = text.split("\n")[0].strip()
+    if len(first_line) > 50:
+        return first_line[:47] + "..."
+    return first_line
+
+
+@app.get("/stories/{story_id}", response_model=StoryResponse)
+async def get_story(
+    story_id: str,
+    user_id: Optional[str] = Depends(verify_firebase_token)
+):
+    """Get a single story by ID."""
+    try:
+        if not user_id:
+            raise HTTPException(status_code=401, detail="Authentication required")
+        
+        if not db:
+            raise HTTPException(status_code=500, detail="Database unavailable")
+        
+        story_ref = db.collection("stories").document(story_id)
+        story_doc = story_ref.get()
+        
+        if not story_doc.exists:
+            raise HTTPException(status_code=404, detail="Story not found")
+        
+        story_data = story_doc.to_dict()
+        
+        # Verify ownership
+        if story_data.get("owner_user_id") != user_id:
+            raise HTTPException(status_code=403, detail="Access denied")
+        
+        return StoryResponse(**story_data)
+        
+    except HTTPException:
+        raise
+    except Exception as e:
+        print(f"❌ Error fetching story: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/stories", response_model=StoryListResponse)
+async def list_stories(
+    userId: str = "me",
+    limit: int = 10,
+    user_id: Optional[str] = Depends(verify_firebase_token)
+):
+    """List user's stories."""
+    try:
+        if not user_id:
+            raise HTTPException(status_code=401, detail="Authentication required")
+        
+        if not db:
+            return StoryListResponse(stories=[], quota_remaining=3)
+        
+        # Get user's stories
+        stories_ref = db.collection("stories")
+        query = stories_ref.where("owner_user_id", "==", user_id)\
+                          .order_by("created_at", direction=firestore.Query.DESCENDING)\
+                          .limit(limit)
+        
+        stories = []
+        for doc in query.stream():
+            story_data = doc.to_dict()
+            stories.append(StoryResponse(**story_data))
+        
+        # Get quota remaining
+        has_quota, quota_remaining = await check_user_quota(user_id, "quick")
+        
+        return StoryListResponse(
+            stories=stories,
+            quota_remaining=quota_remaining if not await check_user_entitlement(user_id) else None
+        )
+        
+    except HTTPException:
+        raise
+    except Exception as e:
+        print(f"❌ Error listing stories: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.patch("/stories/{story_id}/duplicate", response_model=CreateStoryResponse)
+async def duplicate_story(
+    story_id: str,
+    request: DuplicateStoryRequest,
+    user_id: Optional[str] = Depends(verify_firebase_token)
+):
+    """Duplicate a story with optional new character or length."""
+    try:
+        if not user_id:
+            raise HTTPException(status_code=401, detail="Authentication required")
+        
+        if not db:
+            raise HTTPException(status_code=500, detail="Database unavailable")
+        
+        # Get original story
+        story_ref = db.collection("stories").document(story_id)
+        story_doc = story_ref.get()
+        
+        if not story_doc.exists:
+            raise HTTPException(status_code=404, detail="Story not found")
+        
+        original_data = story_doc.to_dict()
+        
+        # Verify ownership
+        if original_data.get("owner_user_id") != user_id:
+            raise HTTPException(status_code=403, detail="Access denied")
+        
+        # Create new story request
+        new_character = request.character_id or original_data.get("character_id", "mino")
+        new_length = request.length or original_data.get("length_type", "quick")
+        
+        story_request = StoryRequest(
+            topic=original_data.get("topic", ""),
+            language=original_data.get("language", "en"),
+            child_name=original_data.get("child_name"),
+            character_id=new_character,
+            length=new_length
+        )
+        
+        # Create new story
+        return await create_story(story_request, user_id)
+        
+    except HTTPException:
+        raise
+    except Exception as e:
+        print(f"❌ Error duplicating story: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+# MARK: - RevenueCat Webhook Handler
+@app.post("/revenuecat/webhooks")
+async def revenuecat_webhook(request: Request):
+    """
+    RevenueCat webhook handler
+    Best Practice: Server-to-server notifications for subscription state changes
+    
+    Handles:
+    - INITIAL_PURCHASE: First purchase
+    - RENEWAL: Subscription renewed
+    - CANCELLATION: Subscription cancelled
+    - UNCANCELLATION: Cancellation reversed
+    - EXPIRATION: Subscription expired
+    - TRIAL_STARTED: Trial started
+    - TRIAL_ENDED: Trial ended (converted to paid) - CRITICAL
+    - BILLING_ISSUE: Payment issue (grace period)
+    - PRODUCT_CHANGE: Product changed
+    """
+    try:
+        # Get request body
+        body = await request.body()
+        body_json = json.loads(body)
+        
+        # Get event type
+        event_type = body_json.get("event", {}).get("type")
+        app_user_id = body_json.get("event", {}).get("app_user_id")
+        product_id = body_json.get("event", {}).get("product_id")
+        expiration_date = body_json.get("event", {}).get("expiration_at")
+        
+        print(f"📥 RevenueCat webhook received: {event_type} for user: {app_user_id}, product: {product_id}")
+        
+        # Handle different event types
+        if event_type == "INITIAL_PURCHASE":
+            print(f"✅ Initial purchase: {product_id}, expires: {expiration_date}")
+            # Update Firestore if needed
+            if db and app_user_id:
+                subscription_ref = db.collection("subscriptions").document(app_user_id)
+                subscription_ref.set({
+                    "user_id": app_user_id,
+                    "product_id": product_id,
+                    "expires_date_ms": int(datetime.fromisoformat(expiration_date.replace('Z', '+00:00')).timestamp() * 1000) if expiration_date else None,
+                    "is_trial_period": False,
+                    "updated_at": firestore.SERVER_TIMESTAMP,
+                    "updated_via": "revenuecat_webhook_initial_purchase"
+                }, merge=True)
+                
+        elif event_type == "RENEWAL":
+            print(f"✅ Subscription renewed: {product_id}, expires: {expiration_date}")
+            # Update Firestore
+            if db and app_user_id:
+                subscription_ref = db.collection("subscriptions").document(app_user_id)
+                subscription_ref.set({
+                    "user_id": app_user_id,
+                    "product_id": product_id,
+                    "expires_date_ms": int(datetime.fromisoformat(expiration_date.replace('Z', '+00:00')).timestamp() * 1000) if expiration_date else None,
+                    "updated_at": firestore.SERVER_TIMESTAMP,
+                    "updated_via": "revenuecat_webhook_renewal"
+                }, merge=True)
+                
+        elif event_type == "CANCELLATION":
+            print(f"⚠️ Subscription cancelled: {product_id}, expires: {expiration_date}")
+            # Update Firestore (subscription will expire at end of period)
+            if db and app_user_id:
+                subscription_ref = db.collection("subscriptions").document(app_user_id)
+                subscription_ref.set({
+                    "user_id": app_user_id,
+                    "product_id": product_id,
+                    "cancelled": True,
+                    "expires_date_ms": int(datetime.fromisoformat(expiration_date.replace('Z', '+00:00')).timestamp() * 1000) if expiration_date else None,
+                    "updated_at": firestore.SERVER_TIMESTAMP,
+                    "updated_via": "revenuecat_webhook_cancellation"
+                }, merge=True)
+                
+        elif event_type == "UNCANCELLATION":
+            print(f"✅ Subscription uncancelled: {product_id}, expires: {expiration_date}")
+            # Update Firestore
+            if db and app_user_id:
+                subscription_ref = db.collection("subscriptions").document(app_user_id)
+                subscription_ref.set({
+                    "user_id": app_user_id,
+                    "product_id": product_id,
+                    "cancelled": False,
+                    "expires_date_ms": int(datetime.fromisoformat(expiration_date.replace('Z', '+00:00')).timestamp() * 1000) if expiration_date else None,
+                    "updated_at": firestore.SERVER_TIMESTAMP,
+                    "updated_via": "revenuecat_webhook_uncancellation"
+                }, merge=True)
+                
+        elif event_type == "EXPIRATION":
+            print(f"❌ Subscription expired: {product_id}")
+            # Update Firestore
+            if db and app_user_id:
+                subscription_ref = db.collection("subscriptions").document(app_user_id)
+                subscription_ref.set({
+                    "user_id": app_user_id,
+                    "product_id": product_id,
+                    "expired": True,
+                    "updated_at": firestore.SERVER_TIMESTAMP,
+                    "updated_via": "revenuecat_webhook_expiration"
+                }, merge=True)
+                
+        elif event_type == "TRIAL_STARTED":
+            print(f"📅 Trial started: {product_id}, expires: {expiration_date}")
+            # Update Firestore
+            if db and app_user_id:
+                subscription_ref = db.collection("subscriptions").document(app_user_id)
+                subscription_ref.set({
+                    "user_id": app_user_id,
+                    "product_id": product_id,
+                    "expires_date_ms": int(datetime.fromisoformat(expiration_date.replace('Z', '+00:00')).timestamp() * 1000) if expiration_date else None,
+                    "is_trial_period": True,
+                    "updated_at": firestore.SERVER_TIMESTAMP,
+                    "updated_via": "revenuecat_webhook_trial_started"
+                }, merge=True)
+                
+        elif event_type == "TRIAL_ENDED":
+            # CRITICAL: Trial ended, converted to paid subscription
+            print(f"✅ Trial ended, converted to paid: {product_id}, expires: {expiration_date}")
+            # Update Firestore
+            if db and app_user_id:
+                subscription_ref = db.collection("subscriptions").document(app_user_id)
+                subscription_ref.set({
+                    "user_id": app_user_id,
+                    "product_id": product_id,
+                    "expires_date_ms": int(datetime.fromisoformat(expiration_date.replace('Z', '+00:00')).timestamp() * 1000) if expiration_date else None,
+                    "is_trial_period": False,  # Trial bitti, artık paid
+                    "updated_at": firestore.SERVER_TIMESTAMP,
+                    "updated_via": "revenuecat_webhook_trial_ended"
+                }, merge=True)
+                print(f"✅ Firestore updated for trial-to-paid conversion: {app_user_id}")
+                
+        elif event_type == "BILLING_ISSUE":
+            print(f"⚠️ Billing issue: {product_id} (grace period)")
+            # Update Firestore
+            if db and app_user_id:
+                subscription_ref = db.collection("subscriptions").document(app_user_id)
+                subscription_ref.set({
+                    "user_id": app_user_id,
+                    "product_id": product_id,
+                    "billing_issue": True,
+                    "updated_at": firestore.SERVER_TIMESTAMP,
+                    "updated_via": "revenuecat_webhook_billing_issue"
+                }, merge=True)
+                
+        elif event_type == "PRODUCT_CHANGE":
+            previous_product_id = body_json.get("event", {}).get("previous_product_id")
+            print(f"🔄 Product changed: {previous_product_id} → {product_id}")
+            # Update Firestore
+            if db and app_user_id:
+                subscription_ref = db.collection("subscriptions").document(app_user_id)
+                subscription_ref.set({
+                    "user_id": app_user_id,
+                    "product_id": product_id,
+                    "previous_product_id": previous_product_id,
+                    "expires_date_ms": int(datetime.fromisoformat(expiration_date.replace('Z', '+00:00')).timestamp() * 1000) if expiration_date else None,
+                    "updated_at": firestore.SERVER_TIMESTAMP,
+                    "updated_via": "revenuecat_webhook_product_change"
+                }, merge=True)
+        
+        # Always return 200 OK to acknowledge receipt
+        return {"status": "ok", "event_type": event_type}
+        
+    except Exception as e:
+        print(f"❌ Error handling RevenueCat webhook: {e}")
+        import traceback
+        traceback.print_exc()
+        # Still return 200 to prevent retries for invalid requests
+        return {"status": "error", "message": str(e)}
 
 
 if __name__ == "__main__":

@@ -9,15 +9,19 @@ from typing import Dict, List
 
 # Topic mapping dictionary: Maps UI topic names to backend file names
 # This matches the iOS TopicMappingManager.swift
+# NOTE: Backend file names are: nutrition_0.wav, sibling_0.wav (not nutrition_health_body, sibling_issues)
 TOPIC_MAPPING: Dict[str, str] = {
     "sleep": "bedtime",                    # sleep → bedtime.json
-    "sibling issues": "sibling_issues",    # sibling issues → sibling_issues.json
-    "sibling": "sibling_issues",           # sibling → sibling_issues.json (fallback)
+    "sibling issues": "sibling",           # sibling issues → sibling.json (backend: sibling_0.wav)
+    "sibling_issues": "sibling",           # underscore variant → sibling.json
+    "siblingissues": "sibling",            # legacy variant → sibling.json
+    "sibling": "sibling",                  # sibling → sibling.json (direct match)
     "screen time": "screen_time",          # screen time → screen_time.json
     "digital safety": "digital_safety",    # digital safety → digital_safety.json
     "feeling sad": "feeling_sad",         # feeling sad → feeling_sad.json
     "emotional regulation": "emotional_regulation",  # emotional regulation → emotional_regulation.json
     "behavior attention": "behavior_attention",      # behavior attention → behavior_attention.json
+    "behavior_attention": "behavior_attention",
     "body parts": "body_parts",            # body parts → body_parts.json
     "fairy tales": "fairy_tales",         # fairy tales → fairy_tales.json
     "food": "nutrition",                   # food → nutrition.json (backend file name)
@@ -43,20 +47,38 @@ def map_topic(topic: str) -> str:
 
 
 def get_topic_candidates(topic: str) -> List[str]:
-    """Get topic candidates for file lookup (mapped version first, then original).
+    """Get topic candidates for file lookup (mapped version first, then original, then reverse mappings).
     
     Args:
         topic: Topic name (e.g., "food")
         
     Returns:
         List of topic candidates to try (e.g., ["nutrition", "food"])
+        
+    Note: Also includes reverse mappings (e.g., "sibling" → ["sibling", "sibling_issues"])
     """
     topic_lower = topic.lower()
     mapped = map_topic(topic)
     
+    candidates = []
+    
+    # Add mapped version first (if different)
     if mapped != topic_lower:
-        return [mapped, topic_lower]
-    return [topic_lower]
+        candidates.append(mapped)
+    
+    # Add original
+    candidates.append(topic_lower)
+    
+    # Add reverse mappings: find all keys that map to the mapped value
+    # Example: "sibling" → find all keys that map to "sibling" (e.g., "sibling_issues", "sibling issues")
+    if mapped in TOPIC_MAPPING.values():
+        for key, value in TOPIC_MAPPING.items():
+            if value == mapped and key != topic_lower and key not in candidates:
+                # Only add underscore variants (not space variants) to avoid confusion
+                if '_' in key:
+                    candidates.append(key)
+    
+    return candidates
 
 
 def has_mapping(topic: str) -> bool:

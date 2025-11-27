@@ -64,7 +64,24 @@ def get_project_root() -> Path:
 def content_story_path(lang: str, slug: str, topic: str) -> Path:
     project_root = get_project_root()
     topic_slug = topic.lower().replace(" ", "_")
-    return project_root / "backend" / "storage" / "content" / lang / "stories" / slug / f"{topic_slug}.json"
+    # Production path: /home/app/app/storage/content/... (project_root / "storage")
+    # Development path: backend/storage/content/... (project_root / "backend" / "storage")
+    # Check both paths and return the one that exists
+    prod_path = project_root / "storage" / "content" / lang / "stories" / slug / f"{topic_slug}.json"
+    dev_path = project_root / "backend" / "storage" / "content" / lang / "stories" / slug / f"{topic_slug}.json"
+    
+    # CRITICAL: Check if production storage directory exists first
+    # Production server has: /home/app/app/storage/... (project_root = /home/app/app/)
+    # Development has: backend/storage/... (project_root = /path/to/project/)
+    if (project_root / "storage").exists():
+        # Production path structure exists
+        return prod_path
+    elif (project_root / "backend" / "storage").exists():
+        # Development path structure exists
+        return dev_path
+    else:
+        # Default to dev_path for backward compatibility
+        return dev_path
 
 
 def analyze_text_for_video_key(scene_type: str, text: str, lang: str = "en") -> str:
@@ -172,10 +189,26 @@ def analyze_text_for_video_key(scene_type: str, text: str, lang: str = "en") -> 
 
 
 def content_prompt_path(lang: str, slug: str, topic: str) -> Path:
-    """Get path to prompt JSON file in backend/storage/content/{lang}/prompts/{character}/{topic}.json"""
+    """Get path to prompt JSON file in storage/content/{lang}/prompts/{character}/{topic}.json
+    
+    Production path: /home/app/app/storage/content/... (project_root / "storage")
+    Development path: backend/storage/content/... (project_root / "backend" / "storage")
+    """
     project_root = get_project_root()
     topic_slug = topic.lower().replace(" ", "_")
-    return project_root / "backend" / "storage" / "content" / lang / "prompts" / slug / f"{topic_slug}.json"
+    # Production path: /home/app/app/storage/content/... (project_root / "storage")
+    prod_path = project_root / "storage" / "content" / lang / "prompts" / slug / f"{topic_slug}.json"
+    # Development path: backend/storage/content/... (project_root / "backend" / "storage")
+    dev_path = project_root / "backend" / "storage" / "content" / lang / "prompts" / slug / f"{topic_slug}.json"
+    
+    # CRITICAL: Check if production storage directory exists first
+    if (project_root / "storage").exists():
+        return prod_path
+    elif (project_root / "backend" / "storage").exists():
+        return dev_path
+    else:
+        # Default to dev_path for backward compatibility
+        return dev_path
 
 
 async def generate_story_with_openai(character: str, topic: str, lang: str, duration_minutes: int | None = None) -> Dict:
@@ -757,6 +790,12 @@ You are generating a {minutes}-minute conversation script. This requires substan
             data.setdefault("durationMinutes", minutes)
             # Ensure language field is correct
             data["language"] = lang if len(lang) == 2 else lang[:2]
+            # CRITICAL: Override topic field with the mapped topic (not LLM's response)
+            # This ensures consistency: story file name and JSON topic field match
+            # Example: If topic="sibling", topic_mapped="sibling", then story JSON should have topic="sibling"
+            # This prevents issues where LLM returns "friendship" but we want "sibling"
+            data["topic"] = topic
+            print(f"✅ [story_composer] Set story topic field to '{topic}' (mapped topic, ensuring consistency with file name)")
             # Ensure title field exists
             if "title" not in data or not data.get("title"):
                 # Generate default title

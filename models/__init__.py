@@ -4,6 +4,9 @@ from .tts_models import TTSRequest, TTSResponse
 from .llm_models import LLMRequest, LLMResponse
 from .video_models import ComposeRequest, ComposeResponse, VideoGenerationRequest, VideoGenerationResponse
 from .story_models import ComposeStoryRequest, ComposeStoryResponse
+from .story_create_models import (
+    StoryRequest, CreateStoryResponse, StoryResponse, StoryListResponse, DuplicateStoryRequest
+)
 from .receipt_models import ReceiptRequest, ReceiptResponse
 from .notification_models import (
     StoryCompletedRequest, StoryCompletedResponse,
@@ -29,4 +32,9 @@ __all__ = [
     "BadgeUnlockedResponse",
     "StreakUpdatedRequest",
     "StreakUpdatedResponse",
+    "StoryRequest",
+    "CreateStoryResponse",
+    "StoryResponse",
+    "StoryListResponse",
+    "DuplicateStoryRequest",
 ]
