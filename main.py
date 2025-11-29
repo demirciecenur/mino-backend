@@ -593,10 +593,11 @@ app.add_middleware(BotTrafficFilterMiddleware)
 # CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=settings.CORS_ORIGINS,
+    allow_origins=["*"],  # Allow all origins for now (iOS apps don't have CORS restrictions)
     allow_credentials=True,
-    allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-    allow_headers=["Authorization", "Content-Type", "X-Signature"],
+    allow_methods=["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
+    allow_headers=["*"],  # Allow all headers (iOS apps need Authorization header)
+    expose_headers=["*"],  # Expose all headers in response
 )
 
 # Firebase and FAL client are initialized via config modules above
@@ -615,6 +616,16 @@ except ImportError:
 # Firebase Auth verification
 async def verify_firebase_token(request: Request) -> Optional[str]:
     """Verify Firebase Auth token and return user ID"""
+    # Debug: Log all headers first
+    print(f"🔍 [Auth] Request method: {request.method}")
+    print(f"🔍 [Auth] Request URL: {request.url}")
+    print(f"🔍 [Auth] All request headers:")
+    for key, value in request.headers.items():
+        if key.lower() == "authorization":
+            print(f"   {key}: {value[:50]}... (length: {len(value)})")
+        else:
+            print(f"   {key}: {value}")
+    
     # Try multiple ways to get the Authorization header
     authorization = None
     
@@ -624,20 +635,21 @@ async def verify_firebase_token(request: Request) -> Optional[str]:
     elif "Authorization" in request.headers:
         authorization = request.headers["Authorization"]
     
-    # Method 2: Try from get() method
+    # Method 2: Try from get() method (case-insensitive)
     if not authorization:
         authorization = request.headers.get("authorization") or request.headers.get("Authorization")
     
-    # Debug: Log all headers for troubleshooting
+    # Method 3: Try lowercase search
     if not authorization:
-        print("⚠️ [Auth] No Authorization header found")
-        print(f"   Available headers: {list(request.headers.keys())}")
-        # Check if any header contains 'auth' or 'bearer'
         for key, value in request.headers.items():
-            if 'auth' in key.lower() or 'bearer' in value.lower():
-                print(f"   Found potential auth header: {key} = {value[:50]}...")
+            if key.lower() == "authorization":
+                authorization = value
+                break
+    
+    if not authorization:
+        print("⚠️ [Auth] No Authorization header found after all attempts")
     else:
-        print(f"🔐 [Auth] Authorization header received (length: {len(authorization)} chars)")
+        print(f"✅ [Auth] Authorization header found (length: {len(authorization)} chars)")
         print(f"   Preview: {authorization[:50]}...")
     
     return await firebase_config.verify_token(authorization)
