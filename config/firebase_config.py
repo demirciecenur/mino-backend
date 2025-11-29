@@ -66,17 +66,32 @@ class FirebaseConfig:
     
     async def verify_token(self, authorization: Optional[str]) -> Optional[str]:
         """Verify Firebase Auth token and return user ID."""
-        if not authorization or not authorization.startswith("Bearer "):
-            # For development, allow requests without auth
-            print("⚠️ No auth token provided - allowing for development")
+        if not authorization:
+            print("⚠️ [Firebase Auth] No authorization header provided")
             return None
         
-        token = authorization.replace("Bearer ", "")
+        if not authorization.startswith("Bearer "):
+            print(f"⚠️ [Firebase Auth] Invalid authorization format (expected 'Bearer <token>', got: {authorization[:30]}...)")
+            return None
+        
+        token = authorization.replace("Bearer ", "").strip()
+        if not token:
+            print("⚠️ [Firebase Auth] Empty token after removing 'Bearer ' prefix")
+            return None
+        
+        print(f"🔐 [Firebase Auth] Verifying token (length: {len(token)} chars)")
         try:
             decoded_token = auth.verify_id_token(token)
-            return decoded_token.get("uid")
+            user_id = decoded_token.get("uid")
+            if user_id:
+                print(f"✅ [Firebase Auth] Token verified successfully for user: {user_id}")
+            else:
+                print("⚠️ [Firebase Auth] Token verified but no 'uid' found in decoded token")
+            return user_id
         except Exception as e:
-            print(f"⚠️ Auth verification failed: {e}")
+            print(f"❌ [Firebase Auth] Token verification failed: {type(e).__name__}: {e}")
+            import traceback
+            traceback.print_exc()
             return None
 
 

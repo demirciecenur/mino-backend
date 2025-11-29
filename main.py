@@ -612,8 +612,15 @@ except ImportError:
     fal_client = None
 
 # Firebase Auth verification
-async def verify_firebase_token(authorization: Optional[str] = Header(None)) -> Optional[str]:
+async def verify_firebase_token(authorization: Optional[str] = Header(None, alias="Authorization")) -> Optional[str]:
     """Verify Firebase Auth token and return user ID"""
+    # Debug: Log authorization header
+    if authorization:
+        print(f"🔐 [Auth] Authorization header received (length: {len(authorization)} chars)")
+        print(f"   Preview: {authorization[:30]}...")
+    else:
+        print("⚠️ [Auth] No Authorization header found")
+    
     return await firebase_config.verify_token(authorization)
 
 # Import models
