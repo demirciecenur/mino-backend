@@ -1301,6 +1301,26 @@ async def mock_audio(audio_id: str, lang: str = "en"):
         audio_bytes = create_minimal_silent_mp3(3.0)
         return Response(content=audio_bytes, media_type="audio/wav")
 
+@app.options("/iap/verify")
+async def verify_receipt_options():
+    """Handle CORS preflight requests for /iap/verify endpoint."""
+    return Response(
+        status_code=200,
+        headers={
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Methods": "POST, OPTIONS",
+            "Access-Control-Allow-Headers": "Content-Type, Authorization",
+        }
+    )
+
+@app.get("/iap/verify")
+async def verify_receipt_get():
+    """Handle GET requests to /iap/verify - returns method not allowed with helpful message."""
+    raise HTTPException(
+        status_code=405,
+        detail="Method not allowed. This endpoint only accepts POST requests. Please use POST method with receipt data in the request body."
+    )
+
 @app.post("/iap/verify", response_model=ReceiptResponse)
 async def verify_receipt(request: ReceiptRequest):
     """Verify App Store receipt with Apple's servers.
@@ -1740,6 +1760,26 @@ async def story_completed_endpoint(request: StoryCompletedRequest):
         import traceback
         traceback.print_exc()
         raise HTTPException(status_code=500, detail=str(e))
+
+@app.options("/parents/register-device")
+async def register_device_options():
+    """Handle CORS preflight requests for /parents/register-device endpoint."""
+    return Response(
+        status_code=200,
+        headers={
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Methods": "POST, OPTIONS",
+            "Access-Control-Allow-Headers": "Content-Type, Authorization",
+        }
+    )
+
+@app.get("/parents/register-device")
+async def register_device_get():
+    """Handle GET requests to /parents/register-device - returns method not allowed with helpful message."""
+    raise HTTPException(
+        status_code=405,
+        detail="Method not allowed. This endpoint only accepts POST requests. Please use POST method with device registration data in the request body."
+    )
 
 @app.post("/parents/register-device", response_model=DeviceRegistrationResponse)
 async def register_device_endpoint(request: DeviceRegistrationRequest):
