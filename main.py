@@ -1,4 +1,5 @@
-from fastapi import FastAPI, HTTPException, Response, Depends, Header, Request, Request
+from fastapi import FastAPI, HTTPException, Response, Depends, Header, Request
+from starlette.requests import Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, JSONResponse
 from starlette.middleware.base import BaseHTTPMiddleware
@@ -612,14 +613,32 @@ except ImportError:
     fal_client = None
 
 # Firebase Auth verification
-async def verify_firebase_token(authorization: Optional[str] = Header(None, alias="Authorization")) -> Optional[str]:
+async def verify_firebase_token(request: Request) -> Optional[str]:
     """Verify Firebase Auth token and return user ID"""
-    # Debug: Log authorization header
-    if authorization:
-        print(f"🔐 [Auth] Authorization header received (length: {len(authorization)} chars)")
-        print(f"   Preview: {authorization[:30]}...")
-    else:
+    # Try multiple ways to get the Authorization header
+    authorization = None
+    
+    # Method 1: Try from headers dict (case-insensitive)
+    if "authorization" in request.headers:
+        authorization = request.headers["authorization"]
+    elif "Authorization" in request.headers:
+        authorization = request.headers["Authorization"]
+    
+    # Method 2: Try from get() method
+    if not authorization:
+        authorization = request.headers.get("authorization") or request.headers.get("Authorization")
+    
+    # Debug: Log all headers for troubleshooting
+    if not authorization:
         print("⚠️ [Auth] No Authorization header found")
+        print(f"   Available headers: {list(request.headers.keys())}")
+        # Check if any header contains 'auth' or 'bearer'
+        for key, value in request.headers.items():
+            if 'auth' in key.lower() or 'bearer' in value.lower():
+                print(f"   Found potential auth header: {key} = {value[:50]}...")
+    else:
+        print(f"🔐 [Auth] Authorization header received (length: {len(authorization)} chars)")
+        print(f"   Preview: {authorization[:50]}...")
     
     return await firebase_config.verify_token(authorization)
 
