@@ -734,7 +734,9 @@ async def generate_tts(text: str, style: dict, lang: str, character: str = None,
       - For dynamic content without scene refs: return mock/silent URL (no legacy save)
       - If existing file exists -> return its URL
     """
-    character_normalized = character.lower() if character else None
+    # CRITICAL: Normalize character name to slug (e.g., "Spider Fighter" → "spiderman")
+    # This ensures audio files are stored in the correct character directory
+    character_normalized = to_character_slug(character) if character else None
     text = clean_text_for_tts(text, character_normalized)
     
     # Topic mapping: Map StorySelectionView topic names to actual file names
@@ -2256,12 +2258,14 @@ async def create_story(
     user_id: Optional[str] = Depends(verify_firebase_token)
 ):
     """Create a new story. Validates quota and enqueues generation job."""
-    print(f"📝 [POST /stories] Story creation request received")
+    print(f"🚀 [POST /stories] ===== STORY CREATION REQUEST ======")
     print(f"   User ID: {user_id}")
     print(f"   Character ID: {request.character_id}")
     print(f"   Topic: {request.topic}")
     print(f"   Language: {request.language}")
     print(f"   Length: {request.length}")
+    print(f"   Child Name: {request.child_name}")
+    print(f"   =================================================")
     try:
         if not user_id:
             print("❌ [POST /stories] No user_id - Authentication required")
@@ -2355,11 +2359,31 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             story_ref.update({"status": "generating_text"})
         
         # Generate story text using LLM
-        token_limits = {
-            "quick": 350,
-            "dreamy": 900
+        # CRITICAL: Map length to target duration and token limits
+        # quick = 2-3 minutes (~240-360 words at 120 wpm)
+        # dreamy = 4-8 minutes (~480-960 words at 120 wpm)
+        length_config = {
+            "quick": {
+                "duration_min": 2,
+                "duration_max": 3,
+                "target_words": 300,  # ~2.5 minutes at 120 wpm
+                "max_tokens": 400  # Allow some buffer for formatting
+            },
+            "dreamy": {
+                "duration_min": 4,
+                "duration_max": 8,
+                "target_words": 720,  # ~6 minutes at 120 wpm
+                "max_tokens": 1000  # Allow some buffer for formatting
+            }
         }
-        max_tokens = token_limits.get(request.length, 350)
+        config = length_config.get(request.length, length_config["quick"])
+        
+        # CRITICAL: Normalize character_id to slug (e.g., "spider fighter" → "spiderman")
+        # This ensures correct character voice and audio files
+        character_slug = to_character_slug(request.character_id)
+        print(f"🔄 [generate_story_async] Character normalization:")
+        print(f"   Original character_id: {request.character_id}")
+        print(f"   Normalized slug: {character_slug}")
         
         # Sanitize topic
         sanitized_topic = sanitize_topic(request.topic)
@@ -2367,17 +2391,21 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         # Generate story with OpenAI
         story_text = await generate_story_text(
             topic=sanitized_topic,
-            character=request.character_id,
+            character=character_slug,  # Use normalized slug
             language=request.language,
             child_name=request.child_name,
-            max_tokens=max_tokens
+            max_tokens=config["max_tokens"],
+            target_duration_min=config["duration_min"],
+            target_duration_max=config["duration_max"],
+            target_words=config["target_words"]
         )
         
         # BEST PRACTICE: Split text into scenes with videoKeys
         # This enables proper character animation during playback
+        # Use normalized character slug for consistency
         scenes = split_text_into_scenes(
             text=story_text,
-            character=request.character_id,
+            character=character_slug,  # Use normalized slug
             language=request.language,
             child_name=request.child_name
         )
@@ -2397,7 +2425,8 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         # BEST PRACTICE: Generate scene-by-scene audio for proper playback
         # This enables CallView to play audio per scene with proper character animation
         print(f"🎤 [generate_story_async] Generating scene-by-scene audio:")
-        print(f"   character_id: {request.character_id} (from request)")
+        print(f"   Original character_id: {request.character_id}")
+        print(f"   Normalized character_slug: {character_slug}")
         print(f"   language: {request.language}")
         print(f"   scenes count: {len(scenes)}")
         
@@ -2412,11 +2441,12 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 continue
             
             # Generate audio for this scene
+            # CRITICAL: Use normalized character_slug (to_character_slug already applied in generate_tts, but be explicit)
             scene_audio_url = await generate_tts(
                 text=scene_text,
                 style={"stability": 0.7, "similarity_boost": 0.85, "style": 0.6},
                 lang=request.language,
-                character=request.character_id,
+                character=character_slug,  # Use normalized slug (generate_tts will normalize again, but this is explicit)
                 topic=request.topic,
                 scene_index=scene_index
             )
@@ -2472,9 +2502,23 @@ async def generate_story_text(
     character: str,
     language: str,
     child_name: Optional[str],
-    max_tokens: int
+    max_tokens: int,
+    target_duration_min: int = 2,
+    target_duration_max: int = 3,
+    target_words: int = 300
 ) -> str:
-    """Generate story text using OpenAI."""
+    """Generate story text using OpenAI with target duration.
+    
+    Args:
+        topic: Story topic
+        character: Character slug (e.g., "spiderman", "minion")
+        language: Language code
+        child_name: Optional child name
+        max_tokens: Maximum tokens for generation
+        target_duration_min: Target minimum duration in minutes
+        target_duration_max: Target maximum duration in minutes
+        target_words: Target word count (for prompt guidance)
+    """
     if not settings.OPENAI_API_KEY:
         # Fallback story
         return f"Once upon a time, {character} told a wonderful story about {topic}."
@@ -2482,22 +2526,45 @@ async def generate_story_text(
     import openai
     client = openai.OpenAI(api_key=settings.OPENAI_API_KEY)
     
-    character_name = character.capitalize()
+    # Map character slug to display name (for prompt)
+    character_display_map = {
+        "spiderman": "Spider Fighter",
+        "minion": "Yellow Buddy",
+        "tweety": "Chirpy Birdie",
+        "spongebob": "Bubble Buddy",
+        "elsa": "Elisa the Ice Fairy",
+        "tom": "Sneaky Cat Tom",
+        "jerry": "Clever Mouse Jerry",
+        "ninjaturtles": "Shell Heroes Crew"
+    }
+    character_name = character_display_map.get(character.lower(), character.capitalize())
+    
     child_part = f" named {child_name}" if child_name else ""
+    
+    # Calculate target word count based on duration (120 words per minute for kid-friendly pace)
+    target_word_count = target_words
     
     prompt = f"""You are {character_name}, a friendly character telling a bedtime story to a child{child_part}.
 
 The parent wants a story about: {topic}
 
-Create a calming, age-appropriate bedtime story (3-12 minutes when read aloud). The story should be:
+Create a calming, age-appropriate bedtime story that takes approximately {target_duration_min}-{target_duration_max} minutes when read aloud (approximately {target_word_count} words). The story should be:
 - Positive and reassuring
 - Suitable for children aged 2-8
 - Calming for bedtime
 - Engaging but not overstimulating
+- Approximately {target_word_count} words long (aim for {target_duration_min}-{target_duration_max} minutes when read at a normal pace)
 
 Write the story in {language}. Do not include any harmful, violent, or inappropriate content.
 
 Story:"""
+    
+    print(f"📝 [generate_story_text] Generating story:")
+    print(f"   Character: {character} (display: {character_name})")
+    print(f"   Topic: {topic}")
+    print(f"   Target duration: {target_duration_min}-{target_duration_max} minutes")
+    print(f"   Target words: {target_word_count}")
+    print(f"   Max tokens: {max_tokens}")
     
     response = client.chat.completions.create(
         model="gpt-4o-mini",
@@ -2509,7 +2576,11 @@ Story:"""
         temperature=0.8
     )
     
-    return response.choices[0].message.content.strip()
+    generated_text = response.choices[0].message.content.strip()
+    word_count = len(generated_text.split())
+    print(f"✅ [generate_story_text] Story generated: {word_count} words (target: {target_word_count})")
+    
+    return generated_text
 
 
 async def generate_story_audio(text: str, character_id: str, language: str) -> str:
@@ -2715,7 +2786,14 @@ async def list_stories(
     limit: int = 10,
     user_id: Optional[str] = Depends(verify_firebase_token)
 ):
-    """List user's stories."""
+    """List user's stories.
+    
+    NOTE: This query requires a Firestore composite index:
+    - Collection: stories
+    - Fields: owner_user_id (Ascending), created_at (Descending), __name__ (Descending)
+    
+    If you see an index error, create it via Firebase Console or use the link in the error message.
+    """
     try:
         if not user_id:
             raise HTTPException(status_code=401, detail="Authentication required")
@@ -2724,6 +2802,7 @@ async def list_stories(
             return StoryListResponse(stories=[], quota_remaining=3)
         
         # Get user's stories
+        # NOTE: This query requires composite index: owner_user_id (Ascending) + created_at (Descending)
         stories_ref = db.collection("stories")
         query = stories_ref.where("owner_user_id", "==", user_id)\
                           .order_by("created_at", direction=firestore.Query.DESCENDING)\
