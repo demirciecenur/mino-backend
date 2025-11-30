@@ -587,6 +587,47 @@ class BotTrafficFilterMiddleware(BaseHTTPMiddleware):
         
         return await call_next(request)
 
+# Request logging middleware (for debugging POST requests)
+class RequestLoggingMiddleware(BaseHTTPMiddleware):
+    """Log all incoming requests, especially POST requests."""
+    
+    async def dispatch(self, request: Request, call_next):
+        # Log all POST requests in detail
+        if request.method == "POST":
+            print(f"🚀 [RequestLogging] ===== POST REQUEST RECEIVED =====")
+            print(f"   URL: {request.url}")
+            print(f"   Path: {request.url.path}")
+            print(f"   Query params: {dict(request.query_params)}")
+            
+            # Log headers (especially Authorization)
+            auth_header = request.headers.get("authorization") or request.headers.get("Authorization")
+            if auth_header:
+                print(f"   ✅ Authorization header found: {auth_header[:50]}... (length: {len(auth_header)})")
+            else:
+                print(f"   ❌ NO Authorization header found!")
+            
+            # Log other important headers
+            print(f"   Content-Type: {request.headers.get('content-type', 'N/A')}")
+            print(f"   Content-Length: {request.headers.get('content-length', 'N/A')}")
+            print(f"   User-Agent: {request.headers.get('user-agent', 'N/A')}")
+            print(f"   X-Forwarded-For: {request.headers.get('x-forwarded-for', 'N/A')}")
+            print(f"   X-Forwarded-Proto: {request.headers.get('x-forwarded-proto', 'N/A')}")
+            print(f"   All headers keys: {list(request.headers.keys())}")
+        
+        response = await call_next(request)
+        
+        # Log POST response
+        if request.method == "POST":
+            print(f"📤 [RequestLogging] POST response:")
+            print(f"   Status: {response.status_code}")
+            print(f"   URL: {request.url}")
+            print(f"   ===== END POST REQUEST =====")
+        
+        return response
+
+# Add request logging middleware (first, to catch all requests)
+app.add_middleware(RequestLoggingMiddleware)
+
 # Add bot traffic filter middleware (before CORS)
 app.add_middleware(BotTrafficFilterMiddleware)
 
@@ -2215,8 +2256,15 @@ async def create_story(
     user_id: Optional[str] = Depends(verify_firebase_token)
 ):
     """Create a new story. Validates quota and enqueues generation job."""
+    print(f"📝 [POST /stories] Story creation request received")
+    print(f"   User ID: {user_id}")
+    print(f"   Character ID: {request.character_id}")
+    print(f"   Topic: {request.topic}")
+    print(f"   Language: {request.language}")
+    print(f"   Length: {request.length}")
     try:
         if not user_id:
+            print("❌ [POST /stories] No user_id - Authentication required")
             raise HTTPException(status_code=401, detail="Authentication required")
         
         # Validate length for free users
