@@ -12,7 +12,7 @@ from firebase_admin import credentials, firestore, storage, auth
 import ffmpeg
 import tempfile
 import uuid
-from typing import Optional, Tuple
+from typing import Optional, Tuple, List, Dict
 import json
 import hashlib
 from datetime import datetime
@@ -2287,12 +2287,18 @@ async def create_story(
         # Generate story ID
         story_id = f"story_{user_id}_{int(time.time())}"
         
+        # BEST PRACTICE: Log character_id to ensure it's correct
+        print(f"📝 [POST /stories] Creating Firestore document:")
+        print(f"   story_id: {story_id}")
+        print(f"   character_id: {request.character_id} (from request)")
+        print(f"   topic: {request.topic}")
+        
         # Create Firestore document
         story_data = {
             "id": story_id,
             "title": f"Story about {request.topic[:50]}",  # Temporary title
             "status": "text_pending",
-            "character_id": request.character_id,
+            "character_id": request.character_id,  # Use character_id from request
             "language": request.language,
             "owner_user_id": user_id,
             "topic": request.topic,
@@ -2341,7 +2347,7 @@ async def create_story(
 
 
 async def generate_story_async(story_id: str, request: StoryRequest):
-    """Async task to generate story text and audio."""
+    """Async task to generate story text, scenes, and audio."""
     try:
         # Update status to generating
         if db:
@@ -2367,20 +2373,35 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             max_tokens=max_tokens
         )
         
-        # Save text to Firestore
+        # BEST PRACTICE: Split text into scenes with videoKeys
+        # This enables proper character animation during playback
+        scenes = split_text_into_scenes(
+            text=story_text,
+            character=request.character_id,
+            language=request.language,
+            child_name=request.child_name
+        )
+        
+        # Save text and scenes to Firestore
         if db:
             story_ref = db.collection("stories").document(story_id)
             story_ref.update({
                 "text": story_text,
+                "scenes": scenes,  # Add scene structure
                 "title": extract_title_from_text(story_text),
                 "status": "audio_pending",
                 "updated_at": time.time()
             })
         
         # Generate audio
+        # BEST PRACTICE: Use character_id from request (not from StateManager)
+        print(f"🎤 [generate_story_async] Generating audio:")
+        print(f"   character_id: {request.character_id} (from request)")
+        print(f"   language: {request.language}")
+        
         audio_url = await generate_story_audio(
             text=story_text,
-            character_id=request.character_id,
+            character_id=request.character_id,  # Use character_id from request
             language=request.language
         )
         
@@ -2506,6 +2527,87 @@ def sanitize_topic(topic: str) -> str:
         if word in topic_lower:
             return "a calming bedtime story"
     return topic
+
+
+def split_text_into_scenes(text: str, character: str, language: str, child_name: Optional[str] = None) -> List[Dict]:
+    """
+    Split story text into scenes with videoKeys for character animation.
+    Best Practice: Each scene gets appropriate videoKey based on content analysis.
+    
+    Args:
+        text: Full story text
+        character: Character ID (e.g., "bubu", "mino")
+        language: Language code (e.g., "tr", "en")
+        child_name: Optional child name for personalization
+    
+    Returns:
+        List of scene dictionaries with id, type, text, and videoKey
+    """
+    from services.story_composer import analyze_text_for_video_key
+    
+    # Split text into paragraphs (by double newlines or single newlines)
+    paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
+    
+    # If no double newlines, split by single newlines
+    if len(paragraphs) <= 1:
+        paragraphs = [p.strip() for p in text.split("\n") if p.strip()]
+    
+    # If still only one paragraph, split by sentences
+    if len(paragraphs) <= 1:
+        import re
+        sentences = re.split(r'[.!?]+\s+', text)
+        paragraphs = [s.strip() for s in sentences if s.strip()]
+    
+    scenes = []
+    
+    # First scene: opening
+    if paragraphs:
+        opening_text = paragraphs[0]
+        scenes.append({
+            "id": "opening_0",
+            "type": "opening",
+            "text": opening_text,
+            "videoKey": analyze_text_for_video_key("opening", opening_text, language)
+        })
+    
+    # Middle scenes: speak/narration
+    for i, paragraph in enumerate(paragraphs[1:-1] if len(paragraphs) > 2 else paragraphs[1:], start=1):
+        # Determine scene type based on content
+        scene_type = "speak"
+        if "?" in paragraph or any(q in paragraph.lower() for q in ["ne ", "nasıl", "neden", "what", "how", "why"]):
+            scene_type = "question"
+        elif any(w in paragraph.lower() for w in ["öğren", "öğret", "açıkla", "learn", "teach", "explain"]):
+            scene_type = "instruction"
+        elif any(w in paragraph.lower() for w in ["harika", "mükemmel", "bravo", "great", "wonderful"]):
+            scene_type = "encouragement"
+        
+        scenes.append({
+            "id": f"scene_{i}",
+            "type": scene_type,
+            "text": paragraph,
+            "videoKey": analyze_text_for_video_key(scene_type, paragraph, language)
+        })
+    
+    # Last scene: closure
+    if len(paragraphs) > 1:
+        closing_text = paragraphs[-1]
+        scenes.append({
+            "id": "closure",
+            "type": "closure",
+            "text": closing_text,
+            "videoKey": analyze_text_for_video_key("closure", closing_text, language)
+        })
+    
+    # Ensure at least one scene exists
+    if not scenes:
+        scenes.append({
+            "id": "scene_0",
+            "type": "speak",
+            "text": text,
+            "videoKey": "talking"
+        })
+    
+    return scenes
 
 
 def extract_title_from_text(text: str) -> str:
