@@ -29,8 +29,8 @@ class StoryResponse(BaseModel):
     audio_url: Optional[str] = None
     duration_seconds: Optional[int] = None
     status: str
-    character_id: str
-    language: str
+    character_id: str = "mino"  # Default to "mino" if missing
+    language: str = "en"  # Default to "en" if missing
     owner_user_id: str
     created_at: float  # Unix timestamp
     cover_url: Optional[str] = None

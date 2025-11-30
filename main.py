@@ -2542,7 +2542,31 @@ async def get_story(
         if story_data.get("owner_user_id") != user_id:
             raise HTTPException(status_code=403, detail="Access denied")
         
-        return StoryResponse(**story_data)
+        # Log story data for debugging
+        print(f"📖 [GET /stories/{story_id}] Story data from Firestore:")
+        print(f"   id: {story_data.get('id', 'N/A')}")
+        print(f"   title: {story_data.get('title', 'N/A')}")
+        print(f"   status: {story_data.get('status', 'N/A')}")
+        print(f"   character_id: {story_data.get('character_id', 'N/A')}")
+        print(f"   language: {story_data.get('language', 'N/A')}")
+        print(f"   All fields: {list(story_data.keys())}")
+        
+        # Ensure all required fields are present
+        if "character_id" not in story_data:
+            print(f"⚠️ [GET /stories/{story_id}] Missing character_id, using default 'mino'")
+            story_data["character_id"] = "mino"
+        if "language" not in story_data:
+            print(f"⚠️ [GET /stories/{story_id}] Missing language, using default 'en'")
+            story_data["language"] = "en"
+        
+        response = StoryResponse(**story_data)
+        
+        # Log response JSON
+        import json as json_lib
+        response_json = json_lib.dumps(response.dict(), ensure_ascii=False, default=str)
+        print(f"📤 [GET /stories/{story_id}] Response JSON: {response_json}")
+        
+        return response
         
     except HTTPException:
         raise
