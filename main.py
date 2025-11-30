@@ -2311,11 +2311,25 @@ async def create_story(
         import asyncio
         asyncio.create_task(generate_story_async(story_id, request))
         
-        return CreateStoryResponse(
+        response = CreateStoryResponse(
             story_id=story_id,
             status="text_pending",
             quota_remaining=quota_remaining
         )
+        
+        # Log response for debugging
+        print(f"📤 [POST /stories] Returning response:")
+        print(f"   story_id: {response.story_id}")
+        print(f"   status: {response.status}")
+        print(f"   quota_remaining: {response.quota_remaining}")
+        print(f"   Response dict: {response.dict()}")
+        
+        # Serialize to JSON to verify format
+        import json as json_lib
+        response_json = json_lib.dumps(response.dict(), ensure_ascii=False)
+        print(f"📤 [POST /stories] Response JSON: {response_json}")
+        
+        return response
         
     except HTTPException:
         raise
