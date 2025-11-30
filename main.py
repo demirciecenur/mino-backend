@@ -2393,31 +2393,63 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 "updated_at": time.time()
             })
         
-        # Generate audio
-        # BEST PRACTICE: Use character_id from request (not from StateManager)
-        print(f"🎤 [generate_story_async] Generating audio:")
+        # Generate audio for each scene
+        # BEST PRACTICE: Generate scene-by-scene audio for proper playback
+        # This enables CallView to play audio per scene with proper character animation
+        print(f"🎤 [generate_story_async] Generating scene-by-scene audio:")
         print(f"   character_id: {request.character_id} (from request)")
         print(f"   language: {request.language}")
+        print(f"   scenes count: {len(scenes)}")
         
-        audio_url = await generate_story_audio(
-            text=story_text,
-            character_id=request.character_id,  # Use character_id from request
-            language=request.language
-        )
+        # Generate audio for each scene
+        scene_audios = []
+        total_duration = 0
         
-        # Get audio duration
-        duration_seconds = await get_audio_duration(audio_url)
+        for scene_index, scene in enumerate(scenes):
+            scene_text = scene.get("text", "")
+            if not scene_text:
+                print(f"⚠️ [generate_story_async] Scene {scene_index} has no text, skipping audio generation")
+                continue
+            
+            # Generate audio for this scene
+            scene_audio_url = await generate_tts(
+                text=scene_text,
+                style={"stability": 0.7, "similarity_boost": 0.85, "style": 0.6},
+                lang=request.language,
+                character=request.character_id,
+                topic=request.topic,
+                scene_index=scene_index
+            )
+            
+            # Get scene audio duration
+            scene_duration = await get_audio_duration(scene_audio_url)
+            total_duration += scene_duration
+            
+            # Add audio URL to scene
+            scene["audio_url"] = scene_audio_url
+            scene_audios.append(scene_audio_url)
+            
+            print(f"✅ [generate_story_async] Scene {scene_index} audio generated: {scene_audio_url} ({scene_duration}s)")
         
-        # Update story with audio
+        # Use first scene audio as main audio_url (for backward compatibility)
+        main_audio_url = scene_audios[0] if scene_audios else None
+        
+        # Update story with scene audio URLs and main audio URL
         if db:
             story_ref = db.collection("stories").document(story_id)
-            story_ref.update({
-                "audio_url": audio_url,
-                "duration_seconds": duration_seconds,
+            update_data = {
+                "scenes": scenes,  # Update scenes with audio_url for each scene
                 "status": "ready",
                 "quota_counted": True,
                 "updated_at": time.time()
-            })
+            }
+            
+            # Add main audio_url for backward compatibility
+            if main_audio_url:
+                update_data["audio_url"] = main_audio_url
+                update_data["duration_seconds"] = total_duration
+            
+            story_ref.update(update_data)
         
         print(f"✅ Story {story_id} generated successfully")
         

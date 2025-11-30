@@ -1,7 +1,7 @@
 """Story creation-related Pydantic models."""
 
 from pydantic import BaseModel, Field
-from typing import Optional, List
+from typing import Optional, List, Dict, Any
 from datetime import datetime
 
 
@@ -38,6 +38,7 @@ class StoryResponse(BaseModel):
     topic: Optional[str] = None
     child_name: Optional[str] = None
     length_type: Optional[str] = None
+    scenes: Optional[List[Dict[str, Any]]] = None  # Scenes array from Firestore (optional for backward compatibility)
 
 
 class StoryListResponse(BaseModel):
