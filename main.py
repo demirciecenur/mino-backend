@@ -2426,8 +2426,11 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         # Sanitize topic for prompt (use canonical topic slug) but keep full description from parent
         sanitized_topic = sanitize_topic(request.topic)
         # Combine canonical topic with optional custom description for richer prompt
+        # CRITICAL: If custom_description contains language errors, they will be corrected in the prompt
         if request.custom_description:
-            prompt_topic = f"{sanitized_topic} — Parent context: {request.custom_description}"
+            # Clean and correct language errors in custom_description
+            cleaned_description = request.custom_description.strip()
+            prompt_topic = f"{sanitized_topic} — Parent context: {cleaned_description}"
         else:
             prompt_topic = sanitized_topic
         
@@ -2456,13 +2459,19 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         # Save text and scenes to Firestore
         if db:
             story_ref = db.collection("stories").document(story_id)
+            total_scenes = len(scenes)
             story_ref.update({
                 "text": story_text,
                 "scenes": scenes,  # Add scene structure
                 "title": extract_title_from_text(story_text),
                 "status": "audio_pending",
+                "audio_progress": {
+                    "completed": 0,
+                    "total": total_scenes
+                },
                 "updated_at": time.time()
             })
+            print(f"📊 [generate_story_async] Initialized audio progress: 0/{total_scenes} scenes")
         
         # Generate audio for each scene
         # BEST PRACTICE: Generate scene-by-scene audio for proper playback
@@ -2476,6 +2485,7 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         # Generate audio for each scene
         scene_audios = []
         total_duration = 0
+        total_scenes = len([s for s in scenes if s.get("text", "")])  # Count scenes with text
         
         for scene_index, scene in enumerate(scenes):
             scene_text = scene.get("text", "")
@@ -2505,17 +2515,36 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             scene["audio_url"] = scene_audio_url
             scene_audios.append(scene_audio_url)
             
+            # Update progress in Firestore (real-time progress tracking)
+            completed_count = len(scene_audios)
+            if db:
+                story_ref = db.collection("stories").document(story_id)
+                story_ref.update({
+                    "audio_progress": {
+                        "completed": completed_count,
+                        "total": total_scenes
+                    },
+                    "updated_at": time.time()
+                })
+                print(f"📊 [generate_story_async] Progress updated: {completed_count}/{total_scenes} scenes completed ({int(completed_count/total_scenes*100)}%)")
+            
             print(f"✅ [generate_story_async] Scene {scene_index} audio generated: {scene_audio_url} ({scene_duration}s)")
         
         # Use first scene audio as main audio_url (for backward compatibility)
         main_audio_url = scene_audios[0] if scene_audios else None
         
         # Update story with scene audio URLs and main audio URL
+        # CRITICAL: Mark as ready only after ALL scenes have audio URLs
         if db:
             story_ref = db.collection("stories").document(story_id)
+            completed_count = len(scene_audios)
             update_data = {
                 "scenes": scenes,  # Update scenes with audio_url for each scene
                 "status": "ready",
+                "audio_progress": {
+                    "completed": completed_count,
+                    "total": total_scenes
+                },
                 "quota_counted": True,
                 "updated_at": time.time()
             }
@@ -2526,8 +2555,9 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 update_data["duration_seconds"] = total_duration
             
             story_ref.update(update_data)
+            print(f"📊 [generate_story_async] Final progress: {completed_count}/{total_scenes} scenes completed (100%)")
         
-        print(f"✅ Story {story_id} generated successfully")
+        print(f"✅ Story {story_id} generated successfully - All {completed_count} audio files completed")
         
     except Exception as e:
         print(f"❌ Error generating story {story_id}: {e}")
@@ -2662,14 +2692,21 @@ Character background:
 
 The parent wants a story about: {topic}
 
+IMPORTANT INSTRUCTIONS:
+1. If the topic description contains spelling or grammar errors (e.g., "gitmemek" instead of "giymemek", "mont gitmemek" instead of "mont giymemek"), correct them automatically and use the correct version in your story.
+2. Write the story in {language}. Use correct grammar and spelling for {language}.
+3. The story must be 100% child-friendly: no violence, scary content, inappropriate language, or negative themes.
+4. Keep the story positive, educational, and age-appropriate for children aged 2-8.
+
 Create a calming, age-appropriate bedtime story that takes approximately {target_duration_min}-{target_duration_max} minutes when read aloud (approximately {target_word_count} words). The story should be:
 - Positive and reassuring
 - Suitable for children aged 2-8
 - Calming for bedtime
 - Engaging but not overstimulating
 - Approximately {target_word_count} words long (aim for {target_duration_min}-{target_duration_max} minutes when read at a normal pace)
+- Use correct {language} grammar and spelling throughout
 
-Write the story in {language}. Do not include any harmful, violent, or inappropriate content.
+CRITICAL: Filter out any inappropriate words or themes. The story must be completely safe for children.
 
 Story:"""
     
@@ -2680,10 +2717,22 @@ Story:"""
     print(f"   Target words: {target_word_count}")
     print(f"   Max tokens: {max_tokens}")
     
+    system_message = f"""You are {character_name}, a kind and gentle character who tells bedtime stories to children.
+
+CRITICAL RULES:
+1. All content must be 100% child-friendly and age-appropriate (ages 2-8).
+2. NO violence, scary content, inappropriate language, or negative themes.
+3. Automatically correct any spelling or grammar errors in the parent's topic description.
+4. Use correct grammar and spelling for the target language ({language}).
+5. Keep stories positive, educational, and calming for bedtime.
+6. If you detect any inappropriate words or themes in the topic, replace them with safe, positive alternatives.
+
+Your stories must always be safe, positive, and suitable for young children."""
+
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[
-            {"role": "system", "content": f"You are {character_name}, a kind and gentle character who tells bedtime stories to children."},
+            {"role": "system", "content": system_message},
             {"role": "user", "content": prompt}
         ],
         max_tokens=max_tokens,
@@ -2736,14 +2785,17 @@ async def get_audio_duration(audio_url: str) -> int:
 
 
 def sanitize_topic(topic: str) -> str:
-    """Sanitize topic to remove harmful content."""
+    """Sanitize topic to remove harmful content and map to canonical topic."""
+    # First, map topic to canonical slug (handles free-form descriptions)
+    mapped_topic = map_topic(topic)
+    
     # Basic sanitization - in production, use a proper content moderation API
     forbidden_words = ["violence", "adult", "explicit"]
-    topic_lower = topic.lower()
+    topic_lower = mapped_topic.lower()
     for word in forbidden_words:
         if word in topic_lower:
-            return "a calming bedtime story"
-    return topic
+            return "bedtime"  # Safe fallback topic
+    return mapped_topic
 
 
 def split_text_into_scenes(text: str, character: str, language: str, child_name: Optional[str] = None) -> List[Dict]:
