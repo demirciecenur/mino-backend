@@ -726,7 +726,15 @@ from services.notification_scheduler import schedule_delayed_notification
 CHARACTER_VOICES = settings.CHARACTER_VOICES
 
 # TTS Service with idempotent Storage caching
-async def generate_tts(text: str, style: dict, lang: str, character: str = None, topic: str = None, scene_index: int = None) -> str:
+async def generate_tts(
+    text: str,
+    style: dict,
+    lang: str,
+    character: str = None,
+    topic: str = None,
+    scene_index: int = None,
+    story_id: str = None,
+) -> str:
     """Generate (or reuse) TTS audio and return a public URL.
 
     Strategy:
@@ -748,22 +756,36 @@ async def generate_tts(text: str, style: dict, lang: str, character: str = None,
     print(f"🔊 [TTS] Generating audio: character={character_normalized}, topic={topic_normalized} → {topic_file}, lang={lang}, scene_index={scene_index}")
 
     if character_normalized and topic_file is not None and scene_index is not None:
-        key = f"{character_normalized}_{topic_file}_{scene_index}"
-        # Language-specific audio path: {character}/{lang}/{topic}_{scene_index}.wav
+        # If we have a specific story_id (custom LLM story), make audio **unique per story**
+        # so that each story preserves its own recorded audio and later stories do not overwrite it.
+        safe_story_suffix = None
+        if story_id:
+            # Strip common "story_" prefix and any non-filename-friendly chars
+            safe_story_suffix = story_id.replace("story_", "").replace(" ", "_")
+        
+        if safe_story_suffix:
+            key = f"{character_normalized}_{topic_file}_{safe_story_suffix}_{scene_index}"
+            audio_basename = f"{topic_file}_{safe_story_suffix}_{scene_index}"
+        else:
+            # Legacy/shared bundle behaviour (pre-generated content)
+            key = f"{character_normalized}_{topic_file}_{scene_index}"
+            audio_basename = f"{topic_file}_{scene_index}"
+
+        # Language-specific audio path: {character}/{lang}/{topic}_{scene_index}[_{story}] .wav
         # CRITICAL: Only use existing audio if it's in the correct language directory
         # This ensures we don't use wrong-language audio files
         character_dir = AUDIO_BASE_DIR / character_normalized / lang
-        audio_filename = f"{topic_file}_{scene_index}.wav"
+        audio_filename = f"{audio_basename}.wav"
         local_audio_path = character_dir / audio_filename
         
         # Also try .mp3 extension
-        local_audio_path_mp3 = character_dir / f"{topic_file}_{scene_index}.mp3"
+        local_audio_path_mp3 = character_dir / f"{audio_basename}.mp3"
         
         if (local_audio_path.exists() and local_audio_path.stat().st_size > 0) or \
            (local_audio_path_mp3.exists() and local_audio_path_mp3.stat().st_size > 0):
             # Found existing audio in correct language directory
             audio_ext = '.mp3' if local_audio_path_mp3.exists() else '.wav'
-            print(f"✅ [TTS] Using existing audio: {topic_file}_{scene_index}{audio_ext} (lang={lang}, character={character_normalized})")
+            print(f"✅ [TTS] Using existing audio: {audio_basename}{audio_ext} (lang={lang}, character={character_normalized}, story_id={story_id})")
             return f"http://127.0.0.1:8000/local-audio/{key}{audio_ext}?lang={lang}"
         else:
             # Audio file doesn't exist in correct language directory
@@ -814,13 +836,26 @@ async def generate_tts(text: str, style: dict, lang: str, character: str = None,
             # Language-specific audio path: {character}/{lang}/{topic}_{scene_index}.ext
             character_dir = AUDIO_BASE_DIR / character_normalized / lang
             character_dir.mkdir(parents=True, exist_ok=True)
-            # Use topic_file (mapped) for filename to match ContentLoader mapping
-            audio_filename = f"{topic_file}_{scene_index}{audio_ext}" if topic_file else f"{topic}_{scene_index}{audio_ext}"
+            # Use topic_file (mapped) for filename; if story_id is present, keep it **per-story unique**
+            if topic_file:
+                if story_id:
+                    safe_story_suffix = story_id.replace("story_", "").replace(" ", "_")
+                    audio_filename = f"{topic_file}_{safe_story_suffix}_{scene_index}{audio_ext}"
+                else:
+                    audio_filename = f"{topic_file}_{scene_index}{audio_ext}"
+            else:
+                audio_filename = f"{topic}_{scene_index}{audio_ext}"
             audio_path = character_dir / audio_filename
             with open(audio_path, 'wb') as f:
                 f.write(audio_bytes)
-            key = f"{character_normalized}_{topic_file}_{scene_index}" if topic_file else f"{character_normalized}_{topic}_{scene_index}"
-            print(f"✅ [TTS] Saved audio: {audio_filename} (lang={lang}, character={character_normalized}, path={character_dir})")
+            if topic_file:
+                if story_id:
+                    key = f"{character_normalized}_{topic_file}_{safe_story_suffix}_{scene_index}"
+                else:
+                    key = f"{character_normalized}_{topic_file}_{scene_index}"
+            else:
+                key = f"{character_normalized}_{topic}_{scene_index}"
+            print(f"✅ [TTS] Saved audio: {audio_filename} (lang={lang}, character={character_normalized}, story_id={story_id}, path={character_dir})")
             return f"http://127.0.0.1:8000/local-audio/{key}{audio_ext}?lang={lang}"
         except Exception as e:
             print(f"❌ Local storage failed: {e}")
@@ -2449,14 +2484,17 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 continue
             
             # Generate audio for this scene
-            # CRITICAL: Use normalized character_slug (to_character_slug already applied in generate_tts, but be explicit)
+            # CRITICAL:
+            # - Use normalized character_slug (to_character_slug already applied in generate_tts, but be explicit)
+            # - Pass story_id so that each custom story keeps its own unique audio files per scene.
             scene_audio_url = await generate_tts(
                 text=scene_text,
                 style={"stability": 0.7, "similarity_boost": 0.85, "style": 0.6},
                 lang=request.language,
-                character=character_slug,  # Use normalized slug (generate_tts will normalize again, but this is explicit)
+                character=character_slug,
                 topic=request.topic,
-                scene_index=scene_index
+                scene_index=scene_index,
+                story_id=story_id,
             )
             
             # Get scene audio duration
