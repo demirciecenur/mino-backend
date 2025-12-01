@@ -2543,9 +2543,74 @@ async def generate_story_text(
         "elsa": "Elisa the Ice Fairy",
         "tom": "Sneaky Cat Tom",
         "jerry": "Clever Mouse Jerry",
-        "ninjaturtles": "Shell Heroes Crew"
+        "ninjaturtles": "Shell Heroes Crew",
+        "sunny": "Sunny",
+        "bubu": "Bubu",
+        "luna": "Luna",
+        "tiko": "Tiko",
+        "mino": "Mino"
     }
-    character_name = character_display_map.get(character.lower(), character.capitalize())
+    character_slug = character.lower()
+    character_name = character_display_map.get(character_slug, character.capitalize())
+    
+    # Character-specific persona descriptions (kept short and reusable across topics)
+    character_personas = {
+        "mino": (
+            "Mino is a curious space explorer from a gentle, pastel-colored galaxy. "
+            "Mino speaks softly, uses simple sentences, and always helps children feel safe at bedtime."
+        ),
+        "luna": (
+            "Luna is a calm moon fairy who helps children understand and name their feelings. "
+            "She talks slowly, validates emotions, and offers gentle coping ideas."
+        ),
+        "tiko": (
+            "Tiko is a playful fox who loves games and movement. "
+            "He turns everyday challenges into small adventures and uses humor to keep things light."
+        ),
+        "bubu": (
+            "Bubu is a warm-hearted bear who teaches about friendship and sharing. "
+            "She uses cozy, cuddly imagery and focuses on kindness between siblings and friends."
+        ),
+        "sunny": (
+            "Sunny is a bright, optimistic character who boosts children's confidence. "
+            "Sunny celebrates small wins and encourages brave, positive choices."
+        ),
+        "tom": (
+            "Sneaky Cat Tom is a curious, slightly mischievous cat who learns to make good choices. "
+            "His stories often turn small everyday problems into funny, safe learning moments."
+        ),
+        "jerry": (
+            "Clever Mouse Jerry is thoughtful and observant. "
+            "He helps children find smart, gentle solutions to their worries."
+        ),
+        "ninjaturtles": (
+            "Shell Heroes Crew are brave, team-minded ninja turtles who support each other. "
+            "They use teamwork, courage and playful action to help children feel strong, especially around school and social challenges."
+        ),
+        "spiderman": (
+            "Spider Fighter is a friendly neighborhood hero. "
+            "He talks about responsibility, bravery and doing the right thing, in a calm and reassuring way."
+        ),
+        "minion": (
+            "Yellow Buddy is a silly, loving helper who adds gentle humor without being too loud. "
+            "He turns chores and routines into light-hearted games."
+        ),
+        "elsa": (
+            "Elisa the Ice Fairy is calm and magical. "
+            "She uses snow, ice and sparkle imagery to create soothing, dreamy bedtime scenes."
+        ),
+        "spongebob": (
+            "Bubble Buddy is fun and imaginative. "
+            "He loves turning normal situations into undersea adventures, staying kind and non-scary."
+        ),
+        "tweety": (
+            "Chirpy Birdie is a small, gentle bird who notices tiny details. "
+            "She speaks softly and helps children feel heard and understood."
+        )
+    }
+    persona = character_personas.get(character_slug, (
+        f"{character_name} is a kind, gentle character who tells age-appropriate stories to children."
+    ))
     
     child_part = f" named {child_name}" if child_name else ""
     
@@ -2553,6 +2618,9 @@ async def generate_story_text(
     target_word_count = target_words
     
     prompt = f"""You are {character_name}, a friendly character telling a bedtime story to a child{child_part}.
+
+Character background:
+{persona}
 
 The parent wants a story about: {topic}
 
