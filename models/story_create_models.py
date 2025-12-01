@@ -7,7 +7,11 @@ from datetime import datetime
 
 class StoryRequest(BaseModel):
     """Request model for creating a new story."""
-    topic: str = Field(..., description="Story topic/prompt from parent")
+    topic: str = Field(..., description="Canonical story topic slug (e.g., 'sibling', 'bedtime', 'emotional_regulation')")
+    custom_description: Optional[str] = Field(
+        None,
+        description="Optional free-form description from parent about the child's situation (any language)"
+    )
     language: str = Field(default="en", description="Language code (en, tr, de, etc.)")
     child_name: Optional[str] = Field(None, description="Optional child's name to include in story")
     character_id: str = Field(..., description="Character ID (mino, luna, tiko, etc.)")

@@ -2262,6 +2262,7 @@ async def create_story(
     print(f"   User ID: {user_id}")
     print(f"   Character ID: {request.character_id}")
     print(f"   Topic: {request.topic}")
+    print(f"   Custom Description: {request.custom_description}")
     print(f"   Language: {request.language}")
     print(f"   Length: {request.length}")
     print(f"   Child Name: {request.child_name}")
@@ -2300,12 +2301,14 @@ async def create_story(
         # Create Firestore document
         story_data = {
             "id": story_id,
-            "title": f"Story about {request.topic[:50]}",  # Temporary title
+            "title": f"Story about {request.topic[:50]}",  # Temporary title based on canonical topic
             "status": "text_pending",
             "character_id": request.character_id,  # Use character_id from request
             "language": request.language,
             "owner_user_id": user_id,
+            # Store canonical topic and optional free-form description separately
             "topic": request.topic,
+            "custom_description": request.custom_description,
             "child_name": request.child_name,
             "length_type": request.length,
             "quota_counted": False,
@@ -2385,12 +2388,17 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         print(f"   Original character_id: {request.character_id}")
         print(f"   Normalized slug: {character_slug}")
         
-        # Sanitize topic
+        # Sanitize topic for prompt (use canonical topic slug) but keep full description from parent
         sanitized_topic = sanitize_topic(request.topic)
+        # Combine canonical topic with optional custom description for richer prompt
+        if request.custom_description:
+            prompt_topic = f"{sanitized_topic} — Parent context: {request.custom_description}"
+        else:
+            prompt_topic = sanitized_topic
         
         # Generate story with OpenAI
         story_text = await generate_story_text(
-            topic=sanitized_topic,
+            topic=prompt_topic,
             character=character_slug,  # Use normalized slug
             language=request.language,
             child_name=request.child_name,
