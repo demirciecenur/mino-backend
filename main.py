@@ -9,6 +9,7 @@ import os
 from dotenv import load_dotenv
 import firebase_admin
 from firebase_admin import credentials, firestore, storage, auth
+from google.cloud.firestore_v1.base_query import FieldFilter
 import ffmpeg
 import tempfile
 import uuid
@@ -1092,12 +1093,13 @@ async def serve_story(
             # Query Firestore for matching story
             # NOTE: We query without order_by to avoid index requirement
             # We'll sort in Python instead
+            # Using FieldFilter to avoid deprecation warnings
             stories_ref = db.collection("stories")
-            query = stories_ref.where("owner_user_id", "==", user_id)\
-                              .where("character_id", "==", character_slug)\
-                              .where("topic", "==", topic_mapped)\
-                              .where("language", "==", lang)\
-                              .where("status", "==", "ready")
+            query = stories_ref.where(filter=FieldFilter("owner_user_id", "==", user_id))\
+                              .where(filter=FieldFilter("character_id", "==", character_slug))\
+                              .where(filter=FieldFilter("topic", "==", topic_mapped))\
+                              .where(filter=FieldFilter("language", "==", lang))\
+                              .where(filter=FieldFilter("status", "==", "ready"))
             
             try:
                 matching_stories = list(query.stream())
@@ -2320,9 +2322,9 @@ async def check_user_quota(user_id: str, length: str) -> Tuple[bool, int]:
         month_start = datetime(now.year, now.month, 1)
         
         stories_ref = db.collection("stories")
-        query = stories_ref.where("owner_user_id", "==", user_id)\
-                          .where("quota_counted", "==", True)\
-                          .where("created_at", ">=", month_start.timestamp())
+        query = stories_ref.where(filter=FieldFilter("owner_user_id", "==", user_id))\
+                          .where(filter=FieldFilter("quota_counted", "==", True))\
+                          .where(filter=FieldFilter("created_at", ">=", month_start.timestamp()))
         
         story_count = len(list(query.stream()))
         quota_remaining = max(0, 3 - story_count)
@@ -3818,7 +3820,7 @@ async def list_stories(
         # Get user's stories
         # NOTE: This query requires composite index: owner_user_id (Ascending) + created_at (Descending)
         stories_ref = db.collection("stories")
-        query = stories_ref.where("owner_user_id", "==", user_id)\
+        query = stories_ref.where(filter=FieldFilter("owner_user_id", "==", user_id))\
                           .order_by("created_at", direction=firestore.Query.DESCENDING)\
                           .limit(limit)
         
