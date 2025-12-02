@@ -2664,6 +2664,8 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         )
         
         # Save text, scenes, and title to Firestore
+        # CRITICAL: Update topic field to mapped_topic for consistency
+        # This ensures Firestore queries can find stories by mapped topic (e.g., "sharing" not "friendship")
         if db:
             story_ref = db.collection("stories").document(story_id)
             total_scenes = len(scenes)
@@ -2671,6 +2673,7 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 "text": story_text,
                 "scenes": scenes,  # Add scene structure
                 "title": story_title,  # AI-generated title
+                "topic": mapped_topic,  # CRITICAL: Update to mapped topic for query consistency
                 "status": "audio_pending",
                 "audio_progress": {
                     "completed": 0,
@@ -2678,6 +2681,7 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 },
                 "updated_at": time.time()
             })
+            print(f"📝 [generate_story_async] Updated topic field: '{request.topic}' → '{mapped_topic}'")
             print(f"📊 [generate_story_async] Initialized audio progress: 0/{total_scenes} scenes")
             print(f"📝 [generate_story_async] Story title generated: '{story_title}'")
         
