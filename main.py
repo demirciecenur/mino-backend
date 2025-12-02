@@ -1127,7 +1127,9 @@ async def serve_story(
                 pass
         
         # PRIORITY 2: Try each candidate to find existing story in local storage
+        # BEST PRACTICE: Prefer custom stories (with story_id) over pre-generated stories
         story_path = None
+        custom_story_path = None
         character_slug = to_character_slug(character)
         for topic_candidate in topic_candidates:
             candidate_path = content_story_path(lang, character_slug, topic_candidate)
@@ -1147,9 +1149,17 @@ async def serve_story(
                             print(f"   Skipping {candidate_path} - topic doesn't match")
                             continue  # Try next candidate
                         
-                        story_path = candidate_path
-                        print(f"✅ [serve_story] Found existing story: {story_path} (lang={lang}, size: {file_size} bytes, topic: {story_topic})")
-                        return FileResponse(str(story_path), media_type="application/json")
+                        # Check if this is a custom story (has story_id field)
+                        story_id = story_data.get("story_id")
+                        if story_id:
+                            # Custom story - prioritize this over pre-generated stories
+                            custom_story_path = candidate_path
+                            print(f"✅ [serve_story] Found custom story in local storage: {candidate_path} (story_id={story_id}, lang={lang}, size: {file_size} bytes, topic: {story_topic})")
+                        else:
+                            # Pre-generated story - use as fallback if no custom story found
+                            if not custom_story_path:
+                                story_path = candidate_path
+                                print(f"✅ [serve_story] Found pre-generated story: {story_path} (lang={lang}, size: {file_size} bytes, topic: {story_topic})")
                     except (json.JSONDecodeError, KeyError, Exception) as e:
                         print(f"⚠️ [serve_story] Failed to validate story topic in {candidate_path}: {e}")
                         # Continue to next candidate if validation fails
@@ -1157,7 +1167,16 @@ async def serve_story(
                 else:
                     # Only log if file is empty (unusual case)
                     print(f"⚠️ [serve_story] File exists but is empty: {candidate_path}")
-            # CRITICAL: Don't log "not found" for every candidate - only log summary if none found
+        
+        # Return custom story if found, otherwise return pre-generated story
+        if custom_story_path:
+            print(f"📤 [serve_story] Returning custom story from local storage: {custom_story_path}")
+            return FileResponse(str(custom_story_path), media_type="application/json")
+        elif story_path:
+            print(f"📤 [serve_story] Returning pre-generated story from local storage: {story_path}")
+            return FileResponse(str(story_path), media_type="application/json")
+        
+        # CRITICAL: Don't log "not found" for every candidate - only log summary if none found
         
         # Story not found - automatically compose it in background and return 202 Accepted
         # This prevents timeout issues - client can retry after composition completes
@@ -2713,8 +2732,10 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                     try:
                         story_doc = story_ref.get()
                         if story_doc.exists:
-                            current_progress = story_doc.get("audio_progress", {})
-                            current_completed = current_progress.get("completed", 0)
+                            # FIX: Use to_dict() to get document data, then use Python dict.get() for default value
+                            story_data = story_doc.to_dict()
+                            current_progress = story_data.get("audio_progress", {}) if story_data else {}
+                            current_completed = current_progress.get("completed", 0) if isinstance(current_progress, dict) else 0
                             new_completed = current_completed + 1
                             
                             story_ref.update({
