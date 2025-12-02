@@ -2423,16 +2423,53 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         print(f"   Original character_id: {request.character_id}")
         print(f"   Normalized slug: {character_slug}")
         
-        # Sanitize topic for prompt (use canonical topic slug) but keep full description from parent
-        sanitized_topic = sanitize_topic(request.topic)
-        # Combine canonical topic with optional custom description for richer prompt
-        # CRITICAL: If custom_description contains language errors, they will be corrected in the prompt
+        # BEST PRACTICE: Use AI to map topic intelligently
+        # This is more flexible than keyword-based mapping and handles free-form descriptions better
+        # Step 1: Pre-correct common spelling/grammar errors
+        corrected_topic = correct_common_errors(request.topic)
         if request.custom_description:
-            # Clean and correct language errors in custom_description
-            cleaned_description = request.custom_description.strip()
-            prompt_topic = f"{sanitized_topic} — Parent context: {cleaned_description}"
+            corrected_description = correct_common_errors(request.custom_description.strip())
+            print(f"🔧 [generate_story_async] Corrected description: '{request.custom_description}' → '{corrected_description}'")
+            full_topic_input = f"{corrected_topic} — Parent context: {corrected_description}"
         else:
-            prompt_topic = sanitized_topic
+            full_topic_input = corrected_topic
+        
+        # Step 2: Try keyword-based mapping first (fast, deterministic)
+        keyword_mapped_topic = map_topic(corrected_topic)
+        print(f"🔍 [generate_story_async] Keyword-based mapping: '{corrected_topic}' → '{keyword_mapped_topic}'")
+        
+        # Step 3: If custom_description exists or keyword mapping is uncertain (returned original), use AI to refine topic mapping
+        # AI can better understand context and map free-form descriptions to canonical topics
+        # Check if keyword mapping found a match (if it returns the original lowercase, it likely didn't find a match)
+        # Also check if the mapped topic is in the canonical topics list
+        canonical_topics = ["bedtime", "nutrition", "friendship", "confidence", "emotional_regulation",
+                           "transitions", "kindness", "screen_time", "sharing", "sibling", "imagination"]
+        keyword_mapping_found = keyword_mapped_topic in canonical_topics
+        keyword_mapping_uncertain = (
+            not keyword_mapping_found or  # Keyword mapping didn't find a canonical topic
+            request.custom_description  # Custom description provided, use AI for better context understanding
+        )
+        
+        if keyword_mapping_uncertain:
+            # Use AI to intelligently map the topic
+            print(f"🤖 [generate_story_async] Using AI for topic mapping (keyword mapping uncertain or custom description provided)")
+            ai_mapped_topic = await map_topic_with_ai(full_topic_input, request.language)
+            if ai_mapped_topic:
+                print(f"🤖 [generate_story_async] AI mapping: '{full_topic_input}' → '{ai_mapped_topic}' (was: '{keyword_mapped_topic}')")
+                mapped_topic = ai_mapped_topic
+            else:
+                print(f"⚠️ [generate_story_async] AI mapping failed, falling back to keyword-based: '{keyword_mapped_topic}'")
+                mapped_topic = keyword_mapped_topic if keyword_mapped_topic != corrected_topic.lower() else "bedtime"  # Safe fallback
+        else:
+            print(f"✅ [generate_story_async] Using keyword-based mapping: '{keyword_mapped_topic}'")
+            mapped_topic = keyword_mapped_topic
+        
+        # Step 4: Use mapped topic for story generation
+        # Combine mapped canonical topic with corrected description for richer prompt
+        if request.custom_description:
+            prompt_topic = f"{mapped_topic} — Parent context: {corrected_description}"
+        else:
+            prompt_topic = mapped_topic
         
         # Generate story with OpenAI
         story_text = await generate_story_text(
@@ -2483,52 +2520,86 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         print(f"   scenes count: {len(scenes)}")
         
         # Generate audio for each scene
-        scene_audios = []
-        total_duration = 0
+        # BEST PRACTICE: Generate audio in parallel for faster completion
+        # This reduces total waiting time from N*T to ~T (where N=scene count, T=avg generation time)
         total_scenes = len([s for s in scenes if s.get("text", "")])  # Count scenes with text
         
-        for scene_index, scene in enumerate(scenes):
+        async def generate_scene_audio(scene_index: int, scene: dict) -> tuple[int, str, float]:
+            """Generate audio for a single scene and return (scene_index, audio_url, duration)."""
             scene_text = scene.get("text", "")
             if not scene_text:
                 print(f"⚠️ [generate_story_async] Scene {scene_index} has no text, skipping audio generation")
-                continue
+                return (scene_index, None, 0.0)
             
-            # Generate audio for this scene
-            # CRITICAL:
-            # - Use normalized character_slug (to_character_slug already applied in generate_tts, but be explicit)
-            # - Pass story_id so that each custom story keeps its own unique audio files per scene.
-            scene_audio_url = await generate_tts(
-                text=scene_text,
-                style={"stability": 0.7, "similarity_boost": 0.85, "style": 0.6},
-                lang=request.language,
-                character=character_slug,
-                topic=request.topic,
-                scene_index=scene_index,
-                story_id=story_id,
-            )
-            
-            # Get scene audio duration
-            scene_duration = await get_audio_duration(scene_audio_url)
-            total_duration += scene_duration
-            
-            # Add audio URL to scene
-            scene["audio_url"] = scene_audio_url
-            scene_audios.append(scene_audio_url)
-            
-            # Update progress in Firestore (real-time progress tracking)
-            completed_count = len(scene_audios)
-            if db:
-                story_ref = db.collection("stories").document(story_id)
-                story_ref.update({
-                    "audio_progress": {
-                        "completed": completed_count,
-                        "total": total_scenes
-                    },
-                    "updated_at": time.time()
-                })
-                print(f"📊 [generate_story_async] Progress updated: {completed_count}/{total_scenes} scenes completed ({int(completed_count/total_scenes*100)}%)")
-            
-            print(f"✅ [generate_story_async] Scene {scene_index} audio generated: {scene_audio_url} ({scene_duration}s)")
+            try:
+                # Generate audio for this scene
+                # CRITICAL:
+                # - Use normalized character_slug (to_character_slug already applied in generate_tts, but be explicit)
+                # - Pass story_id so that each custom story keeps its own unique audio files per scene.
+                scene_audio_url = await generate_tts(
+                    text=scene_text,
+                    style={"stability": 0.7, "similarity_boost": 0.85, "style": 0.6},
+                    lang=request.language,
+                    character=character_slug,
+                    topic=request.topic,
+                    scene_index=scene_index,
+                    story_id=story_id,
+                )
+                
+                # Get scene audio duration
+                scene_duration = await get_audio_duration(scene_audio_url)
+                
+                # Add audio URL to scene
+                scene["audio_url"] = scene_audio_url
+                
+                # Update progress in Firestore (real-time progress tracking)
+                # NOTE: In parallel generation, we update progress as each scene completes
+                # This gives real-time feedback even though scenes are generated in parallel
+                # We use a simple read-then-update approach (minor race condition possible but acceptable for progress tracking)
+                if db:
+                    story_ref = db.collection("stories").document(story_id)
+                    try:
+                        story_doc = story_ref.get()
+                        if story_doc.exists:
+                            current_progress = story_doc.get("audio_progress", {})
+                            current_completed = current_progress.get("completed", 0)
+                            new_completed = current_completed + 1
+                            
+                            story_ref.update({
+                                "audio_progress": {
+                                    "completed": new_completed,
+                                    "total": total_scenes
+                                },
+                                "updated_at": time.time()
+                            })
+                            print(f"📊 [generate_story_async] Progress updated: {new_completed}/{total_scenes} scenes completed ({int(new_completed/total_scenes*100)}%)")
+                    except Exception as e:
+                        print(f"⚠️ [generate_story_async] Failed to update progress: {e}")
+                
+                print(f"✅ [generate_story_async] Scene {scene_index} audio generated: {scene_audio_url} ({scene_duration}s)")
+                return (scene_index, scene_audio_url, scene_duration)
+            except Exception as e:
+                print(f"❌ [generate_story_async] Error generating audio for scene {scene_index}: {e}")
+                return (scene_index, None, 0.0)
+        
+        # Generate all scene audio in parallel (up to 3 concurrent to avoid rate limiting)
+        import asyncio
+        scene_tasks = []
+        for scene_index, scene in enumerate(scenes):
+            if scene.get("text", ""):
+                scene_tasks.append(generate_scene_audio(scene_index, scene))
+        
+        # Process in batches of 3 to avoid overwhelming TTS API
+        scene_audios = []
+        total_duration = 0.0
+        batch_size = 3
+        for i in range(0, len(scene_tasks), batch_size):
+            batch = scene_tasks[i:i + batch_size]
+            batch_results = await asyncio.gather(*batch)
+            for scene_index, audio_url, duration in batch_results:
+                if audio_url:
+                    scene_audios.append(audio_url)
+                    total_duration += duration
         
         # Use first scene audio as main audio_url (for backward compatibility)
         main_audio_url = scene_audios[0] if scene_audios else None
@@ -2693,10 +2764,16 @@ Character background:
 The parent wants a story about: {topic}
 
 IMPORTANT INSTRUCTIONS:
-1. If the topic description contains spelling or grammar errors (e.g., "gitmemek" instead of "giymemek", "mont gitmemek" instead of "mont giymemek"), correct them automatically and use the correct version in your story.
+1. CRITICAL: If the topic description contains spelling or grammar errors, you MUST correct them automatically:
+   - "gitmemek" → "giymemek" (to wear)
+   - "mont gitmemek" → "mont giymemek" (to wear a coat)
+   - "kışın mont gitmemek" → "kışın mont giymemek" (to wear a winter coat)
+   - "sakınlesmemek" → "sakinleşmemek" (to calm down)
+   - Always use the CORRECT version in your story, never repeat the error.
 2. Write the story in {language}. Use correct grammar and spelling for {language}.
 3. The story must be 100% child-friendly: no violence, scary content, inappropriate language, or negative themes.
 4. Keep the story positive, educational, and age-appropriate for children aged 2-8.
+5. Understand the CORRECTED topic meaning and create a story that addresses the actual intent (e.g., if corrected to "mont giymemek", create a story about wearing a coat, not about going somewhere).
 
 Create a calming, age-appropriate bedtime story that takes approximately {target_duration_min}-{target_duration_max} minutes when read aloud (approximately {target_word_count} words). The story should be:
 - Positive and reassuring
@@ -2784,10 +2861,166 @@ async def get_audio_duration(audio_url: str) -> int:
         return 180  # Default 3 minutes
 
 
+def correct_common_errors(text: str) -> str:
+    """Correct common spelling and grammar errors in Turkish text."""
+    # Common error corrections (Turkish)
+    corrections = {
+        # "gitmemek" → "giymemek" (common typo)
+        "mont gitmemek": "mont giymemek",
+        "kışın mont gitmemek": "kışın mont giymemek",
+        " mont gitmemek": " mont giymemek",
+        " kışın mont gitmemek": " kışın mont giymemek",
+        # "sakınlesmemek" → "sakinleşmemek" (common typo)
+        "sakınlesmemek": "sakinleşmemek",
+        "sakınlesmek": "sakinleşmek",
+        "sakınlesmesi": "sakinleşmesi",
+        # "gitmek" → "giymek" (when context suggests clothing)
+        "mont gitmek": "mont giymek",
+        "kışın mont gitmek": "kışın mont giymek",
+        " mont gitmek": " mont giymek",
+        " kışın mont gitmek": " kışın mont giymek",
+    }
+    
+    corrected = text
+    for error, correction in corrections.items():
+        if error in corrected.lower():
+            # Preserve original case
+            if error.lower() in corrected.lower():
+                corrected = corrected.replace(error, correction)
+                corrected = corrected.replace(error.capitalize(), correction.capitalize())
+                corrected = corrected.replace(error.upper(), correction.upper())
+    
+    return corrected
+
+
+async def map_topic_with_ai(topic_description: str, language: str) -> Optional[str]:
+    """Use AI to intelligently map a free-form topic description to a canonical topic slug.
+    
+    This is more flexible than keyword-based mapping and handles:
+    - Free-form descriptions
+    - Context-aware understanding
+    - Spelling/grammar errors (already corrected)
+    - Multi-language support
+    
+    Args:
+        topic_description: Free-form topic description (e.g., "kışın mont giymemek", "bedtime — Parent context: Yatmadan önce sakinleşmemek")
+        language: Language code (e.g., "tr", "en")
+        
+    Returns:
+        Canonical topic slug (e.g., "transitions", "bedtime", "nutrition") or None if mapping fails
+    """
+    if not settings.OPENAI_API_KEY:
+        return None
+    
+    # List of canonical topics (from topic_mapping.py)
+    canonical_topics = [
+        "bedtime", "nutrition", "friendship", "confidence", "emotional_regulation",
+        "transitions", "kindness", "screen_time", "sharing", "sibling", "imagination"
+    ]
+    
+    # Language-specific topic descriptions for better AI understanding
+    topic_descriptions = {
+        "tr": {
+            "bedtime": "uyku, yatma, uyku vakti, rahatlama",
+            "nutrition": "yemek, beslenme, yemek yemek, iştah",
+            "friendship": "arkadaşlık, paylaşma, sosyal ilişkiler",
+            "confidence": "özgüven, cesaret, kendine güven",
+            "emotional_regulation": "duygusal düzenleme, öfke, kaygı, sakinleşme",
+            "transitions": "geçişler, rutin değişiklikleri, giyinme, hazırlanma",
+            "kindness": "naziklik, iyilik, kardeşlere karşı nazik olma",
+            "screen_time": "ekran süresi, teknoloji kullanımı",
+            "sharing": "paylaşma, oyuncak paylaşma",
+            "sibling": "kardeş ilişkileri, kardeşler arası anlaşma",
+            "imagination": "hayal gücü, yaratıcılık, oyun"
+        },
+        "en": {
+            "bedtime": "sleep, going to bed, sleep time, relaxation",
+            "nutrition": "eating, food, nutrition, appetite",
+            "friendship": "friendship, sharing, social relationships",
+            "confidence": "self-confidence, courage, self-esteem",
+            "emotional_regulation": "emotional regulation, anger, anxiety, calming down",
+            "transitions": "transitions, routine changes, getting dressed, preparing",
+            "kindness": "kindness, being kind to siblings",
+            "screen_time": "screen time, technology use",
+            "sharing": "sharing, sharing toys",
+            "sibling": "sibling relationships, getting along with siblings",
+            "imagination": "imagination, creativity, play"
+        }
+    }
+    
+    lang_key = language[:2] if len(language) >= 2 else "en"
+    topic_descriptions_lang = topic_descriptions.get(lang_key, topic_descriptions["en"])
+    
+    # Build topic list for AI
+    topics_list = "\n".join([
+        f"- {topic}: {topic_descriptions_lang.get(topic, topic)}"
+        for topic in canonical_topics
+    ])
+    
+    try:
+        import openai
+        client = openai.OpenAI(api_key=settings.OPENAI_API_KEY)
+        
+        prompt = f"""You are a topic classification assistant. Your task is to map a parent's topic description to the most appropriate canonical topic.
+
+Canonical topics:
+{topics_list}
+
+Examples:
+- "kışın mont giymemek" → "transitions" (getting dressed, wearing clothes)
+- "yemek yemek istemiyor" → "nutrition" (eating, food)
+- "uykuya dalmakta zorlanıyor" → "bedtime" (sleep, going to bed)
+- "kardeşiyle paylaşmak istemiyor" → "sharing" (sharing toys)
+- "okula gitmek istemiyor" → "transitions" (routine changes, school start)
+
+Parent's topic description: "{topic_description}"
+
+Instructions:
+1. Understand the parent's intent from the description
+2. If the description contains spelling/grammar errors, correct them mentally (e.g., "gitmemek" → "giymemek", "mont gitmemek" → "mont giymemek")
+3. Map to the MOST APPROPRIATE canonical topic from the list above
+4. Consider the context: "mont giymemek" is about getting dressed (transitions), not about going somewhere
+5. Return ONLY the canonical topic slug (e.g., "transitions", "bedtime", "nutrition")
+6. Do NOT return explanations, just the topic slug
+
+Canonical topic:"""
+        
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",  # Use mini for fast, cheap topic mapping
+            messages=[
+                {"role": "system", "content": "You are a topic classification assistant. Return only the canonical topic slug, no explanations. You must choose from the provided canonical topics list."},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.2,  # Very low temperature for consistent, deterministic mapping
+            max_tokens=20  # Just need the topic slug
+        )
+        
+        ai_topic = response.choices[0].message.content.strip().lower()
+        
+        # Clean up AI response (remove quotes, extra whitespace, etc.)
+        ai_topic = ai_topic.strip('"').strip("'").strip()
+        
+        # Validate that AI returned a valid canonical topic
+        if ai_topic in canonical_topics:
+            print(f"✅ [map_topic_with_ai] AI successfully mapped: '{topic_description}' → '{ai_topic}'")
+            return ai_topic
+        else:
+            print(f"⚠️ [map_topic_with_ai] AI returned invalid topic: '{ai_topic}' (not in canonical list), falling back to keyword-based mapping")
+            print(f"   Available topics: {canonical_topics}")
+            return None
+            
+    except Exception as e:
+        print(f"⚠️ [map_topic_with_ai] Error mapping topic with AI: {e}")
+        return None
+
+
 def sanitize_topic(topic: str) -> str:
     """Sanitize topic to remove harmful content and map to canonical topic."""
-    # First, map topic to canonical slug (handles free-form descriptions)
-    mapped_topic = map_topic(topic)
+    # First, correct common errors in topic description
+    corrected_topic = correct_common_errors(topic)
+    
+    # Then, map topic to canonical slug (handles free-form descriptions)
+    mapped_topic = map_topic(corrected_topic)
     
     # Basic sanitization - in production, use a proper content moderation API
     forbidden_words = ["violence", "adult", "explicit"]
