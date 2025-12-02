@@ -2788,8 +2788,8 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         # 1. Firestore query (priority 1) will return user-specific story if user_id is provided
         # 2. Local storage is fallback for public/pre-generated stories
         try:
-            from services.story_composer import content_story_path, to_character_slug
-            character_slug_normalized = to_character_slug(request.character_id)
+            # NOTE: to_character_slug and content_story_path are already imported at the top of the file
+            # character_slug is already normalized above (line 2472)
             topic_mapped_for_file = mapped_topic  # Use the mapped topic (e.g., "bedtime" not "bedtime story")
             
             # Extract user_id from story_id: story_{user_id}_{timestamp}
@@ -2797,7 +2797,7 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             
             # Use standard topic name for filename (same as pre-generated stories)
             # This allows endpoint to find it via /story/{character}/{topic}
-            story_path = content_story_path(request.language, character_slug_normalized, topic_mapped_for_file)
+            story_path = content_story_path(request.language, character_slug, topic_mapped_for_file)
             
             # Ensure directory exists
             story_path.parent.mkdir(parents=True, exist_ok=True)
@@ -2805,7 +2805,7 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             # Prepare story data in local storage format (compatible with pre-generated stories)
             local_story_data = {
                 "topic": topic_mapped_for_file,
-                "character": character_slug_normalized,
+                "character": character_slug,  # Use already normalized character_slug
                 "title": story_title,
                 "text": story_text,
                 "scenes": scenes,  # Already includes audio_url for each scene
@@ -2821,7 +2821,7 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             
             print(f"💾 [generate_story_async] Story also saved to local storage: {story_path}")
             print(f"   File: {topic_mapped_for_file}.json")
-            print(f"   This enables /story/{character_slug_normalized}/{topic_mapped_for_file} endpoint to find it")
+            print(f"   This enables /story/{character_slug}/{topic_mapped_for_file} endpoint to find it")
             print(f"   NOTE: If multiple users create same topic, most recent story will be in local storage")
             print(f"   But Firestore query (priority 1) will return user-specific story if user_id is provided")
         except Exception as e:
