@@ -1103,6 +1103,7 @@ async def serve_story(
             
             try:
                 matching_stories = list(query.stream())
+                print(f"🔍 [serve_story] Firestore query result: {len(matching_stories)} stories found")
                 if matching_stories:
                     # Sort by created_at descending (most recent first)
                     matching_stories.sort(
@@ -1115,16 +1116,23 @@ async def serve_story(
                     
                     print(f"✅ [serve_story] Found user-specific story in Firestore: {story_id}")
                     print(f"   Title: {story_data.get('title', 'N/A')}")
+                    print(f"   Character: {story_data.get('character_id', 'N/A')}")
+                    print(f"   Topic: {story_data.get('topic', 'N/A')}")
                     print(f"   Status: {story_data.get('status', 'N/A')}")
                     print(f"   Created at: {story_data.get('created_at', 'N/A')}")
+                    print(f"   Scenes count: {len(story_data.get('scenes', []))}")
                     
                     # Ensure story_data has all required fields for JSON response
                     # Firestore story format is already compatible
                     
                     # Return JSON response (not FileResponse)
                     return JSONResponse(content=story_data)
+                else:
+                    print(f"⚠️ [serve_story] No matching stories found in Firestore for user_id={user_id}, character={character_slug}, topic={topic_mapped}, lang={lang}")
             except Exception as e:
                 print(f"⚠️ [serve_story] Error querying Firestore: {e}")
+                import traceback
+                print(f"   Traceback: {traceback.format_exc()}")
                 # Continue to local storage fallback
                 pass
         
