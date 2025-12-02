@@ -1051,13 +1051,21 @@ async def compose_story_endpoint(request: ComposeStoryRequest):
         raise HTTPException(status_code=500, detail=str(e))
 
 @app.get("/story/{character}/{topic}")
-async def serve_story(character: str, topic: str, lang: str = "en"):
-    """Serve story JSON file from backend storage.
+async def serve_story(
+    character: str, 
+    topic: str, 
+    lang: str = "en",
+    user_id: Optional[str] = Depends(verify_firebase_token)
+):
+    """Serve story JSON file from backend storage or Firestore.
+    
+    BEST PRACTICE: Priority order
+    1. Check Firestore for user-specific story (if user_id provided)
+    2. Check local storage for pre-generated story
+    3. Auto-compose story if not found
     
     Path format: backend/storage/content/{lang}/stories/{character}/{topic}.json
     Topic mapping: Maps iOS topic names to actual file names (same as audio serving)
-    
-    If story doesn't exist, automatically composes it using OpenAI.
     """
     try:
         # Validate topic is not empty (prevents 404 errors from empty topic requests)
@@ -1074,8 +1082,51 @@ async def serve_story(character: str, topic: str, lang: str = "en"):
         print(f"🔍 [serve_story] Requested: character={character}, topic={topic} (normalized: {topic_normalized}, mapped: {topic_mapped}), lang={lang}")
         print(f"   Topic candidates: {topic_candidates}")
         print(f"   Full request path: /story/{character}/{topic}?lang={lang}")
+        print(f"   User ID: {user_id if user_id else 'None (public story)'}")
         
-        # Try each candidate to find existing story
+        # PRIORITY 1: Check Firestore for user-specific story (if user_id provided)
+        if user_id and db:
+            character_slug = to_character_slug(character)
+            print(f"🔍 [serve_story] Checking Firestore for user-specific story: user_id={user_id}, character={character_slug}, topic={topic_mapped}, lang={lang}")
+            
+            # Query Firestore for matching story
+            # NOTE: We query without order_by to avoid index requirement
+            # We'll sort in Python instead
+            stories_ref = db.collection("stories")
+            query = stories_ref.where("owner_user_id", "==", user_id)\
+                              .where("character_id", "==", character_slug)\
+                              .where("topic", "==", topic_mapped)\
+                              .where("language", "==", lang)\
+                              .where("status", "==", "ready")
+            
+            try:
+                matching_stories = list(query.stream())
+                if matching_stories:
+                    # Sort by created_at descending (most recent first)
+                    matching_stories.sort(
+                        key=lambda doc: doc.to_dict().get("created_at", 0),
+                        reverse=True
+                    )
+                    story_doc = matching_stories[0]
+                    story_data = story_doc.to_dict()
+                    story_id = story_doc.id
+                    
+                    print(f"✅ [serve_story] Found user-specific story in Firestore: {story_id}")
+                    print(f"   Title: {story_data.get('title', 'N/A')}")
+                    print(f"   Status: {story_data.get('status', 'N/A')}")
+                    print(f"   Created at: {story_data.get('created_at', 'N/A')}")
+                    
+                    # Ensure story_data has all required fields for JSON response
+                    # Firestore story format is already compatible
+                    
+                    # Return JSON response (not FileResponse)
+                    return JSONResponse(content=story_data)
+            except Exception as e:
+                print(f"⚠️ [serve_story] Error querying Firestore: {e}")
+                # Continue to local storage fallback
+                pass
+        
+        # PRIORITY 2: Try each candidate to find existing story in local storage
         story_path = None
         character_slug = to_character_slug(character)
         for topic_candidate in topic_candidates:
@@ -2728,6 +2779,56 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             
             story_ref.update(update_data)
             print(f"📊 [generate_story_async] Final progress: {completed_count}/{total_scenes} scenes completed (100%)")
+        
+        # BEST PRACTICE: Also save story to local storage for compatibility with /story/{character}/{topic} endpoint
+        # This enables the endpoint to find user-generated stories in local storage as well
+        # NOTE: We save with standard topic name (not story_id) so endpoint can find it
+        # If multiple users create stories with same topic, the most recent one will be used
+        # This is acceptable because:
+        # 1. Firestore query (priority 1) will return user-specific story if user_id is provided
+        # 2. Local storage is fallback for public/pre-generated stories
+        try:
+            from services.story_composer import content_story_path, to_character_slug
+            character_slug_normalized = to_character_slug(request.character_id)
+            topic_mapped_for_file = mapped_topic  # Use the mapped topic (e.g., "bedtime" not "bedtime story")
+            
+            # Extract user_id from story_id: story_{user_id}_{timestamp}
+            user_id_from_story = story_id.split("_")[1] if "_" in story_id else None
+            
+            # Use standard topic name for filename (same as pre-generated stories)
+            # This allows endpoint to find it via /story/{character}/{topic}
+            story_path = content_story_path(request.language, character_slug_normalized, topic_mapped_for_file)
+            
+            # Ensure directory exists
+            story_path.parent.mkdir(parents=True, exist_ok=True)
+            
+            # Prepare story data in local storage format (compatible with pre-generated stories)
+            local_story_data = {
+                "topic": topic_mapped_for_file,
+                "character": character_slug_normalized,
+                "title": story_title,
+                "text": story_text,
+                "scenes": scenes,  # Already includes audio_url for each scene
+                "durationMinutes": int(total_duration / 60) if total_duration > 0 else config["duration_min"],
+                "language": request.language,
+                "story_id": story_id,  # Keep story_id for reference
+                "owner_user_id": user_id_from_story  # Extract from story_id
+            }
+            
+            # Save to local storage (overwrites if exists - most recent story wins)
+            with open(story_path, "w", encoding="utf-8") as f:
+                json.dump(local_story_data, f, ensure_ascii=False, indent=2)
+            
+            print(f"💾 [generate_story_async] Story also saved to local storage: {story_path}")
+            print(f"   File: {topic_mapped_for_file}.json")
+            print(f"   This enables /story/{character_slug_normalized}/{topic_mapped_for_file} endpoint to find it")
+            print(f"   NOTE: If multiple users create same topic, most recent story will be in local storage")
+            print(f"   But Firestore query (priority 1) will return user-specific story if user_id is provided")
+        except Exception as e:
+            print(f"⚠️ [generate_story_async] Failed to save story to local storage: {e}")
+            # Non-critical error - story is already in Firestore
+            import traceback
+            traceback.print_exc()
         
         print(f"✅ Story {story_id} generated successfully - All {completed_count} audio files completed")
         
