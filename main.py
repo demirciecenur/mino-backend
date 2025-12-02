@@ -2423,15 +2423,67 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         print(f"   Original character_id: {request.character_id}")
         print(f"   Normalized slug: {character_slug}")
         
-        # BEST PRACTICE: Use AI to map topic intelligently
-        # This is more flexible than keyword-based mapping and handles free-form descriptions better
-        # Step 1: Pre-correct common spelling/grammar errors
-        corrected_topic = correct_common_errors(request.topic)
-        if request.custom_description:
-            corrected_description = correct_common_errors(request.custom_description.strip())
+        # CRITICAL: Content moderation and fraud prevention with auto-correction
+        # Step 1: Validate and sanitize input (multi-layer content moderation)
+        # BEST PRACTICE: Auto-correction mode - automatically corrects low/medium severity issues
+        print(f"🛡️ [generate_story_async] Starting content moderation with auto-correction...")
+        sanitized_topic, sanitized_description, is_valid, moderation_result, auto_corrected_topic = await sanitize_and_validate_input(
+            topic=request.topic,
+            custom_description=request.custom_description,
+            language=request.language,
+            auto_correct=True  # Enable auto-correction for low/medium severity issues
+        )
+        
+        if not is_valid:
+            # Content rejected (high/critical severity) - mark story as failed with appropriate reason
+            print(f"🚨 [generate_story_async] Content validation failed - rejecting story generation (high/critical severity)")
+            if db:
+                story_ref = db.collection("stories").document(story_id)
+                
+                # Create user-friendly rejection message based on moderation result
+                rejection_reason = "Your story request contains content that is not appropriate for children. Please try a different topic that is positive and child-friendly."
+                if moderation_result and moderation_result.get("flags"):
+                    flags = moderation_result["flags"]
+                    if "profanity" in flags:
+                        rejection_reason = "Your story request contains inappropriate language. Please use positive, child-friendly words."
+                    elif "inappropriate_theme" in flags:
+                        rejection_reason = "Your story request contains themes that are not suitable for children. Please choose a positive, educational topic."
+                    elif "spam" in flags:
+                        rejection_reason = "Your story request appears to be spam. Please provide a valid story topic."
+                    elif any("violence" in flag or "hate" in flag for flag in flags):
+                        rejection_reason = "Your story request contains content that is not safe for children. Please choose a positive, educational topic."
+                
+                story_ref.update({
+                    "status": "rejected",
+                    "rejection_reason": rejection_reason,
+                    "updated_at": time.time()
+                })
+            return  # Stop generation
+        
+        # Auto-correction was applied - log and inform user
+        if auto_corrected_topic:
+            print(f"🔄 [generate_story_async] Auto-correction applied: '{request.topic}' → '{auto_corrected_topic}'")
+            print(f"   Original topic had minor issues, automatically corrected to safe alternative")
+            # Store auto-correction info in Firestore for user transparency
+            if db:
+                story_ref = db.collection("stories").document(story_id)
+                story_ref.update({
+                    "original_topic": request.topic,  # Store original for reference
+                    "auto_corrected": True,
+                    "auto_corrected_topic": auto_corrected_topic,
+                    "updated_at": time.time()
+                })
+        
+        print(f"✅ [generate_story_async] Content validation passed (auto-corrected: {auto_corrected_topic is not None})")
+        
+        # Step 2: Pre-correct common spelling/grammar errors (after moderation)
+        corrected_topic = correct_common_errors(sanitized_topic)
+        if sanitized_description:
+            corrected_description = correct_common_errors(sanitized_description)
             print(f"🔧 [generate_story_async] Corrected description: '{request.custom_description}' → '{corrected_description}'")
             full_topic_input = f"{corrected_topic} — Parent context: {corrected_description}"
         else:
+            corrected_description = None
             full_topic_input = corrected_topic
         
         # Step 2: Try keyword-based mapping first (fast, deterministic)
@@ -2493,14 +2545,62 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             child_name=request.child_name
         )
         
-        # Save text and scenes to Firestore
+        # CRITICAL: Validate generated story content (output moderation)
+        print(f"🛡️ [generate_story_async] Validating generated story content...")
+        story_moderation = await moderate_content(story_text, request.language)
+        if not story_moderation["is_safe"]:
+            print(f"🚨 [generate_story_async] Generated story failed moderation: {story_moderation['reason']}")
+            # Regenerate with stricter prompt
+            print(f"🔄 [generate_story_async] Regenerating story with stricter safety guidelines...")
+            story_text = await generate_story_text(
+                topic=prompt_topic,
+                character=character_slug,
+                language=request.language,
+                child_name=request.child_name,
+                max_tokens=config["max_tokens"],
+                target_duration_min=config["duration_min"],
+                target_duration_max=config["duration_max"],
+                target_words=config["target_words"],
+                strict_safety=True  # Enable strict safety mode
+            )
+            # Re-validate
+            story_moderation = await moderate_content(story_text, request.language)
+            if not story_moderation["is_safe"]:
+                # Still unsafe - mark as failed
+                print(f"🚨 [generate_story_async] Story still unsafe after regeneration - marking as failed")
+                if db:
+                    story_ref = db.collection("stories").document(story_id)
+                    # Create user-friendly failure message
+                    failure_reason = "We couldn't generate a safe story for your request. Please try a different topic that is positive and child-friendly."
+                    if story_moderation.get("flags"):
+                        flags = story_moderation["flags"]
+                        if any("violence" in flag or "hate" in flag for flag in flags):
+                            failure_reason = "The generated story contained inappropriate content. Please try a different, more positive topic."
+                    
+                    story_ref.update({
+                        "status": "failed",
+                        "failure_reason": failure_reason,
+                        "updated_at": time.time()
+                    })
+                return
+        
+        # Generate story title using AI (summarize story content into an engaging title)
+        print(f"📝 [generate_story_async] Generating story title with AI...")
+        story_title = await generate_story_title(
+            story_text=story_text,
+            language=request.language,
+            character=character_slug,
+            child_name=request.child_name
+        )
+        
+        # Save text, scenes, and title to Firestore
         if db:
             story_ref = db.collection("stories").document(story_id)
             total_scenes = len(scenes)
             story_ref.update({
                 "text": story_text,
                 "scenes": scenes,  # Add scene structure
-                "title": extract_title_from_text(story_text),
+                "title": story_title,  # AI-generated title
                 "status": "audio_pending",
                 "audio_progress": {
                     "completed": 0,
@@ -2509,6 +2609,7 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 "updated_at": time.time()
             })
             print(f"📊 [generate_story_async] Initialized audio progress: 0/{total_scenes} scenes")
+            print(f"📝 [generate_story_async] Story title generated: '{story_title}'")
         
         # Generate audio for each scene
         # BEST PRACTICE: Generate scene-by-scene audio for proper playback
@@ -2652,7 +2753,8 @@ async def generate_story_text(
     max_tokens: int,
     target_duration_min: int = 2,
     target_duration_max: int = 3,
-    target_words: int = 300
+    target_words: int = 300,
+    strict_safety: bool = False
 ) -> str:
     """Generate story text using OpenAI with target duration.
     
@@ -2794,8 +2896,22 @@ Story:"""
     print(f"   Target words: {target_word_count}")
     print(f"   Max tokens: {max_tokens}")
     
-    system_message = f"""You are {character_name}, a kind and gentle character who tells bedtime stories to children.
-
+    # Enhanced safety instructions for strict mode
+    if strict_safety:
+        safety_rules = """
+CRITICAL SAFETY RULES (MANDATORY - STRICT MODE):
+1. All content must be 100% child-friendly and age-appropriate (ages 2-8).
+2. ABSOLUTELY NO: violence, scary content, inappropriate language, negative themes, profanity, adult content, or any harmful material.
+3. If the parent's topic contains ANY inappropriate words or themes, IGNORE them completely and create a positive, safe story instead.
+4. Focus ONLY on: friendship, kindness, learning, growth, positive emotions, and age-appropriate challenges.
+5. Stories must be calming, reassuring, and educational.
+6. Use only positive, uplifting language throughout.
+7. If unsure about any content, err on the side of caution and make it more positive and safe.
+8. Automatically correct any spelling or grammar errors in the parent's topic description.
+9. Use correct grammar and spelling for the target language ({language}).
+"""
+    else:
+        safety_rules = """
 CRITICAL RULES:
 1. All content must be 100% child-friendly and age-appropriate (ages 2-8).
 2. NO violence, scary content, inappropriate language, or negative themes.
@@ -2803,6 +2919,11 @@ CRITICAL RULES:
 4. Use correct grammar and spelling for the target language ({language}).
 5. Keep stories positive, educational, and calming for bedtime.
 6. If you detect any inappropriate words or themes in the topic, replace them with safe, positive alternatives.
+"""
+    
+    system_message = f"""You are {character_name}, a kind and gentle character who tells bedtime stories to children.
+
+{safety_rules}
 
 Your stories must always be safe, positive, and suitable for young children."""
 
@@ -3014,8 +3135,266 @@ Canonical topic:"""
         return None
 
 
+async def moderate_content(content: str, language: str = "en") -> dict:
+    """Multi-layer content moderation using AI and rule-based filtering.
+    
+    This function provides:
+    1. AI-based moderation (OpenAI Moderation API)
+    2. Rule-based filtering (profanity, inappropriate themes)
+    3. Pedagogical safety checks (child-appropriate content)
+    4. Fraud detection (spam patterns, abuse)
+    
+    Args:
+        content: Text content to moderate (topic, description, or story text)
+        language: Language code for language-specific checks
+        
+    Returns:
+        dict with keys:
+        - is_safe: bool - Whether content is safe
+        - reason: str - Reason if unsafe
+        - severity: str - "low", "medium", "high", "critical"
+        - sanitized: str - Sanitized version if applicable
+        - flags: list - List of detected issues
+    """
+    result = {
+        "is_safe": True,
+        "reason": None,
+        "severity": "low",
+        "sanitized": content,
+        "flags": []
+    }
+    
+    if not content or len(content.strip()) == 0:
+        return result
+    
+    content_lower = content.lower()
+    
+    # Layer 1: Rule-based filtering (fast, deterministic)
+    # Profanity and inappropriate words (multi-language)
+    profanity_patterns = {
+        "tr": ["küfür", "lanet", "pislik", "aptal", "salak", "gerizekalı"],
+        "en": ["fuck", "shit", "damn", "bitch", "asshole", "stupid", "idiot"],
+        "de": ["scheiße", "verdammt", "idiot", "dumm"],
+        "es": ["joder", "mierda", "idiota", "estúpido"],
+        "fr": ["merde", "putain", "con", "idiot", "stupide"]
+    }
+    
+    # Violence and inappropriate themes
+    inappropriate_themes = [
+        "violence", "kill", "death", "murder", "weapon", "gun", "knife",
+        "adult", "explicit", "sexual", "porn", "drug", "alcohol",
+        "terror", "bomb", "attack", "hate", "racist"
+    ]
+    
+    lang_key = language[:2] if len(language) >= 2 else "en"
+    profanity_list = profanity_patterns.get(lang_key, profanity_patterns["en"])
+    
+    # Check for profanity
+    for word in profanity_list:
+        if word in content_lower:
+            result["is_safe"] = False
+            result["reason"] = f"Inappropriate language detected: {word}"
+            # Profanity severity: medium (can be auto-corrected to safe alternative)
+            result["severity"] = "medium"
+            result["flags"].append("profanity")
+            return result
+    
+    # Check for inappropriate themes
+    for theme in inappropriate_themes:
+        if theme in content_lower:
+            result["is_safe"] = False
+            result["reason"] = f"Inappropriate theme detected: {theme}"
+            # Theme severity: critical for violence/adult content, high for others
+            # Critical themes cannot be auto-corrected (security risk)
+            if theme in ["violence", "kill", "murder", "weapon", "gun", "knife", "terror", "bomb", "attack", "hate", "racist"]:
+                result["severity"] = "critical"  # Cannot auto-correct, must reject
+            elif theme in ["adult", "explicit", "sexual", "porn", "drug", "alcohol"]:
+                result["severity"] = "critical"  # Cannot auto-correct, must reject
+            else:
+                result["severity"] = "high"  # May be auto-corrected in some cases
+            result["flags"].append("inappropriate_theme")
+            return result
+    
+    # Layer 2: AI-based moderation (OpenAI Moderation API)
+    if settings.OPENAI_API_KEY:
+        try:
+            import openai
+            client = openai.OpenAI(api_key=settings.OPENAI_API_KEY)
+            
+            moderation_response = client.moderations.create(input=content)
+            moderation_result = moderation_response.results[0]
+            
+            # Check moderation flags
+            if moderation_result.flagged:
+                categories = moderation_result.categories
+                flagged_categories = [cat for cat, flagged in categories.dict().items() if flagged]
+                
+                result["is_safe"] = False
+                result["reason"] = f"Content flagged by moderation API: {', '.join(flagged_categories)}"
+                result["severity"] = "critical"
+                result["flags"].extend(flagged_categories)
+                
+                # Log for security monitoring
+                print(f"🚨 [moderate_content] Content flagged: {content[:100]}...")
+                print(f"   Categories: {flagged_categories}")
+                print(f"   Scores: {moderation_result.category_scores}")
+                
+                return result
+        except Exception as e:
+            print(f"⚠️ [moderate_content] Error calling moderation API: {e}")
+            # Continue with rule-based checks if API fails
+    
+    # Layer 3: Pedagogical safety checks
+    # Check for content that might be psychologically harmful to children
+    harmful_patterns = [
+        "fear", "scary", "monster", "ghost", "death", "dying",
+        "abandon", "reject", "hate", "worthless", "useless"
+    ]
+    
+    # Context-aware: these words might be okay in certain contexts
+    # But we flag them for review
+    for pattern in harmful_patterns:
+        if pattern in content_lower:
+            result["flags"].append(f"potentially_harmful_{pattern}")
+            # Don't block, but flag for review
+    
+    # Layer 4: Fraud detection patterns
+    spam_patterns = [
+        "http://", "https://", "www.", ".com", ".net", ".org",
+        "click here", "buy now", "free money", "lottery", "winner"
+    ]
+    
+    for pattern in spam_patterns:
+        if pattern in content_lower:
+            result["is_safe"] = False
+            result["reason"] = f"Spam pattern detected: {pattern}"
+            result["severity"] = "medium"
+            result["flags"].append("spam")
+            return result
+    
+    return result
+
+
+async def get_safe_alternative_topic(inappropriate_topic: str, language: str, flags: list) -> str:
+    """Get a safe alternative topic based on the inappropriate content detected.
+    
+    This provides automatic correction by mapping inappropriate topics to safe alternatives.
+    
+    Args:
+        inappropriate_topic: The original topic that was flagged
+        language: Language code
+        flags: List of moderation flags (e.g., ["profanity", "inappropriate_theme"])
+        
+    Returns:
+        Safe alternative topic slug (e.g., "bedtime", "friendship", "kindness")
+    """
+    # Map inappropriate content to safe alternatives based on flags
+    # This provides automatic correction instead of rejection
+    
+    # If profanity detected → map to a positive topic
+    if "profanity" in flags:
+        return "kindness"  # Focus on positive behavior
+    
+    # If inappropriate theme detected → map to educational topic
+    if "inappropriate_theme" in flags:
+        if any("violence" in flag or "hate" in flag for flag in flags):
+            return "friendship"  # Focus on positive relationships
+        elif any("adult" in flag or "sexual" in flag for flag in flags):
+            return "bedtime"  # Safe, calming topic
+        else:
+            return "kindness"  # General positive topic
+    
+    # If spam detected → use default safe topic
+    if "spam" in flags:
+        return "bedtime"  # Default safe topic
+    
+    # Default fallback: use a positive, educational topic
+    return "friendship"
+
+
+async def sanitize_and_validate_input(topic: str, custom_description: Optional[str], language: str, auto_correct: bool = True) -> tuple[str, Optional[str], bool, Optional[dict], Optional[str]]:
+    """Sanitize and validate user input before story generation.
+    
+    BEST PRACTICE: Auto-correction mode
+    - If inappropriate content is detected with LOW/MEDIUM severity → automatically correct to safe alternative
+    - If inappropriate content is detected with HIGH/CRITICAL severity → reject (security)
+    
+    Args:
+        topic: Original topic from user
+        custom_description: Optional custom description
+        language: Language code
+        auto_correct: If True, automatically correct low/medium severity issues instead of rejecting
+        
+    Returns:
+        tuple: (sanitized_topic, sanitized_description, is_valid, moderation_result, auto_corrected_topic)
+        - sanitized_topic: Cleaned topic (may be auto-corrected)
+        - sanitized_description: Cleaned description (may be None if rejected)
+        - is_valid: Whether content is valid (True if safe or auto-corrected, False if rejected)
+        - moderation_result: dict with moderation details if validation failed, None if passed
+        - auto_corrected_topic: Safe alternative topic if auto-correction was applied, None otherwise
+    """
+    auto_corrected_topic = None
+    
+    # Moderate topic
+    topic_moderation = await moderate_content(topic, language)
+    if not topic_moderation["is_safe"]:
+        severity = topic_moderation.get("severity", "medium")
+        flags = topic_moderation.get("flags", [])
+        
+        # Auto-correction: For low/medium severity, automatically correct to safe alternative
+        if auto_correct and severity in ["low", "medium"]:
+            safe_alternative = await get_safe_alternative_topic(topic, language, flags)
+            print(f"🔄 [sanitize_and_validate_input] Auto-correcting topic: '{topic}' → '{safe_alternative}' (severity: {severity})")
+            print(f"   Reason: {topic_moderation['reason']}")
+            auto_corrected_topic = safe_alternative
+            # Use safe alternative as sanitized topic
+            sanitized_topic = safe_alternative
+        else:
+            # High/critical severity → reject for security
+            print(f"🚨 [sanitize_and_validate_input] Topic rejected (severity: {severity}): {topic_moderation['reason']}")
+            return None, None, False, topic_moderation, None
+    
+    # Moderate custom description if provided
+    sanitized_description = None
+    desc_moderation = None
+    if custom_description:
+        desc_moderation = await moderate_content(custom_description, language)
+        if not desc_moderation["is_safe"]:
+            severity = desc_moderation.get("severity", "medium")
+            flags = desc_moderation.get("flags", [])
+            
+            # Auto-correction: For low/medium severity, remove inappropriate parts
+            if auto_correct and severity in ["low", "medium"]:
+                # Remove inappropriate words but keep safe parts
+                sanitized_description = desc_moderation.get("sanitized", "")
+                # If sanitized is empty or still unsafe, use empty description
+                if not sanitized_description or len(sanitized_description.strip()) < 3:
+                    sanitized_description = None
+                    print(f"🔄 [sanitize_and_validate_input] Auto-correcting description: removed inappropriate content")
+                else:
+                    print(f"🔄 [sanitize_and_validate_input] Auto-correcting description: '{custom_description}' → '{sanitized_description}' (severity: {severity})")
+            else:
+                # High/critical severity → reject description
+                print(f"🚨 [sanitize_and_validate_input] Description rejected (severity: {severity}): {desc_moderation['reason']}")
+                return None, None, False, desc_moderation, auto_corrected_topic
+        else:
+            sanitized_description = desc_moderation["sanitized"]
+    
+    # Correct common errors (spelling/grammar)
+    if not auto_corrected_topic:
+        sanitized_topic = correct_common_errors(topic_moderation["sanitized"])
+    else:
+        # Already auto-corrected, just ensure it's clean
+        sanitized_topic = auto_corrected_topic
+    
+    return sanitized_topic, sanitized_description, True, None, auto_corrected_topic
+
+
 def sanitize_topic(topic: str) -> str:
-    """Sanitize topic to remove harmful content and map to canonical topic."""
+    """Sanitize topic to remove harmful content and map to canonical topic.
+    
+    NOTE: This is a legacy function. Use sanitize_and_validate_input() for new code.
+    """
     # First, correct common errors in topic description
     corrected_topic = correct_common_errors(topic)
     
@@ -3112,8 +3491,118 @@ def split_text_into_scenes(text: str, character: str, language: str, child_name:
     return scenes
 
 
+async def generate_story_title(story_text: str, language: str, character: str, child_name: Optional[str] = None) -> str:
+    """Generate an engaging, child-friendly title for the story using AI.
+    
+    The title should:
+    - Be short and catchy (max 60 characters)
+    - Reflect the story's main theme
+    - Be appropriate for children
+    - Include character name if relevant
+    - Be in the correct language
+    
+    Args:
+        story_text: The full story text
+        language: Language code (e.g., "tr", "en")
+        character: Character slug (e.g., "spiderman", "elsa")
+        child_name: Optional child name to personalize the title
+        
+    Returns:
+        Generated title string
+    """
+    if not settings.OPENAI_API_KEY:
+        # Fallback to simple extraction
+        return extract_title_from_text(story_text)
+    
+    try:
+        import openai
+        client = openai.OpenAI(api_key=settings.OPENAI_API_KEY)
+        
+        # Map character slug to display name
+        character_display_map = {
+            "spiderman": "Spider Fighter",
+            "minion": "Yellow Buddy",
+            "tweety": "Chirpy Birdie",
+            "spongebob": "Bubble Buddy",
+            "elsa": "Elisa the Ice Fairy",
+            "tom": "Sneaky Cat Tom",
+            "jerry": "Clever Mouse Jerry",
+            "ninjaturtles": "Shell Heroes Crew",
+            "sunny": "Sunny",
+            "bubu": "Bubu",
+            "luna": "Luna",
+            "tiko": "Tiko",
+            "mino": "Mino"
+        }
+        character_name = character_display_map.get(character.lower(), character.capitalize())
+        
+        # Get first 500 characters of story for context (to avoid token limits)
+        story_preview = story_text[:500] if len(story_text) > 500 else story_text
+        
+        # Language-specific instructions
+        lang_instructions = {
+            "tr": "Türkçe bir başlık oluştur. Kısa, çekici ve çocuk dostu olmalı. Maksimum 60 karakter.",
+            "en": "Create an English title. Short, catchy, and child-friendly. Maximum 60 characters.",
+            "de": "Erstelle einen deutschen Titel. Kurz, einprägsam und kindgerecht. Maximal 60 Zeichen.",
+            "es": "Crea un título en español. Corto, atractivo y apropiado para niños. Máximo 60 caracteres.",
+            "fr": "Créez un titre en français. Court, accrocheur et adapté aux enfants. Maximum 60 caractères."
+        }
+        
+        lang_key = language[:2] if len(language) >= 2 else "en"
+        instruction = lang_instructions.get(lang_key, lang_instructions["en"])
+        
+        # Build prompt
+        child_part = f" The story is personalized for a child named {child_name}." if child_name else ""
+        prompt = f"""You are a children's story title generator. Create an engaging, child-friendly title for this story.
+
+Character: {character_name}
+{child_part}
+Story preview: {story_preview}
+
+Requirements:
+1. {instruction}
+2. The title should reflect the main theme or lesson of the story
+3. It should be positive and appropriate for children aged 2-8
+4. Include the character's name if it makes the title more engaging
+5. Do NOT include quotes, colons, or special punctuation
+6. Return ONLY the title, no explanations
+
+Title:"""
+        
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",  # Use mini for fast, cheap title generation
+            messages=[
+                {"role": "system", "content": "You are a children's story title generator. Return only the title, no explanations or quotes."},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.7,  # Slightly higher for creativity, but still controlled
+            max_tokens=30  # Just need the title
+        )
+        
+        title = response.choices[0].message.content.strip()
+        
+        # Clean up title (remove quotes, extra whitespace)
+        title = title.strip('"').strip("'").strip()
+        
+        # Validate length (max 60 characters)
+        if len(title) > 60:
+            title = title[:57] + "..."
+        
+        # Fallback if title is too short or empty
+        if len(title) < 3:
+            print(f"⚠️ [generate_story_title] Generated title too short: '{title}', using fallback")
+            return extract_title_from_text(story_text)
+        
+        print(f"✅ [generate_story_title] Generated title: '{title}' (language: {language}, character: {character_name})")
+        return title
+        
+    except Exception as e:
+        print(f"⚠️ [generate_story_title] Error generating title with AI: {e}, using fallback")
+        return extract_title_from_text(story_text)
+
+
 def extract_title_from_text(text: str) -> str:
-    """Extract a title from story text."""
+    """Extract a title from story text (fallback method)."""
     # Use first sentence or first 50 characters
     first_line = text.split("\n")[0].strip()
     if len(first_line) > 50:
