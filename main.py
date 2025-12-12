@@ -2544,7 +2544,7 @@ async def create_custom_story(
         character_slug = to_character_slug(request.character_id)
         topic_mapped = map_topic(request.topic.lower().strip())
         
-        # Create Firestore document with status="generating"
+        # Create Firestore document with status="text_pending"
         story_data = {
             "id": story_id,
             "title": f"Story about {request.topic[:50]}",  # Temporary title, will be updated by AI
