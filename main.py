@@ -1085,15 +1085,31 @@ async def serve_story(
         print(f"   Full request path: /story/{character}/{topic}?lang={lang}")
         print(f"   User ID: {user_id if user_id else 'None (public story)'}")
         
-        # PRIORITY 1: Check Firestore for user-specific story (if user_id provided)
+        # PRIORITY 1: Check for custom story (ready) - user's own custom story
         if user_id and db:
             character_slug = to_character_slug(character)
-            print(f"🔍 [serve_story] Checking Firestore for user-specific story: user_id={user_id}, character={character_slug}, topic={topic_mapped}, lang={lang}")
             
-            # Query Firestore for matching story
-            # NOTE: We query without order_by to avoid index requirement
-            # We'll sort in Python instead
-            # Using FieldFilter to avoid deprecation warnings
+            # Try deterministic ID first (faster, direct lookup)
+            custom_story_id = generate_custom_story_id(user_id, character_slug, topic_mapped, lang)
+            custom_story = await get_custom_story_by_id(custom_story_id)
+            
+            if custom_story:
+                story_status = custom_story.get("status")
+                story_kind = custom_story.get("kind", "custom")
+                
+                # Only return if it's a custom story and ready
+                if (story_kind == "custom" or story_kind is None) and story_status == "ready":
+                    print(f"✅ [serve_story] Found custom story (ready): {custom_story_id}")
+                    print(f"   Title: {custom_story.get('title', 'N/A')}")
+                    print(f"   Character: {custom_story.get('character_id', 'N/A')}")
+                    print(f"   Topic: {custom_story.get('topic', 'N/A')}")
+                    print(f"   Scenes count: {len(custom_story.get('scenes', []))}")
+                    return JSONResponse(content=custom_story)
+                else:
+                    print(f"ℹ️ [serve_story] Custom story exists but status='{story_status}' (not ready), continuing to system story")
+            
+            # Fallback: Query by fields (for backward compatibility with old story IDs)
+            print(f"🔍 [serve_story] Checking Firestore for custom story (query fallback): user_id={user_id}, character={character_slug}, topic={topic_mapped}, lang={lang}")
             stories_ref = db.collection("stories")
             query = stories_ref.where(filter=FieldFilter("owner_user_id", "==", user_id))\
                               .where(filter=FieldFilter("character_id", "==", character_slug))\
@@ -1103,37 +1119,48 @@ async def serve_story(
             
             try:
                 matching_stories = list(query.stream())
-                print(f"🔍 [serve_story] Firestore query result: {len(matching_stories)} stories found")
                 if matching_stories:
-                    # Sort by created_at descending (most recent first)
-                    matching_stories.sort(
-                        key=lambda doc: doc.to_dict().get("created_at", 0),
-                        reverse=True
-                    )
-                    story_doc = matching_stories[0]
-                    story_data = story_doc.to_dict()
-                    story_id = story_doc.id
-                    
-                    print(f"✅ [serve_story] Found user-specific story in Firestore: {story_id}")
-                    print(f"   Title: {story_data.get('title', 'N/A')}")
-                    print(f"   Character: {story_data.get('character_id', 'N/A')}")
-                    print(f"   Topic: {story_data.get('topic', 'N/A')}")
-                    print(f"   Status: {story_data.get('status', 'N/A')}")
-                    print(f"   Created at: {story_data.get('created_at', 'N/A')}")
-                    print(f"   Scenes count: {len(story_data.get('scenes', []))}")
-                    
-                    # Ensure story_data has all required fields for JSON response
-                    # Firestore story format is already compatible
-                    
-                    # Return JSON response (not FileResponse)
-                    return JSONResponse(content=story_data)
-                else:
-                    print(f"⚠️ [serve_story] No matching stories found in Firestore for user_id={user_id}, character={character_slug}, topic={topic_mapped}, lang={lang}")
+                    # Filter for custom stories only
+                    for story_doc in matching_stories:
+                        story_data = story_doc.to_dict()
+                        story_kind = story_data.get("kind", "custom")
+                        if story_kind == "custom" or story_kind is None:
+                            story_id = story_doc.id
+                            print(f"✅ [serve_story] Found custom story (query fallback): {story_id}")
+                            return JSONResponse(content=story_data)
             except Exception as e:
                 print(f"⚠️ [serve_story] Error querying Firestore: {e}")
                 import traceback
                 print(f"   Traceback: {traceback.format_exc()}")
-                # Continue to local storage fallback
+                pass
+        
+        # PRIORITY 2: Check for system story (ready) - pre-generated stories
+        print(f"🔍 [serve_story] Checking for system story: character={character_slug}, topic={topic_mapped}, lang={lang}")
+        if db:
+            stories_ref = db.collection("stories")
+            system_query = stories_ref.where(filter=FieldFilter("character_id", "==", character_slug))\
+                                     .where(filter=FieldFilter("topic", "==", topic_mapped))\
+                                     .where(filter=FieldFilter("language", "==", lang))\
+                                     .where(filter=FieldFilter("status", "==", "ready"))
+            
+            try:
+                matching_stories = list(system_query.stream())
+                if matching_stories:
+                    # Find system story (kind: "system" or kind missing, owner is None or "system")
+                    for story_doc in matching_stories:
+                        story_data = story_doc.to_dict()
+                        story_kind = story_data.get("kind")
+                        story_owner = story_data.get("owner_user_id")
+                        
+                        is_system = (story_kind == "system" or story_kind is None) and (story_owner is None or story_owner == "system")
+                        if is_system:
+                            story_id = story_doc.id
+                            print(f"✅ [serve_story] Found system story (ready): {story_id}")
+                            print(f"   Title: {story_data.get('title', 'N/A')}")
+                            print(f"   Scenes count: {len(story_data.get('scenes', []))}")
+                            return JSONResponse(content=story_data)
+            except Exception as e:
+                print(f"⚠️ [serve_story] Error querying system story: {e}")
                 pass
         
         # PRIORITY 2: Try each candidate to find existing story in local storage
@@ -2299,6 +2326,57 @@ from models.story_create_models import (
     StoryRequest, CreateStoryResponse, StoryResponse, StoryListResponse, DuplicateStoryRequest
 )
 
+def generate_custom_story_id(user_id: str, character: str, topic: str, lang: str) -> str:
+    """Generate deterministic story ID for custom stories.
+    
+    Format: story_{userId}_{character}_{topic}_{lang}
+    This ensures idempotency: same parameters = same ID = same story.
+    
+    Args:
+        user_id: User ID
+        character: Character ID (e.g., "spongebob", "mino")
+        topic: Canonical topic slug (e.g., "friendship", "bedtime")
+        lang: Language code (e.g., "tr", "en")
+        
+    Returns:
+        Deterministic story ID (e.g., "story_user123_spongebob_friendship_tr")
+    """
+    character_slug = to_character_slug(character)
+    topic_normalized = map_topic(topic.lower().strip())
+    lang_normalized = lang.lower().strip()
+    
+    # Sanitize for Firestore document ID (no special chars)
+    story_id = f"story_{user_id}_{character_slug}_{topic_normalized}_{lang_normalized}"
+    # Replace any invalid characters for Firestore document ID
+    story_id = re.sub(r'[^a-zA-Z0-9_-]', '_', story_id)
+    
+    return story_id
+
+
+async def get_custom_story_by_id(story_id: str) -> Optional[Dict]:
+    """Get custom story by deterministic ID from Firestore.
+    
+    Args:
+        story_id: Deterministic story ID (e.g., "story_user123_spongebob_friendship_tr")
+        
+    Returns:
+        Story document data if found, None otherwise
+    """
+    if not db:
+        return None
+    
+    try:
+        story_ref = db.collection("stories").document(story_id)
+        story_doc = story_ref.get()
+        
+        if story_doc.exists:
+            return story_doc.to_dict()
+        return None
+    except Exception as e:
+        print(f"⚠️ [get_custom_story_by_id] Error fetching story {story_id}: {e}")
+        return None
+
+
 async def check_user_quota(user_id: str, length: str) -> Tuple[bool, int]:
     """Check if user has quota remaining. Returns (has_quota, quota_remaining)."""
     if not db:
@@ -2367,13 +2445,24 @@ async def check_user_entitlement(user_id: str) -> bool:
         return False
 
 
-@app.post("/stories", response_model=CreateStoryResponse)
-async def create_story(
+@app.post("/stories/custom", response_model=CreateStoryResponse)
+async def create_custom_story(
     request: StoryRequest,
     user_id: Optional[str] = Depends(verify_firebase_token)
 ):
-    """Create a new story. Validates quota and enqueues generation job."""
-    print(f"🚀 [POST /stories] ===== STORY CREATION REQUEST ======")
+    """Create or retrieve a custom story.
+    
+    BEST PRACTICE: Deterministic story ID ensures idempotency
+    - doc_id = story_{userId}_{character}_{topic}_{lang}
+    - If doc exists with status in ("generating", "ready") → return same doc (no quota)
+    - If doc doesn't exist or status="failed" → create new (quota deducted)
+    
+    This prevents:
+    - Double requests → single story, single quota
+    - Quota waste on retries
+    - Race conditions in concurrent requests
+    """
+    print(f"🚀 [POST /stories/custom] ===== CUSTOM STORY REQUEST ======")
     print(f"   User ID: {user_id}")
     print(f"   Character ID: {request.character_id}")
     print(f"   Topic: {request.topic}")
@@ -2384,10 +2473,57 @@ async def create_story(
     print(f"   =================================================")
     try:
         if not user_id:
-            print("❌ [POST /stories] No user_id - Authentication required")
+            print("❌ [POST /stories/custom] No user_id - Authentication required")
             raise HTTPException(status_code=401, detail="Authentication required")
         
-        # Validate length for free users
+        # Generate deterministic story ID
+        story_id = generate_custom_story_id(
+            user_id=user_id,
+            character=request.character_id,
+            topic=request.topic,
+            lang=request.language
+        )
+        print(f"🔑 [POST /stories/custom] Deterministic story ID: {story_id}")
+        
+        # CRITICAL: Check if story already exists with status in ("generating", "ready")
+        # If exists → return same doc (no quota, no overwrite, idempotent)
+        existing_story = await get_custom_story_by_id(story_id)
+        if existing_story:
+            existing_status = existing_story.get("status")
+            existing_kind = existing_story.get("kind", "custom")
+            
+            # Only return if it's a custom story (safety check)
+            if existing_kind == "custom" or existing_kind is None:
+                if existing_status in ("text_pending", "generating_text", "audio_pending", "generating", "ready"):
+                    print(f"✅ [POST /stories/custom] Found existing story: {story_id}")
+                    print(f"   Status: {existing_status}, Kind: {existing_kind or 'custom (inferred)'}")
+                    print(f"   Title: {existing_story.get('title', 'N/A')}")
+                    print(f"   Scenes count: {len(existing_story.get('scenes', []))}")
+                    
+                    # Get current quota (no deduction for existing stories)
+                    _, quota_remaining = await check_user_quota(user_id, request.length)
+                    
+                    # Return existing story (idempotent, no quota deduction)
+                    response = CreateStoryResponse(
+                        story_id=story_id,
+                        status=existing_status,
+                        quota_remaining=quota_remaining
+                    )
+                    print(f"📤 [POST /stories/custom] Returning existing story (idempotent, no quota)")
+                    return response
+                elif existing_status == "failed":
+                    print(f"⚠️ [POST /stories/custom] Existing story has status='failed', will create new one")
+                    # Continue to create new story below
+                else:
+                    print(f"ℹ️ [POST /stories/custom] Existing story has status='{existing_status}', will create new one")
+                    # Continue to create new story below
+            else:
+                print(f"⚠️ [POST /stories/custom] Existing story is not custom (kind={existing_kind}), will create new one")
+        
+        # Story doesn't exist or has failed status → create new one
+        print(f"📝 [POST /stories/custom] Creating new custom story: {story_id}")
+        
+        # Validate quota BEFORE creating (only for NEW stories)
         has_quota, quota_remaining = await check_user_quota(user_id, request.length)
         if not has_quota:
             raise HTTPException(
@@ -2404,29 +2540,25 @@ async def create_story(
                     detail="Dreamy stories require a subscription"
                 )
         
-        # Generate story ID
-        story_id = f"story_{user_id}_{int(time.time())}"
+        # Normalize character and topic for storage
+        character_slug = to_character_slug(request.character_id)
+        topic_mapped = map_topic(request.topic.lower().strip())
         
-        # BEST PRACTICE: Log character_id to ensure it's correct
-        print(f"📝 [POST /stories] Creating Firestore document:")
-        print(f"   story_id: {story_id}")
-        print(f"   character_id: {request.character_id} (from request)")
-        print(f"   topic: {request.topic}")
-        
-        # Create Firestore document
+        # Create Firestore document with status="generating"
         story_data = {
             "id": story_id,
-            "title": f"Story about {request.topic[:50]}",  # Temporary title based on canonical topic
-            "status": "text_pending",
-            "character_id": request.character_id,  # Use character_id from request
+            "title": f"Story about {request.topic[:50]}",  # Temporary title, will be updated by AI
+            "status": "text_pending",  # Will transition: text_pending → audio_pending → ready
+            "character_id": character_slug,  # Store normalized character slug
             "language": request.language,
             "owner_user_id": user_id,
-            # Store canonical topic and optional free-form description separately
-            "topic": request.topic,
+            # CRITICAL: topic is the product feature/program identifier (fixed key, not overridden)
+            "topic": topic_mapped,  # Store mapped topic (canonical)
             "custom_description": request.custom_description,
             "child_name": request.child_name,
             "length_type": request.length,
-            "quota_counted": False,
+            "kind": "custom",  # Always "custom" for user-generated stories
+            "quota_counted": True,  # Mark quota as counted (will be deducted)
             "created_at": time.time(),
             "updated_at": time.time()
         }
@@ -2434,6 +2566,8 @@ async def create_story(
         if db:
             story_ref = db.collection("stories").document(story_id)
             story_ref.set(story_data)
+            print(f"✅ [POST /stories/custom] Created Firestore document: {story_id}")
+            print(f"   Character: {character_slug}, Topic: {topic_mapped}, Status: generating")
         
         # Enqueue generation job (async, non-blocking)
         import asyncio
@@ -2441,28 +2575,22 @@ async def create_story(
         
         response = CreateStoryResponse(
             story_id=story_id,
-            status="text_pending",
-            quota_remaining=quota_remaining
+            status="text_pending",  # Story is being generated
+            quota_remaining=quota_remaining - 1  # Deduct quota for NEW story
         )
         
         # Log response for debugging
-        print(f"📤 [POST /stories] Returning response:")
+        print(f"📤 [POST /stories/custom] Returning response:")
         print(f"   story_id: {response.story_id}")
         print(f"   status: {response.status}")
-        print(f"   quota_remaining: {response.quota_remaining}")
-        print(f"   Response dict: {response.dict()}")
-        
-        # Serialize to JSON to verify format
-        import json as json_lib
-        response_json = json_lib.dumps(response.dict(), ensure_ascii=False)
-        print(f"📤 [POST /stories] Response JSON: {response_json}")
+        print(f"   quota_remaining: {response.quota_remaining} (quota deducted for new story)")
         
         return response
         
     except HTTPException:
         raise
     except Exception as e:
-        print(f"❌ Error creating story: {e}")
+        print(f"❌ [POST /stories/custom] Error creating custom story: {e}")
         import traceback
         traceback.print_exc()
         raise HTTPException(status_code=500, detail=str(e))
@@ -2684,6 +2812,7 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 "scenes": scenes,  # Add scene structure
                 "title": story_title,  # AI-generated title
                 "topic": mapped_topic,  # CRITICAL: Update to mapped topic for query consistency
+                "kind": "custom",  # Ensure kind field is preserved (custom stories are always "custom")
                 "status": "audio_pending",
                 "audio_progress": {
                     "completed": 0,
@@ -3892,7 +4021,7 @@ async def duplicate_story(
         )
         
         # Create new story
-        return await create_story(story_request, user_id)
+        return await create_custom_story(story_request, user_id)
         
     except HTTPException:
         raise
