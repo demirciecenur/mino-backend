@@ -3389,17 +3389,58 @@ async def generate_story_audio(text: str, character_id: str, language: str) -> s
 
 
 async def get_audio_duration(audio_url: str) -> int:
-    """Get audio duration in seconds."""
+    """Get audio duration in seconds.
+    
+    PREFERRED: Read from local file (faster, no SSL issues)
+    FALLBACK: Download from URL if local file not found
+    """
     try:
-        # Download audio temporarily
+        # PREFERRED: Try to extract local file path from audio_url
+        # Format: https://64.226.88.203/local-audio/{character}_{topic}_{storyId}_{sceneIndex}?lang={lang}
+        # Local path: AUDIO_BASE_DIR / character / lang / {topic}_{storyId}_{sceneIndex}.wav
+        from urllib.parse import urlparse, parse_qs
+        
+        parsed_url = urlparse(audio_url)
+        audio_id = parsed_url.path.split('/')[-1]  # e.g., "sunny_bedtime_storyId_0.wav"
+        lang = parse_qs(parsed_url.query).get('lang', ['en'])[0]
+        
+        # Remove extension
+        audio_id_clean = audio_id.replace('.wav', '').replace('.mp3', '')
+        parts = audio_id_clean.split('_')
+        
+        if len(parts) >= 3:
+            character = parts[0].lower()
+            # Try to find local file (check both .wav and .mp3)
+            for ext in ['.wav', '.mp3']:
+                # Try with story ID (custom story format)
+                if len(parts) >= 4:
+                    # Format: character_topic_storyId_sceneIndex
+                    topic_and_story = '_'.join(parts[1:-1])  # Everything except first (character) and last (sceneIndex)
+                    scene_index = parts[-1]
+                    local_path = AUDIO_BASE_DIR / character / lang / f"{topic_and_story}_{scene_index}{ext}"
+                else:
+                    # Format: character_topic_sceneIndex (system story)
+                    topic = '_'.join(parts[1:-1])
+                    scene_index = parts[-1]
+                    local_path = AUDIO_BASE_DIR / character / lang / f"{topic}_{scene_index}{ext}"
+                
+                if local_path.exists() and local_path.stat().st_size > 0:
+                    print(f"✅ [get_audio_duration] Using local file: {local_path}")
+                    probe = ffmpeg.probe(str(local_path))
+                    duration = float(probe["format"]["duration"])
+                    return int(duration)
+        
+        # FALLBACK: Download from URL if local file not found
+        print(f"⚠️ [get_audio_duration] Local file not found, downloading from URL: {audio_url}")
         import httpx
-        async with httpx.AsyncClient() as client:
-            response = await client.get(audio_url)
+        # Disable SSL verification for self-signed certificates (temporary workaround)
+        async with httpx.AsyncClient(verify=False) as client:
+            response = await client.get(audio_url, timeout=30.0)
             audio_data = response.content
         
         # Use ffmpeg to get duration
         import tempfile
-        with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as tmp:
+        with tempfile.NamedTemporaryFile(suffix=".wav", delete=False) as tmp:
             tmp.write(audio_data)
             tmp_path = tmp.name
         
@@ -3410,6 +3451,8 @@ async def get_audio_duration(audio_url: str) -> int:
         return int(duration)
     except Exception as e:
         print(f"⚠️ Error getting audio duration: {e}")
+        import traceback
+        traceback.print_exc()
         return 180  # Default 3 minutes
 
 
