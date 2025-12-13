@@ -2830,6 +2830,9 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             debug_request_payload=debug_request_payload  # CONTROL 2: For prompt verification
         )
         
+        # ✅ STORY CREATED
+        print(f"✅ STORY CREATED: story_id={story_id}, character={character_slug}, topic={mapped_topic}, lang={request.language}, scenes={len(scenes)}")
+        
         # BEST PRACTICE: Split text into scenes with videoKeys
         # This enables proper character animation during playback
         # Use normalized character slug for consistency
@@ -3053,6 +3056,9 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             
             story_ref.update(update_data)
             print(f"📊 [generate_story_async] Final progress: {completed_count}/{total_scenes} scenes completed (100%)")
+            
+            # ✅ AUDIO FILES CREATED
+            print(f"✅ AUDIO FILES CREATED: story_id={story_id}, character={character_slug}, total_scenes={total_scenes}, total_duration={int(total_duration)}s")
         
         # BEST PRACTICE: Also save story to local storage for compatibility with /story/{character}/{topic} endpoint
         # This enables the endpoint to find user-generated stories in local storage as well
@@ -3105,6 +3111,9 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             traceback.print_exc()
         
         print(f"✅ Story {story_id} generated successfully - All {completed_count} audio files completed")
+        
+        # ✅ READY
+        print(f"✅ READY: story_id={story_id}, character={character_slug}, topic={mapped_topic}, status=ready, audio_files={completed_count}/{total_scenes}")
         
     except Exception as e:
         print(f"❌ Error generating story {story_id}: {e}")
