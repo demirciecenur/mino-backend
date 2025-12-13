@@ -2332,6 +2332,48 @@ from models.story_create_models import (
     StoryRequest, CreateStoryResponse, StoryResponse, StoryListResponse, DuplicateStoryRequest
 )
 
+def normalize_topic_for_id(topic: str) -> str:
+    """Normalize topic string for use in story ID (Firestore document ID).
+    
+    Converts Turkish characters to ASCII equivalents:
+    ç→c, ğ→g, ş→s, ü→u, ö→o, ı→i, İ→I
+    
+    Args:
+        topic: Topic string (e.g., "çikolata yememe", "nutrition")
+        
+    Returns:
+        Normalized topic slug safe for Firestore document IDs
+    """
+    # Turkish character mapping to ASCII
+    turkish_to_ascii = {
+        'ç': 'c', 'Ç': 'C',
+        'ğ': 'g', 'Ğ': 'G',
+        'ş': 's', 'Ş': 'S',
+        'ü': 'u', 'Ü': 'U',
+        'ö': 'o', 'Ö': 'O',
+        'ı': 'i', 'İ': 'I'
+    }
+    
+    # Replace Turkish characters
+    normalized = topic
+    for turkish, ascii_char in turkish_to_ascii.items():
+        normalized = normalized.replace(turkish, ascii_char)
+    
+    # Convert to lowercase and strip
+    normalized = normalized.lower().strip()
+    
+    # Replace spaces and other invalid chars with underscores
+    normalized = re.sub(r'[^a-zA-Z0-9_-]', '_', normalized)
+    
+    # Remove multiple consecutive underscores
+    normalized = re.sub(r'_+', '_', normalized)
+    
+    # Remove leading/trailing underscores
+    normalized = normalized.strip('_')
+    
+    return normalized
+
+
 def generate_custom_story_id(user_id: str, character: str, topic: str, lang: str) -> str:
     """Generate deterministic story ID for custom stories.
     
@@ -2341,20 +2383,33 @@ def generate_custom_story_id(user_id: str, character: str, topic: str, lang: str
     Args:
         user_id: User ID
         character: Character ID (e.g., "spongebob", "mino")
-        topic: Canonical topic slug (e.g., "friendship", "bedtime")
+        topic: Topic string (e.g., "çikolata yememe", "nutrition")
         lang: Language code (e.g., "tr", "en")
         
     Returns:
         Deterministic story ID (e.g., "story_user123_spongebob_friendship_tr")
     """
     character_slug = to_character_slug(character)
-    topic_normalized = map_topic(topic.lower().strip())
+    
+    # CRITICAL: Normalize topic to handle Turkish characters properly
+    # First try to map to canonical topic, then normalize for ID
+    topic_mapped = map_topic(topic.lower().strip())
+    # If mapping didn't change the topic (no canonical match), use original
+    if topic_mapped == topic.lower().strip():
+        topic_normalized = normalize_topic_for_id(topic)
+    else:
+        # Use mapped canonical topic (already ASCII-safe)
+        topic_normalized = normalize_topic_for_id(topic_mapped)
+    
     lang_normalized = lang.lower().strip()
     
-    # Sanitize for Firestore document ID (no special chars)
+    # Build story ID
     story_id = f"story_{user_id}_{character_slug}_{topic_normalized}_{lang_normalized}"
-    # Replace any invalid characters for Firestore document ID
+    
+    # Final sanitization for Firestore document ID (should already be safe, but double-check)
     story_id = re.sub(r'[^a-zA-Z0-9_-]', '_', story_id)
+    story_id = re.sub(r'_+', '_', story_id)  # Remove multiple underscores
+    story_id = story_id.strip('_')
     
     return story_id
 
