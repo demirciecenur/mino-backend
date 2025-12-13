@@ -36,6 +36,11 @@ class Settings:
     FIREBASE_SERVICE_ACCOUNT_PATH: str = str(_firebase_path_rel if _firebase_path_rel.exists() else _firebase_path_cur)
     FIREBASE_FIRESTORE_DATABASE: str = os.getenv('FIREBASE_FIRESTORE_DATABASE', 'mino')  # Firestore database name
     
+    # Backend Base URL for audio URLs (used by iOS app)
+    # Production: https://64.226.88.203 (or domain if configured)
+    # Development: http://127.0.0.1:8000
+    BACKEND_BASE_URL: str = os.getenv('BACKEND_BASE_URL', 'https://64.226.88.203')
+    
     # Audio Storage Paths
     # Note: Audio files are stored in backend/storage/characters (based on backend logs)
     # Backend logs show: /Users/ecenurgezsat/Projects/mino/backend/storage/characters/luna/en/bedtime_0.wav

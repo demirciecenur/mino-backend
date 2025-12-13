@@ -787,7 +787,7 @@ async def generate_tts(
             # Found existing audio in correct language directory
             audio_ext = '.mp3' if local_audio_path_mp3.exists() else '.wav'
             print(f"✅ [TTS] Using existing audio: {audio_basename}{audio_ext} (lang={lang}, character={character_normalized}, story_id={story_id})")
-            return f"http://127.0.0.1:8000/local-audio/{key}{audio_ext}?lang={lang}"
+            return f"{settings.BACKEND_BASE_URL}/local-audio/{key}{audio_ext}?lang={lang}"
         else:
             # Audio file doesn't exist in correct language directory
             # Check if it exists in wrong language (for debugging)
@@ -803,7 +803,7 @@ async def generate_tts(
                 print(f"ℹ️ [TTS] Audio file not found: {audio_filename} (lang={lang}), will generate new audio")
     else:
         # No scene context → do not write legacy files; return mock
-        return f"http://127.0.0.1:8000/mock-audio/{hashlib.sha256(text.encode()).hexdigest()}.wav"
+        return f"{settings.BACKEND_BASE_URL}/mock-audio/{hashlib.sha256(text.encode()).hexdigest()}.wav"
 
     # Generate via ElevenLabs (FAL)
     # Get character voice settings - try exact match, then case-insensitive, then default
@@ -857,12 +857,12 @@ async def generate_tts(
             else:
                 key = f"{character_normalized}_{topic}_{scene_index}"
             print(f"✅ [TTS] Saved audio: {audio_filename} (lang={lang}, character={character_normalized}, story_id={story_id}, path={character_dir})")
-            return f"http://127.0.0.1:8000/local-audio/{key}{audio_ext}?lang={lang}"
+            return f"{settings.BACKEND_BASE_URL}/local-audio/{key}{audio_ext}?lang={lang}"
         except Exception as e:
             print(f"❌ Local storage failed: {e}")
-            return f"http://127.0.0.1:8000/mock-audio/{character_normalized}_{topic}_{scene_index}.wav"
+            return f"{settings.BACKEND_BASE_URL}/mock-audio/{character_normalized}_{topic}_{scene_index}.wav"
     else:
-        return f"http://127.0.0.1:8000/mock-audio/{character_normalized}_{topic}_{scene_index}.wav"
+        return f"{settings.BACKEND_BASE_URL}/mock-audio/{character_normalized}_{topic}_{scene_index}.wav"
 
 # LLM Service
 async def generate_llm_response(template: str, vars: dict) -> str:
