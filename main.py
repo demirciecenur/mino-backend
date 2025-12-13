@@ -769,7 +769,7 @@ async def generate_tts(
             audio_basename = f"{topic_file}_{safe_story_suffix}_{scene_index}"
         else:
             # Legacy/shared bundle behaviour (pre-generated content)
-            key = f"{character_normalized}_{topic_file}_{scene_index}"
+        key = f"{character_normalized}_{topic_file}_{scene_index}"
             audio_basename = f"{topic_file}_{scene_index}"
 
         # Language-specific audio path: {character}/{lang}/{topic}_{scene_index}[_{story}] .wav
@@ -1097,13 +1097,19 @@ async def serve_story(
                 story_status = custom_story.get("status")
                 story_kind = custom_story.get("kind", "custom")
                 
-                # Only return if it's a custom story and ready
+                # CONTROL 4: Only return if it's a custom story and ready (custom > system priority)
                 if (story_kind == "custom" or story_kind is None) and story_status == "ready":
                     print(f"✅ [serve_story] Found custom story (ready): {custom_story_id}")
                     print(f"   Title: {custom_story.get('title', 'N/A')}")
                     print(f"   Character: {custom_story.get('character_id', 'N/A')}")
                     print(f"   Topic: {custom_story.get('topic', 'N/A')}")
                     print(f"   Scenes count: {len(custom_story.get('scenes', []))}")
+                    # CONTROL 4: Verify request_payload matches (if available)
+                    request_payload = custom_story.get('request_payload')
+                    if request_payload:
+                        print(f"   📋 [serve_story] Request payload verification:")
+                        print(f"      Original character: {request_payload.get('character_id', 'N/A')}")
+                        print(f"      Original topic: {request_payload.get('topic', 'N/A')}")
                     return JSONResponse(content=custom_story)
                 else:
                     print(f"ℹ️ [serve_story] Custom story exists but status='{story_status}' (not ready), continuing to system story")
@@ -1195,7 +1201,7 @@ async def serve_story(
                         else:
                             # Pre-generated story - use as fallback if no custom story found
                             if not custom_story_path:
-                                story_path = candidate_path
+                        story_path = candidate_path
                                 print(f"✅ [serve_story] Found pre-generated story: {story_path} (lang={lang}, size: {file_size} bytes, topic: {story_topic})")
                     except (json.JSONDecodeError, KeyError, Exception) as e:
                         print(f"⚠️ [serve_story] Failed to validate story topic in {candidate_path}: {e}")
@@ -1213,7 +1219,7 @@ async def serve_story(
             print(f"📤 [serve_story] Returning pre-generated story from local storage: {story_path}")
             return FileResponse(str(story_path), media_type="application/json")
         
-        # CRITICAL: Don't log "not found" for every candidate - only log summary if none found
+            # CRITICAL: Don't log "not found" for every candidate - only log summary if none found
         
         # Story not found - automatically compose it in background and return 202 Accepted
         # This prevents timeout issues - client can retry after composition completes
@@ -2544,6 +2550,18 @@ async def create_custom_story(
         character_slug = to_character_slug(request.character_id)
         topic_mapped = map_topic(request.topic.lower().strip())
         
+        # CONTROL 1: Store original request payload for traceability
+        request_payload = {
+            "character_id": request.character_id,  # Original from UI
+            "character_slug": character_slug,  # Normalized
+            "topic": request.topic,  # Original from UI
+            "topic_mapped": topic_mapped,  # Canonical mapped
+            "language": request.language,
+            "length": request.length,
+            "child_name": request.child_name,
+            "custom_description": request.custom_description
+        }
+        
         # Create Firestore document with status="text_pending"
         story_data = {
             "id": story_id,
@@ -2559,6 +2577,7 @@ async def create_custom_story(
             "length_type": request.length,
             "kind": "custom",  # Always "custom" for user-generated stories
             "quota_counted": True,  # Mark quota as counted (will be deducted)
+            "request_payload": request_payload,  # CONTROL 1: Original request for traceability
             "created_at": time.time(),
             "updated_at": time.time()
         }
@@ -2731,6 +2750,18 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         else:
             prompt_topic = mapped_topic
         
+        # CONTROL 2: Prepare debug request payload for prompt
+        debug_request_payload = {
+            "character_id_original": request.character_id,
+            "character_slug_normalized": character_slug,
+            "topic_original": request.topic,
+            "topic_mapped": mapped_topic,
+            "language": request.language,
+            "length": request.length,
+            "child_name": request.child_name,
+            "custom_description": request.custom_description
+        }
+        
         # Generate story with OpenAI
         story_text = await generate_story_text(
             topic=prompt_topic,
@@ -2740,7 +2771,8 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             max_tokens=config["max_tokens"],
             target_duration_min=config["duration_min"],
             target_duration_max=config["duration_max"],
-            target_words=config["target_words"]
+            target_words=config["target_words"],
+            debug_request_payload=debug_request_payload  # CONTROL 2: For prompt verification
         )
         
         # BEST PRACTICE: Split text into scenes with videoKeys
@@ -2801,6 +2833,26 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             child_name=request.child_name
         )
         
+        # CONTROL 3: Extract characters used in generated story (for verification)
+        # Check if the requested character name appears in the story text
+        character_display_map = {
+            "spiderman": "Spider Fighter",
+            "minion": "Yellow Buddy",
+            "tweety": "Chirpy Birdie",
+            "spongebob": "Bubble Buddy",
+            "elsa": "Elisa the Ice Fairy",
+            "tom": "Sneaky Cat Tom",
+            "jerry": "Clever Mouse Jerry",
+            "ninjaturtles": "Shell Heroes Crew"
+        }
+        requested_character_name = character_display_map.get(character_slug, character_slug.capitalize())
+        characters_used = []
+        if requested_character_name.lower() in story_text.lower():
+            characters_used.append(requested_character_name)
+        # Also check for character slug
+        if character_slug.lower() in story_text.lower():
+            characters_used.append(character_slug)
+        
         # Save text, scenes, and title to Firestore
         # CRITICAL: Update topic field to mapped_topic for consistency
         # This ensures Firestore queries can find stories by mapped topic (e.g., "sharing" not "friendship")
@@ -2818,6 +2870,9 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                     "completed": 0,
                     "total": total_scenes
                 },
+                # CONTROL 3: Store generated text and characters used for verification
+                "generated_text": story_text,  # Full generated story text
+                "characters_used": characters_used,  # Characters actually used in story
                 "updated_at": time.time()
             })
             print(f"📝 [generate_story_async] Updated topic field: '{request.topic}' → '{mapped_topic}'")
@@ -3019,7 +3074,8 @@ async def generate_story_text(
     target_duration_min: int = 2,
     target_duration_max: int = 3,
     target_words: int = 300,
-    strict_safety: bool = False
+    strict_safety: bool = False,
+    debug_request_payload: Optional[dict] = None  # CONTROL 2: For prompt verification
 ) -> str:
     """Generate story text using OpenAI with target duration.
     
@@ -3153,6 +3209,21 @@ Create a calming, age-appropriate bedtime story that takes approximately {target
 CRITICAL: Filter out any inappropriate words or themes. The story must be completely safe for children.
 
 Story:"""
+    
+    # CONTROL 2: Add debug request payload to prompt for verification
+    if debug_request_payload:
+        import json
+        debug_section = f"""
+
+DEBUG REQUEST PAYLOAD (for verification only - do not change these values):
+{json.dumps(debug_request_payload, indent=2, ensure_ascii=False)}
+
+CRITICAL: The story MUST use the character and topic from the debug_request_payload above.
+- Character: {debug_request_payload.get('character_slug_normalized', character)}
+- Topic: {debug_request_payload.get('topic_mapped', topic)}
+- Child Name: {debug_request_payload.get('child_name', child_name or 'N/A')}
+"""
+        prompt += debug_section
     
     print(f"📝 [generate_story_text] Generating story:")
     print(f"   Character: {character} (display: {character_name})")
