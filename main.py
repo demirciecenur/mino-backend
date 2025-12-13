@@ -769,7 +769,7 @@ async def generate_tts(
             audio_basename = f"{topic_file}_{safe_story_suffix}_{scene_index}"
         else:
             # Legacy/shared bundle behaviour (pre-generated content)
-            key = f"{character_normalized}_{topic_file}_{scene_index}"
+        key = f"{character_normalized}_{topic_file}_{scene_index}"
             audio_basename = f"{topic_file}_{scene_index}"
 
         # Language-specific audio path: {character}/{lang}/{topic}_{scene_index}[_{story}] .wav
@@ -1201,7 +1201,7 @@ async def serve_story(
                         else:
                             # Pre-generated story - use as fallback if no custom story found
                             if not custom_story_path:
-                                story_path = candidate_path
+                        story_path = candidate_path
                                 print(f"✅ [serve_story] Found pre-generated story: {story_path} (lang={lang}, size: {file_size} bytes, topic: {story_topic})")
                     except (json.JSONDecodeError, KeyError, Exception) as e:
                         print(f"⚠️ [serve_story] Failed to validate story topic in {candidate_path}: {e}")
@@ -2914,12 +2914,21 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         # Save text, scenes, and title to Firestore
         # CRITICAL: Update topic field to mapped_topic for consistency
         # This ensures Firestore queries can find stories by mapped topic (e.g., "sharing" not "friendship")
+        # CRITICAL: Add audio_url: None to each scene so iOS can decode the field (even if null)
+        # This prevents iOS decoding errors when story is in audio_pending status
+        scenes_with_audio_url = []
+        for scene in scenes:
+            scene_copy = scene.copy()
+            if "audio_url" not in scene_copy:
+                scene_copy["audio_url"] = None  # Add null audio_url so iOS can decode the field
+            scenes_with_audio_url.append(scene_copy)
+        
         if db:
             story_ref = db.collection("stories").document(story_id)
-            total_scenes = len(scenes)
+            total_scenes = len(scenes_with_audio_url)
             story_ref.update({
                 "text": story_text,
-                "scenes": scenes,  # Add scene structure
+                "scenes": scenes_with_audio_url,  # Add scene structure with audio_url: None for pending scenes
                 "title": story_title,  # AI-generated title
                 "topic": mapped_topic,  # CRITICAL: Update to mapped topic for query consistency
                 "kind": "custom",  # Ensure kind field is preserved (custom stories are always "custom")
@@ -3038,6 +3047,16 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         if db:
             story_ref = db.collection("stories").document(story_id)
             completed_count = len(scene_audios)
+            
+            # Debug: Verify scenes have audio_url before saving
+            print(f"🔍 [generate_story_async] Verifying scenes before saving to Firestore:")
+            for i, scene in enumerate(scenes):
+                if isinstance(scene, dict):
+                    has_audio = "audio_url" in scene and scene.get("audio_url") is not None
+                    print(f"   Scene {i} (id={scene.get('id', 'N/A')}): audio_url={'✅ ' + scene.get('audio_url', 'N/A') if has_audio else '❌ MISSING'}")
+                else:
+                    print(f"   Scene {i}: Not a dict (type={type(scene)})")
+            
             update_data = {
                 "scenes": scenes,  # Update scenes with audio_url for each scene
                 "status": "ready",
@@ -4055,6 +4074,18 @@ async def get_story(
         print(f"   character_id: {story_data.get('character_id', 'N/A')}")
         print(f"   language: {story_data.get('language', 'N/A')}")
         print(f"   All fields: {list(story_data.keys())}")
+        
+        # Debug: Log scenes array structure
+        if "scenes" in story_data and story_data["scenes"]:
+            scenes = story_data["scenes"]
+            print(f"   📋 [GET /stories/{story_id}] Scenes array has {len(scenes)} scenes")
+            if len(scenes) > 0:
+                first_scene = scenes[0]
+                print(f"   📋 [GET /stories/{story_id}] First scene keys: {list(first_scene.keys()) if isinstance(first_scene, dict) else 'Not a dict'}")
+                if isinstance(first_scene, dict) and "audio_url" in first_scene:
+                    print(f"   ✅ [GET /stories/{story_id}] First scene has audio_url: {first_scene.get('audio_url', 'N/A')}")
+                else:
+                    print(f"   ⚠️ [GET /stories/{story_id}] First scene does NOT have audio_url field")
         
         # Ensure all required fields are present
         if "character_id" not in story_data:
