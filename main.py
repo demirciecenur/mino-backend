@@ -2830,9 +2830,6 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             debug_request_payload=debug_request_payload  # CONTROL 2: For prompt verification
         )
         
-        # ✅ STORY CREATED
-        print(f"✅ STORY CREATED: story_id={story_id}, character={character_slug}, topic={mapped_topic}, lang={request.language}, scenes={len(scenes)}")
-        
         # BEST PRACTICE: Split text into scenes with videoKeys
         # This enables proper character animation during playback
         # Use normalized character slug for consistency
@@ -2842,6 +2839,9 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             language=request.language,
             child_name=request.child_name
         )
+        
+        # ✅ STORY CREATED
+        print(f"✅ STORY CREATED: story_id={story_id}, character={character_slug}, topic={mapped_topic}, lang={request.language}, scenes={len(scenes)}")
         
         # CRITICAL: Validate generated story content (output moderation)
         print(f"🛡️ [generate_story_async] Validating generated story content...")
@@ -3120,11 +3120,23 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         import traceback
         traceback.print_exc()
         
-        # Mark as failed
+        # Mark as failed with user-friendly error message
         if db:
             story_ref = db.collection("stories").document(story_id)
+            # Create user-friendly failure message
+            error_str = str(e)
+            if "scenes" in error_str.lower() or "unboundlocalerror" in error_str.lower():
+                failure_reason = "An internal error occurred while generating the story. Please try again."
+            elif "timeout" in error_str.lower():
+                failure_reason = "The story generation took too long. Please try again with a shorter story length."
+            elif "quota" in error_str.lower() or "limit" in error_str.lower():
+                failure_reason = "Story generation limit reached. Please try again later or upgrade your plan."
+            else:
+                failure_reason = "An error occurred while generating the story. Please try again with a different topic."
+            
             story_ref.update({
                 "status": "failed",
+                "failure_reason": failure_reason,
                 "updated_at": time.time()
             })
 
