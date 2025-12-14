@@ -16,7 +16,7 @@ import uuid
 from typing import Optional, Tuple, List, Dict
 import json
 import hashlib
-from datetime import datetime
+from datetime import datetime, timedelta
 import struct
 import shutil
 from pathlib import Path
@@ -2438,9 +2438,73 @@ async def get_custom_story_by_id(story_id: str) -> Optional[Dict]:
         return None
 
 
-async def check_user_quota(user_id: str, length: str) -> Tuple[bool, int]:
-    """Check if user has quota remaining. Returns (has_quota, quota_remaining)."""
+async def check_rate_limit(user_id: str, is_subscriber: bool) -> Tuple[bool, str]:
+    """
+    Check rate limiting for story creation (abuse prevention).
+    Returns (allowed, reason).
+    
+    Rate limits:
+    - Free users: 3 stories/month (handled by quota check)
+    - Subscribers: Fair use policy
+      - Max 10 stories/hour (prevents spam/abuse)
+      - Max 50 stories/day (fair use limit)
+      - Max 200 stories/week (reasonable weekly limit)
+    """
     if not db:
+        return True, "Firestore unavailable"
+    
+    if not is_subscriber:
+        # Free users: rate limiting handled by quota check
+        return True, "Free user (quota check applies)"
+    
+    try:
+        now = datetime.now()
+        hour_ago = now - timedelta(hours=1)
+        day_ago = now - timedelta(days=1)
+        week_ago = now - timedelta(days=7)
+        
+        stories_ref = db.collection("stories")
+        
+        # Check hourly limit (10 stories/hour)
+        hour_query = stories_ref.where(filter=FieldFilter("owner_user_id", "==", user_id))\
+                               .where(filter=FieldFilter("created_at", ">=", hour_ago.timestamp()))
+        hour_count = len(list(hour_query.stream()))
+        if hour_count >= 10:
+            return False, f"Rate limit exceeded: {hour_count} stories in the last hour (max 10/hour)"
+        
+        # Check daily limit (50 stories/day)
+        day_query = stories_ref.where(filter=FieldFilter("owner_user_id", "==", user_id))\
+                               .where(filter=FieldFilter("created_at", ">=", day_ago.timestamp()))
+        day_count = len(list(day_query.stream()))
+        if day_count >= 50:
+            return False, f"Rate limit exceeded: {day_count} stories today (max 50/day)"
+        
+        # Check weekly limit (200 stories/week)
+        week_query = stories_ref.where(filter=FieldFilter("owner_user_id", "==", user_id))\
+                                .where(filter=FieldFilter("created_at", ">=", week_ago.timestamp()))
+        week_count = len(list(week_query.stream()))
+        if week_count >= 200:
+            return False, f"Rate limit exceeded: {week_count} stories this week (max 200/week)"
+        
+        print(f"✅ [check_rate_limit] Rate limits OK: {hour_count}/10 hour, {day_count}/50 day, {week_count}/200 week")
+        return True, f"Rate limits OK ({hour_count}/10 hour, {day_count}/50 day, {week_count}/200 week)"
+    except Exception as e:
+        print(f"⚠️ [check_rate_limit] Error checking rate limits: {e}")
+        # Allow on error (fail open for better UX)
+        return True, f"Rate limit check error: {e}"
+
+
+async def check_user_quota(user_id: str, length: str) -> Tuple[bool, int]:
+    """
+    Check if user has quota remaining. Returns (has_quota, quota_remaining).
+    
+    Quota rules:
+    - Free users: 3 quick stories/month
+    - Subscribers: Unlimited quota (with fair use rate limits)
+    """
+    print(f"🔍 [check_user_quota] Checking quota for user: {user_id}, length: {length}")
+    if not db:
+        print(f"⚠️ [check_user_quota] Firestore unavailable, allowing request")
         return True, 999  # Allow if Firestore unavailable
     
     try:
@@ -2449,19 +2513,85 @@ async def check_user_quota(user_id: str, length: str) -> Tuple[bool, int]:
         subscription_doc = subscription_ref.get()
         
         has_subscription = False
+        is_trial = False
+        is_grace_period = False
+        product_id = None
         if subscription_doc.exists:
             sub_data = subscription_doc.to_dict()
+            print(f"🔍 [check_user_quota] Subscription document found: {list(sub_data.keys())}")
             expires_ms = sub_data.get("expires_date_ms")
+            product_id = sub_data.get("product_id", "")
+            is_trial = sub_data.get("is_trial_period", False)
+            trial_end_ms = sub_data.get("trial_end_date_ms")
+            will_renew = sub_data.get("will_renew", False)  # RevenueCat grace period indicator
+            
             if expires_ms:
                 expires_at = datetime.fromtimestamp(expires_ms / 1000)
-                has_subscription = expires_at > datetime.now()
+                now = datetime.now()
+                
+                # RevenueCat manages subscription states - we only read the flags
+                # 1. If expires_at > now: Active subscription
+                # 2. If expires_at < now but will_renew = True: Grace period (RevenueCat manages this)
+                # 3. If is_trial_period = True: Trial period (RevenueCat manages this)
+                
+                has_subscription = expires_at > now
+                
+                # RevenueCat grace period: If willRenew is True, user is in grace period (RevenueCat manages duration)
+                # We don't calculate grace period duration - RevenueCat handles this
+                if will_renew and expires_at < now:
+                    is_grace_period = True
+                    has_subscription = True  # Grant access during grace period (RevenueCat manages this)
+                    print(f"⏳ [check_user_quota] User is in GRACE PERIOD (RevenueCat managed, will_renew={will_renew})")
+                
+                # RevenueCat trial period: If is_trial_period is True, user is in trial (RevenueCat manages duration)
+                # We don't calculate trial duration - RevenueCat handles this
+                if is_trial:
+                    print(f"🎁 [check_user_quota] User is in TRIAL period (RevenueCat managed, is_trial_period={is_trial})")
+                
+                print(f"📅 [check_user_quota] Subscription expires_at: {expires_at}, now: {now}, is_active: {has_subscription}, is_trial: {is_trial}, is_grace_period: {is_grace_period}, will_renew: {will_renew}")
+                if product_id:
+                    print(f"📦 [check_user_quota] Product ID: {product_id} (monthly/yearly)")
+            else:
+                print(f"⚠️ [check_user_quota] Subscription document exists but expires_date_ms is missing")
+        else:
+            print(f"⚠️ [check_user_quota] No subscription document found for user: {user_id}")
+            print(f"   Checking if subscription exists in 'parents' collection...")
+            # Also check parents collection for backward compatibility
+            parents_ref = db.collection("parents").document(user_id)
+            parents_doc = parents_ref.get()
+            if parents_doc.exists:
+                parents_data = parents_doc.to_dict()
+                subscription_data = parents_data.get("subscription")
+                if subscription_data:
+                    print(f"   Found subscription in parents collection: {list(subscription_data.keys())}")
+                    expires_at_field = subscription_data.get("expires_at")
+                    if expires_at_field:
+                        # Firestore Timestamp to datetime
+                        if hasattr(expires_at_field, 'timestamp'):
+                            expires_at = datetime.fromtimestamp(expires_at_field.timestamp())
+                        else:
+                            expires_at = datetime.fromtimestamp(expires_at_field / 1000)
+                        has_subscription = expires_at > datetime.now()
+                        print(f"   Subscription from parents: expires_at={expires_at}, is_active={has_subscription}")
         
-        # Subscribers have unlimited quota
-        if has_subscription:
+        print(f"📊 [check_user_quota] Subscription status: has_subscription={has_subscription}, is_trial={is_trial}, is_grace_period={is_grace_period}")
+        
+        # RevenueCat manages all subscription states - we only read the flags
+        # Trial, grace period, and active subscription all get unlimited quota
+        if is_trial or is_grace_period or has_subscription:
+            status_type = "TRIAL" if is_trial else ("GRACE PERIOD" if is_grace_period else "ACTIVE SUBSCRIPTION")
+            print(f"✅ [check_user_quota] User has {status_type} (RevenueCat managed) - unlimited quota (with fair use rate limits)")
+            # Rate limiting will be checked separately in create_custom_story
             return True, 999
+        
+        # Free users (no trial, no subscription): 
+        # OPTION 1: 3 quick stories/month (teaser/retention)
+        # OPTION 2: 0 stories (paywall - force subscription)
+        # Currently using OPTION 1 for better UX and retention
         
         # Free users: check monthly quota (3 quick stories per month)
         if length != "quick":
+            print(f"❌ [check_user_quota] Non-quick stories require subscription")
             return False, 0
         
         # Count stories created this month
@@ -2496,9 +2626,11 @@ async def check_user_quota(user_id: str, length: str) -> Tuple[bool, int]:
                 raise
         
         # Index exists, run full query (should be fast)
+        print(f"🔍 [check_user_quota] Running quota query for user: {user_id}")
         story_count = len(list(query.stream()))
         quota_remaining = max(0, 3 - story_count)
         
+        print(f"📊 [check_user_quota] Story count this month: {story_count}, quota remaining: {quota_remaining}")
         return quota_remaining > 0, quota_remaining
     except Exception as e:
         print(f"⚠️ Error checking quota: {e}")
@@ -2609,12 +2741,27 @@ async def create_custom_story(
         print(f"📝 [POST /stories/custom] Creating new custom story: {story_id}")
         
         # Validate quota BEFORE creating (only for NEW stories)
+        print(f"🔍 [POST /stories/custom] Checking quota for user: {user_id}, length: {request.length}")
         has_quota, quota_remaining = await check_user_quota(user_id, request.length)
+        print(f"📊 [POST /stories/custom] Quota check result: has_quota={has_quota}, quota_remaining={quota_remaining}")
         if not has_quota:
+            print(f"❌ [POST /stories/custom] Quota exceeded for user: {user_id}")
             raise HTTPException(
                 status_code=403,
                 detail=f"Quota exceeded. You've used your 3 free stories this month."
             )
+        
+        # BEST PRACTICE: Rate limiting for subscribers and trial users (fair use policy)
+        # Free users already have quota limits (3/month), so rate limiting only applies to unlimited users
+        if has_quota and quota_remaining == 999:  # Subscriber or Trial user (unlimited quota)
+            rate_allowed, rate_reason = await check_rate_limit(user_id, is_subscriber=True)
+            if not rate_allowed:
+                print(f"⚠️ [POST /stories/custom] Rate limit exceeded for subscriber/trial user: {user_id}")
+                raise HTTPException(
+                    status_code=429,  # Too Many Requests
+                    detail=f"Rate limit exceeded. {rate_reason}. Please wait before creating more stories."
+                )
+            print(f"✅ [POST /stories/custom] Rate limit check passed: {rate_reason}")
         
         # Validate length access
         if request.length == "dreamy":
@@ -4308,6 +4455,7 @@ async def revenuecat_webhook(request: Request):
         
         # Handle different event types
         if event_type == "INITIAL_PURCHASE":
+            # iOS BEST PRACTICE: Initial purchase (could be trial start or paid subscription)
             print(f"✅ Initial purchase: {product_id}, expires: {expiration_date}")
             # Update Firestore if needed
             if db and app_user_id:
@@ -4316,12 +4464,16 @@ async def revenuecat_webhook(request: Request):
                     "user_id": app_user_id,
                     "product_id": product_id,
                     "expires_date_ms": int(datetime.fromisoformat(expiration_date.replace('Z', '+00:00')).timestamp() * 1000) if expiration_date else None,
-                    "is_trial_period": False,
+                    "is_trial_period": False,  # Will be updated by TRIAL_STARTED event if trial
+                    "will_renew": True,  # Active subscription will renew
+                    "billing_issue": False,
                     "updated_at": firestore.SERVER_TIMESTAMP,
                     "updated_via": "revenuecat_webhook_initial_purchase"
                 }, merge=True)
                 
         elif event_type == "RENEWAL":
+            # iOS BEST PRACTICE: Subscription renewed successfully
+            # Clear billing_issue and will_renew flags
             print(f"✅ Subscription renewed: {product_id}, expires: {expiration_date}")
             # Update Firestore
             if db and app_user_id:
@@ -4330,6 +4482,8 @@ async def revenuecat_webhook(request: Request):
                     "user_id": app_user_id,
                     "product_id": product_id,
                     "expires_date_ms": int(datetime.fromisoformat(expiration_date.replace('Z', '+00:00')).timestamp() * 1000) if expiration_date else None,
+                    "billing_issue": False,  # Payment successful
+                    "will_renew": True,  # Subscription is active and will renew
                     "updated_at": firestore.SERVER_TIMESTAMP,
                     "updated_via": "revenuecat_webhook_renewal"
                 }, merge=True)
@@ -4406,14 +4560,19 @@ async def revenuecat_webhook(request: Request):
                 print(f"✅ Firestore updated for trial-to-paid conversion: {app_user_id}")
                 
         elif event_type == "BILLING_ISSUE":
-            print(f"⚠️ Billing issue: {product_id} (grace period)")
-            # Update Firestore
+            # iOS BEST PRACTICE: Grace period handling
+            # RevenueCat automatically enters grace period (default 16 days) when payment fails
+            # User should continue to have access during grace period
+            print(f"⚠️ Billing issue: {product_id} (grace period - user retains access)")
+            # Update Firestore with willRenew=True to indicate grace period
             if db and app_user_id:
                 subscription_ref = db.collection("subscriptions").document(app_user_id)
                 subscription_ref.set({
                     "user_id": app_user_id,
                     "product_id": product_id,
                     "billing_issue": True,
+                    "will_renew": True,  # RevenueCat will retry payment, user keeps access
+                    "expires_date_ms": int(datetime.fromisoformat(expiration_date.replace('Z', '+00:00')).timestamp() * 1000) if expiration_date else None,
                     "updated_at": firestore.SERVER_TIMESTAMP,
                     "updated_via": "revenuecat_webhook_billing_issue"
                 }, merge=True)
