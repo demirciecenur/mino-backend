@@ -1117,24 +1117,29 @@ async def serve_story(
                     print(f"ℹ️ [serve_story] Custom story exists but status='{story_status}' (not ready), continuing to system story")
             
             # Fallback: Query by fields (for backward compatibility with old story IDs)
+            # CRITICAL: Include custom_description stories and return the most recent one
             print(f"🔍 [serve_story] Checking Firestore for custom story (query fallback): user_id={user_id}, character={character_slug}, topic={topic_mapped}, lang={lang}")
             stories_ref = db.collection("stories")
             query = stories_ref.where(filter=FieldFilter("owner_user_id", "==", user_id))\
                               .where(filter=FieldFilter("character_id", "==", character_slug))\
                               .where(filter=FieldFilter("topic", "==", topic_mapped))\
                               .where(filter=FieldFilter("language", "==", lang))\
-                              .where(filter=FieldFilter("status", "==", "ready"))
+                              .where(filter=FieldFilter("status", "==", "ready"))\
+                              .order_by("created_at", direction=firestore.Query.DESCENDING)
             
             try:
                 matching_stories = list(query.stream())
                 if matching_stories:
-                    # Filter for custom stories only
+                    # Filter for custom stories only and return the most recent one
                     for story_doc in matching_stories:
                         story_data = story_doc.to_dict()
                         story_kind = story_data.get("kind", "custom")
                         if story_kind == "custom" or story_kind is None:
                             story_id = story_doc.id
+                            story_title = story_data.get("title", "N/A")
                             print(f"✅ [serve_story] Found custom story (query fallback): {story_id}")
+                            print(f"   Title: {story_title}")
+                            print(f"   Created at: {story_data.get('created_at', 'N/A')}")
                             return JSONResponse(content=story_data)
             except Exception as e:
                 print(f"⚠️ [serve_story] Error querying Firestore: {e}")
@@ -2830,6 +2835,31 @@ async def create_custom_story(
         
         # Story doesn't exist or has failed status → create new one
         print(f"📝 [POST /stories/custom] Creating new custom story: {story_id}")
+        
+        # CRITICAL: Check if user has another story in progress (text_pending or audio_pending)
+        # Prevent creating new story while another is being generated
+        if db:
+            stories_ref = db.collection("stories")
+            pending_query = stories_ref.where(filter=FieldFilter("owner_user_id", "==", user_id))\
+                                      .where(filter=FieldFilter("status", "in", ["text_pending", "generating_text", "audio_pending", "generating"]))
+            try:
+                pending_stories = list(pending_query.stream())
+                if pending_stories:
+                    # Filter out the current story_id (if it exists with failed status)
+                    other_pending = [s for s in pending_stories if s.id != story_id]
+                    if other_pending:
+                        pending_story_id = other_pending[0].id
+                        pending_status = other_pending[0].to_dict().get("status", "unknown")
+                        print(f"⚠️ [POST /stories/custom] User has another story in progress: {pending_story_id} (status: {pending_status})")
+                        print(f"   Cannot create new story while another is being generated")
+                        raise HTTPException(
+                            status_code=409,  # Conflict
+                            detail=f"Another story is currently being generated. Please wait for it to complete before creating a new one."
+                        )
+            except Exception as e:
+                print(f"⚠️ [POST /stories/custom] Error checking pending stories: {e}")
+                # Continue if query fails (fail-open for better UX)
+                pass
         
         # Validate quota BEFORE creating (only for NEW stories)
         print(f"🔍 [POST /stories/custom] Checking quota for user: {user_id}, length: {request.length}")
