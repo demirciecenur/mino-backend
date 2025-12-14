@@ -2500,6 +2500,9 @@ async def check_user_quota(user_id: str, length: str) -> Tuple[bool, int]:
         quota_remaining = max(0, 3 - story_count)
         
         return quota_remaining > 0, quota_remaining
+    except Exception as e:
+        print(f"⚠️ Error checking quota: {e}")
+        return True, 999  # Allow on error
 
 
 async def check_user_entitlement(user_id: str) -> bool:
