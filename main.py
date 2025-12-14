@@ -2465,6 +2465,8 @@ async def check_user_quota(user_id: str, length: str) -> Tuple[bool, int]:
             return False, 0
         
         # Count stories created this month
+        # CRITICAL: Add timeout to prevent 504 Gateway Timeout
+        # If index is missing, query can take 60+ seconds and cause nginx timeout
         now = datetime.now()
         month_start = datetime(now.year, now.month, 1)
         
@@ -2473,13 +2475,31 @@ async def check_user_quota(user_id: str, length: str) -> Tuple[bool, int]:
                           .where(filter=FieldFilter("quota_counted", "==", True))\
                           .where(filter=FieldFilter("created_at", ">=", month_start.timestamp()))
         
+        # CRITICAL: If index is missing, query will be slow (60+ seconds)
+        # Check if query will fail due to missing index and return early
+        # This prevents 504 Gateway Timeout from nginx
+        try:
+            # Try to get first result with limit(1) to check if query works
+            # If it fails with index error, we know index is missing
+            test_query = query.limit(1)
+            list(test_query.stream())  # This will raise exception if index is missing
+        except Exception as index_error:
+            error_str = str(index_error)
+            if "index" in error_str.lower() or "requires an index" in error_str.lower():
+                print(f"⚠️ [check_user_quota] Index missing for quota query, allowing request to prevent 504 timeout")
+                print(f"   Error: {error_str[:200]}")
+                # Allow request if index is missing (prevents 504 timeout)
+                # TODO: Create index at: https://console.firebase.google.com/v1/r/project/mino-mobile-app-firebase/firestore/databases/mino/indexes
+                return True, 2  # Assume 1 story used, allow 2 more (conservative estimate)
+            else:
+                # Re-raise if it's a different error
+                raise
+        
+        # Index exists, run full query (should be fast)
         story_count = len(list(query.stream()))
         quota_remaining = max(0, 3 - story_count)
         
         return quota_remaining > 0, quota_remaining
-    except Exception as e:
-        print(f"⚠️ Error checking quota: {e}")
-        return True, 999  # Allow on error
 
 
 async def check_user_entitlement(user_id: str) -> bool:
