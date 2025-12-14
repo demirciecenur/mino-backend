@@ -2529,6 +2529,25 @@ async def check_user_quota(user_id: str, length: str) -> Tuple[bool, int]:
                 expires_at = datetime.fromtimestamp(expires_ms / 1000)
                 now = datetime.now()
                 
+                # If will_renew is not set, check if subscription is recent (updated in last 24 hours)
+                # This handles cases where RevenueCat webhook hasn't updated will_renew yet
+                if not will_renew and expires_at < now:
+                    updated_at = sub_data.get("updated_at")
+                    if updated_at:
+                        # Firestore Timestamp to datetime
+                        if hasattr(updated_at, 'timestamp'):
+                            updated_datetime = datetime.fromtimestamp(updated_at.timestamp())
+                        else:
+                            updated_datetime = datetime.fromtimestamp(updated_at / 1000)
+                        # If subscription was updated recently (last 24 hours), assume it might renew
+                        hours_since_update = (now - updated_datetime).total_seconds() / 3600
+                        if hours_since_update < 24:
+                            print(f"⚠️ [check_user_quota] Subscription expired but updated recently ({hours_since_update:.1f} hours ago)")
+                            print(f"   Assuming grace period - RevenueCat may update will_renew soon")
+                            will_renew = True  # Temporary grace period assumption
+                            is_grace_period = True
+                            has_subscription = True
+                
                 # RevenueCat manages subscription states - we only read the flags
                 # 1. If expires_at > now: Active subscription
                 # 2. If expires_at < now but will_renew = True: Grace period (RevenueCat manages this)
@@ -2549,13 +2568,22 @@ async def check_user_quota(user_id: str, length: str) -> Tuple[bool, int]:
                     print(f"🎁 [check_user_quota] User is in TRIAL period (RevenueCat managed, is_trial_period={is_trial})")
                 
                 print(f"📅 [check_user_quota] Subscription expires_at: {expires_at}, now: {now}, is_active: {has_subscription}, is_trial: {is_trial}, is_grace_period: {is_grace_period}, will_renew: {will_renew}")
+                
+                # DEBUG: Check if subscription expired but should be renewed
+                if expires_at < now and not will_renew:
+                    days_expired = (now - expires_at).days
+                    print(f"⚠️ [check_user_quota] Subscription EXPIRED {days_expired} days ago (expires_at: {expires_at})")
+                    print(f"   will_renew: {will_renew} (False = no grace period, subscription truly expired)")
+                    print(f"   is_trial_period: {is_trial} (False = not in trial)")
+                    print(f"   ⚠️ User needs to renew subscription or RevenueCat should update will_renew flag")
+                
                 if product_id:
                     print(f"📦 [check_user_quota] Product ID: {product_id} (monthly/yearly)")
             else:
                 print(f"⚠️ [check_user_quota] Subscription document exists but expires_date_ms is missing")
         else:
-            print(f"⚠️ [check_user_quota] No subscription document found for user: {user_id}")
-            print(f"   Checking if subscription exists in 'parents' collection...")
+            print(f"⚠️ [check_user_quota] No subscription document found in 'subscriptions' collection for user: {user_id}")
+            print(f"   Checking if subscription exists in 'parents' collection (backward compatibility)...")
             # Also check parents collection for backward compatibility
             parents_ref = db.collection("parents").document(user_id)
             parents_doc = parents_ref.get()
@@ -2572,9 +2600,17 @@ async def check_user_quota(user_id: str, length: str) -> Tuple[bool, int]:
                         else:
                             expires_at = datetime.fromtimestamp(expires_at_field / 1000)
                         has_subscription = expires_at > datetime.now()
-                        print(f"   Subscription from parents: expires_at={expires_at}, is_active={has_subscription}")
+                        # Check if trial from parents collection (if available)
+                        if subscription_data.get("status") == "trial" or subscription_data.get("tier") == "trial":
+                            is_trial = True
+                            print(f"   Trial detected from parents collection")
+                        print(f"   Subscription from parents: expires_at={expires_at}, is_active={has_subscription}, is_trial={is_trial}")
+                else:
+                    print(f"   No subscription data in parents collection")
+            else:
+                print(f"   No document found in parents collection either")
         
-        print(f"📊 [check_user_quota] Subscription status: has_subscription={has_subscription}, is_trial={is_trial}, is_grace_period={is_grace_period}")
+        print(f"📊 [check_user_quota] Final subscription status: has_subscription={has_subscription}, is_trial={is_trial}, is_grace_period={is_grace_period}")
         
         # RevenueCat manages all subscription states - we only read the flags
         # Trial, grace period, and active subscription all get unlimited quota
@@ -2583,6 +2619,9 @@ async def check_user_quota(user_id: str, length: str) -> Tuple[bool, int]:
             print(f"✅ [check_user_quota] User has {status_type} (RevenueCat managed) - unlimited quota (with fair use rate limits)")
             # Rate limiting will be checked separately in create_custom_story
             return True, 999
+        
+        # If we reach here, user has no active subscription, trial, or grace period
+        print(f"ℹ️ [check_user_quota] User is a FREE user (no subscription/trial/grace period) - checking monthly quota")
         
         # Free users (no trial, no subscription): 
         # OPTION 1: 3 quick stories/month (teaser/retention)
@@ -2627,10 +2666,13 @@ async def check_user_quota(user_id: str, length: str) -> Tuple[bool, int]:
         
         # Index exists, run full query (should be fast)
         print(f"🔍 [check_user_quota] Running quota query for user: {user_id}")
+        print(f"   Query filters: owner_user_id={user_id}, quota_counted=True, created_at>={month_start.timestamp()}")
         story_count = len(list(query.stream()))
         quota_remaining = max(0, 3 - story_count)
         
         print(f"📊 [check_user_quota] Story count this month: {story_count}, quota remaining: {quota_remaining}")
+        if quota_remaining == 0:
+            print(f"❌ [check_user_quota] FREE USER QUOTA EXCEEDED: {story_count}/3 stories used this month")
         return quota_remaining > 0, quota_remaining
     except Exception as e:
         print(f"⚠️ Error checking quota: {e}")
