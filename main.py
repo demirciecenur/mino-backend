@@ -2548,6 +2548,7 @@ async def create_custom_story(
         
         # CRITICAL: Check if story already exists with status in ("generating", "ready")
         # If exists → return same doc (no quota, no overwrite, idempotent)
+        # This is a feature, not a bug: prevents duplicate quota deduction and race conditions
         existing_story = await get_custom_story_by_id(story_id)
         if existing_story:
             existing_status = existing_story.get("status")
