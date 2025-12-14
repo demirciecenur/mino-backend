@@ -1112,6 +1112,9 @@ async def serve_story(
                         print(f"   📋 [serve_story] Request payload verification:")
                         print(f"      Original character: {request_payload.get('character_id', 'N/A')}")
                         print(f"      Original topic: {request_payload.get('topic', 'N/A')}")
+                    # CRITICAL: Add id field to custom_story (Firestore document ID)
+                    # iOS Story model requires id field for decoding
+                    custom_story["id"] = custom_story_id
                     return JSONResponse(content=custom_story)
                 else:
                     print(f"ℹ️ [serve_story] Custom story exists but status='{story_status}' (not ready), continuing to system story")
@@ -1137,6 +1140,9 @@ async def serve_story(
                         if story_kind == "custom" or story_kind is None:
                             story_id = story_doc.id
                             story_title = story_data.get("title", "N/A")
+                            # CRITICAL: Add id field to story_data (Firestore document ID)
+                            # iOS Story model requires id field for decoding
+                            story_data["id"] = story_id
                             print(f"✅ [serve_story] Found custom story (query fallback): {story_id}")
                             print(f"   Title: {story_title}")
                             print(f"   Created at: {story_data.get('created_at', 'N/A')}")
@@ -1168,6 +1174,9 @@ async def serve_story(
                         is_system = (story_kind == "system" or story_kind is None) and (story_owner is None or story_owner == "system")
                         if is_system:
                             story_id = story_doc.id
+                            # CRITICAL: Add id field to story_data (Firestore document ID)
+                            # iOS Story model requires id field for decoding
+                            story_data["id"] = story_id
                             print(f"✅ [serve_story] Found system story (ready): {story_id}")
                             print(f"   Title: {story_data.get('title', 'N/A')}")
                             print(f"   Scenes count: {len(story_data.get('scenes', []))}")
@@ -3264,12 +3273,16 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 # CRITICAL:
                 # - Use normalized character_slug (to_character_slug already applied in generate_tts, but be explicit)
                 # - Pass story_id so that each custom story keeps its own unique audio files per scene.
+                # CRITICAL: Use mapped_topic (not request.topic) for audio URL generation
+                # This ensures audio URL matches the story's topic field in Firestore
+                # Example: request.topic="kedilerle iyi geçinmek" → mapped_topic="friendship"
+                # Audio URL should use "friendship", not "kedilerle iyi geçinmek"
                 scene_audio_url = await generate_tts(
                     text=scene_text,
                     style={"stability": 0.7, "similarity_boost": 0.85, "style": 0.6},
                     lang=request.language,
                     character=character_slug,
-                    topic=request.topic,
+                    topic=mapped_topic,  # Use mapped_topic, not request.topic
                     scene_index=scene_index,
                     story_id=story_id,
                 )
