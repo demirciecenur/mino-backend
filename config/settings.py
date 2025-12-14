@@ -39,7 +39,14 @@ class Settings:
     # Backend Base URL for audio URLs (used by iOS app)
     # Production: https://64.226.88.203 (or domain if configured)
     # Development: http://127.0.0.1:8000
-    BACKEND_BASE_URL: str = os.getenv('BACKEND_BASE_URL', 'https://64.226.88.203')
+    # CRITICAL: Never use localhost in production - always use production IP or domain
+    _backend_url = os.getenv('BACKEND_BASE_URL', 'https://64.226.88.203')
+    # Sanitize: Replace localhost/127.0.0.1 with production URL if detected
+    if '127.0.0.1' in _backend_url or 'localhost' in _backend_url:
+        print(f"⚠️ [Settings] WARNING: BACKEND_BASE_URL contains localhost: {_backend_url}")
+        print(f"   Replacing with production URL: https://64.226.88.203")
+        _backend_url = 'https://64.226.88.203'
+    BACKEND_BASE_URL: str = _backend_url
     
     # Audio Storage Paths
     # Note: Audio files are stored in backend/storage/characters (based on backend logs)

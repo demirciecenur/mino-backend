@@ -1090,7 +1090,9 @@ async def serve_story(
             character_slug = to_character_slug(character)
             
             # Try deterministic ID first (faster, direct lookup)
-            custom_story_id = generate_custom_story_id(user_id, character_slug, topic_mapped, lang)
+            # Note: For /story/{character}/{topic} endpoint, we don't have custom_description,
+            # so we can only match stories without custom_description
+            custom_story_id = generate_custom_story_id(user_id, character_slug, topic_mapped, lang, custom_description=None)
             custom_story = await get_custom_story_by_id(custom_story_id)
             
             if custom_story:
@@ -2374,21 +2376,28 @@ def normalize_topic_for_id(topic: str) -> str:
     return normalized
 
 
-def generate_custom_story_id(user_id: str, character: str, topic: str, lang: str) -> str:
+def generate_custom_story_id(user_id: str, character: str, topic: str, lang: str, custom_description: Optional[str] = None) -> str:
     """Generate deterministic story ID for custom stories.
     
-    Format: story_{userId}_{character}_{topic}_{lang}
+    Format: story_{userId}_{character}_{topic}_{lang}[_{desc_hash}]
     This ensures idempotency: same parameters = same ID = same story.
+    
+    CRITICAL: If custom_description is provided, it's included in the ID hash to ensure
+    different descriptions create different stories, even if they map to the same topic.
     
     Args:
         user_id: User ID
         character: Character ID (e.g., "spongebob", "mino")
         topic: Topic string (e.g., "çikolata yememe", "nutrition")
         lang: Language code (e.g., "tr", "en")
+        custom_description: Optional custom description (e.g., "Kefir iç ikna et")
         
     Returns:
-        Deterministic story ID (e.g., "story_user123_spongebob_friendship_tr")
+        Deterministic story ID (e.g., "story_user123_spongebob_friendship_tr" or
+        "story_user123_spongebob_friendship_tr_a1b2c3d4" if custom_description provided)
     """
+    import hashlib
+    
     character_slug = to_character_slug(character)
     
     # CRITICAL: Normalize topic to handle Turkish characters properly
@@ -2403,8 +2412,16 @@ def generate_custom_story_id(user_id: str, character: str, topic: str, lang: str
     
     lang_normalized = lang.lower().strip()
     
-    # Build story ID
+    # Build base story ID
     story_id = f"story_{user_id}_{character_slug}_{topic_normalized}_{lang_normalized}"
+    
+    # CRITICAL: If custom_description is provided, add hash to ensure different descriptions
+    # create different stories (even if they map to the same topic)
+    if custom_description and custom_description.strip():
+        desc_clean = custom_description.strip().lower()
+        # Create short hash (first 8 chars of MD5) for uniqueness
+        desc_hash = hashlib.md5(desc_clean.encode('utf-8')).hexdigest()[:8]
+        story_id = f"{story_id}_{desc_hash}"
     
     # Final sanitization for Firestore document ID (should already be safe, but double-check)
     story_id = re.sub(r'[^a-zA-Z0-9_-]', '_', story_id)
@@ -2734,12 +2751,44 @@ async def create_custom_story(
             print("❌ [POST /stories/custom] No user_id - Authentication required")
             raise HTTPException(status_code=401, detail="Authentication required")
         
+        # CRITICAL: Validate topic and custom_description are meaningful (not random characters)
+        # Reject requests with meaningless topics (e.g., "hkbvffhjkk", "asdf", etc.)
+        topic_clean = request.topic.strip().lower()
+        if len(topic_clean) < 2:
+            print(f"❌ [POST /stories/custom] Topic too short: '{topic_clean}'")
+            raise HTTPException(status_code=400, detail="Topic must be at least 2 characters long")
+        
+        # Check if topic is just random characters (no vowels, no meaningful words)
+        # A meaningful topic should have at least one vowel or be a recognized word
+        vowels = set('aeiouy')
+        has_vowels = any(c in vowels for c in topic_clean)
+        # Allow short topics if they're common words (handled by topic mapping)
+        # But reject if it's clearly random characters (e.g., "hkbvffhjkk")
+        if not has_vowels and len(topic_clean) > 5:
+            print(f"❌ [POST /stories/custom] Topic appears to be random characters: '{topic_clean}'")
+            raise HTTPException(status_code=400, detail="Please provide a meaningful topic for your story")
+        
+        # Validate custom_description if provided
+        if request.custom_description:
+            desc_clean = request.custom_description.strip()
+            if len(desc_clean) < 3:
+                print(f"❌ [POST /stories/custom] Custom description too short: '{desc_clean}'")
+                raise HTTPException(status_code=400, detail="Custom description must be at least 3 characters long")
+            # Check if description is just random characters
+            desc_has_vowels = any(c.lower() in vowels for c in desc_clean)
+            if not desc_has_vowels and len(desc_clean) > 5:
+                print(f"❌ [POST /stories/custom] Custom description appears to be random characters: '{desc_clean}'")
+                raise HTTPException(status_code=400, detail="Please provide a meaningful description for your story")
+        
         # Generate deterministic story ID
+        # CRITICAL: Include custom_description in ID to ensure different descriptions
+        # create different stories, even if they map to the same topic
         story_id = generate_custom_story_id(
             user_id=user_id,
             character=request.character_id,
             topic=request.topic,
-            lang=request.language
+            lang=request.language,
+            custom_description=request.custom_description
         )
         print(f"🔑 [POST /stories/custom] Deterministic story ID: {story_id}")
         
@@ -4319,7 +4368,13 @@ async def get_story(
         story_data = story_doc.to_dict()
         
         # Verify ownership
-        if story_data.get("owner_user_id") != user_id:
+        # CRITICAL: owner_user_id must match user_id for security
+        # If owner_user_id is missing, deny access (security best practice)
+        story_owner = story_data.get("owner_user_id")
+        if story_owner != user_id:
+            print(f"⚠️ [GET /stories/{story_id}] Ownership verification failed:")
+            print(f"   Story owner_user_id: {story_owner}")
+            print(f"   Request user_id: {user_id}")
             raise HTTPException(status_code=403, detail="Access denied")
         
         # Log story data for debugging
