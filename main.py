@@ -4542,6 +4542,45 @@ async def list_stories(
         raise HTTPException(status_code=500, detail=str(e))
 
 
+@app.delete("/stories/{story_id}")
+async def delete_story(
+    story_id: str,
+    user_id: Optional[str] = Depends(verify_firebase_token)
+):
+    """Delete a story by ID. Only the owner can delete their own story."""
+    try:
+        if not user_id:
+            raise HTTPException(status_code=401, detail="Authentication required")
+        
+        if not db:
+            raise HTTPException(status_code=500, detail="Database unavailable")
+        
+        story_ref = db.collection("stories").document(story_id)
+        story_doc = story_ref.get()
+        
+        if not story_doc.exists:
+            raise HTTPException(status_code=404, detail="Story not found")
+        
+        story_data = story_doc.to_dict()
+        
+        # Verify ownership
+        if story_data.get("owner_user_id") != user_id:
+            raise HTTPException(status_code=403, detail="Access denied")
+        
+        # Delete the story document
+        story_ref.delete()
+        
+        print(f"✅ [DELETE /stories/{story_id}] Story deleted by user: {user_id}")
+        
+        return {"message": "Story deleted successfully", "story_id": story_id}
+        
+    except HTTPException:
+        raise
+    except Exception as e:
+        print(f"❌ Error deleting story: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
 @app.patch("/stories/{story_id}/duplicate", response_model=CreateStoryResponse)
 async def duplicate_story(
     story_id: str,
