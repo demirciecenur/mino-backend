@@ -769,7 +769,7 @@ async def generate_tts(
             audio_basename = f"{topic_file}_{safe_story_suffix}_{scene_index}"
         else:
             # Legacy/shared bundle behaviour (pre-generated content)
-            key = f"{character_normalized}_{topic_file}_{scene_index}"
+        key = f"{character_normalized}_{topic_file}_{scene_index}"
             audio_basename = f"{topic_file}_{scene_index}"
 
         # Language-specific audio path: {character}/{lang}/{topic}_{scene_index}[_{story}] .wav
@@ -1217,7 +1217,7 @@ async def serve_story(
                         else:
                             # Pre-generated story - use as fallback if no custom story found
                             if not custom_story_path:
-                                story_path = candidate_path
+                        story_path = candidate_path
                                 print(f"✅ [serve_story] Found pre-generated story: {story_path} (lang={lang}, size: {file_size} bytes, topic: {story_topic})")
                     except (json.JSONDecodeError, KeyError, Exception) as e:
                         print(f"⚠️ [serve_story] Failed to validate story topic in {candidate_path}: {e}")
@@ -1369,97 +1369,97 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
                 # Continue to error handling below (will return mock_audio)
             else:
                 # System story format: character_topic_sceneIndex
-                topic = '_'.join(parts[1:-1])  # Everything between character and scene_index is topic
-                
+            topic = '_'.join(parts[1:-1])  # Everything between character and scene_index is topic
+            
                 # Use centralized topic mapping (from story_composer) for system stories
-                topic_normalized = topic.lower()
-                topic_candidates = get_topic_candidates(topic_normalized)
-                
-                # Also try topic without underscores (for cases like "transitions_change" -> "transitionschange")
-                topic_no_underscore = topic_normalized.replace('_', '')
-                if topic_no_underscore not in topic_candidates:
-                    topic_candidates.append(topic_no_underscore)
-                
-                # Language-specific path: {character}/{lang}/{topic}_{scene_index}.ext
-                # CRITICAL: Only serve audio files in the correct language directory
-                # This prevents serving wrong-language audio files (e.g., French audio when English is requested)
-                for topic_candidate in topic_candidates:
-                    for ext in ['.wav', '.mp3']:
-                        character_path = AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"
-                        if character_path.exists() and character_path.stat().st_size > 0:
-                            media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
-                            # Reduced logging: Only log errors, successful requests are logged by uvicorn access logs
-                            return FileResponse(str(character_path), media_type=media_type)
-                        # Debug: Log why file wasn't found (only for first candidate to reduce spam)
-                        elif topic_candidate == topic_candidates[0] and ext == '.wav':
-                            if not character_path.parent.exists():
-                                print(f"🔍 [serve_local_audio] Path does not exist: {character_path.parent}")
-                            elif not character_path.exists():
-                                print(f"🔍 [serve_local_audio] File does not exist: {character_path}")
-                            elif character_path.stat().st_size == 0:
-                                print(f"🔍 [serve_local_audio] File is empty: {character_path}")
-                
+            topic_normalized = topic.lower()
+            topic_candidates = get_topic_candidates(topic_normalized)
+            
+            # Also try topic without underscores (for cases like "transitions_change" -> "transitionschange")
+            topic_no_underscore = topic_normalized.replace('_', '')
+            if topic_no_underscore not in topic_candidates:
+                topic_candidates.append(topic_no_underscore)
+            
+            # Language-specific path: {character}/{lang}/{topic}_{scene_index}.ext
+            # CRITICAL: Only serve audio files in the correct language directory
+            # This prevents serving wrong-language audio files (e.g., French audio when English is requested)
+            for topic_candidate in topic_candidates:
+                for ext in ['.wav', '.mp3']:
+                    character_path = AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"
+                    if character_path.exists() and character_path.stat().st_size > 0:
+                        media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
+                        # Reduced logging: Only log errors, successful requests are logged by uvicorn access logs
+                        return FileResponse(str(character_path), media_type=media_type)
+                    # Debug: Log why file wasn't found (only for first candidate to reduce spam)
+                    elif topic_candidate == topic_candidates[0] and ext == '.wav':
+                        if not character_path.parent.exists():
+                            print(f"🔍 [serve_local_audio] Path does not exist: {character_path.parent}")
+                        elif not character_path.exists():
+                            print(f"🔍 [serve_local_audio] File does not exist: {character_path}")
+                        elif character_path.stat().st_size == 0:
+                            print(f"🔍 [serve_local_audio] File is empty: {character_path}")
+            
                 # Fallback: Try old path structure (for backward compatibility) - only for system stories
-                # WARNING: Legacy paths don't have language subdirectory, so we can't verify language
-                # Only use legacy path if no language-specific path exists
-                for topic_candidate in topic_candidates:
-                    for ext in ['.wav', '.mp3']:
-                        legacy_path = AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"
-                        if legacy_path.exists() and legacy_path.stat().st_size > 0:
-                            media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
-                            # Log warning only once per character/topic combination (not every request)
-                            print(f"⚠️ [serve_local_audio] Using legacy path (no lang subdirectory): {character}/{topic_candidate} (lang={lang})")
-                            return FileResponse(str(legacy_path), media_type=media_type)
-                
+            # WARNING: Legacy paths don't have language subdirectory, so we can't verify language
+            # Only use legacy path if no language-specific path exists
+            for topic_candidate in topic_candidates:
+                for ext in ['.wav', '.mp3']:
+                    legacy_path = AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"
+                    if legacy_path.exists() and legacy_path.stat().st_size > 0:
+                        media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
+                        # Log warning only once per character/topic combination (not every request)
+                        print(f"⚠️ [serve_local_audio] Using legacy path (no lang subdirectory): {character}/{topic_candidate} (lang={lang})")
+                        return FileResponse(str(legacy_path), media_type=media_type)
+            
                 # Collect all tried paths for better error reporting (system stories only)
-                tried_paths = []
-                for topic_candidate in topic_candidates:
-                    for ext in ['.wav', '.mp3']:
-                        tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"))
-                        tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"))  # Legacy paths
-                        # CRITICAL: Do NOT fallback to other languages (e.g., "en" when "fr" is requested)
-                        # This would cause wrong-language audio to be served
-                        # Only use the requested language
-                
-                topic_mapped = map_topic(topic_normalized)
-                # CRITICAL: Check what files actually exist in the character directory
-                character_dir = AUDIO_BASE_DIR / character.lower()
-                lang_dir = character_dir / lang
-                
-                # List actual files in the directory for debugging
-                existing_paths = [p for p in tried_paths if Path(p).exists()]
-                if existing_paths:
-                    # Some paths exist but weren't used - log this with actual file list
-                    print(f"⚠️ [serve_local_audio] File NOT FOUND: character={character}, topic={topic} (normalized: {topic_normalized}, mapped: {topic_mapped}), scene_index={scene_index}, lang={lang}")
-                    print(f"   Found {len(existing_paths)} existing paths but none matched criteria")
-                    print(f"   AUDIO_BASE_DIR: {AUDIO_BASE_DIR}")
-                    print(f"   Character dir exists: {character_dir.exists()}")
-                    if lang_dir.exists():
-                        actual_files = list(lang_dir.glob(f"*{scene_index}.*"))
-                        if actual_files:
-                            print(f"   Actual files in {lang_dir}: {[f.name for f in actual_files]}")
-                        else:
-                            print(f"   No files with scene_index {scene_index} in {lang_dir}")
+            tried_paths = []
+            for topic_candidate in topic_candidates:
+                for ext in ['.wav', '.mp3']:
+                    tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"))
+                    tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"))  # Legacy paths
+                    # CRITICAL: Do NOT fallback to other languages (e.g., "en" when "fr" is requested)
+                    # This would cause wrong-language audio to be served
+                    # Only use the requested language
+            
+            topic_mapped = map_topic(topic_normalized)
+            # CRITICAL: Check what files actually exist in the character directory
+            character_dir = AUDIO_BASE_DIR / character.lower()
+            lang_dir = character_dir / lang
+            
+            # List actual files in the directory for debugging
+            existing_paths = [p for p in tried_paths if Path(p).exists()]
+            if existing_paths:
+                # Some paths exist but weren't used - log this with actual file list
+                print(f"⚠️ [serve_local_audio] File NOT FOUND: character={character}, topic={topic} (normalized: {topic_normalized}, mapped: {topic_mapped}), scene_index={scene_index}, lang={lang}")
+                print(f"   Found {len(existing_paths)} existing paths but none matched criteria")
+                print(f"   AUDIO_BASE_DIR: {AUDIO_BASE_DIR}")
+                print(f"   Character dir exists: {character_dir.exists()}")
+                if lang_dir.exists():
+                    actual_files = list(lang_dir.glob(f"*{scene_index}.*"))
+                    if actual_files:
+                        print(f"   Actual files in {lang_dir}: {[f.name for f in actual_files]}")
                     else:
-                        print(f"   Language dir does not exist: {lang_dir}")
-                        # Check if character dir has any files
-                        if character_dir.exists():
-                            all_files = list(character_dir.rglob(f"*{scene_index}.*"))
-                            if all_files:
-                                print(f"   Found files in character dir (wrong structure): {[str(f.relative_to(character_dir)) for f in all_files[:5]]}")
+                        print(f"   No files with scene_index {scene_index} in {lang_dir}")
                 else:
-                    # No paths exist - check if directory structure is correct
-                    print(f"⚠️ [serve_local_audio] Audio not found: {character}/{topic_mapped}_{scene_index} (lang={lang}), will generate TTS")
-                    print(f"   AUDIO_BASE_DIR: {AUDIO_BASE_DIR}")
-                    print(f"   Character dir exists: {character_dir.exists()}")
+                    print(f"   Language dir does not exist: {lang_dir}")
+                    # Check if character dir has any files
                     if character_dir.exists():
-                        # List what's actually in the character directory
-                        subdirs = [d.name for d in character_dir.iterdir() if d.is_dir()]
-                        files = [f.name for f in character_dir.iterdir() if f.is_file()]
-                        if subdirs:
-                            print(f"   Subdirectories in character dir: {subdirs[:5]}")
-                        if files:
-                            print(f"   Files in character dir (wrong structure): {files[:5]}")
+                        all_files = list(character_dir.rglob(f"*{scene_index}.*"))
+                        if all_files:
+                            print(f"   Found files in character dir (wrong structure): {[str(f.relative_to(character_dir)) for f in all_files[:5]]}")
+            else:
+                # No paths exist - check if directory structure is correct
+                print(f"⚠️ [serve_local_audio] Audio not found: {character}/{topic_mapped}_{scene_index} (lang={lang}), will generate TTS")
+                print(f"   AUDIO_BASE_DIR: {AUDIO_BASE_DIR}")
+                print(f"   Character dir exists: {character_dir.exists()}")
+                if character_dir.exists():
+                    # List what's actually in the character directory
+                    subdirs = [d.name for d in character_dir.iterdir() if d.is_dir()]
+                    files = [f.name for f in character_dir.iterdir() if f.is_file()]
+                    if subdirs:
+                        print(f"   Subdirectories in character dir: {subdirs[:5]}")
+                    if files:
+                        print(f"   Files in character dir (wrong structure): {files[:5]}")
             
             # IMPORTANT: If file doesn't exist, return mock_audio (which generates TTS on-the-fly from story text)
             # This should NOT happen for pre-generated content - files should exist!
@@ -4548,36 +4548,57 @@ async def delete_story(
     user_id: Optional[str] = Depends(verify_firebase_token)
 ):
     """Delete a story by ID. Only the owner can delete their own story."""
+    print(f"🗑️ [DELETE /stories/{story_id}] Delete request received")
+    print(f"   User ID: {user_id}")
+    print(f"   Story ID: {story_id}")
+    
     try:
         if not user_id:
+            print("❌ [DELETE] Authentication required")
             raise HTTPException(status_code=401, detail="Authentication required")
         
         if not db:
+            print("❌ [DELETE] Database unavailable")
             raise HTTPException(status_code=500, detail="Database unavailable")
         
         story_ref = db.collection("stories").document(story_id)
         story_doc = story_ref.get()
         
         if not story_doc.exists:
+            print(f"❌ [DELETE] Story not found: {story_id}")
             raise HTTPException(status_code=404, detail="Story not found")
         
         story_data = story_doc.to_dict()
+        story_owner = story_data.get("owner_user_id")
         
-        # Verify ownership
-        if story_data.get("owner_user_id") != user_id:
-            raise HTTPException(status_code=403, detail="Access denied")
+        print(f"🔍 [DELETE] Ownership check:")
+        print(f"   Story owner_user_id: {story_owner}")
+        print(f"   Request user_id: {user_id}")
+        
+        # Verify ownership - CRITICAL: Only allow deletion of own stories
+        if story_owner != user_id:
+            print(f"❌ [DELETE] Access denied: Story belongs to {story_owner}, not {user_id}")
+            raise HTTPException(status_code=403, detail="Access denied: You can only delete your own stories")
+        
+        # Additional safety check: Only allow deletion of custom stories
+        story_kind = story_data.get("kind", "system")
+        if story_kind != "custom":
+            print(f"⚠️ [DELETE] Attempted to delete non-custom story (kind: {story_kind})")
+            raise HTTPException(status_code=403, detail="Only custom stories can be deleted")
         
         # Delete the story document
         story_ref.delete()
         
-        print(f"✅ [DELETE /stories/{story_id}] Story deleted by user: {user_id}")
+        print(f"✅ [DELETE /stories/{story_id}] Story deleted successfully by user: {user_id}")
         
         return {"message": "Story deleted successfully", "story_id": story_id}
         
     except HTTPException:
         raise
     except Exception as e:
-        print(f"❌ Error deleting story: {e}")
+        print(f"❌ [DELETE] Error deleting story: {e}")
+        import traceback
+        traceback.print_exc()
         raise HTTPException(status_code=500, detail=str(e))
 
 
