@@ -769,7 +769,7 @@ async def generate_tts(
             audio_basename = f"{topic_file}_{safe_story_suffix}_{scene_index}"
         else:
             # Legacy/shared bundle behaviour (pre-generated content)
-        key = f"{character_normalized}_{topic_file}_{scene_index}"
+            key = f"{character_normalized}_{topic_file}_{scene_index}"
             audio_basename = f"{topic_file}_{scene_index}"
 
         # Language-specific audio path: {character}/{lang}/{topic}_{scene_index}[_{story}] .wav
@@ -1217,7 +1217,7 @@ async def serve_story(
                         else:
                             # Pre-generated story - use as fallback if no custom story found
                             if not custom_story_path:
-                        story_path = candidate_path
+                                story_path = candidate_path
                                 print(f"✅ [serve_story] Found pre-generated story: {story_path} (lang={lang}, size: {file_size} bytes, topic: {story_topic})")
                     except (json.JSONDecodeError, KeyError, Exception) as e:
                         print(f"⚠️ [serve_story] Failed to validate story topic in {candidate_path}: {e}")
@@ -1369,59 +1369,59 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
                 # Continue to error handling below (will return mock_audio)
             else:
                 # System story format: character_topic_sceneIndex
-            topic = '_'.join(parts[1:-1])  # Everything between character and scene_index is topic
-            
+                topic = '_'.join(parts[1:-1])  # Everything between character and scene_index is topic
+                
                 # Use centralized topic mapping (from story_composer) for system stories
-            topic_normalized = topic.lower()
-            topic_candidates = get_topic_candidates(topic_normalized)
-            
-            # Also try topic without underscores (for cases like "transitions_change" -> "transitionschange")
-            topic_no_underscore = topic_normalized.replace('_', '')
-            if topic_no_underscore not in topic_candidates:
-                topic_candidates.append(topic_no_underscore)
-            
-            # Language-specific path: {character}/{lang}/{topic}_{scene_index}.ext
-            # CRITICAL: Only serve audio files in the correct language directory
-            # This prevents serving wrong-language audio files (e.g., French audio when English is requested)
-            for topic_candidate in topic_candidates:
-                for ext in ['.wav', '.mp3']:
-                    character_path = AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"
-                    if character_path.exists() and character_path.stat().st_size > 0:
-                        media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
-                        # Reduced logging: Only log errors, successful requests are logged by uvicorn access logs
-                        return FileResponse(str(character_path), media_type=media_type)
-                    # Debug: Log why file wasn't found (only for first candidate to reduce spam)
-                    elif topic_candidate == topic_candidates[0] and ext == '.wav':
-                        if not character_path.parent.exists():
-                            print(f"🔍 [serve_local_audio] Path does not exist: {character_path.parent}")
-                        elif not character_path.exists():
-                            print(f"🔍 [serve_local_audio] File does not exist: {character_path}")
-                        elif character_path.stat().st_size == 0:
-                            print(f"🔍 [serve_local_audio] File is empty: {character_path}")
-            
+                topic_normalized = topic.lower()
+                topic_candidates = get_topic_candidates(topic_normalized)
+                
+                # Also try topic without underscores (for cases like "transitions_change" -> "transitionschange")
+                topic_no_underscore = topic_normalized.replace('_', '')
+                if topic_no_underscore not in topic_candidates:
+                    topic_candidates.append(topic_no_underscore)
+                
+                # Language-specific path: {character}/{lang}/{topic}_{scene_index}.ext
+                # CRITICAL: Only serve audio files in the correct language directory
+                # This prevents serving wrong-language audio files (e.g., French audio when English is requested)
+                for topic_candidate in topic_candidates:
+                    for ext in ['.wav', '.mp3']:
+                        character_path = AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"
+                        if character_path.exists() and character_path.stat().st_size > 0:
+                            media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
+                            # Reduced logging: Only log errors, successful requests are logged by uvicorn access logs
+                            return FileResponse(str(character_path), media_type=media_type)
+                        # Debug: Log why file wasn't found (only for first candidate to reduce spam)
+                        elif topic_candidate == topic_candidates[0] and ext == '.wav':
+                            if not character_path.parent.exists():
+                                print(f"🔍 [serve_local_audio] Path does not exist: {character_path.parent}")
+                            elif not character_path.exists():
+                                print(f"🔍 [serve_local_audio] File does not exist: {character_path}")
+                            elif character_path.stat().st_size == 0:
+                                print(f"🔍 [serve_local_audio] File is empty: {character_path}")
+                
                 # Fallback: Try old path structure (for backward compatibility) - only for system stories
-            # WARNING: Legacy paths don't have language subdirectory, so we can't verify language
-            # Only use legacy path if no language-specific path exists
-            for topic_candidate in topic_candidates:
-                for ext in ['.wav', '.mp3']:
-                    legacy_path = AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"
-                    if legacy_path.exists() and legacy_path.stat().st_size > 0:
-                        media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
-                        # Log warning only once per character/topic combination (not every request)
-                        print(f"⚠️ [serve_local_audio] Using legacy path (no lang subdirectory): {character}/{topic_candidate} (lang={lang})")
-                        return FileResponse(str(legacy_path), media_type=media_type)
-            
+                # WARNING: Legacy paths don't have language subdirectory, so we can't verify language
+                # Only use legacy path if no language-specific path exists
+                for topic_candidate in topic_candidates:
+                    for ext in ['.wav', '.mp3']:
+                        legacy_path = AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"
+                        if legacy_path.exists() and legacy_path.stat().st_size > 0:
+                            media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
+                            # Log warning only once per character/topic combination (not every request)
+                            print(f"⚠️ [serve_local_audio] Using legacy path (no lang subdirectory): {character}/{topic_candidate} (lang={lang})")
+                            return FileResponse(str(legacy_path), media_type=media_type)
+                
                 # Collect all tried paths for better error reporting (system stories only)
-            tried_paths = []
-            for topic_candidate in topic_candidates:
-                for ext in ['.wav', '.mp3']:
-                    tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"))
-                    tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"))  # Legacy paths
-                    # CRITICAL: Do NOT fallback to other languages (e.g., "en" when "fr" is requested)
-                    # This would cause wrong-language audio to be served
-                    # Only use the requested language
-            
-            topic_mapped = map_topic(topic_normalized)
+                tried_paths = []
+                for topic_candidate in topic_candidates:
+                    for ext in ['.wav', '.mp3']:
+                        tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"))
+                        tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"))  # Legacy paths
+                        # CRITICAL: Do NOT fallback to other languages (e.g., "en" when "fr" is requested)
+                        # This would cause wrong-language audio to be served
+                        # Only use the requested language
+                
+                topic_mapped = map_topic(topic_normalized)
             # CRITICAL: Check what files actually exist in the character directory
             character_dir = AUDIO_BASE_DIR / character.lower()
             lang_dir = character_dir / lang
