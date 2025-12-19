@@ -769,7 +769,7 @@ async def generate_tts(
             audio_basename = f"{topic_file}_{safe_story_suffix}_{scene_index}"
         else:
             # Legacy/shared bundle behaviour (pre-generated content)
-            key = f"{character_normalized}_{topic_file}_{scene_index}"
+        key = f"{character_normalized}_{topic_file}_{scene_index}"
             audio_basename = f"{topic_file}_{scene_index}"
 
         # Language-specific audio path: {character}/{lang}/{topic}_{scene_index}[_{story}] .wav
@@ -1217,7 +1217,7 @@ async def serve_story(
                         else:
                             # Pre-generated story - use as fallback if no custom story found
                             if not custom_story_path:
-                                story_path = candidate_path
+                        story_path = candidate_path
                                 print(f"✅ [serve_story] Found pre-generated story: {story_path} (lang={lang}, size: {file_size} bytes, topic: {story_topic})")
                     except (json.JSONDecodeError, KeyError, Exception) as e:
                         print(f"⚠️ [serve_story] Failed to validate story topic in {candidate_path}: {e}")
@@ -1228,12 +1228,23 @@ async def serve_story(
                     print(f"⚠️ [serve_story] File exists but is empty: {candidate_path}")
         
         # Return custom story if found, otherwise return pre-generated story
+        # CRITICAL: Add id field if missing (iOS Story model requires it)
         if custom_story_path:
             print(f"📤 [serve_story] Returning custom story from local storage: {custom_story_path}")
-            return FileResponse(str(custom_story_path), media_type="application/json")
+            with open(custom_story_path, "r", encoding="utf-8") as f:
+                story_data = json.load(f)
+            # Ensure id field exists
+            if "id" not in story_data:
+                story_data["id"] = story_data.get("story_id", f"{character_slug}_{topic_mapped}_{lang}")
+            return JSONResponse(content=story_data)
         elif story_path:
             print(f"📤 [serve_story] Returning pre-generated story from local storage: {story_path}")
-            return FileResponse(str(story_path), media_type="application/json")
+            with open(story_path, "r", encoding="utf-8") as f:
+                story_data = json.load(f)
+            # Ensure id field exists
+            if "id" not in story_data:
+                story_data["id"] = f"{character_slug}_{topic_mapped}_{lang}"
+            return JSONResponse(content=story_data)
         
             # CRITICAL: Don't log "not found" for every candidate - only log summary if none found
         
@@ -1278,6 +1289,10 @@ async def serve_story(
                     print(f"⚠️ [serve_story] Story topic mismatch: LLM returned '{story_topic}', but expected '{topic_mapped}'")
                     print(f"   Overriding topic field to '{topic_mapped}' for consistency")
                     story_data["topic"] = topic_mapped
+                
+                # CRITICAL: Add id field if missing (iOS Story model requires it)
+                if "id" not in story_data:
+                    story_data["id"] = f"{character_slug}_{topic_mapped}_{lang}"
                 
                 # Persist story to file
                 with open(final_story_path, "w", encoding="utf-8") as f:
@@ -1369,59 +1384,59 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
                 # Continue to error handling below (will return mock_audio)
             else:
                 # System story format: character_topic_sceneIndex
-                topic = '_'.join(parts[1:-1])  # Everything between character and scene_index is topic
-                
+            topic = '_'.join(parts[1:-1])  # Everything between character and scene_index is topic
+            
                 # Use centralized topic mapping (from story_composer) for system stories
-                topic_normalized = topic.lower()
-                topic_candidates = get_topic_candidates(topic_normalized)
-                
-                # Also try topic without underscores (for cases like "transitions_change" -> "transitionschange")
-                topic_no_underscore = topic_normalized.replace('_', '')
-                if topic_no_underscore not in topic_candidates:
-                    topic_candidates.append(topic_no_underscore)
-                
-                # Language-specific path: {character}/{lang}/{topic}_{scene_index}.ext
-                # CRITICAL: Only serve audio files in the correct language directory
-                # This prevents serving wrong-language audio files (e.g., French audio when English is requested)
-                for topic_candidate in topic_candidates:
-                    for ext in ['.wav', '.mp3']:
-                        character_path = AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"
-                        if character_path.exists() and character_path.stat().st_size > 0:
-                            media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
-                            # Reduced logging: Only log errors, successful requests are logged by uvicorn access logs
-                            return FileResponse(str(character_path), media_type=media_type)
-                        # Debug: Log why file wasn't found (only for first candidate to reduce spam)
-                        elif topic_candidate == topic_candidates[0] and ext == '.wav':
-                            if not character_path.parent.exists():
-                                print(f"🔍 [serve_local_audio] Path does not exist: {character_path.parent}")
-                            elif not character_path.exists():
-                                print(f"🔍 [serve_local_audio] File does not exist: {character_path}")
-                            elif character_path.stat().st_size == 0:
-                                print(f"🔍 [serve_local_audio] File is empty: {character_path}")
-                
+            topic_normalized = topic.lower()
+            topic_candidates = get_topic_candidates(topic_normalized)
+            
+            # Also try topic without underscores (for cases like "transitions_change" -> "transitionschange")
+            topic_no_underscore = topic_normalized.replace('_', '')
+            if topic_no_underscore not in topic_candidates:
+                topic_candidates.append(topic_no_underscore)
+            
+            # Language-specific path: {character}/{lang}/{topic}_{scene_index}.ext
+            # CRITICAL: Only serve audio files in the correct language directory
+            # This prevents serving wrong-language audio files (e.g., French audio when English is requested)
+            for topic_candidate in topic_candidates:
+                for ext in ['.wav', '.mp3']:
+                    character_path = AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"
+                    if character_path.exists() and character_path.stat().st_size > 0:
+                        media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
+                        # Reduced logging: Only log errors, successful requests are logged by uvicorn access logs
+                        return FileResponse(str(character_path), media_type=media_type)
+                    # Debug: Log why file wasn't found (only for first candidate to reduce spam)
+                    elif topic_candidate == topic_candidates[0] and ext == '.wav':
+                        if not character_path.parent.exists():
+                            print(f"🔍 [serve_local_audio] Path does not exist: {character_path.parent}")
+                        elif not character_path.exists():
+                            print(f"🔍 [serve_local_audio] File does not exist: {character_path}")
+                        elif character_path.stat().st_size == 0:
+                            print(f"🔍 [serve_local_audio] File is empty: {character_path}")
+            
                 # Fallback: Try old path structure (for backward compatibility) - only for system stories
-                # WARNING: Legacy paths don't have language subdirectory, so we can't verify language
-                # Only use legacy path if no language-specific path exists
-                for topic_candidate in topic_candidates:
-                    for ext in ['.wav', '.mp3']:
-                        legacy_path = AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"
-                        if legacy_path.exists() and legacy_path.stat().st_size > 0:
-                            media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
-                            # Log warning only once per character/topic combination (not every request)
-                            print(f"⚠️ [serve_local_audio] Using legacy path (no lang subdirectory): {character}/{topic_candidate} (lang={lang})")
-                            return FileResponse(str(legacy_path), media_type=media_type)
-                
+            # WARNING: Legacy paths don't have language subdirectory, so we can't verify language
+            # Only use legacy path if no language-specific path exists
+            for topic_candidate in topic_candidates:
+                for ext in ['.wav', '.mp3']:
+                    legacy_path = AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"
+                    if legacy_path.exists() and legacy_path.stat().st_size > 0:
+                        media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
+                        # Log warning only once per character/topic combination (not every request)
+                        print(f"⚠️ [serve_local_audio] Using legacy path (no lang subdirectory): {character}/{topic_candidate} (lang={lang})")
+                        return FileResponse(str(legacy_path), media_type=media_type)
+            
                 # Collect all tried paths for better error reporting (system stories only)
-                tried_paths = []
-                for topic_candidate in topic_candidates:
-                    for ext in ['.wav', '.mp3']:
-                        tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"))
-                        tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"))  # Legacy paths
-                        # CRITICAL: Do NOT fallback to other languages (e.g., "en" when "fr" is requested)
-                        # This would cause wrong-language audio to be served
-                        # Only use the requested language
-                
-                topic_mapped = map_topic(topic_normalized)
+            tried_paths = []
+            for topic_candidate in topic_candidates:
+                for ext in ['.wav', '.mp3']:
+                    tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"))
+                    tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"))  # Legacy paths
+                    # CRITICAL: Do NOT fallback to other languages (e.g., "en" when "fr" is requested)
+                    # This would cause wrong-language audio to be served
+                    # Only use the requested language
+            
+            topic_mapped = map_topic(topic_normalized)
             # CRITICAL: Check what files actually exist in the character directory
             character_dir = AUDIO_BASE_DIR / character.lower()
             lang_dir = character_dir / lang
@@ -3604,11 +3619,82 @@ async def generate_story_text(
     ))
     
     child_part = f" named {child_name}" if child_name else ""
+    # Language-specific child name examples
+    child_name_examples = {
+        "tr": f'"Merhaba {child_name}!" or "{child_name}, bugün sana..."',
+        "en": f'"Hello {child_name}!" or "{child_name}, today I want to tell you..."',
+        "de": f'"Hallo {child_name}!" or "{child_name}, heute möchte ich dir..."',
+        "es": f'"¡Hola {child_name}!" or "{child_name}, hoy quiero contarte..."',
+        "fr": f'"Bonjour {child_name}!" or "{child_name}, aujourd\'hui je veux te raconter..."'
+    }
+    lang_key = language[:2] if len(language) >= 2 else "en"
+    child_name_example = child_name_examples.get(lang_key, child_name_examples["en"])
+    
+    child_name_instruction = f"""
+6. CRITICAL - CHILD NAME PERSONALIZATION: The story is for a child named {child_name}. You MUST use the child's name ({child_name}) multiple times throughout the story when addressing the child or referring to them. Use the child's name naturally in dialogue and narration, for example: {child_name_example}. The child's name should appear at least 3-5 times in the story.""" if child_name else ""
     
     # Calculate target word count based on duration (120 words per minute for kid-friendly pace)
     target_word_count = target_words
     
-    prompt = f"""You are {character_name}, a friendly character telling a bedtime story to a child{child_part}.
+    # PEDAGOGICAL APPROACH: All stories use evidence-based child development techniques
+    # Based on: Positive Discipline, Montessori, Social-Emotional Learning (SEL), and Play Therapy principles
+    pedagogical_instruction = """
+7. CRITICAL - PEDAGOGICALLY APPROVED STORYTELLING APPROACH:
+   Use these evidence-based child development techniques in ALL stories:
+   
+   a) POSITIVE MODELING (Social Learning Theory - Bandura):
+      - Show characters making positive choices and experiencing natural positive outcomes
+      - Never lecture, command, or tell the child what to do
+      - Let the story character discover benefits through their own experience
+   
+   b) EMOTIONAL VALIDATION (Play Therapy principles):
+      - Acknowledge that feelings are normal and okay
+      - Show characters having similar feelings and working through them
+      - Use phrases like "It's okay to feel..." or "Sometimes we all feel..."
+   
+   c) AUTONOMY SUPPORT (Self-Determination Theory):
+      - Respect the child's ability to make their own choices
+      - Present options, not commands
+      - Focus on internal motivation, not external pressure
+   
+   d) NATURAL CONSEQUENCES (Positive Discipline):
+      - Show logical, natural outcomes of actions in the story
+      - Avoid threats, bribes, or fear-based motivation
+      - Let characters learn through gentle experience
+   
+   e) CONNECTION BEFORE CORRECTION (Attachment Theory):
+      - Build warmth and trust first
+      - Make the child feel understood and accepted
+      - The character is a supportive friend, not an authority figure
+   
+   NEVER USE:
+   - Direct commands ("You should...", "You must...", "You need to...")
+   - Guilt or shame ("Good children do...", "Don't be bad...")
+   - Comparisons ("Other children...", "Your friend does...")
+   - Threats or fear ("If you don't...", "Something bad will happen...")
+   - Bribes or rewards ("If you do this, you'll get...")"""""
+    
+    # Language-specific conversation phrases
+    conversation_phrases = {
+        "tr": ('"Ne düşünüyorsun?"', '"Biliyor musun?"'),
+        "en": ('"What do you think?"', '"You know what?"'),
+        "de": ('"Was denkst du?"', '"Weißt du was?"'),
+        "es": ('"¿Qué piensas?"', '"¿Sabes qué?"'),
+        "fr": ('"Qu\'en penses-tu?"', '"Tu sais quoi?"')
+    }
+    conv_question, conv_transition = conversation_phrases.get(lang_key, conversation_phrases["en"])
+    
+    phone_conversation_instruction = f"""
+8. CRITICAL - PHONE CONVERSATION FORMAT: This story will be told over the phone in a video call format. The story must:
+   - Be written as a CONVERSATION between the character and the child - use direct address and dialogue
+   - Use natural, spoken language that sounds like a friendly phone conversation
+   - Include questions and responses that feel like a real conversation (e.g., {conv_question})
+   - Use conversational transitions like {conv_transition}
+   - Make the child feel like they are actively participating in a conversation, not just listening to a monologue
+   - Use pauses and natural speech patterns that work well for phone conversations
+   - The character should speak directly to the child, as if they are having a real-time conversation"""
+    
+    prompt = f"""You are {character_name}, a friendly character having a phone conversation with a child{child_part} and telling them a story.
 
 Character background:
 {persona}
@@ -3625,17 +3711,20 @@ IMPORTANT INSTRUCTIONS:
 2. Write the story in {language}. Use correct grammar and spelling for {language}.
 3. The story must be 100% child-friendly: no violence, scary content, inappropriate language, or negative themes.
 4. Keep the story positive, educational, and age-appropriate for children aged 2-8.
-5. Understand the CORRECTED topic meaning and create a story that addresses the actual intent (e.g., if corrected to "mont giymemek", create a story about wearing a coat, not about going somewhere).
+5. Understand the CORRECTED topic meaning and create a story that addresses the actual intent (e.g., if corrected to "mont giymemek", create a story about wearing a coat, not about going somewhere).{child_name_instruction}{pedagogical_instruction}{phone_conversation_instruction}
 
-Create a calming, age-appropriate bedtime story that takes approximately {target_duration_min}-{target_duration_max} minutes when read aloud (approximately {target_word_count} words). The story should be:
+Create a calming, age-appropriate story for a phone conversation that takes approximately {target_duration_min}-{target_duration_max} minutes when spoken aloud (approximately {target_word_count} words). The story should be:
+- Written as a natural phone conversation between you and the child
 - Positive and reassuring
 - Suitable for children aged 2-8
-- Calming for bedtime
+- Calming and gentle
 - Engaging but not overstimulating
-- Approximately {target_word_count} words long (aim for {target_duration_min}-{target_duration_max} minutes when read at a normal pace)
+- Approximately {target_word_count} words long (aim for {target_duration_min}-{target_duration_max} minutes when spoken at a normal pace)
 - Use correct {language} grammar and spelling throughout
+- Use conversational, spoken language that sounds natural in a phone call
+{f" - CRITICAL: Use the child's name ({child_name}) multiple times throughout the story when addressing the child. Address the child directly by name, for example: {child_name_example}. The child's name should appear at least 3-5 times naturally in the story." if child_name else ""}
 
-CRITICAL: Filter out any inappropriate words or themes. The story must be completely safe for children.
+CRITICAL: Filter out any inappropriate words or themes. The story must be completely safe for children. Write it as if you are having a warm, friendly phone conversation with the child.
 
 Story:"""
     
@@ -4359,7 +4448,39 @@ async def generate_story_title(story_text: str, language: str, character: str, c
         lang_key = language[:2] if len(language) >= 2 else "en"
         instruction = lang_instructions.get(lang_key, lang_instructions["en"])
         
+        # Language-specific title formats with child name
+        title_formats = {
+            "tr": [
+                f'"{character_name} ve {child_name}\'nin [Topic] Macerası"',
+                f'"{character_name} ile {child_name}\'nin [Topic] Hikayesi"'
+            ],
+            "en": [
+                f'"{character_name} and {child_name}\'s [Topic] Adventure"',
+                f'"{character_name} and {child_name}\'s [Topic] Story"'
+            ],
+            "de": [
+                f'"{character_name} und {child_name}s [Topic] Abenteuer"',
+                f'"{character_name} und {child_name}s [Topic] Geschichte"'
+            ],
+            "es": [
+                f'"La Aventura de [Topic] de {character_name} y {child_name}"',
+                f'"La Historia de [Topic] de {character_name} y {child_name}"'
+            ],
+            "fr": [
+                f'"L\'Aventure de [Topic] de {character_name} et {child_name}"',
+                f'"L\'Histoire de [Topic] de {character_name} et {child_name}"'
+            ]
+        }
+        
         # Build prompt
+        title_format_examples = title_formats.get(lang_key, title_formats["en"])
+        title_format_text = " or ".join(title_format_examples)
+        
+        child_name_requirement = f"""
+CRITICAL - CHILD NAME IN TITLE: The story is personalized for a child named {child_name}. You MUST include the child's name ({child_name}) in the title. 
+Use format like {title_format_text}.
+The title MUST be personalized with the child's name - this is mandatory, not optional.""" if child_name else ""
+        
         child_part = f" The story is personalized for a child named {child_name}." if child_name else ""
         prompt = f"""You are a children's story title generator. Create an engaging, child-friendly title for this story.
 
@@ -4371,7 +4492,7 @@ Requirements:
 1. {instruction}
 2. The title should reflect the main theme or lesson of the story
 3. It should be positive and appropriate for children aged 2-8
-4. Include the character's name if it makes the title more engaging
+4. Include the character's name if it makes the title more engaging{child_name_requirement}
 5. Do NOT include quotes, colons, or special punctuation
 6. Return ONLY the title, no explanations
 
@@ -4498,9 +4619,17 @@ async def get_story(
 async def list_stories(
     userId: str = "me",
     limit: int = 10,
+    lang: Optional[str] = None,  # Optional language filter
     user_id: Optional[str] = Depends(verify_firebase_token)
 ):
     """List user's stories.
+    
+    Args:
+        userId: User ID (default "me" = current user)
+        limit: Max number of stories to return
+        lang: Optional language filter (e.g., "tr", "en", "de", "es", "fr")
+              If provided, only stories in that language are returned.
+              If not provided, all stories are returned.
     
     NOTE: This query requires a Firestore composite index:
     - Collection: stories
@@ -4525,6 +4654,11 @@ async def list_stories(
         stories = []
         for doc in query.stream():
             story_data = doc.to_dict()
+            # Apply language filter if specified
+            if lang:
+                story_lang = story_data.get("language", "en")
+                if story_lang != lang:
+                    continue  # Skip stories in other languages
             stories.append(StoryResponse(**story_data))
         
         # Get quota remaining
