@@ -769,7 +769,7 @@ async def generate_tts(
             audio_basename = f"{topic_file}_{safe_story_suffix}_{scene_index}"
         else:
             # Legacy/shared bundle behaviour (pre-generated content)
-        key = f"{character_normalized}_{topic_file}_{scene_index}"
+            key = f"{character_normalized}_{topic_file}_{scene_index}"
             audio_basename = f"{topic_file}_{scene_index}"
 
         # Language-specific audio path: {character}/{lang}/{topic}_{scene_index}[_{story}] .wav
@@ -1217,7 +1217,7 @@ async def serve_story(
                         else:
                             # Pre-generated story - use as fallback if no custom story found
                             if not custom_story_path:
-                        story_path = candidate_path
+                                story_path = candidate_path
                                 print(f"✅ [serve_story] Found pre-generated story: {story_path} (lang={lang}, size: {file_size} bytes, topic: {story_topic})")
                     except (json.JSONDecodeError, KeyError, Exception) as e:
                         print(f"⚠️ [serve_story] Failed to validate story topic in {candidate_path}: {e}")
@@ -1384,11 +1384,11 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
                 # Continue to error handling below (will return mock_audio)
             else:
                 # System story format: character_topic_sceneIndex
-            topic = '_'.join(parts[1:-1])  # Everything between character and scene_index is topic
-            
+                topic = '_'.join(parts[1:-1])  # Everything between character and scene_index is topic
+                
                 # Use centralized topic mapping (from story_composer) for system stories
-            topic_normalized = topic.lower()
-            topic_candidates = get_topic_candidates(topic_normalized)
+                topic_normalized = topic.lower()
+                topic_candidates = get_topic_candidates(topic_normalized)
             
             # Also try topic without underscores (for cases like "transitions_change" -> "transitionschange")
             topic_no_underscore = topic_normalized.replace('_', '')
