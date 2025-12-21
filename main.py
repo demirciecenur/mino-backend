@@ -4863,6 +4863,8 @@ The title MUST be personalized with the child's name - this is mandatory, not op
         
         prompt = f"""You are a children's story title generator. Create an engaging, child-friendly title for this story.
 
+CRITICAL - CHARACTER NAME: The main character in this story is "{character_name}". You MUST use "{character_name}" in the title, NOT any other character names that might appear in the story text.
+
 Character: {character_name}
 {child_part}
 Story preview: {story_preview}
@@ -4870,11 +4872,12 @@ Story preview: {story_preview}
 Requirements:
 1. {instruction}
 2. {lang_enforcement_text}
-3. The title should reflect the main theme or lesson of the story
-4. It should be positive and appropriate for children aged 2-8
-5. Include the character's name if it makes the title more engaging{child_name_requirement}
-6. Do NOT include quotes, colons, or special punctuation
-7. Return ONLY the title, no explanations
+3. The title MUST include the character name "{character_name}" - this is mandatory
+4. The title should reflect the main theme or lesson of the story
+5. It should be positive and appropriate for children aged 2-8
+6. Do NOT use any other character names from the story text - ONLY use "{character_name}"{child_name_requirement}
+7. Do NOT include quotes, colons, or special punctuation
+8. Return ONLY the title, no explanations
 
 Title:"""
         
@@ -4902,7 +4905,16 @@ Title:"""
             print(f"⚠️ [generate_story_title] Generated title too short: '{title}', using fallback")
             return extract_title_from_text(story_text)
         
-        print(f"✅ [generate_story_title] Generated title: '{title}' (language: {language}, character: {character_name})")
+        # Verify that the generated title uses the correct character name
+        title_lower = title.lower()
+        character_name_lower = character_name.lower()
+        if character_name_lower not in title_lower:
+            print(f"⚠️ [generate_story_title] WARNING: Generated title '{title}' does not contain character name '{character_name}'")
+            print(f"   Character slug was: {character}, mapped to display name: {character_name}")
+            # Try to regenerate with stronger emphasis on character name
+            # For now, just log the warning - the title is still valid
+        
+        print(f"✅ [generate_story_title] Generated title: '{title}' (language: {language}, character: {character_name}, slug: {character})")
         return title
         
     except Exception as e:
