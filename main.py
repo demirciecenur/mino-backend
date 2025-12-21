@@ -1121,32 +1121,39 @@ async def serve_story(
             
             # Fallback: Query by fields (for backward compatibility with old story IDs)
             # CRITICAL: Include custom_description stories and return the most recent one
+            # OPTIMIZATION: Removed order_by to avoid composite index requirement
+            # Results will be sorted in Python by created_at instead
             print(f"🔍 [serve_story] Checking Firestore for custom story (query fallback): user_id={user_id}, character={character_slug}, topic={topic_mapped}, lang={lang}")
             stories_ref = db.collection("stories")
             query = stories_ref.where(filter=FieldFilter("owner_user_id", "==", user_id))\
                               .where(filter=FieldFilter("character_id", "==", character_slug))\
                               .where(filter=FieldFilter("topic", "==", topic_mapped))\
                               .where(filter=FieldFilter("language", "==", lang))\
-                              .where(filter=FieldFilter("status", "==", "ready"))\
-                              .order_by("created_at", direction=firestore.Query.DESCENDING)
+                              .where(filter=FieldFilter("status", "==", "ready"))
             
             try:
                 matching_stories = list(query.stream())
                 if matching_stories:
-                    # Filter for custom stories only and return the most recent one
+                    # Filter for custom stories only and sort by created_at in Python
+                    custom_stories = []
                     for story_doc in matching_stories:
                         story_data = story_doc.to_dict()
                         story_kind = story_data.get("kind", "custom")
                         if story_kind == "custom" or story_kind is None:
                             story_id = story_doc.id
-                            story_title = story_data.get("title", "N/A")
-                            # CRITICAL: Add id field to story_data (Firestore document ID)
-                            # iOS Story model requires id field for decoding
                             story_data["id"] = story_id
-                            print(f"✅ [serve_story] Found custom story (query fallback): {story_id}")
-                            print(f"   Title: {story_title}")
-                            print(f"   Created at: {story_data.get('created_at', 'N/A')}")
-                            return JSONResponse(content=story_data)
+                            created_at = story_data.get("created_at", 0)
+                            custom_stories.append((created_at, story_data, story_id))
+                    
+                    # Sort by created_at descending (most recent first) and return the first one
+                    if custom_stories:
+                        custom_stories.sort(key=lambda x: x[0], reverse=True)
+                        created_at, story_data, story_id = custom_stories[0]
+                        story_title = story_data.get("title", "N/A")
+                        print(f"✅ [serve_story] Found custom story (query fallback): {story_id}")
+                        print(f"   Title: {story_title}")
+                        print(f"   Created at: {created_at}")
+                        return JSONResponse(content=story_data)
             except Exception as e:
                 print(f"⚠️ [serve_story] Error querying Firestore: {e}")
                 import traceback
