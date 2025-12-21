@@ -3245,16 +3245,64 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         
         # CONTROL 3: Extract characters used in generated story (for verification)
         # Check if the requested character name appears in the story text
-        character_display_map = {
-            "spiderman": "Spider Fighter",
-            "minion": "Yellow Buddy",
-            "tweety": "Chirpy Birdie",
-            "spongebob": "Bubble Buddy",
-            "elsa": "Elisa the Ice Fairy",
-            "tom": "Sneaky Cat Tom",
-            "jerry": "Clever Mouse Jerry",
-            "ninjaturtles": "Shell Heroes Crew"
+        # Use language-aware character display name mapping (shared with generate_story_text)
+        lang_key = request.language[:2] if len(request.language) >= 2 else "en"
+        # Import shared character mapping (same as generate_story_text)
+        # For verification, we check all possible character name variations
+        # IMPORTANT: Using ASO-safe derivative names (not original copyrighted names)
+        character_display_maps_verification = {
+            "tr": {
+                "spiderman": "Örümcek Savaşçısı", "minion": "Sarı Arkadaş", "tweety": "Cıvıl Kuş",
+                "spongebob": "Baloncuk", "elsa": "Buz Prensesi Elisa", "tom": "Sinsi Kedi Tom",
+                "jerry": "Zeki Fare Jerry", "ninjaturtles": "Kabuk Kahramanlar", "koko": "Koko",
+                "bugsbunny": "Komik Tavşan", "ironman": "Metal Kahraman", "peppapig": "Domuzcuk",
+                "bluey": "Mavi Köpek", "pawpatrol": "Kurtarma Köpekleri", "moana": "Okyanus Hayalcisi",
+                "mario": "Süper Zıplayan", "shrek": "Yeşil Dev", "pussinboots": "Çizmeli Kedi",
+                "sid": "Buz Arkadaşı", "dora": "Macera Keşifçisi", "olaf": "Kardan Adam Arkadaşı",
+                "pikachu": "Sarı Şimşek", "scoobydoo": "Gizemli Köpek", "winnie": "Winnie", "bunny": "Tavşan"
+            },
+            "en": {
+                "spiderman": "Spider Fighter", "minion": "Yellow Buddy", "tweety": "Chirpy Bird",
+                "spongebob": "Bubble", "elsa": "Ice Princess Elisa", "tom": "Sneaky Cat Tom",
+                "jerry": "Clever Mouse Jerry", "ninjaturtles": "Shell Heroes", "koko": "Koko",
+                "bugsbunny": "Funny Bunny", "ironman": "Metal Hero", "peppapig": "Piggy",
+                "bluey": "Blue Dog", "pawpatrol": "Rescue Dogs", "moana": "Ocean Dreamer",
+                "mario": "Super Jumper", "shrek": "Green Giant", "pussinboots": "Boots Cat",
+                "sid": "Frost Friend", "dora": "Adventure Explorer", "olaf": "Snowman Buddy",
+                "pikachu": "Yellow Spark", "scoobydoo": "Mystery Pup", "winnie": "Winnie", "bunny": "Bunny"
+            },
+            "de": {
+                "spiderman": "Spinnenkämpfer", "minion": "Gelber Freund", "tweety": "Zwitschervogel",
+                "spongebob": "Blase", "elsa": "Eisprinzessin Elisa", "tom": "Schlaue Katze Tom",
+                "jerry": "Clevere Maus Jerry", "ninjaturtles": "Schildhelden", "koko": "Koko",
+                "bugsbunny": "Lustiger Hase", "ironman": "Metall Held", "peppapig": "Schweinchen",
+                "bluey": "Blauer Hund", "pawpatrol": "Rettungshunde", "moana": "Ozean Träumer",
+                "mario": "Super Springer", "shrek": "Grüner Riese", "pussinboots": "Stiefel Kater",
+                "sid": "Frost Freund", "dora": "Abenteuer Entdecker", "olaf": "Schneemann Freund",
+                "pikachu": "Gelber Funke", "scoobydoo": "Geheimnis Welpe", "winnie": "Winnie", "bunny": "Hase"
+            },
+            "es": {
+                "spiderman": "Luchador Araña", "minion": "Amigo Amarillo", "tweety": "Pájaro Gorjeador",
+                "spongebob": "Burbuja", "elsa": "Princesa de Hielo Elisa", "tom": "Gato Astuto Tom",
+                "jerry": "Ratón Inteligente Jerry", "ninjaturtles": "Héroes Caparazón", "koko": "Koko",
+                "bugsbunny": "Conejo Divertido", "ironman": "Héroe de Metal", "peppapig": "Cerdito",
+                "bluey": "Perro Azul", "pawpatrol": "Perros Rescatadores", "moana": "Soñadora del Océano",
+                "mario": "Super Saltador", "shrek": "Gigante Verde", "pussinboots": "Gato Botas",
+                "sid": "Amigo Helado", "dora": "Explorador Aventurero", "olaf": "Amigo Muñeco de Nieve",
+                "pikachu": "Chispa Amarilla", "scoobydoo": "Cachorro Misterioso", "winnie": "Winnie", "bunny": "Conejo"
+            },
+            "fr": {
+                "spiderman": "Combattant Araignée", "minion": "Ami Jaune", "tweety": "Oiseau Gazouillant",
+                "spongebob": "Bulle", "elsa": "Princesse des Glaces Elisa", "tom": "Chat Rusé Tom",
+                "jerry": "Souris Maligne Jerry", "ninjaturtles": "Héros Carapace", "koko": "Koko",
+                "bugsbunny": "Lapin Rigolo", "ironman": "Héros Métal", "peppapig": "Cochon",
+                "bluey": "Chien Bleu", "pawpatrol": "Chiens Sauveteurs", "moana": "Rêveuse de l'Océan",
+                "mario": "Super Sauteur", "shrek": "Géant Vert", "pussinboots": "Chat Bottes",
+                "sid": "Ami Givré", "dora": "Explorateur Aventurier", "olaf": "Ami Bonhomme de Neige",
+                "pikachu": "Étincelle Jaune", "scoobydoo": "Chiot Mystérieux", "winnie": "Winnie", "bunny": "Lapin"
+            }
         }
+        character_display_map = character_display_maps_verification.get(lang_key, character_display_maps_verification["en"])
         requested_character_name = character_display_map.get(character_slug, character_slug.capitalize())
         characters_used = []
         if requested_character_name.lower() in story_text.lower():
@@ -3547,23 +3595,178 @@ async def generate_story_text(
     import openai
     client = openai.OpenAI(api_key=settings.OPENAI_API_KEY)
     
-    # Map character slug to display name (for prompt)
-    character_display_map = {
-        "spiderman": "Spider Fighter",
-        "minion": "Yellow Buddy",
-        "tweety": "Chirpy Birdie",
-        "spongebob": "Bubble Buddy",
-        "elsa": "Elisa the Ice Fairy",
-        "tom": "Sneaky Cat Tom",
-        "jerry": "Clever Mouse Jerry",
-        "ninjaturtles": "Shell Heroes Crew",
-        "sunny": "Sunny",
-        "bubu": "Bubu",
-        "luna": "Luna",
-        "tiko": "Tiko",
-        "mino": "Mino"
+    # Map character slug to display name (language-aware for prompt)
+    lang_key = language[:2] if len(language) >= 2 else "en"
+    
+    # Language-specific character display names (shared with generate_story_title)
+    # CRITICAL: All characters must be present for consistency between UI and Backend
+    # Age-appropriate translations for 2-8 year olds: FUNNY, REALISTIC, SHORT
+    # IMPORTANT: Using ASO-safe derivative names (not original copyrighted names)
+    character_display_maps = {
+        "tr": {
+            "spiderman": "Örümcek Savaşçısı",
+            "minion": "Sarı Arkadaş",
+            "tweety": "Cıvıl Kuş",
+            "spongebob": "Baloncuk",
+            "elsa": "Buz Prensesi Elisa",
+            "tom": "Sinsi Kedi Tom",
+            "jerry": "Zeki Fare Jerry",
+            "ninjaturtles": "Kabuk Kahramanlar",
+            "sunny": "Sunny",
+            "bubu": "Bubu",
+            "luna": "Luna",
+            "tiko": "Tiko",
+            "mino": "Mino",
+            "koko": "Koko",
+            "bugsbunny": "Komik Tavşan",
+            "ironman": "Metal Kahraman",
+            "peppapig": "Domuzcuk",
+            "bluey": "Mavi Köpek",
+            "pawpatrol": "Kurtarma Köpekleri",
+            "moana": "Okyanus Hayalcisi",
+            "mario": "Süper Zıplayan",
+            "shrek": "Yeşil Dev",
+            "pussinboots": "Çizmeli Kedi",
+            "sid": "Buz Arkadaşı",
+            "dora": "Macera Keşifçisi",
+            "olaf": "Kardan Adam Arkadaşı",
+            "pikachu": "Sarı Şimşek",
+            "scoobydoo": "Gizemli Köpek",
+            "winnie": "Winnie",
+            "bunny": "Tavşan"
+        },
+        "en": {
+            "spiderman": "Spider Fighter",
+            "minion": "Yellow Buddy",
+            "tweety": "Chirpy Bird",
+            "spongebob": "Bubble",
+            "elsa": "Ice Princess Elisa",
+            "tom": "Sneaky Cat Tom",
+            "jerry": "Clever Mouse Jerry",
+            "ninjaturtles": "Shell Heroes",
+            "sunny": "Sunny",
+            "bubu": "Bubu",
+            "luna": "Luna",
+            "tiko": "Tiko",
+            "mino": "Mino",
+            "koko": "Koko",
+            "bugsbunny": "Funny Bunny",
+            "ironman": "Metal Hero",
+            "peppapig": "Piggy",
+            "bluey": "Blue Dog",
+            "pawpatrol": "Rescue Dogs",
+            "moana": "Ocean Dreamer",
+            "mario": "Super Jumper",
+            "shrek": "Green Giant",
+            "pussinboots": "Boots Cat",
+            "sid": "Frost Friend",
+            "dora": "Adventure Explorer",
+            "olaf": "Snowman Buddy",
+            "pikachu": "Yellow Spark",
+            "scoobydoo": "Mystery Pup",
+            "winnie": "Winnie",
+            "bunny": "Bunny"
+        },
+        "de": {
+            "spiderman": "Spinnenkämpfer",
+            "minion": "Gelber Freund",
+            "tweety": "Zwitschervogel",
+            "spongebob": "Blase",
+            "elsa": "Eisprinzessin Elisa",
+            "tom": "Schlaue Katze Tom",
+            "jerry": "Clevere Maus Jerry",
+            "ninjaturtles": "Schildhelden",
+            "sunny": "Sunny",
+            "bubu": "Bubu",
+            "luna": "Luna",
+            "tiko": "Tiko",
+            "mino": "Mino",
+            "koko": "Koko",
+            "bugsbunny": "Lustiger Hase",
+            "ironman": "Metall Held",
+            "peppapig": "Schweinchen",
+            "bluey": "Blauer Hund",
+            "pawpatrol": "Rettungshunde",
+            "moana": "Ozean Träumer",
+            "mario": "Super Springer",
+            "shrek": "Grüner Riese",
+            "pussinboots": "Stiefel Kater",
+            "sid": "Frost Freund",
+            "dora": "Abenteuer Entdecker",
+            "olaf": "Schneemann Freund",
+            "pikachu": "Gelber Funke",
+            "scoobydoo": "Geheimnis Welpe",
+            "winnie": "Winnie",
+            "bunny": "Hase"
+        },
+        "es": {
+            "spiderman": "Luchador Araña",
+            "minion": "Amigo Amarillo",
+            "tweety": "Pájaro Gorjeador",
+            "spongebob": "Burbuja",
+            "elsa": "Princesa de Hielo Elisa",
+            "tom": "Gato Astuto Tom",
+            "jerry": "Ratón Inteligente Jerry",
+            "ninjaturtles": "Héroes Caparazón",
+            "sunny": "Sunny",
+            "bubu": "Bubu",
+            "luna": "Luna",
+            "tiko": "Tiko",
+            "mino": "Mino",
+            "koko": "Koko",
+            "bugsbunny": "Conejo Divertido",
+            "ironman": "Héroe de Metal",
+            "peppapig": "Cerdito",
+            "bluey": "Perro Azul",
+            "pawpatrol": "Perros Rescatadores",
+            "moana": "Soñadora del Océano",
+            "mario": "Super Saltador",
+            "shrek": "Gigante Verde",
+            "pussinboots": "Gato Botas",
+            "sid": "Amigo Helado",
+            "dora": "Explorador Aventurero",
+            "olaf": "Amigo Muñeco de Nieve",
+            "pikachu": "Chispa Amarilla",
+            "scoobydoo": "Cachorro Misterioso",
+            "winnie": "Winnie",
+            "bunny": "Conejo"
+        },
+        "fr": {
+            "spiderman": "Combattant Araignée",
+            "minion": "Ami Jaune",
+            "tweety": "Oiseau Gazouillant",
+            "spongebob": "Bulle",
+            "elsa": "Princesse des Glaces Elisa",
+            "tom": "Chat Rusé Tom",
+            "jerry": "Souris Maligne Jerry",
+            "ninjaturtles": "Héros Carapace",
+            "sunny": "Sunny",
+            "bubu": "Bubu",
+            "luna": "Luna",
+            "tiko": "Tiko",
+            "mino": "Mino",
+            "koko": "Koko",
+            "bugsbunny": "Lapin Rigolo",
+            "ironman": "Héros Métal",
+            "peppapig": "Cochon",
+            "bluey": "Chien Bleu",
+            "pawpatrol": "Chiens Sauveteurs",
+            "moana": "Rêveuse de l'Océan",
+            "mario": "Super Sauteur",
+            "shrek": "Géant Vert",
+            "pussinboots": "Chat Bottes",
+            "sid": "Ami Givré",
+            "dora": "Explorateur Aventurier",
+            "olaf": "Ami Bonhomme de Neige",
+            "pikachu": "Étincelle Jaune",
+            "scoobydoo": "Chiot Mystérieux",
+            "winnie": "Winnie",
+            "bunny": "Lapin"
+        }
     }
+    
     character_slug = character.lower()
+    character_display_map = character_display_maps.get(lang_key, character_display_maps["en"])
     character_name = character_display_map.get(character_slug, character.capitalize())
     
     # Character-specific persona descriptions (kept short and reusable across topics)
@@ -4422,22 +4625,178 @@ async def generate_story_title(story_text: str, language: str, character: str, c
         import openai
         client = openai.OpenAI(api_key=settings.OPENAI_API_KEY)
         
-        # Map character slug to display name
-        character_display_map = {
-            "spiderman": "Spider Fighter",
-            "minion": "Yellow Buddy",
-            "tweety": "Chirpy Birdie",
-            "spongebob": "Bubble Buddy",
-            "elsa": "Elisa the Ice Fairy",
-            "tom": "Sneaky Cat Tom",
-            "jerry": "Clever Mouse Jerry",
-            "ninjaturtles": "Shell Heroes Crew",
-            "sunny": "Sunny",
-            "bubu": "Bubu",
-            "luna": "Luna",
-            "tiko": "Tiko",
-            "mino": "Mino"
+        # Map character slug to display name (language-aware)
+        lang_key = language[:2] if len(language) >= 2 else "en"
+        
+        # Language-specific character display names (shared with generate_story_text)
+        # CRITICAL: All characters must be present for consistency between UI and Backend
+        # Age-appropriate translations for 2-8 year olds: FUNNY, REALISTIC, SHORT
+        # IMPORTANT: Using ASO-safe derivative names (not original copyrighted names)
+        character_display_maps = {
+            "tr": {
+                "spiderman": "Örümcek Savaşçısı",
+                "minion": "Sarı Arkadaş",
+                "tweety": "Cıvıl Kuş",
+                "spongebob": "Baloncuk",
+                "elsa": "Buz Prensesi Elisa",
+                "tom": "Sinsi Kedi Tom",
+                "jerry": "Zeki Fare Jerry",
+                "ninjaturtles": "Kabuk Kahramanlar",
+                "sunny": "Sunny",
+                "bubu": "Bubu",
+                "luna": "Luna",
+                "tiko": "Tiko",
+                "mino": "Mino",
+                "koko": "Koko",
+                "bugsbunny": "Komik Tavşan",
+                "ironman": "Metal Kahraman",
+                "peppapig": "Domuzcuk",
+                "bluey": "Mavi Köpek",
+                "pawpatrol": "Kurtarma Köpekleri",
+                "moana": "Okyanus Hayalcisi",
+                "mario": "Süper Zıplayan",
+                "shrek": "Yeşil Dev",
+                "pussinboots": "Çizmeli Kedi",
+                "sid": "Buz Arkadaşı",
+                "dora": "Macera Keşifçisi",
+                "olaf": "Kardan Adam Arkadaşı",
+                "pikachu": "Sarı Şimşek",
+                "scoobydoo": "Gizemli Köpek",
+                "winnie": "Winnie",
+                "bunny": "Tavşan"
+            },
+            "en": {
+                "spiderman": "Spider Fighter",
+                "minion": "Yellow Buddy",
+                "tweety": "Chirpy Bird",
+                "spongebob": "Bubble",
+                "elsa": "Ice Princess Elisa",
+                "tom": "Sneaky Cat Tom",
+                "jerry": "Clever Mouse Jerry",
+                "ninjaturtles": "Shell Heroes",
+                "sunny": "Sunny",
+                "bubu": "Bubu",
+                "luna": "Luna",
+                "tiko": "Tiko",
+                "mino": "Mino",
+                "koko": "Koko",
+                "bugsbunny": "Funny Bunny",
+                "ironman": "Metal Hero",
+                "peppapig": "Piggy",
+                "bluey": "Blue Dog",
+                "pawpatrol": "Rescue Dogs",
+                "moana": "Ocean Dreamer",
+                "mario": "Super Jumper",
+                "shrek": "Green Giant",
+                "pussinboots": "Boots Cat",
+                "sid": "Frost Friend",
+                "dora": "Adventure Explorer",
+                "olaf": "Snowman Buddy",
+                "pikachu": "Yellow Spark",
+                "scoobydoo": "Mystery Pup",
+                "winnie": "Winnie",
+                "bunny": "Bunny"
+            },
+            "de": {
+                "spiderman": "Spinnenkämpfer",
+                "minion": "Gelber Freund",
+                "tweety": "Zwitschervogel",
+                "spongebob": "Blase",
+                "elsa": "Eisprinzessin Elisa",
+                "tom": "Schlaue Katze Tom",
+                "jerry": "Clevere Maus Jerry",
+                "ninjaturtles": "Schildhelden",
+                "sunny": "Sunny",
+                "bubu": "Bubu",
+                "luna": "Luna",
+                "tiko": "Tiko",
+                "mino": "Mino",
+                "koko": "Koko",
+                "bugsbunny": "Lustiger Hase",
+                "ironman": "Metall Held",
+                "peppapig": "Schweinchen",
+                "bluey": "Blauer Hund",
+                "pawpatrol": "Rettungshunde",
+                "moana": "Ozean Träumer",
+                "mario": "Super Springer",
+                "shrek": "Grüner Riese",
+                "pussinboots": "Stiefel Kater",
+                "sid": "Frost Freund",
+                "dora": "Abenteuer Entdecker",
+                "olaf": "Schneemann Freund",
+                "pikachu": "Gelber Funke",
+                "scoobydoo": "Geheimnis Welpe",
+                "winnie": "Winnie",
+                "bunny": "Hase"
+            },
+            "es": {
+                "spiderman": "Luchador Araña",
+                "minion": "Amigo Amarillo",
+                "tweety": "Pájaro Gorjeador",
+                "spongebob": "Burbuja",
+                "elsa": "Princesa de Hielo Elisa",
+                "tom": "Gato Astuto Tom",
+                "jerry": "Ratón Inteligente Jerry",
+                "ninjaturtles": "Héroes Caparazón",
+                "sunny": "Sunny",
+                "bubu": "Bubu",
+                "luna": "Luna",
+                "tiko": "Tiko",
+                "mino": "Mino",
+                "koko": "Koko",
+                "bugsbunny": "Conejo Divertido",
+                "ironman": "Héroe de Metal",
+                "peppapig": "Cerdito",
+                "bluey": "Perro Azul",
+                "pawpatrol": "Perros Rescatadores",
+                "moana": "Soñadora del Océano",
+                "mario": "Super Saltador",
+                "shrek": "Gigante Verde",
+                "pussinboots": "Gato Botas",
+                "sid": "Amigo Helado",
+                "dora": "Explorador Aventurero",
+                "olaf": "Amigo Muñeco de Nieve",
+                "pikachu": "Chispa Amarilla",
+                "scoobydoo": "Cachorro Misterioso",
+                "winnie": "Winnie",
+                "bunny": "Conejo"
+            },
+            "fr": {
+                "spiderman": "Combattant Araignée",
+                "minion": "Ami Jaune",
+                "tweety": "Oiseau Gazouillant",
+                "spongebob": "Bulle",
+                "elsa": "Princesse des Glaces Elisa",
+                "tom": "Chat Rusé Tom",
+                "jerry": "Souris Maligne Jerry",
+                "ninjaturtles": "Héros Carapace",
+                "sunny": "Sunny",
+                "bubu": "Bubu",
+                "luna": "Luna",
+                "tiko": "Tiko",
+                "mino": "Mino",
+                "koko": "Koko",
+                "bugsbunny": "Lapin Rigolo",
+                "ironman": "Héros Métal",
+                "peppapig": "Cochon",
+                "bluey": "Chien Bleu",
+                "pawpatrol": "Chiens Sauveteurs",
+                "moana": "Rêveuse de l'Océan",
+                "mario": "Super Sauteur",
+                "shrek": "Géant Vert",
+                "pussinboots": "Chat Bottes",
+                "sid": "Ami Givré",
+                "dora": "Explorateur Aventurier",
+                "olaf": "Ami Bonhomme de Neige",
+                "pikachu": "Étincelle Jaune",
+                "scoobydoo": "Chiot Mystérieux",
+                "winnie": "Winnie",
+                "bunny": "Lapin"
+            }
         }
+        
+        # Get language-specific character name map, fallback to English
+        character_display_map = character_display_maps.get(lang_key, character_display_maps["en"])
         character_name = character_display_map.get(character.lower(), character.capitalize())
         
         # Get first 500 characters of story for context (to avoid token limits)
@@ -4489,6 +4848,19 @@ Use format like {title_format_text}.
 The title MUST be personalized with the child's name - this is mandatory, not optional.""" if child_name else ""
         
         child_part = f" The story is personalized for a child named {child_name}." if child_name else ""
+        
+        # Language guidance for title generation (age-appropriate, gentle instruction)
+        # Note: For 2-8 year olds, we want natural, child-friendly titles in the correct language
+        # Using gentle guidance rather than strict enforcement to allow creative, age-appropriate titles
+        language_guidance = {
+            "tr": "Please create the title in Turkish (Türkçe). Use Turkish grammar and vocabulary that is natural and appropriate for children aged 2-8.",
+            "en": "Please create the title in English. Use English grammar and vocabulary that is natural and appropriate for children aged 2-8.",
+            "de": "Please create the title in German (Deutsch). Use German grammar and vocabulary that is natural and appropriate for children aged 2-8.",
+            "es": "Please create the title in Spanish (Español). Use Spanish grammar and vocabulary that is natural and appropriate for children aged 2-8.",
+            "fr": "Please create the title in French (Français). Use French grammar and vocabulary that is natural and appropriate for children aged 2-8."
+        }
+        lang_enforcement_text = language_guidance.get(lang_key, language_guidance["en"])
+        
         prompt = f"""You are a children's story title generator. Create an engaging, child-friendly title for this story.
 
 Character: {character_name}
@@ -4497,11 +4869,12 @@ Story preview: {story_preview}
 
 Requirements:
 1. {instruction}
-2. The title should reflect the main theme or lesson of the story
-3. It should be positive and appropriate for children aged 2-8
-4. Include the character's name if it makes the title more engaging{child_name_requirement}
-5. Do NOT include quotes, colons, or special punctuation
-6. Return ONLY the title, no explanations
+2. {lang_enforcement_text}
+3. The title should reflect the main theme or lesson of the story
+4. It should be positive and appropriate for children aged 2-8
+5. Include the character's name if it makes the title more engaging{child_name_requirement}
+6. Do NOT include quotes, colons, or special punctuation
+7. Return ONLY the title, no explanations
 
 Title:"""
         
