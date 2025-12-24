@@ -4969,6 +4969,11 @@ async def get_story(
         print(f"   status: {story_data.get('status', 'N/A')}")
         print(f"   character_id: {story_data.get('character_id', 'N/A')}")
         print(f"   language: {story_data.get('language', 'N/A')}")
+        custom_desc = story_data.get('custom_description')
+        if custom_desc:
+            print(f"   custom_description: '{custom_desc}' (length: {len(custom_desc)} chars)")
+        else:
+            print(f"   custom_description: None")
         print(f"   All fields: {list(story_data.keys())}")
         
         # Debug: Log scenes array structure
