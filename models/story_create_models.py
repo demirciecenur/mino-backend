@@ -42,6 +42,7 @@ class StoryResponse(BaseModel):
     topic: Optional[str] = None
     child_name: Optional[str] = None
     length_type: Optional[str] = None
+    custom_description: Optional[str] = None  # Parent conversation text / custom description
     scenes: Optional[List[Dict[str, Any]]] = None  # Scenes array from Firestore (optional for backward compatibility)
 
 
