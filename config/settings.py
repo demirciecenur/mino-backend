@@ -128,22 +128,22 @@ class Settings:
             "original_inspiration": "Inside Out Sadness"
         },
         "tiko": {
-            "voice": "male-young",
-            "emotion": "energetic",  # Masha-inspired: adventurous, energetic, brave
-            "speed": 0.95,  # Slightly faster pace for adventurous, playful tone (child-friendly)
-            "pitch": 1.0,  # Normal pitch for energetic, curious tone
-            "voice_id": "TxGEqnHWrfWFTfGW9XjX",  # Josh - Young, energetic male voice (perfect for Masha)
+            "voice": "female-bright",
+            "emotion": "energetic",  # Adventurous, energetic, brave - 2-8 year old girl voice
+            "speed": 1.0,  # Normal speed for 5-year-old child voice
+            "pitch": 1.05,  # Slightly higher pitch for energetic, playful tone (2-8 year old girl)
+            "voice_id": "hO2yZ8lxM3axUxL8OeKX",  # Girl (5-year-old child voice) - perfect for Tiko
             "storyteller": True,
-            "original_inspiration": "Masha"
+            "original_inspiration": "Tiko - Adventurous girl character"
         },
         "masha": {  # Alias for Tiko
-            "voice": "male-young",
+            "voice": "female-bright",
             "emotion": "energetic",
-            "speed": 0.95,
-            "pitch": 1.0,
-            "voice_id": "TxGEqnHWrfWFTfGW9XjX",  # Josh - Young, energetic male voice
+            "speed": 1.0,
+            "pitch": 1.05,
+            "voice_id": "hO2yZ8lxM3axUxL8OeKX",  # Girl (5-year-old child voice) - same as Tiko
             "storyteller": True,
-            "original_inspiration": "Masha"
+            "original_inspiration": "Tiko - Adventurous girl character"
         },
         "sunny": {
             "voice": "female-bright",
