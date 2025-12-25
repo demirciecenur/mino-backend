@@ -2958,15 +2958,19 @@ async def create_custom_story(
                     if other_pending:
                         pending_story_id = other_pending[0].id
                         pending_status = other_pending[0].to_dict().get("status", "unknown")
-                        print(f"⚠️ [POST /stories/custom] User has another story in progress: {pending_story_id} (status: {pending_status})")
+                        print(f"❌ [POST /stories/custom] User has another story in progress: {pending_story_id} (status: {pending_status})")
                         print(f"   Cannot create new story while another is being generated")
                         raise HTTPException(
                             status_code=409,  # Conflict
                             detail=f"Another story is currently being generated. Please wait for it to complete before creating a new one."
                         )
+            except HTTPException:
+                # Re-raise HTTPException (user-facing errors should not be caught)
+                raise
             except Exception as e:
                 print(f"⚠️ [POST /stories/custom] Error checking pending stories: {e}")
-                # Continue if query fails (fail-open for better UX)
+                # For non-HTTP exceptions (e.g., Firestore query errors), fail-open for better UX
+                # But log the error so we can monitor and fix issues
                 pass
         
         # Validate quota BEFORE creating (only for NEW stories)
