@@ -2763,11 +2763,14 @@ async def check_user_quota(user_id: str, length: str) -> Tuple[bool, int]:
 
 async def check_user_entitlement(user_id: str) -> bool:
     """
-    Check if user has active subscription.
+    Check if user has active subscription (including grace period).
     
     BEST PRACTICE: Check Firestore only (fast, cached).
     RevenueCat webhooks and iOS app already update Firestore automatically.
     No need for RevenueCat API call - webhooks handle real-time updates.
+    
+    CRITICAL: Grace period support - if will_renew=True and subscription expired recently,
+    user is in grace period (RevenueCat managed) and should have access.
     """
     if not db:
         print("⚠️ [check_user_entitlement] Firestore DB not initialized")
@@ -2790,13 +2793,40 @@ async def check_user_entitlement(user_id: str) -> bool:
         
         expires_at = datetime.fromtimestamp(expires_ms / 1000, tz=timezone.utc)
         now_utc = datetime.now(timezone.utc)
+        will_renew = sub_data.get("will_renew", False)
         
+        # Check if subscription is still active
         if expires_at > now_utc:
             print(f"✅ [check_user_entitlement] Active subscription found (expires: {expires_at})")
             return True
-        else:
-            print(f"ℹ️ [check_user_entitlement] Subscription expired (expired: {expires_at})")
-            return False
+        
+        # CRITICAL: Check grace period (RevenueCat managed)
+        # If will_renew=True and subscription expired, user is in grace period (RevenueCat manages duration)
+        # This matches check_user_quota logic exactly
+        if will_renew and expires_at < now_utc:
+            print(f"✅ [check_user_entitlement] User in GRACE PERIOD (expired: {expires_at}, will_renew: {will_renew})")
+            return True
+        
+        # If will_renew is not set, check if subscription was updated recently (last 24 hours)
+        # This handles cases where RevenueCat webhook hasn't updated will_renew yet
+        if not will_renew and expires_at < now_utc:
+            updated_at = sub_data.get("updated_at")
+            if updated_at:
+                # Firestore Timestamp to datetime (same logic as check_user_quota)
+                if hasattr(updated_at, 'timestamp'):
+                    updated_datetime = datetime.fromtimestamp(updated_at.timestamp())
+                else:
+                    updated_datetime = datetime.fromtimestamp(updated_at / 1000)
+                
+                hours_since_update = (now_utc.replace(tzinfo=None) - updated_datetime).total_seconds() / 3600
+                
+                # If subscription was updated recently (last 24 hours), assume it might renew
+                if hours_since_update < 24:
+                    print(f"✅ [check_user_entitlement] Subscription expired but updated recently ({hours_since_update:.1f}h ago) - assuming grace period")
+                    return True
+        
+        print(f"ℹ️ [check_user_entitlement] Subscription expired (expired: {expires_at}, will_renew: {will_renew})")
+        return False
             
     except Exception as e:
         print(f"⚠️ [check_user_entitlement] Error checking Firestore: {e}")
