@@ -16,7 +16,7 @@ import uuid
 from typing import Optional, Tuple, List, Dict
 import json
 import hashlib
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import struct
 import shutil
 from pathlib import Path
@@ -2762,8 +2762,15 @@ async def check_user_quota(user_id: str, length: str) -> Tuple[bool, int]:
 
 
 async def check_user_entitlement(user_id: str) -> bool:
-    """Check if user has active subscription."""
+    """
+    Check if user has active subscription.
+    
+    BEST PRACTICE: Check Firestore only (fast, cached).
+    RevenueCat webhooks and iOS app already update Firestore automatically.
+    No need for RevenueCat API call - webhooks handle real-time updates.
+    """
     if not db:
+        print("⚠️ [check_user_entitlement] Firestore DB not initialized")
         return False
     
     try:
@@ -2771,17 +2778,28 @@ async def check_user_entitlement(user_id: str) -> bool:
         subscription_doc = subscription_ref.get()
         
         if not subscription_doc.exists:
+            print(f"ℹ️ [check_user_entitlement] No subscription found in Firestore for user: {user_id}")
             return False
         
         sub_data = subscription_doc.to_dict()
         expires_ms = sub_data.get("expires_date_ms")
+        
         if not expires_ms:
+            print(f"ℹ️ [check_user_entitlement] Subscription exists but no expiration date for user: {user_id}")
             return False
         
-        expires_at = datetime.fromtimestamp(expires_ms / 1000)
-        return expires_at > datetime.now()
+        expires_at = datetime.fromtimestamp(expires_ms / 1000, tz=timezone.utc)
+        now_utc = datetime.now(timezone.utc)
+        
+        if expires_at > now_utc:
+            print(f"✅ [check_user_entitlement] Active subscription found (expires: {expires_at})")
+            return True
+        else:
+            print(f"ℹ️ [check_user_entitlement] Subscription expired (expired: {expires_at})")
+            return False
+            
     except Exception as e:
-        print(f"⚠️ Error checking entitlement: {e}")
+        print(f"⚠️ [check_user_entitlement] Error checking Firestore: {e}")
         return False
 
 
