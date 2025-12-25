@@ -561,15 +561,17 @@ async def generate_story_with_openai(character: str, topic: str, lang: str, dura
     max_sentences_per_scene = 7  # Increased for richer, more detailed dialogue
 
     tr_prompt = f"""
-2–8 yaş için PEDİYATRİK AÇIDAN GÜVENLİ, sözlü (konuşma) tarzında UZUN ve DETAYLI bir çağrı senaryosu yaz.
+2–8 yaş için PEDİYATRİK AÇIDAN GÜVENLİ, MONOLOG (tek kişinin konuşması) telefon konuşması formatında UZUN ve DETAYLI bir hikaye yaz.
 Karakter: {character}
 Orijinal Karakter İlhamı: {char_personality['original']}
 Karakter Kişiliği ve Konuşma Tarzı: {char_personality['personality_tr']}
 ÖNEMLİ: {character} karakteri {char_personality['original']} karakterinden esinlenilmiştir. Konuşma tarzı, duygular ve anlatım tarzı {char_personality['original']} karakterinin özelliklerini yansıtmalıdır. Metinler {char_personality['original']} karakterinin çocuk dostu versiyonu gibi konuşmalıdır.
 
+KRİTİK FORMAT: Bu bir MONOLOG telefon konuşmasıdır. {character} karakteri tek başına konuşuyor, çocukla telefon konuşması yapıyormuş gibi ama çocuk cevap vermiyor. Sadece {character} konuşuyor ve hikaye anlatıyor. Diyalog YOK, sadece karakterin monolog konuşması var.
+
 Konu: {topic} (ipucu: {topic_hint_tr})
 Dil: Türkçe
-HEDEF: Yaklaşık {minutes} dakikalık sürekli konuşma içeriği ({target_words} kelime civarı)
+HEDEF: Yaklaşık {minutes} dakikalık sürekli monolog konuşma içeriği ({target_words} kelime civarı)
 
 ⚠️ KRİTİK UYARI: Bu story {minutes} dakikalık konuşma için yeterli uzunlukta OLMALI. Kısa story'ler KABUL EDİLMEZ!
 ⚠️ KRİTİK UYARI: Toplam kelime sayısı MUTLAKA {target_words} kelime civarında olmalı. {target_words * 0.5} kelimeden az story'ler REDDEDİLECEK!
@@ -581,7 +583,7 @@ KRİTİK KURALLAR:
 - Toplam sözcük sayısı MUTLAKA {target_words} kelime civarında olmalı (±%10 tolerans). {target_words * 0.7} kelimeden az story'ler REDDEDİLECEK!
 - Her sahne ÇOK DETAYLI ve GENİŞLETİLMİŞ olmalı - kısa cümleler ama çok sayıda cümle. Her sahne en az 70 kelime içermeli. Her cümleyi detaylandır, örnekler ver, açıklamalar yap.
 - Story çok kısa olmamalı - {minutes} dakikalık konuşma için yeterli içerik üret.
-- 1–2 soru sahnesi ekle ve type=\"question\" olarak işaretle; question sahnelerinde videoKey=\"lean_closer\" kullan (çocuk cevap beklerken).
+- 1–2 soru sahnesi ekle ve type=\"question\" olarak işaretle; question sahnelerinde videoKey=\"lean_closer\" kullan. MONOLOG FORMAT: Sorular retorik sorular olmalı - karakter cevap beklemiyor, kendi cevaplıyor veya devam ediyor.
 - Sakin açılış ve sıcak kapanış ekle.
 - videoKey seçenekleri: [\"wave\",\"talking\",\"raise_hand\",\"hand_on_hip\",\"lean_closer\",\"side_glance\"].
 - videoKey mapping kuralları:
@@ -612,6 +614,8 @@ KRİTİK KURALLAR:
 - SAHNELERDE \"...\" YERİNE GERÇEK CÜMLELER KULLAN. {topic} konusuna SOMUT biçimde değin.
 - Her cümleyi GENİŞLET: Örnekler ver, açıklamalar yap, detaylar ekle. "Neden?" ve "Nasıl?" sorularını cevapla.
 - Her sahne bir mini hikaye gibi olmalı - başlangıç, gelişme, sonuç içermeli.
+- MONOLOG FORMAT: Karakter tek başına konuşuyor, çocukla telefon konuşması yapıyormuş gibi. Çocuk cevap vermiyor, sadece dinliyor. Karakter hikaye anlatıyor, sorular soruyor ama cevap beklemiyor, kendi cevaplıyor veya devam ediyor.
+- Diyalog YOK: İki kişi arasında konuşma yok. Sadece karakterin monolog konuşması var.
 - ÖNEMLİ: Story çok kısa olmamalı. Her sahne en az {min_sentences_per_scene} cümle içermeli ve toplamda {min_scenes} sahneden az olmamalı.
 - ÖNEMLİ: {minutes} dakikalık konuşma için yeterli içerik üret - kısa ve öz değil, detaylı ve genişletilmiş bir story oluştur.
 - ÖNEMLİ: Her sahnenin \"text\" alanı GERÇEK, TAM CÜMLELER içermeli. Placeholder veya kısa metinler OLMAMALI.
@@ -634,15 +638,17 @@ JSON şeması:
 Yalnızca JSON döndür. TÜM SAHNELERDE GERÇEK, TAM CÜMLELER KULLAN.
 """
     en_prompt = f"""
-Write a PEDIATRICALLY SAFE, spoken (out-loud) LONG and DETAILED call story for ages 2–8.
+Write a PEDIATRICALLY SAFE, MONOLOGUE (single person speaking) phone call format LONG and DETAILED story for ages 2–8.
 Character: {character}
 Original Character Inspiration: {char_personality['original']}
 Character Personality and Speech Style: {char_personality['personality_en']}
 IMPORTANT: {character} character is inspired by {char_personality['original']} character. Speech style, emotions, and narrative style should reflect {char_personality['original']} character's traits. Texts should speak like a child-friendly version of {char_personality['original']} character.
 
+CRITICAL FORMAT: This is a MONOLOGUE phone call. {character} character speaks alone, as if having a phone conversation with the child, but the child does not respond. Only {character} speaks and tells the story. NO dialogue, only the character's monologue speech.
+
 Topic: {topic} (hint: {topic_hint_en})
 Language: English
-TARGET: Approximately {minutes} minutes of continuous speech content (~{target_words} words)
+TARGET: Approximately {minutes} minutes of continuous monologue speech content (~{target_words} words)
 
 ⚠️ CRITICAL WARNING: This story MUST be long enough for {minutes} minutes of speech. Short stories are NOT ACCEPTABLE!
 ⚠️ CRITICAL WARNING: Total word count MUST be around {target_words} words. Stories with less than {target_words * 0.5} words will be REJECTED!
@@ -654,7 +660,7 @@ CRITICAL RULES:
 - Target total word count MUST be around {target_words} words (±10% tolerance). Stories with less than {target_words * 0.7} words will be REJECTED!
 - Each scene must be VERY DETAILED and EXPANDED - short sentences but many sentences. Each scene must be at least 70 words. Expand every sentence with details, examples, and explanations.
 - Story must NOT be too short - produce sufficient content for {minutes} minutes of speech.
-- Include 1–2 question scenes (type=\"question\", videoKey=\"lean_closer\" for curious question pose).
+- Include 1–2 question scenes (type=\"question\", videoKey=\"lean_closer\" for curious question pose). MONOLOGUE FORMAT: Questions should be rhetorical - character doesn't wait for answers, answers themself or continues.
 - Add a calm opening and a friendly closing.
 - videoKey options: [\"wave\",\"talking\",\"raise_hand\",\"hand_on_hip\",\"lean_closer\",\"side_glance\"].
 - videoKey mapping rules:
@@ -684,6 +690,8 @@ CRITICAL RULES:
 - DO NOT USE \"...\" PLACEHOLDERS. Be concrete about {topic}; include tiny exercises (e.g., 3 calm breaths, counting to 5).
 - EXPAND every sentence: Give examples, provide explanations, add details. Answer "Why?" and "How?" questions.
 - Each scene should be like a mini-story - include beginning, development, and conclusion.
+- MONOLOGUE FORMAT: Character speaks alone, as if having a phone conversation with the child. The child listens but does not respond. Character tells the story, asks questions but doesn't wait for answers, answers themself or continues.
+- NO DIALOGUE: There is no conversation between two people. Only the character's monologue speech exists.
 - IMPORTANT: Story must NOT be too short. Each scene must have at least {min_sentences_per_scene} sentences and total must be at least {min_scenes} scenes.
 - IMPORTANT: Produce sufficient content for {minutes} minutes of speech - not short and concise, but detailed and expanded story.
 - IMPORTANT: Each scene's \"text\" field must contain REAL, COMPLETE SENTENCES. Placeholders or short texts are NOT ACCEPTABLE.
@@ -770,7 +778,12 @@ REJECTION CRITERIA:
 - Scenes with less than {min_sentences_per_scene} sentences will be REJECTED.
 - Scenes with less than 70 words will be REJECTED.
 
-You are generating a {minutes}-minute conversation script. This requires substantial content. Do NOT create short stories. BE DETAILED AND EXPANSIVE."""
+CRITICAL FORMAT REQUIREMENT:
+- This is a MONOLOGUE phone call: Only the character speaks. The child listens but does not respond.
+- NO DIALOGUE: There is no conversation between two people. Only the character's monologue speech.
+- Character speaks as if having a phone conversation with the child, telling a story, asking rhetorical questions, and continuing the narrative alone.
+
+You are generating a {minutes}-minute MONOLOGUE phone call script. This requires substantial content. Do NOT create short stories. BE DETAILED AND EXPANSIVE."""
             
             resp = client.chat.completions.create(
                 model=openai_model,
