@@ -633,6 +633,12 @@ KRİTİK KURALLAR:
 - ... (devam)
 - closure_Y: {min_sentences_per_scene}-{max_sentences_per_scene} cümle (dostça veda)
 
+KRİTİK FORMAT GEREKSİNİMİ:
+- Story text'inde BAŞLIK veya TİTLE EKLEME. Doğrudan konuşma ile başla.
+- Story karakterin doğal konuşması ile başlamalı, telefon konuşması gibi.
+- Örnek: "Merhaba! Ben {character}. Bugün seninle {topic} hakkında konuşmak istiyorum." gibi doğrudan başla.
+- "Hikaye: ..." veya "Story: ..." gibi başlık YAZMA - sadece doğrudan konuşma ile başla.
+
 JSON şeması:
 {{\"id\":\"{character.lower()}_{topic.lower()}_story\",\"character\":\"{character}\",\"topic\":\"{topic}\",\"language\":\"tr\",\"age_range\":\"2-8\",\"durationMinutes\": {minutes}, \"emotions\":[\"happy\"],\"scenes\":[{{\"id\":\"opening_0\",\"type\":\"opening\",\"videoKey\":\"wave\",\"text\":\"(GERÇEK, TAM {min_sentences_per_scene}-{max_sentences_per_scene} CÜMLE - placeholder değil!)\"}},{{\"id\":\"scene_1\",\"type\":\"speak\",\"videoKey\":\"talking\",\"text\":\"(GERÇEK, TAM {min_sentences_per_scene}-{max_sentences_per_scene} CÜMLE)\"}}]}}
 Yalnızca JSON döndür. TÜM SAHNELERDE GERÇEK, TAM CÜMLELER KULLAN.
@@ -709,9 +715,267 @@ EXAMPLE STORY STRUCTURE (for 10 minutes):
 - ... (continuation)
 - closure_Y: {min_sentences_per_scene}-{max_sentences_per_scene} sentences (friendly goodbye)
 
+CRITICAL FORMAT REQUIREMENT:
+- DO NOT include a title or heading in the story text. Start directly with the conversation.
+- The story should begin with the character speaking naturally, as if answering a phone call.
+- Example: Start with "Hello! I'm {character}. I'd like to talk with you about {topic} today." - direct conversation, no title.
+- DO NOT write a title like "The Story of..." or "Story: ..." - just start the conversation directly.
+
 JSON schema:
 {{\"id\":\"{character.lower()}_{topic.lower()}_story\",\"character\":\"{character}\",\"topic\":\"{topic}\",\"language\":\"en\",\"age_range\":\"2-8\",\"durationMinutes\": {minutes}, \"emotions\":[\"happy\"],\"scenes\":[{{\"id\":\"opening_0\",\"type\":\"opening\",\"videoKey\":\"wave\",\"text\":\"(REAL, COMPLETE {min_sentences_per_scene}-{max_sentences_per_scene} SENTENCES - not placeholder!)\"}},{{\"id\":\"scene_1\",\"type\":\"speak\",\"videoKey\":\"talking\",\"text\":\"(REAL, COMPLETE {min_sentences_per_scene}-{max_sentences_per_scene} SENTENCES)\"}}]}}
 Return JSON only. USE REAL, COMPLETE SENTENCES IN ALL SCENES.
+"""
+    
+    # German prompt
+    de_prompt = f"""
+Schreibe eine PÄDIATRISCH SICHERE, MONOLOG (eine Person spricht) Telefongesprächsformat LANGE und DETAILLIERTE Geschichte für 2–8 Jahre.
+Charakter: {character}
+Original Charakter Inspiration: {char_personality['original']}
+Charakter Persönlichkeit und Sprechstil: {char_personality.get('personality_de', char_personality['personality_en'])}
+WICHTIG: {character} Charakter ist inspiriert von {char_personality['original']} Charakter. Sprechstil, Emotionen und Erzählstil sollten die Eigenschaften des {char_personality['original']} Charakters widerspiegeln. Texte sollten wie eine kindgerechte Version des {char_personality['original']} Charakters sprechen.
+
+KRITISCHES FORMAT: Dies ist ein MONOLOG Telefongespräch. {character} Charakter spricht allein, als hätte er ein Telefongespräch mit dem Kind, aber das Kind antwortet nicht. Nur {character} spricht und erzählt die Geschichte. KEIN Dialog, nur die Monologrede des Charakters.
+
+Thema: {topic} (Hinweis: {topic_hint_de})
+Sprache: Deutsch
+ZIEL: Etwa {minutes} Minuten kontinuierlicher Monologrede (~{target_words} Wörter)
+
+⚠️ KRITISCHER HINWEIS: Diese Geschichte MUSS lang genug für {minutes} Minuten Rede sein. Kurze Geschichten sind NICHT AKZEPTABEL!
+⚠️ KRITISCHER HINWEIS: Die Gesamtwortanzahl MUSS etwa {target_words} Wörter betragen. Geschichten mit weniger als {target_words * 0.5} Wörtern werden ABGELEHNT!
+
+KRITISCHE REGELN:
+- MUSS mindestens {min_scenes} Szenen erstellen, vorzugsweise {min_scenes}–{max_scenes} Szenen.
+- Jede Szene MUSS mindestens {min_sentences_per_scene} Sätze haben, vorzugsweise {min_sentences_per_scene}–{max_sentences_per_scene} Sätze.
+- Das "text" Feld jeder Szene MUSS 70-120 Wörter lang sein (um die Zielwortanzahl zu erreichen). Verwende detailliertere und erweiterte Sätze.
+- Die Gesamtwortanzahl MUSS etwa {target_words} Wörter betragen (±10% Toleranz). Geschichten mit weniger als {target_words * 0.7} Wörtern werden ABGELEHNT!
+- Jede Szene muss SEHR DETAILLIERT und ERWEITERT sein - kurze Sätze, aber viele Sätze. Jede Szene muss mindestens 70 Wörter enthalten. Erweitere jeden Satz mit Details, Beispielen und Erklärungen.
+- Geschichte darf NICHT zu kurz sein - erstelle ausreichend Inhalt für {minutes} Minuten Rede.
+- Füge 1–2 Frageszenen hinzu (type=\"question\", videoKey=\"lean_closer\" für neugierige Fragepose). MONOLOG FORMAT: Fragen sollten rhetorisch sein - Charakter wartet nicht auf Antworten, antwortet selbst oder fährt fort.
+- Füge eine ruhige Eröffnung und einen freundlichen Abschluss hinzu.
+- videoKey Optionen: [\"wave\",\"talking\",\"raise_hand\",\"hand_on_hip\",\"lean_closer\",\"side_glance\"].
+- videoKey Zuordnungsregeln:
+  * type=\"opening\" → videoKey=\"wave\" (freundliche Begrüßungsanimation - universelle Welle)
+  * type=\"closure\" → videoKey=\"wave\" (freundliche Abschiedsanimation - universelle Welle)
+  * type=\"instruction\" → videoKey=\"hand_on_hip\" (Lehr-/Erklärungsanimation)
+  * type=\"encouragement\" → videoKey=\"raise_hand\" (ermutigende Geste)
+  * type=\"question\" → videoKey=\"lean_closer\" (neugierige Fragepose)
+  * type=\"speak\" → videoKey=\"talking\" (allgemeines Sprechen)
+  * type=\"followup\" → videoKey=\"side_glance\" (spielerischer Blick)
+  * type=\"listen\" → videoKey=\"lean_closer\" (Zuhörposition - neugieriges Lehnen)
+- SZENENÜBERGÄNGE UND KONTINUITÄT:
+  * Jede Szene muss logisch aus der vorherigen fließen.
+  * Verwende Übergangsphrasen: \"Jetzt...\", \"Erinnerst du dich, als wir über... sprachen...\", \"Lass uns fortfahren...\" um Szenen zu verbinden.
+  * Zu Beginn jeder Szene verweise kurz auf das, was in der vorherigen Szene besprochen wurde (um Kindern zu helfen, dem Kontext zu folgen).
+  * Am Ende jeder Szene bereite den Übergang zur nächsten vor: \"Jetzt lass uns...\", \"Als Nächstes werden wir...\" usw.
+  * Behalte die Themenkohärenz über Szenen hinweg bei - adressiere {topic} konsistent.
+- ANSPRECHEND FÜR MOBILE KINDER-APP:
+  * Jede Szene sollte dynamisch und unterhaltsam sein, um die Aufmerksamkeit der Kinder zu fesseln.
+  * Füge Mini-Interaktionen hinzu: \"Lass uns zusammen zählen...\", \"Jetzt atmen wir zusammen...\", \"Möchtest du es versuchen?\" usw.
+  * Verwende positive Verstärkung: \"Großartig!\", \"Wunderbar!\", \"Du schaffst das!\" usw.
+  * Gib altersgerechte konkrete Beispiele: \"Wie deine Spielzeuge aufräumen...\", \"Wie Zähne putzen...\" usw.
+- Zielzeit: etwa {minutes} Minuten.
+- NUR kindersichere Inhalte: keine Marken, keine persönlichen Datenerfassung, keine Gewalt, keine gruseligen/dunklen Themen, keine Beleidigungen, keine Erwachsenenthemen, keine medizinischen Ratschläge, keine riskanten Verhaltensvorschläge.
+- Verwende inklusive, sanfte, kulturell neutrale Sprache.
+- Skript wird laut gesprochen: kurze, atembare Sätze, sehr einfacher Wortschatz für 2–8 Jahre.
+- VERWENDE KEINE \"...\" PLATZHALTER. Sei konkret zu {topic}; füge winzige Übungen hinzu (z.B. 3 ruhige Atemzüge, bis 5 zählen).
+- ERWEITERE jeden Satz: Gib Beispiele, liefere Erklärungen, füge Details hinzu. Beantworte "Warum?" und "Wie?" Fragen.
+- Jede Szene sollte wie eine Mini-Geschichte sein - beinhalte Anfang, Entwicklung und Schluss.
+- MONOLOG FORMAT: Charakter spricht allein, als hätte er ein Telefongespräch mit dem Kind. Das Kind hört zu, antwortet aber nicht. Charakter erzählt die Geschichte, stellt Fragen, wartet aber nicht auf Antworten, antwortet selbst oder fährt fort.
+- KEIN DIALOG: Es gibt keine Unterhaltung zwischen zwei Personen. Nur die Monologrede des Charakters existiert.
+- WICHTIG: Geschichte darf NICHT zu kurz sein. Jede Szene muss mindestens {min_sentences_per_scene} Sätze haben und insgesamt muss mindestens {min_scenes} Szenen haben.
+- WICHTIG: Erstelle ausreichend Inhalt für {minutes} Minuten Rede - nicht kurz und prägnant, sondern detaillierte und erweiterte Geschichte.
+- WICHTIG: Das "text" Feld jeder Szene muss ECHTE, VOLLSTÄNDIGE SÄTZE enthalten. Platzhalter oder kurze Texte sind NICHT AKZEPTABEL.
+- WICHTIG: Beispiel: \"text\": \"Hallo kleiner Freund! Ich bin {character}. Heute gehen wir auf eine wunderbare Reise über {topic}. Bist du bereit? Ich bin so neugierig auf dich.\" (4 Sätze - detailliert und erweitert)
+- WICHTIG: KURZE TEXTE SIND NICHT AKZEPTABEL. Jede Szene muss mindestens {min_sentences_per_scene} vollständige Sätze haben.
+
+BEISPIEL GESCHICHTENSTRUKTUR (für 10 Minuten):
+- opening_0: {min_sentences_per_scene}-{max_sentences_per_scene} Sätze (freundliche Begrüßung, Themeneinführung)
+- scene_1: {min_sentences_per_scene}-{max_sentences_per_scene} Sätze (Informationen zum Thema)
+- scene_2: {min_sentences_per_scene}-{max_sentences_per_scene} Sätze (Anleitung - Lehren)
+- scene_3: {min_sentences_per_scene}-{max_sentences_per_scene} Sätze (Interaktion - zusammen machen)
+- scene_4: {min_sentences_per_scene}-{max_sentences_per_scene} Sätze (Fortsetzung)
+- ... (insgesamt {min_scenes}-{max_scenes} Szenen)
+- question_X: {min_sentences_per_scene}-{max_sentences_per_scene} Sätze (Frage stellen)
+- ... (Fortsetzung)
+- closure_Y: {min_sentences_per_scene}-{max_sentences_per_scene} Sätze (freundlicher Abschied)
+
+KRITISCHES FORMAT-ERFORDERLICH:
+- Füge KEINEN Titel oder Überschrift in den Geschichtentext ein. Beginne direkt mit der Unterhaltung.
+- Die Geschichte sollte mit dem Charakter beginnen, der natürlich spricht, als würde er ein Telefongespräch führen.
+- Beispiel: Beginne mit \"Hallo! Ich bin {character}. Ich möchte heute mit dir über {topic} sprechen.\" - direkte Unterhaltung, kein Titel.
+- Schreibe KEINEN Titel wie \"Die Geschichte von...\" oder \"Geschichte: ...\" - beginne einfach direkt mit der Unterhaltung.
+
+JSON Schema:
+{{\"id\":\"{character.lower()}_{topic.lower()}_story\",\"character\":\"{character}\",\"topic\":\"{topic}\",\"language\":\"de\",\"age_range\":\"2-8\",\"durationMinutes\": {minutes}, \"emotions\":[\"happy\"],\"scenes\":[{{\"id\":\"opening_0\",\"type\":\"opening\",\"videoKey\":\"wave\",\"text\":\"(ECHTE, VOLLSTÄNDIGE {min_sentences_per_scene}-{max_sentences_per_scene} SÄTZE - kein Platzhalter!)\"}},{{\"id\":\"scene_1\",\"type\":\"speak\",\"videoKey\":\"talking\",\"text\":\"(ECHTE, VOLLSTÄNDIGE {min_sentences_per_scene}-{max_sentences_per_scene} SÄTZE)\"}}]}}
+Nur JSON zurückgeben. VERWENDE ECHTE, VOLLSTÄNDIGE SÄTZE IN ALLEN SZENEN.
+"""
+    
+    # Spanish prompt
+    es_prompt = f"""
+Escribe una historia LARGA y DETALLADA en formato de llamada telefónica MONÓLOGO (una sola persona habla) PEDIATRICAMENTE SEGURA para edades 2–8.
+Personaje: {character}
+Inspiración del Personaje Original: {char_personality['original']}
+Personalidad del Personaje y Estilo de Habla: {char_personality.get('personality_es', char_personality['personality_en'])}
+IMPORTANTE: El personaje {character} está inspirado en el personaje {char_personality['original']}. El estilo de habla, las emociones y el estilo narrativo deben reflejar las características del personaje {char_personality['original']}. Los textos deben hablar como una versión amigable para niños del personaje {char_personality['original']}.
+
+FORMATO CRÍTICO: Esta es una llamada telefónica MONÓLOGO. El personaje {character} habla solo, como si tuviera una conversación telefónica con el niño, pero el niño no responde. Solo {character} habla y cuenta la historia. NO hay diálogo, solo el monólogo del personaje.
+
+Tema: {topic} (pista: {topic_hint_es})
+Idioma: Español
+OBJETIVO: Aproximadamente {minutes} minutos de contenido de habla monólogo continua (~{target_words} palabras)
+
+⚠️ ADVERTENCIA CRÍTICA: ¡Esta historia DEBE ser lo suficientemente larga para {minutes} minutos de habla. Las historias cortas NO SON ACEPTABLES!
+⚠️ ADVERTENCIA CRÍTICA: ¡El recuento total de palabras DEBE ser alrededor de {target_words} palabras. Las historias con menos de {target_words * 0.5} palabras serán RECHAZADAS!
+
+REGLAS CRÍTICAS:
+- DEBE producir al menos {min_scenes} escenas, preferiblemente {min_scenes}–{max_scenes} escenas.
+- Cada escena DEBE tener al menos {min_sentences_per_scene} oraciones, preferiblemente {min_sentences_per_scene}–{max_sentences_per_scene} oraciones.
+- El campo \"text\" de cada escena DEBE tener 70-120 palabras de longitud (para alcanzar el recuento de palabras objetivo). Usa oraciones más detalladas y expandidas.
+- El recuento total de palabras objetivo DEBE ser alrededor de {target_words} palabras (±10% de tolerancia). ¡Las historias con menos de {target_words * 0.7} palabras serán RECHAZADAS!
+- Cada escena debe ser MUY DETALLADA y EXPANDIDA - oraciones cortas pero muchas oraciones. Cada escena debe tener al menos 70 palabras. Expande cada oración con detalles, ejemplos y explicaciones.
+- La historia NO debe ser demasiado corta - produce contenido suficiente para {minutes} minutos de habla.
+- Incluye 1–2 escenas de pregunta (type=\"question\", videoKey=\"lean_closer\" para pose de pregunta curiosa). FORMATO MONÓLOGO: Las preguntas deben ser retóricas - el personaje no espera respuestas, se responde a sí mismo o continúa.
+- Añade una apertura tranquila y un cierre amigable.
+- Opciones de videoKey: [\"wave\",\"talking\",\"raise_hand\",\"hand_on_hip\",\"lean_closer\",\"side_glance\"].
+- Reglas de mapeo de videoKey:
+  * type=\"opening\" → videoKey=\"wave\" (animación de saludo amigable - onda universal)
+  * type=\"closure\" → videoKey=\"wave\" (animación de despedida amigable - onda universal)
+  * type=\"instruction\" → videoKey=\"hand_on_hip\" (animación de enseñanza/explicación)
+  * type=\"encouragement\" → videoKey=\"raise_hand\" (gesto alentador)
+  * type=\"question\" → videoKey=\"lean_closer\" (pose de pregunta curiosa)
+  * type=\"speak\" → videoKey=\"talking\" (habla general)
+  * type=\"followup\" → videoKey=\"side_glance\" (mirada juguetona)
+  * type=\"listen\" → videoKey=\"lean_closer\" (posición de escucha - inclinación curiosa)
+- TRANSICIONES DE ESCENA Y CONTINUIDAD:
+  * Cada escena debe fluir lógicamente de la anterior.
+  * Usa frases de transición: \"Ahora...\", \"¿Recuerdas cuando hablamos de...?\", \"Continuemos...\" para conectar escenas.
+  * Al inicio de cada escena, haz una breve referencia a lo que se discutió en la escena anterior (para ayudar a los niños a seguir el contexto).
+  * Al final de cada escena, prepara la transición a la siguiente: \"Ahora vamos a...\", \"A continuación...\" etc.
+  * Mantén la coherencia del tema a través de las escenas - aborda {topic} consistentemente.
+- ATRACTIVO PARA APP MÓVIL PARA NIÑOS:
+  * Cada escena debe ser dinámica y divertida para captar la atención de los niños.
+  * Añade mini interacciones: \"Contemos juntos...\", \"Ahora respiremos juntos...\", \"¿Te gustaría intentarlo?\" etc.
+  * Usa refuerzo positivo: \"¡Genial!\", \"¡Maravilloso!\", \"¡Puedes hacerlo!\" etc.
+  * Da ejemplos concretos apropiados para la edad: \"Como recoger tus juguetes...\", \"Como cepillarte los dientes...\" etc.
+- Duración objetivo: aproximadamente {minutes} minutos.
+- SOLO contenido seguro para niños: sin marcas, sin captura de datos personales, sin violencia, sin temas aterradores/oscuros, sin insultos, sin temas para adultos, sin consejos médicos, sin sugerencias de comportamiento riesgoso.
+- Usa lenguaje inclusivo, suave, culturalmente neutral.
+- El guion se habla en voz alta: oraciones cortas y respirables, vocabulario muy simple para edades 2–8.
+- NO USES PLACEHOLDERS \"...\". Sé concreto sobre {topic}; incluye pequeños ejercicios (p. ej., 3 respiraciones calmadas, contar hasta 5).
+- EXPANDE cada oración: Da ejemplos, proporciona explicaciones, añade detalles. Responde preguntas \"¿Por qué?\" y \"¿Cómo?\"
+- Cada escena debe ser como una mini historia - incluye inicio, desarrollo y conclusión.
+- FORMATO MONÓLOGO: El personaje habla solo, como si tuviera una conversación telefónica con el niño. El niño escucha pero no responde. El personaje cuenta la historia, hace preguntas pero no espera respuestas, se responde a sí mismo o continúa.
+- NO HAY DIÁLOGO: No hay conversación entre dos personas. Solo existe el monólogo del personaje.
+- IMPORTANTE: La historia NO debe ser demasiado corta. Cada escena debe tener al menos {min_sentences_per_scene} oraciones y el total debe ser al menos {min_scenes} escenas.
+- IMPORTANTE: Produce contenido suficiente para {minutes} minutos de habla - no corto y conciso, sino historia detallada y expandida.
+- IMPORTANTE: El campo \"text\" de cada escena debe contener ORACIONES REALES Y COMPLETAS. Los placeholders o textos cortos NO SON ACEPTABLES.
+- IMPORTANTE: Ejemplo: \"text\": \"¡Hola pequeño amigo! Soy {character}. Hoy vamos a hacer un viaje increíble sobre {topic}. ¿Estás listo? Tengo mucha curiosidad por ti.\" (4 oraciones - detalladas y expandidas)
+- IMPORTANTE: LOS TEXTOS CORTOS NO SON ACEPTABLES. Cada escena debe tener al menos {min_sentences_per_scene} oraciones completas.
+
+EJEMPLO DE ESTRUCTURA DE HISTORIA (para 10 minutos):
+- opening_0: {min_sentences_per_scene}-{max_sentences_per_scene} oraciones (saludo amigable, introducción del tema)
+- scene_1: {min_sentences_per_scene}-{max_sentences_per_scene} oraciones (información sobre el tema)
+- scene_2: {min_sentences_per_scene}-{max_sentences_per_scene} oraciones (instrucción - enseñanza)
+- scene_3: {min_sentences_per_scene}-{max_sentences_per_scene} oraciones (interacción - hacer juntos)
+- scene_4: {min_sentences_per_scene}-{max_sentences_per_scene} oraciones (continuación)
+- ... (total {min_scenes}-{max_scenes} escenas)
+- question_X: {min_sentences_per_scene}-{max_sentences_per_scene} oraciones (hacer pregunta)
+- ... (continuación)
+- closure_Y: {min_sentences_per_scene}-{max_sentences_per_scene} oraciones (despedida amigable)
+
+REQUISITO DE FORMATO CRÍTICO:
+- NO incluyas un título o encabezado en el texto de la historia. Comienza directamente con la conversación.
+- La historia debe comenzar con el personaje hablando naturalmente, como si respondiera una llamada telefónica.
+- Ejemplo: Comienza con \"¡Hola! Soy {character}. Me gustaría hablar contigo sobre {topic} hoy.\" - conversación directa, sin título.
+- NO escribas un título como \"La Historia de...\" o \"Historia: ...\" - simplemente comienza la conversación directamente.
+
+Esquema JSON:
+{{\"id\":\"{character.lower()}_{topic.lower()}_story\",\"character\":\"{character}\",\"topic\":\"{topic}\",\"language\":\"es\",\"age_range\":\"2-8\",\"durationMinutes\": {minutes}, \"emotions\":[\"happy\"],\"scenes\":[{{\"id\":\"opening_0\",\"type\":\"opening\",\"videoKey\":\"wave\",\"text\":\"(ORACIONES REALES Y COMPLETAS {min_sentences_per_scene}-{max_sentences_per_scene} - ¡no placeholder!)\"}},{{\"id\":\"scene_1\",\"type\":\"speak\",\"videoKey\":\"talking\",\"text\":\"(ORACIONES REALES Y COMPLETAS {min_sentences_per_scene}-{max_sentences_per_scene})\"}}]}}
+Devuelve solo JSON. USA ORACIONES REALES Y COMPLETAS EN TODAS LAS ESCENAS.
+"""
+    
+    # French prompt
+    fr_prompt = f"""
+Écris une histoire LONGUE et DÉTAILLÉE au format d'appel téléphonique MONOLOGUE (une seule personne parle) PÉDIATRIQUEMENT SÛRE pour les âges 2–8.
+Personnage: {character}
+Inspiration du Personnage Original: {char_personality['original']}
+Personnalité du Personnage et Style de Parole: {char_personality.get('personality_fr', char_personality['personality_en'])}
+IMPORTANT: Le personnage {character} est inspiré du personnage {char_personality['original']}. Le style de parole, les émotions et le style narratif doivent refléter les traits du personnage {char_personality['original']}. Les textes doivent parler comme une version adaptée aux enfants du personnage {char_personality['original']}.
+
+FORMAT CRITIQUE: C'est un appel téléphonique MONOLOGUE. Le personnage {character} parle seul, comme s'il avait une conversation téléphonique avec l'enfant, mais l'enfant ne répond pas. Seul {character} parle et raconte l'histoire. PAS de dialogue, seulement le monologue du personnage.
+
+Sujet: {topic} (indice: {topic_hint_fr})
+Langue: Français
+OBJECTIF: Environ {minutes} minutes de contenu de parole monologue continue (~{target_words} mots)
+
+⚠️ AVERTISSEMENT CRITIQUE: Cette histoire DOIT être assez longue pour {minutes} minutes de parole. Les histoires courtes ne sont PAS ACCEPTABLES!
+⚠️ AVERTISSEMENT CRITIQUE: Le nombre total de mots DOIT être d'environ {target_words} mots. Les histoires avec moins de {target_words * 0.5} mots seront REJETÉES!
+
+RÈGLES CRITIQUES:
+- DOIT produire au moins {min_scenes} scènes, de préférence {min_scenes}–{max_scenes} scènes.
+- Chaque scène DOIT avoir au moins {min_sentences_per_scene} phrases, de préférence {min_sentences_per_scene}–{max_sentences_per_scene} phrases.
+- Le champ \"text\" de chaque scène DOIT avoir 70-120 mots de longueur (pour atteindre le nombre de mots cible). Utilise des phrases plus détaillées et développées.
+- Le nombre total de mots cible DOIT être d'environ {target_words} mots (±10% de tolérance). Les histoires avec moins de {target_words * 0.7} mots seront REJETÉES!
+- Chaque scène doit être TRÈS DÉTAILLÉE et DÉVELOPPÉE - phrases courtes mais nombreuses phrases. Chaque scène doit contenir au moins 70 mots. Développe chaque phrase avec des détails, des exemples et des explications.
+- L'histoire ne DOIT PAS être trop courte - produis un contenu suffisant pour {minutes} minutes de parole.
+- Inclus 1–2 scènes de question (type=\"question\", videoKey=\"lean_closer\" pour pose de question curieuse). FORMAT MONOLOGUE: Les questions doivent être rhétoriques - le personnage n'attend pas de réponses, se répond lui-même ou continue.
+- Ajoute une ouverture calme et une fermeture amicale.
+- Options videoKey: [\"wave\",\"talking\",\"raise_hand\",\"hand_on_hip\",\"lean_closer\",\"side_glance\"].
+- Règles de mappage videoKey:
+  * type=\"opening\" → videoKey=\"wave\" (animation de salutation amicale - vague universelle)
+  * type=\"closure\" → videoKey=\"wave\" (animation d'au revoir amicale - vague universelle)
+  * type=\"instruction\" → videoKey=\"hand_on_hip\" (animation d'enseignement/explication)
+  * type=\"encouragement\" → videoKey=\"raise_hand\" (geste encourageant)
+  * type=\"question\" → videoKey=\"lean_closer\" (pose de question curieuse)
+  * type=\"speak\" → videoKey=\"talking\" (parole générale)
+  * type=\"followup\" → videoKey=\"side_glance\" (regard espiègle)
+  * type=\"listen\" → videoKey=\"lean_closer\" (position d'écoute - inclinaison curieuse)
+- TRANSITIONS DE SCÈNE ET CONTINUITÉ:
+  * Chaque scène doit s'écouler logiquement de la précédente.
+  * Utilise des phrases de transition: \"Maintenant...\", \"Te souviens-tu quand nous avons parlé de...\", \"Continuons...\" pour connecter les scènes.
+  * Au début de chaque scène, fais une brève référence à ce qui a été discuté dans la scène précédente (pour aider les enfants à suivre le contexte).
+  * À la fin de chaque scène, prépare la transition vers la suivante: \"Maintenant, faisons...\", \"Ensuite, nous...\" etc.
+  * Maintiens la cohérence du sujet à travers les scènes - aborde {topic} de manière cohérente.
+- ENGAGEANT POUR L'APP MOBILE POUR ENFANTS:
+  * Chaque scène doit être dynamique et amusante pour capturer l'attention des enfants.
+  * Ajoute des mini interactions: \"Comptons ensemble...\", \"Maintenant, respirons ensemble...\", \"Veux-tu essayer?\" etc.
+  * Utilise le renforcement positif: \"Génial!\", \"Merveilleux!\", \"Tu peux le faire!\" etc.
+  * Donne des exemples concrets adaptés à l'âge: \"Comme ranger tes jouets...\", \"Comme te brosser les dents...\" etc.
+- Durée cible: environ {minutes} minutes.
+- UNIQUEMENT du contenu sûr pour les enfants: pas de marques, pas de capture de données personnelles, pas de violence, pas de thèmes effrayants/sombres, pas d'insultes, pas de thèmes pour adultes, pas de conseils médicaux, pas de suggestions de comportement risqué.
+- Utilise un langage inclusif, doux, culturellement neutre.
+- Le script est parlé à voix haute: phrases courtes et respirables, vocabulaire très simple pour les âges 2–8.
+- N'UTILISE PAS de PLACEHOLDERS \"...\". Sois concret sur {topic}; inclus de petits exercices (par ex., 3 respirations calmes, compter jusqu'à 5).
+- DÉVELOPPE chaque phrase: Donne des exemples, fournis des explications, ajoute des détails. Réponds aux questions \"Pourquoi?\" et \"Comment?\"
+- Chaque scène doit être comme une mini histoire - inclus début, développement et conclusion.
+- FORMAT MONOLOGUE: Le personnage parle seul, comme s'il avait une conversation téléphonique avec l'enfant. L'enfant écoute mais ne répond pas. Le personnage raconte l'histoire, pose des questions mais n'attend pas de réponses, se répond lui-même ou continue.
+- PAS DE DIALOGUE: Il n'y a pas de conversation entre deux personnes. Seul le monologue du personnage existe.
+- IMPORTANT: L'histoire ne DOIT PAS être trop courte. Chaque scène doit avoir au moins {min_sentences_per_scene} phrases et le total doit être d'au moins {min_scenes} scènes.
+- IMPORTANT: Produis un contenu suffisant pour {minutes} minutes de parole - pas court et concis, mais histoire détaillée et développée.
+- IMPORTANT: Le champ \"text\" de chaque scène doit contenir des PHRASES RÉELLES ET COMPLÈTES. Les placeholders ou textes courts ne sont PAS ACCEPTABLES.
+- IMPORTANT: Exemple: \"text\": \"Bonjour petit ami! Je suis {character}. Aujourd'hui, nous allons faire un voyage incroyable sur {topic}. Es-tu prêt? Je suis si curieux de toi.\" (4 phrases - détaillées et développées)
+- IMPORTANT: LES TEXTES COURTS NE SONT PAS ACCEPTABLES. Chaque scène doit avoir au moins {min_sentences_per_scene} phrases complètes.
+
+EXEMPLE DE STRUCTURE D'HISTOIRE (pour 10 minutes):
+- opening_0: {min_sentences_per_scene}-{max_sentences_per_scene} phrases (salutation amicale, introduction du sujet)
+- scene_1: {min_sentences_per_scene}-{max_sentences_per_scene} phrases (informations sur le sujet)
+- scene_2: {min_sentences_per_scene}-{max_sentences_per_scene} phrases (instruction - enseignement)
+- scene_3: {min_sentences_per_scene}-{max_sentences_per_scene} phrases (interaction - faire ensemble)
+- scene_4: {min_sentences_per_scene}-{max_sentences_per_scene} phrases (suite)
+- ... (total {min_scenes}-{max_scenes} scènes)
+- question_X: {min_sentences_per_scene}-{max_sentences_per_scene} phrases (poser une question)
+- ... (suite)
+- closure_Y: {min_sentences_per_scene}-{max_sentences_per_scene} phrases (au revoir amical)
+
+EXIGENCE DE FORMAT CRITIQUE:
+- N'inclus PAS de titre ou d'en-tête dans le texte de l'histoire. Commence directement par la conversation.
+- L'histoire doit commencer par le personnage parlant naturellement, comme s'il répondait à un appel téléphonique.
+- Exemple: Commence par \"Bonjour! Je suis {character}. J'aimerais te parler de {topic} aujourd'hui.\" - conversation directe, pas de titre.
+- N'écris PAS de titre comme \"L'Histoire de...\" ou \"Histoire: ...\" - commence simplement la conversation directement.
+
+Schéma JSON:
+{{\"id\":\"{character.lower()}_{topic.lower()}_story\",\"character\":\"{character}\",\"topic\":\"{topic}\",\"language\":\"fr\",\"age_range\":\"2-8\",\"durationMinutes\": {minutes}, \"emotions\":[\"happy\"],\"scenes\":[{{\"id\":\"opening_0\",\"type\":\"opening\",\"videoKey\":\"wave\",\"text\":\"(PHRASES RÉELLES ET COMPLÈTES {min_sentences_per_scene}-{max_sentences_per_scene} - pas de placeholder!)\"}},{{\"id\":\"scene_1\",\"type\":\"speak\",\"videoKey\":\"talking\",\"text\":\"(PHRASES RÉELLES ET COMPLÈTES {min_sentences_per_scene}-{max_sentences_per_scene})\"}}]}}
+Retourne uniquement JSON. UTILISE DES PHRASES RÉELLES ET COMPLÈTES DANS TOUTES LES SCÈNES.
 """
 
     # OpenAI (primary)
@@ -728,22 +992,13 @@ Return JSON only. USE REAL, COMPLETE SENTENCES IN ALL SCENES.
                 prompt = tr_prompt
                 topic_hint = topic_hint_tr
             elif lang.startswith("de"):
-                # Use English prompt structure but fix language instruction
-                prompt = en_prompt.replace(topic_hint_en, topic_hint_de)
-                prompt = prompt.replace("Language: English", "Language: German")
-                prompt = prompt.replace('"language":"en"', '"language":"de"')
+                prompt = de_prompt
                 topic_hint = topic_hint_de
             elif lang.startswith("es"):
-                # Use English prompt structure but fix language instruction
-                prompt = en_prompt.replace(topic_hint_en, topic_hint_es)
-                prompt = prompt.replace("Language: English", "Language: Spanish")
-                prompt = prompt.replace('"language":"en"', '"language":"es"')
+                prompt = es_prompt
                 topic_hint = topic_hint_es
             elif lang.startswith("fr"):
-                # Use English prompt structure but fix language instruction
-                prompt = en_prompt.replace(topic_hint_en, topic_hint_fr)
-                prompt = prompt.replace("Language: English", "Language: French")
-                prompt = prompt.replace('"language":"en"', '"language":"fr"')
+                prompt = fr_prompt
                 topic_hint = topic_hint_fr
             else:
                 prompt = en_prompt
@@ -782,6 +1037,7 @@ CRITICAL FORMAT REQUIREMENT:
 - This is a MONOLOGUE phone call: Only the character speaks. The child listens but does not respond.
 - NO DIALOGUE: There is no conversation between two people. Only the character's monologue speech.
 - Character speaks as if having a phone conversation with the child, telling a story, asking rhetorical questions, and continuing the narrative alone.
+- DO NOT include a title or heading in any scene text. Start directly with the conversation. The opening scene should begin with the character speaking naturally, as if answering a phone call (e.g., "Hello! I'm [character]..." or "Merhaba! Ben [character]..."). NO titles like "The Story of..." or "Hikaye: ...".
 
 You are generating a {minutes}-minute MONOLOGUE phone call script. This requires substantial content. Do NOT create short stories. BE DETAILED AND EXPANSIVE."""
             

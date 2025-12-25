@@ -3984,6 +3984,12 @@ Create a calming, age-appropriate story for a phone conversation that takes appr
 
 CRITICAL: Filter out any inappropriate words or themes. The story must be completely safe for children. Write it as if you are having a warm, friendly phone conversation with the child.
 
+CRITICAL FORMAT REQUIREMENT:
+- DO NOT include a title or heading in the story text. Start directly with the conversation.
+- The story should begin with the character speaking naturally, as if answering a phone call.
+- Example: Start with "Merhaba! Ben [character]. Bugün seninle [topic] hakkında konuşmak istiyorum." (Turkish) or "Hello! I'm [character]. I'd like to talk with you about [topic] today." (English)
+- DO NOT write a title like "The Story of..." or "Hikaye: ..." - just start the conversation directly.
+
 Story:"""
     
     # CONTROL 2: Add debug request payload to prompt for verification
