@@ -5237,17 +5237,24 @@ async def revenuecat_webhook(request: Request):
             print(f"✅ Initial purchase: {product_id}, expires: {expiration_date}")
             # Update Firestore if needed
             if db and app_user_id:
-                subscription_ref = db.collection("subscriptions").document(app_user_id)
-                subscription_ref.set({
-                    "user_id": app_user_id,
-                    "product_id": product_id,
-                    "expires_date_ms": int(datetime.fromisoformat(expiration_date.replace('Z', '+00:00')).timestamp() * 1000) if expiration_date else None,
-                    "is_trial_period": False,  # Will be updated by TRIAL_STARTED event if trial
-                    "will_renew": True,  # Active subscription will renew
-                    "billing_issue": False,
-                    "updated_at": firestore.SERVER_TIMESTAMP,
-                    "updated_via": "revenuecat_webhook_initial_purchase"
-                }, merge=True)
+                try:
+                    expires_ms = int(datetime.fromisoformat(expiration_date.replace('Z', '+00:00')).timestamp() * 1000) if expiration_date else None
+                    subscription_ref = db.collection("subscriptions").document(app_user_id)
+                    subscription_ref.set({
+                        "user_id": app_user_id,
+                        "product_id": product_id,
+                        "expires_date_ms": expires_ms,
+                        "is_trial_period": False,  # Will be updated by TRIAL_STARTED event if trial
+                        "will_renew": True,  # Active subscription will renew
+                        "billing_issue": False,
+                        "updated_at": firestore.SERVER_TIMESTAMP,
+                        "updated_via": "revenuecat_webhook_initial_purchase"
+                    }, merge=True)
+                    print(f"✅ [Webhook] Firestore updated for user {app_user_id}: product={product_id}, expires_ms={expires_ms}")
+                except Exception as e:
+                    print(f"❌ [Webhook] Failed to update Firestore for INITIAL_PURCHASE: {e}")
+            else:
+                print(f"⚠️ [Webhook] Skipping Firestore update: db={db is not None}, app_user_id={app_user_id}")
                 
         elif event_type == "RENEWAL":
             # iOS BEST PRACTICE: Subscription renewed successfully
