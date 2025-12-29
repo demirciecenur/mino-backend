@@ -3362,13 +3362,34 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         # Save text, scenes, and title to Firestore
         # CRITICAL: Update topic field to mapped_topic for consistency
         # This ensures Firestore queries can find stories by mapped topic (e.g., "sharing" not "friendship")
-        # CRITICAL: Add audio_url: None to each scene so iOS can decode the field (even if null)
-        # This prevents iOS decoding errors when story is in audio_pending status
+        # CRITICAL: Ensure all scenes have required fields for iOS decoding
+        # - audio_url: None (so iOS can decode the field even if null)
+        # - type: Must be present (iOS requires this field)
+        # - videoKey: Must be present (iOS uses this for video asset loading)
         scenes_with_audio_url = []
         for scene in scenes:
             scene_copy = scene.copy()
+            # Ensure audio_url field exists (null when pending, URL when ready)
             if "audio_url" not in scene_copy:
-                scene_copy["audio_url"] = None  # Add null audio_url so iOS can decode the field
+                scene_copy["audio_url"] = None
+            # CRITICAL: Ensure type field exists (iOS requires this field)
+            # split_text_into_scenes should always add type, but ensure it for backward compatibility
+            if "type" not in scene_copy:
+                # Infer type from scene id for backward compatibility
+                scene_id = scene_copy.get("id", "")
+                if "opening" in scene_id.lower():
+                    scene_copy["type"] = "opening"
+                elif "closure" in scene_id.lower():
+                    scene_copy["type"] = "closure"
+                else:
+                    scene_copy["type"] = "speak"  # Default type (matches SceneType.speak enum)
+                print(f"⚠️ [generate_story_async] Scene '{scene_id}' missing 'type' field, inferred: {scene_copy['type']}")
+            # CRITICAL: Ensure videoKey field exists (iOS uses this for video asset loading)
+            # BEST PRACTICE: Default to "talking" if missing (matches storage video files: {character}_talking_v1.mp4)
+            if "videoKey" not in scene_copy or not scene_copy.get("videoKey"):
+                scene_copy["videoKey"] = "talking"  # Default videoKey (most common for speak scenes)
+                scene_id = scene_copy.get("id", "")
+                print(f"⚠️ [generate_story_async] Scene '{scene_id}' missing 'videoKey' field, using default: 'talking'")
             scenes_with_audio_url.append(scene_copy)
         
         if db:
