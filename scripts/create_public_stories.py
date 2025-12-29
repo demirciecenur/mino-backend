@@ -304,8 +304,11 @@ async def create_public_story(config: dict, lang: str, section: str, index: int,
         admin_user_id = "public_seed"
         
         # Create StoryRequest object
+        # CRITICAL: Use character_slug (normalized) to ensure character-specific voice settings are used
+        # The character_slug will be passed to generate_tts, which will look up CHARACTER_VOICES
+        # to get character-specific voice_id, emotion, speed, and pitch settings
         story_request = StoryRequest(
-            character_id=character_slug,
+            character_id=character_slug,  # Normalized character slug (e.g., "mino", "bubu", "luna", "sunny")
             topic=topic_mapped,
             language=lang,
             custom_description=custom_description,
@@ -313,6 +316,11 @@ async def create_public_story(config: dict, lang: str, section: str, index: int,
             length=length,
             is_public=True
         )
+        
+        # DEBUG: Verify character slug will use character-specific voice
+        print(f"   🎤 Character voice verification:")
+        print(f"      Character: {character} → Slug: {character_slug}")
+        print(f"      This slug will be used to look up CHARACTER_VOICES for character-specific voice settings")
         
         # Create story document first (same as API endpoint does)
         # Set created_at based on section

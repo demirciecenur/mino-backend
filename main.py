@@ -814,6 +814,7 @@ async def generate_tts(
         for key, value in settings.CHARACTER_VOICES.items():
             if key.lower() == character_voice_key.lower():
                 char_voice_config = value
+                print(f"✅ [TTS] Found character voice config (case-insensitive match): '{key}' → '{character_voice_key}'")
                 break
     
     # Use character voice settings (matching original character inspiration) or fallback to style/defaults
@@ -821,13 +822,22 @@ async def generate_tts(
         emotion = style.get("emotion", char_voice_config.get("emotion", "happy"))
         speed = style.get("speed", char_voice_config.get("speed", 1.0))
         pitch = style.get("pitch", char_voice_config.get("pitch", 1.0))
+        voice_id = char_voice_config.get("voice_id")
+        print(f"✅ [TTS] Using character-specific voice settings for '{character_voice_key}':")
+        print(f"   Voice ID: {voice_id}")
+        print(f"   Emotion: {emotion}")
+        print(f"   Speed: {speed}")
+        print(f"   Pitch: {pitch}")
     else:
         emotion = style.get("emotion", "happy")
         speed = style.get("speed", 1.0)
         pitch = style.get("pitch", 1.0)
+        print(f"⚠️ [TTS] Character voice config NOT FOUND for '{character_voice_key}'")
+        print(f"   Available CHARACTER_VOICES keys: {list(settings.CHARACTER_VOICES.keys())}")
+        print(f"   Using fallback settings: emotion={emotion}, speed={speed}, pitch={pitch}")
     
     # Generate TTS with language support (ElevenLabs multilingual model auto-detects, but we log it)
-    print(f"🌍 [TTS] Generating TTS for language: {lang}, text preview: {text[:50]}...")
+    print(f"🌍 [TTS] Generating TTS for language: {lang}, character: {character_voice_key}, text preview: {text[:50]}...")
     audio_bytes = await generate_tts_with_elevenlabs(text, character_voice_key, emotion, speed, pitch, topic_file or topic, lang=lang)
 
     if audio_bytes and len(audio_bytes) > 100:
@@ -3426,6 +3436,7 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         print(f"   Normalized character_slug: {character_slug}")
         print(f"   language: {request.language}")
         print(f"   scenes count: {len(scenes)}")
+        print(f"   ✅ Character-specific voice will be used for TTS generation (CHARACTER_VOICES lookup)")
         
         # Generate audio for each scene
         # BEST PRACTICE: Generate audio in parallel for faster completion
@@ -3441,8 +3452,14 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             
             try:
                 # Generate audio for this scene
-                # CRITICAL:
-                # - Use normalized character_slug (to_character_slug already applied in generate_tts, but be explicit)
+                # CRITICAL: Character-specific voice settings
+                # - character_slug (e.g., "mino", "bubu", "luna", "sunny") is passed to generate_tts
+                # - generate_tts will look up CHARACTER_VOICES[character_slug] to get character-specific:
+                #   * voice_id (unique ElevenLabs voice for each character)
+                #   * emotion (character-specific emotion: calm, cheerful, sad, energetic, etc.)
+                #   * speed (character-specific speed: 0.78-1.0)
+                #   * pitch (character-specific pitch: 0.88-1.05)
+                # This ensures each character uses their unique voice (e.g., Bubu's sad, soft voice vs. Luna's cheerful, bright voice)
                 # - Pass story_id so that each custom story keeps its own unique audio files per scene.
                 # CRITICAL: Use mapped_topic (not request.topic) for audio URL generation
                 # This ensures audio URL matches the story's topic field in Firestore
@@ -3452,7 +3469,7 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                     text=scene_text,
                     style={"stability": 0.7, "similarity_boost": 0.85, "style": 0.6},
                     lang=request.language,
-                    character=character_slug,
+                    character=character_slug,  # CRITICAL: Character slug for CHARACTER_VOICES lookup (character-specific voice)
                     topic=mapped_topic,  # Use mapped_topic, not request.topic
                     scene_index=scene_index,
                     story_id=story_id,
