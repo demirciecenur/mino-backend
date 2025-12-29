@@ -802,8 +802,11 @@ BEISPIEL GESCHICHTENSTRUKTUR (für 10 Minuten):
 KRITISCHES FORMAT-ERFORDERLICH:
 - Füge KEINEN Titel oder Überschrift in den Geschichtentext ein. Beginne direkt mit der Unterhaltung.
 - Die Geschichte sollte mit dem Charakter beginnen, der natürlich spricht, als würde er ein Telefongespräch führen.
+- KRITISCH: Dies ist eine DEUTSCHE Geschichte. Beginne IMMER mit \"Hallo!\" (NICHT \"Merhaba\", \"Hello\", \"Hola\" oder \"Bonjour\").
 - Beispiel: Beginne mit \"Hallo! Ich bin {character}. Ich möchte heute mit dir über {topic} sprechen.\" - direkte Unterhaltung, kein Titel.
 - Schreibe KEINEN Titel wie \"Die Geschichte von...\" oder \"Geschichte: ...\" - beginne einfach direkt mit der Unterhaltung.
+- VERBOTEN: Verwende KEINE Wörter aus anderen Sprachen. Nur deutsche Wörter: \"Hallo\" (NICHT \"Merhaba\", \"Hello\", \"Hola\", \"Bonjour\").
+- VERBOTEN: Verwende KEINE Wörter aus anderen Sprachen. Nur deutsche Wörter: \"Hallo\" (NICHT \"Merhaba\", \"Hello\", \"Hola\", \"Bonjour\").
 
 JSON Schema:
 {{\"id\":\"{character.lower()}_{topic.lower()}_story\",\"character\":\"{character}\",\"topic\":\"{topic}\",\"language\":\"de\",\"age_range\":\"2-8\",\"durationMinutes\": {minutes}, \"emotions\":[\"happy\"],\"scenes\":[{{\"id\":\"opening_0\",\"type\":\"opening\",\"videoKey\":\"wave\",\"text\":\"(ECHTE, VOLLSTÄNDIGE {min_sentences_per_scene}-{max_sentences_per_scene} SÄTZE - kein Platzhalter!)\"}},{{\"id\":\"scene_1\",\"type\":\"speak\",\"videoKey\":\"talking\",\"text\":\"(ECHTE, VOLLSTÄNDIGE {min_sentences_per_scene}-{max_sentences_per_scene} SÄTZE)\"}}]}}
@@ -886,8 +889,11 @@ EJEMPLO DE ESTRUCTURA DE HISTORIA (para 10 minutos):
 REQUISITO DE FORMATO CRÍTICO:
 - NO incluyas un título o encabezado en el texto de la historia. Comienza directamente con la conversación.
 - La historia debe comenzar con el personaje hablando naturalmente, como si respondiera una llamada telefónica.
+- CRÍTICO: Esta es una historia en ESPAÑOL. Comienza SIEMPRE con \"¡Hola!\" (NO \"Hello\", \"Hallo\", \"Merhaba\" o \"Bonjour\").
 - Ejemplo: Comienza con \"¡Hola! Soy {character}. Me gustaría hablar contigo sobre {topic} hoy.\" - conversación directa, sin título.
 - NO escribas un título como \"La Historia de...\" o \"Historia: ...\" - simplemente comienza la conversación directamente.
+- PROHIBIDO: Usa SOLO palabras en español. \"Hello\" (Inglés), \"Hallo\" (Alemán), \"Merhaba\" (Turco) o \"Bonjour\" (Francés) están PROHIBIDOS. Solo \"¡Hola!\" para historias en español.
+- PROHIBIDO: Usa SOLO palabras en español. \"Hello\" (Inglés), \"Hallo\" (Alemán), \"Merhaba\" (Turco) o \"Bonjour\" (Francés) están PROHIBIDOS. Solo \"¡Hola!\" para historias en español.
 
 Esquema JSON:
 {{\"id\":\"{character.lower()}_{topic.lower()}_story\",\"character\":\"{character}\",\"topic\":\"{topic}\",\"language\":\"es\",\"age_range\":\"2-8\",\"durationMinutes\": {minutes}, \"emotions\":[\"happy\"],\"scenes\":[{{\"id\":\"opening_0\",\"type\":\"opening\",\"videoKey\":\"wave\",\"text\":\"(ORACIONES REALES Y COMPLETAS {min_sentences_per_scene}-{max_sentences_per_scene} - ¡no placeholder!)\"}},{{\"id\":\"scene_1\",\"type\":\"speak\",\"videoKey\":\"talking\",\"text\":\"(ORACIONES REALES Y COMPLETAS {min_sentences_per_scene}-{max_sentences_per_scene})\"}}]}}
@@ -970,8 +976,11 @@ EXEMPLE DE STRUCTURE D'HISTOIRE (pour 10 minutes):
 EXIGENCE DE FORMAT CRITIQUE:
 - N'inclus PAS de titre ou d'en-tête dans le texte de l'histoire. Commence directement par la conversation.
 - L'histoire doit commencer par le personnage parlant naturellement, comme s'il répondait à un appel téléphonique.
+- CRITIQUE: C'est une histoire en FRANÇAIS. Commence TOUJOURS par \"Bonjour!\" (PAS \"Hello\", \"Hallo\", \"Merhaba\" ou \"Hola\").
 - Exemple: Commence par \"Bonjour! Je suis {character}. J'aimerais te parler de {topic} aujourd'hui.\" - conversation directe, pas de titre.
 - N'écris PAS de titre comme \"L'Histoire de...\" ou \"Histoire: ...\" - commence simplement la conversation directement.
+- INTERDIT: Utilise UNIQUEMENT des mots français. \"Hello\" (Anglais), \"Hallo\" (Allemand), \"Merhaba\" (Turc) ou \"Hola\" (Espagnol) sont INTERDITS. Seulement \"Bonjour!\" pour les histoires en français.
+- INTERDIT: Utilise UNIQUEMENT des mots français. \"Hello\" (Anglais), \"Hallo\" (Allemand), \"Merhaba\" (Turc) ou \"Hola\" (Espagnol) sont INTERDITS. Seulement \"Bonjour!\" pour les histoires en français.
 
 Schéma JSON:
 {{\"id\":\"{character.lower()}_{topic.lower()}_story\",\"character\":\"{character}\",\"topic\":\"{topic}\",\"language\":\"fr\",\"age_range\":\"2-8\",\"durationMinutes\": {minutes}, \"emotions\":[\"happy\"],\"scenes\":[{{\"id\":\"opening_0\",\"type\":\"opening\",\"videoKey\":\"wave\",\"text\":\"(PHRASES RÉELLES ET COMPLÈTES {min_sentences_per_scene}-{max_sentences_per_scene} - pas de placeholder!)\"}},{{\"id\":\"scene_1\",\"type\":\"speak\",\"videoKey\":\"talking\",\"text\":\"(PHRASES RÉELLES ET COMPLÈTES {min_sentences_per_scene}-{max_sentences_per_scene})\"}}]}}
@@ -1037,7 +1046,14 @@ CRITICAL FORMAT REQUIREMENT:
 - This is a MONOLOGUE phone call: Only the character speaks. The child listens but does not respond.
 - NO DIALOGUE: There is no conversation between two people. Only the character's monologue speech.
 - Character speaks as if having a phone conversation with the child, telling a story, asking rhetorical questions, and continuing the narrative alone.
-- DO NOT include a title or heading in any scene text. Start directly with the conversation. The opening scene should begin with the character speaking naturally, as if answering a phone call (e.g., "Hello! I'm [character]..." or "Merhaba! Ben [character]..."). NO titles like "The Story of..." or "Hikaye: ...".
+- DO NOT include a title or heading in any scene text. Start directly with the conversation. The opening scene should begin with the character speaking naturally, as if answering a phone call.
+- LANGUAGE-SPECIFIC GREETINGS (CRITICAL - USE CORRECT LANGUAGE):
+  * Turkish (tr): "Merhaba! Ben [character]..."
+  * English (en): "Hello! I'm [character]..."
+  * German (de): "Hallo! Ich bin [character]..." (NOT "Merhaba" or "Hello")
+  * Spanish (es): "¡Hola! Soy [character]..." (NOT "Hello" or "Hallo")
+  * French (fr): "Bonjour! Je suis [character]..." (NOT "Hello" or "Hallo")
+- NO titles like "The Story of..." or "Hikaye: ..." or "Die Geschichte von...".
 
 You are generating a {minutes}-minute MONOLOGUE phone call script. This requires substantial content. Do NOT create short stories. BE DETAILED AND EXPANSIVE."""
             

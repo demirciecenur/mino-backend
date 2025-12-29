@@ -3386,7 +3386,10 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                     "total": total_scenes
                 },
                 # CONTROL 3: Store generated text and characters used for verification
-                "generated_text": story_text,  # Full generated story text
+                # CRITICAL: Store both "text" (for UI) and "generated_text" (for backward compatibility)
+                # UI expects "text" field, so we store it as "text" primarily
+                "text": story_text,  # Full generated story text (UI expects this field)
+                "generated_text": story_text,  # Also store as generated_text for backward compatibility
                 "characters_used": characters_used,  # Characters actually used in story
                 "updated_at": time.time()
             })
@@ -5101,6 +5104,11 @@ async def get_story(
             print(f"⚠️ [GET /stories/{story_id}] Missing language, using default 'en'")
             story_data["language"] = "en"
         
+        # CRITICAL: Normalize text field - UI expects "text", not "generated_text"
+        # Copy generated_text to text if text is missing
+        if not story_data.get("text") and story_data.get("generated_text"):
+            story_data["text"] = story_data["generated_text"]
+        
         response = StoryResponse(**story_data)
         
         # Log response JSON
@@ -5167,6 +5175,26 @@ async def list_stories(
                 story_lang = story_data.get("language", "en")
                 if story_lang != lang:
                     continue  # Skip stories in other languages
+            
+            # CRITICAL: Normalize text field - UI expects "text", not "generated_text"
+            # Copy generated_text to text if text is missing (do this BEFORE checking story_text)
+            if not story_data.get("text") and story_data.get("generated_text"):
+                story_data["text"] = story_data["generated_text"]
+            
+            # CRITICAL: For user's own stories, include all statuses (including generating ones)
+            # But for ready stories, ensure they have text content (not placeholder)
+            story_status = story_data.get("status")
+            story_text = story_data.get("text") or story_data.get("generated_text")
+            
+            # Include all user stories (even if generating), but skip ready stories without text
+            if story_status == "ready" and not story_text:
+                continue  # Skip placeholder ready stories (not fully generated yet)
+            
+            # CRITICAL: Normalize text field - UI expects "text", not "generated_text"
+            # Copy generated_text to text if text is missing
+            if not story_data.get("text") and story_data.get("generated_text"):
+                story_data["text"] = story_data["generated_text"]
+            
             story_data.setdefault("is_public", True)  # Default to public if missing
             stories.append(StoryResponse(**story_data))
             user_story_ids.add(doc.id)
@@ -5191,8 +5219,18 @@ async def list_stories(
                     if story_lang != lang:
                         continue  # Skip stories in other languages
                 
-                # Only include ready public stories
-                if story_data.get("status") == "ready":
+                # CRITICAL: Normalize text field - UI expects "text", not "generated_text"
+                # Copy generated_text to text if text is missing (do this BEFORE checking story_text)
+                if not story_data.get("text") and story_data.get("generated_text"):
+                    story_data["text"] = story_data["generated_text"]
+                
+                # Only include ready public stories with generated text
+                # CRITICAL: Placeholder stories have status="ready" but no text/generated_text
+                # These should not be shown in HomeView until they are fully generated
+                story_status = story_data.get("status")
+                story_text = story_data.get("text") or story_data.get("generated_text")
+                
+                if story_status == "ready" and story_text:
                     story_data.setdefault("is_public", True)
                     stories.append(StoryResponse(**story_data))
                     if len(stories) >= limit:
