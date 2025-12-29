@@ -5257,11 +5257,26 @@ async def list_stories(
         stories = stories[:limit]  # Ensure we don't exceed limit
         
         # Get quota remaining
-        has_quota, quota_remaining = await check_user_quota(user_id, "quick")
+        has_entitlement = await check_user_entitlement(user_id)
+        if has_entitlement:
+            quota_remaining_value = None  # Unlimited for subscribers
+        else:
+            has_quota, quota_remaining = await check_user_quota(user_id, "quick")
+            quota_remaining_value = quota_remaining if has_quota else 0
+        
+        # CRITICAL: Log response before returning (for debugging iOS decode errors)
+        print(f"📤 [list_stories] Returning {len(stories)} stories for user {user_id}")
+        print(f"   Language filter: {lang}")
+        print(f"   Include public: {include_public}")
+        print(f"   Has entitlement: {has_entitlement}")
+        print(f"   Quota remaining: {quota_remaining_value}")
+        if stories:
+            print(f"   First story: id={stories[0].id}, title={stories[0].title[:50] if stories[0].title else 'N/A'}, status={stories[0].status}, is_public={stories[0].is_public}")
+            print(f"   First story fields: character_id={stories[0].character_id}, language={stories[0].language}, owner_user_id={stories[0].owner_user_id}")
         
         return StoryListResponse(
             stories=stories,
-            quota_remaining=quota_remaining if not await check_user_entitlement(user_id) else None
+            quota_remaining=quota_remaining_value
         )
         
     except HTTPException:
