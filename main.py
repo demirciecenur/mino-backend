@@ -5144,12 +5144,18 @@ async def list_stories(
         include_public: If True (default), include public stories from other users.
                        If False, only return user's own stories.
     
-    NOTE: This query requires a Firestore composite index:
-    - Collection: stories
-    - Fields: owner_user_id (Ascending), created_at (Descending), __name__ (Descending)
-    - Fields: is_public (Ascending), created_at (Descending), __name__ (Descending)
+    NOTE: This endpoint requires Firestore composite indexes:
+    
+    1. For user's own stories:
+       - Collection: stories
+       - Fields: owner_user_id (Ascending), created_at (Descending), __name__ (Descending)
+    
+    2. For public stories (CRITICAL - required for Most Liked and Last Created sections):
+       - Collection: stories
+       - Fields: is_public (Ascending), status (Ascending), created_at (Descending), __name__ (Descending)
     
     If you see an index error, create it via Firebase Console or use the link in the error message.
+    The error message includes a direct link to create the required index.
     """
     try:
         if not user_id:
@@ -5195,41 +5201,56 @@ async def list_stories(
             user_story_ids.add(doc.id)
         
         # Get public stories from other users (if include_public=True and we have space)
+        # CRITICAL: This query requires a composite index:
+        # - Collection: stories
+        # - Fields: is_public (Ascending), status (Ascending), created_at (Descending), __name__ (Descending)
+        # If index is missing, the error message will include a link to create it
         if include_public and len(stories) < limit:
             remaining_limit = limit - len(stories)
-            # Get public stories (excluding user's own stories)
-            public_query = stories_ref.where(filter=FieldFilter("is_public", "==", True))\
-                                     .where(filter=FieldFilter("status", "==", "ready"))\
-                                     .order_by("created_at", direction=firestore.Query.DESCENDING)\
-                                     .limit(remaining_limit * 2)  # Get more to filter out user's stories
-            
-            for doc in public_query.stream():
-                if doc.id in user_story_ids:
-                    continue  # Skip user's own stories (already included above)
+            try:
+                # Get public stories (excluding user's own stories)
+                public_query = stories_ref.where(filter=FieldFilter("is_public", "==", True))\
+                                         .where(filter=FieldFilter("status", "==", "ready"))\
+                                         .order_by("created_at", direction=firestore.Query.DESCENDING)\
+                                         .limit(remaining_limit * 2)  # Get more to filter out user's stories
                 
-                story_data = doc.to_dict()
-                # Apply language filter if specified
-                if lang:
-                    story_lang = story_data.get("language", "en")
-                    if story_lang != lang:
-                        continue  # Skip stories in other languages
-                
-                # CRITICAL: Normalize text field - UI expects "text", not "generated_text"
-                # Copy generated_text to text if text is missing (do this BEFORE checking story_text)
-                if not story_data.get("text") and story_data.get("generated_text"):
-                    story_data["text"] = story_data["generated_text"]
-                
-                # Only include ready public stories with generated text
-                # CRITICAL: Placeholder stories have status="ready" but no text/generated_text
-                # These should not be shown in HomeView until they are fully generated
-                story_status = story_data.get("status")
-                story_text = story_data.get("text") or story_data.get("generated_text")
-                
-                if story_status == "ready" and story_text:
-                    story_data.setdefault("is_public", True)
-                    stories.append(StoryResponse(**story_data))
-                    if len(stories) >= limit:
-                        break
+                for doc in public_query.stream():
+                    if doc.id in user_story_ids:
+                        continue  # Skip user's own stories (already included above)
+                    
+                    story_data = doc.to_dict()
+                    # Apply language filter if specified
+                    if lang:
+                        story_lang = story_data.get("language", "en")
+                        if story_lang != lang:
+                            continue  # Skip stories in other languages
+                    
+                    # CRITICAL: Normalize text field - UI expects "text", not "generated_text"
+                    # Copy generated_text to text if text is missing (do this BEFORE checking story_text)
+                    if not story_data.get("text") and story_data.get("generated_text"):
+                        story_data["text"] = story_data["generated_text"]
+                    
+                    # Only include ready public stories with generated text
+                    # CRITICAL: Placeholder stories have status="ready" but no text/generated_text
+                    # These should not be shown in HomeView until they are fully generated
+                    story_status = story_data.get("status")
+                    story_text = story_data.get("text") or story_data.get("generated_text")
+                    
+                    if story_status == "ready" and story_text:
+                        story_data.setdefault("is_public", True)
+                        stories.append(StoryResponse(**story_data))
+                        if len(stories) >= limit:
+                            break
+            except Exception as e:
+                # If index error, log it and continue without public stories
+                error_msg = str(e)
+                if "index" in error_msg.lower() or "requires an index" in error_msg.lower():
+                    print(f"⚠️ [list_stories] Firestore index missing for public stories query. Error: {error_msg}")
+                    print(f"   ℹ️ Public stories will not be included until the index is created.")
+                    print(f"   ℹ️ Most Liked and Last Created sections will be empty until index is ready.")
+                    # Continue without public stories (user's own stories will still be returned)
+                else:
+                    raise  # Re-raise if it's a different error
         
         # Sort all stories by created_at (most recent first)
         stories.sort(key=lambda s: s.created_at, reverse=True)
