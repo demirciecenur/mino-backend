@@ -16,6 +16,7 @@ class StoryRequest(BaseModel):
     child_name: Optional[str] = Field(None, description="Optional child's name to include in story")
     character_id: str = Field(..., description="Character ID (mino, luna, tiko, etc.)")
     length: str = Field(..., description="Story length: quick (2-3m) or dreamy (4-8m)")
+    is_public: bool = Field(default=True, description="Whether story should be visible to other users (default: True)")
 
 
 class CreateStoryResponse(BaseModel):
@@ -44,6 +45,7 @@ class StoryResponse(BaseModel):
     length_type: Optional[str] = None
     custom_description: Optional[str] = None  # Parent conversation text / custom description
     scenes: Optional[List[Dict[str, Any]]] = None  # Scenes array from Firestore (optional for backward compatibility)
+    is_public: bool = True  # Default to public (shareable with other users)
 
 
 class StoryListResponse(BaseModel):

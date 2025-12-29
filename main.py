@@ -1726,6 +1726,7 @@ async def verify_receipt(request: ReceiptRequest):
                                     "is_trial_period": is_trial_period,
                                     "is_in_intro_offer_period": is_in_intro_offer_period,
                                     "environment": environment,
+                                    "billing_issue": False,  # Fix: default false instead of null
                                     "verified_at": firestore.SERVER_TIMESTAMP,
                                     "updated_at": firestore.SERVER_TIMESTAMP
                                 }, merge=True)
@@ -2016,17 +2017,16 @@ async def story_completed_endpoint(request: StoryCompletedRequest):
         event_data = {
             "child_id": request.child_id,
             "parent_id": parent_id,
-            "story_id": request.story_id,
+            "story_id": request.story_id if request.story_id and request.story_id.strip() else None,  # Fix: null instead of empty string
             "topic": request.topic,
             "character": request.character,
             "language": request.language,
-            "timestamp": firestore.SERVER_TIMESTAMP,
             "notified": False,
-            "created_at": firestore.SERVER_TIMESTAMP
+            "created_at": firestore.SERVER_TIMESTAMP  # Fix: removed duplicate timestamp field
         }
         
         # Add summary if provided (best practice: meaningful note for parents)
-        if request.summary:
+        if request.summary and request.summary.strip():
             event_data["summary"] = request.summary
         
         event_ref = db.collection("story_events").document(event_id)
@@ -2222,9 +2222,8 @@ async def badge_unlocked_endpoint(request: BadgeUnlockedRequest):
             "badge_name": request.badge_name,
             "badge_icon": request.badge_icon,
             "language": request.language,
-            "timestamp": firestore.SERVER_TIMESTAMP,
             "notification_sent": result.get("success", False),
-            "created_at": firestore.SERVER_TIMESTAMP
+            "created_at": firestore.SERVER_TIMESTAMP  # Fix: removed duplicate timestamp field
         })
         
         if result.get("success"):
@@ -2270,8 +2269,7 @@ async def streak_updated_endpoint(request: StreakUpdatedRequest):
             streak_ref.set({
                 "parent_id": request.parent_id,
                 "streak_days": request.streak_days,
-                "last_updated": firestore.SERVER_TIMESTAMP,
-                "updated_at": firestore.SERVER_TIMESTAMP
+                "updated_at": firestore.SERVER_TIMESTAMP  # Fix: removed duplicate last_updated field
             }, merge=True)
             
             return StreakUpdatedResponse(
@@ -2308,8 +2306,7 @@ async def streak_updated_endpoint(request: StreakUpdatedRequest):
             streak_ref.set({
                 "parent_id": request.parent_id,
                 "streak_days": request.streak_days,
-                "last_updated": firestore.SERVER_TIMESTAMP,
-                "updated_at": firestore.SERVER_TIMESTAMP
+                "updated_at": firestore.SERVER_TIMESTAMP  # Fix: removed duplicate last_updated field
             }, merge=True)
             
             return StreakUpdatedResponse(
@@ -2325,8 +2322,7 @@ async def streak_updated_endpoint(request: StreakUpdatedRequest):
             streak_ref.set({
                 "parent_id": request.parent_id,
                 "streak_days": request.streak_days,
-                "last_updated": firestore.SERVER_TIMESTAMP,
-                "updated_at": firestore.SERVER_TIMESTAMP
+                "updated_at": firestore.SERVER_TIMESTAMP  # Fix: removed duplicate last_updated field
             }, merge=True)
             
             return StreakUpdatedResponse(
@@ -2368,10 +2364,9 @@ async def streak_updated_endpoint(request: StreakUpdatedRequest):
         streak_ref.set({
             "parent_id": request.parent_id,
             "streak_days": request.streak_days,
-            "last_updated": firestore.SERVER_TIMESTAMP,
             "milestone_reached": request.streak_days,
             "milestone_notified_at": firestore.SERVER_TIMESTAMP,
-            "updated_at": firestore.SERVER_TIMESTAMP
+            "updated_at": firestore.SERVER_TIMESTAMP  # Fix: removed duplicate last_updated field
         }, merge=True)
         
         if result.get("success"):
@@ -3036,6 +3031,7 @@ async def create_custom_story(
             "length_type": request.length,
             "kind": "custom",  # Always "custom" for user-generated stories
             "quota_counted": True,  # Mark quota as counted (will be deducted)
+            "is_public": request.is_public,  # Whether story should be visible to other users (default: True)
             "request_payload": request_payload,  # CONTROL 1: Original request for traceability
             "created_at": time.time(),
             "updated_at": time.time()
@@ -3975,13 +3971,27 @@ IMPORTANT INSTRUCTIONS:
 4. Keep the story positive, educational, and age-appropriate for children aged 2-8.
 5. Understand the CORRECTED topic meaning and create a story that addresses the actual intent (e.g., if corrected to "mont giymemek", create a story about wearing a coat, not about going somewhere).{child_name_instruction}{pedagogical_instruction}{phone_conversation_instruction}
 
-Create a calming, age-appropriate story for a phone conversation that takes approximately {target_duration_min}-{target_duration_max} minutes when spoken aloud (approximately {target_word_count} words). The story should be:
+Create a calming, age-appropriate story for a phone conversation that takes approximately {target_duration_min}-{target_duration_max} minutes when spoken aloud. The story should be:
 - Written as a natural phone conversation between you and the child
 - Positive and reassuring
 - Suitable for children aged 2-8
 - Calming and gentle
 - Engaging but not overstimulating
-- Approximately {target_word_count} words long (aim for {target_duration_min}-{target_duration_max} minutes when spoken at a normal pace)
+
+CRITICAL DURATION REQUIREMENT (MOST IMPORTANT):
+- The story MUST take EXACTLY {target_duration_min}-{target_duration_max} minutes when spoken aloud at a normal pace
+- This is the PRIMARY requirement - the story duration must match the user's selected length option
+- Target word count: {target_word_count} words (calculated based on {target_duration_min}-{target_duration_max} minutes at ~120 words/minute)
+- Word count tolerance: ±10% ({int(target_word_count * 0.9)}-{int(target_word_count * 1.1)} words)
+- Do NOT exceed {int(target_word_count * 1.1)} words - this would make the story longer than {target_duration_max} minutes
+- Do NOT go below {int(target_word_count * 0.9)} words - this would make the story shorter than {target_duration_min} minutes
+- The story length MUST match the selected duration ({target_duration_min}-{target_duration_max} minutes) - this is critical for user experience
+
+CRITICAL WORD COUNT (to achieve duration):
+- The story MUST be approximately {target_word_count} words (±10% tolerance: {int(target_word_count * 0.9)}-{int(target_word_count * 1.1)} words)
+- This word count ensures the story fits within the {target_duration_min}-{target_duration_max} minute duration when spoken
+- Word count directly determines story duration - use it to control the length
+
 - Use correct {language} grammar and spelling throughout
 - Use conversational, spoken language that sounds natural in a phone call
 {f" - CRITICAL: Use the child's name ({child_name}) multiple times throughout the story when addressing the child. Address the child directly by name, for example: {child_name_example}. The child's name should appear at least 3-5 times naturally in the story." if child_name else ""}
@@ -3993,6 +4003,19 @@ CRITICAL FORMAT REQUIREMENT:
 - The story should begin with the character speaking naturally, as if answering a phone call.
 - Example: Start with "Merhaba! Ben [character]. Bugün seninle [topic] hakkında konuşmak istiyorum." (Turkish) or "Hello! I'm [character]. I'd like to talk with you about [topic] today." (English)
 - DO NOT write a title like "The Story of..." or "Hikaye: ..." - just start the conversation directly.
+
+CRITICAL STORY COMPLETION REQUIREMENT:
+- The story MUST have a meaningful, complete ending that feels natural and satisfying
+- The story MUST conclude properly - do NOT cut off mid-sentence or leave the story incomplete
+- End with a warm, positive closing that wraps up the conversation naturally
+- The ending should feel like a natural conclusion to a phone call conversation
+- Make sure the story reaches its full word count ({target_word_count} words) AND has a complete, meaningful ending
+- Language-specific example endings:
+  * Turkish (tr): "Harika bir konuşma oldu! Seninle konuşmak çok güzeldi. İyi geceler!"
+  * English (en): "What a wonderful conversation! It was so nice talking with you. Good night!"
+  * German (de): "Was für ein wunderbares Gespräch! Es war so schön, mit dir zu sprechen. Gute Nacht!"
+  * Spanish (es): "¡Qué conversación tan maravillosa! Fue muy agradable hablar contigo. ¡Buenas noches!"
+  * French (fr): "Quelle conversation merveilleuse! C'était si agréable de parler avec toi. Bonne nuit!"
 
 Story:"""
     
@@ -4061,7 +4084,31 @@ Your stories must always be safe, positive, and suitable for young children."""
     
     generated_text = response.choices[0].message.content.strip()
     word_count = len(generated_text.split())
-    print(f"✅ [generate_story_text] Story generated: {word_count} words (target: {target_word_count})")
+    
+    # Calculate estimated duration (assuming ~120 words per minute for spoken text)
+    estimated_duration_minutes = word_count / 120.0
+    
+    # Validate word count and duration
+    min_words = int(target_word_count * 0.9)
+    max_words = int(target_word_count * 1.1)
+    
+    print(f"✅ [generate_story_text] Story generated:")
+    print(f"   Word count: {word_count} (target: {target_word_count}, range: {min_words}-{max_words})")
+    print(f"   Estimated duration: {estimated_duration_minutes:.1f} minutes (target: {target_duration_min}-{target_duration_max} minutes)")
+    
+    # Warn if word count or duration is outside acceptable range
+    if word_count < min_words:
+        print(f"⚠️ [generate_story_text] WARNING: Story is too short ({word_count} words < {min_words} words)")
+        print(f"   Estimated duration ({estimated_duration_minutes:.1f} min) is below target ({target_duration_min} min)")
+    elif word_count > max_words:
+        print(f"⚠️ [generate_story_text] WARNING: Story is too long ({word_count} words > {max_words} words)")
+        print(f"   Estimated duration ({estimated_duration_minutes:.1f} min) exceeds target ({target_duration_max} min)")
+    elif estimated_duration_minutes < target_duration_min:
+        print(f"⚠️ [generate_story_text] WARNING: Estimated duration ({estimated_duration_minutes:.1f} min) is below target ({target_duration_min} min)")
+    elif estimated_duration_minutes > target_duration_max:
+        print(f"⚠️ [generate_story_text] WARNING: Estimated duration ({estimated_duration_minutes:.1f} min) exceeds target ({target_duration_max} min)")
+    else:
+        print(f"✅ [generate_story_text] Story duration and word count are within acceptable range")
     
     return generated_text
 
@@ -5075,9 +5122,10 @@ async def list_stories(
     userId: str = "me",
     limit: int = 10,
     lang: Optional[str] = None,  # Optional language filter
+    include_public: bool = True,  # Include public stories from other users
     user_id: Optional[str] = Depends(verify_firebase_token)
 ):
-    """List user's stories.
+    """List user's stories and optionally public stories from other users.
     
     Args:
         userId: User ID (default "me" = current user)
@@ -5085,10 +5133,13 @@ async def list_stories(
         lang: Optional language filter (e.g., "tr", "en", "de", "es", "fr")
               If provided, only stories in that language are returned.
               If not provided, all stories are returned.
+        include_public: If True (default), include public stories from other users.
+                       If False, only return user's own stories.
     
     NOTE: This query requires a Firestore composite index:
     - Collection: stories
     - Fields: owner_user_id (Ascending), created_at (Descending), __name__ (Descending)
+    - Fields: is_public (Ascending), created_at (Descending), __name__ (Descending)
     
     If you see an index error, create it via Firebase Console or use the link in the error message.
     """
@@ -5099,22 +5150,57 @@ async def list_stories(
         if not db:
             return StoryListResponse(stories=[], quota_remaining=3)
         
-        # Get user's stories
-        # NOTE: This query requires composite index: owner_user_id (Ascending) + created_at (Descending)
-        stories_ref = db.collection("stories")
-        query = stories_ref.where(filter=FieldFilter("owner_user_id", "==", user_id))\
-                          .order_by("created_at", direction=firestore.Query.DESCENDING)\
-                          .limit(limit)
-        
         stories = []
-        for doc in query.stream():
+        stories_ref = db.collection("stories")
+        
+        # Get user's own stories
+        # NOTE: This query requires composite index: owner_user_id (Ascending) + created_at (Descending)
+        user_query = stories_ref.where(filter=FieldFilter("owner_user_id", "==", user_id))\
+                               .order_by("created_at", direction=firestore.Query.DESCENDING)\
+                               .limit(limit)
+        
+        user_story_ids = set()
+        for doc in user_query.stream():
             story_data = doc.to_dict()
             # Apply language filter if specified
             if lang:
                 story_lang = story_data.get("language", "en")
                 if story_lang != lang:
                     continue  # Skip stories in other languages
+            story_data.setdefault("is_public", True)  # Default to public if missing
             stories.append(StoryResponse(**story_data))
+            user_story_ids.add(doc.id)
+        
+        # Get public stories from other users (if include_public=True and we have space)
+        if include_public and len(stories) < limit:
+            remaining_limit = limit - len(stories)
+            # Get public stories (excluding user's own stories)
+            public_query = stories_ref.where(filter=FieldFilter("is_public", "==", True))\
+                                     .where(filter=FieldFilter("status", "==", "ready"))\
+                                     .order_by("created_at", direction=firestore.Query.DESCENDING)\
+                                     .limit(remaining_limit * 2)  # Get more to filter out user's stories
+            
+            for doc in public_query.stream():
+                if doc.id in user_story_ids:
+                    continue  # Skip user's own stories (already included above)
+                
+                story_data = doc.to_dict()
+                # Apply language filter if specified
+                if lang:
+                    story_lang = story_data.get("language", "en")
+                    if story_lang != lang:
+                        continue  # Skip stories in other languages
+                
+                # Only include ready public stories
+                if story_data.get("status") == "ready":
+                    story_data.setdefault("is_public", True)
+                    stories.append(StoryResponse(**story_data))
+                    if len(stories) >= limit:
+                        break
+        
+        # Sort all stories by created_at (most recent first)
+        stories.sort(key=lambda s: s.created_at, reverse=True)
+        stories = stories[:limit]  # Ensure we don't exceed limit
         
         # Get quota remaining
         has_quota, quota_remaining = await check_user_quota(user_id, "quick")
