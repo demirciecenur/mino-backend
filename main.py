@@ -5177,7 +5177,7 @@ async def list_stories(
                     continue  # Skip stories in other languages
             
             # CRITICAL: Normalize text field - UI expects "text", not "generated_text"
-            # Copy generated_text to text if text is missing (do this BEFORE checking story_text)
+            # Copy generated_text to text if text is missing (do this ONCE, before any checks)
             if not story_data.get("text") and story_data.get("generated_text"):
                 story_data["text"] = story_data["generated_text"]
             
@@ -5189,11 +5189,6 @@ async def list_stories(
             # Include all user stories (even if generating), but skip ready stories without text
             if story_status == "ready" and not story_text:
                 continue  # Skip placeholder ready stories (not fully generated yet)
-            
-            # CRITICAL: Normalize text field - UI expects "text", not "generated_text"
-            # Copy generated_text to text if text is missing
-            if not story_data.get("text") and story_data.get("generated_text"):
-                story_data["text"] = story_data["generated_text"]
             
             story_data.setdefault("is_public", True)  # Default to public if missing
             stories.append(StoryResponse(**story_data))
