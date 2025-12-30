@@ -3097,13 +3097,19 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 "duration_min": 2,
                 "duration_max": 3,
                 "target_words": 300,  # ~2.5 minutes at 120 wpm
-                "max_tokens": 400  # Allow some buffer for formatting
+                # COST OPTIMIZATION: Start with conservative limit, retry with higher limit only if incomplete
+                # This minimizes costs: most stories complete with 400 tokens, only incomplete ones retry with 600
+                "max_tokens": 400,  # Initial limit (cost-optimized)
+                "retry_max_tokens": 600  # Retry limit if incomplete (for languages with longer words)
             },
             "dreamy": {
                 "duration_min": 4,
                 "duration_max": 8,
                 "target_words": 720,  # ~6 minutes at 120 wpm
-                "max_tokens": 1000  # Allow some buffer for formatting
+                # COST OPTIMIZATION: Start with conservative limit, retry with higher limit only if incomplete
+                # This minimizes costs: most stories complete with 1000 tokens, only incomplete ones retry with 1500
+                "max_tokens": 1000,  # Initial limit (cost-optimized)
+                "retry_max_tokens": 1500  # Retry limit if incomplete (for languages with longer words)
             }
         }
         config = length_config.get(request.length, length_config["quick"])
@@ -3228,12 +3234,16 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         }
         
         # Generate story with OpenAI
+        # COST OPTIMIZATION: Pass retry_max_tokens for cost-efficient retry
+        retry_max_tokens = config.get("retry_max_tokens", int(config["max_tokens"] * 1.5))
+        
         story_text = await generate_story_text(
             topic=prompt_topic,
             character=character_slug,  # Use normalized slug
             language=request.language,
             child_name=request.child_name,
             max_tokens=config["max_tokens"],
+            retry_max_tokens=retry_max_tokens,  # Pass retry limit for cost optimization
             target_duration_min=config["duration_min"],
             target_duration_max=config["duration_max"],
             target_words=config["target_words"],
@@ -3659,6 +3669,7 @@ async def generate_story_text(
     language: str,
     child_name: Optional[str],
     max_tokens: int,
+    retry_max_tokens: Optional[int] = None,  # COST OPTIMIZATION: Retry limit if story incomplete
     target_duration_min: int = 2,
     target_duration_max: int = 3,
     target_words: int = 300,
@@ -4045,18 +4056,25 @@ CRITICAL FORMAT REQUIREMENT:
 - Example: Start with "Merhaba! Ben [character]. Bugün seninle [topic] hakkında konuşmak istiyorum." (Turkish) or "Hello! I'm [character]. I'd like to talk with you about [topic] today." (English)
 - DO NOT write a title like "The Story of..." or "Hikaye: ..." - just start the conversation directly.
 
-CRITICAL STORY COMPLETION REQUIREMENT:
-- The story MUST have a meaningful, complete ending that feels natural and satisfying
-- The story MUST conclude properly - do NOT cut off mid-sentence or leave the story incomplete
-- End with a warm, positive closing that wraps up the conversation naturally
-- The ending should feel like a natural conclusion to a phone call conversation
-- Make sure the story reaches its full word count ({target_word_count} words) AND has a complete, meaningful ending
-- Language-specific example endings:
+CRITICAL STORY COMPLETION REQUIREMENT (MANDATORY - DO NOT SKIP):
+- The story MUST be COMPLETELY FINISHED - every sentence must be complete, no cut-off words or incomplete thoughts
+- The story MUST reach exactly {target_word_count} words (±10% tolerance) AND end with a complete, meaningful closing sentence
+- DO NOT stop mid-sentence, mid-word, or mid-thought - ALWAYS complete the entire story
+- The final sentence MUST be a complete, grammatically correct sentence that wraps up the conversation naturally
+- End with a warm, positive closing that feels like a natural conclusion to a phone call conversation
+- If you are running out of tokens, prioritize completing the current sentence and adding a proper closing over adding more content
+- Language-specific example endings (USE THESE AS TEMPLATES):
   * Turkish (tr): "Harika bir konuşma oldu! Seninle konuşmak çok güzeldi. İyi geceler!"
   * English (en): "What a wonderful conversation! It was so nice talking with you. Good night!"
   * German (de): "Was für ein wunderbares Gespräch! Es war so schön, mit dir zu sprechen. Gute Nacht!"
   * Spanish (es): "¡Qué conversación tan maravillosa! Fue muy agradable hablar contigo. ¡Buenas noches!"
   * French (fr): "Quelle conversation merveilleuse! C'était si agréable de parler avec toi. Bonne nuit!"
+
+CRITICAL: Before finishing, check:
+1. Is the last sentence complete? (No cut-off words like "und" or "and")
+2. Does the story have a proper closing? (Use one of the example endings above)
+3. Is the word count approximately {target_word_count} words? (Within ±10% tolerance)
+4. Does the story feel complete and satisfying? (Not abrupt or unfinished)
 
 Story:"""
     
@@ -4126,16 +4144,59 @@ Your stories must always be safe, positive, and suitable for young children."""
     generated_text = response.choices[0].message.content.strip()
     word_count = len(generated_text.split())
     
-    # Calculate estimated duration (assuming ~120 words per minute for spoken text)
-    estimated_duration_minutes = word_count / 120.0
-    
-    # Validate word count and duration
+    # CRITICAL: Check if story is incomplete (cut off mid-sentence)
+    # Common indicators: ends with incomplete words, no closing, abrupt ending
     min_words = int(target_word_count * 0.9)
     max_words = int(target_word_count * 1.1)
+    
+    incomplete_indicators = [
+        generated_text.endswith("und"),  # German "and" cut off
+        generated_text.endswith("and"),  # English "and" cut off
+        generated_text.endswith("et"),  # French "and" cut off
+        generated_text.endswith("y"),  # Spanish "and" cut off
+        generated_text.endswith("ve"),  # Turkish "and" cut off
+        not generated_text.rstrip().endswith((".", "!", "?")),  # No punctuation at end
+        word_count < int(target_word_count * 0.8),  # Significantly under word count
+    ]
+    
+    is_incomplete = any(incomplete_indicators) or (
+        word_count < int(target_word_count * 0.8) and 
+        not generated_text.rstrip().endswith((".", "!", "?"))
+    )
+    
+    # If incomplete, try to regenerate with increased max_tokens
+    # COST OPTIMIZATION: Only retry if story is incomplete (minimizes unnecessary token usage)
+    if is_incomplete:
+        print(f"⚠️ [generate_story_text] Story appears incomplete (word_count: {word_count}, ends with: '{generated_text[-50:]}')")
+        
+        # Use retry_max_tokens parameter if provided, otherwise calculate 1.5x
+        # This allows per-length-type retry limits (e.g., quick: 600, dreamy: 1500)
+        if retry_max_tokens is None:
+            retry_max_tokens = int(max_tokens * 1.5)
+        
+        print(f"   Retrying with increased max_tokens: {max_tokens} → {retry_max_tokens}")
+        
+        # Retry with increased token limit
+        retry_response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "system", "content": system_message},
+                {"role": "user", "content": prompt}
+            ],
+            max_tokens=retry_max_tokens,
+            temperature=0.8
+        )
+        generated_text = retry_response.choices[0].message.content.strip()
+        word_count = len(generated_text.split())
+        print(f"   ✅ Retry completed: word_count={word_count}")
+    
+    # Calculate estimated duration (assuming ~120 words per minute for spoken text)
+    estimated_duration_minutes = word_count / 120.0
     
     print(f"✅ [generate_story_text] Story generated:")
     print(f"   Word count: {word_count} (target: {target_word_count}, range: {min_words}-{max_words})")
     print(f"   Estimated duration: {estimated_duration_minutes:.1f} minutes (target: {target_duration_min}-{target_duration_max} minutes)")
+    print(f"   Last 100 chars: '{generated_text[-100:]}'")
     
     # Warn if word count or duration is outside acceptable range
     if word_count < min_words:
