@@ -5172,15 +5172,26 @@ async def get_story(
         
         story_data = story_doc.to_dict()
         
-        # Verify ownership
-        # CRITICAL: owner_user_id must match user_id for security
-        # If owner_user_id is missing, deny access (security best practice)
+        # Verify ownership (skip for public stories)
+        # CRITICAL: Public stories (is_public=True) are accessible to all users
+        # Private stories require ownership verification
+        is_public = story_data.get("is_public", False)
         story_owner = story_data.get("owner_user_id")
-        if story_owner != user_id:
-            print(f"⚠️ [GET /stories/{story_id}] Ownership verification failed:")
+        
+        if not is_public:
+            # Private story: verify ownership
+            if story_owner != user_id:
+                print(f"⚠️ [GET /stories/{story_id}] Ownership verification failed (private story):")
+                print(f"   Story owner_user_id: {story_owner}")
+                print(f"   Request user_id: {user_id}")
+                print(f"   is_public: {is_public}")
+                raise HTTPException(status_code=403, detail="Access denied")
+        else:
+            # Public story: allow access to all authenticated users
+            print(f"✅ [GET /stories/{story_id}] Public story access granted:")
             print(f"   Story owner_user_id: {story_owner}")
             print(f"   Request user_id: {user_id}")
-            raise HTTPException(status_code=403, detail="Access denied")
+            print(f"   is_public: {is_public}")
         
         # Log story data for debugging
         print(f"📖 [GET /stories/{story_id}] Story data from Firestore:")
