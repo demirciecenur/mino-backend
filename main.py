@@ -96,7 +96,12 @@ async def generate_tts_with_elevenlabs(text: str, voice: str, emotion: str, spee
                         fal_voice = voice_name_map[voice_id_fallback]
                     else:
                         fal_voice = voice_id_fallback  # Use voice_id directly
-            print(f"🎤 Using voice for {voice_lower}: {fal_voice} (voice_id from CHARACTER_VOICES)")
+                else:
+                    # CRITICAL: If no voice found, use Mino's default voice (not charlotte)
+                    print(f"⚠️ No voice_id found for '{voice_lower}', using Mino's default voice")
+                    mino_config = settings.CHARACTER_VOICES.get("mino", {})
+                    fal_voice = mino_config.get("voice_id", "AZnzlk1XvdvUeBnXmlld")
+            print(f"🎤 [FAL TTS] Using voice for '{voice_lower}': '{fal_voice}' (type: {'voice_id' if len(fal_voice) > 20 else 'voice_name'})")
             # Add language hint to text for better language detection (ElevenLabs multilingual model)
             # BEST PRACTICE: Language hint ensures correct language detection when multilingual model misdetects
             text_with_lang_hint = _add_language_hint(text, lang)
@@ -331,7 +336,9 @@ async def _generate_tts_with_fal(text: str, char_settings: dict, speed: float = 
                 print(f"   Language: {lang} (hint already added to text)")
                 print(f"   Speed: {speed_clamped:.2f}, Pitch: {pitch_clamped:.2f}")
                 if voice_name_or_id:
-                    print(f"   Voice: {voice_name_or_id}")
+                    print(f"   Voice: {voice_name_or_id} (length: {len(voice_name_or_id)}, type: {'voice_id' if len(voice_name_or_id) > 20 else 'voice_name'})")
+                else:
+                    print(f"   ⚠️ WARNING: No voice specified, FAL.ai will use default voice")
                 print(f"   Text preview: {text[:100]}...")
                 
                 # Adjust arguments based on model
@@ -342,12 +349,18 @@ async def _generate_tts_with_fal(text: str, char_settings: dict, speed: float = 
                     if voice_name_or_id:
                         arguments["voice_id"] = voice_name_or_id
                 else:
-                    # For ElevenLabs models, try both voice name and voice_id
-                    # Some voices work with name (Rachel), others need ID
-                    if voice_name_or_id and len(voice_name_or_id) > 20:  # Likely a voice_id
-                        arguments["voice_id"] = voice_name_or_id
-                        arguments.pop("voice", None)  # Remove voice if using voice_id
-                    # If voice_name_or_id is short (like "Rachel"), keep "voice" parameter
+                    # For ElevenLabs models via FAL.ai, use "voice" parameter with voice_id
+                    # FAL.ai/elevenlabs accepts both voice name (string) and voice_id (string)
+                    # According to FAL.ai docs: voice parameter accepts "The name or the ID (voice_id) of the voice"
+                    if voice_name_or_id:
+                        # CRITICAL: FAL.ai accepts voice_id directly in "voice" parameter
+                        # We use "voice" parameter (not "voice_id") for FAL.ai/elevenlabs models
+                        arguments["voice"] = voice_name_or_id
+                        # Remove voice_id if it exists (we use "voice" parameter)
+                        arguments.pop("voice_id", None)
+                    else:
+                        print(f"   ⚠️ WARNING: No voice specified, removing voice parameter")
+                        arguments.pop("voice", None)
                 
                 submit_result = fal_client.submit(model, arguments=arguments)
                 

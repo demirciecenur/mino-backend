@@ -123,7 +123,7 @@ class Settings:
             "emotion": "sad",  # Inside-Out Sadness-inspired: soft, sad but loving
             "speed": 0.78,  # Slower for melancholic, gentle delivery
             "pitch": 0.88,  # Lower, soft pitch for empathetic tone
-            "voice_id": "pNInz6obpgDQGcFmaJgB",
+            "voice_id": "xtPlXcRNvdlUVw2QsITM",  # New voice ID - softer, more empathetic for 2-8 years
             "storyteller": True,
             "original_inspiration": "Inside Out Sadness"
         },
@@ -147,12 +147,12 @@ class Settings:
         },
         "sunny": {
             "voice": "female-bright",
-            "emotion": "cheerful",  # Cheerful storyteller
+            "emotion": "cheerful",  # Cheerful storyteller - bright and energetic for 2-8 years
             "speed": 1.0,  # Normal speed for 5-year-old child voice
-            "pitch": 1.0,  # Use natural pitch of child voice
-            "voice_id": "hO2yZ8lxM3axUxL8OeKX",  # Girl (5-year-old child voice)
+            "pitch": 1.1,  # Slightly higher pitch for cheerful, bright tone
+            "voice_id": "VE5rsMNTeE1frCCSXNIC",  # New voice ID - cheerful, bright girl voice for 2-8 years
             "storyteller": True,
-            "original_inspiration": "Sunny"
+            "original_inspiration": "Sunny - Cheerful and bright character"
         },
         "koko": {
             "voice": "male-young",
