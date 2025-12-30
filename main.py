@@ -1593,9 +1593,11 @@ async def mock_audio(audio_id: str, lang: str = "en"):
         # CRITICAL: Pass lang parameter to ensure correct language detection
         # The _add_language_hint function will add language hint (e.g., [EN]) to text
         # This prevents ElevenLabs multilingual model from misdetecting the language
+        # CRITICAL: Pass character name (not voice_id) to generate_tts_with_elevenlabs
+        # The function will look up voice_id from CHARACTER_VOICES internally
         audio_bytes = await generate_tts_with_elevenlabs(
             text=fallback_text,
-            voice=voice_id,
+            voice=character_lower,  # Pass character name, not voice_id
             emotion=emotion,
             speed=speed,
             pitch=pitch,
@@ -3321,7 +3323,8 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             story_text=story_text,
             language=request.language,
             character=character_slug,
-            child_name=request.child_name
+            child_name=request.child_name,
+            topic=mapped_topic  # Pass mapped topic for language-specific title generation
         )
         
         # CONTROL 3: Extract characters used in generated story (for verification)
@@ -4516,9 +4519,11 @@ async def moderate_content(content: str, language: str = "en") -> dict:
     lang_key = language[:2] if len(language) >= 2 else "en"
     profanity_list = profanity_patterns.get(lang_key, profanity_patterns["en"])
     
-    # Check for profanity
+    # Check for profanity (word boundary matching to avoid false positives)
     for word in profanity_list:
-        if word in content_lower:
+        # Use word boundary regex to match whole words only (prevents false positives like "hungry" matching "gun")
+        pattern = r'\b' + re.escape(word) + r'\b'
+        if re.search(pattern, content_lower):
             result["is_safe"] = False
             result["reason"] = f"Inappropriate language detected: {word}"
             # Profanity severity: medium (can be auto-corrected to safe alternative)
@@ -4526,9 +4531,12 @@ async def moderate_content(content: str, language: str = "en") -> dict:
             result["flags"].append("profanity")
             return result
     
-    # Check for inappropriate themes
+    # Check for inappropriate themes (word boundary matching to avoid false positives)
     for theme in inappropriate_themes:
-        if theme in content_lower:
+        # Use word boundary regex to match whole words only
+        # This prevents false positives like "hungry" matching "gun", "jungle" matching "gun", etc.
+        pattern = r'\b' + re.escape(theme) + r'\b'
+        if re.search(pattern, content_lower):
             result["is_safe"] = False
             result["reason"] = f"Inappropriate theme detected: {theme}"
             # Theme severity: critical for violence/adult content, high for others
@@ -4818,7 +4826,7 @@ def split_text_into_scenes(text: str, character: str, language: str, child_name:
     return scenes
 
 
-async def generate_story_title(story_text: str, language: str, character: str, child_name: Optional[str] = None) -> str:
+async def generate_story_title(story_text: str, language: str, character: str, child_name: Optional[str] = None, topic: Optional[str] = None) -> str:
     """Generate an engaging, child-friendly title for the story using AI.
     
     The title should:
@@ -5069,6 +5077,39 @@ The title MUST be personalized with the child's name - this is mandatory, not op
         
         child_part = f" The story is personalized for a child named {child_name}." if child_name else ""
         
+        # Language-specific topic translations for title generation
+        # This ensures topic appears in the correct language in the title (e.g., "sharing" -> "paylaşma" in Turkish)
+        topic_translations = {
+            "tr": {
+                "sharing": "paylaşma", "friendship": "arkadaşlık", "bedtime": "uyku", "confidence": "özgüven",
+                "emotional_regulation": "duygusal düzenleme", "screen_time": "ekran süresi", "sibling": "kardeş",
+                "imagination": "hayal gücü", "transitions": "geçiş", "kindness": "nezaket", "nutrition": "beslenme"
+            },
+            "en": {
+                "sharing": "sharing", "friendship": "friendship", "bedtime": "bedtime", "confidence": "confidence",
+                "emotional_regulation": "emotional regulation", "screen_time": "screen time", "sibling": "sibling",
+                "imagination": "imagination", "transitions": "transitions", "kindness": "kindness", "nutrition": "nutrition"
+            },
+            "de": {
+                "sharing": "teilen", "friendship": "freundschaft", "bedtime": "schlafenszeit", "confidence": "vertrauen",
+                "emotional_regulation": "emotionale regulation", "screen_time": "bildschirmzeit", "sibling": "geschwister",
+                "imagination": "fantasie", "transitions": "übergang", "kindness": "freundlichkeit", "nutrition": "ernährung"
+            },
+            "es": {
+                "sharing": "compartir", "friendship": "amistad", "bedtime": "hora de dormir", "confidence": "confianza",
+                "emotional_regulation": "regulación emocional", "screen_time": "tiempo de pantalla", "sibling": "hermano",
+                "imagination": "imaginación", "transitions": "transición", "kindness": "bondad", "nutrition": "nutrición"
+            },
+            "fr": {
+                "sharing": "partage", "friendship": "amitié", "bedtime": "coucher", "confidence": "confiance",
+                "emotional_regulation": "régulation émotionnelle", "screen_time": "temps d'écran", "sibling": "frère",
+                "imagination": "imagination", "transitions": "transition", "kindness": "gentillesse", "nutrition": "nutrition"
+            }
+        }
+        topic_map = topic_translations.get(lang_key, topic_translations["en"])
+        topic_translated = topic_map.get(topic.lower() if topic else "", topic or "") if topic else ""
+        topic_part = f" The story is about: {topic_translated}." if topic_translated else ""
+        
         # Language guidance for title generation (age-appropriate, gentle instruction)
         # Note: For 2-8 year olds, we want natural, child-friendly titles in the correct language
         # Using gentle guidance rather than strict enforcement to allow creative, age-appropriate titles
@@ -5086,7 +5127,7 @@ The title MUST be personalized with the child's name - this is mandatory, not op
 CRITICAL - CHARACTER NAME: The main character in this story is "{character_name}". You MUST use "{character_name}" in the title, NOT any other character names that might appear in the story text.
 
 Character: {character_name}
-{child_part}
+{child_part}{topic_part}
 Story preview: {story_preview}
 
 Requirements:
