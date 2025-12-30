@@ -120,10 +120,10 @@ class Settings:
         },
         "bubu": {
             "voice": "female-soft",
-            "emotion": "sad",  # Inside-Out Sadness-inspired: soft, sad but loving
-            "speed": 0.78,  # Slower for melancholic, gentle delivery
-            "pitch": 0.88,  # Lower, soft pitch for empathetic tone
-            "voice_id": "pNInz6obpgDQGcFmaJgB",
+            "emotion": "sad",  # Inside-Out Sadness-inspired: soft, sad but loving (girl character)
+            "speed": 0.75,  # Slower for melancholic, gentle delivery
+            "pitch": 0.92,  # Soft pitch for empathetic, gentle girl voice (Inside Out Sadness)
+            "voice_id": "ocZQ262SsZb9RIxcQBOj",  # Girl (5-year-old child voice) - soft, empathetic, perfect for Inside Out Sadness
             "storyteller": True,
             "original_inspiration": "Inside Out Sadness"
         },
