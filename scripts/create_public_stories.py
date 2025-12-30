@@ -18,6 +18,7 @@ import json
 import argparse
 import time
 import asyncio
+from pathlib import Path
 from dotenv import load_dotenv
 from datetime import datetime, timedelta
 
@@ -322,6 +323,51 @@ async def create_public_story(config: dict, lang: str, section: str, index: int,
         print(f"      Character: {character} → Slug: {character_slug}")
         print(f"      This slug will be used to look up CHARACTER_VOICES for character-specific voice settings")
         
+        # ONE-TIME SCRIPT: Delete existing audio files for this story to force regeneration
+        # CRITICAL SAFETY: Only delete audio files that match this specific story_id
+        # Audio files are stored at: {AUDIO_BASE_DIR}/{character_slug}/{lang}/{topic}_{story_id}_{scene_index}.wav
+        # Format: {topic}_{safe_story_suffix}_{scene_index}.wav where safe_story_suffix = story_id (without "story_" prefix)
+        # For public stories: story_id = "public_most_liked_de_mino_bedtime_0"
+        # Audio filename: "bedtime_public_most_liked_de_mino_bedtime_0_0.wav"
+        audio_dir = Path(settings.AUDIO_BASE_DIR) / character_slug / lang
+        if audio_dir.exists():
+            # CRITICAL: Only delete files that match this specific story_id
+            # Pattern must include full story_id to ensure we don't delete other stories' audio
+            # Story ID format: public_{section}_{lang}_{character}_{topic}_{index}
+            # Audio pattern: {topic}_{story_id}_*.wav
+            audio_pattern = f"{topic_mapped}_{story_id}_*.wav"
+            audio_pattern_mp3 = f"{topic_mapped}_{story_id}_*.mp3"
+            deleted_count = 0
+            deleted_files = []
+            
+            for audio_file in list(audio_dir.glob(audio_pattern)) + list(audio_dir.glob(audio_pattern_mp3)):
+                # CRITICAL SAFETY CHECK: Verify filename contains the exact story_id
+                # This ensures we only delete audio files for this specific public story
+                # Story ID format: public_{section}_{lang}_{character}_{topic}_{index}
+                # Audio filename format: {topic}_{story_id}_{scene_index}.wav
+                # Example: "bedtime_public_most_liked_de_mino_bedtime_0_0.wav"
+                if story_id in audio_file.name:
+                    # TRIPLE CHECK: Verify story_id starts with "public_" (only our script's stories)
+                    # This prevents accidentally deleting user-generated story audio files (story_*)
+                    if story_id.startswith("public_"):
+                        try:
+                            audio_file.unlink()
+                            deleted_count += 1
+                            deleted_files.append(audio_file.name)
+                            print(f"   🗑️  Deleted existing audio: {audio_file.name}")
+                        except Exception as e:
+                            print(f"   ⚠️  Could not delete {audio_file.name}: {e}")
+                    else:
+                        print(f"   ⚠️  Skipping audio file (not a public seed story, story_id doesn't start with 'public_'): {audio_file.name}")
+                else:
+                    print(f"   ⚠️  Skipping audio file (story_id mismatch): {audio_file.name}")
+            
+            if deleted_count > 0:
+                print(f"   ✅ Deleted {deleted_count} existing audio file(s) for story '{story_id}' - will regenerate with character-specific voice")
+                print(f"      Files deleted: {', '.join(deleted_files[:5])}{'...' if len(deleted_files) > 5 else ''}")
+            else:
+                print(f"   ℹ️  No existing audio files found for story '{story_id}' - will generate new audio")
+        
         # Create story document first (same as API endpoint does)
         # Set created_at based on section
         if section == "most_liked":
@@ -442,8 +488,15 @@ async def create_public_story(config: dict, lang: str, section: str, index: int,
     return story_id
 
 
-async def create_all_public_stories_for_language(lang: str, dry_run: bool = False):
-    """Create all 4 public stories for a language."""
+async def create_all_public_stories_for_language(lang: str, dry_run: bool = False, force_regenerate: bool = False):
+    """
+    Create all 4 public stories for a language.
+    
+    Args:
+        lang: Language code (tr, en, de, es, fr)
+        dry_run: If True, only print what would be created without actually creating
+        force_regenerate: If True, delete existing public seed stories and audio files before regenerating
+    """
     if lang not in PUBLIC_STORY_CONFIGS:
         print(f"❌ Language '{lang}' not supported. Supported: {list(PUBLIC_STORY_CONFIGS.keys())}")
         return []
@@ -454,6 +507,66 @@ async def create_all_public_stories_for_language(lang: str, dry_run: bool = Fals
     print(f"\n🌍 Creating public stories for language: {lang}")
     print(f"   Most Liked: {len(configs['most_liked'])} stories")
     print(f"   Last Created: {len(configs['last_created'])} stories")
+    
+    # CRITICAL SAFETY: Only delete stories created by this script (public seed stories)
+    # Story IDs must start with "public_" and owner_user_id must be "public_seed"
+    if force_regenerate and not dry_run:
+        print(f"\n🔄 FORCE REGENERATE MODE: Will delete existing public seed stories and audio files for language: {lang}")
+        if db:
+            stories_ref = db.collection("stories")
+            # CRITICAL: Only find stories created by this script
+            # Filter: owner_user_id == "public_seed" AND language == lang AND id starts with "public_"
+            public_stories = stories_ref.where("owner_user_id", "==", "public_seed")\
+                                       .where("language", "==", lang)\
+                                       .stream()
+            
+            deleted_count = 0
+            deleted_story_ids = []
+            for story_doc in public_stories:
+                story_data = story_doc.to_dict()
+                story_id = story_doc.id
+                
+                # DOUBLE CHECK: Only delete stories with "public_" prefix (created by this script)
+                if not story_id.startswith("public_"):
+                    print(f"   ⚠️  Skipping story (not a public seed story): {story_id}")
+                    continue
+                
+                character_id = story_data.get("character_id", "")
+                topic = story_data.get("topic", "")
+                
+                # Delete Firestore document
+                story_doc.reference.delete()
+                deleted_count += 1
+                deleted_story_ids.append(story_id)
+                print(f"   🗑️  Deleted Firestore document: {story_id}")
+                
+                # Delete audio files for this specific story only
+                if character_id and topic:
+                    audio_dir = Path(settings.AUDIO_BASE_DIR) / character_id / lang
+                    if audio_dir.exists():
+                        # CRITICAL: Only delete audio files matching this specific story_id
+                        audio_pattern = f"{topic}_{story_id}_*.wav"
+                        audio_pattern_mp3 = f"{topic}_{story_id}_*.mp3"
+                        audio_deleted = 0
+                        
+                        for audio_file in list(audio_dir.glob(audio_pattern)) + list(audio_dir.glob(audio_pattern_mp3)):
+                            # DOUBLE CHECK: Verify filename contains the exact story_id
+                            if story_id in audio_file.name:
+                                try:
+                                    audio_file.unlink()
+                                    audio_deleted += 1
+                                    print(f"      🗑️  Deleted audio: {audio_file.name}")
+                                except Exception as e:
+                                    print(f"      ⚠️  Could not delete {audio_file.name}: {e}")
+                        
+                        if audio_deleted > 0:
+                            print(f"      ✅ Deleted {audio_deleted} audio file(s) for story: {story_id}")
+            
+            if deleted_count > 0:
+                print(f"\n   ✅ Deleted {deleted_count} existing public seed story document(s) and associated audio files")
+                print(f"      Story IDs deleted: {', '.join(deleted_story_ids)}")
+            else:
+                print(f"\n   ℹ️  No existing public seed stories found for language: {lang}")
     
     # Create Most Liked stories
     for i, config in enumerate(configs["most_liked"]):
@@ -479,10 +592,29 @@ async def create_all_public_stories_for_language(lang: str, dry_run: bool = Fals
 
 
 async def main():
-    parser = argparse.ArgumentParser(description="Create public seed stories for HomeView")
+    parser = argparse.ArgumentParser(
+        description="Create public seed stories for HomeView (one-time script)",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  # Dry run for Turkish (see what would be created)
+  python backend/scripts/create_public_stories.py --lang tr --dry-run
+  
+  # Create stories for Turkish only
+  python backend/scripts/create_public_stories.py --lang tr
+  
+  # Create stories for all languages (one-time setup)
+  python backend/scripts/create_public_stories.py --all-languages
+  
+  # Force regenerate: delete existing stories and audio, then recreate
+  python backend/scripts/create_public_stories.py --all-languages --force-regenerate
+        """
+    )
     parser.add_argument("--lang", help="Language code (tr, en, de, es, fr)")
     parser.add_argument("--all-languages", action="store_true", help="Create stories for all languages")
     parser.add_argument("--dry-run", action="store_true", help="Print what would be created without actually creating")
+    parser.add_argument("--force-regenerate", action="store_true", 
+                       help="Delete existing stories and audio files before regenerating (one-time script mode)")
     args = parser.parse_args()
     
     if not args.lang and not args.all_languages:
@@ -493,6 +625,13 @@ async def main():
     if args.dry_run:
         print("🔍 DRY RUN MODE - No stories will be created")
     
+    if args.force_regenerate and not args.dry_run:
+        print("🔄 FORCE REGENERATE MODE - Existing stories and audio will be deleted")
+        response = input("⚠️  Are you sure you want to delete existing public stories? (yes/no): ")
+        if response.lower() != "yes":
+            print("❌ Cancelled")
+            return 1
+    
     created_stories = []
     
     if args.all_languages:
@@ -500,7 +639,7 @@ async def main():
             print(f"\n{'='*60}")
             print(f"🌍 Processing language: {lang.upper()}")
             print(f"{'='*60}")
-            stories = await create_all_public_stories_for_language(lang, args.dry_run)
+            stories = await create_all_public_stories_for_language(lang, args.dry_run, args.force_regenerate)
             created_stories.extend(stories)
             if not args.dry_run:
                 print(f"   ✅ Completed all stories for language: {lang.upper()}")
@@ -509,7 +648,7 @@ async def main():
                     print(f"   ⏳ Waiting 5 seconds before next language...")
                     await asyncio.sleep(5)  # Short wait between languages
     else:
-        stories = await create_all_public_stories_for_language(args.lang, args.dry_run)
+        stories = await create_all_public_stories_for_language(args.lang, args.dry_run, args.force_regenerate)
         created_stories.extend(stories)
     
     print(f"\n{'='*60}")
