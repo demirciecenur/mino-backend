@@ -1743,6 +1743,18 @@ async def verify_receipt(request: ReceiptRequest):
                         if request.user_id and db:
                             try:
                                 user_ref = db.collection("subscriptions").document(request.user_id)
+                                
+                                # CRITICAL: For new purchases, will_renew should default to True
+                                # iOS app will update this flag from RevenueCat (source of truth)
+                                # But for receipt verification, we assume new purchases will renew
+                                # This prevents false "expired" status for active subscriptions
+                                existing_doc = user_ref.get()
+                                will_renew = True  # Default for new purchases
+                                if existing_doc.exists:
+                                    existing_data = existing_doc.to_dict()
+                                    # Preserve existing will_renew if it exists (from iOS or RevenueCat webhook)
+                                    will_renew = existing_data.get("will_renew", True)
+                                
                                 user_ref.set({
                                     "user_id": request.user_id,
                                     "product_id": product_id,
@@ -1752,10 +1764,11 @@ async def verify_receipt(request: ReceiptRequest):
                                     "is_in_intro_offer_period": is_in_intro_offer_period,
                                     "environment": environment,
                                     "billing_issue": False,  # Fix: default false instead of null
+                                    "will_renew": will_renew,  # CRITICAL: Default True for new purchases, preserve existing if present
                                     "verified_at": firestore.SERVER_TIMESTAMP,
                                     "updated_at": firestore.SERVER_TIMESTAMP
                                 }, merge=True)
-                                print(f"✅ Subscription status saved to Firestore for user: {request.user_id}")
+                                print(f"✅ Subscription status saved to Firestore for user: {request.user_id} (will_renew: {will_renew})")
                             except Exception as e:
                                 print(f"⚠️ Failed to save subscription to Firestore: {e}")
                         
