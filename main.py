@@ -3055,9 +3055,17 @@ async def create_custom_story(
         }
         
         # Create Firestore document with status="text_pending"
+        # BEST PRACTICE: Create safe, child-friendly title even if story might be rejected
+        # This ensures rejected stories have appropriate titles
+        safe_title = f"Story about {request.topic[:50]}"
+        # If topic contains potentially inappropriate words, use mapped topic instead
+        if topic_mapped and topic_mapped != request.topic.lower():
+            # Use mapped topic for title (e.g., "friendship" instead of "vurmamaya")
+            safe_title = f"Story about {topic_mapped.replace('_', ' ').title()}"
+        
         story_data = {
             "id": story_id,
-            "title": f"Story about {request.topic[:50]}",  # Temporary title, will be updated by AI
+            "title": safe_title,  # Safe title based on mapped topic
             "status": "text_pending",  # Will transition: text_pending → audio_pending → ready
             "character_id": character_slug,  # Store normalized character slug
             "language": request.language,
@@ -3170,18 +3178,33 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 rejection_reason = "Your story request contains content that is not appropriate for children. Please try a different topic that is positive and child-friendly."
                 if moderation_result and moderation_result.get("flags"):
                     flags = moderation_result["flags"]
-                    if "profanity" in flags:
+                    # Check if this is a false positive (negative behavior context)
+                    if "violence_false_positive_ignored" in flags or "violence_review_needed" in flags:
+                        # This shouldn't happen (should be allowed), but handle gracefully
+                        rejection_reason = "We're having trouble understanding your request. Please try rephrasing it in a positive way (e.g., 'be kind to friends' instead of 'don't hit')."
+                    elif "profanity" in flags:
                         rejection_reason = "Your story request contains inappropriate language. Please use positive, child-friendly words."
                     elif "inappropriate_theme" in flags:
                         rejection_reason = "Your story request contains themes that are not suitable for children. Please choose a positive, educational topic."
                     elif "spam" in flags:
                         rejection_reason = "Your story request appears to be spam. Please provide a valid story topic."
-                    elif any("violence" in flag or "hate" in flag for flag in flags):
+                    elif any("violence" in flag for flag in flags) and "violence_false_positive_ignored" not in flags:
+                        # Check if this might be a false positive (negative behavior phrase)
+                        if any(phrase in request.topic.lower() for phrase in ["vurmamaya", "tukurmemeye", "yapmamaya", "etmemeye", "durdurmaya", "bırakmaya"]):
+                            rejection_reason = "We understand you want to encourage positive behavior. Please try rephrasing your request in a positive way (e.g., 'be gentle with friends' instead of 'don't hit friends')."
+                        else:
+                            rejection_reason = "Your story request contains content that is not safe for children. Please choose a positive, educational topic."
+                    elif any("hate" in flag for flag in flags):
                         rejection_reason = "Your story request contains content that is not safe for children. Please choose a positive, educational topic."
+                
+                # Update title to be more appropriate for rejected stories
+                # Use a safe, generic title instead of potentially inappropriate original topic
+                safe_title = f"Story Request"
                 
                 story_ref.update({
                     "status": "rejected",
                     "rejection_reason": rejection_reason,
+                    "title": safe_title,  # Update title to be safe and appropriate
                     "updated_at": time.time()
                 })
             return  # Stop generation
@@ -4538,10 +4561,11 @@ async def moderate_content(content: str, language: str = "en") -> dict:
     """Multi-layer content moderation using AI and rule-based filtering.
     
     This function provides:
-    1. AI-based moderation (OpenAI Moderation API)
-    2. Rule-based filtering (profanity, inappropriate themes)
-    3. Pedagogical safety checks (child-appropriate content)
-    4. Fraud detection (spam patterns, abuse)
+    1. Context-aware pre-processing (negative behavior detection)
+    2. AI-based moderation (OpenAI Moderation API)
+    3. Rule-based filtering (profanity, inappropriate themes)
+    4. Pedagogical safety checks (child-appropriate content)
+    5. Fraud detection (spam patterns, abuse)
     
     Args:
         content: Text content to moderate (topic, description, or story text)
@@ -4567,6 +4591,58 @@ async def moderate_content(content: str, language: str = "en") -> dict:
         return result
     
     content_lower = content.lower()
+    
+    # CRITICAL: Pre-process negative behavior phrases before moderation
+    # This prevents false positives where "vurmamaya" (not hitting) is flagged as violence
+    # Negative behavior phrases indicate POSITIVE parenting goals (stopping bad behavior)
+    negative_behavior_patterns = {
+        "tr": [
+            r"vurmamaya", r"vurmama", r"tukurmemeye", r"tukurme", r"yapmamaya", r"yapmama",
+            r"etmemeye", r"etmeme", r"durdurmaya", r"durdurma", r"bırakmaya", r"bırakma",
+            r"vazgeçmeye", r"vazgeçme", r"değiştirmeye", r"değiştirme", r"ikna etmek",
+            r"teşvik etmek", r"engellemek", r"önlemek"
+        ],
+        "en": [
+            r"not hitting", r"not hitting", r"not spitting", r"stop hitting", r"stop spitting",
+            r"don't hit", r"don't spit", r"persuade.*stop", r"convince.*not", r"prevent.*from",
+            r"avoid.*doing", r"quit.*doing", r"give up.*doing"
+        ],
+        "de": [
+            r"nicht schlagen", r"nicht spucken", r"aufhören.*zu", r"verhindern.*dass"
+        ],
+        "es": [
+            r"no golpear", r"no escupir", r"dejar de", r"evitar.*hacer"
+        ],
+        "fr": [
+            r"ne pas frapper", r"ne pas cracher", r"arrêter de", r"éviter de"
+        ]
+    }
+    
+    lang_key = language[:2] if len(language) >= 2 else "en"
+    negative_patterns = negative_behavior_patterns.get(lang_key, negative_behavior_patterns["en"])
+    
+    # Check if content contains negative behavior phrases (indicating positive parenting goals)
+    has_negative_behavior_context = False
+    for pattern in negative_patterns:
+        if re.search(pattern, content_lower, re.IGNORECASE):
+            has_negative_behavior_context = True
+            print(f"✅ [moderate_content] Detected negative behavior context (positive parenting goal): '{pattern}' in content")
+            break
+    
+    # If negative behavior context is detected, create a context-aware version for moderation
+    # This helps OpenAI Moderation API understand the positive intent
+    moderation_input = content
+    if has_negative_behavior_context:
+        # Add context to help moderation API understand this is about positive behavior change
+        context_prefix = {
+            "tr": "Ebeveyn çocuğunu olumlu davranışa teşvik etmek istiyor: ",
+            "en": "Parent wants to encourage positive behavior in child: ",
+            "de": "Elternteil möchte positives Verhalten beim Kind fördern: ",
+            "es": "Padre quiere fomentar comportamiento positivo en el niño: ",
+            "fr": "Parent veut encourager un comportement positif chez l'enfant: "
+        }
+        moderation_input = context_prefix.get(lang_key, context_prefix["en"]) + content
+        print(f"🔄 [moderate_content] Added context for moderation API to understand positive intent")
     
     # Layer 1: Rule-based filtering (fast, deterministic)
     # Profanity and inappropriate words (multi-language)
@@ -4625,7 +4701,8 @@ async def moderate_content(content: str, language: str = "en") -> dict:
             import openai
             client = openai.OpenAI(api_key=settings.OPENAI_API_KEY)
             
-            moderation_response = client.moderations.create(input=content)
+            # Use context-aware input if negative behavior context was detected
+            moderation_response = client.moderations.create(input=moderation_input)
             moderation_result = moderation_response.results[0]
             
             # Check moderation flags
@@ -4633,6 +4710,29 @@ async def moderate_content(content: str, language: str = "en") -> dict:
                 categories = moderation_result.categories
                 flagged_categories = [cat for cat, flagged in categories.dict().items() if flagged]
                 
+                # CRITICAL: If negative behavior context is detected and only "violence" is flagged,
+                # this is likely a false positive (e.g., "vurmamaya" = not hitting = positive goal)
+                if has_negative_behavior_context and "violence" in flagged_categories and len(flagged_categories) == 1:
+                    # Check violence score - if it's low/medium, it's likely a false positive
+                    violence_score = moderation_result.category_scores.violence
+                    if violence_score < 0.5:  # Low confidence in violence detection
+                        print(f"✅ [moderate_content] False positive detected: 'violence' flag with negative behavior context")
+                        print(f"   Violence score: {violence_score:.3f} (low confidence)")
+                        print(f"   Content is about positive behavior change, not actual violence")
+                        # Allow content - it's about positive parenting goals
+                        result["is_safe"] = True
+                        result["flags"].append("violence_false_positive_ignored")
+                        return result
+                    elif violence_score < 0.7:  # Medium confidence - review but allow
+                        print(f"⚠️ [moderate_content] Medium confidence violence flag with negative behavior context")
+                        print(f"   Violence score: {violence_score:.3f} (medium confidence)")
+                        print(f"   Allowing content but flagging for review")
+                        result["is_safe"] = True
+                        result["severity"] = "low"
+                        result["flags"].append("violence_review_needed")
+                        return result
+                
+                # High confidence violence flag or multiple flags → reject
                 result["is_safe"] = False
                 result["reason"] = f"Content flagged by moderation API: {', '.join(flagged_categories)}"
                 result["severity"] = "critical"
