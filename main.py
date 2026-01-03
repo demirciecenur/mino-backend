@@ -3271,6 +3271,7 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             language=request.language,
             child_name=request.child_name,
             max_tokens=config["max_tokens"],
+            custom_description=corrected_description,  # CRITICAL: Pass custom_description for behavior targeting
             retry_max_tokens=retry_max_tokens,  # Pass retry limit for cost optimization
             target_duration_min=config["duration_min"],
             target_duration_max=config["duration_max"],
@@ -3698,6 +3699,7 @@ async def generate_story_text(
     language: str,
     child_name: Optional[str],
     max_tokens: int,
+    custom_description: Optional[str] = None,  # CRITICAL: Custom description for behavior targeting
     retry_max_tokens: Optional[int] = None,  # COST OPTIMIZATION: Retry limit if story incomplete
     target_duration_min: int = 2,
     target_duration_max: int = 3,
@@ -4033,13 +4035,67 @@ async def generate_story_text(
    - Use pauses and natural speech patterns that work well for phone conversations
    - The character should speak directly to the child, as if they are having a real-time conversation"""
     
+    # CRITICAL: Check if custom_description contains behavior targeting keywords
+    # This determines if we need to add "persuasion constraint" to the prompt
+    behavior_keywords = {
+        "tr": ["ikna", "durdur", "bırak", "yapma", "yapmama", "etme", "etmeme", "vazgeç", "değiştir"],
+        "en": ["persuade", "stop", "convince", "change", "avoid", "prevent", "quit", "give up"],
+        "de": ["überzeugen", "aufhören", "stoppen", "ändern", "vermeiden", "verhindern"],
+        "es": ["convencer", "detener", "parar", "cambiar", "evitar", "prevenir"],
+        "fr": ["convaincre", "arrêter", "cesser", "changer", "éviter", "empêcher"]
+    }
+    
+    lang_key_for_keywords = language[:2] if len(language) >= 2 else "en"
+    keywords = behavior_keywords.get(lang_key_for_keywords, behavior_keywords["en"])
+    
+    has_behavior_target = False
+    target_behavior = None
+    if custom_description:
+        desc_lower = custom_description.lower()
+        # Check if description contains behavior targeting keywords
+        for keyword in keywords:
+            if keyword in desc_lower:
+                has_behavior_target = True
+                # Extract the behavior from description (e.g., "tükürmemeye ikna etmek" → "tükürmek")
+                # Try to find the behavior verb/noun before the keyword
+                target_behavior = custom_description
+                break
+    
+    # Build behavior targeting instruction if custom_description contains behavior target
+    behavior_instruction = ""
+    if has_behavior_target and target_behavior:
+        behavior_instruction = f"""
+CRITICAL - BEHAVIOR TARGETING (MOST IMPORTANT):
+The parent's specific request: "{target_behavior}"
+
+IMPORTANT RULE:
+The story MUST directly address the target behavior mentioned in the parent's request.
+The main message MUST be about persuading the child to stop or change the specific behavior.
+Do NOT generate a general emotional story or generic topic story.
+Mention the behavior explicitly in a child-friendly way.
+
+REQUIREMENTS:
+1. The story MUST focus on the specific behavior: {target_behavior}
+2. The character MUST gently persuade the child to stop or change this behavior
+3. Use positive, child-friendly language to address the behavior (e.g., "tükürmek" → "tükürmemek", "spitting" → "not spitting")
+4. The story should show why the behavior is not helpful and what positive alternatives exist
+5. Do NOT create a generic story about emotions or general topics - the story MUST be specifically about changing this behavior
+6. The behavior should be mentioned naturally throughout the story in a child-friendly way
+
+EXAMPLE:
+- If parent says "tükürmemeye ikna etmek istiyorum" → Story MUST be about NOT spitting, showing why spitting is not good, and encouraging the child to stop spitting
+- If parent says "persuade child to stop hitting" → Story MUST be about NOT hitting, showing why hitting hurts others, and encouraging gentle touch
+- Do NOT create a general "emotional regulation" story - create a story SPECIFICALLY about the target behavior
+
+"""
+    
     prompt = f"""You are {character_name}, a friendly character having a phone conversation with a child{child_part} and telling them a story.
 
 Character background:
 {persona}
 
 The parent wants a story about: {topic}
-
+{behavior_instruction}
 IMPORTANT INSTRUCTIONS:
 1. CRITICAL: If the topic description contains spelling or grammar errors, you MUST correct them automatically:
    - "gitmemek" → "giymemek" (to wear)
