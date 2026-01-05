@@ -2253,16 +2253,20 @@ async def badge_unlocked_endpoint(request: BadgeUnlockedRequest):
         )
         
         # Store badge unlock event in Firestore
-        badge_event_ref = db.collection("badge_history").document()
-        badge_event_ref.set({
-            "parent_id": request.parent_id,
-            "badge_id": request.badge_id,
-            "badge_name": request.badge_name,
-            "badge_icon": request.badge_icon,
-            "language": request.language,
-            "notification_sent": result.get("success", False),
-            "created_at": firestore.SERVER_TIMESTAMP  # Fix: removed duplicate timestamp field
-        })
+        try:
+            badge_event_ref = db.collection("badge_history").document()
+            badge_event_ref.set({
+                "parent_id": request.parent_id,
+                "badge_id": request.badge_id,
+                "badge_name": request.badge_name,
+                "badge_icon": request.badge_icon,
+                "language": request.language,
+                "notification_sent": result.get("success", False),
+                "created_at": firestore.SERVER_TIMESTAMP
+            })
+        except Exception as firestore_error:
+            print(f"⚠️ Failed to store badge event in Firestore: {firestore_error}")
+            # Continue - notification was sent, just couldn't store event
         
         if result.get("success"):
             print(f"✅ Badge unlock notification sent for badge {request.badge_id} to {result.get('success_count', 0)} device(s)")
@@ -2281,7 +2285,11 @@ async def badge_unlocked_endpoint(request: BadgeUnlockedRequest):
         print(f"❌ Badge unlock event error: {e}")
         import traceback
         traceback.print_exc()
-        raise HTTPException(status_code=500, detail=str(e))
+        # CRITICAL: Always return a response, even on error
+        return BadgeUnlockedResponse(
+            success=False,
+            message=f"Error processing badge unlock: {str(e)}"
+        )
 
 
 @app.post("/events/streak-updated", response_model=StreakUpdatedResponse)
@@ -3384,8 +3392,8 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             },
             "en": {
                 "spiderman": "Spider Fighter", "minion": "Yellow Buddy", "tweety": "Chirpy Bird",
-                "spongebob": "Bubble", "elsa": "Ice Princess Elisa", "tom": "Sneaky Cat Tom",
-                "jerry": "Clever Mouse Jerry", "ninjaturtles": "Shell Heroes", "koko": "Koko",
+                "spongebob": "Bubble", "elsa": "Ice Princess Elisa", "tom": "Sneaky Tim",
+                "jerry": "Clever Herry", "ninjaturtles": "Shell Heroes", "koko": "Koko",
                 "bugsbunny": "Funny Bunny", "ironman": "Metal Hero", "peppapig": "Piggy",
                 "bluey": "Blue Dog", "pawpatrol": "Rescue Dogs", "moana": "Ocean Dreamer",
                 "mario": "Super Jumper", "shrek": "Green Giant", "pussinboots": "Boots Cat",
@@ -3763,8 +3771,8 @@ async def generate_story_text(
             "tweety": "Cıvıl Kuş",
             "spongebob": "Baloncuk",
             "elsa": "Buz Prensesi Elisa",
-            "tom": "Sinsi Kedi Tom",
-            "jerry": "Zeki Fare Jerry",
+            "tom": "Sinsi Kedi Tim",
+            "jerry": "Zeki Fare Herry",
             "ninjaturtles": "Kabuk Kahramanlar",
             "sunny": "Sunny",
             "bubu": "Bubu",
@@ -3795,8 +3803,8 @@ async def generate_story_text(
             "tweety": "Chirpy Bird",
             "spongebob": "Bubble",
             "elsa": "Ice Princess Elisa",
-            "tom": "Sneaky Cat Tom",
-            "jerry": "Clever Mouse Jerry",
+            "tom": "Sneaky Tim",
+            "jerry": "Clever Herry",
             "ninjaturtles": "Shell Heroes",
             "sunny": "Sunny",
             "bubu": "Bubu",
@@ -3946,11 +3954,11 @@ async def generate_story_text(
             "Sunny celebrates small wins and encourages brave, positive choices."
         ),
         "tom": (
-            "Sneaky Cat Tom is a curious, slightly mischievous cat who learns to make good choices. "
+            "Sneaky Tim is a curious, slightly mischievous cat who learns to make good choices. "
             "His stories often turn small everyday problems into funny, safe learning moments."
         ),
         "jerry": (
-            "Clever Mouse Jerry is thoughtful and observant. "
+            "Clever Herry is thoughtful and observant. "
             "He helps children find smart, gentle solutions to their worries."
         ),
         "ninjaturtles": (
@@ -5036,8 +5044,8 @@ async def generate_story_title(story_text: str, language: str, character: str, c
                 "tweety": "Cıvıl Kuş",
                 "spongebob": "Baloncuk",
                 "elsa": "Buz Prensesi Elisa",
-                "tom": "Sinsi Kedi Tom",
-                "jerry": "Zeki Fare Jerry",
+                "tom": "Sinsi Kedi Tim",
+                "jerry": "Zeki Fare Herry",
                 "ninjaturtles": "Kabuk Kahramanlar",
                 "sunny": "Sunny",
                 "bubu": "Bubu",
@@ -5068,8 +5076,8 @@ async def generate_story_title(story_text: str, language: str, character: str, c
                 "tweety": "Chirpy Bird",
                 "spongebob": "Bubble",
                 "elsa": "Ice Princess Elisa",
-                "tom": "Sneaky Cat Tom",
-                "jerry": "Clever Mouse Jerry",
+                "tom": "Sneaky Tim",
+                "jerry": "Clever Herry",
                 "ninjaturtles": "Shell Heroes",
                 "sunny": "Sunny",
                 "bubu": "Bubu",
@@ -5100,8 +5108,8 @@ async def generate_story_title(story_text: str, language: str, character: str, c
                 "tweety": "Zwitschervogel",
                 "spongebob": "Blase",
                 "elsa": "Eisprinzessin Elisa",
-                "tom": "Schlaue Katze Tom",
-                "jerry": "Clevere Maus Jerry",
+                "tom": "Schlaue Katze Tim",
+                "jerry": "Clevere Maus Herry",
                 "ninjaturtles": "Schildhelden",
                 "sunny": "Sunny",
                 "bubu": "Bubu",
@@ -5132,8 +5140,8 @@ async def generate_story_title(story_text: str, language: str, character: str, c
                 "tweety": "Pájaro Gorjeador",
                 "spongebob": "Burbuja",
                 "elsa": "Princesa de Hielo Elisa",
-                "tom": "Gato Astuto Tom",
-                "jerry": "Ratón Inteligente Jerry",
+                "tom": "Gato Astuto Tim",
+                "jerry": "Ratón Inteligente Herry",
                 "ninjaturtles": "Héroes Caparazón",
                 "sunny": "Sunny",
                 "bubu": "Bubu",
@@ -5164,8 +5172,8 @@ async def generate_story_title(story_text: str, language: str, character: str, c
                 "tweety": "Oiseau Gazouillant",
                 "spongebob": "Bulle",
                 "elsa": "Princesse des Glaces Elisa",
-                "tom": "Chat Rusé Tom",
-                "jerry": "Souris Maligne Jerry",
+                "tom": "Chat Rusé Tim",
+                "jerry": "Souris Maligne Herry",
                 "ninjaturtles": "Héros Carapace",
                 "sunny": "Sunny",
                 "bubu": "Bubu",
