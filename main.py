@@ -4002,6 +4002,53 @@ async def generate_story_text(
     lang_key = language[:2] if len(language) >= 2 else "en"
     child_name_example = child_name_examples.get(lang_key, child_name_examples["en"])
     
+    # CRITICAL: Translate topic to target language for prompt
+    # This ensures canonical topics like "bedtime" appear in the correct language (e.g., "uyku" in Turkish)
+    topic_translations = {
+        "tr": {
+            "sharing": "paylaşma", "friendship": "arkadaşlık", "bedtime": "uyku", "confidence": "özgüven",
+            "emotional_regulation": "duygusal düzenleme", "screen_time": "ekran süresi", "sibling": "kardeş",
+            "imagination": "hayal gücü", "transitions": "geçiş", "kindness": "nezaket", "nutrition": "beslenme"
+        },
+        "en": {
+            "sharing": "sharing", "friendship": "friendship", "bedtime": "bedtime", "confidence": "confidence",
+            "emotional_regulation": "emotional regulation", "screen_time": "screen time", "sibling": "sibling",
+            "imagination": "imagination", "transitions": "transitions", "kindness": "kindness", "nutrition": "nutrition"
+        },
+        "de": {
+            "sharing": "teilen", "friendship": "freundschaft", "bedtime": "schlafenszeit", "confidence": "vertrauen",
+            "emotional_regulation": "emotionale regulation", "screen_time": "bildschirmzeit", "sibling": "geschwister",
+            "imagination": "fantasie", "transitions": "übergang", "kindness": "freundlichkeit", "nutrition": "ernährung"
+        },
+        "es": {
+            "sharing": "compartir", "friendship": "amistad", "bedtime": "hora de dormir", "confidence": "confianza",
+            "emotional_regulation": "regulación emocional", "screen_time": "tiempo de pantalla", "sibling": "hermano",
+            "imagination": "imaginación", "transitions": "transición", "kindness": "bondad", "nutrition": "nutrición"
+        },
+        "fr": {
+            "sharing": "partage", "friendship": "amitié", "bedtime": "coucher", "confidence": "confiance",
+            "emotional_regulation": "régulation émotionnelle", "screen_time": "temps d'écran", "sibling": "frère",
+            "imagination": "imagination", "transitions": "transition", "kindness": "gentillesse", "nutrition": "nutrition"
+        }
+    }
+    topic_map = topic_translations.get(lang_key, topic_translations["en"])
+    
+    # Extract canonical topic from topic string (may contain " — Parent context: ...")
+    topic_base = topic.split(" — ")[0].strip().lower()
+    
+    # Check if topic_base is already in the target language (e.g., "uyku" in Turkish)
+    # If it's already translated, use it as-is; otherwise translate from English canonical topic
+    topic_translated = topic_map.get(topic_base, topic_base)
+    
+    # If topic contains custom description, preserve it but translate the base topic
+    if " — " in topic:
+        custom_part = topic.split(" — ", 1)[1]
+        topic_for_prompt = f"{topic_translated} — {custom_part}"
+    else:
+        topic_for_prompt = topic_translated
+    
+    print(f"🌍 [generate_story_text] Topic translation: '{topic_base}' → '{topic_translated}' (lang: {lang_key})")
+    
     child_name_instruction = f"""
 6. CRITICAL - CHILD NAME PERSONALIZATION: The story is for a child named {child_name}. You MUST use the child's name ({child_name}) multiple times throughout the story when addressing the child or referring to them. Use the child's name naturally in dialogue and narration, for example: {child_name_example}. The child's name should appear at least 3-5 times in the story.""" if child_name else ""
     
@@ -4125,7 +4172,7 @@ EXAMPLE:
 Character background:
 {persona}
 
-The parent wants a story about: {topic}
+The parent wants a story about: {topic_for_prompt}
 {behavior_instruction}
 IMPORTANT INSTRUCTIONS:
 1. CRITICAL: If the topic description contains spelling or grammar errors, you MUST correct them automatically:
@@ -4924,80 +4971,69 @@ def sanitize_topic(topic: str) -> str:
 
 def split_text_into_scenes(text: str, character: str, language: str, child_name: Optional[str] = None) -> List[Dict]:
     """
-    Split story text into scenes with videoKeys for character animation.
-    Best Practice: Each scene gets appropriate videoKey based on content analysis.
-    
-    Args:
-        text: Full story text
-        character: Character ID (e.g., "bubu", "mino")
-        language: Language code (e.g., "tr", "en")
-        child_name: Optional child name for personalization
-    
-    Returns:
-        List of scene dictionaries with id, type, text, and videoKey
+    Split story text into scenes with videoKeys using analyze_text_for_video_key.
     """
     from services.story_composer import analyze_text_for_video_key
+    import re
     
-    # Split text into paragraphs (by double newlines or single newlines)
+    # Split text into paragraphs
     paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
-    
-    # If no double newlines, split by single newlines
     if len(paragraphs) <= 1:
         paragraphs = [p.strip() for p in text.split("\n") if p.strip()]
-    
-    # If still only one paragraph, split by sentences
     if len(paragraphs) <= 1:
-        import re
         sentences = re.split(r'[.!?]+\s+', text)
         paragraphs = [s.strip() for s in sentences if s.strip()]
     
     scenes = []
+    para_count = len(paragraphs)
     
     # First scene: opening
-    if paragraphs:
-        opening_text = paragraphs[0]
+    if para_count > 0:
+        scene_type = "opening"
         scenes.append({
             "id": "opening_0",
-            "type": "opening",
-            "text": opening_text,
-            "videoKey": analyze_text_for_video_key("opening", opening_text, language)
+            "type": scene_type,
+            "text": paragraphs[0],
+            "videoKey": analyze_text_for_video_key(scene_type, paragraphs[0], language)
         })
     
-    # Middle scenes: speak/narration
-    for i, paragraph in enumerate(paragraphs[1:-1] if len(paragraphs) > 2 else paragraphs[1:], start=1):
-        # Determine scene type based on content
+    # Middle scenes
+    if para_count > 2:
+        middle = paragraphs[1:-1]
+        scene_types = ["speak", "question", "encouragement"]
+        for i, para in enumerate(middle):
+            scene_type = scene_types[i] if i < len(scene_types) else "speak"
+            scenes.append({
+                "id": f"scene_{i+1}",
+                "type": scene_type,
+                "text": para,
+                "videoKey": analyze_text_for_video_key(scene_type, para, language)
+            })
+    elif para_count == 2:
         scene_type = "speak"
-        if "?" in paragraph or any(q in paragraph.lower() for q in ["ne ", "nasıl", "neden", "what", "how", "why"]):
-            scene_type = "question"
-        elif any(w in paragraph.lower() for w in ["öğren", "öğret", "açıkla", "learn", "teach", "explain"]):
-            scene_type = "instruction"
-        elif any(w in paragraph.lower() for w in ["harika", "mükemmel", "bravo", "great", "wonderful"]):
-            scene_type = "encouragement"
-        
         scenes.append({
-            "id": f"scene_{i}",
+            "id": "scene_1",
             "type": scene_type,
-            "text": paragraph,
-            "videoKey": analyze_text_for_video_key(scene_type, paragraph, language)
+            "text": paragraphs[1],
+            "videoKey": analyze_text_for_video_key(scene_type, paragraphs[1], language)
         })
     
     # Last scene: closure
-    if len(paragraphs) > 1:
-        closing_text = paragraphs[-1]
+    if para_count > 1:
+        scene_type = "closure"
         scenes.append({
             "id": "closure",
-            "type": "closure",
-            "text": closing_text,
-            "videoKey": analyze_text_for_video_key("closure", closing_text, language)
+            "type": scene_type,
+            "text": paragraphs[-1],
+            "videoKey": analyze_text_for_video_key(scene_type, paragraphs[-1], language)
         })
     
-    # Ensure at least one scene exists
     if not scenes:
         scenes.append({
             "id": "scene_0",
             "type": "speak",
             "text": text,
-            "videoKey": "talking"
+            "videoKey": analyze_text_for_video_key("speak", text, language)
         })
     
     return scenes
