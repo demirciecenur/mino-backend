@@ -5282,6 +5282,31 @@ async def generate_story_title(story_text: str, language: str, character: str, c
         character_display_map = character_display_maps.get(lang_key, character_display_maps["en"])
         character_name = character_display_map.get(character.lower(), character.capitalize())
         
+        # Simple title if no child_name (no AI needed)
+        if not child_name:
+            # Translate topic
+            topic_translations = {
+                "tr": {"bedtime": "Uyku", "friendship": "Arkadaşlık", "sharing": "Paylaşma", "nutrition": "Beslenme"},
+                "en": {"bedtime": "Bedtime", "friendship": "Friendship", "sharing": "Sharing", "nutrition": "Nutrition"},
+                "de": {"bedtime": "Schlafenszeit", "friendship": "Freundschaft", "sharing": "Teilen", "nutrition": "Ernährung"},
+                "es": {"bedtime": "Hora de Dormir", "friendship": "Amistad", "sharing": "Compartir", "nutrition": "Nutrición"},
+                "fr": {"bedtime": "Coucher", "friendship": "Amitié", "sharing": "Partage", "nutrition": "Nutrition"}
+            }
+            topic_map = topic_translations.get(lang_key, topic_translations["en"])
+            topic_translated = topic_map.get(topic.lower() if topic else "bedtime", topic.replace('_', ' ').title() if topic else "Story")
+            
+            # Simple format: Character + Topic
+            if lang_key == "tr":
+                return f"{character_name}'nin {topic_translated} Hikayesi"
+            elif lang_key == "de":
+                return f"{character_name}s {topic_translated} Geschichte"
+            elif lang_key == "es":
+                return f"La Historia de {topic_translated} de {character_name}"
+            elif lang_key == "fr":
+                return f"L'Histoire de {topic_translated} de {character_name}"
+            else:  # en
+                return f"{character_name}'s {topic_translated} Story"
+        
         # Get first 500 characters of story for context (to avoid token limits)
         story_preview = story_text[:500] if len(story_text) > 500 else story_text
         
