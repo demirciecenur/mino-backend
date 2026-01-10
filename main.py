@@ -3138,22 +3138,22 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         # dreamy = 4-8 minutes (~480-960 words at 120 wpm)
         length_config = {
             "quick": {
-                "duration_min": 2,
-                "duration_max": 3,
-                "target_words": 300,  # ~2.5 minutes at 120 wpm
+                "duration_min": 1,  # 65-70 seconds target
+                "duration_max": 1,  # ~1 minute max
+                "target_words": 130,  # ~65-70 seconds at 120 wpm (130 words / 120 wpm ≈ 65 sec)
                 # COST OPTIMIZATION: Start with conservative limit, retry with higher limit only if incomplete
-                # This minimizes costs: most stories complete with 400 tokens, only incomplete ones retry with 600
-                "max_tokens": 400,  # Initial limit (cost-optimized)
-                "retry_max_tokens": 600  # Retry limit if incomplete (for languages with longer words)
+                # This minimizes costs: most stories complete with 200 tokens, only incomplete ones retry with 300
+                "max_tokens": 200,  # Initial limit (cost-optimized)
+                "retry_max_tokens": 300  # Retry limit if incomplete (for languages with longer words)
             },
             "dreamy": {
-                "duration_min": 4,
-                "duration_max": 8,
-                "target_words": 720,  # ~6 minutes at 120 wpm
+                "duration_min": 3,
+                "duration_max": 5,
+                "target_words": 480,  # ~4 minutes at 120 wpm (3-5 min range)
                 # COST OPTIMIZATION: Start with conservative limit, retry with higher limit only if incomplete
-                # This minimizes costs: most stories complete with 1000 tokens, only incomplete ones retry with 1500
-                "max_tokens": 1000,  # Initial limit (cost-optimized)
-                "retry_max_tokens": 1500  # Retry limit if incomplete (for languages with longer words)
+                # This minimizes costs: most stories complete with 700 tokens, only incomplete ones retry with 1000
+                "max_tokens": 700,  # Initial limit (cost-optimized)
+                "retry_max_tokens": 1000  # Retry limit if incomplete (for languages with longer words)
             }
         }
         config = length_config.get(request.length, length_config["quick"])
@@ -4193,6 +4193,18 @@ Create a calming, age-appropriate story for a phone conversation that takes appr
 - Calming and gentle
 - Engaging but not overstimulating
 
+CRITICAL PEDAGOGICAL STRUCTURE (STORY MUST FOLLOW THIS ARC):
+1. OPENING (~15%): Brief, warm greeting + introduce the topic naturally
+2. DEVELOPMENT (~60%): Main message about the topic with:
+   - Clear, simple explanation of the topic/behavior
+   - Child-friendly examples or mini-scenario
+   - One actionable tip or positive behavior suggestion
+3. CONCLUSION (~25%): Wrap up the message + warm farewell
+- The story MUST have a clear beginning, middle, and end - no abrupt stops
+- Stay focused on the ONE topic throughout - don't wander to unrelated subjects
+- Deliver a clear, positive message related to the topic (e.g., "sharing is good", "trying new foods is fun")
+- Use pedagogically appropriate language: concrete examples, positive reinforcement, age-appropriate concepts
+
 CRITICAL DURATION REQUIREMENT (MOST IMPORTANT):
 - The story MUST take EXACTLY {target_duration_min}-{target_duration_max} minutes when spoken aloud at a normal pace
 - This is the PRIMARY requirement - the story duration must match the user's selected length option
@@ -4227,11 +4239,11 @@ CRITICAL STORY COMPLETION REQUIREMENT (MANDATORY - DO NOT SKIP):
 - End with a warm, positive closing that feels like a natural conclusion to a phone call conversation
 - If you are running out of tokens, prioritize completing the current sentence and adding a proper closing over adding more content
 - Language-specific example endings (USE THESE AS TEMPLATES):
-  * Turkish (tr): "Harika bir konuşma oldu! Seninle konuşmak çok güzeldi. İyi geceler!"
-  * English (en): "What a wonderful conversation! It was so nice talking with you. Good night!"
-  * German (de): "Was für ein wunderbares Gespräch! Es war so schön, mit dir zu sprechen. Gute Nacht!"
-  * Spanish (es): "¡Qué conversación tan maravillosa! Fue muy agradable hablar contigo. ¡Buenas noches!"
-  * French (fr): "Quelle conversation merveilleuse! C'était si agréable de parler avec toi. Bonne nuit!"
+  * Turkish (tr): "Harika bir konuşma oldu! Seninle konuşmak çok güzeldi. İyi günler, görüşürüz!"
+  * English (en): "What a wonderful conversation! It was so nice talking with you. Have a great day, see you soon!"
+  * German (de): "Was für ein wunderbares Gespräch! Es war so schön, mit dir zu sprechen. Einen schönen Tag noch, bis bald!"
+  * Spanish (es): "¡Qué conversación tan maravillosa! Fue muy agradable hablar contigo. ¡Que tengas un buen día, hasta pronto!"
+  * French (fr): "Quelle conversation merveilleuse! C'était si agréable de parler avec toi. Bonne journée, à bientôt!"
 
 CRITICAL: Before finishing, check:
 1. Is the last sentence complete? (No cut-off words like "und" or "and")
@@ -4284,11 +4296,11 @@ CRITICAL RULES:
 2. NO violence, scary content, inappropriate language, or negative themes.
 3. Automatically correct any spelling or grammar errors in the parent's topic description.
 4. Use correct grammar and spelling for the target language ({language}).
-5. Keep stories positive, educational, and calming for bedtime.
+5. Keep stories positive, educational, and calming.
 6. If you detect any inappropriate words or themes in the topic, replace them with safe, positive alternatives.
 """
     
-    system_message = f"""You are {character_name}, a kind and gentle character who tells bedtime stories to children.
+    system_message = f"""You are {character_name}, a kind and gentle character who tells calming stories to children.
 
 {safety_rules}
 
