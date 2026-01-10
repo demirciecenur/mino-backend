@@ -146,31 +146,29 @@ def analyze_text_for_video_key(scene_type: str, text: str, lang: str = "en") -> 
     }
     
     # Text content analysis for more nuanced selection
+    # PRIORITY: talking is the most common videoKey, minimize lean_closer usage
     if scene_type == "speak" or scene_type == "narration":
-        # Check for question words in text (even in speak scenes)
-        if any(word in text_lower for word in question_words):
-            return "lean_closer"  # Curious question pose
-        
-        # Check for teaching/explaining keywords
-        if any(word in text_lower for word in teaching_words):
-            return "hand_on_hip"  # Teaching pose
-        
-        # Check for encouragement keywords
+        # Check for encouragement keywords (raise_hand)
         if any(word in text_lower for word in encouragement_words):
             return "raise_hand"  # Encouraging gesture
         
-        # Check for inviting keywords
+        # Check for inviting keywords (raise_hand)
         if any(word in text_lower for word in inviting_words):
             return "raise_hand"  # Inviting gesture
         
-        # Default to talking
+        # REMOVED: lean_closer for question words in speak scenes
+        # Previously: if question words found -> lean_closer
+        # Now: always use talking for speak/narration (more natural)
+        
+        # Default to talking (most common)
         return "talking"
     
     elif scene_type == "question":
-        # Questions can vary based on content
+        # Questions now use talking instead of lean_closer (reduced lean_closer usage)
+        # Only use lean_closer for explicit thinking scenarios
         if any(word in text_lower for word in thinking_words):
-            return "side_glance"  # Playful thinking pose
-        return "lean_closer"  # Default curious pose
+            return "talking"  # Changed from side_glance to talking
+        return "talking"  # Changed from lean_closer to talking
     
     elif scene_type == "instruction":
         # Instructions can be more expressive

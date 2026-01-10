@@ -4984,9 +4984,23 @@ def sanitize_topic(topic: str) -> str:
 def split_text_into_scenes(text: str, character: str, language: str, child_name: Optional[str] = None) -> List[Dict]:
     """
     Split story text into scenes with videoKeys using analyze_text_for_video_key.
+    VideoKey priority: talking > wave > raise_hand (lean_closer minimized)
     """
     from services.story_composer import analyze_text_for_video_key
     import re
+    
+    # Available videoKeys for character (fallback to talking if not exists)
+    # Most characters have: talking, wave, lean_closer, raise_hand
+    AVAILABLE_VIDEO_KEYS = {"talking", "wave", "lean_closer", "raise_hand", "hand_on_hip", "side_glance"}
+    FALLBACK_VIDEO_KEY = "talking"  # Default fallback
+    
+    def get_safe_video_key(scene_type: str, text_content: str, lang: str) -> str:
+        """Get videoKey with fallback to 'talking' if not available"""
+        video_key = analyze_text_for_video_key(scene_type, text_content, lang)
+        # If videoKey is lean_closer, prefer talking for most scenes (reduce lean_closer usage)
+        if video_key == "lean_closer" and scene_type not in ["question"]:
+            return FALLBACK_VIDEO_KEY
+        return video_key if video_key in AVAILABLE_VIDEO_KEYS else FALLBACK_VIDEO_KEY
     
     # Split text into paragraphs
     paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
@@ -4999,27 +5013,29 @@ def split_text_into_scenes(text: str, character: str, language: str, child_name:
     scenes = []
     para_count = len(paragraphs)
     
-    # First scene: opening
+    # First scene: opening (wave)
     if para_count > 0:
         scene_type = "opening"
         scenes.append({
             "id": "opening_0",
             "type": scene_type,
             "text": paragraphs[0],
-            "videoKey": analyze_text_for_video_key(scene_type, paragraphs[0], language)
+            "videoKey": "wave"  # Opening always uses wave
         })
     
-    # Middle scenes
+    # Middle scenes - prioritize "speak" (talking) over question (lean_closer)
+    # Pattern: speak, speak, encouragement (instead of speak, question, encouragement)
     if para_count > 2:
         middle = paragraphs[1:-1]
-        scene_types = ["speak", "question", "encouragement"]
+        # Reduced lean_closer: use speak instead of question for most middle scenes
+        scene_types = ["speak", "speak", "encouragement"]  # Changed: question -> speak
         for i, para in enumerate(middle):
             scene_type = scene_types[i] if i < len(scene_types) else "speak"
             scenes.append({
                 "id": f"scene_{i+1}",
                 "type": scene_type,
                 "text": para,
-                "videoKey": analyze_text_for_video_key(scene_type, para, language)
+                "videoKey": get_safe_video_key(scene_type, para, language)
             })
     elif para_count == 2:
         scene_type = "speak"
@@ -5027,17 +5043,17 @@ def split_text_into_scenes(text: str, character: str, language: str, child_name:
             "id": "scene_1",
             "type": scene_type,
             "text": paragraphs[1],
-            "videoKey": analyze_text_for_video_key(scene_type, paragraphs[1], language)
+            "videoKey": get_safe_video_key(scene_type, paragraphs[1], language)
         })
     
-    # Last scene: closure
+    # Last scene: closure (wave)
     if para_count > 1:
         scene_type = "closure"
         scenes.append({
             "id": "closure",
             "type": scene_type,
             "text": paragraphs[-1],
-            "videoKey": analyze_text_for_video_key(scene_type, paragraphs[-1], language)
+            "videoKey": "wave"  # Closure always uses wave
         })
     
     if not scenes:
@@ -5045,7 +5061,7 @@ def split_text_into_scenes(text: str, character: str, language: str, child_name:
             "id": "scene_0",
             "type": "speak",
             "text": text,
-            "videoKey": analyze_text_for_video_key("speak", text, language)
+            "videoKey": FALLBACK_VIDEO_KEY
         })
     
     return scenes
