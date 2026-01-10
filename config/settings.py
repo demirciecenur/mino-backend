@@ -488,8 +488,8 @@ class Settings:
         # Character-specific (from CHARACTER_VOICES voice_id)
         "mino": "AZnzlk1XvdvUeBnXmlld",  # Domi
         "luna": "MF3mGyEYCl7XYWbV9V6O",  # Elli (young, bright female)
-        "tiko": "TxGEqnHWrfWFTfGW9XjX",  # Josh (young, energetic male)
-        "masha": "TxGEqnHWrfWFTfGW9XjX",  # Josh (young, energetic male)
+        "tiko": "hO2yZ8lxM3axUxL8OeKX",  # Girl (5-year-old child voice) - energetic, adventurous girl
+        "masha": "hO2yZ8lxM3axUxL8OeKX",  # Girl (5-year-old child voice) - same as Tiko
         "bubu": "pNInz6obpgDQGcFmaJgB",  # Adam (deep, empathetic)
         "sunny": "EXAVITQu4vr4xnSDxMaL",  # Bella (bright, cheerful)
         "koko": "ThT5KcBeYPX3keUQqHPh",  # Antoni (deep, mature - Batman)
