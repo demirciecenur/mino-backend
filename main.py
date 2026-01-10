@@ -4049,8 +4049,22 @@ async def generate_story_text(
     
     print(f"🌍 [generate_story_text] Topic translation: '{topic_base}' → '{topic_translated}' (lang: {lang_key})")
     
-    child_name_instruction = f"""
-6. CRITICAL - CHILD NAME PERSONALIZATION: The story is for a child named {child_name}. You MUST use the child's name ({child_name}) multiple times throughout the story when addressing the child or referring to them. Use the child's name naturally in dialogue and narration, for example: {child_name_example}. The child's name should appear at least 3-5 times in the story.""" if child_name else ""
+    # Language-specific generic terms of endearment (when child_name is not provided)
+    generic_endearments = {
+        "tr": '"küçük dostum", "canım", "tatlım", "güzel çocuk"',
+        "en": '"little friend", "dear", "sweetheart", "buddy"',
+        "de": '"kleiner Freund", "Schatz", "Liebling", "mein Kind"',
+        "es": '"pequeño amigo", "cariño", "tesoro", "mi niño/niña"',
+        "fr": '"petit ami", "mon chéri", "trésor", "mon enfant"'
+    }
+    generic_terms = generic_endearments.get(lang_key, generic_endearments["en"])
+    
+    if child_name:
+        child_name_instruction = f"""
+6. CRITICAL - CHILD NAME PERSONALIZATION: The story is for a child named {child_name}. You MUST use the child's name ({child_name}) multiple times throughout the story when addressing the child or referring to them. Use the child's name naturally in dialogue and narration, for example: {child_name_example}. The child's name should appear at least 3-5 times in the story."""
+    else:
+        child_name_instruction = f"""
+6. CRITICAL - AFFECTIONATE ADDRESSING: Since no specific child name is provided, use warm, affectionate terms when addressing the child throughout the story. Use terms like {generic_terms} naturally and lovingly. These terms should appear multiple times (3-5 times) to create a personal, caring connection with the listener."""
     
     # Calculate target word count based on duration (120 words per minute for kid-friendly pace)
     target_word_count = target_words
