@@ -2506,15 +2506,21 @@ def generate_custom_story_id(user_id: str, character: str, topic: str, lang: str
     
     character_slug = to_character_slug(character)
     
-    # CRITICAL: Normalize topic to handle Turkish characters properly
-    # First try to map to canonical topic, then normalize for ID
-    topic_mapped = map_topic(topic.lower().strip())
-    # If mapping didn't change the topic (no canonical match), use original
-    if topic_mapped == topic.lower().strip():
+    # CRITICAL: For custom stories, don't map topic - use original
+    # This ensures "Tuğba ilacını içmiyor" stays as-is, not mapped to "nutrition"
+    if custom_description and custom_description.strip():
+        # Custom story: use original topic (no mapping)
         topic_normalized = normalize_topic_for_id(topic)
     else:
-        # Use mapped canonical topic (already ASCII-safe)
-        topic_normalized = normalize_topic_for_id(topic_mapped)
+        # System story: map topic to canonical
+        # First try to map to canonical topic, then normalize for ID
+        topic_mapped = map_topic(topic.lower().strip())
+        # If mapping didn't change the topic (no canonical match), use original
+        if topic_mapped == topic.lower().strip():
+            topic_normalized = normalize_topic_for_id(topic)
+        else:
+            # Use mapped canonical topic (already ASCII-safe)
+            topic_normalized = normalize_topic_for_id(topic_mapped)
     
     lang_normalized = lang.lower().strip()
     
@@ -3048,14 +3054,22 @@ async def create_custom_story(
         
         # Normalize character and topic for storage
         character_slug = to_character_slug(request.character_id)
-        topic_mapped = map_topic(request.topic.lower().strip())
+        
+        # CRITICAL: For custom stories, don't map topic - use original
+        # This ensures custom stories use the exact topic the parent provided
+        if request.custom_description:
+            topic_mapped = request.topic.lower().strip()  # Use original, no mapping
+            topic_for_storage = request.topic.lower().strip()  # Store original topic
+        else:
+            topic_mapped = map_topic(request.topic.lower().strip())  # Map for system stories
+            topic_for_storage = topic_mapped  # Store mapped topic
         
         # CONTROL 1: Store original request payload for traceability
         request_payload = {
             "character_id": request.character_id,  # Original from UI
             "character_slug": character_slug,  # Normalized
             "topic": request.topic,  # Original from UI
-            "topic_mapped": topic_mapped,  # Canonical mapped
+            "topic_mapped": topic_mapped,  # Canonical mapped (or original for custom)
             "language": request.language,
             "length": request.length,
             "child_name": request.child_name,
@@ -3066,20 +3080,21 @@ async def create_custom_story(
         # BEST PRACTICE: Create safe, child-friendly title even if story might be rejected
         # This ensures rejected stories have appropriate titles
         safe_title = f"Story about {request.topic[:50]}"
-        # If topic contains potentially inappropriate words, use mapped topic instead
-        if topic_mapped and topic_mapped != request.topic.lower():
+        # For custom stories, use original topic for title; for system stories, use mapped topic if different
+        if not request.custom_description and topic_mapped and topic_mapped != request.topic.lower():
             # Use mapped topic for title (e.g., "friendship" instead of "vurmamaya")
             safe_title = f"Story about {topic_mapped.replace('_', ' ').title()}"
         
         story_data = {
             "id": story_id,
-            "title": safe_title,  # Safe title based on mapped topic
+            "title": safe_title,  # Safe title based on original or mapped topic
             "status": "text_pending",  # Will transition: text_pending → audio_pending → ready
             "character_id": character_slug,  # Store normalized character slug
             "language": request.language,
             "owner_user_id": user_id,
             # CRITICAL: topic is the product feature/program identifier (fixed key, not overridden)
-            "topic": topic_mapped,  # Store mapped topic (canonical)
+            "topic": topic_for_storage,  # Store original for custom, mapped for system
+            "topic_mapped": topic_mapped if request.custom_description else None,  # Reference only for custom
             "custom_description": request.custom_description,
             "child_name": request.child_name,
             "length_type": request.length,
@@ -3138,13 +3153,13 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         # dreamy = 4-8 minutes (~480-960 words at 120 wpm)
         length_config = {
             "quick": {
-                "duration_min": 1,  # 65-70 seconds target
-                "duration_max": 1,  # ~1 minute max
-                "target_words": 130,  # ~65-70 seconds at 120 wpm (130 words / 120 wpm ≈ 65 sec)
+                "duration_min": 1,  # 65-90 seconds target (1-1.5 minutes)
+                "duration_max": 1.5,  # ~1.5 minutes max
+                "target_words": 200,  # Minimum 200 words for 65-90 seconds at 120 wpm (200 words / 120 wpm ≈ 100 sec)
                 # COST OPTIMIZATION: Start with conservative limit, retry with higher limit only if incomplete
-                # This minimizes costs: most stories complete with 200 tokens, only incomplete ones retry with 300
-                "max_tokens": 200,  # Initial limit (cost-optimized)
-                "retry_max_tokens": 300  # Retry limit if incomplete (for languages with longer words)
+                # This minimizes costs: most stories complete with 300 tokens, only incomplete ones retry with 400
+                "max_tokens": 300,  # Initial limit (cost-optimized for 200+ words)
+                "retry_max_tokens": 400  # Retry limit if incomplete (for languages with longer words)
             },
             "dreamy": {
                 "duration_min": 3,
@@ -3243,41 +3258,45 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             corrected_description = None
             full_topic_input = corrected_topic
         
-        # Step 2: Try keyword-based mapping first (fast, deterministic)
-        keyword_mapped_topic = map_topic(corrected_topic)
-        print(f"🔍 [generate_story_async] Keyword-based mapping: '{corrected_topic}' → '{keyword_mapped_topic}'")
-        
-        # Step 3: If custom_description exists or keyword mapping is uncertain (returned original), use AI to refine topic mapping
-        # AI can better understand context and map free-form descriptions to canonical topics
-        # Check if keyword mapping found a match (if it returns the original lowercase, it likely didn't find a match)
-        # Also check if the mapped topic is in the canonical topics list
-        canonical_topics = ["bedtime", "nutrition", "friendship", "confidence", "emotional_regulation",
-                           "transitions", "kindness", "screen_time", "sharing", "sibling", "imagination"]
-        keyword_mapping_found = keyword_mapped_topic in canonical_topics
-        keyword_mapping_uncertain = (
-            not keyword_mapping_found or  # Keyword mapping didn't find a canonical topic
-            request.custom_description  # Custom description provided, use AI for better context understanding
-        )
-        
-        if keyword_mapping_uncertain:
-            # Use AI to intelligently map the topic
-            print(f"🤖 [generate_story_async] Using AI for topic mapping (keyword mapping uncertain or custom description provided)")
-            ai_mapped_topic = await map_topic_with_ai(full_topic_input, request.language)
-            if ai_mapped_topic:
-                print(f"🤖 [generate_story_async] AI mapping: '{full_topic_input}' → '{ai_mapped_topic}' (was: '{keyword_mapped_topic}')")
-                mapped_topic = ai_mapped_topic
-            else:
-                print(f"⚠️ [generate_story_async] AI mapping failed, falling back to keyword-based: '{keyword_mapped_topic}'")
-                mapped_topic = keyword_mapped_topic if keyword_mapped_topic != corrected_topic.lower() else "bedtime"  # Safe fallback
-        else:
-            print(f"✅ [generate_story_async] Using keyword-based mapping: '{keyword_mapped_topic}'")
-            mapped_topic = keyword_mapped_topic
-        
-        # Step 4: Use mapped topic for story generation
-        # Combine mapped canonical topic with corrected description for richer prompt
+        # Step 2: For custom stories, skip mapping - use original topic
+        # CRITICAL: For custom stories, skip mapping - use original topic
+        # This ensures "Tuğba ilacını içmiyor" generates a story about medicine, not nutrition
         if request.custom_description:
-            prompt_topic = f"{mapped_topic} — Parent context: {corrected_description}"
+            # Custom story: use original topic (no mapping)
+            mapped_topic = corrected_topic.lower().strip()
+            print(f"🔍 [generate_story_async] Custom story - using original topic (no mapping): '{corrected_topic}'")
+            # Custom story: use original topic directly, custom_description is already context
+            prompt_topic = corrected_topic
         else:
+            # System story: map topic to canonical
+            # Try keyword-based mapping first (fast, deterministic)
+            keyword_mapped_topic = map_topic(corrected_topic)
+            print(f"🔍 [generate_story_async] Keyword-based mapping: '{corrected_topic}' → '{keyword_mapped_topic}'")
+            
+            # Step 3: If keyword mapping is uncertain (returned original), use AI to refine topic mapping
+            # AI can better understand context and map free-form descriptions to canonical topics
+            # Check if keyword mapping found a match (if it returns the original lowercase, it likely didn't find a match)
+            # Also check if the mapped topic is in the canonical topics list
+            canonical_topics = ["bedtime", "nutrition", "friendship", "confidence", "emotional_regulation",
+                               "transitions", "kindness", "screen_time", "sharing", "sibling", "imagination"]
+            keyword_mapping_found = keyword_mapped_topic in canonical_topics
+            keyword_mapping_uncertain = not keyword_mapping_found  # Keyword mapping didn't find a canonical topic
+            
+            if keyword_mapping_uncertain:
+                # Use AI to intelligently map the topic
+                print(f"🤖 [generate_story_async] Using AI for topic mapping (keyword mapping uncertain)")
+                ai_mapped_topic = await map_topic_with_ai(full_topic_input, request.language)
+                if ai_mapped_topic:
+                    print(f"🤖 [generate_story_async] AI mapping: '{full_topic_input}' → '{ai_mapped_topic}' (was: '{keyword_mapped_topic}')")
+                    mapped_topic = ai_mapped_topic
+                else:
+                    print(f"⚠️ [generate_story_async] AI mapping failed, falling back to keyword-based: '{keyword_mapped_topic}'")
+                    mapped_topic = keyword_mapped_topic if keyword_mapped_topic != corrected_topic.lower() else "bedtime"  # Safe fallback
+            else:
+                print(f"✅ [generate_story_async] Using keyword-based mapping: '{keyword_mapped_topic}'")
+                mapped_topic = keyword_mapped_topic
+            
+            # Step 4: Use mapped topic for story generation
             prompt_topic = mapped_topic
         
         # CONTROL 2: Prepare debug request payload for prompt
@@ -3307,6 +3326,7 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             target_duration_min=config["duration_min"],
             target_duration_max=config["duration_max"],
             target_words=config["target_words"],
+            story_length=request.length,  # Pass story length for structured format (quick vs dreamy)
             debug_request_payload=debug_request_payload  # CONTROL 2: For prompt verification
         )
         
@@ -3339,6 +3359,7 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 target_duration_min=config["duration_min"],
                 target_duration_max=config["duration_max"],
                 target_words=config["target_words"],
+                story_length=request.length,  # Pass story length for structured format
                 strict_safety=True  # Enable strict safety mode
             )
             # Re-validate
@@ -3364,12 +3385,15 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         
         # Generate story title using AI (summarize story content into an engaging title)
         print(f"📝 [generate_story_async] Generating story title with AI...")
+        # CRITICAL: For custom stories, use original topic for title generation
+        # This ensures titles reflect the actual topic (e.g., "Tuğba ilacını içmiyor" not "nutrition")
+        title_topic = corrected_topic if request.custom_description else mapped_topic
         story_title = await generate_story_title(
             story_text=story_text,
             language=request.language,
             character=character_slug,
             child_name=request.child_name,
-            topic=mapped_topic  # Pass mapped topic for language-specific title generation
+            topic=title_topic  # Use original topic for custom stories, mapped for system stories
         )
         
         # CONTROL 3: Extract characters used in generated story (for verification)
@@ -3441,8 +3465,14 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             characters_used.append(character_slug)
         
         # Save text, scenes, and title to Firestore
-        # CRITICAL: Update topic field to mapped_topic for consistency
-        # This ensures Firestore queries can find stories by mapped topic (e.g., "sharing" not "friendship")
+        # CRITICAL: For custom stories, keep original topic in topic field
+        # For system stories, use mapped topic for consistency
+        if request.custom_description:
+            # Custom story: keep original topic
+            topic_for_firestore = corrected_topic.lower().strip()
+        else:
+            # System story: use mapped topic
+            topic_for_firestore = mapped_topic
         # CRITICAL: Ensure all scenes have required fields for iOS decoding
         # - audio_url: None (so iOS can decode the field even if null)
         # - type: Must be present (iOS requires this field)
@@ -3480,7 +3510,7 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 "text": story_text,
                 "scenes": scenes_with_audio_url,  # Add scene structure with audio_url: None for pending scenes
                 "title": story_title,  # AI-generated title
-                "topic": mapped_topic,  # CRITICAL: Update to mapped topic for query consistency
+                "topic": topic_for_firestore,  # CRITICAL: Original for custom, mapped for system
                 "kind": "custom",  # Ensure kind field is preserved (custom stories are always "custom")
                 "status": "audio_pending",
                 "audio_progress": {
@@ -3495,7 +3525,7 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 "characters_used": characters_used,  # Characters actually used in story
                 "updated_at": time.time()
             })
-            print(f"📝 [generate_story_async] Updated topic field: '{request.topic}' → '{mapped_topic}'")
+            print(f"📝 [generate_story_async] Updated topic field: '{request.topic}' → '{topic_for_firestore}'")
             print(f"📊 [generate_story_async] Initialized audio progress: 0/{total_scenes} scenes")
             print(f"📝 [generate_story_async] Story title generated: '{story_title}'")
         
@@ -3735,6 +3765,7 @@ async def generate_story_text(
     target_duration_min: int = 2,
     target_duration_max: int = 3,
     target_words: int = 300,
+    story_length: str = "quick",  # Story length: "quick" or "dreamy" (for structured format)
     strict_safety: bool = False,
     debug_request_payload: Optional[dict] = None  # CONTROL 2: For prompt verification
 ) -> str:
@@ -4207,31 +4238,31 @@ Create a calming, age-appropriate story for a phone conversation that takes appr
 - Calming and gentle
 - Engaging but not overstimulating
 
-CRITICAL PEDAGOGICAL STRUCTURE (STORY MUST FOLLOW THIS ARC):
-1. OPENING (~15%): Brief, warm greeting + introduce the topic naturally
-2. DEVELOPMENT (~60%): Main message about the topic with:
-   - Clear, simple explanation of the topic/behavior
-   - Child-friendly examples or mini-scenario
-   - One actionable tip or positive behavior suggestion
-3. CONCLUSION (~25%): Wrap up the message + warm farewell
-- The story MUST have a clear beginning, middle, and end - no abrupt stops
-- Stay focused on the ONE topic throughout - don't wander to unrelated subjects
-- Deliver a clear, positive message related to the topic (e.g., "sharing is good", "trying new foods is fun")
-- Use pedagogically appropriate language: concrete examples, positive reinforcement, age-appropriate concepts
+CRITICAL PEDAGOGICAL STRUCTURE (MANDATORY):
+{f"""
+QUICK STORIES ({target_duration_min}-{target_duration_max} min, {target_word_count} words) - Follow this exact 5-part structure:
 
-CRITICAL DURATION REQUIREMENT (MOST IMPORTANT):
-- The story MUST take EXACTLY {target_duration_min}-{target_duration_max} minutes when spoken aloud at a normal pace
-- This is the PRIMARY requirement - the story duration must match the user's selected length option
-- Target word count: {target_word_count} words (calculated based on {target_duration_min}-{target_duration_max} minutes at ~120 words/minute)
-- Word count tolerance: ±10% ({int(target_word_count * 0.9)}-{int(target_word_count * 1.1)} words)
-- Do NOT exceed {int(target_word_count * 1.1)} words - this would make the story longer than {target_duration_max} minutes
-- Do NOT go below {int(target_word_count * 0.9)} words - this would make the story shorter than {target_duration_min} minutes
-- The story length MUST match the selected duration ({target_duration_min}-{target_duration_max} minutes) - this is critical for user experience
+1. EMPATHY OPENING (~10%): 1-2 sentences validating child's feelings/situation
+2. MINI STORY (~30%): Brief story about animal/character facing same problem
+3. 3-STEP ROUTINE (~40%): Present exactly 3 actionable, concrete steps as clear commands. Character demonstrates these steps.
+4. SUCCESS (~15%): Character tries routine, experiences positive concrete result
+5. CLOSING (~5%): End with exactly 2 open-ended questions inviting child to try the routine
 
-CRITICAL WORD COUNT (to achieve duration):
-- The story MUST be approximately {target_word_count} words (±10% tolerance: {int(target_word_count * 0.9)}-{int(target_word_count * 1.1)} words)
-- This word count ensures the story fits within the {target_duration_min}-{target_duration_max} minute duration when spoken
-- Word count directly determines story duration - use it to control the length
+Requirements: Minimum {target_word_count} words. Each section flows naturally. Steps must be practical and age-appropriate for 2-8 year olds.
+""" if story_length == "quick" else """
+DREAMY STORIES ({target_duration_min}-{target_duration_max} min, {target_word_count} words) - Flexible structure:
+
+1. OPENING (~15%): Warm greeting + introduce topic
+2. DEVELOPMENT (~60%): Main message with explanation, examples, actionable tip
+3. CONCLUSION (~25%): Wrap up + warm farewell
+
+Requirements: Clear beginning/middle/end. Stay focused on ONE topic. Use concrete examples and positive reinforcement.
+"""}
+
+DURATION & WORD COUNT (CRITICAL):
+- Target: {target_word_count} words (±10%: {int(target_word_count * 0.9)}-{int(target_word_count * 1.1)} words)
+- Duration: {target_duration_min}-{target_duration_max} minutes when spoken (120 words/minute)
+- Word count directly controls duration - stay within range
 
 - Use correct {language} grammar and spelling throughout
 - Use conversational, spoken language that sounds natural in a phone call
@@ -4239,31 +4270,14 @@ CRITICAL WORD COUNT (to achieve duration):
 
 CRITICAL: Filter out any inappropriate words or themes. The story must be completely safe for children. Write it as if you are having a warm, friendly phone conversation with the child.
 
-CRITICAL FORMAT REQUIREMENT:
-- DO NOT include a title or heading in the story text. Start directly with the conversation.
-- The story should begin with the character speaking naturally, as if answering a phone call.
-- Example: Start with "Merhaba! Ben [character]. Bugün seninle [topic] hakkında konuşmak istiyorum." (Turkish) or "Hello! I'm [character]. I'd like to talk with you about [topic] today." (English)
-- DO NOT write a title like "The Story of..." or "Hikaye: ..." - just start the conversation directly.
+FORMAT:
+- Start directly with conversation (no title/heading)
+- Character speaks naturally as if answering a phone call
 
-CRITICAL STORY COMPLETION REQUIREMENT (MANDATORY - DO NOT SKIP):
-- The story MUST be COMPLETELY FINISHED - every sentence must be complete, no cut-off words or incomplete thoughts
-- The story MUST reach exactly {target_word_count} words (±10% tolerance) AND end with a complete, meaningful closing sentence
-- DO NOT stop mid-sentence, mid-word, or mid-thought - ALWAYS complete the entire story
-- The final sentence MUST be a complete, grammatically correct sentence that wraps up the conversation naturally
-- End with a warm, positive closing that feels like a natural conclusion to a phone call conversation
-- If you are running out of tokens, prioritize completing the current sentence and adding a proper closing over adding more content
-- Language-specific example endings (USE THESE AS TEMPLATES):
-  * Turkish (tr): "Harika bir konuşma oldu! Seninle konuşmak çok güzeldi. İyi günler, görüşürüz!"
-  * English (en): "What a wonderful conversation! It was so nice talking with you. Have a great day, see you soon!"
-  * German (de): "Was für ein wunderbares Gespräch! Es war so schön, mit dir zu sprechen. Einen schönen Tag noch, bis bald!"
-  * Spanish (es): "¡Qué conversación tan maravillosa! Fue muy agradable hablar contigo. ¡Que tengas un buen día, hasta pronto!"
-  * French (fr): "Quelle conversation merveilleuse! C'était si agréable de parler avec toi. Bonne journée, à bientôt!"
-
-CRITICAL: Before finishing, check:
-1. Is the last sentence complete? (No cut-off words like "und" or "and")
-2. Does the story have a proper closing? (Use one of the example endings above)
-3. Is the word count approximately {target_word_count} words? (Within ±10% tolerance)
-4. Does the story feel complete and satisfying? (Not abrupt or unfinished)
+COMPLETION (MANDATORY):
+- Story MUST be complete: {target_word_count} words (±10%), all sentences finished
+- End with warm, positive closing (natural phone call conclusion)
+- If running out of tokens: complete current sentence + add closing
 
 Story:"""
     
