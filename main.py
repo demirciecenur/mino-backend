@@ -4212,6 +4212,29 @@ EXAMPLE:
 
 """
     
+    # Build structure templates (language-agnostic)
+    quick_structure = f"""
+QUICK STORIES ({target_duration_min}-{target_duration_max} min, {target_word_count} words) - Follow this exact 5-part structure:
+
+1. EMPATHY OPENING (~10%): 1-2 sentences validating child's feelings/situation
+2. MINI STORY (~30%): Brief story about animal/character facing same problem
+3. 3-STEP ROUTINE (~40%): Present exactly 3 actionable, concrete steps as clear commands. Character demonstrates these steps.
+4. SUCCESS (~15%): Character tries routine, experiences positive concrete result
+5. CLOSING (~5%): End with exactly 2 open-ended questions inviting child to try the routine
+
+Requirements: Minimum {target_word_count} words. Each section flows naturally. Steps must be practical and age-appropriate for 2-8 year olds.
+"""
+    
+    dreamy_structure = f"""
+DREAMY STORIES ({target_duration_min}-{target_duration_max} min, {target_word_count} words) - Flexible structure:
+
+1. OPENING (~15%): Warm greeting + introduce topic
+2. DEVELOPMENT (~60%): Main message with explanation, examples, actionable tip
+3. CONCLUSION (~25%): Wrap up + warm farewell
+
+Requirements: Clear beginning/middle/end. Stay focused on ONE topic. Use concrete examples and positive reinforcement.
+"""
+    
     prompt = f"""You are {character_name}, a friendly character having a phone conversation with a child{child_part} and telling them a story.
 
 Character background:
@@ -4239,25 +4262,7 @@ Create a calming, age-appropriate story for a phone conversation that takes appr
 - Engaging but not overstimulating
 
 CRITICAL PEDAGOGICAL STRUCTURE (MANDATORY):
-{f"""
-QUICK STORIES ({target_duration_min}-{target_duration_max} min, {target_word_count} words) - Follow this exact 5-part structure:
-
-1. EMPATHY OPENING (~10%): 1-2 sentences validating child's feelings/situation
-2. MINI STORY (~30%): Brief story about animal/character facing same problem
-3. 3-STEP ROUTINE (~40%): Present exactly 3 actionable, concrete steps as clear commands. Character demonstrates these steps.
-4. SUCCESS (~15%): Character tries routine, experiences positive concrete result
-5. CLOSING (~5%): End with exactly 2 open-ended questions inviting child to try the routine
-
-Requirements: Minimum {target_word_count} words. Each section flows naturally. Steps must be practical and age-appropriate for 2-8 year olds.
-""" if story_length == "quick" else """
-DREAMY STORIES ({target_duration_min}-{target_duration_max} min, {target_word_count} words) - Flexible structure:
-
-1. OPENING (~15%): Warm greeting + introduce topic
-2. DEVELOPMENT (~60%): Main message with explanation, examples, actionable tip
-3. CONCLUSION (~25%): Wrap up + warm farewell
-
-Requirements: Clear beginning/middle/end. Stay focused on ONE topic. Use concrete examples and positive reinforcement.
-"""}
+{quick_structure if story_length == "quick" else dreamy_structure}
 
 DURATION & WORD COUNT (CRITICAL):
 - Target: {target_word_count} words (±10%: {int(target_word_count * 0.9)}-{int(target_word_count * 1.1)} words)
