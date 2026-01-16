@@ -1408,10 +1408,103 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
                         print(f"✅ [serve_local_audio] Serving custom story audio: {character_path}")
                         return FileResponse(str(character_path), media_type=media_type)
                 
-                # If exact match not found, log and fall through to error handling
+                # If exact match not found, try to generate audio from story
                 print(f"⚠️ [serve_local_audio] Custom story audio not found: {character}/{topic_and_story}_{scene_index} (lang={lang})")
-                print(f"   Will fallback to mock_audio (will generate TTS on-the-fly)")
-                # Continue to error handling below (will return mock_audio)
+                print(f"   Attempting to generate audio from story...")
+                
+                # Extract story_id from topic_and_story
+                # Format: "topic_userId_character_topic_lang" or "topic_storyId"
+                # Try to find story_id in Firestore
+                story_id = None
+                scene_text = None
+                
+                # Try to extract story_id from topic_and_story
+                # Example: "emotional_regulation_IiB3CvDS3SMFGqWZm7Rd8U06kKv2_bubu_uzgun_hissettiginde_ne_yapabilecegini_anlat_tr"
+                # We need to find the story_id pattern: userId_character_topic_lang
+                if db:
+                    # Try to find story by matching the pattern in topic_and_story
+                    # The story_id format is: story_{userId}_{character}_{topic}_{lang}_{hash}
+                    # But in audio_id, it's: {character}_{topic}_{userId}_{character}_{topic}_{lang}_{scene_index}
+                    # So we need to reconstruct story_id from parts
+                    try:
+                        # Parse topic_and_story to extract story components
+                        # Format: topic_userId_character_topic_lang
+                        topic_parts = topic_and_story.split('_')
+                        if len(topic_parts) >= 5:
+                            # Try to find story in Firestore by matching the pattern
+                            # Query stories collection for matching pattern
+                            stories_ref = db.collection("stories")
+                            # Try to find story by character and topic (approximate match)
+                            query = stories_ref.where("character_id", "==", character.lower()).where("language", "==", lang).limit(10)
+                            stories = query.stream()
+                            
+                            for story_doc in stories:
+                                story_data = story_doc.to_dict()
+                                story_doc_id = story_doc.id
+                                # Check if this story matches the pattern
+                                # The story_id in audio_id might be embedded in topic_and_story
+                                if story_doc_id.startswith("story_"):
+                                    # Extract userId from story_id: story_{userId}_{...}
+                                    story_user_id = story_doc_id.split("_")[1] if len(story_doc_id.split("_")) > 1 else None
+                                    if story_user_id and story_user_id in topic_and_story:
+                                        # Found matching story
+                                        story_id = story_doc_id
+                                        scenes = story_data.get("scenes", [])
+                                        if scene_index < len(scenes):
+                                            scene = scenes[scene_index]
+                                            scene_text = scene.get("text", "")
+                                            if scene_text:
+                                                print(f"✅ [serve_local_audio] Found story in Firestore: {story_id}, scene {scene_index}")
+                                                break
+                    except Exception as e:
+                        print(f"⚠️ [serve_local_audio] Error finding story in Firestore: {e}")
+                
+                # If we found story text, generate audio using generate_tts
+                if scene_text and story_id:
+                    try:
+                        print(f"🎵 [serve_local_audio] Generating audio for custom story: {story_id}, scene {scene_index}")
+                        # Extract topic from topic_and_story (first part before userId)
+                        topic_from_audio = topic_parts[0] if topic_parts else "emotional_regulation"
+                        from utils.topic_mapping import map_topic
+                        mapped_topic = map_topic(topic_from_audio.lower())
+                        
+                        # Generate audio using generate_tts (this will save the file)
+                        audio_url = await generate_tts(
+                            text=scene_text,
+                            style={"stability": 0.7, "similarity_boost": 0.85, "style": 0.6},
+                            lang=lang,
+                            character=character.lower(),
+                            topic=mapped_topic,
+                            scene_index=scene_index,
+                            story_id=story_id,
+                        )
+                        
+                        # generate_tts returns a URL, but we need to serve the file
+                        # Extract the local path from the URL
+                        if audio_url and "/local-audio/" in audio_url:
+                            # Extract audio_id from URL
+                            audio_id_from_url = audio_url.split("/local-audio/")[1].split("?")[0]
+                            # Try to serve the file again (it should exist now)
+                            for ext in ['.wav', '.mp3']:
+                                character_path = AUDIO_BASE_DIR / character.lower() / lang / f"{topic_and_story}_{scene_index}{ext}"
+                                if character_path.exists() and character_path.stat().st_size > 0:
+                                    media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
+                                    print(f"✅ [serve_local_audio] Generated and serving custom story audio: {character_path}")
+                                    return FileResponse(str(character_path), media_type=media_type)
+                        
+                        # If file still doesn't exist, fallback to mock_audio
+                        print(f"⚠️ [serve_local_audio] Audio generation completed but file not found, falling back to mock_audio")
+                        return await mock_audio(audio_id, lang=lang)
+                    except Exception as e:
+                        print(f"❌ [serve_local_audio] Error generating audio: {e}")
+                        import traceback
+                        traceback.print_exc()
+                        # Fallback to mock_audio
+                        return await mock_audio(audio_id, lang=lang)
+                else:
+                    # Story not found or scene text missing, fallback to mock_audio
+                    print(f"⚠️ [serve_local_audio] Story not found or scene text missing, falling back to mock_audio")
+                    return await mock_audio(audio_id, lang=lang)
             else:
                 # System story format: character_topic_sceneIndex
                 topic = '_'.join(parts[1:-1])  # Everything between character and scene_index is topic
@@ -1419,100 +1512,100 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
                 # Use centralized topic mapping (from story_composer) for system stories
                 topic_normalized = topic.lower()
                 topic_candidates = get_topic_candidates(topic_normalized)
-            
-            # Also try topic without underscores (for cases like "transitions_change" -> "transitionschange")
-            topic_no_underscore = topic_normalized.replace('_', '')
-            if topic_no_underscore not in topic_candidates:
-                topic_candidates.append(topic_no_underscore)
-            
-            # Language-specific path: {character}/{lang}/{topic}_{scene_index}.ext
-            # CRITICAL: Only serve audio files in the correct language directory
-            # This prevents serving wrong-language audio files (e.g., French audio when English is requested)
-            for topic_candidate in topic_candidates:
-                for ext in ['.wav', '.mp3']:
-                    character_path = AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"
-                    if character_path.exists() and character_path.stat().st_size > 0:
-                        media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
-                        # Reduced logging: Only log errors, successful requests are logged by uvicorn access logs
-                        return FileResponse(str(character_path), media_type=media_type)
-                    # Debug: Log why file wasn't found (only for first candidate to reduce spam)
-                    elif topic_candidate == topic_candidates[0] and ext == '.wav':
-                        if not character_path.parent.exists():
-                            print(f"🔍 [serve_local_audio] Path does not exist: {character_path.parent}")
-                        elif not character_path.exists():
-                            print(f"🔍 [serve_local_audio] File does not exist: {character_path}")
-                        elif character_path.stat().st_size == 0:
-                            print(f"🔍 [serve_local_audio] File is empty: {character_path}")
-            
-                # Fallback: Try old path structure (for backward compatibility) - only for system stories
-            # WARNING: Legacy paths don't have language subdirectory, so we can't verify language
-            # Only use legacy path if no language-specific path exists
-            for topic_candidate in topic_candidates:
-                for ext in ['.wav', '.mp3']:
-                    legacy_path = AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"
-                    if legacy_path.exists() and legacy_path.stat().st_size > 0:
-                        media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
-                        # Log warning only once per character/topic combination (not every request)
-                        print(f"⚠️ [serve_local_audio] Using legacy path (no lang subdirectory): {character}/{topic_candidate} (lang={lang})")
-                        return FileResponse(str(legacy_path), media_type=media_type)
-            
-                # Collect all tried paths for better error reporting (system stories only)
-            tried_paths = []
-            for topic_candidate in topic_candidates:
-                for ext in ['.wav', '.mp3']:
-                    tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"))
-                    tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"))  # Legacy paths
-                    # CRITICAL: Do NOT fallback to other languages (e.g., "en" when "fr" is requested)
-                    # This would cause wrong-language audio to be served
-                    # Only use the requested language
-            
-            topic_mapped = map_topic(topic_normalized)
-            # CRITICAL: Check what files actually exist in the character directory
-            character_dir = AUDIO_BASE_DIR / character.lower()
-            lang_dir = character_dir / lang
-            
-            # List actual files in the directory for debugging
-            existing_paths = [p for p in tried_paths if Path(p).exists()]
-            if existing_paths:
-                # Some paths exist but weren't used - log this with actual file list
-                print(f"⚠️ [serve_local_audio] File NOT FOUND: character={character}, topic={topic} (normalized: {topic_normalized}, mapped: {topic_mapped}), scene_index={scene_index}, lang={lang}")
-                print(f"   Found {len(existing_paths)} existing paths but none matched criteria")
-                print(f"   AUDIO_BASE_DIR: {AUDIO_BASE_DIR}")
-                print(f"   Character dir exists: {character_dir.exists()}")
-                if lang_dir.exists():
-                    actual_files = list(lang_dir.glob(f"*{scene_index}.*"))
-                    if actual_files:
-                        print(f"   Actual files in {lang_dir}: {[f.name for f in actual_files]}")
+                
+                # Also try topic without underscores (for cases like "transitions_change" -> "transitionschange")
+                topic_no_underscore = topic_normalized.replace('_', '')
+                if topic_no_underscore not in topic_candidates:
+                    topic_candidates.append(topic_no_underscore)
+                
+                # Language-specific path: {character}/{lang}/{topic}_{scene_index}.ext
+                # CRITICAL: Only serve audio files in the correct language directory
+                # This prevents serving wrong-language audio files (e.g., French audio when English is requested)
+                for topic_candidate in topic_candidates:
+                    for ext in ['.wav', '.mp3']:
+                        character_path = AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"
+                        if character_path.exists() and character_path.stat().st_size > 0:
+                            media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
+                            # Reduced logging: Only log errors, successful requests are logged by uvicorn access logs
+                            return FileResponse(str(character_path), media_type=media_type)
+                        # Debug: Log why file wasn't found (only for first candidate to reduce spam)
+                        elif topic_candidate == topic_candidates[0] and ext == '.wav':
+                            if not character_path.parent.exists():
+                                print(f"🔍 [serve_local_audio] Path does not exist: {character_path.parent}")
+                            elif not character_path.exists():
+                                print(f"🔍 [serve_local_audio] File does not exist: {character_path}")
+                            elif character_path.stat().st_size == 0:
+                                print(f"🔍 [serve_local_audio] File is empty: {character_path}")
+                
+                    # Fallback: Try old path structure (for backward compatibility) - only for system stories
+                    # WARNING: Legacy paths don't have language subdirectory, so we can't verify language
+                    # Only use legacy path if no language-specific path exists
+                    for topic_candidate in topic_candidates:
+                        for ext in ['.wav', '.mp3']:
+                            legacy_path = AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"
+                            if legacy_path.exists() and legacy_path.stat().st_size > 0:
+                                media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
+                                # Log warning only once per character/topic combination (not every request)
+                                print(f"⚠️ [serve_local_audio] Using legacy path (no lang subdirectory): {character}/{topic_candidate} (lang={lang})")
+                                return FileResponse(str(legacy_path), media_type=media_type)
+                    
+                    # Collect all tried paths for better error reporting (system stories only)
+                    tried_paths = []
+                    for topic_candidate in topic_candidates:
+                        for ext in ['.wav', '.mp3']:
+                            tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / lang / f"{topic_candidate}_{scene_index}{ext}"))
+                            tried_paths.append(str(AUDIO_BASE_DIR / character.lower() / f"{topic_candidate}_{scene_index}{ext}"))  # Legacy paths
+                            # CRITICAL: Do NOT fallback to other languages (e.g., "en" when "fr" is requested)
+                            # This would cause wrong-language audio to be served
+                            # Only use the requested language
+                    
+                    topic_mapped = map_topic(topic_normalized)
+                    # CRITICAL: Check what files actually exist in the character directory
+                    character_dir = AUDIO_BASE_DIR / character.lower()
+                    lang_dir = character_dir / lang
+                    
+                    # List actual files in the directory for debugging
+                    existing_paths = [p for p in tried_paths if Path(p).exists()]
+                    if existing_paths:
+                        # Some paths exist but weren't used - log this with actual file list
+                        print(f"⚠️ [serve_local_audio] File NOT FOUND: character={character}, topic={topic} (normalized: {topic_normalized}, mapped: {topic_mapped}), scene_index={scene_index}, lang={lang}")
+                        print(f"   Found {len(existing_paths)} existing paths but none matched criteria")
+                        print(f"   AUDIO_BASE_DIR: {AUDIO_BASE_DIR}")
+                        print(f"   Character dir exists: {character_dir.exists()}")
+                        if lang_dir.exists():
+                            actual_files = list(lang_dir.glob(f"*{scene_index}.*"))
+                            if actual_files:
+                                print(f"   Actual files in {lang_dir}: {[f.name for f in actual_files]}")
+                            else:
+                                print(f"   No files with scene_index {scene_index} in {lang_dir}")
+                        else:
+                            print(f"   Language dir does not exist: {lang_dir}")
+                            # Check if character dir has any files
+                            if character_dir.exists():
+                                all_files = list(character_dir.rglob(f"*{scene_index}.*"))
+                                if all_files:
+                                    print(f"   Found files in character dir (wrong structure): {[str(f.relative_to(character_dir)) for f in all_files[:5]]}")
                     else:
-                        print(f"   No files with scene_index {scene_index} in {lang_dir}")
-                else:
-                    print(f"   Language dir does not exist: {lang_dir}")
-                    # Check if character dir has any files
-                    if character_dir.exists():
-                        all_files = list(character_dir.rglob(f"*{scene_index}.*"))
-                        if all_files:
-                            print(f"   Found files in character dir (wrong structure): {[str(f.relative_to(character_dir)) for f in all_files[:5]]}")
-            else:
-                # No paths exist - check if directory structure is correct
-                print(f"⚠️ [serve_local_audio] Audio not found: {character}/{topic_mapped}_{scene_index} (lang={lang}), will generate TTS")
-                print(f"   AUDIO_BASE_DIR: {AUDIO_BASE_DIR}")
-                print(f"   Character dir exists: {character_dir.exists()}")
-                if character_dir.exists():
-                    # List what's actually in the character directory
-                    subdirs = [d.name for d in character_dir.iterdir() if d.is_dir()]
-                    files = [f.name for f in character_dir.iterdir() if f.is_file()]
-                    if subdirs:
-                        print(f"   Subdirectories in character dir: {subdirs[:5]}")
-                    if files:
-                        print(f"   Files in character dir (wrong structure): {files[:5]}")
-            
-            # IMPORTANT: If file doesn't exist, return mock_audio (which generates TTS on-the-fly from story text)
-            # This should NOT happen for pre-generated content - files should exist!
-            # But if it does, mock_audio will load the story JSON and generate correct audio
-            print(f"⚠️ [serve_local_audio] Audio file not found for lang={lang}, falling back to mock_audio (will generate TTS on-the-fly from story)")
-            print(f"   NOTE: This means audio was not pre-generated. mock_audio will load story JSON in lang={lang} and generate correct audio.")
-            print(f"   CRITICAL: mock_audio will use lang={lang} parameter to load correct language story JSON")
-            return await mock_audio(audio_id, lang=lang)
+                        # No paths exist - check if directory structure is correct
+                        print(f"⚠️ [serve_local_audio] Audio not found: {character}/{topic_mapped}_{scene_index} (lang={lang}), will generate TTS")
+                        print(f"   AUDIO_BASE_DIR: {AUDIO_BASE_DIR}")
+                        print(f"   Character dir exists: {character_dir.exists()}")
+                        if character_dir.exists():
+                            # List what's actually in the character directory
+                            subdirs = [d.name for d in character_dir.iterdir() if d.is_dir()]
+                            files = [f.name for f in character_dir.iterdir() if f.is_file()]
+                            if subdirs:
+                                print(f"   Subdirectories in character dir: {subdirs[:5]}")
+                            if files:
+                                print(f"   Files in character dir (wrong structure): {files[:5]}")
+                    
+                    # IMPORTANT: If file doesn't exist, return mock_audio (which generates TTS on-the-fly from story text)
+                    # This should NOT happen for pre-generated content - files should exist!
+                    # But if it does, mock_audio will load the story JSON and generate correct audio
+                    print(f"⚠️ [serve_local_audio] Audio file not found for lang={lang}, falling back to mock_audio (will generate TTS on-the-fly from story)")
+                    print(f"   NOTE: This means audio was not pre-generated. mock_audio will load story JSON in lang={lang} and generate correct audio.")
+                    print(f"   CRITICAL: mock_audio will use lang={lang} parameter to load correct language story JSON")
+                    return await mock_audio(audio_id, lang=lang)
     except Exception as e:
         print(f"❌ [serve_local_audio] Error: {e}")
         import traceback
