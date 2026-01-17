@@ -1379,7 +1379,12 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
         parts = audio_id_clean.split('_')
         if len(parts) >= 3:
             character = parts[0]
-            scene_index = parts[-1]  # Last part is always scene_index (number)
+            scene_index_str = parts[-1]  # Last part is always scene_index (number)
+            # Convert scene_index to integer
+            try:
+                scene_index = int(scene_index_str)
+            except ValueError:
+                scene_index = 0  # Fallback to 0 if conversion fails
             
             # BEST PRACTICE: Handle both system story and custom story formats
             # System story format: {character}_{topic}_{scene_index}
@@ -1393,37 +1398,40 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
             
             if is_custom_story:
                 # Custom story format: character_topic_storyId_sceneIndex
-                # CRITICAL: generate_tts saves as {mapped_topic}_{storyIdWithoutPrefix}_{scene_index}.wav
-                # topic_and_story format: {original_topic}_{userId}_{character}_{mapped_topic}_{lang}_{hash}
+                # CRITICAL: URL'den gelen audio_id içinde original_topic var (örn: bedtime)
+                # Ama generate_tts dosyayı mapped_topic ile kaydediyor (örn: sibling)
+                # Önce original_topic'ten mapped_topic'i bulmalıyız
                 topic_and_story = '_'.join(parts[1:-1])  # Everything except first (character) and last (sceneIndex)
                 
-                # Extract mapped_topic from topic_and_story (after character pattern)
-                # Format: {original_topic}_{userId}_{character}_{mapped_topic}_{lang}_{hash}
+                # Extract original_topic (first part before userId)
+                import re
+                from utils.topic_mapping import map_topic
+                user_id_match = re.search(r'([A-Za-z0-9]{20,30})', topic_and_story)
+                original_topic = None
+                if user_id_match:
+                    original_topic = topic_and_story[:user_id_match.start()].rstrip('_')
+                    # Map original_topic to mapped_topic
+                    mapped_topic = map_topic(original_topic.lower()) if original_topic else None
+                else:
+                    # Fallback: try to extract from topic_and_story
+                    mapped_topic = None
+                
+                # Extract storyIdWithoutPrefix: {userId}_{character}_{mapped_topic}_{lang}_{hash}
                 character_pattern = f"_{character.lower()}_"
-                mapped_topic = None
-                if character_pattern in topic_and_story:
+                if user_id_match and character_pattern in topic_and_story:
+                    user_id = user_id_match.group(1)
                     char_pos = topic_and_story.find(character_pattern)
                     after_char = topic_and_story[char_pos + len(character_pattern):]
-                    # mapped_topic is the first part after character
-                    mapped_topic = after_char.split('_')[0] if '_' in after_char else after_char
-                
-                # Try with mapped_topic format (how generate_tts saves it)
-                if mapped_topic:
-                    # Extract storyIdWithoutPrefix: {userId}_{character}_{mapped_topic}_{lang}_{hash}
-                    import re
-                    user_id_match = re.search(r'([A-Za-z0-9]{20,30})', topic_and_story)
-                    if user_id_match:
-                        user_id = user_id_match.group(1)
-                        char_pos = topic_and_story.find(character_pattern)
-                        after_char = topic_and_story[char_pos + len(character_pattern):]
-                        story_id_without_prefix = f"{user_id}_{character.lower()}_{after_char}"
-                        # Format: {mapped_topic}_{storyIdWithoutPrefix}_{scene_index}
+                    story_id_without_prefix = f"{user_id}_{character.lower()}_{after_char}"
+                    
+                    # Try with mapped_topic format (how generate_tts saves it)
+                    if mapped_topic:
                         for ext in ['.wav', '.mp3']:
                             audio_filename = f"{mapped_topic}_{story_id_without_prefix}_{scene_index}{ext}"
                             character_path = AUDIO_BASE_DIR / character.lower() / lang / audio_filename
                             if character_path.exists() and character_path.stat().st_size > 0:
                                 media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
-                                print(f"✅ [serve_local_audio] Serving custom story audio: {character_path}")
+                                print(f"✅ [serve_local_audio] Serving custom story audio (mapped): {character_path}")
                                 return FileResponse(str(character_path), media_type=media_type)
                 
                 # Fallback: try with original topic_and_story format
@@ -1431,7 +1439,7 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
                     character_path = AUDIO_BASE_DIR / character.lower() / lang / f"{topic_and_story}_{scene_index}{ext}"
                     if character_path.exists() and character_path.stat().st_size > 0:
                         media_type = "audio/mpeg" if ext == '.mp3' else "audio/wav"
-                        print(f"✅ [serve_local_audio] Serving custom story audio: {character_path}")
+                        print(f"✅ [serve_local_audio] Serving custom story audio (original): {character_path}")
                         return FileResponse(str(character_path), media_type=media_type)
                 
                 # If exact match not found, try to generate audio from story
