@@ -2678,14 +2678,14 @@ def generate_custom_story_id(user_id: str, character: str, topic: str, lang: str
         topic_normalized = normalize_topic_for_id(topic)
     else:
         # System story: map topic to canonical
-    # First try to map to canonical topic, then normalize for ID
-    topic_mapped = map_topic(topic.lower().strip())
-    # If mapping didn't change the topic (no canonical match), use original
-    if topic_mapped == topic.lower().strip():
-        topic_normalized = normalize_topic_for_id(topic)
-    else:
-        # Use mapped canonical topic (already ASCII-safe)
-        topic_normalized = normalize_topic_for_id(topic_mapped)
+        # First try to map to canonical topic, then normalize for ID
+        topic_mapped = map_topic(topic.lower().strip())
+        # If mapping didn't change the topic (no canonical match), use original
+        if topic_mapped == topic.lower().strip():
+            topic_normalized = normalize_topic_for_id(topic)
+        else:
+            # Use mapped canonical topic (already ASCII-safe)
+            topic_normalized = normalize_topic_for_id(topic_mapped)
     
     lang_normalized = lang.lower().strip()
     
@@ -3435,31 +3435,31 @@ async def generate_story_async(story_id: str, request: StoryRequest):
         else:
             # System story: map topic to canonical
             # Try keyword-based mapping first (fast, deterministic)
-        keyword_mapped_topic = map_topic(corrected_topic)
-        print(f"🔍 [generate_story_async] Keyword-based mapping: '{corrected_topic}' → '{keyword_mapped_topic}'")
-        
+            keyword_mapped_topic = map_topic(corrected_topic)
+            print(f"🔍 [generate_story_async] Keyword-based mapping: '{corrected_topic}' → '{keyword_mapped_topic}'")
+            
             # Step 3: If keyword mapping is uncertain (returned original), use AI to refine topic mapping
-        # AI can better understand context and map free-form descriptions to canonical topics
-        # Check if keyword mapping found a match (if it returns the original lowercase, it likely didn't find a match)
-        # Also check if the mapped topic is in the canonical topics list
-        canonical_topics = ["bedtime", "nutrition", "friendship", "confidence", "emotional_regulation",
-                           "transitions", "kindness", "screen_time", "sharing", "sibling", "imagination"]
-        keyword_mapping_found = keyword_mapped_topic in canonical_topics
+            # AI can better understand context and map free-form descriptions to canonical topics
+            # Check if keyword mapping found a match (if it returns the original lowercase, it likely didn't find a match)
+            # Also check if the mapped topic is in the canonical topics list
+            canonical_topics = ["bedtime", "nutrition", "friendship", "confidence", "emotional_regulation",
+                               "transitions", "kindness", "screen_time", "sharing", "sibling", "imagination"]
+            keyword_mapping_found = keyword_mapped_topic in canonical_topics
             keyword_mapping_uncertain = not keyword_mapping_found  # Keyword mapping didn't find a canonical topic
-        
-        if keyword_mapping_uncertain:
-            # Use AI to intelligently map the topic
+            
+            if keyword_mapping_uncertain:
+                # Use AI to intelligently map the topic
                 print(f"🤖 [generate_story_async] Using AI for topic mapping (keyword mapping uncertain)")
-            ai_mapped_topic = await map_topic_with_ai(full_topic_input, request.language)
-            if ai_mapped_topic:
-                print(f"🤖 [generate_story_async] AI mapping: '{full_topic_input}' → '{ai_mapped_topic}' (was: '{keyword_mapped_topic}')")
-                mapped_topic = ai_mapped_topic
+                ai_mapped_topic = await map_topic_with_ai(full_topic_input, request.language)
+                if ai_mapped_topic:
+                    print(f"🤖 [generate_story_async] AI mapping: '{full_topic_input}' → '{ai_mapped_topic}' (was: '{keyword_mapped_topic}')")
+                    mapped_topic = ai_mapped_topic
+                else:
+                    print(f"⚠️ [generate_story_async] AI mapping failed, falling back to keyword-based: '{keyword_mapped_topic}'")
+                    mapped_topic = keyword_mapped_topic if keyword_mapped_topic != corrected_topic.lower() else "bedtime"  # Safe fallback
             else:
-                print(f"⚠️ [generate_story_async] AI mapping failed, falling back to keyword-based: '{keyword_mapped_topic}'")
-                mapped_topic = keyword_mapped_topic if keyword_mapped_topic != corrected_topic.lower() else "bedtime"  # Safe fallback
-        else:
-            print(f"✅ [generate_story_async] Using keyword-based mapping: '{keyword_mapped_topic}'")
-            mapped_topic = keyword_mapped_topic
+                print(f"✅ [generate_story_async] Using keyword-based mapping: '{keyword_mapped_topic}'")
+                mapped_topic = keyword_mapped_topic
         
         # Step 4: Use mapped topic for story generation
             prompt_topic = mapped_topic
@@ -4256,7 +4256,7 @@ async def generate_story_text(
     generic_terms = generic_endearments.get(lang_key, generic_endearments["en"])
     
     if child_name:
-    child_name_instruction = f"""
+        child_name_instruction = f"""
 6. CRITICAL - CHILD NAME PERSONALIZATION: The story is for a child named {child_name}. You MUST use the child's name ({child_name}) multiple times throughout the story when addressing the child or referring to them. Use the child's name naturally in dialogue and narration, for example: {child_name_example}. The child's name should appear at least 3-5 times in the story."""
     else:
         child_name_instruction = f"""
