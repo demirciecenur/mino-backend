@@ -2686,14 +2686,14 @@ def generate_custom_story_id(user_id: str, character: str, topic: str, lang: str
         topic_normalized = normalize_topic_for_id(topic)
     else:
         # System story: map topic to canonical
-    # First try to map to canonical topic, then normalize for ID
-    topic_mapped = map_topic(topic.lower().strip())
-    # If mapping didn't change the topic (no canonical match), use original
-    if topic_mapped == topic.lower().strip():
-        topic_normalized = normalize_topic_for_id(topic)
-    else:
-        # Use mapped canonical topic (already ASCII-safe)
-        topic_normalized = normalize_topic_for_id(topic_mapped)
+        # First try to map to canonical topic, then normalize for ID
+        topic_mapped = map_topic(topic.lower().strip())
+        # If mapping didn't change the topic (no canonical match), use original
+        if topic_mapped == topic.lower().strip():
+            topic_normalized = normalize_topic_for_id(topic)
+        else:
+            # Use mapped canonical topic (already ASCII-safe)
+            topic_normalized = normalize_topic_for_id(topic_mapped)
     
     lang_normalized = lang.lower().strip()
     
