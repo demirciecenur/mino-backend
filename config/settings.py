@@ -472,6 +472,79 @@ class Settings:
             "storyteller": True,
             "original_inspiration": "Winnie the Pooh"
         },
+        # New characters with unique voices
+        "tractor": {
+            "voice": "male-warm",
+            "emotion": "friendly",  # Tractor-inspired: friendly, helpful, reliable
+            "speed": 0.9,  # Steady, reliable pace
+            "pitch": 0.92,  # Warm, friendly tone
+            "voice_id": "uDsPstFWFBUXjIBimV7s",  # Custom voice for Tractor
+            "storyteller": True,
+            "original_inspiration": "Tractor"
+        },
+        "tractor buddy": {
+            "voice": "male-warm",
+            "emotion": "friendly",
+            "speed": 0.9,
+            "pitch": 0.92,
+            "voice_id": "uDsPstFWFBUXjIBimV7s",  # Same as tractor
+            "storyteller": True,
+            "original_inspiration": "Tractor"
+        },
+        "mcqueen": {
+            "voice": "male-young",
+            "emotion": "energetic",  # Lightning McQueen-inspired: fast, competitive, energetic
+            "speed": 1.05,  # Faster for energetic, racing tone
+            "pitch": 1.0,  # Normal pitch for young, energetic voice
+            "voice_id": "xtPlXcRNvdlUVw2QsITM",  # Custom voice for Lightning McQueen
+            "storyteller": True,
+            "original_inspiration": "Lightning McQueen"
+        },
+        "lightning racer": {
+            "voice": "male-young",
+            "emotion": "energetic",
+            "speed": 1.05,
+            "pitch": 1.0,
+            "voice_id": "xtPlXcRNvdlUVw2QsITM",  # Same as mcqueen
+            "storyteller": True,
+            "original_inspiration": "Lightning McQueen"
+        },
+        "hulk": {
+            "voice": "male-deep",
+            "emotion": "strong",  # Hulk-inspired: strong, powerful, but friendly
+            "speed": 0.85,  # Slower for strong, powerful tone
+            "pitch": 0.85,  # Lower for strong, powerful voice
+            "voice_id": "A9evEp8yGjv4c3WsIKuY",  # Custom voice for Hulk
+            "storyteller": True,
+            "original_inspiration": "Hulk"
+        },
+        "green strong hero": {
+            "voice": "male-deep",
+            "emotion": "strong",
+            "speed": 0.85,
+            "pitch": 0.85,
+            "voice_id": "A9evEp8yGjv4c3WsIKuY",  # Same as hulk
+            "storyteller": True,
+            "original_inspiration": "Hulk"
+        },
+        "barbie": {
+            "voice": "female-bright",
+            "emotion": "cheerful",  # Barbie-inspired: cheerful, optimistic, dreamy
+            "speed": 1.0,  # Normal pace
+            "pitch": 1.05,  # Slightly higher for cheerful, dreamy tone
+            "voice_id": "JVVJ6VsnUPJAdfGmEBGP",  # Custom voice for Barbie
+            "storyteller": True,
+            "original_inspiration": "Barbie"
+        },
+        "pink dream girl": {
+            "voice": "female-bright",
+            "emotion": "cheerful",
+            "speed": 1.0,
+            "pitch": 1.05,
+            "voice_id": "JVVJ6VsnUPJAdfGmEBGP",  # Same as barbie
+            "storyteller": True,
+            "original_inspiration": "Barbie"
+        },
     }
     
     # Voice Mapping (ElevenLabs voice IDs)
@@ -512,6 +585,15 @@ class Settings:
         "spongebob": "AZnzlk1XvdvUeBnXmlld",  # Domi
         "bubble buddy": "AZnzlk1XvdvUeBnXmlld",  # Domi
         "winnie": "pNInz6obpgDQGcFmaJgB",  # Adam
+        # New characters with unique voices
+        "tractor": "uDsPstFWFBUXjIBimV7s",  # Custom voice for Tractor
+        "tractor buddy": "uDsPstFWFBUXjIBimV7s",  # Same as tractor
+        "mcqueen": "xtPlXcRNvdlUVw2QsITM",  # Custom voice for Lightning McQueen
+        "lightning racer": "xtPlXcRNvdlUVw2QsITM",  # Same as mcqueen
+        "hulk": "A9evEp8yGjv4c3WsIKuY",  # Custom voice for Hulk
+        "green strong hero": "A9evEp8yGjv4c3WsIKuY",  # Same as hulk
+        "barbie": "JVVJ6VsnUPJAdfGmEBGP",  # Custom voice for Barbie
+        "pink dream girl": "JVVJ6VsnUPJAdfGmEBGP",  # Same as barbie
     }
     
     # Character-Topic Settings (optimized for storyteller narration)
