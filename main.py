@@ -1612,6 +1612,15 @@ async def serve_local_audio(audio_id: str, lang: str = "en"):
                         return FileResponse(str(character_path), media_type=media_type)
                     # Debug: Log why file wasn't found (only for first candidate to reduce spam)
                     elif topic_candidate == topic_candidates[0] and ext == '.wav':
+                        # Create language directory if it doesn't exist (for new languages like pt, ar)
+                        if not character_path.parent.exists():
+                            try:
+                                character_path.parent.mkdir(parents=True, exist_ok=True)
+                                print(f"✅ [serve_local_audio] Created language directory: {character_path.parent}")
+                            except Exception as mkdir_error:
+                                print(f"⚠️ [serve_local_audio] Failed to create language directory: {mkdir_error}")
+                        
+                        # Log why file wasn't found
                         if not character_path.parent.exists():
                             print(f"🔍 [serve_local_audio] Path does not exist: {character_path.parent}")
                         elif not character_path.exists():
