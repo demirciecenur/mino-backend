@@ -185,6 +185,8 @@ def _add_language_hint(text: str, lang: str) -> str:
         "tr": "[TR]",
         "de": "[DE]",
         "es": "[ES]",
+        "pt": "[PT]",
+        "ar": "[AR]",
     }
     
     # Get language hint (default to empty if not in map)
@@ -2688,12 +2690,12 @@ def generate_custom_story_id(user_id: str, character: str, topic: str, lang: str
         # System story: map topic to canonical
         # First try to map to canonical topic, then normalize for ID
         topic_mapped = map_topic(topic.lower().strip())
-        # If mapping didn't change the topic (no canonical match), use original
-        if topic_mapped == topic.lower().strip():
-            topic_normalized = normalize_topic_for_id(topic)
-        else:
-            # Use mapped canonical topic (already ASCII-safe)
-            topic_normalized = normalize_topic_for_id(topic_mapped)
+    # If mapping didn't change the topic (no canonical match), use original
+    if topic_mapped == topic.lower().strip():
+        topic_normalized = normalize_topic_for_id(topic)
+    else:
+        # Use mapped canonical topic (already ASCII-safe)
+        topic_normalized = normalize_topic_for_id(topic_mapped)
     
     lang_normalized = lang.lower().strip()
     
@@ -3086,17 +3088,42 @@ async def create_custom_story(
         
         # CRITICAL: Validate topic and custom_description are meaningful (not random characters)
         # Reject requests with meaningless topics (e.g., "hkbvffhjkk", "asdf", etc.)
-        topic_clean = request.topic.strip().lower()
+        topic_clean = request.topic.strip()
         if len(topic_clean) < 2:
             print(f"❌ [POST /stories/custom] Topic too short: '{topic_clean}'")
             raise HTTPException(status_code=400, detail="Topic must be at least 2 characters long")
         
         # Check if topic is just random characters (no vowels, no meaningful words)
-        # A meaningful topic should have at least one vowel or be a recognized word
-        vowels = set('aeiouy')
-        has_vowels = any(c in vowels for c in topic_clean)
+        # MULTILINGUAL SUPPORT: Check for vowels in multiple languages
+        # English vowels: aeiouy
+        # Turkish vowels: aeiouıöü
+        # Spanish/Portuguese vowels: aeiou
+        # French vowels: aeiouy
+        # Arabic: Check for Arabic script characters (Unicode range)
+        # German vowels: aeiouäöü
+        topic_lower = topic_clean.lower()
+        vowels_english = set('aeiouy')
+        vowels_turkish = set('aeiouıöü')
+        vowels_spanish_portuguese = set('aeiou')
+        vowels_french = set('aeiouy')
+        vowels_german = set('aeiouäöü')
+        
+        # Check for Arabic script (Unicode range: \u0600-\u06FF)
+        has_arabic = any('\u0600' <= c <= '\u06FF' for c in topic_clean)
+        
+        # Check for vowels in any supported language
+        has_vowels = (
+            any(c in vowels_english for c in topic_lower) or
+            any(c in vowels_turkish for c in topic_lower) or
+            any(c in vowels_spanish_portuguese for c in topic_lower) or
+            any(c in vowels_french for c in topic_lower) or
+            any(c in vowels_german for c in topic_lower) or
+            has_arabic
+        )
+        
         # Allow short topics if they're common words (handled by topic mapping)
         # But reject if it's clearly random characters (e.g., "hkbvffhjkk")
+        # For non-Latin scripts (like Arabic), allow if it contains script characters
         if not has_vowels and len(topic_clean) > 5:
             print(f"❌ [POST /stories/custom] Topic appears to be random characters: '{topic_clean}'")
             raise HTTPException(status_code=400, detail="Please provide a meaningful topic for your story")
@@ -3107,8 +3134,17 @@ async def create_custom_story(
             if len(desc_clean) < 3:
                 print(f"❌ [POST /stories/custom] Custom description too short: '{desc_clean}'")
                 raise HTTPException(status_code=400, detail="Custom description must be at least 3 characters long")
-            # Check if description is just random characters
-            desc_has_vowels = any(c.lower() in vowels for c in desc_clean)
+            # Check if description is just random characters (multilingual support)
+            desc_lower = desc_clean.lower()
+            desc_has_arabic = any('\u0600' <= c <= '\u06FF' for c in desc_clean)
+            desc_has_vowels = (
+                any(c in vowels_english for c in desc_lower) or
+                any(c in vowels_turkish for c in desc_lower) or
+                any(c in vowels_spanish_portuguese for c in desc_lower) or
+                any(c in vowels_french for c in desc_lower) or
+                any(c in vowels_german for c in desc_lower) or
+                desc_has_arabic
+            )
             if not desc_has_vowels and len(desc_clean) > 5:
                 print(f"❌ [POST /stories/custom] Custom description appears to be random characters: '{desc_clean}'")
                 raise HTTPException(status_code=400, detail="Please provide a meaningful description for your story")
@@ -3468,9 +3504,9 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             else:
                 print(f"✅ [generate_story_async] Using keyword-based mapping: '{keyword_mapped_topic}'")
                 mapped_topic = keyword_mapped_topic
-            
-            # Step 4: Use mapped topic for story generation
-            prompt_topic = mapped_topic
+        
+        # Step 4: Use mapped topic for story generation
+        prompt_topic = mapped_topic
         
         # CONTROL 2: Prepare debug request payload for prompt
         debug_request_payload = {
@@ -3585,7 +3621,8 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 "bluey": "Mavi Köpek", "pawpatrol": "Kurtarma Köpekleri", "moana": "Okyanus Hayalcisi",
                 "mario": "Süper Zıplayan", "shrek": "Yeşil Dev", "pussinboots": "Çizmeli Kedi",
                 "sid": "Buz Arkadaşı", "dora": "Macera Keşifçisi", "olaf": "Kardan Adam Arkadaşı",
-                "pikachu": "Sarı Şimşek", "scoobydoo": "Gizemli Köpek", "winnie": "Winnie", "bunny": "Tavşan"
+                "pikachu": "Sarı Şimşek", "scoobydoo": "Gizemli Köpek", "winnie": "Winnie", "bunny": "Tavşan",
+                "barbie": "Pinko", "tractor": "Trac", "mcqueen": "Racer", "hulk": "Hully"
             },
             "en": {
                 "spiderman": "Spider Fighter", "minion": "Yellow Buddy", "tweety": "Chirpy Bird",
@@ -3595,7 +3632,8 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 "bluey": "Blue Dog", "pawpatrol": "Rescue Dogs", "moana": "Ocean Dreamer",
                 "mario": "Super Jumper", "shrek": "Green Giant", "pussinboots": "Boots Cat",
                 "sid": "Frost Friend", "dora": "Adventure Explorer", "olaf": "Snowman Buddy",
-                "pikachu": "Yellow Spark", "scoobydoo": "Mystery Pup", "winnie": "Winnie", "bunny": "Bunny"
+                "pikachu": "Yellow Spark", "scoobydoo": "Mystery Pup", "winnie": "Winnie", "bunny": "Bunny",
+                "barbie": "Pinko", "tractor": "Trac", "mcqueen": "Yarışçı", "hulk": "Hully"
             },
             "de": {
                 "spiderman": "Spinnenkämpfer", "minion": "Gelber Freund", "tweety": "Zwitschervogel",
@@ -3605,7 +3643,8 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 "bluey": "Blauer Hund", "pawpatrol": "Rettungshunde", "moana": "Ozean Träumer",
                 "mario": "Super Springer", "shrek": "Grüner Riese", "pussinboots": "Stiefel Kater",
                 "sid": "Frost Freund", "dora": "Abenteuer Entdecker", "olaf": "Schneemann Freund",
-                "pikachu": "Gelber Funke", "scoobydoo": "Geheimnis Welpe", "winnie": "Winnie", "bunny": "Hase"
+                "pikachu": "Gelber Funke", "scoobydoo": "Geheimnis Welpe", "winnie": "Winnie", "bunny": "Hase",
+                "barbie": "Pinko", "tractor": "Trac", "mcqueen": "Racer", "hulk": "Hully"
             },
             "es": {
                 "spiderman": "Luchador Araña", "minion": "Amigo Amarillo", "tweety": "Pájaro Gorjeador",
@@ -3615,7 +3654,8 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 "bluey": "Perro Azul", "pawpatrol": "Perros Rescatadores", "moana": "Soñadora del Océano",
                 "mario": "Super Saltador", "shrek": "Gigante Verde", "pussinboots": "Gato Botas",
                 "sid": "Amigo Helado", "dora": "Explorador Aventurero", "olaf": "Amigo Muñeco de Nieve",
-                "pikachu": "Chispa Amarilla", "scoobydoo": "Cachorro Misterioso", "winnie": "Winnie", "bunny": "Conejo"
+                "pikachu": "Chispa Amarilla", "scoobydoo": "Cachorro Misterioso", "winnie": "Winnie", "bunny": "Conejo",
+                "barbie": "Pinko", "tractor": "Trac", "mcqueen": "Racer", "hulk": "Hully"
             },
             "fr": {
                 "spiderman": "Combattant Araignée", "minion": "Ami Jaune", "tweety": "Oiseau Gazouillant",
@@ -3625,7 +3665,30 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 "bluey": "Chien Bleu", "pawpatrol": "Chiens Sauveteurs", "moana": "Rêveuse de l'Océan",
                 "mario": "Super Sauteur", "shrek": "Géant Vert", "pussinboots": "Chat Bottes",
                 "sid": "Ami Givré", "dora": "Explorateur Aventurier", "olaf": "Ami Bonhomme de Neige",
-                "pikachu": "Étincelle Jaune", "scoobydoo": "Chiot Mystérieux", "winnie": "Winnie", "bunny": "Lapin"
+                "pikachu": "Étincelle Jaune", "scoobydoo": "Chiot Mystérieux", "winnie": "Winnie", "bunny": "Lapin",
+                "barbie": "Pinko", "tractor": "Trac", "mcqueen": "Racer", "hulk": "Hully"
+            },
+            "pt": {
+                "spiderman": "Lutador Aranha", "minion": "Amigo Amarelo", "tweety": "Pássaro Tagarela",
+                "spongebob": "Bolha", "elsa": "Princesa do Gelo Elisa", "tom": "Gato Esperto Tom",
+                "jerry": "Rato Inteligente Jerry", "ninjaturtles": "Heróis Casca", "koko": "Koko",
+                "bugsbunny": "Coelho Engraçado", "ironman": "Herói de Metal", "peppapig": "Porquinho",
+                "bluey": "Cachorro Azul", "pawpatrol": "Cães Resgatadores", "moana": "Sonhadora do Oceano",
+                "mario": "Super Saltador", "shrek": "Gigante Verde", "pussinboots": "Gato de Botas",
+                "sid": "Amigo Gelado", "dora": "Exploradora Aventureira", "olaf": "Amigo Boneco de Neve",
+                "pikachu": "Faísca Amarela", "scoobydoo": "Cachorrinho Misterioso", "winnie": "Winnie", "bunny": "Coelho",
+                "barbie": "Pinko", "tractor": "Trac", "mcqueen": "Racer", "hulk": "Hully"
+            },
+            "ar": {
+                "spiderman": "مقاتل العنكبوت", "minion": "الصديق الأصفر", "tweety": "الطائر النشيط",
+                "spongebob": "الفقاعة", "elsa": "أميرة الجليد إليزا", "tom": "القط الماكر توم",
+                "jerry": "الفأر الذكي جيري", "ninjaturtles": "أبطال القوقعة", "koko": "Koko",
+                "bugsbunny": "الأرنب المضحك", "ironman": "بطل المعدن", "peppapig": "الخنزير الصغير",
+                "bluey": "الكلب الأزرق", "pawpatrol": "كلاب الإنقاذ", "moana": "حالمة المحيط",
+                "mario": "القافز العظيم", "shrek": "العملاق الأخضر", "pussinboots": "القط ذو الأحذية",
+                "sid": "صديق الصقيع", "dora": "المستكشفة المغامرة", "olaf": "صديق رجل الثلج",
+                "pikachu": "الشرارة الصفراء", "scoobydoo": "الجرو الغامض", "winnie": "Winnie", "bunny": "الأرنب",
+                "barbie": "Pinko", "tractor": "Trac", "mcqueen": "Racer", "hulk": "Hully"
             }
         }
         character_display_map = character_display_maps_verification.get(lang_key, character_display_maps_verification["en"])
@@ -3999,7 +4062,11 @@ async def generate_story_text(
             "pikachu": "Sarı Şimşek",
             "scoobydoo": "Gizemli Köpek",
             "winnie": "Winnie",
-            "bunny": "Tavşan"
+            "bunny": "Tavşan",
+            "barbie": "Pinko",
+            "tractor": "Trac",
+            "mcqueen": "Yarışçı",
+            "hulk": "Hully"
         },
         "en": {
             "spiderman": "Spider Fighter",
@@ -4031,7 +4098,11 @@ async def generate_story_text(
             "pikachu": "Yellow Spark",
             "scoobydoo": "Mystery Pup",
             "winnie": "Winnie",
-            "bunny": "Bunny"
+            "bunny": "Bunny",
+            "barbie": "Pinko",
+            "tractor": "Trac",
+            "mcqueen": "Racer",
+            "hulk": "Hully"
         },
         "de": {
             "spiderman": "Spinnenkämpfer",
@@ -4063,7 +4134,11 @@ async def generate_story_text(
             "pikachu": "Gelber Funke",
             "scoobydoo": "Geheimnis Welpe",
             "winnie": "Winnie",
-            "bunny": "Hase"
+            "bunny": "Hase",
+            "barbie": "Pinko",
+            "tractor": "Trac",
+            "mcqueen": "Racer",
+            "hulk": "Hully"
         },
         "es": {
             "spiderman": "Luchador Araña",
@@ -4095,7 +4170,11 @@ async def generate_story_text(
             "pikachu": "Chispa Amarilla",
             "scoobydoo": "Cachorro Misterioso",
             "winnie": "Winnie",
-            "bunny": "Conejo"
+            "bunny": "Conejo",
+            "barbie": "Pinko",
+            "tractor": "Trac",
+            "mcqueen": "Racer",
+            "hulk": "Hully"
         },
         "fr": {
             "spiderman": "Combattant Araignée",
@@ -4127,7 +4206,83 @@ async def generate_story_text(
             "pikachu": "Étincelle Jaune",
             "scoobydoo": "Chiot Mystérieux",
             "winnie": "Winnie",
-            "bunny": "Lapin"
+            "bunny": "Lapin",
+            "barbie": "Pinko",
+            "tractor": "Trac",
+            "mcqueen": "Racer",
+            "hulk": "Hully"
+        },
+        "pt": {
+            "spiderman": "Lutador Aranha",
+            "minion": "Amigo Amarelo",
+            "tweety": "Pássaro Tagarela",
+            "spongebob": "Bolha",
+            "elsa": "Princesa do Gelo Elisa",
+            "tom": "Gato Esperto Tom",
+            "jerry": "Rato Inteligente Jerry",
+            "ninjaturtles": "Heróis Casca",
+            "sunny": "Sunny",
+            "bubu": "Bubu",
+            "luna": "Luna",
+            "tiko": "Tiko",
+            "mino": "Mino",
+            "koko": "Koko",
+            "bugsbunny": "Coelho Engraçado",
+            "ironman": "Herói de Metal",
+            "peppapig": "Porquinho",
+            "bluey": "Cachorro Azul",
+            "pawpatrol": "Cães Resgatadores",
+            "moana": "Sonhadora do Oceano",
+            "mario": "Super Saltador",
+            "shrek": "Gigante Verde",
+            "pussinboots": "Gato de Botas",
+            "sid": "Amigo Gelado",
+            "dora": "Exploradora Aventureira",
+            "olaf": "Amigo Boneco de Neve",
+            "pikachu": "Faísca Amarela",
+            "scoobydoo": "Cachorrinho Misterioso",
+            "winnie": "Winnie",
+            "bunny": "Coelho",
+            "barbie": "Pinko",
+            "tractor": "Trac",
+            "mcqueen": "Racer",
+            "hulk": "Hully"
+        },
+        "ar": {
+            "spiderman": "مقاتل العنكبوت",
+            "minion": "الصديق الأصفر",
+            "tweety": "الطائر النشيط",
+            "spongebob": "الفقاعة",
+            "elsa": "أميرة الجليد إليزا",
+            "tom": "القط الماكر توم",
+            "jerry": "الفأر الذكي جيري",
+            "ninjaturtles": "أبطال القوقعة",
+            "sunny": "Sunny",
+            "bubu": "Bubu",
+            "luna": "Luna",
+            "tiko": "Tiko",
+            "mino": "Mino",
+            "koko": "Koko",
+            "bugsbunny": "الأرنب المضحك",
+            "ironman": "بطل المعدن",
+            "peppapig": "الخنزير الصغير",
+            "bluey": "الكلب الأزرق",
+            "pawpatrol": "كلاب الإنقاذ",
+            "moana": "حالمة المحيط",
+            "mario": "القافز العظيم",
+            "shrek": "العملاق الأخضر",
+            "pussinboots": "القط ذو الأحذية",
+            "sid": "صديق الصقيع",
+            "dora": "المستكشفة المغامرة",
+            "olaf": "صديق رجل الثلج",
+            "pikachu": "الشرارة الصفراء",
+            "scoobydoo": "الجرو الغامض",
+            "winnie": "Winnie",
+            "bunny": "الأرنب",
+            "barbie": "Pinko",
+            "tractor": "Trac",
+            "mcqueen": "Racer",
+            "hulk": "Hully"
         }
     }
     
@@ -4201,7 +4356,9 @@ async def generate_story_text(
         "en": f'"Hello {child_name}!" or "{child_name}, today I want to tell you..."',
         "de": f'"Hallo {child_name}!" or "{child_name}, heute möchte ich dir..."',
         "es": f'"¡Hola {child_name}!" or "{child_name}, hoy quiero contarte..."',
-        "fr": f'"Bonjour {child_name}!" or "{child_name}, aujourd\'hui je veux te raconter..."'
+        "fr": f'"Bonjour {child_name}!" or "{child_name}, aujourd\'hui je veux te raconter..."',
+        "pt": f'"Olá {child_name}!" or "{child_name}, hoje eu quero te contar..."',
+        "ar": f'"مرحباً {child_name}!" or "{child_name}، اليوم أريد أن أخبرك..."'
     }
     lang_key = language[:2] if len(language) >= 2 else "en"
     child_name_example = child_name_examples.get(lang_key, child_name_examples["en"])
@@ -4233,6 +4390,16 @@ async def generate_story_text(
             "sharing": "partage", "friendship": "amitié", "bedtime": "coucher", "confidence": "confiance",
             "emotional_regulation": "régulation émotionnelle", "screen_time": "temps d'écran", "sibling": "frère",
             "imagination": "imagination", "transitions": "transition", "kindness": "gentillesse", "nutrition": "nutrition"
+        },
+        "pt": {
+            "sharing": "compartilhar", "friendship": "amizade", "bedtime": "hora de dormir", "confidence": "confiança",
+            "emotional_regulation": "regulação emocional", "screen_time": "tempo de tela", "sibling": "irmão",
+            "imagination": "imaginação", "transitions": "transição", "kindness": "bondade", "nutrition": "nutrição"
+        },
+        "ar": {
+            "sharing": "المشاركة", "friendship": "الصداقة", "bedtime": "وقت النوم", "confidence": "الثقة",
+            "emotional_regulation": "التحكم العاطفي", "screen_time": "وقت الشاشة", "sibling": "الأخ",
+            "imagination": "الخيال", "transitions": "الانتقال", "kindness": "اللطف", "nutrition": "التغذية"
         }
     }
     topic_map = topic_translations.get(lang_key, topic_translations["en"])
@@ -4259,7 +4426,9 @@ async def generate_story_text(
         "en": '"little friend", "dear", "sweetheart", "buddy"',
         "de": '"kleiner Freund", "Schatz", "Liebling", "mein Kind"',
         "es": '"pequeño amigo", "cariño", "tesoro", "mi niño/niña"',
-        "fr": '"petit ami", "mon chéri", "trésor", "mon enfant"'
+        "fr": '"petit ami", "mon chéri", "trésor", "mon enfant"',
+        "pt": '"pequeno amigo", "querido", "querida", "meu filho/minha filha"',
+        "ar": '"صديقي الصغير", "عزيزي", "عزيزتي", "ابني/ابنتي"'
     }
     generic_terms = generic_endearments.get(lang_key, generic_endearments["en"])
     
@@ -4317,7 +4486,9 @@ async def generate_story_text(
         "en": ('"What do you think?"', '"You know what?"'),
         "de": ('"Was denkst du?"', '"Weißt du was?"'),
         "es": ('"¿Qué piensas?"', '"¿Sabes qué?"'),
-        "fr": ('"Qu\'en penses-tu?"', '"Tu sais quoi?"')
+        "fr": ('"Qu\'en penses-tu?"', '"Tu sais quoi?"'),
+        "pt": ('"O que você acha?"', '"Sabe o quê?"'),
+        "ar": ('"ما رأيك؟"', '"أتعلم ماذا؟"')
     }
     conv_question, conv_transition = conversation_phrases.get(lang_key, conversation_phrases["en"])
     
@@ -4338,7 +4509,9 @@ async def generate_story_text(
         "en": ["persuade", "stop", "convince", "change", "avoid", "prevent", "quit", "give up"],
         "de": ["überzeugen", "aufhören", "stoppen", "ändern", "vermeiden", "verhindern"],
         "es": ["convencer", "detener", "parar", "cambiar", "evitar", "prevenir"],
-        "fr": ["convaincre", "arrêter", "cesser", "changer", "éviter", "empêcher"]
+        "fr": ["convaincre", "arrêter", "cesser", "changer", "éviter", "empêcher"],
+        "pt": ["convencer", "parar", "parar de", "mudar", "evitar", "prevenir", "desistir"],
+        "ar": ["إقناع", "توقف", "تغيير", "تجنب", "منع", "الاستسلام"]
     }
     
     lang_key_for_keywords = language[:2] if len(language) >= 2 else "en"
@@ -4410,8 +4583,16 @@ Requirements: Clear beginning/middle/end. Stay focused on ONE topic. Use concret
     
     prompt = f"""You are {character_name}, a friendly character having a phone conversation with a child{child_part} and telling them a story.
 
-Character background:
+CRITICAL - CHARACTER IDENTITY & PERSONA:
 {persona}
+
+IMPORTANT - STORY VOICE & STYLE:
+The story MUST be written from {character_name}'s perspective, using their unique personality, speech style, and characteristics. 
+- Speak exactly as {character_name} would speak, using their natural voice and personality traits
+- Use {character_name}'s characteristic expressions, tone, and way of thinking
+- The story should feel like it's genuinely coming from {character_name}'s own experiences and worldview
+- Every word, every sentence should reflect {character_name}'s unique persona and character
+- Do NOT write a generic story - write it as if {character_name} themselves is telling it from their heart
 
 The parent wants a story about: {topic_for_prompt}
 {behavior_instruction}
@@ -5338,7 +5519,11 @@ async def generate_story_title(story_text: str, language: str, character: str, c
                 "pikachu": "Sarı Şimşek",
                 "scoobydoo": "Gizemli Köpek",
                 "winnie": "Winnie",
-                "bunny": "Tavşan"
+                "bunny": "Tavşan",
+                "barbie": "Pembe Rüya Kızı",
+                "tractor": "Traktör",
+                "mcqueen": "Yarışçı",
+                "hulk": "Yeşil Güçlü Kahraman"
             },
             "en": {
                 "spiderman": "Spider Fighter",
@@ -5370,7 +5555,11 @@ async def generate_story_title(story_text: str, language: str, character: str, c
                 "pikachu": "Yellow Spark",
                 "scoobydoo": "Mystery Pup",
                 "winnie": "Winnie",
-                "bunny": "Bunny"
+                "bunny": "Bunny",
+                "barbie": "Pinko",
+                "tractor": "Trac",
+                "mcqueen": "Racer",
+                "hulk": "Hully"
             },
             "de": {
                 "spiderman": "Spinnenkämpfer",
@@ -5402,7 +5591,11 @@ async def generate_story_title(story_text: str, language: str, character: str, c
                 "pikachu": "Gelber Funke",
                 "scoobydoo": "Geheimnis Welpe",
                 "winnie": "Winnie",
-                "bunny": "Hase"
+                "bunny": "Hase",
+                "barbie": "Rosa Traumgirl",
+                "tractor": "Traktor",
+                "mcqueen": "Rennfahrer",
+                "hulk": "Grüner Starker Held"
             },
             "es": {
                 "spiderman": "Luchador Araña",
@@ -5434,7 +5627,11 @@ async def generate_story_title(story_text: str, language: str, character: str, c
                 "pikachu": "Chispa Amarilla",
                 "scoobydoo": "Cachorro Misterioso",
                 "winnie": "Winnie",
-                "bunny": "Conejo"
+                "bunny": "Conejo",
+                "barbie": "Chica de Ensueño Rosa",
+                "tractor": "Tractor",
+                "mcqueen": "Corredor",
+                "hulk": "Héroe Fuerte Verde"
             },
             "fr": {
                 "spiderman": "Combattant Araignée",
@@ -5466,7 +5663,47 @@ async def generate_story_title(story_text: str, language: str, character: str, c
                 "pikachu": "Étincelle Jaune",
                 "scoobydoo": "Chiot Mystérieux",
                 "winnie": "Winnie",
-                "bunny": "Lapin"
+                "bunny": "Lapin",
+                "barbie": "Fille de Rêve Rose",
+                "tractor": "Tracteur",
+                "mcqueen": "Coureur",
+                "hulk": "Héros Fort Vert"
+            },
+            "pt": {
+                "spiderman": "Lutador Aranha",
+                "minion": "Amigo Amarelo",
+                "tweety": "Pássaro Tagarela",
+                "spongebob": "Bolha",
+                "elsa": "Princesa do Gelo Elisa",
+                "tom": "Gato Esperto Tom",
+                "jerry": "Rato Inteligente Jerry",
+                "ninjaturtles": "Heróis Casca",
+                "sunny": "Sunny",
+                "bubu": "Bubu",
+                "luna": "Luna",
+                "tiko": "Tiko",
+                "mino": "Mino",
+                "koko": "Koko",
+                "bugsbunny": "Coelho Engraçado",
+                "ironman": "Herói de Metal",
+                "peppapig": "Porquinho",
+                "bluey": "Cachorro Azul",
+                "pawpatrol": "Cães Resgatadores",
+                "moana": "Sonhadora do Oceano",
+                "mario": "Super Saltador",
+                "shrek": "Gigante Verde",
+                "pussinboots": "Gato de Botas",
+                "sid": "Amigo Gelado",
+                "dora": "Exploradora Aventureira",
+                "olaf": "Amigo Boneco de Neve",
+                "pikachu": "Faísca Amarela",
+                "scoobydoo": "Cachorrinho Misterioso",
+                "winnie": "Winnie",
+                "bunny": "Coelho",
+                "barbie": "Menina Sonhadora Rosa",
+                "tractor": "Trator",
+                "mcqueen": "Corredor",
+                "hulk": "Herói Forte Verde"
             }
         }
         
@@ -5482,7 +5719,9 @@ async def generate_story_title(story_text: str, language: str, character: str, c
                 "en": {"bedtime": "Bedtime", "friendship": "Friendship", "sharing": "Sharing", "nutrition": "Nutrition"},
                 "de": {"bedtime": "Schlafenszeit", "friendship": "Freundschaft", "sharing": "Teilen", "nutrition": "Ernährung"},
                 "es": {"bedtime": "Hora de Dormir", "friendship": "Amistad", "sharing": "Compartir", "nutrition": "Nutrición"},
-                "fr": {"bedtime": "Coucher", "friendship": "Amitié", "sharing": "Partage", "nutrition": "Nutrition"}
+                "fr": {"bedtime": "Coucher", "friendship": "Amitié", "sharing": "Partage", "nutrition": "Nutrition"},
+                "pt": {"bedtime": "Hora de Dormir", "friendship": "Amizade", "sharing": "Compartilhar", "nutrition": "Nutrição"},
+                "ar": {"bedtime": "وقت النوم", "friendship": "الصداقة", "sharing": "المشاركة", "nutrition": "التغذية"}
             }
             topic_map = topic_translations.get(lang_key, topic_translations["en"])
             topic_translated = topic_map.get(topic.lower() if topic else "bedtime", topic.replace('_', ' ').title() if topic else "Story")
@@ -5496,6 +5735,10 @@ async def generate_story_title(story_text: str, language: str, character: str, c
                 return f"La Historia de {topic_translated} de {character_name}"
             elif lang_key == "fr":
                 return f"L'Histoire de {topic_translated} de {character_name}"
+            elif lang_key == "pt":
+                return f"A História de {topic_translated} de {character_name}"
+            elif lang_key == "ar":
+                return f"قصة {topic_translated} مع {character_name}"
             else:  # en
                 return f"{character_name}'s {topic_translated} Story"
         
@@ -5508,7 +5751,9 @@ async def generate_story_title(story_text: str, language: str, character: str, c
             "en": "Create an English title. Short, catchy, and child-friendly. Maximum 60 characters.",
             "de": "Erstelle einen deutschen Titel. Kurz, einprägsam und kindgerecht. Maximal 60 Zeichen.",
             "es": "Crea un título en español. Corto, atractivo y apropiado para niños. Máximo 60 caracteres.",
-            "fr": "Créez un titre en français. Court, accrocheur et adapté aux enfants. Maximum 60 caractères."
+            "fr": "Créez un titre en français. Court, accrocheur et adapté aux enfants. Maximum 60 caractères.",
+            "pt": "Crie um título em português. Curto, atraente e adequado para crianças. Máximo 60 caracteres.",
+            "ar": "أنشئ عنواناً بالعربية. قصير وجذاب ومناسب للأطفال. الحد الأقصى 60 حرفاً."
         }
         
         lang_key = language[:2] if len(language) >= 2 else "en"
@@ -5535,6 +5780,14 @@ async def generate_story_title(story_text: str, language: str, character: str, c
             "fr": [
                 f'"L\'Aventure de [Topic] de {character_name} et {child_name}"',
                 f'"L\'Histoire de [Topic] de {character_name} et {child_name}"'
+            ],
+            "pt": [
+                f'"A Aventura de [Topic] de {character_name} e {child_name}"',
+                f'"A História de [Topic] de {character_name} e {child_name}"'
+            ],
+            "ar": [
+                f'"مغامرة [Topic] مع {character_name} و {child_name}"',
+                f'"قصة [Topic] مع {character_name} و {child_name}"'
             ]
         }
         
@@ -5576,6 +5829,16 @@ The title MUST be personalized with the child's name - this is mandatory, not op
                 "sharing": "partage", "friendship": "amitié", "bedtime": "coucher", "confidence": "confiance",
                 "emotional_regulation": "régulation émotionnelle", "screen_time": "temps d'écran", "sibling": "frère",
                 "imagination": "imagination", "transitions": "transition", "kindness": "gentillesse", "nutrition": "nutrition"
+            },
+            "pt": {
+                "sharing": "compartilhar", "friendship": "amizade", "bedtime": "hora de dormir", "confidence": "confiança",
+                "emotional_regulation": "regulação emocional", "screen_time": "tempo de tela", "sibling": "irmão",
+                "imagination": "imaginação", "transitions": "transição", "kindness": "bondade", "nutrition": "nutrição"
+            },
+            "ar": {
+                "sharing": "المشاركة", "friendship": "الصداقة", "bedtime": "وقت النوم", "confidence": "الثقة",
+                "emotional_regulation": "التحكم العاطفي", "screen_time": "وقت الشاشة", "sibling": "الأخ",
+                "imagination": "الخيال", "transitions": "الانتقال", "kindness": "اللطف", "nutrition": "التغذية"
             }
         }
         topic_map = topic_translations.get(lang_key, topic_translations["en"])
@@ -5590,7 +5853,9 @@ The title MUST be personalized with the child's name - this is mandatory, not op
             "en": "Please create the title in English. Use English grammar and vocabulary that is natural and appropriate for children aged 2-8.",
             "de": "Please create the title in German (Deutsch). Use German grammar and vocabulary that is natural and appropriate for children aged 2-8.",
             "es": "Please create the title in Spanish (Español). Use Spanish grammar and vocabulary that is natural and appropriate for children aged 2-8.",
-            "fr": "Please create the title in French (Français). Use French grammar and vocabulary that is natural and appropriate for children aged 2-8."
+            "fr": "Please create the title in French (Français). Use French grammar and vocabulary that is natural and appropriate for children aged 2-8.",
+            "pt": "Please create the title in Portuguese (Português). Use Portuguese grammar and vocabulary that is natural and appropriate for children aged 2-8.",
+            "ar": "Please create the title in Arabic (العربية). Use Arabic grammar and vocabulary that is natural and appropriate for children aged 2-8."
         }
         lang_enforcement_text = language_guidance.get(lang_key, language_guidance["en"])
         
