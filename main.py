@@ -6225,32 +6225,45 @@ async def get_story(
         # This fixes existing stories that were created before the lang parameter fix
         story_lang = story_data.get("language", "en")
         
-        def fix_audio_url(url: str, lang: str) -> str:
-            """Add ?lang= parameter to audio URL if missing."""
+        def fix_audio_url(url: str, lang: str, sid: str = None) -> str:
+            """Add ?lang= and &sid= parameters to audio URL if missing.
+            
+            The sid (story_id) parameter is CRITICAL for cache-busting:
+            - iOS client caches audio files by URL
+            - Without unique URLs per story, client may serve wrong cached audio
+            - Adding sid ensures each story has unique audio URLs
+            """
             if not url or not isinstance(url, str):
                 return url
             # Only fix mock-audio and local-audio URLs
             if "/mock-audio/" in url or "/local-audio/" in url:
+                params_to_add = []
                 # Check if lang parameter already exists
-                if "?lang=" in url or "&lang=" in url:
-                    return url
-                # Add lang parameter
-                if "?" in url:
-                    return f"{url}&lang={lang}"
-                else:
-                    return f"{url}?lang={lang}"
+                if "?lang=" not in url and "&lang=" not in url:
+                    params_to_add.append(f"lang={lang}")
+                # CRITICAL: Add story_id for cache-busting
+                if sid and "?sid=" not in url and "&sid=" not in url:
+                    # Use last 16 chars of story_id for brevity
+                    short_sid = sid.replace("story_", "")[-16:]
+                    params_to_add.append(f"sid={short_sid}")
+                
+                if params_to_add:
+                    if "?" in url:
+                        return f"{url}&{'&'.join(params_to_add)}"
+                    else:
+                        return f"{url}?{'&'.join(params_to_add)}"
             return url
         
         # Fix main audio_url
         if story_data.get("audio_url"):
-            story_data["audio_url"] = fix_audio_url(story_data["audio_url"], story_lang)
+            story_data["audio_url"] = fix_audio_url(story_data["audio_url"], story_lang, story_id)
         
         # Fix audio_url in each scene
         if "scenes" in story_data and story_data["scenes"]:
             for scene in story_data["scenes"]:
                 if isinstance(scene, dict) and scene.get("audio_url"):
-                    scene["audio_url"] = fix_audio_url(scene["audio_url"], story_lang)
-            print(f"🔧 [GET /stories/{story_id}] Fixed audio URLs with lang={story_lang}")
+                    scene["audio_url"] = fix_audio_url(scene["audio_url"], story_lang, story_id)
+            print(f"🔧 [GET /stories/{story_id}] Fixed audio URLs with lang={story_lang}, sid={story_id[-16:]}")
         
         response = StoryResponse(**story_data)
         
@@ -6341,18 +6354,32 @@ async def list_stories(
             
             story_data.setdefault("is_public", True)  # Default to public if missing
             
-            # CRITICAL FIX: Ensure audio URLs have ?lang= parameter
+            # CRITICAL FIX: Ensure audio URLs have ?lang= and &sid= parameters
+            # sid (story_id) is needed for cache-busting on iOS clients
             story_lang_fix = story_data.get("language", "en")
+            story_sid = doc.id.replace("story_", "")[-16:]  # Short story ID for cache-busting
             if story_data.get("audio_url"):
                 audio_url = story_data["audio_url"]
-                if ("/mock-audio/" in audio_url or "/local-audio/" in audio_url) and "?lang=" not in audio_url and "&lang=" not in audio_url:
-                    story_data["audio_url"] = f"{audio_url}?lang={story_lang_fix}"
+                if "/mock-audio/" in audio_url or "/local-audio/" in audio_url:
+                    params = []
+                    if "?lang=" not in audio_url and "&lang=" not in audio_url:
+                        params.append(f"lang={story_lang_fix}")
+                    if "?sid=" not in audio_url and "&sid=" not in audio_url:
+                        params.append(f"sid={story_sid}")
+                    if params:
+                        story_data["audio_url"] = f"{audio_url}?{'&'.join(params)}" if "?" not in audio_url else f"{audio_url}&{'&'.join(params)}"
             if "scenes" in story_data and story_data["scenes"]:
                 for scene in story_data["scenes"]:
                     if isinstance(scene, dict) and scene.get("audio_url"):
                         scene_url = scene["audio_url"]
-                        if ("/mock-audio/" in scene_url or "/local-audio/" in scene_url) and "?lang=" not in scene_url and "&lang=" not in scene_url:
-                            scene["audio_url"] = f"{scene_url}?lang={story_lang_fix}"
+                        if "/mock-audio/" in scene_url or "/local-audio/" in scene_url:
+                            params = []
+                            if "?lang=" not in scene_url and "&lang=" not in scene_url:
+                                params.append(f"lang={story_lang_fix}")
+                            if "?sid=" not in scene_url and "&sid=" not in scene_url:
+                                params.append(f"sid={story_sid}")
+                            if params:
+                                scene["audio_url"] = f"{scene_url}?{'&'.join(params)}" if "?" not in scene_url else f"{scene_url}&{'&'.join(params)}"
             
             stories.append(StoryResponse(**story_data))
             user_story_ids.add(doc.id)
@@ -6396,18 +6423,31 @@ async def list_stories(
                     if story_status == "ready" and story_text:
                         story_data.setdefault("is_public", True)
                         
-                        # CRITICAL FIX: Ensure audio URLs have ?lang= parameter
+                        # CRITICAL FIX: Ensure audio URLs have ?lang= and &sid= parameters
                         story_lang_fix = story_data.get("language", "en")
+                        story_sid = doc.id.replace("story_", "")[-16:]
                         if story_data.get("audio_url"):
                             audio_url = story_data["audio_url"]
-                            if ("/mock-audio/" in audio_url or "/local-audio/" in audio_url) and "?lang=" not in audio_url and "&lang=" not in audio_url:
-                                story_data["audio_url"] = f"{audio_url}?lang={story_lang_fix}"
+                            if "/mock-audio/" in audio_url or "/local-audio/" in audio_url:
+                                params = []
+                                if "?lang=" not in audio_url and "&lang=" not in audio_url:
+                                    params.append(f"lang={story_lang_fix}")
+                                if "?sid=" not in audio_url and "&sid=" not in audio_url:
+                                    params.append(f"sid={story_sid}")
+                                if params:
+                                    story_data["audio_url"] = f"{audio_url}?{'&'.join(params)}" if "?" not in audio_url else f"{audio_url}&{'&'.join(params)}"
                         if "scenes" in story_data and story_data["scenes"]:
                             for scene in story_data["scenes"]:
                                 if isinstance(scene, dict) and scene.get("audio_url"):
                                     scene_url = scene["audio_url"]
-                                    if ("/mock-audio/" in scene_url or "/local-audio/" in scene_url) and "?lang=" not in scene_url and "&lang=" not in scene_url:
-                                        scene["audio_url"] = f"{scene_url}?lang={story_lang_fix}"
+                                    if "/mock-audio/" in scene_url or "/local-audio/" in scene_url:
+                                        params = []
+                                        if "?lang=" not in scene_url and "&lang=" not in scene_url:
+                                            params.append(f"lang={story_lang_fix}")
+                                        if "?sid=" not in scene_url and "&sid=" not in scene_url:
+                                            params.append(f"sid={story_sid}")
+                                        if params:
+                                            scene["audio_url"] = f"{scene_url}?{'&'.join(params)}" if "?" not in scene_url else f"{scene_url}&{'&'.join(params)}"
                         
                         stories.append(StoryResponse(**story_data))
                         if len(stories) >= limit:
