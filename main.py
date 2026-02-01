@@ -733,6 +733,7 @@ from services.story_composer import (
     to_character_slug,
     content_story_path,
     generate_story_with_openai,
+    get_pedagogical_block,
 )
 from utils.topic_mapping import map_topic, get_topic_candidates
 from services.push_notification_service import get_push_notification_service
@@ -3291,6 +3292,7 @@ async def create_custom_story(
     print(f"   Language: {request.language}")
     print(f"   Length: {request.length}")
     print(f"   Child Name: {request.child_name}")
+    print(f"   Age Band: {request.age_band or 'general (4-8)'}")
     print(f"   =================================================")
     try:
         if not user_id:
@@ -3518,6 +3520,7 @@ async def create_custom_story(
             "custom_description": request.custom_description,
             "child_name": request.child_name,
             "length_type": request.length,
+            "age_band": request.age_band,  # Child's age band for pedagogical adaptation
             "kind": "custom",  # Always "custom" for user-generated stories
             "quota_counted": True,  # Mark quota as counted (will be deducted)
             "is_public": request.is_public,  # Whether story should be visible to other users (default: True)
@@ -3746,6 +3749,7 @@ async def generate_story_async(story_id: str, request: StoryRequest):
             target_duration_min=config["duration_min"],
             target_duration_max=config["duration_max"],
             target_words=config["target_words"],
+            age_band=request.age_band,  # Pass age band for pedagogical adaptation
             story_length=request.length,  # Pass story length for structured format (quick vs dreamy)
             debug_request_payload=debug_request_payload  # CONTROL 2: For prompt verification
         )
@@ -3780,7 +3784,8 @@ async def generate_story_async(story_id: str, request: StoryRequest):
                 target_duration_max=config["duration_max"],
                 target_words=config["target_words"],
                 story_length=request.length,  # Pass story length for structured format
-                strict_safety=True  # Enable strict safety mode
+                strict_safety=True,  # Enable strict safety mode
+                age_band=request.age_band  # Pass age band for pedagogical adaptation
             )
             # Re-validate
             story_moderation = await moderate_content(story_text, request.language)
@@ -4214,7 +4219,8 @@ async def generate_story_text(
     target_words: int = 300,
     story_length: str = "quick",  # Story length: "quick" or "dreamy" (for structured format)
     strict_safety: bool = False,
-    debug_request_payload: Optional[dict] = None  # CONTROL 2: For prompt verification
+    debug_request_payload: Optional[dict] = None,  # CONTROL 2: For prompt verification
+    age_band: Optional[str] = None  # Child's age band for pedagogical adaptation (e.g., "3-4", "4-5", "5-6", "7-8")
 ) -> str:
     """Generate story text using OpenAI with target duration.
     
@@ -4227,6 +4233,7 @@ async def generate_story_text(
         target_duration_min: Target minimum duration in minutes
         target_duration_max: Target maximum duration in minutes
         target_words: Target word count (for prompt guidance)
+        age_band: Child's age band for pedagogical adaptation (e.g., "3-4", "4-5", "5-6", "7-8")
     """
     if not settings.OPENAI_API_KEY:
         # Fallback story
@@ -4898,9 +4905,18 @@ CRITICAL RULES:
 6. If you detect any inappropriate words or themes in the topic, replace them with safe, positive alternatives.
 """
     
+    # Get pedagogical techniques block based on age band
+    pedagogical_block = get_pedagogical_block(age_band, language) if age_band else ""
+    if age_band:
+        print(f"   Age band: {age_band} (using age-specific pedagogical techniques)")
+    else:
+        print(f"   Age band: general (4-8, default pedagogical approach)")
+    
     system_message = f"""You are {character_name}, a kind and gentle character who tells calming stories to children.
 
 {safety_rules}
+
+{pedagogical_block}
 
 Your stories must always be safe, positive, and suitable for young children."""
 

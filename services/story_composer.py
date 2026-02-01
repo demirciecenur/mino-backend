@@ -17,6 +17,234 @@ except ImportError:
     from backend.utils.topic_mapping import map_topic, get_topic_candidates
 
 
+# =============================================================================
+# PEDAGOGICAL TECHNIQUES (Evidence-based, age-appropriate)
+# Sources: CDC, AAP-BrightFutures, TripleP, IncredibleYears
+# =============================================================================
+
+AGE_BANDS = ("3-4", "4-5", "5-6", "7-8")
+
+AGE_TECHNIQUES = {
+    "3-4": [
+        "Positive Reinforcement",
+        "Modeling",
+        "Routines & Transitions",
+        "Emotion Naming (very simple)"
+    ],
+    "4-5": [
+        "Positive Reinforcement",
+        "Emotion Coaching (simple)",
+        "Choices Within Limits",
+        "Clear & Consistent Limits",
+        "Routines & Transitions"
+    ],
+    "5-6": [
+        "Emotion Coaching",
+        "Choices Within Limits",
+        "First-Then / If-Then framing",
+        "Planned Ignoring (safe only)",
+        "Clear & Consistent Limits"
+    ],
+    "7-8": [
+        "Collaborative Problem Solving (simple)",
+        "Self-Regulation (breathing/counting)",
+        "Natural/Logical Consequences (non-punitive)",
+        "Emotion Coaching",
+        "Clear & Consistent Limits"
+    ],
+}
+
+# Language-specific style guidelines for each age band
+AGE_STYLE = {
+    "tr": {
+        "3-4": "Çok basit kelimeler, 1 fikir = 1 cümle, bol tekrar, somut örnekler. Maksimum 5-6 kelimelik cümleler.",
+        "4-5": "Basit kelimeler, kısa cümleler, duyguları adlandır, 2 seçenek sun. Maksimum 8-10 kelimelik cümleler.",
+        "5-6": "Kısa ama biraz daha açıklayıcı; küçük neden-sonuç cümleleri, mini problem çözme. 10-12 kelimelik cümleler.",
+        "7-8": "Daha açıklayıcı; çocukla birlikte plan yapma, neden-sonuç ve sorumluluk dili. 12-15 kelimelik cümleler.",
+        "general": "Yaşa uygun basit dil, 2-8 yaş için anlaşılır kelimeler, somut örnekler."
+    },
+    "en": {
+        "3-4": "Very simple words, 1 idea = 1 sentence, lots of repetition, concrete examples. Maximum 5-6 word sentences.",
+        "4-5": "Simple words, short sentences, name emotions, offer 2 choices. Maximum 8-10 word sentences.",
+        "5-6": "Short but more explanatory; small cause-effect sentences, mini problem solving. 10-12 word sentences.",
+        "7-8": "More explanatory; plan together with child, cause-effect and responsibility language. 12-15 word sentences.",
+        "general": "Age-appropriate simple language, understandable words for ages 2-8, concrete examples."
+    },
+    "de": {
+        "3-4": "Sehr einfache Wörter, 1 Idee = 1 Satz, viele Wiederholungen, konkrete Beispiele. Maximum 5-6 Wörter pro Satz.",
+        "4-5": "Einfache Wörter, kurze Sätze, Gefühle benennen, 2 Wahlmöglichkeiten anbieten. Maximum 8-10 Wörter pro Satz.",
+        "5-6": "Kurz aber erklärender; kleine Ursache-Wirkung-Sätze, Mini-Problemlösung. 10-12 Wörter pro Satz.",
+        "7-8": "Erklärender; gemeinsam mit Kind planen, Ursache-Wirkung und Verantwortungssprache. 12-15 Wörter pro Satz.",
+        "general": "Altersgerechte einfache Sprache, verständliche Wörter für 2-8 Jahre, konkrete Beispiele."
+    },
+    "es": {
+        "3-4": "Palabras muy simples, 1 idea = 1 oración, mucha repetición, ejemplos concretos. Máximo 5-6 palabras por oración.",
+        "4-5": "Palabras simples, oraciones cortas, nombrar emociones, ofrecer 2 opciones. Máximo 8-10 palabras por oración.",
+        "5-6": "Corto pero más explicativo; pequeñas oraciones de causa-efecto, mini resolución de problemas. 10-12 palabras por oración.",
+        "7-8": "Más explicativo; planificar junto con el niño, lenguaje de causa-efecto y responsabilidad. 12-15 palabras por oración.",
+        "general": "Lenguaje simple apropiado para la edad, palabras comprensibles para 2-8 años, ejemplos concretos."
+    },
+    "fr": {
+        "3-4": "Mots très simples, 1 idée = 1 phrase, beaucoup de répétition, exemples concrets. Maximum 5-6 mots par phrase.",
+        "4-5": "Mots simples, phrases courtes, nommer les émotions, offrir 2 choix. Maximum 8-10 mots par phrase.",
+        "5-6": "Court mais plus explicatif; petites phrases cause-effet, mini résolution de problèmes. 10-12 mots par phrase.",
+        "7-8": "Plus explicatif; planifier avec l'enfant, langage cause-effet et responsabilité. 12-15 mots par phrase.",
+        "general": "Langage simple adapté à l'âge, mots compréhensibles pour 2-8 ans, exemples concrets."
+    },
+}
+
+# Technique explanations for prompts (multi-language)
+TECHNIQUE_EXPLANATIONS = {
+    "tr": {
+        "Positive Reinforcement": "İstenen davranışı hemen öv, küçük teşvik kullan ('Harika yaptın!', 'Çok güzel paylaştın!').",
+        "Emotion Coaching": "Duyguyu kabul et, davranışı sınırla ('Kızgın olmak normal, ama vurmak değil. Birlikte sakinleşelim.').",
+        "Emotion Coaching (simple)": "Duyguyu basitçe adlandır ('Üzgün hissediyorsun, bu çok normal.').",
+        "Emotion Naming (very simple)": "Duyguyu çok basit adlandır ('Bu seni mutlu etti!', 'Biraz üzgünsün.').",
+        "Clear & Consistent Limits": "Az kural, tutarlı uygula, sakin ton ('Bu kuralımız. Her zaman böyle yapıyoruz.').",
+        "Choices Within Limits": "Sınırlı seçenek sun ('İkisinden birini seçebilirsin: mavi veya kırmızı.').",
+        "Planned Ignoring (safe only)": "Dikkat arayan zararsız davranışı görmezden gel, doğru davranışı yakala ve öv.",
+        "Routines & Transitions": "Geçişleri önceden haber ver, geri sayım yap ('5 dakika sonra yemek zamanı!').",
+        "Modeling": "Doğru davranışı göster, 'Bak ben böyle yapıyorum' de.",
+        "First-Then / If-Then framing": "'Önce oyuncakları toplarsan, sonra park oynayabiliriz' gibi basit koşul cümleleri.",
+        "Collaborative Problem Solving (simple)": "Birlikte çözüm bul ('Bu sorunu nasıl çözebiliriz? Fikirlerin neler?').",
+        "Self-Regulation (breathing/counting)": "Sakinleşme teknikleri öğret ('Birlikte 3 derin nefes alalım', '5'e kadar sayalım').",
+        "Natural/Logical Consequences (non-punitive)": "Doğal sonuçları açıkla ('Oyuncakları paylaşmazsak arkadaşlar üzülür').",
+    },
+    "en": {
+        "Positive Reinforcement": "Praise desired behavior immediately, use small encouragements ('Great job!', 'You shared so nicely!').",
+        "Emotion Coaching": "Accept the emotion, limit the behavior ('It's okay to be angry, but hitting is not okay. Let's calm down together.').",
+        "Emotion Coaching (simple)": "Simply name the emotion ('You're feeling sad, that's totally normal.').",
+        "Emotion Naming (very simple)": "Name emotions very simply ('That made you happy!', 'You're a little sad.').",
+        "Clear & Consistent Limits": "Few rules, consistent enforcement, calm tone ('This is our rule. We always do it this way.').",
+        "Choices Within Limits": "Offer limited choices ('You can choose one: blue or red.').",
+        "Planned Ignoring (safe only)": "Ignore harmless attention-seeking behavior, catch and praise good behavior.",
+        "Routines & Transitions": "Give advance notice for transitions, use countdown ('5 minutes until dinner time!').",
+        "Modeling": "Demonstrate correct behavior, say 'Watch how I do it'.",
+        "First-Then / If-Then framing": "Simple conditional sentences like 'First pick up toys, then we can go to the park'.",
+        "Collaborative Problem Solving (simple)": "Find solutions together ('How can we solve this? What are your ideas?').",
+        "Self-Regulation (breathing/counting)": "Teach calming techniques ('Let's take 3 deep breaths together', 'Let's count to 5').",
+        "Natural/Logical Consequences (non-punitive)": "Explain natural consequences ('If we don't share toys, friends feel sad').",
+    },
+    "de": {
+        "Positive Reinforcement": "Gewünschtes Verhalten sofort loben, kleine Ermutigung nutzen ('Super gemacht!', 'Du hast so schön geteilt!').",
+        "Emotion Coaching": "Gefühl akzeptieren, Verhalten begrenzen ('Es ist okay wütend zu sein, aber Schlagen ist nicht okay. Lass uns zusammen beruhigen.').",
+        "Emotion Coaching (simple)": "Gefühl einfach benennen ('Du fühlst dich traurig, das ist völlig normal.').",
+        "Emotion Naming (very simple)": "Gefühle sehr einfach benennen ('Das hat dich glücklich gemacht!', 'Du bist ein bisschen traurig.').",
+        "Clear & Consistent Limits": "Wenige Regeln, konsequente Durchsetzung, ruhiger Ton ('Das ist unsere Regel. Wir machen das immer so.').",
+        "Choices Within Limits": "Begrenzte Auswahl anbieten ('Du kannst eins wählen: blau oder rot.').",
+        "Planned Ignoring (safe only)": "Harmloses aufmerksamkeitssuchendes Verhalten ignorieren, gutes Verhalten loben.",
+        "Routines & Transitions": "Übergänge vorher ankündigen, Countdown nutzen ('Noch 5 Minuten bis zum Abendessen!').",
+        "Modeling": "Richtiges Verhalten vorzeigen, sag 'Schau wie ich es mache'.",
+        "First-Then / If-Then framing": "Einfache Bedingungssätze wie 'Erst Spielzeug aufräumen, dann können wir in den Park'.",
+        "Collaborative Problem Solving (simple)": "Gemeinsam Lösungen finden ('Wie können wir das lösen? Was sind deine Ideen?').",
+        "Self-Regulation (breathing/counting)": "Beruhigungstechniken lehren ('Lass uns zusammen 3 tiefe Atemzüge nehmen', 'Lass uns bis 5 zählen').",
+        "Natural/Logical Consequences (non-punitive)": "Natürliche Konsequenzen erklären ('Wenn wir Spielzeug nicht teilen, sind Freunde traurig').",
+    },
+    "es": {
+        "Positive Reinforcement": "Elogia el comportamiento deseado inmediatamente, usa pequeños estímulos ('¡Muy bien hecho!', '¡Compartiste muy bien!').",
+        "Emotion Coaching": "Acepta la emoción, limita el comportamiento ('Está bien estar enojado, pero golpear no está bien. Calmemos juntos.').",
+        "Emotion Coaching (simple)": "Nombra la emoción simplemente ('Te sientes triste, eso es totalmente normal.').",
+        "Emotion Naming (very simple)": "Nombra emociones muy simplemente ('¡Eso te hizo feliz!', 'Estás un poco triste.').",
+        "Clear & Consistent Limits": "Pocas reglas, aplicación consistente, tono calmado ('Esta es nuestra regla. Siempre lo hacemos así.').",
+        "Choices Within Limits": "Ofrece opciones limitadas ('Puedes elegir uno: azul o rojo.').",
+        "Planned Ignoring (safe only)": "Ignora comportamiento inofensivo que busca atención, atrapa y elogia buen comportamiento.",
+        "Routines & Transitions": "Avisa con anticipación las transiciones, usa cuenta regresiva ('¡5 minutos para la cena!').",
+        "Modeling": "Demuestra el comportamiento correcto, di 'Mira cómo lo hago'.",
+        "First-Then / If-Then framing": "Oraciones condicionales simples como 'Primero recoger juguetes, luego podemos ir al parque'.",
+        "Collaborative Problem Solving (simple)": "Encuentra soluciones juntos ('¿Cómo podemos resolver esto? ¿Cuáles son tus ideas?').",
+        "Self-Regulation (breathing/counting)": "Enseña técnicas de calma ('Tomemos 3 respiraciones profundas juntos', 'Contemos hasta 5').",
+        "Natural/Logical Consequences (non-punitive)": "Explica consecuencias naturales ('Si no compartimos juguetes, los amigos se ponen tristes').",
+    },
+    "fr": {
+        "Positive Reinforcement": "Louez le comportement désiré immédiatement, utilisez de petits encouragements ('Très bien fait!', 'Tu as bien partagé!').",
+        "Emotion Coaching": "Accepte l'émotion, limite le comportement ('C'est normal d'être en colère, mais frapper n'est pas acceptable. Calmons-nous ensemble.').",
+        "Emotion Coaching (simple)": "Nomme l'émotion simplement ('Tu te sens triste, c'est tout à fait normal.').",
+        "Emotion Naming (very simple)": "Nomme les émotions très simplement ('Ça t'a rendu heureux!', 'Tu es un peu triste.').",
+        "Clear & Consistent Limits": "Peu de règles, application cohérente, ton calme ('C'est notre règle. On fait toujours comme ça.').",
+        "Choices Within Limits": "Offre des choix limités ('Tu peux choisir: bleu ou rouge.').",
+        "Planned Ignoring (safe only)": "Ignore le comportement inoffensif qui cherche l'attention, attrape et loue le bon comportement.",
+        "Routines & Transitions": "Préviens à l'avance pour les transitions, utilise le compte à rebours ('5 minutes avant le dîner!').",
+        "Modeling": "Montre le bon comportement, dis 'Regarde comment je fais'.",
+        "First-Then / If-Then framing": "Phrases conditionnelles simples comme 'D'abord ranger les jouets, puis on peut aller au parc'.",
+        "Collaborative Problem Solving (simple)": "Trouve des solutions ensemble ('Comment peut-on résoudre ça? Quelles sont tes idées?').",
+        "Self-Regulation (breathing/counting)": "Enseigne des techniques de calme ('Prenons 3 grandes respirations ensemble', 'Comptons jusqu'à 5').",
+        "Natural/Logical Consequences (non-punitive)": "Explique les conséquences naturelles ('Si on ne partage pas les jouets, les amis sont tristes').",
+    },
+}
+
+
+def get_pedagogical_block(age_band: str, lang: str) -> str:
+    """Generate age-appropriate pedagogical techniques block for prompt.
+    
+    Args:
+        age_band: Child's age band (e.g., "3-4", "4-5", "5-6", "7-8") or None for general
+        lang: Language code (e.g., "tr", "en", "de", "es", "fr")
+    
+    Returns:
+        Formatted pedagogical techniques block string
+    """
+    lang_code = lang[:2] if len(lang) > 2 else lang
+    
+    # Get language-specific explanations, fallback to English
+    explanations = TECHNIQUE_EXPLANATIONS.get(lang_code, TECHNIQUE_EXPLANATIONS["en"])
+    style_dict = AGE_STYLE.get(lang_code, AGE_STYLE["en"])
+    
+    # If no age_band or invalid, use general style
+    if not age_band or age_band not in AGE_TECHNIQUES:
+        style = style_dict.get("general", style_dict.get("4-5", ""))
+        techniques = AGE_TECHNIQUES.get("4-5", [])  # Default to 4-5 techniques
+        age_display = "4-8"
+    else:
+        style = style_dict.get(age_band, style_dict.get("general", ""))
+        techniques = AGE_TECHNIQUES.get(age_band, [])
+        age_display = age_band
+    
+    # Build techniques list with explanations
+    techniques_text = ""
+    for tech in techniques:
+        explanation = explanations.get(tech, tech)
+        techniques_text += f"- {tech}: {explanation}\n"
+    
+    # Language-specific header
+    headers = {
+        "tr": f"PEDAGOJİK TEKNİKLER ({age_display} yaş için):",
+        "en": f"PEDAGOGICAL TECHNIQUES (for ages {age_display}):",
+        "de": f"PÄDAGOGISCHE TECHNIKEN (für {age_display} Jahre):",
+        "es": f"TÉCNICAS PEDAGÓGICAS (para edades {age_display}):",
+        "fr": f"TECHNIQUES PÉDAGOGIQUES (pour {age_display} ans):",
+    }
+    header = headers.get(lang_code, headers["en"])
+    
+    # Language-specific style header
+    style_headers = {
+        "tr": "DİL VE STİL:",
+        "en": "LANGUAGE AND STYLE:",
+        "de": "SPRACHE UND STIL:",
+        "es": "LENGUAJE Y ESTILO:",
+        "fr": "LANGAGE ET STYLE:",
+    }
+    style_header = style_headers.get(lang_code, style_headers["en"])
+    
+    # Language-specific warning
+    warnings = {
+        "tr": "KURAL: Bu teknikler dışında terapi/tanı yapma; ebeveynin profesyonel desteğe yönlendirmesi gerekiyorsa 'Bir uzmanla konuşabilirsin' de.",
+        "en": "RULE: Do not provide therapy/diagnosis beyond these techniques; if parent needs professional support, say 'You might want to talk to a specialist'.",
+        "de": "REGEL: Keine Therapie/Diagnose über diese Techniken hinaus; bei Bedarf auf professionelle Hilfe hinweisen.",
+        "es": "REGLA: No proporcionar terapia/diagnóstico más allá de estas técnicas; si es necesario, sugerir hablar con un especialista.",
+        "fr": "RÈGLE: Ne pas fournir de thérapie/diagnostic au-delà de ces techniques; si nécessaire, suggérer de consulter un spécialiste.",
+    }
+    warning = warnings.get(lang_code, warnings["en"])
+    
+    return f"""
+{header}
+{techniques_text}
+{style_header}
+{style}
+
+{warning}
+"""
+
+
 def to_character_slug(name: str) -> str:
     n = (name or "").strip().lower()
     direct = {
@@ -209,7 +437,7 @@ def content_prompt_path(lang: str, slug: str, topic: str) -> Path:
         return dev_path
 
 
-async def generate_story_with_openai(character: str, topic: str, lang: str, duration_minutes: int | None = None) -> Dict:
+async def generate_story_with_openai(character: str, topic: str, lang: str, duration_minutes: int | None = None, age_band: str | None = None) -> Dict:
     """Generate a story JSON using OpenAI (primary) or minimal safe template.
 
     Args:
@@ -217,7 +445,11 @@ async def generate_story_with_openai(character: str, topic: str, lang: str, dura
         topic: Topic id (e.g., "sleep")
         lang: Language code (e.g., "tr" or "en")
         duration_minutes: Optional target duration in minutes
+        age_band: Child's age band for pedagogical adaptation (e.g., "3-4", "4-5", "5-6", "7-8")
     """
+    # Get pedagogical techniques block based on age band
+    pedagogical_block = get_pedagogical_block(age_band, lang)
+    print(f"📚 [story_composer] Using age band: {age_band or 'general (4-8)'} for pedagogical content")
     # Character personality and speech style based on original inspiration
     # Each character should speak in the style of their original inspiration
     # Mapping based on CharacterSelectionView.swift originSlug mapping
@@ -571,6 +803,8 @@ Konu: {topic} (ipucu: {topic_hint_tr})
 Dil: Türkçe
 HEDEF: Yaklaşık {minutes} dakikalık sürekli monolog konuşma içeriği ({target_words} kelime civarı)
 
+{pedagogical_block}
+
 ⚠️ KRİTİK UYARI: Bu story {minutes} dakikalık konuşma için yeterli uzunlukta OLMALI. Kısa story'ler KABUL EDİLMEZ!
 ⚠️ KRİTİK UYARI: Toplam kelime sayısı MUTLAKA {target_words} kelime civarında olmalı. {target_words * 0.5} kelimeden az story'ler REDDEDİLECEK!
 
@@ -610,6 +844,16 @@ KRİTİK KURALLAR:
 - Metin sözlü okunacak: kısa, nefes aldıran cümleler; 2–8 yaş için sade kelimeler.
 - Sakinleştirici, yaşa uygun mini egzersizler (ör. 3 derin nefes, 5'e sayma) ekle; klinik teşhis/tedavi tavsiyesi verme.
 - SAHNELERDE \"...\" YERİNE GERÇEK CÜMLELER KULLAN. {topic} konusuna SOMUT biçimde değin.
+- KRİTİK ANLATIM KURALI: ASLA "1. 2. 3." şeklinde numaralı liste formatı KULLANMA. Bunun yerine doğal konuşma akışı kullan.
+  * YANLIŞ: "1. Önce şunu yap. 2. Sonra bunu yap. 3. En son şunu yap."
+  * DOĞRU: "Önce şunu yapalım... Sonra birlikte bunu deneyelim... Ve en sonunda şunu yapabiliriz..."
+  * Geçiş kelimeleri kullan: "Önce", "Sonra", "Ardından", "Şimdi", "Ve en sonunda" gibi doğal bağlaçlar.
+- PEDAGOJİK YAKLAŞIM: Hikaye sadece eğlenceli değil, pedagojik olarak da etkili olmalı.
+  * Problem-çözüm odaklı yaklaşım: Çocuğun karşılaştığı sorunu anlat, empati kur, somut çözümler sun.
+  * Pozitif psikoloji: Çocuğun güçlü yanlarını vurgula, başarı hikayeleri paylaş, umut ver.
+  * Somut ve görsel: Soyut kavramları somut örneklerle açıkla (örn: "Cesaret, karanlık odaya girerken derin nefes almak gibi").
+  * Çocuk perspektifi: Çocuğun dünyasından bak, onların anlayacağı benzetmeler kullan.
+  * Duygusal doğrulama: "Bu çok normal!", "Senin gibi hisseden çok çocuk var" gibi ifadeler kullan.
 - Her cümleyi GENİŞLET: Örnekler ver, açıklamalar yap, detaylar ekle. "Neden?" ve "Nasıl?" sorularını cevapla.
 - Her sahne bir mini hikaye gibi olmalı - başlangıç, gelişme, sonuç içermeli.
 - MONOLOG FORMAT: Karakter tek başına konuşuyor, çocukla telefon konuşması yapıyormuş gibi. Çocuk cevap vermiyor, sadece dinliyor. Karakter hikaye anlatıyor, sorular soruyor ama cevap beklemiyor, kendi cevaplıyor veya devam ediyor.
@@ -654,6 +898,8 @@ Topic: {topic} (hint: {topic_hint_en})
 Language: English
 TARGET: Approximately {minutes} minutes of continuous monologue speech content (~{target_words} words)
 
+{pedagogical_block}
+
 ⚠️ CRITICAL WARNING: This story MUST be long enough for {minutes} minutes of speech. Short stories are NOT ACCEPTABLE!
 ⚠️ CRITICAL WARNING: Total word count MUST be around {target_words} words. Stories with less than {target_words * 0.5} words will be REJECTED!
 
@@ -692,6 +938,16 @@ CRITICAL RULES:
 - Use inclusive, gentle, culturally neutral language.
 - Script is spoken aloud: short, breathable sentences, very simple vocabulary for ages 2–8.
 - DO NOT USE \"...\" PLACEHOLDERS. Be concrete about {topic}; include tiny exercises (e.g., 3 calm breaths, counting to 5).
+- CRITICAL NARRATIVE RULE: NEVER use numbered list format like "1. 2. 3.". Use natural conversational flow instead.
+  * WRONG: "1. First do this. 2. Then do that. 3. Finally do this."
+  * RIGHT: "First, let's do this... Then we can try that together... And finally, we can do this..."
+  * Use transition words: "First", "Then", "Next", "Now", "And finally" - natural connectors.
+- PEDAGOGICAL APPROACH: Story should be not just fun, but pedagogically effective.
+  * Problem-solution focused: Describe the problem child faces, show empathy, offer concrete solutions.
+  * Positive psychology: Highlight child's strengths, share success stories, give hope.
+  * Concrete and visual: Explain abstract concepts with concrete examples (e.g., "Courage is like taking a deep breath before entering a dark room").
+  * Child's perspective: See from child's world, use relatable analogies.
+  * Emotional validation: Use phrases like "This is totally normal!", "Many kids feel the same way".
 - EXPAND every sentence: Give examples, provide explanations, add details. Answer "Why?" and "How?" questions.
 - Each scene should be like a mini-story - include beginning, development, and conclusion.
 - MONOLOGUE FORMAT: Character speaks alone, as if having a phone conversation with the child. The child listens but does not respond. Character tells the story, asks questions but doesn't wait for answers, answers themself or continues.
@@ -738,6 +994,8 @@ Thema: {topic} (Hinweis: {topic_hint_de})
 Sprache: Deutsch
 ZIEL: Etwa {minutes} Minuten kontinuierlicher Monologrede (~{target_words} Wörter)
 
+{pedagogical_block}
+
 ⚠️ KRITISCHER HINWEIS: Diese Geschichte MUSS lang genug für {minutes} Minuten Rede sein. Kurze Geschichten sind NICHT AKZEPTABEL!
 ⚠️ KRITISCHER HINWEIS: Die Gesamtwortanzahl MUSS etwa {target_words} Wörter betragen. Geschichten mit weniger als {target_words * 0.5} Wörtern werden ABGELEHNT!
 
@@ -776,6 +1034,16 @@ KRITISCHE REGELN:
 - Verwende inklusive, sanfte, kulturell neutrale Sprache.
 - Skript wird laut gesprochen: kurze, atembare Sätze, sehr einfacher Wortschatz für 2–8 Jahre.
 - VERWENDE KEINE \"...\" PLATZHALTER. Sei konkret zu {topic}; füge winzige Übungen hinzu (z.B. 3 ruhige Atemzüge, bis 5 zählen).
+- KRITISCHE ERZÄHLREGEL: NIEMALS nummeriertes Listenformat wie "1. 2. 3." verwenden. Verwende stattdessen natürlichen Gesprächsfluss.
+  * FALSCH: "1. Zuerst mach das. 2. Dann mach das. 3. Schließlich mach das."
+  * RICHTIG: "Zuerst lass uns das machen... Dann können wir das zusammen versuchen... Und schließlich können wir das machen..."
+  * Verwende Übergangswörter: "Zuerst", "Dann", "Als Nächstes", "Jetzt", "Und schließlich" - natürliche Verbinder.
+- PÄDAGOGISCHER ANSATZ: Geschichte sollte nicht nur unterhaltsam, sondern pädagogisch wirksam sein.
+  * Problemlösungsorientiert: Beschreibe das Problem des Kindes, zeige Empathie, biete konkrete Lösungen.
+  * Positive Psychologie: Hebe die Stärken des Kindes hervor, teile Erfolgsgeschichten, gib Hoffnung.
+  * Konkret und visuell: Erkläre abstrakte Konzepte mit konkreten Beispielen.
+  * Kinderperspektive: Sieh aus der Welt des Kindes, verwende nachvollziehbare Analogien.
+  * Emotionale Bestätigung: Verwende Phrasen wie "Das ist völlig normal!", "Viele Kinder fühlen genauso".
 - ERWEITERE jeden Satz: Gib Beispiele, liefere Erklärungen, füge Details hinzu. Beantworte "Warum?" und "Wie?" Fragen.
 - Jede Szene sollte wie eine Mini-Geschichte sein - beinhalte Anfang, Entwicklung und Schluss.
 - MONOLOG FORMAT: Charakter spricht allein, als hätte er ein Telefongespräch mit dem Kind. Das Kind hört zu, antwortet aber nicht. Charakter erzählt die Geschichte, stellt Fragen, wartet aber nicht auf Antworten, antwortet selbst oder fährt fort.
@@ -825,6 +1093,8 @@ Tema: {topic} (pista: {topic_hint_es})
 Idioma: Español
 OBJETIVO: Aproximadamente {minutes} minutos de contenido de habla monólogo continua (~{target_words} palabras)
 
+{pedagogical_block}
+
 ⚠️ ADVERTENCIA CRÍTICA: ¡Esta historia DEBE ser lo suficientemente larga para {minutes} minutos de habla. Las historias cortas NO SON ACEPTABLES!
 ⚠️ ADVERTENCIA CRÍTICA: ¡El recuento total de palabras DEBE ser alrededor de {target_words} palabras. Las historias con menos de {target_words * 0.5} palabras serán RECHAZADAS!
 
@@ -863,6 +1133,16 @@ REGLAS CRÍTICAS:
 - Usa lenguaje inclusivo, suave, culturalmente neutral.
 - El guion se habla en voz alta: oraciones cortas y respirables, vocabulario muy simple para edades 2–8.
 - NO USES PLACEHOLDERS \"...\". Sé concreto sobre {topic}; incluye pequeños ejercicios (p. ej., 3 respiraciones calmadas, contar hasta 5).
+- REGLA CRÍTICA DE NARRATIVA: NUNCA uses formato de lista numerada como "1. 2. 3.". Usa flujo de conversación natural en su lugar.
+  * INCORRECTO: "1. Primero haz esto. 2. Luego haz eso. 3. Finalmente haz esto."
+  * CORRECTO: "Primero, hagamos esto... Luego podemos intentar eso juntos... Y finalmente, podemos hacer esto..."
+  * Usa palabras de transición: "Primero", "Luego", "Después", "Ahora", "Y finalmente" - conectores naturales.
+- ENFOQUE PEDAGÓGICO: La historia debe ser no solo divertida, sino pedagógicamente efectiva.
+  * Enfocado en problema-solución: Describe el problema que enfrenta el niño, muestra empatía, ofrece soluciones concretas.
+  * Psicología positiva: Destaca las fortalezas del niño, comparte historias de éxito, da esperanza.
+  * Concreto y visual: Explica conceptos abstractos con ejemplos concretos.
+  * Perspectiva del niño: Ve desde el mundo del niño, usa analogías cercanas.
+  * Validación emocional: Usa frases como "¡Esto es totalmente normal!", "Muchos niños sienten lo mismo".
 - EXPANDE cada oración: Da ejemplos, proporciona explicaciones, añade detalles. Responde preguntas \"¿Por qué?\" y \"¿Cómo?\"
 - Cada escena debe ser como una mini historia - incluye inicio, desarrollo y conclusión.
 - FORMATO MONÓLOGO: El personaje habla solo, como si tuviera una conversación telefónica con el niño. El niño escucha pero no responde. El personaje cuenta la historia, hace preguntas pero no espera respuestas, se responde a sí mismo o continúa.
@@ -912,6 +1192,8 @@ Sujet: {topic} (indice: {topic_hint_fr})
 Langue: Français
 OBJECTIF: Environ {minutes} minutes de contenu de parole monologue continue (~{target_words} mots)
 
+{pedagogical_block}
+
 ⚠️ AVERTISSEMENT CRITIQUE: Cette histoire DOIT être assez longue pour {minutes} minutes de parole. Les histoires courtes ne sont PAS ACCEPTABLES!
 ⚠️ AVERTISSEMENT CRITIQUE: Le nombre total de mots DOIT être d'environ {target_words} mots. Les histoires avec moins de {target_words * 0.5} mots seront REJETÉES!
 
@@ -950,6 +1232,16 @@ RÈGLES CRITIQUES:
 - Utilise un langage inclusif, doux, culturellement neutre.
 - Le script est parlé à voix haute: phrases courtes et respirables, vocabulaire très simple pour les âges 2–8.
 - N'UTILISE PAS de PLACEHOLDERS \"...\". Sois concret sur {topic}; inclus de petits exercices (par ex., 3 respirations calmes, compter jusqu'à 5).
+- RÈGLE CRITIQUE DE NARRATION: N'utilise JAMAIS le format de liste numérotée comme "1. 2. 3.". Utilise un flux de conversation naturel à la place.
+  * INCORRECT: "1. D'abord fais ça. 2. Ensuite fais ça. 3. Enfin fais ça."
+  * CORRECT: "D'abord, faisons ça... Ensuite on peut essayer ça ensemble... Et enfin, on peut faire ça..."
+  * Utilise des mots de transition: "D'abord", "Ensuite", "Après", "Maintenant", "Et enfin" - connecteurs naturels.
+- APPROCHE PÉDAGOGIQUE: L'histoire doit être non seulement amusante, mais pédagogiquement efficace.
+  * Axé sur problème-solution: Décris le problème auquel l'enfant fait face, montre de l'empathie, offre des solutions concrètes.
+  * Psychologie positive: Mets en valeur les forces de l'enfant, partage des histoires de réussite, donne de l'espoir.
+  * Concret et visuel: Explique les concepts abstraits avec des exemples concrets.
+  * Perspective de l'enfant: Vois du monde de l'enfant, utilise des analogies proches.
+  * Validation émotionnelle: Utilise des phrases comme "C'est tout à fait normal!", "Beaucoup d'enfants ressentent la même chose".
 - DÉVELOPPE chaque phrase: Donne des exemples, fournis des explications, ajoute des détails. Réponds aux questions \"Pourquoi?\" et \"Comment?\"
 - Chaque scène doit être comme une mini histoire - inclus début, développement et conclusion.
 - FORMAT MONOLOGUE: Le personnage parle seul, comme s'il avait une conversation téléphonique avec l'enfant. L'enfant écoute mais ne répond pas. Le personnage raconte l'histoire, pose des questions mais n'attend pas de réponses, se répond lui-même ou continue.
@@ -1053,7 +1345,14 @@ CRITICAL FORMAT REQUIREMENT:
   * French (fr): "Bonjour! Je suis [character]..." (NOT "Hello" or "Hallo")
 - NO titles like "The Story of..." or "Hikaye: ..." or "Die Geschichte von...".
 
-You are generating a {minutes}-minute MONOLOGUE phone call script. This requires substantial content. Do NOT create short stories. BE DETAILED AND EXPANSIVE."""
+You are generating a {minutes}-minute MONOLOGUE phone call script. This requires substantial content. Do NOT create short stories. BE DETAILED AND EXPANSIVE.
+
+NARRATIVE STYLE REQUIREMENTS:
+1. NEVER use numbered lists (1. 2. 3.) in story text. Use natural conversational flow with transition words.
+2. Use PEDAGOGICAL approach: problem-solution focus, emotional validation, positive psychology.
+3. Make it CHILD-FRIENDLY: concrete examples, relatable analogies, empathy.
+4. DOĞAL AKIŞ: "Önce... Sonra... Ve en sonunda..." şeklinde doğal geçişler kullan.
+5. EMPATHY FIRST: Always validate the child's feelings before offering solutions."""
             
             resp = client.chat.completions.create(
                 model=openai_model,

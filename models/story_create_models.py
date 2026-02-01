@@ -17,6 +17,10 @@ class StoryRequest(BaseModel):
     character_id: str = Field(..., description="Character ID (mino, luna, tiko, etc.)")
     length: str = Field(..., description="Story length: quick (2-3m) or dreamy (4-8m)")
     is_public: bool = Field(default=True, description="Whether story should be visible to other users (default: True)")
+    age_band: Optional[str] = Field(
+        None,
+        description="Child's age band for pedagogical adaptation (e.g., '3-4', '4-5', '5-6', '7-8'). None means general (4-8 age range)."
+    )
 
 
 class CreateStoryResponse(BaseModel):
