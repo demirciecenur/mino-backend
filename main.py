@@ -1791,6 +1791,7 @@ async def mock_audio(audio_id: str, lang: str = "en"):
             
             # CRITICAL FIX: Always try to find story in Firestore first by topic + character + language
             # This handles cases where audio URL doesn't contain userId but story exists in Firestore
+            firestore_story_id = None  # Track if story was found in Firestore (for cache key)
             if db and not story_text:
                 print(f"🔍 [mock_audio] Searching Firestore for story: character={character.lower()}, topic={topic}, lang={lang}")
                 try:
@@ -1810,6 +1811,7 @@ async def mock_audio(audio_id: str, lang: str = "en"):
                             
                             if story_doc.exists:
                                 story_data = story_doc.to_dict()
+                                firestore_story_id = potential_story_id  # Track for cache key
                                 story_lang = story_data.get("language")
                                 if story_lang and story_lang != lang:
                                     print(f"🔄 [mock_audio] Using story's language field: {story_lang} (was: {lang})")
@@ -1846,6 +1848,7 @@ async def mock_audio(audio_id: str, lang: str = "en"):
                         if query_results:
                             story_doc = query_results[0]
                             story_data = story_doc.to_dict()
+                            firestore_story_id = story_doc.id  # Track for cache key
                             story_lang = story_data.get("language")
                             if story_lang and story_lang != lang:
                                 print(f"🔄 [mock_audio] Using story's language field: {story_lang} (was: {lang})")
@@ -1906,10 +1909,19 @@ async def mock_audio(audio_id: str, lang: str = "en"):
         # This prevents duplicate ElevenLabs API calls for the same content
         # CRITICAL: Use same filename pattern as generate_tts for consistency
         if len(parts) >= 3:
-            # Detect if this is a custom story (has userId pattern in topic)
-            is_custom = user_id_match is not None if 'user_id_match' in dir() else re.search(r'([A-Za-z0-9]{20,30})', topic) is not None
+            # Detect if this is a custom story:
+            # 1. Has userId pattern in topic, OR
+            # 2. Was found in Firestore (firestore_story_id is set)
+            is_custom = (user_id_match is not None if 'user_id_match' in dir() else re.search(r'([A-Za-z0-9]{20,30})', topic) is not None) or (firestore_story_id is not None)
             
-            if is_custom:
+            if is_custom and firestore_story_id:
+                # Custom story found in Firestore: use story_id for unique cache key
+                # This prevents collision with system story audio files
+                # Extract short ID from story_id for filename (e.g., last 8 chars)
+                story_id_suffix = firestore_story_id.replace("story_", "")[-16:]  # Use last 16 chars for uniqueness
+                audio_basename = f"custom_{story_id_suffix}_{scene_index}"
+                print(f"🔑 [mock_audio] Using Firestore story cache key: {audio_basename}")
+            elif is_custom:
                 # Custom story: use full topic (includes storyId) for filename
                 # This matches generate_tts filename: {topic_file}_{storyIdSuffix}_{scene_index}
                 audio_basename = f"{topic}_{scene_index}"
@@ -1962,8 +1974,13 @@ async def mock_audio(audio_id: str, lang: str = "en"):
                     audio_ext = '.mp3' if is_mp3 else '.wav'
                     
                     # Use same filename pattern as cache check
-                    is_custom = re.search(r'([A-Za-z0-9]{20,30})', topic) is not None
-                    if is_custom:
+                    # CRITICAL: firestore_story_id is set when story was found in Firestore
+                    is_custom = re.search(r'([A-Za-z0-9]{20,30})', topic) is not None or (firestore_story_id is not None)
+                    if is_custom and firestore_story_id:
+                        # Custom story found in Firestore: use story_id for unique cache key
+                        story_id_suffix = firestore_story_id.replace("story_", "")[-16:]
+                        audio_basename = f"custom_{story_id_suffix}_{scene_index}"
+                    elif is_custom:
                         audio_basename = f"{topic}_{scene_index}"
                     else:
                         audio_basename = f"{topic_mapped}_{scene_index}" if topic_mapped else f"{topic}_{scene_index}"
