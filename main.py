@@ -818,7 +818,8 @@ async def generate_tts(
                 print(f"ℹ️ [TTS] Audio file not found: {audio_filename} (lang={lang}), will generate new audio")
     else:
         # No scene context → do not write legacy files; return mock
-        return f"{settings.BACKEND_BASE_URL}/mock-audio/{hashlib.sha256(text.encode()).hexdigest()}.wav"
+        # CRITICAL: Always include lang parameter for correct TTS language
+        return f"{settings.BACKEND_BASE_URL}/mock-audio/{hashlib.sha256(text.encode()).hexdigest()}.wav?lang={lang}"
 
     # Generate via ElevenLabs (FAL)
     # Get character voice settings - try exact match, then case-insensitive, then default
@@ -885,9 +886,11 @@ async def generate_tts(
             return f"{settings.BACKEND_BASE_URL}/local-audio/{key}{audio_ext}?lang={lang}"
         except Exception as e:
             print(f"❌ Local storage failed: {e}")
-            return f"{settings.BACKEND_BASE_URL}/mock-audio/{character_normalized}_{topic}_{scene_index}.wav"
+            # CRITICAL: Always include lang parameter for correct TTS language
+            return f"{settings.BACKEND_BASE_URL}/mock-audio/{character_normalized}_{topic}_{scene_index}.wav?lang={lang}"
     else:
-        return f"{settings.BACKEND_BASE_URL}/mock-audio/{character_normalized}_{topic}_{scene_index}.wav"
+        # CRITICAL: Always include lang parameter for correct TTS language
+        return f"{settings.BACKEND_BASE_URL}/mock-audio/{character_normalized}_{topic}_{scene_index}.wav?lang={lang}"
 
 # LLM Service
 async def generate_llm_response(template: str, vars: dict) -> str:
@@ -1727,6 +1730,34 @@ async def mock_audio(audio_id: str, lang: str = "en"):
     try:
         # Parse audio_id: {character}_{topic}_{scene_index}
         audio_id_clean = audio_id.replace('.wav', '').replace('.mp3', '')
+        
+        # CRITICAL FIX: Auto-detect language from topic characters if lang=en (default)
+        # This fixes existing stories in Firestore that have mock-audio URLs without ?lang= parameter
+        # Supports all 7 languages: ar, de, en, es, fr, pt, tr
+        original_lang = lang
+        if lang == "en":
+            # Language-specific character sets for auto-detection
+            lang_char_map = {
+                'tr': set('şğüıöçŞĞÜİÖÇ'),  # Turkish
+                'de': set('äöüßÄÖÜ'),  # German
+                'fr': set('éèêëàâùûçîïôœÉÈÊËÀÂÙÛÇÎÏÔŒ'),  # French
+                'es': set('ñáéíóúüÑÁÉÍÓÚÜ¿¡'),  # Spanish
+                'pt': set('ãõáéíóúâêôàçÃÕÁÉÍÓÚÂÊÔÀÇ'),  # Portuguese
+                # Arabic uses Unicode range detection (U+0600-U+06FF)
+            }
+            
+            # Check for Arabic characters (Unicode range)
+            if any('\u0600' <= char <= '\u06FF' for char in audio_id_clean):
+                lang = "ar"
+                print(f"🔄 [mock_audio] Auto-detected Arabic language from Unicode characters, switching to lang=ar")
+            else:
+                # Check other languages by character sets
+                for detected_lang, char_set in lang_char_map.items():
+                    if any(char in audio_id_clean for char in char_set):
+                        lang = detected_lang
+                        print(f"🔄 [mock_audio] Auto-detected {detected_lang.upper()} language from topic characters, switching to lang={detected_lang}")
+                        break
+        
         parts = audio_id_clean.split('_')
         if len(parts) < 3:
             print(f"⚠️ [mock_audio] Invalid audio_id format: {audio_id}, using fallback text")
@@ -1774,12 +1805,17 @@ async def mock_audio(audio_id: str, lang: str = "en"):
                         
                         if story_doc.exists:
                             story_data = story_doc.to_dict()
+                            # CRITICAL: Use story's language field (most reliable source)
+                            story_lang = story_data.get("language")
+                            if story_lang and story_lang != lang:
+                                print(f"🔄 [mock_audio] Using story's language field: {story_lang} (was: {lang})")
+                                lang = story_lang
                             scenes = story_data.get("scenes", [])
                             if scene_index < len(scenes):
                                 scene = scenes[scene_index]
                                 story_text = scene.get("text", "")
                                 if story_text:
-                                    print(f"✅ [mock_audio] Loaded custom story text from Firestore: {potential_story_id}, scene {scene_index}")
+                                    print(f"✅ [mock_audio] Loaded custom story text from Firestore: {potential_story_id}, scene {scene_index}, lang={lang}")
                         else:
                             # Try query approach
                             print(f"⚠️ [mock_audio] Direct Firestore get failed, trying query...")
@@ -1790,12 +1826,17 @@ async def mock_audio(audio_id: str, lang: str = "en"):
                             for story_doc in query_results:
                                 story_data = story_doc.to_dict()
                                 if story_data.get("status") == "ready":
+                                    # CRITICAL: Use story's language field (most reliable source)
+                                    story_lang = story_data.get("language")
+                                    if story_lang and story_lang != lang:
+                                        print(f"🔄 [mock_audio] Using story's language field: {story_lang} (was: {lang})")
+                                        lang = story_lang
                                     scenes = story_data.get("scenes", [])
                                     if scene_index < len(scenes):
                                         scene = scenes[scene_index]
                                         story_text = scene.get("text", "")
                                         if story_text:
-                                            print(f"✅ [mock_audio] Loaded custom story text from Firestore query: {story_doc.id}, scene {scene_index}")
+                                            print(f"✅ [mock_audio] Loaded custom story text from Firestore query: {story_doc.id}, scene {scene_index}, lang={lang}")
                                             break
                 except Exception as e:
                     print(f"⚠️ [mock_audio] Error checking Firestore for custom story: {e}")
