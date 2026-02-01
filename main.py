@@ -1781,31 +1781,71 @@ async def mock_audio(audio_id: str, lang: str = "en"):
             
             story_text = None
             
-            # CRITICAL: Check if this is a custom story (has userId pattern in topic)
+            # CRITICAL: Check if this is a custom story
             # Custom stories are stored in Firestore, not local JSON
+            # Strategy 1: Check if topic contains userId pattern
+            # Strategy 2: Search Firestore by topic + character + language (for stories without userId in audio URL)
             import re
             user_id_match = re.search(r'([A-Za-z0-9]{20,30})', topic)
             is_custom_story = user_id_match is not None
             
-            if is_custom_story and db:
-                # Custom story: Try to find in Firestore first
-                print(f"🔍 [mock_audio] Detected custom story, checking Firestore...")
+            # CRITICAL FIX: Always try to find story in Firestore first by topic + character + language
+            # This handles cases where audio URL doesn't contain userId but story exists in Firestore
+            if db and not story_text:
+                print(f"🔍 [mock_audio] Searching Firestore for story: character={character.lower()}, topic={topic}, lang={lang}")
                 try:
-                    user_id = user_id_match.group(1)
-                    character_pattern = f"_{character.lower()}_"
+                    # Strategy 1: If topic contains userId pattern, try direct document lookup
+                    if is_custom_story:
+                        user_id = user_id_match.group(1)
+                        character_pattern = f"_{character.lower()}_"
+                        
+                        if character_pattern in topic:
+                            char_pos = topic.find(character_pattern)
+                            after_char = topic[char_pos + len(character_pattern):]
+                            story_id_without_prefix = f"{user_id}_{character.lower()}_{after_char}"
+                            potential_story_id = f"story_{story_id_without_prefix}"
+                            
+                            print(f"🔍 [mock_audio] Trying Firestore story_id: {potential_story_id}")
+                            story_doc = db.collection("stories").document(potential_story_id).get()
+                            
+                            if story_doc.exists:
+                                story_data = story_doc.to_dict()
+                                story_lang = story_data.get("language")
+                                if story_lang and story_lang != lang:
+                                    print(f"🔄 [mock_audio] Using story's language field: {story_lang} (was: {lang})")
+                                    lang = story_lang
+                                scenes = story_data.get("scenes", [])
+                                if scene_index < len(scenes):
+                                    scene = scenes[scene_index]
+                                    story_text = scene.get("text", "")
+                                    if story_text:
+                                        print(f"✅ [mock_audio] Loaded custom story text from Firestore (direct): {potential_story_id}, scene {scene_index}, lang={lang}")
                     
-                    if character_pattern in topic:
-                        char_pos = topic.find(character_pattern)
-                        after_char = topic[char_pos + len(character_pattern):]
-                        story_id_without_prefix = f"{user_id}_{character.lower()}_{after_char}"
-                        potential_story_id = f"story_{story_id_without_prefix}"
+                    # Strategy 2: Search by topic + character + language (handles non-userId URL patterns)
+                    if not story_text:
+                        print(f"🔍 [mock_audio] Searching Firestore by topic: '{topic}'")
+                        stories_ref = db.collection("stories")
+                        # Search by original topic (exact match, not lowercased)
+                        query = stories_ref.where("topic", "==", topic)\
+                                          .where("character_id", "==", character.lower())\
+                                          .where("language", "==", lang)\
+                                          .where("status", "==", "ready")\
+                                          .limit(1)
+                        query_results = list(query.stream())
                         
-                        print(f"🔍 [mock_audio] Trying Firestore story_id: {potential_story_id}")
-                        story_doc = db.collection("stories").document(potential_story_id).get()
+                        # If not found, try lowercase version as fallback
+                        if not query_results and topic != topic.lower():
+                            print(f"🔍 [mock_audio] Retrying with lowercase topic: '{topic.lower()}'")
+                            query = stories_ref.where("topic", "==", topic.lower())\
+                                              .where("character_id", "==", character.lower())\
+                                              .where("language", "==", lang)\
+                                              .where("status", "==", "ready")\
+                                              .limit(1)
+                            query_results = list(query.stream())
                         
-                        if story_doc.exists:
+                        if query_results:
+                            story_doc = query_results[0]
                             story_data = story_doc.to_dict()
-                            # CRITICAL: Use story's language field (most reliable source)
                             story_lang = story_data.get("language")
                             if story_lang and story_lang != lang:
                                 print(f"🔄 [mock_audio] Using story's language field: {story_lang} (was: {lang})")
@@ -1815,31 +1855,13 @@ async def mock_audio(audio_id: str, lang: str = "en"):
                                 scene = scenes[scene_index]
                                 story_text = scene.get("text", "")
                                 if story_text:
-                                    print(f"✅ [mock_audio] Loaded custom story text from Firestore: {potential_story_id}, scene {scene_index}, lang={lang}")
+                                    print(f"✅ [mock_audio] Loaded story text from Firestore (by topic): {story_doc.id}, scene {scene_index}, lang={lang}")
+                                    print(f"   Text preview: {story_text[:100]}...")
                         else:
-                            # Try query approach
-                            print(f"⚠️ [mock_audio] Direct Firestore get failed, trying query...")
-                            stories_ref = db.collection("stories")
-                            query = stories_ref.where("character_id", "==", character.lower()).where("language", "==", lang).where("owner_user_id", "==", user_id)
-                            query_results = list(query.stream())
-                            
-                            for story_doc in query_results:
-                                story_data = story_doc.to_dict()
-                                if story_data.get("status") == "ready":
-                                    # CRITICAL: Use story's language field (most reliable source)
-                                    story_lang = story_data.get("language")
-                                    if story_lang and story_lang != lang:
-                                        print(f"🔄 [mock_audio] Using story's language field: {story_lang} (was: {lang})")
-                                        lang = story_lang
-                                    scenes = story_data.get("scenes", [])
-                                    if scene_index < len(scenes):
-                                        scene = scenes[scene_index]
-                                        story_text = scene.get("text", "")
-                                        if story_text:
-                                            print(f"✅ [mock_audio] Loaded custom story text from Firestore query: {story_doc.id}, scene {scene_index}, lang={lang}")
-                                            break
+                            print(f"⚠️ [mock_audio] No story found in Firestore for topic='{topic.lower()}', character={character.lower()}, lang={lang}")
+                    
                 except Exception as e:
-                    print(f"⚠️ [mock_audio] Error checking Firestore for custom story: {e}")
+                    print(f"⚠️ [mock_audio] Error checking Firestore: {e}")
                     import traceback
                     traceback.print_exc()
             
