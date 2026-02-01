@@ -6182,6 +6182,37 @@ async def get_story(
         if not story_data.get("text") and story_data.get("generated_text"):
             story_data["text"] = story_data["generated_text"]
         
+        # CRITICAL FIX: Ensure all audio URLs have ?lang= parameter
+        # This fixes existing stories that were created before the lang parameter fix
+        story_lang = story_data.get("language", "en")
+        
+        def fix_audio_url(url: str, lang: str) -> str:
+            """Add ?lang= parameter to audio URL if missing."""
+            if not url or not isinstance(url, str):
+                return url
+            # Only fix mock-audio and local-audio URLs
+            if "/mock-audio/" in url or "/local-audio/" in url:
+                # Check if lang parameter already exists
+                if "?lang=" in url or "&lang=" in url:
+                    return url
+                # Add lang parameter
+                if "?" in url:
+                    return f"{url}&lang={lang}"
+                else:
+                    return f"{url}?lang={lang}"
+            return url
+        
+        # Fix main audio_url
+        if story_data.get("audio_url"):
+            story_data["audio_url"] = fix_audio_url(story_data["audio_url"], story_lang)
+        
+        # Fix audio_url in each scene
+        if "scenes" in story_data and story_data["scenes"]:
+            for scene in story_data["scenes"]:
+                if isinstance(scene, dict) and scene.get("audio_url"):
+                    scene["audio_url"] = fix_audio_url(scene["audio_url"], story_lang)
+            print(f"🔧 [GET /stories/{story_id}] Fixed audio URLs with lang={story_lang}")
+        
         response = StoryResponse(**story_data)
         
         # Log response JSON
@@ -6270,6 +6301,20 @@ async def list_stories(
                 continue  # Skip placeholder ready stories (not fully generated yet)
             
             story_data.setdefault("is_public", True)  # Default to public if missing
+            
+            # CRITICAL FIX: Ensure audio URLs have ?lang= parameter
+            story_lang_fix = story_data.get("language", "en")
+            if story_data.get("audio_url"):
+                audio_url = story_data["audio_url"]
+                if ("/mock-audio/" in audio_url or "/local-audio/" in audio_url) and "?lang=" not in audio_url and "&lang=" not in audio_url:
+                    story_data["audio_url"] = f"{audio_url}?lang={story_lang_fix}"
+            if "scenes" in story_data and story_data["scenes"]:
+                for scene in story_data["scenes"]:
+                    if isinstance(scene, dict) and scene.get("audio_url"):
+                        scene_url = scene["audio_url"]
+                        if ("/mock-audio/" in scene_url or "/local-audio/" in scene_url) and "?lang=" not in scene_url and "&lang=" not in scene_url:
+                            scene["audio_url"] = f"{scene_url}?lang={story_lang_fix}"
+            
             stories.append(StoryResponse(**story_data))
             user_story_ids.add(doc.id)
         
@@ -6311,6 +6356,20 @@ async def list_stories(
                     
                     if story_status == "ready" and story_text:
                         story_data.setdefault("is_public", True)
+                        
+                        # CRITICAL FIX: Ensure audio URLs have ?lang= parameter
+                        story_lang_fix = story_data.get("language", "en")
+                        if story_data.get("audio_url"):
+                            audio_url = story_data["audio_url"]
+                            if ("/mock-audio/" in audio_url or "/local-audio/" in audio_url) and "?lang=" not in audio_url and "&lang=" not in audio_url:
+                                story_data["audio_url"] = f"{audio_url}?lang={story_lang_fix}"
+                        if "scenes" in story_data and story_data["scenes"]:
+                            for scene in story_data["scenes"]:
+                                if isinstance(scene, dict) and scene.get("audio_url"):
+                                    scene_url = scene["audio_url"]
+                                    if ("/mock-audio/" in scene_url or "/local-audio/" in scene_url) and "?lang=" not in scene_url and "&lang=" not in scene_url:
+                                        scene["audio_url"] = f"{scene_url}?lang={story_lang_fix}"
+                        
                         stories.append(StoryResponse(**story_data))
                         if len(stories) >= limit:
                             break
